@@ -32,3 +32,10 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 - Makro-Lage: Nahost-Krieg → Öl-Schock. US-CPI 4,2% y/y (Core nur 0,2% m/m — zahm!), EZB hat erstmals seit 2023 ERHÖHT (2,40%), BOC hält 2,25%, UK-BIP -0,1%. Fed-Chef ist jetzt Kevin Warsh (seit Mai 2026).
 - Nächste Woche (15.–19.6.): Superwoche — RBA+BOJ Di, UK-CPI+US-Retail+FOMC Mi (Warshs Debüt, 97% Halten bei 3,50–3,75%), SNB+BOE Do, Fr US-Feiertag (Juneteenth). WICHTIG: TradingView-Konsens erwartet BOJ-ERHÖHUNG auf 1,00% (andere Quellen: Halten) — Briefing-Prognose entsprechend auf „Erhöhung" angepasst, Auflösung Di 16.6. prüfen!
 - TODO nächste Session: Ist-Werte UoM Consumer Sentiment (Fr 12.6.) nachtragen; Superwoche-Ergebnisse einpflegen; prüfen ob Prognosen eintrafen (lehren[] füllen)
+
+### Status nach Freitags-Briefing 2026-06-12 (aktualisierte Version)
+- Alle Ist-Werte der Woche eingetragen: Core CPI 0.2% m/m / CPI 4.2% y/y / PPI 1.1% m/m (weit über Prognose!) / Core PPI 0.8% m/m / EUR Leitzins 2.40% / CAD 2.25% / GBP GDP -0.1% / UoM Sentiment 48.9 (beat!) / UoM Inflation Expectations 4.6%
+- NEUE MAKRO-LAGE: Iran-Deal unmittelbar bevorstehend (14-Punkte-Entwurf einigt sich, Trump-Unterschrift evtl. dieses Wochenende) → Öl heute -3,4% auf ~$87, insgesamt -20% vom Jahreshoch! Wenn Deal hält → Inflation fällt von selbst.
+- Superwoche-Prognosen: BOJ Erhöhung auf 1,00% (97,7%), RBA Halten bei 4,35% (93%), Fed Halten 3,50-3,75% (97,1%) + hawkisher Dot Plot erwartet, SNB Halten bei 0%, BOE Halten bei 3,75%
+- NZD GDP: KORREKTUR — ist DONNERSTAG 18.6. (nicht Mittwoch wie in Session 1 irrtümlich vermerkt)
+- TODO nächste Session: Superwoche-Ergebnisse einpflegen (BOJ, RBA, Fed, SNB, BOE, UK-CPI, US-Retail, NZD-GDP, UK-Beschäftigung); Iran-Deal-Status prüfen; Prognosen bewerten → lehren[] füllen

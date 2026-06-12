@@ -508,7 +508,7 @@
       "impact": "High",
       "prognose": "0.5%",
       "vorher": "1.0%",
-      "actual": null,
+      "actual": "0.8%",
       "notiz": null
     },
     "2026-06-11T08:30:00-04:00|USD|PPI m/m": {
@@ -518,7 +518,7 @@
       "impact": "High",
       "prognose": "0.7%",
       "vorher": "1.4%",
-      "actual": null,
+      "actual": "1.1%",
       "notiz": null
     },
     "2026-06-11T08:30:00-04:00|USD|Unemployment Claims": {
@@ -728,7 +728,7 @@
       "impact": "Medium",
       "prognose": "46.1",
       "vorher": "48.2",
-      "actual": null,
+      "actual": "48.9",
       "notiz": null
     },
     "2026-06-12T10:00:00-04:00|USD|Prelim UoM Inflation Expectations": {
@@ -738,7 +738,7 @@
       "impact": "Medium",
       "prognose": "",
       "vorher": "4.5%",
-      "actual": null,
+      "actual": "4.6%",
       "notiz": null
     },
     "2026-06-12T10:30:00-04:00|EUR|German Buba President Nagel Speaks": {

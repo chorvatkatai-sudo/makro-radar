@@ -4,6 +4,7 @@ Dein persönliches Makro-Dashboard: Was steht heute an, was bedeutet es (in norm
 
 ## Bedienung (das Wichtigste)
 
+0. **Am Handy / unterwegs:** https://chorvatkatai-sudo.github.io/makro-radar/ — zeigt immer den Stand des letzten Briefings (aktualisiert sich automatisch nach jedem Freitags-Lauf). Tipp: Am Handy „Zum Startbildschirm hinzufügen", dann ist es wie eine App.
 1. **Doppelklick auf `START.bat`** → holt die aktuellen Kalenderdaten und öffnet das Dashboard im Browser.
 2. **Klick auf ein Event** im Dashboard → Erklärung in einfachem Deutsch (was ist das, warum wichtig, was passiert wenn höher/niedriger).
 3. **Briefings kommen von Claude:** Starte eine Claude-Code-Session in diesem Ordner und sag z.B.:

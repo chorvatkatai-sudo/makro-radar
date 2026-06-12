@@ -21,7 +21,8 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 - Dashboard lokal testen: file:// ist im Playwright blockiert → Mini-Node-HTTP-Server auf Port 8377
 
 ### Automatisierung (seit 2026-06-12)
-- GitHub-Repo: `https://github.com/chorvatkatai-sudo/makro-radar` (privat). Lokale Commits laufen unter der GitHub-noreply-Adresse (E-Mail-Privacy aktiv!). gh-CLI installiert unter `C:\Program Files\GitHub CLI\gh.exe`.
+- GitHub-Repo: `https://github.com/chorvatkatai-sudo/makro-radar` (**ÖFFENTLICH** seit 2026-06-12 wegen GitHub Pages — NIE Tokens/persönliche Daten committen; `.claude/` ist gitignored). Lokale Commits laufen unter der GitHub-noreply-Adresse (E-Mail-Privacy aktiv!). gh-CLI installiert unter `C:\Program Files\GitHub CLI\gh.exe`.
+- **Handy-Webseite (GitHub Pages): https://chorvatkatai-sudo.github.io/makro-radar/** — wird aus `main` gebaut. Deshalb ist `dashboard/data.js` NICHT mehr gitignored, sondern wird committet (von Routine UND lokalen Sessions nach jedem Briefing!). START.bat verwirft lokale data.js-Änderungen vor dem Pull (Konfliktvermeidung).
 - Cloud-Routine „Makro-Radar Freitags-Briefing" (`trig_01UsiZ86wkEZPCQpoA8JoVJu`, Modell: claude-opus-4-8): jeden Freitag 13:00 UTC (≈15:00 Wien) erstellt ein Cloud-Agent das Freitags-Briefing und pusht nach main. Verwaltung: https://claude.ai/code/routines
 - `START.bat` macht vor dem Öffnen `git pull --rebase --autostash` — so landet das Cloud-Briefing automatisch lokal.
 - WICHTIG für lokale Sessions: Am Ende committen UND pushen, sonst kollidiert der Freitags-Push des Cloud-Agenten. Generierte Dateien (dashboard/data.js, daten/naechste-woche.json) sind gitignored.

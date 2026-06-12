@@ -1,0 +1,82 @@
+{
+  "datum": "2026-06-12",
+  "typ": "freitag",
+  "titel": "Freitags-Briefing: Die Woche der Inflation — und nächste Woche kommt die Zentralbank-Superwoche",
+  "lage": [
+    "Das große Thema ist der Krieg im Nahen Osten: Öl ist viel teurer geworden (Energie in den USA +23,5% in einem Jahr!), und teures Öl macht ALLES teurer — wie wenn der Lieferwagen plötzlich das Dreifache fürs Tanken zahlt.",
+    "Die US-Inflation ist deshalb am Mittwoch erstmals seit 3 Jahren über 4% gesprungen (4,2%). ABER: Die 'ehrliche' Kern-Inflation (ohne Energie/Essen) war mit 0,2% sogar ZAHMER als erwartet. Heißt: Das Feuer kommt fast nur vom Öl, nicht aus der Wirtschaft selbst.",
+    "Die EZB hat am Donnerstag zum ersten Mal seit 2023 die Zinsen ERHÖHT (auf 2,40%), weil die Inflation in Europa mit 3,2% zu hoch ist. Das stärkt den Euro.",
+    "Kanada hat die Zinsen zum 5. Mal in Folge bei 2,25% gelassen — Chef Macklem weiß selbst nicht, ob er als Nächstes erhöhen oder senken muss (Öl treibt Preise rauf, Handelskrieg mit den USA bremst die Wirtschaft).",
+    "Großbritannien schwächelt: Die Wirtschaft ist im April um 0,1% GESCHRUMPFT. Das Pfund hat gerade wenig Freunde.",
+    "Nächste Woche wird riesig: Japan (Di), USA (Mi), Schweiz und England (Do) entscheiden alle über ihre Zinsen — dazu UK-Inflation und US-Einzelhandel. Schnall dich an!"
+  ],
+  "waehrungen": {
+    "USD": { "stimmung": "bullisch", "grund": "Inflation über 4% + Fed-Banker reden von Zinserhöhungen statt -senkungen. Dazu Kriegsangst = Flucht in den Dollar. Mittwoch zeigt Neu-Chef Warsh seine Karten." },
+    "EUR": { "stimmung": "bullisch", "grund": "Erste EZB-Zinserhöhung seit 2023 — und sie klingen, als wären sie noch nicht fertig. Schwaches Wachstum (0,8%) bremst aber die Euphorie." },
+    "GBP": { "stimmung": "bärisch", "grund": "Wirtschaft schrumpft (-0,1% im April), und die BOE kann bei schwacher Konjunktur kaum hart auftreten. Mittwochs UK-Inflation kann das Bild noch drehen." },
+    "JPY": { "stimmung": "neutral", "grund": "Kriegsangst stärkt den Yen (sicherer Hafen), aber solange die BOJ-Zinsen mini bleiben, fließt Geld woanders hin. Dienstag wird spannend." },
+    "CHF": { "stimmung": "bullisch", "grund": "DER sichere Hafen im Nahost-Krieg. Jeder, der Angst hat, parkt Geld im Franken. SNB-Entscheid am Donnerstag." },
+    "CAD": { "stimmung": "neutral", "grund": "Teures Öl hilft Kanada (Öl-Land!), aber der Handelskrieg mit den USA schadet. Die BOC sitzt deshalb fest zwischen den Stühlen." },
+    "AUD": { "stimmung": "neutral", "grund": "Hängt an China: Dienstag kommen China-Daten UND der RBA-Zinsentscheid. Kriegsangst macht Anleger vorsichtig — das mag der Aussie gar nicht." },
+    "NZD": { "stimmung": "neutral", "grund": "Mittwoch kommt das neuseeländische Wirtschaftswachstum (BIP). Bis dahin schwimmt der Kiwi mit der allgemeinen Stimmung." }
+  },
+  "wochenausblick": {
+    "text": [
+      "Nächste Woche ist Zentralbank-Superwoche: 4 große Zinsentscheide in 3 Tagen. So etwas gibt es nur ein paar Mal im Jahr — und diesmal mitten im Öl-Schock.",
+      "Der Hauptdarsteller ist die Fed am Mittwoch (20:00 Wiener Zeit): Es ist die ERSTE Sitzung des neuen Chefs Kevin Warsh. Die Märkte sind sich fast sicher (97%), dass die Zinsen bei 3,50–3,75% bleiben — aber JEDES seiner Worte wird auf die Goldwaage gelegt. Klingt er hart (hawkish), springt der Dollar.",
+      "Am Freitag ist US-Feiertag (Juneteenth): wenig Händler am Markt, also Vorsicht — da können kleine News große Sprünge auslösen."
+    ],
+    "termine": [
+      { "tag": "Dienstag 16.6.", "land": "CNY", "titel": "China-Daten (Industrie + Einzelhandel)", "warum": "China ist der größte Rohstoff-Kunde der Welt — schwache Zahlen drücken sofort AUD und NZD." },
+      { "tag": "Dienstag 16.6.", "land": "AUD", "titel": "RBA-Zinsentscheid", "warum": "Australiens Notenbank zwischen Öl-Inflation und China-Schwäche." },
+      { "tag": "Dienstag 16.6.", "land": "JPY", "titel": "BOJ-Zinsentscheid", "warum": "Muss VOR der Fed entscheiden, ohne deren Ergebnis zu kennen. Jede Überraschung lässt den Yen explodieren." },
+      { "tag": "Mittwoch 17.6.", "land": "GBP", "titel": "UK-Inflation (CPI)", "warum": "Entscheidet, wie hart die BOE am Donnerstag auftreten kann." },
+      { "tag": "Mittwoch 17.6.", "land": "USD", "titel": "US-Einzelhandelsumsätze", "warum": "Shoppen die Amerikaner noch? Letzter Stimmungstest vor der Fed am Abend." },
+      { "tag": "Mittwoch 17.6.", "land": "NZD", "titel": "Neuseeland BIP", "warum": "Wachstumszeugnis für den Kiwi." },
+      { "tag": "Mittwoch 17.6.", "land": "USD", "titel": "FED-ZINSENTSCHEID + Warshs erste Pressekonferenz (20:00 Wien)", "warum": "DAS Event der Woche. Neue Zins-Prognosen (Dot Plot) + erster Auftritt des neuen Chefs." },
+      { "tag": "Donnerstag 18.6.", "land": "GBP", "titel": "UK-Arbeitsmarktdaten", "warum": "Vorspeise zum BOE-Entscheid am selben Tag." },
+      { "tag": "Donnerstag 18.6.", "land": "CHF", "titel": "SNB-Zinsentscheid", "warum": "Die Schweizer überraschen gern — und der Franken ist durch die Kriegsangst schon sehr stark." },
+      { "tag": "Donnerstag 18.6.", "land": "GBP", "titel": "BOE-Zinsentscheid", "warum": "Schrumpfende Wirtschaft + Öl-Inflation = Zwickmühle. Aufs Abstimmungsergebnis achten!" },
+      { "tag": "Freitag 19.6.", "land": "USD", "titel": "US-Feiertag (Juneteenth)", "warum": "Dünner Handel — kleine Orders, große Sprünge möglich. Vorsicht!" },
+      { "tag": "Freitag 19.6.", "land": "GBP", "titel": "UK-Einzelhandelsumsätze", "warum": "Wochenausklang fürs gebeutelte Pfund." }
+    ]
+  },
+  "prognosen": [
+    {
+      "event": "Fed-Zinsentscheid (USD)",
+      "termin": "Mittwoch 17.6., 20:00 Wiener Zeit",
+      "prognoseMarkt": "Halten bei 3,50–3,75% (97% eingepreist)",
+      "meineEinschaetzung": "Halten — aber mit HARTEN Tönen. Begründung: Die Kern-Inflation war zwar zahm (0,2%), aber die Schlagzeilen-Inflation über 4% gibt den Falken im Komitee Rückenwind (die Protokolle zeigten schon eine Wende Richtung 'eher erhöhen als senken'). Warsh will bei seinem Debüt Stärke zeigen, nicht Weichheit.",
+      "wennHoeher": "Überraschende ERHÖHUNG (unwahrscheinlich, ~3%): Dollar schießt nach oben, EUR/USD fällt stark, Gold und Aktien stürzen. Auch nur ein hawkisher Dot-Plot (Zinserhöhungen für 2026 angedeutet) stärkt den Dollar deutlich.",
+      "wennNiedriger": "Taubenhafte Töne / Senkungs-Signale (sehr unwahrscheinlich): Dollar fällt breit, EUR/USD und Gold steigen. Dann hätte Warsh den Markt komplett überrumpelt."
+    },
+    {
+      "event": "BOJ-Zinsentscheid (JPY)",
+      "termin": "Dienstag 16.6.",
+      "prognoseMarkt": "ACHTUNG, uneinig: TradingView-Konsens erwartet ERHÖHUNG auf 1,00% (von 0,75%), andere Quellen erwarten Halten",
+      "meineEinschaetzung": "Ich lehne mich zur ERHÖHUNG auf 1,00%. Begründung: Japan importiert fast seine ganze Energie — der Öl-Schock trifft die japanische Inflation mit voller Wucht, und die BOJ wollte ohnehin normalisieren. Aber weil die Prognosen uneinig sind, ist das DAS gefährlichste Event der Woche für JPY-Paare: Egal was kommt, die Hälfte des Marktes liegt falsch.",
+      "wennHoeher": "Anhebung auf 1,00%: Yen springt nach oben (USD/JPY fällt deutlich), Carry-Trades werden aufgelöst — kann auch Aktien weltweit drücken. Da viele die Erhöhung schon erwarten, dürfte der Sprung aber kleiner ausfallen als bei einer echten Überraschung.",
+      "wennNiedriger": "Halten bei 0,75%: Yen fällt kräftig (die Erhöhungs-Wetten fliegen raus), USD/JPY steigt Richtung Jahreshoch. Finger weg von JPY-Paaren um den Termin, wenn du nicht zocken willst."
+    },
+    {
+      "event": "UK-Inflation CPI (GBP)",
+      "termin": "Mittwoch 17.6.",
+      "prognoseMarkt": "Prognose erscheint Anfang nächster Woche",
+      "meineEinschaetzung": "Ich erwarte eine Zahl ÜBER der Prognose. Begründung: Der Ölpreis-Schub vom Mai steckt voll in den britischen Energiepreisen, genau wie in den USA (dort kam 4,2%). Großbritannien hat dazu hartnäckige Dienstleistungs-Inflation.",
+      "wennHoeher": "Pfund steigt kurzfristig (BOE muss härter klingen) — ABER: hohe Inflation + schrumpfende Wirtschaft = 'Stagflation', das ist langfristig Gift fürs Pfund.",
+      "wennNiedriger": "Pfund fällt, weil die BOE dann Spielraum für Zinssenkungen bekommt — bei -0,1% Wachstum hätte sie gute Gründe."
+    },
+    {
+      "event": "US-Einzelhandelsumsätze (USD)",
+      "termin": "Mittwoch 17.6.",
+      "prognoseMarkt": "Prognose erscheint Anfang nächster Woche",
+      "meineEinschaetzung": "Die SCHLAGZEILEN-Zahl dürfte ordentlich aussehen — aber Vorsicht, das ist eine optische Täuschung: Teures Benzin bläht die Umsätze auf (die Leute geben mehr aus, bekommen aber weniger dafür). Die Kern-Zahl ohne Benzin dürfte mau ausfallen.",
+      "wennHoeher": "Dollar kurz stärker ('Konsument hält durch') — direkt vor der Fed am Abend aber meist verhaltene Reaktion.",
+      "wennNiedriger": "Dollar schwächer, Rezessionssorgen flackern auf — würde die Fed-Falken etwas zähmen."
+    }
+  ],
+  "lehren": [
+    "Diese Woche bestätigt: Bei Energie-getriebener Inflation auf die KERN-Zahl schauen — die Märkte haben dem 4,2%-Schock kaum USD-Stärke gegeben, weil Core nur 0,2% war.",
+    "Zentralbanken reagieren auf Öl-Schocks unterschiedlich schnell: EZB erhöht, BOC wartet ab, Fed hält. Diese Unterschiede ('Divergenz') sind DIE Quelle für Forex-Trends."
+  ]
+}

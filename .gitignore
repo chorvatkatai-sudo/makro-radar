@@ -1,0 +1,7 @@
+# Generierte Dateien — werden von fetch-kalender.mjs bei jedem Lauf neu gebaut
+dashboard/data.js
+daten/naechste-woche.json
+
+# Temporäres
+.playwright-mcp/
+*.png

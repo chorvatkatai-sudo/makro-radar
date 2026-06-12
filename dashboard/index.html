@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MAKRO-RADAR · Forex Dashboard</title>
+<style>
+  :root {
+    --bg: #0b0f17;
+    --panel: #121826;
+    --panel2: #1a2234;
+    --line: #232d44;
+    --text: #e8edf7;
+    --dim: #93a1bc;
+    --faint: #5b6880;
+    --amber: #f5b952;
+    --green: #3fce8a;
+    --red: #f0556b;
+    --blue: #5b9cf6;
+    --orange: #f08c3f;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: "Segoe UI", system-ui, sans-serif;
+    font-size: 15px; line-height: 1.55;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 24px 20px 80px; }
+
+  /* ---------- Kopf ---------- */
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 14px; margin-bottom: 6px; }
+  header h1 { font-size: 26px; letter-spacing: 2px; font-weight: 800; }
+  header h1 span { color: var(--amber); }
+  .kopf-info { color: var(--dim); font-size: 14px; }
+  .gedaechtnis { margin-left: auto; font-size: 12.5px; color: var(--faint); background: var(--panel); border: 1px solid var(--line); padding: 4px 12px; border-radius: 99px; }
+  .untertitel { color: var(--faint); font-size: 13.5px; margin-bottom: 26px; }
+
+  section { margin-bottom: 34px; }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: 2.5px; color: var(--amber); margin-bottom: 14px; display: flex; align-items: center; gap: 10px; }
+  h2::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+
+  .karte { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; }
+
+  /* ---------- Briefing ---------- */
+  .briefing-titel { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
+  .briefing-lage p { margin-bottom: 9px; color: var(--text); }
+  .briefing-lage p::before { content: "›"; color: var(--amber); margin-right: 9px; font-weight: 700; }
+  .briefing-meta { color: var(--faint); font-size: 12.5px; margin-top: 10px; }
+
+  .stimmung-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(245px, 1fr)); gap: 10px; }
+  .stimmung { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; display: flex; gap: 12px; align-items: flex-start; }
+  .stimmung .code { font-weight: 800; font-size: 15px; padding: 3px 9px; border-radius: 8px; background: var(--panel2); border: 1px solid var(--line); white-space: nowrap; }
+  .stimmung .info { font-size: 13px; color: var(--dim); }
+  .stimmung .label { font-weight: 700; font-size: 13.5px; margin-bottom: 2px; }
+  .bullisch .label { color: var(--green); }
+  .baerisch .label { color: var(--red); }
+  .neutral .label { color: var(--dim); }
+  .bullisch { border-left: 3px solid var(--green); }
+  .baerisch { border-left: 3px solid var(--red); }
+  .neutral  { border-left: 3px solid var(--faint); }
+
+  /* ---------- Prognosen ---------- */
+  .prognose { border-left: 3px solid var(--blue); margin-bottom: 12px; }
+  .prognose .kopf { display: flex; flex-wrap: wrap; gap: 10px; align-items: baseline; margin-bottom: 8px; }
+  .prognose .kopf b { font-size: 15.5px; }
+  .prognose .termin { color: var(--faint); font-size: 12.5px; }
+  .prognose .zeile { font-size: 13.5px; color: var(--dim); margin-bottom: 5px; }
+  .prognose .zeile b { color: var(--text); }
+  .szenarien { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px; }
+  .szenario { background: var(--panel2); border-radius: 10px; padding: 10px 12px; font-size: 13px; color: var(--dim); }
+  .szenario b { display: block; margin-bottom: 3px; font-size: 12.5px; }
+  .szenario.hoch b { color: var(--green); }
+  .szenario.tief b { color: var(--red); }
+
+  /* ---------- Events ---------- */
+  .tag-block { margin-bottom: 18px; }
+  .tag-kopf { font-size: 14px; font-weight: 700; color: var(--dim); margin-bottom: 8px; }
+  .tag-kopf.heute { color: var(--amber); }
+  .tag-kopf .datum { color: var(--faint); font-weight: 400; margin-left: 8px; font-size: 12.5px; }
+  .event { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 8px; overflow: hidden; }
+  .event.vorbei { opacity: .55; }
+  .event-zeile { display: grid; grid-template-columns: 64px 52px 1fr auto; gap: 12px; align-items: center; padding: 11px 16px; cursor: pointer; }
+  .event-zeile:hover { background: var(--panel2); }
+  .zeit { font-variant-numeric: tabular-nums; color: var(--dim); font-size: 14px; }
+  .land { font-weight: 800; font-size: 12.5px; text-align: center; padding: 3px 0; border-radius: 7px; background: var(--panel2); border: 1px solid var(--line); }
+  .titel { font-weight: 600; }
+  .impact { font-size: 10.5px; font-weight: 800; letter-spacing: 1px; padding: 3px 9px; border-radius: 99px; text-transform: uppercase; }
+  .impact.High   { background: rgba(240,85,107,.15); color: var(--red); border: 1px solid rgba(240,85,107,.4); }
+  .impact.Medium { background: rgba(240,140,63,.13); color: var(--orange); border: 1px solid rgba(240,140,63,.35); }
+  .impact.Low    { background: rgba(147,161,188,.1); color: var(--faint); border: 1px solid var(--line); }
+  .impact.Holiday{ background: rgba(91,156,246,.13); color: var(--blue); border: 1px solid rgba(91,156,246,.35); }
+  .werte { display: flex; gap: 16px; padding: 0 16px 11px 76px; font-size: 13px; color: var(--dim); flex-wrap: wrap; }
+  .werte b { color: var(--text); font-variant-numeric: tabular-nums; }
+  .werte .ist-gut b { color: var(--green); }
+  .werte .ist-schlecht b { color: var(--red); }
+  .erklaerung { display: none; border-top: 1px dashed var(--line); padding: 13px 16px; background: var(--panel2); font-size: 13.5px; }
+  .event.offen .erklaerung { display: block; }
+  .erklaerung .e-name { font-weight: 700; color: var(--amber); margin-bottom: 6px; }
+  .erklaerung p { color: var(--dim); margin-bottom: 7px; }
+  .erklaerung p b { color: var(--text); }
+  .pfeile { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 8px; }
+  .pfeile div { background: var(--panel); border-radius: 9px; padding: 8px 11px; font-size: 12.5px; color: var(--dim); }
+  .pfeile .rauf { border-left: 3px solid var(--green); }
+  .pfeile .runter { border-left: 3px solid var(--red); }
+
+  .filter { display: flex; gap: 8px; margin-bottom: 14px; }
+  .filter button { background: var(--panel); color: var(--dim); border: 1px solid var(--line); border-radius: 99px; padding: 6px 16px; font-size: 13px; cursor: pointer; font-family: inherit; }
+  .filter button.aktiv { background: var(--amber); color: #1a1408; font-weight: 700; border-color: var(--amber); }
+
+  .leer { color: var(--faint); font-style: italic; padding: 8px 2px; }
+
+  /* ---------- Wochenausblick ---------- */
+  .ausblick-text p { margin-bottom: 9px; color: var(--text); }
+  .ausblick-text p::before { content: "›"; color: var(--blue); margin-right: 9px; font-weight: 700; }
+  .ausblick-termine { margin-top: 14px; display: grid; gap: 8px; }
+  .ausblick-termin { display: grid; grid-template-columns: 110px 52px 1fr; gap: 12px; background: var(--panel2); border-radius: 10px; padding: 10px 14px; font-size: 13.5px; align-items: baseline; }
+  .ausblick-termin .tag { color: var(--amber); font-weight: 700; font-size: 13px; }
+  .ausblick-termin .warum { color: var(--dim); font-size: 13px; margin-top: 2px; }
+
+  /* ---------- Historie ---------- */
+  table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  th { text-align: left; color: var(--faint); font-size: 11.5px; text-transform: uppercase; letter-spacing: 1px; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+  td { padding: 8px 10px; border-bottom: 1px solid var(--line); color: var(--dim); }
+  td b { color: var(--text); font-variant-numeric: tabular-nums; }
+  td .gut { color: var(--green); font-weight: 700; }
+  td .schlecht { color: var(--red); font-weight: 700; }
+
+  footer { margin-top: 50px; border-top: 1px solid var(--line); padding-top: 18px; color: var(--faint); font-size: 13px; }
+  footer a { color: var(--blue); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  .quellen { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-top: 8px; }
+
+  @media (max-width: 640px) {
+    .event-zeile { grid-template-columns: 54px 46px 1fr; }
+    .event-zeile .impact { display: none; }
+    .szenarien, .pfeile { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>MAKRO<span>·</span>RADAR</h1>
+    <div class="kopf-info" id="kopfDatum"></div>
+    <div class="gedaechtnis" id="gedaechtnis"></div>
+  </header>
+  <div class="untertitel">Dein Forex-Wirtschaftskalender — einfach erklärt. Klick auf ein Event für die Erklärung in normalem Deutsch.</div>
+
+  <section id="sec-briefing">
+    <h2>Briefing</h2>
+    <div id="briefing"></div>
+  </section>
+
+  <section id="sec-stimmung" style="display:none">
+    <h2>Währungs-Stimmung</h2>
+    <div class="stimmung-grid" id="stimmung"></div>
+  </section>
+
+  <section>
+    <h2>Heute</h2>
+    <div id="heute"></div>
+  </section>
+
+  <section id="sec-ausblick" style="display:none">
+    <h2>Ausblick nächste Woche</h2>
+    <div class="karte" id="ausblick"></div>
+  </section>
+
+  <section id="sec-prognosen" style="display:none">
+    <h2>Meine Einschätzungen zu kommenden Zahlen</h2>
+    <div id="prognosen"></div>
+  </section>
+
+  <section>
+    <h2>Diese Woche</h2>
+    <div class="filter">
+      <button id="btnHigh" class="aktiv">Nur High-Impact 🔴</button>
+      <button id="btnAlle">Alle Events</button>
+    </div>
+    <div id="woche"></div>
+  </section>
+
+  <section id="sec-naechste" style="display:none">
+    <h2>Nächste Woche — Kalender-Vorschau</h2>
+    <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px">Nur High-Impact · Quelle: TradingView (Prognosen können sich bis zum Termin noch ändern)</div>
+    <div id="naechste"></div>
+  </section>
+
+  <section id="sec-historie" style="display:none">
+    <h2>Gedächtnis — vergangene High-Impact-Zahlen</h2>
+    <div class="karte" style="padding:6px 14px 10px; overflow-x:auto">
+      <table>
+        <thead><tr><th>Datum</th><th>Land</th><th>Event</th><th>Ist</th><th>Prognose</th><th>Vorher</th></tr></thead>
+        <tbody id="historie"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    <b>Datenquellen & Lesestoff:</b>
+    <div class="quellen">
+      <a href="https://www.forexfactory.com/calendar" target="_blank">ForexFactory Kalender</a>
+      <a href="https://www.financialjuice.com/home" target="_blank">FinancialJuice (Live-News)</a>
+      <a href="https://www.forexlive.com" target="_blank">Forexlive</a>
+      <a href="https://www.mufgresearch.com/fx/" target="_blank">MUFG FX</a>
+      <a href="https://think.ing.com" target="_blank">ING Think</a>
+      <a href="https://research.danskebank.com" target="_blank">Danske Bank</a>
+      <a href="https://www.rabobank.com/knowledge" target="_blank">Rabobank</a>
+      <a href="https://www.gbm.scotiabank.com/en/market-insights.html" target="_blank">Scotiabank</a>
+      <a href="https://corporate.nordea.com/research" target="_blank">Nordea e-Markets</a>
+      <a href="https://www.cibccm.com/en/insights/" target="_blank">CIBC</a>
+      <a href="https://www.anz.com/institutional/insights/" target="_blank">ANZ Research</a>
+      <a href="https://westpaciq.westpac.com.au" target="_blank">Westpac IQ</a>
+      <a href="https://fred.stlouisfed.org" target="_blank">FRED (US-Datenarchiv)</a>
+      <a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank">CME FedWatch (Zins-Wetten)</a>
+    </div>
+  </footer>
+</div>
+
+<script src="data.js"></script>
+<script>
+const D = window.MAKRO_DATA || {};
+const TZ = "Europe/Vienna";
+const jetzt = new Date();
+
+const fmtTag = d => d.toLocaleDateString("de-AT", { weekday: "long", timeZone: TZ });
+const fmtDatum = d => d.toLocaleDateString("de-AT", { day: "2-digit", month: "2-digit", year: "numeric", timeZone: TZ });
+const fmtZeit = d => d.toLocaleTimeString("de-AT", { hour: "2-digit", minute: "2-digit", timeZone: TZ });
+const tagKey = d => d.toLocaleDateString("sv-SE", { timeZone: TZ }); // YYYY-MM-DD in Wiener Zeit
+const heuteKey = tagKey(jetzt);
+
+document.getElementById("kopfDatum").textContent =
+  fmtTag(jetzt) + ", " + fmtDatum(jetzt) + " · Zeiten in Wiener Zeit";
+document.getElementById("gedaechtnis").textContent =
+  "🧠 Gedächtnis: " + (D.anzahlGespeichert || 0) + " Events gespeichert · Stand " +
+  (D.erstellt ? fmtDatum(new Date(D.erstellt)) + " " + fmtZeit(new Date(D.erstellt)) : "—");
+
+// ---------- Lexikon-Suche ----------
+const begriffe = (D.lexikon?.begriffe || []).map(b => ({ ...b, re: new RegExp(b.muster, "i") }));
+function erklaerung(titel) {
+  return begriffe.find(b => b.re.test(titel)) || D.lexikon?.fallback || null;
+}
+
+// ---------- Event-Karte ----------
+function esc(s) { return String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;"); }
+
+function eventKarte(e) {
+  const d = new Date(e.date);
+  const vorbei = d < jetzt && !e.actual;
+  const erkl = erklaerung(e.title);
+  const istKlasse = ""; // Färbung des Ist-Werts übernimmt das Briefing inhaltlich
+  let werte = "";
+  if (e.actual || e.forecast || e.previous) {
+    werte = `<div class="werte">
+      ${e.actual ? `<span class="${istKlasse}">Ist: <b>${esc(e.actual)}</b></span>` : ""}
+      ${e.forecast ? `<span>Prognose: <b>${esc(e.forecast)}</b></span>` : ""}
+      ${e.previous ? `<span>Vorher: <b>${esc(e.previous)}</b></span>` : ""}
+    </div>`;
+  }
+  let erklHtml = "";
+  if (erkl) {
+    erklHtml = `<div class="erklaerung">
+      <div class="e-name">${esc(erkl.name)}</div>
+      <p>${esc(erkl.einfach)}</p>
+      <p><b>Warum wichtig:</b> ${esc(erkl.warum)}</p>
+      ${erkl.hoeher && erkl.hoeher !== "—" ? `<div class="pfeile">
+        <div class="rauf">⬆ <b>Höher als erwartet:</b> ${esc(erkl.hoeher)}</div>
+        <div class="runter">⬇ <b>Niedriger als erwartet:</b> ${esc(erkl.niedriger)}</div>
+      </div>` : ""}
+    </div>`;
+  }
+  return `<div class="event ${d < jetzt ? "vorbei" : ""}" onclick="this.classList.toggle('offen')">
+    <div class="event-zeile">
+      <div class="zeit">${fmtZeit(d)}</div>
+      <div class="land">${esc(e.country)}</div>
+      <div class="titel">${esc(e.title)}</div>
+      <div class="impact ${esc(e.impact)}">${e.impact === "High" ? "WICHTIG" : e.impact === "Medium" ? "Mittel" : e.impact === "Holiday" ? "Feiertag" : "Gering"}</div>
+    </div>
+    ${werte}${erklHtml}
+  </div>`;
+}
+
+// ---------- Heute ----------
+const events = D.events || [];
+const heutige = events.filter(e => tagKey(new Date(e.date)) === heuteKey);
+const heutigeWichtig = heutige.filter(e => e.impact === "High" || e.impact === "Medium");
+document.getElementById("heute").innerHTML = heutigeWichtig.length
+  ? heutigeWichtig.map(eventKarte).join("")
+  : `<div class="karte leer">Heute stehen keine wichtigen Termine an. ${heutige.length ? "(" + heutige.length + " unwichtige Events ausgeblendet — siehe Wochenliste)" : "Ruhiger Tag! 🍵"}</div>`;
+
+// ---------- Woche ----------
+let nurHigh = true;
+function malWoche() {
+  const ziel = document.getElementById("woche");
+  const gefiltert = events.filter(e => nurHigh ? e.impact === "High" : true);
+  if (!gefiltert.length) { ziel.innerHTML = '<div class="karte leer">Keine Events gefunden.</div>'; return; }
+  const tage = {};
+  for (const e of gefiltert) {
+    const k = tagKey(new Date(e.date));
+    (tage[k] = tage[k] || []).push(e);
+  }
+  ziel.innerHTML = Object.keys(tage).sort().map(k => {
+    const d = new Date(k + "T12:00:00");
+    const istHeute = k === heuteKey;
+    return `<div class="tag-block">
+      <div class="tag-kopf ${istHeute ? "heute" : ""}">${istHeute ? "▶ HEUTE — " : ""}${fmtTag(d)}<span class="datum">${fmtDatum(d)}</span></div>
+      ${tage[k].map(eventKarte).join("")}
+    </div>`;
+  }).join("");
+}
+document.getElementById("btnHigh").onclick = function() { nurHigh = true; this.classList.add("aktiv"); document.getElementById("btnAlle").classList.remove("aktiv"); malWoche(); };
+document.getElementById("btnAlle").onclick = function() { nurHigh = false; this.classList.add("aktiv"); document.getElementById("btnHigh").classList.remove("aktiv"); malWoche(); };
+malWoche();
+
+// ---------- Nächste Woche (TradingView-Vorschau) ----------
+const naechste = (D.naechsteWoche || []).filter(e => e.impact === "High");
+if (naechste.length) {
+  document.getElementById("sec-naechste").style.display = "";
+  const tageN = {};
+  for (const e of naechste) {
+    const k = tagKey(new Date(e.date));
+    (tageN[k] = tageN[k] || []).push(e);
+  }
+  document.getElementById("naechste").innerHTML = Object.keys(tageN).sort().map(k => {
+    const d = new Date(k + "T12:00:00");
+    return `<div class="tag-block">
+      <div class="tag-kopf">${fmtTag(d)}<span class="datum">${fmtDatum(d)}</span></div>
+      ${tageN[k].map(eventKarte).join("")}
+    </div>`;
+  }).join("");
+}
+
+// ---------- Briefing ----------
+const B = D.briefing;
+if (B) {
+  let html = `<div class="karte">
+    <div class="briefing-titel">${esc(B.titel || "Briefing")}</div>
+    <div class="briefing-lage">${(B.lage || []).map(s => `<p>${esc(s)}</p>`).join("")}</div>
+    <div class="briefing-meta">Briefing vom ${esc(B.datum)} · erstellt von Claude in der letzten Session</div>
+  </div>`;
+  document.getElementById("briefing").innerHTML = html;
+
+  if (B.waehrungen && Object.keys(B.waehrungen).length) {
+    document.getElementById("sec-stimmung").style.display = "";
+    const W = D.lexikon?.waehrungen || {};
+    document.getElementById("stimmung").innerHTML = Object.entries(B.waehrungen).map(([code, w]) => {
+      const cls = w.stimmung === "bullisch" ? "bullisch" : w.stimmung === "bärisch" ? "baerisch" : "neutral";
+      const pfeil = w.stimmung === "bullisch" ? "▲" : w.stimmung === "bärisch" ? "▼" : "■";
+      return `<div class="stimmung ${cls}">
+        <div class="code">${esc(code)}</div>
+        <div class="info"><div class="label">${pfeil} ${esc((w.stimmung || "neutral").toUpperCase())}</div>${esc(w.grund || "")}<div style="color:var(--faint);font-size:11.5px;margin-top:3px">${esc(W[code]?.name || "")}${W[code]?.spitzname ? " · " + esc(W[code].spitzname) : ""}</div></div>
+      </div>`;
+    }).join("");
+  }
+
+  if (B.wochenausblick) {
+    document.getElementById("sec-ausblick").style.display = "";
+    document.getElementById("ausblick").innerHTML =
+      `<div class="ausblick-text">${(B.wochenausblick.text || []).map(s => `<p>${esc(s)}</p>`).join("")}</div>` +
+      (B.wochenausblick.termine?.length ? `<div class="ausblick-termine">${B.wochenausblick.termine.map(t =>
+        `<div class="ausblick-termin"><span class="tag">${esc(t.tag)}</span><span class="land">${esc(t.land)}</span><span><b>${esc(t.titel)}</b><div class="warum">${esc(t.warum)}</div></span></div>`).join("")}</div>` : "");
+  }
+
+  if (B.prognosen?.length) {
+    document.getElementById("sec-prognosen").style.display = "";
+    document.getElementById("prognosen").innerHTML = B.prognosen.map(p => `<div class="karte prognose">
+      <div class="kopf"><b>${esc(p.event)}</b><span class="termin">${esc(p.termin)}</span></div>
+      ${p.prognoseMarkt ? `<div class="zeile">Markt erwartet: <b>${esc(p.prognoseMarkt)}</b></div>` : ""}
+      <div class="zeile">Meine Einschätzung: <b>${esc(p.meineEinschaetzung)}</b></div>
+      <div class="szenarien">
+        <div class="szenario hoch"><b>⬆ Wenn die Zahl HÖHER ausfällt:</b>${esc(p.wennHoeher)}</div>
+        <div class="szenario tief"><b>⬇ Wenn die Zahl NIEDRIGER ausfällt:</b>${esc(p.wennNiedriger)}</div>
+      </div>
+    </div>`).join("");
+  }
+} else {
+  document.getElementById("briefing").innerHTML =
+    '<div class="karte leer">Noch kein Briefing vorhanden. Starte eine Claude-Session und sag z.B. „Schreib mir das Tages-Briefing" — dann erscheint es hier.</div>';
+}
+
+// ---------- Historie ----------
+if (D.historie?.length) {
+  document.getElementById("sec-historie").style.display = "";
+  document.getElementById("historie").innerHTML = D.historie.map(h => {
+    const num = s => parseFloat(String(s).replace(/[^\d.-]/g, ""));
+    const a = num(h.actual), f = num(h.prognose);
+    let cls = "";
+    if (!isNaN(a) && !isNaN(f)) cls = a > f ? "gut" : a < f ? "schlecht" : "";
+    return `<tr><td>${fmtDatum(new Date(h.datum))}</td><td><b>${esc(h.land)}</b></td><td>${esc(h.titel)}</td><td><span class="${cls}"><b>${esc(h.actual)}</b></span></td><td>${esc(h.prognose)}</td><td>${esc(h.vorher)}</td></tr>`;
+  }).join("");
+}
+</script>
+</body>
+</html>

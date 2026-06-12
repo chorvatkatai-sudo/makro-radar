@@ -1,0 +1,165 @@
+// fetch-kalender.mjs — Holt den ForexFactory-Wochenkalender, archiviert ihn
+// dauerhaft in daten/ (unser Gedächtnis) und baut dashboard/data.js neu.
+//
+// Aufruf:   node scripts/fetch-kalender.mjs           (holt frische Daten)
+//           node scripts/fetch-kalender.mjs --lokal   (nur Dashboard neu bauen, ohne Internet)
+//
+// Quellen:
+//  1) ForexFactory:  https://nfs.faireconomy.media/ff_calendar_thisweek.json
+//     (aktuelle Woche; Prognose & Vorwert, keine Ist-Werte, keine nächste Woche)
+//  2) TradingView:   https://economic-calendar.tradingview.com/events
+//     (nächste Woche als Vorschau; liefert nach Veröffentlichung auch Ist-Werte)
+// Ist-Werte werden in den Claude-Sessions in daten/historie.json nachgetragen.
+
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const DATEN = path.join(ROOT, "daten");
+const ARCHIV = path.join(DATEN, "kalender-archiv");
+const FEED_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json";
+const NUR_LOKAL = process.argv.includes("--lokal");
+
+fs.mkdirSync(ARCHIV, { recursive: true });
+
+function leseJson(datei, fallback) {
+  try { return JSON.parse(fs.readFileSync(datei, "utf8")); } catch { return fallback; }
+}
+
+// Eindeutiger Schlüssel pro Event – damit wir in der Historie nichts doppelt speichern
+function eventId(e) {
+  return `${e.date}|${e.country}|${e.title}`;
+}
+
+// Sonntag der Woche eines Events (FF-Wochen laufen So–Sa, Zeiten in New York)
+function wochenStart(events) {
+  const erste = events.map(e => new Date(e.date)).sort((a, b) => a - b)[0];
+  const d = new Date(erste);
+  d.setUTCDate(d.getUTCDate() - d.getUTCDay());
+  return d.toISOString().slice(0, 10);
+}
+
+async function holeFeed() {
+  for (let versuch = 1; versuch <= 3; versuch++) {
+    try {
+      const res = await fetch(FEED_URL, { headers: { "User-Agent": "Mozilla/5.0 (Makro-Dashboard, privat)" } });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const daten = await res.json();
+      if (!Array.isArray(daten) || daten.length === 0) throw new Error("Leere Antwort");
+      return daten;
+    } catch (err) {
+      console.warn(`Versuch ${versuch}/3 fehlgeschlagen: ${err.message}`);
+      if (versuch < 3) await new Promise(r => setTimeout(r, 3000 * versuch));
+    }
+  }
+  return null;
+}
+
+// TradingView-Kalender: nächste Woche (So–Sa nach der aktuellen FF-Woche)
+async function holeNaechsteWoche(aktuelleWoche) {
+  const start = new Date(aktuelleWoche + "T00:00:00Z");
+  start.setUTCDate(start.getUTCDate() + 7);                 // nächster Sonntag
+  const ende = new Date(start);
+  ende.setUTCDate(ende.getUTCDate() + 7);
+  const url = "https://economic-calendar.tradingview.com/events?from=" +
+    start.toISOString() + "&to=" + ende.toISOString() +
+    "&countries=US,EU,GB,JP,CH,CA,AU,NZ,CN";
+  try {
+    const res = await fetch(url, { headers: { "Origin": "https://www.tradingview.com", "User-Agent": "Mozilla/5.0" } });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const rohdaten = (await res.json()).result || [];
+    const impactMap = { 1: "High", 0: "Medium", "-1": "Low" };
+    const wert = e => (v => v === null || v === undefined ? "" :
+      String(v) + (e.unit === "%" ? "%" : e.unit ? " " + e.unit : ""));
+    return rohdaten.map(e => ({
+      date: e.date,
+      country: e.currency || e.country,
+      title: e.title,
+      impact: impactMap[e.importance] || "Low",
+      forecast: wert(e)(e.forecast),
+      previous: wert(e)(e.previous),
+      actual: wert(e)(e.actual) || null,
+      quelle: "tradingview"
+    }));
+  } catch (err) {
+    console.warn(`Nächste Woche (TradingView) nicht erreichbar: ${err.message}`);
+    return [];
+  }
+}
+
+function neuestesArchiv() {
+  const dateien = fs.readdirSync(ARCHIV).filter(f => f.startsWith("woche-")).sort();
+  if (dateien.length === 0) return null;
+  return leseJson(path.join(ARCHIV, dateien[dateien.length - 1]), null);
+}
+
+// ---------------------------------------------------------------- Hauptlauf
+let feed = null;
+if (!NUR_LOKAL) feed = await holeFeed();
+if (!feed) {
+  feed = neuestesArchiv();
+  if (!feed) { console.error("FEHLER: Kein Internet und kein Archiv vorhanden."); process.exit(1); }
+  console.log(NUR_LOKAL ? "Lokalmodus: nutze letztes Archiv." : "WARNUNG: Feed nicht erreichbar – nutze letztes Archiv.");
+}
+
+// 1) Rohdaten archivieren (eine Datei pro Woche, wird bei jedem Lauf aktualisiert)
+const woche = wochenStart(feed);
+fs.writeFileSync(path.join(ARCHIV, `woche-${woche}.json`), JSON.stringify(feed, null, 2));
+
+// 2) Historie pflegen: jedes Event dauerhaft speichern, Ist-Werte NIE überschreiben
+const historieDatei = path.join(DATEN, "historie.json");
+const historie = leseJson(historieDatei, { hinweis: "Dauerhaftes Gedächtnis aller Kalender-Events. 'actual' wird in Claude-Sessions nachgetragen.", events: {} });
+let neue = 0;
+for (const e of feed) {
+  const id = eventId(e);
+  const alt = historie.events[id] || {};
+  if (!historie.events[id]) neue++;
+  historie.events[id] = {
+    datum: e.date, land: e.country, titel: e.title, impact: e.impact,
+    prognose: e.forecast || alt.prognose || "",
+    vorher: e.previous || alt.vorher || "",
+    actual: alt.actual ?? null,            // Ist-Wert bleibt erhalten
+    notiz: alt.notiz ?? null               // Platz für Lehren/Beobachtungen
+  };
+}
+fs.writeFileSync(historieDatei, JSON.stringify(historie, null, 2));
+
+// 3) Nächste Woche von TradingView holen (im Lokalmodus: letzte gespeicherte Version)
+const naechsteWocheDatei = path.join(DATEN, "naechste-woche.json");
+let naechsteWoche = NUR_LOKAL ? leseJson(naechsteWocheDatei, []) : await holeNaechsteWoche(woche);
+if (naechsteWoche.length) fs.writeFileSync(naechsteWocheDatei, JSON.stringify(naechsteWoche, null, 2));
+else naechsteWoche = leseJson(naechsteWocheDatei, []);
+
+// 4) Dashboard-Daten bauen: Kalender + Lexikon + aktuelles Briefing + Historien-Auszug
+const lexikon = leseJson(path.join(ROOT, "scripts", "lexikon.json"), { begriffe: [], waehrungen: {} });
+const briefing = leseJson(path.join(DATEN, "briefing-aktuell.json"), null);
+
+// Ist-Werte aus der Historie in die Wochen-Events zurückspielen
+const events = feed.map(e => ({
+  ...e,
+  actual: historie.events[eventId(e)]?.actual ?? null
+}));
+
+// Kleine Historien-Statistik fürs Dashboard (nur High-Impact mit Ist-Wert)
+const historieAuszug = Object.values(historie.events)
+  .filter(e => e.impact === "High" && e.actual)
+  .sort((a, b) => new Date(b.datum) - new Date(a.datum))
+  .slice(0, 60);
+
+const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
+  erstellt: new Date().toISOString(),
+  wochenStart: woche,
+  events,
+  naechsteWoche,
+  briefing,
+  lexikon,
+  historie: historieAuszug,
+  anzahlGespeichert: Object.keys(historie.events).length
+}, null, 1) + ";\n";
+
+fs.writeFileSync(path.join(ROOT, "dashboard", "data.js"), dataJs);
+
+const high = events.filter(e => e.impact === "High").length;
+console.log(`OK: Woche ab ${woche} | ${events.length} Events (${high} High-Impact) | nächste Woche: ${naechsteWoche.length} Events | ${neue} neu in Historie | gesamt gespeichert: ${Object.keys(historie.events).length}`);
+if (!briefing) console.log("Hinweis: daten/briefing-aktuell.json fehlt noch – Dashboard zeigt Platzhalter.");

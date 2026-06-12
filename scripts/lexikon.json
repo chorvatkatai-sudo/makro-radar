@@ -1,0 +1,336 @@
+{
+  "hinweis": "Lexikon für das Dashboard. 'muster' ist ein Regex, der auf den Event-Titel von ForexFactory passt. Erklärungen bewusst kinderleicht.",
+  "begriffe": [
+    {
+      "muster": "Core CPI|Core Inflation Rate",
+      "name": "Kern-Inflation (Core CPI)",
+      "einfach": "Misst, wie viel teurer die Dinge geworden sind – ABER ohne Essen und Benzin, weil deren Preise wild hin- und herspringen. Das ist die 'ehrliche' Inflation, auf die die Zentralbank am meisten schaut.",
+      "warum": "Die Zentralbank entscheidet anhand dieser Zahl, ob sie die Zinsen anhebt oder senkt. Höhere Zinsen = stärkere Währung.",
+      "hoeher": "Währung wird meist STÄRKER (Zentralbank muss eher die Zinsen hochhalten/anheben).",
+      "niedriger": "Währung wird meist SCHWÄCHER (Zinssenkungen werden wahrscheinlicher)."
+    },
+    {
+      "muster": "CPI(?!.*Core)|Consumer Price|Prelim CPI|Final CPI|HICP|Tokyo Core|Inflation Rate",
+      "name": "Inflation (Verbraucherpreise, CPI)",
+      "einfach": "Der große Einkaufskorb-Test: Was kostet das Leben (Essen, Benzin, Miete...) im Vergleich zu früher? Steigt die Zahl, wird alles teurer.",
+      "warum": "Zu hohe Inflation zwingt die Zentralbank, die Zinsen anzuheben. Das macht die Währung attraktiver.",
+      "hoeher": "Währung meist STÄRKER (mehr Druck für hohe Zinsen).",
+      "niedriger": "Währung meist SCHWÄCHER (Tür für Zinssenkungen geht auf)."
+    },
+    {
+      "muster": "PPI|Producer Price",
+      "name": "Erzeugerpreise (PPI)",
+      "einfach": "Was Fabriken für ihre Waren verlangen, BEVOR sie im Laden landen. Wie ein Frühwarnsystem: Wird es hier teurer, wird es bald auch für uns alle teurer.",
+      "warum": "Läuft der Inflation oft ein paar Monate voraus – Händler reichen höhere Kosten an Kunden weiter.",
+      "hoeher": "Währung tendenziell STÄRKER (künftige Inflation → Zinsen bleiben hoch).",
+      "niedriger": "Währung tendenziell SCHWÄCHER."
+    },
+    {
+      "muster": "Core PCE|PCE Price",
+      "name": "PCE-Inflation (Liebling der Fed)",
+      "einfach": "Noch ein Inflationsmesser – aber DER, den die US-Zentralbank (Fed) offiziell als Zielgröße benutzt. Ziel: 2%.",
+      "warum": "Wenn die Fed über Zinsen redet, meint sie diese Zahl. Weit über 2% = Zinsen bleiben hoch.",
+      "hoeher": "USD meist STÄRKER.",
+      "niedriger": "USD meist SCHWÄCHER."
+    },
+    {
+      "muster": "Non-Farm|NFP",
+      "name": "US-Arbeitsmarktbericht (NFP)",
+      "einfach": "Wie viele neue Jobs in den USA im letzten Monat entstanden sind (ohne Bauernhöfe). DIE wichtigste Zahl des Monats – jeden ersten Freitag. Die Märkte springen dabei oft wie verrückt.",
+      "warum": "Viele neue Jobs = starke Wirtschaft = Zinsen können hoch bleiben. Wenige Jobs = Wirtschaft schwächelt = Zinssenkungen rücken näher.",
+      "hoeher": "USD meist STÄRKER (und oft fallen Gold & Aktien kurz).",
+      "niedriger": "USD meist SCHWÄCHER."
+    },
+    {
+      "muster": "Unemployment Rate",
+      "name": "Arbeitslosenquote",
+      "einfach": "Wie viel Prozent der Leute, die arbeiten wollen, keinen Job finden. Niedrig = Wirtschaft brummt.",
+      "warum": "Steigende Arbeitslosigkeit ist oft das erste Zeichen, dass die Wirtschaft kippt – dann senken Zentralbanken die Zinsen.",
+      "hoeher": "Währung meist SCHWÄCHER (Achtung: hier ist 'höher' schlecht!).",
+      "niedriger": "Währung meist STÄRKER."
+    },
+    {
+      "muster": "Unemployment Claims|Jobless Claims",
+      "name": "US-Erstanträge auf Arbeitslosenhilfe",
+      "einfach": "Wie viele Amerikaner sich DIESE WOCHE frisch arbeitslos gemeldet haben. Kommt jeden Donnerstag – wie ein wöchentlicher Fiebermesser für den Jobmarkt.",
+      "warum": "Schnellster Frühindikator überhaupt: Steigen die Anträge mehrere Wochen, kriselt es.",
+      "hoeher": "USD meist SCHWÄCHER (mehr Arbeitslose = schlecht).",
+      "niedriger": "USD meist STÄRKER."
+    },
+    {
+      "muster": "Employment Change|Payrolls(?!.*Non)",
+      "name": "Beschäftigungsänderung",
+      "einfach": "Wie viele Jobs im Land dazugekommen oder weggefallen sind.",
+      "warum": "Mehr Jobs = mehr Konsum = stärkere Wirtschaft = Argument für höhere Zinsen.",
+      "hoeher": "Währung meist STÄRKER.",
+      "niedriger": "Währung meist SCHWÄCHER."
+    },
+    {
+      "muster": "Average (Hourly )?Earnings|Wage Price|Average Cash Earnings|Labor Cost",
+      "name": "Löhne / Stundenlöhne",
+      "einfach": "Wie stark die Gehälter gestiegen sind. Mehr Lohn klingt gut – aber wenn ALLE mehr verdienen, heben Geschäfte die Preise an → Inflation.",
+      "warum": "Zentralbanken fürchten die 'Lohn-Preis-Spirale'. Starke Löhne = Zinsen bleiben länger hoch.",
+      "hoeher": "Währung meist STÄRKER.",
+      "niedriger": "Währung meist SCHWÄCHER."
+    },
+    {
+      "muster": "Federal Funds Rate|FOMC Statement|FOMC Press|FOMC Economic Projections|Fed Interest Rate|Fed Press Conference",
+      "name": "US-Zinsentscheid (Fed/FOMC)",
+      "einfach": "Die US-Zentralbank legt den wichtigsten Zins der Welt fest. Stell dir vor: der Preis, den Banken fürs Geldleihen zahlen. Alle 6 Wochen – das größte Event am Finanzmarkt.",
+      "warum": "Höhere Zinsen machen den Dollar attraktiver (mehr Zinsen fürs Sparen). Schon ein einzelnes WORT im Statement kann die Märkte drehen.",
+      "hoeher": "USD STÄRKER bei Anhebung oder 'harter' Wortwahl (hawkish).",
+      "niedriger": "USD SCHWÄCHER bei Senkung oder 'weicher' Wortwahl (dovish)."
+    },
+    {
+      "muster": "Main Refinancing Rate|ECB Press|Monetary Policy Statement|ECB Interest Rate",
+      "name": "EZB-Zinsentscheid",
+      "einfach": "Die Europäische Zentralbank legt den Zins für die Eurozone fest. Wie bei der Fed – nur für den Euro.",
+      "warum": "Bestimmt direkt, wie attraktiv der Euro ist. Die Pressekonferenz (45 Min. später) bewegt oft mehr als die Entscheidung selbst.",
+      "hoeher": "EUR STÄRKER bei Anhebung/harten Tönen.",
+      "niedriger": "EUR SCHWÄCHER bei Senkung/weichen Tönen."
+    },
+    {
+      "muster": "Official Bank Rate|MPC.*Vote|BOE|BoE Interest Rate|Monetary Policy Summary",
+      "name": "Zinsentscheid Bank of England",
+      "einfach": "Großbritanniens Zentralbank legt den Zins fürs Pfund fest. Spannend: Man sieht, wie die 9 Mitglieder abgestimmt haben (z.B. 7-2).",
+      "warum": "Das Abstimmungsergebnis verrät, wohin die Reise geht – mehr Abweichler = Richtungswechsel naht.",
+      "hoeher": "GBP STÄRKER.",
+      "niedriger": "GBP SCHWÄCHER."
+    },
+    {
+      "muster": "Overnight Rate|BOC|BoC Interest Rate",
+      "name": "Zinsentscheid Bank of Canada",
+      "einfach": "Kanadas Zentralbank legt den Zins für den kanadischen Dollar fest.",
+      "warum": "Kanada hängt stark am Öl und an den USA – die BOC reagiert oft früher als die Fed.",
+      "hoeher": "CAD STÄRKER.",
+      "niedriger": "CAD SCHWÄCHER."
+    },
+    {
+      "muster": "Cash Rate|RBA",
+      "name": "Zinsentscheid Australien (RBA)",
+      "einfach": "Australiens Zentralbank legt den Zins für den Aussie-Dollar fest.",
+      "warum": "Australien lebt vom Rohstoff-Export nach China – RBA-Entscheidungen spiegeln oft Chinas Gesundheit.",
+      "hoeher": "AUD STÄRKER.",
+      "niedriger": "AUD SCHWÄCHER."
+    },
+    {
+      "muster": "RBNZ|NZ Interest",
+      "name": "Zinsentscheid Neuseeland (RBNZ)",
+      "einfach": "Neuseelands Zentralbank legt den Zins für den Kiwi-Dollar fest.",
+      "warum": "Die RBNZ ist oft die mutigste – sie bewegt sich gern vor allen anderen.",
+      "hoeher": "NZD STÄRKER.",
+      "niedriger": "NZD SCHWÄCHER."
+    },
+    {
+      "muster": "SNB|Libor Rate|Policy Rate.*CHF",
+      "name": "Zinsentscheid Schweiz (SNB)",
+      "einfach": "Die Schweizer Nationalbank legt den Zins für den Franken fest. Sie überrascht gern ohne Vorwarnung!",
+      "warum": "Der Franken ist eine 'sichere Hafen'-Währung – die SNB kämpft oft dagegen, dass er ZU stark wird.",
+      "hoeher": "CHF STÄRKER.",
+      "niedriger": "CHF SCHWÄCHER."
+    },
+    {
+      "muster": "BOJ|Bank of Japan",
+      "name": "Zinsentscheid Japan (BOJ)",
+      "einfach": "Japans Zentralbank. Jahrzehntelang waren die Zinsen bei null – jede kleine Änderung ist deshalb ein Erdbeben für den Yen.",
+      "warum": "Viele Anleger leihen sich billige Yen, um anderswo zu investieren ('Carry Trade'). Hebt die BOJ die Zinsen, wird das rückabgewickelt → Yen schießt hoch.",
+      "hoeher": "JPY STÄRKER.",
+      "niedriger": "JPY SCHWÄCHER."
+    },
+    {
+      "muster": "GDP|Gross Domestic",
+      "name": "Wirtschaftswachstum (BIP/GDP)",
+      "einfach": "Das Zeugnis der ganzen Wirtschaft: Alles, was ein Land produziert und verkauft, zusammengezählt. Wächst die Zahl, geht's dem Land gut.",
+      "warum": "Schrumpft die Wirtschaft zwei Quartale nacheinander, heißt das 'Rezession' – dann senken Zentralbanken die Zinsen.",
+      "hoeher": "Währung meist STÄRKER.",
+      "niedriger": "Währung meist SCHWÄCHER."
+    },
+    {
+      "muster": "Flash Manufacturing PMI|Manufacturing PMI|ISM Manufacturing",
+      "name": "Industrie-Stimmung (PMI)",
+      "einfach": "Eine Umfrage unter Fabrik-Chefs: 'Läuft's gerade gut oder schlecht?' Über 50 = gut, unter 50 = schlecht. Ganz einfach.",
+      "warum": "Fabrik-Chefs merken zuerst, wenn Aufträge wegbrechen – Monate bevor es offizielle Zahlen zeigen.",
+      "hoeher": "Währung meist STÄRKER (vor allem über 50).",
+      "niedriger": "Währung meist SCHWÄCHER (vor allem unter 50)."
+    },
+    {
+      "muster": "Flash Services PMI|Services PMI|ISM (Non-Manufacturing|Services)",
+      "name": "Dienstleistungs-Stimmung (PMI)",
+      "einfach": "Gleiche Umfrage, aber bei Restaurants, Banken, Friseuren & Co. Über 50 = gut, unter 50 = schlecht. Wichtiger als Industrie, weil Dienstleistungen den Großteil der Wirtschaft ausmachen.",
+      "warum": "Zeigt, ob die Leute noch Geld ausgeben. Die Preise-Unterkomponente ist ein Inflations-Frühwarner.",
+      "hoeher": "Währung meist STÄRKER.",
+      "niedriger": "Währung meist SCHWÄCHER."
+    },
+    {
+      "muster": "Retail Sales",
+      "name": "Einzelhandelsumsätze",
+      "einfach": "Wie viel die Leute im Laden und online eingekauft haben. Shoppen die Leute fleißig, brummt die Wirtschaft.",
+      "warum": "Konsum ist der Motor der Wirtschaft (in den USA ~70%!). Kein Konsum = Motor stottert.",
+      "hoeher": "Währung meist STÄRKER.",
+      "niedriger": "Währung meist SCHWÄCHER."
+    },
+    {
+      "muster": "Trade Balance|Balance of Trade",
+      "name": "Handelsbilanz",
+      "einfach": "Verkauft ein Land mehr ins Ausland als es einkauft (Überschuss) oder umgekehrt (Defizit)?",
+      "warum": "Wer viel exportiert, dessen Währung wird gebraucht (Ausländer müssen sie kaufen) → tendenziell stärker.",
+      "hoeher": "Währung tendenziell STÄRKER (mehr Überschuss).",
+      "niedriger": "Währung tendenziell SCHWÄCHER."
+    },
+    {
+      "muster": "Consumer Confidence|Consumer Sentiment|Westpac Consumer",
+      "name": "Verbraucher-Stimmung",
+      "einfach": "Eine Umfrage: 'Wie geht's dir finanziell, und traust du dich, Geld auszugeben?' Gute Laune = die Leute kaufen mehr.",
+      "warum": "Ängstliche Verbraucher sparen statt shoppen → Wirtschaft kühlt ab. Bei der Uni-Michigan-Umfrage sind auch die INFLATIONSERWARTUNGEN wichtig.",
+      "hoeher": "Währung meist STÄRKER.",
+      "niedriger": "Währung meist SCHWÄCHER."
+    },
+    {
+      "muster": "Ifo Business|German Ifo",
+      "name": "Ifo-Geschäftsklima (Deutschland)",
+      "einfach": "DIE Stimmungsumfrage unter 9.000 deutschen Firmenchefs. Deutschlands wichtigster Frühindikator.",
+      "warum": "Deutschland ist die größte Wirtschaft der Eurozone – hustet das Ifo, bekommt der Euro Schnupfen.",
+      "hoeher": "EUR meist STÄRKER.",
+      "niedriger": "EUR meist SCHWÄCHER."
+    },
+    {
+      "muster": "ZEW",
+      "name": "ZEW-Konjunkturerwartungen",
+      "einfach": "Umfrage unter Finanzprofis: 'Wird die deutsche Wirtschaft in 6 Monaten besser oder schlechter dastehen?'",
+      "warum": "Blickt nach vorn statt zurück – Profis riechen Trends früh.",
+      "hoeher": "EUR meist STÄRKER.",
+      "niedriger": "EUR meist SCHWÄCHER."
+    },
+    {
+      "muster": "JOLTS",
+      "name": "Offene Stellen USA (JOLTS)",
+      "einfach": "Wie viele offene Jobs es in den USA gibt. Viele offene Stellen = Firmen suchen verzweifelt Leute = Löhne steigen.",
+      "warum": "Die Fed schaut hierauf, um zu sehen, ob der Jobmarkt 'überhitzt' ist.",
+      "hoeher": "USD meist STÄRKER.",
+      "niedriger": "USD meist SCHWÄCHER."
+    },
+    {
+      "muster": "ADP",
+      "name": "ADP-Jobbericht (privater Vorbote)",
+      "einfach": "Eine private Firma (Lohnabrechner ADP) zählt 2 Tage vor dem offiziellen NFP-Bericht die neuen Jobs. Wie eine Generalprobe.",
+      "warum": "Gibt einen Vorgeschmack auf den großen NFP-Freitag – liegt aber oft daneben!",
+      "hoeher": "USD meist STÄRKER.",
+      "niedriger": "USD meist SCHWÄCHER."
+    },
+    {
+      "muster": "Durable Goods",
+      "name": "Langlebige Güter (Bestellungen)",
+      "einfach": "Bestellungen für teure Dinge, die lange halten: Autos, Flugzeuge, Maschinen. Solche Käufe macht man nur, wenn man optimistisch ist.",
+      "warum": "Firmen investieren nur in Maschinen, wenn sie an die Zukunft glauben.",
+      "hoeher": "USD meist STÄRKER.",
+      "niedriger": "USD meist SCHWÄCHER."
+    },
+    {
+      "muster": "Building Permits|Housing Starts|Existing Home|New Home|HPI",
+      "name": "Häusermarkt",
+      "einfach": "Wie viele Häuser gebaut, genehmigt oder verkauft werden. Der Häusermarkt reagiert als ERSTER auf Zinsänderungen (Stichwort Hypothek).",
+      "warum": "Hohe Zinsen → teure Kredite → keiner baut/kauft → Frühwarnsignal für die ganze Wirtschaft.",
+      "hoeher": "Währung meist STÄRKER.",
+      "niedriger": "Währung meist SCHWÄCHER."
+    },
+    {
+      "muster": "Empire State|Philly Fed|Richmond",
+      "name": "Regionale US-Industrie-Umfragen",
+      "einfach": "Mini-Stimmungstests bei Fabriken in einzelnen US-Regionen (New York, Philadelphia...). Erscheinen vor den großen Zahlen.",
+      "warum": "Frühe Puzzleteile für das große Bild. Einzeln schwach, zusammen aussagekräftig.",
+      "hoeher": "USD leicht STÄRKER.",
+      "niedriger": "USD leicht SCHWÄCHER."
+    },
+    {
+      "muster": "Industrial Production|Factory Orders",
+      "name": "Industrieproduktion / Auftragseingänge",
+      "einfach": "Wie viel die Fabriken tatsächlich hergestellt haben bzw. wie viele neue Aufträge reingekommen sind.",
+      "warum": "Harte Fakten statt Umfragen – zeigt, ob die Industrie wirklich liefert.",
+      "hoeher": "Währung meist STÄRKER.",
+      "niedriger": "Währung meist SCHWÄCHER."
+    },
+    {
+      "muster": "Crude Oil Inventories",
+      "name": "US-Öllagerbestände",
+      "einfach": "Wie viel Öl die USA auf Lager haben. Mehr Öl im Lager = weniger Nachfrage = Ölpreis fällt (und umgekehrt).",
+      "warum": "Bewegt den Ölpreis → und damit den kanadischen Dollar (Öl-Land!) und die Inflationserwartungen.",
+      "hoeher": "Ölpreis runter → CAD schwächer.",
+      "niedriger": "Ölpreis rauf → CAD stärker."
+    },
+    {
+      "muster": "OPEC",
+      "name": "OPEC-Treffen",
+      "einfach": "Die größten Öl-Länder treffen sich und entscheiden: Pumpen wir mehr oder weniger Öl? Weniger Öl = höherer Preis.",
+      "warum": "Ölpreis = Inflationstreiber Nr. 1. Betrifft CAD direkt, und über die Inflation alle Währungen.",
+      "hoeher": "Förderkürzung → Öl rauf → CAD stärker, Inflationssorgen rauf.",
+      "niedriger": "Mehr Förderung → Öl runter → CAD schwächer."
+    },
+    {
+      "muster": "Speaks|Speech|Testimony|Testifies",
+      "name": "Rede eines Zentralbankers",
+      "einfach": "Ein wichtiger Zentralbanker hält eine Rede. Die Märkte hängen an jedem Wort: Klingt er 'hart' (hawkish = für hohe Zinsen) oder 'weich' (dovish = für Zinssenkungen)?",
+      "warum": "Zentralbanker nutzen Reden, um Märkte vorzubereiten. Ein einziger Satz kann mehr bewegen als eine ganze Datenveröffentlichung.",
+      "hoeher": "Hawkish (hart) → Währung stärker.",
+      "niedriger": "Dovish (weich) → Währung schwächer."
+    },
+    {
+      "muster": "Minutes|Meeting Minutes",
+      "name": "Sitzungsprotokoll der Zentralbank",
+      "einfach": "Das Protokoll der letzten Zinssitzung wird veröffentlicht – man liest nach, WORÜBER gestritten wurde und wie einig man sich war.",
+      "warum": "Verrät, ob die nächste Zinsänderung näher rückt als gedacht.",
+      "hoeher": "Hawkish Töne → Währung stärker.",
+      "niedriger": "Dovish Töne → Währung schwächer."
+    },
+    {
+      "muster": "Tankan",
+      "name": "Tankan-Bericht (Japan)",
+      "einfach": "Japans große Firmen-Umfrage (von der Zentralbank selbst!): Wie läuft's bei den großen Herstellern?",
+      "warum": "Die BOJ nutzt ihren eigenen Bericht für Zinsentscheidungen.",
+      "hoeher": "JPY meist STÄRKER.",
+      "niedriger": "JPY meist SCHWÄCHER."
+    },
+    {
+      "muster": "Caixin",
+      "name": "Caixin-PMI (China)",
+      "einfach": "Stimmungstest bei Chinas kleineren Privatfirmen. Über 50 = läuft, unter 50 = läuft nicht.",
+      "warum": "China kauft die Rohstoffe der Welt – geht's China schlecht, leiden AUD und NZD zuerst.",
+      "hoeher": "AUD/NZD meist STÄRKER.",
+      "niedriger": "AUD/NZD meist SCHWÄCHER."
+    },
+    {
+      "muster": "Current Account",
+      "name": "Leistungsbilanz",
+      "einfach": "Die große Gesamtrechnung eines Landes mit dem Ausland: Waren, Dienstleistungen, Zinsen, Überweisungen – alles zusammen.",
+      "warum": "Dauerhafte Defizite machen eine Währung langfristig anfällig.",
+      "hoeher": "Währung tendenziell STÄRKER.",
+      "niedriger": "Währung tendenziell SCHWÄCHER."
+    },
+    {
+      "muster": "Bank Holiday",
+      "name": "Bankfeiertag",
+      "einfach": "Banken in dem Land haben zu. Weniger Händler am Markt = entweder Totentanz oder wilde Sprünge bei dünnem Handel.",
+      "warum": "Vorsicht: Bei wenig Liquidität können kleine Orders große Bewegungen auslösen.",
+      "hoeher": "—",
+      "niedriger": "—"
+    }
+  ],
+  "fallback": {
+    "name": "Wirtschaftsdaten",
+    "einfach": "Eine Wirtschaftszahl aus diesem Land. Grundregel: Besser als die Prognose = gut für die Währung. Schlechter = schlecht für die Währung.",
+    "warum": "Märkte vergleichen IMMER mit der Prognose, nicht mit der Vergangenheit. Die Überraschung zählt.",
+    "hoeher": "Meist Währung stärker (wenn 'mehr' hier 'besser' bedeutet).",
+    "niedriger": "Meist Währung schwächer."
+  },
+  "waehrungen": {
+    "USD": { "flagge": "🇺🇸", "name": "US-Dollar", "spitzname": "Greenback", "zentralbank": "Fed" },
+    "EUR": { "flagge": "🇪🇺", "name": "Euro", "spitzname": "Single Currency", "zentralbank": "EZB" },
+    "GBP": { "flagge": "🇬🇧", "name": "Britisches Pfund", "spitzname": "Cable", "zentralbank": "BoE" },
+    "JPY": { "flagge": "🇯🇵", "name": "Japanischer Yen", "spitzname": "Sicherer Hafen", "zentralbank": "BoJ" },
+    "CHF": { "flagge": "🇨🇭", "name": "Schweizer Franken", "spitzname": "Swissy", "zentralbank": "SNB" },
+    "CAD": { "flagge": "🇨🇦", "name": "Kanadischer Dollar", "spitzname": "Loonie (Öl-Währung)", "zentralbank": "BoC" },
+    "AUD": { "flagge": "🇦🇺", "name": "Australischer Dollar", "spitzname": "Aussie (Rohstoff-Währung)", "zentralbank": "RBA" },
+    "NZD": { "flagge": "🇳🇿", "name": "Neuseeland-Dollar", "spitzname": "Kiwi", "zentralbank": "RBNZ" },
+    "CNY": { "flagge": "🇨🇳", "name": "Chinesischer Yuan", "spitzname": "Renminbi", "zentralbank": "PBoC" },
+    "All": { "flagge": "🌍", "name": "Global", "spitzname": "", "zentralbank": "" }
+  }
+}

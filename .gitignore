@@ -1,6 +1,9 @@
 # Generierte Dateien — werden von fetch-kalender.mjs bei jedem Lauf neu gebaut
-dashboard/data.js
+# (dashboard/data.js wird MIT versioniert, weil GitHub Pages sie braucht)
 daten/naechste-woche.json
+
+# Lokale Claude-Einstellungen — nie veröffentlichen
+.claude/
 
 # Temporäres
 .playwright-mcp/

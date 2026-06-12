@@ -20,6 +20,12 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 - Erklärungen: `scripts/lexikon.json` (Regex-Muster → kinderleichte DE-Erklärung)
 - Dashboard lokal testen: file:// ist im Playwright blockiert → Mini-Node-HTTP-Server auf Port 8377
 
+### Automatisierung (seit 2026-06-12)
+- GitHub-Repo: `https://github.com/chorvatkatai-sudo/makro-radar` (privat). Lokale Commits laufen unter der GitHub-noreply-Adresse (E-Mail-Privacy aktiv!). gh-CLI installiert unter `C:\Program Files\GitHub CLI\gh.exe`.
+- Cloud-Routine „Makro-Radar Freitags-Briefing" (`trig_01UsiZ86wkEZPCQpoA8JoVJu`, Modell: claude-opus-4-8): jeden Freitag 13:00 UTC (≈15:00 Wien) erstellt ein Cloud-Agent das Freitags-Briefing und pusht nach main. Verwaltung: https://claude.ai/code/routines
+- `START.bat` macht vor dem Öffnen `git pull --rebase --autostash` — so landet das Cloud-Briefing automatisch lokal.
+- WICHTIG für lokale Sessions: Am Ende committen UND pushen, sonst kollidiert der Freitags-Push des Cloud-Agenten. Generierte Dateien (dashboard/data.js, daten/naechste-woche.json) sind gitignored.
+
 ### Session-Workflow für Briefings
 1. `node scripts/fetch-kalender.mjs` (frische Kalenderdaten)
 2. Websuche: Ist-Werte der letzten Tage + aktuelle Makro-Lage (+ freitags: nächste Woche, CME FedWatch)

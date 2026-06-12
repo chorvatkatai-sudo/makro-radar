@@ -16,7 +16,20 @@
       "PowerShell(Copy-Item *)",
       "Skill(schedule)",
       "PowerShell(gh *)",
-      "PowerShell(git *)"
+      "PowerShell(git *)",
+      "PowerShell(winget install *)",
+      "PowerShell(echo \"\" | & \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" auth login -h github.com -p https -w --skip-ssh-key)",
+      "PowerShell(Start-Process \"https://github.com/login/device\")",
+      "PowerShell(Stop-Process *)",
+      "PowerShell(& \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" auth status; & \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" api user --jq .login)",
+      "PowerShell(& \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" repo create makro-radar --private --source \"C:\\\\Users\\\\LC-Fleet1\\\\Desktop\\\\MAKROÖKONOMIE FOREX\" --remote origin --push)",
+      "PowerShell(Start-Process \"https://github.com/apps/claude/installations/new\")",
+      "PowerShell($gh = \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\"; for \\($i=0; $i -lt 40; $i++\\) { $c = & $gh api repos/chorvatkatai-sudo/makro-radar/commits?per_page=1 --jq '.[0].commit.message' 2>$null; if \\($c -and $c -notmatch '^Makro-Radar:'\\) { Write-Output \"NEUER COMMIT: $c\"; exit 0 }; Start-Sleep -Seconds 30 }; Write-Output \"TIMEOUT: nach 20 Minuten kein neuer Commit\")",
+      "PowerShell($gh = \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\"; $alt = \\(git rev-parse HEAD\\).Trim\\(\\); for \\($i=0; $i -lt 40; $i++\\) { $sha = \\(& $gh api repos/chorvatkatai-sudo/makro-radar/commits?per_page=1 --jq '.[0].sha'\\).Trim\\(\\); if \\($sha -and $sha -ne $alt\\) { Write-Output \"NEUER COMMIT: $sha\"; & $gh api repos/chorvatkatai-sudo/makro-radar/commits?per_page=1 --jq '.[0].commit.message'; exit 0 }; Start-Sleep -Seconds 30 }; Write-Output \"TIMEOUT: nach 20 Minuten kein neuer Commit\")",
+      "Skill(claude-api)",
+      "PowerShell(& \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" api repos/chorvatkatai-sudo/makro-radar/commits --jq '.[] | .sha[0:7] + \" | \" + \\(.commit.message | split\\(\"\\\\n\"\\)[0]\\) + \" | \" + .commit.author.date')",
+      "Bash(/c/Program Files/GitHub CLI/gh.exe api *)",
+      "PowerShell(git pull *)"
     ]
   },
   "enableAllProjectMcpServers": true,

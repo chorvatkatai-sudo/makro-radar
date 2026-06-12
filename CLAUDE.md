@@ -46,3 +46,7 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 - Superwoche-Prognosen: BOJ Erhöhung auf 1,00% (97,7%), RBA Halten bei 4,35% (93%), Fed Halten 3,50-3,75% (97,1%) + hawkisher Dot Plot erwartet, SNB Halten bei 0%, BOE Halten bei 3,75%
 - NZD GDP: KORREKTUR — ist DONNERSTAG 18.6. (nicht Mittwoch wie in Session 1 irrtümlich vermerkt)
 - TODO nächste Session: Superwoche-Ergebnisse einpflegen (BOJ, RBA, Fed, SNB, BOE, UK-CPI, US-Retail, NZD-GDP, UK-Beschäftigung); Iran-Deal-Status prüfen; Prognosen bewerten → lehren[] füllen
+
+### Session-1-Abschluss (2026-06-12, Abend)
+- Webseite live und vom User am Handy bestätigt: https://chorvatkatai-sudo.github.io/makro-radar/
+- Komplett-Setup steht: Dashboard (lokal + Web), Freitags-Routine (Opus 4.8, getestet), Gedächtnis, Quellen-Doku. User ist zufrieden.

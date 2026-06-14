@@ -551,7 +551,8 @@ if (B) {
   // Zins-Cockpit
   if (D.leitzinsen?.zinsen?.length) {
     document.getElementById("sec-zinsen").style.display = "";
-    document.getElementById("zinsen").innerHTML = D.leitzinsen.zinsen.map(z => {
+    const zinsSortiert = [...D.leitzinsen.zinsen].sort((a, b) => (b.satz ?? -1) - (a.satz ?? -1));
+    document.getElementById("zinsen").innerHTML = zinsSortiert.map(z => {
       const pfeil = z.richtung === "rauf" ? `<span class="zr up">▲ Erhöhung erwartet</span>`
                   : z.richtung === "runter" ? `<span class="zr down">▼ Senkung erwartet</span>`
                   : `<span class="zr halt">■ Halten erwartet</span>`;

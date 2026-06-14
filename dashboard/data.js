@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-14T17:59:14.100Z",
+ "erstellt": "2026-06-14T18:06:41.352Z",
  "wochenStart": "2026-06-07",
  "events": [
   {
@@ -3243,10 +3243,10 @@ window.MAKRO_DATA = {
    {
     "code": "NZD",
     "bank": "RBNZ",
-    "satz": null,
-    "anzeige": "—",
-    "naechste": "Jul 2026",
-    "erwartung": "Stand im nächsten Briefing ergänzen",
+    "satz": 2.25,
+    "anzeige": "2,25%",
+    "naechste": "8.7.2026",
+    "erwartung": "Halten bei 2,25% (nach 6 Senkungen jetzt Pause)",
     "richtung": "halten"
    },
    {

@@ -5,7 +5,7 @@
     { "code": "AUD", "bank": "RBA", "satz": 4.35, "anzeige": "4,35%", "naechste": "Di 16.6.", "erwartung": "Halten (93%), hawkisher Ton", "richtung": "halten" },
     { "code": "GBP", "bank": "BOE", "satz": 3.75, "anzeige": "3,75%", "naechste": "Do 18.6.", "erwartung": "Halten — Abstimmung beachten", "richtung": "halten" },
     { "code": "USD", "bank": "Fed", "satz": 3.625, "anzeige": "3,50–3,75%", "naechste": "Mi 17.6.", "erwartung": "Halten (97%), Dot Plot entscheidet", "richtung": "halten" },
-    { "code": "NZD", "bank": "RBNZ", "satz": null, "anzeige": "—", "naechste": "Jul 2026", "erwartung": "Stand im nächsten Briefing ergänzen", "richtung": "halten" },
+    { "code": "NZD", "bank": "RBNZ", "satz": 2.25, "anzeige": "2,25%", "naechste": "8.7.2026", "erwartung": "Halten bei 2,25% (nach 6 Senkungen jetzt Pause)", "richtung": "halten" },
     { "code": "EUR", "bank": "EZB", "satz": 2.40, "anzeige": "2,40%", "naechste": "Jul 2026", "erwartung": "Halten nach frischer Erhöhung", "richtung": "halten" },
     { "code": "CAD", "bank": "BOC", "satz": 2.25, "anzeige": "2,25%", "naechste": "Jul 2026", "erwartung": "Halten", "richtung": "halten" },
     { "code": "JPY", "bank": "BOJ", "satz": 0.75, "anzeige": "0,75%", "naechste": "Di 16.6.", "erwartung": "Erhöhung auf 1,00% (97,7%)", "richtung": "rauf" },

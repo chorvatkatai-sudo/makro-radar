@@ -41,6 +41,28 @@
 
   .karte { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; }
 
+  /* ---------- Major-Paare · Wochen-Score ---------- */
+  .paare-legende { color: var(--dim); font-size: 12.5px; margin: -6px 0 16px; display: flex; gap: 8px 20px; flex-wrap: wrap; }
+  .paare-legende b.g { color: var(--green); }
+  .paare-legende b.r { color: var(--red); }
+  .paare-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(258px, 1fr)); gap: 10px; }
+  .paar-karte { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--faint); border-radius: 13px; padding: 12px 15px; cursor: pointer; }
+  .paar-karte.bull { border-left-color: var(--green); }
+  .paar-karte.bear { border-left-color: var(--red); }
+  .paar-karte.neutral { border-left-color: var(--faint); }
+  .paar-kopf { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 9px; }
+  .paar-name { font-weight: 800; font-size: 16.5px; letter-spacing: .5px; font-variant-numeric: tabular-nums; }
+  .paar-badge { font-size: 12px; font-weight: 800; padding: 4px 11px; border-radius: 99px; letter-spacing: .5px; white-space: nowrap; }
+  .paar-badge.bull { color: var(--green); background: rgba(63,206,138,.13); border: 1px solid rgba(63,206,138,.42); }
+  .paar-badge.bear { color: var(--red); background: rgba(240,85,107,.13); border: 1px solid rgba(240,85,107,.42); }
+  .paar-badge.neutral { color: var(--dim); background: var(--panel2); border: 1px solid var(--line); }
+  .paar-bar { display: flex; height: 8px; border-radius: 99px; overflow: hidden; background: var(--panel2); }
+  .paar-bar .bull { background: var(--green); }
+  .paar-bar .bear { background: var(--red); }
+  .paar-detail { margin-top: 8px; }
+  .paar-skala { display: flex; justify-content: space-between; font-size: 10.5px; color: var(--faint); margin-bottom: 7px; font-variant-numeric: tabular-nums; }
+  .paar-treiber { font-size: 12.5px; color: var(--dim); line-height: 1.5; }
+
   /* ---------- Briefing ---------- */
   .briefing-titel { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
   .briefing-lage p { margin-bottom: 9px; color: var(--text); }
@@ -131,9 +153,28 @@
   .quellen { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-top: 8px; }
 
   @media (max-width: 640px) {
+    body { font-size: 14.5px; }
+    .wrap { padding: 16px 12px 50px; }
+    section { margin-bottom: 22px; }
+    h2 { margin-bottom: 11px; }
+    .untertitel { margin-bottom: 18px; }
+    header h1 { font-size: 22px; }
+    .gedaechtnis { margin-left: 0; }
+
     .event-zeile { grid-template-columns: 54px 46px 1fr; }
     .event-zeile .impact { display: none; }
     .szenarien, .pfeile { grid-template-columns: 1fr; }
+
+    /* Major-Paare: kompakte Zeilen — Begründung erst beim Antippen */
+    .paare-grid { gap: 8px; }
+    .paar-karte { padding: 11px 13px; position: relative; }
+    .paar-karte::after { content: "▾"; position: absolute; top: 10px; right: 12px; color: var(--faint); font-size: 11px; transition: transform .15s; }
+    .paar-karte.offen::after { transform: rotate(180deg); }
+    .paar-kopf { margin-bottom: 8px; padding-right: 16px; }
+    .paar-name { font-size: 15.5px; }
+    .paar-detail { display: none; }
+    .paar-karte.offen .paar-detail { display: block; }
+    .paare-legende { font-size: 11.5px; gap: 4px 14px; margin-bottom: 13px; }
   }
 </style>
 </head>
@@ -145,6 +186,16 @@
     <div class="gedaechtnis" id="gedaechtnis"></div>
   </header>
   <div class="untertitel">Dein Forex-Wirtschaftskalender — einfach erklärt. Klick auf ein Event für die Erklärung in normalem Deutsch.</div>
+
+  <section id="sec-paare" style="display:none">
+    <h2>Major-Paare · Wochen-Score</h2>
+    <div class="paare-legende">
+      <span><b class="g">▲ Grün = Bullish</b> — Basiswährung wird voraussichtlich stärker</span>
+      <span><b class="r">▼ Rot = Bearish</b> — Basiswährung wird voraussichtlich schwächer</span>
+      <span>Der %-Wert ist meine Makro-Einschätzung für die kommende Woche.</span>
+    </div>
+    <div class="paare-grid" id="paare"></div>
+  </section>
 
   <section id="sec-briefing">
     <h2>Briefing</h2>
@@ -339,6 +390,51 @@ if (B) {
     <div class="briefing-meta">Briefing vom ${esc(B.datum)} · erstellt von Claude in der letzten Session</div>
   </div>`;
   document.getElementById("briefing").innerHTML = html;
+
+  // ---------- Major-Paare · Wochen-Score ----------
+  // Score-Skala: -100 (max bärisch fürs Paar) … 0 (neutral) … +100 (max bullisch).
+  // Quelle 1: expliziter B.paare-Block (meine direkte Paar-Einschätzung).
+  // Quelle 2 (Fallback): aus den Währungs-Scores berechnet (Basis minus Gegenwährung).
+  const MAJORS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD"];
+  const stimmungZuScore = s => s === "bullisch" ? 40 : s === "bärisch" ? -40 : 0;
+  const waehrungScore = code => {
+    const w = (B.waehrungen || {})[code];
+    if (!w) return 0;
+    return typeof w.score === "number" ? w.score : stimmungZuScore(w.stimmung);
+  };
+  const paarScoreAuto = paar => {
+    const [base, quote] = paar.split("/");
+    const roh = waehrungScore(base) - waehrungScore(quote);      // -200 … +200
+    return Math.max(-100, Math.min(100, Math.round(roh / 2)));   // -100 … +100
+  };
+  const explizit = {};
+  (B.paare || []).forEach(p => { explizit[p.paar] = p; });
+  const paarliste = MAJORS.map(paar => {
+    const e = explizit[paar];
+    const score = e && typeof e.score === "number" ? e.score : paarScoreAuto(paar);
+    return { paar, score, treiber: e?.treiber || "" };
+  }).sort((a, b) => Math.abs(b.score) - Math.abs(a.score)); // stärkste Signale zuerst
+
+  document.getElementById("sec-paare").style.display = "";
+  document.getElementById("paare").innerHTML = paarliste.map(p => {
+    const bullPct = Math.max(0, Math.min(100, Math.round(50 + p.score / 2)));
+    const bearPct = 100 - bullPct;
+    const richtung = bullPct > 52 ? "bull" : bullPct < 48 ? "bear" : "neutral";
+    const badge = richtung === "bull" ? `▲ BULLISH ${bullPct}%`
+                : richtung === "bear" ? `▼ BEARISH ${bearPct}%`
+                : `■ NEUTRAL ${bullPct}/${bearPct}`;
+    return `<div class="paar-karte ${richtung}" onclick="this.classList.toggle('offen')">
+      <div class="paar-kopf">
+        <span class="paar-name">${esc(p.paar)}</span>
+        <span class="paar-badge ${richtung}">${badge}</span>
+      </div>
+      <div class="paar-bar"><div class="bull" style="width:${bullPct}%"></div><div class="bear" style="width:${bearPct}%"></div></div>
+      <div class="paar-detail">
+        <div class="paar-skala"><span>${bearPct}% bärisch</span><span>${bullPct}% bullisch</span></div>
+        ${p.treiber ? `<div class="paar-treiber">${esc(p.treiber)}</div>` : ""}
+      </div>
+    </div>`;
+  }).join("");
 
   if (B.waehrungen && Object.keys(B.waehrungen).length) {
     document.getElementById("sec-stimmung").style.display = "";

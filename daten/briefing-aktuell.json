@@ -14,37 +14,82 @@
   "waehrungen": {
     "USD": {
       "stimmung": "neutral",
+      "score": -10,
       "grund": "Iran-Deal = Öl fällt = Inflation fällt = Fed muss nicht erhöhen = Dollar verliert seinen Hauptvorteil. Kurzfristig stützt noch die hohe Inflation und der hawkishe Fed-Chef Warsh."
     },
     "EUR": {
       "stimmung": "bullisch",
+      "score": 45,
       "grund": "EZB hat frisch erhöht (2,40%) und klingt entschlossen. Wenn der Iran-Deal das Öl verbilligt, profitiert auch Europas Wirtschaft — das macht den Euro doppelt stark."
     },
     "GBP": {
       "stimmung": "bärisch",
+      "score": -45,
       "grund": "Wirtschaft schrumpft (-0,1% im April) und die BOE ist gefangen zwischen hoher Inflation und schwacher Konjunktur. UK-CPI nächste Woche entscheidet, ob die Zwickmühle enger wird."
     },
     "JPY": {
       "stimmung": "bullisch",
+      "score": 50,
       "grund": "BOJ wird mit 97,7%-Wahrscheinlichkeit auf 1,00% erhöhen — Dienstag. Das ist seltener Anlass für einen echten Yen-Sprung nach oben. Vorsicht: nach der Entscheidung oft 'Sell the Fact'."
     },
     "CHF": {
       "stimmung": "neutral",
+      "score": -5,
       "grund": "SNB hält Zinsen bei 0% — so gut wie kein Zinsvorteil für den Franken. Aber er ist sicherer Hafen. Der Iran-Deal macht die Welt weniger gefährlich = weniger Flucht in CHF möglich."
     },
     "CAD": {
       "stimmung": "neutral",
+      "score": 0,
       "grund": "Kanada ist ein Ölland — billiges Öl ist eigentlich schlecht für den CAD. Aber billiges Öl senkt auch die Inflation, was der BOC das Leben leichter macht. Zwei Kräfte neutralisieren sich."
     },
     "AUD": {
       "stimmung": "neutral",
+      "score": 10,
       "grund": "RBA hält 4,35% (einer der höchsten G10-Zinssätze) — das stützt den AUD. Hawkish Hold erwartet. China-Daten Dienstag können kurzfristig Ausschläge bringen."
     },
     "NZD": {
       "stimmung": "neutral",
+      "score": 5,
       "grund": "Neuseeland-BIP kommt Donnerstag (18.6., Prognose: +0,9% q/q). Bis dahin schwimmt der Kiwi mit der allgemeinen Marktstimmung."
     }
   },
+  "paare": [
+    {
+      "paar": "USD/JPY",
+      "score": -32,
+      "treiber": "BOJ-Erhöhung auf 1,00% am Dienstag erwartet (97,7%) — seltener Anlass für echte Yen-Stärke. Yen schlägt Dollar. Vorsicht 'Sell the Fact' nach dem Termin."
+    },
+    {
+      "paar": "EUR/USD",
+      "score": 28,
+      "treiber": "EZB frisch erhöht (2,40%) + Öl-Entspannung hilft Europas Wirtschaft. USD verliert seine Zins-Story, falls der Iran-Deal hält. Euro doppelt gestützt."
+    },
+    {
+      "paar": "GBP/USD",
+      "score": -22,
+      "treiber": "UK-Wirtschaft schrumpft (-0,1%), Stagflationsgefahr, BOE in der Klemme. UK-CPI am Mittwoch ist der Knackpunkt — bis dahin Pfund-Schwäche wahrscheinlich."
+    },
+    {
+      "paar": "AUD/USD",
+      "score": 14,
+      "treiber": "RBA hawkisher Hold bei 4,35% stützt den AUD; schwächere Dollar-Story hilft zusätzlich. China-Daten am Dienstag sind das Hauptrisiko."
+    },
+    {
+      "paar": "NZD/USD",
+      "score": 10,
+      "treiber": "NZ-BIP am Donnerstag (Prognose +0,9% q/q); Kiwi schwimmt mit der Risk-on-Stimmung bei fallendem Öl. Leicht bullish."
+    },
+    {
+      "paar": "USD/CAD",
+      "score": -8,
+      "treiber": "Öl-Schwäche ist für den CAD zweischneidig (Ölland, aber niedrigere Inflation). USD ohne klare Zins-Story leicht im Nachteil — Paar tendiert knapp nach unten."
+    },
+    {
+      "paar": "USD/CHF",
+      "score": -6,
+      "treiber": "SNB bei 0% = kein Zinsvorteil für den Franken; gleichzeitig schmilzt die Safe-Haven-Prämie mit dem Iran-Deal. Beide Kräfte heben sich fast auf — nahe neutral."
+    }
+  ],
   "wochenausblick": {
     "text": [
       "Nächste Woche ist die dichteste Zentralbank-Woche des Jahres. An drei Tagen entscheiden Japan, Australien, die USA, die Schweiz und England — fünf Notenbanken! Dazu kommt nächste Woche vielleicht noch ein unterschriebener Iran-Deal, der die Bühne komplett umdekoriert.",

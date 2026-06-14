@@ -8,3 +8,8 @@ daten/naechste-woche.json
 # Temporäres
 .playwright-mcp/
 *.png
+
+# ruflo / ruvector — lokale Laufzeit-Datenbanken, nie veröffentlichen
+.swarm/
+ruvector.db
+*.db

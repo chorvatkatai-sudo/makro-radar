@@ -82,6 +82,36 @@
   .paar-detail { margin-top: 8px; }
   .paar-skala { display: flex; justify-content: space-between; font-size: 10.5px; color: var(--faint); margin-bottom: 7px; font-variant-numeric: tabular-nums; }
   .paar-treiber { font-size: 12.5px; color: var(--dim); line-height: 1.5; }
+  .paar-links { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+  .paar-kurs { font-size: 12px; color: var(--faint); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .paar-kurs .move { font-weight: 800; }
+  .paar-kurs .move.up { color: var(--green); }
+  .paar-kurs .move.down { color: var(--red); }
+  .paar-kurs .kurs-label { color: var(--faint); font-size: 10px; opacity: .8; }
+
+  /* Treffer-Quote-Box */
+  .quote-box { background: var(--panel); border: 1px solid var(--line); border-radius: 11px; padding: 9px 14px; font-size: 13px; color: var(--dim); margin: -4px 0 14px; box-shadow: var(--schatten); }
+  .quote-box b { color: var(--green); font-size: 14px; }
+
+  /* Daten-Momentum in Stimmungskarten */
+  .mom { font-size: 11.5px; margin-top: 5px; font-weight: 700; }
+  .mom.up { color: var(--green); }
+  .mom.down { color: var(--red); }
+  .mom.flat { color: var(--faint); }
+
+  /* Zins-Cockpit */
+  .zins-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 10px; }
+  .zins-karte { background: var(--panel); border: 1px solid var(--line); border-radius: 13px; padding: 13px 15px; box-shadow: var(--schatten); }
+  .zins-kopf { display: flex; align-items: baseline; gap: 8px; }
+  .zins-code { font-weight: 800; font-size: 14.5px; }
+  .zins-bank { color: var(--faint); font-size: 12px; }
+  .zins-satz { font-size: 24px; font-weight: 800; margin: 4px 0 6px; font-variant-numeric: tabular-nums; letter-spacing: .5px; }
+  .zr { font-size: 11.5px; font-weight: 700; }
+  .zr.up { color: var(--green); }
+  .zr.down { color: var(--red); }
+  .zr.halt { color: var(--dim); }
+  .zins-naechste { font-size: 11.5px; color: var(--faint); margin-top: 6px; line-height: 1.45; }
+  .zins-naechste b { color: var(--dim); }
 
   /* ---------- Briefing ---------- */
   .briefing-titel { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
@@ -215,6 +245,7 @@
       <span><b class="r">▼ Rot = Bearish</b> — Basiswährung wird voraussichtlich schwächer</span>
       <span>Der %-Wert ist meine Makro-Einschätzung für die kommende Woche.</span>
     </div>
+    <div class="quote-box" id="quoteBox" style="display:none"></div>
     <div class="paare-grid" id="paare"></div>
   </section>
 
@@ -226,6 +257,12 @@
   <section id="sec-stimmung" style="display:none">
     <h2>Währungs-Stimmung</h2>
     <div class="stimmung-grid" id="stimmung"></div>
+  </section>
+
+  <section id="sec-zinsen" style="display:none">
+    <h2>Zins-Cockpit — wer zahlt am meisten?</h2>
+    <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px">Höherer Zins = die Währung wirft mehr ab und lockt eher Käufer (vereinfacht). Pfeil = Erwartung für die nächste Sitzung. Sortiert vom höchsten zum niedrigsten Zins.</div>
+    <div class="zins-grid" id="zinsen"></div>
   </section>
 
   <section>
@@ -458,7 +495,10 @@ if (B) {
                 : `■ NEUTRAL ${bullPct}/${bearPct}`;
     return `<div class="paar-karte ${richtung}" onclick="this.classList.toggle('offen')">
       <div class="paar-kopf">
-        <span class="paar-name">${esc(p.paar)}</span>
+        <div class="paar-links">
+          <span class="paar-name">${esc(p.paar)}</span>
+          <span class="paar-kurs" data-pair="${esc(p.paar)}">&nbsp;</span>
+        </div>
         <span class="paar-badge ${richtung}">${badge}</span>
       </div>
       <div class="paar-bar"><div class="bull" style="width:${bullPct}%"></div><div class="bear" style="width:${bearPct}%"></div></div>
@@ -469,15 +509,74 @@ if (B) {
     </div>`;
   }).join("");
 
+  // Treffer-Quote (Selbstlernen)
+  const Q = D.prognoseQuote;
+  if (Q) {
+    const box = document.getElementById("quoteBox");
+    box.style.display = "";
+    if (Q.wochenAusgewertet > 0 && Q.quote != null) {
+      box.innerHTML = `🎯 Treffer-Quote meines Scorings: <b>${Q.quote}%</b> — ${Q.treffer} von ${Q.gesamt} Paar-Richtungen stimmten über ${Q.wochenAusgewertet} ausgewertete Woche${Q.wochenAusgewertet > 1 ? "n" : ""}. Wird mit jeder Woche aussagekräftiger.`;
+    } else {
+      box.innerHTML = `🎯 Selbstlernen läuft: <b style="color:var(--amber)">${Q.wochenErfasst}</b> Woche${Q.wochenErfasst > 1 ? "n" : ""} erfasst — die erste Treffer-Quote erscheint nach Abschluss der kommenden Woche.`;
+    }
+  }
+
+  // Live-Kurse + Wochen-Bewegung (ECB-Tageskurse, frankfurter.dev — kostenlos, ohne Schlüssel)
+  (async () => {
+    try {
+      const woVor = new Date(jetzt); woVor.setDate(woVor.getDate() - 7);
+      const ds = d => d.toISOString().slice(0, 10);
+      const base = "https://api.frankfurter.dev/v1/", sym = "USD,JPY,GBP,CHF,CAD,AUD,NZD";
+      const [aktuell, alt] = await Promise.all([
+        fetch(base + "latest?base=EUR&symbols=" + sym).then(r => r.json()),
+        fetch(base + ds(woVor) + "?base=EUR&symbols=" + sym).then(r => r.json())
+      ]);
+      const eurZu = (c, r) => c === "EUR" ? 1 : r[c];
+      const preis = (paar, r) => { const [b, q] = paar.split("/"); const pb = eurZu(b, r), pq = eurZu(q, r); return pb && pq ? pq / pb : null; };
+      document.querySelectorAll(".paar-kurs").forEach(el => {
+        const paar = el.dataset.pair;
+        const p1 = preis(paar, aktuell.rates), p0 = preis(paar, alt.rates);
+        if (!p1) { el.innerHTML = "&nbsp;"; return; }
+        const move = p0 ? (p1 - p0) / p0 * 100 : 0;
+        const stellen = p1 < 10 ? 4 : 2;
+        const pfeil = move > 0 ? "▲" : move < 0 ? "▼" : "■";
+        const kl = move > 0 ? "up" : move < 0 ? "down" : "";
+        el.innerHTML = `${p1.toFixed(stellen)} <span class="move ${kl}">${pfeil} ${move > 0 ? "+" : ""}${move.toFixed(2)}%</span> <span class="kurs-label">7T</span>`;
+      });
+    } catch (e) {
+      document.querySelectorAll(".paar-kurs").forEach(el => { el.innerHTML = `<span class="kurs-label">Kurs offline</span>`; });
+    }
+  })();
+
+  // Zins-Cockpit
+  if (D.leitzinsen?.zinsen?.length) {
+    document.getElementById("sec-zinsen").style.display = "";
+    document.getElementById("zinsen").innerHTML = D.leitzinsen.zinsen.map(z => {
+      const pfeil = z.richtung === "rauf" ? `<span class="zr up">▲ Erhöhung erwartet</span>`
+                  : z.richtung === "runter" ? `<span class="zr down">▼ Senkung erwartet</span>`
+                  : `<span class="zr halt">■ Halten erwartet</span>`;
+      return `<div class="zins-karte">
+        <div class="zins-kopf"><span class="zins-code">${esc(z.code)}</span><span class="zins-bank">${esc(z.bank)}</span></div>
+        <div class="zins-satz">${esc(z.anzeige)}</div>
+        ${pfeil}
+        <div class="zins-naechste">Nächste: <b>${esc(z.naechste)}</b><br>${esc(z.erwartung)}</div>
+      </div>`;
+    }).join("");
+  }
+
   if (B.waehrungen && Object.keys(B.waehrungen).length) {
     document.getElementById("sec-stimmung").style.display = "";
     const W = D.lexikon?.waehrungen || {};
     document.getElementById("stimmung").innerHTML = Object.entries(B.waehrungen).map(([code, w]) => {
       const cls = w.stimmung === "bullisch" ? "bullisch" : w.stimmung === "bärisch" ? "baerisch" : "neutral";
       const pfeil = w.stimmung === "bullisch" ? "▲" : w.stimmung === "bärisch" ? "▼" : "■";
+      const mm = D.momentum?.[code];
+      const momHtml = (mm && (mm.ueber + mm.unter) > 0)
+        ? `<div class="mom ${mm.score > 0 ? "up" : mm.score < 0 ? "down" : "flat"}" title="Wie oft kamen wichtige Daten dieser Währung zuletzt über bzw. unter der Markt-Prognose">${mm.score > 0 ? "▲" : mm.score < 0 ? "▼" : "■"} Daten zuletzt ${mm.ueber}× über / ${mm.unter}× unter Erwartung</div>`
+        : "";
       return `<div class="stimmung ${cls}">
         <div class="code">${esc(code)}</div>
-        <div class="info"><div class="label">${pfeil} ${esc((w.stimmung || "neutral").toUpperCase())}</div>${esc(w.grund || "")}<div style="color:var(--faint);font-size:11.5px;margin-top:3px">${esc(W[code]?.name || "")}${W[code]?.spitzname ? " · " + esc(W[code].spitzname) : ""}</div></div>
+        <div class="info"><div class="label">${pfeil} ${esc((w.stimmung || "neutral").toUpperCase())}</div>${esc(w.grund || "")}${momHtml}<div style="color:var(--faint);font-size:11.5px;margin-top:3px">${esc(W[code]?.name || "")}${W[code]?.spitzname ? " · " + esc(W[code].spitzname) : ""}</div></div>
       </div>`;
     }).join("");
   }

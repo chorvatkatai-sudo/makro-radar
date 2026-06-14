@@ -19,6 +19,10 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 - Briefing: Claude schreibt `daten/briefing-aktuell.json` (Schema: datum, typ, titel, lage[], waehrungen{code:{stimmung:bullisch|bärisch|neutral, **score** (ganzzahl -100..+100, meine Makro-Einschätzung für die Währung), grund}}, **paare[{paar:"EUR/USD", score:-100..+100 aus Sicht der Basiswährung (+ = Basis wird stärker = bullish fürs Paar, − = bearish), treiber (kurzer Makro-Grund)}]**, wochenausblick{text[],termine[]}, prognosen[{event,termin,prognoseMarkt,meineEinschaetzung,wennHoeher,wennNiedriger}], lehren[]), archiviert Kopie nach `daten/briefing-archiv/`, dann `node scripts/fetch-kalender.mjs --lokal` zum Neubauen von data.js
 - **Major-Paare-Übersicht (oben im Dashboard, seit Session 2):** `dashboard/index.html` rendert aus `briefing.paare` die 7 Major-Paare (EUR/USD, GBP/USD, USD/JPY, AUD/USD, USD/CAD, USD/CHF, NZD/USD) als Bull/Bear-%-Karten (grün=bullish, rot=bearish), sortiert nach Signalstärke. Umrechnung: bullPct = 50 + score/2. Fehlt `paare`, wird je Paar aus den Währungs-`score`s berechnet (Basis − Gegenwährung, /2); fehlt auch `score`, Fallback aus `stimmung` (bullisch=+40/bärisch=−40/neutral=0). Am Handy sind die Karten kompakt — Begründung erst beim Antippen. **Jedes Freitags-Briefing soll `paare` füllen, damit das Scoring mit den gesammelten Daten über die Zeit besser wird.**
 - Erklärungen: `scripts/lexikon.json` (Regex-Muster → kinderleichte DE-Erklärung)
+- **Live-Kurse (seit Session 2):** Dashboard holt CLIENT-SEITIG (im Browser, immer frisch beim Öffnen) ECB-Tageskurse von `https://api.frankfurter.dev/v1/` (kostenlos, kein Key, CORS offen). Zeigt je Major-Paar aktuellen Preis + 7-Tage-%-Bewegung (grün/rot). Paarpreis aus EUR-Basis: `eurZu(quote)/eurZu(base)`.
+- **Zins-Cockpit (seit Session 2):** `daten/leitzinsen.json` (gepflegt in Sessions/Briefings: satz als Zahl, anzeige, naechste Sitzung, erwartung, richtung rauf|runter|halten). Dashboard zeigt Karten sortiert nach Zinshöhe. **Bei jedem Briefing aktuell halten!** (NZD/RBNZ-Satz steht noch auf null/„—" — nachtragen.)
+- **Selbstlernen / Treffer-Quote (seit Session 2):** `daten/prognose-historie.json` (append-only). Das Build-Skript speichert je Vorhersage-Woche (= Montag nach briefing.datum) die `paare`-Scores und wertet ABGESCHLOSSENE Wochen online aus: Vorzeichen des Scores vs. echte FX-Bewegung (Mo→Fr via frankfurter), pro Paar Treffer/Fehler → Quote. Wird ins Dashboard als „Treffer-Quote" gebacken. Läuft automatisch beim Online-Lauf (nicht bei `--lokal`).
+- **Überraschungs-Momentum (seit Session 2):** Build-Skript zählt je Währung aus `historie.json`, wie oft High-Impact-Ist-Werte über/unter Prognose lagen → Badge in den Stimmungskarten. Wird besser, je mehr Ist-Werte nachgetragen sind.
 - Dashboard lokal testen: file:// ist im Playwright blockiert → Mini-Node-HTTP-Server auf Port 8377
 
 ### Automatisierung (seit 2026-06-12)
@@ -32,7 +36,7 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 1. `node scripts/fetch-kalender.mjs` (frische Kalenderdaten)
 2. Websuche: Ist-Werte der letzten Tage + aktuelle Makro-Lage (+ freitags: nächste Woche, CME FedWatch)
 3. Ist-Werte via setze-ist-wert.mjs nachtragen
-4. briefing-aktuell.json schreiben + archivieren, `--lokal` neu bauen
+4. briefing-aktuell.json schreiben (inkl. `waehrungen[].score` + `paare[]`!) + archivieren; `daten/leitzinsen.json` aktualisieren; dann ONLINE `node scripts/fetch-kalender.mjs` (wertet abgeschlossene Prognose-Wochen aus) oder `--lokal` zum Neubauen
 5. Status hier in CLAUDE.md aktualisieren
 
 ### Status nach Session 1 (2026-06-12)
@@ -51,3 +55,11 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 ### Session-1-Abschluss (2026-06-12, Abend)
 - Webseite live und vom User am Handy bestätigt: https://chorvatkatai-sudo.github.io/makro-radar/
 - Komplett-Setup steht: Dashboard (lokal + Web), Freitags-Routine (Opus 4.8, getestet), Gedächtnis, Quellen-Doku. User ist zufrieden.
+
+### Session 2 (2026-06-14) — Major-Paare-Scoring, helles Design, Makro-Ausbau
+- ruflo/MCPs/Skills aktiviert (laufen auf Session-Ebene; ruflo-DBs `.swarm/`+`*.db` gitignored).
+- **Major-Paare-Wochen-Score** ganz oben im Dashboard (7 Paare, bull/bear %, grün/rot, handy-kompakt mit Antippen). Quelle: `briefing.paare` + `waehrungen[].score`.
+- **Helles Design als Standard** + ☀/🌙-Umschalter (localStorage). Dunkelmodus erhalten.
+- 4 Makro-Features gebaut (alle vom User gewünscht): **Live-Kurse** (frankfurter.dev, client-seitig, 7-Tage-%), **Treffer-Quote/Selbstlernen** (`prognose-historie.json`, Auswertung Score-Vorzeichen vs. echte Bewegung), **Zins-Cockpit** (`leitzinsen.json`), **Überraschungs-Momentum** (aus historie.json).
+- Alles getestet (Playwright, Desktop+Handy, hell). Live gepusht.
+- TODO nächste Session: NZD/RBNZ-Zinssatz in `leitzinsen.json` ergänzen (steht auf „—"); Superwoche-Ist-Werte nachtragen (füttert Momentum + nach Wochenende erste Treffer-Quote); Prognosen bewerten → lehren[].

@@ -147,6 +147,89 @@ const historieAuszug = Object.values(historie.events)
   .sort((a, b) => new Date(b.datum) - new Date(a.datum))
   .slice(0, 60);
 
+// 5) Leitzinsen (Zins-Cockpit) — gepflegte Datei, nur durchreichen
+const leitzinsen = leseJson(path.join(DATEN, "leitzinsen.json"), null);
+
+// 6) Überraschungs-Momentum je Währung: zählen, wie oft High-Impact-Daten
+//    über/unter der Prognose lagen (grobe Daten-Momentum-Anzeige).
+const alsZahl = s => { const n = parseFloat(String(s).replace(",", ".").replace(/[^\d.\-]/g, "")); return isNaN(n) ? null : n; };
+const momentum = {};
+for (const e of Object.values(historie.events)) {
+  if (e.impact !== "High") continue;
+  const a = alsZahl(e.actual), f = alsZahl(e.prognose);
+  if (a === null || f === null) continue;
+  const m = (momentum[e.land] = momentum[e.land] || { ueber: 0, unter: 0, gleich: 0, gesamt: 0 });
+  m.gesamt++;
+  if (a > f) m.ueber++; else if (a < f) m.unter++; else m.gleich++;
+}
+for (const code in momentum) momentum[code].score = momentum[code].ueber - momentum[code].unter;
+
+// 7) Prognose-Gedächtnis (Selbstlernen): je Vorhersage-Woche die Paar-Scores
+//    speichern und abgeschlossene Wochen gegen die echte FX-Bewegung auswerten.
+const eurZu = (ccy, r) => ccy === "EUR" ? 1 : r[ccy];
+const paarPreis = (paar, r) => { const [b, q] = paar.split("/"); const pb = eurZu(b, r), pq = eurZu(q, r); return pb && pq ? pq / pb : null; };
+async function holeKurse(datum) {
+  const url = `https://api.frankfurter.dev/v1/${datum}?base=EUR&symbols=USD,JPY,GBP,CHF,CAD,AUD,NZD`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return (await res.json()).rates;
+}
+function naechsterMontag(datumStr) {
+  const d = new Date(datumStr + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() + ((8 - d.getUTCDay()) % 7 || 7));
+  return d.toISOString().slice(0, 10);
+}
+const prognoseDatei = path.join(DATEN, "prognose-historie.json");
+const prognoseHist = leseJson(prognoseDatei, { hinweis: "Selbstlernen: je Vorhersage-Woche die Paar-Scores + spätere Auswertung gegen die echte Kursbewegung (frankfurter.dev, ECB-Tageskurse).", wochen: [] });
+
+// 7a) Aktuelle Briefing-Prognose als kommende Woche festhalten (einmalig je Woche)
+if (briefing?.paare?.length && briefing?.datum) {
+  const zielWoche = naechsterMontag(briefing.datum);
+  if (!prognoseHist.wochen.find(w => w.woche === zielWoche)) {
+    const paare = {};
+    briefing.paare.forEach(p => { if (typeof p.score === "number") paare[p.paar] = p.score; });
+    if (Object.keys(paare).length) prognoseHist.wochen.push({ woche: zielWoche, ausBriefing: briefing.datum, paare, auswertung: null });
+  }
+}
+
+// 7b) Abgeschlossene Wochen auswerten (nur online)
+const jetztDatum = new Date();
+if (!NUR_LOKAL) {
+  for (const w of prognoseHist.wochen) {
+    if (w.auswertung) continue;
+    const freitag = new Date(w.woche + "T00:00:00Z"); freitag.setUTCDate(freitag.getUTCDate() + 4);
+    if (freitag >= jetztDatum) continue;                          // Woche noch nicht vorbei
+    try {
+      const rStart = await holeKurse(w.woche);
+      const rEnde = await holeKurse(freitag.toISOString().slice(0, 10));
+      let treffer = 0, gesamt = 0; const details = {};
+      for (const paar in w.paare) {
+        const score = w.paare[paar];
+        if (!score) continue;                                     // 0 = neutral, nicht werten
+        const p0 = paarPreis(paar, rStart), p1 = paarPreis(paar, rEnde);
+        if (!p0 || !p1) continue;
+        const moveProzent = (p1 - p0) / p0 * 100;
+        const richtig = Math.sign(moveProzent) === Math.sign(score);
+        gesamt++; if (richtig) treffer++;
+        details[paar] = { score, moveProzent: +moveProzent.toFixed(2), treffer: richtig };
+      }
+      w.auswertung = { treffer, gesamt, quote: gesamt ? Math.round(treffer / gesamt * 100) : null, details };
+      console.log(`Prognose-Auswertung ${w.woche}: ${treffer}/${gesamt} richtig`);
+    } catch (err) { console.warn(`Prognose-Auswertung ${w.woche} fehlgeschlagen: ${err.message}`); }
+  }
+}
+fs.writeFileSync(prognoseDatei, JSON.stringify(prognoseHist, null, 2));
+
+const ausgewertet = prognoseHist.wochen.filter(w => w.auswertung && w.auswertung.gesamt);
+const summe = ausgewertet.reduce((s, w) => ({ t: s.t + w.auswertung.treffer, g: s.g + w.auswertung.gesamt }), { t: 0, g: 0 });
+const prognoseQuote = {
+  wochenAusgewertet: ausgewertet.length,
+  treffer: summe.t, gesamt: summe.g,
+  quote: summe.g ? Math.round(summe.t / summe.g * 100) : null,
+  wochenErfasst: prognoseHist.wochen.length,
+  letzte: ausgewertet.slice(-6).map(w => ({ woche: w.woche, quote: w.auswertung.quote, treffer: w.auswertung.treffer, gesamt: w.auswertung.gesamt }))
+};
+
 const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   erstellt: new Date().toISOString(),
   wochenStart: woche,
@@ -154,6 +237,9 @@ const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   naechsteWoche,
   briefing,
   lexikon,
+  leitzinsen,
+  momentum,
+  prognoseQuote,
   historie: historieAuszug,
   anzahlGespeichert: Object.keys(historie.events).length
 }, null, 1) + ";\n";

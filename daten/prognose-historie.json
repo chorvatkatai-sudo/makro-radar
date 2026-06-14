@@ -1,0 +1,19 @@
+{
+  "hinweis": "Selbstlernen: je Vorhersage-Woche die Paar-Scores + spätere Auswertung gegen die echte Kursbewegung (frankfurter.dev, ECB-Tageskurse).",
+  "wochen": [
+    {
+      "woche": "2026-06-15",
+      "ausBriefing": "2026-06-12",
+      "paare": {
+        "USD/JPY": -32,
+        "EUR/USD": 28,
+        "GBP/USD": -22,
+        "AUD/USD": 14,
+        "NZD/USD": 10,
+        "USD/CAD": -8,
+        "USD/CHF": -6
+      },
+      "auswertung": null
+    }
+  ]
+}

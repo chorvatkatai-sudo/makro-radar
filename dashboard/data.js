@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-14T17:46:56.536Z",
+ "erstellt": "2026-06-14T17:59:14.100Z",
  "wochenStart": "2026-06-07",
  "events": [
   {
@@ -3208,6 +3208,122 @@ window.MAKRO_DATA = {
     "zentralbank": ""
    }
   }
+ },
+ "leitzinsen": {
+  "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
+  "stand": "2026-06-14",
+  "zinsen": [
+   {
+    "code": "AUD",
+    "bank": "RBA",
+    "satz": 4.35,
+    "anzeige": "4,35%",
+    "naechste": "Di 16.6.",
+    "erwartung": "Halten (93%), hawkisher Ton",
+    "richtung": "halten"
+   },
+   {
+    "code": "GBP",
+    "bank": "BOE",
+    "satz": 3.75,
+    "anzeige": "3,75%",
+    "naechste": "Do 18.6.",
+    "erwartung": "Halten — Abstimmung beachten",
+    "richtung": "halten"
+   },
+   {
+    "code": "USD",
+    "bank": "Fed",
+    "satz": 3.625,
+    "anzeige": "3,50–3,75%",
+    "naechste": "Mi 17.6.",
+    "erwartung": "Halten (97%), Dot Plot entscheidet",
+    "richtung": "halten"
+   },
+   {
+    "code": "NZD",
+    "bank": "RBNZ",
+    "satz": null,
+    "anzeige": "—",
+    "naechste": "Jul 2026",
+    "erwartung": "Stand im nächsten Briefing ergänzen",
+    "richtung": "halten"
+   },
+   {
+    "code": "EUR",
+    "bank": "EZB",
+    "satz": 2.4,
+    "anzeige": "2,40%",
+    "naechste": "Jul 2026",
+    "erwartung": "Halten nach frischer Erhöhung",
+    "richtung": "halten"
+   },
+   {
+    "code": "CAD",
+    "bank": "BOC",
+    "satz": 2.25,
+    "anzeige": "2,25%",
+    "naechste": "Jul 2026",
+    "erwartung": "Halten",
+    "richtung": "halten"
+   },
+   {
+    "code": "JPY",
+    "bank": "BOJ",
+    "satz": 0.75,
+    "anzeige": "0,75%",
+    "naechste": "Di 16.6.",
+    "erwartung": "Erhöhung auf 1,00% (97,7%)",
+    "richtung": "rauf"
+   },
+   {
+    "code": "CHF",
+    "bank": "SNB",
+    "satz": 0,
+    "anzeige": "0,00%",
+    "naechste": "Do 18.6.",
+    "erwartung": "Halten bei 0%",
+    "richtung": "halten"
+   }
+  ]
+ },
+ "momentum": {
+  "USD": {
+   "ueber": 2,
+   "unter": 1,
+   "gleich": 3,
+   "gesamt": 6,
+   "score": 1
+  },
+  "CAD": {
+   "ueber": 0,
+   "unter": 0,
+   "gleich": 1,
+   "gesamt": 1,
+   "score": 0
+  },
+  "EUR": {
+   "ueber": 0,
+   "unter": 0,
+   "gleich": 1,
+   "gesamt": 1,
+   "score": 0
+  },
+  "GBP": {
+   "ueber": 0,
+   "unter": 0,
+   "gleich": 1,
+   "gesamt": 1,
+   "score": 0
+  }
+ },
+ "prognoseQuote": {
+  "wochenAusgewertet": 0,
+  "treffer": 0,
+  "gesamt": 0,
+  "quote": null,
+  "wochenErfasst": 1,
+  "letzte": []
  },
  "historie": [
   {

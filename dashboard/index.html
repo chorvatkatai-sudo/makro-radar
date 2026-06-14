@@ -4,8 +4,25 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MAKRO-RADAR · Forex Dashboard</title>
+<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('makro-theme')||'light')}catch(e){document.documentElement.setAttribute('data-theme','light')}</script>
 <style>
   :root {
+    /* Helles Design (Standard) */
+    --bg: #eef1f7;
+    --panel: #ffffff;
+    --panel2: #f3f5fa;
+    --line: #e0e5f0;
+    --text: #161c2d;
+    --dim: #55637c;
+    --faint: #95a0b5;
+    --amber: #b3760a;
+    --green: #15a35a;
+    --red: #db3b54;
+    --blue: #2f6fd6;
+    --orange: #d9760f;
+    --schatten: 0 1px 3px rgba(22, 30, 55, .06), 0 1px 2px rgba(22, 30, 55, .04);
+  }
+  :root[data-theme="dark"] {
     --bg: #0b0f17;
     --panel: #121826;
     --panel2: #1a2234;
@@ -18,6 +35,7 @@
     --red: #f0556b;
     --blue: #5b9cf6;
     --orange: #f08c3f;
+    --schatten: none;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -32,21 +50,23 @@
   header h1 { font-size: 26px; letter-spacing: 2px; font-weight: 800; }
   header h1 span { color: var(--amber); }
   .kopf-info { color: var(--dim); font-size: 14px; }
-  .gedaechtnis { margin-left: auto; font-size: 12.5px; color: var(--faint); background: var(--panel); border: 1px solid var(--line); padding: 4px 12px; border-radius: 99px; }
+  .gedaechtnis { margin-left: auto; font-size: 12.5px; color: var(--faint); background: var(--panel); border: 1px solid var(--line); padding: 4px 12px; border-radius: 99px; box-shadow: var(--schatten); }
+  .theme-btn { font-size: 16px; line-height: 1; background: var(--panel); border: 1px solid var(--line); color: var(--text); width: 34px; height: 34px; border-radius: 99px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; box-shadow: var(--schatten); }
+  .theme-btn:hover { border-color: var(--amber); }
   .untertitel { color: var(--faint); font-size: 13.5px; margin-bottom: 26px; }
 
   section { margin-bottom: 34px; }
   h2 { font-size: 13px; text-transform: uppercase; letter-spacing: 2.5px; color: var(--amber); margin-bottom: 14px; display: flex; align-items: center; gap: 10px; }
   h2::after { content: ""; flex: 1; height: 1px; background: var(--line); }
 
-  .karte { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; }
+  .karte { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; box-shadow: var(--schatten); }
 
   /* ---------- Major-Paare · Wochen-Score ---------- */
   .paare-legende { color: var(--dim); font-size: 12.5px; margin: -6px 0 16px; display: flex; gap: 8px 20px; flex-wrap: wrap; }
   .paare-legende b.g { color: var(--green); }
   .paare-legende b.r { color: var(--red); }
   .paare-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(258px, 1fr)); gap: 10px; }
-  .paar-karte { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--faint); border-radius: 13px; padding: 12px 15px; cursor: pointer; }
+  .paar-karte { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--faint); border-radius: 13px; padding: 12px 15px; cursor: pointer; box-shadow: var(--schatten); }
   .paar-karte.bull { border-left-color: var(--green); }
   .paar-karte.bear { border-left-color: var(--red); }
   .paar-karte.neutral { border-left-color: var(--faint); }
@@ -70,7 +90,7 @@
   .briefing-meta { color: var(--faint); font-size: 12.5px; margin-top: 10px; }
 
   .stimmung-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(245px, 1fr)); gap: 10px; }
-  .stimmung { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; display: flex; gap: 12px; align-items: flex-start; }
+  .stimmung { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; display: flex; gap: 12px; align-items: flex-start; box-shadow: var(--schatten); }
   .stimmung .code { font-weight: 800; font-size: 15px; padding: 3px 9px; border-radius: 8px; background: var(--panel2); border: 1px solid var(--line); white-space: nowrap; }
   .stimmung .info { font-size: 13px; color: var(--dim); }
   .stimmung .label { font-weight: 700; font-size: 13.5px; margin-bottom: 2px; }
@@ -99,7 +119,7 @@
   .tag-kopf { font-size: 14px; font-weight: 700; color: var(--dim); margin-bottom: 8px; }
   .tag-kopf.heute { color: var(--amber); }
   .tag-kopf .datum { color: var(--faint); font-weight: 400; margin-left: 8px; font-size: 12.5px; }
-  .event { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 8px; overflow: hidden; }
+  .event { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 8px; overflow: hidden; box-shadow: var(--schatten); }
   .event.vorbei { opacity: .55; }
   .event-zeile { display: grid; grid-template-columns: 64px 52px 1fr auto; gap: 12px; align-items: center; padding: 11px 16px; cursor: pointer; }
   .event-zeile:hover { background: var(--panel2); }
@@ -184,6 +204,7 @@
     <h1>MAKRO<span>·</span>RADAR</h1>
     <div class="kopf-info" id="kopfDatum"></div>
     <div class="gedaechtnis" id="gedaechtnis"></div>
+    <button class="theme-btn" id="themeBtn" title="Hell/Dunkel umschalten" aria-label="Hell/Dunkel umschalten"></button>
   </header>
   <div class="untertitel">Dein Forex-Wirtschaftskalender — einfach erklärt. Klick auf ein Event für die Erklärung in normalem Deutsch.</div>
 
@@ -285,6 +306,18 @@ document.getElementById("kopfDatum").textContent =
 document.getElementById("gedaechtnis").textContent =
   "🧠 Gedächtnis: " + (D.anzahlGespeichert || 0) + " Events gespeichert · Stand " +
   (D.erstellt ? fmtDatum(new Date(D.erstellt)) + " " + fmtZeit(new Date(D.erstellt)) : "—");
+
+// ---------- Hell/Dunkel-Umschalter ----------
+const themeWurzel = document.documentElement;
+const themeBtn = document.getElementById("themeBtn");
+const themeIcon = () => { themeBtn.textContent = themeWurzel.getAttribute("data-theme") === "dark" ? "☀" : "🌙"; };
+themeIcon();
+themeBtn.onclick = () => {
+  const neu = themeWurzel.getAttribute("data-theme") === "dark" ? "light" : "dark";
+  themeWurzel.setAttribute("data-theme", neu);
+  try { localStorage.setItem("makro-theme", neu); } catch (e) {}
+  themeIcon();
+};
 
 // ---------- Lexikon-Suche ----------
 const begriffe = (D.lexikon?.begriffe || []).map(b => ({ ...b, re: new RegExp(b.muster, "i") }));

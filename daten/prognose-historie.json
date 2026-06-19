@@ -14,6 +14,20 @@
         "USD/CHF": -6
       },
       "auswertung": null
+    },
+    {
+      "woche": "2026-06-22",
+      "ausBriefing": "2026-06-19",
+      "paare": {
+        "USD/CAD": 32,
+        "USD/CHF": 24,
+        "EUR/USD": -28,
+        "NZD/USD": -26,
+        "GBP/USD": -24,
+        "USD/JPY": 16,
+        "AUD/USD": -18
+      },
+      "auswertung": null
     }
   ]
 }

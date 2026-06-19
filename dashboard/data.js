@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-14T18:06:41.352Z",
+ "erstellt": "2026-06-19T13:10:22.543Z",
  "wochenStart": "2026-06-07",
  "events": [
   {
@@ -678,2149 +678,209 @@ window.MAKRO_DATA = {
    "actual": null
   }
  ],
- "naechsteWoche": [
-  {
-   "date": "2026-06-14T22:30:00.000Z",
-   "country": "NZD",
-   "title": "Services NZ PSI",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "48.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-14T22:30:00.000Z",
-   "country": "NZD",
-   "title": "Composite NZ PCI",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "49.4",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-14T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Electronic Retail Card Spending MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-1.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-14T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Electronic Retail Card Spending YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T04:30:00.000Z",
-   "country": "JPY",
-   "title": "Tertiary Industry Index MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T06:30:00.000Z",
-   "country": "CHF",
-   "title": "Producer & Import Prices YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T06:30:00.000Z",
-   "country": "CHF",
-   "title": "Producer & Import Prices MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T07:00:00.000Z",
-   "country": "CHF",
-   "title": "Consumer Confidence",
-   "impact": "Medium",
-   "forecast": "-38",
-   "previous": "-40",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Industrial Production YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-2.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Balance of Trade",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "7.8 €",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Industrial Production MoM",
-   "impact": "Medium",
-   "forecast": "0.3%",
-   "previous": "0.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T12:15:00.000Z",
-   "country": "CAD",
-   "title": "Housing Starts",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "279.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T12:30:00.000Z",
-   "country": "USD",
-   "title": "NY Empire State Manufacturing Index",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "19.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Wholesale Sales MoM Final",
-   "impact": "Low",
-   "forecast": "0.1%",
-   "previous": "1.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Manufacturing Sales MoM Final",
-   "impact": "Low",
-   "forecast": "4.6%",
-   "previous": "3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T13:15:00.000Z",
-   "country": "USD",
-   "title": "Manufacturing Production YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T13:15:00.000Z",
-   "country": "USD",
-   "title": "Capacity Utilization",
-   "impact": "Low",
-   "forecast": "76.2%",
-   "previous": "76.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T13:15:00.000Z",
-   "country": "USD",
-   "title": "Industrial Production MoM",
-   "impact": "Medium",
-   "forecast": "0.2%",
-   "previous": "0.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T13:15:00.000Z",
-   "country": "USD",
-   "title": "Manufacturing Production MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T13:15:00.000Z",
-   "country": "USD",
-   "title": "Industrial Production YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T14:00:00.000Z",
-   "country": "USD",
-   "title": "NAHB Housing Market Index",
-   "impact": "Medium",
-   "forecast": "37",
-   "previous": "37",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T15:30:00.000Z",
-   "country": "USD",
-   "title": "6-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.69%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T15:30:00.000Z",
-   "country": "USD",
-   "title": "3-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.64%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T16:00:00.000Z",
-   "country": "USD",
-   "title": "NOPA Crush Report",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-15T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Food Inflation YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T01:30:00.000Z",
-   "country": "CNY",
-   "title": "House Price Index YoY",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-3.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T02:00:00.000Z",
-   "country": "CNY",
-   "title": "Unemployment Rate",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "5.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T02:00:00.000Z",
-   "country": "CNY",
-   "title": "Retail Sales YoY",
-   "impact": "High",
-   "forecast": "0%",
-   "previous": "0.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T02:00:00.000Z",
-   "country": "CNY",
-   "title": "Fixed Asset Investment (YTD) YoY",
-   "impact": "Medium",
-   "forecast": "-2%",
-   "previous": "-1.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T02:00:00.000Z",
-   "country": "CNY",
-   "title": "Industrial Production YoY",
-   "impact": "High",
-   "forecast": "4.2%",
-   "previous": "4.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T02:35:00.000Z",
-   "country": "NZD",
-   "title": "1-Year Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.055%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T02:35:00.000Z",
-   "country": "NZD",
-   "title": "3-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.4908%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T02:35:00.000Z",
-   "country": "NZD",
-   "title": "6-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.7149%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T03:00:00.000Z",
-   "country": "JPY",
-   "title": "BoJ Interest Rate Decision",
-   "impact": "High",
-   "forecast": "1%",
-   "previous": "0.75%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T04:30:00.000Z",
-   "country": "AUD",
-   "title": "RBA Interest Rate Decision",
-   "impact": "High",
-   "forecast": "4.35%",
-   "previous": "4.35%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T05:30:00.000Z",
-   "country": "AUD",
-   "title": "RBA Press Conference",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Labour Cost Index YoY Final",
-   "impact": "Low",
-   "forecast": "3.3%",
-   "previous": "3.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T09:00:00.000Z",
-   "country": "CNY",
-   "title": "FDI (YTD) YoY",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-10.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T09:00:00.000Z",
-   "country": "EUR",
-   "title": "ZEW Economic Sentiment Index",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-9.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Wage Growth YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T09:00:00.000Z",
-   "country": "GBP",
-   "title": "Treasury Gilt 2036 Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "5.026%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:15:00.000Z",
-   "country": "USD",
-   "title": "ADP Employment Change Weekly",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "29",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "NY Fed Services Activity Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-5.8",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "Building Permits Prel",
-   "impact": "High",
-   "forecast": "1.41",
-   "previous": "1.423",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "Housing Starts",
-   "impact": "High",
-   "forecast": "1.44",
-   "previous": "1.465",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "Import Prices MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "1.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "Export Prices MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "3.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "Export Prices YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "8.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "Building Permits MoM Prel",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "4.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "Housing Starts MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-2.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "USD",
-   "title": "Import Prices YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Foreign Securities Purchases by Canadians",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Foreign Securities Purchases",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.62",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T12:55:00.000Z",
-   "country": "USD",
-   "title": "Redbook YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "9.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T13:00:00.000Z",
-   "country": "NZD",
-   "title": "Global Dairy Trade Price Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T15:30:00.000Z",
-   "country": "USD",
-   "title": "6-Week Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T17:00:00.000Z",
-   "country": "USD",
-   "title": "20-Year Bond Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "5.122%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T20:30:00.000Z",
-   "country": "USD",
-   "title": "API Crude Oil Stock Change",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-9.119",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T21:00:00.000Z",
-   "country": "NZD",
-   "title": "Westpac Consumer Confidence",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "94.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Current Account",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-5.98 NZ$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T23:00:00.000Z",
-   "country": "JPY",
-   "title": "Reuters Tankan Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "8",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Machinery Orders YoY",
-   "impact": "Medium",
-   "forecast": "9.3%",
-   "previous": "5.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Balance of Trade",
-   "impact": "High",
-   "forecast": "-564.6 ¥",
-   "previous": "301.9 ¥",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Exports YoY",
-   "impact": "Medium",
-   "forecast": "16.2%",
-   "previous": "14.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Machinery Orders MoM",
-   "impact": "Medium",
-   "forecast": "0.9%",
-   "previous": "-9.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-16T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Imports YoY",
-   "impact": "Low",
-   "forecast": "12.8%",
-   "previous": "9.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T01:00:00.000Z",
-   "country": "AUD",
-   "title": "Westpac Leading Index MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T01:30:00.000Z",
-   "country": "AUD",
-   "title": "RBA Chart Pack",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T01:30:00.000Z",
-   "country": "AUD",
-   "title": "RBA Jones Speech",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "PPI Core Output MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "PPI Core Output YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "PPI Input MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "PPI Input YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "7.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "PPI Output MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "PPI Output YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Inflation Rate MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Retail Price Index MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Core Inflation Rate YoY",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "2.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Core Inflation Rate MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Inflation Rate YoY",
-   "impact": "High",
-   "forecast": "",
-   "previous": "2.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Retail Price Index YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T07:00:00.000Z",
-   "country": "CHF",
-   "title": "SECO Economic Forecasts",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Inflation Rate MoM Final",
-   "impact": "Low",
-   "forecast": "0.1%",
-   "previous": "1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T09:00:00.000Z",
-   "country": "EUR",
-   "title": "CPI Final",
-   "impact": "Low",
-   "forecast": "103.15",
-   "previous": "103.04",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Inflation Rate YoY Final",
-   "impact": "Low",
-   "forecast": "3.2%",
-   "previous": "3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Core Inflation Rate YoY Final",
-   "impact": "Low",
-   "forecast": "2.5%",
-   "previous": "2.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T10:10:00.000Z",
-   "country": "EUR",
-   "title": "12-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.654%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T10:10:00.000Z",
-   "country": "EUR",
-   "title": "6-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.424%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T10:10:00.000Z",
-   "country": "EUR",
-   "title": "3-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.283%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA 30-Year Mortgage Rate",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "6.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Mortgage Market Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "280.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Mortgage Applications",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "10.8",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Mortgage Refinance Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "848.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Purchase Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "176.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T12:30:00.000Z",
-   "country": "USD",
-   "title": "Retail Sales Ex Gas/Autos MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T12:30:00.000Z",
-   "country": "USD",
-   "title": "Retail Sales YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T12:30:00.000Z",
-   "country": "USD",
-   "title": "Retail Sales MoM",
-   "impact": "High",
-   "forecast": "0.5%",
-   "previous": "0.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T12:30:00.000Z",
-   "country": "USD",
-   "title": "Retail Sales Ex Autos MoM",
-   "impact": "Medium",
-   "forecast": "0.5%",
-   "previous": "0.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T12:30:00.000Z",
-   "country": "USD",
-   "title": "Retail Sales Control Group MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T12:30:00.000Z",
-   "country": "CAD",
-   "title": "New Housing Price Index MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-0.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:00:00.000Z",
-   "country": "USD",
-   "title": "Retail Inventories Ex Autos MoM",
-   "impact": "Low",
-   "forecast": "0.6%",
-   "previous": "0.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:00:00.000Z",
-   "country": "USD",
-   "title": "Pending Home Sales MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "1.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:00:00.000Z",
-   "country": "USD",
-   "title": "Business Inventories MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:00:00.000Z",
-   "country": "USD",
-   "title": "Pending Home Sales YoY",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "3.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Heating Oil Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.246",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Distillate Fuel Production Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.024",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Crude Oil Imports Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.525",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Gasoline Stocks Change",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0.186",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Refinery Crude Runs Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.081",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Gasoline Production Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.296",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Cushing Crude Oil Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.801",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Crude Oil Stocks Change",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-7.228",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Distillate Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T15:30:00.000Z",
-   "country": "USD",
-   "title": "17-Week Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.665%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T18:00:00.000Z",
-   "country": "USD",
-   "title": "Fed Interest Rate Decision",
-   "impact": "High",
-   "forecast": "3.75%",
-   "previous": "3.75%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T18:00:00.000Z",
-   "country": "USD",
-   "title": "FOMC Economic Projections",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T18:00:00.000Z",
-   "country": "USD",
-   "title": "Interest Rate Projection - Longer",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T18:00:00.000Z",
-   "country": "USD",
-   "title": "Interest Rate Projection - Current",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T18:00:00.000Z",
-   "country": "USD",
-   "title": "Interest Rate Projection - 2nd Yr",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T18:00:00.000Z",
-   "country": "USD",
-   "title": "Interest Rate Projection - 1st Yr",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T18:30:00.000Z",
-   "country": "USD",
-   "title": "Fed Press Conference",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T22:45:00.000Z",
-   "country": "NZD",
-   "title": "GDP Growth Rate YoY",
-   "impact": "Medium",
-   "forecast": "1.1%",
-   "previous": "1.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T22:45:00.000Z",
-   "country": "NZD",
-   "title": "GDP Growth Rate QoQ",
-   "impact": "Medium",
-   "forecast": "0.9%",
-   "previous": "0.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Foreign Bond Investment",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "197.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-17T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Stock Investment by Foreigners",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-701",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T03:35:00.000Z",
-   "country": "JPY",
-   "title": "52-Week Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.1357%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T03:35:00.000Z",
-   "country": "JPY",
-   "title": "BoJ JGB Purchase",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Claimant Count Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "26.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T06:00:00.000Z",
-   "country": "GBP",
-   "title": "HMRC Payrolls Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-100",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Unemployment Rate",
-   "impact": "High",
-   "forecast": "5%",
-   "previous": "5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Average Earnings incl. Bonus (3Mo/Yr)",
-   "impact": "Medium",
-   "forecast": "4%",
-   "previous": "4.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Employment Change",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "148",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Average Earnings excl. Bonus (3Mo/Yr)",
-   "impact": "Low",
-   "forecast": "3.3%",
-   "previous": "3.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T06:00:00.000Z",
-   "country": "CHF",
-   "title": "Balance of Trade",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "3.2 CHF",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T07:30:00.000Z",
-   "country": "CHF",
-   "title": "SNB Interest Rate Decision",
-   "impact": "Medium",
-   "forecast": "0%",
-   "previous": "0%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T08:00:00.000Z",
-   "country": "EUR",
-   "title": "Current Account",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "24.1 €",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T08:00:00.000Z",
-   "country": "EUR",
-   "title": "Current Account s.a",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "14.9 €",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Construction Output YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-1.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T11:00:00.000Z",
-   "country": "GBP",
-   "title": "BoE Interest Rate Decision",
-   "impact": "High",
-   "forecast": "3.75%",
-   "previous": "3.75%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T11:00:00.000Z",
-   "country": "GBP",
-   "title": "MPC Meeting Minutes",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T11:00:00.000Z",
-   "country": "GBP",
-   "title": "BoE MPC Vote Cut",
-   "impact": "Medium",
-   "forecast": "0",
-   "previous": "0",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T11:00:00.000Z",
-   "country": "GBP",
-   "title": "BoE MPC Vote Hike",
-   "impact": "Medium",
-   "forecast": "2",
-   "previous": "1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T11:00:00.000Z",
-   "country": "GBP",
-   "title": "BoE MPC Vote Unchanged",
-   "impact": "Medium",
-   "forecast": "7",
-   "previous": "8",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Continuing Jobless Claims",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1795",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Jobless Claims 4-week Average",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "219",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Initial Jobless Claims",
-   "impact": "Medium",
-   "forecast": "232",
-   "previous": "229",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Philadelphia Fed Manufacturing Index",
-   "impact": "Medium",
-   "forecast": "10",
-   "previous": "-0.4",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Philly Fed Employment",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-2.8",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Philly Fed New Orders",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-1.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Philly Fed Business Conditions",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "53.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Philly Fed Prices Paid",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "47.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "USD",
-   "title": "Philly Fed CAPEX Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "30.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Raw Materials Prices MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "CAD",
-   "title": "PPI YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "11.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "CAD",
-   "title": "PPI MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Raw Materials Prices YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "31.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T14:00:00.000Z",
-   "country": "USD",
-   "title": "CB Leading Index MoM",
-   "impact": "Low",
-   "forecast": "0.1%",
-   "previous": "0.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Natural Gas Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "108",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T15:30:00.000Z",
-   "country": "USD",
-   "title": "4-Week Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.595%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T15:30:00.000Z",
-   "country": "USD",
-   "title": "8-Week Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.61%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T16:00:00.000Z",
-   "country": "USD",
-   "title": "15-Year Mortgage Rate",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "5.84",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T16:00:00.000Z",
-   "country": "USD",
-   "title": "30-Year Mortgage Rate",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "6.52",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T16:00:00.000Z",
-   "country": "CAD",
-   "title": "30-Year Bond Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.898%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T17:00:00.000Z",
-   "country": "USD",
-   "title": "Baker Hughes Oil Rig Count",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "433",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T17:00:00.000Z",
-   "country": "USD",
-   "title": "Baker Hughes Total Rigs Count",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "562",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T17:00:00.000Z",
-   "country": "USD",
-   "title": "5-Year TIPS Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.367%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T20:00:00.000Z",
-   "country": "USD",
-   "title": "Net Long-term TIC Flows",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "81.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T20:00:00.000Z",
-   "country": "USD",
-   "title": "Foreign Bond Investment",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "13.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T20:00:00.000Z",
-   "country": "USD",
-   "title": "Overall Net Capital Flows",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "150.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T20:30:00.000Z",
-   "country": "USD",
-   "title": "Fed Balance Sheet",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Balance of Trade",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "1.92 NZ$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Exports",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "8.62 NZ$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Imports",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "6.7 NZ$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T23:01:00.000Z",
-   "country": "GBP",
-   "title": "Gfk Consumer Confidence",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-23",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T23:30:00.000Z",
-   "country": "JPY",
-   "title": "Inflation Rate YoY",
-   "impact": "High",
-   "forecast": "",
-   "previous": "1.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T23:30:00.000Z",
-   "country": "JPY",
-   "title": "Inflation Rate Ex-Food and Energy YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T23:30:00.000Z",
-   "country": "JPY",
-   "title": "Inflation Rate MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T23:30:00.000Z",
-   "country": "JPY",
-   "title": "Core Inflation Rate YoY",
-   "impact": "Medium",
-   "forecast": "1.4%",
-   "previous": "1.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-18T23:50:00.000Z",
-   "country": "JPY",
-   "title": "BoJ Monetary Policy Meeting Minutes",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T00:00:00.000Z",
-   "country": "USD",
-   "title": "Juneteenth National Independence Day",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T00:00:00.000Z",
-   "country": "CNY",
-   "title": "Duanwu Festival",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T03:35:00.000Z",
-   "country": "JPY",
-   "title": "3-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.9294%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Retail Sales MoM",
-   "impact": "High",
-   "forecast": "",
-   "previous": "-1.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Public Sector Net Borrowing Ex Banks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-24.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Retail Sales ex Fuel YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Retail Sales YoY",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Retail Sales ex Fuel MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T11:00:00.000Z",
-   "country": "CAD",
-   "title": "CFIB Business Barometer",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "46.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Retail Sales Ex Autos MoM",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "1.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Retail Sales MoM Prel",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Retail Sales MoM Final",
-   "impact": "Medium",
-   "forecast": "0.6%",
-   "previous": "0.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-06-19T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Retail Sales YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  }
- ],
+ "naechsteWoche": [],
  "briefing": {
-  "datum": "2026-06-12",
+  "datum": "2026-06-19",
   "typ": "freitag",
-  "titel": "Freitags-Briefing: Öl-Schock könnte vorbei sein — Iran-Deal dreht alles um!",
+  "titel": "Iran-Deal unterschrieben, Öl bei 80$ — aber die Fed dreht hart auf Falke und der Dollar explodiert nach oben",
   "lage": [
-   "Diese Woche kam die US-Inflation mit 4,2% y/y wie erwartet rein — das ist der höchste Stand seit 3 Jahren. ABER die 'ehrliche' Kern-Inflation ohne Öl und Essen war nur 0,2% m/m — zahmer als erwartet! Das Feuer kommt fast nur vom Öl, nicht aus der Wirtschaft selbst.",
-   "Dafür war der Erzeugerpreisindex (PPI = was Fabriken bezahlen) mit 1,1% m/m deutlich heißer als erwartet (Prognose: 0,7%). Das ist ein Warnsignal: Was Produzenten heute mehr bezahlen, landet in ein paar Monaten beim Verbraucher.",
-   "Die EZB hat zum ersten Mal seit 2023 die Zinsen erhöht — von 2,15% auf 2,40%. Kanada ließ sie unverändert bei 2,25%, England kämpft mit einer schrumpfenden Wirtschaft (-0,1% im April).",
-   "Die US-Konsumenten sind etwas weniger unglücklich als befürchtet: Das Stimmungsbarometer stieg auf 48,9 statt den erwarteten 46,1. Trotzdem: 48,9 ist historisch noch immer sehr tief — die Leute spüren die hohen Preise.",
-   "UND JETZT DAS WICHIGSTE — die Nachricht des Tages: Die USA und der Iran stehen kurz vor einem FRIEDENSABKOMMEN! Öl ist heute schon um über 3% gefallen, und seit den ersten Zeichen einer Einigung ist es über 20% billiger als auf dem Jahreshöchststand. Wenn das Abkommen diese Woche unterschrieben wird, öffnet die Straße von Hormus wieder und billiges iranisches Öl kommt auf den Markt.",
-   "Wenn der Iran-Deal hält, könnte die US-Inflation innerhalb weniger Monate von 4,2% auf unter 3% fallen — ganz von alleine, ohne dass die Fed auch nur einen Finger rühren muss. Das würde das Bild für 2026 KOMPLETT verändern.",
-   "Nächste Woche ist Zentralbank-Superwoche: Japan und Australien am Dienstag, USA am Mittwoch, Schweiz und England am Donnerstag. Dazu UK-Inflation, US-Einzelhandel und Neuseeland-BIP. Und Freitag ist US-Feiertag!"
+   "Die größte Nachricht zuerst: Der Iran-Deal ist HEUTE (Freitag, 19.6.) in der Schweiz UNTERSCHRIEBEN worden! Damit ist der Öl-Schock vom Frühjahr offiziell vorbei. US-Öl ist auf rund 80$ gefallen (Brent ~83$) — so billig wie zuletzt Anfang März, ganze 20%+ unter dem Kriegs-Hoch. Billiges Öl heißt: Die Inflation wird in den nächsten Monaten von ganz alleine sinken.",
+   "ABER — und das war die Überraschung der Woche — die Fed schaut da bewusst drüber hinweg. Am Mittwoch hielt sie die Zinsen wie erwartet bei 3,50–3,75% (einstimmig 12:0 bei Warshs Debüt). Der Hammer kam aber vom 'Dot Plot' (die Zins-Landkarte der Fed-Mitglieder): Der dreht von 'wir senken bald' auf 'wir erhöhen eher noch'. Die mittlere Zinsprognose für Ende 2026 sprang von 3,4% auf 3,8%. Neun Mitglieder sehen jetzt mindestens eine ERHÖHUNG, nur eines noch eine Senkung.",
+   "Der Grund: Die Fed hat ihre eigene Inflationsprognose (PCE) für 2026 von 2,7% auf satte 3,6% hochgeschraubt. Sie glaubt also, die Teuerung bleibt zäh — Öl hin oder her. Folge an den Märkten: Der Dollar-Index schoss zurück über die 100er-Marke, EUR/USD fiel rund 60 Pips Richtung 1,15. Der Markt preist jetzt sogar eine mögliche Fed-Erhöhung schon im September ein. Aus 'Dollar verliert seine Story' wurde über Nacht 'Dollar ist König'.",
+   "Zentralbank-Superwoche im Schnelldurchlauf: Japan (BOJ) hat am Dienstag wie erwartet auf 1,00% ERHÖHT — höchster Satz seit den 1990ern, und die BOJ signalisiert weitere Schritte. Australien (RBA) hielt bei 4,35%, die Schweiz (SNB) bei 0%, England (BOE) bei 3,75% — dort stimmten aber 2 von 9 Mitgliedern für eine ERHÖHUNG (7:2). Niemand hat gesenkt — die Notenbanken haben mehr Angst vor Inflation als vor schwacher Konjunktur.",
+   "England-Inflation (Mittwoch): Die Schlagzeile blieb mit 2,8% y/y überraschend ZAHM (erwartet waren 3,0%), Monatswert nur +0,2%. ABER die Dienstleistungs-Inflation — der Lieblings-Wert der BOE — sprang von 3,2% auf 3,7% hoch. Deshalb auch die zwei Erhöhungs-Stimmen. Gemischtes Bild: Schlagzeile kühl, Kern heiß.",
+   "US-Konsum brummt weiter: Die Einzelhandelsumsätze stiegen im Mai um +0,9% (fast doppelt so viel wie erwartet), die wichtige Kern-Gruppe +0,7%. Achtung: Ein Teil kommt von teurem Benzin und auslaufenden Steuerrückzahlungen — der Rückenwind lässt nach. Trotzdem: starker Verbraucher = Argument für die Falken-Fed.",
+   "Neuseeland-BIP (Donnerstag): +0,8% zum Vorquartal (knapp unter den erwarteten +0,9%), aber +1,5% im Jahr (deutlich über den erwarteten +1,1%). Gemischt — und unter dem brutalen Dollar-Druck ging der Kiwi unter."
   ],
   "waehrungen": {
    "USD": {
-    "stimmung": "neutral",
-    "score": -10,
-    "grund": "Iran-Deal = Öl fällt = Inflation fällt = Fed muss nicht erhöhen = Dollar verliert seinen Hauptvorteil. Kurzfristig stützt noch die hohe Inflation und der hawkishe Fed-Chef Warsh."
-   },
-   "EUR": {
     "stimmung": "bullisch",
     "score": 45,
-    "grund": "EZB hat frisch erhöht (2,40%) und klingt entschlossen. Wenn der Iran-Deal das Öl verbilligt, profitiert auch Europas Wirtschaft — das macht den Euro doppelt stark."
+    "grund": "KOMPLETTE WENDE zur Vorwoche: Die Fed dreht auf Falke (Dot Plot zeigt jetzt Erhöhung statt Senkung, PCE-Prognose auf 3,6% angehoben), der Einzelhandel brummt, der Dollar-Index ist zurück über 100. Der Markt spekuliert sogar auf eine Erhöhung im September. Solange das hält, ist der Dollar das Maß aller Dinge."
+   },
+   "EUR": {
+    "stimmung": "bärisch",
+    "score": -25,
+    "grund": "Die EZB hat zwar erhöht (2,40%), aber das reicht nicht: Die Fed klingt jetzt noch härter, der Zinsabstand zu den USA wird wieder größer. EUR/USD fiel Richtung 1,15. Solange die Fed den Ton angibt, hat der Euro das Nachsehen."
    },
    "GBP": {
     "stimmung": "bärisch",
-    "score": -45,
-    "grund": "Wirtschaft schrumpft (-0,1% im April) und die BOE ist gefangen zwischen hoher Inflation und schwacher Konjunktur. UK-CPI nächste Woche entscheidet, ob die Zwickmühle enger wird."
+    "score": -20,
+    "grund": "Gemischt mit Schlagseite nach unten: Schlagzeilen-Inflation kühl (2,8%), aber Dienstleistungen heiß (3,7%) und 2 BOE-Mitglieder wollten erhöhen. Die Wirtschaft schrumpfte zuletzt (-0,1%). Stagflations-Gefahr bleibt — und gegen den starken Dollar verliert das Pfund trotzdem."
    },
    "JPY": {
-    "stimmung": "bullisch",
-    "score": 50,
-    "grund": "BOJ wird mit 97,7%-Wahrscheinlichkeit auf 1,00% erhöhen — Dienstag. Das ist seltener Anlass für einen echten Yen-Sprung nach oben. Vorsicht: nach der Entscheidung oft 'Sell the Fact'."
+    "stimmung": "neutral",
+    "score": 5,
+    "grund": "Strukturell besser: BOJ hat auf 1,00% erhöht und signalisiert weitere Schritte — endlich echter Zins-Rückhalt. ABER kurzfristig 'Sell the Fact' nach der Erhöhung plus der bullige Dollar drücken den Yen wieder. Zins-Plus und Dollar-Stärke heben sich gerade auf."
    },
    "CHF": {
-    "stimmung": "neutral",
-    "score": -5,
-    "grund": "SNB hält Zinsen bei 0% — so gut wie kein Zinsvorteil für den Franken. Aber er ist sicherer Hafen. Der Iran-Deal macht die Welt weniger gefährlich = weniger Flucht in CHF möglich."
+    "stimmung": "bärisch",
+    "score": -20,
+    "grund": "SNB bleibt bei 0% — null Zinsvorteil. Und mit dem unterschriebenen Iran-Deal schmilzt die Nachfrage nach dem 'sicheren Hafen' Franken. Gegen den starken Dollar doppelt im Nachteil."
    },
    "CAD": {
-    "stimmung": "neutral",
-    "score": 0,
-    "grund": "Kanada ist ein Ölland — billiges Öl ist eigentlich schlecht für den CAD. Aber billiges Öl senkt auch die Inflation, was der BOC das Leben leichter macht. Zwei Kräfte neutralisieren sich."
+    "stimmung": "bärisch",
+    "score": -25,
+    "grund": "Kanada ist ein Ölland — und Öl ist nach dem Iran-Deal auf ~80$ abgestürzt. Das ist direkter Gegenwind für den Loonie. Dazu der starke Dollar. Montag kommt die Kanada-Inflation als nächster Test."
    },
    "AUD": {
     "stimmung": "neutral",
-    "score": 10,
-    "grund": "RBA hält 4,35% (einer der höchsten G10-Zinssätze) — das stützt den AUD. Hawkish Hold erwartet. China-Daten Dienstag können kurzfristig Ausschläge bringen."
+    "score": -10,
+    "grund": "RBA hält den hohen Zins von 4,35% mit hartem Ton — das stützt eigentlich. Aber gegen den überall starken Dollar zieht auch der Aussie den Kürzeren. Mittwoch kommt die Australien-Inflation, Montag die China-Leitzinsen."
    },
    "NZD": {
-    "stimmung": "neutral",
-    "score": 5,
-    "grund": "Neuseeland-BIP kommt Donnerstag (18.6., Prognose: +0,9% q/q). Bis dahin schwimmt der Kiwi mit der allgemeinen Marktstimmung."
+    "stimmung": "bärisch",
+    "score": -25,
+    "grund": "Niedriger Zins (2,25%), BIP zum Vorquartal knapp verfehlt, und der starke Dollar walzt alles platt. Der Kiwi gehört zu den Schwächsten — er hat weder Zins- noch Wachstums-Story gegen den Dollar."
    }
   },
   "paare": [
    {
-    "paar": "USD/JPY",
-    "score": -32,
-    "treiber": "BOJ-Erhöhung auf 1,00% am Dienstag erwartet (97,7%) — seltener Anlass für echte Yen-Stärke. Yen schlägt Dollar. Vorsicht 'Sell the Fact' nach dem Termin."
-   },
-   {
-    "paar": "EUR/USD",
-    "score": 28,
-    "treiber": "EZB frisch erhöht (2,40%) + Öl-Entspannung hilft Europas Wirtschaft. USD verliert seine Zins-Story, falls der Iran-Deal hält. Euro doppelt gestützt."
-   },
-   {
-    "paar": "GBP/USD",
-    "score": -22,
-    "treiber": "UK-Wirtschaft schrumpft (-0,1%), Stagflationsgefahr, BOE in der Klemme. UK-CPI am Mittwoch ist der Knackpunkt — bis dahin Pfund-Schwäche wahrscheinlich."
-   },
-   {
-    "paar": "AUD/USD",
-    "score": 14,
-    "treiber": "RBA hawkisher Hold bei 4,35% stützt den AUD; schwächere Dollar-Story hilft zusätzlich. China-Daten am Dienstag sind das Hauptrisiko."
-   },
-   {
-    "paar": "NZD/USD",
-    "score": 10,
-    "treiber": "NZ-BIP am Donnerstag (Prognose +0,9% q/q); Kiwi schwimmt mit der Risk-on-Stimmung bei fallendem Öl. Leicht bullish."
-   },
-   {
     "paar": "USD/CAD",
-    "score": -8,
-    "treiber": "Öl-Schwäche ist für den CAD zweischneidig (Ölland, aber niedrigere Inflation). USD ohne klare Zins-Story leicht im Nachteil — Paar tendiert knapp nach unten."
+    "score": 32,
+    "treiber": "Doppelschlag für den Loonie: starker Dollar TRIFFT auf Öl-Crash (~80$ nach Iran-Deal). Kanada-Inflation am Montag der nächste Test. Paar tendiert klar nach oben."
    },
    {
     "paar": "USD/CHF",
-    "score": -6,
-    "treiber": "SNB bei 0% = kein Zinsvorteil für den Franken; gleichzeitig schmilzt die Safe-Haven-Prämie mit dem Iran-Deal. Beide Kräfte heben sich fast auf — nahe neutral."
+    "score": 24,
+    "treiber": "Falken-Fed treibt den Dollar, während der Franken null Zins hat und seine Krisen-Prämie mit dem Iran-Deal verliert. Beides schiebt das Paar nach oben."
+   },
+   {
+    "paar": "EUR/USD",
+    "score": -28,
+    "treiber": "Der Zinsabstand USA–Europa öffnet sich wieder, nachdem die Fed auf Falke gedreht hat. EUR/USD bereits Richtung 1,15 gefallen. Bärisch, solange die Fed den Ton angibt."
+   },
+   {
+    "paar": "NZD/USD",
+    "score": -26,
+    "treiber": "Schwächste Story der Majors: niedriger NZ-Zins, BIP q/q verfehlt, plus voller Dollar-Druck. Kiwi ohne Gegenwehr."
+   },
+   {
+    "paar": "GBP/USD",
+    "score": -24,
+    "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß), aber gegen den starken Dollar überwiegt die Schwäche. Stagflations-Schatten bleibt."
+   },
+   {
+    "paar": "USD/JPY",
+    "score": 16,
+    "treiber": "Heikel: BOJ-Erhöhung auf 1,00% stützt den Yen strukturell und deckelt das Paar — aber 'Sell the Fact' und der bullige Dollar ziehen kurzfristig nach oben. Leicht bullish, aber zweischneidig. PCE am Donnerstag ist der Joker."
+   },
+   {
+    "paar": "AUD/USD",
+    "score": -18,
+    "treiber": "RBAs hoher Zins (4,35%) bremst den Fall, aber der starke Dollar gewinnt. China-Leitzins (Mo) und Australien-CPI (Mi) können kurzfristig Ausschläge bringen."
    }
   ],
   "wochenausblick": {
    "text": [
-    "Nächste Woche ist die dichteste Zentralbank-Woche des Jahres. An drei Tagen entscheiden Japan, Australien, die USA, die Schweiz und England — fünf Notenbanken! Dazu kommt nächste Woche vielleicht noch ein unterschriebener Iran-Deal, der die Bühne komplett umdekoriert.",
-    "Der wichtigste Termin ist am DIENSTAG: Die Bank of Japan (BOJ) wird fast sicher die Zinsen auf 1,00% erhöhen. Das wäre der höchste Satz seit 1995. Japan war jahrzehntelang das Land der Mini-Zinsen — dieser Wandel kann den Yen stark machen und auch Aktien weltweit durchschütteln.",
-    "Am MITTWOCH kommt die Fed (20:00 Wiener Zeit) — Warshs erster Auftritt als Chef. Er wird halten, aber JEDES seiner Worte wird auf die Goldwaage gelegt. Klingt er hart ('Inflation ist noch nicht besiegt'), springt der Dollar.",
-    "Freitag ist Juneteenth (US-Feiertag): Dünner Handel, kleine Meldungen können große Ausschläge machen. Vorsicht!"
+    "Nach der Notenbank-Schlacht kommt die ruhigere, aber wichtige Daten-Woche. Das EINE Ereignis, auf das alles zuläuft, ist der US-PCE-Preisindex am Donnerstag (25.6., 14:30 Wien). PCE ist der Lieblings-Inflationswert der Fed — und genau diese Fed hat ihre PCE-Prognose gerade auf 3,6% hochgeschraubt. Bestätigt der echte Wert das, ist die Falken-Story wasserdicht und der Dollar läuft weiter. Kommt er kühler rein, wackelt die ganze Erzählung.",
+    "Am Dienstag (23.6.) kommen die 'Flash-PMIs' für Deutschland, die Eurozone, England und die USA. Das sind Stimmungs-Umfragen unter Einkaufsmanagern — eine Art Frühwarn-Thermometer für die Wirtschaft. Über 50 = Wachstum, unter 50 = Schrumpfen. Schwache Europa-PMIs würden den ohnehin angeschlagenen Euro weiter drücken.",
+    "Dazwischen: Kanada-Inflation (Mo), China-Leitzinsen (Mo), Australien-Inflation (Mi) und Australien-Arbeitsmarkt (Do). Für AUD und CAD die Heimspiele der Woche — aber alle stehen im Schatten des großen Dollar-Trends.",
+    "Großes Bild: Es kämpfen zwei Kräfte. KRAFT 1 — der Iran-Deal drückt das Öl und damit die Inflation (gut gegen den Dollar). KRAFT 2 — die Fed ignoriert das und droht mit Erhöhung (gut für den Dollar). Diese Woche hat KRAFT 2 klar gewonnen. Der PCE am Donnerstag entscheidet, ob das so bleibt."
    ],
    "termine": [
     {
-     "tag": "Dienstag 16.6.",
+     "tag": "Montag 22.6.",
      "land": "CNY",
-     "titel": "China: Industrieproduktion + Einzelhandel (Mai)",
-     "warum": "Zeigt ob Chinas Wirtschaft brummt. Wenn ja, steigt AUD und NZD, weil China Rohstoffe kauft."
+     "titel": "China: Leitzinsen (Loan Prime Rate)",
+     "warum": "Setzt China weiter auf billiges Geld zum Ankurbeln? Lockerung stützt tendenziell AUD und NZD (China kauft dann mehr Rohstoffe)."
     },
     {
-     "tag": "Dienstag 16.6.",
+     "tag": "Montag 22.6.",
+     "land": "CAD",
+     "titel": "Kanada-Inflation (CPI) Mai",
+     "warum": "Erster großer Test für den Loonie. Billiges Öl drückt die Teuerung — eine kühle Zahl gibt der BOC Spielraum und schwächt den CAD zusätzlich."
+    },
+    {
+     "tag": "Dienstag 23.6.",
+     "land": "EUR",
+     "titel": "Flash-PMIs Deutschland + Eurozone (Juni)",
+     "warum": "Frühwarn-Thermometer der Wirtschaft. Schwache Werte (unter 50) treffen den ohnehin schwachen Euro hart."
+    },
+    {
+     "tag": "Dienstag 23.6.",
+     "land": "GBP",
+     "titel": "Flash-PMIs England (Juni)",
+     "warum": "Zeigt, ob Englands Wirtschaft weiter schwächelt. Schwach = mehr Stagflations-Sorgen = Pfund unter Druck."
+    },
+    {
+     "tag": "Dienstag 23.6.",
+     "land": "USD",
+     "titel": "Flash-PMIs USA (Juni)",
+     "warum": "Starke US-PMIs würden die Falken-Fed-Story und den starken Dollar weiter füttern."
+    },
+    {
+     "tag": "Mittwoch 24.6.",
      "land": "AUD",
-     "titel": "RBA-Zinsentscheid (Erwartet: Halten bei 4,35%)",
-     "warum": "93 von 100 Ökonomen erwarten eine Pause. Aber die RBA klingt wahrscheinlich hawkish — das stützt den AUD."
+     "titel": "Australien-Inflation (CPI) Mai",
+     "warum": "Heiße Zahl = RBA bleibt hart = stützt den AUD. Kühle Zahl = AUD fällt im Dollar-Sog noch tiefer."
     },
     {
-     "tag": "Dienstag 16.6.",
+     "tag": "Donnerstag 25.6.",
+     "land": "USD",
+     "titel": "US-PCE-Preisindex (Mai) — 14:30 Wien",
+     "warum": "DAS Event der Woche. Lieblings-Inflationswert der Fed. Bestätigt er die hochgeschraubte 3,6%-Erwartung, läuft der Dollar weiter. Kühler = Dollar-Rückschlag."
+    },
+    {
+     "tag": "Donnerstag 25.6.",
+     "land": "AUD",
+     "titel": "Australien-Arbeitsmarkt (Mai)",
+     "warum": "Starker Jobmarkt hält die RBA hart und stützt den AUD. Schwach = noch mehr Druck."
+    },
+    {
+     "tag": "Donnerstag 25.6.",
+     "land": "USD",
+     "titel": "US-BIP Q1 (finale Schätzung) — 14:30 Wien",
+     "warum": "Bestätigt das Wachstumstempo der US-Wirtschaft. Begleitwert zum PCE — selten ein großer Bewegungs-Auslöser, aber im Blick behalten."
+    },
+    {
+     "tag": "Freitag 26.6.",
      "land": "JPY",
-     "titel": "BOJ-Zinsentscheid (Erwartet: Erhöhung auf 1,00%)",
-     "warum": "97,7% Marktwahrscheinlichkeit für Erhöhung — das ist fast schon sicher. Yen-Bewachung am Dienstag!"
-    },
-    {
-     "tag": "Mittwoch 17.6.",
-     "land": "GBP",
-     "titel": "UK-Inflationsdaten (CPI) Mai",
-     "warum": "April war 2,8% y/y. Die BOE erwartet für Q2 rund 3,1%. Höher als erwartet = BOE muss härter klingen = GBP-Sprung."
-    },
-    {
-     "tag": "Mittwoch 17.6.",
-     "land": "USD",
-     "titel": "US-Einzelhandelsumsätze (Mai)",
-     "warum": "Shopen die Amerikaner noch? Letzte Stimmungsprobe vor der Fed am Abend. Achtung: teure Benzinpreise blasen den Umsatz auf (mehr Geld ausgegeben, aber weniger gekauft)."
-    },
-    {
-     "tag": "Mittwoch 17.6.",
-     "land": "USD",
-     "titel": "FED-Zinsentscheid + Dot Plot + Warshs Pressekonferenz (20:00 Wien)",
-     "warum": "DAS Event der Woche. Halten gilt als sicher (97,1%). Aber der neue DOT PLOT (Zins-Prognosen der Fed-Mitglieder) und Warshs Worte können den Dollar stark bewegen."
-    },
-    {
-     "tag": "Donnerstag 18.6.",
-     "land": "NZD",
-     "titel": "Neuseeland BIP Q1 (Prognose: +0,9% q/q)",
-     "warum": "Wachstumszeugnis für den Kiwi-Dollar. Besser als erwartet = NZD steigt."
-    },
-    {
-     "tag": "Donnerstag 18.6.",
-     "land": "GBP",
-     "titel": "UK-Beschäftigungsdaten",
-     "warum": "Vorspeise zum BOE-Entscheid: Schwächerer Arbeitsmarkt gibt der BOE Spielraum für Senkungen."
-    },
-    {
-     "tag": "Donnerstag 18.6.",
-     "land": "CHF",
-     "titel": "SNB-Zinsentscheid (Erwartet: Halten bei 0%)",
-     "warum": "Die Schweiz hat quasi Null-Zinsen. Überraschungen sind selten, aber die SNB ist für unerwartete Schritte bekannt. Franken-Watcher aufpassen."
-    },
-    {
-     "tag": "Donnerstag 18.6.",
-     "land": "GBP",
-     "titel": "BOE-Zinsentscheid (Erwartet: Halten bei 3,75%)",
-     "warum": "Schrumpfende Wirtschaft vs. Öl-Inflation — die BOE steckt in der Klemme. Auf das Abstimmungsergebnis achten: Wie viele wollten erhöhen, wie viele senken?"
-    },
-    {
-     "tag": "Freitag 19.6.",
-     "land": "USD",
-     "titel": "US-Feiertag Juneteenth",
-     "warum": "Viele Händler weg vom Markt. Dünner Handel = kleine Auslöser können große Sprünge machen. Kein Trading-Tag für Anfänger!"
-    },
-    {
-     "tag": "Freitag 19.6.",
-     "land": "GBP",
-     "titel": "UK-Einzelhandelsumsätze (Mai)",
-     "warum": "Shopen die Briten noch, trotz schrumpfender Wirtschaft?"
+     "titel": "Japan-Inflation (Tokio-CPI Juni)",
+     "warum": "Frühindikator für Japans Teuerung. Heiß = bestätigt den BOJ-Erhöhungskurs = stützt den Yen."
     }
    ]
   },
   "prognosen": [
    {
-    "event": "BOJ-Zinsentscheid (JPY)",
-    "termin": "Dienstag 16.6., ca. 04:00 Wiener Zeit",
-    "prognoseMarkt": "Erhöhung auf 1,00% — 97,7% Wahrscheinlichkeit (49 von 51 Ökonomen erwarten Erhöhung)",
-    "meineEinschaetzung": "Ich sehe ERHÖHUNG als fast sicher. Japan importiert fast seine gesamte Energie — der Öl-Schock trifft die japanische Inflation mit voller Wucht. Die BOJ hat seit Jahren auf Normalisierung hingearbeitet und Gouverneur Ueda hat das Signal mehrfach gegeben. ACHTUNG: Nach der Entscheidung kommt oft 'Sell the Fact' — der Markt kauft die Erwartung (Yen steigt VOR dem Termin), danach wird Gewinn mitgenommen.",
-    "wennHoeher": "Erhöhung auf 1,00%: Yen springt nach oben — USD/JPY fällt, EUR/JPY fällt. Da die meisten das erwarten, dürfte der Sprung kleiner sein als bei einer echten Überraschung. Carry-Trades (billige JPY-Schulden für höher verzinsliche Assets) werden aufgelöst → kann auch Aktien weltweit kurz drücken.",
-    "wennNiedriger": "Halten bei 0,75%: Yen fällt kräftig — USD/JPY steigt in Richtung Jahreshoch. Die Yen-Käufer müssen ihre Positionen auflösen. Gefährlichster Trade der Woche, falls du auf Yen-Stärke gesetzt hast."
+    "event": "US-PCE-Preisindex Mai (USD)",
+    "termin": "Donnerstag 25.6., 14:30 Wiener Zeit",
+    "prognoseMarkt": "Erwartet wird ein leichter Anstieg der Kern-PCE-Jahresrate; die Fed selbst hat ihre 2026-PCE-Prognose gerade auf 3,6% angehoben",
+    "meineEinschaetzung": "Ich erwarte einen Wert, der ZÄH bleibt — also keine Entwarnung bei der Kern-Teuerung. Begründung: Die Fed hat diese Woche nicht ohne Grund auf Falke gedreht; sie sieht in den eigenen Daten klebrige Inflation (Dienstleistungen, Wohnen). Der Öl-Rückgang vom Iran-Deal wirkt erst mit Verzögerung und schlägt zuerst auf die Schlagzeile, nicht auf den Kern. ABER ich bin hier ehrlich unsicher: Wenn der Mai-PCE überraschend kühl reinkommt, kollidiert das sofort mit der harten Fed-Botschaft — dann gibt es einen heftigen Dollar-Rückschlag, weil der Markt die September-Erhöhung wieder auspreist.",
+    "wennHoeher": "Kern-PCE heiß / über Erwartung: Die Falken-Fed ist bestätigt, der Dollar läuft weiter. EUR/USD unter 1,15, USD/CAD und USD/CHF steigen weiter, Gold unter Druck.",
+    "wennNiedriger": "Kern-PCE kühl / unter Erwartung: Widerspruch zur harten Fed → kräftiger Dollar-Rückschlag. EUR/USD erholt sich über 1,15, Gold und risikoreiche Währungen (AUD, NZD) springen nach oben. Genau das Szenario, in dem der Iran-Deal-Effekt endlich durchschlägt."
    },
    {
-    "event": "Fed-Zinsentscheid + Dot Plot + Pressekonferenz (USD)",
-    "termin": "Mittwoch 17.6., 20:00 Wiener Zeit",
-    "prognoseMarkt": "Halten bei 3,50–3,75% — 97,1% eingepreist",
-    "meineEinschaetzung": "Halten ist gesetzt — aber der DOT PLOT entscheidet über die Dollar-Richtung. Meine Einschätzung: Warsh zeigt einen hawkishen Dot Plot (Mitglieder signalisieren 1-2 weitere Erhöhungen in 2026). Begründung: PPI kam mit 1,1% massiv über Prognose (0,7%), die Erzeugerpreise bauen Druck auf. Warsh ist bekannt als Falke und will bei seinem Debüt keine Schwäche zeigen. ABER: Wenn der Iran-Deal bis Mittwoch steht, kann Warsh sich etwas weicher geben (Öl-Inflation fällt von selbst).",
-    "wennHoeher": "Hawkisher Dot Plot (Mitglieder erhöhen Zinsprognosen): Dollar springt nach oben, Gold fällt, EUR/USD sinkt Richtung 1,06. Auch ohne Zinserhöhung kann dieser Effekt stark sein.",
-    "wennNiedriger": "Taubenhafte Überraschung (Senkungssignale oder weicher Ton): Dollar fällt stark, EUR/USD und Gold steigen. Im Szenario 'Iran-Deal steht' wäre das konsistent und für Risikoanlagen (Aktien) sehr gut."
+    "event": "Flash-PMIs Eurozone Juni (EUR)",
+    "termin": "Dienstag 23.6., ca. 10:00 Wiener Zeit",
+    "prognoseMarkt": "Erwartet werden Werte nahe der 50er-Schwelle (Stagnation), Dienstleistung etwas über, Industrie etwas unter 50",
+    "meineEinschaetzung": "Ich erwarte durchwachsene bis leicht schwache Werte. Begründung: Der Öl-Rückgang hilft Europas Industrie zwar mittelfristig, aber im Juni war die Lage noch von Krieg und Unsicherheit geprägt. Wichtig fürs Trading: Selbst neutrale PMIs treffen den Euro derzeit härter als sonst, weil er ohnehin im Dollar-Sog steht.",
+    "wennHoeher": "PMIs deutlich über 50: Euro bekommt etwas Boden zurück, EUR/USD-Erholung möglich — aber gegen den starken Dollar nur ein Strohfeuer, wenn der PCE nicht mitspielt.",
+    "wennNiedriger": "PMIs unter 50 (Schrumpfen): Euro fällt weiter, EUR/USD Richtung 1,14. Bestätigt das Bild 'Europa schwach, USA stark'."
    },
    {
-    "event": "UK-CPI Mai (GBP)",
-    "termin": "Mittwoch 17.6., 08:00 Wiener Zeit",
-    "prognoseMarkt": "BOE erwartet ~3,1% y/y für Q2 (April war 2,8% — ein Rückgang von 3,3% im März)",
-    "meineEinschaetzung": "Ich erwarte eine Zahl ÜBER 3% y/y (also höher als April's 2,8%). Begründung: Die Energiepreise haben im Mai durch den Nahost-Krieg weiter Druck aufgebaut, und Großbritannien hat hartnäckige Dienstleistungs-Inflation. ABER: Wenn der Iran-Deal bis nächster Woche wirklich steht, könnte das bereits auf die Mai-Daten einwirken.",
-    "wennHoeher": "CPI über 3,1%: GBP steigt kurzfristig (BOE muss hart klingen beim Donnerstags-Entscheid). ABER: Hohe Inflation + schrumpfende Wirtschaft = 'Stagflation' — das ist langfristig Gift fürs Pfund.",
-    "wennNiedriger": "CPI unter 2,8% oder nahe Erwartung: BOE bekommt Spielraum für Zinssenkungen — bei -0,1% Wirtschaftswachstum würde das Sinn machen. Pfund fällt."
+    "event": "Kanada-Inflation Mai (CAD)",
+    "termin": "Montag 22.6., 14:30 Wiener Zeit",
+    "prognoseMarkt": "Erwartet wird eine moderate, eher nachlassende Teuerung dank fallender Energiepreise",
+    "meineEinschaetzung": "Ich tendiere zu einer eher KÜHLEN Zahl. Begründung: Der Ölpreis ist nach dem Iran-Deal abgestürzt, und Energie ist ein großer Treiber der kanadischen Inflation. Das gibt der BOC Argumente, locker zu bleiben — schlecht für den CAD, der ohnehin unter dem Öl-Crash leidet.",
+    "wennHoeher": "Inflation heißer als erwartet: CAD bekommt kurz Unterstützung (BOC könnte länger pausieren), USD/CAD-Anstieg wird gebremst.",
+    "wennNiedriger": "Inflation kühl: Doppel-Belastung für den Loonie (billiges Öl + lockere BOC). USD/CAD läuft weiter nach oben."
    },
    {
-    "event": "RBA-Zinsentscheid (AUD)",
-    "termin": "Dienstag 16.6., 06:30 Wiener Zeit",
-    "prognoseMarkt": "Halten bei 4,35% — 42 von 45 Ökonomen erwarten Pause (RBA hat in den letzten Monaten bereits 3x erhöht)",
-    "meineEinschaetzung": "HALTEN — aber mit hawkishem Ton. Begründung: Australien hat Öl-getriebene Inflation und die RBA will nicht zu früh nachlassen. Ein hawkisher Hold (= Sprache bleibt hart, aber keine Aktion) stützt den AUD am besten.",
-    "wennHoeher": "Überraschende Erhöhung auf 4,60%: AUD springt nach oben — aber unwahrscheinlich (nur 7,5% Chance laut Markt). Würde als Signal gewertet, dass Inflation wieder heißer wird.",
-    "wennNiedriger": "Überraschend taubenhafte Sprache: AUD fällt. NAB und ANZ sehen die nächste Bewegung eher als Senkung — wenn die RBA das andeutet, ist AUD schwach."
-   },
-   {
-    "event": "BOE-Zinsentscheid (GBP)",
-    "termin": "Donnerstag 18.6., 13:00 Wiener Zeit",
-    "prognoseMarkt": "Halten bei 3,75% — breiter Konsens",
-    "meineEinschaetzung": "HALTEN — aber die ABSTIMMUNG ist spannend. In der BOE stimmen 9 Mitglieder ab. Je nach UK-CPI am Mittwoch werden manche für Erhöhung, manche für Senkung stimmen. Das Abstimmungsverhältnis (z.B. 6:3 oder 5:4) sagt mehr über die Zukunft als die Entscheidung selbst.",
-    "wennHoeher": "Mehrere Mitglieder stimmen für Erhöhung (hawkishes Signal): GBP steigt kurzfristig. Langfristig schlecht wenn Wirtschaft weiter schwächelt.",
-    "wennNiedriger": "Mehrere Mitglieder stimmen für Senkung: GBP fällt — wäre ein Signal, dass BOE die Konjunktur höher gewichtet als Inflation. Bei -0,1% GDP wäre das verständlich."
+    "event": "Australien-Inflation Mai (AUD)",
+    "termin": "Mittwoch 24.6., ca. 03:30 Wiener Zeit",
+    "prognoseMarkt": "Erwartet wird eine immer noch erhöhte, aber langsam nachlassende Teuerung",
+    "meineEinschaetzung": "Ich erwarte eine noch hartnäckige Zahl. Begründung: Die RBA hat gerade NICHT gesenkt und klingt hart — sie sieht die Inflation noch nicht besiegt. Eine heiße CPI-Zahl wäre die beste Stütze für den AUD, der sonst im Dollar-Sog untergeht.",
+    "wennHoeher": "CPI heiß: RBA-Härte bestätigt, AUD/USD-Erholungsversuch — aber gegen den starken Dollar begrenzt.",
+    "wennNiedriger": "CPI kühl: Markt rechnet wieder mit RBA-Senkungen, AUD fällt im Dollar-Sog weiter."
    }
   ],
   "lehren": [
-   "PPI-Warnung beachten: US-PPI schlug diese Woche mit 1,1% m/m massiv über dem Forecast von 0,7% ein — das ist doppelt so hoch wie erwartet. Was Fabriken heute mehr zahlen, zahlt der Verbraucher in 2-3 Monaten. Beim nächsten CPI-Report aufpassen ob Core CPI wieder ansteigt.",
-   "Die 'Kern vs. Headline' Regel bestätigt: Core CPI war zahm (0,2% statt 0,3% erwartet), Headline heiß (4,2%). Der Markt hat den hohen Headline-Wert kaum mit Dollar-Stärke belohnt, weil Core zahm war. Diese Woche zeigt: Wenn Märkte gezielt auf Core schauen, spricht das für Qualität der Marktanalyse.",
-   "Der Iran-Deal ist der wichtigste Makro-Faktor für das zweite Halbjahr 2026: Wenn Öl dauerhaft unter $90 fällt, bricht der gesamte Inflationsblock weg. Fed kann neutral bis taubenhaft werden, andere Zentralbanken ebenfalls. Das wäre DER Treiber für risikoreiche Anlagen (AUD, NZD, Aktien) und gegen den Dollar.",
-   "UoM Consumer Sentiment: Beat von 48,9 vs. 46,1 — Konsumenten weniger pessimistisch als befürchtet, wahrscheinlich wegen fallender Benzinpreise. Sentiment-Daten korrelieren stark mit Benzinpreisen: Fällt das Öl weiter, verbessert sich das Sentiment schnell — was die US-Wirtschaft stützt."
+   "GROSSE LEHRE DER WOCHE: Ein bekanntes 'Halten' kann trotzdem ein Erdbeben sein — wenn die PROGNOSEN (Dot Plot) sich drehen. Die Fed hielt erwartungsgemäß, aber der Schwenk des Dot Plots von Senkung auf Erhöhung und die auf 3,6% angehobene PCE-Prognose haben den Dollar regelrecht explodieren lassen (DXY über 100, EUR/USD ~60 Pips runter). Beim nächsten Notenbank-Termin nicht nur auf die Zinszahl schauen, sondern auf die mitgelieferten Prognosen — da steckt die echte Bewegung.",
+   "MEINE PROGNOSEN diese Woche — ehrliche Bilanz: BOJ-Erhöhung auf 1,00% TRAF ✓, Fed-Halten mit hawkishem Dot Plot TRAF sogar sehr genau ✓✓ (genau so begründet), RBA-Halten ✓, SNB-Halten ✓, BOE-Halten mit hawkishen Dissens-Stimmen ✓ (2:9 für Erhöhung — ich hatte aufs Abstimmungsverhältnis hingewiesen). DANEBEN lag ich bei UK-CPI: Ich erwartete 'über 3%', es kamen kühle 2,8% — ABER die Dienstleistungs-Inflation sprang auf 3,7%, der heiße Kern, vor dem ich gewarnt hatte, war also doch da. Lehre: Schlagzeilen-Inflation und Kern können auseinanderlaufen — bei UK immer auf die Dienstleistungen schauen, das ist der BOE-Wert.",
+   "WICHTIGSTE FX-LEHRE: Meine Paar-Scores der Vorwoche lagen großteils FALSCH, weil ich den Dollar zu schwach eingeschätzt hatte. Ich hatte EUR/USD bullish (+28) und USD/JPY bärisch (-32) — tatsächlich rauschte der Dollar durch die Falken-Fed nach oben, EUR/USD fiel und USD/JPY stieg (BOJ-Erhöhung wurde von 'Sell the Fact' + Dollar-Stärke überlagert). Lehre: Eine Zentralbank-Überraschung (hier die Fed) kann ALLE Paare gleichzeitig in eine Richtung reißen und Einzel-Stories (BOJ-Erhöhung) übertönen. Wenn die Fed tagt, ist der Dollar-Trend wichtiger als jede einzelne Gegenwährung. Deshalb sind diese Woche fast alle meine Scores pro-Dollar ausgerichtet.",
+   "Der Iran-Deal-Effekt ist real (Öl ~80$, unterschrieben), aber er wirkt LANGSAM und über die Inflation — nicht sofort über die Notenbanken. Die Fed schaut bewusst drüber hinweg. Lehre: Ein disinflationärer Schock (billiges Öl) schlägt sich nicht am selben Tag in der Geldpolitik nieder. Der echte Test ist der PCE nächste Woche: Erst wenn die Inflations-DATEN fallen, kann die Fed weicher werden. Bis dahin gewinnt die harte Notenbank-Rhetorik gegen die gute Öl-Nachricht.",
+   "TECHNISCHE LEHRE FÜRS SYSTEM: Die kostenlosen Feeds (ForexFactory + TradingView) waren diese Woche dauerhaft mit HTTP 403 blockiert — deshalb stehen die Ist-Werte der Superwoche (BOJ, Fed, RBA, SNB, BOE, UK-CPI, US-Retail, NZ-BIP) NICHT in historie.json, sondern nur hier im Briefing-Text. Auch die automatische Treffer-Quote-Auswertung konnte nicht laufen (frankfurter-Zugriff im Cloud-Lauf ebenfalls blockiert). TODO für die nächste lokale Session: Sobald die Feeds wieder gehen, diese Ist-Werte manuell via setze-ist-wert.mjs nachtragen, damit das Momentum-Lernen weiterläuft."
   ]
  },
  "lexikon": {
@@ -3211,15 +1271,15 @@ window.MAKRO_DATA = {
  },
  "leitzinsen": {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-06-14",
+  "stand": "2026-06-19",
   "zinsen": [
    {
     "code": "AUD",
     "bank": "RBA",
     "satz": 4.35,
     "anzeige": "4,35%",
-    "naechste": "Di 16.6.",
-    "erwartung": "Halten (93%), hawkisher Ton",
+    "naechste": "Anf. Aug 2026",
+    "erwartung": "Halten — am 16.6. bei 4,35% geblieben, Ton blieb hart",
     "richtung": "halten"
    },
    {
@@ -3227,8 +1287,8 @@ window.MAKRO_DATA = {
     "bank": "BOE",
     "satz": 3.75,
     "anzeige": "3,75%",
-    "naechste": "Do 18.6.",
-    "erwartung": "Halten — Abstimmung beachten",
+    "naechste": "Anf. Aug 2026",
+    "erwartung": "Halten — am 18.6. 7:2 geblieben (2 wollten ERHÖHEN)",
     "richtung": "halten"
    },
    {
@@ -3236,8 +1296,8 @@ window.MAKRO_DATA = {
     "bank": "Fed",
     "satz": 3.625,
     "anzeige": "3,50–3,75%",
-    "naechste": "Mi 17.6.",
-    "erwartung": "Halten (97%), Dot Plot entscheidet",
+    "naechste": "29.7.2026",
+    "erwartung": "Halten, aber Dot Plot zeigt jetzt ERHÖHUNG statt Senkung — Markt preist mögliche Erhöhung im Sept",
     "richtung": "halten"
    },
    {
@@ -3254,8 +1314,8 @@ window.MAKRO_DATA = {
     "bank": "EZB",
     "satz": 2.4,
     "anzeige": "2,40%",
-    "naechste": "Jul 2026",
-    "erwartung": "Halten nach frischer Erhöhung",
+    "naechste": "23.7.2026",
+    "erwartung": "Halten nach frischer Erhöhung im Juni",
     "richtung": "halten"
    },
    {
@@ -3263,26 +1323,26 @@ window.MAKRO_DATA = {
     "bank": "BOC",
     "satz": 2.25,
     "anzeige": "2,25%",
-    "naechste": "Jul 2026",
-    "erwartung": "Halten",
+    "naechste": "29.7.2026",
+    "erwartung": "Halten — billiges Öl drückt die Inflation",
     "richtung": "halten"
    },
    {
     "code": "JPY",
     "bank": "BOJ",
-    "satz": 0.75,
-    "anzeige": "0,75%",
-    "naechste": "Di 16.6.",
-    "erwartung": "Erhöhung auf 1,00% (97,7%)",
-    "richtung": "rauf"
+    "satz": 1,
+    "anzeige": "1,00%",
+    "naechste": "Ende Jul 2026",
+    "erwartung": "Pause nach Juni-Erhöhung — weitere Erhöhung 2026 signalisiert",
+    "richtung": "halten"
    },
    {
     "code": "CHF",
     "bank": "SNB",
     "satz": 0,
     "anzeige": "0,00%",
-    "naechste": "Do 18.6.",
-    "erwartung": "Halten bei 0%",
+    "naechste": "24.9.2026",
+    "erwartung": "Halten bei 0% — am 18.6. bestätigt",
     "richtung": "halten"
    }
   ]
@@ -3322,7 +1382,7 @@ window.MAKRO_DATA = {
   "treffer": 0,
   "gesamt": 0,
   "quote": null,
-  "wochenErfasst": 1,
+  "wochenErfasst": 2,
   "letzte": []
  },
  "historie": [

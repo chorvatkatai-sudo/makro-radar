@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-24T13:19:37.130Z",
+ "erstellt": "2026-06-24T13:33:47.158Z",
  "wochenStart": "2026-06-21",
  "events": [
   {
@@ -3305,6 +3305,106 @@ window.MAKRO_DATA = {
   "gesamt": 7,
   "quote": 14,
   "wochenErfasst": 2,
+  "proPaar": {
+   "USD/JPY": {
+    "treffer": 0,
+    "gesamt": 1,
+    "letzte": [
+     {
+      "woche": "2026-06-15",
+      "treffer": false,
+      "score": -32,
+      "move": 0.65
+     }
+    ],
+    "quote": 0,
+    "konfidenz": "duenn"
+   },
+   "EUR/USD": {
+    "treffer": 0,
+    "gesamt": 1,
+    "letzte": [
+     {
+      "woche": "2026-06-15",
+      "treffer": false,
+      "score": 28,
+      "move": -1.21
+     }
+    ],
+    "quote": 0,
+    "konfidenz": "duenn"
+   },
+   "GBP/USD": {
+    "treffer": 1,
+    "gesamt": 1,
+    "letzte": [
+     {
+      "woche": "2026-06-15",
+      "treffer": true,
+      "score": -22,
+      "move": -1.4
+     }
+    ],
+    "quote": 100,
+    "konfidenz": "duenn"
+   },
+   "AUD/USD": {
+    "treffer": 0,
+    "gesamt": 1,
+    "letzte": [
+     {
+      "woche": "2026-06-15",
+      "treffer": false,
+      "score": 14,
+      "move": -0.75
+     }
+    ],
+    "quote": 0,
+    "konfidenz": "duenn"
+   },
+   "NZD/USD": {
+    "treffer": 0,
+    "gesamt": 1,
+    "letzte": [
+     {
+      "woche": "2026-06-15",
+      "treffer": false,
+      "score": 10,
+      "move": -1.63
+     }
+    ],
+    "quote": 0,
+    "konfidenz": "duenn"
+   },
+   "USD/CAD": {
+    "treffer": 0,
+    "gesamt": 1,
+    "letzte": [
+     {
+      "woche": "2026-06-15",
+      "treffer": false,
+      "score": -8,
+      "move": 1.22
+     }
+    ],
+    "quote": 0,
+    "konfidenz": "duenn"
+   },
+   "USD/CHF": {
+    "treffer": 0,
+    "gesamt": 1,
+    "letzte": [
+     {
+      "woche": "2026-06-15",
+      "treffer": false,
+      "score": -6,
+      "move": 1.62
+     }
+    ],
+    "quote": 0,
+    "konfidenz": "duenn"
+   }
+  },
   "letzte": [
    {
     "woche": "2026-06-15",

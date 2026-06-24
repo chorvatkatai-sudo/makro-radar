@@ -222,11 +222,33 @@ fs.writeFileSync(prognoseDatei, JSON.stringify(prognoseHist, null, 2));
 
 const ausgewertet = prognoseHist.wochen.filter(w => w.auswertung && w.auswertung.gesamt);
 const summe = ausgewertet.reduce((s, w) => ({ t: s.t + w.auswertung.treffer, g: s.g + w.auswertung.gesamt }), { t: 0, g: 0 });
+
+// Treffer-Quote PRO PAAR über alle ausgewerteten Wochen (Rückkopplung fürs Scoring):
+// je Paar zählen wir, wie oft das Vorzeichen meines Scores zur echten Bewegung passte.
+const proPaar = {};
+for (const w of ausgewertet) {
+  for (const paar in (w.auswertung.details || {})) {
+    const d = w.auswertung.details[paar];
+    const s = (proPaar[paar] = proPaar[paar] || { treffer: 0, gesamt: 0, letzte: [] });
+    s.gesamt++; if (d.treffer) s.treffer++;
+    s.letzte.push({ woche: w.woche, treffer: d.treffer, score: d.score, move: d.moveProzent });
+  }
+}
+for (const paar in proPaar) {
+  const s = proPaar[paar];
+  s.quote = s.gesamt ? Math.round(s.treffer / s.gesamt * 100) : null;
+  s.letzte = s.letzte.slice(-6);
+  // Konfidenz-Stufe: erst ab genug Stichprobe aussagekräftig (sonst "duenn"/"neu")
+  s.konfidenz = s.gesamt === 0 ? "neu" : s.gesamt < 3 ? "duenn"
+              : s.quote >= 60 ? "hoch" : s.quote <= 40 ? "niedrig" : "mittel";
+}
+
 const prognoseQuote = {
   wochenAusgewertet: ausgewertet.length,
   treffer: summe.t, gesamt: summe.g,
   quote: summe.g ? Math.round(summe.t / summe.g * 100) : null,
   wochenErfasst: prognoseHist.wochen.length,
+  proPaar,
   letzte: ausgewertet.slice(-6).map(w => ({ woche: w.woche, quote: w.auswertung.quote, treffer: w.auswertung.treffer, gesamt: w.auswertung.gesamt }))
 };
 

@@ -82,3 +82,9 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 - **Paar-Updates heute:** USD/JPY +16→+12 (Interventionsrisiko deckelt), AUD/USD −18→−12 (klebriger Kern stützt RBA). Sonst pro-Dollar wie Freitag (hielt diese Woche).
 - **Ist-Werte gesetzt:** CAD CPI m/m 0,5% + Median 2,1% + Trimmed 2,0%; AUD CPI y/y 4,0% / m/m −0,7% / Trimmed Mean m/m 0,5%. (Achtung: setze-ist-wert-Regex ist UNANKERED → „CPI m/m" traf auch „Core/Trimmed CPI m/m"; für punktgenau `^…$` nutzen.)
 - **TODO nächste Session:** Morgen (Do) US-PCE-Ergebnis bewerten → lehren[] + tagesnews aktualisieren; Superwoche-Ist-Werte (15.–19.6.) noch immer offen (Events nicht im aktuellen Feed — ggf. manuell als Historie-Einträge anlegen).
+
+### Session 3b (2026-06-24) — Treffer-Quote PRO PAAR ins Scoring (Rückkopplung)
+- Build-Skript berechnet jetzt `prognoseQuote.proPaar` = je Major-Paar Treffer/Gesamt/Quote über ALLE ausgewerteten Wochen + `konfidenz`-Stufe (`neu` 0 Wo / `duenn` <3 Wo / `niedrig` ≤40% / `mittel` / `hoch` ≥60%) + `letzte[]` (max 6).
+- Dashboard zeigt an JEDER Major-Paar-Karte eine **Track-Record-Zeile** („📊 Treffer-Quote dieses Paars: X% (t/g)", grün/rot/grau) und — erst ab belastbarer Stichprobe (nicht `duenn`) — einen **Konfidenz-Chip** neben dem Paarnamen (🎯 verlässlich / ⚠ nur X%). Bei zu wenig Daten ehrlich „noch dünn".
+- **Bewusste Design-Entscheidung:** Die Bull/Bear-% (= meine Makro-Überzeugung) werden NICHT heimlich verbogen; die historische Verlässlichkeit wird transparent DANEBEN gezeigt. Beim Briefing-Schreiben soll ich proPaar konsultieren (Paare mit schlechtem Track-Record vorsichtiger/näher an 0 scoren). Aktuell n=1 Woche → alle „dünn", noch nicht aussagekräftig (ab ~4–5 Wochen).
+- Getestet (Playwright): 7 Track-Zeilen, GBP/USD 100% (1/1), Rest 0%, Chips korrekt ausgeblendet solange dünn.

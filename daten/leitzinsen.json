@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-06-19",
+  "stand": "2026-06-24",
   "zinsen": [
     { "code": "AUD", "bank": "RBA", "satz": 4.35, "anzeige": "4,35%", "naechste": "Anf. Aug 2026", "erwartung": "Halten — am 16.6. bei 4,35% geblieben, Ton blieb hart", "richtung": "halten" },
     { "code": "GBP", "bank": "BOE", "satz": 3.75, "anzeige": "3,75%", "naechste": "Anf. Aug 2026", "erwartung": "Halten — am 18.6. 7:2 geblieben (2 wollten ERHÖHEN)", "richtung": "halten" },

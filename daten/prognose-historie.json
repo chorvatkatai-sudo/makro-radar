@@ -13,7 +13,48 @@
         "USD/CAD": -8,
         "USD/CHF": -6
       },
-      "auswertung": null
+      "auswertung": {
+        "treffer": 1,
+        "gesamt": 7,
+        "quote": 14,
+        "details": {
+          "USD/JPY": {
+            "score": -32,
+            "moveProzent": 0.65,
+            "treffer": false
+          },
+          "EUR/USD": {
+            "score": 28,
+            "moveProzent": -1.21,
+            "treffer": false
+          },
+          "GBP/USD": {
+            "score": -22,
+            "moveProzent": -1.4,
+            "treffer": true
+          },
+          "AUD/USD": {
+            "score": 14,
+            "moveProzent": -0.75,
+            "treffer": false
+          },
+          "NZD/USD": {
+            "score": 10,
+            "moveProzent": -1.63,
+            "treffer": false
+          },
+          "USD/CAD": {
+            "score": -8,
+            "moveProzent": 1.22,
+            "treffer": false
+          },
+          "USD/CHF": {
+            "score": -6,
+            "moveProzent": 1.62,
+            "treffer": false
+          }
+        }
+      }
     },
     {
       "woche": "2026-06-22",

@@ -48,3 +48,10 @@
   - Header `Origin: https://www.tradingview.com` mitsenden
   - Liefert: beliebige Zeiträume (auch nächste Woche!), Prognose, Vorwert und nach Veröffentlichung auch IST-WERTE
   - importance: 1 = High, 0 = Medium, -1 = Low; `currency` = Währungscode direkt
+- **Yahoo Finance Chart-API** (kostenlos, OHNE Schlüssel) — Markt-Kompass: `https://query1.finance.yahoo.com/v8/finance/chart/<symbol>?range=1mo&interval=1d` (Fallback `query2`, `User-Agent`-Header setzen)
+  - Symbole: DXY `DX-Y.NYB`, VIX `^VIX`, Öl WTI `CL=F` / Brent `BZ=F`, Gold `GC=F`, US-Renditen `2YY=F`/`^TNX`/`^TYX`, Bitcoin `BTC-USD`
+  - Achtung: Renditen-Indizes `^TNX`/`^TYX` liefern den Prozentwert teils ×10 (42,5 statt 4,25) → in `marktdaten.mjs` bei Wert>25 ÷10 normalisiert
+  - Geholt von `scripts/marktdaten.mjs`, gespeichert in `daten/marktdaten.json`
+- **CFTC COT** (Commitments of Traders, kostenlos, OHNE Schlüssel) — Großspekulanten-Positionierung: `https://publicreporting.cftc.gov/resource/6dca-aqww.json` (Socrata, Legacy Futures-Only)
+  - Netto-Position der Non-Commercials (long − short) je Währungs-Future (EUR/JPY/GBP/CHF/CAD/AUD/NZD) + Wochenänderung; wöchentlich (Dienstags-Stand, freitags veröffentlicht)
+  - Neuestes Datum via `?$order=report_date_as_yyyy_mm_dd DESC&$limit=1`, dann nach `report_date_as_yyyy_mm_dd` filtern

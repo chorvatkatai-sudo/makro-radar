@@ -153,6 +153,40 @@
   .zins-naechste { font-size: 11.5px; color: var(--faint); margin-top: 6px; line-height: 1.45; }
   .zins-naechste b { color: var(--dim); }
 
+  /* ---------- Markt-Kompass ---------- */
+  .markt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; }
+  .markt-karte { background: var(--panel); border: 1px solid var(--line); border-radius: 13px; padding: 13px 15px; box-shadow: var(--schatten); }
+  .markt-name { font-size: 12px; color: var(--dim); font-weight: 700; margin-bottom: 4px; }
+  .markt-wert { font-size: 23px; font-weight: 800; font-variant-numeric: tabular-nums; letter-spacing: .3px; }
+  .markt-wert .einheit { font-size: 13px; color: var(--faint); font-weight: 600; margin-left: 2px; }
+  .markt-delta { font-size: 12px; font-weight: 800; margin-top: 5px; font-variant-numeric: tabular-nums; }
+  .markt-delta.up { color: var(--green); }
+  .markt-delta.down { color: var(--red); }
+  .markt-delta.flat { color: var(--faint); }
+  .markt-delta .label { color: var(--faint); font-weight: 600; }
+  .kurve-box { background: var(--panel); border: 1px solid var(--line); border-radius: 11px; padding: 9px 14px; font-size: 13px; color: var(--dim); margin-top: 12px; box-shadow: var(--schatten); }
+  .kurve-box b { color: var(--text); font-variant-numeric: tabular-nums; }
+  .kurve-box .warn { color: var(--red); font-weight: 700; }
+
+  /* ---------- COT-Positionierung ---------- */
+  .cot-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+  .cot-karte { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--faint); border-radius: 13px; padding: 13px 15px; box-shadow: var(--schatten); }
+  .cot-karte.long { border-left-color: var(--green); }
+  .cot-karte.short { border-left-color: var(--red); }
+  .cot-kopf { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; margin-bottom: 7px; }
+  .cot-code { font-weight: 800; font-size: 16px; }
+  .cot-tag { font-size: 11px; font-weight: 800; padding: 3px 9px; border-radius: 99px; letter-spacing: .4px; white-space: nowrap; }
+  .cot-tag.long { color: var(--green); background: rgba(63,206,138,.13); border: 1px solid rgba(63,206,138,.42); }
+  .cot-tag.short { color: var(--red); background: rgba(240,85,107,.13); border: 1px solid rgba(240,85,107,.42); }
+  .cot-tag.neutral { color: var(--dim); background: var(--panel2); border: 1px solid var(--line); }
+  .cot-net { font-size: 20px; font-weight: 800; font-variant-numeric: tabular-nums; }
+  .cot-net.long { color: var(--green); }
+  .cot-net.short { color: var(--red); }
+  .cot-meta { font-size: 11.5px; color: var(--faint); margin-top: 5px; font-variant-numeric: tabular-nums; line-height: 1.5; }
+  .cot-meta .d-up { color: var(--green); font-weight: 700; }
+  .cot-meta .d-down { color: var(--red); font-weight: 700; }
+  .cot-stand { color: var(--faint); font-size: 12px; margin: -4px 0 14px; }
+
   /* ---------- Briefing ---------- */
   .briefing-titel { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
   .briefing-lage p { margin-bottom: 9px; color: var(--text); }
@@ -304,6 +338,19 @@
     <div class="paare-grid" id="paare"></div>
   </section>
 
+  <section id="sec-markt" style="display:none">
+    <h2>Markt-Kompass — die Treiber hinter den Kursen</h2>
+    <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px">Live (Yahoo Finance, beim Bauen geholt). Diese Werte treiben Forex: starker <b>Dollar-Index</b> → USD-Paare; hoher <b>VIX</b> → Flucht in JPY/CHF; <b>Öl</b> → CAD; steigende <b>US-Renditen</b> → Dollar stärker. Δ = Veränderung seit ~1 Woche.</div>
+    <div class="markt-grid" id="markt"></div>
+    <div class="kurve-box" id="kurveBox" style="display:none"></div>
+  </section>
+
+  <section id="sec-cot" style="display:none">
+    <h2>Großspekulanten — Wie ist „smart money" positioniert? (CFTC COT)</h2>
+    <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px">Wöchentlich von der US-Börsenaufsicht (CFTC). Zeigt die Netto-Wetten der großen Spekulanten in den Währungs-Futures. <b class="g">Netto-Long</b> = sie wetten auf eine stärkere Währung, <b class="r">Netto-Short</b> = auf eine schwächere. Sehr einseitige Positionierung kann auch ein Warnsignal für eine Gegenbewegung sein. Δ = Veränderung zur Vorwoche.</div>
+    <div class="cot-grid" id="cot"></div>
+  </section>
+
   <section id="sec-briefing">
     <h2>Briefing</h2>
     <div id="briefing"></div>
@@ -377,6 +424,8 @@
       <a href="https://westpaciq.westpac.com.au" target="_blank">Westpac IQ</a>
       <a href="https://fred.stlouisfed.org" target="_blank">FRED (US-Datenarchiv)</a>
       <a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank">CME FedWatch (Zins-Wetten)</a>
+      <a href="https://finance.yahoo.com" target="_blank">Yahoo Finance (Markt-Kompass)</a>
+      <a href="https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm" target="_blank">CFTC COT (Positionierung)</a>
     </div>
   </footer>
 </div>
@@ -504,6 +553,69 @@ if (naechste.length) {
       ${tageN[k].map(eventKarte).join("")}
     </div>`;
   }).join("");
+}
+
+// ---------- Markt-Kompass (DXY, VIX, Öl, Gold, US-Renditen) ----------
+const MD = D.marktdaten;
+if (MD?.kurse && Object.keys(MD.kurse).length) {
+  document.getElementById("sec-markt").style.display = "";
+  const nf = new Intl.NumberFormat("de-AT", { maximumFractionDigits: 4 });
+  const reihenfolge = ["DXY", "VIX", "US02Y", "US10Y", "US30Y", "WTI", "Brent", "Gold", "BTC"];
+  const keys = reihenfolge.filter(k => MD.kurse[k]).concat(Object.keys(MD.kurse).filter(k => !reihenfolge.includes(k)));
+  document.getElementById("markt").innerHTML = keys.map(k => {
+    const m = MD.kurse[k];
+    const dv = m.wocheProzent;
+    // VIX ist invers: steigende Angst = Risk-OFF = negativ → rot trotz ▲ (Pfeil zeigt echte Richtung)
+    const guteRichtung = k === "VIX" ? -1 : 1;
+    const eff = dv == null ? 0 : dv * guteRichtung;
+    const kl = eff > 0 ? "up" : eff < 0 ? "down" : "flat";
+    const pf = dv == null ? "" : dv > 0 ? "▲ " : dv < 0 ? "▼ " : "■ ";
+    const dTxt = dv == null ? "—"
+      : m.renditeDelta ? `${dv > 0 ? "+" : ""}${dv.toFixed(2)} Pp`
+      : `${dv > 0 ? "+" : ""}${dv.toFixed(2)}%`;
+    const wertTxt = m.typ === "rendite" ? m.wert.toFixed(2) : nf.format(m.wert);
+    return `<div class="markt-karte">
+      <div class="markt-name">${esc(m.name)}</div>
+      <div class="markt-wert">${m.einheit === "$" ? "$" : ""}${wertTxt}${m.einheit === "%" ? "%" : ""}</div>
+      <div class="markt-delta ${kl}">${pf}${dTxt} <span class="label">/ 1 Woche</span></div>
+    </div>`;
+  }).join("");
+  if (MD.kurve2s10s != null) {
+    const invers = MD.kurve2s10s < 0;
+    document.getElementById("kurveBox").style.display = "";
+    document.getElementById("kurveBox").innerHTML =
+      `📐 US-Zinskurve (10J − 2J): <b>${MD.kurve2s10s > 0 ? "+" : ""}${MD.kurve2s10s.toFixed(2)} Pp</b> — ` +
+      (invers ? `<span class="warn">invers</span> (kurze Zinsen höher als lange → klassisches Rezessions-Warnsignal).`
+              : `normal positiv (kurze Zinsen niedriger als lange — kein akutes Rezessionssignal).`);
+  }
+}
+
+// ---------- COT-Positionierung (CFTC) ----------
+if (MD?.cot?.waehrungen && Object.keys(MD.cot.waehrungen).length) {
+  document.getElementById("sec-cot").style.display = "";
+  const nf0 = new Intl.NumberFormat("de-AT", { maximumFractionDigits: 0 });
+  const cotReihenfolge = ["USD", "EUR", "GBP", "JPY", "CHF", "CAD", "AUD", "NZD"];
+  const cw = MD.cot.waehrungen;
+  const codes = cotReihenfolge.filter(c => cw[c]).concat(Object.keys(cw).filter(c => !cotReihenfolge.includes(c)));
+  const standD = MD.cot.stand ? new Date(MD.cot.stand + "T12:00:00") : null;
+  document.getElementById("cot").innerHTML = codes.map(code => {
+    const c = cw[code];
+    const tagTxt = c.richtung === "long" ? "NETTO-LONG" : c.richtung === "short" ? "NETTO-SHORT" : "NEUTRAL";
+    const dKl = c.dNet > 0 ? "d-up" : c.dNet < 0 ? "d-down" : "";
+    const dPf = c.dNet > 0 ? "▲ +" : c.dNet < 0 ? "▼ " : "■ ";
+    return `<div class="cot-karte ${c.richtung}">
+      <div class="cot-kopf"><span class="cot-code">${esc(code)}</span><span class="cot-tag ${c.richtung}">${tagTxt}</span></div>
+      <div class="cot-net ${c.richtung}">${c.net > 0 ? "+" : ""}${nf0.format(c.net)}</div>
+      <div class="cot-meta">
+        Kontrakte netto${c.nettoAnteil != null ? ` · ${c.nettoAnteil > 0 ? "+" : ""}${c.nettoAnteil}% des Open Interest` : ""}<br>
+        Woche: <span class="${dKl}">${dPf}${nf0.format(Math.abs(c.dNet))}</span> · Long ${nf0.format(c.long)} / Short ${nf0.format(c.short)}
+      </div>
+    </div>`;
+  }).join("");
+  if (standD) {
+    document.querySelector("#sec-cot h2").insertAdjacentHTML("afterend",
+      `<div class="cot-stand">Stand der Daten: ${fmtDatum(standD)} (CFTC veröffentlicht freitags mit dem Dienstags-Stand)</div>`);
+  }
 }
 
 // ---------- Briefing ----------

@@ -480,6 +480,14 @@
     "previous": ""
   },
   {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-06-24T20:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Employment Change",
     "country": "AUD",
     "date": "2026-06-24T21:30:00-04:00",
@@ -506,7 +514,7 @@
   {
     "title": "NAB Quarterly Business Confidence",
     "country": "AUD",
-    "date": "2026-06-24T21:35:00-04:00",
+    "date": "2026-06-24T23:50:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "-4"
@@ -600,9 +608,17 @@
     "previous": "0.5%"
   },
   {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "date": "2026-06-25T08:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "CB Leading Index m/m",
     "country": "CNY",
-    "date": "2026-06-25T09:00:00-04:00",
+    "date": "2026-06-25T09:04:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "-0.8%"

@@ -14,6 +14,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { holeMarktdaten } from "./marktdaten.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -150,6 +151,17 @@ const historieAuszug = Object.values(historie.events)
 // 5) Leitzinsen (Zins-Cockpit) — gepflegte Datei, nur durchreichen
 const leitzinsen = leseJson(path.join(DATEN, "leitzinsen.json"), null);
 
+// 5b) Markt-Kompass: Live-Treiber (DXY, VIX, Öl, Gold, US-Renditen) + CFTC-COT-Positionierung.
+//     Online frisch holen; lokal/offline letzten Stand aus daten/marktdaten.json nutzen.
+const marktdatenDatei = path.join(DATEN, "marktdaten.json");
+let marktdaten = NUR_LOKAL ? null : await holeMarktdaten();
+if (marktdaten && Object.keys(marktdaten.kurse || {}).length) {
+  fs.writeFileSync(marktdatenDatei, JSON.stringify(marktdaten, null, 2));
+} else {
+  marktdaten = leseJson(marktdatenDatei, null);
+  if (marktdaten) console.log(NUR_LOKAL ? "Lokalmodus: nutze letzten Markt-Kompass." : "WARNUNG: Markt-Kompass nicht erreichbar – nutze letzten Stand.");
+}
+
 // 6) Überraschungs-Momentum je Währung: zählen, wie oft High-Impact-Daten
 //    über/unter der Prognose lagen (grobe Daten-Momentum-Anzeige).
 const alsZahl = s => { const n = parseFloat(String(s).replace(",", ".").replace(/[^\d.\-]/g, "")); return isNaN(n) ? null : n; };
@@ -260,6 +272,7 @@ const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   briefing,
   lexikon,
   leitzinsen,
+  marktdaten,
   momentum,
   prognoseQuote,
   historie: historieAuszug,

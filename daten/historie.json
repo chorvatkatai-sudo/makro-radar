@@ -1630,6 +1630,46 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-06-24T20:30:00-04:00|USD|President Trump Speaks": {
+      "datum": "2026-06-24T20:30:00-04:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-06-24T23:50:00-04:00|AUD|NAB Quarterly Business Confidence": {
+      "datum": "2026-06-24T23:50:00-04:00",
+      "land": "AUD",
+      "titel": "NAB Quarterly Business Confidence",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-4",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-06-25T08:45:00-04:00|USD|FOMC Member Bowman Speaks": {
+      "datum": "2026-06-25T08:45:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Bowman Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-06-25T09:04:00-04:00|CNY|CB Leading Index m/m": {
+      "datum": "2026-06-25T09:04:00-04:00",
+      "land": "CNY",
+      "titel": "CB Leading Index m/m",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-0.8%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

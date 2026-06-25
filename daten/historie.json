@@ -1428,7 +1428,7 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "0.2%",
-      "actual": "0.2",
+      "actual": "0.3",
       "notiz": null
     },
     "2026-06-25T08:30:00-04:00|USD|Final GDP q/q": {
@@ -1488,7 +1488,7 @@
       "impact": "Low",
       "prognose": "0.4%",
       "vorher": "0.0%",
-      "actual": null,
+      "actual": "0.7",
       "notiz": null
     },
     "2026-06-25T08:30:00-04:00|USD|Personal Spending m/m": {
@@ -1498,7 +1498,7 @@
       "impact": "Low",
       "prognose": "0.6%",
       "vorher": "0.5%",
-      "actual": null,
+      "actual": "0.7",
       "notiz": null
     },
     "2026-06-25T09:00:00-04:00|CNY|CB Leading Index m/m": {

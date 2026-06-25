@@ -5,12 +5,12 @@
   "tagesnews": {
     "stand": "2026-06-25",
     "wochentag": "Donnerstag",
-    "tenor": "Das große Inflations-Event ist da — und es war ein Schuss in die Luft: Der US-PCE kam genau wie erwartet (Jahresrate firm bei 2,9%), aber der Monatswert war einen Tick KÜHLER. Heißt: Kein neues Feuer für die aggressivsten Zins-Wetten, der Dollar bleibt zwar stark, aber die heiße Phase ist erst mal abgebremst. Gleichzeitig zeigt der australische Arbeitsmarkt Muskeln — der Aussie ist heute der heimliche Gewinner.",
+    "tenor": "Das große Inflations-Event ist da — und es war ein Volltreffer für die Dollar-Bullen: Der US-PCE kam HEISS rein (Kern 3,4% im Jahr, Schlagzeile sogar über 4%), HEISSER als noch heute früh erwartet. Das bestätigt die Falken-Fed voll — der Dollar bleibt König, die Wette auf eine September-Erhöhung ist gefestigt. Der Aussie hält sich dank starkem Jobmarkt noch am tapfersten, geht aber im verstärkten Dollar-Sog teils unter.",
     "heute": [
-      "🇺🇸 DAS Event ist durch — der US-PCE (Lieblings-Inflationswert der Fed, Mai): Der Kern-PCE liegt bei 2,9% im Jahr — GENAU wie erwartet, aber der höchste Stand seit September 2025 (also weiter zäh). Der entscheidende Monatswert kam mit nur +0,2% rein — einen Tick KÜHLER als die erwarteten +0,3% und runter von +0,4% im April. Übersetzung: Die Inflation ist noch klebrig, aber sie heizt sich nicht weiter auf. Für die Dollar-Bullen, die auf eine richtig heiße Zahl gehofft hatten, ist das eine kleine Enttäuschung — es nimmt etwas Druck aus den Wetten auf eine Fed-Erhöhung schon im September.",
-      "🤔 Spannend: Die Fed selbst hat ihre PCE-Prognose fürs Jahresende erst letzte Woche auf 3,6% hochgeschraubt — die echte Zahl steht aber bei 2,9%. Die Realität ist also (noch) ruhiger als die Angst der Fed. Solange die Daten so bleiben, ist die ganz harte Erhöhungs-Story nicht hieb- und stichfest.",
-      "🇦🇺 Heimspiel für den Aussie: Australiens Arbeitsmarkt (Mai) kam STARK rein — die Arbeitslosenquote fiel auf 4,4% (von 4,5%), mehr Menschen in Arbeit. Zusammen mit dem heißen Kern-Inflationswert von gestern (3,6%) heißt das: Die RBA bleibt hart, kann nicht so schnell senken. Der AUD ist heute der relative Gewinner und wehrt sich gegen den starken Dollar. (Kleiner Wermutstropfen: die geleisteten Arbeitsstunden fielen — unter der Oberfläche ist es nicht ganz so rosig.)",
-      "🇺🇸 Nebenwerte heute: das finale US-BIP fürs 1. Quartal und die wöchentlichen Arbeitslosen-Erstanträge — eher Begleitmusik zum PCE, selten ein großer Auslöser."
+      "🇺🇸 DAS Event ist durch — und es kam HEISS: Der US-PCE (Lieblings-Inflationswert der Fed, Mai) beschleunigte. Der Kern-PCE stieg auf 3,4% im Jahr (von 3,3%) — der höchste Stand seit Oktober 2023, also weiter klebrig nach oben. Der Monatswert lag bei +0,3% (genau wie erwartet). Die Schlagzeile war noch heißer: Der Gesamt-PCE kletterte über die 4%-Marke (4,1% im Jahr, +0,4% im Monat). Dazu legten Einkommen UND Ausgaben jeweils kräftig um +0,7% zu — der US-Verbraucher brummt. Übersetzung: Genau das wollte die Falken-Fed sehen. Die zähe Inflation rechtfertigt den harten Kurs — Rückenwind für den Dollar.",
+      "🔁 Wichtig: Die Vermutung von heute früh (ein KÜHLERER PCE) hat sich NICHT bewahrheitet — die echte Zahl kam heißer, nicht kühler. Damit ist die September-Erhöhungswette eher gefestigt als entschärft. Die Realität (Kern 3,4%) nähert sich der Angst-Prognose der Fed (3,6% fürs Jahresende) an, statt sie zu widerlegen.",
+      "🇦🇺 Heimspiel für den Aussie: Australiens Arbeitsmarkt (Mai) kam STARK rein — +40.300 neue Jobs, der Markt bleibt robust. Zusammen mit dem heißen Kern-Inflationswert von gestern (Trimmed Mean 3,6%) heißt das: Die RBA bleibt hart, kann nicht so schnell senken. Der AUD ist heute der relative Gewinner und wehrt sich am tapfersten gegen den starken Dollar. (Kleiner Wermutstropfen: die geleisteten Arbeitsstunden fielen um 1,1% — unter der Oberfläche ist es nicht ganz so rosig.)",
+      "🇺🇸 Nebenwerte heute: das finale US-BIP fürs 1. Quartal (2,1%) und die wöchentlichen Arbeitslosen-Erstanträge — eher Begleitmusik zum heißen PCE, der heute klar den Ton angibt."
     ],
     "gestern": [
       "🇦🇺 Gestern (Mi 24.6.) Australien-Inflation: Die Schlagzeile kühlte auf 4,0% ab — aber der ehrliche Kern (Trimmed Mean) STIEG auf 3,6%, den höchsten Stand seit September 2024. Heißer Kern = RBA bleibt hart. Das hat heute zusammen mit dem starken Jobmarkt den Aussie gestützt.",
@@ -33,13 +33,13 @@
   "waehrungen": {
     "USD": {
       "stimmung": "bullisch",
-      "score": 38,
-      "grund": "Dollar bleibt stark (Index ~101,6, 13-Monats-Hoch) — aber der PCE am Donnerstag hat die Falken-Story nur halb bestätigt: Jahresrate firm bei 2,9% (zäh), Monatswert aber mit +0,2% einen Tick KÜHLER als erwartet. Das nimmt etwas Wind aus den aggressivsten Wetten auf eine September-Erhöhung. Dollar weiter oben, aber die Spitze ist erst mal gedeckelt — deshalb Score leicht zurück."
+      "score": 46,
+      "grund": "Dollar bleibt König (Index ~101,6, 13-Monats-Hoch) — und der PCE am Donnerstag hat die Falken-Story VOLL bestätigt: Kern-PCE beschleunigte auf 3,4% (höchster seit Okt 2023), Schlagzeile über 4%, Einkommen + Ausgaben je +0,7%. Das ist genau die zähe Inflation, mit der die Fed ihren harten Dot-Plot begründet. Die September-Erhöhungswette ist gefestigt — Score deshalb rauf, nicht runter."
     },
     "EUR": {
       "stimmung": "bärisch",
-      "score": -25,
-      "grund": "Die EZB hat zwar erhöht (2,40%), aber das reicht nicht: Die Fed klingt jetzt noch härter, der Zinsabstand zu den USA wird wieder größer. EUR/USD fiel Richtung 1,15. Solange die Fed den Ton angibt, hat der Euro das Nachsehen."
+      "score": -28,
+      "grund": "Die EZB hat zwar erhöht (2,40%), aber das reicht nicht: Nach dem heißen US-PCE klingt die Fed noch härter, der Zinsabstand zu den USA geht wieder weit auf. EUR/USD fiel Richtung 1,138 — tiefster Stand seit Juni 2025. Solange die Fed den Ton angibt, hat der Euro das Nachsehen."
     },
     "GBP": {
       "stimmung": "bärisch",
@@ -63,8 +63,8 @@
     },
     "AUD": {
       "stimmung": "neutral",
-      "score": 2,
-      "grund": "Heimliche Stärke: Der Arbeitsmarkt kam stark rein (Arbeitslosenquote fiel auf 4,4%), dazu der heiße Kern-Inflationswert (Trimmed Mean 3,6%, höchster seit Sept 2024). Beides hält die RBA hart und stützt den Aussie — heute der relative Gewinner unter den Majors. Mit dem leicht abgebremsten Dollar reicht es jetzt für neutral (vorher leicht bärisch)."
+      "score": -3,
+      "grund": "Eigene Stärke trifft auf starken Dollar: Der Arbeitsmarkt kam stark rein (+40.300 Jobs), dazu der heiße Kern-Inflationswert (Trimmed Mean 3,6%, höchster seit Sept 2024). Beides hält die RBA hart und macht den Aussie zum relativen Gewinner — aber der heiße US-PCE hat den Dollar zusätzlich befeuert, daher rutscht der Score knapp ins Minus (vorher leicht positiv). Unter der Oberfläche fielen zudem die Arbeitsstunden (−1,1%)."
     },
     "NZD": {
       "stimmung": "bärisch",
@@ -75,38 +75,38 @@
   "paare": [
     {
       "paar": "USD/CAD",
-      "score": 27,
-      "treiber": "Weiter aufwärts: starker Dollar TRIFFT auf billiges Öl (~80$ nach Iran-Deal) und einen Loonie, dem die heiße Schlagzeilen-Inflation kaum half (Kern am Ziel, BOC schaut drüber hinweg). Mit dem leicht abgebremsten Dollar Score etwas zurück."
+      "score": 30,
+      "treiber": "Weiter aufwärts: der vom heißen PCE neu befeuerte Dollar TRIFFT auf billiges Öl (~80$ nach Iran-Deal) und einen Loonie, dem die heiße Schlagzeilen-Inflation kaum half (Kern am Ziel, BOC schaut drüber hinweg). Doppelter Rückenwind fürs Paar."
     },
     {
       "paar": "USD/CHF",
-      "score": 20,
-      "treiber": "Dollar oben, während der Franken null Zins hat und seine Krisen-Prämie mit dem Iran-Deal verliert. Paar weiter aufwärts geneigt — nach dem nur halb heißen PCE etwas gedeckelt."
+      "score": 24,
+      "treiber": "Dollar oben (PCE heiß), während der Franken null Zins hat und seine Krisen-Prämie mit dem Iran-Deal verliert. Paar klar aufwärts geneigt."
     },
     {
       "paar": "EUR/USD",
-      "score": -23,
-      "treiber": "Zinsabstand USA–Europa weit offen, Europa-PMIs schwach (Eurozone 49,5). EUR/USD Richtung 1,136 gefallen. Bärisch — aber der kühlere PCE-Monatswert gibt dem Euro einen kleinen Atemzug, daher Score etwas weniger negativ."
+      "score": -30,
+      "treiber": "Zinsabstand USA–Europa weit offen, Europa-PMIs schwach (Eurozone 49,5), und der heiße US-PCE bestätigt die Falken-Fed. EUR/USD Richtung 1,138 gefallen (tiefster seit Juni 2025). Klar bärisch."
     },
     {
       "paar": "NZD/USD",
-      "score": -22,
-      "treiber": "Schwache Story: niedriger NZ-Zins, BIP q/q verfehlt, voller Dollar-Druck. Kiwi mit wenig Gegenwehr — leichte Entlastung nur durch den etwas abgebremsten Dollar."
+      "score": -28,
+      "treiber": "Schwache Story: niedriger NZ-Zins, BIP q/q verfehlt, voller Dollar-Druck nach dem heißen PCE. Kiwi mit wenig Gegenwehr — gehört zu den Schwächsten."
     },
     {
       "paar": "GBP/USD",
-      "score": -20,
-      "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß), gegen den starken Dollar überwiegt die Schwäche. Stagflations-Schatten bleibt. (Track-Record dieses Paars bisher gut, aber Stichprobe noch dünn.)"
+      "score": -24,
+      "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß), gegen den vom PCE gestärkten Dollar überwiegt die Schwäche. Stagflations-Schatten bleibt. (Track-Record dieses Paars bisher gut, aber Stichprobe noch dünn.)"
     },
     {
       "paar": "USD/JPY",
-      "score": 10,
-      "treiber": "Trend bullish (starker Dollar), ABER bei ~161,8 wächst das INTERVENTIONSRISIKO: Japans Finanzministerium warnt offen, „jederzeit bereit\" zu sein. Eine Intervention kann das Paar in Minuten brutal nach unten reißen — Score gedeckelt, durch den kühleren PCE zusätzlich etwas zurück."
+      "score": 14,
+      "treiber": "Trend bullish (starker Dollar, heißer PCE), ABER bei ~161,5 wächst das INTERVENTIONSRISIKO: Japans Finanzministerium warnt offen, „jederzeit bereit\" zu sein. Eine Intervention kann das Paar in Minuten brutal nach unten reißen — deshalb Score trotz Dollar-Schub gedeckelt."
     },
     {
       "paar": "AUD/USD",
-      "score": -2,
-      "treiber": "Fast neutral: starker Arbeitsmarkt (Quote 4,4%) + heißer Kern (Trimmed Mean 3,6%) halten die RBA hart und machen den Aussie zum relativen Gewinner. Der nur halb heiße US-PCE bremst den Dollar zusätzlich. Track-Record dieses Paars noch dünn — daher kein bullisher Kipp, nur nahe null."
+      "score": -10,
+      "treiber": "Eigentlich relativer Gewinner: starker Arbeitsmarkt (+40.300 Jobs) + heißer Kern (Trimmed Mean 3,6%) halten die RBA hart. ABER der heiße US-PCE hat den Dollar zusätzlich befeuert — das überwiegt jetzt, Score zurück ins Minus. Track-Record dieses Paars noch dünn."
     }
   ],
   "wochenausblick": {

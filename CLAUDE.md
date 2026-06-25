@@ -43,6 +43,14 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 4. briefing-aktuell.json schreiben (inkl. `waehrungen[].score` + `paare[]`!) + archivieren; `daten/leitzinsen.json` aktualisieren; dann ONLINE `node scripts/fetch-kalender.mjs` (wertet abgeschlossene Prognose-Wochen aus) oder `--lokal` zum Neubauen
 5. Status hier in CLAUDE.md aktualisieren
 
+### Session 5 (2026-06-25) — COT+Zinskurve ins Scoring, FRED-Ausbau, COT-z-Score, News-Ticker
+- **COT + US-Zinsen ins Paar-Scoring** (Block 6b, siehe Architektur „Markt-Overlay im Paar-Scoring"): sichtbare, gedeckelte Tilts auf den Grundscore; Selbstlernen zeichnet jetzt den angepassten Endscore auf.
+- **FRED-Ausbau:** Inflationserwartung (T10YIE) + Realzins (DFII10) als Markt-Kompass-Karten; weitere Auto-Fill-Indikatoren (NFP/Arbeitslosenquote/Retail) — greifen, sobald solche Events im Feed auftauchen.
+- **COT-Extreme:** z-Score je Währung aus ~3-J-Historie; |z|≥2 halbiert den COT-Momentum-Tilt (Reversal-Risiko), Dashboard zeigt z-Score + „⚠ extrem/erhöht"-Badge.
+- **News-Ticker:** `scripts/news.mjs` (RSS: ForexLive/FXStreet/Fed) → `daten/news.json` → Dashboard-Sektion „Schlagzeilen".
+- **Feature „Non-US-Ist-Werte automatisch" BEWUSST NICHT gebaut** (Eurostat/ONS/StatCan): EUR hat gar keine Daten-Events (nur Zins-Entscheide); StatCan-CPI reproduzierte die manuell gesetzten CAD-Werte nicht sauber (SA/NSA/Maß-Ambiguität → Mis-Fill-Risiko fürs Selbstlernen); ONS-GDP-CDIDs gaben 404; AUD (meiste Events) bräuchte ABS-API und war nicht in der Liste. Erst sauber pro Serie verifizieren, bevor das aktiviert wird — sonst verfälscht es das Gedächtnis.
+- **Hinweis:** `daten/news.json` ist (wie marktdaten/naechste-woche) versioniert, damit der Cloud-`--lokal`-Build die News-Sektion behält.
+
 ### Status nach Session 1 (2026-06-12)
 - System komplett gebaut und verifiziert (Screenshot-Test ok). Erstes Freitags-Briefing live.
 - Makro-Lage: Nahost-Krieg → Öl-Schock. US-CPI 4,2% y/y (Core nur 0,2% m/m — zahm!), EZB hat erstmals seit 2023 ERHÖHT (2,40%), BOC hält 2,25%, UK-BIP -0,1%. Fed-Chef ist jetzt Kevin Warsh (seit Mai 2026).

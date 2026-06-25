@@ -59,3 +59,8 @@
   - Schlüssel: `FRED_API_KEY` (Env) oder gitignorierte Datei `scripts/.fred-key` — NIE committen (Repo öffentlich). Gratis-Key: https://fredaccount.stlouisfed.org/apikeys
   - Geholt von `scripts/fred.mjs` (im Online-Lauf von fetch-kalender.mjs); füllt nur leere actual-Felder in historie.json, markiert mit `notiz:auto:FRED`
   - Serien-Mapping siehe `INDIKATOREN` in fred.mjs (Core PPI = `WPSFD49116`, NICHT `WPSFD4131`)
+  - Session 5: zusätzlich FRED-Tagesreihen für den Markt-Kompass (`FRED_MARKTREIHEN`): `T10YIE` (10J-Breakeven-Inflationserwartung), `DFII10` (10J-Realzins/TIPS). Mehr US-Auto-Fill-Serien: `PAYEMS` (NFP, Monatsdiff in K), `UNRATE`, `RSAFS`/`RSFSXMV` (Retail).
+- **RSS-News-Feeds** (kostenlos, ohne Schlüssel) — Schlagzeilen für die News-Box: geholt von `scripts/news.mjs`, gespeichert in `daten/news.json`
+  - ForexLive `https://www.forexlive.com/feed/news`, FXStreet `https://www.fxstreet.com/rss/news`, Fed-Pressemitteilungen `https://www.federalreserve.gov/feeds/press_all.xml`
+  - Eigener Mini-RSS/Atom-Parser (CDATA + Entity-Decode), Dedup über Titel, nach Datum sortiert
+- **CFTC COT-Historie** (z-Score): gleiche Socrata-Resource `6dca-aqww`, aber `report_date_as_yyyy_mm_dd > '<vor 3 Jahren>' AND contract_market_name in(…)` für die Verteilung → z-Score der aktuellen Netto-Position je Währung (Reversal-Signal)

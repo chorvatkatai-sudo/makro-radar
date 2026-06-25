@@ -1,7 +1,7 @@
-# Generierte Dateien — werden von fetch-kalender.mjs bei jedem Lauf neu gebaut
-# (dashboard/data.js wird MIT versioniert, weil GitHub Pages sie braucht)
-daten/naechste-woche.json
-daten/marktdaten.json
+# Generierte Dateien — werden MIT versioniert (wie dashboard/data.js), damit ein
+# --lokal-Build im Cloud-Sandbox (wo Feeds oft blockiert sind) die Dashboard-
+# Sektionen nicht verliert: daten/naechste-woche.json + daten/marktdaten.json
+# werden bei jedem erfolgreichen Online-Lauf aktualisiert und committet.
 
 # Geheimnisse — NIE veröffentlichen (Repo ist öffentlich!)
 scripts/.fred-key

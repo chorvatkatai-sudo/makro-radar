@@ -1368,7 +1368,7 @@
       "impact": "High",
       "prognose": "4.4%",
       "vorher": "4.5%",
-      "actual": null,
+      "actual": "4.4",
       "notiz": null
     },
     "2026-06-24T21:30:00-04:00|AUD|Household Spending m/m": {
@@ -1428,7 +1428,7 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "0.2%",
-      "actual": null,
+      "actual": "0.2",
       "notiz": null
     },
     "2026-06-25T08:30:00-04:00|USD|Final GDP q/q": {

@@ -51,6 +51,12 @@ Forex-Makro-Dashboard für den User (Trader, will alles KINDERLEICHT erklärt �
 - **Feature „Non-US-Ist-Werte automatisch" BEWUSST NICHT gebaut** (Eurostat/ONS/StatCan): EUR hat gar keine Daten-Events (nur Zins-Entscheide); StatCan-CPI reproduzierte die manuell gesetzten CAD-Werte nicht sauber (SA/NSA/Maß-Ambiguität → Mis-Fill-Risiko fürs Selbstlernen); ONS-GDP-CDIDs gaben 404; AUD (meiste Events) bräuchte ABS-API und war nicht in der Liste. Erst sauber pro Serie verifizieren, bevor das aktiviert wird — sonst verfälscht es das Gedächtnis.
 - **Hinweis:** `daten/news.json` ist (wie marktdaten/naechste-woche) versioniert, damit der Cloud-`--lokal`-Build die News-Sektion behält.
 
+### Session 5 — Abschluss (2026-06-25, Abend)
+- **Gebaut & live (alle getestet, gepusht; Pages baut sauber):** Markt-Kompass (DXY/VIX/Öl/Gold/Renditen + Breakeven/Realzins), CFTC-COT mit z-Score-Reversal-Warnung, FRED-Auto-Fill (US), COT+US-Zinsen sichtbar im Paar-Scoring, News-Ticker (RSS). Cloud-Routinen schreiben den FRED-Key (Key-Sicherheit per Test-Lauf bestätigt: kein Leak). Robustheits-Fix: marktdaten/naechste-woche/news.json versioniert.
+- **Bewusst NICHT gebaut:** Non-US-Auto-Fill (Eurostat/ONS/StatCan) — EUR ohne Daten-Events, StatCan-CPI reproduzierte CAD-Werte nicht sauber (SA/NSA), ONS-CDID 404 → Mis-Fill-Risiko fürs Selbstlernen. User-Entscheid: lassen.
+- **Geplanter Check (einmalig):** Routine `trig_013n7mPMhfHpuiv4Ei4hTtG4` läuft Fr 26.6. 05:45 UTC (07:45 Wien) und prüft, ob der Cloud-FRED-Lauf der Tages-News-Routine mit OFFENEN Feeds funktionierte (Bericht auf claude.ai/code/routines, kein Commit). Hintergrund: Der Test-Lauf am 25.6. war feed-blockiert → FRED lief im Cloud noch nicht end-to-end.
+- **Offene TODOs:** (1) Morgen den FRED-Cloud-Check-Bericht ansehen; lief FRED bei offenen Feeds? (2) Sobald genug Wochen-Historie da ist, ggf. COT-z-Score-Schwellen (1.5/2.0) + Tilt-Faktoren in fetch-kalender Block 6b nachjustieren. (3) Superwoche-Ist-Werte 15.–19.6. fehlen weiter in historie (nie im Feed). (4) Cron im Winter ggf. auf 06:00 UTC (Tages-News) / 12:00 UTC (Freitag) umstellen, damit die Wiener Uhrzeit bleibt.
+
 ### Status nach Session 1 (2026-06-12)
 - System komplett gebaut und verifiziert (Screenshot-Test ok). Erstes Freitags-Briefing live.
 - Makro-Lage: Nahost-Krieg → Öl-Schock. US-CPI 4,2% y/y (Core nur 0,2% m/m — zahm!), EZB hat erstmals seit 2023 ERHÖHT (2,40%), BOC hält 2,25%, UK-BIP -0,1%. Fed-Chef ist jetzt Kevin Warsh (seit Mai 2026).

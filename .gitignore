@@ -3,6 +3,11 @@
 daten/naechste-woche.json
 daten/marktdaten.json
 
+# Geheimnisse — NIE veröffentlichen (Repo ist öffentlich!)
+scripts/.fred-key
+.fred-key
+.env
+
 # Lokale Claude-Einstellungen — nie veröffentlichen
 .claude/
 

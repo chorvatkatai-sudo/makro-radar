@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-25T20:15:01.155Z",
+ "erstellt": "2026-06-25T20:22:39.795Z",
  "wochenStart": "2026-06-21",
  "events": [
   {
@@ -630,7 +630,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "1.6%",
    "previous": "1.6%",
-   "actual": null
+   "actual": "2.1%"
   },
   {
    "title": "Final GDP Price Index q/q",
@@ -3293,15 +3293,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-06-25T20:15:01.145Z",
+  "stand": "2026-06-25T20:22:39.775Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.42,
+    "wert": 101.43,
     "tagProzent": 0,
-    "wocheProzent": 0.57,
+    "wocheProzent": 0.58,
     "renditeDelta": false,
     "verlauf": [
      99.21,
@@ -3324,17 +3324,17 @@ window.MAKRO_DATA = {
      101.02,
      101.41,
      101.61,
-     101.42,
-     101.42
+     101.43,
+     101.43
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 19.06,
+    "wert": 18.87,
     "tagProzent": 0,
-    "wocheProzent": 16.22,
+    "wocheProzent": 15.06,
     "renditeDelta": false,
     "verlauf": [
      16.29,
@@ -3357,17 +3357,17 @@ window.MAKRO_DATA = {
      17.28,
      19.49,
      18.63,
-     19.06,
-     19.06
+     18.87,
+     18.87
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 71.99,
+    "wert": 72.11,
     "tagProzent": 0,
-    "wocheProzent": -6.02,
+    "wocheProzent": -5.86,
     "renditeDelta": false,
     "verlauf": [
      88.68,
@@ -3390,17 +3390,17 @@ window.MAKRO_DATA = {
      74.82,
      73.21,
      70.34,
-     71.99,
-     71.99
+     72.11,
+     72.11
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 75.58,
+    "wert": 75.68,
     "tagProzent": 0,
-    "wocheProzent": -5.35,
+    "wocheProzent": -5.22,
     "renditeDelta": false,
     "verlauf": [
      94.29,
@@ -3423,17 +3423,17 @@ window.MAKRO_DATA = {
      77.9,
      77.08,
      73.74,
-     75.58,
-     75.58
+     75.68,
+     75.68
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4045.8,
+    "wert": 4043.8,
     "tagProzent": 0,
-    "wocheProzent": -4.22,
+    "wocheProzent": -4.27,
     "renditeDelta": false,
     "verlauf": [
      4447.5,
@@ -3456,8 +3456,8 @@ window.MAKRO_DATA = {
      4181.9,
      4129.9,
      3990.3,
-     4045.8,
-     4045.8
+     4043.8,
+     4043.8
     ]
    },
    "US02Y": {
@@ -3559,9 +3559,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 59471.09,
+    "wert": 59499.85,
     "tagProzent": 0,
-    "wocheProzent": -5.96,
+    "wocheProzent": -5.91,
     "renditeDelta": false,
     "verlauf": [
      60922.67,
@@ -3584,8 +3584,8 @@ window.MAKRO_DATA = {
      63952.11,
      62668.02,
      60995.13,
-     59471.09,
-     59471.09
+     59499.85,
+     59499.85
     ]
    }
   },
@@ -3665,11 +3665,11 @@ window.MAKRO_DATA = {
  },
  "momentum": {
   "USD": {
-   "ueber": 2,
+   "ueber": 3,
    "unter": 2,
    "gleich": 3,
-   "gesamt": 7,
-   "score": 0
+   "gesamt": 8,
+   "score": 1
   },
   "CAD": {
    "ueber": 0,
@@ -3825,6 +3825,16 @@ window.MAKRO_DATA = {
    "vorher": "0.2%",
    "actual": "0.2",
    "notiz": null
+  },
+  {
+   "datum": "2026-06-25T08:30:00-04:00",
+   "land": "USD",
+   "titel": "Final GDP q/q",
+   "impact": "High",
+   "prognose": "1.6%",
+   "vorher": "1.6%",
+   "actual": "2.1%",
+   "notiz": "auto:FRED A191RL1Q225SBEA (Ref 2026-01-01)"
   },
   {
    "datum": "2026-06-24T21:30:00-04:00",

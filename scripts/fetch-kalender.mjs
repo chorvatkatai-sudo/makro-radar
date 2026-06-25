@@ -15,6 +15,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { holeMarktdaten } from "./marktdaten.mjs";
+import { fuelleFredIstwerte } from "./fred.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -124,6 +125,18 @@ for (const e of feed) {
     notiz: alt.notiz ?? null               // Platz für Lehren/Beobachtungen
   };
 }
+// 2b) Echte US-Ist-Werte automatisch von FRED nachtragen (nur online, nur leere
+//     actual-Felder, nie überschreiben). Ohne FRED-Schlüssel: sauber übersprungen.
+if (!NUR_LOKAL) {
+  try {
+    const fr = await fuelleFredIstwerte(historie);
+    if (!fr.skipped && fr.gefuellt.length) {
+      console.log(`FRED: ${fr.gefuellt.length} US-Ist-Wert(e) nachgetragen (${fr.gefuellt.map(g => g.titel + " " + g.wert).join(", ")}).`);
+    }
+    if (fr.fehler?.length) console.warn("FRED-Serien-Fehler:", fr.fehler.join(" | "));
+  } catch (e) { console.warn("FRED-Auto-Fill fehlgeschlagen:", e.message); }
+}
+
 fs.writeFileSync(historieDatei, JSON.stringify(historie, null, 2));
 
 // 3) Nächste Woche von TradingView holen (im Lokalmodus: letzte gespeicherte Version)

@@ -1438,8 +1438,8 @@
       "impact": "High",
       "prognose": "1.6%",
       "vorher": "1.6%",
-      "actual": null,
-      "notiz": null
+      "actual": "2.1%",
+      "notiz": "auto:FRED A191RL1Q225SBEA (Ref 2026-01-01)"
     },
     "2026-06-25T08:30:00-04:00|USD|Final GDP Price Index q/q": {
       "datum": "2026-06-25T08:30:00-04:00",

@@ -55,3 +55,7 @@
 - **CFTC COT** (Commitments of Traders, kostenlos, OHNE Schlüssel) — Großspekulanten-Positionierung: `https://publicreporting.cftc.gov/resource/6dca-aqww.json` (Socrata, Legacy Futures-Only)
   - Netto-Position der Non-Commercials (long − short) je Währungs-Future (EUR/JPY/GBP/CHF/CAD/AUD/NZD) + Wochenänderung; wöchentlich (Dienstags-Stand, freitags veröffentlicht)
   - Neuestes Datum via `?$order=report_date_as_yyyy_mm_dd DESC&$limit=1`, dann nach `report_date_as_yyyy_mm_dd` filtern
+- **FRED-API** (St. Louis Fed, kostenlos MIT Schlüssel) — echte US-Ist-Werte automatisch nachtragen: `https://api.stlouisfed.org/fred/series/observations?series_id=<ID>&api_key=<KEY>&file_type=json`
+  - Schlüssel: `FRED_API_KEY` (Env) oder gitignorierte Datei `scripts/.fred-key` — NIE committen (Repo öffentlich). Gratis-Key: https://fredaccount.stlouisfed.org/apikeys
+  - Geholt von `scripts/fred.mjs` (im Online-Lauf von fetch-kalender.mjs); füllt nur leere actual-Felder in historie.json, markiert mit `notiz:auto:FRED`
+  - Serien-Mapping siehe `INDIKATOREN` in fred.mjs (Core PPI = `WPSFD49116`, NICHT `WPSFD4131`)

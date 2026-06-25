@@ -37,14 +37,26 @@ export function ladeFredKey() {
 //            "q" = quartalsweise (GDP, „Final"-Schätzung ~3 Monate nach Quartalsende).
 // Die Regexe sind ANKERND (^…$), damit „CPI m/m" nicht auch „Core CPI m/m" trifft.
 export const INDIKATOREN = [
-  { titel: /^CPI m\/m$/i,                  land: "USD", serie: "CPIAUCSL",         transform: "mom",   dez: 1, periode: "m", name: "CPI m/m" },
-  { titel: /^CPI y\/y$/i,                  land: "USD", serie: "CPIAUCNS",         transform: "yoy",   dez: 1, periode: "m", name: "CPI y/y" },
-  { titel: /^Core CPI m\/m$/i,             land: "USD", serie: "CPILFESL",         transform: "mom",   dez: 1, periode: "m", name: "Core CPI m/m" },
-  { titel: /^Core CPI y\/y$/i,             land: "USD", serie: "CPILFENS",         transform: "yoy",   dez: 1, periode: "m", name: "Core CPI y/y" },
-  { titel: /^Core PCE Price Index m\/m$/i, land: "USD", serie: "PCEPILFE",         transform: "mom",   dez: 1, periode: "m", name: "Core PCE m/m" },
-  { titel: /^PPI m\/m$/i,                  land: "USD", serie: "PPIFIS",           transform: "mom",   dez: 1, periode: "m", name: "PPI m/m" },
-  { titel: /^Core PPI m\/m$/i,             land: "USD", serie: "WPSFD49116",       transform: "mom",   dez: 1, periode: "m", name: "Core PPI m/m" },  // FD less foods, energy & trade (deckt sich mit den manuell gepflegten Werten)
-  { titel: /Final GDP q\/q/i,             land: "USD", serie: "A191RL1Q225SBEA",  transform: "level", dez: 1, periode: "q", name: "Final GDP q/q" },
+  { titel: /^CPI m\/m$/i,                  land: "USD", serie: "CPIAUCSL",         transform: "mom",        dez: 1, einheit: "%", periode: "m", name: "CPI m/m" },
+  { titel: /^CPI y\/y$/i,                  land: "USD", serie: "CPIAUCNS",         transform: "yoy",        dez: 1, einheit: "%", periode: "m", name: "CPI y/y" },
+  { titel: /^Core CPI m\/m$/i,             land: "USD", serie: "CPILFESL",         transform: "mom",        dez: 1, einheit: "%", periode: "m", name: "Core CPI m/m" },
+  { titel: /^Core CPI y\/y$/i,             land: "USD", serie: "CPILFENS",         transform: "yoy",        dez: 1, einheit: "%", periode: "m", name: "Core CPI y/y" },
+  { titel: /^Core PCE Price Index m\/m$/i, land: "USD", serie: "PCEPILFE",         transform: "mom",        dez: 1, einheit: "%", periode: "m", name: "Core PCE m/m" },
+  { titel: /^PPI m\/m$/i,                  land: "USD", serie: "PPIFIS",           transform: "mom",        dez: 1, einheit: "%", periode: "m", name: "PPI m/m" },
+  { titel: /^Core PPI m\/m$/i,             land: "USD", serie: "WPSFD49116",       transform: "mom",        dez: 1, einheit: "%", periode: "m", name: "Core PPI m/m" },  // FD less foods, energy & trade (deckt sich mit den manuell gepflegten Werten)
+  { titel: /Final GDP q\/q/i,             land: "USD", serie: "A191RL1Q225SBEA",  transform: "level",      dez: 1, einheit: "%", periode: "q", name: "Final GDP q/q" },
+  // Session 5: weitere US-High-Impact-Events (greifen, sobald solche Events im Feed/historie auftauchen)
+  { titel: /^Non-Farm Employment Change$/i,land: "USD", serie: "PAYEMS",           transform: "mom_diff_k", dez: 0, einheit: "K", periode: "m", name: "Non-Farm Payrolls" },
+  { titel: /^Unemployment Rate$/i,         land: "USD", serie: "UNRATE",           transform: "level",      dez: 1, einheit: "%", periode: "m", name: "Arbeitslosenquote" },
+  { titel: /^Retail Sales m\/m$/i,         land: "USD", serie: "RSAFS",            transform: "mom",        dez: 1, einheit: "%", periode: "m", name: "Retail Sales m/m" },
+  { titel: /^Core Retail Sales m\/m$/i,    land: "USD", serie: "RSFSXMV",          transform: "mom",        dez: 1, einheit: "%", periode: "m", name: "Core Retail Sales m/m" },
+];
+
+// Tages-Marktreihen von FRED für den Markt-Kompass (keyed): Inflationserwartung +
+// Realzins — erstklassige USD-/Risk-Signale. Liefert Markt-Kompass-Karten-Form.
+export const FRED_MARKTREIHEN = [
+  { key: "INFL10", serie: "T10YIE", name: "Inflationserwartung 10J (Breakeven)" },
+  { key: "REAL10", serie: "DFII10", name: "US-Realzins 10J (TIPS)" },
 ];
 
 // ---- Datums-Helfer (alles in UTC, Monatserster) ---------------------------
@@ -75,10 +87,20 @@ export function berechneWert(map, refDate, transform) {
   const v = map.get(refDate);
   if (v == null) return null;
   if (transform === "level") return v;
+  if (transform === "mom_diff_k") {                       // absolute Monatsveränderung (z.B. NFP in Tsd.)
+    const b = map.get(verschiebeMonate(refDate, -1));
+    return b == null ? null : (v - b);
+  }
   const basis = transform === "yoy" ? map.get(verschiebeMonate(refDate, -12))
                                     : map.get(verschiebeMonate(refDate, -1));
   if (basis == null || basis === 0) return null;
   return (v / basis - 1) * 100;
+}
+
+// Wert + Einheit formatieren wie im Kalender üblich (0.2% bzw. 175K)
+function formatWert(roh, ind) {
+  if (ind.einheit === "K") return `${roh > 0 ? "+" : ""}${Math.round(roh)}K`;
+  return `${roh.toFixed(ind.dez)}%`;
 }
 
 // Referenzperiode aus dem Event-Datum:
@@ -117,7 +139,7 @@ export async function fuelleFredIstwerte(historie, { dry = false, log = console.
       if (!refDate) continue;
       const roh = berechneWert(map, refDate, ind.transform);
       if (roh == null) continue;                       // FRED hat die Periode noch nicht → später erneut
-      const wert = `${roh.toFixed(ind.dez)}%`;
+      const wert = formatWert(roh, ind);
       gefuellt.push({ datum: e.datum.slice(0, 10), titel: e.titel, wert, serie: ind.serie, ref: refDate });
       if (!dry) {
         e.actual = wert;
@@ -126,6 +148,37 @@ export async function fuelleFredIstwerte(historie, { dry = false, log = console.
     }
   }
   return { skipped: false, gefuellt, fehler, stand: new Date().toISOString() };
+}
+
+// ---- FRED-Tagesreihen für den Markt-Kompass (Inflationserwartung, Realzins) -
+// Liefert Objekt {INFL10:{…Karten-Form…}, REAL10:{…}} oder {} (kein Key/Fehler).
+export async function holeFredMarktreihen() {
+  const key = ladeFredKey();
+  if (!key) return {};
+  const out = {};
+  await Promise.all(FRED_MARKTREIHEN.map(async r => {
+    try {
+      const url = `https://api.stlouisfed.org/fred/series/observations` +
+        `?series_id=${r.serie}&api_key=${key}&file_type=json&observation_start=2026-01-01&sort_order=asc`;
+      const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (Makro-Dashboard, privat)" } });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const obs = ((await res.json()).observations || []).filter(o => o.value !== "." && o.value != null);
+      if (obs.length < 2) return;
+      const werte = obs.map(o => parseFloat(o.value));
+      const cur = werte[werte.length - 1];
+      const vorWoche = werte.length >= 6 ? werte[werte.length - 6] : werte[0];   // ~5 Handelstage
+      out[r.key] = {
+        name: r.name, einheit: "%", typ: "rendite",
+        wert: +cur.toFixed(2),
+        tagProzent: werte.length >= 2 ? +(cur - werte[werte.length - 2]).toFixed(2) : null,
+        wocheProzent: +(cur - vorWoche).toFixed(2),       // %-Punkte
+        renditeDelta: true,
+        verlauf: werte.slice(-22).map(v => +v.toFixed(2)),
+        quelle: "FRED",
+      };
+    } catch (e) { console.warn(`FRED-Marktreihe ${r.serie} nicht erreichbar: ${e.message}`); }
+  }));
+  return out;
 }
 
 // ---- Standalone-Lauf ------------------------------------------------------

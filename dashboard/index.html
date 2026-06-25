@@ -563,7 +563,7 @@ const MD = D.marktdaten;
 if (MD?.kurse && Object.keys(MD.kurse).length) {
   document.getElementById("sec-markt").style.display = "";
   const nf = new Intl.NumberFormat("de-AT", { maximumFractionDigits: 4 });
-  const reihenfolge = ["DXY", "VIX", "US02Y", "US10Y", "US30Y", "WTI", "Brent", "Gold", "BTC"];
+  const reihenfolge = ["DXY", "VIX", "US02Y", "US10Y", "US30Y", "REAL10", "INFL10", "WTI", "Brent", "Gold", "BTC"];
   const keys = reihenfolge.filter(k => MD.kurse[k]).concat(Object.keys(MD.kurse).filter(k => !reihenfolge.includes(k)));
   document.getElementById("markt").innerHTML = keys.map(k => {
     const m = MD.kurse[k];

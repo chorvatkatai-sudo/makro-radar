@@ -15,7 +15,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { holeMarktdaten } from "./marktdaten.mjs";
-import { fuelleFredIstwerte } from "./fred.mjs";
+import { fuelleFredIstwerte, holeFredMarktreihen } from "./fred.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -168,6 +168,10 @@ const leitzinsen = leseJson(path.join(DATEN, "leitzinsen.json"), null);
 //     Online frisch holen; lokal/offline letzten Stand aus daten/marktdaten.json nutzen.
 const marktdatenDatei = path.join(DATEN, "marktdaten.json");
 let marktdaten = NUR_LOKAL ? null : await holeMarktdaten();
+if (!NUR_LOKAL && marktdaten?.kurse) {
+  const fredReihen = await holeFredMarktreihen();          // Inflationserwartung + Realzins (keyed)
+  Object.assign(marktdaten.kurse, fredReihen);
+}
 if (marktdaten && Object.keys(marktdaten.kurse || {}).length) {
   fs.writeFileSync(marktdatenDatei, JSON.stringify(marktdaten, null, 2));
 } else {

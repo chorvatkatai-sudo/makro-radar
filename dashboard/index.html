@@ -117,6 +117,9 @@
   .paar-track.schlecht { color: var(--red); }
   .paar-track.neutral { color: var(--dim); }
   .paar-track.neu { color: var(--faint); font-weight: 600; }
+  .paar-tilt { font-size: 11.5px; margin-top: 7px; color: var(--blue); background: rgba(47,111,214,.08); border-radius: 8px; padding: 5px 9px; }
+  :root[data-theme="dark"] .paar-tilt { background: rgba(91,156,246,.10); }
+  .paar-tilt b { color: var(--text); font-variant-numeric: tabular-nums; }
   .paar-track b { font-size: 12.5px; }
   .paar-konf { font-size: 10.5px; font-weight: 800; padding: 2px 7px; border-radius: 99px; letter-spacing: .3px; white-space: nowrap; margin-left: 6px; }
   .paar-konf.gut { color: var(--green); background: rgba(63,206,138,.13); border: 1px solid rgba(63,206,138,.42); }
@@ -332,7 +335,7 @@
     <div class="paare-legende">
       <span><b class="g">▲ Grün = Bullish</b> — Basiswährung wird voraussichtlich stärker</span>
       <span><b class="r">▼ Rot = Bearish</b> — Basiswährung wird voraussichtlich schwächer</span>
-      <span>Der %-Wert ist meine Makro-Einschätzung für die kommende Woche.</span>
+      <span>Der %-Wert ist meine Makro-Einschätzung + eine sichtbare Markt-Korrektur (COT-Positionierung &amp; US-Zinsen) — antippen zeigt die Aufschlüsselung.</span>
     </div>
     <div class="quote-box" id="quoteBox" style="display:none"></div>
     <div class="paare-grid" id="paare"></div>
@@ -646,11 +649,26 @@ if (B) {
   };
   const explizit = {};
   (B.paare || []).forEach(p => { explizit[p.paar] = p; });
-  const paarliste = MAJORS.map(paar => {
-    const e = explizit[paar];
-    const score = e && typeof e.score === "number" ? e.score : paarScoreAuto(paar);
-    return { paar, score, treiber: e?.treiber || "" };
-  }).sort((a, b) => Math.abs(b.score) - Math.abs(a.score)); // stärkste Signale zuerst
+  // Bevorzugt die serverseitig berechnete Liste mit Markt-Overlay (COT + US-Zinsen);
+  // Fallback: nur Grundscore (kein Overlay), falls D.paareMarkt fehlt (alte data.js).
+  const paarliste = (D.paareMarkt && D.paareMarkt.length
+    ? D.paareMarkt.map(p => ({ ...p }))
+    : MAJORS.map(paar => {
+        const e = explizit[paar];
+        const score = e && typeof e.score === "number" ? e.score : paarScoreAuto(paar);
+        return { paar, score, baseScore: score, tiltCot: 0, tiltZins: 0, tiltGesamt: 0, treiber: e?.treiber || "" };
+      })
+  ).sort((a, b) => Math.abs(b.score) - Math.abs(a.score)); // stärkste Signale zuerst
+  const vz = n => (n > 0 ? "+" : "") + n;                   // Vorzeichen-Format
+  const tiltTeile = p => {                                  // „COT +5, Zinsen −2" (Nullteile weglassen)
+    const t = [];
+    if (p.tiltCot) t.push(`COT ${vz(p.tiltCot)}`);
+    if (p.tiltZins) t.push(`Zinsen ${vz(p.tiltZins)}`);
+    return t.join(", ");
+  };
+  const tiltZeile = p => (p.tiltGesamt && p.baseScore != null)
+    ? `<div class="paar-tilt" title="Deine Makro-Überzeugung (Grundscore) plus sichtbare Markt-Korrektur aus Großspekulanten-Positionierung (CFTC COT) und US-Zinsentwicklung.">⚙ Markt-Korrektur: Grund <b>${vz(p.baseScore)}</b> → <b>${vz(p.score)}</b> &nbsp;(${tiltTeile(p)})</div>`
+    : "";
 
   // Treffer-Quote pro Paar (Rückkopplung): Track-Record je Paar aus den ausgewerteten Wochen.
   const PP = D.prognoseQuote?.proPaar || {};
@@ -688,6 +706,7 @@ if (B) {
       <div class="paar-detail">
         <div class="paar-skala"><span>${bearPct}% bärisch</span><span>${bullPct}% bullisch</span></div>
         ${p.treiber ? `<div class="paar-treiber">${esc(p.treiber)}</div>` : ""}
+        ${tiltZeile(p)}
         ${trackZeile(p.paar)}
       </div>
     </div>`;

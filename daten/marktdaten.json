@@ -1,13 +1,13 @@
 {
-  "stand": "2026-06-25T20:39:38.258Z",
+  "stand": "2026-06-25T20:50:25.038Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 101.43,
+      "wert": 101.44,
       "tagProzent": 0,
-      "wocheProzent": 0.58,
+      "wocheProzent": 0.59,
       "renditeDelta": false,
       "verlauf": [
         99.21,
@@ -30,8 +30,8 @@
         101.02,
         101.41,
         101.61,
-        101.43,
-        101.43
+        101.44,
+        101.44
       ]
     },
     "VIX": {
@@ -71,9 +71,9 @@
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 71.81,
+      "wert": 71.69,
       "tagProzent": 0,
-      "wocheProzent": -6.25,
+      "wocheProzent": -6.41,
       "renditeDelta": false,
       "verlauf": [
         88.68,
@@ -96,17 +96,17 @@
         74.82,
         73.21,
         70.34,
-        71.81,
-        71.81
+        71.69,
+        71.69
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 75.42,
+      "wert": 75.26,
       "tagProzent": 0,
-      "wocheProzent": -5.55,
+      "wocheProzent": -5.75,
       "renditeDelta": false,
       "verlauf": [
         94.29,
@@ -129,17 +129,17 @@
         77.9,
         77.08,
         73.74,
-        75.42,
-        75.42
+        75.26,
+        75.26
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4044.8,
+      "wert": 4041.7,
       "tagProzent": 0,
-      "wocheProzent": -4.24,
+      "wocheProzent": -4.32,
       "renditeDelta": false,
       "verlauf": [
         4447.5,
@@ -162,8 +162,8 @@
         4181.9,
         4129.9,
         3990.3,
-        4044.8,
-        4044.8
+        4041.7,
+        4041.7
       ]
     },
     "US02Y": {
@@ -265,9 +265,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 59353.1,
+      "wert": 59308.94,
       "tagProzent": 0,
-      "wocheProzent": -6.14,
+      "wocheProzent": -6.21,
       "renditeDelta": false,
       "verlauf": [
         60922.67,
@@ -290,8 +290,8 @@
         63952.11,
         62668.02,
         60995.13,
-        59353.1,
-        59353.1
+        59308.94,
+        59308.94
       ]
     }
   },

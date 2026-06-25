@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-25T20:39:38.269Z",
+ "erstellt": "2026-06-25T20:50:25.053Z",
  "wochenStart": "2026-06-21",
  "events": [
   {
@@ -792,15 +792,6 @@ window.MAKRO_DATA = {
    "impact": "Medium",
    "forecast": "",
    "previous": "4.6%",
-   "actual": null
-  },
-  {
-   "title": "FOMC Member Williams Speaks",
-   "country": "USD",
-   "date": "2026-06-26T10:30:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
    "actual": null
   },
   {
@@ -3293,15 +3284,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-06-25T20:39:38.258Z",
+  "stand": "2026-06-25T20:50:25.038Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.43,
+    "wert": 101.44,
     "tagProzent": 0,
-    "wocheProzent": 0.58,
+    "wocheProzent": 0.59,
     "renditeDelta": false,
     "verlauf": [
      99.21,
@@ -3324,8 +3315,8 @@ window.MAKRO_DATA = {
      101.02,
      101.41,
      101.61,
-     101.43,
-     101.43
+     101.44,
+     101.44
     ]
    },
    "VIX": {
@@ -3365,9 +3356,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 71.81,
+    "wert": 71.69,
     "tagProzent": 0,
-    "wocheProzent": -6.25,
+    "wocheProzent": -6.41,
     "renditeDelta": false,
     "verlauf": [
      88.68,
@@ -3390,17 +3381,17 @@ window.MAKRO_DATA = {
      74.82,
      73.21,
      70.34,
-     71.81,
-     71.81
+     71.69,
+     71.69
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 75.42,
+    "wert": 75.26,
     "tagProzent": 0,
-    "wocheProzent": -5.55,
+    "wocheProzent": -5.75,
     "renditeDelta": false,
     "verlauf": [
      94.29,
@@ -3423,17 +3414,17 @@ window.MAKRO_DATA = {
      77.9,
      77.08,
      73.74,
-     75.42,
-     75.42
+     75.26,
+     75.26
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4044.8,
+    "wert": 4041.7,
     "tagProzent": 0,
-    "wocheProzent": -4.24,
+    "wocheProzent": -4.32,
     "renditeDelta": false,
     "verlauf": [
      4447.5,
@@ -3456,8 +3447,8 @@ window.MAKRO_DATA = {
      4181.9,
      4129.9,
      3990.3,
-     4044.8,
-     4044.8
+     4041.7,
+     4041.7
     ]
    },
    "US02Y": {
@@ -3559,9 +3550,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 59353.1,
+    "wert": 59308.94,
     "tagProzent": 0,
-    "wocheProzent": -6.14,
+    "wocheProzent": -6.21,
     "renditeDelta": false,
     "verlauf": [
      60922.67,
@@ -3584,8 +3575,8 @@ window.MAKRO_DATA = {
      63952.11,
      62668.02,
      60995.13,
-     59353.1,
-     59353.1
+     59308.94,
+     59308.94
     ]
    }
   },
@@ -3663,6 +3654,71 @@ window.MAKRO_DATA = {
    "CFTC COT / publicreporting.cftc.gov (keyless)"
   ]
  },
+ "paareMarkt": [
+  {
+   "paar": "EUR/USD",
+   "baseScore": -30,
+   "tiltCot": 2,
+   "tiltZins": 2,
+   "tiltGesamt": 4,
+   "score": -26,
+   "treiber": "Zinsabstand USA–Europa weit offen, Europa-PMIs schwach (Eurozone 49,5), und der heiße US-PCE bestätigt die Falken-Fed. EUR/USD Richtung 1,138 gefallen (tiefster seit Juni 2025). Klar bärisch."
+  },
+  {
+   "paar": "GBP/USD",
+   "baseScore": -24,
+   "tiltCot": -9,
+   "tiltZins": 2,
+   "tiltGesamt": -7,
+   "score": -31,
+   "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß), gegen den vom PCE gestärkten Dollar überwiegt die Schwäche. Stagflations-Schatten bleibt. (Track-Record dieses Paars bisher gut, aber Stichprobe noch dünn.)"
+  },
+  {
+   "paar": "USD/JPY",
+   "baseScore": 14,
+   "tiltCot": 10,
+   "tiltZins": -2,
+   "tiltGesamt": 8,
+   "score": 22,
+   "treiber": "Trend bullish (starker Dollar, heißer PCE), ABER bei ~161,5 wächst das INTERVENTIONSRISIKO: Japans Finanzministerium warnt offen, „jederzeit bereit\" zu sein. Eine Intervention kann das Paar in Minuten brutal nach unten reißen — deshalb Score trotz Dollar-Schub gedeckelt."
+  },
+  {
+   "paar": "AUD/USD",
+   "baseScore": -10,
+   "tiltCot": -1,
+   "tiltZins": 2,
+   "tiltGesamt": 1,
+   "score": -9,
+   "treiber": "Eigentlich relativer Gewinner: starker Arbeitsmarkt (+40.300 Jobs) + heißer Kern (Trimmed Mean 3,6%) halten die RBA hart. ABER der heiße US-PCE hat den Dollar zusätzlich befeuert — das überwiegt jetzt, Score zurück ins Minus. Track-Record dieses Paars noch dünn."
+  },
+  {
+   "paar": "USD/CAD",
+   "baseScore": 30,
+   "tiltCot": 10,
+   "tiltZins": -2,
+   "tiltGesamt": 8,
+   "score": 38,
+   "treiber": "Weiter aufwärts: der vom heißen PCE neu befeuerte Dollar TRIFFT auf billiges Öl (~80$ nach Iran-Deal) und einen Loonie, dem die heiße Schlagzeilen-Inflation kaum half (Kern am Ziel, BOC schaut drüber hinweg). Doppelter Rückenwind fürs Paar."
+  },
+  {
+   "paar": "USD/CHF",
+   "baseScore": 24,
+   "tiltCot": 10,
+   "tiltZins": -2,
+   "tiltGesamt": 8,
+   "score": 32,
+   "treiber": "Dollar oben (PCE heiß), während der Franken null Zins hat und seine Krisen-Prämie mit dem Iran-Deal verliert. Paar klar aufwärts geneigt."
+  },
+  {
+   "paar": "NZD/USD",
+   "baseScore": -28,
+   "tiltCot": -10,
+   "tiltZins": 2,
+   "tiltGesamt": -8,
+   "score": -36,
+   "treiber": "Schwache Story: niedriger NZ-Zins, BIP q/q verfehlt, voller Dollar-Druck nach dem heißen PCE. Kiwi mit wenig Gegenwehr — gehört zu den Schwächsten."
+  }
+ ],
  "momentum": {
   "USD": {
    "ueber": 3,

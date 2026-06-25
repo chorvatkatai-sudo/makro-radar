@@ -189,6 +189,59 @@ for (const e of Object.values(historie.events)) {
 }
 for (const code in momentum) momentum[code].score = momentum[code].ueber - momentum[code].unter;
 
+// 6b) Major-Paare-Scoring mit MARKT-OVERLAY (COT + US-Zinsen).
+//     Grundscore = meine Makro-Überzeugung (briefing.paare bzw. aus waehrungen).
+//     Darauf zwei SICHTBARE, gedeckelte Markt-Tilts:
+//       - COT: alle Majors sind USD-Crosses → genau eine COT-Währung pro Paar.
+//         Netto-Anteil am Open Interest, ±10, Vorzeichen je Basis/Gegenwährung.
+//       - Zinsen: Wochen-Δ der US-10J-Rendite → USD-Stärke (±8); +Risk-off-Nudge
+//         bei inverser 2s10s-Kurve (Häfen JPY/CHF rauf, AUD/NZD runter).
+//     Endscore = Grundscore + Tilts (gedeckelt -100..+100). Wird gezeigt UND vom
+//     Selbstlernen bewertet (siehe 7a).
+const MAJORS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD"];
+const clamp = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
+const stimmungZuScore = s => s === "bullisch" ? 40 : s === "bärisch" ? -40 : 0;
+const waehrungScore = code => {
+  const w = (briefing?.waehrungen || {})[code];
+  if (!w) return 0;
+  return typeof w.score === "number" ? w.score : stimmungZuScore(w.stimmung);
+};
+const explizitPaar = {};
+(briefing?.paare || []).forEach(p => { explizitPaar[p.paar] = p; });
+const grundScore = paar => {
+  const e = explizitPaar[paar];
+  if (e && typeof e.score === "number") return e.score;
+  const [b, q] = paar.split("/");
+  return clamp(Math.round((waehrungScore(b) - waehrungScore(q)) / 2), -100, 100);
+};
+// COT: Währung + Vorzeichen (+1 wenn Basis, -1 wenn Gegenwährung); USD hat keine COT-Serie
+const COT_PAAR = { "EUR/USD": ["EUR", 1], "GBP/USD": ["GBP", 1], "AUD/USD": ["AUD", 1], "NZD/USD": ["NZD", 1], "USD/JPY": ["JPY", -1], "USD/CAD": ["CAD", -1], "USD/CHF": ["CHF", -1] };
+const cotW = marktdaten?.cot?.waehrungen || {};
+const tiltCot = paar => {
+  const m = COT_PAAR[paar]; if (!m) return 0;
+  const c = cotW[m[0]]; if (!c || c.nettoAnteil == null) return 0;
+  return Math.round(clamp(c.nettoAnteil * 0.4, -10, 10) * m[1]);
+};
+// Zinsen: USD-Stärke aus Wochen-Δ der 10J-Rendite + Risk-off bei inverser Kurve
+const d10 = marktdaten?.kurse?.US10Y?.wocheProzent;      // %-Punkte
+const usdTilt = d10 == null ? 0 : clamp(d10 * 20, -8, 8);
+const USD_SEITE = { "USD/JPY": 1, "USD/CAD": 1, "USD/CHF": 1, "EUR/USD": -1, "GBP/USD": -1, "AUD/USD": -1, "NZD/USD": -1 };
+const kurveInvers = marktdaten?.kurve2s10s != null && marktdaten.kurve2s10s < 0;
+const RISKOFF = { "USD/JPY": 3, "USD/CHF": 3, "AUD/USD": -3, "NZD/USD": -3 };
+const tiltZins = paar => {
+  let t = usdTilt * (USD_SEITE[paar] || 0);
+  if (kurveInvers) t += (RISKOFF[paar] || 0);
+  return Math.round(clamp(t, -10, 10));
+};
+const paareMarkt = MAJORS.map(paar => {
+  const basis = grundScore(paar);
+  const tc = tiltCot(paar), tz = tiltZins(paar);
+  const score = clamp(basis + tc + tz, -100, 100);
+  const e = explizitPaar[paar];
+  return { paar, baseScore: basis, tiltCot: tc, tiltZins: tz, tiltGesamt: tc + tz, score, treiber: e?.treiber || "" };
+});
+const marktOverlayAktiv = !!(marktdaten?.cot?.waehrungen || marktdaten?.kurse?.US10Y);
+
 // 7) Prognose-Gedächtnis (Selbstlernen): je Vorhersage-Woche die Paar-Scores
 //    speichern und abgeschlossene Wochen gegen die echte FX-Bewegung auswerten.
 const eurZu = (ccy, r) => ccy === "EUR" ? 1 : r[ccy];
@@ -207,13 +260,15 @@ function naechsterMontag(datumStr) {
 const prognoseDatei = path.join(DATEN, "prognose-historie.json");
 const prognoseHist = leseJson(prognoseDatei, { hinweis: "Selbstlernen: je Vorhersage-Woche die Paar-Scores + spätere Auswertung gegen die echte Kursbewegung (frankfurter.dev, ECB-Tageskurse).", wochen: [] });
 
-// 7a) Aktuelle Briefing-Prognose als kommende Woche festhalten (einmalig je Woche)
-if (briefing?.paare?.length && briefing?.datum) {
+// 7a) Aktuelle Briefing-Prognose als kommende Woche festhalten (einmalig je Woche).
+//     Es wird der MARKT-ANGEPASSTE Endscore aufgezeichnet (nicht der reine Grund-
+//     score) — so bewertet das Selbstlernen genau das, was im Dashboard steht.
+if (briefing?.datum) {
   const zielWoche = naechsterMontag(briefing.datum);
   if (!prognoseHist.wochen.find(w => w.woche === zielWoche)) {
     const paare = {};
-    briefing.paare.forEach(p => { if (typeof p.score === "number") paare[p.paar] = p.score; });
-    if (Object.keys(paare).length) prognoseHist.wochen.push({ woche: zielWoche, ausBriefing: briefing.datum, paare, auswertung: null });
+    paareMarkt.forEach(p => { if (p.score) paare[p.paar] = p.score; });   // 0/neutral nicht werten
+    if (Object.keys(paare).length) prognoseHist.wochen.push({ woche: zielWoche, ausBriefing: briefing.datum, paare, mitMarktOverlay: marktOverlayAktiv, auswertung: null });
   }
 }
 
@@ -286,6 +341,7 @@ const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   lexikon,
   leitzinsen,
   marktdaten,
+  paareMarkt,
   momentum,
   prognoseQuote,
   historie: historieAuszug,

@@ -189,6 +189,11 @@
   .cot-meta .d-up { color: var(--green); font-weight: 700; }
   .cot-meta .d-down { color: var(--red); font-weight: 700; }
   .cot-stand { color: var(--faint); font-size: 12px; margin: -4px 0 14px; }
+  .cot-extrem { font-size: 10px; font-weight: 800; padding: 2px 7px; border-radius: 99px; letter-spacing: .4px; white-space: nowrap; }
+  .cot-extrem.extrem { color: var(--red); background: rgba(240,85,107,.15); border: 1px solid rgba(240,85,107,.5); }
+  .cot-extrem.erhoeht { color: var(--orange); background: rgba(240,140,63,.13); border: 1px solid rgba(240,140,63,.4); }
+  .cot-karte.ist-extrem { border-left-width: 4px; box-shadow: 0 0 0 1px rgba(240,85,107,.25), var(--schatten); }
+  .tilt-warn { color: var(--red); font-weight: 700; display: inline-block; margin-top: 2px; }
 
   /* ---------- Briefing ---------- */
   .briefing-titel { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
@@ -606,12 +611,18 @@ if (MD?.cot?.waehrungen && Object.keys(MD.cot.waehrungen).length) {
     const tagTxt = c.richtung === "long" ? "NETTO-LONG" : c.richtung === "short" ? "NETTO-SHORT" : "NEUTRAL";
     const dKl = c.dNet > 0 ? "d-up" : c.dNet < 0 ? "d-down" : "";
     const dPf = c.dNet > 0 ? "▲ +" : c.dNet < 0 ? "▼ " : "■ ";
-    return `<div class="cot-karte ${c.richtung}">
-      <div class="cot-kopf"><span class="cot-code">${esc(code)}</span><span class="cot-tag ${c.richtung}">${tagTxt}</span></div>
+    const extremChip = c.extrem
+      ? `<span class="cot-extrem ${c.extrem}" title="Wie weit die aktuelle Position vom eigenen 3-Jahres-Schnitt entfernt ist (z-Score ${c.zScore}). Sehr einseitig = Reversal-Risiko.">⚠ ${c.extrem === "extrem" ? "EXTREM" : "erhöht"}</span>`
+      : "";
+    const zZeile = c.zScore != null
+      ? `<br>Positionierung vs. 3-J-Schnitt: <b>z = ${c.zScore > 0 ? "+" : ""}${c.zScore}</b>${c.extrem === "extrem" ? " — historisch extrem, Gegenbewegung möglich" : ""}`
+      : "";
+    return `<div class="cot-karte ${c.richtung}${c.extrem === "extrem" ? " ist-extrem" : ""}">
+      <div class="cot-kopf"><span class="cot-code">${esc(code)}</span><span class="cot-tag ${c.richtung}">${tagTxt}</span>${extremChip}</div>
       <div class="cot-net ${c.richtung}">${c.net > 0 ? "+" : ""}${nf0.format(c.net)}</div>
       <div class="cot-meta">
         Kontrakte netto${c.nettoAnteil != null ? ` · ${c.nettoAnteil > 0 ? "+" : ""}${c.nettoAnteil}% des Open Interest` : ""}<br>
-        Woche: <span class="${dKl}">${dPf}${nf0.format(Math.abs(c.dNet))}</span> · Long ${nf0.format(c.long)} / Short ${nf0.format(c.short)}
+        Woche: <span class="${dKl}">${dPf}${nf0.format(Math.abs(c.dNet))}</span> · Long ${nf0.format(c.long)} / Short ${nf0.format(c.short)}${zZeile}
       </div>
     </div>`;
   }).join("");
@@ -667,7 +678,7 @@ if (B) {
     return t.join(", ");
   };
   const tiltZeile = p => (p.tiltGesamt && p.baseScore != null)
-    ? `<div class="paar-tilt" title="Deine Makro-Überzeugung (Grundscore) plus sichtbare Markt-Korrektur aus Großspekulanten-Positionierung (CFTC COT) und US-Zinsentwicklung.">⚙ Markt-Korrektur: Grund <b>${vz(p.baseScore)}</b> → <b>${vz(p.score)}</b> &nbsp;(${tiltTeile(p)})</div>`
+    ? `<div class="paar-tilt" title="Deine Makro-Überzeugung (Grundscore) plus sichtbare Markt-Korrektur aus Großspekulanten-Positionierung (CFTC COT) und US-Zinsentwicklung.">⚙ Markt-Korrektur: Grund <b>${vz(p.baseScore)}</b> → <b>${vz(p.score)}</b> &nbsp;(${tiltTeile(p)})${p.cotExtrem === "extrem" ? ` <span class="tilt-warn">⚠ COT extrem — Reversal-Risiko, Signal abgeschwächt</span>` : ""}</div>`
     : "";
 
   // Treffer-Quote pro Paar (Rückkopplung): Track-Record je Paar aus den ausgewerteten Wochen.

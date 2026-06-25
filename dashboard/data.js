@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-25T21:00:31.583Z",
+ "erstellt": "2026-06-25T21:02:47.334Z",
  "wochenStart": "2026-06-21",
  "events": [
   {
@@ -3284,7 +3284,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-06-25T21:00:30.535Z",
+  "stand": "2026-06-25T21:02:47.002Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3292,7 +3292,7 @@ window.MAKRO_DATA = {
     "typ": "index",
     "wert": 101.44,
     "tagProzent": 0,
-    "wocheProzent": 0.58,
+    "wocheProzent": 0.59,
     "renditeDelta": false,
     "verlauf": [
      99.21,
@@ -3356,9 +3356,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 71.45,
+    "wert": 71.4,
     "tagProzent": 0,
-    "wocheProzent": -6.72,
+    "wocheProzent": -6.79,
     "renditeDelta": false,
     "verlauf": [
      88.68,
@@ -3381,17 +3381,17 @@ window.MAKRO_DATA = {
      74.82,
      73.21,
      70.34,
-     71.45,
-     71.45
+     71.4,
+     71.4
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 75.03,
+    "wert": 75,
     "tagProzent": 0,
-    "wocheProzent": -6.04,
+    "wocheProzent": -6.07,
     "renditeDelta": false,
     "verlauf": [
      94.29,
@@ -3414,8 +3414,8 @@ window.MAKRO_DATA = {
      77.9,
      77.08,
      73.74,
-     75.03,
-     75.03
+     75,
+     75
     ]
    },
    "Gold": {
@@ -3550,9 +3550,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 59376.23,
+    "wert": 59359.71,
     "tagProzent": 0,
-    "wocheProzent": -6.11,
+    "wocheProzent": -6.13,
     "renditeDelta": false,
     "verlauf": [
      60922.67,
@@ -3575,43 +3575,9 @@ window.MAKRO_DATA = {
      63952.11,
      62668.02,
      60995.13,
-     59376.23,
-     59376.23
+     59359.71,
+     59359.71
     ]
-   },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.23,
-    "tagProzent": -0.06,
-    "wocheProzent": 0.09,
-    "renditeDelta": true,
-    "verlauf": [
-     2.16,
-     2.1,
-     2.09,
-     2.06,
-     2.07,
-     2.07,
-     2.07,
-     2.11,
-     2.11,
-     2.19,
-     2.21,
-     2.2,
-     2.21,
-     2.16,
-     2.17,
-     2.15,
-     2.14,
-     2.23,
-     2.21,
-     2.28,
-     2.29,
-     2.23
-    ],
-    "quelle": "FRED"
    },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
@@ -3646,6 +3612,40 @@ window.MAKRO_DATA = {
      2.18
     ],
     "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.23,
+    "tagProzent": -0.06,
+    "wocheProzent": 0.09,
+    "renditeDelta": true,
+    "verlauf": [
+     2.16,
+     2.1,
+     2.09,
+     2.06,
+     2.07,
+     2.07,
+     2.07,
+     2.11,
+     2.11,
+     2.19,
+     2.21,
+     2.2,
+     2.21,
+     2.16,
+     2.17,
+     2.15,
+     2.14,
+     2.23,
+     2.21,
+     2.28,
+     2.29,
+     2.23
+    ],
+    "quelle": "FRED"
    }
   },
   "kurve2s10s": 0.55,
@@ -3659,7 +3659,10 @@ window.MAKRO_DATA = {
      "short": 172587,
      "oi": 492468,
      "nettoAnteil": -27,
-     "richtung": "short"
+     "richtung": "short",
+     "zScore": -1.17,
+     "extrem": null,
+     "histWochen": 211
     },
     "CHF": {
      "net": -40058,
@@ -3668,7 +3671,10 @@ window.MAKRO_DATA = {
      "short": 47652,
      "oi": 145747,
      "nettoAnteil": -27.5,
-     "richtung": "short"
+     "richtung": "short",
+     "zScore": -1.3,
+     "extrem": null,
+     "histWochen": 211
     },
     "GBP": {
      "net": -71585,
@@ -3677,7 +3683,10 @@ window.MAKRO_DATA = {
      "short": 113628,
      "oi": 323315,
      "nettoAnteil": -22.1,
-     "richtung": "short"
+     "richtung": "short",
+     "zScore": -1.57,
+     "extrem": "erhoeht",
+     "histWochen": 211
     },
     "JPY": {
      "net": -150132,
@@ -3686,7 +3695,10 @@ window.MAKRO_DATA = {
      "short": 267507,
      "oi": 520825,
      "nettoAnteil": -28.8,
-     "richtung": "short"
+     "richtung": "short",
+     "zScore": -1.38,
+     "extrem": null,
+     "histWochen": 211
     },
     "EUR": {
      "net": 34353,
@@ -3695,7 +3707,10 @@ window.MAKRO_DATA = {
      "short": 193652,
      "oi": 894671,
      "nettoAnteil": 3.8,
-     "richtung": "long"
+     "richtung": "long",
+     "zScore": -0.56,
+     "extrem": null,
+     "histWochen": 211
     },
     "NZD": {
      "net": -45161,
@@ -3704,7 +3719,10 @@ window.MAKRO_DATA = {
      "short": 54427,
      "oi": 135171,
      "nettoAnteil": -33.4,
-     "richtung": "short"
+     "richtung": "short",
+     "zScore": -1.6,
+     "extrem": "erhoeht",
+     "histWochen": 211
     },
     "AUD": {
      "net": -4125,
@@ -3713,7 +3731,10 @@ window.MAKRO_DATA = {
      "short": 88467,
      "oi": 295545,
      "nettoAnteil": -1.4,
-     "richtung": "short"
+     "richtung": "short",
+     "zScore": 0.85,
+     "extrem": null,
+     "histWochen": 211
     }
    }
   },
@@ -3730,6 +3751,7 @@ window.MAKRO_DATA = {
    "tiltZins": 2,
    "tiltGesamt": 4,
    "score": -26,
+   "cotExtrem": null,
    "treiber": "Zinsabstand USA–Europa weit offen, Europa-PMIs schwach (Eurozone 49,5), und der heiße US-PCE bestätigt die Falken-Fed. EUR/USD Richtung 1,138 gefallen (tiefster seit Juni 2025). Klar bärisch."
   },
   {
@@ -3739,6 +3761,7 @@ window.MAKRO_DATA = {
    "tiltZins": 2,
    "tiltGesamt": -7,
    "score": -31,
+   "cotExtrem": "erhoeht",
    "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß), gegen den vom PCE gestärkten Dollar überwiegt die Schwäche. Stagflations-Schatten bleibt. (Track-Record dieses Paars bisher gut, aber Stichprobe noch dünn.)"
   },
   {
@@ -3748,6 +3771,7 @@ window.MAKRO_DATA = {
    "tiltZins": -2,
    "tiltGesamt": 8,
    "score": 22,
+   "cotExtrem": null,
    "treiber": "Trend bullish (starker Dollar, heißer PCE), ABER bei ~161,5 wächst das INTERVENTIONSRISIKO: Japans Finanzministerium warnt offen, „jederzeit bereit\" zu sein. Eine Intervention kann das Paar in Minuten brutal nach unten reißen — deshalb Score trotz Dollar-Schub gedeckelt."
   },
   {
@@ -3757,6 +3781,7 @@ window.MAKRO_DATA = {
    "tiltZins": 2,
    "tiltGesamt": 1,
    "score": -9,
+   "cotExtrem": null,
    "treiber": "Eigentlich relativer Gewinner: starker Arbeitsmarkt (+40.300 Jobs) + heißer Kern (Trimmed Mean 3,6%) halten die RBA hart. ABER der heiße US-PCE hat den Dollar zusätzlich befeuert — das überwiegt jetzt, Score zurück ins Minus. Track-Record dieses Paars noch dünn."
   },
   {
@@ -3766,6 +3791,7 @@ window.MAKRO_DATA = {
    "tiltZins": -2,
    "tiltGesamt": 8,
    "score": 38,
+   "cotExtrem": null,
    "treiber": "Weiter aufwärts: der vom heißen PCE neu befeuerte Dollar TRIFFT auf billiges Öl (~80$ nach Iran-Deal) und einen Loonie, dem die heiße Schlagzeilen-Inflation kaum half (Kern am Ziel, BOC schaut drüber hinweg). Doppelter Rückenwind fürs Paar."
   },
   {
@@ -3775,6 +3801,7 @@ window.MAKRO_DATA = {
    "tiltZins": -2,
    "tiltGesamt": 8,
    "score": 32,
+   "cotExtrem": null,
    "treiber": "Dollar oben (PCE heiß), während der Franken null Zins hat und seine Krisen-Prämie mit dem Iran-Deal verliert. Paar klar aufwärts geneigt."
   },
   {
@@ -3784,6 +3811,7 @@ window.MAKRO_DATA = {
    "tiltZins": 2,
    "tiltGesamt": -8,
    "score": -36,
+   "cotExtrem": "erhoeht",
    "treiber": "Schwache Story: niedriger NZ-Zins, BIP q/q verfehlt, voller Dollar-Druck nach dem heißen PCE. Kiwi mit wenig Gegenwehr — gehört zu den Schwächsten."
   }
  ],

@@ -224,8 +224,10 @@ const cotW = marktdaten?.cot?.waehrungen || {};
 const tiltCot = paar => {
   const m = COT_PAAR[paar]; if (!m) return 0;
   const c = cotW[m[0]]; if (!c || c.nettoAnteil == null) return 0;
-  return Math.round(clamp(c.nettoAnteil * 0.4, -10, 10) * m[1]);
+  const daempfung = c.extrem === "extrem" ? 0.5 : 1;       // überfüllter Trade → Momentum-Signal halbieren (Reversal-Risiko)
+  return Math.round(clamp(c.nettoAnteil * 0.4, -10, 10) * m[1] * daempfung);
 };
+const cotExtremFuer = paar => { const m = COT_PAAR[paar]; return m ? (cotW[m[0]]?.extrem || null) : null; };
 // Zinsen: USD-Stärke aus Wochen-Δ der 10J-Rendite + Risk-off bei inverser Kurve
 const d10 = marktdaten?.kurse?.US10Y?.wocheProzent;      // %-Punkte
 const usdTilt = d10 == null ? 0 : clamp(d10 * 20, -8, 8);
@@ -242,7 +244,7 @@ const paareMarkt = MAJORS.map(paar => {
   const tc = tiltCot(paar), tz = tiltZins(paar);
   const score = clamp(basis + tc + tz, -100, 100);
   const e = explizitPaar[paar];
-  return { paar, baseScore: basis, tiltCot: tc, tiltZins: tz, tiltGesamt: tc + tz, score, treiber: e?.treiber || "" };
+  return { paar, baseScore: basis, tiltCot: tc, tiltZins: tz, tiltGesamt: tc + tz, score, cotExtrem: cotExtremFuer(paar), treiber: e?.treiber || "" };
 });
 const marktOverlayAktiv = !!(marktdaten?.cot?.waehrungen || marktdaten?.kurse?.US10Y);
 

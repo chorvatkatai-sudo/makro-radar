@@ -119,6 +119,35 @@ async function holeCot() {
         richtung: net > 0 ? "long" : net < 0 ? "short" : "neutral",
       };
     }
+
+    // z-Score: wie extrem ist die aktuelle Netto-Position vs. der eigenen 3-Jahres-
+    // Historie? |z|≥2 = historisch extrem (Reversal-Risiko: der Trade ist überfüllt).
+    try {
+      const namen = [...new Set(Object.entries(COT_MAP).filter(([, c]) => waehrungen[c]).map(([n]) => n))];
+      const inList = namen.map(n => `'${n}'`).join(",");
+      const hUrl = base + `?$where=report_date_as_yyyy_mm_dd > '2022-06-01' AND contract_market_name in(${inList})` +
+        `&$select=contract_market_name,noncomm_positions_long_all,noncomm_positions_short_all&$limit=5000`;
+      const hRes = await fetch(hUrl, { headers: { "User-Agent": "Mozilla/5.0 (Makro-Dashboard, privat)" } });
+      if (hRes.ok) {
+        const serien = {};
+        for (const x of await hRes.json()) {
+          const code = COT_MAP[(x.contract_market_name || "").trim().toUpperCase()];
+          if (!code) continue;
+          (serien[code] = serien[code] || []).push((+x.noncomm_positions_long_all) - (+x.noncomm_positions_short_all));
+        }
+        for (const code in waehrungen) {
+          const arr = serien[code];
+          if (!arr || arr.length < 26) continue;                  // mind. ~½ Jahr Historie
+          const mean = arr.reduce((s, v) => s + v, 0) / arr.length;
+          const sd = Math.sqrt(arr.reduce((s, v) => s + (v - mean) ** 2, 0) / arr.length) || 1;
+          const z = (waehrungen[code].net - mean) / sd;
+          waehrungen[code].zScore = +z.toFixed(2);
+          waehrungen[code].extrem = Math.abs(z) >= 2 ? "extrem" : Math.abs(z) >= 1.5 ? "erhoeht" : null;
+          waehrungen[code].histWochen = arr.length;
+        }
+      }
+    } catch (e) { console.warn(`COT-Historie/z-Score nicht erreichbar: ${e.message}`); }
+
     return { stand: latest.slice(0, 10), waehrungen };
   } catch (err) {
     console.warn(`CFTC COT nicht erreichbar: ${err.message}`);

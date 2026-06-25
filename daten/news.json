@@ -1,0 +1,118 @@
+{
+  "stand": "2026-06-25T21:05:59.983Z",
+  "quellen": [
+    "ForexLive",
+    "FXStreet",
+    "Fed"
+  ],
+  "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Firm data isn't hot enough for the US Dollar",
+      "link": "https://www.fxstreet.com/news/firm-data-isnt-hot-enough-for-the-us-dollar-202606252036",
+      "datum": "2026-06-25T20:36:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar eases after PCE data, Yen remains near intervention zone",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-eases-after-pce-data-yen-remains-near-intervention-zone-202606252035",
+      "datum": "2026-06-25T20:35:30.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Friday, June 26, 2026 - Japan inflation sneak peek",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-june-26-2026-japan-inflation-sneak-peek-20260625/",
+      "datum": "2026-06-25T20:28:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Williams: “Imperative” to return inflation to 2% target",
+      "link": "https://www.fxstreet.com/news/feds-williams-imperative-to-return-inflation-to-2-target-202606252018",
+      "datum": "2026-06-25T20:18:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Megacap tech struggles, US dollar slides on PCe",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-megacap-tech-struggles-us-dollar-slides-on-pce-20260625/",
+      "datum": "2026-06-25T20:05:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Weakness extends after breakout against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-weakness-extends-after-breakout-against-us-dollar-uob-202606251945",
+      "datum": "2026-06-25T19:45:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Goolsbee: “Inflation side of mandate is clearly the problem”",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-inflation-side-of-mandate-is-clearly-the-problem-202606251928",
+      "datum": "2026-06-25T19:28:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Banxico leaves interest rates unchanged at 6.50% as expected",
+      "link": "https://www.fxstreet.com/news/banxico-leaves-interest-rates-unchanged-at-650-as-expected-202606251902",
+      "datum": "2026-06-25T19:24:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: US Dollar retreats below 0.8100 as ‘tweezer top’ forms",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-retreats-below-08100-as-tweezer-top-forms-202606251844",
+      "datum": "2026-06-25T18:44:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Thailand: BoT steady stance backs fragile growth – DBS",
+      "link": "https://www.fxstreet.com/news/thailand-bot-steady-stance-backs-fragile-growth-dbs-202606251823",
+      "datum": "2026-06-25T18:23:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: RSI flashes oversold as the pair hovers near seven-month lows",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-rsi-flashes-oversold-as-the-pair-hovers-near-seven-month-lows-202606251808",
+      "datum": "2026-06-25T18:08:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold price rebounds as US Dollar’s rally stalls despite high Core PCE",
+      "link": "https://www.fxstreet.com/news/gold-price-rebounds-as-us-dollars-rally-stalls-despite-high-core-pce-202606251807",
+      "datum": "2026-06-25T18:07:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen holds near intervention levels as US data supports Fed caution",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-near-intervention-levels-as-us-data-supports-fed-caution-202606251807",
+      "datum": "2026-06-25T18:07:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UN shipping agency says it will pause Hormuz evacuation plan",
+      "link": "https://investinglive.com/news/un-shipping-agency-says-it-will-pause-hormuz-evacuation-plan-20260625/",
+      "datum": "2026-06-25T18:00:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI rebounds while traders monitor fresh developments in the Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/wti-rebounds-while-traders-monitor-fresh-developments-in-the-strait-of-hormuz-202606251732",
+      "datum": "2026-06-25T17:32:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $44 billion of 7- year notes at a high yield of 4.26%",
+      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-7-year-note-at-a-high-yield-of-426-20260625/",
+      "datum": "2026-06-25T17:03:18.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Dallas Fed trimmed mean PCE price index +2.8% vs +2.4% prior",
+      "link": "https://investinglive.com/news/dallas-fed-trimmed-mean-pce-price-index-28-vs-24-prior-20260625/",
+      "datum": "2026-06-25T15:39:56.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+      "datum": "2026-06-25T15:00:00.000Z"
+    }
+  ]
+}

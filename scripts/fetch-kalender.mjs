@@ -16,6 +16,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { holeMarktdaten } from "./marktdaten.mjs";
 import { fuelleFredIstwerte, holeFredMarktreihen } from "./fred.mjs";
+import { holeNews } from "./news.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -178,6 +179,12 @@ if (marktdaten && Object.keys(marktdaten.kurse || {}).length) {
   marktdaten = leseJson(marktdatenDatei, null);
   if (marktdaten) console.log(NUR_LOKAL ? "Lokalmodus: nutze letzten Markt-Kompass." : "WARNUNG: Markt-Kompass nicht erreichbar – nutze letzten Stand.");
 }
+
+// 5c) News-Schlagzeilen (RSS): online holen, lokal/offline letzten Stand nutzen.
+const newsDatei = path.join(DATEN, "news.json");
+let news = NUR_LOKAL ? null : await holeNews();
+if (news && news.eintraege?.length) fs.writeFileSync(newsDatei, JSON.stringify(news, null, 2));
+else news = leseJson(newsDatei, null);
 
 // 6) Überraschungs-Momentum je Währung: zählen, wie oft High-Impact-Daten
 //    über/unter der Prognose lagen (grobe Daten-Momentum-Anzeige).
@@ -348,6 +355,7 @@ const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   leitzinsen,
   marktdaten,
   paareMarkt,
+  news,
   momentum,
   prognoseQuote,
   historie: historieAuszug,

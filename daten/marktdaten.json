@@ -1,13 +1,13 @@
 {
-  "stand": "2026-06-25T21:02:47.002Z",
+  "stand": "2026-06-25T21:05:59.193Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 101.44,
+      "wert": 101.45,
       "tagProzent": 0,
-      "wocheProzent": 0.59,
+      "wocheProzent": 0.6,
       "renditeDelta": false,
       "verlauf": [
         99.21,
@@ -30,8 +30,8 @@
         101.02,
         101.41,
         101.61,
-        101.44,
-        101.44
+        101.45,
+        101.45
       ]
     },
     "VIX": {
@@ -104,9 +104,9 @@
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 75,
+      "wert": 74.96,
       "tagProzent": 0,
-      "wocheProzent": -6.07,
+      "wocheProzent": -6.12,
       "renditeDelta": false,
       "verlauf": [
         94.29,
@@ -129,15 +129,15 @@
         77.9,
         77.08,
         73.74,
-        75,
-        75
+        74.96,
+        74.96
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4039.9,
+      "wert": 4039.8,
       "tagProzent": 0,
       "wocheProzent": -4.36,
       "renditeDelta": false,
@@ -162,8 +162,8 @@
         4181.9,
         4129.9,
         3990.3,
-        4039.9,
-        4039.9
+        4039.8,
+        4039.8
       ]
     },
     "US02Y": {
@@ -265,9 +265,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 59359.71,
+      "wert": 59396.23,
       "tagProzent": 0,
-      "wocheProzent": -6.13,
+      "wocheProzent": -6.07,
       "renditeDelta": false,
       "verlauf": [
         60922.67,
@@ -290,20 +290,19 @@
         63952.11,
         62668.02,
         60995.13,
-        59359.71,
-        59359.71
+        59396.23,
+        59396.23
       ]
     },
     "INFL10": {
       "name": "Inflationserwartung 10J (Breakeven)",
       "einheit": "%",
       "typ": "rendite",
-      "wert": 2.18,
-      "tagProzent": -0.03,
-      "wocheProzent": -0.11,
+      "wert": 2.21,
+      "tagProzent": 0.03,
+      "wocheProzent": -0.05,
       "renditeDelta": true,
       "verlauf": [
-        2.4,
         2.4,
         2.39,
         2.39,
@@ -324,7 +323,8 @@
         2.25,
         2.23,
         2.21,
-        2.18
+        2.18,
+        2.21
       ],
       "quelle": "FRED"
     },

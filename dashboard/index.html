@@ -195,6 +195,18 @@
   .cot-karte.ist-extrem { border-left-width: 4px; box-shadow: 0 0 0 1px rgba(240,85,107,.25), var(--schatten); }
   .tilt-warn { color: var(--red); font-weight: 700; display: inline-block; margin-top: 2px; }
 
+  /* ---------- News-Schlagzeilen ---------- */
+  .news-liste { display: grid; gap: 7px; }
+  .news-item { display: flex; align-items: baseline; gap: 11px; background: var(--panel); border: 1px solid var(--line); border-radius: 11px; padding: 10px 14px; box-shadow: var(--schatten); }
+  .news-quelle { font-size: 10.5px; font-weight: 800; letter-spacing: .4px; padding: 3px 8px; border-radius: 99px; white-space: nowrap; background: var(--panel2); border: 1px solid var(--line); color: var(--dim); }
+  .news-quelle.ForexLive { color: var(--blue); border-color: rgba(47,111,214,.4); }
+  .news-quelle.FXStreet { color: var(--orange); border-color: rgba(217,118,15,.4); }
+  .news-quelle.Fed { color: var(--green); border-color: rgba(21,163,90,.4); }
+  .news-titel { flex: 1; min-width: 0; }
+  .news-titel a { color: var(--text); text-decoration: none; font-size: 13.5px; }
+  .news-titel a:hover { color: var(--amber); text-decoration: underline; }
+  .news-zeit { color: var(--faint); font-size: 11px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
   /* ---------- Briefing ---------- */
   .briefing-titel { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
   .briefing-lage p { margin-bottom: 9px; color: var(--text); }
@@ -357,6 +369,12 @@
     <h2>Großspekulanten — Wie ist „smart money" positioniert? (CFTC COT)</h2>
     <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px">Wöchentlich von der US-Börsenaufsicht (CFTC). Zeigt die Netto-Wetten der großen Spekulanten in den Währungs-Futures. <b class="g">Netto-Long</b> = sie wetten auf eine stärkere Währung, <b class="r">Netto-Short</b> = auf eine schwächere. Sehr einseitige Positionierung kann auch ein Warnsignal für eine Gegenbewegung sein. Δ = Veränderung zur Vorwoche.</div>
     <div class="cot-grid" id="cot"></div>
+  </section>
+
+  <section id="sec-news" style="display:none">
+    <h2>Schlagzeilen — was bewegt den Markt gerade?</h2>
+    <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px" id="newsStand">Kostenlose Feeds: ForexLive · FXStreet · Fed. Stand beim letzten Daten-Update.</div>
+    <div class="news-liste" id="news"></div>
   </section>
 
   <section id="sec-briefing">
@@ -630,6 +648,26 @@ if (MD?.cot?.waehrungen && Object.keys(MD.cot.waehrungen).length) {
     document.querySelector("#sec-cot h2").insertAdjacentHTML("afterend",
       `<div class="cot-stand">Stand der Daten: ${fmtDatum(standD)} (CFTC veröffentlicht freitags mit dem Dienstags-Stand)</div>`);
   }
+}
+
+// ---------- News-Schlagzeilen ----------
+if (D.news?.eintraege?.length) {
+  document.getElementById("sec-news").style.display = "";
+  if (D.news.stand) document.getElementById("newsStand").textContent =
+    "Kostenlose Feeds: " + (D.news.quellen || []).join(" · ") + " · Stand " + fmtDatum(new Date(D.news.stand)) + " " + fmtZeit(new Date(D.news.stand));
+  const relZeit = iso => {
+    if (!iso) return "";
+    const min = Math.round((jetzt - new Date(iso)) / 60000);
+    if (min < 60) return "vor " + Math.max(1, min) + " Min";
+    if (min < 1440) return "vor " + Math.round(min / 60) + " Std";
+    return "vor " + Math.round(min / 1440) + " T";
+  };
+  document.getElementById("news").innerHTML = D.news.eintraege.map(e => `
+    <div class="news-item">
+      <span class="news-quelle ${esc(e.quelle)}">${esc(e.quelle)}</span>
+      <span class="news-titel">${e.link ? `<a href="${esc(e.link)}" target="_blank" rel="noopener">${esc(e.titel)}</a>` : esc(e.titel)}</span>
+      <span class="news-zeit">${relZeit(e.datum)}</span>
+    </div>`).join("");
 }
 
 // ---------- Briefing ----------

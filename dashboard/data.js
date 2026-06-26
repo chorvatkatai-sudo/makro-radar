@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-25T21:05:59.996Z",
+ "erstellt": "2026-06-26T05:06:48.734Z",
  "wochenStart": "2026-06-21",
  "events": [
   {
@@ -2601,22 +2601,20 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Iran-Deal unterschrieben, Öl bei 80$ — aber die Fed dreht hart auf Falke und der Dollar explodiert nach oben",
   "tagesnews": {
-   "stand": "2026-06-25",
-   "wochentag": "Donnerstag",
-   "tenor": "Das große Inflations-Event ist da — und es war ein Volltreffer für die Dollar-Bullen: Der US-PCE kam HEISS rein (Kern 3,4% im Jahr, Schlagzeile sogar über 4%), HEISSER als noch heute früh erwartet. Das bestätigt die Falken-Fed voll — der Dollar bleibt König, die Wette auf eine September-Erhöhung ist gefestigt. Der Aussie hält sich dank starkem Jobmarkt noch am tapfersten, geht aber im verstärkten Dollar-Sog teils unter.",
+   "stand": "2026-06-26",
+   "wochentag": "Freitag",
+   "tenor": "Ruhiger Wochenausklang mit dem Dollar weiter auf dem Thron: Nach dem heißen US-PCE von gestern bleibt die Falken-Fed-Story das Maß aller Dinge. Lichtblick für den Yen: Tokios Inflation festigt sich (Kern-Kern zurück Richtung 2%) — das stützt den BOJ-Erhöhungskurs. Trotzdem klebt USD/JPY bei rund 161–162, dem schwächsten Yen seit 1986 — das Interventionsrisiko bleibt brandheiß.",
    "heute": [
-    "🇺🇸 DAS Event ist durch — und es kam HEISS: Der US-PCE (Lieblings-Inflationswert der Fed, Mai) beschleunigte. Der Kern-PCE stieg auf 3,4% im Jahr (von 3,3%) — der höchste Stand seit Oktober 2023, also weiter klebrig nach oben. Der Monatswert lag bei +0,3% (genau wie erwartet). Die Schlagzeile war noch heißer: Der Gesamt-PCE kletterte über die 4%-Marke (4,1% im Jahr, +0,4% im Monat). Dazu legten Einkommen UND Ausgaben jeweils kräftig um +0,7% zu — der US-Verbraucher brummt. Übersetzung: Genau das wollte die Falken-Fed sehen. Die zähe Inflation rechtfertigt den harten Kurs — Rückenwind für den Dollar.",
-    "🔁 Wichtig: Die Vermutung von heute früh (ein KÜHLERER PCE) hat sich NICHT bewahrheitet — die echte Zahl kam heißer, nicht kühler. Damit ist die September-Erhöhungswette eher gefestigt als entschärft. Die Realität (Kern 3,4%) nähert sich der Angst-Prognose der Fed (3,6% fürs Jahresende) an, statt sie zu widerlegen.",
-    "🇦🇺 Heimspiel für den Aussie: Australiens Arbeitsmarkt (Mai) kam STARK rein — +40.300 neue Jobs, der Markt bleibt robust. Zusammen mit dem heißen Kern-Inflationswert von gestern (Trimmed Mean 3,6%) heißt das: Die RBA bleibt hart, kann nicht so schnell senken. Der AUD ist heute der relative Gewinner und wehrt sich am tapfersten gegen den starken Dollar. (Kleiner Wermutstropfen: die geleisteten Arbeitsstunden fielen um 1,1% — unter der Oberfläche ist es nicht ganz so rosig.)",
-    "🇺🇸 Nebenwerte heute: das finale US-BIP fürs 1. Quartal (2,1%) und die wöchentlichen Arbeitslosen-Erstanträge — eher Begleitmusik zum heißen PCE, der heute klar den Ton angibt."
+    "🇯🇵 Tokio-Inflation (der Frühindikator für ganz Japan) ist da — und sie festigt sich: Schlagzeile +1,7% im Jahr (von 1,4%), Kern (ohne frische Lebensmittel) +1,6% (genau wie erwartet, hoch von 1,3%). Der ehrlichste Wert, der Kern-Kern (ohne Lebensmittel UND Energie), sprang auf +1,9% — also wieder fast am 2%-Ziel der japanischen Notenbank. Übersetzung: Die Teuerung in Japan zieht breiter an. Das stützt den Kurs der BOJ, weiter zu erhöhen — gut für den Yen. ABER: USD/JPY klebt bei ~161–162, dem schwächsten Yen seit 1986. Analysten meinen, selbst eine Intervention könnte das Paar bestenfalls im Bereich 162–165 deckeln. Wer auf weiter steigenden USD/JPY setzt, spielt mit dem Feuer.",
+    "🇺🇸 Heute Nachmittag noch die FINALE Uni-Michigan-Verbraucherstimmung (Juni) — Stimmungsbarometer der US-Konsumenten. Die erste Schätzung lag bei 48,9 (Erholung vom Allzeittief 44,8). WICHTIG sind die mitgelieferten Inflations-Erwartungen der Bürger (zuletzt 4,6% aufs Jahr): Bleiben die hoch, ist das ein weiteres Argument für die harte Fed.",
+    "📅 Letzter Handelstag der Woche UND des Quartals: Am Monats-/Quartalsende schichten große Fonds ihre Depots um — das kann die Kurse zum Wochenschluss kurzfristig hin- und herwerfen, ohne dass dahinter eine echte Nachricht steckt. Der Grundton bleibt aber: starker Dollar (Index ~101,5), billiges Öl (WTI ~71$).",
+    "👀 Heute Nachmittag legt die separate Wochen-Routine noch das große Freitags-Wochenbriefing nach (Ausblick auf nächste Woche + Claudes Einschätzung zu den kommenden Zahlen)."
    ],
    "gestern": [
-    "🇦🇺 Gestern (Mi 24.6.) Australien-Inflation: Die Schlagzeile kühlte auf 4,0% ab — aber der ehrliche Kern (Trimmed Mean) STIEG auf 3,6%, den höchsten Stand seit September 2024. Heißer Kern = RBA bleibt hart. Das hat heute zusammen mit dem starken Jobmarkt den Aussie gestützt.",
-    "🌡️ Davor (Di 23.6.) die Flash-PMIs — das Frühwarn-Thermometer der Wirtschaft (über 50 = Wachstum, unter 50 = Schrumpfen): ein KRASSER Unterschied. US-Industrie sprang auf 55,7 (bester Wert seit Mai 2022), während Europa schrumpft — Eurozone 49,5, Deutschland 48,0, Englands Dienstleister stürzten auf 48,7.",
-    "💵 Die Folge: Der Dollar schoss auf ein 13-Monats-Hoch (Dollar-Index ~101,6). „USA stark, Europa schwach\" zog das Geld in den Dollar, EUR/USD fiel Richtung 1,136.",
-    "🇯🇵 Achtung Yen: USD/JPY steht bei rund 161,8 — der Yen ist brutal schwach. Japans Finanzministerium warnt offen, es sei „jederzeit bereit zu reagieren\". Wer auf weiter steigenden USD/JPY setzt, spielt mit dem Feuer — eine Intervention kann das Paar in Minuten mehrere Hundert Pips nach unten reißen.",
-    "🇨🇦 Anfang der Woche (Mo 22.6.) kam die Kanada-Inflation HEISS rein: 3,2% y/y (nur wegen Benzin), Kern aber bei ~2% am Ziel — die Bank of Canada schaut bewusst drüber hinweg, dem schwachen Loonie half es kaum.",
-    "👀 Morgen (Fr 26.6.): Tokio-Inflation (Japan) — der Frühindikator für Japans Teuerung. Heiß = bestätigt den BOJ-Erhöhungskurs = stützt den Yen."
+    "🇺🇸 Gestern (Do 25.6.) DAS Event: Der US-PCE (Lieblings-Inflationswert der Fed, Mai) kam HEISS rein. Der Kern-PCE stieg auf 3,4% im Jahr (von 3,3%) — höchster Stand seit Oktober 2023. Die Schlagzeile kletterte über die 4%-Marke (4,1%). Einkommen UND Ausgaben legten je +0,7% zu — der US-Verbraucher brummt. Genau das wollte die Falken-Fed sehen: zähe Inflation rechtfertigt den harten Kurs. Die Wette auf eine September-Erhöhung ist gefestigt — Rückenwind für den Dollar.",
+    "🇦🇺 Ebenfalls gestern: Australiens Arbeitsmarkt (Mai) STARK — +40.300 neue Jobs. Zusammen mit dem heißen Kern-Inflationswert vom Mittwoch (Trimmed Mean 3,6%) heißt das: Die RBA bleibt hart. Der Aussie ist dadurch der relative Gewinner und wehrt sich am tapfersten gegen den starken Dollar (Wermutstropfen: die Arbeitsstunden fielen −1,1%).",
+    "🌡️ Diese Woche bestätigte sich das Bild „USA stark, Europa schwach\": Flash-PMIs (Di) mit US-Industrie 55,7 (Bestwert seit Mai 2022) vs. schrumpfendem Europa (Eurozone 49,5, Deutschland 48,0). Das schob den Dollar-Index auf ein 13-Monats-Hoch (~101,6), EUR/USD fiel Richtung 1,136.",
+    "🇨🇦 Anfang der Woche (Mo 22.6.) kam Kanadas Inflation heiß rein (3,2% y/y) — aber nur wegen Benzin; der Kern liegt am 2%-Ziel, die Bank of Canada schaut bewusst drüber hinweg. Dem schwachen Loonie half es kaum."
    ]
   },
   "lage": [

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-26T13:12:37.825Z",
+ "erstellt": "2026-06-27T05:04:43.629Z",
  "wochenStart": "2026-06-21",
  "events": [
   {
@@ -2601,20 +2601,20 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Heißer PCE bestätigt die Falken-Fed — der Dollar bleibt König, macht aber vor dem großen Arbeitsmarkt-Bericht (Do) eine Verschnaufpause",
   "tagesnews": {
-   "stand": "2026-06-26",
-   "wochentag": "Freitag",
-   "tenor": "Ruhiger Wochen- und Quartalsausklang mit dem Dollar weiter oben (Index ~101,5), aber ohne neuen Schwung: Der heiße US-PCE von gestern hat die Falken-Fed-Story bestätigt — überrascht hat er aber NICHT, deshalb hat der Dollar pausiert und die Wette auf eine September-Erhöhung ist leicht abgekühlt (von 68% auf 63%). Lichtblick für den Yen: Tokios Inflation festigt sich (Kern-Kern fast zurück auf 2%) — das stützt den BOJ-Erhöhungskurs. Trotzdem klebt USD/JPY bei rund 161–162, dem schwächsten Yen seit 1986 — Interventionsrisiko bleibt heiß. Heute Nachmittag legt dieses Wochenbriefing den Ausblick auf nächste Woche nach.",
+   "stand": "2026-06-27",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — die großen Börsen ruhen, keine neuen Zahlen. Rückblick: Der Dollar hat den Freitag SCHWÄCHER beendet (Index auf ~101,2, zweiter Verlusttag in Folge) — übers Ganze blieb aber ein kleines Wochenplus. Heißt: Die Dollar-Rally hat zum Wochenschluss verschnauft, weil der heiße PCE nur bestätigt statt überrascht hat. EUR/USD hat sich bis ~1,14 erholt, USD/JPY bleibt nur durch das Interventionsrisiko gedeckelt. Nächste Woche wird's ernst: verkürzt (Fr 3.7. US-Feiertag), mit dem US-Jobbericht schon am DONNERSTAG (2.7.) als Höhepunkt.",
    "heute": [
-    "🇯🇵 Tokio-Inflation (der Frühindikator für ganz Japan) festigt sich: Schlagzeile +1,7% im Jahr (von 1,4%), Kern (ohne frische Lebensmittel) +1,6% (wie erwartet, hoch von 1,3%). Der ehrlichste Wert, der Kern-Kern (ohne Lebensmittel UND Energie), sprang auf +1,9% — also wieder fast am 2%-Ziel der japanischen Notenbank. Übersetzung: Die Teuerung in Japan zieht breiter an, das stützt den BOJ-Erhöhungskurs — eigentlich gut für den Yen. ABER: USD/JPY klebt bei ~161–162, dem schwächsten Yen seit 1986. Wer auf weiter steigenden USD/JPY setzt, spielt mit dem Feuer (Interventionsrisiko).",
-    "🇺🇸 Heute Nachmittag noch die FINALE Uni-Michigan-Verbraucherstimmung (Juni) — Stimmungsbarometer der US-Konsumenten. Die erste Schätzung lag bei 48,9 (Erholung vom Allzeittief 44,8). WICHTIG sind die mitgelieferten Inflations-Erwartungen der Bürger (zuletzt 4,6%): Bleiben die hoch, ist das ein weiteres Argument für die harte Fed.",
-    "📅 Letzter Handelstag der Woche UND des Quartals: Am Monats-/Quartalsende schichten große Fonds ihre Depots um — das kann die Kurse zum Wochenschluss kurzfristig hin- und herwerfen, ohne echte Nachricht dahinter. Grundton bleibt: starker Dollar (Index ~101,5), billiges Öl (WTI ~71$, Gold gefallen auf ~4040$).",
-    "👀 Heute Nachmittag das große Freitags-Wochenbriefing: Ausblick auf nächste Woche (Mo–Do) + Claudes Einschätzung zu den kommenden Zahlen. Das EINE Großereignis nächste Woche ist der US-Arbeitsmarkt-Bericht (NFP) — diesmal schon am DONNERSTAG (2.7.), weil am Freitag in den USA Feiertag ist."
+    "📅 Samstag = Wochenende: Forex- und Aktienmärkte sind geschlossen, es kommen keine Wirtschaftsdaten. Ein guter Tag, um Pulver trocken zu halten und sich auf eine ereignisreiche, verkürzte Woche vorzubereiten.",
+    "👀 Der Fahrplan nächste Woche: Mo 29.6. ist datenleer (Generalprobe Deutschland-Inflation), Di 30.6. Eurozone-Inflation + Kanada-BIP + US-Verbrauchervertrauen, Mi 1.7. US-ISM-Industrie + JOLTS, und Do 2.7. der vorgezogene US-Arbeitsmarkt-Bericht (NFP) — DAS Großereignis. (Fr 3.7. USA geschlossen.)",
+    "⚠️ Kleine Korrektur zur Erwartung: Frische Konsens-Schätzungen sehen den US-Jobbericht (Do) eher bei ~+170.000 Jobs (nicht ~130.000) — der Arbeitsmarkt hat sich zuletzt stabilisiert. Die Messlatte für den Dollar liegt damit etwas höher; eine echte Enttäuschung müsste deutlich darunter liegen, um die Dollar-Story zu erschüttern."
    ],
    "gestern": [
-    "🇺🇸 Gestern (Do 25.6.) DAS Event: Der US-PCE (Lieblings-Inflationswert der Fed, Mai) kam HEISS, aber wie erwartet rein. Der Kern-PCE stieg auf 3,4% im Jahr (von 3,3%) — höchster Stand seit Oktober 2023, Monatswert +0,3% (genau Konsens). Die Schlagzeile kletterte auf 4,1% (höchste seit April 2023, vierter Anstieg in Folge). Einkommen und Ausgaben legten kräftig zu. Genau das wollte die Falken-Fed sehen — eine Zins-SENKUNG 2026 ist damit praktisch vom Tisch. ABER: Weil der Wert nur bestätigte statt zu überraschen, hat der Dollar PAUSIERT (DXY von 101,6 leicht zurück auf 101,45), und die September-Erhöhungswette fiel von 68% auf 63%.",
-    "🇦🇺 Ebenfalls gestern: Australiens Arbeitsmarkt (Mai) STARK — +40.300 neue Jobs (Arbeitslosenquote 4,4%). Zusammen mit dem heißen Kern-Inflationswert vom Mittwoch (Trimmed Mean 3,6%) heißt das: Die RBA bleibt hart. Der Aussie ist dadurch der relative Gewinner und wehrt sich am tapfersten gegen den starken Dollar.",
-    "🌡️ Diese Woche bestätigte sich das Bild „USA stark, Europa schwach“: Flash-PMIs (Di) mit US-Industrie 55,7 (Bestwert seit Mai 2022) vs. schrumpfendem Europa (Eurozone 49,5, Deutschland 48,0). Das schob den Dollar-Index auf ein 13-Monats-Hoch (~101,6), EUR/USD fiel Richtung 1,136.",
-    "🇨🇦 Anfang der Woche (Mo 22.6.) kam Kanadas Inflation heiß rein (3,2% y/y) — aber nur wegen Benzin; der Kern liegt am 2%-Ziel, die Bank of Canada schaut bewusst drüber hinweg. Dem schwachen Loonie half es kaum (Öl-Crash überwiegt)."
+    "🇺🇸 Freitag-Schluss: Der Dollar gab den zweiten Tag in Folge nach (Index auf ~101,2), hielt über die Woche aber ein kleines Plus. Die Markt-Wetten: September-Erhöhung der Fed ~63%, eine Erhöhung bis Dezember sogar ~80% eingepreist. Die harte Linie der Falken-Fed steht — nur der kurzfristige Schwung fehlt nach dem 'erwartet heißen' PCE.",
+    "💶 EUR/USD hat sich von den Wochentiefs (~1,136) bis Richtung ~1,14 erholt — reine Gegenbewegung, weil der Dollar pausierte, nicht aus eigener Euro-Stärke. Der echte Test für den Euro kommt Dienstag mit der Eurozone-Inflation.",
+    "🇯🇵 USD/JPY klebt weiter bei ~161–162, dem schwächsten Yen seit 1986. Ohne die ständige Interventionsdrohung des japanischen Finanzministeriums stünde das Paar laut Marktbeobachtern wohl schon deutlich höher — das Abwärtsrisiko bleibt darum asymmetrisch (eine Intervention kann es in Minuten brutal drücken).",
+    "🇺🇸 Donnerstag (25.6.) war DAS Event der Woche: Der US-PCE (Mai) kam HEISS, aber wie erwartet — Kern-PCE 3,4% im Jahr (höchster seit Okt 2023), Schlagzeile 4,1%. Eine Zins-Senkung 2026 ist damit vom Tisch. Weil der Wert aber nur bestätigte statt zu überraschen, pausierte der Dollar danach.",
+    "🇦🇺 Der Aussie war der relative Wochengewinner: starker Arbeitsmarkt (+40.300 Jobs) plus heißer Kern-Inflationswert (Trimmed Mean 3,6%) halten die RBA hart — er wehrt sich am tapfersten gegen den starken Dollar."
    ]
   },
   "lage": [

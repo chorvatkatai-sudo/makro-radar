@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-27T05:04:43.629Z",
+ "erstellt": "2026-06-28T05:05:21.413Z",
  "wochenStart": "2026-06-21",
  "events": [
   {
@@ -2601,19 +2601,19 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Heißer PCE bestätigt die Falken-Fed — der Dollar bleibt König, macht aber vor dem großen Arbeitsmarkt-Bericht (Do) eine Verschnaufpause",
   "tagesnews": {
-   "stand": "2026-06-27",
-   "wochentag": "Samstag",
-   "tenor": "Wochenende — die großen Börsen ruhen, keine neuen Zahlen. Rückblick: Der Dollar hat den Freitag SCHWÄCHER beendet (Index auf ~101,2, zweiter Verlusttag in Folge) — übers Ganze blieb aber ein kleines Wochenplus. Heißt: Die Dollar-Rally hat zum Wochenschluss verschnauft, weil der heiße PCE nur bestätigt statt überrascht hat. EUR/USD hat sich bis ~1,14 erholt, USD/JPY bleibt nur durch das Interventionsrisiko gedeckelt. Nächste Woche wird's ernst: verkürzt (Fr 3.7. US-Feiertag), mit dem US-Jobbericht schon am DONNERSTAG (2.7.) als Höhepunkt.",
+   "stand": "2026-06-28",
+   "wochentag": "Sonntag",
+   "tenor": "Wochenende, Tag 2 — die Märkte ruhen weiter, keine neuen Zahlen. Stand der Dinge zum Wochenstart: Der Dollar hat die Woche schwächer ausklingen lassen (Index ~101,2–101,3, Quartalsende-Gewinnmitnahmen), die harte Falken-Fed steht aber unverändert. Jetzt zählt nur noch eines: eine kurze, aber knallvolle Woche, die schon am DONNERSTAG (2.7.) mit dem US-Jobbericht (NFP) ihren Höhepunkt erreicht — Freitag ist USA-Feiertag.",
    "heute": [
-    "📅 Samstag = Wochenende: Forex- und Aktienmärkte sind geschlossen, es kommen keine Wirtschaftsdaten. Ein guter Tag, um Pulver trocken zu halten und sich auf eine ereignisreiche, verkürzte Woche vorzubereiten.",
-    "👀 Der Fahrplan nächste Woche: Mo 29.6. ist datenleer (Generalprobe Deutschland-Inflation), Di 30.6. Eurozone-Inflation + Kanada-BIP + US-Verbrauchervertrauen, Mi 1.7. US-ISM-Industrie + JOLTS, und Do 2.7. der vorgezogene US-Arbeitsmarkt-Bericht (NFP) — DAS Großereignis. (Fr 3.7. USA geschlossen.)",
-    "⚠️ Kleine Korrektur zur Erwartung: Frische Konsens-Schätzungen sehen den US-Jobbericht (Do) eher bei ~+170.000 Jobs (nicht ~130.000) — der Arbeitsmarkt hat sich zuletzt stabilisiert. Die Messlatte für den Dollar liegt damit etwas höher; eine echte Enttäuschung müsste deutlich darunter liegen, um die Dollar-Story zu erschüttern."
+    "📅 Sonntag = Wochenende: Forex- und Aktienmärkte sind geschlossen, keine Wirtschaftsdaten. Gleich heute Abend (22:00 Wien) öffnet die Forex-Woche wieder — Achtung, das Quartalsende (30.6.) kann am Anfang für ruckartige Kurse durch Umschichtungen großer Fonds sorgen.",
+    "👀 Fahrplan der verkürzten Woche: Mo 29.6. ruhig (Vorprobe Deutschland-Inflation), Di 30.6. Eurozone-Inflation + Japan-Tankan (großer Stimmungsbericht der Industrie, wichtig für den Yen) + Kanada-BIP + US-Verbrauchervertrauen, Mi 1.7. US-ISM-Industrie + JOLTS-Stellenangebote, und Do 2.7. der vorgezogene US-Arbeitsmarkt-Bericht (NFP) = DAS Großereignis. (Fr 3.7. USA geschlossen.)",
+    "🎯 Worauf es Donnerstag ankommt: Konsens ~+170.000 neue Jobs. Kommt der Wert stark → Dollar-Rückenwind (USD/CAD + USD/JPY hoch, EUR/USD + GBP/USD runter). Kommt er schwach → der zweite Dollar-Verlusttag könnte sich zum Trendbruch ausweiten. Das Risiko ist nach unten etwas größer, weil die Dollar-Rally schon gut gelaufen ist."
    ],
    "gestern": [
-    "🇺🇸 Freitag-Schluss: Der Dollar gab den zweiten Tag in Folge nach (Index auf ~101,2), hielt über die Woche aber ein kleines Plus. Die Markt-Wetten: September-Erhöhung der Fed ~63%, eine Erhöhung bis Dezember sogar ~80% eingepreist. Die harte Linie der Falken-Fed steht — nur der kurzfristige Schwung fehlt nach dem 'erwartet heißen' PCE.",
-    "💶 EUR/USD hat sich von den Wochentiefs (~1,136) bis Richtung ~1,14 erholt — reine Gegenbewegung, weil der Dollar pausierte, nicht aus eigener Euro-Stärke. Der echte Test für den Euro kommt Dienstag mit der Eurozone-Inflation.",
-    "🇯🇵 USD/JPY klebt weiter bei ~161–162, dem schwächsten Yen seit 1986. Ohne die ständige Interventionsdrohung des japanischen Finanzministeriums stünde das Paar laut Marktbeobachtern wohl schon deutlich höher — das Abwärtsrisiko bleibt darum asymmetrisch (eine Intervention kann es in Minuten brutal drücken).",
-    "🇺🇸 Donnerstag (25.6.) war DAS Event der Woche: Der US-PCE (Mai) kam HEISS, aber wie erwartet — Kern-PCE 3,4% im Jahr (höchster seit Okt 2023), Schlagzeile 4,1%. Eine Zins-Senkung 2026 ist damit vom Tisch. Weil der Wert aber nur bestätigte statt zu überraschen, pausierte der Dollar danach.",
+    "🇺🇸 Wochen-Rückblick: Der Dollar gab zum Schluss zwei Tage in Folge nach (Index ~101,2), hielt aber übers Ganze ein kleines Plus. Die Markt-Wetten: September-Erhöhung der Fed ~63%, eine Erhöhung bis Dezember sogar ~80% eingepreist — die Falken-Linie steht, nur der kurzfristige Schwung fehlt nach dem 'erwartet heißen' PCE.",
+    "🇺🇸 Das Wochen-Highlight war Donnerstag (25.6.): Der US-PCE (Mai), der Lieblings-Inflationswert der Fed, kam HEISS, aber wie erwartet — Kern-PCE 3,4% im Jahr (höchster seit Okt 2023), Schlagzeile 4,1%. Eine Zins-Senkung 2026 ist damit vom Tisch. Weil der Wert nur bestätigte statt zu überraschen, pausierte der Dollar danach (Lehre der Woche: 'bestätigt ≠ überrascht').",
+    "💶 EUR/USD erholte sich von den Wochentiefs (~1,136) bis Richtung ~1,14 — reine Gegenbewegung wegen der Dollar-Pause, nicht aus eigener Euro-Stärke. Der echte Test für den Euro kommt Dienstag mit der Eurozone-Inflation.",
+    "🇯🇵 USD/JPY bleibt bei ~161–162 kleben, dem schwächsten Yen seit 1986 — nur die ständige Interventionsdrohung des japanischen Finanzministeriums deckelt das Paar. Das Abwärtsrisiko bleibt asymmetrisch (eine Intervention kann es in Minuten brutal drücken). Der Japan-Tankan am Dienstag ist der nächste Yen-Impuls.",
     "🇦🇺 Der Aussie war der relative Wochengewinner: starker Arbeitsmarkt (+40.300 Jobs) plus heißer Kern-Inflationswert (Trimmed Mean 3,6%) halten die RBA hart — er wehrt sich am tapfersten gegen den starken Dollar."
    ]
   },

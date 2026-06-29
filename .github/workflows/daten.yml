@@ -1,0 +1,56 @@
+name: Daten-Refresh (Feeds + FRED + Markt-Kompass)
+
+# Holt die Live-Daten auf einem GitHub-Runner (OFFENES Netz) und committet sie
+# nach main. Hintergrund: Die Claude-Cloud-Routinen laufen in einer Sandbox, die
+# Outbound-Feeds (ForexFactory/TradingView/Yahoo/CFTC/FRED) zuverlaessig mit HTTP 403
+# blockt -> dort lief FRED nie end-to-end. Hier laeuft fetch-kalender.mjs ONLINE,
+# fuellt FRED-Ist-Werte + Markt-Kompass + COT + News + naechste Woche und committet
+# die (versionierten) JSONs. Die Routinen ziehen das per git pull und bauen --lokal
+# mit frischen Daten -> keine Aenderung an den Routinen noetig.
+
+on:
+  schedule:
+    # 04:00 + 12:00 UTC: VOR den Routinen (Tages-News 05:00, Freitags-Briefing 13:00).
+    # Puffer wegen GitHub-Cron-Verzoegerung. Cron ist immer UTC.
+    - cron: '0 4,12 * * *'
+  workflow_dispatch: {}   # erlaubt manuelles Ausloesen im Actions-Tab
+
+# Damit der Standard-GITHUB_TOKEN nach main pushen darf.
+permissions:
+  contents: write
+
+# Nicht zwei Laeufe gleichzeitig (sonst Push-Konflikt).
+concurrency:
+  group: daten-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Node 24 einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Daten online holen (Feeds + FRED + Markt-Kompass)
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: node scripts/fetch-kalender.mjs
+
+      - name: Aenderungen committen und pushen (nur wenn es welche gibt)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daten dashboard/data.js
+          if git diff --cached --quiet; then
+            echo "Keine Daten-Aenderungen — nichts zu committen."
+          else
+            git commit -m "Daten-Refresh (GitHub Action): Feeds + FRED + Markt-Kompass"
+            # Falls inzwischen ein Routine-/lokaler Push kam: rebasen, dann pushen.
+            git pull --rebase --autostash origin ${GITHUB_REF_NAME}
+            git push origin HEAD:${GITHUB_REF_NAME}
+          fi

@@ -2476,7 +2476,7 @@
       "land": "EUR",
       "titel": "Spanish Unemployment Change",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-40.8K",
       "vorher": "-36.3K",
       "actual": null,
       "notiz": null
@@ -2566,7 +2566,7 @@
       "land": "USD",
       "titel": "Non-Farm Employment Change",
       "impact": "High",
-      "prognose": "114K",
+      "prognose": "110K",
       "vorher": "172K",
       "actual": null,
       "notiz": null
@@ -2586,7 +2586,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "220K",
+      "prognose": "219K",
       "vorher": "215K",
       "actual": null,
       "notiz": null
@@ -2606,7 +2606,7 @@
       "land": "USD",
       "titel": "Factory Orders m/m",
       "impact": "Low",
-      "prognose": "2.1%",
+      "prognose": "-1.7%",
       "vorher": "4.8%",
       "actual": null,
       "notiz": null
@@ -2636,7 +2636,7 @@
       "land": "CNY",
       "titel": "RatingDog Services PMI",
       "impact": "Low",
-      "prognose": "53.6",
+      "prognose": "53.0",
       "vorher": "54.4",
       "actual": null,
       "notiz": null
@@ -2656,7 +2656,7 @@
       "land": "EUR",
       "titel": "Spanish Services PMI",
       "impact": "Low",
-      "prognose": "50.8",
+      "prognose": "51.0",
       "vorher": "50.1",
       "actual": null,
       "notiz": null
@@ -2666,7 +2666,7 @@
       "land": "EUR",
       "titel": "Italian Services PMI",
       "impact": "Low",
-      "prognose": "50.2",
+      "prognose": "50.3",
       "vorher": "49.4",
       "actual": null,
       "notiz": null
@@ -2686,7 +2686,7 @@
       "land": "EUR",
       "titel": "German Final Services PMI",
       "impact": "Low",
-      "prognose": "46.8",
+      "prognose": "46.9",
       "vorher": "46.8",
       "actual": null,
       "notiz": null
@@ -2716,7 +2716,7 @@
       "land": "EUR",
       "titel": "Italian Retail Sales m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.2%",
       "vorher": "0.0%",
       "actual": null,
       "notiz": null
@@ -2726,7 +2726,7 @@
       "land": "GBP",
       "titel": "Final Services PMI",
       "impact": "Low",
-      "prognose": "48.7",
+      "prognose": "48.8",
       "vorher": "48.7",
       "actual": null,
       "notiz": null

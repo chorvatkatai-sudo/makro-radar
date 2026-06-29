@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-29T20:50:38.093Z",
+  "stand": "2026-06-29T22:04:57.664Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,8 +7,20 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "GBP/JPY Price Forecast: Ascending triangle puts YTD high in play",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-ascending-triangle-puts-ytd-high-in-play-202606292114",
+      "datum": "2026-06-29T21:14:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Fed-driven gains extend as DXY breaks range – HSBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-driven-gains-extend-as-dxy-breaks-range-hsbc-202606292059",
+      "datum": "2026-06-29T20:59:00.000Z"
+    },
+    {
       "quelle": "ForexLive",
-      "titel": "Iran's President on Trump: \"Unreasonable bosting and unfounded threats\"",
+      "titel": "Iran's President on Trump: \"Unreasonable boasting and unfounded threats\"",
       "link": "https://investinglive.com/news/irans-president-on-trump-unreasonable-bosting-and-unfounded-threats-20260629/",
       "datum": "2026-06-29T20:36:10.000Z"
     },
@@ -95,18 +107,6 @@
       "titel": "The US strategic petroleum reserve (SPR) falls to the lowest level since 1983",
       "link": "https://investinglive.com/news/the-us-strategic-petroleum-reserve-spr-falls-to-the-lowest-level-since-1983-20260629/",
       "datum": "2026-06-29T17:33:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro strengthens as Eurozone sentiment improves ahead of German HICP",
-      "link": "https://www.fxstreet.com/news/euro-strengthens-as-eurozone-sentiment-improves-ahead-of-german-hicp-202606291624",
-      "datum": "2026-06-29T16:24:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar consolidates amid Oil price rebound, US labor data in focus",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-amid-oil-price-rebound-us-labor-data-focus-202606291622",
-      "datum": "2026-06-29T16:22:40.000Z"
     },
     {
       "quelle": "ForexLive",

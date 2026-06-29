@@ -1806,7 +1806,7 @@
       "land": "GBP",
       "titel": "BRC Shop Price Index y/y",
       "impact": "Low",
-      "prognose": "1.3%",
+      "prognose": "1.2%",
       "vorher": "1.2%",
       "actual": null,
       "notiz": null
@@ -1826,7 +1826,7 @@
       "land": "JPY",
       "titel": "Prelim Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.3%",
+      "prognose": "0.6%",
       "vorher": "0.8%",
       "actual": null,
       "notiz": null
@@ -1866,7 +1866,7 @@
       "land": "CNY",
       "titel": "Manufacturing PMI",
       "impact": "Low",
-      "prognose": "50.2",
+      "prognose": "50.1",
       "vorher": "50.0",
       "actual": null,
       "notiz": null
@@ -1886,7 +1886,7 @@
       "land": "JPY",
       "titel": "Housing Starts y/y",
       "impact": "Low",
-      "prognose": "32.1%",
+      "prognose": "31.8%",
       "vorher": "11.4%",
       "actual": null,
       "notiz": null
@@ -1896,7 +1896,7 @@
       "land": "EUR",
       "titel": "German Import Prices m/m",
       "impact": "Low",
-      "prognose": "0.6%",
+      "prognose": "0.4%",
       "vorher": "1.2%",
       "actual": null,
       "notiz": null
@@ -1916,7 +1916,7 @@
       "land": "GBP",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "-21.5B",
+      "prognose": "-22.2B",
       "vorher": "-18.4B",
       "actual": null,
       "notiz": null
@@ -1946,7 +1946,7 @@
       "land": "EUR",
       "titel": "German Prelim CPI m/m",
       "impact": "Medium",
-      "prognose": "0.1%",
+      "prognose": "0.0%",
       "vorher": "-0.2%",
       "actual": null,
       "notiz": null
@@ -1976,7 +1976,7 @@
       "land": "CHF",
       "titel": "KOF Economic Barometer",
       "impact": "Low",
-      "prognose": "99.4",
+      "prognose": "99.0",
       "vorher": "98.0",
       "actual": null,
       "notiz": null
@@ -1986,7 +1986,7 @@
       "land": "EUR",
       "titel": "German Unemployment Change",
       "impact": "Low",
-      "prognose": "8K",
+      "prognose": "7K",
       "vorher": "-12K",
       "actual": null,
       "notiz": null
@@ -1996,7 +1996,7 @@
       "land": "EUR",
       "titel": "Italian Prelim CPI m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.2%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -2026,7 +2026,7 @@
       "land": "USD",
       "titel": "HPI m/m",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "0.2%",
       "vorher": "0.1%",
       "actual": null,
       "notiz": null
@@ -2036,7 +2036,7 @@
       "land": "USD",
       "titel": "S&P/CS Composite-20 HPI y/y",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "0.9%",
       "vorher": "0.8%",
       "actual": null,
       "notiz": null
@@ -2046,7 +2046,7 @@
       "land": "USD",
       "titel": "Chicago PMI",
       "impact": "Low",
-      "prognose": "60.0",
+      "prognose": "55.7",
       "vorher": "62.7",
       "actual": null,
       "notiz": null
@@ -2056,7 +2056,7 @@
       "land": "USD",
       "titel": "CB Consumer Confidence",
       "impact": "Medium",
-      "prognose": "94.2",
+      "prognose": "94.4",
       "vorher": "93.1",
       "actual": null,
       "notiz": null
@@ -2116,7 +2116,7 @@
       "land": "AUD",
       "titel": "Building Approvals m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.5%",
       "vorher": "-3.4%",
       "actual": null,
       "notiz": null
@@ -2126,7 +2126,7 @@
       "land": "CNY",
       "titel": "RatingDog Manufacturing PMI",
       "impact": "Low",
-      "prognose": "52.0",
+      "prognose": "51.9",
       "vorher": "51.8",
       "actual": null,
       "notiz": null
@@ -2136,7 +2136,7 @@
       "land": "JPY",
       "titel": "Consumer Confidence",
       "impact": "Low",
-      "prognose": "34.2",
+      "prognose": "34.1",
       "vorher": "33.6",
       "actual": null,
       "notiz": null
@@ -2146,7 +2146,7 @@
       "land": "GBP",
       "titel": "Nationwide HPI m/m",
       "impact": "Low",
-      "prognose": "0.0%",
+      "prognose": "0.1%",
       "vorher": "-0.6%",
       "actual": null,
       "notiz": null
@@ -2166,7 +2166,7 @@
       "land": "CHF",
       "titel": "Retail Sales y/y",
       "impact": "Low",
-      "prognose": "0.8%",
+      "prognose": "1.8%",
       "vorher": "1.6%",
       "actual": null,
       "notiz": null
@@ -2176,7 +2176,7 @@
       "land": "EUR",
       "titel": "Spanish Manufacturing PMI",
       "impact": "Low",
-      "prognose": "51.2",
+      "prognose": "51.0",
       "vorher": "51.2",
       "actual": null,
       "notiz": null
@@ -2186,7 +2186,7 @@
       "land": "CHF",
       "titel": "Manufacturing PMI",
       "impact": "Low",
-      "prognose": "56.3",
+      "prognose": "56.4",
       "vorher": "57.3",
       "actual": null,
       "notiz": null
@@ -2196,7 +2196,7 @@
       "land": "EUR",
       "titel": "Italian Manufacturing PMI",
       "impact": "Low",
-      "prognose": "52.6",
+      "prognose": "52.4",
       "vorher": "52.9",
       "actual": null,
       "notiz": null
@@ -2356,7 +2356,7 @@
       "land": "USD",
       "titel": "ISM Manufacturing PMI",
       "impact": "High",
-      "prognose": "53.7",
+      "prognose": "53.8",
       "vorher": "54.0",
       "actual": null,
       "notiz": null
@@ -2366,7 +2366,7 @@
       "land": "USD",
       "titel": "ISM Manufacturing Prices",
       "impact": "Medium",
-      "prognose": "79.0",
+      "prognose": "77.7",
       "vorher": "82.1",
       "actual": null,
       "notiz": null
@@ -2376,7 +2376,7 @@
       "land": "USD",
       "titel": "Construction Spending m/m",
       "impact": "Low",
-      "prognose": "0.3%",
+      "prognose": "0.1%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -2386,7 +2386,7 @@
       "land": "USD",
       "titel": "Omdia Total Vehicle Sales",
       "impact": "Low",
-      "prognose": "16.0M",
+      "prognose": "16.1M",
       "vorher": "16.1M",
       "actual": null,
       "notiz": null
@@ -2396,7 +2396,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-4.8M",
       "vorher": "-6.1M",
       "actual": null,
       "notiz": null
@@ -2426,7 +2426,7 @@
       "land": "AUD",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "2.18B",
+      "prognose": "2.19B",
       "vorher": "1.79B",
       "actual": null,
       "notiz": null
@@ -2840,6 +2840,16 @@
       "vorher": "",
       "actual": "0.8%",
       "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — NZ-BIP +0,8% q/q (knapp verfehlt; Prognose ~0,9% rekonstruiert aus Doku \"knapp verfehlt\") / +1,5% y/y Beat"
+    },
+    "2026-06-29T15:00:00-04:00|EUR|ECB President Lagarde Speaks": {
+      "datum": "2026-06-29T15:00:00-04:00",
+      "land": "EUR",
+      "titel": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

@@ -1,11 +1,101 @@
 {
-  "stand": "2026-06-29T16:50:24.252Z",
+  "stand": "2026-06-29T20:50:38.093Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran's President on Trump: \"Unreasonable bosting and unfounded threats\"",
+      "link": "https://investinglive.com/news/irans-president-on-trump-unreasonable-bosting-and-unfounded-threats-20260629/",
+      "datum": "2026-06-29T20:36:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: A bad day for Japan all around",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-a-bad-day-for-japan-all-around-20260629/",
+      "datum": "2026-06-29T20:24:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Range trade persists, downside risk intact against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-downside-risk-intact-against-us-dollar-uob-202606292020",
+      "datum": "2026-06-29T20:20:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar eases ahead of US jobs data, ECB Forum and China PMIs",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-eases-ahead-of-us-jobs-data-ecb-forum-and-china-pmis-202606292015",
+      "datum": "2026-06-29T20:15:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG stays below $60 as death cross threat looms",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-stays-below-60-as-death-cross-threat-looms-202606292010",
+      "datum": "2026-06-29T20:10:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Dollar strength threatens APAC FX – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-dollar-strength-threatens-apac-fx-bny-202606291954",
+      "datum": "2026-06-29T19:54:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Political and growth risks point lower against US Dollar – HSBC",
+      "link": "https://www.fxstreet.com/news/euro-political-and-growth-risks-point-lower-against-us-dollar-hsbc-202606291929",
+      "datum": "2026-06-29T19:29:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB’s Lagarde: ECB can raise rates to address inflation without fear",
+      "link": "https://www.fxstreet.com/news/ecbs-lagarde-ecb-can-raise-rates-to-address-inflation-without-fear-202606291920",
+      "datum": "2026-06-29T19:20:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan loses in the round of 32at the World Cup. USDJPY ticks to 40 year high",
+      "link": "https://investinglive.com/news/japan-loses-in-the-round-of-32-usdjpy-ticks-to-40-year-high-20260629/",
+      "datum": "2026-06-29T19:11:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasury yields steady as Fed hike bets offset Oil calm",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-steady-as-fed-bets-offset-oil-calm-202606291903",
+      "datum": "2026-06-29T19:03:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar Index: Corrective pressure points lower – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-corrective-pressure-points-lower-scotiabank-202606291855",
+      "datum": "2026-06-29T18:55:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "SMCI offices raided in Taiwan on chip smuggling probe",
+      "link": "https://investinglive.com/news/smci-offices-raided-in-taiwan-on-chip-smuggling-probe-20260629/",
+      "datum": "2026-06-29T18:31:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Consolidates near recent lows against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidates-near-recent-lows-against-us-dollar-uob-202606291817",
+      "datum": "2026-06-29T18:17:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold price slides as easing US-Iran tensionsdent haven demand",
+      "link": "https://www.fxstreet.com/news/gold-price-slides-as-easing-us-iran-tensionsdent-haven-demand-202606291804",
+      "datum": "2026-06-29T18:04:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The US strategic petroleum reserve (SPR) falls to the lowest level since 1983",
+      "link": "https://investinglive.com/news/the-us-strategic-petroleum-reserve-spr-falls-to-the-lowest-level-since-1983-20260629/",
+      "datum": "2026-06-29T17:33:47.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro strengthens as Eurozone sentiment improves ahead of German HICP",
@@ -14,105 +104,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar consolidates amid Oil price rebound, US labor data focus",
+      "titel": "Canadian Dollar consolidates amid Oil price rebound, US labor data in focus",
       "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-amid-oil-price-rebound-us-labor-data-focus-202606291622",
       "datum": "2026-06-29T16:22:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound rises as Burnham fiscal pledge calms markets",
-      "link": "https://www.fxstreet.com/news/british-pound-rises-as-burnham-fiscal-pledge-calms-markets-202606291549",
-      "datum": "2026-06-29T15:49:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Leadership turmoil and weaker carry weigh on Sterling – HSBC",
-      "link": "https://www.fxstreet.com/news/british-pound-leadership-turmoil-and-weaker-carry-weigh-on-sterling-hsbc-202606291506",
-      "datum": "2026-06-29T15:06:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Asian FX: Vulnerable under risk-off and stronger Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/asian-fx-vulnerable-under-risk-off-and-stronger-dollar-ocbc-202606291456",
-      "datum": "2026-06-29T14:56:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar slips near three-month low as traders await RBA Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-near-three-month-low-as-traders-await-rba-minutes-202606291444",
-      "datum": "2026-06-29T14:44:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Range trading likely to persist against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-range-trading-likely-to-persist-against-us-dollar-scotiabank-202606291440",
-      "datum": "2026-06-29T14:40:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver declines as Middle East energy tensions, Fed policy uncertainty pressure prices",
-      "link": "https://www.fxstreet.com/news/silver-declines-as-middle-east-energy-tensions-fed-policy-uncertainty-pressure-prices-202606291422",
-      "datum": "2026-06-29T14:22:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: China slowdown weighs on CNY against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-china-slowdown-weighs-on-cny-against-us-dollar-commerzbank-202606291412",
-      "datum": "2026-06-29T14:12:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Japan export controls and strong sales support JPY risk premium – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-japan-export-controls-and-strong-sales-support-jpy-risk-premium-bny-202606291401",
-      "datum": "2026-06-29T14:01:25.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "The US freight market has suddenly gone into high gear",
       "link": "https://investinglive.com/news/the-us-freight-market-has-suddenly-gone-into-high-gear-20260629/",
       "datum": "2026-06-29T13:45:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Stabilizes against US Dollar as spreads narrow – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-stabilizes-against-us-dollar-as-spreads-narrow-scotiabank-202606291339",
-      "datum": "2026-06-29T13:39:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Kevin Warsh isn't expected to say much in Sintra: That's exactly why markets will listen",
-      "link": "https://www.fxstreet.com/news/kevin-warsh-isnt-expected-to-say-much-in-sintra-thats-exactly-why-markets-will-listen-202606291327",
-      "datum": "2026-06-29T13:27:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil prices rise, tech shares look to bounce back",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-rise-tech-shares-look-to-bounce-back-20260629/",
-      "datum": "2026-06-29T11:58:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Euro area economic climate sees slight pick up in June",
-      "link": "https://investinglive.com/news/euro-area-economic-climate-sees-slight-pick-up-in-june-20260629/",
-      "datum": "2026-06-29T09:09:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK mortgage approvals fall back, consumer credit growth holds up in May",
-      "link": "https://investinglive.com/news/uk-mortgage-approvals-fall-back-consumer-credit-growth-holds-up-in-may-20260629/",
-      "datum": "2026-06-29T08:37:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US, Iran technical teams still on course to meet in Doha in the coming days - report",
-      "link": "https://investinglive.com/news/us-iran-technical-teams-still-on-course-to-meet-in-doha-in-the-coming-days-report-20260629/",
-      "datum": "2026-06-29T08:08:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Spanish inflation keeps more stubborn in June, preliminary estimates show",
-      "link": "https://investinglive.com/news/spain-june-preliminary-cpi-32-vs-30-yy-expected-20260629/",
-      "datum": "2026-06-29T07:00:45.000Z"
     }
   ]
 }

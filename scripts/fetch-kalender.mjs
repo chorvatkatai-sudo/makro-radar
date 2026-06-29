@@ -16,6 +16,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { holeMarktdaten } from "./marktdaten.mjs";
 import { fuelleFredIstwerte, holeFredMarktreihen } from "./fred.mjs";
+import { fuelleTvIstwerte } from "./tv-istwerte.mjs";
 import { holeNews } from "./news.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -136,6 +137,18 @@ if (!NUR_LOKAL) {
     }
     if (fr.fehler?.length) console.warn("FRED-Serien-Fehler:", fr.fehler.join(" | "));
   } catch (e) { console.warn("FRED-Auto-Fill fehlgeschlagen:", e.message); }
+}
+
+// 2c) Nicht-US-Ist-Werte aus dem TradingView-Feed nachtragen (nur online, nur leere
+//     actual, nur verifiziert-eindeutige Kategorien — Zinsentscheide, CPI y/y,
+//     Arbeitslosenquote, Retail m/m). FRED/manuell haben Vorrang (nie überschreiben).
+if (!NUR_LOKAL) {
+  try {
+    const tv = await fuelleTvIstwerte(historie);
+    if (!tv.skipped && tv.gefuellt.length) {
+      console.log(`TradingView: ${tv.gefuellt.length} Ist-Wert(e) nachgetragen (${tv.gefuellt.map(g => g.land + " " + g.titel + " " + g.wert).join(", ")}).`);
+    }
+  } catch (e) { console.warn("TV-Auto-Fill fehlgeschlagen:", e.message); }
 }
 
 fs.writeFileSync(historieDatei, JSON.stringify(historie, null, 2));
@@ -336,12 +349,33 @@ for (const paar in proPaar) {
               : s.quote >= 60 ? "hoch" : s.quote <= 40 ? "niedrig" : "mittel";
 }
 
+// Kalibrierung: Sind STARKE Überzeugungen (großer |score|) wirklich verlässlicher
+// als schwache? Buckets nach Signalstärke, je Treffer/Gesamt über alle Wochen.
+const kalibrierung = {
+  schwach: { min: 1, max: 25, treffer: 0, gesamt: 0 },
+  mittel:  { min: 26, max: 50, treffer: 0, gesamt: 0 },
+  stark:   { min: 51, max: 100, treffer: 0, gesamt: 0 },
+};
+for (const w of ausgewertet) {
+  for (const paar in (w.auswertung.details || {})) {
+    const d = w.auswertung.details[paar];
+    const mag = Math.abs(d.score);
+    const stufe = mag <= 25 ? "schwach" : mag <= 50 ? "mittel" : "stark";
+    kalibrierung[stufe].gesamt++; if (d.treffer) kalibrierung[stufe].treffer++;
+  }
+}
+for (const k in kalibrierung) {
+  const b = kalibrierung[k];
+  b.quote = b.gesamt ? Math.round(b.treffer / b.gesamt * 100) : null;
+}
+
 const prognoseQuote = {
   wochenAusgewertet: ausgewertet.length,
   treffer: summe.t, gesamt: summe.g,
   quote: summe.g ? Math.round(summe.t / summe.g * 100) : null,
   wochenErfasst: prognoseHist.wochen.length,
   proPaar,
+  kalibrierung,
   letzte: ausgewertet.slice(-6).map(w => ({ woche: w.woche, quote: w.auswertung.quote, treffer: w.auswertung.treffer, gesamt: w.auswertung.gesamt }))
 };
 

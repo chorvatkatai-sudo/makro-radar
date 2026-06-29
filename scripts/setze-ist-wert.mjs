@@ -17,13 +17,20 @@ if (!land || !muster || !wert) {
 
 const historie = JSON.parse(fs.readFileSync(datei, "utf8"));
 const re = new RegExp(muster, "i");
-let treffer = 0;
+const getroffen = [];
 for (const e of Object.values(historie.events)) {
   if (e.land === land && re.test(e.titel) && (!datumPrefix || e.datum.startsWith(datumPrefix))) {
     e.actual = wert;
-    treffer++;
+    getroffen.push(e);
     console.log(`OK: ${e.datum} ${e.land} ${e.titel} -> Ist: ${wert}`);
   }
 }
-if (!treffer) console.log("Kein passendes Event gefunden.");
+if (!getroffen.length) { console.log("Kein passendes Event gefunden."); process.exit(0); }
+// Footgun-Schutz: ein unankerter Regex wie "CPI m/m" trifft auch "Core/Trimmed CPI m/m".
+// Bei Mehrfachtreffern laut warnen, damit nicht versehentlich der falsche Wert gesetzt wird.
+if (getroffen.length > 1) {
+  console.warn(`\n⚠ WARNUNG: Muster "${muster}" hat ${getroffen.length} Events getroffen (alle auf ${wert} gesetzt!).`);
+  console.warn("  Falls nur EINES gemeint war, exakt ankern, z. B.:  ^CPI m/m$");
+  console.warn("  Getroffene Titel: " + getroffen.map(e => `"${e.titel}"`).join(", "));
+}
 fs.writeFileSync(datei, JSON.stringify(historie, null, 2));

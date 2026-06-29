@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-29T12:52:38.500Z",
+ "erstellt": "2026-06-29T13:20:01.821Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -3006,15 +3006,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-06-29T12:52:38.019Z",
+  "stand": "2026-06-29T13:20:00.838Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.26,
+    "wert": 101.25,
     "tagProzent": 0,
-    "wocheProzent": -0.15,
+    "wocheProzent": -0.16,
     "renditeDelta": false,
     "verlauf": [
      98.91,
@@ -3037,17 +3037,17 @@ window.MAKRO_DATA = {
      101.61,
      101.43,
      101.36,
-     101.26,
-     101.26
+     101.25,
+     101.25
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.28,
+    "wert": 18.23,
     "tagProzent": 0,
-    "wocheProzent": -6.21,
+    "wocheProzent": -6.46,
     "renditeDelta": false,
     "verlauf": [
      15.32,
@@ -3070,17 +3070,17 @@ window.MAKRO_DATA = {
      18.63,
      18.89,
      18.41,
-     18.28,
-     18.28
+     18.23,
+     18.23
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 70.12,
+    "wert": 70.01,
     "tagProzent": 0,
-    "wocheProzent": -4.22,
+    "wocheProzent": -4.37,
     "renditeDelta": false,
     "verlauf": [
      87.36,
@@ -3103,17 +3103,17 @@ window.MAKRO_DATA = {
      70.34,
      71.92,
      69.23,
-     70.12,
-     70.12
+     70.01,
+     70.01
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 73.38,
+    "wert": 73.21,
     "tagProzent": 0,
-    "wocheProzent": -4.8,
+    "wocheProzent": -5.02,
     "renditeDelta": false,
     "verlauf": [
      92.05,
@@ -3136,17 +3136,17 @@ window.MAKRO_DATA = {
      73.74,
      75.26,
      71.99,
-     73.38,
-     73.38
+     73.21,
+     73.21
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4056.8,
+    "wert": 4061.6,
     "tagProzent": 0,
-    "wocheProzent": -1.77,
+    "wocheProzent": -1.65,
     "renditeDelta": false,
     "verlauf": [
      4560.5,
@@ -3169,8 +3169,8 @@ window.MAKRO_DATA = {
      3990.3,
      4030.5,
      4078.7,
-     4056.8,
-     4056.8
+     4061.6,
+     4061.6
     ]
    },
    "US02Y": {
@@ -3209,9 +3209,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.38,
+    "wert": 4.378,
     "tagProzent": 0,
-    "wocheProzent": -0.11,
+    "wocheProzent": -0.12,
     "renditeDelta": true,
     "verlauf": [
      4.453,
@@ -3234,17 +3234,17 @@ window.MAKRO_DATA = {
      4.402,
      4.392,
      4.372,
-     4.38,
-     4.38
+     4.378,
+     4.378
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.866,
+    "wert": 4.859,
     "tagProzent": 0,
-    "wocheProzent": -0.07,
+    "wocheProzent": -0.08,
     "renditeDelta": true,
     "verlauf": [
      4.993,
@@ -3267,17 +3267,17 @@ window.MAKRO_DATA = {
      4.856,
      4.858,
      4.864,
-     4.866,
-     4.866
+     4.859,
+     4.859
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 59733.22,
+    "wert": 60167.07,
     "tagProzent": 0,
-    "wocheProzent": 0.02,
+    "wocheProzent": 0.75,
     "renditeDelta": false,
     "verlauf": [
      61643.78,
@@ -3300,8 +3300,8 @@ window.MAKRO_DATA = {
      60016.43,
      59940.1,
      59532.34,
-     59733.22,
-     59733.22
+     60167.07,
+     60167.07
     ]
    },
    "REAL10": {
@@ -3541,7 +3541,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-06-29T12:52:38.498Z",
+  "stand": "2026-06-29T13:20:01.788Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3862,6 +3862,29 @@ window.MAKRO_DATA = {
     ],
     "quote": 50,
     "konfidenz": "duenn"
+   }
+  },
+  "kalibrierung": {
+   "schwach": {
+    "min": 1,
+    "max": 25,
+    "treffer": 4,
+    "gesamt": 9,
+    "quote": 44
+   },
+   "mittel": {
+    "min": 26,
+    "max": 50,
+    "treffer": 3,
+    "gesamt": 5,
+    "quote": 60
+   },
+   "stark": {
+    "min": 51,
+    "max": 100,
+    "treffer": 0,
+    "gesamt": 0,
+    "quote": null
    }
   },
   "letzte": [

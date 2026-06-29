@@ -1,25 +1,20 @@
-name: Daten-Refresh (Feeds + FRED + Markt-Kompass)
+name: Daten-Refresh (Feeds + FRED + Markt-Kompass + Telegram)
 
-# Holt die Live-Daten auf einem GitHub-Runner (OFFENES Netz) und committet sie
-# nach main. Hintergrund: Die Claude-Cloud-Routinen laufen in einer Sandbox, die
-# Outbound-Feeds (ForexFactory/TradingView/Yahoo/CFTC/FRED) zuverlaessig mit HTTP 403
-# blockt -> dort lief FRED nie end-to-end. Hier laeuft fetch-kalender.mjs ONLINE,
-# fuellt FRED-Ist-Werte + Markt-Kompass + COT + News + naechste Woche und committet
-# die (versionierten) JSONs. Die Routinen ziehen das per git pull und bauen --lokal
-# mit frischen Daten -> keine Aenderung an den Routinen noetig.
+# Holt die Live-Daten auf einem GitHub-Runner (OFFENES Netz) und committet sie nach
+# main, und schickt Telegram-Benachrichtigungen, sobald ein Event ein Ergebnis hat.
+# Hintergrund: Die Claude-Cloud-Routinen laufen in einer Sandbox, die Outbound-Feeds
+# (ForexFactory/TradingView/Yahoo/CFTC/FRED) zuverlaessig mit HTTP 403 blockt. Hier
+# laeuft fetch-kalender.mjs ONLINE; die Routinen ziehen das Ergebnis per git pull.
 
 on:
   schedule:
-    # 04:00 + 12:00 UTC: VOR den Routinen (Tages-News 05:00, Freitags-Briefing 13:00).
-    # Puffer wegen GitHub-Cron-Verzoegerung. Cron ist immer UTC.
-    - cron: '0 4,12 * * *'
-  workflow_dispatch: {}   # erlaubt manuelles Ausloesen im Actions-Tab
+    - cron: '0 4,12 * * *'      # taeglicher Voll-Refresh VOR den Routinen (05:00 / 13:00 UTC)
+    - cron: '0 6-21 * * 1-5'    # stuendlich werktags 06-21 UTC: zeitnahe Event-Erkennung
+  workflow_dispatch: {}
 
-# Damit der Standard-GITHUB_TOKEN nach main pushen darf.
 permissions:
   contents: write
 
-# Nicht zwei Laeufe gleichzeitig (sonst Push-Konflikt).
 concurrency:
   group: daten-refresh
   cancel-in-progress: false
@@ -41,16 +36,38 @@ jobs:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
         run: node scripts/fetch-kalender.mjs
 
-      - name: Aenderungen committen und pushen (nur wenn es welche gibt)
+      - name: Telegram-Benachrichtigung bei neuen Event-Ergebnissen
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        run: node scripts/benachrichtige.mjs
+
+      - name: Aenderungen committen und pushen (kein Marktdaten-Jitter-Spam)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add daten dashboard/data.js
-          if git diff --cached --quiet; then
-            echo "Keine Daten-Aenderungen — nichts zu committen."
+          HOUR=$(date -u +%H)
+          FORCE=false
+          case "$HOUR" in 04|12) FORCE=true;; esac
+          # Substanzieller Change = neue Ist-Werte / verschickte Benachrichtigung / neue Woche.
+          if $FORCE || ! git diff --quiet -- daten/historie.json daten/benachrichtigt.json daten/naechste-woche.json; then
+            git add daten dashboard/data.js
+            if git diff --cached --quiet; then
+              echo "Nichts zu committen."
+            else
+              git commit -m "Daten-Refresh (GitHub Action): Feeds + FRED + Markt-Kompass"
+              git pull --rebase --autostash origin ${GITHUB_REF_NAME}
+              git push origin HEAD:${GITHUB_REF_NAME}
+            fi
           else
-            git commit -m "Daten-Refresh (GitHub Action): Feeds + FRED + Markt-Kompass"
-            # Falls inzwischen ein Routine-/lokaler Push kam: rebasen, dann pushen.
-            git pull --rebase --autostash origin ${GITHUB_REF_NAME}
-            git push origin HEAD:${GITHUB_REF_NAME}
+            echo "Nur Marktdaten-Jitter (kein neues Ergebnis) — kein Commit."
           fi
+
+      - name: Bei Fehlschlag per Telegram warnen (Daten-Watchdog)
+        if: ${{ failure() }}
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          node -e "const T=process.env.TELEGRAM_TOKEN,C=process.env.TELEGRAM_CHAT;if(!T||!C)process.exit(0);fetch('https://api.telegram.org/bot'+T+'/sendMessage',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({chat_id:C,text:'⚠️ Makro-Radar: Der Daten-Refresh ist fehlgeschlagen.\nDaten könnten veralten.\n'+process.env.RUN_URL,disable_web_page_preview:true})}).catch(()=>{})"

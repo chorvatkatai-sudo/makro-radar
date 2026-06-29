@@ -334,6 +334,9 @@
   </header>
   <div class="untertitel">Dein Forex-Wirtschaftskalender — einfach erklärt. Klick auf ein Event für die Erklärung in normalem Deutsch.</div>
 
+  <!-- Watchdog: warnt, wenn die Daten zu lange nicht aktualisiert wurden -->
+  <div id="frischeBanner" style="display:none;background:#fdecea;color:#b3261e;border:1px solid #f3b9b3;border-radius:10px;padding:10px 14px;margin-bottom:16px;font-size:13.5px;font-weight:600"></div>
+
   <!-- Tagesüberblick: heutige News auf Knopfdruck -->
   <div class="tag-news" id="tagNews" style="display:none">
     <button class="tag-news-btn" id="tagNewsBtn" aria-expanded="false">
@@ -473,6 +476,19 @@ document.getElementById("kopfDatum").textContent =
 document.getElementById("gedaechtnis").textContent =
   "🧠 Gedächtnis: " + (D.anzahlGespeichert || 0) + " Events gespeichert · Stand " +
   (D.erstellt ? fmtDatum(new Date(D.erstellt)) + " " + fmtZeit(new Date(D.erstellt)) : "—");
+
+// Watchdog: Daten älter als 36 h? -> sichtbares Warnbanner (still wenn alles frisch).
+(function(){
+  const b = document.getElementById("frischeBanner");
+  if (!b || !D.erstellt) return;
+  const stundenAlt = (jetzt - new Date(D.erstellt)) / 36e5;
+  if (stundenAlt > 36) {
+    const tage = Math.floor(stundenAlt / 24);
+    b.textContent = "⚠️ Daten sind " + (tage >= 1 ? tage + " Tag(e)" : Math.round(stundenAlt) + " Stunden")
+      + " alt — der automatische Refresh hängt evtl. (Stand " + fmtDatum(new Date(D.erstellt)) + ").";
+    b.style.display = "block";
+  }
+})();
 
 // ---------- Hell/Dunkel-Umschalter ----------
 const themeWurzel = document.documentElement;
@@ -797,6 +813,13 @@ if (B) {
     box.style.display = "";
     if (Q.wochenAusgewertet > 0 && Q.quote != null) {
       box.innerHTML = `🎯 Treffer-Quote meines Scorings: <b>${Q.quote}%</b> — ${Q.treffer} von ${Q.gesamt} Paar-Richtungen stimmten über ${Q.wochenAusgewertet} ausgewertete Woche${Q.wochenAusgewertet > 1 ? "n" : ""}. Wird mit jeder Woche aussagekräftiger.`;
+      // Kalibrierung: sind starke Überzeugungen wirklich verlässlicher?
+      const K = Q.kalibrierung, labels = { schwach: "schwach (1–25)", mittel: "mittel (26–50)", stark: "stark (51–100)" };
+      if (K) {
+        const teile = ["schwach", "mittel", "stark"].filter(k => K[k] && K[k].gesamt > 0)
+          .map(k => `${labels[k]}: <b>${K[k].quote}%</b> (${K[k].treffer}/${K[k].gesamt})`);
+        if (teile.length) box.innerHTML += `<div style="margin-top:8px;font-size:12.5px;color:var(--faint)">📐 Verlässlichkeit nach Signalstärke — ${teile.join(" · ")}${Q.wochenAusgewertet < 4 ? " · noch dünn" : ""}</div>`;
+      }
     } else {
       box.innerHTML = `🎯 Selbstlernen läuft: <b style="color:var(--amber)">${Q.wochenErfasst}</b> Woche${Q.wochenErfasst > 1 ? "n" : ""} erfasst — die erste Treffer-Quote erscheint nach Abschluss der kommenden Woche.`;
     }

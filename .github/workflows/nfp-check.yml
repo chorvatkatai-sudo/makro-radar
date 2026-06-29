@@ -1,0 +1,28 @@
+name: NFP-Check (einmalig, Fr 3.7.)
+
+# Einmaliger Selbsttest nach dem US-Jobbericht: prüft, ob FRED/TV den NFP-Ist-Wert
+# gefüllt hat UND ob ein Telegram-Event-Signal verschickt wurde — und schickt das
+# Ergebnis per Telegram. Datumsgesteuerter Cron (3. Juli, 10:00 UTC = 12:00 Wien).
+# Nach Freitag kann dieser Workflow gelöscht werden (oder läuft nächstes Jahr harmlos erneut).
+
+on:
+  schedule:
+    - cron: '0 10 3 7 *'   # 10:00 UTC am 3. Juli (Fr 3.7.2026)
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: NFP-Pipeline prüfen und per Telegram berichten
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        run: node scripts/nfp-check.mjs

@@ -42,6 +42,12 @@ jobs:
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
         run: node scripts/benachrichtige.mjs
 
+      - name: Taeglicher Telegram-Tagesueberblick (einmal pro neuem Stand)
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        run: node scripts/tagesbriefing.mjs
+
       - name: Aenderungen committen und pushen (kein Marktdaten-Jitter-Spam)
         run: |
           git config user.name  "github-actions[bot]"
@@ -50,7 +56,7 @@ jobs:
           FORCE=false
           case "$HOUR" in 04|12) FORCE=true;; esac
           # Substanzieller Change = neue Ist-Werte / verschickte Benachrichtigung / neue Woche.
-          if $FORCE || ! git diff --quiet -- daten/historie.json daten/benachrichtigt.json daten/naechste-woche.json; then
+          if $FORCE || ! git diff --quiet -- daten/historie.json daten/benachrichtigt.json daten/naechste-woche.json daten/tagesbriefing-gesendet.json; then
             git add daten dashboard/data.js
             if git diff --cached --quiet; then
               echo "Nichts zu committen."

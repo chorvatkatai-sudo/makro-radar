@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-29T12:40:22.332Z",
+ "erstellt": "2026-06-29T12:47:48.364Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -3662,8 +3662,8 @@ window.MAKRO_DATA = {
   "USD": {
    "ueber": 3,
    "unter": 1,
-   "gleich": 4,
-   "gesamt": 8,
+   "gleich": 5,
+   "gesamt": 9,
    "score": 2
   },
   "CAD": {
@@ -3682,17 +3682,38 @@ window.MAKRO_DATA = {
   },
   "GBP": {
    "ueber": 0,
+   "unter": 1,
+   "gleich": 2,
+   "gesamt": 3,
+   "score": -1
+  },
+  "AUD": {
+   "ueber": 2,
+   "unter": 2,
+   "gleich": 2,
+   "gesamt": 6,
+   "score": 0
+  },
+  "JPY": {
+   "ueber": 0,
    "unter": 0,
    "gleich": 1,
    "gesamt": 1,
    "score": 0
   },
-  "AUD": {
-   "ueber": 2,
-   "unter": 2,
+  "CHF": {
+   "ueber": 0,
+   "unter": 0,
    "gleich": 1,
-   "gesamt": 5,
+   "gesamt": 1,
    "score": 0
+  },
+  "NZD": {
+   "ueber": 0,
+   "unter": 1,
+   "gleich": 0,
+   "gesamt": 1,
+   "score": -1
   }
  },
  "prognoseQuote": {
@@ -3960,6 +3981,86 @@ window.MAKRO_DATA = {
    "notiz": null
   },
   {
+   "datum": "2026-06-18T18:45:00-04:00",
+   "land": "NZD",
+   "titel": "GDP q/q",
+   "impact": "High",
+   "prognose": "0.9%",
+   "vorher": "",
+   "actual": "0.8%",
+   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — NZ-BIP +0,8% q/q (knapp verfehlt; Prognose ~0,9% rekonstruiert aus Doku \"knapp verfehlt\") / +1,5% y/y Beat"
+  },
+  {
+   "datum": "2026-06-18T07:00:00-04:00",
+   "land": "GBP",
+   "titel": "Official Bank Rate",
+   "impact": "High",
+   "prognose": "3.75%",
+   "vorher": "3.75%",
+   "actual": "3.75%",
+   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — BOE haelt 3,75% (7:2 — 2 wollten ERHOEHEN, hawkish)"
+  },
+  {
+   "datum": "2026-06-18T03:30:00-04:00",
+   "land": "CHF",
+   "titel": "SNB Policy Rate",
+   "impact": "High",
+   "prognose": "0.00%",
+   "vorher": "0.00%",
+   "actual": "0.00%",
+   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — SNB haelt 0% (erwartet)"
+  },
+  {
+   "datum": "2026-06-17T14:00:00-04:00",
+   "land": "USD",
+   "titel": "Federal Funds Rate",
+   "impact": "High",
+   "prognose": "3.50-3.75%",
+   "vorher": "3.50-3.75%",
+   "actual": "3.50-3.75%",
+   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — Fed HAELT 3,50-3,75% (12:0), aber HAWKISHER Dot-Plot-Schwenk: Median 2026 3,4->3,8%, PCE 2,7->3,6% (Warshs Debuet)"
+  },
+  {
+   "datum": "2026-06-17T08:30:00-04:00",
+   "land": "USD",
+   "titel": "Retail Sales m/m",
+   "impact": "High",
+   "prognose": "",
+   "vorher": "",
+   "actual": "0.9%",
+   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — US-Retail Mai +0,9% (stark); Prognose nicht dokumentiert -> leer gelassen (kein Momentum-Eintrag)"
+  },
+  {
+   "datum": "2026-06-17T02:00:00-04:00",
+   "land": "GBP",
+   "titel": "CPI y/y",
+   "impact": "High",
+   "prognose": "3.0%",
+   "vorher": "",
+   "actual": "2.8%",
+   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — UK-CPI 2,8% y/y — KUEHLER als 3,0% erwartet (Abwaerts-Ueberraschung); ABER Dienstleistungen 3,2->3,7% heiss"
+  },
+  {
+   "datum": "2026-06-16T00:30:00-04:00",
+   "land": "AUD",
+   "titel": "Cash Rate",
+   "impact": "High",
+   "prognose": "4.35%",
+   "vorher": "4.35%",
+   "actual": "4.35%",
+   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — RBA haelt 4,35% (erwartet)"
+  },
+  {
+   "datum": "2026-06-16T00:00:00-04:00",
+   "land": "JPY",
+   "titel": "BOJ Policy Rate",
+   "impact": "High",
+   "prognose": "1.00%",
+   "vorher": "0.50%",
+   "actual": "1.00%",
+   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — BOJ ERHOEHT auf 1,00% (wie Konsens/Briefing erwartet) — erste Erhoehung; gleich vs Prognose"
+  },
+  {
    "datum": "2026-06-12T02:00:00-04:00",
    "land": "GBP",
    "titel": "GDP m/m",
@@ -4050,5 +4151,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 276
+ "anzahlGespeichert": 284
 };

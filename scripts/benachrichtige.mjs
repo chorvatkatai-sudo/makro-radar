@@ -16,6 +16,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { holeKurslevel } from "./kurslevel.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -38,14 +39,21 @@ async function holeKurse() {
     return (await r.json()).rates;
   } catch { return null; }
 }
+const nachkomma = paar => paar.endsWith("/JPY") ? 2 : 4;
+const fmtZahl = (paar, v) => v == null ? null : v.toLocaleString("de-DE", { minimumFractionDigits: nachkomma(paar), maximumFractionDigits: nachkomma(paar) });
 function paarKurs(paar, rates) {
   if (!rates) return null;
   const [b, q] = paar.split("/");
   const eurZu = c => c === "EUR" ? 1 : rates[c];
   const pb = eurZu(b), pq = eurZu(q);
   if (!pb || !pq) return null;
-  const preis = pq / pb;
-  return preis.toLocaleString("de-DE", { minimumFractionDigits: q === "JPY" ? 2 : 4, maximumFractionDigits: q === "JPY" ? 2 : 4 });
+  return fmtZahl(paar, pq / pb);
+}
+// Kurslevel je Paar nur einmal pro Lauf holen (Cache).
+const levelCache = new Map();
+async function levelFuer(paar) {
+  if (!levelCache.has(paar)) levelCache.set(paar, await holeKurslevel(paar).catch(() => null));
+  return levelCache.get(paar);
 }
 
 function leseJson(datei, fallback) {
@@ -86,7 +94,7 @@ function paarWirkung(land, waehrungBull) {
   return out;
 }
 
-function baueNachricht(e, rates) {
+async function baueNachricht(e, rates) {
   const b = findeBegriff(e.titel);
   const flagge = FLAGGE[e.land] || "🏳️";
   const a = alsZahl(e.actual), f = alsZahl(e.prognose);
@@ -109,9 +117,18 @@ function baueNachricht(e, rates) {
     for (const w of wirk) {
       const kurs = paarKurs(w.paar, rates);
       const ampel = w.hoch ? "🟢" : "🔴";
-      const pfeil = w.hoch ? "↑ eher STEIGEND" : "↓ eher FALLEND";
+      const pfeil = w.hoch ? "↑ STEIGEND" : "↓ FALLEND";
       z.push(`${ampel} ${w.paar}${kurs ? "  " + kurs : ""}  →  ${pfeil}`);
+      // Ziel/Stop aus technischen Kurslevels (Swing-Hoch/-Tief)
+      const lv = await levelFuer(w.paar);
+      if (lv) {
+        const ziel = w.hoch ? lv.widerstand : lv.support;     // Long -> Widerstand, Short -> Support
+        const stop = w.hoch ? lv.support : lv.widerstand;
+        z.push(`   🎯 Ziel ~${fmtZahl(w.paar, ziel)}  ·  🛑 SL ~${fmtZahl(w.paar, stop)}`);
+      }
     }
+    z.push("");
+    z.push("ℹ️ Ziel/SL = nächste technische Level (Swing-Hoch/-Tief), keine Garantie.");
     z.push("");
   } else if (richtung === "gleich") {
     z.push("➡️ SIGNAL: wie erwartet — kaum Bewegung zu erwarten.");
@@ -157,7 +174,7 @@ if (args.includes("--demo")) {
   const ratesDemo = await holeKurse();
   let n = 0;
   for (const e of beispiele) {
-    const text = "🧪 BEISPIEL (Test)\n\n" + baueNachricht(e, ratesDemo);
+    const text = "🧪 BEISPIEL (Test)\n\n" + await baueNachricht(e, ratesDemo);
     if (DRY || !TOKEN || !CHAT) { console.log("--- (DRY/kein Zugang) ---\n" + text + "\n"); }
     else { try { await sende(text); n++; } catch (err) { console.warn("Senden fehlgeschlagen:", err.message); } }
   }
@@ -200,7 +217,7 @@ if (!DRY && (!TOKEN || !CHAT)) {
 const rates = await holeKurse();
 let gesendet = 0;
 for (const [id, e] of faellig) {
-  const text = baueNachricht(e, rates);
+  const text = await baueNachricht(e, rates);
   if (DRY) {
     console.log("--- (DRY) ---\n" + text + "\n");
   } else {

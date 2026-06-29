@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-29T13:20:01.821Z",
+ "erstellt": "2026-06-29T16:50:24.253Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -1211,7 +1211,7 @@ window.MAKRO_DATA = {
    "title": "3-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "3.74%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1221,7 +1221,7 @@ window.MAKRO_DATA = {
    "title": "6-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "3.84%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3006,15 +3006,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-06-29T13:20:00.838Z",
+  "stand": "2026-06-29T16:50:23.857Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.25,
+    "wert": 101.11,
     "tagProzent": 0,
-    "wocheProzent": -0.16,
+    "wocheProzent": -0.29,
     "renditeDelta": false,
     "verlauf": [
      98.91,
@@ -3037,17 +3037,17 @@ window.MAKRO_DATA = {
      101.61,
      101.43,
      101.36,
-     101.25,
-     101.25
+     101.11,
+     101.11
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.23,
+    "wert": 17.93,
     "tagProzent": 0,
-    "wocheProzent": -6.46,
+    "wocheProzent": -8,
     "renditeDelta": false,
     "verlauf": [
      15.32,
@@ -3070,17 +3070,17 @@ window.MAKRO_DATA = {
      18.63,
      18.89,
      18.41,
-     18.23,
-     18.23
+     17.93,
+     17.93
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 70.01,
+    "wert": 70.92,
     "tagProzent": 0,
-    "wocheProzent": -4.37,
+    "wocheProzent": -3.13,
     "renditeDelta": false,
     "verlauf": [
      87.36,
@@ -3103,17 +3103,17 @@ window.MAKRO_DATA = {
      70.34,
      71.92,
      69.23,
-     70.01,
-     70.01
+     70.92,
+     70.92
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 73.21,
+    "wert": 74.12,
     "tagProzent": 0,
-    "wocheProzent": -5.02,
+    "wocheProzent": -3.84,
     "renditeDelta": false,
     "verlauf": [
      92.05,
@@ -3136,17 +3136,17 @@ window.MAKRO_DATA = {
      73.74,
      75.26,
      71.99,
-     73.21,
-     73.21
+     74.12,
+     74.12
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4061.6,
+    "wert": 4035.6,
     "tagProzent": 0,
-    "wocheProzent": -1.65,
+    "wocheProzent": -2.28,
     "renditeDelta": false,
     "verlauf": [
      4560.5,
@@ -3169,8 +3169,8 @@ window.MAKRO_DATA = {
      3990.3,
      4030.5,
      4078.7,
-     4061.6,
-     4061.6
+     4035.6,
+     4035.6
     ]
    },
    "US02Y": {
@@ -3209,9 +3209,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.378,
+    "wert": 4.382,
     "tagProzent": 0,
-    "wocheProzent": -0.12,
+    "wocheProzent": -0.11,
     "renditeDelta": true,
     "verlauf": [
      4.453,
@@ -3234,15 +3234,15 @@ window.MAKRO_DATA = {
      4.402,
      4.392,
      4.372,
-     4.378,
-     4.378
+     4.382,
+     4.382
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.859,
+    "wert": 4.863,
     "tagProzent": 0,
     "wocheProzent": -0.08,
     "renditeDelta": true,
@@ -3267,17 +3267,17 @@ window.MAKRO_DATA = {
      4.856,
      4.858,
      4.864,
-     4.859,
-     4.859
+     4.863,
+     4.863
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 60167.07,
+    "wert": 59842.52,
     "tagProzent": 0,
-    "wocheProzent": 0.75,
+    "wocheProzent": 0.2,
     "renditeDelta": false,
     "verlauf": [
      61643.78,
@@ -3300,8 +3300,8 @@ window.MAKRO_DATA = {
      60016.43,
      59940.1,
      59532.34,
-     60167.07,
-     60167.07
+     59842.52,
+     59842.52
     ]
    },
    "REAL10": {
@@ -3541,7 +3541,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-06-29T13:20:01.788Z",
+  "stand": "2026-06-29T16:50:24.252Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3550,81 +3550,87 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
-    "titel": "US Dollar Index: Fed hikes repriced on softer inflation – Deutsche Bank",
-    "link": "https://www.fxstreet.com/news/us-dollar-index-fed-hikes-repriced-on-softer-inflation-deutsche-bank-202606291230",
-    "datum": "2026-06-29T12:30:55.000Z"
+    "titel": "Euro strengthens as Eurozone sentiment improves ahead of German HICP",
+    "link": "https://www.fxstreet.com/news/euro-strengthens-as-eurozone-sentiment-improves-ahead-of-german-hicp-202606291624",
+    "datum": "2026-06-29T16:24:11.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Euro: Cyclical Dollar strength versus EUR risks – Rabobank",
-    "link": "https://www.fxstreet.com/news/euro-cyclical-dollar-strength-versus-eur-risks-rabobank-202606291212",
-    "datum": "2026-06-29T12:12:30.000Z"
+    "titel": "Canadian Dollar consolidates amid Oil price rebound, US labor data focus",
+    "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-amid-oil-price-rebound-us-labor-data-focus-202606291622",
+    "datum": "2026-06-29T16:22:40.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound rises as Burnham fiscal pledge calms markets",
+    "link": "https://www.fxstreet.com/news/british-pound-rises-as-burnham-fiscal-pledge-calms-markets-202606291549",
+    "datum": "2026-06-29T15:49:12.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound: Leadership turmoil and weaker carry weigh on Sterling – HSBC",
+    "link": "https://www.fxstreet.com/news/british-pound-leadership-turmoil-and-weaker-carry-weigh-on-sterling-hsbc-202606291506",
+    "datum": "2026-06-29T15:06:11.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Asian FX: Vulnerable under risk-off and stronger Dollar – OCBC",
+    "link": "https://www.fxstreet.com/news/asian-fx-vulnerable-under-risk-off-and-stronger-dollar-ocbc-202606291456",
+    "datum": "2026-06-29T14:56:15.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar slips near three-month low as traders await RBA Minutes",
+    "link": "https://www.fxstreet.com/news/australian-dollar-slips-near-three-month-low-as-traders-await-rba-minutes-202606291444",
+    "datum": "2026-06-29T14:44:51.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro: Range trading likely to persist against US Dollar – Scotiabank",
+    "link": "https://www.fxstreet.com/news/euro-range-trading-likely-to-persist-against-us-dollar-scotiabank-202606291440",
+    "datum": "2026-06-29T14:40:28.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver declines as Middle East energy tensions, Fed policy uncertainty pressure prices",
+    "link": "https://www.fxstreet.com/news/silver-declines-as-middle-east-energy-tensions-fed-policy-uncertainty-pressure-prices-202606291422",
+    "datum": "2026-06-29T14:22:18.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Chinese Yuan: China slowdown weighs on CNY against US Dollar – Commerzbank",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-china-slowdown-weighs-on-cny-against-us-dollar-commerzbank-202606291412",
+    "datum": "2026-06-29T14:12:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen: Japan export controls and strong sales support JPY risk premium – BNY",
+    "link": "https://www.fxstreet.com/news/japanese-yen-japan-export-controls-and-strong-sales-support-jpy-risk-premium-bny-202606291401",
+    "datum": "2026-06-29T14:01:25.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "The US freight market has suddenly gone into high gear",
+    "link": "https://investinglive.com/news/the-us-freight-market-has-suddenly-gone-into-high-gear-20260629/",
+    "datum": "2026-06-29T13:45:53.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Canadian Dollar: Stabilizes against US Dollar as spreads narrow – Scotiabank",
+    "link": "https://www.fxstreet.com/news/canadian-dollar-stabilizes-against-us-dollar-as-spreads-narrow-scotiabank-202606291339",
+    "datum": "2026-06-29T13:39:05.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Kevin Warsh isn't expected to say much in Sintra: That's exactly why markets will listen",
+    "link": "https://www.fxstreet.com/news/kevin-warsh-isnt-expected-to-say-much-in-sintra-thats-exactly-why-markets-will-listen-202606291327",
+    "datum": "2026-06-29T13:27:06.000Z"
    },
    {
     "quelle": "ForexLive",
     "titel": "investingLive European markets wrap: Oil prices rise, tech shares look to bounce back",
     "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-rise-tech-shares-look-to-bounce-back-20260629/",
     "datum": "2026-06-29T11:58:25.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound gains as UK Burnham pledges continuation of current Labour policy",
-    "link": "https://www.fxstreet.com/news/british-pound-gains-as-uk-burnham-pledges-continuation-of-current-labour-policy-202606291154",
-    "datum": "2026-06-29T11:54:34.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Oil: Gulf de-escalation keeps crude supported – BNY",
-    "link": "https://www.fxstreet.com/news/oil-gulf-de-escalation-keeps-crude-supported-bny-202606291154",
-    "datum": "2026-06-29T11:54:21.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "WTI Oi's decline stalls near $70.00 as the situation in the Strait of Hormuz muddies",
-    "link": "https://www.fxstreet.com/news/wti-ois-decline-stalls-near-7000-as-the-situation-in-the-strait-of-hormuz-muddies-202606291145",
-    "datum": "2026-06-29T11:45:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro area: Oil-driven inflation relief but ECB wary – Commerzbank",
-    "link": "https://www.fxstreet.com/news/euro-area-oil-driven-inflation-relief-but-ecb-wary-commerzbank-202606291144",
-    "datum": "2026-06-29T11:44:09.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Dollar: Fed-driven strength and revised path – OCBC",
-    "link": "https://www.fxstreet.com/news/us-dollar-fed-driven-strength-and-revised-path-ocbc-202606291135",
-    "datum": "2026-06-29T11:35:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "UK’s Burnham promises of Labour’s policy continuation",
-    "link": "https://www.fxstreet.com/news/uks-burnham-promises-of-labours-policy-continuation-202606291115",
-    "datum": "2026-06-29T11:15:34.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold: Central bank flows and real yields – Societe Generale",
-    "link": "https://www.fxstreet.com/news/gold-central-bank-flows-and-real-yields-societe-generale-202606291113",
-    "datum": "2026-06-29T11:13:07.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Indian Rupee remains calm as investors await US-Iran talks in Oman",
-    "link": "https://www.fxstreet.com/news/indian-rupee-opens-flat-awaits-us-iran-talks-in-oman-202606290557",
-    "datum": "2026-06-29T11:11:32.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "CEE FX: Pressure returns with stronger Dollar – ING",
-    "link": "https://www.fxstreet.com/news/cee-fx-pressure-returns-with-stronger-dollar-ing-202606290958",
-    "datum": "2026-06-29T09:58:42.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/USD Price Forecasts: Struggling to regain 1.1400 amid geopolitical uncertainty",
-    "link": "https://www.fxstreet.com/news/eur-usd-price-forecasts-struggling-to-regain-11400-amid-geopolitical-uncertainty-202606290955",
-    "datum": "2026-06-29T09:55:02.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3649,12 +3655,6 @@ window.MAKRO_DATA = {
     "titel": "Spanish inflation keeps more stubborn in June, preliminary estimates show",
     "link": "https://investinglive.com/news/spain-june-preliminary-cpi-32-vs-30-yy-expected-20260629/",
     "datum": "2026-06-29T07:00:45.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "What are the main events for today?",
-    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20260629/",
-    "datum": "2026-06-29T06:30:29.000Z"
    }
   ]
  },

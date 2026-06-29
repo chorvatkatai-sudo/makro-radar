@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-29T13:20:01.788Z",
+  "stand": "2026-06-29T16:50:24.252Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,81 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar Index: Fed hikes repriced on softer inflation – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-fed-hikes-repriced-on-softer-inflation-deutsche-bank-202606291230",
-      "datum": "2026-06-29T12:30:55.000Z"
+      "titel": "Euro strengthens as Eurozone sentiment improves ahead of German HICP",
+      "link": "https://www.fxstreet.com/news/euro-strengthens-as-eurozone-sentiment-improves-ahead-of-german-hicp-202606291624",
+      "datum": "2026-06-29T16:24:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Cyclical Dollar strength versus EUR risks – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-cyclical-dollar-strength-versus-eur-risks-rabobank-202606291212",
-      "datum": "2026-06-29T12:12:30.000Z"
+      "titel": "Canadian Dollar consolidates amid Oil price rebound, US labor data focus",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-amid-oil-price-rebound-us-labor-data-focus-202606291622",
+      "datum": "2026-06-29T16:22:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound rises as Burnham fiscal pledge calms markets",
+      "link": "https://www.fxstreet.com/news/british-pound-rises-as-burnham-fiscal-pledge-calms-markets-202606291549",
+      "datum": "2026-06-29T15:49:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Leadership turmoil and weaker carry weigh on Sterling – HSBC",
+      "link": "https://www.fxstreet.com/news/british-pound-leadership-turmoil-and-weaker-carry-weigh-on-sterling-hsbc-202606291506",
+      "datum": "2026-06-29T15:06:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asian FX: Vulnerable under risk-off and stronger Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/asian-fx-vulnerable-under-risk-off-and-stronger-dollar-ocbc-202606291456",
+      "datum": "2026-06-29T14:56:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar slips near three-month low as traders await RBA Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-near-three-month-low-as-traders-await-rba-minutes-202606291444",
+      "datum": "2026-06-29T14:44:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Range trading likely to persist against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-range-trading-likely-to-persist-against-us-dollar-scotiabank-202606291440",
+      "datum": "2026-06-29T14:40:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver declines as Middle East energy tensions, Fed policy uncertainty pressure prices",
+      "link": "https://www.fxstreet.com/news/silver-declines-as-middle-east-energy-tensions-fed-policy-uncertainty-pressure-prices-202606291422",
+      "datum": "2026-06-29T14:22:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: China slowdown weighs on CNY against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-china-slowdown-weighs-on-cny-against-us-dollar-commerzbank-202606291412",
+      "datum": "2026-06-29T14:12:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Japan export controls and strong sales support JPY risk premium – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-japan-export-controls-and-strong-sales-support-jpy-risk-premium-bny-202606291401",
+      "datum": "2026-06-29T14:01:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The US freight market has suddenly gone into high gear",
+      "link": "https://investinglive.com/news/the-us-freight-market-has-suddenly-gone-into-high-gear-20260629/",
+      "datum": "2026-06-29T13:45:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Stabilizes against US Dollar as spreads narrow – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-stabilizes-against-us-dollar-as-spreads-narrow-scotiabank-202606291339",
+      "datum": "2026-06-29T13:39:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Kevin Warsh isn't expected to say much in Sintra: That's exactly why markets will listen",
+      "link": "https://www.fxstreet.com/news/kevin-warsh-isnt-expected-to-say-much-in-sintra-thats-exactly-why-markets-will-listen-202606291327",
+      "datum": "2026-06-29T13:27:06.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Oil prices rise, tech shares look to bounce back",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-rise-tech-shares-look-to-bounce-back-20260629/",
       "datum": "2026-06-29T11:58:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound gains as UK Burnham pledges continuation of current Labour policy",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-as-uk-burnham-pledges-continuation-of-current-labour-policy-202606291154",
-      "datum": "2026-06-29T11:54:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Gulf de-escalation keeps crude supported – BNY",
-      "link": "https://www.fxstreet.com/news/oil-gulf-de-escalation-keeps-crude-supported-bny-202606291154",
-      "datum": "2026-06-29T11:54:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oi's decline stalls near $70.00 as the situation in the Strait of Hormuz muddies",
-      "link": "https://www.fxstreet.com/news/wti-ois-decline-stalls-near-7000-as-the-situation-in-the-strait-of-hormuz-muddies-202606291145",
-      "datum": "2026-06-29T11:45:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro area: Oil-driven inflation relief but ECB wary – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-area-oil-driven-inflation-relief-but-ecb-wary-commerzbank-202606291144",
-      "datum": "2026-06-29T11:44:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fed-driven strength and revised path – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-driven-strength-and-revised-path-ocbc-202606291135",
-      "datum": "2026-06-29T11:35:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "UK’s Burnham promises of Labour’s policy continuation",
-      "link": "https://www.fxstreet.com/news/uks-burnham-promises-of-labours-policy-continuation-202606291115",
-      "datum": "2026-06-29T11:15:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Central bank flows and real yields – Societe Generale",
-      "link": "https://www.fxstreet.com/news/gold-central-bank-flows-and-real-yields-societe-generale-202606291113",
-      "datum": "2026-06-29T11:13:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee remains calm as investors await US-Iran talks in Oman",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-flat-awaits-us-iran-talks-in-oman-202606290557",
-      "datum": "2026-06-29T11:11:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "CEE FX: Pressure returns with stronger Dollar – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-pressure-returns-with-stronger-dollar-ing-202606290958",
-      "datum": "2026-06-29T09:58:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecasts: Struggling to regain 1.1400 amid geopolitical uncertainty",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecasts-struggling-to-regain-11400-amid-geopolitical-uncertainty-202606290955",
-      "datum": "2026-06-29T09:55:02.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Spanish inflation keeps more stubborn in June, preliminary estimates show",
       "link": "https://investinglive.com/news/spain-june-preliminary-cpi-32-vs-30-yy-expected-20260629/",
       "datum": "2026-06-29T07:00:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20260629/",
-      "datum": "2026-06-29T06:30:29.000Z"
     }
   ]
 }

@@ -1,16 +1,15 @@
 {
-  "stand": "2026-06-29T22:04:57.154Z",
+  "stand": "2026-06-30T07:50:16.369Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 101.1,
+      "wert": 101.25,
       "tagProzent": 0,
-      "wocheProzent": -0.31,
+      "wocheProzent": -0.35,
       "renditeDelta": false,
       "verlauf": [
-        98.91,
         99.2,
         99.22,
         99.53,
@@ -30,20 +29,20 @@
         101.61,
         101.43,
         101.36,
-        101.1,
-        101.1
+        101.11,
+        101.25,
+        101.25
       ]
     },
     "VIX": {
       "name": "VIX (Angst-Barometer)",
       "einheit": "",
       "typ": "index",
-      "wert": 17.65,
+      "wert": 17.5,
       "tagProzent": 0,
-      "wocheProzent": -9.44,
+      "wocheProzent": -6.07,
       "renditeDelta": false,
       "verlauf": [
-        15.32,
         16.05,
         15.77,
         16.06,
@@ -64,19 +63,19 @@
         18.89,
         18.41,
         17.65,
-        17.65
+        17.5,
+        17.5
       ]
     },
     "WTI": {
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 70.42,
+      "wert": 70.22,
       "tagProzent": 0,
-      "wocheProzent": -3.81,
+      "wocheProzent": -0.17,
       "renditeDelta": false,
       "verlauf": [
-        87.36,
         92.16,
         93.76,
         96.02,
@@ -96,20 +95,20 @@
         70.34,
         71.92,
         69.23,
-        70.42,
-        70.42
+        70.75,
+        70.22,
+        70.22
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 73.64,
+      "wert": 73.43,
       "tagProzent": 0,
-      "wocheProzent": -4.46,
+      "wocheProzent": -0.42,
       "renditeDelta": false,
       "verlauf": [
-        92.05,
         94.98,
         96,
         97.81,
@@ -129,20 +128,20 @@
         73.74,
         75.26,
         71.99,
-        73.64,
-        73.64
+        73.15,
+        73.43,
+        73.43
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4030.5,
+      "wert": 4043.2,
       "tagProzent": 0,
-      "wocheProzent": -2.41,
+      "wocheProzent": 1.33,
       "renditeDelta": false,
       "verlauf": [
-        4560.5,
         4475.2,
         4489.1,
         4436.7,
@@ -162,8 +161,9 @@
         3990.3,
         4030.5,
         4078.7,
-        4030.5,
-        4030.5
+        4022.3,
+        4043.2,
+        4043.2
       ]
     },
     "US02Y": {
@@ -172,10 +172,9 @@
       "typ": "rendite",
       "wert": 3.84,
       "tagProzent": -0.41,
-      "wocheProzent": 0,
+      "wocheProzent": -0.01,
       "renditeDelta": true,
       "verlauf": [
-        4.009,
         3.84,
         3.84,
         3.84,
@@ -194,6 +193,7 @@
         3.851,
         3.851,
         3.851,
+        3.856,
         3.856,
         3.84
       ]
@@ -203,8 +203,8 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 4.374,
-      "tagProzent": 0,
-      "wocheProzent": -0.12,
+      "tagProzent": 0.05,
+      "wocheProzent": -0.13,
       "renditeDelta": true,
       "verlauf": [
         4.453,
@@ -227,7 +227,6 @@
         4.402,
         4.392,
         4.372,
-        4.374,
         4.374
       ]
     },
@@ -236,8 +235,8 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 4.86,
-      "tagProzent": 0,
-      "wocheProzent": -0.08,
+      "tagProzent": -0.08,
+      "wocheProzent": -0.09,
       "renditeDelta": true,
       "verlauf": [
         4.993,
@@ -260,7 +259,6 @@
         4.856,
         4.858,
         4.864,
-        4.86,
         4.86
       ]
     },
@@ -268,12 +266,11 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 60387.33,
+      "wert": 59416.74,
       "tagProzent": 0,
-      "wocheProzent": 1.11,
+      "wocheProzent": -1,
       "renditeDelta": false,
       "verlauf": [
-        61643.78,
         61449.29,
         63561.05,
         63543.2,
@@ -293,8 +290,9 @@
         60016.43,
         59940.1,
         59532.34,
-        60387.33,
-        60387.33
+        60138.38,
+        59416.74,
+        59416.74
       ]
     },
     "INFL10": {

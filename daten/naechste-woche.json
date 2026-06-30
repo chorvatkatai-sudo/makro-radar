@@ -295,7 +295,7 @@
     "title": "1-Year Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.0225%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -305,7 +305,7 @@
     "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "2.5636%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -315,7 +315,7 @@
     "title": "6-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "2.7202%",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-30T13:43:44.173Z",
+ "erstellt": "2026-06-30T13:45:34.307Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -3006,15 +3006,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-06-30T13:41:44.105Z",
+  "stand": "2026-06-30T13:45:33.802Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.3,
+    "wert": 101.33,
     "tagProzent": 0,
-    "wocheProzent": -0.3,
+    "wocheProzent": -0.28,
     "renditeDelta": false,
     "verlauf": [
      99.2,
@@ -3037,8 +3037,8 @@ window.MAKRO_DATA = {
      101.43,
      101.36,
      101.11,
-     101.3,
-     101.3
+     101.32,
+     101.33
     ]
    },
    "VIX": {
@@ -3111,9 +3111,9 @@ window.MAKRO_DATA = {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 74.24,
+    "wert": 74.23,
     "tagProzent": 0,
-    "wocheProzent": 0.68,
+    "wocheProzent": 0.66,
     "renditeDelta": false,
     "verlauf": [
      94.98,
@@ -3136,17 +3136,17 @@ window.MAKRO_DATA = {
      75.26,
      71.99,
      73.15,
-     74.24,
-     74.24
+     74.23,
+     74.23
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4039.7,
+    "wert": 4036.7,
     "tagProzent": 0,
-    "wocheProzent": 1.24,
+    "wocheProzent": 1.16,
     "renditeDelta": false,
     "verlauf": [
      4475.2,
@@ -3169,8 +3169,8 @@ window.MAKRO_DATA = {
      4030.5,
      4078.7,
      4022.3,
-     4039.7,
-     4039.7
+     4036.7,
+     4036.7
     ]
    },
    "US02Y": {
@@ -3273,9 +3273,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 58369.2,
+    "wert": 58434.77,
     "tagProzent": 0,
-    "wocheProzent": -2.74,
+    "wocheProzent": -2.64,
     "renditeDelta": false,
     "verlauf": [
      61449.29,
@@ -3298,43 +3298,9 @@ window.MAKRO_DATA = {
      59940.1,
      59532.34,
      60138.38,
-     58369.2,
-     58369.2
+     58434.77,
+     58434.77
     ]
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.22,
-    "tagProzent": 0.02,
-    "wocheProzent": -0.01,
-    "renditeDelta": true,
-    "verlauf": [
-     2.39,
-     2.38,
-     2.4,
-     2.39,
-     2.38,
-     2.36,
-     2.36,
-     2.35,
-     2.33,
-     2.34,
-     2.29,
-     2.31,
-     2.32,
-     2.29,
-     2.26,
-     2.25,
-     2.23,
-     2.21,
-     2.18,
-     2.21,
-     2.2,
-     2.22
-    ],
-    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
@@ -3369,10 +3335,132 @@ window.MAKRO_DATA = {
      2.18
     ],
     "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.22,
+    "tagProzent": 0.02,
+    "wocheProzent": -0.01,
+    "renditeDelta": true,
+    "verlauf": [
+     2.39,
+     2.38,
+     2.4,
+     2.39,
+     2.38,
+     2.36,
+     2.36,
+     2.35,
+     2.33,
+     2.34,
+     2.29,
+     2.31,
+     2.32,
+     2.29,
+     2.26,
+     2.25,
+     2.23,
+     2.21,
+     2.18,
+     2.21,
+     2.2,
+     2.22
+    ],
+    "quelle": "FRED"
    }
   },
   "kurve2s10s": 0.55,
-  "cot": null,
+  "cot": {
+   "stand": "2026-06-23",
+   "waehrungen": {
+    "CAD": {
+     "net": -146792,
+     "dNet": -13891,
+     "long": 39429,
+     "short": 186221,
+     "oi": 342860,
+     "nettoAnteil": -42.8,
+     "richtung": "short",
+     "zScore": -1.4,
+     "extrem": null,
+     "histWochen": 212
+    },
+    "CHF": {
+     "net": -41094,
+     "dNet": -1036,
+     "long": 7975,
+     "short": 49069,
+     "oi": 108626,
+     "nettoAnteil": -37.8,
+     "richtung": "short",
+     "zScore": -1.37,
+     "extrem": null,
+     "histWochen": 212
+    },
+    "GBP": {
+     "net": -105719,
+     "dNet": -34134,
+     "long": 40772,
+     "short": 146491,
+     "oi": 297226,
+     "nettoAnteil": -35.6,
+     "richtung": "short",
+     "zScore": -2.27,
+     "extrem": "extrem",
+     "histWochen": 212
+    },
+    "JPY": {
+     "net": -146104,
+     "dNet": 4028,
+     "long": 113698,
+     "short": 259802,
+     "oi": 431030,
+     "nettoAnteil": -33.9,
+     "richtung": "short",
+     "zScore": -1.32,
+     "extrem": null,
+     "histWochen": 212
+    },
+    "EUR": {
+     "net": 30158,
+     "dNet": -4195,
+     "long": 247332,
+     "short": 217174,
+     "oi": 785477,
+     "nettoAnteil": 3.8,
+     "richtung": "long",
+     "zScore": -0.62,
+     "extrem": null,
+     "histWochen": 212
+    },
+    "NZD": {
+     "net": -54844,
+     "dNet": -9683,
+     "long": 12114,
+     "short": 66958,
+     "oi": 103297,
+     "nettoAnteil": -53.1,
+     "richtung": "short",
+     "zScore": -2.08,
+     "extrem": "extrem",
+     "histWochen": 212
+    },
+    "AUD": {
+     "net": -13012,
+     "dNet": -8887,
+     "long": 82200,
+     "short": 95212,
+     "oi": 214349,
+     "nettoAnteil": -6.1,
+     "richtung": "short",
+     "zScore": 0.64,
+     "extrem": null,
+     "histWochen": 212
+    }
+   }
+  },
   "quellen": [
    "Yahoo Finance (keyless)",
    "CFTC COT / publicreporting.cftc.gov (keyless)"
@@ -3382,76 +3470,76 @@ window.MAKRO_DATA = {
   {
    "paar": "EUR/USD",
    "baseScore": -18,
-   "tiltCot": 0,
+   "tiltCot": 2,
    "tiltZins": 2,
-   "tiltGesamt": 2,
-   "score": -16,
+   "tiltGesamt": 4,
+   "score": -14,
    "cotExtrem": null,
    "treiber": "Zinsabstand und schwache PMIs sprechen weiter gegen den Euro (steht ~1,139). Aber weniger bärisch (von −20): der Dollar gibt den dritten Tag nach, die heiße Euro-Inflation hält die EZB hawkish, und Spekulanten halten Euro-Longs (COT +30k). Der Schlüssel ist die Eurozone-Schnellschätzung MORGEN (Mi, Konsens 3,0%/Kern 2,5%) — heißer = Euro-Stütze."
   },
   {
    "paar": "GBP/USD",
    "baseScore": -16,
-   "tiltCot": 0,
+   "tiltCot": -5,
    "tiltZins": 2,
-   "tiltGesamt": 2,
-   "score": -14,
-   "cotExtrem": null,
+   "tiltGesamt": -3,
+   "score": -19,
+   "cotExtrem": "extrem",
    "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß 3,7%), gegen den Dollar überwiegt die Schwäche, dazu die Stagflations-Sorge. Etwas weniger bärisch (von −18), weil der Dollar nachgibt. ACHTUNG: COT-Short ist extrem gedehnt (z-Score −2,3 = ‚extrem‘) — Rückschlagrisiko. Dieses Paar hat bisher den besten Track-Record (2/2), Stichprobe aber noch dünn."
   },
   {
    "paar": "USD/JPY",
    "baseScore": 8,
-   "tiltCot": 0,
+   "tiltCot": 10,
    "tiltZins": -2,
-   "tiltGesamt": -2,
-   "score": 6,
+   "tiltGesamt": 8,
+   "score": 16,
    "cotExtrem": null,
    "treiber": "Trend noch leicht bullish (fester Dollar), ABER stark gedeckelt (von 10): Tokios Inflation festigt sich, der Tankan heute testet die BOJ-Stütze, die US-Renditen geben nach, und bei ~161,7 (schwächster Yen seit 1986) ist das INTERVENTIONSRISIKO sehr hoch — Japans Finanzministerium kann das Paar in Minuten brutal nach unten reißen. Risiko klar asymmetrisch nach unten; eigener Track-Record bisher 0/2 (Vorsicht)."
   },
   {
    "paar": "AUD/USD",
    "baseScore": 2,
-   "tiltCot": 0,
+   "tiltCot": -2,
    "tiltZins": 2,
-   "tiltGesamt": 2,
-   "score": 4,
+   "tiltGesamt": 0,
+   "score": 2,
    "cotExtrem": null,
    "treiber": "Knapp ins Plus gedreht (von −2): Der Aussie ist der relative Gewinner (starke Jobs +40.300, heißer Kern 3,6%, RBA bleibt hart), der gefallene VIX (Risikofreude zurück) gibt der Risiko-Währung jetzt Rückenwind statt Gegenwind, und der Dollar gibt nach. Track-Record noch dünn (1/2)."
   },
   {
    "paar": "USD/CAD",
    "baseScore": 22,
-   "tiltCot": 0,
+   "tiltCot": 10,
    "tiltZins": -2,
-   "tiltGesamt": -2,
-   "score": 20,
+   "tiltGesamt": 8,
+   "score": 30,
    "cotExtrem": null,
    "treiber": "Bleibt aufwärts geneigt: weiterhin fester Dollar trifft auf billiges Öl (WTI ~70$) und einen Loonie ohne eigene Stütze. Leicht gedeckelt (von 24), weil der Dollar den dritten Tag nachgibt — HEUTE der direkte Test mit Kanadas BIP (14:30), der eigentliche Showdown ist der US-Jobbericht am Donnerstag."
   },
   {
    "paar": "USD/CHF",
    "baseScore": 18,
-   "tiltCot": 0,
+   "tiltCot": 10,
    "tiltZins": -2,
-   "tiltGesamt": -2,
-   "score": 16,
+   "tiltGesamt": 8,
+   "score": 26,
    "cotExtrem": null,
    "treiber": "Etwas fester (von 16): Dollar oben (hoher Realzins), Franken ohne Zins UND ohne Hafen-Bonus — der VIX ist gefallen (Risikofreude zurück), die Krisennachfrage nach dem Franken lässt nach. Gegenkraft bleibt nur der generell weiche Dollar vor dem Jobbericht. Tendenz leicht aufwärts."
   },
   {
    "paar": "NZD/USD",
    "baseScore": -18,
-   "tiltCot": 0,
+   "tiltCot": -5,
    "tiltZins": 2,
-   "tiltGesamt": 2,
-   "score": -16,
-   "cotExtrem": null,
+   "tiltGesamt": -3,
+   "score": -21,
+   "cotExtrem": "extrem",
    "treiber": "Schwache Story: niedriger NZ-Zins, verfehltes BIP. Aber weniger bärisch (von −22): der gefallene VIX (Risikofreude zurück) hilft dem Kiwi als Risiko-Währung, und der Dollar gibt nach. Dazu ist die COT-Short EXTREM gedehnt (Anteil −53%, z-Score −2,1) — hohe Squeeze-Gefahr, falls der Dollar dreht."
   }
  ],
  "news": {
-  "stand": "2026-06-30T13:41:45.793Z",
+  "stand": "2026-06-30T13:45:34.306Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3459,16 +3547,52 @@ window.MAKRO_DATA = {
   ],
   "eintraege": [
    {
+    "quelle": "FXStreet",
+    "titel": "Gold steadies after sliding to fresh seven-month low, Fed rate-hike bets weigh",
+    "link": "https://www.fxstreet.com/news/gold-steadies-after-sliding-to-fresh-seven-month-low-fed-rate-hike-bets-weigh-202606301126",
+    "datum": "2026-06-30T13:24:03.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar: Modest upside scope as risks recalibrate – OCBC",
+    "link": "https://www.fxstreet.com/news/us-dollar-modest-upside-scope-as-risks-recalibrate-ocbc-202606301322",
+    "datum": "2026-06-30T13:22:12.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Bank of England: No change expected in 2026 – Rabobank",
+    "link": "https://www.fxstreet.com/news/bank-of-england-no-change-expected-in-2024-rabobank-202606301307",
+    "datum": "2026-06-30T13:07:01.000Z"
+   },
+   {
     "quelle": "ForexLive",
     "titel": "FHFA monthly home price index for April -0.1% versus a revised 0.2% last month",
     "link": "https://investinglive.com/news/fhfa-monthly-home-price-index-for-april-01-versus-a-revised-02-last-month-20260630/",
     "datum": "2026-06-30T13:04:40.000Z"
    },
    {
+    "quelle": "FXStreet",
+    "titel": "Economists Agree: 2026 Oil price forecasts lowered as Strait of Hormuz shipping improves – Reuters poll",
+    "link": "https://www.fxstreet.com/news/economists-agree-2026-oil-price-forecasts-lowered-as-strait-of-hormuz-shipping-improves-reuters-poll-202606301301",
+    "datum": "2026-06-30T13:01:26.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro stabilizes vs Yen amid softer German inflation, Japan intervention warnings",
+    "link": "https://www.fxstreet.com/news/euro-stabilizes-vs-yen-amid-softer-german-inflation-japan-intervention-warnings-202606301300",
+    "datum": "2026-06-30T13:00:39.000Z"
+   },
+   {
     "quelle": "ForexLive",
     "titel": "US April CaseShiller 20-city house price index +1.1% y/y vs +0.9% expected",
     "link": "https://investinglive.com/news/us-april-caseshiller-20-city-house-price-index-11-yy-vs-09-expected-20260630/",
     "datum": "2026-06-30T13:00:12.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US JOLTS Job Openings set to show demand for workers remained resilient in May",
+    "link": "https://www.fxstreet.com/news/us-jolts-job-openings-expected-to-show-strong-labor-demand-endorsing-fed-rate-hike-bets-202606300900",
+    "datum": "2026-06-30T13:00:00.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3520,51 +3644,15 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "JOLTS Job Openings expected to decline in May after April’s stellar surge",
-    "link": "https://www.fxstreet.com/news/us-jolts-job-openings-expected-to-show-strong-labor-demand-endorsing-fed-rate-hike-bets-202606300900",
-    "datum": "2026-06-30T12:00:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
     "titel": "Gold: Deep quarterly loss on Fed repricing – Commerzbank",
     "link": "https://www.fxstreet.com/news/gold-deep-quarterly-loss-on-fed-repricing-commerzbank-202606301150",
     "datum": "2026-06-30T11:50:43.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Swiss Franc weakens against US Dollar, eyes on US JOLTS Job Openings data",
-    "link": "https://www.fxstreet.com/news/swiss-franc-weakens-against-us-dollar-eyes-on-us-jolts-job-openings-data-202606301149",
-    "datum": "2026-06-30T11:49:09.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold Price Forecast: XAU/USD struggles around $4,000, near YTD lows",
-    "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-struggles-around-4-000-near-ytd-lows-202606301146",
-    "datum": "2026-06-30T11:46:19.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Dollar: Momentum fading as data and Warsh loom – ING",
-    "link": "https://www.fxstreet.com/news/us-dollar-momentum-fading-as-data-and-warsh-loom-ing-202606301136",
-    "datum": "2026-06-30T11:36:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar steadies as hawkish RBA minutes meet firm US Dollar ahead of labor data",
-    "link": "https://www.fxstreet.com/news/australian-dollar-steadies-as-hawkish-rba-minutes-meet-firm-us-dollar-ahead-of-labor-data-202606301135",
-    "datum": "2026-06-30T11:35:37.000Z"
    },
    {
     "quelle": "ForexLive",
     "titel": "investingLive European FX news wrap: Inflation eases in the largest Eurozone economies",
     "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-inflation-eases-in-the-largest-eurozone-economies-20260630/",
     "datum": "2026-06-30T11:28:10.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold steadies after sliding to fresh seven-month low, Fed rate-hike bets weigh",
-    "link": "https://www.fxstreet.com/news/gold-steadies-after-sliding-to-fresh-seven-month-low-fed-rate-hike-bets-weigh-202606301126",
-    "datum": "2026-06-30T11:26:14.000Z"
    }
   ]
  },

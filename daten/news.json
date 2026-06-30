@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-30T13:41:45.793Z",
+  "stand": "2026-06-30T13:45:34.306Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,16 +7,52 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Gold steadies after sliding to fresh seven-month low, Fed rate-hike bets weigh",
+      "link": "https://www.fxstreet.com/news/gold-steadies-after-sliding-to-fresh-seven-month-low-fed-rate-hike-bets-weigh-202606301126",
+      "datum": "2026-06-30T13:24:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Modest upside scope as risks recalibrate – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-modest-upside-scope-as-risks-recalibrate-ocbc-202606301322",
+      "datum": "2026-06-30T13:22:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of England: No change expected in 2026 – Rabobank",
+      "link": "https://www.fxstreet.com/news/bank-of-england-no-change-expected-in-2024-rabobank-202606301307",
+      "datum": "2026-06-30T13:07:01.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "FHFA monthly home price index for April -0.1% versus a revised 0.2% last month",
       "link": "https://investinglive.com/news/fhfa-monthly-home-price-index-for-april-01-versus-a-revised-02-last-month-20260630/",
       "datum": "2026-06-30T13:04:40.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "Economists Agree: 2026 Oil price forecasts lowered as Strait of Hormuz shipping improves – Reuters poll",
+      "link": "https://www.fxstreet.com/news/economists-agree-2026-oil-price-forecasts-lowered-as-strait-of-hormuz-shipping-improves-reuters-poll-202606301301",
+      "datum": "2026-06-30T13:01:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro stabilizes vs Yen amid softer German inflation, Japan intervention warnings",
+      "link": "https://www.fxstreet.com/news/euro-stabilizes-vs-yen-amid-softer-german-inflation-japan-intervention-warnings-202606301300",
+      "datum": "2026-06-30T13:00:39.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "US April CaseShiller 20-city house price index +1.1% y/y vs +0.9% expected",
       "link": "https://investinglive.com/news/us-april-caseshiller-20-city-house-price-index-11-yy-vs-09-expected-20260630/",
       "datum": "2026-06-30T13:00:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US JOLTS Job Openings set to show demand for workers remained resilient in May",
+      "link": "https://www.fxstreet.com/news/us-jolts-job-openings-expected-to-show-strong-labor-demand-endorsing-fed-rate-hike-bets-202606300900",
+      "datum": "2026-06-30T13:00:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -68,51 +104,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "JOLTS Job Openings expected to decline in May after April’s stellar surge",
-      "link": "https://www.fxstreet.com/news/us-jolts-job-openings-expected-to-show-strong-labor-demand-endorsing-fed-rate-hike-bets-202606300900",
-      "datum": "2026-06-30T12:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
       "titel": "Gold: Deep quarterly loss on Fed repricing – Commerzbank",
       "link": "https://www.fxstreet.com/news/gold-deep-quarterly-loss-on-fed-repricing-commerzbank-202606301150",
       "datum": "2026-06-30T11:50:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc weakens against US Dollar, eyes on US JOLTS Job Openings data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-against-us-dollar-eyes-on-us-jolts-job-openings-data-202606301149",
-      "datum": "2026-06-30T11:49:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD struggles around $4,000, near YTD lows",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-struggles-around-4-000-near-ytd-lows-202606301146",
-      "datum": "2026-06-30T11:46:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Momentum fading as data and Warsh loom – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-momentum-fading-as-data-and-warsh-loom-ing-202606301136",
-      "datum": "2026-06-30T11:36:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar steadies as hawkish RBA minutes meet firm US Dollar ahead of labor data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-as-hawkish-rba-minutes-meet-firm-us-dollar-ahead-of-labor-data-202606301135",
-      "datum": "2026-06-30T11:35:37.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "investingLive European FX news wrap: Inflation eases in the largest Eurozone economies",
       "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-inflation-eases-in-the-largest-eurozone-economies-20260630/",
       "datum": "2026-06-30T11:28:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold steadies after sliding to fresh seven-month low, Fed rate-hike bets weigh",
-      "link": "https://www.fxstreet.com/news/gold-steadies-after-sliding-to-fresh-seven-month-low-fed-rate-hike-bets-weigh-202606301126",
-      "datum": "2026-06-30T11:26:14.000Z"
     }
   ]
 }

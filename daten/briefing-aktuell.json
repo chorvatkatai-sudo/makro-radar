@@ -3,20 +3,20 @@
   "typ": "freitag",
   "titel": "Heißer PCE bestätigt die Falken-Fed — der Dollar bleibt König, macht aber vor dem großen Arbeitsmarkt-Bericht (Do) eine Verschnaufpause",
   "tagesnews": {
-    "stand": "2026-06-29",
-    "wochentag": "Montag",
-    "tenor": "Ruhiger Wochenauftakt mit leicht weichem Dollar: Der Dollar-Index ist auf ~101,3 zurückgekommen (zweiter Verlusttag in Folge nach dem „erwartet heißen“ PCE), die harte Falken-Fed steht aber unverändert. Heute kaum Daten — die ganze Woche zielt auf den vorgezogenen US-Jobbericht am DONNERSTAG (2.7.), Freitag ist USA-Feiertag.",
+    "stand": "2026-06-30",
+    "wochentag": "Dienstag",
+    "tenor": "Quartals-Schlusstag mit weiter weichem Dollar (Index ~101,25, dritter zaher Tag) und – neu – ZURÜCKKEHRENDER Risikofreude: Das Angst-Barometer VIX ist auf 17,7 gefallen (−9% auf die Woche), die Anleger trauen sich wieder. Heute ein voller Datentag (Kanada-BIP, US-Verbrauchervertrauen, deutsche Vorab-Inflation, Japan-Tankan) – aber alles nur Vorgeplänkel zum vorgezogenen US-Jobbericht am DONNERSTAG (2.7.).",
     "heute": [
-      "🇺🇸 Dollar startet leicht schwächer in die Woche: Der Dollar-Index notiert ~101,3 (−0,03%), der zweite Tag mit kleinen Verlusten in Folge. Treiber ist keine neue Schwäche, sondern Gewinnmitnahmen zum Quartals-/Halbjahresende (30.6.) — große Fonds schichten um, das kann heute für ruckartige Kurse sorgen. EUR/USD liegt entsprechend etwas höher bei ~1,143.",
-      "🇩🇪 Heute Nachmittag tröpfeln die ersten deutschen Inflationszahlen (Bundesländer) herein — die Vorprobe für die Eurozone-Inflation morgen. Zur Erinnerung: Deutschland lag im Mai bei 2,6% im Jahr, die Eurozone bei heißen 3,2% (höchster Stand seit Sept 2023, vor allem wegen der teuren Energie aus dem Nahost-Konflikt).",
-      "🎯 Worauf die Woche hinausläuft: Mo ruhig → Di 30.6. Eurozone-Inflation + Japan-Tankan (großer Industrie-Stimmungsbericht, Yen-relevant) + Kanada-BIP + US-Verbrauchervertrauen → Mi 1.7. US-ISM-Industrie + JOLTS → Do 2.7. der vorgezogene US-Arbeitsmarktbericht (NFP, Konsens ~+172.000) = DAS Großereignis. Das Risiko ist nach unten etwas größer, weil die Dollar-Rally schon gut gelaufen ist — ein schwacher NFP könnte den zweiten Verlusttag zum Trendbruch ausweiten."
+      "🇨🇦 14:30 Uhr Kanada-BIP (Monat): Das ist heute der härteste Datenpunkt. Kanadas Wirtschaft tritt seit Monaten auf der Stelle (zuletzt 0,0% im Quartal). Ein schwacher Wert + das billige Öl (WTI nur ~70$) drücken den Loonie weiter – ein überraschend starker Wert wäre die erste echte Stütze für den kanadischen Dollar seit Wochen.",
+      "🇺🇸 16:00 Uhr US-Verbrauchervertrauen + JOLTS (offene Stellen): Beides sind Aufwärmübungen für den Jobbericht am Donnerstag. Vor allem JOLTS ist interessant – sinken die offenen Stellen, ist das ein erstes Warnsignal, dass der US-Jobmotor stottert (schlecht für den Dollar). FRED trägt den US-Ist-Wert automatisch nach, sobald er da ist.",
+      "🇩🇪 Heute Nachmittag die deutschen Vorab-Inflationszahlen – die Vorprobe für die große Eurozone-Inflation MORGEN (Mi, Konsens 3,0% Schlagzeile / 2,5% Kern). Deutschland lag im Mai bei 2,6% im Jahr. Heißt die Zahl heiß, hält das die EZB hart und stützt den Euro etwas.",
+      "🇯🇵 Heute früh der Japan-Tankan (großer Industrie-Stimmungsbericht): erwartet wird ein leichter Rückgang bei den Großindustriellen (auf ~+15 von +17), weil die teure Energie aus dem Nahost-Konflikt auf die Kosten drückt. Solange die Stimmung aber robust bleibt, stützt das den Kurs der BOJ, weiter zu erhöhen – Rückenwind für den Yen, der bei ~161,7 weiter am Interventionsrisiko klebt."
     ],
     "gestern": [
-      "🇺🇸 Freitags-Rückblick: Der Dollar gab zum Wochenschluss zwei Tage in Folge nach (Index ~101,1–101,3), hielt über die Gesamtwoche aber ein kleines Plus. Markt-Wetten: September-Erhöhung der Fed ~62%, eine Erhöhung bis Dezember sogar ~80% eingepreist — die Falken-Linie steht, nur der kurzfristige Schwung fehlt nach dem PCE.",
-      "🇺🇸 Wochen-Highlight war Donnerstag (25.6.): Der US-PCE (Mai), der Lieblings-Inflationswert der Fed, kam HEISS, aber wie erwartet — Kern-PCE 3,4% im Jahr (höchster seit Okt 2023), Schlagzeile 4,1%, monatlich +0,4%. Eine Zins-Senkung 2026 ist damit endgültig vom Tisch. Weil der Wert nur bestätigte statt zu überraschen, pausierte der Dollar danach (Lehre: „bestätigt ≠ überrascht“).",
-      "🇯🇵 USD/JPY klebt bei ~161–162, dem schwächsten Yen seit 1986 — nur die ständige Interventionsdrohung des japanischen Finanzministeriums (zuletzt Rekord-Eingriffe Ende April/Mai, deren Wirkung längst verpufft ist) deckelt das Paar. Finanzministerin Katayama hat sich mit US-Finanzminister Bessent abgestimmt. Das Abwärtsrisiko bleibt asymmetrisch; der Tankan am Dienstag ist der nächste Yen-Impuls.",
-      "🇦🇺 Der Aussie bleibt der relative Gewinner: starker Arbeitsmarkt (+40.300 Jobs) plus heißer Kern-Inflationswert (Trimmed Mean 3,6%) halten die RBA hart — er wehrt sich am tapfersten gegen den starken Dollar.",
-      "💶 EUR/USD hat sich von den Wochentiefs (~1,136) bis ~1,143 erholt — reine Gegenbewegung wegen der Dollar-Pause, nicht aus eigener Euro-Stärke. Der echte Test für den Euro kommt Dienstag mit der Eurozone-Inflation."
+      "🇺🇸 Montag: Ruhiger Wochenauftakt, der Dollar gab den dritten zähen Tag leicht nach (Index von ~101,4 auf ~101,25). Kein neuer Schwächetreiber, sondern Gewinnmitnahmen + Umschichtungen zum Quartals-/Halbjahresende. EUR/USD kletterte entsprechend auf ~1,139, USD/JPY rutschte leicht auf ~161,7.",
+      "😌 Stimmungswechsel an den Märkten: Das Angst-Barometer VIX ist auf 17,7 gesunken (−9% auf die Woche) – nach dem unterschriebenen Iran-Deal und ohne neue Schocks kehrt die Risikofreude zurück. Das ist wichtig fürs Scoring: Es nimmt den ‚sicheren Häfen‘ Franken und Yen etwas Rückenwind und hilft im Gegenzug den Risiko-Währungen Aussie und Kiwi.",
+      "🇺🇸 Die große Linie steht unverändert: Der heiße PCE von letztem Donnerstag (Kern 3,4% im Jahr, höchster seit Okt 2023) hat die Falken-Fed bestätigt – eine Zins-Senkung 2026 ist vom Tisch, eine September-Erhöhung ist zu ~62% eingepreist. Nur der kurzfristige Schwung fehlt, weil der Wert bestätigte statt zu überraschen ('bestätigt ≠ überrascht').",
+      "🛢️ Öl bleibt billig (WTI ~70$, −4% auf die Woche) und Gold gab nach (~4030$). Das drückt mittelfristig die Inflation – die Fed schaut aber bewusst noch drüber hinweg. Für den kanadischen Dollar bleibt das billige Öl ein Klotz am Bein."
     ]
   },
   "lage": [
@@ -31,8 +31,8 @@
   "waehrungen": {
     "USD": {
       "stimmung": "bullisch",
-      "score": 38,
-      "grund": "Dollar bleibt König (Index ~101,5, nahe 13-Monats-Hoch) — der heiße PCE (Kern 3,4%, höchster seit Okt 2023) hat die Falken-Fed bestätigt und die Realzinsen hoch gehalten (10J real ~2,2%). ABER der Score sinkt gegenüber letzter Woche (von 46), weil der PCE nur bestätigt statt überrascht hat: Die September-Erhöhungswette fiel von 68% auf 63%, die Renditen geben leicht nach, und vor dem großen Arbeitsmarkt-Bericht (Do) mit nur noch erwarteten +130k Jobs steigt das Rückschlagrisiko der bereits gut gelaufenen Dollar-Rally."
+      "score": 36,
+      "grund": "Dollar bleibt König (Index ~101,25, nahe 13-Monats-Hoch) — der heiße PCE (Kern 3,4%, höchster seit Okt 2023) hat die Falken-Fed bestätigt und die Realzinsen hoch gehalten (10J real ~2,2%). ABER der Score sinkt leicht weiter (von 38), weil der Index jetzt den DRITTEN zähen Tag nachgibt und vor dem vorgezogenen Arbeitsmarkt-Bericht (Do) mit nur erwarteten +130k Jobs das Rückschlagrisiko der gut gelaufenen Rally steigt. September-Erhöhung weiter ~62% eingepreist — die Falken-Linie steht, nur der Schwung fehlt."
     },
     "EUR": {
       "stimmung": "bärisch",
@@ -51,8 +51,8 @@
     },
     "CHF": {
       "stimmung": "bärisch",
-      "score": -16,
-      "grund": "SNB bleibt bei 0% — null Zinsvorteil, und mit dem unterschriebenen Iran-Deal ist die Nachfrage nach dem 'sicheren Hafen' Franken gesunken. ABER etwas weniger bärisch: Der VIX (Angst-Barometer) ist diese Woche um 15% gestiegen — etwas Krisen-Nervosität gibt dem Franken einen kleinen Hafen-Bonus zurück."
+      "score": -18,
+      "grund": "SNB bleibt bei 0% — null Zinsvorteil. Etwas bärischer als gestern (von −16): Das Angst-Barometer VIX ist auf 17,7 GESUNKEN (−9% auf die Woche, Risikofreude kehrt zurück) — damit fällt der Hafen-Bonus weg, den der Franken letzte Woche bei höherer Nervosität noch hatte. Ohne Krisenangst und ohne Zins bleibt der Franken eine der schwächeren Währungen."
     },
     "CAD": {
       "stimmung": "bärisch",
@@ -61,50 +61,50 @@
     },
     "AUD": {
       "stimmung": "neutral",
-      "score": 2,
-      "grund": "Der relative Gewinner: starker Arbeitsmarkt (+40.300 Jobs) + heißer Kern (Trimmed Mean 3,6%, höchster seit Sept 2024) halten die RBA hart und machen den Aussie zur widerstandsfähigsten Risiko-Währung. Knapp positiv (von −3 hoch), weil die Dollar-Rally an Schwung verliert. Gegenwind: der gestiegene VIX (Risk-off) deckelt risikoreiche Währungen, COT zeigt den Aussie fast neutral positioniert."
+      "score": 4,
+      "grund": "Der relative Gewinner: starker Arbeitsmarkt (+40.300 Jobs) + heißer Kern (Trimmed Mean 3,6%, höchster seit Sept 2024) halten die RBA hart und machen den Aussie zur widerstandsfähigsten Risiko-Währung. Etwas höher (von +2): Das Angst-Barometer VIX ist gefallen (17,7, Risikofreude zurück) — das gibt der Risiko-Währung Aussie Rückenwind, und die Dollar-Rally verliert weiter Schwung. COT zeigt den Aussie fast neutral positioniert (kein Crowding)."
     },
     "NZD": {
       "stimmung": "bärisch",
-      "score": -22,
-      "grund": "Niedriger Zins (2,25%), BIP zuletzt knapp verfehlt, keine eigene Story gegen den Dollar — und der gestiegene VIX (Risk-off) trifft den Kiwi als Risiko-Währung zusätzlich. Er gehört zu den Schwächsten. Einziger Trost: die COT-Short-Position ist extrem gedehnt (Anteil −33%, erhöht) — ein Squeeze-Risiko, falls der Dollar dreht."
+      "score": -20,
+      "grund": "Niedriger Zins (2,25%), BIP zuletzt knapp verfehlt, keine eigene Story gegen den Dollar — er gehört zu den Schwächsten. Etwas weniger bärisch als gestern (von −22): Das Angst-Barometer VIX ist gefallen (Risikofreude zurück), das hilft dem Kiwi als Risiko-Währung ein Stück. Dazu ist die COT-Short-Position EXTREM gedehnt (Anteil −53%, z-Score −2,1 = ‚extrem‘) — hohes Squeeze-Risiko, falls der Dollar dreht."
     }
   },
   "paare": [
     {
       "paar": "USD/CAD",
-      "score": 24,
-      "treiber": "Bleibt aufwärts geneigt: starker Dollar trifft auf billiges Öl (WTI ~71$, −7%) und einen Loonie, dem die heiße Schlagzeilen-Inflation kaum half (Kern am Ziel, BOC schaut drüber hinweg). Etwas gedeckelt (von 30), weil die Dollar-Rally an Schwung verliert — der große Test ist Kanadas BIP (Di) und der US-Jobbericht (Do)."
+      "score": 22,
+      "treiber": "Bleibt aufwärts geneigt: weiterhin fester Dollar trifft auf billiges Öl (WTI ~70$) und einen Loonie ohne eigene Stütze. Leicht gedeckelt (von 24), weil der Dollar den dritten Tag nachgibt — HEUTE der direkte Test mit Kanadas BIP (14:30), der eigentliche Showdown ist der US-Jobbericht am Donnerstag."
     },
     {
       "paar": "USD/CHF",
-      "score": 16,
-      "treiber": "Dollar oben (hoher Realzins), Franken ohne Zins. Aber gedämpfter als letzte Woche (von 24): Der gestiegene VIX gibt dem Franken einen kleinen Hafen-Bonus zurück, und der Dollar pausiert nach dem PCE. Tendenz weiter leicht aufwärts."
+      "score": 18,
+      "treiber": "Etwas fester (von 16): Dollar oben (hoher Realzins), Franken ohne Zins UND ohne Hafen-Bonus — der VIX ist gefallen (Risikofreude zurück), die Krisennachfrage nach dem Franken lässt nach. Gegenkraft bleibt nur der generell weiche Dollar vor dem Jobbericht. Tendenz leicht aufwärts."
     },
     {
       "paar": "EUR/USD",
-      "score": -20,
-      "treiber": "Zinsabstand und schwache PMIs sprechen weiter gegen den Euro (steht nahe 1,136). Aber weniger bärisch als zuletzt (von −30): heiße Euro-Inflation hält die EZB hawkish, Spekulanten bauen Euro-Longs auf (COT +34k), und der Dollar verliert kurz an Schwung. Die Euro-Inflation am Dienstag ist der Schlüssel."
+      "score": -18,
+      "treiber": "Zinsabstand und schwache PMIs sprechen weiter gegen den Euro (steht ~1,139). Aber weniger bärisch (von −20): der Dollar gibt den dritten Tag nach, die heiße Euro-Inflation hält die EZB hawkish, und Spekulanten halten Euro-Longs (COT +30k). Der Schlüssel ist die Eurozone-Schnellschätzung MORGEN (Mi, Konsens 3,0%/Kern 2,5%) — heißer = Euro-Stütze."
     },
     {
       "paar": "NZD/USD",
-      "score": -22,
-      "treiber": "Schwächste Story: niedriger NZ-Zins, verfehltes BIP, und der gestiegene VIX (Risk-off) trifft den Kiwi als Risiko-Währung doppelt. Gegenwind nur durch die extrem gedehnte COT-Short-Position (Squeeze-Gefahr bei Dollar-Dreher)."
+      "score": -18,
+      "treiber": "Schwache Story: niedriger NZ-Zins, verfehltes BIP. Aber weniger bärisch (von −22): der gefallene VIX (Risikofreude zurück) hilft dem Kiwi als Risiko-Währung, und der Dollar gibt nach. Dazu ist die COT-Short EXTREM gedehnt (Anteil −53%, z-Score −2,1) — hohe Squeeze-Gefahr, falls der Dollar dreht."
     },
     {
       "paar": "GBP/USD",
-      "score": -18,
-      "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß 3,7%), gegen den starken Dollar überwiegt die Schwäche, dazu die Stagflations-Sorge. Track-Record dieses Paars war früh gut, aber die Stichprobe ist noch dünn."
+      "score": -16,
+      "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß 3,7%), gegen den Dollar überwiegt die Schwäche, dazu die Stagflations-Sorge. Etwas weniger bärisch (von −18), weil der Dollar nachgibt. ACHTUNG: COT-Short ist extrem gedehnt (z-Score −2,3 = ‚extrem‘) — Rückschlagrisiko. Dieses Paar hat bisher den besten Track-Record (2/2), Stichprobe aber noch dünn."
     },
     {
       "paar": "USD/JPY",
-      "score": 10,
-      "treiber": "Trend noch leicht bullish (starker Dollar), ABER deutlich gedeckelt (von 14): Tokios Inflation festigt sich (stützt die BOJ), die US-Renditen geben nach, und bei ~161–162 wächst das INTERVENTIONSRISIKO — Japans Finanzministerium kann das Paar in Minuten brutal nach unten reißen. Asymmetrisches Risiko nach unten."
+      "score": 8,
+      "treiber": "Trend noch leicht bullish (fester Dollar), ABER stark gedeckelt (von 10): Tokios Inflation festigt sich, der Tankan heute testet die BOJ-Stütze, die US-Renditen geben nach, und bei ~161,7 (schwächster Yen seit 1986) ist das INTERVENTIONSRISIKO sehr hoch — Japans Finanzministerium kann das Paar in Minuten brutal nach unten reißen. Risiko klar asymmetrisch nach unten; eigener Track-Record bisher 0/2 (Vorsicht)."
     },
     {
       "paar": "AUD/USD",
-      "score": -2,
-      "treiber": "Fast ausgeglichen: Der Aussie ist der relative Gewinner (starke Jobs +40.300, heißer Kern 3,6%, RBA bleibt hart) und die Dollar-Rally verliert Schwung — beides hebt das Paar fast auf neutral. Gegenwind nur durch den gestiegenen VIX (Risk-off). Track-Record dieses Paars noch dünn."
+      "score": 2,
+      "treiber": "Knapp ins Plus gedreht (von −2): Der Aussie ist der relative Gewinner (starke Jobs +40.300, heißer Kern 3,6%, RBA bleibt hart), der gefallene VIX (Risikofreude zurück) gibt der Risiko-Währung jetzt Rückenwind statt Gegenwind, und der Dollar gibt nach. Track-Record noch dünn (1/2)."
     }
   ],
   "wochenausblick": {

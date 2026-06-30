@@ -580,7 +580,7 @@
     "country": "USD",
     "date": "2026-07-01T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "-3.4M",
+    "forecast": "-2.9M",
     "previous": "-6.1M"
   },
   {
@@ -716,7 +716,7 @@
     "country": "USD",
     "date": "2026-07-02T08:30:00-04:00",
     "impact": "High",
-    "forecast": "110K",
+    "forecast": "114K",
     "previous": "172K"
   },
   {
@@ -756,7 +756,7 @@
     "country": "USD",
     "date": "2026-07-02T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "81B",
     "previous": "76B"
   },
   {

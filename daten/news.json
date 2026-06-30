@@ -1,11 +1,71 @@
 {
-  "stand": "2026-06-30T17:01:21.010Z",
+  "stand": "2026-06-30T21:23:20.709Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US VP Vance says ready to drop bombs on Iran again",
+      "link": "https://investinglive.com/news/us-vp-vance-says-ready-to-drop-bombs-on-iran-again-20260630/",
+      "datum": "2026-06-30T20:21:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Range trade persists, downside risk intact against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-downside-risk-intact-against-us-dollar-uob-202606302015",
+      "datum": "2026-06-30T20:15:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar neutral as Fed rate hike bets stay alive",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-neutral-as-fed-rate-hike-bets-stay-alive-202606302011",
+      "datum": "2026-06-30T20:11:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: JOLTS boosts optimism on jobs",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-jolts-boosts-optimism-on-jobs-20260630/",
+      "datum": "2026-06-30T20:05:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canadian GDP off to a strong start in Q2 but trade uncertainty continues - RBC",
+      "link": "https://investinglive.com/news/canadian-gdp-off-to-a-strong-start-in-q2-but-trade-uncertainty-continues-rbc-20260630/",
+      "datum": "2026-06-30T19:22:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rises above $4,000 yet poised for an 11% monthly loss",
+      "link": "https://www.fxstreet.com/news/gold-rises-above-4-000-yet-poised-for-an-11-monthly-loss-202606301910",
+      "datum": "2026-06-30T19:10:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: US Dollar holds key support, bulls eye YTD high",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-hold-key-support-bulls-eye-ytd-high-202606301910",
+      "datum": "2026-06-30T19:10:45.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran's Ghalibaf: We won't enter any more negotiations until MOU conditions are met",
+      "link": "https://investinglive.com/news/irans-ghalibaf-we-wont-enter-any-more-negotiations-until-mou-conditions-are-met-20260630/",
+      "datum": "2026-06-30T18:51:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Recovery faces resistance at 0.5700",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-recovery-faces-resistance-at-05700-202606301819",
+      "datum": "2026-06-30T18:19:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "BoE’s Bailey: “We have time to judge the pass-through of higher energy prices”",
+      "link": "https://www.fxstreet.com/news/boes-bailey-we-have-time-to-judge-the-pass-through-of-higher-energy-prices-202606301812",
+      "datum": "2026-06-30T18:12:25.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Australian Dollar advances as hawkish RBA Minutes meet firmer US confidence data",
@@ -43,76 +103,16 @@
       "datum": "2026-06-30T15:19:58.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Canada: GDP data signal firmer second quarter – RBC",
-      "link": "https://www.fxstreet.com/news/canada-gdp-data-signal-firmer-second-quarter-rbc-202606301519",
-      "datum": "2026-06-30T15:19:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Hammack: “Inflation is still too high, Fed may need to consider rate hikes”",
-      "link": "https://www.fxstreet.com/news/feds-hammack-inflation-is-still-too-high-fed-may-need-to-consider-rate-hikes-202606301512",
-      "datum": "2026-06-30T15:12:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Labor stability tempers Fed hike risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-labor-stability-tempers-fed-hike-risks-td-securities-202606301507",
-      "datum": "2026-06-30T15:07:08.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Supreme Court justice Samuel Alito is retiring - (Update NPR retracts the story)",
       "link": "https://investinglive.com/news/us-supreme-court-justice-samuel-alito-is-retiring-20260630/",
       "datum": "2026-06-30T15:01:09.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Hawkish bias sustained with one more hike – ING",
-      "link": "https://www.fxstreet.com/news/european-central-bank-hawkish-bias-sustained-with-one-more-hike-ing-202606301452",
-      "datum": "2026-06-30T14:52:18.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Supreme Court upholds birthright citizenship, striking down Trump order",
       "link": "https://investinglive.com/news/us-supreme-court-upholds-birthright-citizenship-striking-down-trump-order-20260630/",
       "datum": "2026-06-30T14:43:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Resistance at 1.1450 caps upside against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-resistance-at-11450-caps-upside-against-us-dollar-scotiabank-202606301441",
-      "datum": "2026-06-30T14:41:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Oman proposes a fee plan for the Strait of Hormuz -- report",
-      "link": "https://investinglive.com/news/oman-proposes-a-fee-plan-for-the-strait-of-hormuz-report-20260630/",
-      "datum": "2026-06-30T14:33:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Norwegian Krone: Supported against Euro as NOK flows increase – Nordea",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-supported-against-euro-as-nok-flows-increase-nordea-202606301420",
-      "datum": "2026-06-30T14:20:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "OpenAI discovers way to cut inference costs in half - report",
-      "link": "https://investinglive.com/news/openai-discovers-way-to-cut-inference-costs-in-half-report-20260630/",
-      "datum": "2026-06-30T14:17:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "JOLTs job openings 7.594M vs 7.300M estimate",
-      "link": "https://investinglive.com/news/jolts-job-openings-7594m-vs-7300m-estimate-20260630/",
-      "datum": "2026-06-30T14:02:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US June consumer confidence 91.2 vs 94.8 expected",
-      "link": "https://investinglive.com/news/us-june-consumer-confidence-912-vs-948-expected-20260630/",
-      "datum": "2026-06-30T14:00:18.000Z"
     }
   ]
 }

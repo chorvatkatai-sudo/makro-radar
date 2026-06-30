@@ -10,6 +10,15 @@ on:
   schedule:
     - cron: '0 4,12 * * *'      # taeglicher Voll-Refresh VOR den Routinen (05:00 / 13:00 UTC)
     - cron: '0 6-21 * * 1-5'    # stuendlich werktags 06-21 UTC: zeitnahe Event-Erkennung
+  # Sofort feuern, sobald die Morgen-/Freitags-Routine das Briefing pusht: macht den
+  # Telegram-Tagesueberblick verlaesslich (~07:05 Wien), statt auf den GitHub-Cron zu
+  # warten (der einzelne Slots oft 50+ min verspaetet oder ganz verwirft -> 30.6. kam
+  # der Ueberblick erst 09:50 Wien). fetch-kalender.mjs schreibt briefing-aktuell.json
+  # NICHT (nur Lesen), und GITHUB_TOKEN-Commits triggern keine Workflows -> kein Loop.
+  push:
+    branches: [main]
+    paths:
+      - 'daten/briefing-aktuell.json'
   workflow_dispatch: {}
 
 permissions:

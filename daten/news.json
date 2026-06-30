@@ -1,11 +1,29 @@
 {
-  "stand": "2026-06-30T13:45:34.306Z",
+  "stand": "2026-06-30T14:02:19.552Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "JOLTs job openings 7.594M vs 7.300M estimate",
+      "link": "https://investinglive.com/news/jolts-job-openings-7594m-vs-7300m-estimate-20260630/",
+      "datum": "2026-06-30T14:02:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US June consumer confidence 91.2 vs 94.8 expected",
+      "link": "https://investinglive.com/news/us-june-consumer-confidence-912-vs-948-expected-20260630/",
+      "datum": "2026-06-30T14:00:18.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+      "datum": "2026-06-30T14:00:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold steadies after sliding to fresh seven-month low, Fed rate-hike bets weigh",
@@ -95,24 +113,6 @@
       "titel": "Germany annual CPI inflation softens to 2.3% in June vs. 2.5% expected",
       "link": "https://www.fxstreet.com/news/germany-annual-cpi-inflation-softens-to-23-in-june-vs-25-expected-202606301204",
       "datum": "2026-06-30T12:04:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany June preliminary CPI +2.3% vs +2.6% y/y expected",
-      "link": "https://investinglive.com/news/germany-june-preliminary-cpi-23-vs-26-yy-expected-20260630/",
-      "datum": "2026-06-30T12:00:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Deep quarterly loss on Fed repricing – Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-deep-quarterly-loss-on-fed-repricing-commerzbank-202606301150",
-      "datum": "2026-06-30T11:50:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European FX news wrap: Inflation eases in the largest Eurozone economies",
-      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-inflation-eases-in-the-largest-eurozone-economies-20260630/",
-      "datum": "2026-06-30T11:28:10.000Z"
     }
   ]
 }

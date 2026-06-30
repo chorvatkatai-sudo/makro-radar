@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-30T13:45:34.307Z",
+ "erstellt": "2026-06-30T14:02:19.553Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -1491,7 +1491,7 @@ window.MAKRO_DATA = {
    "title": "Redbook YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "10.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3006,13 +3006,13 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-06-30T13:45:33.802Z",
+  "stand": "2026-06-30T14:02:18.914Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.33,
+    "wert": 101.32,
     "tagProzent": 0,
     "wocheProzent": -0.28,
     "renditeDelta": false,
@@ -3038,16 +3038,16 @@ window.MAKRO_DATA = {
      101.36,
      101.11,
      101.32,
-     101.33
+     101.32
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 17.69,
+    "wert": 17.44,
     "tagProzent": 0,
-    "wocheProzent": -5.05,
+    "wocheProzent": -6.39,
     "renditeDelta": false,
     "verlauf": [
      16.05,
@@ -3070,17 +3070,17 @@ window.MAKRO_DATA = {
      18.89,
      18.41,
      17.65,
-     17.69,
-     17.69
+     17.44,
+     17.44
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 70.94,
+    "wert": 70.77,
     "tagProzent": 0,
-    "wocheProzent": 0.85,
+    "wocheProzent": 0.61,
     "renditeDelta": false,
     "verlauf": [
      92.16,
@@ -3103,17 +3103,17 @@ window.MAKRO_DATA = {
      71.92,
      69.23,
      70.75,
-     70.94,
-     70.94
+     70.77,
+     70.77
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 74.23,
+    "wert": 74.09,
     "tagProzent": 0,
-    "wocheProzent": 0.66,
+    "wocheProzent": 0.47,
     "renditeDelta": false,
     "verlauf": [
      94.98,
@@ -3136,17 +3136,17 @@ window.MAKRO_DATA = {
      75.26,
      71.99,
      73.15,
-     74.23,
-     74.23
+     74.09,
+     74.09
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4036.7,
+    "wert": 4043.5,
     "tagProzent": 0,
-    "wocheProzent": 1.16,
+    "wocheProzent": 1.33,
     "renditeDelta": false,
     "verlauf": [
      4475.2,
@@ -3169,8 +3169,8 @@ window.MAKRO_DATA = {
      4030.5,
      4078.7,
      4022.3,
-     4036.7,
-     4036.7
+     4043.5,
+     4043.5
     ]
    },
    "US02Y": {
@@ -3209,7 +3209,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.39,
+    "wert": 4.394,
     "tagProzent": 0,
     "wocheProzent": -0.1,
     "renditeDelta": true,
@@ -3233,15 +3233,15 @@ window.MAKRO_DATA = {
      4.402,
      4.392,
      4.372,
-     4.39,
-     4.39
+     4.394,
+     4.394
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.877,
+    "wert": 4.882,
     "tagProzent": 0,
     "wocheProzent": -0.06,
     "renditeDelta": true,
@@ -3265,17 +3265,17 @@ window.MAKRO_DATA = {
      4.856,
      4.858,
      4.864,
-     4.877,
-     4.877
+     4.882,
+     4.882
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 58434.77,
+    "wert": 58945.99,
     "tagProzent": 0,
-    "wocheProzent": -2.64,
+    "wocheProzent": -1.78,
     "renditeDelta": false,
     "verlauf": [
      61449.29,
@@ -3298,8 +3298,8 @@ window.MAKRO_DATA = {
      59940.1,
      59532.34,
      60138.38,
-     58434.77,
-     58434.77
+     58945.99,
+     58945.99
     ]
    },
    "REAL10": {
@@ -3539,13 +3539,31 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-06-30T13:45:34.306Z",
+  "stand": "2026-06-30T14:02:19.552Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "JOLTs job openings 7.594M vs 7.300M estimate",
+    "link": "https://investinglive.com/news/jolts-job-openings-7594m-vs-7300m-estimate-20260630/",
+    "datum": "2026-06-30T14:02:01.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US June consumer confidence 91.2 vs 94.8 expected",
+    "link": "https://investinglive.com/news/us-june-consumer-confidence-912-vs-948-expected-20260630/",
+    "datum": "2026-06-30T14:00:18.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+    "datum": "2026-06-30T14:00:00.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Gold steadies after sliding to fresh seven-month low, Fed rate-hike bets weigh",
@@ -3635,24 +3653,6 @@ window.MAKRO_DATA = {
     "titel": "Germany annual CPI inflation softens to 2.3% in June vs. 2.5% expected",
     "link": "https://www.fxstreet.com/news/germany-annual-cpi-inflation-softens-to-23-in-june-vs-25-expected-202606301204",
     "datum": "2026-06-30T12:04:17.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Germany June preliminary CPI +2.3% vs +2.6% y/y expected",
-    "link": "https://investinglive.com/news/germany-june-preliminary-cpi-23-vs-26-yy-expected-20260630/",
-    "datum": "2026-06-30T12:00:06.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold: Deep quarterly loss on Fed repricing – Commerzbank",
-    "link": "https://www.fxstreet.com/news/gold-deep-quarterly-loss-on-fed-repricing-commerzbank-202606301150",
-    "datum": "2026-06-30T11:50:43.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European FX news wrap: Inflation eases in the largest Eurozone economies",
-    "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-inflation-eases-in-the-largest-eurozone-economies-20260630/",
-    "datum": "2026-06-30T11:28:10.000Z"
    }
   ]
  },

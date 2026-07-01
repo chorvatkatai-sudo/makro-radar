@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-06-30T21:23:20.710Z",
+ "erstellt": "2026-07-01T05:06:40.532Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -2331,20 +2331,21 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Heißer PCE bestätigt die Falken-Fed — der Dollar bleibt König, macht aber vor dem großen Arbeitsmarkt-Bericht (Do) eine Verschnaufpause",
   "tagesnews": {
-   "stand": "2026-06-30",
-   "wochentag": "Dienstag",
-   "tenor": "Quartals-Schlusstag mit weiter weichem Dollar (Index ~101,25, dritter zaher Tag) und – neu – ZURÜCKKEHRENDER Risikofreude: Das Angst-Barometer VIX ist auf 17,7 gefallen (−9% auf die Woche), die Anleger trauen sich wieder. Heute ein voller Datentag (Kanada-BIP, US-Verbrauchervertrauen, deutsche Vorab-Inflation, Japan-Tankan) – aber alles nur Vorgeplänkel zum vorgezogenen US-Jobbericht am DONNERSTAG (2.7.).",
+   "stand": "2026-07-01",
+   "wochentag": "Mittwoch",
+   "tenor": "Vierter zaher Tag fuer den Dollar (Index ~101,2) bei zurueckgekehrter Risikofreude (VIX nur ~16,5, so ruhig wie lange nicht). Heute DER Inflations-Test in Europa: die Eurozone-Schnellschaetzung fuer Juni — und die Vorprobe aus Deutschland kam GESTERN ueberraschend KUEHL (2,3% statt 2,5%). Dazu die US-Industriestimmung (ISM). Alles bleibt aber nur Vorspiel zum vorgezogenen US-Jobbericht MORGEN (Do 2.7.).",
    "heute": [
-    "🇨🇦 14:30 Uhr Kanada-BIP (Monat): Das ist heute der härteste Datenpunkt. Kanadas Wirtschaft tritt seit Monaten auf der Stelle (zuletzt 0,0% im Quartal). Ein schwacher Wert + das billige Öl (WTI nur ~70$) drücken den Loonie weiter – ein überraschend starker Wert wäre die erste echte Stütze für den kanadischen Dollar seit Wochen.",
-    "🇺🇸 16:00 Uhr US-Verbrauchervertrauen + JOLTS (offene Stellen): Beides sind Aufwärmübungen für den Jobbericht am Donnerstag. Vor allem JOLTS ist interessant – sinken die offenen Stellen, ist das ein erstes Warnsignal, dass der US-Jobmotor stottert (schlecht für den Dollar). FRED trägt den US-Ist-Wert automatisch nach, sobald er da ist.",
-    "🇩🇪 Heute Nachmittag die deutschen Vorab-Inflationszahlen – die Vorprobe für die große Eurozone-Inflation MORGEN (Mi, Konsens 3,0% Schlagzeile / 2,5% Kern). Deutschland lag im Mai bei 2,6% im Jahr. Heißt die Zahl heiß, hält das die EZB hart und stützt den Euro etwas.",
-    "🇯🇵 Heute früh der Japan-Tankan (großer Industrie-Stimmungsbericht): erwartet wird ein leichter Rückgang bei den Großindustriellen (auf ~+15 von +17), weil die teure Energie aus dem Nahost-Konflikt auf die Kosten drückt. Solange die Stimmung aber robust bleibt, stützt das den Kurs der BOJ, weiter zu erhöhen – Rückenwind für den Yen, der bei ~161,7 weiter am Interventionsrisiko klebt."
+    "🇪🇺 Heute Vormittag die Eurozone-Inflation (Schnellschaetzung Juni): erwartet 3,0% Schlagzeile / 2,5% Kern. ACHTUNG: Deutschland — der groesste Brocken — kam gestern KUEHLER als gedacht (2,3% statt 2,5%). Faellt auch die Eurozonen-Zahl unter die Erwartung, nimmt das der EZB etwas Harte-Hand-Argument und drueckt den Euro. Kommt sie doch heiss, stuetzt es ihn. Das ist heute der wichtigste Datenpunkt fuer EUR/USD (~1,14).",
+    "🇺🇸 16:00 Uhr US-ISM-Industrie (Stimmung der Einkaufsmanager): Die Konkurrenzumfrage von S&P Global war zuletzt stark (55,7, hoechster seit 2022). Bleibt die Industrie robust, ist das ein Argument fuer den Dollar — schwaechelt sie, waere es ein erstes Warnsignal vor dem Jobbericht morgen.",
+    "🇺🇸 Der Blick ist voll auf MORGEN gerichtet: Der US-Arbeitsmarktbericht (NFP) wurde wegen des Feiertags am Freitag auf DONNERSTAG vorgezogen (14:30 Wien). Erwartet werden nur +130.000 Jobs. Nach der gut gelaufenen Dollar-Rally ist das Rueckschlagrisiko asymmetrisch nach unten: ein schwacher Wert koennte den Dollar spuerbar druecken.",
+    "🇯🇵 Der Yen bleibt das Sorgenkind: USD/JPY steht bei ~162,7 — der schwaechste Yen seit ueber 40 Jahren. Das Interventionsrisiko ist gluehend heiss; Japans Finanzministerium kann das Paar jederzeit brutal nach unten reissen."
    ],
    "gestern": [
-    "🇺🇸 Montag: Ruhiger Wochenauftakt, der Dollar gab den dritten zähen Tag leicht nach (Index von ~101,4 auf ~101,25). Kein neuer Schwächetreiber, sondern Gewinnmitnahmen + Umschichtungen zum Quartals-/Halbjahresende. EUR/USD kletterte entsprechend auf ~1,139, USD/JPY rutschte leicht auf ~161,7.",
-    "😌 Stimmungswechsel an den Märkten: Das Angst-Barometer VIX ist auf 17,7 gesunken (−9% auf die Woche) – nach dem unterschriebenen Iran-Deal und ohne neue Schocks kehrt die Risikofreude zurück. Das ist wichtig fürs Scoring: Es nimmt den ‚sicheren Häfen‘ Franken und Yen etwas Rückenwind und hilft im Gegenzug den Risiko-Währungen Aussie und Kiwi.",
-    "🇺🇸 Die große Linie steht unverändert: Der heiße PCE von letztem Donnerstag (Kern 3,4% im Jahr, höchster seit Okt 2023) hat die Falken-Fed bestätigt – eine Zins-Senkung 2026 ist vom Tisch, eine September-Erhöhung ist zu ~62% eingepreist. Nur der kurzfristige Schwung fehlt, weil der Wert bestätigte statt zu überraschen ('bestätigt ≠ überrascht').",
-    "🛢️ Öl bleibt billig (WTI ~70$, −4% auf die Woche) und Gold gab nach (~4030$). Das drückt mittelfristig die Inflation – die Fed schaut aber bewusst noch drüber hinweg. Für den kanadischen Dollar bleibt das billige Öl ein Klotz am Bein."
+    "🇩🇪 Deutsche Inflation KUEHLER als erwartet: nur 2,3% im Jahr (erwartet 2,5%, im Mai noch 2,6%), auf den Monat sogar −0,3%. Das ist die entscheidende Vorprobe fuer die Eurozonen-Zahl heute — und sie deutet nach UNTEN. Leicht euro-negativ, weil es der EZB Argumente fuer eine harte Linie nimmt.",
+    "🇯🇵 Japan-Tankan (grosse Industrie-Stimmung) STARK: auf 22 gesprungen (erwartet nur 16, vorher 17) — bester Wert seit 2018. Das festigt die BOJ-Linie, weiter zu erhoehen, und stuetzt den Yen strukturell — auch wenn der Kurs bei 162+ wegen des Carry-Handels vorerst schwach bleibt.",
+    "🇨🇦 Kanada-BIP erholt: +0,5% im April (staerkstes Plus seit Juli 2025, Mai-Schaetzung +0,1%) — die Wirtschaft steckt NICHT in der Rezession. Erste echte Stuetze fuer den Loonie seit Wochen, auch wenn das billige Oel (WTI ~70$) ein Klotz am Bein bleibt.",
+    "🇺🇸 US-Daten solide: Verbrauchervertrauen (Conference Board) leicht hoeher auf 91,2, offene Stellen (JOLTS) robust bei ~7,6 Mio. Der US-Jobmotor laeuft also weiter — aber der Dollar gab trotzdem den vierten zahen Tag leicht nach (Quartalsende-Umschichtungen, Risikofreude zurueck).",
+    "😌 Ruhe an den Maerkten: Das Angst-Barometer VIX ist auf ~16,5 gefallen (−12% auf die Woche) — so entspannt wie lange nicht. Das nimmt den 'sicheren Haefen' Franken und Yen Rueckenwind und hilft den Risiko-Waehrungen Aussie und Kiwi."
    ]
   },
   "lage": [
@@ -2359,13 +2360,13 @@ window.MAKRO_DATA = {
   "waehrungen": {
    "USD": {
     "stimmung": "bullisch",
-    "score": 36,
-    "grund": "Dollar bleibt König (Index ~101,25, nahe 13-Monats-Hoch) — der heiße PCE (Kern 3,4%, höchster seit Okt 2023) hat die Falken-Fed bestätigt und die Realzinsen hoch gehalten (10J real ~2,2%). ABER der Score sinkt leicht weiter (von 38), weil der Index jetzt den DRITTEN zähen Tag nachgibt und vor dem vorgezogenen Arbeitsmarkt-Bericht (Do) mit nur erwarteten +130k Jobs das Rückschlagrisiko der gut gelaufenen Rally steigt. September-Erhöhung weiter ~62% eingepreist — die Falken-Linie steht, nur der Schwung fehlt."
+    "score": 34,
+    "grund": "Dollar bleibt vorn (Index ~101,2, nahe 13-Monats-Hoch) — der heisse PCE (Kern 3,4%) haelt die Falken-Fed und die Realzinsen hoch (10J real ~2,2%). ABER der Score sinkt leicht weiter (von 36), weil der Index jetzt den VIERTEN zahen Tag nachgibt und vor dem vorgezogenen Jobbericht (Do, nur +130k erwartet) das Rueckschlagrisiko der gut gelaufenen Rally steigt. September-Erhoehung weiter ~62% eingepreist — die Linie steht, nur der Schwung fehlt."
    },
    "EUR": {
     "stimmung": "bärisch",
-    "score": -20,
-    "grund": "Stagflations-Problem: schwache PMIs (Eurozone 49,5, Deutschland 48,0) treffen auf heiße Inflation (3,2%, höchste seit Sept 2023). Der Zinsabstand zu den USA bleibt zuungunsten des Euro, EUR/USD steht nahe 1,136. ABER weniger bärisch als letzte Woche (von −28): Die heiße Euro-Inflation hält die EZB hawkish, und die Großspekulanten bauen laut COT sogar Euro-Long-Positionen auf (+34k) — etwas Boden unter dem Euro."
+    "score": -22,
+    "grund": "Etwas baerischer (von −20): Die deutsche Vorab-Inflation kam gestern KUEHLER als erwartet (2,3% statt 2,5%) — faellt heute auch die Eurozonen-Zahl unter die 3,0%-Erwartung, verliert der Euro sein wichtigstes Stuetz-Argument (harte EZB). Dazu schwache PMIs (Eurozone 49,5) und der US-Zinsabstand. Gegenkraft bleibt nur der generell weiche Dollar und die COT-Euro-Longs (+30k). EUR/USD ~1,14."
    },
    "GBP": {
     "stimmung": "bärisch",
@@ -2375,7 +2376,7 @@ window.MAKRO_DATA = {
    "JPY": {
     "stimmung": "neutral",
     "score": 8,
-    "grund": "Strukturell besser: Tokio-Inflation festigt sich (Kern-Kern 1,9%, fast am Ziel), die BOJ steht bei 1,00% und signalisiert weitere Schritte — endlich echter Zins-Rückhalt, und die US-Renditen geben leicht nach (gut für den Yen). ABER kurzfristig drückt der bullige Dollar weiter, USD/JPY klebt bei ~161–162. Zins-Plus und Dollar-Stärke heben sich gerade auf; die Intervention bleibt das Joker-As nach unten."
+    "grund": "Strukturell klar besser: Der Tankan sprang gestern auf 22 (bester seit 2018) und Tokios Inflation festigt sich — das festigt die BOJ-Linie fuer weitere Zinsschritte, echter Rueckhalt fuer den Yen. ABER kurzfristig regiert der Carry-Handel: USD/JPY klebt bei ~162,7 (schwaechster Yen seit 40+ Jahren). Zins-Aussicht und Kursschwaeche heben sich auf; die Intervention bleibt das Joker-As nach unten."
    },
    "CHF": {
     "stimmung": "bärisch",
@@ -2384,8 +2385,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "bärisch",
-    "score": -20,
-    "grund": "Öl-Crash ist das Problem: WTI bei nur ~71$ (−7% auf die Woche) trifft die Rohstoff-Währung Kanadas direkt. Die heiße Schlagzeilen-Inflation (3,2%) half kaum, weil der Kern am 2%-Ziel liegt und die BOC bewusst drüber hinwegschaut. Loonie bleibt schwach gegen den starken Dollar."
+    "score": -16,
+    "grund": "Weniger baerisch (von −20): Kanadas BIP erholte sich im April auf +0,5% (staerkstes Plus seit Juli 2025) — die Wirtschaft ist NICHT in der Rezession, erste echte Stuetze fuer den Loonie seit Wochen. Gegenkraft bleibt das billige Oel (WTI ~70$), das die Rohstoff-Waehrung direkt trifft, und die BOC, die ueber die heisse Schlagzeilen-Inflation (Kern am 2%-Ziel) hinwegschaut."
    },
    "AUD": {
     "stimmung": "neutral",
@@ -2401,8 +2402,8 @@ window.MAKRO_DATA = {
   "paare": [
    {
     "paar": "USD/CAD",
-    "score": 22,
-    "treiber": "Bleibt aufwärts geneigt: weiterhin fester Dollar trifft auf billiges Öl (WTI ~70$) und einen Loonie ohne eigene Stütze. Leicht gedeckelt (von 24), weil der Dollar den dritten Tag nachgibt — HEUTE der direkte Test mit Kanadas BIP (14:30), der eigentliche Showdown ist der US-Jobbericht am Donnerstag."
+    "score": 16,
+    "treiber": "Weniger aufwaerts (von 22): Kanadas BIP erholte sich (+0,5% im April, keine Rezession) — erste echte Loonie-Stuetze seit Wochen. Dollar oben, aber vierter zaher Tag. Gegenkraft bleibt das billige Oel (WTI ~70$). Der eigentliche Showdown ist der US-Jobbericht am Donnerstag."
    },
    {
     "paar": "USD/CHF",
@@ -2411,8 +2412,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "EUR/USD",
-    "score": -18,
-    "treiber": "Zinsabstand und schwache PMIs sprechen weiter gegen den Euro (steht ~1,139). Aber weniger bärisch (von −20): der Dollar gibt den dritten Tag nach, die heiße Euro-Inflation hält die EZB hawkish, und Spekulanten halten Euro-Longs (COT +30k). Der Schlüssel ist die Eurozone-Schnellschätzung MORGEN (Mi, Konsens 3,0%/Kern 2,5%) — heißer = Euro-Stütze."
+    "score": -20,
+    "treiber": "Etwas baerischer (von −18): Die deutsche Inflation kam gestern kuehler als erwartet (2,3%) — faellt heute auch die Eurozonen-Schnellschaetzung unter 3,0%, verliert der Euro sein Harte-EZB-Argument. Zinsabstand und schwache PMIs sprechen ohnehin gegen ihn (steht ~1,14). Deckelnd wirkt nur der vierte weiche Dollar-Tag + Euro-COT-Longs. Der Schluessel ist die Eurozonen-Zahl HEUTE Vormittag."
    },
    {
     "paar": "NZD/USD",
@@ -2426,8 +2427,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/JPY",
-    "score": 8,
-    "treiber": "Trend noch leicht bullish (fester Dollar), ABER stark gedeckelt (von 10): Tokios Inflation festigt sich, der Tankan heute testet die BOJ-Stütze, die US-Renditen geben nach, und bei ~161,7 (schwächster Yen seit 1986) ist das INTERVENTIONSRISIKO sehr hoch — Japans Finanzministerium kann das Paar in Minuten brutal nach unten reißen. Risiko klar asymmetrisch nach unten; eigener Track-Record bisher 0/2 (Vorsicht)."
+    "score": 6,
+    "treiber": "Trend nur noch minimal bullish (von 8): Der starke Tankan (22, bester seit 2018) festigt die BOJ-Linie und die US-Renditen geben nach. Bei ~162,7 (schwaechster Yen seit 40+ Jahren) ist das INTERVENTIONSRISIKO gluehend — Japans Finanzministerium kann das Paar in Minuten nach unten reissen. Risiko klar asymmetrisch nach unten; eigener Track-Record bisher 0/2 (Vorsicht)."
    },
    {
     "paar": "AUD/USD",
@@ -3469,13 +3470,13 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -18,
+   "baseScore": -20,
    "tiltCot": 2,
    "tiltZins": 2,
    "tiltGesamt": 4,
-   "score": -14,
+   "score": -16,
    "cotExtrem": null,
-   "treiber": "Zinsabstand und schwache PMIs sprechen weiter gegen den Euro (steht ~1,139). Aber weniger bärisch (von −20): der Dollar gibt den dritten Tag nach, die heiße Euro-Inflation hält die EZB hawkish, und Spekulanten halten Euro-Longs (COT +30k). Der Schlüssel ist die Eurozone-Schnellschätzung MORGEN (Mi, Konsens 3,0%/Kern 2,5%) — heißer = Euro-Stütze."
+   "treiber": "Etwas baerischer (von −18): Die deutsche Inflation kam gestern kuehler als erwartet (2,3%) — faellt heute auch die Eurozonen-Schnellschaetzung unter 3,0%, verliert der Euro sein Harte-EZB-Argument. Zinsabstand und schwache PMIs sprechen ohnehin gegen ihn (steht ~1,14). Deckelnd wirkt nur der vierte weiche Dollar-Tag + Euro-COT-Longs. Der Schluessel ist die Eurozonen-Zahl HEUTE Vormittag."
   },
   {
    "paar": "GBP/USD",
@@ -3489,13 +3490,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 8,
+   "baseScore": 6,
    "tiltCot": 10,
    "tiltZins": -2,
    "tiltGesamt": 8,
-   "score": 16,
+   "score": 14,
    "cotExtrem": null,
-   "treiber": "Trend noch leicht bullish (fester Dollar), ABER stark gedeckelt (von 10): Tokios Inflation festigt sich, der Tankan heute testet die BOJ-Stütze, die US-Renditen geben nach, und bei ~161,7 (schwächster Yen seit 1986) ist das INTERVENTIONSRISIKO sehr hoch — Japans Finanzministerium kann das Paar in Minuten brutal nach unten reißen. Risiko klar asymmetrisch nach unten; eigener Track-Record bisher 0/2 (Vorsicht)."
+   "treiber": "Trend nur noch minimal bullish (von 8): Der starke Tankan (22, bester seit 2018) festigt die BOJ-Linie und die US-Renditen geben nach. Bei ~162,7 (schwaechster Yen seit 40+ Jahren) ist das INTERVENTIONSRISIKO gluehend — Japans Finanzministerium kann das Paar in Minuten nach unten reissen. Risiko klar asymmetrisch nach unten; eigener Track-Record bisher 0/2 (Vorsicht)."
   },
   {
    "paar": "AUD/USD",
@@ -3509,13 +3510,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 22,
+   "baseScore": 16,
    "tiltCot": 10,
    "tiltZins": -2,
    "tiltGesamt": 8,
-   "score": 30,
+   "score": 24,
    "cotExtrem": null,
-   "treiber": "Bleibt aufwärts geneigt: weiterhin fester Dollar trifft auf billiges Öl (WTI ~70$) und einen Loonie ohne eigene Stütze. Leicht gedeckelt (von 24), weil der Dollar den dritten Tag nachgibt — HEUTE der direkte Test mit Kanadas BIP (14:30), der eigentliche Showdown ist der US-Jobbericht am Donnerstag."
+   "treiber": "Weniger aufwaerts (von 22): Kanadas BIP erholte sich (+0,5% im April, keine Rezession) — erste echte Loonie-Stuetze seit Wochen. Dollar oben, aber vierter zaher Tag. Gegenkraft bleibt das billige Oel (WTI ~70$). Der eigentliche Showdown ist der US-Jobbericht am Donnerstag."
   },
   {
    "paar": "USD/CHF",

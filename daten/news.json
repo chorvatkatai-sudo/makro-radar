@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-01T12:28:22.884Z",
+  "stand": "2026-07-01T15:35:48.504Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,112 +7,112 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Colombia: Hawkish BanRep tightening bias – Societe Generale",
+      "link": "https://www.fxstreet.com/news/colombia-hawkish-banrep-tightening-bias-societe-generale-202607011503",
+      "datum": "2026-07-01T15:03:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver rebounds above $60 as softer US data, Warsh remarks weigh on the US Dollar",
+      "link": "https://www.fxstreet.com/news/silver-rebounds-above-60-as-softer-us-data-warsh-remarks-weigh-on-the-us-dollar-202607011502",
+      "datum": "2026-07-01T15:02:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India: Nowcast points to slower expansion – DBS",
+      "link": "https://www.fxstreet.com/news/india-nowcast-points-to-slower-expansion-dbs-202607011452",
+      "datum": "2026-07-01T14:52:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Solid Q2 rebound supports cautious outlook – NBC",
+      "link": "https://www.fxstreet.com/news/canada-solid-q2-rebound-supports-cautious-outlook-nbc-202607011442",
+      "datum": "2026-07-01T14:42:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Balanced inflation and politics risk – HSBC",
+      "link": "https://www.fxstreet.com/news/united-kingdom-balanced-inflation-and-politics-risk-hsbc-202607011431",
+      "datum": "2026-07-01T14:31:52.000Z"
+    },
+    {
       "quelle": "ForexLive",
-      "titel": "OPEC+ Is likely to raise oil output quotas for August by 188K BPD.",
-      "link": "https://investinglive.com/news/opec-is-likely-to-raise-oil-output-quotas-for-august-by-188k-bpd-20260701/",
-      "datum": "2026-07-01T12:27:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US June ADP employment data +98K vs +118K expected",
-      "link": "https://investinglive.com/news/us-june-adp-employment-data-98k-vs-118k-expected-20260701/",
-      "datum": "2026-07-01T12:15:04.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil keeps lower, tech shares retreat on July turn",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-keeps-lower-tech-shares-retreat-on-july-turn-20260701/",
-      "datum": "2026-07-01T12:08:22.000Z"
+      "titel": "EIA weekly crude oil inventories -3.775 million versus -4.466 million estimate",
+      "link": "https://investinglive.com/news/eia-weekly-crude-oil-inventories-3775-million-versus-4466-million-estimate-20260701/",
+      "datum": "2026-07-01T14:30:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Stronger outlook with steady Fed – HSBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-stronger-outlook-with-steady-fed-hsbc-202607011139",
-      "datum": "2026-07-01T11:39:34.000Z"
+      "titel": "Eurozone: Price pressures keep ECB on alert – Commerzbank",
+      "link": "https://www.fxstreet.com/news/eurozone-price-pressures-keep-ecb-on-alert-commerzbank-202607011419",
+      "datum": "2026-07-01T14:19:48.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "White House Adviser Hassett: It would be mistake to raise interest rates",
-      "link": "https://www.fxstreet.com/news/white-house-adviser-hassett-it-would-be-mistake-to-raise-interest-rates-202607011139",
-      "datum": "2026-07-01T11:39:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro area: Lower inflation tempers ECB pressure – Nordea",
-      "link": "https://www.fxstreet.com/news/euro-area-lower-inflation-tempers-ecb-pressure-nordea-202607011131",
-      "datum": "2026-07-01T11:31:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold steadies near $4,000 as traders await US labor data, Fed Chair speech",
+      "titel": "Gold rebounds above $4,000 as softer US data, Warsh remarks weigh on US Dollar",
       "link": "https://www.fxstreet.com/news/gold-steadies-near-4-000-as-traders-await-us-labor-data-fed-chair-speech-202607011130",
-      "datum": "2026-07-01T11:30:15.000Z"
+      "datum": "2026-07-01T14:14:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee slides to two-week low amid surging US Treasury Yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-as-us-treasury-yields-surge-202607010550",
-      "datum": "2026-07-01T11:29:20.000Z"
+      "titel": "Copper: Tariff delay tempers upside – TD Securities",
+      "link": "https://www.fxstreet.com/news/copper-tariff-delay-tempers-upside-td-securities-202607011403",
+      "datum": "2026-07-01T14:03:47.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar dips as firm US labor data, risk aversion support US Dollar",
-      "link": "https://www.fxstreet.com/news/australian-dollar-dips-as-firm-us-labor-data-risk-aversion-support-us-dollar-202607011127",
-      "datum": "2026-07-01T11:27:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD hovers near YTD lows at $3,941 weighed by higher US yields",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-hovers-near-ytd-lows-at-3-945-weighed-by-higher-us-yields-202607011118",
-      "datum": "2026-07-01T11:18:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: USMCA uncertainty weighs on Loonie – ING",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-usmca-uncertainty-weighs-on-loonie-ing-202607011115",
-      "datum": "2026-07-01T11:15:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ISM Manufacturing PMI expected to reaffirm expansion in the US manufacturing sector",
+      "titel": "Breaking: US ISM Manufacturing PMI dropped to 53.3 in June",
       "link": "https://www.fxstreet.com/news/ism-manufacturing-pmi-expected-to-signal-continued-expansion-in-us-factory-activity-202607010800",
-      "datum": "2026-07-01T11:15:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Challenger Job Cuts decline to 45,849 in June",
-      "link": "https://www.fxstreet.com/news/united-states-challenger-job-cuts-decline-to-45-849-in-june-202607011112",
-      "datum": "2026-07-01T11:12:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Wunsch: Would need stronger second-round effects to justify further tightening",
-      "link": "https://www.fxstreet.com/news/ecbs-wunsch-would-need-stronger-second-round-effects-to-justify-further-tightening-202607011111",
-      "datum": "2026-07-01T11:11:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Kocher: Next decisions will be either hike or hold",
-      "link": "https://www.fxstreet.com/news/ecbs-kocher-next-decisions-will-be-either-hike-or-hold-202607011102",
-      "datum": "2026-07-01T11:02:37.000Z"
+      "datum": "2026-07-01T14:03:20.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US job cuts cool in June, AI remains the main reason for layoffs",
-      "link": "https://investinglive.com/news/us-job-cuts-cool-in-june-but-ai-remains-the-main-reason-for-layoffs-20260701/",
-      "datum": "2026-07-01T09:42:00.000Z"
+      "titel": "US construction spending for May 0.1% versus 0.1% expected",
+      "link": "https://investinglive.com/news/us-construction-spending-for-may-01-versus-01-expected-20260701/",
+      "datum": "2026-07-01T14:02:26.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "No negative surprises for the ECB as Eurozone inflation eases in June",
-      "link": "https://investinglive.com/news/eurozone-june-preliminary-cpi-28-vs-30-yy-expected-20260701/",
-      "datum": "2026-07-01T09:00:14.000Z"
+      "titel": "US ISM Manufacturing PMI for June 53.3 versus 54.0 estimate",
+      "link": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-june-533-versus-540-estimate-20260701/",
+      "datum": "2026-07-01T14:00:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc gains as US Dollar eases on Fed Chair Warsh's remarks",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-eases-on-fed-chair-warshs-remarks-202607011357",
+      "datum": "2026-07-01T13:57:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: Fed Chair Warsh says they are not happy with inflation above 2%",
+      "link": "https://www.fxstreet.com/news/breaking-fed-chair-warsh-reiterates-he-is-not-going-to-give-forward-guidance-202607011310",
+      "datum": "2026-07-01T13:53:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Forecasts cut but constructive case intact – OCBC",
+      "link": "https://www.fxstreet.com/news/gold-forecasts-cut-but-constructive-case-intact-ocbc-202607011348",
+      "datum": "2026-07-01T13:48:20.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Indirect technical talks between US and Iran said to be underway in Doha - report",
-      "link": "https://investinglive.com/news/indirect-technical-talks-between-us-and-iran-said-to-be-underway-in-doha-report-20260701/",
-      "datum": "2026-07-01T08:41:29.000Z"
+      "titel": "US S&P global manufacturing PMI final for June 53.9 vs 55.7 prior",
+      "link": "https://investinglive.com/news/us-sp-global-manufacturing-pmi-final-for-june-539-vs-557-prior-20260701/",
+      "datum": "2026-07-01T13:45:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "ECB Forum: Lagarde had perfect monetary policy outlook to raise rates.",
+      "link": "https://investinglive.com/news/ecb-forum-lagarde-had-perfect-monetary-policy-outlook-to-raise-rates-20260701/",
+      "datum": "2026-07-01T13:09:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Where can you watch the ECB Forum on Central Banking?",
+      "link": "https://investinglive.com/news/where-can-you-watch-the-ecb-forum-on-central-banking-20260701/",
+      "datum": "2026-07-01T13:04:02.000Z"
     }
   ]
 }

@@ -144,7 +144,7 @@
     "country": "USD",
     "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52.2",
     "previous": "51.5",
     "actual": null,
     "quelle": "tradingview"
@@ -624,7 +624,7 @@
     "country": "AUD",
     "title": "Building Permits MoM Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-1.1%",
     "previous": "-0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -644,8 +644,8 @@
     "country": "AUD",
     "title": "Private House Approvals MoM Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "-1",
+    "forecast": "2.8%",
+    "previous": "-0.4%",
     "actual": null,
     "quelle": "tradingview"
   },

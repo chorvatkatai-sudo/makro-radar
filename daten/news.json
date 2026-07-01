@@ -1,11 +1,71 @@
 {
-  "stand": "2026-07-01T15:35:48.504Z",
+  "stand": "2026-07-01T17:47:45.164Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "USDMCA: US did not agree to renew USMCA in current form.",
+      "link": "https://investinglive.com/news/usdmca-us-did-not-agree-to-renew-usmca-in-current-form-20260701/",
+      "datum": "2026-07-01T17:03:51.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "U.S.-Iran talks focus on Hormuz as toll dispute threatens nuclear deal",
+      "link": "https://investinglive.com/news/us-iran-talks-focus-on-hormuz-as-toll-dispute-threatens-nuclear-deal-20260701/",
+      "datum": "2026-07-01T16:55:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI extends losses as recovering Hormuz flows, OPEC+ supply outlook weigh",
+      "link": "https://www.fxstreet.com/news/wti-extends-losses-as-recovering-hormuz-flows-opec-supply-outlook-weigh-202607011628",
+      "datum": "2026-07-01T16:28:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Kevin Warsh offers no policy clues: Why markets still got their answer",
+      "link": "https://www.fxstreet.com/news/kevin-warsh-offers-no-policy-clues-why-markets-still-got-their-answer-202607011626",
+      "datum": "2026-07-01T16:26:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average tops records on borrowed strength",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tops-records-on-borrowed-strength-202607011606",
+      "datum": "2026-07-01T16:06:57.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Fox Reporting: Trump decided not to renew USMCA",
+      "link": "https://investinglive.com/news/fox-reporting-trump-decided-not-to-renew-usmca-20260701/",
+      "datum": "2026-07-01T16:04:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound climbs on soft US data despite Warsh’s hawkish tilt",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-on-soft-us-data-despite-warshs-hawkish-tilt-202607011546",
+      "datum": "2026-07-01T15:46:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Warsh stays on message as inflation remains the Fed's top priority",
+      "link": "https://www.fxstreet.com/news/warsh-stays-on-message-as-inflation-remains-the-feds-top-priority-202607011526",
+      "datum": "2026-07-01T15:26:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar as stronger US Dollar offsets cautious Aussie outlook",
+      "link": "https://www.fxstreet.com/news/australian-dollar-as-stronger-us-dollar-offsets-cautious-aussie-outlook-202607011516",
+      "datum": "2026-07-01T15:16:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro pares losses amid softer-than-expected US data and Warsh's remarks",
+      "link": "https://www.fxstreet.com/news/euro-pares-losses-as-soft-than-expected-us-data-and-warshs-remarks-weigh-on-the-greenback-202607011511",
+      "datum": "2026-07-01T15:11:50.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Colombia: Hawkish BanRep tightening bias – Societe Generale",
@@ -43,30 +103,6 @@
       "datum": "2026-07-01T14:30:11.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Eurozone: Price pressures keep ECB on alert – Commerzbank",
-      "link": "https://www.fxstreet.com/news/eurozone-price-pressures-keep-ecb-on-alert-commerzbank-202607011419",
-      "datum": "2026-07-01T14:19:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold rebounds above $4,000 as softer US data, Warsh remarks weigh on US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-steadies-near-4-000-as-traders-await-us-labor-data-fed-chair-speech-202607011130",
-      "datum": "2026-07-01T14:14:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Copper: Tariff delay tempers upside – TD Securities",
-      "link": "https://www.fxstreet.com/news/copper-tariff-delay-tempers-upside-td-securities-202607011403",
-      "datum": "2026-07-01T14:03:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: US ISM Manufacturing PMI dropped to 53.3 in June",
-      "link": "https://www.fxstreet.com/news/ism-manufacturing-pmi-expected-to-signal-continued-expansion-in-us-factory-activity-202607010800",
-      "datum": "2026-07-01T14:03:20.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US construction spending for May 0.1% versus 0.1% expected",
       "link": "https://investinglive.com/news/us-construction-spending-for-may-01-versus-01-expected-20260701/",
@@ -77,42 +113,6 @@
       "titel": "US ISM Manufacturing PMI for June 53.3 versus 54.0 estimate",
       "link": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-june-533-versus-540-estimate-20260701/",
       "datum": "2026-07-01T14:00:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc gains as US Dollar eases on Fed Chair Warsh's remarks",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-eases-on-fed-chair-warshs-remarks-202607011357",
-      "datum": "2026-07-01T13:57:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: Fed Chair Warsh says they are not happy with inflation above 2%",
-      "link": "https://www.fxstreet.com/news/breaking-fed-chair-warsh-reiterates-he-is-not-going-to-give-forward-guidance-202607011310",
-      "datum": "2026-07-01T13:53:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Forecasts cut but constructive case intact – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-forecasts-cut-but-constructive-case-intact-ocbc-202607011348",
-      "datum": "2026-07-01T13:48:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US S&P global manufacturing PMI final for June 53.9 vs 55.7 prior",
-      "link": "https://investinglive.com/news/us-sp-global-manufacturing-pmi-final-for-june-539-vs-557-prior-20260701/",
-      "datum": "2026-07-01T13:45:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "ECB Forum: Lagarde had perfect monetary policy outlook to raise rates.",
-      "link": "https://investinglive.com/news/ecb-forum-lagarde-had-perfect-monetary-policy-outlook-to-raise-rates-20260701/",
-      "datum": "2026-07-01T13:09:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Where can you watch the ECB Forum on Central Banking?",
-      "link": "https://investinglive.com/news/where-can-you-watch-the-ecb-forum-on-central-banking-20260701/",
-      "datum": "2026-07-01T13:04:02.000Z"
     }
   ]
 }

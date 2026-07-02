@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-02T05:07:17.611Z",
+ "erstellt": "2026-07-02T07:27:06.691Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -2019,8 +2019,8 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Machine Tool Orders YoY",
    "impact": "Low",
-   "forecast": "",
-   "previous": "37.4",
+   "forecast": "37.4%",
+   "previous": "37.4%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3015,15 +3015,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-02T05:07:16.779Z",
+  "stand": "2026-07-02T07:27:06.200Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.33,
+    "wert": 101.2,
     "tagProzent": 0,
-    "wocheProzent": -0.03,
+    "wocheProzent": -0.15,
     "renditeDelta": false,
     "verlauf": [
      99.53,
@@ -3046,8 +3046,8 @@ window.MAKRO_DATA = {
      101.11,
      101.19,
      101.39,
-     101.33,
-     101.33
+     101.2,
+     101.2
     ]
    },
    "VIX": {
@@ -3087,9 +3087,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 67.88,
+    "wert": 67.63,
     "tagProzent": 0,
-    "wocheProzent": -1.95,
+    "wocheProzent": -2.31,
     "renditeDelta": false,
     "verlauf": [
      96.02,
@@ -3112,17 +3112,17 @@ window.MAKRO_DATA = {
      70.75,
      69.5,
      68.58,
-     67.88,
-     67.88
+     67.63,
+     67.63
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 70.9,
+    "wert": 70.62,
     "tagProzent": 0,
-    "wocheProzent": -1.51,
+    "wocheProzent": -1.9,
     "renditeDelta": false,
     "verlauf": [
      97.81,
@@ -3145,17 +3145,17 @@ window.MAKRO_DATA = {
      73.15,
      72.92,
      71.57,
-     70.9,
-     70.9
+     70.62,
+     70.62
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4074.3,
+    "wert": 4079.1,
     "tagProzent": 0,
-    "wocheProzent": -0.11,
+    "wocheProzent": 0.01,
     "renditeDelta": false,
     "verlauf": [
      4436.7,
@@ -3178,8 +3178,8 @@ window.MAKRO_DATA = {
      4022.3,
      4022.9,
      4068.3,
-     4074.3,
-     4074.3
+     4079.1,
+     4079.1
     ]
    },
    "US02Y": {
@@ -3281,12 +3281,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 60671.67,
+    "wert": 60099.83,
     "tagProzent": 0,
-    "wocheProzent": 1.22,
+    "wocheProzent": 0.95,
     "renditeDelta": false,
     "verlauf": [
-     63561.05,
      63543.2,
      64421.32,
      65710.4,
@@ -3306,43 +3305,10 @@ window.MAKRO_DATA = {
      59532.34,
      60138.38,
      58558.86,
-     60671.67,
-     60671.67
+     60003.76,
+     60099.83,
+     60099.83
     ]
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.23,
-    "tagProzent": -0.01,
-    "wocheProzent": 0.05,
-    "renditeDelta": true,
-    "verlauf": [
-     2.4,
-     2.39,
-     2.38,
-     2.36,
-     2.36,
-     2.35,
-     2.33,
-     2.34,
-     2.29,
-     2.31,
-     2.32,
-     2.29,
-     2.26,
-     2.25,
-     2.23,
-     2.21,
-     2.18,
-     2.21,
-     2.2,
-     2.22,
-     2.24,
-     2.23
-    ],
-    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
@@ -3375,6 +3341,40 @@ window.MAKRO_DATA = {
      2.18,
      2.16,
      2.2
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.23,
+    "tagProzent": -0.01,
+    "wocheProzent": 0.05,
+    "renditeDelta": true,
+    "verlauf": [
+     2.4,
+     2.39,
+     2.38,
+     2.36,
+     2.36,
+     2.35,
+     2.33,
+     2.34,
+     2.29,
+     2.31,
+     2.32,
+     2.29,
+     2.26,
+     2.25,
+     2.23,
+     2.21,
+     2.18,
+     2.21,
+     2.2,
+     2.22,
+     2.24,
+     2.23
     ],
     "quelle": "FRED"
    }
@@ -3547,7 +3547,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-02T05:07:17.610Z",
+  "stand": "2026-07-02T07:27:06.690Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3555,40 +3555,100 @@ window.MAKRO_DATA = {
   ],
   "eintraege": [
    {
+    "quelle": "FXStreet",
+    "titel": "Swiss Franc eases within range following soft Swiss inflation figures",
+    "link": "https://www.fxstreet.com/news/swiss-franc-eases-within-range-following-soft-swiss-inflation-figures-202607020709",
+    "datum": "2026-07-02T07:09:47.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee gains at open, supported by further decline in oil prices",
+    "link": "https://www.fxstreet.com/news/indian-rupee-gains-at-open-supported-by-further-decline-in-oil-prices-202607020530",
+    "datum": "2026-07-02T07:09:07.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Oil: Hormuz risks and US-Iran MoU tensions – Rabobank",
+    "link": "https://www.fxstreet.com/news/oil-hormuz-risks-and-us-iran-mou-tensions-rabobank-202607020708",
+    "datum": "2026-07-02T07:08:20.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Nonfarm Payrolls set to show resilient US labor market, backing case for Fed rate hikes",
+    "link": "https://www.fxstreet.com/news/nonfarm-payrolls-set-to-grow-by-over-100k-in-june-reinforcing-bets-of-upcoming-fed-rate-hikes-202607020500",
+    "datum": "2026-07-02T07:00:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Equities: Tech slump contrasts broader resilience – Deutsche Bank",
+    "link": "https://www.fxstreet.com/news/equities-tech-slump-contrasts-broader-resilience-deutsche-bank-202607020658",
+    "datum": "2026-07-02T06:58:22.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar Index Price Forecast: Weakens below 101.50, but keeps bullish tone ahead of NFP",
+    "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-weakens-below-10150-but-keeps-bullish-tone-ahead-of-nfp-202607020657",
+    "datum": "2026-07-02T06:57:27.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold extends gains on weaker USD; limited upside potential amid Fed bets, ahead of US NFP",
+    "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-on-softer-usd-fed-hike-bets-cap-gains-ahead-of-us-nfp-202607020354",
+    "datum": "2026-07-02T06:56:23.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen: Higher Japanese rates and intervention risks – MUFG",
+    "link": "https://www.fxstreet.com/news/japanese-yen-higher-japanese-rates-and-intervention-risks-mufg-202607020650",
+    "datum": "2026-07-02T06:50:43.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "USD/CAD Price Forecast: Remains in tight range near 1.4200, eyes on US NFP",
+    "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-remains-in-tight-range-near-14200-eyes-on-us-nfp-202607020649",
+    "datum": "2026-07-02T06:49:43.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar: Further RBA hike doubted – Commerzbank",
+    "link": "https://www.fxstreet.com/news/australian-dollar-further-rba-hike-doubted-commerzbank-202607020632",
+    "datum": "2026-07-02T06:32:18.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Switzerland’ CPI inflation meets expectation in June: What 0.5% means for Swiss Franc",
+    "link": "https://www.fxstreet.com/news/switzerland-cpi-inflation-meets-expectation-in-june-what-05-means-for-swiss-franc-202607020631",
+    "datum": "2026-07-02T06:31:34.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Swiss inflation picture holds pretty much unchanged in June",
+    "link": "https://investinglive.com/news/switzerland-june-cpi-05-vs-05-yy-expected-20260702/",
+    "datum": "2026-07-02T06:30:07.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "What are the main events for today?",
+    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20260702/",
+    "datum": "2026-07-02T06:27:23.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI Oil dips below $68.00 amid news of progress in the US-Iran peace talks",
+    "link": "https://www.fxstreet.com/news/wti-oil-dips-below-6800-amid-news-of-progress-in-the-us-iran-peace-talks-202607020627",
+    "datum": "2026-07-02T06:27:21.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Japan government economic panel member expects BOJ to raise rates again at end of the year",
+    "link": "https://investinglive.com/news/japan-government-economic-panel-member-expects-boj-to-raise-rates-again-at-end-of-the-year-20260702/",
+    "datum": "2026-07-02T06:15:59.000Z"
+   },
+   {
     "quelle": "ForexLive",
     "titel": "The US jobs report will be the main event to end the week",
     "link": "https://investinglive.com/news/the-us-jobs-report-will-be-the-main-event-to-end-the-week-20260702/",
     "datum": "2026-07-02T04:52:19.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Indonesian Rupiah pares losses as soft US data, Fed tone weigh on US Dollar",
-    "link": "https://www.fxstreet.com/news/indonesian-rupiah-pares-losses-as-soft-us-data-fed-tone-weigh-on-us-dollar-202607020440",
-    "datum": "2026-07-02T04:40:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/USD Price Forecast: Approaches 1.1400 as bearish flag remains in play",
-    "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-approaches-11400-as-bearish-flag-remains-in-play-202607020432",
-    "datum": "2026-07-02T04:32:17.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/JPY Price Forecast: Edges lower below 185.00, while near-term bullish bias holds",
-    "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-edges-lower-below-18500-while-near-term-bullish-bias-holds-202607020405",
-    "datum": "2026-07-02T04:05:33.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold trades with positive bias on softer USD; Fed hike bets cap gains ahead of US NFP",
-    "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-on-softer-usd-fed-hike-bets-cap-gains-ahead-of-us-nfp-202607020354",
-    "datum": "2026-07-02T03:54:50.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: XAG/USD rises above $60.00 amid less hawkish Fed tone",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-6000-amid-less-hawkish-fed-tone-202607020341",
-    "datum": "2026-07-02T03:41:26.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3597,70 +3657,10 @@ window.MAKRO_DATA = {
     "datum": "2026-07-02T03:32:44.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "United States Dollar Index trades subduedly around 101.35 ahead of US NFP data",
-    "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-subduedly-around-10135-ahead-of-us-nfp-data-202607020321",
-    "datum": "2026-07-02T03:21:13.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian dollar holds ground vs Japanese Yen amid May Trade Deficit",
-    "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-vs-japanese-yen-amid-may-trade-deficit-202607020251",
-    "datum": "2026-07-02T02:51:04.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "US payrolls preview: June NFP seen slowing sharply to 110k after May's surge",
     "link": "https://investinglive.com/news/us-payrolls-preview-june-nfp-seen-slowing-sharply-to-110k-after-mays-surge-20260702/",
     "datum": "2026-07-02T02:35:48.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound gathers strength to near 1.3300 on Burnham’s commitment to fiscal rules, NFP data loom",
-    "link": "https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13300-on-burnhams-commitment-to-fiscal-rules-nfp-data-loom-202607020216",
-    "datum": "2026-07-02T02:16:35.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar remains close to one-week top vs USD; looks to US NFP for fresh impetus",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-close-to-one-week-top-vs-usd-looks-to-us-nfp-for-fresh-impetus-202607020207",
-    "datum": "2026-07-02T02:07:43.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar steadies following Trade Balance data",
-    "link": "https://www.fxstreet.com/news/australian-dollar-steadies-following-trade-balance-data-202607020155",
-    "datum": "2026-07-02T01:55:26.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Australia's trade blows out to big deficit vs. surplus expected",
-    "link": "https://investinglive.com/news/australias-trade-blows-out-to-big-deficit-vs-surplus-expected-20260702/",
-    "datum": "2026-07-02T01:44:08.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australia’s Trade Balance turns negative in May: What 3,018M deficit means for AUD/USD",
-    "link": "https://www.fxstreet.com/news/australias-trade-balance-turns-negative-in-may-what-3-018m-deficit-means-for-aud-usd-202607020132",
-    "datum": "2026-07-02T01:32:38.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar languishes near YTD low as USD bulls keenly await US NFP report",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-ytd-low-as-usd-bulls-keenly-await-us-nfp-report-202607020121",
-    "datum": "2026-07-02T01:21:26.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "New Zealand building permits fall in May, down 4% m/m (prior +10.9)",
-    "link": "https://investinglive.com/news/new-zealand-building-permits-fall-in-may-down-4-mm-prior-109-20260701/",
-    "datum": "2026-07-01T22:50:13.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Americas FX news wrap 1 Jul: Central bankers worry about inflation",
-    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-1-jul-central-bankers-worry-about-inflation-20260701/",
-    "datum": "2026-07-01T20:39:37.000Z"
    }
   ]
  },

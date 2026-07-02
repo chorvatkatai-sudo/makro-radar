@@ -1024,8 +1024,8 @@
     "country": "JPY",
     "title": "Machine Tool Orders YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "37.4",
+    "forecast": "37.4%",
+    "previous": "37.4%",
     "actual": null,
     "quelle": "tradingview"
   },

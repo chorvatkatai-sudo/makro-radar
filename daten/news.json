@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-02T16:01:14.175Z",
+  "stand": "2026-07-02T18:23:26.075Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,7 +8,55 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: Weak NFP pushes XAG/USD to the top of its weekly range",
+      "titel": "United States Dollar Index retreats after the US economy adds just 57K jobs in June",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-after-the-us-economy-adds-just-57k-jobs-in-june-202607021736",
+      "datum": "2026-07-02T17:36:18.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "BOE Mann: Loosening of financial conditions since June will be important for her rate vote",
+      "link": "https://investinglive.com/news/boe-mann-loosening-of-financial-conditions-since-june-will-be-important-for-her-rate-vote-20260702/",
+      "datum": "2026-07-02T16:43:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones Industrial Average sets records while the chips fall",
+      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-sets-records-while-the-chips-fall-202607021636",
+      "datum": "2026-07-02T16:36:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asian FX: Scope for sharp rebound on US pressure – BNY",
+      "link": "https://www.fxstreet.com/news/asian-fx-scope-for-sharp-rebound-on-us-pressure-bny-202607021623",
+      "datum": "2026-07-02T16:23:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar rises as weak US NFP weighs on the US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-weak-us-nfp-weighs-on-the-us-dollar-202607021619",
+      "datum": "2026-07-02T16:19:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar advances as weaker US employment data weighs on US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-advances-as-weaker-us-employment-data-weighs-on-us-dollar-202607021619",
+      "datum": "2026-07-02T16:19:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound rallies as weak NFP smashes Fed hike bets",
+      "link": "https://www.fxstreet.com/news/british-pound-rallies-as-weak-nfp-smashes-fed-hike-bets-202607021614",
+      "datum": "2026-07-02T16:14:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: Reform drive supports growth narrative – ING",
+      "link": "https://www.fxstreet.com/news/germany-reform-drive-supports-growth-narrative-ing-202607021548",
+      "datum": "2026-07-02T15:48:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Weak NFP pushes XAG to the top of its weekly range",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-weak-nfp-pushes-xag-usd-to-the-top-of-its-weekly-range-202607021534",
       "datum": "2026-07-02T15:34:06.000Z"
     },
@@ -43,52 +91,10 @@
       "datum": "2026-07-02T14:40:03.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro hits nine-day high after softer-than-expected US NFP",
-      "link": "https://www.fxstreet.com/news/euro-hits-a-nine-day-high-as-softer-than-expected-us-nfp-weighs-on-the-greenback-202607021429",
-      "datum": "2026-07-02T14:29:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoE’s Mann: Activist move can bring inflation expectations and outcomes toward 2% target",
-      "link": "https://www.fxstreet.com/news/boes-mann-activist-move-can-bring-inflation-expectations-and-outcomes-toward-2-target-202607021429",
-      "datum": "2026-07-02T14:29:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Thailand: Narrow rebound, steady BoT rate – UOB",
-      "link": "https://www.fxstreet.com/news/thailand-narrow-rebound-steady-bot-rate-uob-202607021427",
-      "datum": "2026-07-02T14:27:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Central banks: Framework guidance shift reshapes analysis – Rabobank",
-      "link": "https://www.fxstreet.com/news/central-banks-framework-guidance-shift-reshapes-analysis-rabobank-202607021408",
-      "datum": "2026-07-02T14:08:42.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US May factory orders -1.3% vs -1.8% expected",
       "link": "https://investinglive.com/news/us-may-factory-orders-13-vs-18-expected-20260702/",
       "datum": "2026-07-02T14:00:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexico: USMCA review cycle extends uncertainty – Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexico-usmca-review-cycle-extends-uncertainty-societe-generale-202607021353",
-      "datum": "2026-07-02T13:53:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: RBNZ governance and housing signals – BNY",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-governance-and-housing-signals-bny-202607021339",
-      "datum": "2026-07-02T13:39:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar gains as weaker US jobs data pressure US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-weaker-us-jobs-data-pressure-us-dollar-202607021336",
-      "datum": "2026-07-02T13:36:13.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Locked and loaded for non-farm payrolls: Eyes on wages",
       "link": "https://investinglive.com/news/locked-and-loaded-for-non-farm-payrolls-eyes-on-wages-20260702/",
       "datum": "2026-07-02T12:11:31.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Yen sees sudden jump, dollar lags ahead of NFP",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-yen-sees-sudden-jump-dollar-lags-ahead-of-nfp-20260702/",
-      "datum": "2026-07-02T11:35:14.000Z"
     }
   ]
 }

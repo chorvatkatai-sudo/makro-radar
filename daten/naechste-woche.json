@@ -1135,7 +1135,7 @@
     "title": "15-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "5.79",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1145,7 +1145,7 @@
     "title": "30-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.43",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1325,7 +1325,7 @@
     "title": "Baker Hughes Total Rigs Count",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "580",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1335,7 +1335,7 @@
     "title": "Baker Hughes Oil Rig Count",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "445",
     "actual": null,
     "quelle": "tradingview"
   }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-01T17:47:45.164Z",
+  "stand": "2026-07-02T05:07:17.610Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
-      "titel": "USDMCA: US did not agree to renew USMCA in current form.",
-      "link": "https://investinglive.com/news/usdmca-us-did-not-agree-to-renew-usmca-in-current-form-20260701/",
-      "datum": "2026-07-01T17:03:51.000Z"
+      "titel": "The US jobs report will be the main event to end the week",
+      "link": "https://investinglive.com/news/the-us-jobs-report-will-be-the-main-event-to-end-the-week-20260702/",
+      "datum": "2026-07-02T04:52:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah pares losses as soft US data, Fed tone weigh on US Dollar",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-pares-losses-as-soft-us-data-fed-tone-weigh-on-us-dollar-202607020440",
+      "datum": "2026-07-02T04:40:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Approaches 1.1400 as bearish flag remains in play",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-approaches-11400-as-bearish-flag-remains-in-play-202607020432",
+      "datum": "2026-07-02T04:32:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Edges lower below 185.00, while near-term bullish bias holds",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-edges-lower-below-18500-while-near-term-bullish-bias-holds-202607020405",
+      "datum": "2026-07-02T04:05:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold trades with positive bias on softer USD; Fed hike bets cap gains ahead of US NFP",
+      "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-on-softer-usd-fed-hike-bets-cap-gains-ahead-of-us-nfp-202607020354",
+      "datum": "2026-07-02T03:54:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD rises above $60.00 amid less hawkish Fed tone",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-6000-amid-less-hawkish-fed-tone-202607020341",
+      "datum": "2026-07-02T03:41:26.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "U.S.-Iran talks focus on Hormuz as toll dispute threatens nuclear deal",
-      "link": "https://investinglive.com/news/us-iran-talks-focus-on-hormuz-as-toll-dispute-threatens-nuclear-deal-20260701/",
-      "datum": "2026-07-01T16:55:43.000Z"
+      "titel": "investingLive Asia-Pacific FX news wrap: Tech sell off slams Kospi, Nikkei lower too",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-tech-sell-off-slams-kospi-nikkei-lower-too-20260702/",
+      "datum": "2026-07-02T03:32:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI extends losses as recovering Hormuz flows, OPEC+ supply outlook weigh",
-      "link": "https://www.fxstreet.com/news/wti-extends-losses-as-recovering-hormuz-flows-opec-supply-outlook-weigh-202607011628",
-      "datum": "2026-07-01T16:28:35.000Z"
+      "titel": "United States Dollar Index trades subduedly around 101.35 ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-subduedly-around-10135-ahead-of-us-nfp-data-202607020321",
+      "datum": "2026-07-02T03:21:13.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Kevin Warsh offers no policy clues: Why markets still got their answer",
-      "link": "https://www.fxstreet.com/news/kevin-warsh-offers-no-policy-clues-why-markets-still-got-their-answer-202607011626",
-      "datum": "2026-07-01T16:26:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average tops records on borrowed strength",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tops-records-on-borrowed-strength-202607011606",
-      "datum": "2026-07-01T16:06:57.000Z"
+      "titel": "Australian dollar holds ground vs Japanese Yen amid May Trade Deficit",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-vs-japanese-yen-amid-may-trade-deficit-202607020251",
+      "datum": "2026-07-02T02:51:04.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Fox Reporting: Trump decided not to renew USMCA",
-      "link": "https://investinglive.com/news/fox-reporting-trump-decided-not-to-renew-usmca-20260701/",
-      "datum": "2026-07-01T16:04:34.000Z"
+      "titel": "US payrolls preview: June NFP seen slowing sharply to 110k after May's surge",
+      "link": "https://investinglive.com/news/us-payrolls-preview-june-nfp-seen-slowing-sharply-to-110k-after-mays-surge-20260702/",
+      "datum": "2026-07-02T02:35:48.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound climbs on soft US data despite Warsh’s hawkish tilt",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-on-soft-us-data-despite-warshs-hawkish-tilt-202607011546",
-      "datum": "2026-07-01T15:46:00.000Z"
+      "titel": "British Pound gathers strength to near 1.3300 on Burnham’s commitment to fiscal rules, NFP data loom",
+      "link": "https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13300-on-burnhams-commitment-to-fiscal-rules-nfp-data-loom-202607020216",
+      "datum": "2026-07-02T02:16:35.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Warsh stays on message as inflation remains the Fed's top priority",
-      "link": "https://www.fxstreet.com/news/warsh-stays-on-message-as-inflation-remains-the-feds-top-priority-202607011526",
-      "datum": "2026-07-01T15:26:04.000Z"
+      "titel": "New Zealand Dollar remains close to one-week top vs USD; looks to US NFP for fresh impetus",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-close-to-one-week-top-vs-usd-looks-to-us-nfp-for-fresh-impetus-202607020207",
+      "datum": "2026-07-02T02:07:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar as stronger US Dollar offsets cautious Aussie outlook",
-      "link": "https://www.fxstreet.com/news/australian-dollar-as-stronger-us-dollar-offsets-cautious-aussie-outlook-202607011516",
-      "datum": "2026-07-01T15:16:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro pares losses amid softer-than-expected US data and Warsh's remarks",
-      "link": "https://www.fxstreet.com/news/euro-pares-losses-as-soft-than-expected-us-data-and-warshs-remarks-weigh-on-the-greenback-202607011511",
-      "datum": "2026-07-01T15:11:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Colombia: Hawkish BanRep tightening bias – Societe Generale",
-      "link": "https://www.fxstreet.com/news/colombia-hawkish-banrep-tightening-bias-societe-generale-202607011503",
-      "datum": "2026-07-01T15:03:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver rebounds above $60 as softer US data, Warsh remarks weigh on the US Dollar",
-      "link": "https://www.fxstreet.com/news/silver-rebounds-above-60-as-softer-us-data-warsh-remarks-weigh-on-the-us-dollar-202607011502",
-      "datum": "2026-07-01T15:02:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India: Nowcast points to slower expansion – DBS",
-      "link": "https://www.fxstreet.com/news/india-nowcast-points-to-slower-expansion-dbs-202607011452",
-      "datum": "2026-07-01T14:52:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Solid Q2 rebound supports cautious outlook – NBC",
-      "link": "https://www.fxstreet.com/news/canada-solid-q2-rebound-supports-cautious-outlook-nbc-202607011442",
-      "datum": "2026-07-01T14:42:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Balanced inflation and politics risk – HSBC",
-      "link": "https://www.fxstreet.com/news/united-kingdom-balanced-inflation-and-politics-risk-hsbc-202607011431",
-      "datum": "2026-07-01T14:31:52.000Z"
+      "titel": "Australian Dollar steadies following Trade Balance data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-following-trade-balance-data-202607020155",
+      "datum": "2026-07-02T01:55:26.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "EIA weekly crude oil inventories -3.775 million versus -4.466 million estimate",
-      "link": "https://investinglive.com/news/eia-weekly-crude-oil-inventories-3775-million-versus-4466-million-estimate-20260701/",
-      "datum": "2026-07-01T14:30:11.000Z"
+      "titel": "Australia's trade blows out to big deficit vs. surplus expected",
+      "link": "https://investinglive.com/news/australias-trade-blows-out-to-big-deficit-vs-surplus-expected-20260702/",
+      "datum": "2026-07-02T01:44:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australia’s Trade Balance turns negative in May: What 3,018M deficit means for AUD/USD",
+      "link": "https://www.fxstreet.com/news/australias-trade-balance-turns-negative-in-may-what-3-018m-deficit-means-for-aud-usd-202607020132",
+      "datum": "2026-07-02T01:32:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar languishes near YTD low as USD bulls keenly await US NFP report",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-ytd-low-as-usd-bulls-keenly-await-us-nfp-report-202607020121",
+      "datum": "2026-07-02T01:21:26.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US construction spending for May 0.1% versus 0.1% expected",
-      "link": "https://investinglive.com/news/us-construction-spending-for-may-01-versus-01-expected-20260701/",
-      "datum": "2026-07-01T14:02:26.000Z"
+      "titel": "New Zealand building permits fall in May, down 4% m/m (prior +10.9)",
+      "link": "https://investinglive.com/news/new-zealand-building-permits-fall-in-may-down-4-mm-prior-109-20260701/",
+      "datum": "2026-07-01T22:50:13.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US ISM Manufacturing PMI for June 53.3 versus 54.0 estimate",
-      "link": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-june-533-versus-540-estimate-20260701/",
-      "datum": "2026-07-01T14:00:36.000Z"
+      "titel": "investingLive Americas FX news wrap 1 Jul: Central bankers worry about inflation",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-1-jul-central-bankers-worry-about-inflation-20260701/",
+      "datum": "2026-07-01T20:39:37.000Z"
     }
   ]
 }

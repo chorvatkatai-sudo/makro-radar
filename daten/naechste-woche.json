@@ -355,7 +355,7 @@
     "title": "Halifax House Price Index MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.1",
+    "previous": "-0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -365,7 +365,7 @@
     "title": "Halifax House Price Index YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.5",
+    "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
   },

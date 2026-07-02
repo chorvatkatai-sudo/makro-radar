@@ -1,23 +1,11 @@
 {
-  "stand": "2026-07-02T13:42:11.179Z",
+  "stand": "2026-07-02T13:49:12.767Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: RBNZ governance and housing signals – BNY",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-governance-and-housing-signals-bny-202607021339",
-      "datum": "2026-07-02T13:39:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar gains as weaker US jobs data pressure US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-weaker-us-jobs-data-pressure-us-dollar-202607021336",
-      "datum": "2026-07-02T13:36:13.000Z"
-    },
     {
       "quelle": "FXStreet",
       "titel": "Gold climbs as weak US NFP sends the US Dollar to a two-week low",
@@ -91,10 +79,22 @@
       "datum": "2026-07-02T12:29:05.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Near-term support with higher rate volatility – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-near-term-support-with-higher-rate-volatility-mufg-202607021222",
+      "datum": "2026-07-02T12:22:39.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "Locked and loaded for non-farm payrolls: Eyes on wages",
       "link": "https://investinglive.com/news/locked-and-loaded-for-non-farm-payrolls-eyes-on-wages-20260702/",
       "datum": "2026-07-02T12:11:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso: Policy uncertainty caps nearshoring upside – Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-policy-uncertainty-caps-nearshoring-upside-societe-generale-202607021200",
+      "datum": "2026-07-02T12:00:06.000Z"
     },
     {
       "quelle": "ForexLive",

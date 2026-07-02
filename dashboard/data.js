@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-02T13:42:11.180Z",
+ "erstellt": "2026-07-02T13:49:12.768Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -1439,7 +1439,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Balance of Trade",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "-78.8 $",
    "previous": "-55.9 $",
    "actual": null,
    "quelle": "tradingview"
@@ -3015,15 +3015,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-02T13:42:10.648Z",
+  "stand": "2026-07-02T13:49:12.294Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.77,
+    "wert": 100.75,
     "tagProzent": 0,
-    "wocheProzent": -0.58,
+    "wocheProzent": -0.6,
     "renditeDelta": false,
     "verlauf": [
      99.53,
@@ -3046,17 +3046,17 @@ window.MAKRO_DATA = {
      101.11,
      101.19,
      101.39,
-     100.77,
-     100.77
+     100.75,
+     100.75
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.14,
+    "wert": 16.03,
     "tagProzent": 0,
-    "wocheProzent": -12.33,
+    "wocheProzent": -12.93,
     "renditeDelta": false,
     "verlauf": [
      16.06,
@@ -3079,17 +3079,17 @@ window.MAKRO_DATA = {
      17.65,
      16.45,
      16.59,
-     16.14,
-     16.14
+     16.03,
+     16.03
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 67.73,
+    "wert": 67.81,
     "tagProzent": 0,
-    "wocheProzent": -2.17,
+    "wocheProzent": -2.05,
     "renditeDelta": false,
     "verlauf": [
      96.02,
@@ -3112,17 +3112,17 @@ window.MAKRO_DATA = {
      70.75,
      69.5,
      68.58,
-     67.73,
-     67.73
+     67.81,
+     67.81
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 70.84,
+    "wert": 70.9,
     "tagProzent": 0,
-    "wocheProzent": -1.6,
+    "wocheProzent": -1.51,
     "renditeDelta": false,
     "verlauf": [
      97.81,
@@ -3145,17 +3145,17 @@ window.MAKRO_DATA = {
      73.15,
      72.92,
      71.57,
-     70.84,
-     70.84
+     70.9,
+     70.9
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4130.7,
+    "wert": 4144.4,
     "tagProzent": 0,
-    "wocheProzent": 1.27,
+    "wocheProzent": 1.61,
     "renditeDelta": false,
     "verlauf": [
      4436.7,
@@ -3178,8 +3178,8 @@ window.MAKRO_DATA = {
      4022.3,
      4022.9,
      4068.3,
-     4130.7,
-     4130.7
+     4144.4,
+     4144.4
     ]
    },
    "US02Y": {
@@ -3219,9 +3219,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.481,
+    "wert": 4.473,
     "tagProzent": 0,
-    "wocheProzent": -0.01,
+    "wocheProzent": -0.02,
     "renditeDelta": true,
     "verlauf": [
      4.455,
@@ -3242,17 +3242,17 @@ window.MAKRO_DATA = {
      4.402,
      4.392,
      4.372,
-     4.481,
-     4.481
+     4.473,
+     4.473
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.989,
+    "wert": 4.981,
     "tagProzent": 0,
-    "wocheProzent": 0.05,
+    "wocheProzent": 0.04,
     "renditeDelta": true,
     "verlauf": [
      4.967,
@@ -3273,17 +3273,17 @@ window.MAKRO_DATA = {
      4.856,
      4.858,
      4.864,
-     4.989,
-     4.989
+     4.981,
+     4.981
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 61787.99,
+    "wert": 61860.71,
     "tagProzent": 0,
-    "wocheProzent": 3.79,
+    "wocheProzent": 3.91,
     "renditeDelta": false,
     "verlauf": [
      63543.2,
@@ -3306,8 +3306,8 @@ window.MAKRO_DATA = {
      60138.38,
      58558.86,
      60003.76,
-     61787.99,
-     61787.99
+     61860.71,
+     61860.71
     ]
    },
    "INFL10": {
@@ -3379,7 +3379,7 @@ window.MAKRO_DATA = {
     "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.61,
+  "kurve2s10s": 0.6,
   "cot": {
    "stand": "2026-06-23",
    "waehrungen": {
@@ -3547,25 +3547,13 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-02T13:42:11.179Z",
+  "stand": "2026-07-02T13:49:12.767Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar: RBNZ governance and housing signals – BNY",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-governance-and-housing-signals-bny-202607021339",
-    "datum": "2026-07-02T13:39:15.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar gains as weaker US jobs data pressure US Dollar",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-weaker-us-jobs-data-pressure-us-dollar-202607021336",
-    "datum": "2026-07-02T13:36:13.000Z"
-   },
    {
     "quelle": "FXStreet",
     "titel": "Gold climbs as weak US NFP sends the US Dollar to a two-week low",
@@ -3639,10 +3627,22 @@ window.MAKRO_DATA = {
     "datum": "2026-07-02T12:29:05.000Z"
    },
    {
+    "quelle": "FXStreet",
+    "titel": "US Dollar: Near-term support with higher rate volatility – MUFG",
+    "link": "https://www.fxstreet.com/news/us-dollar-near-term-support-with-higher-rate-volatility-mufg-202607021222",
+    "datum": "2026-07-02T12:22:39.000Z"
+   },
+   {
     "quelle": "ForexLive",
     "titel": "Locked and loaded for non-farm payrolls: Eyes on wages",
     "link": "https://investinglive.com/news/locked-and-loaded-for-non-farm-payrolls-eyes-on-wages-20260702/",
     "datum": "2026-07-02T12:11:31.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Mexican Peso: Policy uncertainty caps nearshoring upside – Societe Generale",
+    "link": "https://www.fxstreet.com/news/mexican-peso-policy-uncertainty-caps-nearshoring-upside-societe-generale-202607021200",
+    "datum": "2026-07-02T12:00:06.000Z"
    },
    {
     "quelle": "ForexLive",

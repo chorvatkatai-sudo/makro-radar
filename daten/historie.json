@@ -2258,7 +2258,7 @@
       "impact": "Medium",
       "prognose": "3.0%",
       "vorher": "3.2%",
-      "actual": null,
+      "actual": "2.8%",
       "notiz": null
     },
     "2026-07-01T05:30:00-04:00|USD|Challenger Job Cuts y/y": {
@@ -2358,7 +2358,7 @@
       "impact": "High",
       "prognose": "53.8",
       "vorher": "54.0",
-      "actual": null,
+      "actual": "53.3",
       "notiz": null
     },
     "2026-07-01T10:00:00-04:00|USD|ISM Manufacturing Prices": {

@@ -2568,8 +2568,8 @@
       "impact": "High",
       "prognose": "114K",
       "vorher": "172K",
-      "actual": null,
-      "notiz": null
+      "actual": "+57K",
+      "notiz": "auto:FRED PAYEMS (Ref 2026-06-01)"
     },
     "2026-07-02T08:30:00-04:00|USD|Unemployment Rate": {
       "datum": "2026-07-02T08:30:00-04:00",
@@ -2578,8 +2578,8 @@
       "impact": "High",
       "prognose": "4.3%",
       "vorher": "4.3%",
-      "actual": null,
-      "notiz": null
+      "actual": "4.2%",
+      "notiz": "auto:FRED UNRATE (Ref 2026-06-01)"
     },
     "2026-07-02T08:30:00-04:00|USD|Unemployment Claims": {
       "datum": "2026-07-02T08:30:00-04:00",

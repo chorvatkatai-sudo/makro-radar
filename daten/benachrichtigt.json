@@ -29,6 +29,8 @@
     "2026-06-18T07:00:00-04:00|GBP|Official Bank Rate",
     "2026-06-18T18:45:00-04:00|NZD|GDP q/q",
     "2026-06-30T08:30:00-04:00|CAD|GDP m/m",
-    "2026-07-01T10:00:00-04:00|USD|ISM Manufacturing PMI"
+    "2026-07-01T10:00:00-04:00|USD|ISM Manufacturing PMI",
+    "2026-07-02T08:30:00-04:00|USD|Non-Farm Employment Change",
+    "2026-07-02T08:30:00-04:00|USD|Unemployment Rate"
   ]
 }

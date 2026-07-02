@@ -654,7 +654,7 @@
     "country": "NZD",
     "title": "RBNZ Interest Rate Decision",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.5%",
     "previous": "2.25%",
     "actual": null,
     "quelle": "tradingview"
@@ -1084,7 +1084,7 @@
     "country": "USD",
     "title": "Existing Home Sales",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4.2",
     "previous": "4.17",
     "actual": null,
     "quelle": "tradingview"
@@ -1105,7 +1105,7 @@
     "title": "EIA Natural Gas Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "87",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1155,7 +1155,7 @@
     "title": "30-Year Bond Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "5.02%",
     "actual": null,
     "quelle": "tradingview"
   },

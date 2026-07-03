@@ -124,7 +124,48 @@
         "NZD/USD": -30
       },
       "mitMarktOverlay": true,
-      "auswertung": null
+      "auswertung": {
+        "treffer": 3,
+        "gesamt": 7,
+        "quote": 43,
+        "details": {
+          "EUR/USD": {
+            "score": -16,
+            "moveProzent": -0.06,
+            "treffer": true
+          },
+          "GBP/USD": {
+            "score": -25,
+            "moveProzent": 0.58,
+            "treffer": false
+          },
+          "USD/JPY": {
+            "score": 18,
+            "moveProzent": -0.17,
+            "treffer": false
+          },
+          "AUD/USD": {
+            "score": -1,
+            "moveProzent": -0.15,
+            "treffer": true
+          },
+          "USD/CAD": {
+            "score": 32,
+            "moveProzent": 0.07,
+            "treffer": true
+          },
+          "USD/CHF": {
+            "score": 24,
+            "moveProzent": -0.18,
+            "treffer": false
+          },
+          "NZD/USD": {
+            "score": -30,
+            "moveProzent": 0.31,
+            "treffer": false
+          }
+        }
+      }
     }
   ]
 }

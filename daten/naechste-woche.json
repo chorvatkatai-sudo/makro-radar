@@ -20,6 +20,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-06T03:35:00.000Z",
+    "country": "JPY",
+    "title": "BoJ JGB Purchase",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-06T07:00:00.000Z",
     "country": "CHF",
     "title": "Unemployment Rate",
@@ -96,16 +106,6 @@
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "0.6%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-07-06T13:20:00.000Z",
-    "country": "USD",
-    "title": "NY Fed Bill Purchases 4 to 12 months",
-    "impact": "Low",
-    "forecast": "3.319",
-    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -314,7 +314,7 @@
     "country": "JPY",
     "title": "Average Cash Earnings YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3.4%",
     "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -384,7 +384,7 @@
     "country": "JPY",
     "title": "Leading Economic Index Prel",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "116.9",
     "previous": "116.1",
     "actual": null,
     "quelle": "tradingview"
@@ -560,11 +560,21 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-07T13:20:00.000Z",
+    "country": "USD",
+    "title": "NY Fed Bill Purchases 4 to 12 months",
+    "impact": "Low",
+    "forecast": "3.319",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-07T14:00:00.000Z",
     "country": "USD",
     "title": "RCM/TIPP Economic Optimism Index",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "45",
     "previous": "42.5",
     "actual": null,
     "quelle": "tradingview"
@@ -634,8 +644,8 @@
     "country": "JPY",
     "title": "Bank Lending YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "5.7",
+    "forecast": "5.8%",
+    "previous": "5.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -724,7 +734,7 @@
     "country": "JPY",
     "title": "Eco Watchers Survey Current",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "44.6",
     "previous": "43.6",
     "actual": null,
     "quelle": "tradingview"
@@ -742,10 +752,20 @@
   {
     "date": "2026-07-08T09:00:00.000Z",
     "country": "GBP",
-    "title": "Conventional Gilt",
+    "title": "Treasury Gilt 2028 Tender",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.219%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-08T09:00:00.000Z",
+    "country": "GBP",
+    "title": "Treasury Gilt 2030 Tender",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.277%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -925,7 +945,7 @@
     "title": "17-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.795%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -984,8 +1004,8 @@
     "country": "GBP",
     "title": "RICS House Price Balance",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "-34",
+    "forecast": "-32%",
+    "previous": "-34%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1210,6 +1230,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-09T17:30:00.000Z",
+    "country": "USD",
+    "title": "Fed Logan Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-09T20:30:00.000Z",
     "country": "USD",
     "title": "Fed Balance Sheet",
@@ -1284,7 +1314,7 @@
     "country": "CHF",
     "title": "Consumer Confidence",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-35",
     "previous": "-38",
     "actual": null,
     "quelle": "tradingview"

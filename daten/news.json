@@ -1,11 +1,71 @@
 {
-  "stand": "2026-07-03T13:53:13.709Z",
+  "stand": "2026-07-03T15:49:49.014Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds weekly gains as Fed hike doubts deepen",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-weekly-gains-as-fed-hike-doubts-deepen-202607031535",
+      "datum": "2026-07-03T15:35:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar rises after upbeat PMIs improve sentiment",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-after-upbeat-pmis-improve-sentiment-202607031531",
+      "datum": "2026-07-03T15:31:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Trade risks and persistence – RBC",
+      "link": "https://www.fxstreet.com/news/canada-trade-risks-and-persistence-rbc-202607031514",
+      "datum": "2026-07-03T15:14:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar strengthens as weaker US labor market weighs on US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-as-weaker-us-labor-market-weighs-on-us-dollar-202607031501",
+      "datum": "2026-07-03T15:01:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Market expectations diverge from data – Commerzbank",
+      "link": "https://www.fxstreet.com/news/oil-market-expectations-diverge-from-data-commerzbank-202607031458",
+      "datum": "2026-07-03T14:58:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Intervention risk rises at multi-decade lows – ABN AMRO",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-rises-at-multi-decade-lows-abn-amro-202607031444",
+      "datum": "2026-07-03T14:44:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen weakens against the US Dollar as traders monitor intervention risks",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-the-us-dollar-as-traders-monitor-intervention-risks-202607031440",
+      "datum": "2026-07-03T14:40:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Japan: Wage data backs rates hike path – Wells Fargo",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-wage-data-backs-rates-hike-path-wells-fargo-202607031430",
+      "datum": "2026-07-03T14:30:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of England : DMP expectations and MPC stance – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-england-dmp-expectations-and-mpc-stance-td-securities-202607031418",
+      "datum": "2026-07-03T14:18:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro area: Indirect inflation effects still pending – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-area-indirect-inflation-effects-still-pending-societe-generale-202607031354",
+      "datum": "2026-07-03T13:54:29.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "The US consumer is \"stressed\" but spending on cats is \"on fire\" according to General Mills",
@@ -23,66 +83,6 @@
       "titel": "Gold eyes first weekly gain in five weeks as weak US NFP delays Fed hike bets",
       "link": "https://www.fxstreet.com/news/gold-extends-gains-as-weak-us-nfp-data-dents-fed-rate-hike-expectations-202607031159",
       "datum": "2026-07-03T13:25:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar edges lower amid falling Oil, softer US jobs data",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-lower-amid-falling-oil-softer-us-jobs-data-202607031321",
-      "datum": "2026-07-03T13:21:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro consolidates against the British Pound after sliding to a one-year low",
-      "link": "https://www.fxstreet.com/news/euro-consolidates-against-the-british-pound-after-sliding-to-a-one-year-low-202607031317",
-      "datum": "2026-07-03T13:17:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Reserve hike talk seen as cost move – Rabobank",
-      "link": "https://www.fxstreet.com/news/european-central-bank-reserve-hike-talk-seen-as-cost-move-rabobank-202607031305",
-      "datum": "2026-07-03T13:05:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Energy risks support ECB bias – MUFG",
-      "link": "https://www.fxstreet.com/news/euro-energy-risks-support-ecb-bias-mufg-202607031246",
-      "datum": "2026-07-03T12:46:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South African Rand: ZAR gains as sukuk plans outlined – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-african-rand-zar-gains-as-sukuk-plans-outlined-societe-generale-202607031229",
-      "datum": "2026-07-03T12:29:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Aluminium: Gulf supply disruptions seen temporary – ING",
-      "link": "https://www.fxstreet.com/news/aluminium-gulf-supply-disruptions-seen-temporary-ing-202607031212",
-      "datum": "2026-07-03T12:12:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Euro stalls below 1.1475 despite US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-stalls-below-11475-despite-us-dollar-weakness-202607031157",
-      "datum": "2026-07-03T11:57:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Services slowdown and labor signals – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-services-slowdown-and-labor-signals-td-securities-202607031157",
-      "datum": "2026-07-03T11:57:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index set for negative weekly close after weak jobs data",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-sets-for-negative-weekly-close-after-weak-jobs-data-202607031152",
-      "datum": "2026-07-03T11:52:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver climbs above $62 on fading Fed rate hike expectations",
-      "link": "https://www.fxstreet.com/news/silver-climbs-above-62-on-fading-fed-rate-hike-expectations-202607031149",
-      "datum": "2026-07-03T11:49:40.000Z"
     },
     {
       "quelle": "ForexLive",

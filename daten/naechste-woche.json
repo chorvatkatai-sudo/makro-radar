@@ -245,7 +245,7 @@
     "title": "Overtime Pay YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "4.2",
+    "previous": "4.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -255,7 +255,7 @@
     "title": "Household Spending MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "1.6",
+    "previous": "1.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -265,7 +265,7 @@
     "title": "Household Spending YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.5",
+    "previous": "-0.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -275,7 +275,7 @@
     "title": "Average Cash Earnings YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.5",
+    "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -985,7 +985,7 @@
     "title": "Inflation Rate YoY",
     "impact": "High",
     "forecast": "",
-    "previous": "1.2",
+    "previous": "1.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -995,7 +995,7 @@
     "title": "Inflation Rate MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.1",
+    "previous": "-0.1%",
     "actual": null,
     "quelle": "tradingview"
   },

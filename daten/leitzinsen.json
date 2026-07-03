@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-06-26",
+  "stand": "2026-07-03",
   "zinsen": [
     {
       "code": "AUD",
@@ -26,7 +26,7 @@
       "satz": 3.625,
       "anzeige": "3,50–3,75%",
       "naechste": "29.7.2026",
-      "erwartung": "Halten, aber Dot Plot zeigt jetzt ERHÖHUNG statt Senkung — Markt preist mögliche Erhöhung im Sept",
+      "erwartung": "Halten. Nach dem Jobschock (+57k) hat der Markt die Sept/Okt-Erhöhung rausgeworfen (wettet frühestens Dez), aber Chef Warsh nennt die Inflation weiter 'zu hoch' — Falken-Kurs strukturell intakt",
       "richtung": "halten"
     },
     {

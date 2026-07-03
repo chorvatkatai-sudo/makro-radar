@@ -166,6 +166,21 @@
           }
         }
       }
+    },
+    {
+      "woche": "2026-07-06",
+      "ausBriefing": "2026-07-03",
+      "paare": {
+        "EUR/USD": -4,
+        "GBP/USD": -3,
+        "USD/JPY": 12,
+        "AUD/USD": 10,
+        "USD/CAD": 20,
+        "USD/CHF": 16,
+        "NZD/USD": -7
+      },
+      "mitMarktOverlay": true,
+      "auswertung": null
     }
   ]
 }

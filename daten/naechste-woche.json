@@ -254,7 +254,7 @@
     "country": "JPY",
     "title": "Household Spending MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.4%",
     "previous": "1.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -264,7 +264,7 @@
     "country": "JPY",
     "title": "Household Spending YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-2.5%",
     "previous": "-0.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -605,7 +605,7 @@
     "title": "Current Account",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3907",
+    "previous": "3907 ¥",
     "actual": null,
     "quelle": "tradingview"
   },

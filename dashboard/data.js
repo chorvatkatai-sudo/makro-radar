@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-02T18:23:26.076Z",
+ "erstellt": "2026-07-03T05:06:25.313Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -2340,20 +2340,20 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Heißer PCE bestätigt die Falken-Fed — der Dollar bleibt König, macht aber vor dem großen Arbeitsmarkt-Bericht (Do) eine Verschnaufpause",
   "tagesnews": {
-   "stand": "2026-07-02",
-   "wochentag": "Donnerstag",
-   "tenor": "NFP-TAG! Der Dollar geht ruhig und leicht weich (Index ~101,3, fuenfter zaher Tag in Folge) in DAS Ereignis der Woche — den vorgezogenen US-Arbeitsmarktbericht heute 14:30 Wien. Nach der gut gelaufenen Rally ist das Rueckschlagrisiko asymmetrisch nach UNTEN. Gestern bestaetigte die Eurozone-Inflation die Abkuehlung (2,8% statt 3,0% erwartet) und die US-Industrie (ISM 53,3) blieb solide — jetzt entscheidet der Jobmotor.",
+   "stand": "2026-07-03",
+   "wochentag": "Freitag",
+   "tenor": "DER DOLLAR HAT EINEN RISS BEKOMMEN. Der US-Jobbericht kam gestern SCHOCKIEREND schwach (nur +57.000 statt +114.000 Jobs) — der Markt hat die Fed-Erhoehung fuer September/Oktober rausgeworfen und wettet jetzt erst auf Dezember. Der Dollar fiel unter 101 (Index 100,86), Gold sprang auf ~4.130$. Heute (Fr 3.7.) sind die US-Boersen wegen des Unabhaengigkeitstags GESCHLOSSEN — duenne Luft, wenig los, der Markt verdaut den Schock.",
    "heute": [
-    "🇺🇸 14:30 Wien: DER US-Arbeitsmarktbericht (NFP) fuer Juni — wegen des Feiertags am Freitag auf HEUTE (Do) vorgezogen. Erwartet werden nur +114.000 neue Jobs (nach +172.000 im Mai) und eine Arbeitslosenquote von 4,3%. Das ist der echte Test der Falken-Fed: Ein schwacher Wert (unter ~100k) koennte die September-Erhoehungs-Wette (~62%) ins Wanken bringen und den hoch gelaufenen Dollar spuerbar druecken. Ein starker Wert bestaetigt die harte Linie und laesst den Dollar wieder anziehen.",
-    "🇺🇸 Zusammen mit dem Jobbericht kommen die Durchschnittsloehne (erwartet +0,3% im Monat): Bleiben die Loehne heiss, rettet das den Dollar selbst bei schwacher Jobzahl — steigende Loehne = mehr Inflationsdruck = Rueckenwind fuer die harte Fed.",
-    "🇺🇸 ACHTUNG duenne Luft: Morgen (Fr 3.7.) sind die US-Boersen wegen des Unabhaengigkeitstags geschlossen. Schon heute Nachmittag ist die Liquiditaet duenn — Bewegungen nach dem Jobbericht koennen deshalb ueberzogen (heftiger als sonst) ausfallen.",
-    "🇯🇵 Der Yen bleibt das Sorgenkind: USD/JPY steht bei ~162,7 — der schwaechste Yen seit ueber 40 Jahren. Das Interventionsrisiko ist gluehend heiss; ein schwacher NFP koennte dem Yen die ersehnte Verschnaufpause bringen, ein starker das Paar noch weiter in die Interventionszone treiben."
+    "🇺🇸 US-BOERSEN GESCHLOSSEN (Unabhaengigkeitstag). Kein US-Handel, keine US-Daten — die Liquiditaet ist heute duenn wie sonst nie. Der Markt ruht und verdaut den Jobschock von gestern. Grosse Bewegungen sind bei so duenner Luft trotzdem moeglich (wenige Auftraege bewegen den Kurs staerker).",
+    "💵 Der Dollar bleibt weich nach dem Jobschock: Der Dollar-Index steht bei nur noch 100,86 (unter der wichtigen 101er-Marke, ~−0,5% auf die Woche). Das ist der ERSTE echte Riss in der wochenlangen Dollar-Rally. Ganz weg ist die Dollar-Staerke aber nicht — die Loehne sind gestern leicht gestiegen (Inflationsgegengewicht), und der naechste grosse Test ist die US-Inflation am 14.7.",
+    "🇪🇺 Reden statt Zahlen: EZB-Chefin Lagarde (10:00 Wien), Bundesbank-Chef Nagel und BOE-Chef Bailey (jeweils 17:00 Wien) sprechen — kein grosses Ereignis, aber die Toene koennen kurzfristig zappeln. Dazu die endgueltigen Dienstleistungs-Stimmungsindizes (PMIs) fuer Europa/UK, meist ohne grosse Ueberraschung.",
+    "😌 Risiko-Freude regiert: Das Angst-Barometer VIX liegt tief bei ~16,9 (−8% auf die Woche), Gold ist auf ~4.130$ gestiegen (+1,3% Woche), Oel bleibt billig (WTI ~68$). Ruhige, risikofreudige Stimmung — das hilft den Risiko-Waehrungen Aussie und Kiwi und nimmt den 'sicheren Haefen' Franken und Yen den Rueckenwind."
    ],
    "gestern": [
-    "🇪🇺 Eurozone-Inflation KUEHLER als erwartet: die Schnellschaetzung fuer Juni kam auf nur 2,8% im Jahr (erwartet 3,0%, im Mai noch 3,2%) — der niedrigste Stand seit Monaten, vor allem weil die Energie billiger wurde (Oel-Effekt). Die Dienstleistungs-Inflation bleibt mit 3,2% aber zaeh. Unterm Strich leicht euro-negativ: Es nimmt der EZB etwas Argument fuer die harte Hand. Meine Prognose (nahe 3,2%) lag hier daneben — die Zahl kam kuehler.",
-    "🇺🇸 US-Industriestimmung (ISM) solide, aber knapp unter Ziel: 53,3 (erwartet 53,8, im Mai 54,0) — die Industrie waechst den 20. Monat in Folge, verliert aber leicht an Schwung. Kein Alarm, aber auch kein neuer Treibstoff fuer den Dollar vor dem Jobbericht.",
-    "🇬🇧 Fed-Chef Warsh und BOE-Chef Bailey sprachen: Warsh betonte, die Inflationsrisiken seien gesunken — das half dem Dollar NICHT, im Gegenteil, es nahm der Falken-Story etwas Schaerfe. Der Dollar gab den vierten/fuenften zahen Tag leicht nach.",
-    "😌 So ruhig wie lange nicht: Das Angst-Barometer VIX ist auf ~16,2 gefallen (−14% auf die Woche) — tiefer Risiko-Appetit. Das nimmt den 'sicheren Haefen' Franken und Yen den Rueckenwind und hilft den Risiko-Waehrungen Aussie und Kiwi. Gold zog leicht an (~4.085$, +1,4% Woche), Oel bleibt billig (WTI ~68$)."
+    "🇺🇸 DER JOB-SCHOCK: Die US-Wirtschaft schuf im Juni nur +57.000 neue Stellen — nicht einmal die Haelfte der erwarteten ~114.000. Dazu wurde der Mai-Wert nach unten korrigiert (auf 129.000). Kinderleicht gesagt: Der Jobmotor der USA ist ins Stottern geraten. Genau davor hatte ich gewarnt (asymmetrisches Risiko nach unten) — und es kam so.",
+    "🇺🇸 Das Kleingedruckte ist gemischt: Die Arbeitslosenquote SANK sogar leicht auf 4,2% (statt erwartet 4,3%) — aber nur, weil Menschen den Arbeitsmarkt verlassen haben (die Erwerbsquote fiel auf 61,5%). Und die Loehne stiegen leicht auf +3,5% im Jahr (von 3,4%) — ein kleines Inflations-Gegengewicht, das den Dollar vor dem freien Fall bewahrt hat.",
+    "💵 Die Fed-Wette KIPPT: Nach der schwachen Zahl hat der Markt die erwartete Zins-Erhoehung fuer September/Oktober praktisch rausgeworfen und rechnet jetzt fruehestens im Dezember damit — 'Zins-Erhoehungen sind dieses Jahr unwahrscheinlich'. Damit hat die 'Falken-Fed'-Story, die den Dollar wochenlang trug, ihren ersten echten Riss. Der Dollar fiel unter 101, Gold sprang auf ~4.130$, die US-Zinsen (Renditen) gaben nach.",
+    "🎯 Mein NFP-Call TRAF: Ich hatte das Rueckschlagrisiko als asymmetrisch nach unten markiert (die Messlatte lag nach der guten Rally zu hoch). Genau das ist passiert — die Enttaeuschung loeste einen groesseren Dollar-Ruecksetzer aus, als eine positive Ueberraschung gebracht haette. Naechster grosser Test: die US-Inflation (CPI) am 14.7."
    ]
   },
   "lage": [
@@ -2367,81 +2367,81 @@ window.MAKRO_DATA = {
   ],
   "waehrungen": {
    "USD": {
-    "stimmung": "bullisch",
-    "score": 32,
-    "grund": "Dollar haelt sich vorn (Index ~101,3, nahe 15-Monats-Hoch) — der heisse PCE (Kern 3,4%) haelt die Falken-Fed und die Realzinsen hoch (10J real ~2,2%). ABER der Score sinkt leicht weiter (von 34), weil der Index jetzt den FUENFTEN zahen Tag nachgibt, Fed-Chef Warsh gestern die Inflationsrisiken kleiner nannte, und heute der vorgezogene Jobbericht (nur +114k erwartet) das Rueckschlagrisiko der gut gelaufenen Rally auf die Spitze treibt. September-Erhoehung ~62% eingepreist — die Linie steht, aber der Schwung fehlt, und alles haengt jetzt am NFP."
+    "stimmung": "neutral",
+    "score": 10,
+    "grund": "GROSSER SCHNITT (von +32 bullisch auf +10 neutral): Der Jobschock gestern (+57k statt +114k) hat der wochenlangen Falken-Fed-Story den ersten echten Riss verpasst. Der Markt hat die September/Oktober-Erhoehung rausgeworfen und wettet erst auf Dezember — 'Erhoehungen dieses Jahr unwahrscheinlich'. Der Dollar-Index fiel unter 101 (100,86). Warum nicht tiefer/negativ? Die Loehne stiegen leicht (3,5% y/y = Inflations-Gegengewicht), der Realzins bleibt mit ~2,2% hoch, und die naechste Weiche stellt erst die US-Inflation am 14.7. Kurzum: Der Trend ist angeknackst, aber nicht gebrochen — deshalb neutral statt baerisch."
    },
    "EUR": {
     "stimmung": "bärisch",
-    "score": -24,
-    "grund": "Etwas baerischer (von −22): Die Eurozonen-Inflation kam gestern KUEHLER als erwartet (2,8% statt 3,0%, im Mai noch 3,2%, tiefster Stand seit Monaten) — damit verliert der Euro sein wichtigstes Stuetz-Argument (harte EZB). Die Dienstleistungen bleiben mit 3,2% zwar zaeh, aber die Gesamtrichtung weist nach unten. Dazu schwache PMIs und der US-Zinsabstand. Gegenkraft bleibt nur der generell weiche Dollar vor dem NFP und die COT-Euro-Longs (+30k, einzige Netto-Long unter den Majors). EUR/USD ~1,14."
+    "score": -10,
+    "grund": "Deutlich weniger baerisch (von −24): Der eingebrochene Dollar hebt EUR/USD, das Paar erholte sich Richtung 1,15. ABER der Euro hat KEINE eigene Staerke — die Eurozonen-Inflation kam kuehler (2,8% statt 3,0%, tiefster Stand seit Monaten), die Wirtschaft schwaechelt (PMIs schrumpfen). Der Euro steigt also nur, WEIL der Dollar faellt, nicht aus eigener Kraft. Stuetzend bleiben die COT-Euro-Longs (+30k, einzige Netto-Long unter den Majors)."
    },
    "GBP": {
     "stimmung": "bärisch",
-    "score": -18,
-    "grund": "Gemischt mit Schlagseite nach unten: Schlagzeilen-Inflation kühl (2,8%), aber Dienstleistungen heiß (3,7%) und 2 BOE-Mitglieder wollten zuletzt erhöhen. Die Wirtschaft schrumpfte zuletzt (−0,1%) — Stagflations-Schatten. Gegen den starken Dollar verliert das Pfund, aber die COT-Short-Position ist schon stark gedehnt (Anteil −22%, erhöht) — Rückschlagrisiko bei einem Dollar-Wackler."
+    "score": -8,
+    "grund": "Weniger baerisch (von −18): Der fallende Dollar hilft dem Pfund. Eigene Lage gemischt — Schlagzeilen-Inflation kuehl (2,8%), aber Dienstleistungen heiss (3,7%) und 2 BOE-Mitglieder wollten zuletzt erhoehen; die Wirtschaft schrumpfte zuletzt (−0,1%, Stagflations-Schatten). Die COT-Short ist stark gedehnt (Anteil −22%) — bei einem weichen Dollar Rueckschlagrisiko nach oben. Heute spricht BOE-Chef Bailey."
    },
    "JPY": {
     "stimmung": "neutral",
-    "score": 8,
-    "grund": "Strukturell klar besser: Der Tankan sprang gestern auf 22 (bester seit 2018) und Tokios Inflation festigt sich — das festigt die BOJ-Linie fuer weitere Zinsschritte, echter Rueckhalt fuer den Yen. ABER kurzfristig regiert der Carry-Handel: USD/JPY klebt bei ~162,7 (schwaechster Yen seit 40+ Jahren). Zins-Aussicht und Kursschwaeche heben sich auf; die Intervention bleibt das Joker-As nach unten."
+    "score": 14,
+    "grund": "Etwas besser (von +8): Der Jobschock drueckte die US-Renditen — das verkleinert den Zinsabstand, der den Yen wochenlang schwach hielt, und bringt USD/JPY etwas Erleichterung. Strukturell ohnehin klar besser: starker Tankan (22, bester seit 2018) + festigende Tokio-Inflation stuetzen die BOJ-Linie fuer weitere Zinsschritte. ABER USD/JPY steht noch immer extrem hoch bei ~162 (schwaechster Yen seit 40+ Jahren) — das Interventionsrisiko bleibt das Joker-As, deshalb der Score bewusst gedeckelt."
    },
    "CHF": {
     "stimmung": "bärisch",
-    "score": -18,
-    "grund": "SNB bleibt bei 0% — null Zinsvorteil. Etwas bärischer als gestern (von −16): Das Angst-Barometer VIX ist auf 17,7 GESUNKEN (−9% auf die Woche, Risikofreude kehrt zurück) — damit fällt der Hafen-Bonus weg, den der Franken letzte Woche bei höherer Nervosität noch hatte. Ohne Krisenangst und ohne Zins bleibt der Franken eine der schwächeren Währungen."
+    "score": -10,
+    "grund": "Weniger baerisch (von −18) dank fallendem Dollar. Aber die eigene Lage bleibt schwach: SNB bei 0% (null Zinsvorteil) UND kein Hafen-Bonus, weil das Angst-Barometer VIX tief liegt (~16,9, Risikofreude regiert). Ohne Krisenangst und ohne Zins bleibt der Franken eine der schwaecheren Waehrungen — er profitiert nur passiv von der Dollar-Schwaeche."
    },
    "CAD": {
     "stimmung": "bärisch",
-    "score": -16,
-    "grund": "Weniger baerisch (von −20): Kanadas BIP erholte sich im April auf +0,5% (staerkstes Plus seit Juli 2025) — die Wirtschaft ist NICHT in der Rezession, erste echte Stuetze fuer den Loonie seit Wochen. Gegenkraft bleibt das billige Oel (WTI ~70$), das die Rohstoff-Waehrung direkt trifft, und die BOC, die ueber die heisse Schlagzeilen-Inflation (Kern am 2%-Ziel) hinwegschaut."
+    "score": -10,
+    "grund": "Weniger baerisch (von −16): Der fallende Dollar hilft, und Kanadas BIP erholte sich zuletzt (+0,4% im April, keine Rezession). Gegenkraft bleibt das billige Oel (WTI ~68$), das die Rohstoff-Waehrung Loonie direkt bremst, und die BOC, die ueber die benzin-getriebene Inflation hinwegschaut. Unterm Strich schwach, aber vom Dollar-Einbruch gestuetzt."
    },
    "AUD": {
     "stimmung": "neutral",
-    "score": 4,
-    "grund": "Der relative Gewinner: starker Arbeitsmarkt (+40.300 Jobs) + heißer Kern (Trimmed Mean 3,6%, höchster seit Sept 2024) halten die RBA hart und machen den Aussie zur widerstandsfähigsten Risiko-Währung. Etwas höher (von +2): Das Angst-Barometer VIX ist gefallen (17,7, Risikofreude zurück) — das gibt der Risiko-Währung Aussie Rückenwind, und die Dollar-Rally verliert weiter Schwung. COT zeigt den Aussie fast neutral positioniert (kein Crowding)."
+    "score": 16,
+    "grund": "Klarer Gewinner-Kandidat (von +4): Gleich zwei Rueckenwinde — der eingebrochene Dollar UND die risikofreudige Stimmung (VIX tief ~16,9) heben die Risiko-Waehrung Aussie. Dazu die eigene Story: starker Arbeitsmarkt (+40.300 Jobs) + heisser Kern (Trimmed Mean 3,6%) halten die RBA hart. COT zeigt den Aussie fast neutral positioniert (kein Crowding, sauberer Aufwaertsspielraum)."
    },
    "NZD": {
     "stimmung": "bärisch",
-    "score": -20,
-    "grund": "Niedriger Zins (2,25%), BIP zuletzt knapp verfehlt, keine eigene Story gegen den Dollar — er gehört zu den Schwächsten. Etwas weniger bärisch als gestern (von −22): Das Angst-Barometer VIX ist gefallen (Risikofreude zurück), das hilft dem Kiwi als Risiko-Währung ein Stück. Dazu ist die COT-Short-Position EXTREM gedehnt (Anteil −53%, z-Score −2,1 = ‚extrem‘) — hohes Squeeze-Risiko, falls der Dollar dreht."
+    "score": -8,
+    "grund": "Deutlich weniger baerisch (von −20): Der fallende Dollar plus die Risikofreude (VIX tief) heben den Kiwi als Risiko-Waehrung. Eigene Lage bleibt schwach (niedriger Zins 2,25%, BIP zuletzt knapp verfehlt) — die Erholung kommt von aussen. WICHTIG: Die COT-Short ist EXTREM gedehnt (Anteil −53%, z-Score −2,1 = ‚extrem‘) → bei fallendem Dollar hohes Squeeze-Risiko nach oben, das kann den Kiwi ueberproportional anschieben."
    }
   },
   "paare": [
    {
-    "paar": "USD/CAD",
+    "paar": "AUD/USD",
     "score": 16,
-    "treiber": "Weniger aufwaerts (von 22): Kanadas BIP erholte sich (+0,5% im April, keine Rezession) — erste echte Loonie-Stuetze seit Wochen. Dollar oben, aber vierter zaher Tag. Gegenkraft bleibt das billige Oel (WTI ~70$). Der eigentliche Showdown ist der US-Jobbericht am Donnerstag."
-   },
-   {
-    "paar": "USD/CHF",
-    "score": 18,
-    "treiber": "Etwas fester (von 16): Dollar oben (hoher Realzins), Franken ohne Zins UND ohne Hafen-Bonus — der VIX ist gefallen (Risikofreude zurück), die Krisennachfrage nach dem Franken lässt nach. Gegenkraft bleibt nur der generell weiche Dollar vor dem Jobbericht. Tendenz leicht aufwärts."
+    "treiber": "Klar ins Plus gedreht (von +2): Doppel-Rueckenwind — der eingebrochene Dollar (Jobschock +57k) UND die Risikofreude (VIX tief ~16,9) heben die Risiko-Waehrung Aussie. Dazu haelt die eigene Story (starke Jobs +40.300, heisser Kern 3,6%, RBA hart) die RBA hart. COT fast neutral = sauberer Aufwaertsspielraum. Track-Record noch duenn (1/2)."
    },
    {
     "paar": "EUR/USD",
-    "score": -22,
-    "treiber": "Etwas baerischer (von −20): Die Eurozonen-Inflation kam gestern kuehler als erwartet (2,8% statt 3,0%) — der Euro verliert sein Harte-EZB-Argument. Zinsabstand und schwache PMIs sprechen ohnehin gegen ihn (steht ~1,14). Deckelnd wirkt nur der fuenfte weiche Dollar-Tag + Euro-COT-Longs (+30k). Der grosse Schluessel ist jetzt der US-Jobbericht HEUTE 14:30 — ein schwacher NFP koennte das Paar kraeftig nach oben schiessen lassen (Track-Record dieses Paars bisher 1/2, noch duenn)."
-   },
-   {
-    "paar": "NZD/USD",
-    "score": -18,
-    "treiber": "Schwache Story: niedriger NZ-Zins, verfehltes BIP. Aber weniger bärisch (von −22): der gefallene VIX (Risikofreude zurück) hilft dem Kiwi als Risiko-Währung, und der Dollar gibt nach. Dazu ist die COT-Short EXTREM gedehnt (Anteil −53%, z-Score −2,1) — hohe Squeeze-Gefahr, falls der Dollar dreht."
+    "score": 10,
+    "treiber": "Ins Plus gedreht (von −22): Der Jobschock hat den Dollar unter 101 gedrueckt, das Paar erholte sich Richtung 1,15. ABER Vorsicht — der Euro steigt nur, WEIL der Dollar faellt, nicht aus eigener Kraft (Euro-Inflation kuehl 2,8%, PMIs schrumpfen). Stuetzend die Euro-COT-Longs (+30k). Track-Record dieses Paars bisher 1/2, noch duenn."
    },
    {
     "paar": "GBP/USD",
-    "score": -16,
-    "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß 3,7%), gegen den Dollar überwiegt die Schwäche, dazu die Stagflations-Sorge. Etwas weniger bärisch (von −18), weil der Dollar nachgibt. ACHTUNG: COT-Short ist extrem gedehnt (z-Score −2,3 = ‚extrem‘) — Rückschlagrisiko. Dieses Paar hat bisher den besten Track-Record (2/2), Stichprobe aber noch dünn."
+    "score": 10,
+    "treiber": "Ins Plus gedreht (von −16): Der fallende Dollar hebt das Pfund. Eigene Lage gemischt (Schlagzeile kuehl 2,8%, Dienstleistungen heiss 3,7%, Stagflations-Schatten). Die COT-Short ist extrem gedehnt (z-Score −2,3 = ‚extrem‘) → zusaetzliches Squeeze-Potenzial nach oben bei weichem Dollar. Bestes Track-Record der Paare (2/2), Stichprobe aber noch duenn."
+   },
+   {
+    "paar": "NZD/USD",
+    "score": 8,
+    "treiber": "Ins Plus gedreht (von −18): Der fallende Dollar plus die Risikofreude (VIX tief) heben den Kiwi. Eigene Story bleibt schwach (niedriger Zins, verfehltes BIP) — die Erholung kommt von aussen. Die COT-Short ist EXTREM gedehnt (Anteil −53%, z-Score −2,1) → hohe Squeeze-Gefahr, die den Kiwi ueberproportional anschieben kann."
+   },
+   {
+    "paar": "USD/CAD",
+    "score": -4,
+    "treiber": "Ins Minus gedreht (von +16): Der eingebrochene Dollar zieht das Paar nach unten, und Kanadas BIP erholte sich zuletzt (+0,4%). Gegenkraft bleibt das billige Oel (WTI ~68$), das den Loonie bremst und den Fall des Paares deckelt — deshalb nur leicht negativ, nicht stark."
+   },
+   {
+    "paar": "USD/CHF",
+    "score": -6,
+    "treiber": "Ins Minus gedreht (von +18): Der fallende Dollar drueckt das Paar. Der Franken hat zwar selbst keine Staerke (SNB 0%, kein Hafen-Bonus bei tiefem VIX), aber die Dollar-Schwaeche ueberwiegt hier klar. Tendenz leicht abwaerts."
    },
    {
     "paar": "USD/JPY",
-    "score": 6,
-    "treiber": "Trend nur noch minimal bullish (von 8): Der starke Tankan (22, bester seit 2018) festigt die BOJ-Linie und die US-Renditen geben nach. Bei ~162,7 (schwaechster Yen seit 40+ Jahren) ist das INTERVENTIONSRISIKO gluehend — Japans Finanzministerium kann das Paar in Minuten nach unten reissen. Risiko klar asymmetrisch nach unten; eigener Track-Record bisher 0/2 (Vorsicht)."
-   },
-   {
-    "paar": "AUD/USD",
-    "score": 2,
-    "treiber": "Knapp ins Plus gedreht (von −2): Der Aussie ist der relative Gewinner (starke Jobs +40.300, heißer Kern 3,6%, RBA bleibt hart), der gefallene VIX (Risikofreude zurück) gibt der Risiko-Währung jetzt Rückenwind statt Gegenwind, und der Dollar gibt nach. Track-Record noch dünn (1/2)."
+    "score": -8,
+    "treiber": "Ins Minus gedreht (von +6): Der Jobschock drueckte die US-Renditen → der Zinsabstand, der den Yen schwach hielt, schrumpft, und der Yen bekommt Erleichterung. Bei ~162 (schwaechster Yen seit 40+ Jahren) ist das INTERVENTIONSRISIKO weiter gluehend — es verstaerkt jetzt die Abwaertsrichtung. Vorsicht: eigener Track-Record bisher 0/2, deshalb der Score bewusst modest gehalten."
    }
   ],
   "wochenausblick": {
@@ -3477,73 +3477,73 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -22,
+   "baseScore": 10,
    "tiltCot": 2,
    "tiltZins": 0,
    "tiltGesamt": 2,
-   "score": -20,
+   "score": 12,
    "cotExtrem": null,
-   "treiber": "Etwas baerischer (von −20): Die Eurozonen-Inflation kam gestern kuehler als erwartet (2,8% statt 3,0%) — der Euro verliert sein Harte-EZB-Argument. Zinsabstand und schwache PMIs sprechen ohnehin gegen ihn (steht ~1,14). Deckelnd wirkt nur der fuenfte weiche Dollar-Tag + Euro-COT-Longs (+30k). Der grosse Schluessel ist jetzt der US-Jobbericht HEUTE 14:30 — ein schwacher NFP koennte das Paar kraeftig nach oben schiessen lassen (Track-Record dieses Paars bisher 1/2, noch duenn)."
+   "treiber": "Ins Plus gedreht (von −22): Der Jobschock hat den Dollar unter 101 gedrueckt, das Paar erholte sich Richtung 1,15. ABER Vorsicht — der Euro steigt nur, WEIL der Dollar faellt, nicht aus eigener Kraft (Euro-Inflation kuehl 2,8%, PMIs schrumpfen). Stuetzend die Euro-COT-Longs (+30k). Track-Record dieses Paars bisher 1/2, noch duenn."
   },
   {
    "paar": "GBP/USD",
-   "baseScore": -16,
+   "baseScore": 10,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": -21,
+   "score": 5,
    "cotExtrem": "extrem",
-   "treiber": "Pfund gemischt (Schlagzeile kühl, Dienstleistungen heiß 3,7%), gegen den Dollar überwiegt die Schwäche, dazu die Stagflations-Sorge. Etwas weniger bärisch (von −18), weil der Dollar nachgibt. ACHTUNG: COT-Short ist extrem gedehnt (z-Score −2,3 = ‚extrem‘) — Rückschlagrisiko. Dieses Paar hat bisher den besten Track-Record (2/2), Stichprobe aber noch dünn."
+   "treiber": "Ins Plus gedreht (von −16): Der fallende Dollar hebt das Pfund. Eigene Lage gemischt (Schlagzeile kuehl 2,8%, Dienstleistungen heiss 3,7%, Stagflations-Schatten). Die COT-Short ist extrem gedehnt (z-Score −2,3 = ‚extrem‘) → zusaetzliches Squeeze-Potenzial nach oben bei weichem Dollar. Bestes Track-Record der Paare (2/2), Stichprobe aber noch duenn."
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 6,
+   "baseScore": -8,
    "tiltCot": 10,
    "tiltZins": 0,
    "tiltGesamt": 10,
-   "score": 16,
+   "score": 2,
    "cotExtrem": null,
-   "treiber": "Trend nur noch minimal bullish (von 8): Der starke Tankan (22, bester seit 2018) festigt die BOJ-Linie und die US-Renditen geben nach. Bei ~162,7 (schwaechster Yen seit 40+ Jahren) ist das INTERVENTIONSRISIKO gluehend — Japans Finanzministerium kann das Paar in Minuten nach unten reissen. Risiko klar asymmetrisch nach unten; eigener Track-Record bisher 0/2 (Vorsicht)."
+   "treiber": "Ins Minus gedreht (von +6): Der Jobschock drueckte die US-Renditen → der Zinsabstand, der den Yen schwach hielt, schrumpft, und der Yen bekommt Erleichterung. Bei ~162 (schwaechster Yen seit 40+ Jahren) ist das INTERVENTIONSRISIKO weiter gluehend — es verstaerkt jetzt die Abwaertsrichtung. Vorsicht: eigener Track-Record bisher 0/2, deshalb der Score bewusst modest gehalten."
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 2,
+   "baseScore": 16,
    "tiltCot": -2,
    "tiltZins": 0,
    "tiltGesamt": -2,
-   "score": 0,
+   "score": 14,
    "cotExtrem": null,
-   "treiber": "Knapp ins Plus gedreht (von −2): Der Aussie ist der relative Gewinner (starke Jobs +40.300, heißer Kern 3,6%, RBA bleibt hart), der gefallene VIX (Risikofreude zurück) gibt der Risiko-Währung jetzt Rückenwind statt Gegenwind, und der Dollar gibt nach. Track-Record noch dünn (1/2)."
+   "treiber": "Klar ins Plus gedreht (von +2): Doppel-Rueckenwind — der eingebrochene Dollar (Jobschock +57k) UND die Risikofreude (VIX tief ~16,9) heben die Risiko-Waehrung Aussie. Dazu haelt die eigene Story (starke Jobs +40.300, heisser Kern 3,6%, RBA hart) die RBA hart. COT fast neutral = sauberer Aufwaertsspielraum. Track-Record noch duenn (1/2)."
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 16,
+   "baseScore": -4,
    "tiltCot": 10,
    "tiltZins": 0,
    "tiltGesamt": 10,
-   "score": 26,
+   "score": 6,
    "cotExtrem": null,
-   "treiber": "Weniger aufwaerts (von 22): Kanadas BIP erholte sich (+0,5% im April, keine Rezession) — erste echte Loonie-Stuetze seit Wochen. Dollar oben, aber vierter zaher Tag. Gegenkraft bleibt das billige Oel (WTI ~70$). Der eigentliche Showdown ist der US-Jobbericht am Donnerstag."
+   "treiber": "Ins Minus gedreht (von +16): Der eingebrochene Dollar zieht das Paar nach unten, und Kanadas BIP erholte sich zuletzt (+0,4%). Gegenkraft bleibt das billige Oel (WTI ~68$), das den Loonie bremst und den Fall des Paares deckelt — deshalb nur leicht negativ, nicht stark."
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 18,
+   "baseScore": -6,
    "tiltCot": 10,
    "tiltZins": 0,
    "tiltGesamt": 10,
-   "score": 28,
+   "score": 4,
    "cotExtrem": null,
-   "treiber": "Etwas fester (von 16): Dollar oben (hoher Realzins), Franken ohne Zins UND ohne Hafen-Bonus — der VIX ist gefallen (Risikofreude zurück), die Krisennachfrage nach dem Franken lässt nach. Gegenkraft bleibt nur der generell weiche Dollar vor dem Jobbericht. Tendenz leicht aufwärts."
+   "treiber": "Ins Minus gedreht (von +18): Der fallende Dollar drueckt das Paar. Der Franken hat zwar selbst keine Staerke (SNB 0%, kein Hafen-Bonus bei tiefem VIX), aber die Dollar-Schwaeche ueberwiegt hier klar. Tendenz leicht abwaerts."
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -18,
+   "baseScore": 8,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": -23,
+   "score": 3,
    "cotExtrem": "extrem",
-   "treiber": "Schwache Story: niedriger NZ-Zins, verfehltes BIP. Aber weniger bärisch (von −22): der gefallene VIX (Risikofreude zurück) hilft dem Kiwi als Risiko-Währung, und der Dollar gibt nach. Dazu ist die COT-Short EXTREM gedehnt (Anteil −53%, z-Score −2,1) — hohe Squeeze-Gefahr, falls der Dollar dreht."
+   "treiber": "Ins Plus gedreht (von −18): Der fallende Dollar plus die Risikofreude (VIX tief) heben den Kiwi. Eigene Story bleibt schwach (niedriger Zins, verfehltes BIP) — die Erholung kommt von aussen. Die COT-Short ist EXTREM gedehnt (Anteil −53%, z-Score −2,1) → hohe Squeeze-Gefahr, die den Kiwi ueberproportional anschieben kann."
   }
  ],
  "news": {

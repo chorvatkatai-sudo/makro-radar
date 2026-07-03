@@ -354,7 +354,7 @@
     "country": "GBP",
     "title": "Halifax House Price Index MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "-0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -604,7 +604,7 @@
     "country": "JPY",
     "title": "Current Account",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "4121 ¥",
     "previous": "3907 ¥",
     "actual": null,
     "quelle": "tradingview"
@@ -984,7 +984,7 @@
     "country": "CNY",
     "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.2%",
     "previous": "1.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1004,8 +1004,8 @@
     "country": "CNY",
     "title": "PPI YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "3.9",
+    "forecast": "4.1%",
+    "previous": "3.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1030,11 +1030,21 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-09T11:30:00.000Z",
+    "country": "EUR",
+    "title": "ECB Monetary Policy Meeting Accounts",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-09T12:30:00.000Z",
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "210",
     "previous": "215",
     "actual": null,
     "quelle": "tradingview"
@@ -1170,22 +1180,12 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-07-09T22:45:00.000Z",
-    "country": "NZD",
-    "title": "Visitor Arrivals YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "8%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
     "date": "2026-07-09T23:50:00.000Z",
     "country": "JPY",
     "title": "PPI MoM",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.9",
+    "forecast": "0.3%",
+    "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1194,8 +1194,8 @@
     "country": "JPY",
     "title": "PPI YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "6.3",
+    "forecast": "6.8%",
+    "previous": "6.3%",
     "actual": null,
     "quelle": "tradingview"
   },

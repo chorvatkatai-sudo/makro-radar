@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-04T05:03:05.090Z",
+ "erstellt": "2026-07-04T05:03:40.221Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -1679,7 +1679,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Building Permits YoY Final",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "5.3%",
    "previous": "10.9%",
    "actual": null,
    "quelle": "tradingview"
@@ -3077,15 +3077,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-03T15:49:48.579Z",
+  "stand": "2026-07-04T05:03:39.836Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.84,
+    "wert": 100.86,
     "tagProzent": 0,
-    "wocheProzent": -0.27,
+    "wocheProzent": -0.25,
     "renditeDelta": false,
     "verlauf": [
      99.41,
@@ -3108,8 +3108,8 @@ window.MAKRO_DATA = {
      101.19,
      101.39,
      100.86,
-     100.84,
-     100.84
+     100.86,
+     100.86
     ]
    },
    "VIX": {
@@ -3117,10 +3117,11 @@ window.MAKRO_DATA = {
     "einheit": "",
     "typ": "index",
     "wert": 15.81,
-    "tagProzent": 0,
-    "wocheProzent": -10.42,
+    "tagProzent": -2.11,
+    "wocheProzent": -14.12,
     "renditeDelta": false,
     "verlauf": [
+     16.06,
      15.4,
      21.51,
      18.92,
@@ -3141,7 +3142,6 @@ window.MAKRO_DATA = {
      16.45,
      16.59,
      16.15,
-     15.81,
      15.81
     ]
    },
@@ -3149,9 +3149,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 68.74,
+    "wert": 68.78,
     "tagProzent": 0,
-    "wocheProzent": -2.84,
+    "wocheProzent": -2.78,
     "renditeDelta": false,
     "verlauf": [
      93.04,
@@ -3174,17 +3174,17 @@ window.MAKRO_DATA = {
      69.5,
      68.58,
      68.69,
-     68.74,
-     68.74
+     68.78,
+     68.78
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 72.03,
+    "wert": 72.13,
     "tagProzent": 0,
-    "wocheProzent": -1.53,
+    "wocheProzent": -1.39,
     "renditeDelta": false,
     "verlauf": [
      95.03,
@@ -3207,17 +3207,17 @@ window.MAKRO_DATA = {
      72.92,
      71.57,
      71.8,
-     72.03,
-     72.03
+     72.13,
+     72.13
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4180.3,
+    "wert": 4187.3,
     "tagProzent": 0,
-    "wocheProzent": 3.93,
+    "wocheProzent": 4.1,
     "renditeDelta": false,
     "verlauf": [
      4475.8,
@@ -3240,8 +3240,8 @@ window.MAKRO_DATA = {
      4022.9,
      4068.3,
      4112.7,
-     4180.3,
-     4180.3
+     4187.3,
+     4187.3
     ]
    },
    "US02Y": {
@@ -3341,9 +3341,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 61787.11,
+    "wert": 62570.19,
     "tagProzent": 0,
-    "wocheProzent": 2.74,
+    "wocheProzent": 4.04,
     "renditeDelta": false,
     "verlauf": [
      64421.32,
@@ -3366,8 +3366,8 @@ window.MAKRO_DATA = {
      58558.86,
      60003.76,
      61485.3,
-     61787.11,
-     61787.11
+     62570.19,
+     62570.19
     ]
    },
    "INFL10": {
@@ -3607,7 +3607,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-03T15:49:49.014Z",
+  "stand": "2026-07-04T05:03:40.220Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3616,81 +3616,81 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
-    "titel": "British Pound holds weekly gains as Fed hike doubts deepen",
-    "link": "https://www.fxstreet.com/news/british-pound-holds-weekly-gains-as-fed-hike-doubts-deepen-202607031535",
-    "datum": "2026-07-03T15:35:08.000Z"
+    "titel": "Forecasting the upcoming week: US Dollar's resilience faces Fed minutes and jobless claims",
+    "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-dollars-resilience-faces-fed-minutes-and-jobless-claims-202607032036",
+    "datum": "2026-07-03T20:36:00.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Australian Dollar rises after upbeat PMIs improve sentiment",
-    "link": "https://www.fxstreet.com/news/australian-dollar-rises-after-upbeat-pmis-improve-sentiment-202607031531",
-    "datum": "2026-07-03T15:31:03.000Z"
+    "titel": "Chinese Yuan: Range trade bias stays neutral against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-bias-stays-neutral-against-us-dollar-uob-202607032028",
+    "datum": "2026-07-03T20:28:00.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Canada: Trade risks and persistence – RBC",
-    "link": "https://www.fxstreet.com/news/canada-trade-risks-and-persistence-rbc-202607031514",
-    "datum": "2026-07-03T15:14:02.000Z"
+    "titel": "NZD/USD Price Forecast: Rebounds above 0.5700, bears guard 0.5750",
+    "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-rebounds-above-05700-bears-guard-05750-202607031948",
+    "datum": "2026-07-03T19:48:19.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "New Zealand Dollar strengthens as weaker US labor market weighs on US Dollar",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-as-weaker-us-labor-market-weighs-on-us-dollar-202607031501",
-    "datum": "2026-07-03T15:01:11.000Z"
+    "titel": "Singapore Dollar: Seen consolidating in range against US Dollar – Commerzbank",
+    "link": "https://www.fxstreet.com/news/singapore-dollar-seen-consolidating-in-range-against-us-dollar-commerzbank-202607031939",
+    "datum": "2026-07-03T19:39:00.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Oil: Market expectations diverge from data – Commerzbank",
-    "link": "https://www.fxstreet.com/news/oil-market-expectations-diverge-from-data-commerzbank-202607031458",
-    "datum": "2026-07-03T14:58:08.000Z"
+    "titel": "Chinese Yuan: Bulls extend gains on PMI resilience – Societe Generale",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-bulls-extend-gains-on-pmi-resilience-societe-generale-202607031851",
+    "datum": "2026-07-03T18:51:00.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Japanese Yen: Intervention risk rises at multi-decade lows – ABN AMRO",
-    "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-rises-at-multi-decade-lows-abn-amro-202607031444",
-    "datum": "2026-07-03T14:44:23.000Z"
+    "titel": "Japanese Yen holds steady amid US Independence Day holiday",
+    "link": "https://www.fxstreet.com/news/japanese-yen-holds-steady-amid-us-independence-day-holiday-202607031838",
+    "datum": "2026-07-03T18:38:42.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Japanese Yen weakens against the US Dollar as traders monitor intervention risks",
-    "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-the-us-dollar-as-traders-monitor-intervention-risks-202607031440",
-    "datum": "2026-07-03T14:40:36.000Z"
+    "titel": "Silver Price Forecast: XAG reclaims $60 as RSI recovery targets $65 breakout",
+    "link": "https://www.fxstreet.com/news/silver-price-forecast-reclaims-60-as-rsi-recovery-targets-65-breakout-202607031833",
+    "datum": "2026-07-03T18:33:39.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Bank of Japan: Wage data backs rates hike path – Wells Fargo",
-    "link": "https://www.fxstreet.com/news/bank-of-japan-wage-data-backs-rates-hike-path-wells-fargo-202607031430",
-    "datum": "2026-07-03T14:30:46.000Z"
+    "titel": "Gold price climbs as weak NFP cool Fed hike bets",
+    "link": "https://www.fxstreet.com/news/gold-price-climbs-as-weak-nfp-cool-fed-hike-bets-202607031824",
+    "datum": "2026-07-03T18:24:29.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Bank of England : DMP expectations and MPC stance – TD Securities",
-    "link": "https://www.fxstreet.com/news/bank-of-england-dmp-expectations-and-mpc-stance-td-securities-202607031418",
-    "datum": "2026-07-03T14:18:52.000Z"
+    "titel": "Euro: Slightly reduced upside as policy paths diverge – ABN AMRO",
+    "link": "https://www.fxstreet.com/news/euro-slightly-reduced-upside-as-policy-paths-diverge-abn-amro-202607031814",
+    "datum": "2026-07-03T18:14:00.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Euro area: Indirect inflation effects still pending – Societe Generale",
-    "link": "https://www.fxstreet.com/news/euro-area-indirect-inflation-effects-still-pending-societe-generale-202607031354",
-    "datum": "2026-07-03T13:54:29.000Z"
+    "titel": "Swiss Franc eyes first weekly gain in five weeks as weak NFP delays Fed hikes",
+    "link": "https://www.fxstreet.com/news/swiss-franc-eyes-first-weekly-gain-in-five-weeks-as-weak-nfp-delays-fed-hikes-202607031801",
+    "datum": "2026-07-03T18:01:42.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Copper: Tariff risks and Chile supply strain – Commerzbank",
+    "link": "https://www.fxstreet.com/news/copper-tariff-risks-and-chile-supply-strain-commerzbank-202607031747",
+    "datum": "2026-07-03T17:47:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Singapore Dollar: Range bias with key levels against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/singapore-dollar-range-bias-with-key-levels-against-us-dollar-uob-202607031716",
+    "datum": "2026-07-03T17:16:58.000Z"
    },
    {
     "quelle": "ForexLive",
     "titel": "The US consumer is \"stressed\" but spending on cats is \"on fire\" according to General Mills",
     "link": "https://investinglive.com/news/the-us-consumer-is-stressed-but-spending-on-cats-is-on-fire-according-to-general-mills-20260703/",
     "datum": "2026-07-03T13:40:49.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Intervention risk elevated on holidays – ING",
-    "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-elevated-on-holidays-ing-202607031338",
-    "datum": "2026-07-03T13:38:30.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold eyes first weekly gain in five weeks as weak US NFP delays Fed hike bets",
-    "link": "https://www.fxstreet.com/news/gold-extends-gains-as-weak-us-nfp-data-dents-fed-rate-hike-expectations-202607031159",
-    "datum": "2026-07-03T13:25:10.000Z"
    },
    {
     "quelle": "ForexLive",

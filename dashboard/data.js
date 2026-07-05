@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-04T05:03:40.221Z",
+ "erstellt": "2026-07-05T05:02:48.388Z",
  "wochenStart": "2026-06-28",
  "events": [
   {
@@ -2420,20 +2420,19 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Der Dollar hat einen Riss — Jobschock (+57k) beendet die Falken-Rally. Ruhige Woche voraus, FOMC-Protokoll (Mi) ist der Test",
   "tagesnews": {
-   "stand": "2026-07-04",
-   "wochentag": "Samstag",
-   "tenor": "WOCHENENDE — der Markt ruht (Sa/So kein Handel). Die grosse Nachricht der Woche bleibt der US-Jobschock von Donnerstag (+57.000 statt ~114.000 Jobs): Er hat der wochenlangen Dollar-Rally den ersten echten Riss verpasst. Der Dollar-Index schloss die Woche weich bei ~100,8 (unter der 101er-Marke), Gold steht nahe Rekord (~4.180$), das Angst-Barometer VIX ist tief bei ~16 (risikofreudig). Naechste Woche ist ruhig — Hoehepunkte sind das FOMC-Protokoll (Mi) und der Kanada-Arbeitsmarkt (Fr). Der naechste grosse Test ist die US-Inflation am 14.7.",
+   "stand": "2026-07-05",
+   "wochentag": "Sonntag",
+   "tenor": "WOCHENENDE, 2. Tag — der Markt ruht weiter (Sa/So kein Devisenhandel), morgen frueh geht es wieder los. Die Lage vom Wochenschluss haelt: Der US-Jobschock vom Donnerstag (+57.000 statt ~114.000 Jobs) hat der wochenlangen Dollar-Rally den ersten Riss verpasst — der Dollar-Index steht weich bei ~100,8 (unter der 101er-Marke), Gold nahe Rekord (~4.180$), das Angst-Barometer VIX tief bei ~16 (risikofreudig). Neue Woche = ruhiger Auftakt; die Hoehepunkte sind das FOMC-Protokoll (Mi) und der Kanada-Arbeitsmarkt (Fr). Der grosse Test bleibt die US-Inflation am 14.7.",
    "heute": [
-    "🛌 WOCHENENDE, MARKT GESCHLOSSEN: Samstag und Sonntag wird an den Devisenmaerkten nicht gehandelt — keine neuen Kurse, keine Daten. Ruhe zum Durchatmen nach einer ereignisreichen Woche. Montag frueh geht es wieder los.",
-    "💵 Stand nach Wochenschluss: Der Dollar bleibt nach dem Jobschock angeknackst (Index ~100,8, unter der wichtigen 101er-Marke). Angeknackst heisst aber NICHT gebrochen — Fed-Chef Warsh nennt die Inflation weiter 'zu hoch', und die US-Zinsen bringen real immer noch satte ~2,25%.",
-    "🥇 Gold nahe Rekord, Oel billig: Gold schloss die Woche bei ~4.180$ (+4% Woche — die Leute suchen Sicherheit), Oel bleibt guenstig (WTI ~68$, −3% Woche). Das guenstige Oel drueckt weiter auf den kanadischen Dollar."
+    "🛌 SONNTAG, MARKT WEITER GESCHLOSSEN: Auch heute kein Devisenhandel — keine neuen Kurse, keine Daten. Ab Montag frueh (Asien-Handelsstart) laeuft es wieder. Nutze die Ruhe.",
+    "💵 Ausgangslage fuer die neue Woche: Der Dollar bleibt nach dem Jobschock angeknackst (Index ~100,8), aber NICHT gebrochen — Fed-Chef Warsh nennt die Inflation weiter „zu hoch“, US-Zinsen bringen real noch satte ~2,25%. Deshalb bleibt mein Dollar-Urteil bewusst neutral statt baerisch.",
+    "📅 Der Fahrplan der neuen Woche (6.–10.7., insgesamt ruhig): Mo US-Dienstleistungs-Stimmung (ISM Services), Mi RBNZ-Zinsentscheid Neuseeland (Pause bei 2,25% erwartet) + FOMC-Protokoll (Blick in die Koepfe der Fed), Do China-Inflation, Fr Kanada-Arbeitsmarkt. Der naechste Hammer ist die US-Inflation am 14.7."
    ],
    "gestern": [
-    "🇺🇸 Freitag (3.7.) war US-Feiertag (Unabhaengigkeitstag): US-Boersen geschlossen, duenne Luft, kaum Bewegung — der Markt hat den Jobschock ruhig verdaut. Der Dollar-Index blieb bei ~100,8.",
-    "🇺🇸 DER JOB-SCHOCK (Do 2.7.): Die US-Wirtschaft schuf im Juni nur +57.000 neue Stellen — nicht einmal die Haelfte der erwarteten ~114.000. Dazu wurden April und Mai zusammen um 74.000 nach unten korrigiert. Der Jobmotor der USA stottert. Genau davor hatte ich gewarnt (asymmetrisches Risiko nach unten) — mein NFP-Call TRAF. 🎯",
-    "💵 Die Fed-Wette KIPPTE: Nach der schwachen Zahl hat der Markt die Zins-Erhoehung fuer September praktisch rausgeworfen (Wahrscheinlichkeit von ~64% auf ~50% gefallen) und rechnet fruehestens im Herbst/Dezember damit. Der Dollar fiel unter 101, Gold sprang, die US-Renditen gaben nach — der erste echte Riss in der 'Falken-Fed'-Story.",
-    "🇪🇺 Euro-Inflation kuehler als gedacht: Die Eurozone meldete diese Woche nur 2,8% Inflation (statt erwarteter 3,0%, vorher 3,2%). Das nimmt der EZB Druck und ist leicht schlecht fuer den Euro — der weiche Dollar federt das aber teils ab.",
-    "📅 Naechste Woche (6.–10.7., ruhig): Mo US-Dienstleistungs-Stimmung (ISM), Mi RBNZ-Zinsentscheid (Neuseeland, Pause bei 2,25% erwartet) + FOMC-Protokoll (zeigt, wie hart die Fed denkt), Do China-Inflation, Fr Kanada-Arbeitsmarkt. Der naechste Hammer ist die US-Inflation am 14.7."
+    "🇺🇸 Rueckblick Woche: DER JOB-SCHOCK (Do 2.7.) praegt alles — die USA schufen im Juni nur +57.000 Stellen statt erwarteter ~114.000, dazu April/Mai zusammen um 74.000 nach unten korrigiert. Der Jobmotor stottert. Mein NFP-Call (Risiko nach unten) TRAF. 🎯",
+    "💵 Die Fed-Wette kippte: Die September-Zinserhoehung wurde praktisch rausgeworfen (Wahrscheinlichkeit von ~64% auf ~50% gefallen), fruehestens Herbst/Dezember. Dollar unter 101, Gold sprang, US-Renditen gaben nach — der erste echte Riss in der 'Falken-Fed'-Story.",
+    "🇪🇺 Euro-Inflation kuehler (2,8% statt 3,0% erwartet, vorher 3,2%): nimmt der EZB Druck, leicht schlecht fuer den Euro — der weiche Dollar federt es teils ab.",
+    "🥇 Gold nahe Rekord (~4.180$, +4% Woche = Flucht in Sicherheit), Oel billig (WTI ~68$, −3% Woche) — das guenstige Oel drueckt weiter auf den kanadischen Dollar."
    ]
   },
   "lage": [

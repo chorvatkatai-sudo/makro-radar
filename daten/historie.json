@@ -3046,7 +3046,7 @@
       "land": "JPY",
       "titel": "Household Spending y/y",
       "impact": "Low",
-      "prognose": "-2.2%",
+      "prognose": "-2.3%",
       "vorher": "-0.5%",
       "actual": null,
       "notiz": null
@@ -3076,7 +3076,7 @@
       "land": "EUR",
       "titel": "German Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.4%",
+      "prognose": "0.1%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -3086,7 +3086,7 @@
       "land": "GBP",
       "titel": "Halifax HPI m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.1%",
       "vorher": "-0.1%",
       "actual": null,
       "notiz": null
@@ -3096,7 +3096,7 @@
       "land": "EUR",
       "titel": "French Trade Balance",
       "impact": "Low",
-      "prognose": "-5.2B",
+      "prognose": "-5.9B",
       "vorher": "-5.6B",
       "actual": null,
       "notiz": null
@@ -3176,7 +3176,7 @@
       "land": "CAD",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "2.4B",
+      "prognose": "2.8B",
       "vorher": "2.7B",
       "actual": null,
       "notiz": null
@@ -3186,7 +3186,7 @@
       "land": "USD",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "-78.5B",
+      "prognose": "-78.3B",
       "vorher": "-55.9B",
       "actual": null,
       "notiz": null
@@ -3296,7 +3296,7 @@
       "land": "JPY",
       "titel": "Economy Watchers Sentiment",
       "impact": "Low",
-      "prognose": "44.6",
+      "prognose": "44.3",
       "vorher": "43.6",
       "actual": null,
       "notiz": null
@@ -3366,7 +3366,7 @@
       "land": "USD",
       "titel": "Consumer Credit m/m",
       "impact": "Low",
-      "prognose": "17.6B",
+      "prognose": "16.9B",
       "vorher": "20.7B",
       "actual": null,
       "notiz": null
@@ -3386,7 +3386,7 @@
       "land": "GBP",
       "titel": "RICS House Price Balance",
       "impact": "Low",
-      "prognose": "-32%",
+      "prognose": "-31%",
       "vorher": "-35%",
       "actual": null,
       "notiz": null
@@ -3416,7 +3416,7 @@
       "land": "CNY",
       "titel": "PPI y/y",
       "impact": "Low",
-      "prognose": "4.2%",
+      "prognose": "4.1%",
       "vorher": "3.9%",
       "actual": null,
       "notiz": null
@@ -3426,7 +3426,7 @@
       "land": "EUR",
       "titel": "German Trade Balance",
       "impact": "Low",
-      "prognose": "14.2B",
+      "prognose": "14.9B",
       "vorher": "14.5B",
       "actual": null,
       "notiz": null
@@ -3486,7 +3486,7 @@
       "land": "USD",
       "titel": "Existing Home Sales",
       "impact": "Low",
-      "prognose": "4.20M",
+      "prognose": "4.19M",
       "vorher": "4.17M",
       "actual": null,
       "notiz": null
@@ -3576,7 +3576,7 @@
       "land": "EUR",
       "titel": "Italian Industrial Production m/m",
       "impact": "Low",
-      "prognose": "-0.2%",
+      "prognose": "-0.1%",
       "vorher": "0.5%",
       "actual": null,
       "notiz": null
@@ -3596,7 +3596,7 @@
       "land": "CAD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "10.0K",
+      "prognose": "11.2K",
       "vorher": "87.8K",
       "actual": null,
       "notiz": null
@@ -3616,7 +3616,7 @@
       "land": "CAD",
       "titel": "Building Permits m/m",
       "impact": "Low",
-      "prognose": "0.5%",
+      "prognose": "1.0%",
       "vorher": "-7.6%",
       "actual": null,
       "notiz": null
@@ -3625,6 +3625,16 @@
       "datum": "2026-07-10T11:00:00-04:00",
       "land": "USD",
       "titel": "Fed Monetary Policy Report",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-07T07:00:00-04:00|USD|FOMC Member Bowman Speaks": {
+      "datum": "2026-07-07T07:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Bowman Speaks",
       "impact": "Low",
       "prognose": "",
       "vorher": "",

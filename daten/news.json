@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-06T14:21:48.934Z",
+  "stand": "2026-07-06T17:36:23.283Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,16 +7,82 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen falls toward multi-decade lows on US Dollar strength",
+      "link": "https://www.fxstreet.com/news/japanese-yen-falls-toward-multi-decade-lows-on-us-dollar-strength-202607061616",
+      "datum": "2026-07-06T16:16:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds range as USD strength meets Fed doubts",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-range-as-usd-strength-meets-fed-doubts-202607061555",
+      "datum": "2026-07-06T15:55:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Range-bound against US Dollar with steady BoE expectations – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-with-steady-boe-expectations-scotiabank-202607061551",
+      "datum": "2026-07-06T15:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro weakens as markets reassess Fed and ECB rate outlook",
+      "link": "https://www.fxstreet.com/news/euro-weakens-against-the-us-dollar-as-markets-reassess-fed-and-ecb-rate-outlook-202607061545",
+      "datum": "2026-07-06T15:45:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB’s Schnabel: Current shock cannot simply be looked through",
+      "link": "https://www.fxstreet.com/news/ecbs-schnabel-current-shock-cannot-simply-be-looked-through-202607061545",
+      "datum": "2026-07-06T15:45:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Waller: Forward guidance can be “valuable tool” but may become a hindrance",
+      "link": "https://www.fxstreet.com/news/feds-waller-forward-guidance-can-be-valuable-tool-but-may-become-a-hindrance-202607061532",
+      "datum": "2026-07-06T15:32:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar trades sideways after softer Australian inflation",
+      "link": "https://www.fxstreet.com/news/australian-dollar-trades-sideways-after-softer-australian-inflation-202607061514",
+      "datum": "2026-07-06T15:14:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Sideways trade within defined band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-sideways-trade-within-defined-band-against-us-dollar-uob-202607061503",
+      "datum": "2026-07-06T15:03:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "LatAm FX: Rotation favors equities and carry – BNY",
+      "link": "https://www.fxstreet.com/news/latam-fx-rotation-favors-equities-and-carry-bny-202607061448",
+      "datum": "2026-07-06T14:48:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD struggles below key SMAs despite easing Fed hike bets",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-below-key-smas-despite-easing-fed-hike-bets-202607061444",
+      "datum": "2026-07-06T14:44:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar dips despite rising Oil prices amid firm US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-despite-rising-oil-prices-amid-firm-us-dollar-202607061442",
+      "datum": "2026-07-06T14:42:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Soft tone against US Dollar with stable ECB expectations – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-soft-tone-against-us-dollar-with-stable-ecb-expectations-scotiabank-202607061433",
+      "datum": "2026-07-06T14:33:11.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "US ISM Non-Manufacturing PMI for June 54.0 vs 54.0 estimate",
       "link": "https://investinglive.com/news/us-ism-non-manufacturing-pmi-for-june-540-vs-540-estimate-20260706/",
       "datum": "2026-07-06T14:00:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Consolidation against US Dollar with limited gains – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidation-against-us-dollar-with-limited-gains-scotiabank-202607061346",
-      "datum": "2026-07-06T13:46:25.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -25,82 +91,16 @@
       "datum": "2026-07-06T13:46:10.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound climbs to January 2008 high against Japanese Yen despite intervention risk",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-to-january-2008-high-against-japanese-yen-despite-intervention-risk-202607061344",
-      "datum": "2026-07-06T13:44:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Testing major support with rebound risk against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/australian-dollar-testing-major-support-with-rebound-risk-against-us-dollar-societe-generale-202607061338",
-      "datum": "2026-07-06T13:38:36.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canada S&P global services PMI index for June 47.1 vs 50.6 in May",
       "link": "https://investinglive.com/news/canada-sp-global-services-pmi-index-for-june-471-vs-506-in-may-20260706/",
       "datum": "2026-07-06T13:35:01.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Oil: Supply normalization pressures prices – BNY",
-      "link": "https://www.fxstreet.com/news/oil-supply-normalization-pressures-prices-bny-202607061324",
-      "datum": "2026-07-06T13:24:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Resilient data backs range rebound against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/euro-resilient-data-backs-range-rebound-against-us-dollar-mufg-202607061306",
-      "datum": "2026-07-06T13:06:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed: Data-dependent hold stance – TD Securities",
-      "link": "https://www.fxstreet.com/news/fed-data-dependent-hold-stance-td-securities-202607061252",
-      "datum": "2026-07-06T12:52:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Reserve Bank of New Zealand: Insurance hike risk balance – ING",
-      "link": "https://www.fxstreet.com/news/reserve-bank-of-new-zealand-insurance-hike-risk-balance-ing-202607061240",
-      "datum": "2026-07-06T12:40:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Turkish Lira: Inflation momentum still too strong – Commerzbank",
-      "link": "https://www.fxstreet.com/news/turkish-lira-inflation-momentum-still-too-strong-commerzbank-202607061228",
-      "datum": "2026-07-06T12:28:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Softer inflation challenges RBA stance – BNY",
-      "link": "https://www.fxstreet.com/news/australian-dollar-softer-inflation-challenges-rba-stance-bny-202607061215",
-      "datum": "2026-07-06T12:15:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Rally pause seen as temporary – Societe Generale",
-      "link": "https://www.fxstreet.com/news/us-dollar-rally-pause-seen-as-temporary-societe-generale-202607061202",
-      "datum": "2026-07-06T12:02:28.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Dollar firms, US stocks eye bounce to start the week",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-firms-us-stocks-eye-bounce-to-start-the-week-20260706/",
       "datum": "2026-07-06T11:53:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold edges lower as firmer US Dollar caps recovery",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-as-firmer-us-dollar-caps-recovery-202607061130",
-      "datum": "2026-07-06T11:30:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Range-bound against US Dollar under Fed support – ING",
-      "link": "https://www.fxstreet.com/news/euro-range-bound-against-us-dollar-under-fed-support-ing-202607061120",
-      "datum": "2026-07-06T11:20:39.000Z"
     },
     {
       "quelle": "ForexLive",

@@ -274,8 +274,8 @@
     "country": "CNY",
     "title": "New Yuan Loans",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "520",
+    "forecast": "2000 CNY",
+    "previous": "520 CNY",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -284,8 +284,8 @@
     "country": "CNY",
     "title": "M2 Money Supply YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "8.6",
+    "forecast": "8.5%",
+    "previous": "8.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -294,8 +294,8 @@
     "country": "CNY",
     "title": "Total Social Financing",
     "impact": "Low",
-    "forecast": "",
-    "previous": "2030",
+    "forecast": "3770 CNY",
+    "previous": "2030 CNY",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -304,8 +304,8 @@
     "country": "CNY",
     "title": "Outstanding Loan Growth YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "5.5",
+    "forecast": "5.4%",
+    "previous": "5.5%",
     "actual": null,
     "quelle": "tradingview"
   },

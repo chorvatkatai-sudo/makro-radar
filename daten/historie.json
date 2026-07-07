@@ -3336,7 +3336,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "-1.0M",
+      "prognose": "-1.9M",
       "vorher": "-3.8M",
       "actual": null,
       "notiz": null
@@ -3496,7 +3496,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "60B",
       "vorher": "87B",
       "actual": null,
       "notiz": null
@@ -3678,6 +3678,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "-2.8%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-08T12:40:00-04:00|CHF|SNB Chairman Schlegel Speaks": {
+      "datum": "2026-07-08T12:40:00-04:00",
+      "land": "CHF",
+      "titel": "SNB Chairman Schlegel Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

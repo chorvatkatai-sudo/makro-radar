@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-07T19:44:38.769Z",
+ "erstellt": "2026-07-07T21:16:43.967Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -174,7 +174,7 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
-   "title": "Halifax HPI m/m",
+   "title": "Lloyds HPI m/m",
    "country": "GBP",
    "date": "2026-07-07T02:03:00-04:00",
    "impact": "Low",
@@ -1154,7 +1154,7 @@ window.MAKRO_DATA = {
    "title": "API Crude Oil Stock Change",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "-0.399",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3130,15 +3130,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-07T19:44:38.202Z",
+  "stand": "2026-07-07T21:16:43.532Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.06,
+    "wert": 101.08,
     "tagProzent": 0,
-    "wocheProzent": -0.13,
+    "wocheProzent": -0.11,
     "renditeDelta": false,
     "verlauf": [
      100.05,
@@ -3160,17 +3160,17 @@ window.MAKRO_DATA = {
      101.39,
      100.86,
      100.85,
-     101.06,
-     101.06
+     101.08,
+     101.08
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.34,
+    "wert": 16.13,
     "tagProzent": 0,
-    "wocheProzent": -0.67,
+    "wocheProzent": -1.95,
     "renditeDelta": false,
     "verlauf": [
      18.92,
@@ -3192,17 +3192,17 @@ window.MAKRO_DATA = {
      16.59,
      16.15,
      15.57,
-     16.34,
-     16.34
+     16.13,
+     16.13
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 72.24,
+    "wert": 72.19,
     "tagProzent": 0,
-    "wocheProzent": 3.94,
+    "wocheProzent": 3.87,
     "renditeDelta": false,
     "verlauf": [
      91.3,
@@ -3224,17 +3224,17 @@ window.MAKRO_DATA = {
      68.58,
      68.69,
      68.55,
-     72.24,
-     72.24
+     72.19,
+     72.19
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 76.04,
+    "wert": 75.86,
     "tagProzent": 0,
-    "wocheProzent": 4.28,
+    "wocheProzent": 4.03,
     "renditeDelta": false,
     "verlauf": [
      94.25,
@@ -3256,17 +3256,17 @@ window.MAKRO_DATA = {
      71.57,
      71.8,
      71.99,
-     76.04,
-     76.04
+     75.86,
+     75.86
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4121.7,
+    "wert": 4116.6,
     "tagProzent": 0,
-    "wocheProzent": 2.46,
+    "wocheProzent": 2.33,
     "renditeDelta": false,
     "verlauf": [
      4335.9,
@@ -3288,8 +3288,8 @@ window.MAKRO_DATA = {
      4068.3,
      4112.7,
      4155.1,
-     4121.7,
-     4121.7
+     4116.6,
+     4116.6
     ]
    },
    "US02Y": {
@@ -3389,9 +3389,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63760,
+    "wert": 63669.06,
     "tagProzent": 0,
-    "wocheProzent": 1.94,
+    "wocheProzent": 1.8,
     "renditeDelta": false,
     "verlauf": [
      64418.45,
@@ -3414,20 +3414,19 @@ window.MAKRO_DATA = {
      63088.3,
      63547.88,
      63995.02,
-     63760,
-     63760
+     63669.06,
+     63669.06
     ]
    },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.24,
+    "wert": 2.25,
     "tagProzent": 0.01,
-    "wocheProzent": 0.04,
+    "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
-     2.38,
      2.36,
      2.36,
      2.35,
@@ -3448,7 +3447,8 @@ window.MAKRO_DATA = {
      2.24,
      2.23,
      2.23,
-     2.24
+     2.24,
+     2.25
     ],
     "quelle": "FRED"
    },
@@ -3456,12 +3456,11 @@ window.MAKRO_DATA = {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.26,
-    "tagProzent": 0.01,
-    "wocheProzent": 0.07,
+    "wert": 2.24,
+    "tagProzent": -0.02,
+    "wocheProzent": 0.06,
     "renditeDelta": true,
     "verlauf": [
-     2.07,
      2.11,
      2.11,
      2.19,
@@ -3482,7 +3481,8 @@ window.MAKRO_DATA = {
      2.16,
      2.2,
      2.25,
-     2.26
+     2.26,
+     2.24
     ],
     "quelle": "FRED"
    }
@@ -3655,13 +3655,43 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-07T19:44:38.768Z",
+  "stand": "2026-07-07T21:16:43.966Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Washington Revokes Iran's Crude Oil Waiver Nineteen Days After Granting It",
+    "link": "https://www.fxstreet.com/news/washington-revokes-irans-crude-oil-waiver-nineteen-days-after-granting-it-202607072104",
+    "datum": "2026-07-07T21:04:32.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "China: Deflation channel for Euro area prices – BNP Paribas",
+    "link": "https://www.fxstreet.com/news/china-deflation-channel-for-euro-area-prices-bnp-paribas-202607072032",
+    "datum": "2026-07-07T20:32:00.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas market news wrap: Oil climbs as Trump reimposes sanctions on Iran",
+    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-climbs-as-trump-reimposes-sanctions-on-iran-20260707/",
+    "datum": "2026-07-07T20:23:38.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Economic & event calendar in Asia 8 July 2026, Reserve Bank New Zealand rate hike expected",
+    "link": "https://investinglive.com/news/economic-event-calendar-in-asia-8-july-2026-reserve-bank-new-zealand-rate-hike-expected-20260707/",
+    "datum": "2026-07-07T20:12:26.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Vietnam: Supportive stance as inflation risks recede – DBS",
+    "link": "https://www.fxstreet.com/news/vietnam-supportive-stance-as-inflation-risks-recede-dbs-202607071949",
+    "datum": "2026-07-07T19:49:00.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Silver Price Forecast: XAG remains bearish as ‘evening star’ forms",
@@ -3729,46 +3759,16 @@ window.MAKRO_DATA = {
     "datum": "2026-07-07T16:57:57.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Dow Jones Industrial Average tags a record, then hides behind its dullest stocks",
-    "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tags-a-record-then-hides-behind-its-dullest-stocks-202607071632",
-    "datum": "2026-07-07T16:32:13.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar weakens as Middle East tensions lift US Dollar",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-middle-east-tensions-lift-us-dollar-ahead-rbnz-hike-202607071628",
-    "datum": "2026-07-07T16:28:38.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Press TV: Traffic in Strait of Hormuz is conducted in accordance with Iran's arrangements",
     "link": "https://investinglive.com/news/press-tv-traffic-in-strait-of-hormuz-is-conducted-in-accordance-with-irans-arrangements-20260707/",
     "datum": "2026-07-07T16:28:13.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Germany: Factory recovery prospects – Commerzbank",
-    "link": "https://www.fxstreet.com/news/germany-factory-recovery-prospects-commerzbank-202607071628",
-    "datum": "2026-07-07T16:28:00.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "One-year inflation expectations hit the highest since 2023 in New York Fed survey",
     "link": "https://investinglive.com/news/one-year-inflation-expectations-hit-the-highest-since-2023-in-new-york-fed-survey-20260707/",
     "datum": "2026-07-07T15:03:37.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Trump on Ukraine war: I think we're going to be settling",
-    "link": "https://investinglive.com/news/trump-on-ukraine-war-i-think-were-going-to-be-settling-20260707/",
-    "datum": "2026-07-07T13:04:55.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US International Trade balance -$77.6B vs -$78.5B estimate",
-    "link": "https://investinglive.com/news/us-international-trade-balance-776b-vs-785b-estimate-20260707/",
-    "datum": "2026-07-07T12:30:16.000Z"
    }
   ]
  },
@@ -4376,5 +4376,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 369
+ "anzahlGespeichert": 370
 };

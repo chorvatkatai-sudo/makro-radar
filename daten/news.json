@@ -1,11 +1,41 @@
 {
-  "stand": "2026-07-07T19:44:38.768Z",
+  "stand": "2026-07-07T21:16:43.966Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Washington Revokes Iran's Crude Oil Waiver Nineteen Days After Granting It",
+      "link": "https://www.fxstreet.com/news/washington-revokes-irans-crude-oil-waiver-nineteen-days-after-granting-it-202607072104",
+      "datum": "2026-07-07T21:04:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Deflation channel for Euro area prices – BNP Paribas",
+      "link": "https://www.fxstreet.com/news/china-deflation-channel-for-euro-area-prices-bnp-paribas-202607072032",
+      "datum": "2026-07-07T20:32:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Oil climbs as Trump reimposes sanctions on Iran",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-climbs-as-trump-reimposes-sanctions-on-iran-20260707/",
+      "datum": "2026-07-07T20:23:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic & event calendar in Asia 8 July 2026, Reserve Bank New Zealand rate hike expected",
+      "link": "https://investinglive.com/news/economic-event-calendar-in-asia-8-july-2026-reserve-bank-new-zealand-rate-hike-expected-20260707/",
+      "datum": "2026-07-07T20:12:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Vietnam: Supportive stance as inflation risks recede – DBS",
+      "link": "https://www.fxstreet.com/news/vietnam-supportive-stance-as-inflation-risks-recede-dbs-202607071949",
+      "datum": "2026-07-07T19:49:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Silver Price Forecast: XAG remains bearish as ‘evening star’ forms",
@@ -73,46 +103,16 @@
       "datum": "2026-07-07T16:57:57.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average tags a record, then hides behind its dullest stocks",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tags-a-record-then-hides-behind-its-dullest-stocks-202607071632",
-      "datum": "2026-07-07T16:32:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar weakens as Middle East tensions lift US Dollar",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-middle-east-tensions-lift-us-dollar-ahead-rbnz-hike-202607071628",
-      "datum": "2026-07-07T16:28:38.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Press TV: Traffic in Strait of Hormuz is conducted in accordance with Iran's arrangements",
       "link": "https://investinglive.com/news/press-tv-traffic-in-strait-of-hormuz-is-conducted-in-accordance-with-irans-arrangements-20260707/",
       "datum": "2026-07-07T16:28:13.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Germany: Factory recovery prospects – Commerzbank",
-      "link": "https://www.fxstreet.com/news/germany-factory-recovery-prospects-commerzbank-202607071628",
-      "datum": "2026-07-07T16:28:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "One-year inflation expectations hit the highest since 2023 in New York Fed survey",
       "link": "https://investinglive.com/news/one-year-inflation-expectations-hit-the-highest-since-2023-in-new-york-fed-survey-20260707/",
       "datum": "2026-07-07T15:03:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump on Ukraine war: I think we're going to be settling",
-      "link": "https://investinglive.com/news/trump-on-ukraine-war-i-think-were-going-to-be-settling-20260707/",
-      "datum": "2026-07-07T13:04:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US International Trade balance -$77.6B vs -$78.5B estimate",
-      "link": "https://investinglive.com/news/us-international-trade-balance-776b-vs-785b-estimate-20260707/",
-      "datum": "2026-07-07T12:30:16.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-07T05:05:44.771Z",
+ "erstellt": "2026-07-07T07:34:11.748Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -176,7 +176,7 @@ window.MAKRO_DATA = {
   {
    "title": "Halifax HPI m/m",
    "country": "GBP",
-   "date": "2026-07-07T02:00:00-04:00",
+   "date": "2026-07-07T02:03:00-04:00",
    "impact": "Low",
    "forecast": "0.1%",
    "previous": "-0.1%",
@@ -3121,15 +3121,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-07T05:05:44.326Z",
+  "stand": "2026-07-07T07:34:11.304Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.88,
+    "wert": 100.94,
     "tagProzent": 0,
-    "wocheProzent": -0.31,
+    "wocheProzent": -0.24,
     "renditeDelta": false,
     "verlauf": [
      100.05,
@@ -3151,17 +3151,17 @@ window.MAKRO_DATA = {
      101.39,
      100.86,
      100.85,
-     100.88,
-     100.88
+     100.94,
+     100.94
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.57,
+    "wert": 15.86,
     "tagProzent": 0,
-    "wocheProzent": -11.78,
+    "wocheProzent": -3.59,
     "renditeDelta": false,
     "verlauf": [
      18.92,
@@ -3183,16 +3183,17 @@ window.MAKRO_DATA = {
      16.59,
      16.15,
      15.57,
-     15.57
+     15.86,
+     15.86
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 68.98,
+    "wert": 69.42,
     "tagProzent": 0,
-    "wocheProzent": -0.75,
+    "wocheProzent": -0.12,
     "renditeDelta": false,
     "verlauf": [
      91.3,
@@ -3214,17 +3215,17 @@ window.MAKRO_DATA = {
      68.58,
      68.69,
      68.55,
-     68.98,
-     68.98
+     69.42,
+     69.42
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 72.49,
+    "wert": 72.94,
     "tagProzent": 0,
-    "wocheProzent": -0.59,
+    "wocheProzent": 0.03,
     "renditeDelta": false,
     "verlauf": [
      94.25,
@@ -3246,17 +3247,17 @@ window.MAKRO_DATA = {
      71.57,
      71.8,
      71.99,
-     72.49,
-     72.49
+     72.94,
+     72.94
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4138.6,
+    "wert": 4139.2,
     "tagProzent": 0,
-    "wocheProzent": 2.88,
+    "wocheProzent": 2.89,
     "renditeDelta": false,
     "verlauf": [
      4335.9,
@@ -3278,8 +3279,8 @@ window.MAKRO_DATA = {
      4068.3,
      4112.7,
      4155.1,
-     4138.6,
-     4138.6
+     4139.2,
+     4139.2
     ]
    },
    "US02Y": {
@@ -3377,12 +3378,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63049.66,
+    "wert": 63168.01,
     "tagProzent": 0,
-    "wocheProzent": 2.54,
+    "wocheProzent": 1,
     "renditeDelta": false,
     "verlauf": [
-     65600.64,
      64418.45,
      62896.47,
      63540.84,
@@ -3402,43 +3402,10 @@ window.MAKRO_DATA = {
      62544.2,
      63088.3,
      63547.88,
-     63049.66,
-     63049.66
+     63995.02,
+     63168.01,
+     63168.01
     ]
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.24,
-    "tagProzent": 0.01,
-    "wocheProzent": 0.04,
-    "renditeDelta": true,
-    "verlauf": [
-     2.38,
-     2.36,
-     2.36,
-     2.35,
-     2.33,
-     2.34,
-     2.29,
-     2.31,
-     2.32,
-     2.29,
-     2.26,
-     2.25,
-     2.23,
-     2.21,
-     2.18,
-     2.21,
-     2.2,
-     2.22,
-     2.24,
-     2.23,
-     2.23,
-     2.24
-    ],
-    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
@@ -3471,6 +3438,40 @@ window.MAKRO_DATA = {
      2.2,
      2.25,
      2.26
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.24,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.04,
+    "renditeDelta": true,
+    "verlauf": [
+     2.38,
+     2.36,
+     2.36,
+     2.35,
+     2.33,
+     2.34,
+     2.29,
+     2.31,
+     2.32,
+     2.29,
+     2.26,
+     2.25,
+     2.23,
+     2.21,
+     2.18,
+     2.21,
+     2.2,
+     2.22,
+     2.24,
+     2.23,
+     2.23,
+     2.24
     ],
     "quelle": "FRED"
    }
@@ -3643,7 +3644,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-07T05:05:44.770Z",
+  "stand": "2026-07-07T07:34:11.747Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3652,27 +3653,99 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
-    "titel": "Gold declines as reviving inflation fears outweigh receding Fed rate hike bets and soft USD",
+    "titel": "Indian Rupee underperforms as oil prices rebound, eyes on FOMC Minutes",
+    "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-losses-as-oil-prices-rebound-fomc-minutes-eyed-202607070549",
+    "datum": "2026-07-07T07:16:03.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen ticks up above 162.00 US Dollar and eases intervention risks",
+    "link": "https://www.fxstreet.com/news/japanese-yen-ticks-up-above-16200-us-dollar-and-eases-intervention-risks-202607070710",
+    "datum": "2026-07-07T07:10:32.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Federal Reserve: New communication risks under Warsh – BNY",
+    "link": "https://www.fxstreet.com/news/federal-reserve-new-communication-risks-under-warsh-bny-202607070710",
+    "datum": "2026-07-07T07:10:29.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "GBP/USD Price Forecast: Stability above 20-day EMA backs further upside",
+    "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-stability-above-20-day-ema-backs-further-upside-202607070704",
+    "datum": "2026-07-07T07:04:44.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar: Crowded support into year-end – NBC",
+    "link": "https://www.fxstreet.com/news/us-dollar-crowded-support-into-year-end-nbc-202607070658",
+    "datum": "2026-07-07T06:58:30.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold sticks to losses as inflation fears lift US bond yields and USD amid Hormuz risks",
     "link": "https://www.fxstreet.com/news/gold-declines-as-reviving-inflation-fears-outweigh-receding-fed-rate-hike-bets-and-soft-usd-202607070445",
-    "datum": "2026-07-07T04:45:24.000Z"
+    "datum": "2026-07-07T06:39:38.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "AUD/USD Price Forecast: Eases from two-week top; 38.2% Fibo. near 0.6955 holds the key",
-    "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-eases-from-two-week-top-382-fibo-near-06955-holds-the-key-202607070439",
-    "datum": "2026-07-07T04:39:56.000Z"
+    "titel": "Equities: Semiconductor bounce looks fragile – Deutsche Bank",
+    "link": "https://www.fxstreet.com/news/equities-semiconductor-bounce-looks-fragile-deutsche-bank-202607070638",
+    "datum": "2026-07-07T06:38:24.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "What are the main events for today?",
+    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20260707/",
+    "datum": "2026-07-07T06:25:45.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "India Gold price today: Gold falls, according to FXStreet data",
-    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607070435",
-    "datum": "2026-07-07T04:35:13.000Z"
+    "titel": "Euro languishes at one-year lows against the British Pound despite positive German data",
+    "link": "https://www.fxstreet.com/news/euro-languishes-at-one-year-lows-against-the-british-pound-despite-positive-german-data-202607070625",
+    "datum": "2026-07-07T06:25:11.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: XAG/USD corrects further to near $61 as oil prices attract bids",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-corrects-further-to-near-61-as-oil-prices-attract-bids-202607070404",
-    "datum": "2026-07-07T04:04:04.000Z"
+    "titel": "Japanese Yen: Mixed outlook inside 160.60–163.00 against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/japanese-yen-mixed-outlook-inside-16060-16300-against-us-dollar-uob-202607070624",
+    "datum": "2026-07-07T06:24:42.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro Summer range holds against US Dollar – Commerzbank",
+    "link": "https://www.fxstreet.com/news/euro-summer-range-holds-against-us-dollar-commerzbank-202607070615",
+    "datum": "2026-07-07T06:15:13.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "UK house prices inched a little higher in June following recent moderation",
+    "link": "https://investinglive.com/news/uk-june-halifax-house-prices-02-vs-01-mm-expected-20260707/",
+    "datum": "2026-07-07T06:06:48.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Germany's Industrial Production unexpectedly rises faster-than-expected by 0.9% MoM in May",
+    "link": "https://www.fxstreet.com/news/germanys-industrial-production-unexpectedly-rises-faster-than-expected-by-09-mom-in-may-202607070605",
+    "datum": "2026-07-07T06:05:14.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "German factory output rises more than expected in May",
+    "link": "https://investinglive.com/news/germany-may-industrial-production-09-vs-02-mm-expected-20260707/",
+    "datum": "2026-07-07T06:00:35.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "EUR/USD Price Forecast: Turns broadly sideways below 20-day EMA",
+    "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-turns-broadly-sideways-below-20-day-ema-202607070558",
+    "datum": "2026-07-07T05:58:21.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Iran foreign minister says negotiations on final deal won't commence if threats continue",
+    "link": "https://investinglive.com/news/iran-foreign-minister-says-negotiations-on-final-deal-wont-commence-if-threats-continue-20260707/",
+    "datum": "2026-07-07T05:24:23.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3681,82 +3754,10 @@ window.MAKRO_DATA = {
     "datum": "2026-07-07T03:36:13.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen strengthens amid looming intervention risks; lacks bullish conviction",
-    "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-amid-looming-intervention-risks-lacks-bullish-conviction-202607070226",
-    "datum": "2026-07-07T02:26:17.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "WTI rises above $69.00 as Iran strikes commercial vessels in Hormuz",
-    "link": "https://www.fxstreet.com/news/wti-rises-above-6900-as-iran-strikes-commercial-vessels-in-hormuz-202607070224",
-    "datum": "2026-07-07T02:24:58.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japan’s Kiuchi: Tokyo is not easing fiscal discipline, presenting it clearly in the economic plan",
-    "link": "https://www.fxstreet.com/news/japans-kiuchi-tokyo-is-not-easing-fiscal-discipline-presenting-it-clearly-in-the-economic-plan-202607070206",
-    "datum": "2026-07-07T02:06:45.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Iran strikes commercial ships in the Strait of Hormuz",
-    "link": "https://www.fxstreet.com/news/iran-strikes-commercial-ships-in-the-strait-of-hormuz-202607070158",
-    "datum": "2026-07-07T01:58:39.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound gains as easing Fed hike bets weigh on US Dollar",
-    "link": "https://www.fxstreet.com/news/british-pound-gains-as-easing-fed-hike-bets-weigh-on-us-dollar-202607070142",
-    "datum": "2026-07-07T01:42:04.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Chinese economist reportedly detained after pessimistic lecture, accounts wiped",
     "link": "https://investinglive.com/news/chinese-economist-reportedly-detained-after-pessimistic-lecture-accounts-wiped-20260707/",
     "datum": "2026-07-07T01:17:36.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "PBOC sets USD/CNY reference rate at 6.8054 vs. 6.8066 previous",
-    "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-68054-vs-68066-previous-202607070115",
-    "datum": "2026-07-07T01:15:55.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro extends the range play above 1.1400 as Hormuz risks support USD",
-    "link": "https://www.fxstreet.com/news/euro-extends-the-range-play-above-11400-as-hormuz-risks-support-usd-202607070108",
-    "datum": "2026-07-07T01:08:27.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar declines as ANZ–Indeed Job Ads drop in June",
-    "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-anz-indeed-job-ads-drop-in-june-202607070055",
-    "datum": "2026-07-07T00:55:18.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Japan data, May 2026: Wage miss but growth solid, Household spending better than expected",
-    "link": "https://investinglive.com/news/japan-data-may-2026-wage-miss-but-growth-solid-household-spending-better-than-expected-20260706/",
-    "datum": "2026-07-06T23:35:00.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Americas FX news wrap 6 Jul: Dow Hits Record, USD and yields mixed",
-    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-6-jul-dow-hits-record-usd-and-yields-mixed-20260706/",
-    "datum": "2026-07-06T21:01:11.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Trump says Walmart will lower the price of ground beef. (ps. Be wary of Trump's untruths)",
-    "link": "https://investinglive.com/news/trump-says-walmart-will-lower-the-price-of-ground-beef-ps-be-wary-of-trumps-untruths-20260706/",
-    "datum": "2026-07-06T20:52:27.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Economic and event calendar in Asia Tuesday, July 7, 2026 - Japan data only",
-    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-july-7-2026-japan-data-only-20260706/",
-    "datum": "2026-07-06T20:10:00.000Z"
    }
   ]
  },
@@ -4364,5 +4365,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 364
+ "anzahlGespeichert": 365
 };

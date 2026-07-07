@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-07T12:22:56.997Z",
+  "stand": "2026-07-07T14:21:29.853Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,64 +7,100 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Aluminium: Short supply supports prices despite Gulf outages – Commerzbank",
+      "link": "https://www.fxstreet.com/news/aluminium-short-supply-supports-prices-despite-gulf-outages-commerzbank-202607071346",
+      "datum": "2026-07-07T13:46:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Japan denies rate-pressure claims as data mixed – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-japan-denies-rate-pressure-claims-as-data-mixed-bny-202607071336",
+      "datum": "2026-07-07T13:36:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rebounds modestly despite hawkish Fed rhetoric",
+      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-as-fed-uncertainty-keeps-buyers-cautious-202607071135",
+      "datum": "2026-07-07T13:34:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Deficits support higher prices – TD Securities",
+      "link": "https://www.fxstreet.com/news/oil-deficits-support-higher-prices-td-securities-202607071326",
+      "datum": "2026-07-07T13:26:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Consolidation with stretched USD positioning – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidation-with-stretched-usd-positioning-scotiabank-202607071317",
+      "datum": "2026-07-07T13:17:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump on Ukraine war: I think we're going to be settling",
+      "link": "https://investinglive.com/news/trump-on-ukraine-war-i-think-were-going-to-be-settling-20260707/",
+      "datum": "2026-07-07T13:04:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Canada: Policy seen on hold through 2026 – RBC",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-policy-seen-on-hold-through-2026-rbc-202607071304",
+      "datum": "2026-07-07T13:04:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Polish Zloty: Dovish NBP tone risks downside – ING",
+      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-nbp-tone-risks-downside-ing-202607071255",
+      "datum": "2026-07-07T12:55:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro holds steady as traders assess Fed and ECB interest rate paths",
+      "link": "https://www.fxstreet.com/news/euro-holds-steady-as-traders-assess-fed-and-ecb-interest-rate-paths-202607071251",
+      "datum": "2026-07-07T12:51:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Fiscal unease and BoJ path – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-fiscal-unease-and-boj-path-mufg-202607071246",
+      "datum": "2026-07-07T12:46:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Price dip seen limited as PBoC buying continues – Commerzbank",
+      "link": "https://www.fxstreet.com/news/gold-price-dip-seen-limited-as-pboc-buying-continues-commerzbank-202607071237",
+      "datum": "2026-07-07T12:37:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US International Trade balance -$77.6B vs -$78.5B estimate",
+      "link": "https://investinglive.com/news/us-international-trade-balance-776b-vs-785b-estimate-20260707/",
+      "datum": "2026-07-07T12:30:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada May trade balance $4.24 billion vs $2.85 billion expected",
+      "link": "https://investinglive.com/news/canada-may-trade-balance-424-billion-vs-285-billion-expected-20260707/",
+      "datum": "2026-07-07T12:30:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: ECB support limited by spreads – NBC",
+      "link": "https://www.fxstreet.com/news/euro-ecb-support-limited-by-spreads-nbc-202607071228",
+      "datum": "2026-07-07T12:28:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US ADP Employment Change 4-week average drops to 20K",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-20k-202607071219",
+      "datum": "2026-07-07T12:19:28.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "investingLive European FX news wrap: Markets remain rangebound amid lack of catalysts",
       "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-rangebound-amid-lack-of-catalysts-20260707/",
       "datum": "2026-07-07T11:32:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Hungarian Forint: Dovish inflation path supports more cuts – ING",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-dovish-inflation-path-supports-more-cuts-ing-202607071128",
-      "datum": "2026-07-07T11:28:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee recovers strongly as oil prices remain broadly lower",
-      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-losses-as-oil-prices-rebound-fomc-minutes-eyed-202607070549",
-      "datum": "2026-07-07T11:24:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Upside bias held above strong support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-held-above-strong-support-against-us-dollar-uob-202607071116",
-      "datum": "2026-07-07T11:16:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "NZD/USD Price Forecast: Faces pressure near 0.5700 in countdown to RBNZ policy",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-faces-pressure-near-05700-in-countdown-to-rbnz-policy-202607071106",
-      "datum": "2026-07-07T11:06:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Trimmed inflation guides rate outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-trimmed-inflation-guides-rate-outlook-rabobank-202607070959",
-      "datum": "2026-07-07T09:59:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Cautious path to further hike – BNP Paribas",
-      "link": "https://www.fxstreet.com/news/european-central-bank-cautious-path-to-further-hike-bnp-paribas-202607070950",
-      "datum": "2026-07-07T09:50:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Weakness extends against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakness-extends-against-us-dollar-societe-generale-202607070939",
-      "datum": "2026-07-07T09:39:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607070932",
-      "datum": "2026-07-07T09:32:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: High bar for hawkish BoJ repricing – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-high-bar-for-hawkish-boj-repricing-bbh-202607070920",
-      "datum": "2026-07-07T09:20:55.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -73,46 +109,10 @@
       "datum": "2026-07-07T09:20:12.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index firms as Hormuz tensions boost safe-haven demand",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-firms-as-hormuz-tensions-boost-safe-haven-demand-202607070911",
-      "datum": "2026-07-07T09:11:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China turns out Gold buyer again",
-      "link": "https://www.fxstreet.com/news/china-turns-out-gold-buyer-again-202607070903",
-      "datum": "2026-07-07T09:03:53.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20260707/",
       "datum": "2026-07-07T06:25:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK house prices inched a little higher in June following recent moderation",
-      "link": "https://investinglive.com/news/uk-june-halifax-house-prices-02-vs-01-mm-expected-20260707/",
-      "datum": "2026-07-07T06:06:48.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German factory output rises more than expected in May",
-      "link": "https://investinglive.com/news/germany-may-industrial-production-09-vs-02-mm-expected-20260707/",
-      "datum": "2026-07-07T06:00:35.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran foreign minister says negotiations on final deal won't commence if threats continue",
-      "link": "https://investinglive.com/news/iran-foreign-minister-says-negotiations-on-final-deal-wont-commence-if-threats-continue-20260707/",
-      "datum": "2026-07-07T05:24:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific FX news wrap: Renewed Hormuz attacks & Samsung-led equity slide",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-renewed-hormuz-attacks-samsung-led-equity-slide-20260707/",
-      "datum": "2026-07-07T03:36:13.000Z"
     }
   ]
 }

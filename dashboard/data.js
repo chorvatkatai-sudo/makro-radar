@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-07T15:40:52.843Z",
+ "erstellt": "2026-07-07T17:53:23.314Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -302,7 +302,7 @@ window.MAKRO_DATA = {
   {
    "title": "GDT Price Index",
    "country": "NZD",
-   "date": "2026-07-07T11:50:00-04:00",
+   "date": "2026-07-07T11:16:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-2.8%",
@@ -1095,7 +1095,7 @@ window.MAKRO_DATA = {
    "title": "6-Week Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "3.635%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1494,8 +1494,8 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "title": "Manufacturing Sales MoM Final",
    "impact": "Low",
-   "forecast": "",
-   "previous": "4.2",
+   "forecast": "1.1%",
+   "previous": "4.2%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3121,15 +3121,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-07T15:40:52.443Z",
+  "stand": "2026-07-07T17:53:22.653Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.95,
+    "wert": 100.96,
     "tagProzent": 0,
-    "wocheProzent": -0.24,
+    "wocheProzent": -0.23,
     "renditeDelta": false,
     "verlauf": [
      100.05,
@@ -3151,17 +3151,17 @@ window.MAKRO_DATA = {
      101.39,
      100.86,
      100.85,
-     100.95,
-     100.95
+     100.96,
+     100.96
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.44,
+    "wert": 15.62,
     "tagProzent": 0,
-    "wocheProzent": -0.06,
+    "wocheProzent": -5.05,
     "renditeDelta": false,
     "verlauf": [
      18.92,
@@ -3183,17 +3183,17 @@ window.MAKRO_DATA = {
      16.59,
      16.15,
      15.57,
-     16.44,
-     16.44
+     15.62,
+     15.62
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 70.13,
+    "wert": 70.53,
     "tagProzent": 0,
-    "wocheProzent": 0.91,
+    "wocheProzent": 1.48,
     "renditeDelta": false,
     "verlauf": [
      91.3,
@@ -3215,17 +3215,17 @@ window.MAKRO_DATA = {
      68.58,
      68.69,
      68.55,
-     70.13,
-     70.13
+     70.53,
+     70.53
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 73.67,
+    "wert": 74.19,
     "tagProzent": 0,
-    "wocheProzent": 1.03,
+    "wocheProzent": 1.74,
     "renditeDelta": false,
     "verlauf": [
      94.25,
@@ -3247,17 +3247,17 @@ window.MAKRO_DATA = {
      71.57,
      71.8,
      71.99,
-     73.67,
-     73.67
+     74.19,
+     74.19
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4155.2,
+    "wert": 4158.5,
     "tagProzent": 0,
-    "wocheProzent": 3.29,
+    "wocheProzent": 3.37,
     "renditeDelta": false,
     "verlauf": [
      4335.9,
@@ -3279,8 +3279,8 @@ window.MAKRO_DATA = {
      4068.3,
      4112.7,
      4155.1,
-     4155.2,
-     4155.2
+     4158.5,
+     4158.5
     ]
    },
    "US02Y": {
@@ -3318,9 +3318,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.513,
+    "wert": 4.521,
     "tagProzent": 0,
-    "wocheProzent": 0.14,
+    "wocheProzent": 0.15,
     "renditeDelta": true,
     "verlauf": [
      4.552,
@@ -3341,17 +3341,17 @@ window.MAKRO_DATA = {
      4.418,
      4.475,
      4.485,
-     4.513,
-     4.513
+     4.521,
+     4.521
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.03,
+    "wert": 5.036,
     "tagProzent": 0,
-    "wocheProzent": 0.17,
+    "wocheProzent": 0.18,
     "renditeDelta": true,
     "verlauf": [
      5.024,
@@ -3372,17 +3372,17 @@ window.MAKRO_DATA = {
      4.902,
      4.966,
      4.985,
-     5.03,
-     5.03
+     5.036,
+     5.036
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63707.65,
+    "wert": 64110.72,
     "tagProzent": 0,
-    "wocheProzent": 1.86,
+    "wocheProzent": 2.5,
     "renditeDelta": false,
     "verlauf": [
      64418.45,
@@ -3405,43 +3405,9 @@ window.MAKRO_DATA = {
      63088.3,
      63547.88,
      63995.02,
-     63707.65,
-     63707.65
+     64110.72,
+     64110.72
     ]
-   },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.26,
-    "tagProzent": 0.01,
-    "wocheProzent": 0.07,
-    "renditeDelta": true,
-    "verlauf": [
-     2.07,
-     2.11,
-     2.11,
-     2.19,
-     2.21,
-     2.2,
-     2.21,
-     2.16,
-     2.17,
-     2.15,
-     2.14,
-     2.23,
-     2.21,
-     2.28,
-     2.29,
-     2.23,
-     2.19,
-     2.18,
-     2.16,
-     2.2,
-     2.25,
-     2.26
-    ],
-    "quelle": "FRED"
    },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
@@ -3474,6 +3440,40 @@ window.MAKRO_DATA = {
      2.23,
      2.23,
      2.24
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.26,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.07,
+    "renditeDelta": true,
+    "verlauf": [
+     2.07,
+     2.11,
+     2.11,
+     2.19,
+     2.21,
+     2.2,
+     2.21,
+     2.16,
+     2.17,
+     2.15,
+     2.14,
+     2.23,
+     2.21,
+     2.28,
+     2.29,
+     2.23,
+     2.19,
+     2.18,
+     2.16,
+     2.2,
+     2.25,
+     2.26
     ],
     "quelle": "FRED"
    }
@@ -3646,7 +3646,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-07T15:40:52.841Z",
+  "stand": "2026-07-07T17:53:23.312Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3655,81 +3655,93 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "ForexLive",
+    "titel": "US treasury sells $69 billion dollars of three or noted a high yield of 4.179%",
+    "link": "https://investinglive.com/news/us-treasury-sells-69-billion-dollars-of-three-or-noted-a-high-yield-of-4179-20260707/",
+    "datum": "2026-07-07T17:03:20.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Swiss Franc's rebound runs on empty",
+    "link": "https://www.fxstreet.com/news/swiss-francs-rebound-runs-on-empty-202607071657",
+    "datum": "2026-07-07T16:57:57.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Dow Jones Industrial Average tags a record, then hides behind its dullest stocks",
+    "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tags-a-record-then-hides-behind-its-dullest-stocks-202607071632",
+    "datum": "2026-07-07T16:32:13.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "New Zealand Dollar weakens as Middle East tensions lift US Dollar ahead RBNZ hike",
+    "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-middle-east-tensions-lift-us-dollar-ahead-rbnz-hike-202607071628",
+    "datum": "2026-07-07T16:28:38.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Press TV: Traffic in Strait of Hormuz is conducted in accordance with Iran's arrangements",
+    "link": "https://investinglive.com/news/press-tv-traffic-in-strait-of-hormuz-is-conducted-in-accordance-with-irans-arrangements-20260707/",
+    "datum": "2026-07-07T16:28:13.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Germany: Factory recovery prospects – Commerzbank",
+    "link": "https://www.fxstreet.com/news/germany-factory-recovery-prospects-commerzbank-202607071628",
+    "datum": "2026-07-07T16:28:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI climbs over 2% as Strait of Hormuz attacks revive supply concerns",
+    "link": "https://www.fxstreet.com/news/wti-climbs-over-2-as-strait-of-hormuz-attacks-revive-supply-concerns-202607071614",
+    "datum": "2026-07-07T16:14:33.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound slips as Hormuz attacks revive USD demand",
+    "link": "https://www.fxstreet.com/news/british-pound-slips-as-hormuz-attacks-revive-usd-demand-202607071605",
+    "datum": "2026-07-07T16:05:12.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Canada: Trade surplus widens as investment rises – RBC",
+    "link": "https://www.fxstreet.com/news/canada-trade-surplus-widens-as-investment-rises-rbc-202607071548",
+    "datum": "2026-07-07T15:48:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro: Upside bias against US Dollar as ECB repriced – Scotiabank",
+    "link": "https://www.fxstreet.com/news/euro-upside-bias-against-us-dollar-as-ecb-repriced-scotiabank-202607071537",
+    "datum": "2026-07-07T15:37:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar falls amid cautious Fedspeak",
+    "link": "https://www.fxstreet.com/news/australian-dollar-falls-amid-cautious-fedspeak-202607071529",
+    "datum": "2026-07-07T15:29:55.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver falls below $61 as markets await Fed minutes",
+    "link": "https://www.fxstreet.com/news/silver-falls-below-61-as-markets-await-fed-minutes-202607071526",
+    "datum": "2026-07-07T15:26:55.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "NY Fed inflation expectations jump despite lower gas prices",
+    "link": "https://www.fxstreet.com/news/ny-fed-consumer-inflation-expectations-jumped-despite-gas-relief-202607071526",
+    "datum": "2026-07-07T15:26:22.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Swiss Franc eases as hawkish Fed outlook supports US Dollar",
+    "link": "https://www.fxstreet.com/news/swiss-franc-eases-as-hawkish-fed-outlook-support-the-us-dollar-202607071519",
+    "datum": "2026-07-07T15:19:19.000Z"
+   },
+   {
+    "quelle": "ForexLive",
     "titel": "One-year inflation expectations hit the highest since 2023 in New York Fed survey",
     "link": "https://investinglive.com/news/one-year-inflation-expectations-hit-the-highest-since-2023-in-new-york-fed-survey-20260707/",
     "datum": "2026-07-07T15:03:37.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Oil: Gulf supply recovery challenges oversupply narrative – Commerzbank",
-    "link": "https://www.fxstreet.com/news/oil-gulf-supply-recovery-challenges-oversupply-narrative-commerzbank-202607071502",
-    "datum": "2026-07-07T15:02:24.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Near historic lows against US Dollar – Scotiabank",
-    "link": "https://www.fxstreet.com/news/japanese-yen-near-historic-lows-against-us-dollar-scotiabank-202607071442",
-    "datum": "2026-07-07T14:42:20.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold stalls recovery as traders eye FOMC meeting minutes",
-    "link": "https://www.fxstreet.com/news/gold-stalls-recovery-as-fed-uncertainty-keeps-buyers-cautious-202607071135",
-    "datum": "2026-07-07T14:42:11.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro: ECB cautious as euro area outlook stays fragile – BNY",
-    "link": "https://www.fxstreet.com/news/euro-ecb-cautious-as-euro-area-outlook-stays-fragile-bny-202607071427",
-    "datum": "2026-07-07T14:27:56.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar holds steady despite solid trade data, higher Oil prices",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-despite-solid-trade-data-higher-oil-prices-202607071425",
-    "datum": "2026-07-07T14:25:17.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Weak against US Dollar with limited upside – NBC",
-    "link": "https://www.fxstreet.com/news/japanese-yen-weak-against-us-dollar-with-limited-upside-nbc-202607071415",
-    "datum": "2026-07-07T14:15:14.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/GBP Price Forecast: Bearish bias persists below 0.8600",
-    "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bearish-bias-persists-below-08600-202607071411",
-    "datum": "2026-07-07T14:11:55.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound: Capped by layered resistance against US Dollar – Scotiabank",
-    "link": "https://www.fxstreet.com/news/british-pound-capped-by-layered-resistance-against-us-dollar-scotiabank-202607071359",
-    "datum": "2026-07-07T13:59:12.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Fed’s Williams: “Monetary policy is in a good place”",
-    "link": "https://www.fxstreet.com/news/feds-williams-monetary-policy-is-in-a-good-place-202607071347",
-    "datum": "2026-07-07T13:47:18.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Aluminium: Short supply supports prices despite Gulf outages – Commerzbank",
-    "link": "https://www.fxstreet.com/news/aluminium-short-supply-supports-prices-despite-gulf-outages-commerzbank-202607071346",
-    "datum": "2026-07-07T13:46:23.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Japan denies rate-pressure claims as data mixed – BNY",
-    "link": "https://www.fxstreet.com/news/japanese-yen-japan-denies-rate-pressure-claims-as-data-mixed-bny-202607071336",
-    "datum": "2026-07-07T13:36:08.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Oil: Deficits support higher prices – TD Securities",
-    "link": "https://www.fxstreet.com/news/oil-deficits-support-higher-prices-td-securities-202607071326",
-    "datum": "2026-07-07T13:26:20.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3748,18 +3760,6 @@ window.MAKRO_DATA = {
     "titel": "Canada May trade balance $4.24 billion vs $2.85 billion expected",
     "link": "https://investinglive.com/news/canada-may-trade-balance-424-billion-vs-285-billion-expected-20260707/",
     "datum": "2026-07-07T12:30:08.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European FX news wrap: Markets remain rangebound amid lack of catalysts",
-    "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-rangebound-amid-lack-of-catalysts-20260707/",
-    "datum": "2026-07-07T11:32:28.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Another crude oil tanker reportedly damaged near Oman, around the Strait of Hormuz",
-    "link": "https://investinglive.com/news/another-crude-oil-tanker-reportedly-damaged-near-oman-around-the-strait-of-hormuz-20260707/",
-    "datum": "2026-07-07T09:20:12.000Z"
    }
   ]
  },
@@ -4367,5 +4367,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 367
+ "anzahlGespeichert": 368
 };

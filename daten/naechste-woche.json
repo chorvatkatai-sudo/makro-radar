@@ -415,7 +415,7 @@
     "title": "6-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.635%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -814,8 +814,8 @@
     "country": "CAD",
     "title": "Manufacturing Sales MoM Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "4.2",
+    "forecast": "1.1%",
+    "previous": "4.2%",
     "actual": null,
     "quelle": "tradingview"
   },

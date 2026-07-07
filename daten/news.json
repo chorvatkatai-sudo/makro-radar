@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-07T15:40:52.841Z",
+  "stand": "2026-07-07T17:53:23.312Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,81 +8,93 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
+      "titel": "US treasury sells $69 billion dollars of three or noted a high yield of 4.179%",
+      "link": "https://investinglive.com/news/us-treasury-sells-69-billion-dollars-of-three-or-noted-a-high-yield-of-4179-20260707/",
+      "datum": "2026-07-07T17:03:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc's rebound runs on empty",
+      "link": "https://www.fxstreet.com/news/swiss-francs-rebound-runs-on-empty-202607071657",
+      "datum": "2026-07-07T16:57:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average tags a record, then hides behind its dullest stocks",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tags-a-record-then-hides-behind-its-dullest-stocks-202607071632",
+      "datum": "2026-07-07T16:32:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar weakens as Middle East tensions lift US Dollar ahead RBNZ hike",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-middle-east-tensions-lift-us-dollar-ahead-rbnz-hike-202607071628",
+      "datum": "2026-07-07T16:28:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Press TV: Traffic in Strait of Hormuz is conducted in accordance with Iran's arrangements",
+      "link": "https://investinglive.com/news/press-tv-traffic-in-strait-of-hormuz-is-conducted-in-accordance-with-irans-arrangements-20260707/",
+      "datum": "2026-07-07T16:28:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: Factory recovery prospects – Commerzbank",
+      "link": "https://www.fxstreet.com/news/germany-factory-recovery-prospects-commerzbank-202607071628",
+      "datum": "2026-07-07T16:28:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI climbs over 2% as Strait of Hormuz attacks revive supply concerns",
+      "link": "https://www.fxstreet.com/news/wti-climbs-over-2-as-strait-of-hormuz-attacks-revive-supply-concerns-202607071614",
+      "datum": "2026-07-07T16:14:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound slips as Hormuz attacks revive USD demand",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-as-hormuz-attacks-revive-usd-demand-202607071605",
+      "datum": "2026-07-07T16:05:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Trade surplus widens as investment rises – RBC",
+      "link": "https://www.fxstreet.com/news/canada-trade-surplus-widens-as-investment-rises-rbc-202607071548",
+      "datum": "2026-07-07T15:48:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Upside bias against US Dollar as ECB repriced – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-upside-bias-against-us-dollar-as-ecb-repriced-scotiabank-202607071537",
+      "datum": "2026-07-07T15:37:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar falls amid cautious Fedspeak",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-amid-cautious-fedspeak-202607071529",
+      "datum": "2026-07-07T15:29:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver falls below $61 as markets await Fed minutes",
+      "link": "https://www.fxstreet.com/news/silver-falls-below-61-as-markets-await-fed-minutes-202607071526",
+      "datum": "2026-07-07T15:26:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NY Fed inflation expectations jump despite lower gas prices",
+      "link": "https://www.fxstreet.com/news/ny-fed-consumer-inflation-expectations-jumped-despite-gas-relief-202607071526",
+      "datum": "2026-07-07T15:26:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc eases as hawkish Fed outlook supports US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-eases-as-hawkish-fed-outlook-support-the-us-dollar-202607071519",
+      "datum": "2026-07-07T15:19:19.000Z"
+    },
+    {
+      "quelle": "ForexLive",
       "titel": "One-year inflation expectations hit the highest since 2023 in New York Fed survey",
       "link": "https://investinglive.com/news/one-year-inflation-expectations-hit-the-highest-since-2023-in-new-york-fed-survey-20260707/",
       "datum": "2026-07-07T15:03:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Gulf supply recovery challenges oversupply narrative – Commerzbank",
-      "link": "https://www.fxstreet.com/news/oil-gulf-supply-recovery-challenges-oversupply-narrative-commerzbank-202607071502",
-      "datum": "2026-07-07T15:02:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Near historic lows against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-near-historic-lows-against-us-dollar-scotiabank-202607071442",
-      "datum": "2026-07-07T14:42:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold stalls recovery as traders eye FOMC meeting minutes",
-      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-as-fed-uncertainty-keeps-buyers-cautious-202607071135",
-      "datum": "2026-07-07T14:42:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: ECB cautious as euro area outlook stays fragile – BNY",
-      "link": "https://www.fxstreet.com/news/euro-ecb-cautious-as-euro-area-outlook-stays-fragile-bny-202607071427",
-      "datum": "2026-07-07T14:27:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar holds steady despite solid trade data, higher Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-despite-solid-trade-data-higher-oil-prices-202607071425",
-      "datum": "2026-07-07T14:25:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Weak against US Dollar with limited upside – NBC",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weak-against-us-dollar-with-limited-upside-nbc-202607071415",
-      "datum": "2026-07-07T14:15:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: Bearish bias persists below 0.8600",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bearish-bias-persists-below-08600-202607071411",
-      "datum": "2026-07-07T14:11:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Capped by layered resistance against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-capped-by-layered-resistance-against-us-dollar-scotiabank-202607071359",
-      "datum": "2026-07-07T13:59:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Williams: “Monetary policy is in a good place”",
-      "link": "https://www.fxstreet.com/news/feds-williams-monetary-policy-is-in-a-good-place-202607071347",
-      "datum": "2026-07-07T13:47:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Aluminium: Short supply supports prices despite Gulf outages – Commerzbank",
-      "link": "https://www.fxstreet.com/news/aluminium-short-supply-supports-prices-despite-gulf-outages-commerzbank-202607071346",
-      "datum": "2026-07-07T13:46:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Japan denies rate-pressure claims as data mixed – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-japan-denies-rate-pressure-claims-as-data-mixed-bny-202607071336",
-      "datum": "2026-07-07T13:36:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Deficits support higher prices – TD Securities",
-      "link": "https://www.fxstreet.com/news/oil-deficits-support-higher-prices-td-securities-202607071326",
-      "datum": "2026-07-07T13:26:20.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Canada May trade balance $4.24 billion vs $2.85 billion expected",
       "link": "https://investinglive.com/news/canada-may-trade-balance-424-billion-vs-285-billion-expected-20260707/",
       "datum": "2026-07-07T12:30:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European FX news wrap: Markets remain rangebound amid lack of catalysts",
-      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-rangebound-amid-lack-of-catalysts-20260707/",
-      "datum": "2026-07-07T11:32:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Another crude oil tanker reportedly damaged near Oman, around the Strait of Hormuz",
-      "link": "https://investinglive.com/news/another-crude-oil-tanker-reportedly-damaged-near-oman-around-the-strait-of-hormuz-20260707/",
-      "datum": "2026-07-07T09:20:12.000Z"
     }
   ]
 }

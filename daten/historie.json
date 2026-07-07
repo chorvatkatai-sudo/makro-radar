@@ -3336,7 +3336,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-1.0M",
       "vorher": "-3.8M",
       "actual": null,
       "notiz": null
@@ -3648,6 +3648,26 @@
       "impact": "Low",
       "prognose": "0.1%",
       "vorher": "-0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-07T10:04:00-04:00|USD|RCM/TIPP Economic Optimism": {
+      "datum": "2026-07-07T10:04:00-04:00",
+      "land": "USD",
+      "titel": "RCM/TIPP Economic Optimism",
+      "impact": "Low",
+      "prognose": "45.0",
+      "vorher": "42.5",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-07T11:50:00-04:00|NZD|GDT Price Index": {
+      "datum": "2026-07-07T11:50:00-04:00",
+      "land": "NZD",
+      "titel": "GDT Price Index",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-2.8%",
       "actual": null,
       "notiz": null
     }

@@ -258,7 +258,7 @@
   {
     "title": "RCM/TIPP Economic Optimism",
     "country": "USD",
-    "date": "2026-07-07T10:10:00-04:00",
+    "date": "2026-07-07T10:04:00-04:00",
     "impact": "Low",
     "forecast": "45.0",
     "previous": "42.5"
@@ -266,7 +266,7 @@
   {
     "title": "GDT Price Index",
     "country": "NZD",
-    "date": "2026-07-07T10:50:00-04:00",
+    "date": "2026-07-07T11:50:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "-2.8%"
@@ -364,7 +364,7 @@
     "country": "USD",
     "date": "2026-07-08T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-1.0M",
     "previous": "-3.8M"
   },
   {

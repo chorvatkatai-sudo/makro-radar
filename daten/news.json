@@ -1,11 +1,71 @@
 {
-  "stand": "2026-07-07T14:21:29.853Z",
+  "stand": "2026-07-07T15:40:52.841Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "One-year inflation expectations hit the highest since 2023 in New York Fed survey",
+      "link": "https://investinglive.com/news/one-year-inflation-expectations-hit-the-highest-since-2023-in-new-york-fed-survey-20260707/",
+      "datum": "2026-07-07T15:03:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Gulf supply recovery challenges oversupply narrative – Commerzbank",
+      "link": "https://www.fxstreet.com/news/oil-gulf-supply-recovery-challenges-oversupply-narrative-commerzbank-202607071502",
+      "datum": "2026-07-07T15:02:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Near historic lows against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-near-historic-lows-against-us-dollar-scotiabank-202607071442",
+      "datum": "2026-07-07T14:42:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold stalls recovery as traders eye FOMC meeting minutes",
+      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-as-fed-uncertainty-keeps-buyers-cautious-202607071135",
+      "datum": "2026-07-07T14:42:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: ECB cautious as euro area outlook stays fragile – BNY",
+      "link": "https://www.fxstreet.com/news/euro-ecb-cautious-as-euro-area-outlook-stays-fragile-bny-202607071427",
+      "datum": "2026-07-07T14:27:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar holds steady despite solid trade data, higher Oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-despite-solid-trade-data-higher-oil-prices-202607071425",
+      "datum": "2026-07-07T14:25:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Weak against US Dollar with limited upside – NBC",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weak-against-us-dollar-with-limited-upside-nbc-202607071415",
+      "datum": "2026-07-07T14:15:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/GBP Price Forecast: Bearish bias persists below 0.8600",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bearish-bias-persists-below-08600-202607071411",
+      "datum": "2026-07-07T14:11:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Capped by layered resistance against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-capped-by-layered-resistance-against-us-dollar-scotiabank-202607071359",
+      "datum": "2026-07-07T13:59:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Williams: “Monetary policy is in a good place”",
+      "link": "https://www.fxstreet.com/news/feds-williams-monetary-policy-is-in-a-good-place-202607071347",
+      "datum": "2026-07-07T13:47:18.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Aluminium: Short supply supports prices despite Gulf outages – Commerzbank",
@@ -20,57 +80,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold rebounds modestly despite hawkish Fed rhetoric",
-      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-as-fed-uncertainty-keeps-buyers-cautious-202607071135",
-      "datum": "2026-07-07T13:34:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
       "titel": "Oil: Deficits support higher prices – TD Securities",
       "link": "https://www.fxstreet.com/news/oil-deficits-support-higher-prices-td-securities-202607071326",
       "datum": "2026-07-07T13:26:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Consolidation with stretched USD positioning – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidation-with-stretched-usd-positioning-scotiabank-202607071317",
-      "datum": "2026-07-07T13:17:11.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Trump on Ukraine war: I think we're going to be settling",
       "link": "https://investinglive.com/news/trump-on-ukraine-war-i-think-were-going-to-be-settling-20260707/",
       "datum": "2026-07-07T13:04:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Canada: Policy seen on hold through 2026 – RBC",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-policy-seen-on-hold-through-2026-rbc-202607071304",
-      "datum": "2026-07-07T13:04:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Polish Zloty: Dovish NBP tone risks downside – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-nbp-tone-risks-downside-ing-202607071255",
-      "datum": "2026-07-07T12:55:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds steady as traders assess Fed and ECB interest rate paths",
-      "link": "https://www.fxstreet.com/news/euro-holds-steady-as-traders-assess-fed-and-ecb-interest-rate-paths-202607071251",
-      "datum": "2026-07-07T12:51:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Fiscal unease and BoJ path – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-fiscal-unease-and-boj-path-mufg-202607071246",
-      "datum": "2026-07-07T12:46:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Price dip seen limited as PBoC buying continues – Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-price-dip-seen-limited-as-pboc-buying-continues-commerzbank-202607071237",
-      "datum": "2026-07-07T12:37:11.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -85,18 +103,6 @@
       "datum": "2026-07-07T12:30:08.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro: ECB support limited by spreads – NBC",
-      "link": "https://www.fxstreet.com/news/euro-ecb-support-limited-by-spreads-nbc-202607071228",
-      "datum": "2026-07-07T12:28:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US ADP Employment Change 4-week average drops to 20K",
-      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-20k-202607071219",
-      "datum": "2026-07-07T12:19:28.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European FX news wrap: Markets remain rangebound amid lack of catalysts",
       "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-rangebound-amid-lack-of-catalysts-20260707/",
@@ -107,12 +113,6 @@
       "titel": "Another crude oil tanker reportedly damaged near Oman, around the Strait of Hormuz",
       "link": "https://investinglive.com/news/another-crude-oil-tanker-reportedly-damaged-near-oman-around-the-strait-of-hormuz-20260707/",
       "datum": "2026-07-07T09:20:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20260707/",
-      "datum": "2026-07-07T06:25:45.000Z"
     }
   ]
 }

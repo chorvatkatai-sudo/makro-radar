@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-08T10:56:36.485Z",
+ "erstellt": "2026-07-08T12:18:01.887Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -1364,7 +1364,7 @@ window.MAKRO_DATA = {
    "title": "MBA 30-Year Mortgage Rate",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "6.58",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1374,7 +1374,7 @@ window.MAKRO_DATA = {
    "title": "MBA Mortgage Market Index",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "266.3",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1384,7 +1384,7 @@ window.MAKRO_DATA = {
    "title": "MBA Mortgage Applications",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "-2.2",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1394,7 +1394,7 @@ window.MAKRO_DATA = {
    "title": "MBA Mortgage Refinance Index",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "794.4",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1404,7 +1404,7 @@ window.MAKRO_DATA = {
    "title": "MBA Purchase Index",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "169.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3130,15 +3130,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-08T10:56:34.092Z",
+  "stand": "2026-07-08T12:18:01.071Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.08,
+    "wert": 101.17,
     "tagProzent": 0,
-    "wocheProzent": -0.31,
+    "wocheProzent": -0.22,
     "renditeDelta": false,
     "verlauf": [
      100.05,
@@ -3161,17 +3161,17 @@ window.MAKRO_DATA = {
      100.86,
      100.85,
      101.14,
-     101.08,
-     101.08
+     101.17,
+     101.17
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.09,
+    "wert": 17.79,
     "tagProzent": 0,
-    "wocheProzent": 9.04,
+    "wocheProzent": 7.23,
     "renditeDelta": false,
     "verlauf": [
      18.92,
@@ -3194,17 +3194,17 @@ window.MAKRO_DATA = {
      16.15,
      15.57,
      16.13,
-     18.09,
-     18.09
+     17.79,
+     17.79
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 73.9,
+    "wert": 74.21,
     "tagProzent": 0,
-    "wocheProzent": 7.76,
+    "wocheProzent": 8.21,
     "renditeDelta": false,
     "verlauf": [
      91.3,
@@ -3227,17 +3227,17 @@ window.MAKRO_DATA = {
      68.69,
      68.55,
      70.44,
-     73.9,
-     73.9
+     74.21,
+     74.21
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 77.95,
+    "wert": 78.24,
     "tagProzent": 0,
-    "wocheProzent": 8.91,
+    "wocheProzent": 9.32,
     "renditeDelta": false,
     "verlauf": [
      94.25,
@@ -3260,17 +3260,17 @@ window.MAKRO_DATA = {
      71.8,
      71.99,
      74.16,
-     77.95,
-     77.95
+     78.24,
+     78.24
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4066.7,
+    "wert": 4077.1,
     "tagProzent": 0,
-    "wocheProzent": -0.04,
+    "wocheProzent": 0.22,
     "renditeDelta": false,
     "verlauf": [
      4335.9,
@@ -3293,8 +3293,8 @@ window.MAKRO_DATA = {
      4112.7,
      4155.1,
      4145.3,
-     4066.7,
-     4066.7
+     4077.1,
+     4077.1
     ]
    },
    "US02Y": {
@@ -3395,9 +3395,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 62130.43,
+    "wert": 62285.99,
     "tagProzent": 0,
-    "wocheProzent": -1.52,
+    "wocheProzent": -1.27,
     "renditeDelta": false,
     "verlauf": [
      62896.47,
@@ -3420,43 +3420,9 @@ window.MAKRO_DATA = {
      63547.88,
      63995.02,
      63297.39,
-     62130.43,
-     62130.43
+     62285.99,
+     62285.99
     ]
-   },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.24,
-    "tagProzent": -0.02,
-    "wocheProzent": 0.06,
-    "renditeDelta": true,
-    "verlauf": [
-     2.11,
-     2.11,
-     2.19,
-     2.21,
-     2.2,
-     2.21,
-     2.16,
-     2.17,
-     2.15,
-     2.14,
-     2.23,
-     2.21,
-     2.28,
-     2.29,
-     2.23,
-     2.19,
-     2.18,
-     2.16,
-     2.2,
-     2.25,
-     2.26,
-     2.24
-    ],
-    "quelle": "FRED"
    },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
@@ -3489,6 +3455,40 @@ window.MAKRO_DATA = {
      2.23,
      2.24,
      2.25
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.24,
+    "tagProzent": -0.02,
+    "wocheProzent": 0.06,
+    "renditeDelta": true,
+    "verlauf": [
+     2.11,
+     2.11,
+     2.19,
+     2.21,
+     2.2,
+     2.21,
+     2.16,
+     2.17,
+     2.15,
+     2.14,
+     2.23,
+     2.21,
+     2.28,
+     2.29,
+     2.23,
+     2.19,
+     2.18,
+     2.16,
+     2.2,
+     2.25,
+     2.26,
+     2.24
     ],
     "quelle": "FRED"
    }
@@ -3661,7 +3661,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-08T10:56:36.484Z",
+  "stand": "2026-07-08T12:18:01.886Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3669,10 +3669,34 @@ window.MAKRO_DATA = {
   ],
   "eintraege": [
    {
-    "quelle": "ForexLive",
-    "titel": "investingLive European morning session wrap: Oil prices surge as Trump calls off Iran deal",
-    "link": "https://investinglive.com/news/investinglive-european-morning-session-wrap-oil-prices-surge-as-trump-calls-off-iran-deal-20260708/",
-    "datum": "2026-07-08T10:36:56.000Z"
+    "quelle": "FXStreet",
+    "titel": "Canadian Dollar outperforms its peers amid rallying oil prices",
+    "link": "https://www.fxstreet.com/news/canadian-dollar-outperforms-its-peers-amid-rallying-oil-prices-202607081118",
+    "datum": "2026-07-08T11:18:33.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar Index: Conflict-driven support and rate backdrop – BBH",
+    "link": "https://www.fxstreet.com/news/us-dollar-index-conflict-driven-support-and-rate-backdrop-bbh-202607081118",
+    "datum": "2026-07-08T11:18:13.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "EUR/GBP Price Forecasts: Euro holds below 0.8450 with indicators showing some bullish divergence",
+    "link": "https://www.fxstreet.com/news/eur-gbp-price-forecasts-euro-holds-below-08450-with-indicators-showing-some-bullish-divergence-202607081114",
+    "datum": "2026-07-08T11:14:02.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee plummets as US-Iran ceasefire collapse lifts oil prices",
+    "link": "https://www.fxstreet.com/news/indian-rupee-edges-up-against-us-dollar-ignores-rising-oil-prices-202607080539",
+    "datum": "2026-07-08T11:07:40.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound: Sterling supported as yields retrace – MUFG",
+    "link": "https://www.fxstreet.com/news/british-pound-sterling-supported-as-yields-retrace-mufg-202607081107",
+    "datum": "2026-07-08T11:07:00.000Z"
    },
    {
     "quelle": "FXStreet",
@@ -3717,64 +3741,40 @@ window.MAKRO_DATA = {
     "datum": "2026-07-08T09:32:30.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "India: Cheaper Oil supports FY27 deficit target – Standard Chartered",
-    "link": "https://www.fxstreet.com/news/india-cheaper-oil-supports-fy27-deficit-target-standard-chartered-202607080929",
-    "datum": "2026-07-08T09:29:49.000Z"
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
+    "datum": "2026-07-07T19:00:00.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Indian Rupee plummets as US Dollar bounces back, oil prices surge",
-    "link": "https://www.fxstreet.com/news/indian-rupee-edges-up-against-us-dollar-ignores-rising-oil-prices-202607080539",
-    "datum": "2026-07-08T09:26:44.000Z"
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
+    "datum": "2026-07-02T15:00:00.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Oil: Limited war risk keeps Brent capped – DBS",
-    "link": "https://www.fxstreet.com/news/oil-limited-war-risk-keeps-brent-capped-dbs-202607080919",
-    "datum": "2026-07-08T09:19:02.000Z"
+    "quelle": "Fed",
+    "titel": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+    "datum": "2026-07-01T18:30:00.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: XAG/USD falls toward $58.00 as Trump declares Iran truce “finished”",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-toward-5800-as-trump-declares-iran-truce-finished-202607080912",
-    "datum": "2026-07-08T09:12:37.000Z"
+    "quelle": "Fed",
+    "titel": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+    "datum": "2026-06-30T14:00:00.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Swedish Krona: Weakens against Euro – Societe Generale",
-    "link": "https://www.fxstreet.com/news/swedish-krona-weakens-against-euro-societe-generale-202607080908",
-    "datum": "2026-07-08T09:08:45.000Z"
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+    "datum": "2026-06-25T15:00:00.000Z"
    },
    {
-    "quelle": "ForexLive",
-    "titel": "Risk mood sours after Trump walks on Iran deal, threatens to cut trade ties with Spain",
-    "link": "https://investinglive.com/news/risk-mood-sours-after-trump-walks-on-iran-deal-threatens-to-cut-trade-ties-with-spain-20260708/",
-    "datum": "2026-07-08T09:08:40.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Trump says Memorandum of Understanding with Iran is over, don't want to engage with them",
-    "link": "https://investinglive.com/news/trump-says-memorandum-of-understanding-with-iran-is-over-dont-want-to-engage-with-them-20260708/",
-    "datum": "2026-07-08T08:19:09.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US President Trump: Iran are dirty players, they are 'scum'",
-    "link": "https://investinglive.com/news/us-president-trump-iran-are-dirty-players-they-are-scum-20260708/",
-    "datum": "2026-07-08T08:12:53.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Iran issues statement in condemning blatant violation to ceasefire deal by the US",
-    "link": "https://investinglive.com/news/iran-issues-statement-in-condemning-blatant-violation-to-ceasefire-deal-by-the-us-20260708/",
-    "datum": "2026-07-08T07:01:37.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "What are the main events for today?",
-    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20260708/",
-    "datum": "2026-07-08T06:31:06.000Z"
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+    "datum": "2026-06-25T15:00:00.000Z"
    }
   ]
  },

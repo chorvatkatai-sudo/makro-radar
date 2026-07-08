@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-07T21:16:43.967Z",
+ "erstellt": "2026-07-08T05:04:22.301Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -2474,19 +2474,19 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Der Dollar hat einen Riss — Jobschock (+57k) beendet die Falken-Rally. Ruhige Woche voraus, FOMC-Protokoll (Mi) ist der Test",
   "tagesnews": {
-   "stand": "2026-07-07",
-   "wochentag": "Dienstag",
-   "tenor": "RUHE VOR DEM STURM — heute (Di) steht kein grosser Termin an, aber MORGEN wird's spannend: Zinsentscheid Neuseeland (RBNZ) frueh am Morgen + Protokoll der US-Notenbank (Fed) am Abend. Der Dollar bleibt weich nach dem Jobschock (Index ~100,9, USD/JPY unter 162), die Stimmung entspannt (Angst-Barometer VIX tief bei ~16), Gold nahe Rekord (~4.170$), Oel billig (WTI ~68$). Wichtige Korrektur: Bei der RBNZ ist es eine Zitterpartie — die meisten Prognosen erwarten jetzt sogar eine ERHOEHUNG auf 2,50% (nicht mehr eine Pause).",
+   "stand": "2026-07-08",
+   "wochentag": "Mittwoch",
+   "tenor": "ZWEI PAUKENSCHLÄGE: Neuseelands Notenbank hat heute früh die Zinsen ERHÖHT (auf 2,50%) — die erste Erhöhung seit über 3 Jahren. Und über Nacht griff Iran in der Straße von Hormus einen Gas-Tanker an → Öl schoss nach oben (WTI von ~68$ auf ~73$). Teures Öl weckt Inflationssorgen, die US-Renditen steigen (10-jährig 4,50%, 2-Wochen-Hoch) und der Dollar wird wieder etwas fester. Heute Abend (20:00 Wien) kommt noch das Fed-Protokoll.",
    "heute": [
-    "🗓️ Ruhiger Dienstag OHNE grossen Termin — die Buehne gehoert dem Warten auf MORGEN (Mi): 04:00 Wien der Zinsentscheid der neuseeländischen Notenbank (RBNZ) und 20:00 Wien das Protokoll der US-Notenbank (Fed, Nachlese zur hawkishen Juni-Sitzung). Beides kann die Kurse ordentlich bewegen.",
-    "🇳🇿 WICHTIGE KORREKTUR zur Vorwoche: Bei der RBNZ ist es jetzt eine echte Zitterpartie (50/50). Die meisten Oekonomen-Umfragen erwarten sogar eine ERHOEHUNG auf 2,50% (statt der vorher gemeldeten Pause), weil die Inflation hartnaeckig ist. Dagegen spricht das billige Oel (~68$). Egal wie sie ausfaellt — der Kiwi (NZD) duerfte morgen frueh kraeftig zucken. Deshalb heute nur vorsichtig positiv.",
-    "💵 Der Dollar bleibt defensiv (Index ~100,9, USD/JPY unter 162). Es kursieren Schlagzeilen ueber neue Zwischenfaelle in der Strasse von Hormus (Oel-Risiko) — bisher OHNE grosse Wirkung, Oel bleibt billig. Fed-Chef Warsh nennt die Inflation weiter „zu hoch“, der Realzins bleibt hoch (~2,25%) — deshalb halte ich den Dollar bewusst neutral statt baerisch."
+    "🇳🇿 NEUSEELAND hat geliefert: Die Notenbank (RBNZ) hob den Leitzins um 0,25 auf 2,50% an — die ERSTE Erhöhung seit April 2023, und einstimmig. ABER: Sie machte klar, dass die Hürde für weitere Schritte jetzt HÖHER liegt. Der Kiwi (NZD) sprang kurz hoch, gab die Gewinne aber schnell wieder ab (blieb unter dem Vorwochen-Hoch). Direktion richtig, aber gedämpft — deshalb halte ich NZD nur vorsichtig positiv.",
+    "🛢️ ÖL-SCHOCK über Nacht: Iran hat in der Straße von Hormus einen katarischen Gas-Tanker angegriffen, ein zweiter Tanker wurde von einem Geschoss getroffen. Durch diese Meerenge fließt ~20% des Welt-Öls → WTI +3-5% auf ~73$, Brent ~76$. Der Iran-Friedensdeal wackelt. Teures Öl = mehr Inflationssorge → US-Renditen steigen, Fed-Erhöhung im September wieder wahrscheinlicher (~58%). Gewinner: der kanadische Dollar (Öl-Exporteur). Verlierer: Yen & Euro (Öl-Importeure).",
+    "🇺🇸 Heute Abend 20:00 Wien: PROTOKOLL der US-Notenbank (Nachlese zur hawkishen Juni-Sitzung). Zusammen mit dem Öl-Renditen-Schub gibt das dem Dollar wieder etwas Rückenwind — Index zurück über 101. Der Job-Schock von letzter Woche bleibt der Gegenpol, deshalb Dollar 'fester', nicht 'stark'."
    ],
    "gestern": [
-    "🇺🇸 US-Dienstleistungs-Stimmung (ISM Services, Juni) kam bei 54,0 — minimal unter der Erwartung (54,2) und leicht schwaecher als im Mai (54,5). ABER der Beschaeftigungs-Unterindex sprang von 47,9 auf 51,2 (erstmals seit 4 Monaten wieder Wachstum) — ein kleiner Trost fuer den Dollar nach dem schwachen Jobbericht.",
-    "🇺🇸 Der grosse Rahmen bleibt der JOB-SCHOCK vom 2.7.: nur +57.000 neue Stellen statt erwarteter ~114.000, dazu April/Mai zusammen um 74.000 nach unten korrigiert. Die September-Zinserhoehung der Fed ist damit praktisch vom Tisch, der Markt wettet fruehestens auf Dezember. Dollar-Index weich unter 101.",
-    "🥇 Gold nahe Rekord (~4.170$, +3,7% Woche = Flucht in Sicherheit), Oel billig (WTI ~68$, −3% Woche), VIX sehr tief (~16 = entspannte, risikofreudige Anleger). Diese ruhige Stimmung hilft den 'mutigen' Rohstoffwaehrungen Aussie & Kiwi und nimmt den sicheren Haefen Franken & Yen den Rueckenwind.",
-    "🇪🇺 Euro weiter gedaempft nach der ueberraschend kuehlen Inflation (2,8% statt 3,0% erwartet) von letzter Woche — das nimmt der EZB die Dringlichkeit und ist leicht euro-negativ."
+    "🛢️ Der Öl-Preis drehte GESTERN schon nach oben, als die ersten Hormus-Zwischenfälle bekannt wurden — von billig (~68$) zurück Richtung 72-73$ WTI. Genau die Wende, vor der wir gewarnt hatten (der Iran-Deal ist fragil).",
+    "🇺🇸 US-Renditen kletterten mit dem Öl mit: die 10-jährige Anleihe auf 4,50% (höchster Stand seit 2 Wochen). Steigende Renditen stützen den Dollar und drücken zinsempfindliche Währungen wie den Yen.",
+    "🥇 Gold hält sich stark nahe Rekord (~4.120$, +2,3% Woche), das Angst-Barometer VIX bleibt trotz Nahost-Schlagzeilen tief (~16 = Anleger noch entspannt). Solange die Ruhe hält, profitieren die 'mutigen' Rohstoff-Währungen Aussie & Kiwi.",
+    "🇺🇸 Der große Rahmen bleibt der Job-Schock vom 2.7. (nur +57.000 neue Stellen statt ~114.000) — er hat der monatelangen Dollar-Rally den ersten Riss verpasst. Jetzt ringt der Markt: schwacher Arbeitsmarkt (Dollar-negativ) gegen Öl-Inflation & steigende Renditen (Dollar-positiv)."
    ]
   },
   "lage": [
@@ -2501,80 +2501,80 @@ window.MAKRO_DATA = {
   "waehrungen": {
    "USD": {
     "stimmung": "neutral",
-    "score": 6,
-    "grund": "Angeknackst, aber nicht gebrochen: Der Jobschock (+57k) hat der Falken-Fed-Story den ersten Riss verpasst, der Dollar fiel unter 101. Aber Chef Warsh nennt die Inflation weiter 'zu hoch', der Realzins bleibt mit ~2,25% hoch, und nächste Woche ist datenarm — das dürfte eine Verschnaufpause werden. Deshalb neutral mit winzigem Plus statt bärisch."
+    "score": 12,
+    "grund": "Wieder etwas fester: Der Öl-Sprung (Hormus-Angriff) treibt die US-Renditen (10J 4,50%, 2-Wochen-Hoch) und die Wette auf eine Fed-Erhöhung im September zurück auf ~58%. Dazu Safe-Haven-Nachfrage. Gegenpol bleibt der schwache Arbeitsmarkt (Job-Schock +57k) — deshalb fester, aber nicht bullisch."
    },
    "EUR": {
     "stimmung": "bärisch",
-    "score": -8,
-    "grund": "Die Euro-Inflation fiel überraschend schnell auf 2,8% (statt 3,0% erwartet) — das nimmt der EZB die Dringlichkeit und ist leicht euro-negativ. Der weiche Dollar hilft zwar, aber die eigene Story (kühlere Inflation, schwache Konjunktur) überwiegt."
+    "score": -10,
+    "grund": "Doppelt belastet: Der wieder festere Dollar UND das teure Öl (die Eurozone ist Energie-Importeur) drücken. Die eigene Inflation war zuletzt überraschend kühl (2,8%) — die EZB hat es nicht eilig. Leicht euro-negativ."
    },
    "GBP": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Fast neutral: Die Großspekulanten sind beim Pfund extrem short positioniert (COT-z-Score −2,3) — das ist ein Rückschlag-/Squeeze-Risiko NACH OBEN. Zusammen mit dem weichen Dollar könnte das Pfund kurzfristig hochschnellen, auch wenn die eigene Wirtschaft mau ist."
+    "score": 0,
+    "grund": "Auf der Kippe: Der festere Dollar drückt, ABER die Großspekulanten sind beim Pfund extrem short (COT-z −2,3) = Squeeze-Risiko nach oben. Beide Kräfte heben sich fast auf → neutral."
    },
    "JPY": {
-    "stimmung": "neutral",
-    "score": 4,
-    "grund": "Zwiespältig: Der weiche Dollar und leicht fallende US-Renditen helfen dem Yen ein wenig. ABER die entspannte Risikostimmung (VIX 16) nimmt dem sicheren Hafen Yen Rückenwind, und Carry/Interventionsrisiko dominieren weiter. Mein USD/JPY-Track-Record ist 0/3 — deshalb bewusst nahe null."
+    "stimmung": "bärisch",
+    "score": -4,
+    "grund": "Gleich zwei Gegenwinde: steigende US-Renditen (macht den zinslosen Yen unattraktiv, Carry-Trades ziehen an) und teures Öl (Japan importiert fast sein ganzes Öl). Die entspannte Stimmung (VIX 16) nimmt dem sicheren Hafen zusätzlich Rückenwind. Track-Record 0/3 → bewusst nur leicht negativ."
    },
    "CHF": {
     "stimmung": "bärisch",
     "score": -6,
-    "grund": "Der weiche Dollar hilft, aber die risikofreudige Stimmung (VIX tief) nimmt dem sicheren Hafen Franken den Rückenwind. Die SNB steht bei 0% ohne eigenen Zins-Vorteil."
+    "grund": "Der festere Dollar und die risikofreudige Stimmung (VIX tief) nehmen dem sicheren Hafen Franken den Rückenwind. Die SNB steht bei 0% ohne Zins-Vorteil."
    },
    "CAD": {
-    "stimmung": "bärisch",
-    "score": -12,
-    "grund": "Gleich zwei Belastungen: billiges Öl (WTI ~68$, −3% Woche) drückt Kanadas wichtigsten Export, und der Arbeitsmarkt ist schwach (Arbeitslosigkeit ~6,9%). Am Freitag kommen frische Jobzahlen — Enttäuschungsrisiko. Der weiche Dollar federt nur teilweise ab."
+    "stimmung": "neutral",
+    "score": -4,
+    "grund": "Deutliche Aufwertung der Story: Der Öl-Sprung (WTI ~68$→73$ durch die Hormus-Angriffe) stützt Kanadas wichtigsten Export kräftig — das dreht das größte Minus der Vorwoche. ABER: der festere Dollar federt ab und am Freitag kommen kanadische Jobzahlen (Enttäuschungsrisiko). Deshalb von bärisch −12 auf nur noch leicht negativ."
    },
    "AUD": {
     "stimmung": "bullisch",
-    "score": 14,
-    "grund": "Klarer Gewinner-Kandidat: Doppel-Rückenwind aus der risikofreudigen Stimmung (VIX 16 = gut für die 'mutige' Rohstoffwährung) UND dem weichen Dollar. Die eigene Story hält (RBA bleibt hart, Kern-Inflation zäh). Einziges Risiko: schwache China-Inflation am Do."
+    "score": 10,
+    "grund": "Weiter Favorit, aber etwas getrimmt: Risikofreude (VIX 16) hilft dem Aussie, der festere Dollar bremst aber. Am Donnerstag China-Inflation — schwache China-Daten wären ein Risiko für die rohstoffnahe Währung."
    },
    "NZD": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Vorsichtig positiv statt leicht negativ: Am Mittwoch entscheidet die RBNZ auf der Kippe (50/50) — die meisten Umfragen erwarten jetzt eine ERHÖHUNG auf 2,50% (hartnäckige Inflation), nicht mehr eine Pause. Ein Hike wäre kiwi-positiv; zusammen mit Risikofreude (VIX 16) und weichem Dollar hebt das den Kiwi. ABER Track-Record nur 1/3 (33%) und knife-edge → bewusst nahe null."
+    "score": 4,
+    "grund": "Die RBNZ HAT heute erhöht (2,50%) — Richtung positiv. ABER die Bank signalisierte eine höhere Hürde für weitere Schritte, der Kiwi gab seine Gewinne schnell ab, und der festere Dollar deckelt. Track-Record 1/3 → bewusst nahe null, nur leicht positiv."
    }
   },
   "paare": [
    {
     "paar": "AUD/USD",
-    "score": 12,
-    "treiber": "Der Favorit der Woche: Risikofreude (VIX 16) + weicher Dollar + harte RBA heben den Aussie. COT fast neutral = sauberer Aufwärtsspielraum. Track-Record 2/3."
+    "score": 4,
+    "treiber": "Risikofreude (VIX 16) hebt den Aussie, aber der wieder festere Dollar (Öl→Renditen) bremst → nur noch leicht positiv. China-Inflation Do als Risiko. Track-Record 2/3."
    },
    {
     "paar": "USD/CAD",
-    "score": 10,
-    "treiber": "Dollar-neutral, aber der Loonie ist der Schwächste: billiges Öl (68$) + schwacher Arbeitsmarkt (Jobzahlen Fr) drücken den kanadischen Dollar → USD/CAD tendenziell rauf. Track-Record 2/3."
+    "score": 2,
+    "treiber": "Fast neutral: Der Öl-Sprung (Hormus) stützt den Loonie kräftig und dreht das Vorwochen-Minus — der festere Dollar hält aber dagegen. Kanada-Jobs Fr. Track-Record 2/3."
    },
    {
     "paar": "EUR/USD",
-    "score": -6,
-    "treiber": "Leicht abwärts: Die überraschend kühle Euro-Inflation (2,8%) nimmt der EZB Druck; der weiche Dollar federt nur teilweise ab. EUR-COT leicht long. Track-Record 2/3."
+    "score": -12,
+    "treiber": "Abwärts: festerer Dollar (Öl→Renditen→Hike-Odds 58%) + teures Öl belasten den Euro doppelt. Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile. Track-Record 2/3 (verlässlich)."
    },
    {
     "paar": "USD/CHF",
-    "score": 6,
-    "treiber": "Leicht aufwärts: Die risikofreudige Stimmung nimmt dem sicheren Hafen Franken den Rückenwind, während der Dollar sich nach dem Riss stabilisiert."
+    "score": 5,
+    "treiber": "Leicht aufwärts: festerer Dollar + risikofreudige Stimmung nehmen dem Franken Rückenwind. Track-Record aber nur 1/3 → bewusst moderat."
    },
    {
     "paar": "GBP/USD",
-    "score": 2,
-    "treiber": "Fast neutral, leicht positiv: Die extrem hohen Pfund-Shorts (COT-z −2,3) bergen Squeeze-Risiko nach oben, und der weiche Dollar hilft. Aber die eigene UK-Wirtschaft ist mau. Track-Record 2/3."
+    "score": -5,
+    "treiber": "Leicht abwärts: der festere Dollar drückt, die extremen Pfund-Shorts (COT-z −2,3 = Squeeze-Risiko) begrenzen den Rückgang aber. Track-Record 2/3."
    },
    {
     "paar": "USD/JPY",
-    "score": 2,
-    "treiber": "Bewusst nahe null: weicher Dollar/Renditen (yen-positiv) gegen Risk-on + Carry (yen-negativ) — das hebt sich auf. Interventionsrisiko deckelt nach oben. Mein Track-Record hier ist 0/3 = Demut."
+    "score": 6,
+    "treiber": "Aufwärts, aber demütig: steigende US-Renditen + teures Öl schwächen den Yen (bullisch fürs Paar). Track-Record 0/3 → bewusst nahe null gehalten."
    },
    {
     "paar": "NZD/USD",
     "score": 2,
-    "treiber": "Vorsichtig positiv: Risikofreude (VIX 16) + weicher Dollar heben den Kiwi, und die RBNZ könnte Mi ÜBERRASCHEND auf 2,50% erhöhen (Umfragen erwarten jetzt einen Hike, nicht mehr eine Pause) = kiwi-positiv. ABER knife-edge + Track-Record nur 1/3 → bewusst nahe null."
+    "treiber": "Vorsichtig positiv: RBNZ hat erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. Track-Record 1/3 → nahe null."
    }
   ],
   "wochenausblick": {
@@ -3585,63 +3585,63 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -6,
+   "baseScore": -12,
    "tiltCot": 0,
    "tiltZins": -3,
    "tiltGesamt": -3,
-   "score": -9,
+   "score": -15,
    "cotExtrem": null,
-   "treiber": "Leicht abwärts: Die überraschend kühle Euro-Inflation (2,8%) nimmt der EZB Druck; der weiche Dollar federt nur teilweise ab. EUR-COT leicht long. Track-Record 2/3."
+   "treiber": "Abwärts: festerer Dollar (Öl→Renditen→Hike-Odds 58%) + teures Öl belasten den Euro doppelt. Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile. Track-Record 2/3 (verlässlich)."
   },
   {
    "paar": "GBP/USD",
-   "baseScore": 2,
+   "baseScore": -5,
    "tiltCot": -5,
    "tiltZins": -3,
    "tiltGesamt": -8,
-   "score": -6,
+   "score": -13,
    "cotExtrem": "extrem",
-   "treiber": "Fast neutral, leicht positiv: Die extrem hohen Pfund-Shorts (COT-z −2,3) bergen Squeeze-Risiko nach oben, und der weiche Dollar hilft. Aber die eigene UK-Wirtschaft ist mau. Track-Record 2/3."
+   "treiber": "Leicht abwärts: der festere Dollar drückt, die extremen Pfund-Shorts (COT-z −2,3 = Squeeze-Risiko) begrenzen den Rückgang aber. Track-Record 2/3."
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 2,
-   "tiltCot": 10,
-   "tiltZins": 3,
-   "tiltGesamt": 13,
-   "score": 15,
-   "cotExtrem": null,
-   "treiber": "Bewusst nahe null: weicher Dollar/Renditen (yen-positiv) gegen Risk-on + Carry (yen-negativ) — das hebt sich auf. Interventionsrisiko deckelt nach oben. Mein Track-Record hier ist 0/3 = Demut."
-  },
-  {
-   "paar": "AUD/USD",
-   "baseScore": 12,
-   "tiltCot": -3,
-   "tiltZins": -3,
-   "tiltGesamt": -6,
-   "score": 6,
-   "cotExtrem": null,
-   "treiber": "Der Favorit der Woche: Risikofreude (VIX 16) + weicher Dollar + harte RBA heben den Aussie. COT fast neutral = sauberer Aufwärtsspielraum. Track-Record 2/3."
-  },
-  {
-   "paar": "USD/CAD",
-   "baseScore": 10,
-   "tiltCot": 10,
-   "tiltZins": 3,
-   "tiltGesamt": 13,
-   "score": 23,
-   "cotExtrem": null,
-   "treiber": "Dollar-neutral, aber der Loonie ist der Schwächste: billiges Öl (68$) + schwacher Arbeitsmarkt (Jobzahlen Fr) drücken den kanadischen Dollar → USD/CAD tendenziell rauf. Track-Record 2/3."
-  },
-  {
-   "paar": "USD/CHF",
    "baseScore": 6,
    "tiltCot": 10,
    "tiltZins": 3,
    "tiltGesamt": 13,
    "score": 19,
    "cotExtrem": null,
-   "treiber": "Leicht aufwärts: Die risikofreudige Stimmung nimmt dem sicheren Hafen Franken den Rückenwind, während der Dollar sich nach dem Riss stabilisiert."
+   "treiber": "Aufwärts, aber demütig: steigende US-Renditen + teures Öl schwächen den Yen (bullisch fürs Paar). Track-Record 0/3 → bewusst nahe null gehalten."
+  },
+  {
+   "paar": "AUD/USD",
+   "baseScore": 4,
+   "tiltCot": -3,
+   "tiltZins": -3,
+   "tiltGesamt": -6,
+   "score": -2,
+   "cotExtrem": null,
+   "treiber": "Risikofreude (VIX 16) hebt den Aussie, aber der wieder festere Dollar (Öl→Renditen) bremst → nur noch leicht positiv. China-Inflation Do als Risiko. Track-Record 2/3."
+  },
+  {
+   "paar": "USD/CAD",
+   "baseScore": 2,
+   "tiltCot": 10,
+   "tiltZins": 3,
+   "tiltGesamt": 13,
+   "score": 15,
+   "cotExtrem": null,
+   "treiber": "Fast neutral: Der Öl-Sprung (Hormus) stützt den Loonie kräftig und dreht das Vorwochen-Minus — der festere Dollar hält aber dagegen. Kanada-Jobs Fr. Track-Record 2/3."
+  },
+  {
+   "paar": "USD/CHF",
+   "baseScore": 5,
+   "tiltCot": 10,
+   "tiltZins": 3,
+   "tiltGesamt": 13,
+   "score": 18,
+   "cotExtrem": null,
+   "treiber": "Leicht aufwärts: festerer Dollar + risikofreudige Stimmung nehmen dem Franken Rückenwind. Track-Record aber nur 1/3 → bewusst moderat."
   },
   {
    "paar": "NZD/USD",
@@ -3651,7 +3651,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -8,
    "score": -6,
    "cotExtrem": "extrem",
-   "treiber": "Vorsichtig positiv: Risikofreude (VIX 16) + weicher Dollar heben den Kiwi, und die RBNZ könnte Mi ÜBERRASCHEND auf 2,50% erhöhen (Umfragen erwarten jetzt einen Hike, nicht mehr eine Pause) = kiwi-positiv. ABER knife-edge + Track-Record nur 1/3 → bewusst nahe null."
+   "treiber": "Vorsichtig positiv: RBNZ hat erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. Track-Record 1/3 → nahe null."
   }
  ],
  "news": {

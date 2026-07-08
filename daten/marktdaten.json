@@ -1,13 +1,13 @@
 {
-  "stand": "2026-07-08T05:04:51.336Z",
+  "stand": "2026-07-08T08:12:06.094Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 101.1,
+      "wert": 100.99,
       "tagProzent": 0,
-      "wocheProzent": -0.29,
+      "wocheProzent": -0.39,
       "renditeDelta": false,
       "verlauf": [
         100.05,
@@ -30,17 +30,17 @@
         100.86,
         100.85,
         101.14,
-        101.1,
-        101.1
+        100.99,
+        100.99
       ]
     },
     "VIX": {
       "name": "VIX (Angst-Barometer)",
       "einheit": "",
       "typ": "index",
-      "wert": 16.13,
+      "wert": 16.45,
       "tagProzent": 0,
-      "wocheProzent": -1.95,
+      "wocheProzent": -0.84,
       "renditeDelta": false,
       "verlauf": [
         18.92,
@@ -63,16 +63,17 @@
         16.15,
         15.57,
         16.13,
-        16.13
+        16.45,
+        16.45
       ]
     },
     "WTI": {
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 72.3,
+      "wert": 72.03,
       "tagProzent": 0,
-      "wocheProzent": 5.42,
+      "wocheProzent": 5.03,
       "renditeDelta": false,
       "verlauf": [
         91.3,
@@ -95,17 +96,17 @@
         68.69,
         68.55,
         70.44,
-        72.3,
-        72.3
+        72.03,
+        72.03
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 76.1,
+      "wert": 75.93,
       "tagProzent": 0,
-      "wocheProzent": 6.33,
+      "wocheProzent": 6.09,
       "renditeDelta": false,
       "verlauf": [
         94.25,
@@ -128,17 +129,17 @@
         71.8,
         71.99,
         74.16,
-        76.1,
-        76.1
+        75.93,
+        75.93
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4134.8,
+      "wert": 4128.4,
       "tagProzent": 0,
-      "wocheProzent": 1.63,
+      "wocheProzent": 1.48,
       "renditeDelta": false,
       "verlauf": [
         4335.9,
@@ -161,8 +162,8 @@
         4112.7,
         4155.1,
         4145.3,
-        4134.8,
-        4134.8
+        4128.4,
+        4128.4
       ]
     },
     "US02Y": {
@@ -263,12 +264,11 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 62738.8,
+      "wert": 62785.29,
       "tagProzent": 0,
-      "wocheProzent": 0.31,
+      "wocheProzent": -0.48,
       "renditeDelta": false,
       "verlauf": [
-        64418.45,
         62896.47,
         63540.84,
         64239.68,
@@ -288,43 +288,10 @@
         63088.3,
         63547.88,
         63995.02,
-        62738.8,
-        62738.8
+        63297.39,
+        62785.29,
+        62785.29
       ]
-    },
-    "INFL10": {
-      "name": "Inflationserwartung 10J (Breakeven)",
-      "einheit": "%",
-      "typ": "rendite",
-      "wert": 2.25,
-      "tagProzent": 0.01,
-      "wocheProzent": 0.03,
-      "renditeDelta": true,
-      "verlauf": [
-        2.36,
-        2.36,
-        2.35,
-        2.33,
-        2.34,
-        2.29,
-        2.31,
-        2.32,
-        2.29,
-        2.26,
-        2.25,
-        2.23,
-        2.21,
-        2.18,
-        2.21,
-        2.2,
-        2.22,
-        2.24,
-        2.23,
-        2.23,
-        2.24,
-        2.25
-      ],
-      "quelle": "FRED"
     },
     "REAL10": {
       "name": "US-Realzins 10J (TIPS)",
@@ -357,6 +324,40 @@
         2.25,
         2.26,
         2.24
+      ],
+      "quelle": "FRED"
+    },
+    "INFL10": {
+      "name": "Inflationserwartung 10J (Breakeven)",
+      "einheit": "%",
+      "typ": "rendite",
+      "wert": 2.25,
+      "tagProzent": 0.01,
+      "wocheProzent": 0.03,
+      "renditeDelta": true,
+      "verlauf": [
+        2.36,
+        2.36,
+        2.35,
+        2.33,
+        2.34,
+        2.29,
+        2.31,
+        2.32,
+        2.29,
+        2.26,
+        2.25,
+        2.23,
+        2.21,
+        2.18,
+        2.21,
+        2.2,
+        2.22,
+        2.24,
+        2.23,
+        2.23,
+        2.24,
+        2.25
       ],
       "quelle": "FRED"
     }

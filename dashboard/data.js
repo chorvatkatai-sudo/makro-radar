@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-08T08:12:06.858Z",
+ "erstellt": "2026-07-08T10:56:36.485Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -383,7 +383,7 @@ window.MAKRO_DATA = {
   {
    "title": "German 10-y Bond Auction",
    "country": "EUR",
-   "date": "2026-07-08T05:42:00-04:00",
+   "date": "2026-07-08T05:41:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "2.96|1.7",
@@ -3130,15 +3130,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-08T08:12:06.094Z",
+  "stand": "2026-07-08T10:56:34.092Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.99,
+    "wert": 101.08,
     "tagProzent": 0,
-    "wocheProzent": -0.39,
+    "wocheProzent": -0.31,
     "renditeDelta": false,
     "verlauf": [
      100.05,
@@ -3161,17 +3161,17 @@ window.MAKRO_DATA = {
      100.86,
      100.85,
      101.14,
-     100.99,
-     100.99
+     101.08,
+     101.08
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.45,
+    "wert": 18.09,
     "tagProzent": 0,
-    "wocheProzent": -0.84,
+    "wocheProzent": 9.04,
     "renditeDelta": false,
     "verlauf": [
      18.92,
@@ -3194,17 +3194,17 @@ window.MAKRO_DATA = {
      16.15,
      15.57,
      16.13,
-     16.45,
-     16.45
+     18.09,
+     18.09
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 72.03,
+    "wert": 73.9,
     "tagProzent": 0,
-    "wocheProzent": 5.03,
+    "wocheProzent": 7.76,
     "renditeDelta": false,
     "verlauf": [
      91.3,
@@ -3227,17 +3227,17 @@ window.MAKRO_DATA = {
      68.69,
      68.55,
      70.44,
-     72.03,
-     72.03
+     73.9,
+     73.9
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 75.93,
+    "wert": 77.95,
     "tagProzent": 0,
-    "wocheProzent": 6.09,
+    "wocheProzent": 8.91,
     "renditeDelta": false,
     "verlauf": [
      94.25,
@@ -3260,17 +3260,17 @@ window.MAKRO_DATA = {
      71.8,
      71.99,
      74.16,
-     75.93,
-     75.93
+     77.95,
+     77.95
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4128.4,
+    "wert": 4066.7,
     "tagProzent": 0,
-    "wocheProzent": 1.48,
+    "wocheProzent": -0.04,
     "renditeDelta": false,
     "verlauf": [
      4335.9,
@@ -3293,8 +3293,8 @@ window.MAKRO_DATA = {
      4112.7,
      4155.1,
      4145.3,
-     4128.4,
-     4128.4
+     4066.7,
+     4066.7
     ]
    },
    "US02Y": {
@@ -3395,9 +3395,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 62785.29,
+    "wert": 62130.43,
     "tagProzent": 0,
-    "wocheProzent": -0.48,
+    "wocheProzent": -1.52,
     "renditeDelta": false,
     "verlauf": [
      62896.47,
@@ -3420,8 +3420,8 @@ window.MAKRO_DATA = {
      63547.88,
      63995.02,
      63297.39,
-     62785.29,
-     62785.29
+     62130.43,
+     62130.43
     ]
    },
    "REAL10": {
@@ -3661,7 +3661,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-08T08:12:06.857Z",
+  "stand": "2026-07-08T10:56:36.484Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3669,28 +3669,100 @@ window.MAKRO_DATA = {
   ],
   "eintraege": [
    {
+    "quelle": "ForexLive",
+    "titel": "investingLive European morning session wrap: Oil prices surge as Trump calls off Iran deal",
+    "link": "https://investinglive.com/news/investinglive-european-morning-session-wrap-oil-prices-surge-as-trump-calls-off-iran-deal-20260708/",
+    "datum": "2026-07-08T10:36:56.000Z"
+   },
+   {
     "quelle": "FXStreet",
-    "titel": "Indian Rupee ticks higher despite rising oil prices",
+    "titel": "New Zealand Dollar gives away gains amid renewed tensions in the Middle East",
+    "link": "https://www.fxstreet.com/news/new-zealand-dollar-gives-away-gains-amid-renewed-tensions-in-the-middle-east-202607081027",
+    "datum": "2026-07-08T10:27:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar: FOMC minutes to highlight hawkish debate – TD Securities",
+    "link": "https://www.fxstreet.com/news/us-dollar-fomc-minutes-to-highlight-hawkish-debate-td-securities-202607080957",
+    "datum": "2026-07-08T09:57:35.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold declines as Trump scraps Iran memorandum, markets await Fed minutes",
+    "link": "https://www.fxstreet.com/news/gold-declines-as-trump-scraps-iran-memorandum-markets-await-fed-minutes-202607080955",
+    "datum": "2026-07-08T09:55:10.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US equities: Inflation tilt persists – BNY",
+    "link": "https://www.fxstreet.com/news/us-equities-inflation-tilt-persists-bny-202607080942",
+    "datum": "2026-07-08T09:42:42.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "EUR/USD Price Forecast: Euro hesitates above 1.1400 as geopolitical risks mount",
+    "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-hesitates-above-11400-as-geopolitical-risks-mount-202607080935",
+    "datum": "2026-07-08T09:35:47.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "ECB’s Escrivá: Central bank to keep all options on a meeting-by-meeting basis",
+    "link": "https://www.fxstreet.com/news/ecbs-escriva-central-bank-to-keep-all-options-on-a-meeting-by-meeting-basis-202607080935",
+    "datum": "2026-07-08T09:35:29.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver price today: Silver falls, according to FXStreet data",
+    "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607080932",
+    "datum": "2026-07-08T09:32:30.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "India: Cheaper Oil supports FY27 deficit target – Standard Chartered",
+    "link": "https://www.fxstreet.com/news/india-cheaper-oil-supports-fy27-deficit-target-standard-chartered-202607080929",
+    "datum": "2026-07-08T09:29:49.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee plummets as US Dollar bounces back, oil prices surge",
     "link": "https://www.fxstreet.com/news/indian-rupee-edges-up-against-us-dollar-ignores-rising-oil-prices-202607080539",
-    "datum": "2026-07-08T07:15:02.000Z"
+    "datum": "2026-07-08T09:26:44.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "US Dollar: Exposure stays elevated – BNY",
-    "link": "https://www.fxstreet.com/news/us-dollar-exposure-stays-elevated-bny-202607080713",
-    "datum": "2026-07-08T07:13:34.000Z"
+    "titel": "Oil: Limited war risk keeps Brent capped – DBS",
+    "link": "https://www.fxstreet.com/news/oil-limited-war-risk-keeps-brent-capped-dbs-202607080919",
+    "datum": "2026-07-08T09:19:02.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "USD/CAD Price Forecast: Weakens below 1.4200 as Oil gains, but technicals still favor upside",
-    "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-weakens-below-14200-as-oil-gains-but-technicals-still-favor-upside-202607080703",
-    "datum": "2026-07-08T07:03:43.000Z"
+    "titel": "Silver Price Forecast: XAG/USD falls toward $58.00 as Trump declares Iran truce “finished”",
+    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-toward-5800-as-trump-declares-iran-truce-finished-202607080912",
+    "datum": "2026-07-08T09:12:37.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Czech Koruna: CNB hawkish bias supports CZK – Commerzbank",
-    "link": "https://www.fxstreet.com/news/czech-koruna-cnb-hawkish-bias-supports-czk-commerzbank-202607080703",
-    "datum": "2026-07-08T07:03:41.000Z"
+    "titel": "Swedish Krona: Weakens against Euro – Societe Generale",
+    "link": "https://www.fxstreet.com/news/swedish-krona-weakens-against-euro-societe-generale-202607080908",
+    "datum": "2026-07-08T09:08:45.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Risk mood sours after Trump walks on Iran deal, threatens to cut trade ties with Spain",
+    "link": "https://investinglive.com/news/risk-mood-sours-after-trump-walks-on-iran-deal-threatens-to-cut-trade-ties-with-spain-20260708/",
+    "datum": "2026-07-08T09:08:40.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Trump says Memorandum of Understanding with Iran is over, don't want to engage with them",
+    "link": "https://investinglive.com/news/trump-says-memorandum-of-understanding-with-iran-is-over-dont-want-to-engage-with-them-20260708/",
+    "datum": "2026-07-08T08:19:09.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US President Trump: Iran are dirty players, they are 'scum'",
+    "link": "https://investinglive.com/news/us-president-trump-iran-are-dirty-players-they-are-scum-20260708/",
+    "datum": "2026-07-08T08:12:53.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3699,82 +3771,10 @@ window.MAKRO_DATA = {
     "datum": "2026-07-08T07:01:37.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Euro rises against Japanese Yen as latter underperforms across the board",
-    "link": "https://www.fxstreet.com/news/euro-rises-against-japanese-yen-as-latter-underperforms-across-the-board-202607080659",
-    "datum": "2026-07-08T06:59:56.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound: Momentum fades against US Dollar – UOB",
-    "link": "https://www.fxstreet.com/news/british-pound-momentum-fades-against-us-dollar-uob-202607080654",
-    "datum": "2026-07-08T06:54:54.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold bulls seem hesitant as Iran tensions fuel inflation fears and hawkish Fed bets",
-    "link": "https://www.fxstreet.com/news/gold-edges-higher-amid-subdued-usd-demand-hawkish-fed-and-us-iran-tensions-to-cap-gains-202607080419",
-    "datum": "2026-07-08T06:50:11.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Oil: Gradual downside with security premium – OCBC",
-    "link": "https://www.fxstreet.com/news/oil-gradual-downside-with-security-premium-ocbc-202607080644",
-    "datum": "2026-07-08T06:44:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "USD/JPY Price Forecast: Dollar remains capped below 162.40 resistance area",
-    "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-dollar-remains-capped-below-16240-resistance-area-202607080640",
-    "datum": "2026-07-08T06:40:32.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold: Central bank demand underpins prices – ING",
-    "link": "https://www.fxstreet.com/news/gold-central-bank-demand-underpins-prices-ing-202607080635",
-    "datum": "2026-07-08T06:35:01.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "What are the main events for today?",
     "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20260708/",
     "datum": "2026-07-08T06:31:06.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Equities: Mixed reaction to US-Iran tensions – Deutsche Bank",
-    "link": "https://www.fxstreet.com/news/equities-mixed-reaction-to-us-iran-tensions-deutsche-bank-202607080626",
-    "datum": "2026-07-08T06:26:07.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar: Hawkish RBNZ but kiwi seen vulnerable – Commerzbank",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-hawkish-rbnz-but-kiwi-seen-vulnerable-commerzbank-202607080616",
-    "datum": "2026-07-08T06:16:25.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Iran says it targeted a US base in Bahrain, warns of more attacks",
-    "link": "https://investinglive.com/news/iran-says-it-targeted-a-us-base-in-bahrain-warns-of-more-attacks-20260708/",
-    "datum": "2026-07-08T05:24:10.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "China reportedly decides to lift restrictions on refined fuel exports for the rest of July",
-    "link": "https://investinglive.com/news/china-reportedly-decides-to-lift-restrictions-on-refined-fuel-exports-for-the-rest-of-july-20260708/",
-    "datum": "2026-07-08T04:54:18.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Asia-Pacific FX news wrap: Oil jumps, dollar bid, RBNZ first hike in 3 years",
-    "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-oil-jumps-dollar-bid-rbnz-first-hike-in-3-years-20260708/",
-    "datum": "2026-07-08T03:34:56.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Americas market news wrap: Oil climbs as Trump reimposes sanctions on Iran",
-    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-climbs-as-trump-reimposes-sanctions-on-iran-20260707/",
-    "datum": "2026-07-07T20:23:38.000Z"
    }
   ]
  },
@@ -4382,5 +4382,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 370
+ "anzahlGespeichert": 371
 };

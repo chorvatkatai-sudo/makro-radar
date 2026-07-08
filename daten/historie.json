@@ -3700,6 +3700,16 @@
       "vorher": "-0.1%",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-08T05:41:00-04:00|EUR|German 10-y Bond Auction": {
+      "datum": "2026-07-08T05:41:00-04:00",
+      "land": "EUR",
+      "titel": "German 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "2.96|1.7",
+      "actual": null,
+      "notiz": null
     }
   }
 }

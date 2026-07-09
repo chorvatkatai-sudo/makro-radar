@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-09T14:47:42.139Z",
+ "erstellt": "2026-07-09T15:53:10.398Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -2094,7 +2094,7 @@ window.MAKRO_DATA = {
    "title": "EIA Natural Gas Stocks Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "61",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3130,15 +3130,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-09T14:47:41.397Z",
+  "stand": "2026-07-09T15:53:09.734Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.89,
+    "wert": 100.91,
     "tagProzent": 0,
-    "wocheProzent": 0.03,
+    "wocheProzent": 0.05,
     "renditeDelta": false,
     "verlauf": [
      99.91,
@@ -3161,17 +3161,17 @@ window.MAKRO_DATA = {
      100.85,
      101.14,
      101.05,
-     100.89,
-     100.89
+     100.91,
+     100.91
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.71,
+    "wert": 16.2,
     "tagProzent": 0,
-    "wocheProzent": 3.47,
+    "wocheProzent": 0.31,
     "renditeDelta": false,
     "verlauf": [
      19.87,
@@ -3194,17 +3194,17 @@ window.MAKRO_DATA = {
      15.57,
      16.13,
      16.9,
-     16.71,
-     16.71
+     16.2,
+     16.2
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 72.64,
+    "wert": 72.11,
     "tagProzent": 0,
-    "wocheProzent": 5.75,
+    "wocheProzent": 4.98,
     "renditeDelta": false,
     "verlauf": [
      88.2,
@@ -3227,17 +3227,17 @@ window.MAKRO_DATA = {
      68.55,
      70.44,
      73.52,
-     72.64,
-     72.64
+     72.11,
+     72.11
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 77.29,
+    "wert": 76.73,
     "tagProzent": 0,
-    "wocheProzent": 7.65,
+    "wocheProzent": 6.87,
     "renditeDelta": false,
     "verlauf": [
      91.45,
@@ -3260,17 +3260,17 @@ window.MAKRO_DATA = {
      71.99,
      74.16,
      78.02,
-     77.29,
-     77.29
+     76.73,
+     76.73
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4133.1,
+    "wert": 4139,
     "tagProzent": 0,
-    "wocheProzent": 0.5,
+    "wocheProzent": 0.64,
     "renditeDelta": false,
     "verlauf": [
      4260,
@@ -3293,8 +3293,8 @@ window.MAKRO_DATA = {
      4155.1,
      4145.3,
      4070.9,
-     4133.1,
-     4133.1
+     4139,
+     4139
     ]
    },
    "US02Y": {
@@ -3333,7 +3333,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.559,
+    "wert": 4.553,
     "tagProzent": 0,
     "wocheProzent": 0.08,
     "renditeDelta": true,
@@ -3357,17 +3357,17 @@ window.MAKRO_DATA = {
      4.485,
      4.529,
      4.569,
-     4.559,
-     4.559
+     4.553,
+     4.553
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.072,
+    "wert": 5.065,
     "tagProzent": 0,
-    "wocheProzent": 0.11,
+    "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
      5.011,
@@ -3389,17 +3389,17 @@ window.MAKRO_DATA = {
      4.985,
      5.043,
      5.065,
-     5.072,
-     5.072
+     5.065,
+     5.065
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 62895.18,
+    "wert": 62946.12,
     "tagProzent": 0,
-    "wocheProzent": -1.03,
+    "wocheProzent": -0.95,
     "renditeDelta": false,
     "verlauf": [
      63540.84,
@@ -3422,43 +3422,9 @@ window.MAKRO_DATA = {
      63995.02,
      63297.39,
      62257.57,
-     62895.18,
-     62895.18
+     62946.12,
+     62946.12
     ]
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.25,
-    "tagProzent": 0,
-    "wocheProzent": 0.01,
-    "renditeDelta": true,
-    "verlauf": [
-     2.36,
-     2.35,
-     2.33,
-     2.34,
-     2.29,
-     2.31,
-     2.32,
-     2.29,
-     2.26,
-     2.25,
-     2.23,
-     2.21,
-     2.18,
-     2.21,
-     2.2,
-     2.22,
-     2.24,
-     2.23,
-     2.23,
-     2.24,
-     2.25,
-     2.25
-    ],
-    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
@@ -3491,6 +3457,40 @@ window.MAKRO_DATA = {
      2.26,
      2.24,
      2.3
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.25,
+    "tagProzent": 0,
+    "wocheProzent": 0.01,
+    "renditeDelta": true,
+    "verlauf": [
+     2.36,
+     2.35,
+     2.33,
+     2.34,
+     2.29,
+     2.31,
+     2.32,
+     2.29,
+     2.26,
+     2.25,
+     2.23,
+     2.21,
+     2.18,
+     2.21,
+     2.2,
+     2.22,
+     2.24,
+     2.23,
+     2.23,
+     2.24,
+     2.25,
+     2.25
     ],
     "quelle": "FRED"
    }
@@ -3663,7 +3663,7 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-09T14:47:42.131Z",
+  "stand": "2026-07-09T15:53:10.397Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3672,75 +3672,81 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
-    "titel": "Fed’s Williams: Inflation is still 'far too high'",
-    "link": "https://www.fxstreet.com/news/feds-williams-inflation-is-still-far-too-high-202607091348",
-    "datum": "2026-07-09T13:48:21.000Z"
+    "titel": "US Dollar: Tariff passthrough keeps inflation pressure alive – BNY",
+    "link": "https://www.fxstreet.com/news/us-dollar-tariff-passthrough-keeps-inflation-pressure-alive-bny-202607091505",
+    "datum": "2026-07-09T15:05:24.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Equities: Growth downgrades and rotation theme – BNY",
-    "link": "https://www.fxstreet.com/news/equities-growth-downgrades-and-rotation-theme-bny-202607091348",
-    "datum": "2026-07-09T13:48:02.000Z"
+    "titel": "Australian Dollar rises as US Dollar softens despite geopolitical tensions",
+    "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-us-dollar-softens-despite-geopolitical-tensions-202607091504",
+    "datum": "2026-07-09T15:04:21.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
+    "datum": "2026-07-09T15:00:00.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Canadian Dollar stuck in a narrow range as Oil slide, softer US Dollar offset",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-stuck-in-a-narrow-range-as-oil-slide-softer-us-dollar-offset-202607091345",
-    "datum": "2026-07-09T13:45:39.000Z"
+    "titel": "Canadian Dollar: Sentiment improves as risks fade against US Dollar – Scotiabank",
+    "link": "https://www.fxstreet.com/news/canadian-dollar-sentiment-improves-as-risks-fade-against-us-dollar-scotiabank-202607091449",
+    "datum": "2026-07-09T14:49:04.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "United States: Participation drop masks slack – ABN AMRO",
-    "link": "https://www.fxstreet.com/news/united-states-participation-drop-masks-slack-abn-amro-202607091339",
-    "datum": "2026-07-09T13:39:00.000Z"
+    "titel": "British Pound elevates despite firm US claims",
+    "link": "https://www.fxstreet.com/news/british-pound-elevates-despite-firm-us-claims-202607091444",
+    "datum": "2026-07-09T14:44:41.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "India: Tactical duration opportunity on rates – DBS",
-    "link": "https://www.fxstreet.com/news/india-tactical-duration-opportunity-on-rates-dbs-202607091329",
-    "datum": "2026-07-09T13:29:01.000Z"
+    "titel": "Record: Chinese investors pull $2.22 billion from Gold ETFs in June, the highest monthly outflow ever",
+    "link": "https://www.fxstreet.com/news/record-chinese-investors-pull-222-billion-from-gold-etfs-in-june-the-highest-monthly-outflow-ever-202607091443",
+    "datum": "2026-07-09T14:43:14.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "European Central Bank: September hike prospects stay firm – Nordea",
+    "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-prospects-stay-firm-nordea-202607091432",
+    "datum": "2026-07-09T14:32:19.000Z"
    },
    {
     "quelle": "FXStreet",
     "titel": "Gold firms but lacks momentum amid US-Iran tensions, hawkish Fed bets",
     "link": "https://www.fxstreet.com/news/gold-struggles-for-momentum-as-us-iran-tensions-hawkish-fed-bets-weigh-202607091133",
-    "datum": "2026-07-09T13:19:24.000Z"
+    "datum": "2026-07-09T14:30:25.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Fed: Hawkish minutes keep upside rate risks – ING",
-    "link": "https://www.fxstreet.com/news/fed-hawkish-minutes-keep-upside-rate-risks-ing-202607091315",
-    "datum": "2026-07-09T13:15:20.000Z"
+    "titel": "Singapore Dollar: Upside risks building as USD stays firm – DBS",
+    "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risks-building-as-usd-stays-firm-dbs-202607091425",
+    "datum": "2026-07-09T14:25:00.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "US Dollar: Fed minutes flag supply-driven inflation risks – TD Securities",
-    "link": "https://www.fxstreet.com/news/us-dollar-fed-minutes-flag-supply-driven-inflation-risks-td-securities-202607091304",
-    "datum": "2026-07-09T13:04:14.000Z"
+    "titel": "Chinese Yuan: Range consolidation after recent retreat against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-range-consolidation-after-recent-retreat-against-us-dollar-uob-202607091414",
+    "datum": "2026-07-09T14:14:08.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Japanese Yen gains modestly, remains near multi-decade lows",
-    "link": "https://www.fxstreet.com/news/japanese-yen-gains-modestly-remains-near-multi-decade-lows-202607091256",
-    "datum": "2026-07-09T12:56:05.000Z"
+    "titel": "Euro holds firm as traders assess geopolitical risks, interest rate outlook",
+    "link": "https://www.fxstreet.com/news/euro-holds-firm-as-traders-assess-geopolitical-risks-and-interest-rate-outlook-202607091405",
+    "datum": "2026-07-09T14:05:23.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Czech Koruna: CNB alignment may weigh CZK against Euro – BNY",
-    "link": "https://www.fxstreet.com/news/czech-koruna-cnb-alignment-may-weigh-czk-against-euro-bny-202607091247",
-    "datum": "2026-07-09T12:47:28.000Z"
+    "titel": "South Korean Won: Gains hinge on supportive flows against US Dollar – OCBC",
+    "link": "https://www.fxstreet.com/news/south-korean-won-gains-hinge-on-supportive-flows-against-us-dollar-ocbc-202607091405",
+    "datum": "2026-07-09T14:05:18.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Confirmed: ECB Accounts reveal growing concerns over upside inflation risks",
-    "link": "https://www.fxstreet.com/news/confirmed-ecb-accounts-reveal-growing-concerns-over-upside-inflation-risks-202607091239",
-    "datum": "2026-07-09T12:39:28.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Fed: Divergent inflation paths shape rate outlook – Societe Generale",
-    "link": "https://www.fxstreet.com/news/fed-divergent-inflation-paths-shape-rate-outlook-societe-generale-202607091237",
-    "datum": "2026-07-09T12:37:41.000Z"
+    "titel": "Fed’s Williams: Inflation is still 'far too high'",
+    "link": "https://www.fxstreet.com/news/feds-williams-inflation-is-still-far-too-high-202607091348",
+    "datum": "2026-07-09T13:48:21.000Z"
    },
    {
     "quelle": "Fed",
@@ -3771,12 +3777,6 @@ window.MAKRO_DATA = {
     "titel": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
     "datum": "2026-06-30T14:00:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
-    "datum": "2026-06-25T15:00:00.000Z"
    }
   ]
  },

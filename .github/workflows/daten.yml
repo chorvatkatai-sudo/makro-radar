@@ -19,7 +19,12 @@ on:
     branches: [main]
     paths:
       - 'daten/briefing-aktuell.json'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force_ueberblick:
+        description: 'Tagesueberblick erneut senden (Test), auch wenn heute schon gesendet'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -55,7 +60,7 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
-        run: node scripts/tagesbriefing.mjs
+        run: node scripts/tagesbriefing.mjs ${{ inputs.force_ueberblick == true && '--force' || '' }}
 
       - name: Aenderungen committen und pushen (kein Marktdaten-Jitter-Spam)
         run: |

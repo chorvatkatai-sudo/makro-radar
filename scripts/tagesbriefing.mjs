@@ -40,6 +40,10 @@ if (!FORCE && !DRY && ledger.stand === standTag) {
 const fmtDatum = s => { const [y, m, d] = standTag.split("-"); return `${d}.${m}.${y}`; };
 const ampel = sc => sc > 0 ? "🟢" : sc < 0 ? "🔴" : "⚪";
 const label = sc => sc > 0 ? "bullish" : sc < 0 ? "bärisch" : "neutral";
+// %-Darstellung wie im Dashboard: bullPct = 50 + score/2 -> gezeigt wird die
+// Wahrscheinlichkeits-Seite der Einschätzung (56% bärisch statt Score -12).
+const prozent = sc => `${Math.round(50 + Math.abs(sc) / 2)}%`;
+const staerke = sc => { const m = Math.abs(sc); return m === 0 ? "" : m <= 25 ? " · schwach" : m <= 50 ? " · mittel" : " · stark"; };
 
 const z = [];
 z.push("📰 Makro-Radar · Tagesüberblick");
@@ -53,13 +57,18 @@ if (Array.isArray(tn.gestern) && tn.gestern.length) {
   z.push(""); z.push("📅 Gestern/davor:");
   for (const g of tn.gestern) z.push(`• ${g}`);
 }
-const paare = (briefing.paare || []).slice().sort((a, b) => Math.abs(b.score || 0) - Math.abs(a.score || 0));
+// Bevorzugt die Markt-korrigierten Endscores (paare-markt.json, von fetch-kalender
+// direkt davor geschrieben) — dieselben Werte wie im Dashboard. Fallback: briefing.paare.
+const pm = leseJson(path.join(DATEN, "paare-markt.json"), null);
+const paare = ((pm?.paare?.length ? pm.paare : briefing.paare) || [])
+  .slice().sort((a, b) => Math.abs(b.score || 0) - Math.abs(a.score || 0));
 if (paare.length) {
   z.push(""); z.push("📊 Paar-Einschätzung (Prognose der Woche):");
   for (const p of paare) {
     const sc = p.score || 0;
-    z.push(`${ampel(sc)} ${p.paar}  ${sc > 0 ? "+" : ""}${sc}  ${label(sc)}`);
+    z.push(`${ampel(sc)} ${p.paar}  ${prozent(sc)} ${label(sc)}${staerke(sc)}`);
   }
+  z.push("50% = neutral · % = wie klar die Daten in eine Richtung zeigen");
 }
 z.push("");
 z.push("📲 Details & Einzel-Signale laufen separat ein. Volles Dashboard:");

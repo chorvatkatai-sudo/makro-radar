@@ -1,0 +1,77 @@
+{
+  "stand": "2026-07-09T21:14:33.292Z",
+  "ausBriefing": "2026-07-03",
+  "overlayAktiv": true,
+  "paare": [
+    {
+      "paar": "EUR/USD",
+      "baseScore": -12,
+      "tiltCot": 0,
+      "tiltZins": -1,
+      "tiltGesamt": -1,
+      "score": -13,
+      "cotExtrem": null,
+      "treiber": "Abwärts: festerer Dollar (Öl→Renditen→Hike-Odds 58%) + teures Öl belasten den Euro doppelt. Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile. Track-Record 2/3 (verlässlich)."
+    },
+    {
+      "paar": "GBP/USD",
+      "baseScore": -5,
+      "tiltCot": -5,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": -11,
+      "cotExtrem": "extrem",
+      "treiber": "Leicht abwärts: der festere Dollar drückt, die extremen Pfund-Shorts (COT-z −2,3 = Squeeze-Risiko) begrenzen den Rückgang aber. Track-Record 2/3."
+    },
+    {
+      "paar": "USD/JPY",
+      "baseScore": 12,
+      "tiltCot": 10,
+      "tiltZins": 1,
+      "tiltGesamt": 11,
+      "score": 23,
+      "cotExtrem": null,
+      "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teures Öl schwächen den Yen deutlich, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat statt extrem."
+    },
+    {
+      "paar": "AUD/USD",
+      "baseScore": 2,
+      "tiltCot": -3,
+      "tiltZins": -1,
+      "tiltGesamt": -4,
+      "score": -2,
+      "cotExtrem": null,
+      "treiber": "Nur noch leicht positiv: Risikofreude hebt den Aussie, aber schwache China-Inflation (+1,0%) und der festere Dollar bremsen. China-Nachfrage-Risiko bleibt. Track-Record 2/3."
+    },
+    {
+      "paar": "USD/CAD",
+      "baseScore": -2,
+      "tiltCot": 10,
+      "tiltZins": 1,
+      "tiltGesamt": 11,
+      "score": 9,
+      "cotExtrem": null,
+      "treiber": "Leicht abwärts (Loonie stärker): Der Öl-Sprung (+8–10% Woche) stützt Kanadas Export kräftig und dreht das Vorwochen-Plus. Der festere Dollar und die Kanada-Jobzahlen morgen (Fr) halten dagegen. Track-Record 2/3."
+    },
+    {
+      "paar": "USD/CHF",
+      "baseScore": 5,
+      "tiltCot": 10,
+      "tiltZins": 1,
+      "tiltGesamt": 11,
+      "score": 16,
+      "cotExtrem": null,
+      "treiber": "Leicht aufwärts: festerer Dollar + risikofreudige Stimmung nehmen dem Franken Rückenwind. Track-Record aber nur 1/3 → bewusst moderat."
+    },
+    {
+      "paar": "NZD/USD",
+      "baseScore": 2,
+      "tiltCot": -5,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": -4,
+      "cotExtrem": "extrem",
+      "treiber": "Vorsichtig positiv: RBNZ hat erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. Track-Record 1/3 → nahe null."
+    }
+  ]
+}

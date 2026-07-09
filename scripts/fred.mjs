@@ -158,8 +158,9 @@ export async function holeFredMarktreihen() {
   const out = {};
   await Promise.all(FRED_MARKTREIHEN.map(async r => {
     try {
+      const start = new Date(Date.now() - 180 * 864e5).toISOString().slice(0, 10); // rollierende 6 Monate statt fixem Jahresanfang
       const url = `https://api.stlouisfed.org/fred/series/observations` +
-        `?series_id=${r.serie}&api_key=${key}&file_type=json&observation_start=2026-01-01&sort_order=asc`;
+        `?series_id=${r.serie}&api_key=${key}&file_type=json&observation_start=${start}&sort_order=asc`;
       const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (Makro-Dashboard, privat)" } });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const obs = ((await res.json()).observations || []).filter(o => o.value !== "." && o.value != null);

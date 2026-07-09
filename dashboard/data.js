@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-09T17:49:09.921Z",
+ "erstellt": "2026-07-09T21:14:33.306Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -3130,15 +3130,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-09T17:49:09.158Z",
+  "stand": "2026-07-09T21:14:32.366Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.87,
+    "wert": 100.92,
     "tagProzent": 0,
-    "wocheProzent": 0.01,
+    "wocheProzent": 0.06,
     "renditeDelta": false,
     "verlauf": [
      99.91,
@@ -3161,17 +3161,17 @@ window.MAKRO_DATA = {
      100.85,
      101.14,
      101.05,
-     100.87,
-     100.87
+     100.92,
+     100.92
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.01,
+    "wert": 15.84,
     "tagProzent": 0,
-    "wocheProzent": -0.87,
+    "wocheProzent": -1.92,
     "renditeDelta": false,
     "verlauf": [
      19.87,
@@ -3194,17 +3194,17 @@ window.MAKRO_DATA = {
      15.57,
      16.13,
      16.9,
-     16.01,
-     16.01
+     15.84,
+     15.84
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 71.51,
+    "wert": 71.81,
     "tagProzent": 0,
-    "wocheProzent": 4.11,
+    "wocheProzent": 4.54,
     "renditeDelta": false,
     "verlauf": [
      88.2,
@@ -3227,17 +3227,17 @@ window.MAKRO_DATA = {
      68.55,
      70.44,
      73.52,
-     71.51,
-     71.51
+     71.81,
+     71.81
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 75.67,
+    "wert": 76.04,
     "tagProzent": 0,
-    "wocheProzent": 5.39,
+    "wocheProzent": 5.91,
     "renditeDelta": false,
     "verlauf": [
      91.45,
@@ -3260,17 +3260,17 @@ window.MAKRO_DATA = {
      71.99,
      74.16,
      78.02,
-     75.67,
-     75.67
+     76.04,
+     76.04
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4143.9,
+    "wert": 4132.6,
     "tagProzent": 0,
-    "wocheProzent": 0.76,
+    "wocheProzent": 0.48,
     "renditeDelta": false,
     "verlauf": [
      4260,
@@ -3293,8 +3293,8 @@ window.MAKRO_DATA = {
      4155.1,
      4145.3,
      4070.9,
-     4143.9,
-     4143.9
+     4132.6,
+     4132.6
     ]
    },
    "US02Y": {
@@ -3333,7 +3333,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.533,
+    "wert": 4.539,
     "tagProzent": 0,
     "wocheProzent": 0.06,
     "renditeDelta": true,
@@ -3357,17 +3357,17 @@ window.MAKRO_DATA = {
      4.485,
      4.529,
      4.569,
-     4.533,
-     4.533
+     4.539,
+     4.539
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.05,
+    "wert": 5.053,
     "tagProzent": 0,
-    "wocheProzent": 0.08,
+    "wocheProzent": 0.09,
     "renditeDelta": true,
     "verlauf": [
      5.011,
@@ -3389,17 +3389,17 @@ window.MAKRO_DATA = {
      4.985,
      5.043,
      5.065,
-     5.05,
-     5.05
+     5.053,
+     5.053
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63017.16,
+    "wert": 63280.89,
     "tagProzent": 0,
-    "wocheProzent": -0.84,
+    "wocheProzent": -0.42,
     "renditeDelta": false,
     "verlauf": [
      63540.84,
@@ -3422,20 +3422,19 @@ window.MAKRO_DATA = {
      63995.02,
      63297.39,
      62257.57,
-     63017.16,
-     63017.16
+     63280.89,
+     63280.89
     ]
    },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.25,
-    "tagProzent": 0,
-    "wocheProzent": 0.01,
+    "wert": 2.23,
+    "tagProzent": -0.02,
+    "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
-     2.36,
      2.35,
      2.33,
      2.34,
@@ -3456,7 +3455,8 @@ window.MAKRO_DATA = {
      2.23,
      2.24,
      2.25,
-     2.25
+     2.25,
+     2.23
     ],
     "quelle": "FRED"
    },
@@ -3464,12 +3464,11 @@ window.MAKRO_DATA = {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.3,
-    "tagProzent": 0.06,
-    "wocheProzent": 0.14,
+    "wert": 2.31,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.11,
     "renditeDelta": true,
     "verlauf": [
-     2.11,
      2.19,
      2.21,
      2.2,
@@ -3490,7 +3489,8 @@ window.MAKRO_DATA = {
      2.25,
      2.26,
      2.24,
-     2.3
+     2.3,
+     2.31
     ],
     "quelle": "FRED"
    }
@@ -3663,13 +3663,73 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-09T17:49:09.920Z",
+  "stand": "2026-07-09T21:14:33.281Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar firms as US Dollar softens",
+    "link": "https://www.fxstreet.com/news/australian-dollar-firms-as-us-dollar-softens-202607092007",
+    "datum": "2026-07-09T20:07:27.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "South Korean Won: Rally versus sustained USD strength – TD Securities",
+    "link": "https://www.fxstreet.com/news/south-korean-won-rally-versus-sustained-usd-strength-td-securities-202607092000",
+    "datum": "2026-07-09T20:00:08.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Fed unveils Warsh task forces to lead broad review",
+    "link": "https://www.fxstreet.com/news/fed-unveils-warsh-task-forces-to-lead-broad-review-202607091946",
+    "datum": "2026-07-09T19:46:01.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Mexican Peso gains as risk appetite improves, weighs on USD",
+    "link": "https://www.fxstreet.com/news/mexican-peso-gains-as-risk-appetite-improves-weighs-on-usd-202607091940",
+    "datum": "2026-07-09T19:40:01.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen: Yen eyes BoJ and key resistance zone against US Dollar – Scotiabank",
+    "link": "https://www.fxstreet.com/news/japanese-yen-yen-eyes-boj-and-key-resistance-zone-against-us-dollar-scotiabank-202607091936",
+    "datum": "2026-07-09T19:36:32.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Eurozone: Energy shock keeps pressure on ECB – Nordea",
+    "link": "https://www.fxstreet.com/news/eurozone-energy-shock-keeps-pressure-on-ecb-nordea-202607091917",
+    "datum": "2026-07-09T19:17:06.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Singapore Dollar: Range bias holds above 1.2890 against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/singapore-dollar-range-bias-holds-above-12890-against-us-dollar-uob-202607091902",
+    "datum": "2026-07-09T19:02:10.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+    "datum": "2026-07-09T19:00:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI Price Forecast: Rejection at the 200-day SMA keeps bears in control",
+    "link": "https://www.fxstreet.com/news/wti-price-forecast-rejection-at-the-200-day-sma-keeps-bears-in-control-202607091824",
+    "datum": "2026-07-09T18:24:26.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold rebounds above $4,100 as falling Oil weighs on US Dollar",
+    "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-100-as-falling-oil-weighs-on-us-dollar-202607091823",
+    "datum": "2026-07-09T18:23:30.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "British Pound: Recovery tests key resistance against US Dollar – Scotiabank",
@@ -3687,60 +3747,6 @@ window.MAKRO_DATA = {
     "titel": "Forex Today: Geopolitics and Canadian jobs steal the show",
     "link": "https://www.fxstreet.com/news/forex-today-geopolitics-and-canadian-jobs-steal-the-show-202607091710",
     "datum": "2026-07-09T17:10:30.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "South Korean Won: Asia outperformer on flows and BoK – Societe Generale",
-    "link": "https://www.fxstreet.com/news/south-korean-won-asia-outperformer-on-flows-and-bok-societe-generale-202607091659",
-    "datum": "2026-07-09T16:59:59.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Chinese Yuan: Forecast band tightened as stability holds against US Dollar – ING",
-    "link": "https://www.fxstreet.com/news/chinese-yuan-forecast-band-tightened-as-stability-holds-against-us-dollar-ing-202607091643",
-    "datum": "2026-07-09T16:43:42.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Swiss Franc gains on Fed policy divisions, rising US-Iran tensions",
-    "link": "https://www.fxstreet.com/news/swiss-franc-gains-on-fed-policy-divisions-rising-us-iran-tensions-202607091643",
-    "datum": "2026-07-09T16:43:36.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro: Support from ECB repricing and yields – Scotiabank",
-    "link": "https://www.fxstreet.com/news/euro-support-from-ecb-repricing-and-yields-scotiabank-202607091631",
-    "datum": "2026-07-09T16:31:51.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar jumps to a three-week high after hawkish RBNZ rate hike",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-jumps-to-a-three-week-high-after-hawkish-rbnz-rate-hike-202607091618",
-    "datum": "2026-07-09T16:18:34.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "European natural gas: Tight storage supports prices – ING",
-    "link": "https://www.fxstreet.com/news/european-natural-gas-tight-storage-supports-prices-ing-202607091612",
-    "datum": "2026-07-09T16:12:22.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen rises as US jobless claims fail to support US Dollar",
-    "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-us-jobless-claims-fail-to-support-us-dollar-202607091612",
-    "datum": "2026-07-09T16:12:18.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United States Dollar Index falls as Middle East calm cools inflation fears",
-    "link": "https://www.fxstreet.com/news/united-states-dollar-index-falls-as-middle-east-calm-cools-inflation-fears-202607091606",
-    "datum": "2026-07-09T16:06:06.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Dow Jones Industrial Average rebounds on a phone call and borrowed semiconductor strength",
-    "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rebounds-on-a-phone-call-and-borrowed-semiconductor-strength-202607091540",
-    "datum": "2026-07-09T15:40:09.000Z"
    },
    {
     "quelle": "Fed",
@@ -3771,12 +3777,6 @@ window.MAKRO_DATA = {
     "titel": "Federal Reserve issues initial findings from its 2025 triennial payments study",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
     "datum": "2026-07-01T18:30:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
-    "datum": "2026-06-30T14:00:00.000Z"
    }
   ]
  },

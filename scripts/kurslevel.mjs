@@ -25,6 +25,7 @@ async function holeKerzen(symbol) {
       if (hi.length > 20) return { hi, lo, cl };
     } catch { /* naechster Host */ }
   }
+  console.warn(`Kurslevel: ${symbol} auf keinem Yahoo-Host erreichbar (Netz? Symbol?)`);
   return null;
 }
 

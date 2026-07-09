@@ -253,7 +253,8 @@ const d10 = marktdaten?.kurse?.US10Y?.wocheProzent;      // %-Punkte
 const usdTilt = d10 == null ? 0 : clamp(d10 * 20, -8, 8);
 const USD_SEITE = { "USD/JPY": 1, "USD/CAD": 1, "USD/CHF": 1, "EUR/USD": -1, "GBP/USD": -1, "AUD/USD": -1, "NZD/USD": -1 };
 const kurveInvers = marktdaten?.kurve2s10s != null && marktdaten.kurve2s10s < 0;
-const RISKOFF = { "USD/JPY": 3, "USD/CHF": 3, "AUD/USD": -3, "NZD/USD": -3 };
+// Risk-off: sichere Häfen JPY/CHF werten AUF -> USD/JPY & USD/CHF fallen (negativer Nudge)
+const RISKOFF = { "USD/JPY": -3, "USD/CHF": -3, "AUD/USD": -3, "NZD/USD": -3 };
 const tiltZins = paar => {
   let t = usdTilt * (USD_SEITE[paar] || 0);
   if (kurveInvers) t += (RISKOFF[paar] || 0);
@@ -267,6 +268,15 @@ const paareMarkt = MAJORS.map(paar => {
   return { paar, baseScore: basis, tiltCot: tc, tiltZins: tz, tiltGesamt: tc + tz, score, cotExtrem: cotExtremFuer(paar), treiber: e?.treiber || "" };
 });
 const marktOverlayAktiv = !!(marktdaten?.cot?.waehrungen || marktdaten?.kurse?.US10Y);
+
+// Endscores auch als eigene JSON ablegen: tagesbriefing.mjs (Telegram) liest sie,
+// damit Telegram und Dashboard dieselben Markt-korrigierten Werte zeigen.
+fs.writeFileSync(path.join(DATEN, "paare-markt.json"), JSON.stringify({
+  stand: new Date().toISOString(),
+  ausBriefing: briefing?.datum || null,
+  overlayAktiv: marktOverlayAktiv,
+  paare: paareMarkt,
+}, null, 2));
 
 // 7) Prognose-Gedächtnis (Selbstlernen): je Vorhersage-Woche die Paar-Scores
 //    speichern und abgeschlossene Wochen gegen die echte FX-Bewegung auswerten.

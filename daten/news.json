@@ -1,11 +1,71 @@
 {
-  "stand": "2026-07-09T17:49:09.920Z",
+  "stand": "2026-07-09T21:14:33.281Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar firms as US Dollar softens",
+      "link": "https://www.fxstreet.com/news/australian-dollar-firms-as-us-dollar-softens-202607092007",
+      "datum": "2026-07-09T20:07:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Rally versus sustained USD strength – TD Securities",
+      "link": "https://www.fxstreet.com/news/south-korean-won-rally-versus-sustained-usd-strength-td-securities-202607092000",
+      "datum": "2026-07-09T20:00:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed unveils Warsh task forces to lead broad review",
+      "link": "https://www.fxstreet.com/news/fed-unveils-warsh-task-forces-to-lead-broad-review-202607091946",
+      "datum": "2026-07-09T19:46:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso gains as risk appetite improves, weighs on USD",
+      "link": "https://www.fxstreet.com/news/mexican-peso-gains-as-risk-appetite-improves-weighs-on-usd-202607091940",
+      "datum": "2026-07-09T19:40:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Yen eyes BoJ and key resistance zone against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-yen-eyes-boj-and-key-resistance-zone-against-us-dollar-scotiabank-202607091936",
+      "datum": "2026-07-09T19:36:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Eurozone: Energy shock keeps pressure on ECB – Nordea",
+      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-keeps-pressure-on-ecb-nordea-202607091917",
+      "datum": "2026-07-09T19:17:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Range bias holds above 1.2890 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bias-holds-above-12890-against-us-dollar-uob-202607091902",
+      "datum": "2026-07-09T19:02:10.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+      "datum": "2026-07-09T19:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Rejection at the 200-day SMA keeps bears in control",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-rejection-at-the-200-day-sma-keeps-bears-in-control-202607091824",
+      "datum": "2026-07-09T18:24:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rebounds above $4,100 as falling Oil weighs on US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-100-as-falling-oil-weighs-on-us-dollar-202607091823",
+      "datum": "2026-07-09T18:23:30.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "British Pound: Recovery tests key resistance against US Dollar – Scotiabank",
@@ -23,60 +83,6 @@
       "titel": "Forex Today: Geopolitics and Canadian jobs steal the show",
       "link": "https://www.fxstreet.com/news/forex-today-geopolitics-and-canadian-jobs-steal-the-show-202607091710",
       "datum": "2026-07-09T17:10:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Asia outperformer on flows and BoK – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-asia-outperformer-on-flows-and-bok-societe-generale-202607091659",
-      "datum": "2026-07-09T16:59:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Forecast band tightened as stability holds against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-forecast-band-tightened-as-stability-holds-against-us-dollar-ing-202607091643",
-      "datum": "2026-07-09T16:43:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc gains on Fed policy divisions, rising US-Iran tensions",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-on-fed-policy-divisions-rising-us-iran-tensions-202607091643",
-      "datum": "2026-07-09T16:43:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Support from ECB repricing and yields – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-support-from-ecb-repricing-and-yields-scotiabank-202607091631",
-      "datum": "2026-07-09T16:31:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar jumps to a three-week high after hawkish RBNZ rate hike",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-jumps-to-a-three-week-high-after-hawkish-rbnz-rate-hike-202607091618",
-      "datum": "2026-07-09T16:18:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European natural gas: Tight storage supports prices – ING",
-      "link": "https://www.fxstreet.com/news/european-natural-gas-tight-storage-supports-prices-ing-202607091612",
-      "datum": "2026-07-09T16:12:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen rises as US jobless claims fail to support US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-us-jobless-claims-fail-to-support-us-dollar-202607091612",
-      "datum": "2026-07-09T16:12:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index falls as Middle East calm cools inflation fears",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-falls-as-middle-east-calm-cools-inflation-fears-202607091606",
-      "datum": "2026-07-09T16:06:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average rebounds on a phone call and borrowed semiconductor strength",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rebounds-on-a-phone-call-and-borrowed-semiconductor-strength-202607091540",
-      "datum": "2026-07-09T15:40:09.000Z"
     },
     {
       "quelle": "Fed",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve issues initial findings from its 2025 triennial payments study",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
       "datum": "2026-07-01T18:30:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
-      "datum": "2026-06-30T14:00:00.000Z"
     }
   ]
 }

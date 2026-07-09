@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-09T07:33:30.344Z",
+  "stand": "2026-07-09T09:24:51.148Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: Flexible BoE stance supports against US Dollar – BNY",
-      "link": "https://www.fxstreet.com/news/british-pound-flexible-boe-stance-supports-against-us-dollar-bny-202607090628",
-      "datum": "2026-07-09T06:28:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: Languishes below 0.8550 with bullish attempts subdued",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-languishes-below-08550-with-bullish-attempts-subdued-202607090620",
-      "datum": "2026-07-09T06:20:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Risk premium returns on Gulf supply concerns – Commerzbank",
-      "link": "https://www.fxstreet.com/news/oil-risk-premium-returns-on-gulf-supply-concerns-commerzbank-202607090615",
-      "datum": "2026-07-09T06:15:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Support zone key for next leg against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-support-zone-key-for-next-leg-against-us-dollar-uob-202607090605",
-      "datum": "2026-07-09T06:05:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: 0.6860 is key support level amid geopolitical risks",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-06860-is-key-support-level-amid-geopolitical-risks-202607090602",
-      "datum": "2026-07-09T06:02:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Holds a constructive bullish tone above 1.3400 as UK political risk eases",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-a-constructive-bullish-tone-above-13400-as-uk-political-risk-eases-202607090554",
-      "datum": "2026-07-09T05:54:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee rebounds, road ahead remains rough",
+      "titel": "Indian Rupee bounces back as investors digest higher oil prices",
       "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-road-ahead-remains-rough-202607090540",
-      "datum": "2026-07-09T05:40:44.000Z"
+      "datum": "2026-07-09T08:52:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold remains depressed as Iran risks reignite inflation fears and bolster Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-as-hormuz-risks-and-fed-hike-bets-counter-softer-usd-202607090331",
-      "datum": "2026-07-09T05:37:29.000Z"
+      "titel": "Dow Jones futures advance due to tech, AI rally",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-advance-due-to-tech-ai-rally-202607090850",
+      "datum": "2026-07-09T08:50:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "BoJ maintains assessment for all 9 Japanese regions",
-      "link": "https://www.fxstreet.com/news/boj-maintains-assessment-for-all-9-japanese-regions-202607090532",
-      "datum": "2026-07-09T05:32:08.000Z"
+      "titel": "United States Dollar Index Price Forecast: Flirts with 23.6% Fibo./weekly low below 101.00",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-price-forecast-flirts-with-236-fibo-weekly-low-below-10100-202607090842",
+      "datum": "2026-07-09T08:42:18.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United States Dollar Index stays pressured near 101.00 as Fed bets/Iran risks limit losses",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-stays-pressured-near-10100-as-fed-bets-iran-risks-limit-losses-202607090522",
-      "datum": "2026-07-09T05:22:12.000Z"
+      "titel": "Japanese Yen gains against US Dollar despite renewed geopolitical risks",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-us-dollar-despite-renewed-geopolitical-risks-202607090837",
+      "datum": "2026-07-09T08:37:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro strengthens ahead of Germany’s Trade Balance data",
-      "link": "https://www.fxstreet.com/news/euro-strengthens-ahead-of-germanys-trade-balance-data-202607090508",
-      "datum": "2026-07-09T05:08:26.000Z"
+      "titel": "Euro: Early gains against US Dollar at risk on Fed story – ING",
+      "link": "https://www.fxstreet.com/news/euro-early-gains-against-us-dollar-at-risk-on-fed-story-ing-202607090816",
+      "datum": "2026-07-09T08:16:59.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Weakens to near 112.50, but uptrend remains constructive",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-to-near-11250-but-uptrend-remains-constructive-202607090447",
-      "datum": "2026-07-09T04:47:50.000Z"
+      "titel": "Japan’s Kihara says government aims to secure market trust by stably lowering debt-to-GDP ratio",
+      "link": "https://www.fxstreet.com/news/japans-kihara-says-government-aims-to-secure-market-trust-by-stably-lowering-debt-to-gdp-ratio-202607090805",
+      "datum": "2026-07-09T08:05:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Euro wavers around 1.1430 with the bearish trend intact",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-languishes-below-08550-with-bullish-attempts-subdued-202607090802",
+      "datum": "2026-07-09T08:02:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound extends rally vs JPY; climbs to fresh high since January 2008",
+      "link": "https://www.fxstreet.com/news/british-pound-extends-rally-vs-jpy-climbs-to-fresh-high-since-january-2008-202607090758",
+      "datum": "2026-07-09T07:58:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Tentative upside risk above 0.6980 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tentative-upside-risk-above-06980-against-us-dollar-uob-202607090756",
+      "datum": "2026-07-09T07:56:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Markets overlook escalating tensions in Middle East",
+      "link": "https://www.fxstreet.com/news/forex-today-markets-overlook-escalating-tensions-in-middle-east-202607090748",
+      "datum": "2026-07-09T07:48:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar: Firm as RBNZ signals more tightening – DBS",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-firm-as-rbnz-signals-more-tightening-dbs-202607090747",
+      "datum": "2026-07-09T07:47:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CAD Price Forecast: Hovers above 1.4150 as bullish bias prevails",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-hovers-above-14150-as-bullish-bias-prevails-202607090740",
+      "datum": "2026-07-09T07:40:27.000Z"
     },
     {
       "quelle": "Fed",

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-08T17:21:55.785Z",
+  "stand": "2026-07-09T05:06:55.014Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen falls near multi-decade lows",
-      "link": "https://www.fxstreet.com/news/japanese-yen-falls-near-multi-decade-lows-202607081720",
-      "datum": "2026-07-08T17:20:05.000Z"
+      "titel": "Japanese Yen bulls seem hesitant as US-Japan rate gap counters intervention risks",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-as-us-japan-rate-gap-counters-intervention-risks-202607090409",
+      "datum": "2026-07-09T04:09:07.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed Minutes to offer clues on Warsh's Fed debut",
-      "link": "https://www.fxstreet.com/news/fed-minutes-to-shed-light-on-warshs-first-meeting-as-chair-202607081315",
-      "datum": "2026-07-08T17:15:00.000Z"
+      "titel": "Indonesian Rupiah weakens ahead of Retail Sales data",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-ahead-of-retail-sales-data-202607090346",
+      "datum": "2026-07-09T03:46:48.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Fed repricing after hawkish pivot – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-after-hawkish-pivot-scotiabank-202607081709",
-      "datum": "2026-07-08T17:09:42.000Z"
+      "titel": "Gold struggles to lure buyers as Hormuz risks and Fed hike bets counter softer USD",
+      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-as-hormuz-risks-and-fed-hike-bets-counter-softer-usd-202607090331",
+      "datum": "2026-07-09T03:31:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average learns the old war playbook now runs in reverse",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-learns-the-old-war-playbook-now-runs-in-reverse-202607081654",
-      "datum": "2026-07-08T16:54:58.000Z"
+      "titel": "EUR/JPY Price Forecast: Tests symmetrical triangle top above 185.50",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-symmetrical-triangle-top-above-18550-202607090312",
+      "datum": "2026-07-09T03:12:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Asia FX: Diverging paths under Dollar strength – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-diverging-paths-under-dollar-strength-mufg-202607081648",
-      "datum": "2026-07-08T16:48:24.000Z"
+      "titel": "Canadian Dollar gains ground on surging Oil, rising BoC hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-on-surging-oil-rising-boc-hike-bets-202607090303",
+      "datum": "2026-07-09T03:03:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold slides as US-Iran tensions revive Fed rate hike bets, FOMC Minutes loom",
-      "link": "https://www.fxstreet.com/news/gold-retreats-below-4-100-after-us-president-trump-says-iran-ceasefire-is-over-202607081123",
-      "datum": "2026-07-08T16:28:07.000Z"
+      "titel": "Days-old Iran ceasefire dies in the Strait of Hormuz as US launches fresh strikes on Iran",
+      "link": "https://www.fxstreet.com/news/days-old-iran-ceasefire-dies-in-the-strait-of-hormuz-as-us-launches-fresh-strikes-on-iran-202607082110",
+      "datum": "2026-07-09T02:31:38.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar strengthens on Oil rally as markets eye jobs data",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-on-oil-rally-as-markets-eye-jobs-data-202607081610",
-      "datum": "2026-07-08T16:10:25.000Z"
+      "titel": "Silver Price Forecast: XAG/USD rebounds above $58.00 despite inflation fears",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rebounds-above-5800-despite-inflation-fears-202607090229",
+      "datum": "2026-07-09T02:29:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Energy repricing shapes outlook against US Dollar – ABN AMRO",
-      "link": "https://www.fxstreet.com/news/euro-energy-repricing-shapes-outlook-against-us-dollar-abn-amro-202607081610",
-      "datum": "2026-07-08T16:10:14.000Z"
+      "titel": "Iran's Ghalibaf says any US military action will be met with retaliation",
+      "link": "https://www.fxstreet.com/news/irans-ghalibaf-says-any-us-military-action-will-be-met-with-retaliation-202607090216",
+      "datum": "2026-07-09T02:16:25.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound holds firm as Hormuz shock lifts Oil, Dollar",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-hormuz-shock-lifts-oil-dollar-202607081539",
-      "datum": "2026-07-08T15:39:43.000Z"
+      "titel": "Euro sticks to positive bias above 1.1400 vs USD; Mideast tensions cap gains",
+      "link": "https://www.fxstreet.com/news/euro-sticks-to-positive-bias-above-11400-vs-usd-mideast-tensions-cap-gains-202607090200",
+      "datum": "2026-07-09T02:00:48.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United States Dollar Index climbs as Middle East tensions, Fed rate hike bets lift demand",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-climbs-as-middle-east-tensions-fed-rate-hike-bets-lift-demand-202607081528",
-      "datum": "2026-07-08T15:28:39.000Z"
+      "titel": "Australian Dollar steadies following Chinese CPI data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-amid-chinese-cpi-preview-202607090103",
+      "datum": "2026-07-09T01:47:47.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Oil shock weighs JPY against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-oil-shock-weighs-jpy-against-us-dollar-scotiabank-202607081514",
-      "datum": "2026-07-08T15:14:00.000Z"
+      "titel": "New Zealand Dollar holds ground despite softer China’s CPI data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-ground-despite-softer-chinas-cpi-data-202607090142",
+      "datum": "2026-07-09T01:42:31.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: RBNZ hike underpins kiwi – ING",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-hike-underpins-kiwi-ing-202607081505",
-      "datum": "2026-07-08T15:05:10.000Z"
+      "titel": "China’s CPI inflation falls to 1.0% YoY in June, vs 1.1% expected",
+      "link": "https://www.fxstreet.com/news/chinas-cpi-inflation-falls-to-10-yoy-in-june-vs-11-expected-202607090131",
+      "datum": "2026-07-09T01:31:09.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "datum": "2026-07-08T18:00:00.000Z"
     },
     {
       "quelle": "Fed",
@@ -101,12 +107,6 @@
       "titel": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
       "datum": "2026-06-30T14:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
-      "datum": "2026-06-25T15:00:00.000Z"
     },
     {
       "quelle": "Fed",

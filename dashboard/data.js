@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-09T21:14:33.306Z",
+ "erstellt": "2026-07-09T21:20:43.194Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -2154,7 +2154,7 @@ window.MAKRO_DATA = {
    "title": "Fed Balance Sheet",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "6.736 $",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3130,15 +3130,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-09T21:14:32.366Z",
+  "stand": "2026-07-09T21:20:42.618Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.92,
+    "wert": 100.93,
     "tagProzent": 0,
-    "wocheProzent": 0.06,
+    "wocheProzent": 0.07,
     "renditeDelta": false,
     "verlauf": [
      99.91,
@@ -3161,8 +3161,8 @@ window.MAKRO_DATA = {
      100.85,
      101.14,
      101.05,
-     100.92,
-     100.92
+     100.93,
+     100.93
     ]
    },
    "VIX": {
@@ -3397,9 +3397,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63280.89,
+    "wert": 63290.98,
     "tagProzent": 0,
-    "wocheProzent": -0.42,
+    "wocheProzent": -0.4,
     "renditeDelta": false,
     "verlauf": [
      63540.84,
@@ -3422,43 +3422,9 @@ window.MAKRO_DATA = {
      63995.02,
      63297.39,
      62257.57,
-     63280.89,
-     63280.89
+     63290.98,
+     63290.98
     ]
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.23,
-    "tagProzent": -0.02,
-    "wocheProzent": 0,
-    "renditeDelta": true,
-    "verlauf": [
-     2.35,
-     2.33,
-     2.34,
-     2.29,
-     2.31,
-     2.32,
-     2.29,
-     2.26,
-     2.25,
-     2.23,
-     2.21,
-     2.18,
-     2.21,
-     2.2,
-     2.22,
-     2.24,
-     2.23,
-     2.23,
-     2.24,
-     2.25,
-     2.25,
-     2.23
-    ],
-    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
@@ -3491,6 +3457,40 @@ window.MAKRO_DATA = {
      2.24,
      2.3,
      2.31
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.23,
+    "tagProzent": -0.02,
+    "wocheProzent": 0,
+    "renditeDelta": true,
+    "verlauf": [
+     2.35,
+     2.33,
+     2.34,
+     2.29,
+     2.31,
+     2.32,
+     2.29,
+     2.26,
+     2.25,
+     2.23,
+     2.21,
+     2.18,
+     2.21,
+     2.2,
+     2.22,
+     2.24,
+     2.23,
+     2.23,
+     2.24,
+     2.25,
+     2.25,
+     2.23
     ],
     "quelle": "FRED"
    }
@@ -3663,13 +3663,19 @@ window.MAKRO_DATA = {
   }
  ],
  "news": {
-  "stand": "2026-07-09T21:14:33.281Z",
+  "stand": "2026-07-09T21:20:43.192Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Chinese Yuan: Fixing guidance fades, path less anchored – OCBC",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-fixing-guidance-fades-path-less-anchored-ocbc-202607092035",
+    "datum": "2026-07-09T20:35:15.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Australian Dollar firms as US Dollar softens",
@@ -3699,6 +3705,12 @@ window.MAKRO_DATA = {
     "titel": "Japanese Yen: Yen eyes BoJ and key resistance zone against US Dollar – Scotiabank",
     "link": "https://www.fxstreet.com/news/japanese-yen-yen-eyes-boj-and-key-resistance-zone-against-us-dollar-scotiabank-202607091936",
     "datum": "2026-07-09T19:36:32.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Fresh explosions heard in Iran",
+    "link": "https://investinglive.com/news/fresh-explosions-heard-in-iran/",
+    "datum": "2026-07-09T19:27:01.000Z"
    },
    {
     "quelle": "FXStreet",
@@ -3743,10 +3755,10 @@ window.MAKRO_DATA = {
     "datum": "2026-07-09T17:14:31.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Forex Today: Geopolitics and Canadian jobs steal the show",
-    "link": "https://www.fxstreet.com/news/forex-today-geopolitics-and-canadian-jobs-steal-the-show-202607091710",
-    "datum": "2026-07-09T17:10:30.000Z"
+    "quelle": "ForexLive",
+    "titel": "U.S. Treasury auctions off $22 billion of 30 year bonds at a high yield of 5.058%",
+    "link": "https://investinglive.com/news/u-s-treasury-auctions-off-22-billion-of-30-year-bonds-at-a-high-yield-of-5-058/",
+    "datum": "2026-07-09T17:10:53.000Z"
    },
    {
     "quelle": "Fed",
@@ -3755,28 +3767,16 @@ window.MAKRO_DATA = {
     "datum": "2026-07-09T15:00:00.000Z"
    },
    {
-    "quelle": "Fed",
-    "titel": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-    "datum": "2026-07-08T18:00:00.000Z"
+    "quelle": "ForexLive",
+    "titel": "US June existing home sales 4.09m vs 4.20m expected",
+    "link": "https://investinglive.com/news/us-june-existing-home-sales-vs-4-20m-expected/",
+    "datum": "2026-07-09T14:06:54.000Z"
    },
    {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
-    "datum": "2026-07-07T19:00:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
-    "datum": "2026-07-02T15:00:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-    "datum": "2026-07-01T18:30:00.000Z"
+    "quelle": "ForexLive",
+    "titel": "US initial jobless claims 215K versus 218K estimate",
+    "link": "https://investinglive.com/news/us-initial-jobless-claims-215k-versus-218k-estimate/",
+    "datum": "2026-07-09T12:37:52.000Z"
    }
   ]
  },

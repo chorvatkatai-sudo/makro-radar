@@ -1,13 +1,13 @@
 {
-  "stand": "2026-07-09T21:14:32.366Z",
+  "stand": "2026-07-09T21:20:42.618Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 100.92,
+      "wert": 100.93,
       "tagProzent": 0,
-      "wocheProzent": 0.06,
+      "wocheProzent": 0.07,
       "renditeDelta": false,
       "verlauf": [
         99.91,
@@ -30,8 +30,8 @@
         100.85,
         101.14,
         101.05,
-        100.92,
-        100.92
+        100.93,
+        100.93
       ]
     },
     "VIX": {
@@ -266,9 +266,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 63280.89,
+      "wert": 63290.98,
       "tagProzent": 0,
-      "wocheProzent": -0.42,
+      "wocheProzent": -0.4,
       "renditeDelta": false,
       "verlauf": [
         63540.84,
@@ -291,43 +291,9 @@
         63995.02,
         63297.39,
         62257.57,
-        63280.89,
-        63280.89
+        63290.98,
+        63290.98
       ]
-    },
-    "INFL10": {
-      "name": "Inflationserwartung 10J (Breakeven)",
-      "einheit": "%",
-      "typ": "rendite",
-      "wert": 2.23,
-      "tagProzent": -0.02,
-      "wocheProzent": 0,
-      "renditeDelta": true,
-      "verlauf": [
-        2.35,
-        2.33,
-        2.34,
-        2.29,
-        2.31,
-        2.32,
-        2.29,
-        2.26,
-        2.25,
-        2.23,
-        2.21,
-        2.18,
-        2.21,
-        2.2,
-        2.22,
-        2.24,
-        2.23,
-        2.23,
-        2.24,
-        2.25,
-        2.25,
-        2.23
-      ],
-      "quelle": "FRED"
     },
     "REAL10": {
       "name": "US-Realzins 10J (TIPS)",
@@ -360,6 +326,40 @@
         2.24,
         2.3,
         2.31
+      ],
+      "quelle": "FRED"
+    },
+    "INFL10": {
+      "name": "Inflationserwartung 10J (Breakeven)",
+      "einheit": "%",
+      "typ": "rendite",
+      "wert": 2.23,
+      "tagProzent": -0.02,
+      "wocheProzent": 0,
+      "renditeDelta": true,
+      "verlauf": [
+        2.35,
+        2.33,
+        2.34,
+        2.29,
+        2.31,
+        2.32,
+        2.29,
+        2.26,
+        2.25,
+        2.23,
+        2.21,
+        2.18,
+        2.21,
+        2.2,
+        2.22,
+        2.24,
+        2.23,
+        2.23,
+        2.24,
+        2.25,
+        2.25,
+        2.23
       ],
       "quelle": "FRED"
     }

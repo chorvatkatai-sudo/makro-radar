@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-07-03",
+  "stand": "2026-07-09",
   "zinsen": [
     {
       "code": "AUD",
@@ -32,10 +32,10 @@
     {
       "code": "NZD",
       "bank": "RBNZ",
-      "satz": 2.25,
-      "anzeige": "2,25%",
-      "naechste": "8.7.2026",
-      "erwartung": "Halten bei 2,25% (nach 6 Senkungen jetzt Pause)",
+      "satz": 2.5,
+      "anzeige": "2,50%",
+      "naechste": "Ende Aug 2026",
+      "erwartung": "Halten — am 8.7. erstmals seit 2023 um 0,25 auf 2,50% ERHÖHT (einstimmig), signalisierte aber höhere Hürde für weitere Schritte",
       "richtung": "halten"
     },
     {

@@ -1,11 +1,59 @@
 {
-  "stand": "2026-07-10T10:39:21.103Z",
+  "stand": "2026-07-10T12:21:04.852Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Oil prices nudge up as US-Iran tensions linger",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-nudge-up-as-us-iran-tensions-linger/",
+      "datum": "2026-07-10T12:00:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Softer Canada jobs seen weigh against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-softer-canada-jobs-seen-weigh-against-us-dollar-bbh-202607101123",
+      "datum": "2026-07-10T11:23:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "\"The bar for a material hawkish turn is high\": ING says the Bank of Canada won't surprise next week",
+      "link": "https://www.fxstreet.com/news/the-bar-for-a-material-hawkish-turn-is-high-ing-says-the-bank-of-canada-wont-surprise-next-week-202607101123",
+      "datum": "2026-07-10T11:23:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold Price Forecast: XAU/USD wavers around $4,100 with the bearish trend intact",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-wavers-around-4-100-with-the-bearish-trend-intact-202607101050",
+      "datum": "2026-07-10T10:50:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee gives back gains as US Dollar recovers",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-as-us-dollar-extends-decline-202607100524",
+      "datum": "2026-07-10T10:45:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada Unemployment Rate expected to remain at 6.6% in June",
+      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-remain-at-66-in-june-202607100600",
+      "datum": "2026-07-10T10:45:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro declines as cooling Eurozone inflation, Japan pension reforms lift Yen",
+      "link": "https://www.fxstreet.com/news/euro-declines-as-cooling-eurozone-inflation-japan-pension-reforms-lift-yen-202607101005",
+      "datum": "2026-07-10T10:05:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Tentative stabilisation on oil relief – OCBC",
+      "link": "https://www.fxstreet.com/news/gold-tentative-stabilisation-on-oil-relief-ocbc-202607100959",
+      "datum": "2026-07-10T09:59:24.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "New Zealand Dollar eases from three-week highs near 0.5800 as the US Dollar bounces up",
@@ -17,12 +65,6 @@
       "titel": "US Dollar: Geopolitics faded as markets eye rates – ING",
       "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-faded-as-markets-eye-rates-ing-202607100939",
       "datum": "2026-07-10T09:39:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee surrenders early gains as US Dollar rebounds",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-as-us-dollar-extends-decline-202607100524",
-      "datum": "2026-07-10T09:33:54.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -38,12 +80,6 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canada Unemployment Rate projected to stay at 6.6% in June",
-      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-remain-at-66-in-june-202607100600",
-      "datum": "2026-07-10T09:30:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
       "titel": "Canadian Dollar: Firmer against US Dollar – Societe Generale",
       "link": "https://www.fxstreet.com/news/canadian-dollar-firmer-against-us-dollar-societe-generale-202607100924",
       "datum": "2026-07-10T09:24:44.000Z"
@@ -53,36 +89,6 @@
       "titel": "BoJ will likely revise 2026 GDP forecast higher in Q2 report",
       "link": "https://www.fxstreet.com/news/boj-will-likely-revise-2026-gdp-forecast-higher-in-q2-report-202607100916",
       "datum": "2026-07-10T09:16:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Yield spreads hint at recovery against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/euro-yield-spreads-hint-at-recovery-against-us-dollar-mufg-202607100910",
-      "datum": "2026-07-10T09:10:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound retreats sharply from January 2008 highs amid broad-based JPY rally",
-      "link": "https://www.fxstreet.com/news/british-pound-retreats-sharply-from-january-2008-highs-amid-broad-based-jpy-rally-202607100904",
-      "datum": "2026-07-10T09:04:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound surrenders early gains as US Dollar regains ground",
-      "link": "https://www.fxstreet.com/news/british-pound-surrenders-early-gains-as-us-dollar-regains-ground-202607100903",
-      "datum": "2026-07-10T09:03:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: No near-term hikes signalled – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-no-near-term-hikes-signalled-commerzbank-202607100851",
-      "datum": "2026-07-10T08:51:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: Dollar finds resistance at the 161.75 previous support",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-dollar-finds-resistance-at-the-16175-previous-support-202607100845",
-      "datum": "2026-07-10T08:45:44.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "German headline annual inflation confirmed at 2.3% in June, core prices also hold steady",
       "link": "https://investinglive.com/news/germany-june-final-cpi-vs-2-3-y-y-prelim/",
       "datum": "2026-07-10T06:16:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "A calmer end to the week for markets?",
-      "link": "https://investinglive.com/news/a-calmer-end-to-the-week-for-markets/",
-      "datum": "2026-07-10T04:34:51.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-10T15:27:49.730Z",
+ "erstellt": "2026-07-10T16:25:48.595Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -108,7 +108,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "54.2",
    "previous": "54.5",
-   "actual": null
+   "actual": "54.0"
   },
   {
    "title": "FOMC Member Waller Speaks",
@@ -657,7 +657,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "11.2K",
    "previous": "87.8K",
-   "actual": null
+   "actual": "18.2K"
   },
   {
    "title": "Unemployment Rate",
@@ -2640,200 +2640,214 @@ window.MAKRO_DATA = {
   }
  ],
  "briefing": {
-  "datum": "2026-07-03",
+  "datum": "2026-07-10",
   "typ": "freitag",
-  "titel": "Der Dollar hat einen Riss — Jobschock (+57k) beendet die Falken-Rally. Ruhige Woche voraus, FOMC-Protokoll (Mi) ist der Test",
+  "titel": "Der Dollar hat den Boden gefunden — Falken-Protokoll + steigende Renditen + Öl-Comeback fangen die Jobschock-Delle auf. Nächste Woche entscheidet die US-Inflation (Di)",
   "tagesnews": {
    "stand": "2026-07-10",
    "wochentag": "Freitag",
-   "tenor": "Ruhiger Wochenausklang: Der Dollar dümpelt seitwärts bei 101, das Öl kühlt etwas ab (WTI unter 72$), weil Trump seine Bombardement-Drohung gegen Iran wieder zurücknahm. Der Yen bleibt der große Verlierer (USD/JPY ~162,5, direkt in der Interventionszone). DAS Event heute: Kanadas Arbeitsmarktzahlen um 14:30 Wien — der erste Test nach dem US-Job-Schock der Vorwoche. Nächster großer Brocken: US-Inflation am Dienstag (14.7.).",
+   "tenor": "Ruhiger Wochenausklang, aber mit Aha-Moment aus Kanada: Die kanadischen Jobzahlen überraschten POSITIV (+18.000 statt +11.000, Arbeitslosigkeit fiel auf 6,5%) — zusammen mit dem teureren Öl (WTI ~71$, +4% Woche) stützt das den Loonie. Der Dollar bleibt stabil bei ~100,8 (Boden gefunden nach der Jobschock-Delle). Der Yen ist weiter der große Verlierer (USD/JPY ~162,5, Interventionszone). Nächster großer Brocken: US-Inflation am Dienstag (14.7.).",
    "heute": [
-    "🇨🇦 KANADA-Jobzahlen um 14:30 Wien = das Event des Tages. Nach dem US-Job-Schock letzte Woche schauen alle nervös hin. Ein schwacher Wert würde den Loonie (kanadischer Dollar) drücken, ein starker ihn stützen — bei ohnehin gemischter Lage (teures Öl hilft, aber die Wirtschaft schwächelt).",
-    "🛢️ ÖL kühlt ab: WTI fiel unter 72$ (von ~74$), Brent ~76$. Trump ruderte bei seiner Kriegs-Drohung gegen Iran zurück (glaube nicht, dass es wieder Krieg gibt) → die Panik-Aufschläge bröckeln. Auf Wochensicht immer noch teuer (+~5%). Weniger Öl-Rückenwind für Kanada, ein bisschen Entlastung für die Import-Länder Euroraum & Japan.",
-    "🇯🇵 YEN weiter am Boden: USD/JPY ~162,5, nahe 40-Jahres-Tief. Japans Finanzministerium zeigt Unbehagen (die Zone 162–163 gilt als heikel), aber Goldman sieht trotzdem 165 — eine Intervention wäre nur eine Bremsschwelle, keine echte Wende. Steigende US-Renditen (10J 4,54%) + teures Öl belasten den zinslosen Yen weiter.",
-    "🇺🇸 DOLLAR seitwärts bei ~101: Die Falken-Fed (Protokoll: Erhöhung im Oktober möglich) gibt einen Boden, aber der Job-Schock der Vorwoche deckelt. Die September-Erhöhungswette schwankt (~56–69%). Der nächste echte Test ist die US-Inflation am Dienstag (14.7.)."
+    "🇨🇦 KANADA-Jobs überraschen positiv: +18.000 neue Stellen (erwartet nur +11.000), Arbeitslosigkeit FIEL auf 6,5% (von 6,6%), Löhne +3,7%. Getragen von Jugend-Einstellungen (+33.000). Das nimmt der Notenbank Senkungsdruck und stützt zusammen mit dem teureren Öl den Loonie (kanadischer Dollar).",
+    "🇺🇸 DOLLAR stabil bei ~100,8: Nach der Jobschock-Delle der Vorwoche hat der Dollar einen Boden gefunden — das falkenhafte Fed-Protokoll (Mi), steigende Renditen (10J 4,55%) und das Öl-Comeback geben Halt. Kein Absturz, aber auch keine echte Erholung. Der Test ist die US-Inflation am Dienstag.",
+    "🛢️ ÖL zurück: WTI ~71$ (+4% auf die Woche), Brent ~76$, weil um den Iran neue Spannungen aufkamen. Stützt den kanadischen Dollar, belastet die Import-Länder Euroraum & Japan und treibt über die Inflationssorge die Renditen hoch.",
+    "🇯🇵 YEN weiter am Boden: USD/JPY ~162,5, nahe 40-Jahres-Tief. Steigende US-Renditen + teures Öl + entspannte Stimmung (VIX 15,7) belasten den zinslosen Yen. Japans Finanzministerium beobachtet nervös — eine Intervention wäre nur eine Bremsschwelle."
    ],
    "gestern": [
-    "🇨🇳 CHINA-Inflation schwach (Do): Verbraucherpreise Juni nur +1,0% zum Vorjahr (erwartet 1,2%) — die Nachfrage bleibt lahm. ABER die Fabrik-Preise sprangen +4,1% (stärkster Anstieg seit Juli 2022, teures Öl). Schwache China-Nachfrage ist ein leichter Dämpfer für die rohstoffnahen Aussie & Kiwi.",
-    "🇺🇸 FED-PROTOKOLL bestätigte den harten Kurs (Mi Abend): erwarteter Leitzins zum Jahresende auf 3,8% angehoben (vorher 3,4%), eine Erhöhung im Oktober auf dem Tisch, Senkungs-Hinweise gestrichen. Inflations-Prognose 2026 bei 3,6%. Weil weitgehend erwartet, fiel die Marktreaktion moderat aus → Dollar-Boden, kein Schub.",
-    "🇳🇿 RBNZ hob den Leitzins auf 2,50% (Di/Mi, erste Anhebung seit 2023), signalisierte aber eine höhere Hürde für weitere Schritte → der Kiwi konnte kaum profitieren.",
-    "🛢️ Öl war Mi/Do kräftig gesprungen (Trump-Drohung, +4–5% pro Tag), bevor es heute wieder etwas nachgab."
+    "🇺🇸 FED-PROTOKOLL falkenhaft (Mi Abend): 9 von 18 Mitgliedern wollen dieses Jahr noch mindestens eine Erhöhung, Senkungs-Hinweise gestrichen, PCE-Prognose 2026 bei 3,6%. ABER es ist ein ALTER Stand von VOR dem Jobschock → der Markt tat es weitgehend ab, Dollar bekam nur einen Boden, keinen Schub.",
+    "🇳🇿 RBNZ erhöhte auf 2,50% (Di, erste Anhebung seit 2023), bremste aber ('weitere Schritte ungewiss') → der Kiwi konnte kaum profitieren.",
+    "🇨🇳 CHINA-Inflation schwach (Do): Verbraucherpreise nur +1,0% (erwartet 1,2%) — die Nachfrage bleibt lahm. Leichter Dämpfer für Aussie & Kiwi. Fabrik-Preise dagegen +4,1% (teures Öl).",
+    "🇺🇸 ISM-Dienstleistungen 54,0 (Mo, wie erwartet) — solides Wachstum, ABER der Preis-Unterindex fiel kräftig (71,3 → 67,7): ein gutes Vorzeichen für eine kühlere Kern-Inflation nächste Woche."
    ]
   },
   "lage": [
-   "Der große US-Jobbericht war diese Woche ein Schock: Statt der erwarteten ~114.000 neuen Jobs kamen nur 57.000 — die US-Wirtschaft stellt viel weniger Leute ein als gedacht.",
-   "Deshalb hat der Dollar seinen ersten echten Riss bekommen: Der Dollar-Index fiel unter die wichtige 101er-Marke auf ~100,7. Die Wetten auf eine baldige Fed-Zinserhöhung sind vom Tisch (der Markt wettet frühestens auf Dezember).",
-   "ABER Vorsicht: Fed-Chef Warsh sagt weiter, die Inflation sei 'zu hoch', und die US-Zinsen bringen real (nach Abzug der Inflation) immer noch satte ~2,25%. Der Dollar ist angeknackst, aber NICHT gebrochen.",
-   "In Europa fiel die Inflation überraschend schnell: Die Eurozone meldete nur 2,8% (statt erwarteter 3,0%, vorher 3,2%). Das nimmt der EZB Druck und ist leicht schlecht für den Euro.",
-   "Die Stimmung an den Märkten ist entspannt und risikofreudig — das Angst-Barometer VIX steht tief bei 16. Das hilft den 'mutigen' Währungen Aussie & Kiwi und nimmt den sicheren Häfen Franken & Yen den Rückenwind.",
-   "Öl ist billig (WTI ~68$, −3% auf die Woche) — schlecht für den kanadischen Dollar. Gold dagegen sprang auf ~4.200$ (+4% Woche, nahe Rekord) — die Leute suchen Sicherheit.",
-   "Nächste Woche ist RUHIG: wenig Daten. Die Höhepunkte sind das FOMC-Protokoll am Mittwoch (zeigt, wie hart die Fed denkt) und der kanadische Arbeitsmarkt am Freitag. Der nächste große Test ist erst die US-Inflation am 14.7."
+   "Der Dollar hat sich diese Woche gefangen, nachdem ihn der Jobschock der Vorwoche angeknackst hatte: Der Dollar-Index steht flach bei ~100,8 — kein weiterer Absturz, sondern ein Boden.",
+   "Drei Stützen halten den Dollar: (1) Das Fed-Protokoll am Mittwoch war klar falkenhaft — 9 von 18 Mitgliedern wollen dieses Jahr noch mindestens eine Zinserhöhung, die Senkungs-Hinweise sind gestrichen. (2) Die US-Renditen steigen wieder (10 Jahre auf 4,55%). (3) Das Öl kam zurück (WTI +4% auf die Woche, ~71$), weil um den Iran neue Spannungen aufkamen.",
+   "ABER: Das Protokoll ist ein ALTER Stand von VOR dem schwachen Jobbericht — der Markt hat es deshalb weitgehend abgetan. Der Dollar erholt sich nicht, er stabilisiert sich nur. 'Angeknackst, aber nicht gebrochen' — genau wie letzte Woche gesagt.",
+   "Die Stimmung ist entspannt und risikofreudig: Das Angst-Barometer VIX steht tief bei 15,7 — das hilft den 'mutigen' Rohstoff-Währungen Aussie & Kiwi und nimmt den sicheren Häfen Franken & Yen den Rückenwind. Gold gab etwas nach (~4.110$, −1% Woche).",
+   "Kanada überraschte heute positiv: +18.000 neue Jobs (mehr als erwartet) und die Arbeitslosigkeit fiel auf 6,5%. Zusammen mit dem teureren Öl stützt das den kanadischen Dollar (Loonie).",
+   "Neuseelands Notenbank hat am Dienstag zum ersten Mal seit 2023 erhöht (auf 2,50%) — aber sie hat gebremst signalisiert ('weitere Schritte ungewiss'), deshalb konnte der Kiwi kaum profitieren. Chinas Inflation blieb schwach (+1,0%) — ein leichter Dämpfer für Aussie & Kiwi.",
+   "Nächste Woche wird VOLL: DAS Event ist die US-Inflation am Dienstag (14.7.) — sie entscheidet, ob die Falken-Fed recht behält (Dollar fest) oder die Jobschock-Story gewinnt (Dollar weich). Dazu Kanadas Notenbank (Mi), Chinas Wachstum (Mi) und der US-Einzelhandel (Do)."
   ],
   "waehrungen": {
    "USD": {
     "stimmung": "neutral",
-    "score": 12,
-    "grund": "Fester Boden dank Falken-Fed: Das Juni-Protokoll (gestern) bestätigte den harten Kurs — erwarteter Leitzins zum Jahresende 3,8%, erste Erhöhung jetzt im OKTOBER auf dem Tisch, Senkungs-Hinweise gestrichen. Dazu teures Öl → steigende Renditen (10J 4,58%). Gegenpol bleibt der schwache Arbeitsmarkt (Job-Schock +57k) und der Index noch im Wochenminus — deshalb fester Boden, aber nicht bullisch."
+    "score": 10,
+    "grund": "Boden gefunden statt weiter fallen: Das Falken-Protokoll (9 Erhöhungs-Stimmen, Senkung gestrichen), steigende Renditen (10J 4,55%) und das Öl-Comeback (→ Inflationssorge) geben Halt. Gegenpol bleibt die Jobschock-Delle (der Markt wettet frühestens Dez auf eine Erhöhung) — deshalb neutral, nicht bullisch. Die US-Inflation am Dienstag ist der echte Test."
    },
    "EUR": {
     "stimmung": "bärisch",
     "score": -10,
-    "grund": "Doppelt belastet: Der wieder festere Dollar UND das teure Öl (die Eurozone ist Energie-Importeur) drücken. Die eigene Inflation war zuletzt überraschend kühl (2,8%) — die EZB hat es nicht eilig. Leicht euro-negativ."
+    "grund": "Doppelt belastet: Der wieder festere Dollar UND das teurere Öl (die Eurozone ist Energie-Importeur) drücken. Die eigene Inflation war zuletzt überraschend kühl (2,8%) — die EZB hat es nicht eilig. Der Zinsvorteil liegt klar bei den USA (2J-Rendite 4,18% vs. 2,65%). Leicht euro-negativ."
    },
    "GBP": {
     "stimmung": "neutral",
-    "score": 0,
-    "grund": "Auf der Kippe: Der festere Dollar drückt, ABER die Großspekulanten sind beim Pfund extrem short (COT-z −2,3) = Squeeze-Risiko nach oben. Beide Kräfte heben sich fast auf → neutral."
+    "score": 2,
+    "grund": "Auf der Kippe: Der festere Dollar drückt, ABER die Großspekulanten sind beim Pfund EXTREM short (COT-z −2,2) = Squeeze-Risiko nach oben, und die britische 2J-Rendite (4,23%) liegt sogar über der US-Rendite. Nächste Woche das UK-BIP (Do). Beide Kräfte heben sich fast auf → leicht positiv."
    },
    "JPY": {
     "stimmung": "bärisch",
-    "score": -12,
-    "grund": "Klar der schwächste: USD/JPY auf ~162,5. Steigende US-Renditen (10J 4,58%) machen den zinslosen Yen unattraktiv (Carry-Trades ziehen an), teures Öl belastet den Import-Riesen zusätzlich, und die entspannte Stimmung (VIX 16) nimmt dem sicheren Hafen Rückenwind. Einziger Bremsklotz: das wachsende Interventionsrisiko durch Japans Finanzministerium. Track-Record 0/3 → trotz klarer Richtung bewusst nicht extrem."
+    "score": -10,
+    "grund": "Weiter der Schwächste: Steigende US-Renditen (10J 4,55%) machen den zinslosen Yen unattraktiv (Carry-Trades ziehen an), das teurere Öl belastet den Import-Riesen, und die entspannte Stimmung (VIX 15,7) nimmt dem sicheren Hafen Rückenwind. USD/JPY ~162,5 in der Interventionszone — einziger Bremsklotz. Track-Record 0/3 → trotz klarer Richtung bewusst nicht extrem."
    },
    "CHF": {
     "stimmung": "bärisch",
-    "score": -6,
-    "grund": "Der festere Dollar und die risikofreudige Stimmung (VIX tief) nehmen dem sicheren Hafen Franken den Rückenwind. Die SNB steht bei 0% ohne Zins-Vorteil."
+    "score": -8,
+    "grund": "Der festere Dollar und die risikofreudige Stimmung (VIX tief) nehmen dem sicheren Hafen Franken den Rückenwind. Die SNB steht bei 0% ganz ohne Zins-Vorteil (2J-Rendite nur 0,07%)."
    },
    "CAD": {
     "stimmung": "neutral",
-    "score": 0,
-    "grund": "Aufgewertete Story: Der Öl-Sprung (WTI +8–10% auf der Woche durch die Hormus-Eskalation) stützt Kanadas wichtigsten Export kräftig und dreht das Vorwochen-Minus. Gegenwind: der wieder festere Dollar UND morgen (Fr) die kanadischen Jobzahlen (Enttäuschungsrisiko). Netto jetzt neutral statt bärisch."
+    "score": 4,
+    "grund": "Aufgehellt: Die Juni-Jobzahlen kamen SOLIDE (+18k statt +11k erwartet, Arbeitslosigkeit fiel auf 6,5%), und das Öl-Comeback (WTI +4% Woche) stützt Kanadas wichtigsten Export. Gegenwind: der wieder festere Dollar und die extreme Short-Positionierung. Nächste Woche hält die BoC (Mi) wohl bei 2,25%. Netto leicht positiv."
    },
    "AUD": {
     "stimmung": "bullisch",
     "score": 8,
-    "grund": "Weiter Favorit, aber getrimmt: Risikofreude (VIX 16) hilft dem Aussie. Heute früh aber China-Inflation schwach (+1,0%) — lahme China-Nachfrage ist ein Dämpfer für die rohstoffnahe Währung, und der festere Dollar bremst. Deshalb von +10 auf +8."
+    "grund": "Weiter Favorit, aber getrimmt: Die Risikofreude (VIX 15,7) hilft dem Aussie, und die australische 2J-Rendite ist mit 4,46% die höchste im Feld. Dämpfer: Chinas schwache Inflation (+1,0%) und das langsamere China-Wachstum (BIP nächste Woche) — China ist der größte Kunde. Plus der festere Dollar. Deshalb bullisch, aber nicht extrem."
    },
    "NZD": {
     "stimmung": "neutral",
-    "score": 4,
-    "grund": "Die RBNZ hat auf 2,50% erhöht (erste Anhebung seit 2023) — Richtung positiv. ABER sie signalisierte eine höhere Hürde für weitere Schritte, der Kiwi gab seine Gewinne schnell ab, und der festere Dollar deckelt. Track-Record 1/3 → bewusst nahe null, nur leicht positiv."
+    "score": 3,
+    "grund": "Die RBNZ hat auf 2,50% erhöht (erste Anhebung seit 2023) — Richtung positiv. ABER sie bremste ('weitere Schritte ungewiss'), der Kiwi gab seine Gewinne schnell ab, und der festere Dollar deckelt. Die Großspekulanten sind EXTREM short (COT-z −2,5, −57% des Marktes!) = starkes Squeeze-Risiko nach oben. Track-Record 1/3 → bewusst nahe null."
    }
   },
   "paare": [
    {
-    "paar": "AUD/USD",
-    "score": 2,
-    "treiber": "Nur noch leicht positiv: Risikofreude hebt den Aussie, aber schwache China-Inflation (+1,0%) und der festere Dollar bremsen. China-Nachfrage-Risiko bleibt. Track-Record 2/3."
-   },
-   {
-    "paar": "USD/CAD",
-    "score": -2,
-    "treiber": "Leicht abwärts (Loonie stärker): Der Öl-Sprung (+8–10% Woche) stützt Kanadas Export kräftig und dreht das Vorwochen-Plus. Der festere Dollar und die Kanada-Jobzahlen morgen (Fr) halten dagegen. Track-Record 2/3."
-   },
-   {
     "paar": "EUR/USD",
-    "score": -12,
-    "treiber": "Abwärts: festerer Dollar (Öl→Renditen→Hike-Odds 58%) + teures Öl belasten den Euro doppelt. Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile. Track-Record 2/3 (verlässlich)."
-   },
-   {
-    "paar": "USD/CHF",
-    "score": 5,
-    "treiber": "Leicht aufwärts: festerer Dollar + risikofreudige Stimmung nehmen dem Franken Rückenwind. Track-Record aber nur 1/3 → bewusst moderat."
+    "score": -11,
+    "treiber": "Abwärts: Der wieder festere Dollar (Falken-Protokoll + steigende Renditen) und das teurere Öl belasten den Euro doppelt. Klarer US-Zinsvorteil (2J 4,18% vs. 2,65%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
    },
    {
     "paar": "GBP/USD",
-    "score": -5,
-    "treiber": "Leicht abwärts: der festere Dollar drückt, die extremen Pfund-Shorts (COT-z −2,3 = Squeeze-Risiko) begrenzen den Rückgang aber. Track-Record 2/3."
+    "score": -4,
+    "treiber": "Leicht abwärts: der festere Dollar drückt, aber die EXTREMEN Pfund-Shorts (COT-z −2,2 = Squeeze-Risiko) und die hohe UK-Rendite (2J 4,23% > US) begrenzen den Rückgang deutlich."
    },
    {
     "paar": "USD/JPY",
-    "score": 12,
-    "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teures Öl schwächen den Yen deutlich, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat statt extrem."
+    "score": 10,
+    "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teureres Öl + Risikofreude schwächen den zinslosen Yen, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat."
+   },
+   {
+    "paar": "AUD/USD",
+    "score": 2,
+    "treiber": "Nur leicht positiv: Risikofreude und hohe Aussie-Rendite (2J 4,46%) heben, aber schwache China-Inflation (+1,0%), das langsamere China-Wachstum und der festere Dollar bremsen."
+   },
+   {
+    "paar": "USD/CAD",
+    "score": 2,
+    "treiber": "Knapp aufwärts, aber der Loonie hält gut dagegen: solide Kanada-Jobs (+18k, 6,5%) und das Öl-Comeback (+4% Woche) stützen den Loonie, der festere Dollar und die BoC-Sitzung (Mi) halten dagegen."
+   },
+   {
+    "paar": "USD/CHF",
+    "score": 9,
+    "treiber": "Aufwärts: festerer Dollar + risikofreudige Stimmung (VIX tief) nehmen dem Franken den Rückenwind, die SNB steht zinslos bei 0%."
    },
    {
     "paar": "NZD/USD",
-    "score": 2,
-    "treiber": "Vorsichtig positiv: RBNZ hat erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. Track-Record 1/3 → nahe null."
+    "score": -3,
+    "treiber": "Leicht abwärts: RBNZ hat zwar erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. GEGENGEWICHT: die extreme Short-Positionierung (COT-z −2,5) = großes Squeeze-Risiko nach oben → deshalb nur leicht negativ."
    }
   ],
   "wochenausblick": {
    "text": [
-    "Nach dem Jobschock ist die große Frage: rutscht der Dollar weiter oder fängt er sich? Nächste Woche gibt es WENIG Daten, die das entscheiden — es wird eher eine Verschnaufpause zum Verdauen.",
-    "Der Höhepunkt ist das FOMC-Protokoll am Mittwoch (20:00 Wien): Es zeigt schwarz auf weiß, wie hart die Fed im Juni wirklich dachte. Klingt es sehr falkenhaft, kann der Dollar kurz zurückkommen — aber es ist ein ALTER Stand von VOR dem Jobschock, der Markt könnte es abtun.",
-    "Am Freitag kommt der kanadische Arbeitsmarkt (14:30 Wien) — bei schwachen Zahlen (Arbeitslosigkeit ~6,9%) plus billigem Öl bleibt der Loonie unter Druck (USD/CAD tendenziell rauf).",
-    "Risikofreude regiert: Solange der VIX tief bleibt (~16), haben Aussie & Kiwi Rückenwind, Franken & Yen weniger. Am Mittwoch früh entscheidet die neuseeländische Notenbank (RBNZ) — Zitterpartie: die meisten Umfragen erwarten inzwischen eine ERHÖHUNG auf 2,50% (statt einer Pause), weil die Inflation hartnäckig ist."
+    "Nächste Woche ist VOLL mit Daten und hat einen klaren Höhepunkt: die US-Inflation am Dienstag (14.7., 14:30 Wien). Sie ist der Schiedsrichter im Duell 'Falken-Fed (Dollar fest)' gegen 'Jobschock (Dollar weich)'.",
+    "Erwartet wird eine gemischte Zahl: Die Gesamt-Inflation dürfte zum Vormonat leicht FALLEN (−0,1%, weil Benzin billiger wurde), aber die Kern-Inflation (ohne Energie & Nahrung) bleibt zäh bei +0,3% zum Vormonat / 2,9% zum Vorjahr. Wichtiger Hinweis: Der ISM-Dienstleistungsindex zeigte diese Woche stark fallende Preise (67,7 statt 71,3) — das spricht für eine eher kühlere Kern-Zahl.",
+    "Am Mittwoch entscheidet Kanadas Notenbank (BoC) — fast sicher ein Halten bei 2,25% (Markt ~91%). Spannender ist der begleitende Wirtschaftsbericht (MPR): Sieht die BoC das teure Öl als Inflationsrisiko oder die schwache Wirtschaft als Senkungsgrund? Am selben Tag kommt Chinas Wachstum (BIP, erwartet ~4,4% — Abkühlung von 5,0%).",
+    "Am Donnerstag der US-Einzelhandel (Konsumlaune) und das UK-BIP, am Freitag das US-Verbrauchervertrauen (Uni Michigan). Dazu spricht Fed-Chef Warsh Di+Mi vor dem Kongress — jedes Wort zur Inflation kann den Dollar bewegen.",
+    "Fazit: Ist die Kern-Inflation heiß, kehrt die Falken-Fed-Stärke zurück (Dollar rauf, EUR/USD runter, USD/JPY rauf). Ist sie kühl, gewinnt die Jobschock-Story (Dollar runter, Aussie/Euro/Pfund rauf). Risikofreude (VIX tief) bleibt bis dahin der Rückenwind für Aussie & Kiwi."
    ],
    "termine": [
     {
-     "tag": "Montag 6.7.",
+     "tag": "Dienstag 14.7.",
      "land": "USD",
-     "titel": "USA: ISM-Dienstleistungen (Juni) — 16:00 Wien",
-     "warum": "Wichtigster Wirtschaftsindex der Woche. Zeigt, ob der große Dienstleistungssektor noch wächst. Schwach (<52) = Dollar bleibt weich; stark (>55) = Dollar-Erholung."
+     "titel": "USA: Verbraucherpreise (CPI, Juni) — 14:30 Wien",
+     "warum": "DAS Event der Woche. Kern-Inflation erwartet +0,3% m/m / 2,9% y/y, Gesamt-Rate m/m −0,1% (billiges Benzin). Heiß = Falken-Fed-Dollar zurück (EUR/USD runter, USD/JPY rauf). Kühl = Jobschock-Story gewinnt (Dollar weich, Aussie/Euro rauf)."
     },
     {
-     "tag": "Dienstag 7.7.",
+     "tag": "Dienstag 14.7.",
+     "land": "USD",
+     "titel": "USA: Fed-Chef Warsh vor dem Kongress (Tag 1) + China-Handelsbilanz",
+     "warum": "Warsh nannte die Inflation zuletzt 'zu hoch' — jedes falkenhafte Wort stützt den Dollar. Chinas Exporte/Importe zeigen, wie es der Weltnachfrage geht (relevant für Aussie & Kiwi)."
+    },
+    {
+     "tag": "Mittwoch 15.7.",
      "land": "CAD",
-     "titel": "Kanada: Ivey-Einkaufsmanagerindex (Juni)",
-     "warum": "Stimmungscheck der kanadischen Wirtschaft — Vorprobe für die wichtigen Jobzahlen am Freitag."
+     "titel": "Kanada: BoC-Zinsentscheid + Wirtschaftsbericht (MPR) — 15:45 Wien",
+     "warum": "Fast sicher Halten bei 2,25% (~91%). Entscheidend ist der Ton: teures Öl (Inflationsrisiko, loonie-positiv) gegen schwache Wirtschaft (Senkungssignal, loonie-negativ)."
     },
     {
-     "tag": "Mittwoch 8.7.",
-     "land": "NZD",
-     "titel": "Neuseeland: RBNZ-Zinsentscheid (~04:00 Wien)",
-     "warum": "Zitterpartie (50/50): Die meisten Umfragen erwarten inzwischen eine ERHÖHUNG auf 2,50% (hartnäckige Inflation), nicht mehr eine Pause. Ein Hike wäre kiwi-positiv, eine Pause kiwi-negativ."
-    },
-    {
-     "tag": "Mittwoch 8.7.",
-     "land": "USD",
-     "titel": "USA: FOMC-Protokoll der Juni-Sitzung — 20:00 Wien",
-     "warum": "Das Wortprotokoll zeigt, wie falkenhaft die Fed denkt. Sehr hart = Dollar-Erholung; ausgewogen = der Jobschock-Trend (weicher Dollar) hält."
-    },
-    {
-     "tag": "Donnerstag 9.7.",
+     "tag": "Mittwoch 15.7.",
      "land": "CNY",
-     "titel": "China: Inflation (CPI, Juni)",
-     "warum": "China kämpft mit fallenden Preisen. Sehr schwach/negativ = schlecht für Aussie & Kiwi (China ist ihr größter Kunde)."
+     "titel": "China: BIP-Wachstum Q2 + Industrie + Einzelhandel",
+     "warum": "Erwartet ~4,4% (Abkühlung von 5,0%). Schwach = schlecht für Aussie & Kiwi (China ist ihr größter Kunde); stark = Rückenwind für die Rohstoffwährungen."
     },
     {
-     "tag": "Freitag 10.7.",
-     "land": "CAD",
-     "titel": "Kanada: Arbeitsmarkt-Bericht (Juni) — 14:30 Wien",
-     "warum": "Wie viele Jobs, wie hoch die Arbeitslosigkeit. Schwach + billiges Öl = Loonie unter Druck (USD/CAD rauf)."
+     "tag": "Mittwoch 15.7.",
+     "land": "USD",
+     "titel": "USA: Erzeugerpreise (PPI, Juni) + Warsh Tag 2",
+     "warum": "Erzeugerpreise sind der Vorlauf der Verbraucherpreise. Erwartet +0,2% m/m (nach heißen +1,1%). Zusammen mit dem CPI vom Vortag zeichnet es das Inflationsbild."
+    },
+    {
+     "tag": "Donnerstag 16.7.",
+     "land": "USD",
+     "titel": "USA: Einzelhandelsumsätze (Juni) — 14:30 Wien",
+     "warum": "Zeigt, ob der US-Konsument nach dem Jobschock noch kauft. Erwartet +0,3% m/m (nach starken +0,9%). Schwach = stützt die Jobschock-Story (Dollar weich)."
+    },
+    {
+     "tag": "Donnerstag 16.7.",
+     "land": "GBP",
+     "titel": "UK: BIP (Monat) — 8:00 Wien",
+     "warum": "Erwartet +0,1% (Erholung von −0,1%). Ein Plus stützt das Pfund — besonders bei den extremen Short-Positionen (Squeeze-Risiko)."
+    },
+    {
+     "tag": "Freitag 17.7.",
+     "land": "USD",
+     "titel": "USA: Uni-Michigan-Verbrauchervertrauen (vorläufig) — 16:00 Wien",
+     "warum": "Stimmungscheck der Verbraucher inkl. Inflationserwartungen. Erwartet ~51 (Erholung von 49,5). Sehr schwach = Wachstumssorgen, Dollar-negativ."
     }
    ]
   },
   "prognosen": [
    {
-    "event": "US-ISM-Dienstleistungen (Juni)",
-    "termin": "Montag 6.7., 16:00 Wiener Zeit",
-    "prognoseMarkt": "Erwartet wird ein Wert um ~54 (nach 54,5 im Mai) — solides Wachstum über der 50er-Schwelle.",
-    "meineEinschaetzung": "Ich erwarte eine solide, aber leicht weichere Zahl (~53–54). Begründung: Die US-Industrie kühlte gerade ab (ISM 53,3 statt 53,8 erwartet), und der schwache Jobbericht deutet auf nachlassenden Schwung — aber der Dienstleistungssektor hält sich bislang zäh.",
-    "wennHoeher": "Über 55 → die Wirtschaft ist doch robust, der Dollar kann sich kurz erholen (die Fed kann hart bleiben). Gut für USD/CAD, schlecht für EUR/USD.",
-    "wennNiedriger": "Unter 52 → Wachstumssorgen, die Dollar-Schwäche setzt sich fort. Gut für Aussie & Euro, USD/CAD runter."
+    "event": "US-Verbraucherpreise (CPI, Juni)",
+    "termin": "Dienstag 14.7., 14:30 Wiener Zeit",
+    "prognoseMarkt": "Kern-Inflation +0,3% m/m und 2,9% y/y (unverändert zum Vormonat); Gesamt-Rate −0,1% m/m (billiges Benzin), Gesamt-y/y fällt auf ~3,9% (von 4,2%). Cleveland-Fed-Modell: ~3,96% y/y.",
+    "meineEinschaetzung": "Ich erwarte eine gemischte, tendenziell etwas KÜHLERE Kern-Zahl (Richtung +0,2 bis +0,3% m/m). Begründung: Der ISM-Dienstleistungs-Preisindex ist diese Woche kräftig gefallen (71,3 → 67,7, erstmals unter 70 seit Februar) — die zähen Dienstleistungspreise geben nach. Die Gesamt-Rate fällt durch das billige Benzin ohnehin. Aber Vorsicht: Das Öl-Comeback wirkt erst mit Verzögerung, im Juni war Benzin noch billig.",
+    "wennHoeher": "Kern über +0,3% (heiß) → die Falken-Fed hat recht, der Dollar kehrt zur Stärke zurück, US-Renditen steigen. Gut für USD/JPY und USD/CHF, schlecht für EUR/USD und AUD/USD.",
+    "wennNiedriger": "Kern bei +0,2% oder darunter (kühl) → die Jobschock-Story gewinnt, der Dollar bleibt weich, Erhöhungswetten fallen weiter. Gut für Aussie, Euro und Pfund, USD/JPY runter."
    },
    {
-    "event": "FOMC-Protokoll (Wortprotokoll der Juni-Sitzung)",
-    "termin": "Mittwoch 8.7., 20:00 Wiener Zeit",
-    "prognoseMarkt": "Erwartet wird ein falkenhafter Ton — die Juni-Sitzung brachte den überraschend harten Dot-Plot (Erhöhung statt Senkung).",
-    "meineEinschaetzung": "Das Protokoll dürfte den harten Kurs bestätigen: viele Mitglieder besorgt über die Inflation, offen für eine Erhöhung. ABER Achtung — es ist ein ALTER Stand von VOR dem Jobschock. Der Markt könnte ein falkenhaftes Protokoll abtun ('das war vor den schwachen Jobs').",
-    "wennHoeher": "Noch falkenhafter/entschlossener als erwartet → Dollar-Erholung, US-Renditen steigen. USD/JPY und USD/CAD rauf.",
-    "wennNiedriger": "Ausgewogener/weicher als gedacht → bestätigt die Jobschock-Story, der Dollar bleibt weich. Gut für EUR/USD, AUD/USD, GBP/USD."
+    "event": "Kanada-Notenbank (BoC): Zinsentscheid + Bericht",
+    "termin": "Mittwoch 15.7., 15:45 Wiener Zeit",
+    "prognoseMarkt": "Halten bei 2,25% mit ~91% Wahrscheinlichkeit (nur 9% für eine Erhöhung).",
+    "meineEinschaetzung": "Ich erwarte ein klares Halten bei 2,25%. Der Zins ist nicht die Frage — es geht um den Ton des Berichts. Die BoC steckt in der Zwickmühle: teures Öl (Inflationsrisiko) gegen schwache Wirtschaft. Nach den soliden Jobzahlen (+18k) und dem teureren Öl dürfte sie eher abwartend-neutral klingen — das nimmt Senkungs-Fantasie und stützt den Loonie leicht.",
+    "wennHoeher": "Falkenhafter Ton (Öl-Inflation im Fokus, keine Senkung in Sicht) → Loonie fester, USD/CAD runter.",
+    "wennNiedriger": "Taubenhafter Ton (Wachstumssorgen, Senkungstür offen) → Loonie schwächer, USD/CAD rauf."
    },
    {
-    "event": "China-Inflation (CPI, Juni)",
-    "termin": "Donnerstag 9.7. (früh Wiener Zeit)",
-    "prognoseMarkt": "Erwartet wird eine sehr niedrige Teuerung nahe null (China kämpft seit Monaten mit Deflationsgefahr).",
-    "meineEinschaetzung": "Ich erwarte weiter sehr schwache Preise nahe 0%. Chinas Binnennachfrage lahmt. Das ist der wichtigste externe Risikofaktor für Aussie & Kiwi diese Woche.",
-    "wennHoeher": "Deutlich über 0 → Erholungssignal für Chinas Nachfrage, Rückenwind für Aussie & Kiwi (AUD/USD, NZD/USD rauf).",
-    "wennNiedriger": "Im Minus (Deflation) → Nachfrageschwäche in China, belastet die Rohstoffwährungen — dämpft die Aussie-Bullishness."
+    "event": "China-Wachstum (BIP Q2) + Industrie + Einzelhandel",
+    "termin": "Mittwoch 15.7. (früh Wiener Zeit)",
+    "prognoseMarkt": "BIP-Wachstum ~4,4% zum Vorjahr (Abkühlung von 5,0%), Industrieproduktion ~4,7%, Einzelhandel leicht im Minus.",
+    "meineEinschaetzung": "Ich erwarte eine Bestätigung der Abkühlung (~4,3–4,5%). Chinas Binnennachfrage lahmt (siehe die schwache Inflation +1,0%). Das ist der wichtigste externe Risikofaktor für Aussie & Kiwi nächste Woche.",
+    "wennHoeher": "Deutlich über 4,5% → Erholungssignal für Chinas Nachfrage, Rückenwind für Aussie & Kiwi (AUD/USD, NZD/USD rauf).",
+    "wennNiedriger": "Unter 4,3% → Nachfrageschwäche in China, belastet die Rohstoffwährungen — dämpft die Aussie-Bullishness."
    },
    {
-    "event": "Kanada-Arbeitsmarkt-Bericht (Juni)",
-    "termin": "Freitag 10.7., 14:30 Wiener Zeit",
-    "prognoseMarkt": "Erwartet werden schwache Zahlen: Arbeitslosenquote um ~6,9–7,0%, wenig neue Jobs.",
-    "meineEinschaetzung": "Ich tendiere zu weiter schwachen Zahlen (Arbeitslosigkeit hoch, evtl. leicht steigend). Kanadas Wirtschaft leidet unter dem billigen Öl und der lahmen Nachfrage — das setzt die Notenbank BOC unter Senkungsdruck.",
-    "wennHoeher": "Starke Jobs / fallende Arbeitslosigkeit → Loonie-Erholung, USD/CAD runter.",
-    "wennNiedriger": "Steigende Arbeitslosigkeit / Jobverluste → BOC-Senkungsdruck, Loonie schwach, USD/CAD rauf (passt zu meinem bärischen CAD-Score)."
+    "event": "US-Einzelhandelsumsätze (Juni)",
+    "termin": "Donnerstag 16.7., 14:30 Wiener Zeit",
+    "prognoseMarkt": "+0,3% zum Vormonat (nach starken +0,9% im Mai).",
+    "meineEinschaetzung": "Ich tendiere zu einer eher weichen Zahl (Richtung 0,0 bis +0,3%). Der Jobschock deutet auf nachlassenden Schwung beim Konsum, und der Mai-Wert war ungewöhnlich stark (Rückschlag-Risiko). Ein schwacher Konsum würde die Jobschock-Story untermauern.",
+    "wennHoeher": "Über +0,4% → der US-Konsument hält durch, der Dollar bekommt Halt (die Fed kann hart bleiben). Gut für USD/CAD, schlecht für EUR/USD.",
+    "wennNiedriger": "Im Minus → Konsumschwäche nach dem Jobschock, Dollar-negativ. Gut für Aussie & Euro."
    }
   ],
   "lehren": [
-   "NFP-CALL TRAF ✓: Ich hatte für den US-Jobbericht ein asymmetrisches Abwärtsrisiko vorhergesagt — und genau so kam es (+57k statt ~114k = großer Miss). Lehre: Wenn ein lange gelaufener Trend (die Dollar-Stärke) auf ein Großereignis mit einseitigem Risiko trifft, lohnt der Blick auf die Überraschungsrichtung. Die überfüllte Position (wochenlang aufgebaute Dollar-Longs) verstärkte die Gegenbewegung.",
-   "EUR-CPI-CALL DANEBEN ✗: Ich erwartete eine hartnäckige Euro-Inflation nahe 3,2%, tatsächlich fiel sie auf 2,8% (deutlich kühler als die erwarteten 3,0%). Lehre: Ich habe das 'klebrige Inflation'-Narrativ überstrapaziert — Europas Teuerung fällt schneller als gedacht (Energie-Basiseffekte). Nicht zu stur am Sticky-Bild festhalten, wenn die Energiepreise fallen.",
-   "USD/JPY-DEMUT: Mein Track-Record bei USD/JPY ist 0/3 — meine Richtungscalls treffen dort einfach nicht, weil Interventionsrisiko und Zins-Carry die Fundamentaldaten übertönen. Lehre: USD/JPY bis auf Weiteres bewusst nahe null scoren, statt auf eine Richtung zu wetten. Das System zeigt mir diese Schwäche ehrlich an — ich handle danach.",
-   "'CRACK, NOT BREAK' & POSITIONIERUNG: Die Dollar-Reaktion zeigt, wie stark die Positionierung zählt. Nach Wochen aufgebauter Dollar-Longs löste EIN schwacher Datenpunkt eine übergroße Auflösung aus. Überfüllte Trades verstärken Überraschungen — deshalb der Blick auf die COT-Daten (die Pfund-Shorts sind jetzt extrem, z-Score −2,3 = Squeeze-Risiko nach oben, deshalb GBP näher an neutral).",
-   "TECHNISCHE LEHRE — ARCHITEKTUR TRÄGT: Die Feeds waren im Cloud-Lauf wieder komplett 403-blockiert (Sandbox-Egress), ABER der GitHub-Actions-Runner lieferte diesmal frische Marktdaten (DXY 100,7 / VIX 16 / WTI 68$ / COT 23.6.) UND füllte die US-Jobzahl automatisch via FRED (NFP +57k, Quote 4,2% = 'auto:FRED' im Runner-Commit). Das Briefing steht damit auf aktuellen harten Daten trotz Sandbox-Sperre — die neue Daten-Architektur funktioniert."
+   "KANADA-JOBS-CALL DANEBEN ✗: Ich hatte für den kanadischen Arbeitsmarkt weiter schwache Zahlen vorhergesagt (Arbeitslosigkeit ~6,9–7,0%) — tatsächlich kamen +18.000 Jobs und die Arbeitslosigkeit FIEL auf 6,5% (getragen von Jugend-Einstellungen). Lehre: Nicht das 'schwache-Wirtschaft'-Narrativ blind auf einen einzelnen Jobreport projizieren. Kanadas Arbeitsmarkt hat sich zuletzt zäh gehalten — ein weicher BIP-Trend heißt nicht automatisch weiche Jobs.",
+   "ISM-DIENSTLEISTUNGS-CALL TRAF ✓: Ich erwartete eine solide, aber leicht weichere Zahl (~53–54) — es kam exakt 54,0. Und der Preis-Unterindex fiel kräftig (71,3 → 67,7, erstmals unter 70 seit Februar). Das ist ein wertvolles Vorzeichen: Wenn die Dienstleistungspreise nachgeben, spricht das für eine kühlere Kern-Inflation nächste Woche — genau darauf baue ich meine CPI-Einschätzung.",
+   "'CRACK, NOT BREAK' ERNEUT BESTÄTIGT ✓: Vergangene Woche hatte ich den Dollar bewusst NEUTRAL (nicht bärisch) gescort mit der Begründung 'angeknackst, nicht gebrochen'. Genau so kam es: Der Dollar-Index blieb flach (~100,8), fiel NICHT weiter — Falken-Protokoll, steigende Renditen und das Öl-Comeback gaben ihm einen Boden. Nach einem Trend-Schock lohnt sich Geduld: Ein einzelner Datenpunkt kippt den Trend selten sofort ganz.",
+   "STALE-INFO-LEHRE: Das Fed-Protokoll war falkenhaft wie erwartet — aber der Markt tat es weitgehend ab, weil es ein ALTER Stand von VOR dem Jobschock war. Lehre: Falkenhafte Informationen, die älter sind als der Datenpunkt, der den Trend gebrochen hat, bewegen kaum. Der Markt schaut nach vorn (jetzt auf die US-Inflation Di).",
+   "POSITIONIERUNG ALS BREMSE: Die COT-Daten zeigen jetzt ZWEI Extreme — NZD (z −2,5, −57% des Marktes short) und GBP (z −2,2). Beide tragen ein hohes Squeeze-Risiko nach oben. Deshalb habe ich Pfund und Kiwi bewusst NAHE NULL gescort statt klar bärisch, obwohl der festere Dollar für Schwäche spräche. Extrem einseitige Positionierung ist ein Konter-Signal.",
+   "RBNZ-HIKE = 'BESTÄTIGT ≠ ÜBERRASCHT': Die Neuseeland-Notenbank hat wie von den meisten Umfragen erwartet erhöht (2,50%) — aber weil es eingepreist war UND sie taubenhaft bremste, konnte der Kiwi nicht profitieren. Wieder die Kernlehre: Eine erwartete Aktion bewegt kaum; die Bewegung kommt aus der Überraschung (und die kam hier auf der zahmen Seite)."
   ]
  },
  "lexikon": {
@@ -3224,7 +3238,7 @@ window.MAKRO_DATA = {
  },
  "leitzinsen": {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-07-09",
+  "stand": "2026-07-10",
   "zinsen": [
    {
     "code": "AUD",
@@ -3276,8 +3290,8 @@ window.MAKRO_DATA = {
     "bank": "BOC",
     "satz": 2.25,
     "anzeige": "2,25%",
-    "naechste": "29.7.2026",
-    "erwartung": "Halten — billiges Öl drückt die Inflation",
+    "naechste": "15.7.2026",
+    "erwartung": "Halten (Markt ~91%) — Zwickmühle: schwache Wirtschaft spräche für Senkung, aber das teure Öl (Naher Osten) hält die Inflation bei 2,8%. Solide Juni-Jobs (+18k, Quote 6,5%) nehmen den Senkungsdruck",
     "richtung": "halten"
    },
    {
@@ -3838,33 +3852,33 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -12,
+   "baseScore": -11,
    "tiltCot": 0,
    "tiltZins": -1,
    "tiltGesamt": -1,
-   "score": -13,
+   "score": -12,
    "cotExtrem": null,
-   "treiber": "Abwärts: festerer Dollar (Öl→Renditen→Hike-Odds 58%) + teures Öl belasten den Euro doppelt. Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile. Track-Record 2/3 (verlässlich)."
+   "treiber": "Abwärts: Der wieder festere Dollar (Falken-Protokoll + steigende Renditen) und das teurere Öl belasten den Euro doppelt. Klarer US-Zinsvorteil (2J 4,18% vs. 2,65%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
   },
   {
    "paar": "GBP/USD",
-   "baseScore": -5,
+   "baseScore": -4,
    "tiltCot": -5,
    "tiltZins": -1,
    "tiltGesamt": -6,
-   "score": -11,
+   "score": -10,
    "cotExtrem": "extrem",
-   "treiber": "Leicht abwärts: der festere Dollar drückt, die extremen Pfund-Shorts (COT-z −2,3 = Squeeze-Risiko) begrenzen den Rückgang aber. Track-Record 2/3."
+   "treiber": "Leicht abwärts: der festere Dollar drückt, aber die EXTREMEN Pfund-Shorts (COT-z −2,2 = Squeeze-Risiko) und die hohe UK-Rendite (2J 4,23% > US) begrenzen den Rückgang deutlich."
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 12,
+   "baseScore": 10,
    "tiltCot": 10,
    "tiltZins": 1,
    "tiltGesamt": 11,
-   "score": 23,
+   "score": 21,
    "cotExtrem": null,
-   "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teures Öl schwächen den Yen deutlich, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat statt extrem."
+   "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teureres Öl + Risikofreude schwächen den zinslosen Yen, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat."
   },
   {
    "paar": "AUD/USD",
@@ -3874,37 +3888,37 @@ window.MAKRO_DATA = {
    "tiltGesamt": -4,
    "score": -2,
    "cotExtrem": null,
-   "treiber": "Nur noch leicht positiv: Risikofreude hebt den Aussie, aber schwache China-Inflation (+1,0%) und der festere Dollar bremsen. China-Nachfrage-Risiko bleibt. Track-Record 2/3."
+   "treiber": "Nur leicht positiv: Risikofreude und hohe Aussie-Rendite (2J 4,46%) heben, aber schwache China-Inflation (+1,0%), das langsamere China-Wachstum und der festere Dollar bremsen."
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -2,
+   "baseScore": 2,
    "tiltCot": 10,
    "tiltZins": 1,
    "tiltGesamt": 11,
-   "score": 9,
+   "score": 13,
    "cotExtrem": null,
-   "treiber": "Leicht abwärts (Loonie stärker): Der Öl-Sprung (+8–10% Woche) stützt Kanadas Export kräftig und dreht das Vorwochen-Plus. Der festere Dollar und die Kanada-Jobzahlen morgen (Fr) halten dagegen. Track-Record 2/3."
+   "treiber": "Knapp aufwärts, aber der Loonie hält gut dagegen: solide Kanada-Jobs (+18k, 6,5%) und das Öl-Comeback (+4% Woche) stützen den Loonie, der festere Dollar und die BoC-Sitzung (Mi) halten dagegen."
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 5,
+   "baseScore": 9,
    "tiltCot": 10,
    "tiltZins": 1,
    "tiltGesamt": 11,
-   "score": 16,
+   "score": 20,
    "cotExtrem": null,
-   "treiber": "Leicht aufwärts: festerer Dollar + risikofreudige Stimmung nehmen dem Franken Rückenwind. Track-Record aber nur 1/3 → bewusst moderat."
+   "treiber": "Aufwärts: festerer Dollar + risikofreudige Stimmung (VIX tief) nehmen dem Franken den Rückenwind, die SNB steht zinslos bei 0%."
   },
   {
    "paar": "NZD/USD",
-   "baseScore": 2,
+   "baseScore": -3,
    "tiltCot": -5,
    "tiltZins": -1,
    "tiltGesamt": -6,
-   "score": -4,
+   "score": -9,
    "cotExtrem": "extrem",
-   "treiber": "Vorsichtig positiv: RBNZ hat erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. Track-Record 1/3 → nahe null."
+   "treiber": "Leicht abwärts: RBNZ hat zwar erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. GEGENGEWICHT: die extreme Short-Positionierung (COT-z −2,5) = großes Squeeze-Risiko nach oben → deshalb nur leicht negativ."
   }
  ],
  "sentiment": null,
@@ -4029,17 +4043,17 @@ window.MAKRO_DATA = {
  "momentum": {
   "USD": {
    "ueber": 3,
-   "unter": 4,
+   "unter": 5,
    "gleich": 5,
-   "gesamt": 12,
-   "score": -1
+   "gesamt": 13,
+   "score": -2
   },
   "CAD": {
-   "ueber": 0,
+   "ueber": 1,
    "unter": 2,
    "gleich": 4,
-   "gesamt": 6,
-   "score": -2
+   "gesamt": 7,
+   "score": -1
   },
   "EUR": {
    "ueber": 0,
@@ -4089,7 +4103,7 @@ window.MAKRO_DATA = {
   "treffer": 7,
   "gesamt": 21,
   "quote": 33,
-  "wochenErfasst": 4,
+  "wochenErfasst": 5,
   "proPaar": {
    "USD/JPY": {
     "treffer": 0,
@@ -4322,12 +4336,32 @@ window.MAKRO_DATA = {
   {
    "datum": "2026-07-10T08:30:00-04:00",
    "land": "CAD",
+   "titel": "Employment Change",
+   "impact": "High",
+   "prognose": "11.2K",
+   "vorher": "87.8K",
+   "actual": "18.2K",
+   "notiz": null
+  },
+  {
+   "datum": "2026-07-10T08:30:00-04:00",
+   "land": "CAD",
    "titel": "Unemployment Rate",
    "impact": "High",
    "prognose": "6.6%",
    "vorher": "6.6%",
    "actual": "6.5%",
    "notiz": "auto:TV unemployment (2026-07-10)"
+  },
+  {
+   "datum": "2026-07-06T10:00:00-04:00",
+   "land": "USD",
+   "titel": "ISM Services PMI",
+   "impact": "High",
+   "prognose": "54.2",
+   "vorher": "54.5",
+   "actual": "54.0",
+   "notiz": null
   },
   {
    "datum": "2026-07-02T08:30:00-04:00",

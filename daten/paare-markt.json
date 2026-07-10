@@ -1,37 +1,37 @@
 {
-  "stand": "2026-07-10T15:27:49.729Z",
-  "ausBriefing": "2026-07-03",
+  "stand": "2026-07-10T16:25:48.594Z",
+  "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -12,
+      "baseScore": -11,
       "tiltCot": 0,
       "tiltZins": -1,
       "tiltGesamt": -1,
-      "score": -13,
+      "score": -12,
       "cotExtrem": null,
-      "treiber": "Abwärts: festerer Dollar (Öl→Renditen→Hike-Odds 58%) + teures Öl belasten den Euro doppelt. Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile. Track-Record 2/3 (verlässlich)."
+      "treiber": "Abwärts: Der wieder festere Dollar (Falken-Protokoll + steigende Renditen) und das teurere Öl belasten den Euro doppelt. Klarer US-Zinsvorteil (2J 4,18% vs. 2,65%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -5,
+      "baseScore": -4,
       "tiltCot": -5,
       "tiltZins": -1,
       "tiltGesamt": -6,
-      "score": -11,
+      "score": -10,
       "cotExtrem": "extrem",
-      "treiber": "Leicht abwärts: der festere Dollar drückt, die extremen Pfund-Shorts (COT-z −2,3 = Squeeze-Risiko) begrenzen den Rückgang aber. Track-Record 2/3."
+      "treiber": "Leicht abwärts: der festere Dollar drückt, aber die EXTREMEN Pfund-Shorts (COT-z −2,2 = Squeeze-Risiko) und die hohe UK-Rendite (2J 4,23% > US) begrenzen den Rückgang deutlich."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 12,
+      "baseScore": 10,
       "tiltCot": 10,
       "tiltZins": 1,
       "tiltGesamt": 11,
-      "score": 23,
+      "score": 21,
       "cotExtrem": null,
-      "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teures Öl schwächen den Yen deutlich, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat statt extrem."
+      "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teureres Öl + Risikofreude schwächen den zinslosen Yen, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat."
     },
     {
       "paar": "AUD/USD",
@@ -41,37 +41,37 @@
       "tiltGesamt": -4,
       "score": -2,
       "cotExtrem": null,
-      "treiber": "Nur noch leicht positiv: Risikofreude hebt den Aussie, aber schwache China-Inflation (+1,0%) und der festere Dollar bremsen. China-Nachfrage-Risiko bleibt. Track-Record 2/3."
+      "treiber": "Nur leicht positiv: Risikofreude und hohe Aussie-Rendite (2J 4,46%) heben, aber schwache China-Inflation (+1,0%), das langsamere China-Wachstum und der festere Dollar bremsen."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -2,
+      "baseScore": 2,
       "tiltCot": 10,
       "tiltZins": 1,
       "tiltGesamt": 11,
-      "score": 9,
+      "score": 13,
       "cotExtrem": null,
-      "treiber": "Leicht abwärts (Loonie stärker): Der Öl-Sprung (+8–10% Woche) stützt Kanadas Export kräftig und dreht das Vorwochen-Plus. Der festere Dollar und die Kanada-Jobzahlen morgen (Fr) halten dagegen. Track-Record 2/3."
+      "treiber": "Knapp aufwärts, aber der Loonie hält gut dagegen: solide Kanada-Jobs (+18k, 6,5%) und das Öl-Comeback (+4% Woche) stützen den Loonie, der festere Dollar und die BoC-Sitzung (Mi) halten dagegen."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 5,
+      "baseScore": 9,
       "tiltCot": 10,
       "tiltZins": 1,
       "tiltGesamt": 11,
-      "score": 16,
+      "score": 20,
       "cotExtrem": null,
-      "treiber": "Leicht aufwärts: festerer Dollar + risikofreudige Stimmung nehmen dem Franken Rückenwind. Track-Record aber nur 1/3 → bewusst moderat."
+      "treiber": "Aufwärts: festerer Dollar + risikofreudige Stimmung (VIX tief) nehmen dem Franken den Rückenwind, die SNB steht zinslos bei 0%."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": 2,
+      "baseScore": -3,
       "tiltCot": -5,
       "tiltZins": -1,
       "tiltGesamt": -6,
-      "score": -4,
+      "score": -9,
       "cotExtrem": "extrem",
-      "treiber": "Vorsichtig positiv: RBNZ hat erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. Track-Record 1/3 → nahe null."
+      "treiber": "Leicht abwärts: RBNZ hat zwar erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. GEGENGEWICHT: die extreme Short-Positionierung (COT-z −2,5) = großes Squeeze-Risiko nach oben → deshalb nur leicht negativ."
     }
   ]
 }

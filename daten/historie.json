@@ -3008,7 +3008,7 @@
       "impact": "High",
       "prognose": "54.2",
       "vorher": "54.5",
-      "actual": null,
+      "actual": "54.0",
       "notiz": null
     },
     "2026-07-06T11:00:00-04:00|USD|FOMC Member Waller Speaks": {
@@ -3598,7 +3598,7 @@
       "impact": "High",
       "prognose": "11.2K",
       "vorher": "87.8K",
-      "actual": null,
+      "actual": "18.2K",
       "notiz": null
     },
     "2026-07-10T08:30:00-04:00|CAD|Unemployment Rate": {

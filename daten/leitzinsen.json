@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-07-09",
+  "stand": "2026-07-10",
   "zinsen": [
     {
       "code": "AUD",
@@ -52,8 +52,8 @@
       "bank": "BOC",
       "satz": 2.25,
       "anzeige": "2,25%",
-      "naechste": "29.7.2026",
-      "erwartung": "Halten — billiges Öl drückt die Inflation",
+      "naechste": "15.7.2026",
+      "erwartung": "Halten (Markt ~91%) — Zwickmühle: schwache Wirtschaft spräche für Senkung, aber das teure Öl (Naher Osten) hält die Inflation bei 2,8%. Solide Juni-Jobs (+18k, Quote 6,5%) nehmen den Senkungsdruck",
       "richtung": "halten"
     },
     {

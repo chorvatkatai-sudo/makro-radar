@@ -32,10 +32,30 @@
   {
     "date": "2026-07-13T10:10:00.000Z",
     "country": "EUR",
-    "title": "EU-Bonds Auction",
+    "title": "2029 EU-Bonds Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "2.935%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-13T10:10:00.000Z",
+    "country": "EUR",
+    "title": "2033 EU-Bonds Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.244%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-13T10:10:00.000Z",
+    "country": "EUR",
+    "title": "2041 EU-Bonds Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.583%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -840,6 +860,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-15T12:45:00.000Z",
+    "country": "USD",
+    "title": "Fed Williams Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-15T13:45:00.000Z",
     "country": "CAD",
     "title": "BoC Interest Rate Decision",
@@ -984,6 +1014,16 @@
     "country": "USD",
     "title": "Fed Beige Book",
     "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-15T22:30:00.000Z",
+    "country": "USD",
+    "title": "Fed Musalem Speech",
+    "impact": "Medium",
     "forecast": "",
     "previous": "",
     "actual": null,
@@ -1456,6 +1496,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.783%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-16T16:30:00.000Z",
+    "country": "USD",
+    "title": "Fed Logan Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },

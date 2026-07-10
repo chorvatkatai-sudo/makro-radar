@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-10T09:21:35.539Z",
+  "stand": "2026-07-10T10:39:21.103Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Jobs and BoC caution shape outlook – ING",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-and-boc-caution-shape-outlook-ing-202607100812",
-      "datum": "2026-07-10T08:12:03.000Z"
+      "titel": "New Zealand Dollar eases from three-week highs near 0.5800 as the US Dollar bounces up",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-eases-from-three-week-highs-near-05800-as-the-us-dollar-bounces-up-202607100950",
+      "datum": "2026-07-10T09:50:36.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: Recovers from three-week low; flat above 1.4150 ahead of jobs data",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-recovers-from-three-week-low-flat-above-14150-ahead-of-jobs-data-202607100802",
-      "datum": "2026-07-10T08:02:40.000Z"
+      "titel": "US Dollar: Geopolitics faded as markets eye rates – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-faded-as-markets-eye-rates-ing-202607100939",
+      "datum": "2026-07-10T09:39:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canada Unemployment Rate forecast to remain unchanged in June",
+      "titel": "Indian Rupee surrenders early gains as US Dollar rebounds",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-as-us-dollar-extends-decline-202607100524",
+      "datum": "2026-07-10T09:33:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607100930",
+      "datum": "2026-07-10T09:30:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan producer prices hit fastest pace since 2023, keeping BOJ on track to hike",
+      "link": "https://investinglive.com/news/seo-headline-86-chars-japan-producer-prices-hit-fastest-pace-since-2023-keeping-boj-on-track-to-hike/",
+      "datum": "2026-07-10T09:30:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada Unemployment Rate projected to stay at 6.6% in June",
       "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-remain-at-66-in-june-202607100600",
-      "datum": "2026-07-10T08:00:00.000Z"
+      "datum": "2026-07-10T09:30:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Policy shift talk supports JPY – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-shift-talk-supports-jpy-mufg-202607100759",
-      "datum": "2026-07-10T07:59:03.000Z"
+      "titel": "Canadian Dollar: Firmer against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-firmer-against-us-dollar-societe-generale-202607100924",
+      "datum": "2026-07-10T09:24:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japan’s Kihara says that specifics of monetary policy to be left to BoJ",
-      "link": "https://www.fxstreet.com/news/japans-kihara-says-that-specifics-of-monetary-policy-to-be-left-to-boj-202607100757",
-      "datum": "2026-07-10T07:57:38.000Z"
+      "titel": "BoJ will likely revise 2026 GDP forecast higher in Q2 report",
+      "link": "https://www.fxstreet.com/news/boj-will-likely-revise-2026-gdp-forecast-higher-in-q2-report-202607100916",
+      "datum": "2026-07-10T09:16:27.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro remains pinned at one-year lows against the British Pound as Euro Area inflation moderates",
-      "link": "https://www.fxstreet.com/news/euro-remains-pinned-at-one-year-lows-against-the-british-pound-as-euro-area-inflation-moderates-202607100756",
-      "datum": "2026-07-10T07:56:18.000Z"
+      "titel": "Euro: Yield spreads hint at recovery against US Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/euro-yield-spreads-hint-at-recovery-against-us-dollar-mufg-202607100910",
+      "datum": "2026-07-10T09:10:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI rally takes a timeout amid signs of US-Iran war de-escalation",
-      "link": "https://www.fxstreet.com/news/wti-rally-takes-a-timeout-amid-signs-of-us-iran-war-de-escalation-202607100748",
-      "datum": "2026-07-10T07:48:35.000Z"
+      "titel": "British Pound retreats sharply from January 2008 highs amid broad-based JPY rally",
+      "link": "https://www.fxstreet.com/news/british-pound-retreats-sharply-from-january-2008-highs-amid-broad-based-jpy-rally-202607100904",
+      "datum": "2026-07-10T09:04:47.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: AI-driven imports reshape trade – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-ai-driven-imports-reshape-trade-commerzbank-202607100745",
-      "datum": "2026-07-10T07:45:03.000Z"
+      "titel": "British Pound surrenders early gains as US Dollar regains ground",
+      "link": "https://www.fxstreet.com/news/british-pound-surrenders-early-gains-as-us-dollar-regains-ground-202607100903",
+      "datum": "2026-07-10T09:03:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Oil: Brent retraces gains on fragile ceasefire – Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-brent-retraces-gains-on-fragile-ceasefire-rabobank-202607100725",
-      "datum": "2026-07-10T07:25:36.000Z"
+      "titel": "Federal Reserve: No near-term hikes signalled – Commerzbank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-no-near-term-hikes-signalled-commerzbank-202607100851",
+      "datum": "2026-07-10T08:51:58.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold sticks to modest losses; eyes $4,100 as Fed hike bets and Iran risks support USD",
-      "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-100-as-weaker-usd-clashes-with-fed-hike-bets-and-iran-risks-202607100428",
-      "datum": "2026-07-10T07:19:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Upside risk toward resistance against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-upside-risk-toward-resistance-against-us-dollar-uob-202607100718",
-      "datum": "2026-07-10T07:18:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index extends losses as US and Iran attempt to resume talks",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-extends-losses-as-us-and-iran-attempt-to-resume-talks-202607100717",
-      "datum": "2026-07-10T07:17:30.000Z"
+      "titel": "USD/JPY Price Forecast: Dollar finds resistance at the 161.75 previous support",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-dollar-finds-resistance-at-the-16175-previous-support-202607100845",
+      "datum": "2026-07-10T08:45:44.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "A calmer end to the week for markets?",
       "link": "https://investinglive.com/news/a-calmer-end-to-the-week-for-markets/",
       "datum": "2026-07-10T04:34:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news wrap: Oil-Iran-US steady, yen jumped, stocks too",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-10-jul/",
-      "datum": "2026-07-10T03:42:00.000Z"
     }
   ]
 }

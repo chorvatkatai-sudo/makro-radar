@@ -125,43 +125,43 @@
       },
       "mitMarktOverlay": true,
       "auswertung": {
-        "treffer": 3,
+        "treffer": 0,
         "gesamt": 7,
-        "quote": 43,
+        "quote": 0,
         "details": {
           "EUR/USD": {
             "score": -16,
-            "moveProzent": -0.06,
-            "treffer": true
+            "moveProzent": 0.37,
+            "treffer": false
           },
           "GBP/USD": {
             "score": -25,
-            "moveProzent": 0.58,
+            "moveProzent": 0.95,
             "treffer": false
           },
           "USD/JPY": {
             "score": 18,
-            "moveProzent": -0.17,
+            "moveProzent": -0.44,
             "treffer": false
           },
           "AUD/USD": {
             "score": -1,
-            "moveProzent": -0.15,
-            "treffer": true
+            "moveProzent": 0.56,
+            "treffer": false
           },
           "USD/CAD": {
             "score": 32,
-            "moveProzent": 0.07,
-            "treffer": true
+            "moveProzent": -0.02,
+            "treffer": false
           },
           "USD/CHF": {
             "score": 24,
-            "moveProzent": -0.18,
+            "moveProzent": -0.71,
             "treffer": false
           },
           "NZD/USD": {
             "score": -30,
-            "moveProzent": 0.31,
+            "moveProzent": 1,
             "treffer": false
           }
         }

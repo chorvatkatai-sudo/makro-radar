@@ -18,6 +18,7 @@ import { holeMarktdaten } from "./marktdaten.mjs";
 import { fuelleFredIstwerte, holeFredMarktreihen } from "./fred.mjs";
 import { fuelleTvIstwerte } from "./tv-istwerte.mjs";
 import { holeNews } from "./news.mjs";
+import { holeSentiment } from "./sentiment.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -193,6 +194,13 @@ if (marktdaten && Object.keys(marktdaten.kurse || {}).length) {
   if (marktdaten) console.log(NUR_LOKAL ? "Lokalmodus: nutze letzten Markt-Kompass." : "WARNUNG: Markt-Kompass nicht erreichbar – nutze letzten Stand.");
 }
 
+// 5b2) Retail-Sentiment (Myfxbook, braucht Gratis-Account-Secrets): online frisch,
+//      sonst letzter Stand aus daten/sentiment.json (Anzeige-Feature, kein Score-Tilt).
+const sentimentDatei = path.join(DATEN, "sentiment.json");
+let sentiment = NUR_LOKAL ? null : await holeSentiment();
+if (sentiment) fs.writeFileSync(sentimentDatei, JSON.stringify(sentiment, null, 2));
+else sentiment = leseJson(sentimentDatei, null);
+
 // 5c) News-Schlagzeilen (RSS): online holen, lokal/offline letzten Stand nutzen.
 const newsDatei = path.join(DATEN, "news.json");
 let news = NUR_LOKAL ? null : await holeNews();
@@ -248,15 +256,26 @@ const tiltCot = paar => {
   return Math.round(clamp(c.nettoAnteil * 0.4, -10, 10) * m[1] * daempfung);
 };
 const cotExtremFuer = paar => { const m = COT_PAAR[paar]; return m ? (cotW[m[0]]?.extrem || null) : null; };
-// Zinsen: USD-Stärke aus Wochen-Δ der 10J-Rendite + Risk-off bei inverser Kurve
+// Zinsen: BEVORZUGT die echte 2J-Zinsdifferenz je Paar (Wochen-Δ des Spreads
+// Basis−Gegenwährung, aus marktdaten.zinsen2j) — der klassische kurzfristige
+// FX-Treiber. Fallback (solange die 2J-Historie <1 Woche ist oder die Quelle
+// ausfällt): grober USD-Proxy aus dem Wochen-Δ der US-10J-Rendite wie bisher.
 const d10 = marktdaten?.kurse?.US10Y?.wocheProzent;      // %-Punkte
 const usdTilt = d10 == null ? 0 : clamp(d10 * 20, -8, 8);
 const USD_SEITE = { "USD/JPY": 1, "USD/CAD": 1, "USD/CHF": 1, "EUR/USD": -1, "GBP/USD": -1, "AUD/USD": -1, "NZD/USD": -1 };
+const z2 = marktdaten?.zinsen2j?.werte || {};
+const spreadTilt = paar => {
+  const [b, q] = paar.split("/");
+  const db = z2[b]?.wocheDelta, dq = z2[q]?.wocheDelta;
+  if (db == null || dq == null) return null;
+  return clamp((db - dq) * 40, -8, 8);                   // 0,2 Pp Spread-Move/Woche = voller Ausschlag
+};
 const kurveInvers = marktdaten?.kurve2s10s != null && marktdaten.kurve2s10s < 0;
 // Risk-off: sichere Häfen JPY/CHF werten AUF -> USD/JPY & USD/CHF fallen (negativer Nudge)
 const RISKOFF = { "USD/JPY": -3, "USD/CHF": -3, "AUD/USD": -3, "NZD/USD": -3 };
 const tiltZins = paar => {
-  let t = usdTilt * (USD_SEITE[paar] || 0);
+  let t = spreadTilt(paar);
+  if (t == null) t = usdTilt * (USD_SEITE[paar] || 0);
   if (kurveInvers) t += (RISKOFF[paar] || 0);
   return Math.round(clamp(t, -10, 10));
 };
@@ -314,7 +333,9 @@ if (!NUR_LOKAL) {
   for (const w of prognoseHist.wochen) {
     if (w.auswertung) continue;
     const freitag = new Date(w.woche + "T00:00:00Z"); freitag.setUTCDate(freitag.getUTCDate() + 4);
-    if (freitag >= jetztDatum) continue;                          // Woche noch nicht vorbei
+    // Erst ab SAMSTAG auswerten: am Freitag selbst liefert frankfurter noch den
+    // Donnerstags-Fix (ECB-Kurse kommen ~16:00 MEZ) -> sonst wird Mo->Do bewertet.
+    if (new Date(freitag.getTime() + 864e5) > jetztDatum) continue;
     try {
       const rStart = await holeKurse(w.woche);
       const rEnde = await holeKurse(freitag.toISOString().slice(0, 10));
@@ -399,6 +420,7 @@ const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   leitzinsen,
   marktdaten,
   paareMarkt,
+  sentiment,
   news,
   momentum,
   prognoseQuote,

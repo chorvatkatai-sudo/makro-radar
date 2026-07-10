@@ -73,6 +73,81 @@ async function holeYahoo(eintrag) {
   return null;
 }
 
+// ---- 2-Jahres-Renditen aller 8 Währungsräume (TradingView-Scanner, keyless) ----
+// Der kurzfristige Zinsvorteil ist DER klassische FX-Treiber: steigt die 2J-Rendite
+// eines Landes relativ zum anderen, wird seine Währung attraktiver (Carry/Erwartung).
+// EUR wird durch die deutsche 2J-Rendite vertreten (Bund = EUR-Benchmark).
+const ZINS2J_TICKER = {
+  USD: "TVC:US02Y", EUR: "TVC:DE02Y", GBP: "TVC:GB02Y", JPY: "TVC:JP02Y",
+  AUD: "TVC:AU02Y", CAD: "TVC:CA02Y", CHF: "TVC:CH02Y", NZD: "TVC:NZ02Y",
+};
+
+async function holeZins2J() {
+  try {
+    const res = await fetch("https://scanner.tradingview.com/bonds/scan", {
+      method: "POST",
+      headers: { "content-type": "application/json", "Origin": "https://www.tradingview.com" },
+      body: JSON.stringify({ symbols: { tickers: Object.values(ZINS2J_TICKER) }, columns: ["close"] }),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const j = await res.json();
+    const proTicker = {};
+    for (const d of (j.data || [])) proTicker[d.s] = d.d?.[0];
+
+    const heute = new Date().toISOString().slice(0, 10);
+    const werte = {};
+    for (const [code, ticker] of Object.entries(ZINS2J_TICKER)) {
+      const w = proTicker[ticker];
+      if (typeof w === "number") werte[code] = { wert: +w.toFixed(3) };
+    }
+    if (!Object.keys(werte).length) throw new Error("keine Werte");
+
+    // Wochen-Δ braucht eigene Historie (der Scanner liefert nur den Ist-Wert):
+    // ein Eintrag pro Tag in daten/zinsen2j-historie.json, ~8 Wochen aufheben.
+    const histDatei = path.join(DATEN, "zinsen2j-historie.json");
+    let hist = [];
+    try { hist = JSON.parse(fs.readFileSync(histDatei, "utf8")); } catch { /* erste Nutzung */ }
+    hist = hist.filter(e => e.datum !== heute);
+    hist.push({ datum: heute, werte: Object.fromEntries(Object.entries(werte).map(([c, v]) => [c, v.wert])) });
+    hist.sort((a, b) => a.datum.localeCompare(b.datum));
+    hist = hist.slice(-56);
+    fs.writeFileSync(histDatei, JSON.stringify(hist, null, 2));
+
+    // Referenz ~1 Woche zurück: ältester Eintrag im Fenster 5–10 Tage vor heute
+    const tage = d => Math.round((new Date(heute) - new Date(d)) / 864e5);
+    const ref = hist.find(e => tage(e.datum) >= 5 && tage(e.datum) <= 10);
+    for (const code in werte) {
+      const alt = ref?.werte?.[code];
+      werte[code].wocheDelta = alt != null ? +(werte[code].wert - alt).toFixed(3) : null;  // %-Punkte
+    }
+    return { stand: heute, werte, quelle: "TradingView-Scanner (2J-Staatsanleihen, EUR=DE)" };
+  } catch (err) {
+    console.warn(`2J-Renditen (TradingView) nicht erreichbar: ${err.message}`);
+    return null;
+  }
+}
+
+// ---- Fed-Zinserwartung aus 30-Day-Fed-Funds-Futures (Yahoo ZQ=F) ----------
+// Impliziter Satz = 100 − Futures-Preis. Wochen-Δ zeigt, wie der Markt seine
+// Fed-Erwartung UMPREIST — oft der eigentliche Dollar-Treiber der Woche.
+async function holeFedErwartung() {
+  const roh = await holeYahoo({ key: "ZQ", sym: "ZQ=F", name: "Fed-Erwartung", einheit: "%", typ: "index" });
+  if (!roh || !Array.isArray(roh.verlauf) || roh.verlauf.length < 2) return null;
+  const impl = roh.verlauf.map(p => +(100 - p).toFixed(3));
+  const cur = impl[impl.length - 1];
+  const vorTag = impl.length >= 2 ? impl[impl.length - 2] : null;
+  const vorWoche = impl.length >= 6 ? impl[impl.length - 6] : impl[0];
+  return {
+    name: "Fed-Erwartung (FF-Futures)", einheit: "%", typ: "rendite",
+    wert: +cur.toFixed(2),
+    tagProzent: vorTag != null ? +(cur - vorTag).toFixed(2) : null,
+    wocheProzent: +(cur - vorWoche).toFixed(2),          // %-Punkte
+    renditeDelta: true,
+    verlauf: impl.slice(-22),
+    quelle: "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)",
+  };
+}
+
 // ---- CFTC COT: Netto-Positionierung der Großspekulanten in FX-Futures ----
 const COT_MAP = {
   "EURO FX": "EUR",
@@ -157,12 +232,15 @@ async function holeCot() {
 
 // ---- Öffentliche Hauptfunktion -------------------------------------------
 export async function holeMarktdaten() {
-  const [yahooErgebnisse, cot] = await Promise.all([
+  const [yahooErgebnisse, cot, zinsen2j, fedErwartung] = await Promise.all([
     Promise.all(YAHOO.map(holeYahoo)),
     holeCot(),
+    holeZins2J(),
+    holeFedErwartung(),
   ]);
   const kurse = {};
   YAHOO.forEach((e, i) => { if (yahooErgebnisse[i]) kurse[e.key] = yahooErgebnisse[i]; });
+  if (fedErwartung) kurse.FEDFUT = fedErwartung;
 
   // 2s10s-Kurve (Frühindikator/Rezessions-Signal) wenn beide Renditen da
   let kurve = null;
@@ -175,7 +253,9 @@ export async function holeMarktdaten() {
     kurse,
     kurve2s10s: kurve,
     cot,
-    quellen: ["Yahoo Finance (keyless)", "CFTC COT / publicreporting.cftc.gov (keyless)"],
+    zinsen2j,
+    quellen: ["Yahoo Finance (keyless)", "CFTC COT / publicreporting.cftc.gov (keyless)",
+      "TradingView-Scanner 2J-Renditen (keyless)", "CME Fed-Funds-Futures via Yahoo (keyless)"],
   };
 }
 

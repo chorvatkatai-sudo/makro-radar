@@ -374,6 +374,18 @@
     <div class="cot-grid" id="cot"></div>
   </section>
 
+  <section id="sec-zinsdiff" style="display:none">
+    <h2>Zins-Differenzen (2 Jahre) — der Zins-Motor je Paar</h2>
+    <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px">Kurzfristige Staatsanleihen-Renditen (2 Jahre) je Währungsraum. <b>Geld fließt dorthin, wo es mehr Zins gibt:</b> steigt der Zinsvorsprung der Basiswährung binnen einer Woche, stützt das das Paar (fließt in die Markt-Korrektur der Paar-Scores ein). EUR = deutsche Bundesanleihe. Δ = Veränderung des Vorsprungs seit ~1 Woche.</div>
+    <div class="markt-grid" id="zinsdiff"></div>
+  </section>
+
+  <section id="sec-sentiment" style="display:none">
+    <h2>Retail-Sentiment — wie ist die Crowd positioniert? (Myfxbook)</h2>
+    <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px">So viel % der Kleinanleger sind je Paar long/short (Myfxbook Community). <b>Contrarian-Signal:</b> Ist die Crowd sehr einseitig (ab 75 %), passiert am Markt oft das Gegenteil — Kleinanleger liegen in Trends meist falsch. Reine Info, fließt (noch) nicht ins Scoring ein.</div>
+    <div class="markt-grid" id="sentiment"></div>
+  </section>
+
   <section id="sec-news" style="display:none">
     <h2>Schlagzeilen — was bewegt den Markt gerade?</h2>
     <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px" id="newsStand">Kostenlose Feeds: ForexLive · FXStreet · Fed. Stand beim letzten Daten-Update.</div>
@@ -602,7 +614,7 @@ const MD = D.marktdaten;
 if (MD?.kurse && Object.keys(MD.kurse).length) {
   document.getElementById("sec-markt").style.display = "";
   const nf = new Intl.NumberFormat("de-AT", { maximumFractionDigits: 4 });
-  const reihenfolge = ["DXY", "VIX", "US02Y", "US10Y", "US30Y", "REAL10", "INFL10", "WTI", "Brent", "Gold", "BTC"];
+  const reihenfolge = ["DXY", "VIX", "FEDFUT", "US02Y", "US10Y", "US30Y", "REAL10", "INFL10", "WTI", "Brent", "Gold", "BTC"];
   const keys = reihenfolge.filter(k => MD.kurse[k]).concat(Object.keys(MD.kurse).filter(k => !reihenfolge.includes(k)));
   document.getElementById("markt").innerHTML = keys.map(k => {
     const m = MD.kurse[k];
@@ -664,6 +676,53 @@ if (MD?.cot?.waehrungen && Object.keys(MD.cot.waehrungen).length) {
     document.querySelector("#sec-cot h2").insertAdjacentHTML("afterend",
       `<div class="cot-stand">Stand der Daten: ${fmtDatum(standD)} (CFTC veröffentlicht freitags mit dem Dienstags-Stand)</div>`);
   }
+}
+
+// ---------- 2J-Zinsdifferenzen je Paar ----------
+const Z2 = MD?.zinsen2j?.werte;
+if (Z2 && Object.keys(Z2).length >= 2) {
+  const MAJORS7 = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD"];
+  const karten = MAJORS7.map(paar => {
+    const [b, q] = paar.split("/");
+    const zb = Z2[b], zq = Z2[q];
+    if (!zb || !zq) return "";
+    const spread = +(zb.wert - zq.wert).toFixed(2);
+    const delta = (zb.wocheDelta != null && zq.wocheDelta != null) ? +(zb.wocheDelta - zq.wocheDelta).toFixed(2) : null;
+    const kl = delta == null ? "flat" : delta > 0 ? "up" : delta < 0 ? "down" : "flat";
+    const pf = delta == null ? "" : delta > 0 ? "▲ " : delta < 0 ? "▼ " : "■ ";
+    const dTxt = delta == null ? "— (Historie baut sich auf)" : `${delta > 0 ? "+" : ""}${delta.toFixed(2)} Pp`;
+    return `<div class="markt-karte">
+      <div class="markt-name">${esc(paar)}</div>
+      <div class="markt-wert">${spread > 0 ? "+" : ""}${spread.toFixed(2)} Pp</div>
+      <div class="markt-delta ${kl}">${pf}${dTxt} <span class="label">/ 1 Woche</span></div>
+      <div style="color:var(--faint);font-size:11.5px;margin-top:4px">${esc(b)} ${zb.wert.toFixed(2)}% − ${esc(q)} ${zq.wert.toFixed(2)}%</div>
+    </div>`;
+  }).join("");
+  if (karten) {
+    document.getElementById("sec-zinsdiff").style.display = "";
+    document.getElementById("zinsdiff").innerHTML = karten;
+  }
+}
+
+// ---------- Retail-Sentiment (Myfxbook) ----------
+const SEN = D.sentiment;
+if (SEN?.paare && Object.keys(SEN.paare).length) {
+  document.getElementById("sec-sentiment").style.display = "";
+  document.getElementById("sentiment").innerHTML = Object.entries(SEN.paare).map(([paar, s]) => {
+    const chip = s.extrem
+      ? `<div class="markt-delta down" style="margin-top:4px">⚠ Crowd extrem ${s.extrem === "long" ? "LONG" : "SHORT"} — Contrarian-Warnung</div>`
+      : "";
+    return `<div class="markt-karte">
+      <div class="markt-name">${esc(paar)}</div>
+      <div class="markt-wert" style="font-size:1.05em">${s.longPct}% long · ${s.shortPct}% short</div>
+      <div style="display:flex;height:8px;border-radius:4px;overflow:hidden;margin-top:6px">
+        <span style="width:${s.longPct}%;background:var(--green)"></span>
+        <span style="width:${s.shortPct}%;background:var(--red)"></span>
+      </div>${chip}
+    </div>`;
+  }).join("");
+  if (SEN.stand) document.querySelector("#sec-sentiment h2").insertAdjacentHTML("afterend",
+    `<div style="color:var(--faint);font-size:12px">Stand: ${fmtDatum(new Date(SEN.stand))} ${fmtZeit(new Date(SEN.stand))}</div>`);
 }
 
 // ---------- News-Schlagzeilen ----------

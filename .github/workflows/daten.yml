@@ -48,6 +48,8 @@ jobs:
       - name: Daten online holen (Feeds + FRED + Markt-Kompass)
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          MYFXBOOK_EMAIL: ${{ secrets.MYFXBOOK_EMAIL }}
+          MYFXBOOK_PASSWORD: ${{ secrets.MYFXBOOK_PASSWORD }}
         run: node scripts/fetch-kalender.mjs
 
       - name: Telegram-Benachrichtigung bei neuen Event-Ergebnissen

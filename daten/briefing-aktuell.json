@@ -3,19 +3,20 @@
   "typ": "freitag",
   "titel": "Der Dollar hat einen Riss — Jobschock (+57k) beendet die Falken-Rally. Ruhige Woche voraus, FOMC-Protokoll (Mi) ist der Test",
   "tagesnews": {
-    "stand": "2026-07-09",
-    "wochentag": "Donnerstag",
-    "tenor": "Ruhiger Tag nach den zwei Paukenschlägen: Das US-Fed-Protokoll (gestern Abend) bestätigte den Falken-Kurs — die Notenbanker sehen jetzt eine Zins-ERHÖHUNG schon im Oktober auf dem Tisch. Öl bleibt teuer (WTI ~74$), weil Trump den Iran-Deal für vorbei erklärte und mit Bombardement drohte. Das gibt dem Dollar einen Boden, aber der Job-Schock deckelt ihn (Index hängt bei 101, auf Wochensicht noch leicht im Minus). Großer Verlierer: der Yen (USD/JPY auf 162,5). Heute früh China-Inflation schwach (+1,0%). Morgen der Test: Kanada-Jobzahlen.",
+    "stand": "2026-07-10",
+    "wochentag": "Freitag",
+    "tenor": "Ruhiger Wochenausklang: Der Dollar dümpelt seitwärts bei 101, das Öl kühlt etwas ab (WTI unter 72$), weil Trump seine Bombardement-Drohung gegen Iran wieder zurücknahm. Der Yen bleibt der große Verlierer (USD/JPY ~162,5, direkt in der Interventionszone). DAS Event heute: Kanadas Arbeitsmarktzahlen um 14:30 Wien — der erste Test nach dem US-Job-Schock der Vorwoche. Nächster großer Brocken: US-Inflation am Dienstag (14.7.).",
     "heute": [
-      "🇨🇳 CHINA-Inflation schwach: Die Verbraucherpreise stiegen im Juni nur +1,0% zum Vorjahr (erwartet 1,2%, Mai 1,2%) — die Nachfrage der Chinesen bleibt lahm. ABER die Fabrik-Preise (Erzeugerpreise) sprangen +4,1% (stärkster Anstieg seit Juli 2022 — der teure-Öl-Effekt). Schwache China-Nachfrage ist ein leichter Dämpfer für die rohstoffnahen Aussie & Kiwi (China ist ihr größter Kunde).",
-      "🛢️ ÖL bleibt heiß: WTI ~74$, Brent ~79$ (auf Wochensicht +8–10%!). Trump erklärte den Iran-Deal für vorbei und drohte mit Bombardement + See-Blockade der Straße von Hormus, ruderte später aber zurück (glaube nicht, dass es wieder Krieg gibt) → Preise etwas von den Höchstständen weg. Teures Öl = gut für Kanada (Öl-Exporteur), schlecht für Yen & Euro (Importeure).",
-      "🇺🇸 Der Dollar hat nach dem Fed-Protokoll einen Boden, aber keinen Schwung: Der Index hängt bei 101 und ist auf Wochensicht sogar noch leicht im Minus — der Job-Schock von letzter Woche bleibt der Bremsklotz. Morgen (Fr 14:30 Wien) kommen die kanadischen Arbeitsmarktzahlen, der nächste echte Test."
+      "🇨🇦 KANADA-Jobzahlen um 14:30 Wien = das Event des Tages. Nach dem US-Job-Schock letzte Woche schauen alle nervös hin. Ein schwacher Wert würde den Loonie (kanadischer Dollar) drücken, ein starker ihn stützen — bei ohnehin gemischter Lage (teures Öl hilft, aber die Wirtschaft schwächelt).",
+      "🛢️ ÖL kühlt ab: WTI fiel unter 72$ (von ~74$), Brent ~76$. Trump ruderte bei seiner Kriegs-Drohung gegen Iran zurück (glaube nicht, dass es wieder Krieg gibt) → die Panik-Aufschläge bröckeln. Auf Wochensicht immer noch teuer (+~5%). Weniger Öl-Rückenwind für Kanada, ein bisschen Entlastung für die Import-Länder Euroraum & Japan.",
+      "🇯🇵 YEN weiter am Boden: USD/JPY ~162,5, nahe 40-Jahres-Tief. Japans Finanzministerium zeigt Unbehagen (die Zone 162–163 gilt als heikel), aber Goldman sieht trotzdem 165 — eine Intervention wäre nur eine Bremsschwelle, keine echte Wende. Steigende US-Renditen (10J 4,54%) + teures Öl belasten den zinslosen Yen weiter.",
+      "🇺🇸 DOLLAR seitwärts bei ~101: Die Falken-Fed (Protokoll: Erhöhung im Oktober möglich) gibt einen Boden, aber der Job-Schock der Vorwoche deckelt. Die September-Erhöhungswette schwankt (~56–69%). Der nächste echte Test ist die US-Inflation am Dienstag (14.7.)."
     ],
     "gestern": [
-      "🇺🇸 FED-PROTOKOLL bestätigte den harten Kurs: Die Notenbanker sehen die Inflation 2026 jetzt bei 3,6% (Kern 3,3%), der erwartete Leitzins zum Jahresende stieg auf 3,8% (vorher 3,4%). 9 rechnen mit MINDESTENS einer Erhöhung, der Markt wettet jetzt auf eine Erhöhung schon im OKTOBER; Hinweise auf Senkungen wurden gestrichen. Falken-Fed pur → stützt den Dollar. Weil aber erwartet, fiel die Reaktion moderat aus.",
-      "🇯🇵 Der YEN ist der große Verlierer: USD/JPY kletterte auf ~162,5. Steigende US-Renditen (10-jährig 4,58%) + teures Öl (Japan importiert fast sein ganzes Öl) drücken den zinslosen Yen. Achtung: Bei diesen Kursen wächst das Risiko, dass Japans Finanzministerium eingreift (Intervention) — der einzige Bremsklotz.",
-      "🇳🇿 Die NEUSEELAND-Erhöhung (Di/Mi) bleibt Thema: Die RBNZ hob den Leitzins erstmals seit 2023 auf 2,50% an, signalisierte aber eine höhere Hürde für weitere Schritte → der Kiwi konnte kaum profitieren.",
-      "🛢️ Öl sprang gestern kräftig (WTI +4,4% auf 73,5$, Brent +5,2% auf 78$), als Trump mit Bombardement drohte."
+      "🇨🇳 CHINA-Inflation schwach (Do): Verbraucherpreise Juni nur +1,0% zum Vorjahr (erwartet 1,2%) — die Nachfrage bleibt lahm. ABER die Fabrik-Preise sprangen +4,1% (stärkster Anstieg seit Juli 2022, teures Öl). Schwache China-Nachfrage ist ein leichter Dämpfer für die rohstoffnahen Aussie & Kiwi.",
+      "🇺🇸 FED-PROTOKOLL bestätigte den harten Kurs (Mi Abend): erwarteter Leitzins zum Jahresende auf 3,8% angehoben (vorher 3,4%), eine Erhöhung im Oktober auf dem Tisch, Senkungs-Hinweise gestrichen. Inflations-Prognose 2026 bei 3,6%. Weil weitgehend erwartet, fiel die Marktreaktion moderat aus → Dollar-Boden, kein Schub.",
+      "🇳🇿 RBNZ hob den Leitzins auf 2,50% (Di/Mi, erste Anhebung seit 2023), signalisierte aber eine höhere Hürde für weitere Schritte → der Kiwi konnte kaum profitieren.",
+      "🛢️ Öl war Mi/Do kräftig gesprungen (Trump-Drohung, +4–5% pro Tag), bevor es heute wieder etwas nachgab."
     ]
   },
   "lage": [

@@ -268,7 +268,11 @@ const spreadTilt = paar => {
   const [b, q] = paar.split("/");
   const db = z2[b]?.wocheDelta, dq = z2[q]?.wocheDelta;
   if (db == null || dq == null) return null;
-  return clamp((db - dq) * 40, -8, 8);                   // 0,2 Pp Spread-Move/Woche = voller Ausschlag
+  const d = db - dq;
+  // Deadzone (Backtest 2024–26, 130 Wo EUR/USD+USD/CAD): unter ~0,03 Pp ist das
+  // Signal ein Münzwurf (~47–50%); erst überdurchschnittliche Moves treffen (55–63%).
+  if (Math.abs(d) < 0.03) return 0;
+  return clamp(d * 40, -8, 8);                           // 0,2 Pp Spread-Move/Woche = voller Ausschlag
 };
 const kurveInvers = marktdaten?.kurve2s10s != null && marktdaten.kurve2s10s < 0;
 // Risk-off: sichere Häfen JPY/CHF werten AUF -> USD/JPY & USD/CHF fallen (negativer Nudge)
@@ -321,9 +325,16 @@ const prognoseHist = leseJson(prognoseDatei, { hinweis: "Selbstlernen: je Vorher
 if (briefing?.datum) {
   const zielWoche = naechsterMontag(briefing.datum);
   if (!prognoseHist.wochen.find(w => w.woche === zielWoche)) {
-    const paare = {};
-    paareMarkt.forEach(p => { if (p.score) paare[p.paar] = p.score; });   // 0/neutral nicht werten
-    if (Object.keys(paare).length) prognoseHist.wochen.push({ woche: zielWoche, ausBriefing: briefing.datum, paare, mitMarktOverlay: marktOverlayAktiv, auswertung: null });
+    const paare = {}, komponenten = {};
+    paareMarkt.forEach(p => {
+      if (!p.score) return;                                               // 0/neutral nicht werten
+      paare[p.paar] = p.score;
+      // Attribution fürs Selbstlernen: Grundscore + Tilts getrennt festhalten,
+      // damit wir später messen können, ob die Markt-Tilts die Quote VERBESSERN
+      // (Overlay-Endscore vs. reiner Makro-Grundscore).
+      komponenten[p.paar] = { base: p.baseScore, cot: p.tiltCot, zins: p.tiltZins };
+    });
+    if (Object.keys(paare).length) prognoseHist.wochen.push({ woche: zielWoche, ausBriefing: briefing.datum, paare, komponenten, mitMarktOverlay: marktOverlayAktiv, auswertung: null });
   }
 }
 
@@ -349,6 +360,9 @@ if (!NUR_LOKAL) {
         const richtig = Math.sign(moveProzent) === Math.sign(score);
         gesamt++; if (richtig) treffer++;
         details[paar] = { score, moveProzent: +moveProzent.toFixed(2), treffer: richtig };
+        // Attribution: hätte der reine Makro-Grundscore (ohne Markt-Tilts) getroffen?
+        const basis = w.komponenten?.[paar]?.base;
+        if (basis) details[paar].basisTreffer = Math.sign(moveProzent) === Math.sign(basis);
       }
       w.auswertung = { treffer, gesamt, quote: gesamt ? Math.round(treffer / gesamt * 100) : null, details };
       console.log(`Prognose-Auswertung ${w.woche}: ${treffer}/${gesamt} richtig`);
@@ -400,6 +414,23 @@ for (const k in kalibrierung) {
   b.quote = b.gesamt ? Math.round(b.treffer / b.gesamt * 100) : null;
 }
 
+// Overlay-Nutzen: über alle Zeilen, in denen BEIDE Bewertungen vorliegen (gleiche
+// Stichprobe!), Endscore-Treffer vs. Grundscore-Treffer vergleichen. Beantwortet
+// datenbasiert: verbessern die Markt-Tilts (COT/Zinsen) die Quote oder schaden sie?
+const overlayVergleich = { mitOverlay: { treffer: 0, gesamt: 0 }, nurBase: { treffer: 0, gesamt: 0 } };
+for (const w of ausgewertet) {
+  for (const paar in (w.auswertung.details || {})) {
+    const d = w.auswertung.details[paar];
+    if (d.basisTreffer == null) continue;
+    overlayVergleich.mitOverlay.gesamt++; if (d.treffer) overlayVergleich.mitOverlay.treffer++;
+    overlayVergleich.nurBase.gesamt++; if (d.basisTreffer) overlayVergleich.nurBase.treffer++;
+  }
+}
+for (const k in overlayVergleich) {
+  const b = overlayVergleich[k];
+  b.quote = b.gesamt ? Math.round(b.treffer / b.gesamt * 100) : null;
+}
+
 const prognoseQuote = {
   wochenAusgewertet: ausgewertet.length,
   treffer: summe.t, gesamt: summe.g,
@@ -407,6 +438,7 @@ const prognoseQuote = {
   wochenErfasst: prognoseHist.wochen.length,
   proPaar,
   kalibrierung,
+  overlayVergleich: overlayVergleich.mitOverlay.gesamt ? overlayVergleich : null,
   letzte: ausgewertet.slice(-6).map(w => ({ woche: w.woche, quote: w.auswertung.quote, treffer: w.auswertung.treffer, gesamt: w.auswertung.gesamt }))
 };
 

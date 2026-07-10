@@ -83,6 +83,7 @@ const ZINS2J_TICKER = {
 };
 
 async function holeZins2J() {
+  const werte = {};
   try {
     const res = await fetch("https://scanner.tradingview.com/bonds/scan", {
       method: "POST",
@@ -93,14 +94,37 @@ async function holeZins2J() {
     const j = await res.json();
     const proTicker = {};
     for (const d of (j.data || [])) proTicker[d.s] = d.d?.[0];
-
-    const heute = new Date().toISOString().slice(0, 10);
-    const werte = {};
     for (const [code, ticker] of Object.entries(ZINS2J_TICKER)) {
       const w = proTicker[ticker];
       if (typeof w === "number") werte[code] = { wert: +w.toFixed(3) };
     }
-    if (!Object.keys(werte).length) throw new Error("keine Werte");
+  } catch (err) { console.warn(`2J-Renditen (TradingView-Scanner) nicht erreichbar: ${err.message}`); }
+
+  // Fallbacks für die keyless-einfachen Währungsräume (der Scanner ist inoffiziell):
+  // USD via Yahoo 2YY=F, EUR via ECB Data Portal (YC-Spot 2J), CAD via BoC Valet.
+  // Fehlende übrige Codes sind ok — spreadTilt fällt je Paar sauber zurück.
+  if (!werte.USD) {
+    const y = await holeYahoo({ key: "US02Y", sym: "2YY=F", name: "US 2J", einheit: "%", typ: "rendite" });
+    if (y?.wert != null) werte.USD = { wert: +y.wert.toFixed(3) };
+  }
+  if (!werte.EUR) {
+    try {
+      const j = await (await fetch("https://data-api.ecb.europa.eu/service/data/YC/B.U2.EUR.4F.G_N_A.SV_C_YM.SR_2Y?lastNObservations=1&format=jsondata")).json();
+      const v = Object.values(Object.values(j.dataSets[0].series)[0].observations)[0]?.[0];
+      if (v != null) werte.EUR = { wert: +(+v).toFixed(3) };
+    } catch (e) { console.warn(`EUR-2J-Fallback (ECB) nicht erreichbar: ${e.message}`); }
+  }
+  if (!werte.CAD) {
+    try {
+      const j = await (await fetch("https://www.bankofcanada.ca/valet/observations/BD.CDN.2YR.DQ.YLD/json?recent=1", { headers: { "User-Agent": "Mozilla/5.0 (Makro-Dashboard, privat)" } })).json();
+      const v = j.observations?.[0]?.["BD.CDN.2YR.DQ.YLD"]?.v;
+      if (v != null) werte.CAD = { wert: +(+v).toFixed(3) };
+    } catch (e) { console.warn(`CAD-2J-Fallback (BoC Valet) nicht erreichbar: ${e.message}`); }
+  }
+
+  try {
+    const heute = new Date().toISOString().slice(0, 10);
+    if (!Object.keys(werte).length) throw new Error("keine Werte (Scanner + Fallbacks)");
 
     // Wochen-Δ braucht eigene Historie (der Scanner liefert nur den Ist-Wert):
     // ein Eintrag pro Tag in daten/zinsen2j-historie.json, ~8 Wochen aufheben.
@@ -120,9 +144,9 @@ async function holeZins2J() {
       const alt = ref?.werte?.[code];
       werte[code].wocheDelta = alt != null ? +(werte[code].wert - alt).toFixed(3) : null;  // %-Punkte
     }
-    return { stand: heute, werte, quelle: "TradingView-Scanner (2J-Staatsanleihen, EUR=DE)" };
+    return { stand: heute, werte, quelle: "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC" };
   } catch (err) {
-    console.warn(`2J-Renditen (TradingView) nicht erreichbar: ${err.message}`);
+    console.warn(`2J-Renditen nicht verfügbar: ${err.message}`);
     return null;
   }
 }

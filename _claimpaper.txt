@@ -1,0 +1,1911 @@
+Short-Horizon Currency Expectations ∗
+Ilias Filippou †
+Washington University in St. Louis
+Jiangyuan Li ‡
+Shanghai University of Finance and Economics
+Xujun Liu§
+Shanghai University of Finance and Economics
+Mark P. Taylor¶
+Washington University in St. Louis
+May 2024
+∗We thank seminar and conference participants at Shanghai International Studies University, LSE-
+SUFE Joint Conference on Capital Markets and Corporate Finance.
+†Olin Business School, W ashington University in St. Louis ; Postal Address: 1 Brookings Dr.
+St. Louis, MO 63130 USA; E-mail: IliasFilippou@wustl.edu
+‡School of Finance, Shanghai University of Finance and Economics ; Postal Address: Guod-
+ing Road 777, 200433, Shanghai, China; E-mail: lijiangyuan@mail.sufe.edu.cn.
+§School of Finance, Shanghai University of Finance and Economics ; Postal Address: Guod-
+ing Road 777, 200433, Shanghai, China; E-mail: liuxujun@stu.sufe.edu.cn.
+¶Olin Business School, W ashington University in St. Louis ; Postal Address: 1 Brookings Dr.
+St. Louis, MO 63130 USA; E-mail: mark.p.taylor@wustl.edu
+
+Short-Horizon Currency Expectations
+Abstract
+In this paper, we show that only the systematic component of exchange rate expectations
+of professional investors is a strong predictor of the cross-section of currency returns.
+The predictability is strong inshort and long horizons. The strategy offers significant
+Sharpe ratios for holding periods of 1 to 12 months, and it is unrelated to existing
+currency investment strategies, including risk-based currency momentum. The results
+hold for forecast horizons of 3, 12, and 24 months, and they are robust after accounting
+for transaction costs. The idiosyncratic component of currency expectations does not
+contain important information for the cross-section of currency returns. Our strategy
+is more significant for currencies with low sentiment and it is not driven by volatility
+and illiquidity. The results are robust when we extract the systematic component of the
+forecasts using a larger number of predictors.
+JEL Classification: F31, G12, G15
+Keywords: currency expectations, systematic risk, foreign exchange.
+
+1 Introduction
+Return expectations of investors in surveys play an important role in asset pricing as they
+tendtodifferfromthoseimpliedbyrationalexpectationsmodels. GreenwoodandShleifer
+(2014) document that equity return expectations highly correlate with past returns and
+the market index. However, they negatively correlate with model-implied stock returns.
+Early literature in foreign exchange also highlights that consensus forecasts of exchange
+rates tend to be biased, offering limited information for future currency returns in the
+short-run (e.g., Frankel and Froot, 1987; Froot and Frankel, 1989). However, analysts’
+forecasts are more accurate for longer horizons. We show that the systematic component
+of analysts’ forecasts contains important information for future currency returns for long
+and short horizons.
+Our paper contributes to the vast literature on the foreign exchange market that
+studies the information content of analyst forecasts. In particular, we are the first to
+showstrongevidenceof short-termpredictabilityofthesystematiccomponentofanalysts’
+forecasts. We also find evidence of long-term cross-sectional predictability. Our results
+demonstrate that analysts can very well predict global risks, but they are not able to
+predict the country-specific component of currency returns. Thus, only the systematic
+component of analyst expectations contains important information for both short and
+long-term movement of currency returns.
+Our findings are in line with Kremens, Martin, and Varela (2023), who investigate
+exchangerateexpectationsinsurveysofprofessionalinvestorsandshowthattheysuccess-
+fully predict currency appreciation at thetwo-year horizon. However, they find that sur-
+vey expectations are less successful in predicting exchange rate appreciation over shorter
+horizons. Thus, our paper differs in that we show that the systematic component of
+analyst forecasts demonstrates strong predictability over both short and long horizons.
+Kremens, Martin, and Varela (2023) also highlight that there is no “secret sauce” in ex-
+pectations. Specifically, they show that the risk-neutral covariance between the exchange
+1
+
+rate and the equity market, the real exchange rate, and the current account relative to
+GDP explain most of their variation. We show that the systematic component of surveys
+that is computed using a small number of predictors offers strong short and long-term
+predictability of the cross-section of currency returns.
+First, we calculate the systematic component of currency returns based on a predictive
+Fama and MacBeth (1973) regression of currency expectations on lagged characteristics
+or risk factors. To facilitate interpretation and obtain a parsimonious model, our set of
+predictors includes forward discounts, momentum, and value. The choice of the variables
+is motivated by the Nucera, Sarno, and Zinna (2023), who show that only these three
+variables are strong predictors of currency returns. Chernov, Dahlquist, and Lochstoer
+(2023) also use a similar set of variables. The systematic component of the currency
+expectations is defined as the prediction of this regression. We label this variable as a
+risk-based appreciation expectation.
+Second, we examine the cross-sectional predictive ability of the forecasts. To this end,
+we sort currencies into quintiles based on their risk-based appreciation expectation every
+month. We consider forecast horizons of three and twelve months. Our portfolios have
+formation periods of one month and holding periods of 1, 3, 6, and 12 months. We find
+that the risk component of analyst forecasts is a strong predictor of the cross-section
+of currency returns for both forecast horizons. The predictability is strong for different
+holding periods. Specifically, we find that a long-short strategy that buys currencies
+with high risk-based appreciation expectations and sells currencies with low risk-based
+appreciation expectations offers positive and statistically significant currency excess re-
+turns. We decompose the currency excess return of the strategy into forward discounts
+and exchange rate changes. We find strong evidence of exchange rate predictability. The
+residual component does not provide significant currency returns.
+We also consider the implementation cost of the strategy, and we find that it offers
+highly significant currency excess returns, regardless of the holding period or the forecast
+2
+
+horizon. We find that the results are stronger for shorter holding periods, while there are
+no significant differences between the forecast horizons of 3 and 12 months. To guard
+against the tradability concerns of the currencies that we consider, we also show results for
+a group of more liquid currencies. Specifically, we construct portfolios of G10 currencies
+and find the spread portfolios offer positive and statistically significant returns before and
+after transaction costs.
+The strategy offers Sharpe ratios that range from 0.32 to 0.67, and the results are
+similar for 3 and 12-month forecast horizons. We also calculate the alphas of our strate-
+gies with respect to other asset pricing models. In particular, we contemporaneously
+regress the excess return of the risk-based appreciation expectation factor of the dollar
+(DOL) and carry trade (HML) factor of Lustig, Roussanov, and Verdelhan (2011) and
+find positive and statistically significant alphas. We perform the same exercise for as-
+set pricing models that include the dollar factors as well as value or momentum. The
+models offer alphas that are positive and statistically significant. We find similar results
+when we include the dollar, carry, value, and momentum in our model. The choice of
+the forecast horizon does not alter our results. We also run a Fama and MacBeth (1973)
+regression of currency excess returns or exchange rate changes on the risk-based currency
+appreciation expectation variable as well as momentum, value, and carry trade, and we
+find strong evidence of short-term and long-term predictability. The results are highly
+significant across different holding periods. They are also similar for 3 and 12-month
+forecast horizons.
+In our main analysis, we extract the systematic component of currency expectations
+using only three predictors, namely, forward discounts, value and momentum. How-
+ever, one could argue that we might omit important information, and that we do not
+estimate the systematic component with precision. To this end, we employ a larger num-
+ber of predictors that include volatility, illiquidity, the dividend price ratio (DP), the
+price-to-earnings ratio (PE), the inflation rate (INF), the unemployment rate (UN), and
+3
+
+the market capitalization (MKTCAP). Our original variables are also included in the
+extended model. To guard against overfitting, we estimate the model via the Elastic
+Net (ENet). We find that our results are similar when we include a larger number of
+predictors, but they are not improved in comparison to our baseline model. This is in
+line with the literature, which highlights that our initial predictors can explain most of
+the variation of currency returns (e.g., Nucera, Sarno, and Zinna, 2023). This is further
+verified when we compute the variable importance of the ENet model. We observe that
+the original three variables–forward discounts, value and momentum–dominate. We also
+find that volatility is an important predictor.
+We also investigate whether the trading activity of market participants could explain
+our results in some measure. To this end, we contemporaneously sort currency order
+imbalances based on the risk-based currency appreciation expectation variable. We show
+results for the buy versus sell-side as well for corporates, funds, and non-bank financials.
+We find that the difference between high and low risk-based currency expectation port-
+folios is significant for the buy vs. sell-side and corporates. We verify this result in Fama
+and MacBeth (1973) regressions with controls. We do not find significant results for
+funds and non-bank financials. We perform the same exercise with trading volume and
+find that the trading activity of corporates and funds could partly explain our findings.
+We find similar results when we sort based on lagged risk-based currency expectations.
+Following Filippou et al. (2023), we calculate the media sentiment for different currencies
+and find that our strategy is more profitable for currencies with low sentiment. This is
+not surprising as investors require a risk premium for currencies with negative sentiment.
+Our results are robust to a a battery of different tests. Specifically, our results are
+unaffected when we sort currencies into portfolios based on two lags of the risk-based
+currency appreciation measure. We find similar results for 24-month forecast horizons.
+The results are similar for rank-weighted portfolios. The results are also robust when we
+calculate the systematic component of currency expectations based on a pooled regression
+4
+
+with a large number of predictors or when we consider alternative specifications of the
+measure. We also find in double sorts that volatility and illiquidity do not drive our
+results.
+Our work is based on survey expectations fromConsensus Economics. There are sev-
+eral papers in the literature that use the same surveys. Specifically, Stavrakeva and Tang
+(2020) and De Marco, Macchiavelli, and Valchev (2022) find that these forecasts are in
+line with market participants’ positioning in over-the-counter foreign exchange markets
+and sovereign bond markets. Kalemli-Ozcan and Varela (2021) examine forecast errors
+in advanced and emerging markets and their relationship with UIP deviations. Candian
+and De Leo (2023) employ these forecasts to build a model of under- and overreaction
+to interest rates. They show that the predictable currency forecast errors could partly
+explain the uncovered-interest-parity (UIP) puzzle and its reversal at longer horizons.
+Della Corte, Gao, and Jeanneret (2023) use the relationship betweenConsensus expec-
+tations and exchange rate premia computed from option prices to examine how the term
+structure of risk preferences varies across economic conditions. Kremens, Martin, and
+Varela (2023) examine both the information that is and is not included in both quantos
+and surveys and assess their predictive ability for realized exchange rate changes. Beck-
+mann and Reitz (2023) show that exchange rate Consensus forecasts correlate strongly
+with the quanto-implied risk premium. They also show that the quanto-implied risk
+premium serves as a good proxy for intermediary capital ratios. Nagel and Xu (2023)
+employ forecast horizons for up to one year and show that expected returns from surveys
+are less cyclical than “objective” risk premia that are based on in-sample regressions.
+Using Blue Chip Financial Forecasts, Dahlquist and Söderlind (2023) examine the ex-
+pectations of individual forecasters in the foreign exchange market. They find that the
+survey risk premium is less countercyclical than the rational risk premium and that fore-
+casters learn from their own forecast errors and not from consensus forecast errors. Thus,
+they highlight the importance of individual exchange rate forecasts.
+5
+
+The rest of the paper is organized as follows: Section 2 provides a detailed description
+of the data and portfolio construction. Section 3 displays the empirical results. Section 4
+discusses the mechanism, and Section 5 offers robustness checks. Section 6 concludes.
+2 Data and Portfolio Construction
+In this section, we describe the data and portfolio construction.
+Spot and Forward Exchange Rates. We obtain daily spot, 1-month, 3-month, 6-
+month and 12-month forward exchange rates against the U.S. dollar from Barclays and
+Reuters via Datastream/Refinitiv. The data span the period from October 1990 to Oc-
+tober 2016. In the main analysis, we include mid quotes that are defined as the mean
+of the bid and ask quotes for each currency. We control for transaction costs as a ro-
+bustness check. Following Burnside, Eichenbaum, Kleshchelski, and Rebelo (2011), we
+construct the end-of-month series using the exchange rate on the last trading day within
+the month. Thus, the exchange rates are not averaged over each month, resembling an
+investor’s behavior in real time.
+The sample consists of the following 34 countries: Australia, Brazil, Bulgaria, Canada,
+Croatia, Cyprus, Czech Republic, Denmark, Egypt, Euro, Hong Kong, Hungary, India,
+Indonesia, Israel, Japan, Malaysia, Mexico, New Zealand, Norway, Philippines, Poland,
+Russia, Saudi Arabia, Singapore, Slovakia, South Africa, South Korea, Sweden, Switzer-
+land, Taiwan, Thailand, Ukraine, United Kingdom.1
+In order to account for tradability concerns and make our analysis more robust, we
+also consider a smaller subsample of more liquid currencies. This group is a subset of
+the first and includes G10 currencies. This group includes: Australia, Canada, the Euro
+Area, Germany (replaced by the euro in 1999), Japan, New Zealand, Norway, Sweden,
+Switzerland, and the United Kingdom. The tenth currency is the U.S. dollar itself, which
+1The selection of the countries is dictated by data availability of analysts’ forecasts.
+6
+
+serves as a base currency. We label this sample as"G10 Countries".
+Those currencies that were partly or completely pegged to the U.S. dollar are not
+excluded from the sample since their forward contracts were available to investors. The
+euro area countries are excluded after the introduction of the euro in January 1999.
+Some countries entered the eurozone later than January 1999, and their exchange rates
+are excluded from the samples at the later date of entry.
+We also consider the implementation cost of our strategies by constructing net excess
+returns. In line with Lustig, Roussanov, and Verdelhan (2011), we eliminate currency-
+time observations with large deviations from the covered interest rate parity (CIP) con-
+dition.2
+Currency Excess Returns. We definest and ft|t+h the logarithm of the timet spot
+and h-month forward exchange rates. Each currency is quoted against the U.S. dollar
+such that an appreciation of the U.S. dollar is associated with an increase inst. The log
+excess return (rxt+h) is defined as the payoff of a strategy that buys a foreign currency
+in the forward market at timet and then sells it in the spot market at maturity (i.e. at
+time t + h). We consider horizons of one (h = 1), three (h = 3), six (h = 6), and twelve
+(h = 12) months. The excess return at timet + h can be computed as
+rxt+h = ft|t+h – st+h , (1)
+Thus, the excess return can also be expressed as the sum of the forward discount and the
+exchange rate return:
+rxt+h = ft|t+h – st – ∆st+h , (2)
+The CIP condition states that the forward discount should be equal to the interest rate
+differentials, i.e. ft – st ≃ ˆit – it, where ˆit and it denote the foreign and domestic riskless
+2In particular, South Africa from July 1985 to August 1985, as well as from December 2001 to May
+2004, Malaysia from August 1998 to June 2005, and Indonesia from December 2000 to May 2007.
+7
+
+interest rates, respectively. Therefore, the excess return could also be written asrxt+h ≃
+(ˆit – it ) – ∆st+h. Thus, the currency excess returns can be approximated by the interest
+rate differential subtracted by the rate of depreciation of the exchange rate.
+Analysts’forecasts. Followingpreviousstudies(e.g.,Kalemli-OzcanandVarela,2021;
+Stavrakeva and Tang, 2020), we employ analysts’ forecasts from Consensus Economics to
+capture the marginal foreign currency trader’s beliefs. Each month, Consensus Economics
+collects professional analysts’ forecasts and reports the mean consensus upon the currency
+exchange rate movement over 3, 12, and 24-month horizons. They make the consensus
+forecasts available in the middle of each month.
+Foreignexchangemarketvolume. Followingpreviousstudies(e.g.,Cespa, Gargano,
+Riddiough, and Sarno, 2022), we also obtain data on foreign exchange trading volume
+from CLS, which is the world’s largest foreign exchange settlement institution. After a
+foreign exchange transaction, settlement members of CLS provide the trading details for
+authentication and matching. Following the CLS classification, we consider transactions
+between the buy and sell side as well as corporates, funds, and non-bank financials as
+price takers, and banks as price makers. For these types of market participants, CLS
+provides information on their buy or sell order for each currency.
+Other predictors. We also collect macroeconomic and financial predictors fromGlobal
+Financial Data . Specifically, we include the dividend price ratio (DP), the price-to-
+earnings ratio (PE), the inflation rate (INF), the unemployment rate (UN), and the
+market capitalization (MKTCAP).3 The data span the period from October 1990 to
+October 2016.
+3All macroeconomic variables account for publication bias by adding an extra lag. We estimate the
+Unemployment gap using the Hodrick-Prescott filter.
+8
+
+Currency Risk-based Expectation Portfolios. At the end of each month t, we
+allocate currencies into quintiles based on the risk component of the currency forecast
+(– cAE). The first portfolio contains low-risk expectation currencies, and the last consists
+of high-risk expectation currencies. The currency excess returns within each portfolio are
+equally weighted. Thus, we build a zero-cost risk expectation portfolio (HML) that buys
+high-risk expectation currencies while short-selling low-risk expectation currencies.
+Currency Carry Trade Portfolios. At the end of each montht, we allocate curren-
+cies into quintiles based on their forward discounts (ft – st). The first portfolio contains
+currencies with low interest rates, and the last portfolio consists of high-interest-rate cur-
+rencies. The currency excess returns within each portfolio are equally weighted. Thus,
+we build a zero-cost carry-trade portfolio (CAR) that buys investment currencies while
+short-selling funding currencies.
+Currency Momentum Portfolios. At the end of each montht, we allocate currencies
+into quintiles based on their return. The first portfolio contains countries with poor past
+performances (losers), and the last portfolio consists of past winners. The currency excess
+returns within each portfolio are equally weighted. Thus, we build a zero-cost momentum
+portfolio (MOM) that buys winner currencies while short-selling loser currencies.
+Currency Value Portfolios. At the end of each montht, we allocate currencies into
+quintiles based on their real exchange rate return. The first portfolio contains overvalued
+currencies, and the last comprises undervalued ones. The currency excess returns within
+each portfolio are equally weighted. Thus, we build a zero-cost value portfolio (VAL)
+that buys undervalued currencies while short-selling overvalued currencies.
+9
+
+3 Empirical Results
+In this section, we construct the risk-based currency expectation measure and present
+the empirical analysis for their asset pricing implication.
+3.1 Construction of Risk-based Appreciation Expectations
+Appreciation Expectation. We first construct the appreciation expectation (AE) for
+the foreign currency based on the analysts’ forecast consensus. Specifically, we calculate
+the expected currency return that is defined as the difference between the forecast for the
+log spot exchange rate at timet for time t + 3minus the realized log spot exchange rate
+at time t. Thus, the appreciation expectation (AE) is:
+AEi ,t|t+3 = ˜si ,t|t+3 – si ,t , (3)
+where ˜si ,t|t+3 is the logarithm of analysts’ forecast consensus for currencyi’s exchange
+rate in montht + 3and the forecast is made in montht. Because the difference between
+the analyst forecasts and the spot rate is the appreciation implied by survey response,
+we define the dependent variableAEi ,t|t+3 as appreciation expectation according to its
+economic interpretation.4
+Risk-based Appreciation Expectation. To extract the risk component of the ap-
+preciation expectation, we employ macroeconomic variables that are strong determinants
+of currency returns in the literature (e.g., Chernov, Dahlquist, and Lochstoer, 2023). In
+this way, our results offer a strong economic interpretation of the source of risk that drives
+analysts’ expectations and contains important information for future currency returns.
+4Recall that each currency in our sample is quoted against the U.S. dollar. Thus, a decrease inst
+implies an appreciation of the foreign currency against the U.S. dollar. For simplicity, we label the
+difference between the analyst forecast for the spot exchange rate at timet + 3(˜si,t|t+3) and the realized
+spot rate at timet (si,t) as the appreciation expectation of the foreign currency.
+10
+
+Thus, we consider as predictors momentum (Mom), Value, and the forward discount
+(FD).5 As in Menkhoff, Sarno, Schmeling, and Schrimpf (2012b), we define currency mo-
+mentum (Mom) as the cumulative excess return over the past 1 month, which reflects the
+currency’s past excess return performance.6 FD is defined as the difference between the
+logarithm of currency’s forward price and spot price (ft|t+1 – st) (e.g., Lustig, Roussanov,
+and Verdelhan, 2011). Following Chernov, Dahlquist, and Lochstoer (2023), we build a
+measure of currency value (Value) that reflects how “cheap" or “expensive" a currency is
+in the cross-section. We present a detailed description of the construction of the value
+variable in the Internet Appendix A. The selection of the variables is also motivated by
+Nucera, Sarno, and Zinna (2023), who highlight that the optimal currency pricing ker-
+nel includes at least three latent factors. Specifically, a strong U.S. “dollar" factor and
+two weak “carry" and “momentum" slope factors. A fourth weak latent pricing factor is
+related to “value."
+Weapplypredictivecross-sectionalregressionoftheappreciationexpectationavailable
+at timet (an expected exchange rate change betweent and t + 3) on the set of predictors
+at time t – 1. To obtain an exact mapping with the forecast period, we compute, on a
+monthly basis, the 3-month average of the predictors fromt – 3to t – 1. The model takes
+the following form:
+AEi ,t|t+3 = β0,t + β1,tMomi ,t–1 + β2,tValuei ,t–1 + βi ,3FDi ,t–1 + εi ,t , (4)
+where AEi ,t|t+3 represents the appreciation expectation defined in equation 3, and the
+independent variables are momentum (Mom), value (Value), and forward discount (FD).
+5To facilitate economic interpretation, we only consider in our main analysis the three most important
+predictors of currency returns. In a later section, we consider a plethora of predictors and apply machine
+learning techniques to estimate the risk component of the appreciation expectation.
+6We also consider past 3, 6, and 12 months as the momentum formation period, which yield similar
+results.
+11
+
+3.2 Univariate Sorts
+Risk-based Appreciation Expectation. In this section, we provide a detailed exam-
+ination of the economic value of the analysts’ forecasts for the cross-section of currency
+returns and the risk-based component of currency expectations. Firstly, we examine the
+cross-sectional pricing ability of analysts’ forecasts (–AE), the risk component (– cAE),
+and the residual (–AEr). Panel A of Table 1 shows average currency excess returns of
+portfolios that are sorted based on analysts’ forecast risk components (– cAE). We show
+results for holding periods (h) of 1, 3, 6, and 12 months (in columns) and forecast hori-
+zons (f) on 3 and 12 months.7 The table reports annualized currency excess returns (left
+Panel) and exchange rate changes (right Panel) of the spread portfolio of currencies that
+are sorted in quintiles based on forecasts made 3 or 12 months prior to the formation
+period.
+Example. A portfolio sorted at the end of June (formation period) based on a forecast
+with a horizon of 3 months (f = 3 ) and a holding period of one month (h = 1 ) is
+associated with forecasts made in June for the exchange rate in September and a holding
+period until July. Similarly, a portfolio sorted at the end of June (formation period) based
+on a forecast with a horizon of 3 months (f = 3) and a holding period of three months
+(h = 3) is associated with forecasts made in June for the exchange rate in September
+and a holding period until September. Panel A of Figure 1 displays a visual illustration
+of the timeline of the strategy with a forecast horizon of 3 months and a holding period
+of one month and Panel B shows the timeline for a strategy with a forecast horizon of
+3 months and a holding period of 3 months. Every month, we regress the forecasts that
+are available by mid-month on the previous period predictors. We sort currencies into
+portfolios based on the systematic component of the forecasts (– cAE), and we keep the
+portfolios until the end of the holding period.
+7The forecast data also provide forecasts for 24 months, and we show results in the Table I.A. 1 of
+Internet Appendix.
+12
+
+Survey Date
+(f = 3: forecast st+3)
+Holding Period
+(h = 1: hold until July)
+31st May 30th June 31st July
+Panel A: f = 3, h = 1
+– cAEt,
+–AEt
+Momt–1,
+Valuet–1, FDt–1|t
+rxt+1, –(st+1 – st )
+Survey Date
+(f = 3: forecast st+3)
+Holding Period
+(h = 3: hold until September)
+31st May 30th June 30th September
+Panel B: f = 3, h = 3
+– cAEt,
+–AEt
+Momt–1,
+Valuet–1, FDt–1|t
+rxt+3, –(st+3 – st )
+Figure 1 Main Analysis Timeline with Months
+The figure illustrates the timeline of our main analysis. In Panel A, we illustrate the 3-month forecast
+horizon and 1-month holding period. In Panel B, we extend the holding period to 3 months based on
+the same forecast. The arrows below the main timeline point to the date when the variables are used.
+The variables included in this figure are momentum (Mom), value (Value), forward discount (FD), risk-
+based appreciation expectation (– cAE), analyst forecast (–AE), excess returns (rx), and change in spot
+rate (–(st+3 – st )). The blue dot at the timeline indicates the survey date, when the analysts make the
+forecasts.
+We find that there is strong momentum in the systematic component of currency
+expectations. Specifically, we show that long-short portfolios sorted based on the system-
+atic component of currency forecasts offer annualized currency excess returns that range
+from 2.88 to 5.46 for forecast horizons of 3 months and from 3.02 to 5.45 for forecast
+horizons of one year. The results are stronger for shorter holding periods. The right
+panel examines whether this finding is associated with exchange rate predictability or if
+it simply predicts the forward discounts. Starting with 3-month forecast horizons, we find
+strong evidence of exchange rate predictability for holding periods of 1 and 6 months.
+13
+
+However, we observe that for 12-month forecast horizons, there is strong exchange rate
+predictability regardless of the length of the holding period. This finding is in line with
+the exchange rate disconnect puzzle (Meese and Rogoff, 1983), which highlights that it is
+hard to forecast exchange rates in the short run while there is evidence of predictability
+for longer horizons.8
+Residuals-based Sorts. Panel B of Table 1 shows results for portfolios sorted based
+on the residual of equation 4. In line with our conjecture, we find that the residual is
+priced in the cross-section of currency returns. Specifically, we observe that portfolios
+sorted on the idiosyncratic component do not offer statistically significant returns. This
+finding might suggest that analysts are not able to forecast country-specific risks.
+Analysts Forecasts Portfolios. Panel C of Table 1 shows portfolios sorted based on
+analysts’forecasts. Inlinewiththeliterature, wefindthatanalystsfailtocaptureforecast
+exchange rate movements in the short run. In particular, we find that currencies that are
+sorted into quintiles based on the 3-month forecasts offer spread portfolios that are not
+statistically significant for holding periods of 1 and 3 months, and they are significant
+for holding periods of 6 and 12 months. Meanwhile, this does not translate to exchange
+rate predictability, as we observe in the right panel. We also observe a similar pattern
+for 12-month forecasts, with the exception that there is weak evidence of exchange rate
+predictability for holding periods of 6 and 12 months.
+Cumulative Returns. Figure 2 shows cumulative returns of the risk-based apprecia-
+tion expectations strategy for different forecast horizons and rebalancing months. In line
+with the previous finding, we find that strategies with longer rebalancing periods tend to
+be more profitable due to stronger exchange rate predictability for longer horizons. The
+8More recently, Filippou, Rapach, Taylor, and Zhou (2023) find evidence of short-term predictability
+using machine learning techniques.
+14
+
+Table 1 Single Portfolio Sorting on Analyst Forecasts: Excess Return and Spot Rate
+Change
+The table presents the single-sorting quintile annualized excess returns and spot rate changes on the
+risk-based analyst forecast (– cAE), expectation residual (–AEr), and analyst expectation (–AE). The
+rows show analyst forecast horizons (f), whereas the columns indicate holding periods (h). The left
+part of the table shows currency excess returns (rxt+h = FDt|t+h – (st+h – st )), whereas the right part
+shows spot rate changes. In Panel A (Panel B, Panel C), we report the sorting results based on–( cAE)
+(–AEr , –AE). At the end of each month t, we sort currencies based on the Panel-specific signal into
+quintiles and calculate the average excess return over the holding periods, respectively. We report the
+time-series average annualized returns of the high-minus-low quintile. Newey and West (1987) adjusted
+t-statistics are reported in parentheses. Our sample ranges from February 1990 to October 2016.
+Forecast horizonf
+Holding period h
+rxt+h = FDt|t+h – (st+h – st ) -(st+h – st)
+1 3 6 12 1 3 6 12
+Panel A: -cAE
+3 5.46 3.36 3.88 2.88 3.79 1.82 2.28 1.45
+(3.17) (2.65) (3.85) (3.68) (2.19) (1.44) (2.25) (1.71)
+12 5.45 4.01 3.99 3.02 4.51 3.08 2.93 2.08
+(3.48) (3.25) (3.94) (3.97) (2.78) (2.40) (2.86) (2.51)
+Panel B: –AEr
+3 -1.28 -1.05 -1.49 -0.68 -0.87 -0.75 -1.17 -0.65
+(-0.88) (-0.86) (-1.58) (-0.93) (-0.61) (-0.63) (-1.21) (-0.84)
+12 -0.55 -0.46 -0.80 -0.25 -0.09 -0.14 -0.46 -0.20
+(-0.39) (-0.40) (-0.87) (-0.35) (-0.07) (-0.12) (-0.49) (-0.26)
+Panel C: -AE
+3 -0.07 0.90 1.84 1.32 -0.85 0.15 1.15 0.48
+(-0.05) (0.73) (1.82) (1.72) (-0.56) (0.13) (1.13) (0.61)
+12 1.70 1.37 1.66 1.44 2.14 1.72 1.97 1.50
+(1.05) (1.04) (1.61) (1.84) (1.33) (1.31) (1.89) (1.85)
+strategy that is based on 12-month forecasts outperforms the strategy that is based on
+3-month forecasts only for the strategies with monthly and quarterly rebalancing. The
+strategies perform similarly for longer holding periods. We also observe that the strategies
+are less affected by financial crises as they underperform for short periods. For example,
+the strategy performed poorly for a few months around the collapse of Lehman Brothers
+in September 2008, but it rebounded after that period. We find that the strategies with
+15
+
+one-month rebalancing performed well from 2008 until the end of the sample. However,
+the cumulative returns of the strategies with less frequent rebalancing are flatter in recent
+period. This could be partly explained by Quantitative Easing (QE) as we observe an
+increase in the profitability of the strategy by the end of 2014, which coincides with the
+end of QE by the FED and other major Central Banks in our sample period.
+Overall, we find that analysts can only predict exchange rates in the long run. When
+we decompose the exchange rate forecasts into the systematic and country-specific com-
+ponents, we find that only the systematic component is priced in the cross-section of
+currency returns. This finding might indicate the failure of analysts to capture short-
+term fluctuations of exchange rates, which could be partly explained by their inability to
+explain country-specific shocks.
+TransactionCosts. Thepreviousexercisedoesnottakeintoaccounttransactioncosts.
+However, they might have a material impact on the returns available to investors, espe-
+cially for shorter rebalancing periods. Previous literature has typically used the average
+of dealer quoted spreads available at 4pm in London by WM/R. These quoted spreads are
+much larger than the effective spreads actually observed in the FX market (e.g., Menkhoff,
+Sarno, Schmeling, and Schrimpf, 2012b; Cespa, Gargano, Riddiough, and Sarno, 2022).
+For this reason, many studies in the literature have employed an arbitrary scaling of
+50% of the quoted bid-ask spread as an approximation of the effective spread available
+(e.g., Menkhoff, Sarno, Schmeling, and Schrimpf, 2012b). This number is considered as
+conservative. For example, Gilmore and Hayashi (2011) show that bid-ask spreads might
+be much lower than 50% of the quoted spread for emerging market currencies. For this
+reason, we show results for 25% and 50% of the quoted bid-ask spread.
+Thus, we consider the implementation cost of the strategy in Table 2. Following Goyal
+and Saretto (2009); Menkhoff, Sarno, Schmeling, and Schrimpf (2012b), we consider an
+effective spread of 25% and 50% as the implementation costs in Panel A and Panel B
+16
+
+/uni00000014/uni0000001c/uni0000001c/uni00000015/uni00000014/uni0000001c/uni0000001c/uni00000019/uni00000015/uni00000013/uni00000013/uni00000013/uni00000015/uni00000013/uni00000013/uni00000017/uni00000015/uni00000013/uni00000013/uni0000001b/uni00000015/uni00000013/uni00000014/uni00000015/uni00000015/uni00000013/uni00000014/uni00000019
+/uni00000013/uni00000011/uni00000015/uni00000018
+/uni00000013/uni00000011/uni00000013/uni00000013
+/uni00000013/uni00000011/uni00000015/uni00000018
+/uni00000013/uni00000011/uni00000018/uni00000013
+/uni00000013/uni00000011/uni0000001a/uni00000018
+/uni00000014/uni00000011/uni00000013/uni00000013
+/uni00000014/uni00000011/uni00000015/uni00000018
+/uni00000014/uni00000011/uni00000018/uni00000013
+/uni00000035/uni00000048/uni00000057/uni00000058/uni00000055/uni00000051/uni00000003/uni0000000b/uni00000008/uni0000000c
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000024/uni0000001d/uni00000003/uni00000030/uni00000052/uni00000051/uni00000057/uni0000004b/uni0000004f/uni0000005c/uni00000003/uni00000035/uni00000048/uni00000045/uni00000044/uni0000004f/uni00000044/uni00000051/uni00000046/uni0000004c/uni00000051/uni0000004a
+f = 3
+f = 12
+/uni00000014/uni0000001c/uni0000001c/uni00000015/uni00000014/uni0000001c/uni0000001c/uni00000019/uni00000015/uni00000013/uni00000013/uni00000013/uni00000015/uni00000013/uni00000013/uni00000017/uni00000015/uni00000013/uni00000013/uni0000001b/uni00000015/uni00000013/uni00000014/uni00000015/uni00000015/uni00000013/uni00000014/uni00000019
+/uni00000013/uni00000011/uni00000018
+/uni00000013/uni00000011/uni00000013
+/uni00000013/uni00000011/uni00000018
+/uni00000014/uni00000011/uni00000013
+/uni00000014/uni00000011/uni00000018
+/uni00000015/uni00000011/uni00000013
+/uni00000015/uni00000011/uni00000018
+/uni00000016/uni00000011/uni00000013
+/uni00000035/uni00000048/uni00000057/uni00000058/uni00000055/uni00000051/uni00000003/uni0000000b/uni00000008/uni0000000c
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000025/uni0000001d/uni00000003/uni00000034/uni00000058/uni00000044/uni00000055/uni00000057/uni00000048/uni00000055/uni0000004f/uni0000005c/uni00000003/uni00000035/uni00000048/uni00000045/uni00000044/uni0000004f/uni00000044/uni00000051/uni00000046/uni0000004c/uni00000051/uni0000004a
+f = 3
+f = 12
+/uni00000014/uni0000001c/uni0000001c/uni00000015/uni00000014/uni0000001c/uni0000001c/uni00000019/uni00000015/uni00000013/uni00000013/uni00000013/uni00000015/uni00000013/uni00000013/uni00000017/uni00000015/uni00000013/uni00000013/uni0000001b/uni00000015/uni00000013/uni00000014/uni00000015/uni00000015/uni00000013/uni00000014/uni00000019
+/uni00000013
+/uni00000014
+/uni00000015
+/uni00000016
+/uni00000017
+/uni00000018
+/uni00000019/uni00000035/uni00000048/uni00000057/uni00000058/uni00000055/uni00000051/uni00000003/uni0000000b/uni00000008/uni0000000c
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000026/uni0000001d/uni00000003/uni00000036/uni00000048/uni00000050/uni0000004c/uni00000010/uni00000024/uni00000051/uni00000051/uni00000058/uni00000044/uni0000004f/uni00000003/uni00000035/uni00000048/uni00000045/uni00000044/uni0000004f/uni00000044/uni00000051/uni00000046/uni0000004c/uni00000051/uni0000004a
+f = 3
+f = 12
+/uni00000014/uni0000001c/uni0000001c/uni00000015/uni00000014/uni0000001c/uni0000001c/uni00000019/uni00000015/uni00000013/uni00000013/uni00000013/uni00000015/uni00000013/uni00000013/uni00000017/uni00000015/uni00000013/uni00000013/uni0000001b/uni00000015/uni00000013/uni00000014/uni00000015/uni00000015/uni00000013/uni00000014/uni00000019
+/uni00000013
+/uni00000015
+/uni00000017
+/uni00000019
+/uni0000001b
+/uni00000014/uni00000013/uni00000035/uni00000048/uni00000057/uni00000058/uni00000055/uni00000051/uni00000003/uni0000000b/uni00000008/uni0000000c
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000027/uni0000001d/uni00000003/uni00000024/uni00000051/uni00000051/uni00000058/uni00000044/uni0000004f/uni00000003/uni00000035/uni00000048/uni00000045/uni00000044/uni0000004f/uni00000044/uni00000051/uni00000046/uni0000004c/uni00000051/uni0000004a
+f = 3
+f = 12
+Figure 2 Cumulative Returns
+This figure displays the cumulative returns of a high-minus-low risk-based appreciation expectation
+strategy. We report the results of monthly, quarterly, semi-annual, and annual rebalanced portfolio
+returns in Panel A, Panel B, Panel C, and Panel D, respectively. Within each Panel, the forecast
+horizons include 3 and 12 months. The sample ranges from February 1990 to October 2016.
+17
+
+of Table 2, respectively. We find that the strategy offers statistically significant excess
+returns that are stronger for shorter holding periods. The results are similar for forecast
+periods of 3 and 12 months.
+Table 2 Single Portfolio Sorting on the Risk-Based Analyst Forecast: Transaction
+Costs
+The table presents the single-sorting quintile annualized excess returns on the risk-based analyst forecasts
+(– cAE) after adjusting for the transaction costs. The rows show analyst forecast horizons (f) whereas the
+columns indicate holding periods (h). According to Menkhoff, Sarno, Schmeling, and Schrimpf (2012b),
+we proxy the transaction cost by quote spread, which in Panel A (Panel B) we take 25% (50%). At
+the end of each montht, we sort currencies based on the Panel-specific signal into the quintiles and
+calculate the average excess return over the holding periods, respectively. We report the time-series
+average annualized returns of the high-minus-low quintile after adjusting for the quote spread. Newey
+and West (1987) adjusted t-statistics are reported in parentheses. Our sample ranges from February
+1990 to October 2016.
+Forecast Horizonf
+Holding Period h
+1 3 6 12
+Panel A: 25% Quote Spread
+3 4.51 2.97 3.64 2.71
+(2.62) (2.35) (3.62) (3.47)
+12 4.49 3.62 3.74 2.85
+(2.87) (2.94) (3.70) (3.75)
+Panel B: 50% Quote Spread
+3 3.56 2.59 3.41 2.55
+(2.07) (2.05) (3.38) (3.26)
+12 3.52 3.23 3.50 2.69
+(2.25) (2.62) (3.46) (3.53)
+G10 Currencies. We also show results for a smaller sample of more liquid currencies
+so as to guard against readability concerns. Panel A of Table 3 shows annualized cur-
+rency excess returns of portfolios sorted based on the systematic component of currency
+expectations before transaction costs. We find that the strategy yields returns that range
+between 3.05 and 5.20 for a forecast horizon of 3 months that are statistically significant.
+We observe a similar pattern for 12-month forecast horizons.
+18
+
+In Panel B and Panel C of Table 3, we show results with transaction costs. We
+employ a scaling of 25% and 50% of the quoted bid-ask spread to proxy for the effective
+spread available. We observe a monotone rise of zero-cost portfolio returns’ significance
+as the holding period increases. Our results reveal that the return predictability of risk-
+based appreciation expectation remains strong in the long run, even after controlling for
+illiquidity concerns and transaction costs.
+Table 3 Single Portfolio Sorting on the Risk-Based Analyst Forecast: G10 Subsample
+The table presents the single-sorting quintile annualized excess returns on the risk-based analyst expec-
+tation (– cAE) in the G10 subsample. The rows show analyst forecast horizons (f), whereas the columns
+indicate holding periods (h). At the end of each montht, we sort currencies based on the Panel-specific
+signal into the quintiles and calculate the average excess return over the holding periods, respectively. We
+report the time-series average annualized returns of the high-minus-low quintile. Newey and West (1987)
+adjusted t-statistics are reported in parentheses. Our sample ranges from February 1990 to October
+2016.
+Forecast Horizonf
+Holding Period h
+1 3 6 12
+Panel A: Without Transaction Costs
+3 5.20 3.93 3.16 3.05
+(2.89) (2.55) (2.44) (3.06)
+12 5.14 4.06 3.42 3.10
+(2.83) (2.67) (2.62) (3.22)
+Panel B: 25% Effective Spread
+3 4.60 3.72 3.04 2.96
+(2.56) (2.42) (2.35) (2.97)
+12 4.54 3.85 3.29 3.01
+(2.50) (2.53) (2.53) (3.13)
+Panel C: 50% Effective Spread
+3 4.02 3.51 2.92 2.87
+(2.23) (2.28) (2.25) (2.88)
+12 3.96 3.64 3.17 2.93
+(2.18) (2.39) (2.44) (3.04)
+Sharpe Ratios. Panel A of Table 4 shows annualized Sharpe ratios of the strategies.
+We find that the strategy offers Sharpe ratios that range from 0.32 to 0.67 on an an-
+nual basis. Figure 3 displays the time variation of the Sharpe ratios. The risk-based
+19
+
+appreciation expectation strategy delivers a substantial Sharpe ratio comparable to the
+common currency factors as shown in Chernov, Dahlquist, and Lochstoer (2023). We find
+an increase in Sharpe ratios from 2000 to 2008 that range from 0.50 to 2.50 and a crash
+of the strategy during the Global Financial Crisis with a quick recovery. The strategy
+experienced another crash in 2012 and started performing well after the end of 2014, a
+period that coincides with the end of quantitative easing in our sample.
+Risk-adjusted Currency Excess Returns. Our strategy also delivers significant
+risk-adjusted returns. Specifically, Panel B of Table 4 considers asset pricing models that
+include the dollar and carry trade factor of Lustig, Roussanov, and Verdelhan (2011), the
+dollar and value factors (e.g., Menkhoff, Sarno, Schmeling, and Schrimpf, 2017; Chernov,
+Dahlquist, andLochstoer,2023), thedollarandmomentumfactors(e.g.,Menkhoff, Sarno,
+Schmeling, and Schrimpf, 2012b; Zhang, 2022) as well as the dollar, carry, value and
+momentum factors.9 Barillas and Shanken (2017) highlight that, when all factors are
+tradable, the alphas of a contemporaneous regression of a particular factor on existing
+factors could capture whether one factor prices another.
+Thus, we run contemporaneous regressions of the zero-cost portfolio of the risk-based
+appreciation expectation strategy on a constant and the existing asset pricing factors.
+We report the average estimated alphas. We find that our strategy offers positive and
+statistically significant alphas across the different asset pricing models, regardless of the
+forecast horizon and the holding period. The portfolio risk-adjusted returns experience a
+steady rise with the increase in holding periods. Hence, we conclude that the risk-based
+appreciation expectation strategy is unrelated to existing currency investment strategies.
+9For robustness, we consider a rank-weighted factor construction in Table I.A. 5. Following Chernov,
+Dahlquist, and Lochstoer (2023); Zhang (2022), we construct the carry (value, momentum) factors as
+value-weighted average currency returns with the demeaned forward discount-sorted (value-sorted, mom-
+sorted) quintile rank as weights.
+20
+
+/uni00000014/uni0000001c/uni0000001c/uni00000019/uni00000015/uni00000013/uni00000013/uni00000013/uni00000015/uni00000013/uni00000013/uni00000017/uni00000015/uni00000013/uni00000013/uni0000001b/uni00000015/uni00000013/uni00000014/uni00000015/uni00000015/uni00000013/uni00000014/uni00000019
+/uni00000014/uni00000011/uni00000013
+/uni00000013/uni00000011/uni00000018
+/uni00000013/uni00000011/uni00000013
+/uni00000013/uni00000011/uni00000018
+/uni00000014/uni00000011/uni00000013
+/uni00000014/uni00000011/uni00000018
+/uni00000015/uni00000011/uni00000013
+/uni00000036/uni0000004b/uni00000044/uni00000055/uni00000053/uni00000048/uni00000003/uni00000035/uni00000044/uni00000057/uni0000004c/uni00000052
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000024/uni0000001d/uni00000003/uni00000030/uni00000052/uni00000051/uni00000057/uni0000004b/uni0000004f/uni0000005c/uni00000003/uni00000035/uni00000048/uni00000045/uni00000044/uni0000004f/uni00000044/uni00000051/uni00000046/uni0000004c/uni00000051/uni0000004a
+f = 3
+f = 12
+/uni00000014/uni0000001c/uni0000001c/uni00000019/uni00000015/uni00000013/uni00000013/uni00000013/uni00000015/uni00000013/uni00000013/uni00000017/uni00000015/uni00000013/uni00000013/uni0000001b/uni00000015/uni00000013/uni00000014/uni00000015/uni00000015/uni00000013/uni00000014/uni00000019
+/uni00000013/uni00000011/uni00000018
+/uni00000013/uni00000011/uni00000013
+/uni00000013/uni00000011/uni00000018
+/uni00000014/uni00000011/uni00000013
+/uni00000014/uni00000011/uni00000018
+/uni00000015/uni00000011/uni00000013
+/uni00000015/uni00000011/uni00000018
+/uni00000036/uni0000004b/uni00000044/uni00000055/uni00000053/uni00000048/uni00000003/uni00000035/uni00000044/uni00000057/uni0000004c/uni00000052
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000025/uni0000001d/uni00000003/uni00000034/uni00000058/uni00000044/uni00000055/uni00000057/uni00000048/uni00000055/uni0000004f/uni0000005c/uni00000003/uni00000035/uni00000048/uni00000045/uni00000044/uni0000004f/uni00000044/uni00000051/uni00000046/uni0000004c/uni00000051/uni0000004a
+f = 3
+f = 12
+/uni00000014/uni0000001c/uni0000001c/uni00000019/uni00000015/uni00000013/uni00000013/uni00000013/uni00000015/uni00000013/uni00000013/uni00000017/uni00000015/uni00000013/uni00000013/uni0000001b/uni00000015/uni00000013/uni00000014/uni00000015/uni00000015/uni00000013/uni00000014/uni00000019
+/uni00000013/uni00000011/uni00000018
+/uni00000013/uni00000011/uni00000013
+/uni00000013/uni00000011/uni00000018
+/uni00000014/uni00000011/uni00000013
+/uni00000014/uni00000011/uni00000018
+/uni00000015/uni00000011/uni00000013
+/uni00000015/uni00000011/uni00000018
+/uni00000036/uni0000004b/uni00000044/uni00000055/uni00000053/uni00000048/uni00000003/uni00000035/uni00000044/uni00000057/uni0000004c/uni00000052
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000026/uni0000001d/uni00000003/uni00000036/uni00000048/uni00000050/uni0000004c/uni00000010/uni00000024/uni00000051/uni00000051/uni00000058/uni00000044/uni0000004f/uni00000003/uni00000035/uni00000048/uni00000045/uni00000044/uni0000004f/uni00000044/uni00000051/uni00000046/uni0000004c/uni00000051/uni0000004a
+f = 3
+f = 12
+/uni00000014/uni0000001c/uni0000001c/uni00000019/uni00000015/uni00000013/uni00000013/uni00000013/uni00000015/uni00000013/uni00000013/uni00000017/uni00000015/uni00000013/uni00000013/uni0000001b/uni00000015/uni00000013/uni00000014/uni00000015/uni00000015/uni00000013/uni00000014/uni00000019
+/uni00000013/uni00000011/uni00000018/uni00000013
+/uni00000013/uni00000011/uni00000015/uni00000018
+/uni00000013/uni00000011/uni00000013/uni00000013
+/uni00000013/uni00000011/uni00000015/uni00000018
+/uni00000013/uni00000011/uni00000018/uni00000013
+/uni00000013/uni00000011/uni0000001a/uni00000018
+/uni00000014/uni00000011/uni00000013/uni00000013
+/uni00000014/uni00000011/uni00000015/uni00000018
+/uni00000014/uni00000011/uni00000018/uni00000013
+/uni00000036/uni0000004b/uni00000044/uni00000055/uni00000053/uni00000048/uni00000003/uni00000035/uni00000044/uni00000057/uni0000004c/uni00000052
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000027/uni0000001d/uni00000003/uni00000024/uni00000051/uni00000051/uni00000058/uni00000044/uni0000004f/uni00000003/uni00000035/uni00000048/uni00000045/uni00000044/uni0000004f/uni00000044/uni00000051/uni00000046/uni0000004c/uni00000051/uni0000004a
+f = 3
+f = 12
+Figure 3 Rolling Sharpe Ratios
+This figure displays rolling annualized Sharpe ratios based on a 36-month window of a high-minus-low
+risk-based appreciation expectation strategy. We report the results of monthly, quarterly, semi-annual,
+and annual rebalanced portfolio returns in Panel A, Panel B, Panel C, and Panel D, respectively. Within
+each Panel, the forecast horizons include 3 and 12 months. At the end of each month, we calculate
+the Sharpe ratios over the past 36 months high-minus-low portfolio returns. This sample ranges from
+February 1993 to October 2016.
+21
+
+Table 4 Single Portfolio Sorting on the Risk-Based Analyst Forecast: Sharpe Ratio
+and Alphas
+This table reports the Sharpe Ratio and Alphas of risk-based analyst forecast strategy. The rows show
+analyst forecast horizons (f) whereas the columns indicate holding periods (h). In Panel A, we report the
+Sharpe ratio for (– cAE) strategy. In Panel B1 (Panel B2, Panel B3), we consider two factors consisting
+of Dollar and Carry (Value, Momentum), and we include 4 factors in Panel B4. Dollar is defined as
+the cross-sectional means of currency returns (Lustig, Roussanov, and Verdelhan, 2011). The Carry,
+Value, and Momentum factors are constructed as the high-minus-low quintile returns sorted on Forward
+Discount, Value, and Momentum, respectively. We run simultaneous regressions of high-minus-low(– cAE)
+quintiles on these factors and take the constants as the reported alphas. Newey and West (1987) adjusted
+t-statistics are reported in parentheses. Our sample ranges from February 1990 to October 2016.
+Forecast Horizonf
+Holding Period h
+1 3 6 12
+Panel A: Sharpe Ratio
+3 0.64 0.40 0.45 0.32
+12 0.67 0.47 0.46 0.35
+Panel B1: Dollar + Carry Panel B2: Dollar + Value
+3 5.88 3.64 4.16 2.83 5.16 3.00 3.48 2.11
+(3.21) (2.81) (4.01) (3.42) (2.77) (2.47) (3.53) (2.70)
+12 6.00 4.36 4.26 2.97 5.28 3.72 3.56 2.29
+(3.53) (3.38) (4.03) (3.70) (3.05) (3.03) (3.49) (3.02)
+Panel B3: Dollar + Momentun Panel B4: Dollar + Carry + Value +Momentum
+3 5.88 3.64 4.00 2.83 5.88 0.83 3.70 2.20
+(3.56) (2.83) (3.93) (3.64) (3.23) (2.71) (3.86) (2.83)
+12 6.00 4.32 4.10 2.98 6.12 4.08 3.78 2.39
+(4.06) (3.45) (4.05) (3.94) (3.63) (3.29) (3.85) (3.18)
+3.3 Cross-sectional Regressions
+Thepreviousexerciseisbasedonportfoliosorts, whichisanonparametricwaytoexamine
+the predictive ability of the risk-adjusted appreciation expectation for the cross-section
+of currency returns. However, this method does not account simultaneously for other
+predictors that could drive this relationship. For this reason, we report in Table 5 the
+results of Fama and MacBeth (1973) regressions, which control for other currency char-
+acteristics simultaneously. Similarly to Filippou, Taylor, and Wang (2023), the controls
+include the previous month’s currency excess return (Mom), value (Value), and the for-
+22
+
+ward discount (FD). Panel A of Table 5 shows average coefficients of Fama and MacBeth
+(1973) regressions of currency excess returns (left Panel) or exchange rate changes (right
+Panel) on the risk-based appreciation expectation as well as currency momentum, value,
+and forward discount at the previous month for a forecast horizon of 3 months (f = 3).
+Columns (1)-(4) show results for 1, 3, 6, and 12-month currency excess returns (exchange
+rate changes). We also report the average adjusted R-square. We find that the coefficient
+of the – cAE is positive and statistically significant for both currency excess returns and
+exchange rate changes. We also find that the model explains about 30% to 33% of the
+cross-sectional variation of currency returns. Panel B of Table 5 shows the corresponding
+results for a forecast horizon of 12 months and the results are similar for this forecast
+horizon. Overall, we find that the risk-based appreciation expectation variable is a strong
+predictor of future currency returns, even after accounting for other factors that explain
+the cross-section of currency returns.
+3.4 Estimation of Risk-based Expectations via Machine Learning
+In our main analysis, we extract the systematic component of currency expectations
+using only forward discounts, momentum, and value predictors. In this way, we facilitate
+the interpretation of the results and focus on a parsimonious model that incorporates
+the most successful predictors of the cross-section of currency returns (e.g., Chernov,
+Dahlquist, and Lochstoer, 2023; Nucera, Sarno, and Zinna, 2023). In this section, we
+consider a plethora of predictors and employ machine learning techniques to estimate the
+model to guard against overfitting. It is also well documented in the literature that a
+richer information set is needed to extract the systematic component of returns (e.g., Li,
+Yuan, and Zhou, 2023; Filippou, Li, Yuan, and Zhou, 2023; Beckmeyer, Filippou, and
+Zhou, 2023). Specifically, we apply Elastic Net to estimate the coefficients of our model.
+23
+
+Table 5 Fama-MacBeth Regressions of Future Excess Returns on the Risk-Based
+Analyst Forecast
+This table reports the results from the Fama and MacBeth (1973) regressions of future excess returns
+and pure spot rate changes on the risk-based analyst forecast(– cAE). The left part of the table shows
+currency excess returns (rxt+h = FDt|t+h – (st+h – st )) whereas the right part shows spot rate changes.
+For each montht, we run the cross-sectional regressions as follows:
+rxi,t+h = β0 + β1(– cAE)i,t + β2Momi,t + β3Valuei,t + β4FDi,t + εt+h
+where rx is the currency excess returns,(– cAE) is the risk-based appreciation expectation,Mom is the
+currency momentum,Value is the currency value, andFD is the currency forward discount. In Panel A,
+the forecast horizonf for analysts’ expectations is equal to 3 months, and in Panel B,f is equal to 12.
+WithineachPanel, the h forexcessreturnsare1, 3, 6, and12fromColumn(1)to(4), respectively. Newey
+and West (1987) adjustedt-statistics are reported in parentheses. Our sample ranges from February 1990
+to October 2016.
+Spec.
+y = rxt+h y = -(st+h – st)
+(1) (2) (3) (4) (1) (2) (3) (4)
+1 month 3 month 6 month 12 month 1 month 3 month 6 month 12 month
+Panel A: f = 3
+Intercept 0.15 0.49 0.66 1.20 0.14 0.30 0.41 0.32
+(0.95) (1.50) (1.13) (1.44) (0.84) (0.95) (0.64) (0.33)
+– cAE 3.97 7.70 14.21 20.80 4.03 7.01 13.52 17.85
+(3.02) (2.60) (3.05) (3.45) (2.87) (2.43) (2.81) (2.78)
+Mom 7.15 14.31 6.79 15.48 6.95 14.60 5.45 11.36
+(2.51) (2.64) (0.91) (1.25) (2.57) (2.73) (0.77) (0.92)
+Value 0.19 0.50 0.34 -0.81 0.20 0.08 -0.25 -2.85
+(0.72) (0.82) (0.39) (-0.66) (0.82) (0.15) (-0.27) (-2.11)
+FD 54.49 85.00 160.32 279.45 -48.55 -145.86 -328.60 -536.99
+(1.70) (0.95) (1.34) (1.64) (-1.49) (-1.82) (-2.47) (-2.66)
+adj-R2 0.31 0.33 0.32 0.30 0.28 0.30 0.30 0.31
+Panel B: f = 12
+Intercept 0.05 0.34 0.02 0.11 0.06 0.16 -0.22 -0.70
+(0.31) (1.12) (0.03) (0.15) (0.41) (0.54) (-0.38) (-0.85)
+– cAE 2.15 6.20 8.16 10.40 2.44 5.56 7.57 8.00
+(2.22) (2.68) (1.67) (1.75) (2.41) (2.52) (1.47) (1.33)
+Mom 7.31 14.09 7.56 16.58 7.03 14.28 6.09 12.27
+(2.55) (2.58) (1.03) (1.35) (2.58) (2.63) (0.88) (1.01)
+Value 0.02 0.32 -0.27 -1.27 0.05 -0.11 -0.83 -3.26
+(0.06) (0.52) (-0.29) (-0.95) (0.21) (-0.20) (-0.81) (-2.20)
+FD 62.61 96.02 201.28 307.81 -42.57 -134.65 -292.57 -519.85
+(1.89) (1.04) (1.60) (1.79) (-1.26) (-1.63) (-2.07) (-2.52)
+adj-R2 0.31 0.33 0.32 0.30 0.28 0.30 0.30 0.31
+24
+
+Elastic NetPrediction. Duetothesmallcross-sectionofcurrencyreturns, theElastic
+Net (ENet) is useful as it facilitates variable selection. Thus, we consider a parsimonious
+model every month that includes variables that provide useful information for future
+currency returns. We consider both macroeconomic and financial variables and obtain
+the prediction via ENet. We offer a detailed description of the variables that we include
+in our analysis in the Internet Appendix B as well as a discussion of the estimation of
+the Elastic Net. We denote the systematic component of currency expectations that is
+extracted based on the ENet model as– cAE
+ENet
+.
+Panel A of Table 6 shows annualized average excess returns of spread portfolios that
+are sorted based on the – cAE
+ENet
+. We find that our results are similar to our main
+specification. Specifically, all strategies offer positive and statistically significant returns.
+The only exception is the strategy with a holding period of one month, which offers
+positive returns that are not statistically significant because of the mismatch between
+the forecasting horizon and the holding period. The significance of the returns increases
+with the holding period, and they are robust for both 3-month and 12-month forecast
+horizons.
+Risk-based Currency Momentum. In Panel B of Table 6, we examine whether our
+finding is related to the risk-based currency momentum documented by Filippou, Li,
+Yuan, and Zhou (2023). These authors find strong evidence of systematic momentum
+in currency returns. To this end, we extract the systematic component of exchange rate
+changes (– \∆st–f) using the same set of predictors and estimating the model via ENet.
+Panel B of Table 6 shows annualized excess returns of the risk-based currency momentum
+strategy. In line with Filippou, Li, Yuan, and Zhou (2023), we find that currency excess
+returns exhibit strong systematic momentum in the short run. However, our risk-based
+expectation appreciation strategy tends to offer stronger results for a longer horizon due
+to the higher success of the forecasts. In addition, the forecasts of currency returns are
+25
+
+largely disconnected from the realized returns because they reflect the expectations for
+marketprofessionalsthatincorporateforecasterrorsbutalsoinformationaboutthefuture
+state of the economy. We formally test the relationship between the strategies in Panel
+C of Table 6 where we contemporaneously regress the spread portfolio of the risk-based
+currency appreciation strategy on a constant and the risk-based currency momentum
+strategy. We find the alphas of this regression are always positive and statistically sig-
+nificant, which highlights the disconnection between the two strategies. Our results are
+similar when we consider a risk-based currency momentum with a one-month holding
+period.
+Variable Importance. We also calculate the relative importance of the variables when
+we consider to estimate the systematic component of currency expectations. In Figure 4,
+we plot the average variable importance of variable candidates. We employ the Lundberg
+and Lee (2017)’s SHAP (Shapley Additive exPlanations), a method based on coopera-
+tive game theory, to estimate the contribution of each characteristic to each individual
+prediction.10 Following Lundberg and Lee (2017), we run the ENet regressions and cal-
+culate the mean of absolute SHAP value for each characteristic across all observations in
+our testing sample. Further, we scale the variable importance by the sum of them and
+rank the characteristics based on scaled SHAP value. Characteristics are ordered based
+on the average SHAP, with the most influential characteristics on the top and the least
+influential on the bottom.
+In line with our conjecture, we find in Panel A of Figure 4 that the most important
+variables for the cross-section of currency returns are the forward discount, momentum,
+and the value strategy. This further verifies the findings of Nucera, Sarno, and Zinna
+(2023) and justifies the selection of the variables. Other important variables are volatility,
+10SHAP is popular in finance literature when selecting variables, e.g., Bali, Beckmeyer, Moerke, and
+Weigert (2023); DeMiguel, Gil-Bazo, Nogales, and Santos (2023); Filippou, Rapach, and Thimsen (2023)
+among others.
+26
+
+Table 6 Single Portfolio Sorting on Elastic-Net-Based Analyst Forecasts: Excess
+Return
+The table presents the single-sorting quintile annualized excess returns on the Elastic-Net-based analyst
+forecast (– cAE
+ENet
+) and Elastic-Net-based exchange rate changes. The rows show analyst forecast hori-
+zons (f) whereas the columns indicate holding periods (h). For the Elastic-Net-based analyst forecast
+in Panel A, we obtain the prediction from the predictive cross-sectional Elastic-Net (ENet) regression as
+detailed in Internet Appendix B. In Panel A, we report the zero-cost portfolio returns sorted on– cAE
+ENet
+.
+In Panel B, we forecast the change in the exchange rate during the pastf month (–∆st–f = st–f – st in
+logs) via ENET regressions and combine the ENet-estimated betas and predictors at the end of month
+t – f as Elastic-Net-based exchange rate changes. We report the annualized returns of zero-cost portfolios
+sorted on – \∆st–f
+ENet
+in Panel B. In Panel C, we regress the high-minus-low returns in Panel A on the
+dollar factor and high-minus-low quintile returns in Panel B, and report the constants asαs. Newey
+and West (1987) adjusted t-statistics are reported in parentheses. Limited to the estimation window
+requirement, our sample ranges from March 1992 to October 2016.
+Forecast Horizonf
+Holding Period h
+1 3 6 12
+Panel A: – cAE
+ENet
+3 2.26 2.33 2.20 1.87
+(1.55) (2.66) (3.75) (4.54)
+12 1.66 2.43 2.06 2.10
+(1.11) (2.67) (3.40) (5.25)
+Panel B: – \∆st–f
+ENet
+1 4.66 1.69 -0.03 0.47
+(2.67) (1.69) (-0.04) (0.94)
+3 3.14 0.55 -0.57 0.31
+(1.88) (0.50) (-0.72) (0.59)
+12 0.93 0.55 0.40 -0.51
+(0.52) (0.53) (0.54) (-1.05)
+Panel C: αs
+3 0.19 0.61 1.07 1.87
+(1.55) (1.99) (2.15) (2.61)
+12 0.16 0.62 1.04 2.02
+(1.15) (1.90) (2.02) (2.99)
+illiquidity, market capitalization, inflation, unemployment gap, price-to-earnings ratio,
+and dividend-to-price ratio against the US.11
+11Other studies show the pricing ability of inflation and unemployment gap for the cross-section of
+currency returns (e.g., Colacito, Riddiough, and Sarno, 2020; Dahlquist and Hasseltoft, 2020; Filippou
+and Taylor, 2023). The market capitalization, the price-to-earnings ratio, and the dividend-to-price
+27
+
+/uni00000013/uni00000011/uni00000013/uni00000013/uni00000013/uni00000011/uni00000013/uni00000018/uni00000013/uni00000011/uni00000014/uni00000013/uni00000013/uni00000011/uni00000014/uni00000018/uni00000013/uni00000011/uni00000015/uni00000013/uni00000013/uni00000011/uni00000015/uni00000018/uni00000013/uni00000011/uni00000016/uni00000013/uni00000013/uni00000011/uni00000016/uni00000018
+/uni00000036/uni00000046/uni00000044/uni0000004f/uni00000048/uni00000047/uni00000003/uni00000030/uni00000048/uni00000044/uni00000051/uni00000003/uni00000039 /uni00000044/uni00000055/uni0000004c/uni00000044/uni00000045/uni0000004f/uni00000048/uni00000003/uni0000002c/uni00000050/uni00000053/uni00000052/uni00000055/uni00000057/uni00000044/uni00000051/uni00000046/uni00000048
+/uni00000039 /uni00000044/uni0000004f/uni00000058/uni00000048
+/uni00000030/uni00000052/uni00000050
+/uni00000029/uni0000005a/uni00000047/uni00000027/uni0000004c/uni00000056
+/uni00000039 /uni00000052/uni0000004f/uni00000044/uni00000057/uni0000004c/uni0000004f/uni0000004c/uni00000057/uni0000005c
+/uni00000038/uni00000031
+/uni00000033/uni00000028
+/uni00000030/uni0000004e/uni00000057/uni00000026/uni00000044/uni00000053
+/uni0000002c/uni0000004f/uni0000004f/uni0000004c/uni00000054/uni00000058/uni0000004c/uni00000047/uni0000004c/uni00000057/uni0000005c
+/uni0000002c/uni00000031/uni00000029
+/uni00000027/uni00000033
+ 
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000024/uni0000001d/uni00000003f/uni00000020/uni00000016
+/uni00000013/uni00000011/uni00000013/uni00000013/uni00000013/uni00000011/uni00000013/uni00000018/uni00000013/uni00000011/uni00000014/uni00000013/uni00000013/uni00000011/uni00000014/uni00000018/uni00000013/uni00000011/uni00000015/uni00000013/uni00000013/uni00000011/uni00000015/uni00000018/uni00000013/uni00000011/uni00000016/uni00000013/uni00000013/uni00000011/uni00000016/uni00000018/uni00000013/uni00000011/uni00000017/uni00000013
+/uni00000036/uni00000046/uni00000044/uni0000004f/uni00000048/uni00000047/uni00000003/uni00000030/uni00000048/uni00000044/uni00000051/uni00000003/uni00000039 /uni00000044/uni00000055/uni0000004c/uni00000044/uni00000045/uni0000004f/uni00000048/uni00000003/uni0000002c/uni00000050/uni00000053/uni00000052/uni00000055/uni00000057/uni00000044/uni00000051/uni00000046/uni00000048
+/uni00000030/uni00000052/uni00000050
+/uni00000039 /uni00000044/uni0000004f/uni00000058/uni00000048
+/uni00000029/uni0000005a/uni00000047/uni00000027/uni0000004c/uni00000056
+/uni00000039 /uni00000052/uni0000004f/uni00000044/uni00000057/uni0000004c/uni0000004f/uni0000004c/uni00000057/uni0000005c
+/uni00000038/uni00000031
+/uni00000033/uni00000028
+/uni00000030/uni0000004e/uni00000057/uni00000026/uni00000044/uni00000053
+/uni0000002c/uni0000004f/uni0000004f/uni0000004c/uni00000054/uni00000058/uni0000004c/uni00000047/uni0000004c/uni00000057/uni0000005c
+/uni0000002c/uni00000031/uni00000029
+/uni00000027/uni00000033
+ 
+/uni00000033/uni00000044/uni00000051/uni00000048/uni0000004f/uni00000003/uni00000025/uni0000001d/uni00000003f/uni00000020/uni00000014/uni00000015
+Figure 4 Variable Importance
+This figure displays the variable importance of the ENet regression of the appreciation expectation on a
+plethora of predictors. We calculate the variable importance as an average of the absolute Lundberg and
+Lee (2017)’s SHAP value across all observations in our testing sample. Further, we scale the variable
+importance by the sum of them and rank the characteristics based on scaled SHAP value. In Panel A
+(Panel B), the analysts’ forecast horizon is 3 months (12 months). This sample ranges from February
+1990 to October 2016.
+4 Mechanism
+In this section, we examine whether the trading activity of market professionals could
+partly explain the behavior of the risk-based currency expectation strategy. Specifically,
+ratio are strong predictors of the equity premium and contain important information for currency excess
+returnsinthecontextoftheuncoveredequityparitycondition(e.g.,Cenedese, Payne, Sarno, andValente,
+2016).
+28
+
+we consider the signed and unsigned volumes of the holdings of the strategy.
+4.1 Order Imbalances
+We compute the dollar value of the net positions of different market participants. Follow-
+ing the CLS classification, we consider transactions between the buy and sell side as well
+as corporates, funds, and non-bank financials as price takers and Banks as price makers.
+We define the order imbalance as the net buy volume of the U.S. dollar. Specifically,
+the order imbalance of currencyi at time t takes the form
+OIBi ,t = Buyi ,t – Selli ,t
+Buyi ,t +Selli ,t
+, (5)
+where Buy (Sell) indicates the dollar value of buy (sell) orders. Thus, a positive value
+of the order imbalance indicates that the market participant is a net buyer of the U.S.
+dollar.
+Univariate Sorts. In Table 7, we contemporaneously sort currency order imbalances
+based on the risk-based currency appreciation measure. We find that only the buy-side vs
+sell-side trading activity can capture the behavior of our strategy. In addition, corporates
+tend to be net buyers of higher risk-based appreciation expectation portfolios. On the
+other hand, the trading activity of funds and non-bank financials cannot explain our
+findings.
+Fama-MacBeth Regressions. Our results are further verified in Fama and MacBeth
+(1973) regressions where we contemporaneously regress the order imbalances of different
+market participants on values of the currency expectation variable and a number of
+controls. In particular, we consider as controls momentum (Mom), value (Value), and
+forward discount (FD). Panel A of Table 8 shows results for Buy-side vs Sell-side, Panel B
+29
+
+Table 7 Single Portfolio Sorting on Risk-based Analyst Forecast: Order Imbalance
+This table presents the single-sorting quintile order imbalance on risk-based analyst forecast (– cAE).
+Following Filippou, Taylor, and Wang (2023), we define currency order imbalance (OIBi,t) for currency
+pair i at t as
+OIBi,t = Buyi,t – Selli,t
+Buyi,t + Selli,t
+,
+where Buyi,t (Selli,t) represents the dollar volume of buyer (seller)-initiated transactions of the currency
+pair i at timet. Based on the classification by the CLS dataset, in Panel A, the transactions of currency
+pair are executed between Buy side and Sell side, and in Panel B (Panel C, Panel D) transactions
+between Corporate (Fund, Non – Bank Financial) as price taker andBank as market maker. Newey and
+West (1987) adjusted t-statistics are reported in parentheses. Limited to the trade activity data, our
+sample ranges from September 2012 to October 2016.
+Forecast Horizonf
+Portfolio
+1(Lo) 2 3 4 5(Hi) Hi-Lo
+Panel A: Buy side vs Sell side
+3 -0.54 -0.18 0.09 0.28 0.15 0.68
+(-3.45) (-1.55) (1.04) (3.32) (2.86) (4.25)
+12 -0.49 -0.22 0.09 0.29 0.14 0.63
+(-4.00) (-1.67) (0.98) (3.55) (2.70) (4.66)
+Panel B: Corp. vs Bank
+3 -0.73 -0.20 0.37 2.79 2.97 3.69
+(-1.24) (-0.29) (0.50) (3.74) (3.78) (5.10)
+12 -0.56 -0.14 0.43 2.29 3.18 3.73
+(-0.93) (-0.25) (0.59) (2.96) (4.14) (4.98)
+Panel C: Fund vs Bank
+3 -0.53 -0.11 -0.60 0.19 -0.15 0.38
+(-1.76) (-0.45) (-2.32) (0.88) (-0.49) (0.75)
+12 -0.56 -0.04 -0.31 0.05 -0.16 0.40
+(-1.93) (-0.14) (-1.27) (0.24) (-0.56) (0.78)
+Panel D: Non-Bank Financials vs Bank
+3 -0.84 -0.40 -0.56 -0.34 -0.29 0.55
+(-1.88) (-1.95) (-1.99) (-1.64) (-2.54) (1.21)
+12 -0.88 -0.35 -0.63 -0.47 -0.21 0.67
+(-1.83) (-1.50) (-2.27) (-1.88) (-3.11) (1.39)
+presents results for Corporates, Panel C for Funds, and Panel D for Non-Bank Financials.
+In line with our previous findings, we show that the risk-based appreciation expectation is
+a strong predictor of the order imbalance of buy-side vs sell-side as well as the corporates.
+30
+
+Table 8 Fama-MacBeth Regression of Order Imbalance on Risk-based Analyst
+Forecast
+This table presents the Fama-MacBeth regressions of order imbalance on risk-based analyst forecast
+(– cAE). Based on the classification by the CLS dataset, in Panel A, the transactions of currency pair
+are executed betweenBuy side and Sell side, and in Panel B (Panel C, Panel D) transactions between
+Corporate(Fund, Non – Bank Financial) as price taker andBank as market maker. Currency momentum
+(Mom), value (Value) and forward discount (FD) serve as controls in this table. Newey and West (1987)
+adjusted t-statistics are reported in parentheses. Limited to the trade activity data, our sample ranges
+from September 2012 to October 2016.
+Forecast Horizonf
+Coef. (t-stat)
+Intercept – cAE Mom Value FD adj-R 2
+Panel A: Buy side vs Sell side
+3 0.03 0.25 -0.09 -0.01 5.25 -0.07
+(1.14) (1.59) (-0.33) (-0.23) (0.74)
+12 0.03 0.23 -0.08 -0.00 5.62 -0.07
+(1.08) (1.54) (-0.32) (-0.07) (0.74)
+Panel B: Corp. vs Bank
+3 0.58 3.06 0.62 0.52 -128.71 -0.04
+(1.66) (1.66) (0.33) (0.83) (-1.49)
+12 0.62 3.20 0.85 0.64 -137.96 -0.04
+(1.59) (1.57) (0.44) (0.88) (-1.50)
+Panel C: Fund vs Bank
+3 -0.03 -0.45 1.16 -0.04 42.25 -0.01
+(-0.61) (-1.15) (1.57) (-0.28) (2.20)
+12 0.00 -0.36 1.18 0.02 34.35 -0.01
+(0.03) (-0.85) (1.57) (0.15) (1.65)
+Panel D: Non-Bank Financials vs Bank
+3 -0.06 -0.85 1.23 -0.01 34.41 -0.12
+(-0.76) (-1.20) (1.90) (-0.09) (1.45)
+12 -0.06 -0.73 1.32 -0.02 34.27 -0.12
+(-1.04) (-1.27) (2.03) (-0.17) (1.77)
+4.2 Trading Volume
+We also consider the predictive ability of the risk-based appreciation expectation vari-
+able for the unsigned dollar volume. Specifically, we define the currency trading volume
+(Volume) based on the buy and sell volume of the currency pairi at t as
+Volumei ,t = Buyi ,t +Selli ,t ,
+31
+
+where Buy (Sell) represents the dollar volume of buyer (seller)-initiated transactions of
+the currency pairi at time t. Volume is in the unit of billion.
+Univariate Sorts. Table 9 shows univariate sorts of the volume of each currency that
+is contemporaneously sorted based on the risk-based appreciation expectation. We show
+results for different market participants. We find that the measure is a strong negative
+predictor of the cross-section of the trading activity of corporates and funds, but it cannot
+explain the cross-section of the buy-side vs sell-side volume and trading activity of non-
+bank financials.
+Fama-MacBeth Regressions. Our results are robust when we consider control vari-
+ables. Specifically, we include momentum (Mom), value (Value) and forward discount
+(FD) as controls. We run a Fama and MacBeth (1973) regression of the total volume
+of each participant on– cAE and a set of controls. Table 10 shows results for Buy-side
+vs Sell-side, Panel B presents results for Corporates, Panel C for Funds, and Panel D
+for Non-Bank Financials. We find that the risk-based appreciation expectation variable
+can only explain the cross-section of the volume on Non-bank Financials, and it can-
+not explain the trading activity of other market participants. We find similar results in
+predictive cross-sectional regressions of order imbalances or volume on lagged values of
+the risk-based appreciation expectation and a number of controls in Table I.A. 8 and
+Table I.A. 9 of the Internet Appendix. Overall, we find that the risk-based appreciation
+expectation variable contains important information that can explain the current and
+future trading activity of market participants, including corporates and funds.
+32
+
+Table 9 Single Portfolio Sorting on Risk-based Analyst Forecast: Trading Volume
+This table presents the single-sorting quintile trading volume on risk-based analyst forecast (– cAE).
+Following Cespa, Gargano, Riddiough, and Sarno (2022), we define currency trading volume (Volume)
+based on the buy and sell volume of the currency pairi at t as
+Volumei,t = Buyi,t +Selli,t ,
+where Buy (Sell) represents the dollar volume of buyer (seller)-initiated transactions of the currency pair
+i at time t. Volume is in the unit of billion. Based on the classification by the CLS dataset, in Panel A,
+the transactions of currency pair are executed betweenBuy side and Sell side, and in Panel B (Panel
+C, Panel D) transactions betweenCorporate (Fund, Non – Bank Financial) as price taker andBank as
+market maker. Newey and West (1987) adjustedt-statistics are reported in parentheses. Limited to the
+span of trade activity data, our sample ranges from September 2012 to October 2016.
+Forecast Horizonf
+Portfolio
+1(Lo) 2 3 4 5(Hi) Hi-Lo
+Panel A: Buy side vs Sell side
+3 3137.32 2555.56 1929.07 1778.49 2453.56 -683.76
+(9.03) (12.21) (8.09) (12.47) (12.46) (-1.71)
+12 2883.41 2755.96 1805.80 1828.42 2490.16 -393.25
+(8.36) (14.78) (9.08) (13.40) (12.04) (-0.97)
+Panel B: Corp. vs Bank
+3 17.96 17.39 7.47 3.87 2.73 -15.23
+(5.97) (7.99) (3.75) (3.04) (6.30) (-4.89)
+12 16.20 18.84 7.18 3.91 2.78 -13.42
+(6.49) (9.98) (3.69) (3.11) (6.27) (-5.14)
+Panel C: Fund vs Bank
+3 253.59 226.49 136.14 101.46 125.87 -127.72
+(10.36) (9.38) (4.95) (4.69) (6.72) (-4.04)
+12 237.56 238.45 132.31 99.92 130.69 -106.88
+(8.83) (11.59) (5.04) (4.98) (6.48) (-3.25)
+Panel D: Non-Bank Financials vs Bank
+3 121.34 92.48 67.73 61.55 93.90 -27.44
+(7.11) (7.98) (7.33) (9.47) (8.72) (-2.05)
+12 108.58 100.83 64.02 64.61 94.82 -13.76
+(7.21) (8.66) (7.80) (9.61) (8.95) (-1.08)
+4.3 Media Sentiment
+We also examine if the strategy is more profitable for currencies with low or high sen-
+timent. Filippou, Taylor, and Wang (2023) construct a media sentiment measure for
+33
+
+Table 10 Fama-MacBeth Regression of Volume on Expectation Prediction
+This table presents the Fama-MacBeth regressions of trading volume (in log) on risk-based analyst
+forecast (– cAE). Based on the classification by the CLS dataset, in Panel A, the transactions of currency
+pair are executed between Buy side and Sell side, and in Panel B (Panel C, Panel D) transactions
+between Corporate (Fund, Non – Bank Financial) as price taker andBank as market maker. Currency
+momentum (Mom), value (Value) and forward discount (FD) serve as controls in this table. Newey and
+West (1987) adjusted t-statistics are reported in parenthesis. Limited to the trade activity data, our
+sample ranges from September 2012 to October 2016.
+Forecast Horizonf
+Coef. (t-stat)
+Intercept – cAE Mom Value FD adj-R 2
+Panel A: Buy side vs Sell side
+3 5.61 5.43 -6.44 1.99 -348.76 -0.19
+(9.38) (1.42) (-1.25) (1.89) (-2.13)
+12 5.54 5.41 -6.03 1.99 -329.65 -0.19
+(9.54) (1.47) (-1.15) (1.84) (-2.08)
+Panel B: Corp. vs Bank
+3 0.57 2.63 -1.88 5.84 -1218.19 0.03
+(0.63) (0.58) (-0.27) (3.49) (-4.90)
+12 0.61 3.44 -1.30 5.99 -1230.34 0.03
+(0.62) (0.69) (-0.19) (3.14) (-4.63)
+Panel C: Fund vs Bank
+3 3.23 4.62 -6.08 3.29 -542.13 -0.13
+(7.67) (1.64) (-1.10) (3.49) (-3.11)
+12 3.09 4.00 -5.64 3.10 -505.32 -0.13
+(8.32) (1.44) (-1.01) (3.57) (-3.07)
+Panel D: Non-Bank Financials vs Bank
+3 2.60 12.19 -8.21 2.95 -487.95 -0.20
+(3.32) (2.84) (-1.27) (2.25) (-2.39)
+12 2.45 11.70 -7.64 2.87 -448.71 -0.20
+(3.26) (2.79) (-1.16) (2.15) (-2.29)
+different currencies and find that it is a negative predictor of the cross-section of currency
+returns. Our previous findings indicate that the strategy tends to perform better in pe-
+riods with high risk as investors require a risk premium for the elevated risk. Thus, we
+expect the strategy to be more significant for currencies with low sentiment. We define
+media sentiment as Senti ,t = (Positivei ,t – Negativei ,t )/ni ,t, where Positive and Nega-
+tive are the total positive and negative words from the Loughran and McDonald (2011)
+34
+
+dictionary and n denotes the total number of words.
+Table 11 shows double sorted portfolios based on the risk-based forecasts and the
+sentiment measure. Panel A shows results for one-month sentiment, and Panel B presents
+results for sentiment that is based on 12 months. In line with our conjecture, we find that
+the strategy is positive and significant only for low sentiment currencies. The results are
+robust for different horizons.
+Table 11 Double-Sorted Risk-Based Analyst Forecast Portfolio: conditional on
+Sentiment
+The table presents annualized average conditional excess returns for double-sorted portfolios. We first
+allocate all currencies into 2 portfolios on Filippou, Taylor, and Wang (2023)’s sentiment measure with
+1-month (12-month) formation period in Panel A (Panel B). Then, within each of the 2 portfolios,
+currencies are sorted into 3 portfolios based on the risk-based analyst forecasts (– cAE). The rows show
+analyst forecast horizons (f), whereas the columns indicate holding periods (h). We report the time-
+series average annualized returns of the high-minus-low portfolios. Newey and West (1987) adjusted
+t-statistics are reported in parentheses. Our sample ranges from February 1990 to October 2016.
+Port. Forecast Horizon f
+Holding Period h
+1 3 6 12
+Panel A: 1-month Sentiment
+Low Sentiment
+3 2.35 2.62 3.30 1.73
+(1.39) (2.13) (3.21) (2.20)
+12 2.11 2.27 3.05 1.44
+(1.26) (1.82) (2.93) (1.81)
+High Sentiment
+3 1.03 0.10 1.34 1.00
+(0.61) (0.09) (1.50) (1.45)
+12 0.75 -0.08 1.31 1.03
+(0.46) (-0.07) (1.54) (1.58)
+Panel B: 12 month Sentiment
+Low Sentiment
+3 2.11 1.66 2.93 2.27
+(1.08) (1.32) (2.65) (2.61)
+12 1.67 1.66 2.56 2.04
+(0.80) (1.26) (2.22) (2.31)
+High Sentiment
+3 2.83 1.03 1.12 0.72
+(1.50) (0.79) (1.17) (1.02)
+12 3.18 1.97 1.74 0.96
+(1.74) (1.56) (1.78) (1.42)
+35
+
+5 Robustness and Other Specification Tests
+Longer Forecast Horizons. Our main analysis considers forecast horizons of 3 and
+12 months. Here, we consider a forecast horizon of 24 months. Table I.A. 1 of the
+Internet Appendix show results of spread portfolios that are sorted based on risk-based
+appreciation expectation of 24 months. Panel A shows that the results are similar before
+transaction costs. We also find similar results when we consider transaction costs that
+are 25% (Panel B) or 50% (Panel C) of the quoted spread. The right Panel shows that
+analysts’ forecasts contain important information only for longer horizons, as we find
+significant returns only for holding periods of 12 months.
+Lagged Values of– cAE. In our main analysis, we sort currencies into portfolios based
+on the risk-based appreciation expectation of the previous month. In order to guard
+against potential publication bias, we also sort currencies into portfolios based on two
+month lagged risk-based forecasts. Table I.A. 2 of the Internet Appendix shows that
+our results are robust when we sort based on lagged values of the– cAE. The results are
+robust before and after transaction costs. We also show that strategies that are based on
+analysts’ forecasts are statistically significant but less economically significant for longer
+holding periods. We show that this is due to the systematic component of the forecasts.
+As highlighted in Table I.A. 2, the analysts’ forecasts are more successful in the long run.
+Volatility and Illiquidity Portfolios. We also examine the role of volatility and
+illiquidity in our findings. To this end, we sort currencies into portfolios based on the
+risk-based appreciation expectation as well as volatility or illiquidity.12 Table I.A. 3 of
+the Internet Appendix shows that our results are stronger for low-volatility currencies.
+12Following Menkhoff, Sarno, Schmeling, and Schrimpf (2012a); Filippou, Gozluklu, and Taylor
+(2018), we define volatility (VOL) and illiquidity (ILLIQ) as: VOLi,t = (1/T t ) P
+d∈Tt (|∆si,d |) and
+ILLIQi,t = (1/Tt ) P
+d∈Tt (BASi,d ), respectively, where|∆si,d | represents the absolute change in the log
+spot exchange rate of currencyi on day d. In the same vein,BASi,d is the bid-ask spread in percentage
+points of currency i on day d. Tt is the total number of days in montht. Thus, an increase in this
+measure is associated with higher levels of illiquidity.
+36
+
+However, they remain strong for longer horizons for high-volatility portfolios. In addition,
+wefindthattheresultsaresimilarforlowandhigh-illiquidityportfolioswiththeexception
+of high-illiquidity portfolios, where the results are stronger for shorter horizons.
+Uncertainty Portfolios. We also examine the performance of our strategy condi-
+tional on the sensitivity of different currencies to uncertainty measures. Specifically,
+every month we first allocate all currencies into two portfolios based on their exposure
+to Baker, Bloom, and Davis (2016)’s Economic Policy Uncertainty, Baker, Bloom, and
+Davis (2016)’s Monetary Policy Uncertainty, Caldara and Iacoviello (2022)’s Geopolitical
+Risk, and Püttmann (2018)’s Financial Stress Indicator, aggregated Hassan, Hollander,
+Van Lent, and Tahoun (2019)’s Firm-level political risk measure in Panel A, Panel B,
+Panel C, Panel D, and Panel E, respectively. For currency global risk exposure, at the end
+of the month, we run the predictive regressions of currency excess returns on the global
+risk measure in each panel over the past 60 months (at least 36 required), from which we
+take the slopes as the global risk exposure. Then, within each of the two portfolios, cur-
+rencies are sorted into 3 portfolios based on the risk-based analyst forecasts (– cAE). The
+rows show analyst forecast horizons (f), whereas the columns indicate holding periods
+(h).
+Table I.A. 4 reports results for low and high beta uncertainty portfolios. We find that
+our results are stronger for currencies with low sensitivity to economic policy uncertainty
+and high betas with monetary policy uncertainty and geopolitical risk. We also find
+that the results are similar for currencies with low and high exposure to the financial
+stress index and the aggregated firm-level political risk index. This is not surprising as
+investorsrequireahigherriskpremiumforcurrencieswithhigherexposurestouncertainty
+measures.
+Rank-weighted Portfolios. Our main analysis considers equally weighted portfolios.
+In this section, we consider portfolios with rank weights. The rank-weighting is important
+37
+
+as it eliminates outliers that could affect the performance of the strategy. Following
+Chernov, Dahlquist, and Lochstoer (2023); Zhang (2022), we construct our factor as
+Rp,t+1 =
+NX
+i =1
+w i
+pt Rei
+t+1,
+where w i
+pt is the portfolio’s weight in currencyi at timet and N is the number of curren-
+cies. The weight of a given portfolio p can be based on a signalz i
+pt (Forward Discount
+signal for carry factor, Value signal for value factor, and Mom signal for momentum
+factor). For the weight,
+w i
+pt = λ
+ 
+rank(z i
+pt ) –
+PN
+i =1rank(z i
+pt )
+N
+!
+,
+where the scaling constantλ makes the portfolio one USD long and one USD short (and
+hence USD neutral). We run simultaneous regressions of(– cAE)-based factor on these
+factors and take the constants as the reported alphas.
+Panel A of Table I.A. 5 of the Internet Appendix shows annualized average excess
+returns of spread portfolios that are sorted based on the– cAE. The portfolios are rank-
+weighted. We find that our results are stronger in comparison to our main specification.
+Specifically, all strategies offer positive and statistically significant returns. Interestingly,
+the strategy that has a one-month holding period, which offers insignificant returns in
+our main analysis, is highly significant here. The significance of the returns increases
+with the holding period, and they are robust for both 3-month and 12-month forecast
+horizons.
+Pooled ENet-Based Measure. We also estimate the systematic component of cur-
+rency expectation using a large number of predictors and estimate pooled regression via
+ENet. The estimation is based on a 12-month rolling window. Table I.A. 6 of the Inter-
+38
+
+net Appendix shows the results based on this estimation. We find that the results are
+stronger based on this specification. In Panel A, we find that all strategies are statisti-
+cally significant. Panel B shows that the risk-based momentum of Filippou, Li, Yuan,
+and Zhou (2023) is robust to this specification because the strategy is highly significant
+in the short run. Panel C presents the alphas of contemporaneous regression of the risk-
+based appreciation expectation spread portfolio on the risk-based momentum portfolio,
+and they are positive and significant. This further verifies the disconnection between the
+two strategies.
+Alternative Specifications. We calculate the expected currency excess return using
+the risk component of the currency appreciation. Similarly to Filippou, Rapach, Taylor,
+and Zhou (2023), we compute the risk-based currency return expectation (RCRE) for
+currency i at month t as:
+RCREi ,t = FDi ,t – cAEi ,t|t+3, (6)
+where theFDi ,t is the 3-month forward discount, andcAEi ,t|t+3 is the prediction of appre-
+ciation expectation from the model 4, measuring the risk-based appreciation expectation.
+In other words, we replace the realized exchange rate appreciation (∆st+1) in equation 2
+with the risk component of the appreciation expectation. To investigate whether the
+RCRE does expect the future excess return, we perform various tests in the following
+sections.
+Table I.A. 7 of the Internet Appendix shows annualized average currency excess re-
+turns of spread portfolios that are sorted based on the RCRE measure. In Panel A, we
+find that our results are improved in comparison to the main specification we consider. In
+particular, the strategy is statistically and economically significant across different fore-
+cast horizons and holding periods. Panel B and Panel C present results for net returns
+that are based on 25% and 50% of the quoted spread. The strategies are statistically
+39
+
+significant after accounting for transaction costs.
+6 Conclusions
+We examine the information content of currency expectations for the cross-section of
+currency returns. In line with the literature, we find that analysts are able to forecast
+currency returns in the long run, but they are not successful in shorter horizons. How-
+ever, we find that the systematic component of analysts’ forecasts can forecast exchange
+rate fluctuations in the short run, while the idiosyncratic component does not contain
+important information for the cross-section of currency returns.
+We run a Fama and MacBeth (1973) regression of currency expectations on forward
+discounts, value, and momentum. The prediction of this regression is the systematic
+component of currency expectations. We denote this measure as risk-based currency
+appreciation. We allocate currencies into portfolios based on this measure and find that
+it renders highly significant currency excess returns and Sharpe ratios. We find similar
+results for holding periods of 1 to 12 months and a formation period of one month. The
+results are also similar for forecast horizons of 3 and 12 months.
+The returns of the strategy remain sizable after accounting for transaction costs. The
+results are robust to more liquid currencies. Specifically, we find similar results for G10
+currencies. We also find that risk-based appreciation expectation variables are a strong
+predictor of currency returns even after controlling for other factors. We also find similar
+results when we estimate the systematic component of currency expectations with a larger
+number of predictors.
+We also explore the mechanism that could drive our results. We find that order
+imbalances of buy versus sell side and corporates could partly explain the results. We
+also find that the trading volume of corporates and funds is negatively related to risk-
+based currency appreciation. Thus, we find that analysts’ forecasts are more successful
+40
+
+in the long run, but only the systematic component of currency expectations contains
+important information for the cross-section of currency returns over short horizons.
+41
+
+References
+Baker, S. R., Bloom, N., Davis, S. J., 2016. Measuring economic policy uncertainty. The
+quarterly journal of economics 131, 1593–1636.
+Bali, T. G., Beckmeyer, H., Moerke, M., Weigert, F., 2023. Option return predictability
+with machine learning and big data. The Review of Financial Studies 36, 3548–3602.
+Barillas, F., Shanken, J., 2017. Which alpha? The Review of Financial Studies 30, 1316–
+1338.
+Beckmann, J., Reitz, S., 2023. Dealer risk premiums in fx forecasts. Available at SSRN
+4513275 .
+Beckmeyer, H., Filippou, I., Zhou, G., 2023. A new option momentum: Compensation
+for risk. Available at SSRN .
+Burnside, C., Eichenbaum, M., Kleshchelski, I., Rebelo, S., 2011. Do peso problems
+explain the returns to the carry trade? The Review of Financial Studies 24, 853–891.
+Caldara, D., Iacoviello, M., 2022. Measuring geopolitical risk.American Economic Review
+112, 1194–1225.
+Candian, G., De Leo, P., 2023. Imperfect exchange rate expectations. Review of Eco-
+nomics and Statistics pp. 1–46.
+Cenedese, G., Payne, R., Sarno, L., Valente, G., 2016. What do stock markets tell us
+about exchange rates? Review of Finance 20, 1045–1080.
+Cespa, G., Gargano, A., Riddiough, S. J., Sarno, L., 2022. Foreign exchange volume. The
+Review of Financial Studies 35, 2386–2427.
+Chernov, M., Dahlquist, M., Lochstoer, L., 2023. Pricing currency risks. The Journal of
+Finance 78, 693–730.
+Colacito, R., Riddiough, S. J., Sarno, L., 2020. Business cycles and currency returns.
+Journal of Financial Economics 137, 659–678.
+Dahlquist, M., Hasseltoft, H., 2020. Economic momentum and currency returns. Journal
+of Financial Economics 136, 152–167.
+42
+
+Dahlquist, M., Söderlind, P., 2023. Individual forecasts of exchange rates. Swedish House
+of Finance Research Paper .
+De Marco, F., Macchiavelli, M., Valchev, R., 2022. Beyond home bias: International
+portfolio holdings and information heterogeneity. The Review of Financial Studies 35,
+4387–4422.
+Della Corte, P., Gao, C., Jeanneret, A., 2023. Survey expectations meet option prices:
+New insights from the fx market .
+DeMiguel, V., Gil-Bazo, J., Nogales, F. J., Santos, A. A., 2023. Machine learning and
+fundcharacteristicshelptoselectmutualfundswithpositivealpha.JournalofFinancial
+Economics 150, 103737.
+Fama, E. F., MacBeth, J. D., 1973. Risk, return, and equilibrium: Empirical tests.
+Journal of Political Economy 81, 607–636.
+Filippou, I., Gozluklu, A. E., Taylor, M. P., 2018. Global political risk and currency
+momentum. Journal of Financial and Quantitative Analysis 53, 2227–2259.
+Filippou, I., Li, S. Z., Yuan, P., Zhou, G., 2023. Risk momentum in currencies. Working
+paper, Washington University in St. Louis, Rutgers University, and Renmin University
+of China. .
+Filippou, I., Rapach, D., Taylor, M. P., Zhou, G., 2023. Out-of-sample exchange rate
+prediction: A machine learning perspective. Available at SSRN 3455713 .
+Filippou, I., Rapach, D., Thimsen, C., 2023. Cryptocurrency return predictability: A
+machine-learning analysis .
+Filippou, I., Taylor, M. P., 2023. Forward-looking policy rules and currency premia.
+Journal of Financial and Quantitative Analysis 58, 449–483.
+Filippou, I., Taylor, M. P., Wang, Z., 2023. Media sentiment and currency reversals.
+Journal of Financial and Quantitative Analysis pp. 1–47.
+Frankel, J. A., Froot, K. A., 1987. Using survey data to test some standard propositions
+regarding exchange rate expectations. American Economic Review 77, 133–153.
+Froot, K. A., Frankel, J. A., 1989. Forward discount bias: Is it an exchange risk premium?
+The Quarterly Journal of Economics 104, 139–161.
+43
+
+Gilmore, S., Hayashi, F., 2011. Emerging market currency excess returns. American Eco-
+nomic Journal: Macroeconomics 3, 85–111.
+Goyal, A., Saretto, A., 2009. Cross-section of option returns and volatility. Journal of
+Financial Economics 94, 310–326.
+Greenwood, R., Shleifer, A., 2014. Expectations of returns and expected returns. The
+Review of Financial Studies 27, 714–746.
+Hassan, T. A., Hollander, S., Van Lent, L., Tahoun, A., 2019. Firm-level political risk:
+Measurement and effects. The Quarterly Journal of Economics 134, 2135–2202.
+Kalemli-Ozcan, S., Varela, L., 2021. Five facts about the uip premium. Working Paper .
+Kremens, L., Martin, I., Varela, L., 2023. Long-horizon exchange rate expectations. Avail-
+able at SSRN 4545603 .
+Li, S. Z., Yuan, P., Zhou, G., 2023. Risk momentum: A new class of price patterns.
+Available at SSRN 4062260 .
+Loughran, T., McDonald, B., 2011. When is a liability not a liability? textual analysis,
+dictionaries, and 10-ks. The Journal of finance 66, 35–65.
+Lundberg, S. M., Lee, S.-I., 2017. A unified approach to interpreting model predictions.
+Advances in neural information processing systems 30.
+Lustig, H., Roussanov, N., Verdelhan, A., 2011. Common risk factors in currency markets.
+The Review of Financial Studies 24, 3731–3777.
+Meese, R. A., Rogoff, K., 1983. Empirical exchange rate models of the seventies: Do they
+fit out of sample? Journal of international economics 14, 3–24.
+Menkhoff, L., Sarno, L., Schmeling, M., Schrimpf, A., 2012a. Carry trades and global
+foreign exchange volatility. The Journal of Finance 67, 681–718.
+Menkhoff, L., Sarno, L., Schmeling, M., Schrimpf, A., 2012b. Currency momentum strate-
+gies. Journal of Financial Economics 106, 660–684.
+Menkhoff, L., Sarno, L., Schmeling, M., Schrimpf, A., 2017. Currency value. The Review
+of Financial Studies 30, 416–441.
+44
+
+Nagel, S., Xu, Z., 2023. Dynamics of subjective risk premia. Journal of Financial Eco-
+nomics 150, 103713.
+Newey, W. K., West, K. D., 1987. A simple, positive semi-definite, heteroskedasticity and
+autocorrelation consistent covariance matrix. Econometrica 55, 703–708.
+Nucera, F., Sarno, L., Zinna, G., 2023. Currency risk premiums redux. The Review of
+Financial Studies p. hhad049.
+Püttmann, L., 2018. Patterns of panic: Financial crisis language in historical newspapers.
+Available at SSRN 3156287 .
+Stavrakeva, V., Tang, J., 2020. A fundamental connection: Exchange rates and macroe-
+conomic expectations. Working Paper .
+Zhang, S., 2022. Dissecting currency momentum. Journal of Financial Economics 144,
+154–173.
+Òscar Jordà, Taylor, A. M., 2012. The carry trade and fundamentals: Nothing to fear
+but feer itself. Journal of International Economics 88, 74–90.
+45
+
+Internet Appendix
+Short-Horizon Currency Expectations
+A Definition of Currency Value
+We define the variablevalue to reflect the currency’ relatively cross-sectional cheapness or
+expensiveness (Chernov, Dahlquist, and Lochstoer, 2023). The definition ofvalue starts
+with a currency’s real exchange rate (RER). We calculate the RER (Qi) by taking the
+product of spot rate (St) and foreign consumer price index (CPI) divided by U.S. CPI.
+We include an additional lag so as to account for CPI publication delay, which is given
+by
+Qi
+t = Si
+t · Pi
+t /Pt ,
+where Si, Pt and Pi
+t are the spot rate of currencyi, U.S. and foreign consumer price
+index (CPI), respectively.
+Next, according to Òscar Jordà and Taylor (2012), the long-run mean of RER is not
+able to be empirically clear defined. Thus, we scale the RER by its five-year smoothed lag
+(specifically, the average RER from 4.5 to 5.5 years ago) to avoid its long-term reversal
+trend implied by Purchasing Power Parity,
+˜Qi
+t ≡ Qi
+t ·
+
+ 1
+13
+6X
+j =–6
+Qi
+t–60+j
+
+
+–1
+.
+Lastly, we demean the ˜Qi
+t cross-sectionally at each timet to reflect each currency’s
+relative “valuation", which is given by
+Valuei = ˜Qi
+t – 1
+N
+NX
+i =1
+˜Qi
+t ,
+B Estimation from Elastic-Net Regression
+We estimate the ENet-based appreciation expectation (-cAE
+ENet
+) from the Elastic-Net
+(ENet) regressions and detail our procedure in this subsection. Compared to the common
+variable selection method (e.g. LASSO, RIDGE), the ENet model allows us to select
+predictors in a small cross section.
+I.A.1
+
+Predictor Candidates. We consider a set of macroeconomic and financial predictors:
+the momentum (Mom), the value (Value), the forward discount (FD), the illiquidity
+(ILL), the volatility (Vol), dividend price ratio (DP), the price-to-earnings ratio (PE),
+the inflation rate (INF), the unemployment rate (UN), and the market capitalization
+(MKTCAP).
+ENet Estimation. At the end of each montht, we run the predictive ENet regressions
+as follows. In Table 6, we run a predictive cross-sectional ENet regression, while in
+Table I.A. 6, we estimate the coefficients in ENet regressions from a past 12-month
+rolling window. The ENet objective function can be expressed as
+argmin
+w
+1
+2n ∥Xw – y∥2
+2 + αPδ (w) , (B.1)
+where
+Pδ (w) = α
+ (1 – δ)
+2 ∥w∥2
+2 + δ∥w∥1
+
+; (B.2)
+where α ≥ 0 represents a hyperparameter that captures the degree of shrinkage;n is the
+number of observations;∥·∥1 and ∥·∥2 are the ℓ1 and ℓ2 norms, respectively; 0 ≤ δ ≤ 1
+is a hyperparameter for combining theℓ1 and ℓ2 components in the penalty term.Xt–1
+includes 10 predictor candidates, and all macroeconomic variables account for publication
+bias by adding an extra lag. The ENet objective function reduces to that for OLS for
+λ = 0. If δ = 1, then B.1 corresponds to the LASSO objective function, andδ = 0
+corresponds to ridge regression. Following the literature, we setδ equal to 0.5. At the
+end of each montht, we search the optimalα based on the Bayesian Information Criterion
+(BIC) after setting the number of minimum predictors selected as three. Theα ranges
+from 0 to 3 with step equal to 1 basis point.||w|| and ||w||2 are the first and second-norm
+penalty terms, respectively. Additionally, we apply equal weights between two penalties.
+I.A.2
+
+C Additional Results
+Table I.A. 1 Single Portfolio Sorting on Analyst Forecasts: 24-month Forecast
+Horizon
+The table presents the single-sorting quintile annualized excess returns on the risk-based analyst forecast
+(– cAE) and analyst expectation (–AE), both of which are based on the forecast horizon of 24 months. The
+rows show analyst forecast horizons (f), whereas the columns indicate holding periods (h). The left part
+of the table shows the results of risk-based analysts’ expectations, whereas the right part shows ones for
+analysts’ expectations. In Panel A, we report the sorting results without considering the transaction costs
+and in Panel B (Panel C) we proxy transaction costs for the effective costs of 25% (50%). At the end of
+each montht, we sort currencies based on (risk-based) analysts’ expectations into quintiles and calculate
+the average excess return over the holding periods. We report the time-series average annualized returns
+of the high-minus-low quintile. Newey and West (1987) adjustedt-statistics are reported in parentheses.
+Our sample ranges from December 1994 to October 2016.
+Forecast Horizonf
+Holding Period h
+– cAE – AE
+1 3 6 12 1 3 6 12
+Panel A: Without Transaction Costs
+24
+4.20 3.22 3.49 2.40 1.75 1.73 1.79 1.80
+(2.56) (2.70) (3.63) (3.15) (1.09) (1.27) (1.59) (1.97)
+Panel B: 25% Quote Spread
+24
+3.18 2.80 3.23 2.22 0.87 1.39 1.58 1.65
+(1.93) (2.35) (3.36) (2.92) (0.54) (1.02) (1.40) (1.81)
+Panel C: 50% Quote Spread
+24
+2.16 2.38 2.97 2.05 0.00 1.05 1.38 1.51
+(1.31) (2.00) (3.09) (2.68) (0.00) (0.77) (1.22) (1.65)
+I.A.3
+
+Table I.A. 2 Single Portfolio Sorting on Analyst Forecasts: Publication Bias
+The table presents the single-sorting quintile annualized excess returns on the risk-based analyst forecast
+(– cAE) and analyst expectation (–AE), both of which are with one extra lag for the pubilcation bias. The
+rows show analyst forecast horizons (f), whereas the columns indicate holding periods (h). The left part
+of the table shows the results of risk-based analysts’ expectations, whereas the right part shows ones of
+analysts’ expectations. In Panel A, we report the sorting results without considering the transaction costs
+and in Panel B (Panel C) we proxy transaction costs for the effective costs of 25% (50%). At the end of
+each montht, we sort currencies based on (risk-based) analysts’ expectations into quintiles and calculate
+the average excess return over the holding periods. We report the time-series average annualized returns
+of the high-minus-low quintile. Newey and West (1987) adjustedt-statistics are reported in parentheses.
+Our sample ranges from March 1990 to October 2016.
+Forecast Horizonf
+Holding Period h
+– cAE – AE
+1 3 6 12 1 3 6 12
+Panel A: Without Transaction Costs
+3 2.46 2.86 3.41 2.55 1.79 1.98 2.07 1.67
+(1.48) (2.21) (3.04) (3.17) (1.12) (1.62) (1.99) (2.12)
+12 3.41 3.21 3.61 2.71 1.84 1.64 1.30 1.66
+(2.10) (2.43) (3.27) (3.48) (1.12) (1.27) (1.25) (2.11)
+Panel B: 25% Quote Spread
+3 1.52 2.48 3.17 2.39 1.05 1.70 1.91 1.55
+(0.92) (1.91) (2.83) (2.97) (0.66) (1.39) (1.83) (1.97)
+12 2.43 2.82 3.36 2.54 1.08 1.35 1.12 1.53
+(1.50) (2.14) (3.05) (3.27) (0.66) (1.04) (1.08) (1.94)
+Panel C: 50% Quote Spread
+3 0.58 2.10 2.93 2.23 0.33 1.42 1.74 1.43
+(0.35) (1.62) (2.62) (2.77) (0.21) (1.16) (1.66) (1.81)
+12 1.48 2.43 3.12 2.38 0.33 1.06 0.94 1.40
+(0.91) (1.85) (2.83) (3.05) (0.20) (0.82) (0.90) (1.78)
+I.A.4
+
+Table I.A. 3 Double-Sorted Risk-Based Analyst Forecast Portfolio: conditional on
+Volatility or Illiquidity
+The table presents annualized average conditional excess returns for double-sorted portfolios. We first
+allocate all currencies into 2 portfolios on Volatility (Panel A) or Illiquidity (Panel B). Then, within
+each of the 2 portfolios, currencies are sorted into 3 portfolios based on the risk-based analyst forecasts
+(– cAE). The rows show analyst forecast horizons ( f), whereas the columns indicate holding periods
+(h). We report the time-series average annualized returns of the high-minus-low portfolios. Newey and
+West (1987) adjustedt-statistics are reported in parentheses. Our sample ranges from February 1990 to
+October 2016.
+Port. Forecast Horizon f
+Holding Period h
+1 3 6 12
+Panel A: Volatility
+Low VOL
+3 4.10 3.34 3.15 2.59
+(2.72) (3.41) (3.95) (4.34)
+12 3.11 2.86 3.18 2.64
+(2.17) (3.13) (4.04) (4.63)
+High VOL
+3 0.86 1.59 2.12 1.48
+(0.55) (1.54) (2.51) (2.26)
+12 1.50 1.90 2.26 1.40
+(0.95) (1.88) (2.66) (2.14)
+Panel B: Illiquidity
+Low ILLIQ
+3 0.91 1.22 1.94 1.81
+(0.60) (1.13) (2.24) (2.85)
+12 0.85 1.52 2.29 1.85
+(0.57) (1.42) (2.57) (2.89)
+High ILLIQ
+3 2.92 2.04 2.35 1.84
+(1.96) (1.88) (2.72) (2.94)
+12 3.63 2.81 2.75 1.99
+(2.64) (2.75) (3.28) (3.30)
+I.A.5
+
+Table I.A. 4 Double-Sorted Risk-Based Analyst Forecast Portfolio: conditional on
+Uncertainty Measure
+The table presents annualized average conditional excess returns for double-sorted portfolios. We first
+allocate all currencies into 2 portfolios on the exposure to Baker, Bloom, and Davis (2016)’s Economic
+Policy Uncertainty, Baker, Bloom, and Davis (2016)’s Monetary Policy Uncertainty, Caldara and Ia-
+coviello (2022)’s Geopolitical Risk, and Püttmann (2018)’s Financial Stress Indicator, aggregated Has-
+san, Hollander, Van Lent, and Tahoun (2019)’s Firm-level Risk measure in Panel A, Panel B, Panel C,
+Panel D, and Panel E, respectively. For currency global risk exposure, at each end of month, we run the
+predictive regressions of currency excess returns on the global risk measure in each panel over the past
+60 months (at least 36 required), from which we take the slopes as the global risk exposure. Then within
+each of the 2 portfolios, currencies are sorted into 3 portfolios based on the risk-based analyst forecasts
+(– cAE). The rows show analyst forecast horizons (f), whereas the columns indicate holding periods (h).
+We report the time-series average annualized returns of the high-minus-low portfolios. Newey and West
+(1987) adjusted t-statistics are reported in parentheses. For Panel A, Panel B, Panel C, Panel D, our
+sample ranges from February 1990 to October 2016 and for Panel D our sample ranges from January
+2012 to October 2016.
+Forecast Horizonf
+Holding Period h
+Low Betas High Betas
+1 3 6 12 1 3 6 12
+Panel A: Economic Policy Uncertainty
+3 3.32 2.05 2.39 1.03 1.53 0.80 1.21 1.25
+(2.12) (2.03) (3.49) (1.70) (0.98) (0.66) (1.18) (1.79)
+12 2.18 1.94 2.32 1.04 2.07 1.35 1.40 1.30
+(1.44) (2.00) (3.56) (1.83) (1.39) (1.17) (1.45) (1.89)
+Panel B: Monetary Policy Uncertainty
+3 1.95 0.88 0.99 0.37 2.86 2.62 2.57 1.97
+(1.23) (0.88) (1.41) (0.68) (1.78) (2.51) (3.12) (3.09)
+12 1.19 0.78 1.03 0.33 2.35 2.92 2.74 2.15
+(0.76) (0.78) (1.48) (0.62) (1.48) (2.97) (3.56) (3.47)
+Panel C: Geopolitical Risk
+3 0.18 0.34 1.20 0.50 4.86 3.64 2.83 1.88
+(0.10) (0.28) (1.24) (0.74) (2.81) (3.04) (3.18) (2.90)
+12 -0.13 0.58 1.23 0.52 3.99 3.47 3.01 2.11
+(-0.07) (0.46) (1.28) (0.75) (2.39) (3.17) (3.59) (3.41)
+Panel D: Financial Stress Indicator
+3 0.01 0.61 1.90 1.31 5.07 3.02 2.70 1.36
+(0.00) (0.63) (2.67) (2.22) (3.13) (2.49) (2.85) (1.99)
+12 -0.20 1.08 1.85 1.20 4.23 2.59 2.44 1.33
+(-0.15) (1.17) (2.79) (2.13) (2.71) (2.28) (2.66) (1.97)
+Panel E: Aggregate Firm-level Risk
+3 2.97 2.79 3.53 2.73 5.80 3.43 4.17 2.22
+(1.72) (2.14) (3.44) (3.34) (3.14) (2.42) (3.46) (2.76)
+12 2.09 2.37 3.07 2.33 5.50 3.79 4.49 2.58
+(1.21) (1.85) (3.10) (2.98) (3.05) (2.61) (3.85) (3.62)
+I.A.6
+
+Table I.A. 5 Single Value-Weighted Portfolio Sorting on the Risk-Based Analyst
+Forecast: Alphas
+This table reports the alphas of the signal-weighted risk-based appreciation expectation strategy. The
+rows show analyst forecast horizons (f) whereas the columns indicate holding periods (h). Following
+Chernov, Dahlquist, and Lochstoer (2023); Zhang (2022), we construct our factor as
+Rp,t+1 =
+NX
+i=1
+w i
+pt Rei
+t+1,
+where w i
+pt is the portfolio’s weight in currencyi at timet and N is the number of currencies. The weight
+of a given portfolio p can be based on a signalz i
+pt (Forward Discount signal for carry factor, Value signal
+for value factor, and Mom signal for momentum factor). For the weight,
+w i
+pt = λ
+ 
+rank(z i
+pt ) –
+PN
+i=1rank(z i
+pt )
+N
+!
+,
+where the scaling constant λ makes the portfolio one USD long and one USD short (and hence USD
+neutral). We run simultaneous regressions of(– cAE)-based factor on these factors and take the constants
+as the reported alphas. Newey and West (1987) adjustedt-statistics are reported in parentheses. Our
+sample ranges from February 1990 to October 2016.
+Forecast Horizonf
+Holding Period h
+1 3 6 12
+Panel A: Portfolio Returns
+3 2.88 2.38 2.81 2.15
+(2.30) (2.44) (3.54) (3.66)
+12 2.84 2.67 2.91 2.18
+(2.35) (2.76) (3.64) (3.76)
+Panel B1: Dollar + Carry Panel B2: Dollar + Value
+3 3.12 2.72 1.36 2.14 2.64 2.08 1.04 1.80
+(2.41) (2.47) (2.47) (3.00) (1.98) (2.08) (2.08) (2.78)
+12 3.24 3.04 1.52 2.21 2.52 2.36 1.18 1.80
+(2.51) (2.81) (2.81) (3.10) (2.00) (2.34) (2.34) (2.78)
+Panel B3: Dollar + Momentun Panel B4: Dollar + Carry + Value +Momentum
+3 3.60 2.68 1.34 2.14 3.48 0.62 1.24 1.93
+(2.95) (2.62) (2.62) (3.66) (2.66) (2.35) (2.35) (2.87)
+12 3.60 2.96 1.48 2.19 3.48 2.84 1.42 1.96
+(3.04) (2.95) (2.95) (3.81) (2.75) (2.68) (2.68) (3.00)
+I.A.7
+
+Table I.A. 6 Single Portfolio Sorting on Pooled Elastic-Net-Based Analyst Forecasts:
+Excess Return
+The table presents the single-sorting quintile annualized excess returns on the Elastic-Net-based analyst
+forecast (– cAE
+ENet
+) and Elastic-Net-based exchange rate changes. The estimation is based on a rolling
+pooledENetregression. Weconsidera12-monthrollingwindow. Therowsshowanalystforecasthorizons
+(f) whereas the columns indicate holding periods (h). For the Elastic-Net-based analyst forecast in Panel
+A, we obtain the prediction from a predictive rolling window Elastic-Net (ENet) regression as detailed
+in Internet Appendix B. In Panel A, we report the zero-cost portfolio returns sorted on– cAE
+ENet
+. In
+Panel B, we forecast the change in the exchange rate during pastf month (–∆st–f = st–f – st in logs) via
+ENet regressions and combine the ENet-estimated betas and predictors at the end of the montht – f as
+Elastic-Net-based exchange rate changes. We report the annualized returns of zero-cost portfolios sorted
+on – \∆st–f
+ENet
+in Panel B. In Panel C, we regress the high-minus-low returns in Panel A on the dollar
+factor and high-minus-low quintile returns in Panel B, and report the constants asαs. Newey and West
+(1987) adjusted t-statistics are reported in parentheses. Limited to the estimation window requirement,
+our sample ranges from March 1992 to October 2016.
+Forecast Horizonf
+Holding Period h
+1 3 6 12
+Panel A: – cAE
+ENet
+3 3.47 2.92 2.85 1.97
+(2.08) (2.17) (2.52) (2.30)
+12 3.49 3.19 3.28 2.21
+(2.01) (2.29) (2.86) (2.57)
+Panel B: – \∆st–f
+ENet
+1 3.45 1.87 1.06 0.09
+(2.07) (1.73) (1.26) (0.14)
+3 0.47 1.54 -0.01 -1.14
+(0.28) (1.26) (-0.01) (-1.67)
+12 -0.50 -1.59 -3.17 -3.02
+(-0.28) (-1.17) (-2.69) (-3.91)
+Panel C: αs
+3 0.29 0.78 1.42 1.74
+(2.06) (2.19) (2.50) (2.17)
+12 0.28 0.75 1.54 1.98
+(1.94) (2.09) (2.50) (2.20)
+I.A.8
+
+Table I.A. 7 Single Portfolio Sorting on the Alternative Risk-Based Appreciation
+Expectation
+The table presents the single-sorting quintile annualized excess returns on the risk-based analyst ex-
+pectation which is defined asRCREi,t = FD i,t – \AEi,t|t+3. The rows show analyst forecast horizons
+(f) whereas the columns indicate holding periods (h). At the end of each montht, we sort currencies
+based on the Panel-specific signal into the quintiles and calculate the average excess return over the
+holding periods, respectively. We report the time-series average annualized returns of high-minus-low
+quintile. Newey and West (1987) adjustedt-statistics are reported in parentheses. Our sample ranges
+from February 1990 to October 2016.
+Forecast Horizonf
+Holding Period h
+1 3 6 12
+Panel A: RCRE
+3 5.88 3.95 4.24 3.30
+(3.49) (3.04) (4.09) (4.06)
+12 5.66 4.25 4.34 3.63
+(3.42) (3.21) (4.12) (4.30)
+Panel A: 25% Quote Spread
+3 4.91 3.56 4.00 3.13
+(2.91) (2.74) (3.85) (3.85)
+12 4.73 3.87 4.11 3.46
+(2.86) (2.93) (3.91) (4.11)
+Panel B: 50% Quote Spread
+3 3.94 3.17 3.75 2.97
+(2.33) (2.44) (3.62) (3.65)
+12 3.80 3.50 3.88 3.30
+(2.30) (2.65) (3.69) (3.92)
+I.A.9
+
+Table I.A. 8 Fama-MacBeth Regression of Order Imbalance on Risk-based Analyst
+Forecast
+This table presents the Fama-MacBeth regressions of order imbalance on risk-based analyst forecast
+(– cAE). Based on the classification by the CLS dataset, in Panel A, the transactions of currency pair
+are executed betweenBuy side and Sell side, and in Panel B (Panel C, Panel D) transactions between
+Corporate (Fund, Non – Bank Financial) as price taker andBank as market maker. Currency volatility
+and illiquidity serve as controls in this table. Newey and West (1987) adjustedt-statistics are reported
+in parentheses. Limited to the trade activity data, our sample ranges from September 2012 to October
+2016.
+Forecast Horizonf
+Coef. (t-stat)
+Intercept - cAE Mom Value FD adj-R 2
+Panel A: Buy side vs Sell side
+3 0.00 -0.03 0.34 -0.05 5.52 0.12
+(0.10) (-0.11) (1.49) (-0.72) (0.58)
+12 0.01 0.01 0.38 -0.03 4.56 0.11
+(0.30) (0.03) (1.64) (-0.51) (0.54)
+Panel B: Corp. vs Bank
+3 0.50 3.87 -1.80 0.24 -88.37 0.26
+(1.16) (1.36) (-0.51) (0.30) (-0.78)
+12 0.47 3.32 -1.97 0.25 -73.84 0.26
+(1.01) (1.19) (-0.56) (0.28) (-0.63)
+Panel C: Fund vs Bank
+3 0.01 -0.04 0.31 0.11 19.13 0.19
+(0.11) (-0.08) (0.37) (0.89) (0.92)
+12 -0.00 -0.09 0.32 0.09 20.58 0.20
+(-0.02) (-0.16) (0.39) (0.69) (0.98)
+Panel D: Non-Bank Financials vs Bank
+3 0.07 0.39 -0.13 0.24 -19.59 0.13
+(0.75) (0.71) (-0.17) (1.22) (-0.80)
+12 0.07 0.55 -0.04 0.24 -18.67 0.13
+(0.89) (1.41) (-0.06) (1.53) (-0.92)
+I.A.10
+
+Table I.A. 9 Fama-MacBeth Regression of Volume on Expectation Prediction
+This table presents the Fama-MacBeth regressions of trading volume (in log) on risk-based analyst
+forecast (– cAE). Based on the classification by the CLS dataset, in Panel A, the transactions of currency
+pair are executed between Buy side and Sell side, and in Panel B (Panel C, Panel D) transactions
+between Corporate (Fund, Non – Bank Financial) as price taker andBank as market maker. Currency
+volatility and illiquidity serve as controls in this table. In parentheses, Newey and West (1987) adjusted
+t-value is reported. Limited to the trade activity data, our sample ranges from September 2012 to
+October 2016.
+Forecast Horizonf
+Coef. (t-stat)
+Intercept - cAE Mom Value FD adj-R 2
+Panel A: Buy side vs Sell side
+3 5.58 5.07 -5.46 1.92 -349.97 0.03
+(9.64) (1.29) (-1.09) (1.90) (-2.23)
+12 5.52 4.94 -5.09 1.95 -333.82 0.03
+(9.72) (1.29) (-0.99) (1.86) (-2.19)
+Panel B: Corp. vs Bank
+3 0.05 -0.80 8.15 4.47 -958.21 0.28
+(0.04) (-0.12) (1.15) (2.13) (-2.87)
+12 -0.12 -0.61 9.50 4.10 -907.00 0.28
+(-0.12) (-0.11) (1.27) (2.24) (-3.15)
+Panel C: Fund vs Bank
+3 3.13 3.57 -8.27 3.03 -516.56 0.11
+(7.66) (1.17) (-1.47) (3.34) (-3.02)
+12 2.98 3.11 -7.80 2.84 -477.63 0.11
+(8.50) (1.05) (-1.36) (3.48) (-3.01)
+Panel D: Non-Bank Financials vs Bank
+3 2.62 12.58 -3.21 2.97 -527.97 0.04
+(3.32) (2.13) (-0.51) (2.27) (-2.39)
+12 2.45 11.62 -2.66 2.88 -480.74 0.04
+(3.22) (2.13) (-0.41) (2.14) (-2.32)
+I.A.11

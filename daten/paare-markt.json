@@ -1,26 +1,26 @@
 {
-  "stand": "2026-07-10T19:18:16.196Z",
+  "stand": "2026-07-10T21:23:10.370Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
       "baseScore": -11,
-      "tiltCot": 0,
+      "tiltCot": -1,
       "tiltZins": -2,
-      "tiltGesamt": -2,
-      "score": -13,
+      "tiltGesamt": -3,
+      "score": -14,
       "cotExtrem": null,
       "treiber": "Abwärts: Der wieder festere Dollar (Falken-Protokoll + steigende Renditen) und das teurere Öl belasten den Euro doppelt. Klarer US-Zinsvorteil (2J 4,18% vs. 2,65%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
     },
     {
       "paar": "GBP/USD",
       "baseScore": -4,
-      "tiltCot": -5,
+      "tiltCot": -10,
       "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -11,
-      "cotExtrem": "extrem",
+      "tiltGesamt": -12,
+      "score": -16,
+      "cotExtrem": "erhoeht",
       "treiber": "Leicht abwärts: der festere Dollar drückt, aber die EXTREMEN Pfund-Shorts (COT-z −2,2 = Squeeze-Risiko) und die hohe UK-Rendite (2J 4,23% > US) begrenzen den Rückgang deutlich."
     },
     {
@@ -36,10 +36,10 @@
     {
       "paar": "AUD/USD",
       "baseScore": 2,
-      "tiltCot": -3,
+      "tiltCot": -5,
       "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -3,
+      "tiltGesamt": -7,
+      "score": -5,
       "cotExtrem": null,
       "treiber": "Nur leicht positiv: Risikofreude und hohe Aussie-Rendite (2J 4,46%) heben, aber schwache China-Inflation (+1,0%), das langsamere China-Wachstum und der festere Dollar bremsen."
     },
@@ -50,7 +50,7 @@
       "tiltZins": 2,
       "tiltGesamt": 12,
       "score": 14,
-      "cotExtrem": null,
+      "cotExtrem": "erhoeht",
       "treiber": "Knapp aufwärts, aber der Loonie hält gut dagegen: solide Kanada-Jobs (+18k, 6,5%) und das Öl-Comeback (+4% Woche) stützen den Loonie, der festere Dollar und die BoC-Sitzung (Mi) halten dagegen."
     },
     {

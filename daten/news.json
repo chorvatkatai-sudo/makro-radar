@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-10T12:21:04.852Z",
+  "stand": "2026-07-10T14:11:44.705Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,87 +8,93 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
+      "titel": "Canada building permits for May -1.7% versus 2.4% estimate",
+      "link": "https://investinglive.com/news/canada-building-permits-for-may-1-7-versus-2-4-estimate-0/",
+      "datum": "2026-07-10T12:59:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Stable card trends support cautious optimism – RBC",
+      "link": "https://www.fxstreet.com/news/canada-stable-card-trends-support-cautious-optimism-rbc-202607101253",
+      "datum": "2026-07-10T12:53:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/JPY Price Forecast: Bulls remain in control with RSI and MACD in positive territory",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-remain-in-control-with-rsi-and-macd-in-positive-territory-202607101249",
+      "datum": "2026-07-10T12:49:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Equities: AI Boom risks and resilience – Commerzbank",
+      "link": "https://www.fxstreet.com/news/equities-ai-boom-risks-and-resilience-commerzbank-202607101234",
+      "datum": "2026-07-10T12:34:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: Canada's Unemployment Rate declined to 6.5% in June",
+      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-remain-at-66-in-june-202607100600",
+      "datum": "2026-07-10T12:32:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States: New methodology trims Core PCE inflation – Wells Fargo",
+      "link": "https://www.fxstreet.com/news/united-states-new-methodology-trims-core-pce-inflation-wells-fargo-202607101217",
+      "datum": "2026-07-10T12:17:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Oil prices nudge up as US-Iran tensions linger",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-nudge-up-as-us-iran-tensions-linger/",
       "datum": "2026-07-10T12:00:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Softer Canada jobs seen weigh against US Dollar – BBH",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-softer-canada-jobs-seen-weigh-against-us-dollar-bbh-202607101123",
-      "datum": "2026-07-10T11:23:38.000Z"
+      "titel": "Indian Rupee: Stabilisation but recovery hurdles against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/indian-rupee-stabilisation-but-recovery-hurdles-against-us-dollar-ocbc-202607101156",
+      "datum": "2026-07-10T11:56:45.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "\"The bar for a material hawkish turn is high\": ING says the Bank of Canada won't surprise next week",
-      "link": "https://www.fxstreet.com/news/the-bar-for-a-material-hawkish-turn-is-high-ing-says-the-bank-of-canada-wont-surprise-next-week-202607101123",
-      "datum": "2026-07-10T11:23:15.000Z"
+      "titel": "Canadian Dollar: Labour data seen softening – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-labour-data-seen-softening-td-securities-202607101149",
+      "datum": "2026-07-10T11:49:41.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD wavers around $4,100 with the bearish trend intact",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-wavers-around-4-100-with-the-bearish-trend-intact-202607101050",
-      "datum": "2026-07-10T10:50:41.000Z"
+      "titel": "Euro retraces previous gains as Eurozone data paves the way for an ECB pause",
+      "link": "https://www.fxstreet.com/news/euro-retraces-previous-gains-as-eurozone-data-paves-the-way-for-an-ecb-pause-202607101140",
+      "datum": "2026-07-10T11:40:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee gives back gains as US Dollar recovers",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-as-us-dollar-extends-decline-202607100524",
-      "datum": "2026-07-10T10:45:52.000Z"
+      "titel": "Silver Price Forecast: XAG/USD turns upside down amid renewed Middle East hostilities",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-turns-upside-down-amid-renewed-middle-east-hostilities-202607101140",
+      "datum": "2026-07-10T11:40:03.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canada Unemployment Rate expected to remain at 6.6% in June",
-      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-remain-at-66-in-june-202607100600",
-      "datum": "2026-07-10T10:45:00.000Z"
+      "titel": "Australian Dollar rises on hawkish RBA, Iran diplomacy pressures USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-on-hawkish-rba-iran-diplomacy-pressures-usd-202607101138",
+      "datum": "2026-07-10T11:38:13.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro declines as cooling Eurozone inflation, Japan pension reforms lift Yen",
-      "link": "https://www.fxstreet.com/news/euro-declines-as-cooling-eurozone-inflation-japan-pension-reforms-lift-yen-202607101005",
-      "datum": "2026-07-10T10:05:05.000Z"
+      "titel": "Gold heads for weekly loss as Middle East tensions, Fed hike fears cap recovery",
+      "link": "https://www.fxstreet.com/news/gold-heads-for-weekly-loss-as-middle-east-tensions-fed-hike-fears-cap-recovery-202607101136",
+      "datum": "2026-07-10T11:36:46.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold: Tentative stabilisation on oil relief – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-tentative-stabilisation-on-oil-relief-ocbc-202607100959",
-      "datum": "2026-07-10T09:59:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar eases from three-week highs near 0.5800 as the US Dollar bounces up",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-eases-from-three-week-highs-near-05800-as-the-us-dollar-bounces-up-202607100950",
-      "datum": "2026-07-10T09:50:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Geopolitics faded as markets eye rates – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-faded-as-markets-eye-rates-ing-202607100939",
-      "datum": "2026-07-10T09:39:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607100930",
-      "datum": "2026-07-10T09:30:41.000Z"
+      "titel": "Euro: Range-bound rebound faces key resistance against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-range-bound-rebound-faces-key-resistance-against-us-dollar-societe-generale-202607101125",
+      "datum": "2026-07-10T11:25:52.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Japan producer prices hit fastest pace since 2023, keeping BOJ on track to hike",
       "link": "https://investinglive.com/news/seo-headline-86-chars-japan-producer-prices-hit-fastest-pace-since-2023-keeping-boj-on-track-to-hike/",
       "datum": "2026-07-10T09:30:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Firmer against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-firmer-against-us-dollar-societe-generale-202607100924",
-      "datum": "2026-07-10T09:24:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoJ will likely revise 2026 GDP forecast higher in Q2 report",
-      "link": "https://www.fxstreet.com/news/boj-will-likely-revise-2026-gdp-forecast-higher-in-q2-report-202607100916",
-      "datum": "2026-07-10T09:16:27.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-0/",
       "datum": "2026-07-10T06:25:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German headline annual inflation confirmed at 2.3% in June, core prices also hold steady",
-      "link": "https://investinglive.com/news/germany-june-final-cpi-vs-2-3-y-y-prelim/",
-      "datum": "2026-07-10T06:16:10.000Z"
     }
   ]
 }

@@ -3608,8 +3608,8 @@
       "impact": "High",
       "prognose": "6.6%",
       "vorher": "6.6%",
-      "actual": null,
-      "notiz": null
+      "actual": "6.5%",
+      "notiz": "auto:TV unemployment (2026-07-10)"
     },
     "2026-07-10T08:30:00-04:00|CAD|Building Permits m/m": {
       "datum": "2026-07-10T08:30:00-04:00",

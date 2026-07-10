@@ -1,11 +1,35 @@
 {
-  "stand": "2026-07-10T16:29:39.613Z",
+  "stand": "2026-07-10T17:42:07.150Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro trades flat despite soft European inflation",
+      "link": "https://www.fxstreet.com/news/euro-trades-flat-despite-soft-european-inflation-202607101720",
+      "datum": "2026-07-10T17:20:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average treats the ceasefire's second death as a rerun",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-treats-the-ceasefires-second-death-as-a-rerun-202607101707",
+      "datum": "2026-07-10T17:07:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Crude Oil fades another war spike as the ceasefire dies its daily death",
+      "link": "https://www.fxstreet.com/news/crude-oil-fades-another-war-spike-as-the-ceasefire-dies-its-daily-death-202607101703",
+      "datum": "2026-07-10T17:04:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds firm as Trump ceasefire shock tests USD",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-trump-ceasefire-shock-tests-usd-202607101625",
+      "datum": "2026-07-10T16:25:53.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Federal Reserve: Monetary policy report cites “high inflation” due to tariffs",
@@ -55,34 +79,10 @@
       "datum": "2026-07-10T15:19:34.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: One more hike base case as data soften – OCBC",
-      "link": "https://www.fxstreet.com/news/european-central-bank-one-more-hike-base-case-as-data-soften-ocbc-202607101504",
-      "datum": "2026-07-10T15:04:10.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Market largely shrugs off Trump's claim that the ceasefire is over",
       "link": "https://investinglive.com/news/market-largely-shrugs-off-trump-s-claim-that-the-ceasefire-is-over/",
       "datum": "2026-07-10T14:59:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Growth slowdown with uneven momentum – DBS",
-      "link": "https://www.fxstreet.com/news/china-growth-slowdown-with-uneven-momentum-dbs-202607101443",
-      "datum": "2026-07-10T14:43:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Labour market steadying with modest improvement – RBC",
-      "link": "https://www.fxstreet.com/news/canada-labour-market-steadying-with-modest-improvement-rbc-202607101419",
-      "datum": "2026-07-10T14:19:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India: Inflation risks stay skewed higher – ING",
-      "link": "https://www.fxstreet.com/news/india-inflation-risks-stay-skewed-higher-ing-202607101356",
-      "datum": "2026-07-10T13:56:52.000Z"
     },
     {
       "quelle": "ForexLive",

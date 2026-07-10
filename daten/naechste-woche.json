@@ -30,6 +30,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-13T09:25:00.000Z",
+    "country": "USD",
+    "title": "Fed Bowman Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-13T10:10:00.000Z",
     "country": "EUR",
     "title": "2029 EU-Bonds Auction",
@@ -80,12 +90,42 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-13T16:30:00.000Z",
+    "country": "USD",
+    "title": "Fed Waller Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-13T16:45:00.000Z",
+    "country": "EUR",
+    "title": "ECB Schnabel Speech",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-13T18:00:00.000Z",
     "country": "USD",
     "title": "Monthly Budget Statement",
     "impact": "Medium",
     "forecast": "",
     "previous": "-293 $",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-13T18:00:00.000Z",
+    "country": "GBP",
+    "title": "BoE Pill Speech",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -194,8 +234,8 @@
     "country": "CNY",
     "title": "Imports YoY",
     "impact": "High",
-    "forecast": "",
-    "previous": "27.4",
+    "forecast": "24%",
+    "previous": "27.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -204,8 +244,8 @@
     "country": "CNY",
     "title": "Exports YoY",
     "impact": "High",
-    "forecast": "",
-    "previous": "19.4",
+    "forecast": "18.2%",
+    "previous": "19.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -214,8 +254,8 @@
     "country": "CNY",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "",
-    "previous": "105.43",
+    "forecast": "121 $",
+    "previous": "105.43 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -330,6 +370,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-14T08:00:00.000Z",
+    "country": "GBP",
+    "title": "BoE Gov Bailey Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-14T10:00:00.000Z",
     "country": "USD",
     "title": "NFIB Business Optimism Index",
@@ -440,9 +490,39 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-14T16:40:00.000Z",
+    "country": "USD",
+    "title": "Fed Barr Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-14T17:00:00.000Z",
     "country": "USD",
     "title": "Fed Goolsbee Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-14T17:30:00.000Z",
+    "country": "USD",
+    "title": "Fed Cook Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-14T18:55:00.000Z",
+    "country": "USD",
+    "title": "Fed Bowman Speech",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -524,7 +604,7 @@
     "country": "JPY",
     "title": "Machinery Orders MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-4.2%",
     "previous": "8.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -534,7 +614,7 @@
     "country": "JPY",
     "title": "Machinery Orders YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "12.9%",
     "previous": "15.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -584,7 +664,7 @@
     "country": "CNY",
     "title": "Fixed Asset Investment (YTD) YoY",
     "impact": "Medium",
-    "forecast": "-5%",
+    "forecast": "-4.9%",
     "previous": "-4.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -900,6 +980,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-15T14:00:00.000Z",
+    "country": "USD",
+    "title": "Fed Chair Warsh Testimony",
+    "impact": "High",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-15T14:30:00.000Z",
     "country": "CAD",
     "title": "BoC Press Conference",
@@ -1020,6 +1110,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-15T17:00:00.000Z",
+    "country": "USD",
+    "title": "Fed Cook Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-15T18:00:00.000Z",
     "country": "USD",
     "title": "Fed Beige Book",
@@ -1094,8 +1194,8 @@
     "country": "GBP",
     "title": "Manufacturing Production MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.4",
+    "forecast": "-0.1%",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1114,8 +1214,8 @@
     "country": "GBP",
     "title": "Industrial Production MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0",
+    "forecast": "0.1%",
+    "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1154,8 +1254,8 @@
     "country": "GBP",
     "title": "Goods Trade Balance",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "-26.05",
+    "forecast": "-25.5 £",
+    "previous": "-26.05 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1164,7 +1264,7 @@
     "country": "GBP",
     "title": "GDP 3-Month Avg",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.6%",
     "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -1174,8 +1274,8 @@
     "country": "GBP",
     "title": "GDP MoM",
     "impact": "High",
-    "forecast": "",
-    "previous": "-0.1",
+    "forecast": "0.1%",
+    "previous": "-0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1234,7 +1334,7 @@
     "country": "CAD",
     "title": "Housing Starts",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "260",
     "previous": "261.4",
     "actual": null,
     "quelle": "tradingview"
@@ -1244,7 +1344,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "218",
     "previous": "215",
     "actual": null,
     "quelle": "tradingview"
@@ -1304,7 +1404,7 @@
     "country": "USD",
     "title": "Philadelphia Fed Manufacturing Index",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "12",
     "previous": "10.3",
     "actual": null,
     "quelle": "tradingview"
@@ -1455,7 +1555,7 @@
     "title": "4-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.63%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1465,7 +1565,7 @@
     "title": "8-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.635%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1526,6 +1626,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.2%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-16T23:00:00.000Z",
+    "country": "USD",
+    "title": "Fed Jefferson Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1596,6 +1706,16 @@
     "impact": "Low",
     "forecast": "2.8%",
     "previous": "3.2%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-17T10:00:00.000Z",
+    "country": "EUR",
+    "title": "ECB Cipollone Speech",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1784,7 +1904,7 @@
     "country": "USD",
     "title": "Michigan Consumer Sentiment Prel",
     "impact": "High",
-    "forecast": "",
+    "forecast": "51",
     "previous": "49.5",
     "actual": null,
     "quelle": "tradingview"

@@ -3710,6 +3710,16 @@
       "vorher": "2.96|1.7",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-10T11:08:00-04:00|USD|Fed Monetary Policy Report": {
+      "datum": "2026-07-10T11:08:00-04:00",
+      "land": "USD",
+      "titel": "Fed Monetary Policy Report",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

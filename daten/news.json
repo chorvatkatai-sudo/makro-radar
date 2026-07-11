@@ -1,11 +1,17 @@
 {
-  "stand": "2026-07-10T21:23:10.359Z",
+  "stand": "2026-07-11T05:03:28.643Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore: Resilient GDP and strong NODX – DBS",
+      "link": "https://www.fxstreet.com/news/singapore-resilient-gdp-and-strong-nodx-dbs-202607102131",
+      "datum": "2026-07-10T21:31:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Silver Price Forecast: Lower high structure holds, bear's eye $55.00",
@@ -77,12 +83,6 @@
       "titel": "Dow Jones Industrial Average treats the ceasefire's second death as a rerun",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-treats-the-ceasefires-second-death-as-a-rerun-202607101707",
       "datum": "2026-07-10T17:07:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Crude Oil fades another war spike as the ceasefire dies its daily death",
-      "link": "https://www.fxstreet.com/news/crude-oil-fades-another-war-spike-as-the-ceasefire-dies-its-daily-death-202607101703",
-      "datum": "2026-07-10T17:04:45.000Z"
     },
     {
       "quelle": "ForexLive",

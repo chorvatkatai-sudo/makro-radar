@@ -180,7 +180,48 @@
         "NZD/USD": -7
       },
       "mitMarktOverlay": true,
-      "auswertung": null
+      "auswertung": {
+        "treffer": 2,
+        "gesamt": 7,
+        "quote": 29,
+        "details": {
+          "EUR/USD": {
+            "score": -4,
+            "moveProzent": 0.13,
+            "treffer": false
+          },
+          "GBP/USD": {
+            "score": -3,
+            "moveProzent": 0.58,
+            "treffer": false
+          },
+          "USD/JPY": {
+            "score": 12,
+            "moveProzent": -0.29,
+            "treffer": false
+          },
+          "AUD/USD": {
+            "score": 10,
+            "moveProzent": 0.22,
+            "treffer": true
+          },
+          "USD/CAD": {
+            "score": 20,
+            "moveProzent": -0.49,
+            "treffer": false
+          },
+          "USD/CHF": {
+            "score": 16,
+            "moveProzent": 0.11,
+            "treffer": true
+          },
+          "NZD/USD": {
+            "score": -7,
+            "moveProzent": 1.5,
+            "treffer": false
+          }
+        }
+      }
     },
     {
       "woche": "2026-07-13",

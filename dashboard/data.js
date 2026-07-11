@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-10T21:23:10.382Z",
+ "erstellt": "2026-07-11T05:02:51.683Z",
  "wochenStart": "2026-07-05",
  "events": [
   {
@@ -2654,20 +2654,19 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Der Dollar hat den Boden gefunden — Falken-Protokoll + steigende Renditen + Öl-Comeback fangen die Jobschock-Delle auf. Nächste Woche entscheidet die US-Inflation (Di)",
   "tagesnews": {
-   "stand": "2026-07-10",
-   "wochentag": "Freitag",
-   "tenor": "Ruhiger Wochenausklang, aber mit Aha-Moment aus Kanada: Die kanadischen Jobzahlen überraschten POSITIV (+18.000 statt +11.000, Arbeitslosigkeit fiel auf 6,5%) — zusammen mit dem teureren Öl (WTI ~71$, +4% Woche) stützt das den Loonie. Der Dollar bleibt stabil bei ~100,8 (Boden gefunden nach der Jobschock-Delle). Der Yen ist weiter der große Verlierer (USD/JPY ~162,5, Interventionszone). Nächster großer Brocken: US-Inflation am Dienstag (14.7.).",
+   "stand": "2026-07-11",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — die Börsen ruhen, keine neuen Zahlen. Rückblick: Der Dollar hat sich nach der Jobschock-Delle stabilisiert (DXY ~101, kleines Wochenplus), der Yen erholte sich am Freitag überraschend deutlich (USD/JPY von ~162,5 zurück auf ~161,7 — Interventionsangst + fallende Risikofreude). Öl kam über die Woche stark zurück (WTI +4%, Brent +5,5%, Iran-Spannungen). Die kommende Woche entscheidet: DER große Brocken ist die US-Inflation am Dienstag (14.7.), dazu die Bank-of-Canada-Sitzung am Mittwoch.",
    "heute": [
-    "🇨🇦 KANADA-Jobs überraschen positiv: +18.000 neue Stellen (erwartet nur +11.000), Arbeitslosigkeit FIEL auf 6,5% (von 6,6%), Löhne +3,7%. Getragen von Jugend-Einstellungen (+33.000). Das nimmt der Notenbank Senkungsdruck und stützt zusammen mit dem teureren Öl den Loonie (kanadischer Dollar).",
-    "🇺🇸 DOLLAR stabil bei ~100,8: Nach der Jobschock-Delle der Vorwoche hat der Dollar einen Boden gefunden — das falkenhafte Fed-Protokoll (Mi), steigende Renditen (10J 4,55%) und das Öl-Comeback geben Halt. Kein Absturz, aber auch keine echte Erholung. Der Test ist die US-Inflation am Dienstag.",
-    "🛢️ ÖL zurück: WTI ~71$ (+4% auf die Woche), Brent ~76$, weil um den Iran neue Spannungen aufkamen. Stützt den kanadischen Dollar, belastet die Import-Länder Euroraum & Japan und treibt über die Inflationssorge die Renditen hoch.",
-    "🇯🇵 YEN weiter am Boden: USD/JPY ~162,5, nahe 40-Jahres-Tief. Steigende US-Renditen + teures Öl + entspannte Stimmung (VIX 15,7) belasten den zinslosen Yen. Japans Finanzministerium beobachtet nervös — eine Intervention wäre nur eine Bremsschwelle."
+    "🛌 SAMSTAG — Devisenmarkt geschlossen, keine Wirtschaftsdaten. Zeit fürs große Bild vor einer vollen Woche.",
+    "📅 AUSBLICK kommende Woche (13.–17.7.): Di 14.7. US-Inflation (CPI) um 14:30 = DAS Event der Woche — Kern erwartet +0,3% Monat / 2,9% Jahr. Heiß → falkenhafter Dollar kehrt zurück; kühl → die Jobschock-Story (schwacher Arbeitsmarkt) gewinnt. Mi 15.7. Bank of Canada (Halten bei 2,25% erwartet) + China-BIP; Do US-Einzelhandel + UK-BIP; Fr US-Verbrauchervertrauen (Michigan).",
+    "🧭 STAND der Kräfte: Dollar hat einen Boden gefunden, aber keinen Schub (falkenhaftes Fed-Protokoll gegen schwache Jobs). Risikofreude hoch (VIX ~15). Öl teuer stützt den Loonie (Kanada), belastet Euro/Yen. Yen bleibt der Wackelkandidat rund um die Interventionszone."
    ],
    "gestern": [
-    "🇺🇸 FED-PROTOKOLL falkenhaft (Mi Abend): 9 von 18 Mitgliedern wollen dieses Jahr noch mindestens eine Erhöhung, Senkungs-Hinweise gestrichen, PCE-Prognose 2026 bei 3,6%. ABER es ist ein ALTER Stand von VOR dem Jobschock → der Markt tat es weitgehend ab, Dollar bekam nur einen Boden, keinen Schub.",
-    "🇳🇿 RBNZ erhöhte auf 2,50% (Di, erste Anhebung seit 2023), bremste aber ('weitere Schritte ungewiss') → der Kiwi konnte kaum profitieren.",
-    "🇨🇳 CHINA-Inflation schwach (Do): Verbraucherpreise nur +1,0% (erwartet 1,2%) — die Nachfrage bleibt lahm. Leichter Dämpfer für Aussie & Kiwi. Fabrik-Preise dagegen +4,1% (teures Öl).",
-    "🇺🇸 ISM-Dienstleistungen 54,0 (Mo, wie erwartet) — solides Wachstum, ABER der Preis-Unterindex fiel kräftig (71,3 → 67,7): ein gutes Vorzeichen für eine kühlere Kern-Inflation nächste Woche."
+    "🇯🇵 YEN erholt sich (Fr): USD/JPY fiel zurück auf ~161,7 (−0,4% am Tag) — der Yen machte die Wochenverluste wett, weil Händler nervös auf eine mögliche Intervention Japans schielten (nahe 40-Jahres-Tief) und Öl-/Iran-Spannungen die Risikofreude etwas dämpften.",
+    "🇨🇦 KANADA-Jobs überraschten positiv (Fr): +18.000 Stellen (erwartet +11.000), Arbeitslosigkeit fiel auf 6,5%, Löhne +3,7%. Zusammen mit teurem Öl stützt das den kanadischen Dollar und nimmt der Notenbank Senkungsdruck vor der Sitzung am Mittwoch.",
+    "🛢️ ÖL-Comeback über die Woche: WTI ~71,5$ (+4%), Brent ~76$ (+5,5%) wegen neuer Iran-Spannungen — treibt über die Inflationssorge die US-Renditen hoch (10J 4,57%) und gibt dem Dollar Halt.",
+    "🇺🇸 FED-PROTOKOLL falkenhaft (Mi): 9 von 18 wollen dieses Jahr noch eine Erhöhung — aber ALTER Stand VOR dem Jobschock, deshalb weitgehend abgetan. 🇳🇿 RBNZ erhöhte auf 2,50%, bremste aber verbal. 🇨🇳 China-Inflation schwach (+1,0%)."
    ]
   },
   "lage": [

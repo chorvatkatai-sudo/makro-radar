@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-13T05:04:35.707Z",
+  "stand": "2026-07-13T11:54:46.096Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Softens below 112.50, bearish tone prevails",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-softens-below-11250-bearish-tone-prevails-202607130444",
-      "datum": "2026-07-13T04:44:35.000Z"
+      "titel": "Gold Price Forecast: XAU/USD drifts below $4,100, but bears start to look exhausted",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-drifts-below-4-100-but-bears-start-to-look-exhausted-202607131146",
+      "datum": "2026-07-13T11:46:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Supported against US Dollar by steady BoC outlook – BNY",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-supported-against-us-dollar-by-steady-boc-outlook-bny-202607131132",
+      "datum": "2026-07-13T11:32:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/USD Price Forecast: Bounces back to near 1.3400 as US Dollar turns upside down",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bounces-back-to-near-13400-as-us-dollar-turns-upside-down-202607131129",
+      "datum": "2026-07-13T11:29:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Fed data focus supports modest gains – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-data-focus-supports-modest-gains-bbh-202607131121",
+      "datum": "2026-07-13T11:21:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Kiwi nears 0.5800 as RBNZ tightening hopes offset risk aversion",
+      "link": "https://www.fxstreet.com/news/kiwi-nears-05800-as-rbnz-tightening-hopes-offset-risk-aversion-202607131113",
+      "datum": "2026-07-13T11:13:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold declines as renewed US-Iran hostilities boost Oil prices, Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-renewed-us-iran-hostilities-boost-oil-prices-fed-rate-hike-bets-202607131112",
+      "datum": "2026-07-13T11:12:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: ECB support limits gains against euro – Rabobank",
+      "link": "https://www.fxstreet.com/news/swiss-franc-ecb-support-limits-gains-against-euro-rabobank-202607131111",
+      "datum": "2026-07-13T11:11:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Polish Zloty: Dovish NBP pressures PLN against Euro – ING",
+      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-nbp-pressures-pln-against-euro-ing-202607131102",
+      "datum": "2026-07-13T11:02:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "India's annual inflation rate breaches the RBI target for the first time in 16 months rising to 4.38% in June",
+      "link": "https://investinglive.com/news/india-s-annual-inflation-rate-breaches-the-rbi-target-for-the-first-time-in-16-months-rising-to-4-38-in-june/",
+      "datum": "2026-07-13T10:45:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee weakens amid surging Oil prices, India's CPI rises strongly",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-sharpy-lower-amid-higher-us-dollar-oil-prices-202607130517",
+      "datum": "2026-07-13T10:44:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India’s retail CPI rises strongly by 4.38% in June, beats 4.3% estimates",
+      "link": "https://www.fxstreet.com/news/indias-retail-cpi-rises-strongly-by-438-in-june-beats-43-estimates-202607131037",
+      "datum": "2026-07-13T10:37:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Momentum fades into sideways band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-momentum-fades-into-sideways-band-against-us-dollar-uob-202607131003",
+      "datum": "2026-07-13T10:03:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: Range-bound trade risks around CPI – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-range-bound-trade-risks-around-cpi-societe-generale-202607130947",
+      "datum": "2026-07-13T09:47:57.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran foreign ministry says mediators are still continuing efforts to remedy the situation",
+      "link": "https://investinglive.com/news/iran-foreign-ministry-says-mediators-are-still-continuing-efforts-to-remedy-the-situation/",
+      "datum": "2026-07-13T08:17:52.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran reaffirms it won't keep its end of the deal so long as the US doesn't as well",
+      "link": "https://investinglive.com/news/iran-reaffirms-it-won-t-keep-its-end-of-the-deal-so-long-as-the-us-doesn-t-as-well/",
+      "datum": "2026-07-13T07:40:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan chief cabinet secretary reaffirms that GPIF is to tweak basic portfolio as needed",
+      "link": "https://investinglive.com/news/japan-chief-cabinet-secretary-reaffirms-that-gpif-is-to-tweak-basic-portfolio-as-needed/",
+      "datum": "2026-07-13T07:19:43.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "US-Iran tensions continue to dominate proceedings in the new week",
       "link": "https://investinglive.com/news/us-iran-tensions-continue-to-dominate-proceedings-in-the-new-week/",
-      "datum": "2026-07-13T04:43:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah declines on increased risk aversion",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-on-increased-risk-aversion-202607130438",
-      "datum": "2026-07-13T04:38:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Climbs above $74.00; bearish bias intact below 23.6% Fibo./200-EMA",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-climbs-above-7400-bearish-bias-intact-below-236-fibo-200-ema-202607130436",
-      "datum": "2026-07-13T04:36:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607130436",
-      "datum": "2026-07-13T04:36:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold slides back closer to $4,050 as Iran risks and Fed hike bets boost USD",
-      "link": "https://www.fxstreet.com/news/gold-slides-back-closer-to-4-050-as-iran-risks-and-fed-hike-bets-boost-usd-202607130416",
-      "datum": "2026-07-13T04:16:04.000Z"
+      "datum": "2026-07-13T06:33:50.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-pacific FX news wrap 13 Jul",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-13-jul/",
-      "datum": "2026-07-13T03:42:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc weakens as US Dollar rises on safe-haven demand",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-rises-on-safe-haven-demand-202607130339",
-      "datum": "2026-07-13T03:39:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Flag breakdown supports more downside towards 1.1325",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-flag-breakdown-supports-more-downside-towards-11325-202607130317",
-      "datum": "2026-07-13T03:17:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Edges higher above 184.50, but stays capped by clustered resistance",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-edges-higher-above-18450-but-stays-capped-by-clustered-resistance-202607130255",
-      "datum": "2026-07-13T02:55:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Retreats further from multi-week top but holds above 0.6900",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-retreats-further-from-multi-week-top-but-holds-above-06900-202607130224",
-      "datum": "2026-07-13T02:24:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index holds above 101.00 on Middle East tensions",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-above-10100-on-middle-east-tensions-202607130218",
-      "datum": "2026-07-13T02:18:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar edges lower as US launches new wave of strikes against Iran",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-lower-as-us-launches-new-wave-of-strikes-against-iran-202607130207",
-      "datum": "2026-07-13T02:07:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD falls to near $59.00 amid rising US-Iran strikes",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-5900-amid-rising-us-iran-strikes-202607130148",
-      "datum": "2026-07-13T01:48:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Monday, July 13, 2026 - empty ahead",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-july-13-2026-empty-ahead/",
-      "datum": "2026-07-12T22:44:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NZ services sector returns to growth as PSI hits 50.6 in June",
-      "link": "https://investinglive.com/news/nz-services-sector-returns-to-growth-as-psi-hits-50-6-in-june/",
-      "datum": "2026-07-12T22:36:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Incoming UK PM Burnham eyes expansive autumn budget, may merge fiscal statement with spending review - reports",
-      "link": "https://investinglive.com/news/incoming-uk-pm-burnham-eyes-expansive-autumn-budget-may-merge-fiscal-statement-with-spending-review-reports/",
-      "datum": "2026-07-12T21:35:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Weeknd ICYMI: Iran closes Strait of Hormuz, expands Gulf strikes after US hits Iranian targets",
-      "link": "https://investinglive.com/news/weeknd-icymi-iran-closes-strait-of-hormuz-expands-gulf-strikes-after-us-hits-iranian-targets/",
-      "datum": "2026-07-12T20:32:43.000Z"
+      "titel": "Back to the drawing board on the Strait of Hormuz",
+      "link": "https://investinglive.com/news/back-to-the-drawing-board-on-the-strait-of-hormuz/",
+      "datum": "2026-07-13T06:32:40.000Z"
     }
   ]
 }

@@ -1345,7 +1345,7 @@
     "title": "PPI YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "13.6",
+    "previous": "13.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1355,7 +1355,7 @@
     "title": "PPI MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.2",
+    "previous": "1.2%",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-13T11:54:46.096Z",
+  "stand": "2026-07-13T14:16:49.119Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,81 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD drifts below $4,100, but bears start to look exhausted",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-drifts-below-4-100-but-bears-start-to-look-exhausted-202607131146",
-      "datum": "2026-07-13T11:46:24.000Z"
+      "titel": "Fed: Inflation risks and policy hold – TD Securities",
+      "link": "https://www.fxstreet.com/news/fed-inflation-risks-and-policy-hold-td-securities-202607131347",
+      "datum": "2026-07-13T13:47:30.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Supported against US Dollar by steady BoC outlook – BNY",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-supported-against-us-dollar-by-steady-boc-outlook-bny-202607131132",
-      "datum": "2026-07-13T11:32:33.000Z"
+      "titel": "Switzerland: Federalism and direct democracy as growth drivers – Commerzbank",
+      "link": "https://www.fxstreet.com/news/switzerland-federalism-and-direct-democracy-as-growth-drivers-commerzbank-202607131334",
+      "datum": "2026-07-13T13:34:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Bounces back to near 1.3400 as US Dollar turns upside down",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bounces-back-to-near-13400-as-us-dollar-turns-upside-down-202607131129",
-      "datum": "2026-07-13T11:29:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fed data focus supports modest gains – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-data-focus-supports-modest-gains-bbh-202607131121",
-      "datum": "2026-07-13T11:21:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Kiwi nears 0.5800 as RBNZ tightening hopes offset risk aversion",
-      "link": "https://www.fxstreet.com/news/kiwi-nears-05800-as-rbnz-tightening-hopes-offset-risk-aversion-202607131113",
-      "datum": "2026-07-13T11:13:51.000Z"
+      "titel": "Why the Swiss Franc isn’t likely to move far from 0.9200 against the Euro",
+      "link": "https://www.fxstreet.com/news/why-the-swiss-franc-isnt-likely-to-move-far-from-09200-against-the-euro-202607131327",
+      "datum": "2026-07-13T13:27:53.000Z"
     },
     {
       "quelle": "FXStreet",
       "titel": "Gold declines as renewed US-Iran hostilities boost Oil prices, Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/gold-declines-as-renewed-us-iran-hostilities-boost-oil-prices-fed-rate-hike-bets-202607131112",
-      "datum": "2026-07-13T11:12:06.000Z"
+      "datum": "2026-07-13T13:26:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc: ECB support limits gains against euro – Rabobank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-ecb-support-limits-gains-against-euro-rabobank-202607131111",
-      "datum": "2026-07-13T11:11:09.000Z"
+      "titel": "Iran warns US against Hormuz transit",
+      "link": "https://www.fxstreet.com/news/iran-warns-us-against-hormuz-transit-202607131325",
+      "datum": "2026-07-13T13:25:13.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Polish Zloty: Dovish NBP pressures PLN against Euro – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-nbp-pressures-pln-against-euro-ing-202607131102",
-      "datum": "2026-07-13T11:02:43.000Z"
+      "titel": "Silver Price Forecast: XAG/USD remains range-bound with a bearish bias",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-range-bound-with-a-bearish-bias-202607131320",
+      "datum": "2026-07-13T13:20:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: GPIF narrative keeps FX volatility elevated – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gpif-narrative-keeps-fx-volatility-elevated-bny-202607131317",
+      "datum": "2026-07-13T13:17:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US 2-year yields touched the highest since February 2025",
+      "link": "https://investinglive.com/news/us-2-year-yields-touched-the-highest-since-february-2025/",
+      "datum": "2026-07-13T13:06:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Geopolitics and inflation risks support Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-and-inflation-risks-support-dollar-mufg-202607131306",
+      "datum": "2026-07-13T13:06:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: SNB intervention and cautious policy stance – Rabobank",
+      "link": "https://www.fxstreet.com/news/swiss-franc-snb-intervention-and-cautious-policy-stance-rabobank-202607131255",
+      "datum": "2026-07-13T12:55:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Strait of Hormuz risks reshape macro mix – BNY",
+      "link": "https://www.fxstreet.com/news/oil-strait-of-hormuz-risks-reshape-macro-mix-bny-202607131244",
+      "datum": "2026-07-13T12:44:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro climbs above 1.1400 as US Dollar loses ground",
+      "link": "https://www.fxstreet.com/news/euro-climbs-above-11400-as-us-dollar-loses-ground-202607131234",
+      "datum": "2026-07-13T12:34:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: We're taking over the Strait of Hormuz",
+      "link": "https://investinglive.com/news/trump-we-re-taking-over-the-strait-of-hormuz/",
+      "datum": "2026-07-13T12:33:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US President Trump: We are taking over the Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/us-president-trump-we-are-taking-over-the-strait-of-hormuz-202607131231",
+      "datum": "2026-07-13T12:31:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Oil holds higher as US-Iran tensions stay in focus",
+      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-13-jul/",
+      "datum": "2026-07-13T11:58:25.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "India's annual inflation rate breaches the RBI target for the first time in 16 months rising to 4.38% in June",
       "link": "https://investinglive.com/news/india-s-annual-inflation-rate-breaches-the-rbi-target-for-the-first-time-in-16-months-rising-to-4-38-in-june/",
       "datum": "2026-07-13T10:45:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee weakens amid surging Oil prices, India's CPI rises strongly",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-sharpy-lower-amid-higher-us-dollar-oil-prices-202607130517",
-      "datum": "2026-07-13T10:44:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India’s retail CPI rises strongly by 4.38% in June, beats 4.3% estimates",
-      "link": "https://www.fxstreet.com/news/indias-retail-cpi-rises-strongly-by-438-in-june-beats-43-estimates-202607131037",
-      "datum": "2026-07-13T10:37:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Momentum fades into sideways band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-momentum-fades-into-sideways-band-against-us-dollar-uob-202607131003",
-      "datum": "2026-07-13T10:03:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: Range-bound trade risks around CPI – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-range-bound-trade-risks-around-cpi-societe-generale-202607130947",
-      "datum": "2026-07-13T09:47:57.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "Iran reaffirms it won't keep its end of the deal so long as the US doesn't as well",
       "link": "https://investinglive.com/news/iran-reaffirms-it-won-t-keep-its-end-of-the-deal-so-long-as-the-us-doesn-t-as-well/",
       "datum": "2026-07-13T07:40:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan chief cabinet secretary reaffirms that GPIF is to tweak basic portfolio as needed",
-      "link": "https://investinglive.com/news/japan-chief-cabinet-secretary-reaffirms-that-gpif-is-to-tweak-basic-portfolio-as-needed/",
-      "datum": "2026-07-13T07:19:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US-Iran tensions continue to dominate proceedings in the new week",
-      "link": "https://investinglive.com/news/us-iran-tensions-continue-to-dominate-proceedings-in-the-new-week/",
-      "datum": "2026-07-13T06:33:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Back to the drawing board on the Strait of Hormuz",
-      "link": "https://investinglive.com/news/back-to-the-drawing-board-on-the-strait-of-hormuz/",
-      "datum": "2026-07-13T06:32:40.000Z"
     }
   ]
 }

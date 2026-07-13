@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-13T14:16:49.119Z",
+  "stand": "2026-07-13T17:09:04.846Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,46 +7,88 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "Fed: Inflation risks and policy hold – TD Securities",
-      "link": "https://www.fxstreet.com/news/fed-inflation-risks-and-policy-hold-td-securities-202607131347",
-      "datum": "2026-07-13T13:47:30.000Z"
+      "quelle": "ForexLive",
+      "titel": "Tasnim Reports: Reports on attack on Abha International Airport in southern Saudi Arabia",
+      "link": "https://investinglive.com/news/tasnim-reports-reports-on-attack-on-abha-international-airport-in-southern-saudi-arabia/",
+      "datum": "2026-07-13T17:06:58.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Switzerland: Federalism and direct democracy as growth drivers – Commerzbank",
-      "link": "https://www.fxstreet.com/news/switzerland-federalism-and-direct-democracy-as-growth-drivers-commerzbank-202607131334",
-      "datum": "2026-07-13T13:34:29.000Z"
+      "titel": "Crude Oil finds a toll booth where its ceasefire used to be",
+      "link": "https://www.fxstreet.com/news/crude-oil-finds-a-toll-booth-where-its-ceasefire-used-to-be-202607131634",
+      "datum": "2026-07-13T16:34:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Why the Swiss Franc isn’t likely to move far from 0.9200 against the Euro",
-      "link": "https://www.fxstreet.com/news/why-the-swiss-franc-isnt-likely-to-move-far-from-09200-against-the-euro-202607131327",
-      "datum": "2026-07-13T13:27:53.000Z"
+      "titel": "Australian Dollar falls as US-Iran tensions weigh on risk sentiment",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-as-us-iran-tensions-weigh-on-risk-sentiment-202607131621",
+      "datum": "2026-07-13T16:21:32.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold declines as renewed US-Iran hostilities boost Oil prices, Fed rate hike bets",
+      "titel": "Swiss Franc drops to a more than two-week low against the US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-drops-to-a-more-than-two-week-low-against-the-us-dollar-202607131620",
+      "datum": "2026-07-13T16:20:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Equities: Positioning signals recovery optionality – BNY",
+      "link": "https://www.fxstreet.com/news/equities-positioning-signals-recovery-optionality-bny-202607131551",
+      "datum": "2026-07-13T15:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound falls as Oil shock boosts the US Dollar",
+      "link": "https://www.fxstreet.com/news/british-pound-falls-as-oil-shock-boosts-the-us-dollar-202607131547",
+      "datum": "2026-07-13T15:47:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average wobbles while Washington opens a toll booth in the Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-wobbles-while-washington-opens-a-toll-booth-in-the-strait-of-hormuz-202607131542",
+      "datum": "2026-07-13T15:42:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold eyes $4,000 as renewed US-Iran hostilities boost Oil prices, Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/gold-declines-as-renewed-us-iran-hostilities-boost-oil-prices-fed-rate-hike-bets-202607131112",
-      "datum": "2026-07-13T13:26:39.000Z"
+      "datum": "2026-07-13T15:08:55.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Iran warns US against Hormuz transit",
-      "link": "https://www.fxstreet.com/news/iran-warns-us-against-hormuz-transit-202607131325",
-      "datum": "2026-07-13T13:25:13.000Z"
+      "titel": "Canadian Dollar gains as Oil prices surge on Middle East supply risks",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-oil-prices-surge-on-middle-east-supply-risks-202607131458",
+      "datum": "2026-07-13T14:58:47.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD remains range-bound with a bearish bias",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-range-bound-with-a-bearish-bias-202607131320",
-      "datum": "2026-07-13T13:20:39.000Z"
+      "titel": "Commodities: Forward curves and carry framework – Societe Generale",
+      "link": "https://www.fxstreet.com/news/commodities-forward-curves-and-carry-framework-societe-generale-202607131454",
+      "datum": "2026-07-13T14:54:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: GPIF narrative keeps FX volatility elevated – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gpif-narrative-keeps-fx-volatility-elevated-bny-202607131317",
-      "datum": "2026-07-13T13:17:31.000Z"
+      "titel": "President Trump declares US ‘Guardian of the Hormuz Strait’",
+      "link": "https://www.fxstreet.com/news/us-president-trump-declares-us-guardian-of-the-hormuz-strait-202607131443",
+      "datum": "2026-07-13T14:43:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Denmark: Goods resilience offsets weaker services – Danske Bank",
+      "link": "https://www.fxstreet.com/news/denmark-goods-resilience-offsets-weaker-services-danske-bank-202607131435",
+      "datum": "2026-07-13T14:35:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump reimposes Iran blockade, places 20% toll on Hormuz shipping",
+      "link": "https://investinglive.com/news/trump-reimposes-iran-blockade-places-20-toll-on-hormuz-shipping/",
+      "datum": "2026-07-13T14:31:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Higher energy prices pressure JPY – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-higher-energy-prices-pressure-jpy-mufg-202607131420",
+      "datum": "2026-07-13T14:20:11.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -55,40 +97,10 @@
       "datum": "2026-07-13T13:06:20.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Geopolitics and inflation risks support Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-and-inflation-risks-support-dollar-mufg-202607131306",
-      "datum": "2026-07-13T13:06:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: SNB intervention and cautious policy stance – Rabobank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-snb-intervention-and-cautious-policy-stance-rabobank-202607131255",
-      "datum": "2026-07-13T12:55:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Strait of Hormuz risks reshape macro mix – BNY",
-      "link": "https://www.fxstreet.com/news/oil-strait-of-hormuz-risks-reshape-macro-mix-bny-202607131244",
-      "datum": "2026-07-13T12:44:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro climbs above 1.1400 as US Dollar loses ground",
-      "link": "https://www.fxstreet.com/news/euro-climbs-above-11400-as-us-dollar-loses-ground-202607131234",
-      "datum": "2026-07-13T12:34:43.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump: We're taking over the Strait of Hormuz",
       "link": "https://investinglive.com/news/trump-we-re-taking-over-the-strait-of-hormuz/",
       "datum": "2026-07-13T12:33:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US President Trump: We are taking over the Strait of Hormuz",
-      "link": "https://www.fxstreet.com/news/us-president-trump-we-are-taking-over-the-strait-of-hormuz-202607131231",
-      "datum": "2026-07-13T12:31:39.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "India's annual inflation rate breaches the RBI target for the first time in 16 months rising to 4.38% in June",
       "link": "https://investinglive.com/news/india-s-annual-inflation-rate-breaches-the-rbi-target-for-the-first-time-in-16-months-rising-to-4-38-in-june/",
       "datum": "2026-07-13T10:45:35.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran foreign ministry says mediators are still continuing efforts to remedy the situation",
-      "link": "https://investinglive.com/news/iran-foreign-ministry-says-mediators-are-still-continuing-efforts-to-remedy-the-situation/",
-      "datum": "2026-07-13T08:17:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran reaffirms it won't keep its end of the deal so long as the US doesn't as well",
-      "link": "https://investinglive.com/news/iran-reaffirms-it-won-t-keep-its-end-of-the-deal-so-long-as-the-us-doesn-t-as-well/",
-      "datum": "2026-07-13T07:40:53.000Z"
     }
   ]
 }

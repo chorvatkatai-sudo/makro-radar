@@ -36,7 +36,7 @@
     "country": "USD",
     "date": "2026-07-13T14:00:00-04:00",
     "impact": "Low",
-    "forecast": "-132.8B",
+    "forecast": "-135.8B",
     "previous": "-292.6B"
   },
   {
@@ -60,7 +60,7 @@
     "country": "GBP",
     "date": "2026-07-13T19:01:00-04:00",
     "impact": "Low",
-    "forecast": "2.9%",
+    "forecast": "2.6%",
     "previous": "3.4%"
   },
   {
@@ -84,7 +84,7 @@
     "country": "CNY",
     "date": "2026-07-13T22:03:00-04:00",
     "impact": "Low",
-    "forecast": "820B",
+    "forecast": "810B",
     "previous": "724B"
   },
   {
@@ -92,7 +92,7 @@
     "country": "CNY",
     "date": "2026-07-13T22:04:00-04:00",
     "impact": "Low",
-    "forecast": "121.4B",
+    "forecast": "119.5B",
     "previous": "105.4B"
   },
   {
@@ -108,7 +108,7 @@
     "country": "EUR",
     "date": "2026-07-14T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.5%",
     "previous": "-0.6%"
   },
   {
@@ -156,7 +156,7 @@
     "country": "USD",
     "date": "2026-07-14T06:00:00-04:00",
     "impact": "Low",
-    "forecast": "95.6",
+    "forecast": "95.8",
     "previous": "95.3"
   },
   {
@@ -308,7 +308,7 @@
     "country": "CNY",
     "date": "2026-07-14T22:00:00-04:00",
     "impact": "Low",
-    "forecast": "4.6%",
+    "forecast": "4.7%",
     "previous": "4.5%"
   },
   {
@@ -448,20 +448,20 @@
     "previous": ""
   },
   {
-    "title": "BOC Press Conference",
-    "country": "CAD",
-    "date": "2026-07-15T10:30:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Crude Oil Inventories",
     "country": "USD",
     "date": "2026-07-15T10:30:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "3.0M"
+  },
+  {
+    "title": "BOC Press Conference",
+    "country": "CAD",
+    "date": "2026-07-15T10:45:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "German Buba President Nagel Speaks",

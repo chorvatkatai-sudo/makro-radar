@@ -3786,7 +3786,7 @@
       "land": "USD",
       "titel": "Federal Budget Balance",
       "impact": "Low",
-      "prognose": "-132.8B",
+      "prognose": "-135.8B",
       "vorher": "-292.6B",
       "actual": null,
       "notiz": null
@@ -3816,7 +3816,7 @@
       "land": "GBP",
       "titel": "BRC Retail Sales Monitor y/y",
       "impact": "Low",
-      "prognose": "2.9%",
+      "prognose": "2.6%",
       "vorher": "3.4%",
       "actual": null,
       "notiz": null
@@ -3846,7 +3846,7 @@
       "land": "CNY",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "820B",
+      "prognose": "810B",
       "vorher": "724B",
       "actual": null,
       "notiz": null
@@ -3856,7 +3856,7 @@
       "land": "CNY",
       "titel": "USD-Denominated Trade Balance",
       "impact": "Low",
-      "prognose": "121.4B",
+      "prognose": "119.5B",
       "vorher": "105.4B",
       "actual": null,
       "notiz": null
@@ -3876,7 +3876,7 @@
       "land": "EUR",
       "titel": "German WPI m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.5%",
       "vorher": "-0.6%",
       "actual": null,
       "notiz": null
@@ -3916,7 +3916,7 @@
       "land": "USD",
       "titel": "NFIB Small Business Index",
       "impact": "Low",
-      "prognose": "95.6",
+      "prognose": "95.8",
       "vorher": "95.3",
       "actual": null,
       "notiz": null
@@ -4106,7 +4106,7 @@
       "land": "CNY",
       "titel": "Industrial Production y/y",
       "impact": "Low",
-      "prognose": "4.6%",
+      "prognose": "4.7%",
       "vorher": "4.5%",
       "actual": null,
       "notiz": null
@@ -4718,6 +4718,16 @@
       "impact": "Low",
       "prognose": "1950B",
       "vorher": "520B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-15T10:45:00-04:00|CAD|BOC Press Conference": {
+      "datum": "2026-07-15T10:45:00-04:00",
+      "land": "CAD",
+      "titel": "BOC Press Conference",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

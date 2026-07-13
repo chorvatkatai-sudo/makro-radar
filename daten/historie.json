@@ -4206,7 +4206,7 @@
       "land": "USD",
       "titel": "Core PPI m/m",
       "impact": "High",
-      "prognose": "0.3%",
+      "prognose": "0.4%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -4226,7 +4226,7 @@
       "land": "USD",
       "titel": "Empire State Manufacturing Index",
       "impact": "Low",
-      "prognose": "8.7",
+      "prognose": "9.4",
       "vorher": "5.7",
       "actual": null,
       "notiz": null
@@ -4356,7 +4356,7 @@
       "land": "GBP",
       "titel": "GDP m/m",
       "impact": "High",
-      "prognose": "0.1%",
+      "prognose": "0.0%",
       "vorher": "-0.1%",
       "actual": null,
       "notiz": null
@@ -4376,7 +4376,7 @@
       "land": "GBP",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-22.8B",
+      "prognose": "-23.1B",
       "vorher": "-26.0B",
       "actual": null,
       "notiz": null
@@ -4426,7 +4426,7 @@
       "land": "EUR",
       "titel": "Italian Trade Balance",
       "impact": "Low",
-      "prognose": "4.50B",
+      "prognose": "4.83B",
       "vorher": "4.29B",
       "actual": null,
       "notiz": null
@@ -4436,7 +4436,7 @@
       "land": "EUR",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "2.5B",
+      "prognose": "2.8B",
       "vorher": "1.3B",
       "actual": null,
       "notiz": null
@@ -4456,7 +4456,7 @@
       "land": "CAD",
       "titel": "Housing Starts",
       "impact": "Low",
-      "prognose": "257K",
+      "prognose": "256K",
       "vorher": "261K",
       "actual": null,
       "notiz": null
@@ -4466,7 +4466,7 @@
       "land": "USD",
       "titel": "Core Retail Sales m/m",
       "impact": "Medium",
-      "prognose": "-0.1%",
+      "prognose": "0.0%",
       "vorher": "0.8%",
       "actual": null,
       "notiz": null
@@ -4476,7 +4476,7 @@
       "land": "USD",
       "titel": "Philly Fed Manufacturing Index",
       "impact": "Medium",
-      "prognose": "12.1",
+      "prognose": "12.7",
       "vorher": "10.3",
       "actual": null,
       "notiz": null
@@ -4486,7 +4486,7 @@
       "land": "USD",
       "titel": "Retail Sales m/m",
       "impact": "Medium",
-      "prognose": "0.3%",
+      "prognose": "0.2%",
       "vorher": "0.9%",
       "actual": null,
       "notiz": null
@@ -4496,7 +4496,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "215K",
+      "prognose": "216K",
       "vorher": "215K",
       "actual": null,
       "notiz": null
@@ -4526,7 +4526,7 @@
       "land": "USD",
       "titel": "Pending Home Sales m/m",
       "impact": "Low",
-      "prognose": "-0.3%",
+      "prognose": "-0.4%",
       "vorher": "3.8%",
       "actual": null,
       "notiz": null
@@ -4596,7 +4596,7 @@
       "land": "EUR",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "17.1B",
+      "prognose": "18.1B",
       "vorher": "15.7B",
       "actual": null,
       "notiz": null
@@ -4646,7 +4646,7 @@
       "land": "USD",
       "titel": "Housing Starts",
       "impact": "Low",
-      "prognose": "1.32M",
+      "prognose": "1.31M",
       "vorher": "1.18M",
       "actual": null,
       "notiz": null
@@ -4656,7 +4656,7 @@
       "land": "USD",
       "titel": "Import Prices m/m",
       "impact": "Low",
-      "prognose": "-0.4%",
+      "prognose": "-0.7%",
       "vorher": "1.9%",
       "actual": null,
       "notiz": null
@@ -4686,7 +4686,7 @@
       "land": "USD",
       "titel": "Prelim UoM Consumer Sentiment",
       "impact": "Medium",
-      "prognose": "51.4",
+      "prognose": "51.0",
       "vorher": "48.9",
       "actual": null,
       "notiz": null
@@ -4728,6 +4728,16 @@
       "impact": "High",
       "prognose": "",
       "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-13T13:59:00-04:00|USD|Federal Budget Balance": {
+      "datum": "2026-07-13T13:59:00-04:00",
+      "land": "USD",
+      "titel": "Federal Budget Balance",
+      "impact": "Low",
+      "prognose": "-135.8B",
+      "vorher": "-292.6B",
       "actual": null,
       "notiz": null
     }

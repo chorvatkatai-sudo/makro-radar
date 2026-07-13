@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-13T17:09:04.848Z",
+ "erstellt": "2026-07-13T19:15:23.687Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -30,21 +30,21 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
+   "title": "Federal Budget Balance",
+   "country": "USD",
+   "date": "2026-07-13T13:59:00-04:00",
+   "impact": "Low",
+   "forecast": "-135.8B",
+   "previous": "-292.6B",
+   "actual": null
+  },
+  {
    "title": "MPC Member Pill Speaks",
    "country": "GBP",
    "date": "2026-07-13T14:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
-   "actual": null
-  },
-  {
-   "title": "Federal Budget Balance",
-   "country": "USD",
-   "date": "2026-07-13T14:00:00-04:00",
-   "impact": "Low",
-   "forecast": "-135.8B",
-   "previous": "-292.6B",
    "actual": null
   },
   {
@@ -439,7 +439,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-15T08:30:00-04:00",
    "impact": "High",
-   "forecast": "0.3%",
+   "forecast": "0.4%",
    "previous": "0.4%",
    "actual": null
   },
@@ -457,7 +457,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-15T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "8.7",
+   "forecast": "9.4",
    "previous": "5.7",
    "actual": null
   },
@@ -574,7 +574,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "date": "2026-07-16T02:00:00-04:00",
    "impact": "High",
-   "forecast": "0.1%",
+   "forecast": "0.0%",
    "previous": "-0.1%",
    "actual": null
   },
@@ -592,7 +592,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "date": "2026-07-16T02:00:00-04:00",
    "impact": "Low",
-   "forecast": "-22.8B",
+   "forecast": "-23.1B",
    "previous": "-26.0B",
    "actual": null
   },
@@ -637,7 +637,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "date": "2026-07-16T05:00:00-04:00",
    "impact": "Low",
-   "forecast": "4.50B",
+   "forecast": "4.83B",
    "previous": "4.29B",
    "actual": null
   },
@@ -646,7 +646,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "date": "2026-07-16T05:00:00-04:00",
    "impact": "Low",
-   "forecast": "2.5B",
+   "forecast": "2.8B",
    "previous": "1.3B",
    "actual": null
   },
@@ -664,7 +664,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "date": "2026-07-16T08:15:00-04:00",
    "impact": "Low",
-   "forecast": "257K",
+   "forecast": "256K",
    "previous": "261K",
    "actual": null
   },
@@ -673,7 +673,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-16T08:30:00-04:00",
    "impact": "Medium",
-   "forecast": "-0.1%",
+   "forecast": "0.0%",
    "previous": "0.8%",
    "actual": null
   },
@@ -682,7 +682,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-16T08:30:00-04:00",
    "impact": "Medium",
-   "forecast": "12.1",
+   "forecast": "12.7",
    "previous": "10.3",
    "actual": null
   },
@@ -691,7 +691,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-16T08:30:00-04:00",
    "impact": "Medium",
-   "forecast": "0.3%",
+   "forecast": "0.2%",
    "previous": "0.9%",
    "actual": null
   },
@@ -700,7 +700,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-16T08:30:00-04:00",
    "impact": "Medium",
-   "forecast": "215K",
+   "forecast": "216K",
    "previous": "215K",
    "actual": null
   },
@@ -727,7 +727,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-16T10:00:00-04:00",
    "impact": "Low",
-   "forecast": "-0.3%",
+   "forecast": "-0.4%",
    "previous": "3.8%",
    "actual": null
   },
@@ -790,7 +790,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "date": "2026-07-17T04:00:00-04:00",
    "impact": "Low",
-   "forecast": "17.1B",
+   "forecast": "18.1B",
    "previous": "15.7B",
    "actual": null
   },
@@ -835,7 +835,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-17T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "1.32M",
+   "forecast": "1.31M",
    "previous": "1.18M",
    "actual": null
   },
@@ -844,7 +844,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-17T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "-0.4%",
+   "forecast": "-0.7%",
    "previous": "1.9%",
    "actual": null
   },
@@ -871,7 +871,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-07-17T10:00:00-04:00",
    "impact": "Medium",
-   "forecast": "51.4",
+   "forecast": "51.0",
    "previous": "48.9",
    "actual": null
   },
@@ -3013,7 +3013,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-13T17:09:04.201Z",
+  "stand": "2026-07-13T19:15:23.059Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3050,9 +3050,9 @@ window.MAKRO_DATA = {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.73,
+    "wert": 17.03,
     "tagProzent": 0,
-    "wocheProzent": 3.72,
+    "wocheProzent": 5.58,
     "renditeDelta": false,
     "verlauf": [
      16.2,
@@ -3073,17 +3073,17 @@ window.MAKRO_DATA = {
      16.9,
      15.84,
      15.03,
-     16.73,
-     16.73
+     17.03,
+     17.03
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 75.8,
+    "wert": 77.59,
     "tagProzent": 0,
-    "wocheProzent": 7.61,
+    "wocheProzent": 10.15,
     "renditeDelta": false,
     "verlauf": [
      80.75,
@@ -3104,17 +3104,17 @@ window.MAKRO_DATA = {
      73.52,
      72.08,
      71.41,
-     75.8,
-     75.8
+     77.59,
+     77.59
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 80.65,
+    "wert": 82.73,
     "tagProzent": 0,
-    "wocheProzent": 8.75,
+    "wocheProzent": 11.56,
     "renditeDelta": false,
     "verlauf": [
      83.17,
@@ -3135,17 +3135,17 @@ window.MAKRO_DATA = {
      78.02,
      76.3,
      76.01,
-     80.65,
-     80.65
+     82.73,
+     82.73
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3998.4,
+    "wert": 4011.4,
     "tagProzent": 0,
-    "wocheProzent": -3.54,
+    "wocheProzent": -3.23,
     "renditeDelta": false,
     "verlauf": [
      4328,
@@ -3166,8 +3166,8 @@ window.MAKRO_DATA = {
      4070.9,
      4130.6,
      4104.1,
-     3998.4,
-     3998.4
+     4011.4,
+     4011.4
     ]
    },
    "US02Y": {
@@ -3204,9 +3204,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.616,
+    "wert": 4.609,
     "tagProzent": 0,
-    "wocheProzent": 0.09,
+    "wocheProzent": 0.08,
     "renditeDelta": true,
     "verlauf": [
      4.469,
@@ -3227,17 +3227,17 @@ window.MAKRO_DATA = {
      4.569,
      4.539,
      4.569,
-     4.616,
-     4.616
+     4.609,
+     4.609
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.101,
+    "wert": 5.098,
     "tagProzent": 0,
-    "wocheProzent": 0.06,
+    "wocheProzent": 0.05,
     "renditeDelta": true,
     "verlauf": [
      4.971,
@@ -3258,17 +3258,17 @@ window.MAKRO_DATA = {
      5.065,
      5.053,
      5.071,
-     5.101,
-     5.101
+     5.098,
+     5.098
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 62250.64,
+    "wert": 64171.99,
     "tagProzent": 0,
-    "wocheProzent": -1.49,
+    "wocheProzent": 1.55,
     "renditeDelta": false,
     "verlauf": [
      62668.02,
@@ -3291,8 +3291,8 @@ window.MAKRO_DATA = {
      64127.14,
      63802.03,
      63758.22,
-     62250.64,
-     62250.64
+     64171.99,
+     64171.99
     ]
    },
    "FEDFUT": {
@@ -3300,7 +3300,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.73,
-    "tagProzent": -0.01,
+    "tagProzent": 0,
     "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
@@ -3322,44 +3322,10 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
-     3.74,
+     3.73,
      3.73
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.24,
-    "tagProzent": 0.01,
-    "wocheProzent": 0.01,
-    "renditeDelta": true,
-    "verlauf": [
-     2.33,
-     2.34,
-     2.29,
-     2.31,
-     2.32,
-     2.29,
-     2.26,
-     2.25,
-     2.23,
-     2.21,
-     2.18,
-     2.21,
-     2.2,
-     2.22,
-     2.24,
-     2.23,
-     2.23,
-     2.24,
-     2.25,
-     2.25,
-     2.23,
-     2.24
-    ],
-    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
@@ -3394,9 +3360,43 @@ window.MAKRO_DATA = {
      2.31
     ],
     "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.24,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.01,
+    "renditeDelta": true,
+    "verlauf": [
+     2.33,
+     2.34,
+     2.29,
+     2.31,
+     2.32,
+     2.29,
+     2.26,
+     2.25,
+     2.23,
+     2.21,
+     2.18,
+     2.21,
+     2.2,
+     2.22,
+     2.24,
+     2.23,
+     2.23,
+     2.24,
+     2.25,
+     2.25,
+     2.23,
+     2.24
+    ],
+    "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.73,
+  "kurve2s10s": 0.72,
   "cot": {
    "stand": "2026-07-07",
    "waehrungen": {
@@ -3490,11 +3490,11 @@ window.MAKRO_DATA = {
    "stand": "2026-07-13",
    "werte": {
     "USD": {
-     "wert": 4.271,
+     "wert": 4.267,
      "wocheDelta": null
     },
     "EUR": {
-     "wert": 2.746,
+     "wert": 2.748,
      "wocheDelta": null
     },
     "GBP": {
@@ -3506,7 +3506,7 @@ window.MAKRO_DATA = {
      "wocheDelta": null
     },
     "AUD": {
-     "wert": 4.511,
+     "wert": 4.555,
      "wocheDelta": null
     },
     "CAD": {
@@ -3605,13 +3605,49 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-13T17:09:04.846Z",
+  "stand": "2026-07-13T19:15:23.685Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "Iran reports explosions in eastern Bandar Abbas",
+    "link": "https://investinglive.com/news/iran-reports-explosions-in-eastern-bandar-abbas/",
+    "datum": "2026-07-13T19:02:03.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen falls as Hormuz tensions and policy concerns weigh",
+    "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-hormuz-tensions-and-policy-concerns-weigh-202607131822",
+    "datum": "2026-07-13T18:22:39.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "United States Dollar Index rises as Waller puts July Fed rate hike in play, CPI awaited",
+    "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-waller-puts-july-fed-rate-hike-in-play-cpi-awaited-202607131822",
+    "datum": "2026-07-13T18:22:38.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US June federal budget deficit $120 billion vs $138 billion expected",
+    "link": "https://investinglive.com/news/us-june-federal-budget-deficit-120-billion-vs-138-billion-expected/",
+    "datum": "2026-07-13T18:02:19.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Singapore Dollar: Downside bias within established range against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-within-established-range-against-us-dollar-uob-202607131802",
+    "datum": "2026-07-13T18:02:12.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold price crashes as Waller warning sparks Fed hike fears",
+    "link": "https://www.fxstreet.com/news/gold-price-crashes-as-waller-warning-sparks-fed-hike-fears-202607131735",
+    "datum": "2026-07-13T17:35:07.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Tasnim Reports: Reports on attack on Abha International Airport in southern Saudi Arabia",
@@ -3667,34 +3703,10 @@ window.MAKRO_DATA = {
     "datum": "2026-07-13T14:58:47.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Commodities: Forward curves and carry framework – Societe Generale",
-    "link": "https://www.fxstreet.com/news/commodities-forward-curves-and-carry-framework-societe-generale-202607131454",
-    "datum": "2026-07-13T14:54:51.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "President Trump declares US ‘Guardian of the Hormuz Strait’",
-    "link": "https://www.fxstreet.com/news/us-president-trump-declares-us-guardian-of-the-hormuz-strait-202607131443",
-    "datum": "2026-07-13T14:43:56.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Denmark: Goods resilience offsets weaker services – Danske Bank",
-    "link": "https://www.fxstreet.com/news/denmark-goods-resilience-offsets-weaker-services-danske-bank-202607131435",
-    "datum": "2026-07-13T14:35:50.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Trump reimposes Iran blockade, places 20% toll on Hormuz shipping",
     "link": "https://investinglive.com/news/trump-reimposes-iran-blockade-places-20-toll-on-hormuz-shipping/",
     "datum": "2026-07-13T14:31:54.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Higher energy prices pressure JPY – MUFG",
-    "link": "https://www.fxstreet.com/news/japanese-yen-higher-energy-prices-pressure-jpy-mufg-202607131420",
-    "datum": "2026-07-13T14:20:11.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3707,18 +3719,6 @@ window.MAKRO_DATA = {
     "titel": "Trump: We're taking over the Strait of Hormuz",
     "link": "https://investinglive.com/news/trump-we-re-taking-over-the-strait-of-hormuz/",
     "datum": "2026-07-13T12:33:06.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European markets wrap: Oil holds higher as US-Iran tensions stay in focus",
-    "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-13-jul/",
-    "datum": "2026-07-13T11:58:25.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "India's annual inflation rate breaches the RBI target for the first time in 16 months rising to 4.38% in June",
-    "link": "https://investinglive.com/news/india-s-annual-inflation-rate-breaches-the-rbi-target-for-the-first-time-in-16-months-rising-to-4-38-in-june/",
-    "datum": "2026-07-13T10:45:35.000Z"
    }
   ]
  },
@@ -4405,5 +4405,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 473
+ "anzahlGespeichert": 474
 };

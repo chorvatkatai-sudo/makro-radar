@@ -1,11 +1,47 @@
 {
-  "stand": "2026-07-13T17:09:04.846Z",
+  "stand": "2026-07-13T19:15:23.685Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran reports explosions in eastern Bandar Abbas",
+      "link": "https://investinglive.com/news/iran-reports-explosions-in-eastern-bandar-abbas/",
+      "datum": "2026-07-13T19:02:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen falls as Hormuz tensions and policy concerns weigh",
+      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-hormuz-tensions-and-policy-concerns-weigh-202607131822",
+      "datum": "2026-07-13T18:22:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index rises as Waller puts July Fed rate hike in play, CPI awaited",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-waller-puts-july-fed-rate-hike-in-play-cpi-awaited-202607131822",
+      "datum": "2026-07-13T18:22:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US June federal budget deficit $120 billion vs $138 billion expected",
+      "link": "https://investinglive.com/news/us-june-federal-budget-deficit-120-billion-vs-138-billion-expected/",
+      "datum": "2026-07-13T18:02:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Downside bias within established range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-within-established-range-against-us-dollar-uob-202607131802",
+      "datum": "2026-07-13T18:02:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold price crashes as Waller warning sparks Fed hike fears",
+      "link": "https://www.fxstreet.com/news/gold-price-crashes-as-waller-warning-sparks-fed-hike-fears-202607131735",
+      "datum": "2026-07-13T17:35:07.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Tasnim Reports: Reports on attack on Abha International Airport in southern Saudi Arabia",
@@ -61,34 +97,10 @@
       "datum": "2026-07-13T14:58:47.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Commodities: Forward curves and carry framework – Societe Generale",
-      "link": "https://www.fxstreet.com/news/commodities-forward-curves-and-carry-framework-societe-generale-202607131454",
-      "datum": "2026-07-13T14:54:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "President Trump declares US ‘Guardian of the Hormuz Strait’",
-      "link": "https://www.fxstreet.com/news/us-president-trump-declares-us-guardian-of-the-hormuz-strait-202607131443",
-      "datum": "2026-07-13T14:43:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Denmark: Goods resilience offsets weaker services – Danske Bank",
-      "link": "https://www.fxstreet.com/news/denmark-goods-resilience-offsets-weaker-services-danske-bank-202607131435",
-      "datum": "2026-07-13T14:35:50.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump reimposes Iran blockade, places 20% toll on Hormuz shipping",
       "link": "https://investinglive.com/news/trump-reimposes-iran-blockade-places-20-toll-on-hormuz-shipping/",
       "datum": "2026-07-13T14:31:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Higher energy prices pressure JPY – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-higher-energy-prices-pressure-jpy-mufg-202607131420",
-      "datum": "2026-07-13T14:20:11.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Trump: We're taking over the Strait of Hormuz",
       "link": "https://investinglive.com/news/trump-we-re-taking-over-the-strait-of-hormuz/",
       "datum": "2026-07-13T12:33:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil holds higher as US-Iran tensions stay in focus",
-      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-13-jul/",
-      "datum": "2026-07-13T11:58:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "India's annual inflation rate breaches the RBI target for the first time in 16 months rising to 4.38% in June",
-      "link": "https://investinglive.com/news/india-s-annual-inflation-rate-breaches-the-rbi-target-for-the-first-time-in-16-months-rising-to-4-38-in-june/",
-      "datum": "2026-07-13T10:45:35.000Z"
     }
   ]
 }

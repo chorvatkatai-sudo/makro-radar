@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-12T05:03:19.323Z",
+ "erstellt": "2026-07-13T05:03:44.695Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -2342,18 +2342,19 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Der Dollar hat den Boden gefunden — Falken-Protokoll + steigende Renditen + Öl-Comeback fangen die Jobschock-Delle auf. Nächste Woche entscheidet die US-Inflation (Di)",
   "tagesnews": {
-   "stand": "2026-07-12",
-   "wochentag": "Sonntag",
-   "tenor": "Wochenende — die Börsen ruhen, keine neuen Zahlen. Das große Bild vor der Entscheidungswoche: Der Dollar hat einen Boden gefunden (DXY ~101), aber keinen Schub — schwacher US-Arbeitsmarkt gegen falkenhaftes Fed-Protokoll. Der Yen erholte sich Freitag deutlich (USD/JPY ~161,7), Öl kam teuer zurück (WTI ~71,5$). ALLES hängt jetzt an der US-Inflation am Dienstag (14.7.): heiß → Falken-Dollar kehrt zurück, kühl → die Jobschock-Story gewinnt.",
+   "stand": "2026-07-13",
+   "wochentag": "Montag",
+   "tenor": "Ruhiger Wochenstart, alle Augen auf morgen: Der Dollar hält seinen Boden (DXY ~101), aber keiner traut sich vor der US-Inflation am Dienstag (14.7.) aus der Deckung. Am Wochenende dämpften Berichte über fortgesetzte US-Iran-Gespräche Öl und Dollar leicht. Der Kern-CPI (erwartet +0,3% Monat / 2,9% Jahr) entscheidet: heiß → Falken-Dollar kehrt zurück, kühl → die Jobschock-Story gewinnt. Risikofreude bleibt hoch (VIX ~15).",
    "heute": [
-    "🛌 SONNTAG — Devisenmarkt geschlossen, keine Wirtschaftsdaten. Ruhe vor einer vollen, wichtigen Woche.",
-    "📅 DIE WOCHE (13.–17.7.): Di 14.7. US-Inflation (CPI) 14:30 = DAS Event — Kern erwartet +0,3% Monat / 2,9% Jahr. Mi 15.7. Bank of Canada (Halten bei 2,25% erwartet) + China-BIP Q2; Do 16.7. US-Einzelhandel + UK-BIP; Fr 17.7. US-Verbrauchervertrauen (Michigan).",
-    "🧭 WORAUF ES ANKOMMT: Der Dollar sitzt in der Zwickmühle. Ein HEISSER CPI (Kern über 0,3%) holt die Zinserhöhungs-Wette zurück und treibt den Dollar; ein KÜHLER CPI bestätigt den schwachen Arbeitsmarkt und drückt ihn. Risikofreude ist hoch (VIX ~15) — das hilft Aussie/Kiwi und schadet den sicheren Häfen Franken/Yen."
+    "😴 MONTAG — ruhiger Auftakt, kaum Termine. Der Dollar-Index pendelt um ~101, EUR/USD um ~1,14, USD/JPY um ~161,7. Der Markt hält die Luft an vor der US-Inflation morgen.",
+    "🇨🇳 CHINA-Handelsbilanz (Juni) im Blick: Nach dem Rekord-Überschuss im Mai (+105 Mrd. $, Exporte +19% durch KI-Boom) zeigt sie, wie robust die Weltnachfrage ist — wichtig für die Rohstoff-Währungen Aussie & Kiwi.",
+    "📅 DIE WOCHE (13.–17.7.): Di 14.7. US-Inflation (CPI) 14:30 = DAS Event (Kern +0,3% Monat / 2,9% Jahr erwartet) + Fed-Chef Warsh vor dem Kongress. Mi 15.7. Bank of Canada (Halten 2,25% erwartet) + China-BIP Q2 (~4,5%) + US-Erzeugerpreise. Do 16.7. US-Einzelhandel + UK-BIP. Fr 17.7. US-Verbrauchervertrauen (Michigan).",
+    "🧭 WORAUF ES ANKOMMT: Der Dollar sitzt in der Zwickmühle. Ein HEISSER CPI (Kern über 0,3%) holt die Zinserhöhungs-Wette zurück und treibt den Dollar; ein KÜHLER CPI bestätigt den schwachen Arbeitsmarkt und drückt ihn. Achtung Kopfzeile: Die Gesamt-Inflation dürfte wegen billigerem Benzin auf ~3,9% fallen (−0,1% Monat) — das ist eine Öl-Täuschung, der KERN ist die wahre Geschichte."
    ],
    "gestern": [
-    "🇯🇵 YEN-Erholung mit Ansage (Fr): USD/JPY fiel auf ~161,7 — Finanzministerin Katayama kündigte an, japanische Pensionsfonds zu mehr heimischen Anlagen zu drängen (stützt den Yen), dazu Interventionsangst nahe dem 40-Jahres-Tief. Japans Erzeugerpreise sprangen +7,1% (schnellster Anstieg seit März 2023) — Preisdruck bleibt hoch.",
+    "🛢️ ÖL/DOLLAR leicht weicher (Wochenende): Berichte über fortgesetzte US-Iran-Gespräche nahmen etwas Druck von Öl und Dollar. Über die Woche kam Öl aber teuer zurück (WTI ~71,4$ +4%, Brent ~76$ +5,5% wegen Iran-Spannungen) — das treibt US-Renditen hoch (10J 4,57%) und gibt dem Dollar Halt.",
+    "🇯🇵 YEN-Erholung mit Ansage (Fr): USD/JPY fiel auf ~161,7 — Finanzministerin Katayama will japanische Pensionsfonds zu mehr heimischen Anlagen drängen (stützt den Yen), dazu Interventionsangst nahe dem 40-Jahres-Tief. Japans Erzeugerpreise sprangen +7,1% (schnellster Anstieg seit März 2023).",
     "🇨🇦 KANADA-Jobs stark (Fr): +18.000 Stellen (erwartet +11.000), Arbeitslosigkeit fiel auf 6,5%, Löhne +3,7% — stützt den Loonie und nimmt der Notenbank Senkungsdruck vor Mittwoch.",
-    "🛢️ ÖL kam teuer zurück (Woche): WTI ~71,5$ (+4%), Brent ~76$ (+5,5%) wegen Iran-Spannungen — treibt US-Renditen hoch (10J 4,57%) und gibt dem Dollar Halt. Am Wochenende dämpften Berichte über fortgesetzte US-Iran-Gespräche Öl und Dollar leicht.",
     "🇺🇸 FED-Protokoll falkenhaft (Mi): 9 von 18 wollen dieses Jahr noch eine Erhöhung — aber ALTER Stand VOR dem Jobschock, daher weitgehend abgetan. 🇳🇿 RBNZ erhöhte auf 2,50% (bremste verbal). 🇨🇳 China-Inflation schwach (+1,0%)."
    ]
   },

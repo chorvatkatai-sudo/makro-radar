@@ -335,7 +335,7 @@
     "title": "Redbook YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "8.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1165,7 +1165,7 @@
     "title": "Retail Sales YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3.2",
+    "previous": "3.2%",
     "actual": null,
     "quelle": "tradingview"
   },

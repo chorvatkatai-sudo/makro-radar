@@ -4206,7 +4206,7 @@
       "land": "USD",
       "titel": "Core PPI m/m",
       "impact": "High",
-      "prognose": "0.4%",
+      "prognose": "0.3%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -4226,7 +4226,7 @@
       "land": "USD",
       "titel": "Empire State Manufacturing Index",
       "impact": "Low",
-      "prognose": "9.4",
+      "prognose": "9.3",
       "vorher": "5.7",
       "actual": null,
       "notiz": null
@@ -4296,7 +4296,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "-2.4M",
+      "prognose": "-1.8M",
       "vorher": "3.0M",
       "actual": null,
       "notiz": null
@@ -4526,7 +4526,7 @@
       "land": "USD",
       "titel": "Pending Home Sales m/m",
       "impact": "Low",
-      "prognose": "-0.4%",
+      "prognose": "-0.5%",
       "vorher": "3.8%",
       "actual": null,
       "notiz": null
@@ -4536,7 +4536,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "45B",
       "vorher": "61B",
       "actual": null,
       "notiz": null

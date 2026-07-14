@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-14T17:06:01.863Z",
+  "stand": "2026-07-14T19:06:23.696Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,10 +7,52 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Goolsbee: June CPI inflation data was “surprisingly benign”",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-june-cpi-inflation-data-was-surprisingly-benign-202607141810",
+      "datum": "2026-07-14T18:10:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index slips as soft US CPI dents Fed rate-hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-slips-as-soft-us-cpi-dents-fed-rate-hike-bets-202607141806",
+      "datum": "2026-07-14T18:06:16.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+      "datum": "2026-07-14T18:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Trade data upside surprise with AI demand – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/china-trade-data-upside-surprise-with-ai-demand-deutsche-bank-202607141751",
+      "datum": "2026-07-14T17:51:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump told Netanyahu that he should remove his soldiers from Lebanon",
+      "link": "https://investinglive.com/news/trump-told-netanyahu-that-he-should-remove-his-soldiers-from-lebanon/",
+      "datum": "2026-07-14T17:45:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen rises as cool US CPI slashes Fed hike bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-cool-us-cpi-slashes-fed-hike-bets-202607141636",
+      "datum": "2026-07-14T16:36:56.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "Trump: We will be doing a lot of deals with Iraq and taking a lot of oil out.",
       "link": "https://investinglive.com/news/trump-we-will-be-doing-a-lot-of-deals-with-iraq-and-taking-a-lot-of-oil-out/",
       "datum": "2026-07-14T16:32:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Soft US inflation lifts XAG/USD, but downside bias remains",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-soft-us-inflation-lifts-xag-usd-but-downside-bias-remains-202607141632",
+      "datum": "2026-07-14T16:32:16.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -67,52 +109,10 @@
       "datum": "2026-07-14T14:46:04.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "China: AI exports boom and muted FX impact – Societe Generale",
-      "link": "https://www.fxstreet.com/news/china-ai-exports-boom-and-muted-fx-impact-societe-generale-202607141440",
-      "datum": "2026-07-14T14:40:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar soars to one-month high as US CPI undershoots",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-soars-to-one-month-high-as-us-cpi-undershoots-202607141433",
-      "datum": "2026-07-14T14:33:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Why Japan's massive foreign assets could be the Japanese Yen's long-awaited catalyst",
-      "link": "https://www.fxstreet.com/news/why-japans-massive-foreign-assets-could-be-the-japanese-yens-long-awaited-catalyst-202607141430",
-      "datum": "2026-07-14T14:30:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Short positions vulnerable to squeeze – TD Securities",
-      "link": "https://www.fxstreet.com/news/oil-short-positions-vulnerable-to-squeeze-td-securities-202607141422",
-      "datum": "2026-07-14T14:22:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Cyclical rebound and steady BoC stance – RBC",
-      "link": "https://www.fxstreet.com/news/canada-cyclical-rebound-and-steady-boc-stance-rbc-202607141408",
-      "datum": "2026-07-14T14:08:02.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US June CPI 3.5% vs 3.8% expected",
       "link": "https://investinglive.com/news/us-june-cpi-3-5-vs-3-8-expected/",
       "datum": "2026-07-14T13:50:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European FX news wrap: Markets consolidate ahead of the US CPI report",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-markets-consolidate-ahead-of-the-us-cpi-report/",
-      "datum": "2026-07-14T11:30:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US June NFIB small business optimism index 97.4 vs 95.7 expected",
-      "link": "https://investinglive.com/news/us-june-nfib-small-business-optimism-index-xx-vs-95-7-expected/",
-      "datum": "2026-07-14T10:10:12.000Z"
     }
   ]
 }

@@ -3938,8 +3938,8 @@
       "impact": "High",
       "prognose": "0.2%",
       "vorher": "0.2%",
-      "actual": null,
-      "notiz": null
+      "actual": "-0.0%",
+      "notiz": "auto:FRED CPILFESL (Ref 2026-06-01)"
     },
     "2026-07-14T08:30:00-04:00|USD|Core CPI y/y": {
       "datum": "2026-07-14T08:30:00-04:00",
@@ -3948,8 +3948,8 @@
       "impact": "High",
       "prognose": "2.8%",
       "vorher": "2.9%",
-      "actual": null,
-      "notiz": null
+      "actual": "2.6%",
+      "notiz": "auto:FRED CPILFENS (Ref 2026-06-01)"
     },
     "2026-07-14T08:30:00-04:00|USD|CPI m/m": {
       "datum": "2026-07-14T08:30:00-04:00",
@@ -3958,8 +3958,8 @@
       "impact": "High",
       "prognose": "-0.1%",
       "vorher": "0.5%",
-      "actual": null,
-      "notiz": null
+      "actual": "-0.4%",
+      "notiz": "auto:FRED CPIAUCSL (Ref 2026-06-01)"
     },
     "2026-07-14T08:30:00-04:00|USD|CPI y/y": {
       "datum": "2026-07-14T08:30:00-04:00",
@@ -3968,8 +3968,8 @@
       "impact": "High",
       "prognose": "3.8%",
       "vorher": "4.2%",
-      "actual": null,
-      "notiz": null
+      "actual": "3.5%",
+      "notiz": "auto:FRED CPIAUCNS (Ref 2026-06-01)"
     },
     "2026-07-14T09:30:00-04:00|GBP|CB Leading Index m/m": {
       "datum": "2026-07-14T09:30:00-04:00",

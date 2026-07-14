@@ -225,7 +225,7 @@
     "title": "Unemployment Rate",
     "impact": "High",
     "forecast": "",
-    "previous": "4.9",
+    "previous": "4.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -285,7 +285,7 @@
     "title": "Average Earnings incl. Bonus (3Mo/Yr)",
     "impact": "Medium",
     "forecast": "",
-    "previous": "4.4",
+    "previous": "4.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1175,7 +1175,7 @@
     "title": "Retail Sales ex Fuel YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1195,7 +1195,7 @@
     "title": "Retail Sales ex Fuel MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.2%",
     "actual": null,
     "quelle": "tradingview"
   },

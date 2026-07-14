@@ -4760,6 +4760,26 @@
       "vorher": "105.4B",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-15T05:33:00-04:00|CNY|M2 Money Supply y/y": {
+      "datum": "2026-07-15T05:33:00-04:00",
+      "land": "CNY",
+      "titel": "M2 Money Supply y/y",
+      "impact": "Low",
+      "prognose": "8.5%",
+      "vorher": "8.6%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-15T05:33:00-04:00|CNY|New Loans": {
+      "datum": "2026-07-15T05:33:00-04:00",
+      "land": "CNY",
+      "titel": "New Loans",
+      "impact": "Low",
+      "prognose": "1950B",
+      "vorher": "520B",
+      "actual": null,
+      "notiz": null
     }
   }
 }

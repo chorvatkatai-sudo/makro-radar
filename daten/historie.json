@@ -4780,6 +4780,16 @@
       "vorher": "520B",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-16T21:00:00-04:00|USD|President Trump Speaks": {
+      "datum": "2026-07-16T21:00:00-04:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

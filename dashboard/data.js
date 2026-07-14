@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-14T19:06:23.698Z",
+ "erstellt": "2026-07-14T21:51:12.062Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -1261,7 +1261,7 @@ window.MAKRO_DATA = {
    "title": "API Crude Oil Stock Change",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "-0.056",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3022,15 +3022,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-14T19:06:23.153Z",
+  "stand": "2026-07-14T21:51:11.531Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.94,
+    "wert": 100.93,
     "tagProzent": 0,
-    "wocheProzent": -0.11,
+    "wocheProzent": -0.12,
     "renditeDelta": false,
     "verlauf": [
      99.63,
@@ -3052,17 +3052,17 @@ window.MAKRO_DATA = {
      100.94,
      100.97,
      101.28,
-     100.94,
-     100.94
+     100.93,
+     100.93
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.43,
+    "wert": 16.5,
     "tagProzent": 0,
-    "wocheProzent": -2.78,
+    "wocheProzent": -2.37,
     "renditeDelta": false,
     "verlauf": [
      16.2,
@@ -3084,17 +3084,17 @@ window.MAKRO_DATA = {
      15.84,
      15.03,
      17.16,
-     16.43,
-     16.43
+     16.5,
+     16.5
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 79.62,
+    "wert": 79.83,
     "tagProzent": 0,
-    "wocheProzent": 8.3,
+    "wocheProzent": 8.58,
     "renditeDelta": false,
     "verlauf": [
      80.75,
@@ -3116,17 +3116,17 @@ window.MAKRO_DATA = {
      72.08,
      71.41,
      78.14,
-     79.62,
-     79.62
+     79.83,
+     79.83
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.17,
+    "wert": 85.34,
     "tagProzent": 0,
-    "wocheProzent": 9.16,
+    "wocheProzent": 9.38,
     "renditeDelta": false,
     "verlauf": [
      83.17,
@@ -3148,15 +3148,15 @@ window.MAKRO_DATA = {
      76.3,
      76.01,
      83.3,
-     85.17,
-     85.17
+     85.34,
+     85.34
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4058.2,
+    "wert": 4058.3,
     "tagProzent": 0,
     "wocheProzent": -0.31,
     "renditeDelta": false,
@@ -3180,8 +3180,8 @@ window.MAKRO_DATA = {
      4130.6,
      4104.1,
      3997,
-     4058.2,
-     4058.2
+     4058.3,
+     4058.3
     ]
    },
    "US02Y": {
@@ -3219,7 +3219,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.589,
+    "wert": 4.585,
     "tagProzent": 0,
     "wocheProzent": 0.02,
     "renditeDelta": true,
@@ -3243,15 +3243,15 @@ window.MAKRO_DATA = {
      4.539,
      4.569,
      4.609,
-     4.589,
-     4.589
+     4.585,
+     4.585
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.096,
+    "wert": 5.094,
     "tagProzent": 0,
     "wocheProzent": 0.03,
     "renditeDelta": true,
@@ -3275,17 +3275,17 @@ window.MAKRO_DATA = {
      5.053,
      5.071,
      5.098,
-     5.096,
-     5.096
+     5.094,
+     5.094
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64548.44,
+    "wert": 64658.86,
     "tagProzent": 0,
-    "wocheProzent": 0.66,
+    "wocheProzent": 0.83,
     "renditeDelta": false,
     "verlauf": [
      60995.13,
@@ -3308,8 +3308,8 @@ window.MAKRO_DATA = {
      63802.03,
      63758.22,
      62239.12,
-     64548.44,
-     64548.44
+     64658.86,
+     64658.86
     ]
    },
    "FEDFUT": {
@@ -3345,50 +3345,15 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.32,
-    "tagProzent": 0.01,
-    "wocheProzent": 0.06,
-    "renditeDelta": true,
-    "verlauf": [
-     2.2,
-     2.21,
-     2.16,
-     2.17,
-     2.15,
-     2.14,
-     2.23,
-     2.21,
-     2.28,
-     2.29,
-     2.23,
-     2.19,
-     2.18,
-     2.16,
-     2.2,
-     2.25,
-     2.26,
-     2.24,
-     2.3,
-     2.31,
-     2.31,
-     2.32
-    ],
-    "quelle": "FRED"
-   },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.26,
-    "tagProzent": 0.02,
-    "wocheProzent": 0.02,
+    "wert": 2.25,
+    "tagProzent": -0.01,
+    "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
-     2.34,
      2.29,
      2.31,
      2.32,
@@ -3409,7 +3374,42 @@ window.MAKRO_DATA = {
      2.25,
      2.23,
      2.24,
-     2.26
+     2.26,
+     2.25
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.36,
+    "tagProzent": 0.04,
+    "wocheProzent": 0.12,
+    "renditeDelta": true,
+    "verlauf": [
+     2.21,
+     2.16,
+     2.17,
+     2.15,
+     2.14,
+     2.23,
+     2.21,
+     2.28,
+     2.29,
+     2.23,
+     2.19,
+     2.18,
+     2.16,
+     2.2,
+     2.25,
+     2.26,
+     2.24,
+     2.3,
+     2.31,
+     2.31,
+     2.32,
+     2.36
     ],
     "quelle": "FRED"
    }
@@ -3512,7 +3512,7 @@ window.MAKRO_DATA = {
      "wocheDelta": null
     },
     "EUR": {
-     "wert": 2.742,
+     "wert": 2.744,
      "wocheDelta": null
     },
     "GBP": {
@@ -3524,11 +3524,11 @@ window.MAKRO_DATA = {
      "wocheDelta": null
     },
     "AUD": {
-     "wert": 4.525,
+     "wert": 4.522,
      "wocheDelta": null
     },
     "CAD": {
-     "wert": 2.862,
+     "wert": 2.87,
      "wocheDelta": null
     },
     "CHF": {
@@ -3536,7 +3536,7 @@ window.MAKRO_DATA = {
      "wocheDelta": null
     },
     "NZD": {
-     "wert": 3.68,
+     "wert": 3.65,
      "wocheDelta": null
     }
    },
@@ -3623,13 +3623,73 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-14T19:06:23.696Z",
+  "stand": "2026-07-14T21:51:12.061Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Singapore Dollar: Downward bias holds within tight range against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/singapore-dollar-downward-bias-holds-within-tight-range-against-us-dollar-uob-202607142029",
+    "datum": "2026-07-14T20:29:00.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Economic and event calendar in Asia Wednesday, July 15, 2026 - China Q2 GDP and June activity.",
+    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-july-15-2026-china-q2-gdp-and-june-activity/",
+    "datum": "2026-07-14T20:25:58.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Forex Today: US Dollar falls after soft CPI, Oil and Gold rally",
+    "link": "https://www.fxstreet.com/news/forex-today-us-dollar-falls-after-soft-cpi-oil-and-gold-rally-202607142020",
+    "datum": "2026-07-14T20:20:36.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas FX news wrap 14 Jul",
+    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-14-jul-cpi-lower-warsh-remains-cautious/",
+    "datum": "2026-07-14T20:19:08.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro gains as softer US inflation weighs on US Dollar",
+    "link": "https://www.fxstreet.com/news/euro-gains-as-softer-us-inflation-weighs-on-us-dollar-202607142009",
+    "datum": "2026-07-14T20:09:34.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Chinese Yuan: Trade surplus cushions yuan against US Dollar – Commerzbank",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-trade-surplus-cushions-yuan-against-us-dollar-commerzbank-202607141951",
+    "datum": "2026-07-14T19:51:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "USD/CHF Price Forecast: Pair pulls below 0.8100 but remains bullish",
+    "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pulls-below-08100-but-remains-bullish-202607141950",
+    "datum": "2026-07-14T19:50:25.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indonesian Rupiah: Supported by ratings yet constrained against US Dollar – OCBC",
+    "link": "https://www.fxstreet.com/news/indonesian-rupiah-supported-by-ratings-yet-constrained-against-us-dollar-ocbc-202607141907",
+    "datum": "2026-07-14T19:07:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold price jumps as US inflation knocks the US Dollar off its pedestal",
+    "link": "https://www.fxstreet.com/news/gold-price-jumps-as-us-inflation-knocks-the-us-dollar-off-its-pedestal-202607141857",
+    "datum": "2026-07-14T18:57:54.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Singapore: Growth forecast lifted as AI tailwinds persist – UOB",
+    "link": "https://www.fxstreet.com/news/singapore-growth-forecast-lifted-as-ai-tailwinds-persist-uob-202607141834",
+    "datum": "2026-07-14T18:34:00.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Fed’s Goolsbee: June CPI inflation data was “surprisingly benign”",
@@ -3662,7 +3722,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Japanese Yen rises as cool US CPI slashes Fed hike bets",
+    "titel": "Japanese Yen rises as cool US CPI slashes bets on Fed rate hikes",
     "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-cool-us-cpi-slashes-fed-hike-bets-202607141636",
     "datum": "2026-07-14T16:36:56.000Z"
    },
@@ -3673,70 +3733,10 @@ window.MAKRO_DATA = {
     "datum": "2026-07-14T16:32:57.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: Soft US inflation lifts XAG/USD, but downside bias remains",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-soft-us-inflation-lifts-xag-usd-but-downside-bias-remains-202607141632",
-    "datum": "2026-07-14T16:32:16.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Dow Jones Industrial Average sits out the disinflation party",
-    "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sits-out-the-disinflation-party-202607141600",
-    "datum": "2026-07-14T16:00:04.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US President Trump: Strait of Hormuz open to all shipping except Iran",
-    "link": "https://www.fxstreet.com/news/us-president-trump-strait-of-hormuz-open-to-all-shipping-except-iran-202607141546",
-    "datum": "2026-07-14T15:46:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Fed Chair Warsh reaffirms they will deliver price stability",
-    "link": "https://www.fxstreet.com/news/fed-chair-warsh-to-note-they-have-no-tolerance-for-persistently-elevated-inflation-202607141245",
-    "datum": "2026-07-14T15:32:16.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar surges amid soft US inflation",
-    "link": "https://www.fxstreet.com/news/australian-dollar-surges-amid-soft-us-inflation-202607141529",
-    "datum": "2026-07-14T15:29:34.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar climbs to four-week high on soft US CPI, rising Oil prices",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-climbs-to-four-week-high-on-soft-us-cpi-rising-oil-prices-202607141522",
-    "datum": "2026-07-14T15:22:17.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Trump TACOs on the 20% toll in Hormuz",
     "link": "https://investinglive.com/news/trump-tacos-on-the-20-toll-in-hormuz/",
     "datum": "2026-07-14T15:11:39.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Natural gas: European prices climb on Gulf risks – ING",
-    "link": "https://www.fxstreet.com/news/natural-gas-european-prices-climb-on-gulf-risks-ing-202607141506",
-    "datum": "2026-07-14T15:06:44.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "What is the distribution of forecasts for the US CPI?",
-    "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi/",
-    "datum": "2026-07-14T15:01:47.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold rises 2% as soft US CPI cools Fed rate-hike bets",
-    "link": "https://www.fxstreet.com/news/gold-clings-to-4-000-as-traders-brace-for-us-cpi-202607141113",
-    "datum": "2026-07-14T14:46:04.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US June CPI 3.5% vs 3.8% expected",
-    "link": "https://investinglive.com/news/us-june-cpi-3-5-vs-3-8-expected/",
-    "datum": "2026-07-14T13:50:46.000Z"
    }
   ]
  },

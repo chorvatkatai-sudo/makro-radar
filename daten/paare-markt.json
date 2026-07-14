@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-13T19:15:23.686Z",
+  "stand": "2026-07-14T05:04:37.464Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -11,7 +11,7 @@
       "tiltGesamt": -3,
       "score": -14,
       "cotExtrem": null,
-      "treiber": "Abwärts: Der wieder festere Dollar (Falken-Protokoll + steigende Renditen) und das teurere Öl belasten den Euro doppelt. Klarer US-Zinsvorteil (2J 4,18% vs. 2,65%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
+      "treiber": "Abwärts: fester Dollar (steigende Renditen + Öl-Inflationssorge) und das teurere Öl belasten den Euro-Importeur doppelt. Klarer US-Zinsvorteil (2J 4,27% vs. 2,75%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
     },
     {
       "paar": "GBP/USD",
@@ -25,13 +25,13 @@
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 10,
+      "baseScore": 8,
       "tiltCot": 10,
       "tiltZins": 2,
       "tiltGesamt": 12,
-      "score": 22,
+      "score": 20,
       "cotExtrem": null,
-      "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teureres Öl + Risikofreude schwächen den zinslosen Yen, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat."
+      "treiber": "Aufwärts, aber gebremst: steigende US-Renditen + teures Öl + Carry schwächen den Yen. Bremse: Japans heiße Erzeugerpreise (+7,1%), Fiskalreform und akutes Interventionsrisiko (USD/JPY ~161,7). Track-Record 0/3 → bewusst moderat."
     },
     {
       "paar": "AUD/USD",
@@ -45,13 +45,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 2,
+      "baseScore": -2,
       "tiltCot": 10,
       "tiltZins": 2,
       "tiltGesamt": 12,
-      "score": 14,
+      "score": 10,
       "cotExtrem": "erhoeht",
-      "treiber": "Knapp aufwärts, aber der Loonie hält gut dagegen: solide Kanada-Jobs (+18k, 6,5%) und das Öl-Comeback (+4% Woche) stützen den Loonie, der festere Dollar und die BoC-Sitzung (Mi) halten dagegen."
+      "treiber": "Leicht abwärts (Loonie stärker): Das kräftige Öl-Comeback (WTI +10% Woche) und solide Kanada-Jobs (+18k) stützen den Loonie stärker als der feste Dollar drückt. Mittwoch BoC (Halten erwartet)."
     },
     {
       "paar": "USD/CHF",

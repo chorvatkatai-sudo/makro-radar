@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-13T19:15:23.687Z",
+ "erstellt": "2026-07-14T05:04:37.465Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -2342,20 +2342,20 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Der Dollar hat den Boden gefunden — Falken-Protokoll + steigende Renditen + Öl-Comeback fangen die Jobschock-Delle auf. Nächste Woche entscheidet die US-Inflation (Di)",
   "tagesnews": {
-   "stand": "2026-07-13",
-   "wochentag": "Montag",
-   "tenor": "Ruhiger Wochenstart, alle Augen auf morgen: Der Dollar hält seinen Boden (DXY ~101), aber keiner traut sich vor der US-Inflation am Dienstag (14.7.) aus der Deckung. Am Wochenende dämpften Berichte über fortgesetzte US-Iran-Gespräche Öl und Dollar leicht. Der Kern-CPI (erwartet +0,3% Monat / 2,9% Jahr) entscheidet: heiß → Falken-Dollar kehrt zurück, kühl → die Jobschock-Story gewinnt. Risikofreude bleibt hoch (VIX ~15).",
+   "stand": "2026-07-14",
+   "wochentag": "Dienstag",
+   "tenor": "Der große Tag: Heute um 14:30 kommt die US-Inflation (CPI) — DAS Marktereignis der Woche. Der Dollar geht fest hinein (DXY ~101), gestützt von einem kräftigen Öl-Sprung (WTI 77,6$, +10% Woche) nach dem Bruch der Iran-Waffenruhe und von steigenden US-Renditen (10J 4,61%). Zwei-Wege-Wette: heißer Kern-CPI → Falken-Dollar kehrt zurück; kühler → die Jobschock-Story gewinnt. Zusätzlich spricht Fed-Chef Warsh ab 16:00 vor dem Kongress.",
    "heute": [
-    "😴 MONTAG — ruhiger Auftakt, kaum Termine. Der Dollar-Index pendelt um ~101, EUR/USD um ~1,14, USD/JPY um ~161,7. Der Markt hält die Luft an vor der US-Inflation morgen.",
-    "🇨🇳 CHINA-Handelsbilanz (Juni) im Blick: Nach dem Rekord-Überschuss im Mai (+105 Mrd. $, Exporte +19% durch KI-Boom) zeigt sie, wie robust die Weltnachfrage ist — wichtig für die Rohstoff-Währungen Aussie & Kiwi.",
-    "📅 DIE WOCHE (13.–17.7.): Di 14.7. US-Inflation (CPI) 14:30 = DAS Event (Kern +0,3% Monat / 2,9% Jahr erwartet) + Fed-Chef Warsh vor dem Kongress. Mi 15.7. Bank of Canada (Halten 2,25% erwartet) + China-BIP Q2 (~4,5%) + US-Erzeugerpreise. Do 16.7. US-Einzelhandel + UK-BIP. Fr 17.7. US-Verbrauchervertrauen (Michigan).",
-    "🧭 WORAUF ES ANKOMMT: Der Dollar sitzt in der Zwickmühle. Ein HEISSER CPI (Kern über 0,3%) holt die Zinserhöhungs-Wette zurück und treibt den Dollar; ein KÜHLER CPI bestätigt den schwachen Arbeitsmarkt und drückt ihn. Achtung Kopfzeile: Die Gesamt-Inflation dürfte wegen billigerem Benzin auf ~3,9% fallen (−0,1% Monat) — das ist eine Öl-Täuschung, der KERN ist die wahre Geschichte."
+    "🇺🇸 US-INFLATION (CPI Juni) 14:30 = DAS Event. Erwartet: Kern +0,2% Monat / ~2,9% Jahr. ACHTUNG Kopfzeile: Die Gesamtrate dürfte wegen billigem Juni-Benzin auf ~3,9% FALLEN (−0,1% Monat) — eine Öl-Täuschung. Der KERN ist die wahre Geschichte, und das Benzin ist längst wieder teurer (Iran-Eskalation).",
+    "🇺🇸 FED-CHEF WARSH vor dem Kongress ab 16:00 (Repräsentantenhaus; Mittwoch dann Senat). Er hat die frischen CPI-Zahlen in der Hand und nennt die Inflation weiter 'zu hoch'. Der Markt preist noch ~64% Chance auf mindestens eine Zinserhöhung bis Jahresende.",
+    "🛢️ ÖL TREIBT MIT: WTI 77,6$ (+10% Woche!), Brent 82,7$ — die Iran-Waffenruhe am Golf ist seit dem 8.7. gebrochen, Öltanker durch die Straße von Hormus werden bedroht. Teures Öl = neue Inflationssorge (falkenhaft für die Fed, belastet Öl-Importeure Euro & Yen, stützt den Loonie).",
+    "🧭 WORAUF ES ANKOMMT: Der Dollar sitzt in der Zwickmühle. Kern-CPI über +0,3% → Zinserhöhungs-Wette kehrt zurück, Dollar rauf. Kern bei/unter +0,2% → der schwache Arbeitsmarkt (Jobschock) gewinnt, Dollar runter. Bis dahin hält der Markt die Luft an."
    ],
    "gestern": [
-    "🛢️ ÖL/DOLLAR leicht weicher (Wochenende): Berichte über fortgesetzte US-Iran-Gespräche nahmen etwas Druck von Öl und Dollar. Über die Woche kam Öl aber teuer zurück (WTI ~71,4$ +4%, Brent ~76$ +5,5% wegen Iran-Spannungen) — das treibt US-Renditen hoch (10J 4,57%) und gibt dem Dollar Halt.",
-    "🇯🇵 YEN-Erholung mit Ansage (Fr): USD/JPY fiel auf ~161,7 — Finanzministerin Katayama will japanische Pensionsfonds zu mehr heimischen Anlagen drängen (stützt den Yen), dazu Interventionsangst nahe dem 40-Jahres-Tief. Japans Erzeugerpreise sprangen +7,1% (schnellster Anstieg seit März 2023).",
-    "🇨🇦 KANADA-Jobs stark (Fr): +18.000 Stellen (erwartet +11.000), Arbeitslosigkeit fiel auf 6,5%, Löhne +3,7% — stützt den Loonie und nimmt der Notenbank Senkungsdruck vor Mittwoch.",
-    "🇺🇸 FED-Protokoll falkenhaft (Mi): 9 von 18 wollen dieses Jahr noch eine Erhöhung — aber ALTER Stand VOR dem Jobschock, daher weitgehend abgetan. 🇳🇿 RBNZ erhöhte auf 2,50% (bremste verbal). 🇨🇳 China-Inflation schwach (+1,0%)."
+    "😴 MONTAG ruhig, Dollar fest: Der Dollar-Index hielt sich um ~101, EUR/USD um ~1,14, USD/JPY um ~161,7. Kaum Termine — der Markt positionierte sich vor der Inflation und Warsh (Kauf sicherer Häfen + Öl-Auftrieb stützten den Dollar).",
+    "🛢️ ÖL-COMEBACK verschärft sich: Über die Woche sprang WTI +10% auf 77,6$ (Brent +11,6% auf 82,7$), weil die Iran-Waffenruhe am 8.7. brach und die Straße von Hormus wieder bedroht ist. Das treibt US-Renditen hoch (10J 4,61%) und gibt dem Dollar Halt.",
+    "🇯🇵 YEN erholt: USD/JPY fiel unter 162 auf ~161,7 — Japans Erzeugerpreise sprangen +7,1% (schnellster Anstieg seit März 2023), dazu Fiskal-/Reformpläne (Pensionsfonds sollen mehr heimisch anlegen) und Interventionsangst nahe dem 40-Jahres-Tief.",
+    "🇨🇦 KANADA-Jobs stark (Fr): +18.000 Stellen (erwartet +11.000), Arbeitslosigkeit fiel auf 6,5% — stützt den Loonie vor der Bank of Canada am Mittwoch (Halten 2,25% erwartet). 🇺🇸 Fed-Protokoll (Mi) falkenhaft, aber ALTER Stand vor dem Jobschock → abgetan."
    ]
   },
   "lage": [
@@ -2376,7 +2376,7 @@ window.MAKRO_DATA = {
    "EUR": {
     "stimmung": "bärisch",
     "score": -10,
-    "grund": "Doppelt belastet: Der wieder festere Dollar UND das teurere Öl (die Eurozone ist Energie-Importeur) drücken. Die eigene Inflation war zuletzt überraschend kühl (2,8%) — die EZB hat es nicht eilig. Der Zinsvorteil liegt klar bei den USA (2J-Rendite 4,18% vs. 2,65%). Leicht euro-negativ."
+    "grund": "Doppelt belastet: fester Dollar (steigende Renditen, Öl-Inflationssorge) UND teureres Öl (die Eurozone ist Energie-Importeur, WTI +10% Woche). Eigene Inflation zuletzt kühl (2,8%) → die EZB hat es nicht eilig. Klarer US-Zinsvorteil (2J 4,27% vs. 2,75%). Leicht euro-negativ."
    },
    "GBP": {
     "stimmung": "neutral",
@@ -2385,8 +2385,8 @@ window.MAKRO_DATA = {
    },
    "JPY": {
     "stimmung": "bärisch",
-    "score": -10,
-    "grund": "Weiter der Schwächste: Steigende US-Renditen (10J 4,55%) machen den zinslosen Yen unattraktiv (Carry-Trades ziehen an), das teurere Öl belastet den Import-Riesen, und die entspannte Stimmung (VIX 15,7) nimmt dem sicheren Hafen Rückenwind. USD/JPY ~162,5 in der Interventionszone — einziger Bremsklotz. Track-Record 0/3 → trotz klarer Richtung bewusst nicht extrem."
+    "score": -8,
+    "grund": "Weiter schwach, aber stabilisiert: Steigende US-Renditen (10J 4,61%) und teures Öl (WTI +10% Woche) belasten den zinslosen Import-Riesen. GEGENGEWICHT: Japans Erzeugerpreise +7,1% (heiß), Fiskal-/Reformpläne und Interventionsangst nahe dem 40-Jahres-Tief haben USD/JPY unter 162 (~161,7) gedrückt. Track-Record 0/3 → bewusst moderat."
    },
    "CHF": {
     "stimmung": "bärisch",
@@ -2395,8 +2395,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "neutral",
-    "score": 4,
-    "grund": "Aufgehellt: Die Juni-Jobzahlen kamen SOLIDE (+18k statt +11k erwartet, Arbeitslosigkeit fiel auf 6,5%), und das Öl-Comeback (WTI +4% Woche) stützt Kanadas wichtigsten Export. Gegenwind: der wieder festere Dollar und die extreme Short-Positionierung. Nächste Woche hält die BoC (Mi) wohl bei 2,25%. Netto leicht positiv."
+    "score": 6,
+    "grund": "Aufgehellt: Das Öl-Comeback verschärft sich (WTI +10% Woche auf 77,6$) und stützt Kanadas wichtigsten Export kräftig, dazu solide Juni-Jobs (+18k, Arbeitslosigkeit 6,5%). Gegenwind: fester Dollar vor der US-Inflation. Mittwoch hält die BoC wohl bei 2,25%. Netto loonie-positiv."
    },
    "AUD": {
     "stimmung": "bullisch",
@@ -2413,7 +2413,7 @@ window.MAKRO_DATA = {
    {
     "paar": "EUR/USD",
     "score": -11,
-    "treiber": "Abwärts: Der wieder festere Dollar (Falken-Protokoll + steigende Renditen) und das teurere Öl belasten den Euro doppelt. Klarer US-Zinsvorteil (2J 4,18% vs. 2,65%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
+    "treiber": "Abwärts: fester Dollar (steigende Renditen + Öl-Inflationssorge) und das teurere Öl belasten den Euro-Importeur doppelt. Klarer US-Zinsvorteil (2J 4,27% vs. 2,75%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
    },
    {
     "paar": "GBP/USD",
@@ -2422,8 +2422,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/JPY",
-    "score": 10,
-    "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teureres Öl + Risikofreude schwächen den zinslosen Yen, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat."
+    "score": 8,
+    "treiber": "Aufwärts, aber gebremst: steigende US-Renditen + teures Öl + Carry schwächen den Yen. Bremse: Japans heiße Erzeugerpreise (+7,1%), Fiskalreform und akutes Interventionsrisiko (USD/JPY ~161,7). Track-Record 0/3 → bewusst moderat."
    },
    {
     "paar": "AUD/USD",
@@ -2432,8 +2432,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": 2,
-    "treiber": "Knapp aufwärts, aber der Loonie hält gut dagegen: solide Kanada-Jobs (+18k, 6,5%) und das Öl-Comeback (+4% Woche) stützen den Loonie, der festere Dollar und die BoC-Sitzung (Mi) halten dagegen."
+    "score": -2,
+    "treiber": "Leicht abwärts (Loonie stärker): Das kräftige Öl-Comeback (WTI +10% Woche) und solide Kanada-Jobs (+18k) stützen den Loonie stärker als der feste Dollar drückt. Mittwoch BoC (Halten erwartet)."
    },
    {
     "paar": "USD/CHF",
@@ -3540,7 +3540,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -3,
    "score": -14,
    "cotExtrem": null,
-   "treiber": "Abwärts: Der wieder festere Dollar (Falken-Protokoll + steigende Renditen) und das teurere Öl belasten den Euro doppelt. Klarer US-Zinsvorteil (2J 4,18% vs. 2,65%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
+   "treiber": "Abwärts: fester Dollar (steigende Renditen + Öl-Inflationssorge) und das teurere Öl belasten den Euro-Importeur doppelt. Klarer US-Zinsvorteil (2J 4,27% vs. 2,75%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
   },
   {
    "paar": "GBP/USD",
@@ -3554,13 +3554,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 10,
+   "baseScore": 8,
    "tiltCot": 10,
    "tiltZins": 2,
    "tiltGesamt": 12,
-   "score": 22,
+   "score": 20,
    "cotExtrem": null,
-   "treiber": "Aufwärts (Yen der klare Verlierer): steigende US-Renditen + teureres Öl + Risikofreude schwächen den zinslosen Yen, USD/JPY bei ~162,5. Bremse: Interventionsrisiko. Track-Record 0/3 → trotz klarer Richtung bewusst moderat."
+   "treiber": "Aufwärts, aber gebremst: steigende US-Renditen + teures Öl + Carry schwächen den Yen. Bremse: Japans heiße Erzeugerpreise (+7,1%), Fiskalreform und akutes Interventionsrisiko (USD/JPY ~161,7). Track-Record 0/3 → bewusst moderat."
   },
   {
    "paar": "AUD/USD",
@@ -3574,13 +3574,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 2,
+   "baseScore": -2,
    "tiltCot": 10,
    "tiltZins": 2,
    "tiltGesamt": 12,
-   "score": 14,
+   "score": 10,
    "cotExtrem": "erhoeht",
-   "treiber": "Knapp aufwärts, aber der Loonie hält gut dagegen: solide Kanada-Jobs (+18k, 6,5%) und das Öl-Comeback (+4% Woche) stützen den Loonie, der festere Dollar und die BoC-Sitzung (Mi) halten dagegen."
+   "treiber": "Leicht abwärts (Loonie stärker): Das kräftige Öl-Comeback (WTI +10% Woche) und solide Kanada-Jobs (+18k) stützen den Loonie stärker als der feste Dollar drückt. Mittwoch BoC (Halten erwartet)."
   },
   {
    "paar": "USD/CHF",

@@ -1,11 +1,83 @@
 {
-  "stand": "2026-07-15T11:23:40.827Z",
+  "stand": "2026-07-15T13:26:24.509Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US Empire Manufacturing for July 15.6 vs 5.70 last month. The estimate was 8.80.",
+      "link": "https://investinglive.com/news/us-empire-manufacturing-for-july-15-6-vs-5-70-last-month/",
+      "datum": "2026-07-15T12:49:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US June PPI 5.5% vs 6.2% expected",
+      "link": "https://investinglive.com/news/us-june-ppi-vs-6-2-expected/",
+      "datum": "2026-07-15T12:42:44.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "May Canada manufacturing sales +1.3% vs +1.1% expected",
+      "link": "https://investinglive.com/news/may-canada-manufacturing-sales-vs-1-1-expected/",
+      "datum": "2026-07-15T12:34:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Tentative flow reversal before BoC – BNY",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-tentative-flow-reversal-before-boc-bny-202607151226",
+      "datum": "2026-07-15T12:26:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "BoC expected to keep interest rates unchanged as inflation pressures remain contained",
+      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-for-sixth-consecutive-meeting-202607150945",
+      "datum": "2026-07-15T12:15:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Norwegian Krone: Softer inflation but Norges Bank still hawkish – BBH",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-softer-inflation-but-norges-bank-still-hawkish-bbh-202607151211",
+      "datum": "2026-07-15T12:11:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold eases as soft US CPI fails to dent the Fed's hawkish outlook",
+      "link": "https://www.fxstreet.com/news/gold-eases-as-soft-us-cpi-fails-to-dent-the-feds-hawkish-outlook-202607151203",
+      "datum": "2026-07-15T12:03:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Fed expectations weigh on Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-expectations-weigh-on-dollar-commerzbank-202607151156",
+      "datum": "2026-07-15T11:56:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Oil prices hold higher, yields push up again after US CPI breather",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-hold-higher-yields-push-up-again-after-us-cpi-breather/",
+      "datum": "2026-07-15T11:43:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound dips below 1.3400, turns negative on the day as US Dollar picks up",
+      "link": "https://www.fxstreet.com/news/british-pound-dips-below-13400-turns-negative-on-the-day-as-us-dollar-picks-up-202607151137",
+      "datum": "2026-07-15T11:37:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Holds onto Tuesday’s gains amid risk-on mood",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-holds-onto-tuesdays-gains-amid-risk-on-mood-202607151119",
+      "datum": "2026-07-15T11:19:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee holds early ground as traders dial down hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-attracts-bids-as-traders-trim-fed-interest-rate-hike-bets-202607150550",
+      "datum": "2026-07-15T11:06:27.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Canadian Dollar holds close to one-month high ahead of BoC decision",
@@ -31,88 +103,16 @@
       "datum": "2026-07-15T09:50:54.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "BoC set to keep interest rates steady for sixth consecutive meeting",
-      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-for-sixth-consecutive-meeting-202607150945",
-      "datum": "2026-07-15T09:45:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro gives away gains as Eurozone Industrial Production disappoints",
-      "link": "https://www.fxstreet.com/news/euro-picks-up-favoured-by-a-weaker-us-dollar-but-remains-within-previous-ranges-202607150718",
-      "datum": "2026-07-15T09:33:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Cool CPI provides temporary relief for rates – DBS",
-      "link": "https://www.fxstreet.com/news/united-states-cool-cpi-provides-temporary-relief-for-rates-dbs-202607150932",
-      "datum": "2026-07-15T09:32:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607150930",
-      "datum": "2026-07-15T09:30:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee holds early support as traders trim hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-attracts-bids-as-traders-trim-fed-interest-rate-hike-bets-202607150550",
-      "datum": "2026-07-15T09:26:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD drops to near $58 even as traders scale back hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-drops-to-near-58-even-as-traders-scale-back-hawkish-fed-bets-202607150923",
-      "datum": "2026-07-15T09:23:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "CEE FX: US inflation relief supports koruna and forint – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-us-inflation-relief-supports-koruna-and-forint-ing-202607150912",
-      "datum": "2026-07-15T09:12:18.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Euro area industrial output falls in May, missing on estimates",
       "link": "https://investinglive.com/news/eurozone-may-industrial-production-vs-0-2-m-m-expected/",
       "datum": "2026-07-15T09:08:37.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Eurozone Industrial Production unexpectedly declines 0.2% in May",
-      "link": "https://www.fxstreet.com/news/eurozone-industrial-production-unexpectedly-declines-02-in-may-202607150908",
-      "datum": "2026-07-15T09:08:20.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Japan's PM Takaichi dismisses link between government's draft economic blueprint and surging bond yields",
       "link": "https://investinglive.com/news/japan-s-pm-takaichi-dismisses-link-between-government-s-draft-economic-blueprint-and-surging-bond-yields/",
       "datum": "2026-07-15T07:32:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Spain headline annual inflation confirmed at 3.2% in June",
-      "link": "https://investinglive.com/news/spain-june-final-cpi-vs-3-2-y-y-prelim/",
-      "datum": "2026-07-15T07:07:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-3/",
-      "datum": "2026-07-15T06:28:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Cooler US inflation gives markets a bit of a breather",
-      "link": "https://investinglive.com/news/cooler-us-inflation-keeps-the-calm-in-markets-for-now-at-least/",
-      "datum": "2026-07-15T04:53:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-pacific FX news wrap 15 Jul",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-15-jul/",
-      "datum": "2026-07-15T03:27:53.000Z"
     }
   ]
 }

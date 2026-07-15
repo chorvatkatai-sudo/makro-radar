@@ -1,11 +1,77 @@
 {
-  "stand": "2026-07-15T13:26:24.509Z",
+  "stand": "2026-07-15T15:21:18.608Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Williams: June CPI consistent with progress on inflation",
+      "link": "https://www.fxstreet.com/news/feds-williams-june-cpi-consistent-with-progress-on-inflation-202607151429",
+      "datum": "2026-07-15T14:29:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "BoC's Macklem: Economic growth looks to have resumed in Canada",
+      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-for-sixth-consecutive-meeting-202607150945",
+      "datum": "2026-07-15T14:29:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar rises amid softer US PPI",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-amid-softer-us-ppi-202607151425",
+      "datum": "2026-07-15T14:25:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Limited downside after CPI – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-limited-downside-after-cpi-bbh-202607151414",
+      "datum": "2026-07-15T14:14:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Honeymoon risks for Pound – Rabobank",
+      "link": "https://www.fxstreet.com/news/british-pound-honeymoon-risks-for-pound-rabobank-202607151355",
+      "datum": "2026-07-15T13:55:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro finds support as soft US PPI weighs on US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-finds-support-as-soft-us-ppi-weighs-on-us-dollar-202607151351",
+      "datum": "2026-07-15T13:51:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Brazilian Real: Year-end weakness forecast against US Dollar – Rabobank",
+      "link": "https://www.fxstreet.com/news/brazilian-real-year-end-weakness-forecast-against-us-dollar-rabobank-202607151337",
+      "datum": "2026-07-15T13:37:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold steadies as traders balance soft US inflation data against rising Oil prices",
+      "link": "https://www.fxstreet.com/news/gold-eases-as-soft-us-cpi-fails-to-dent-the-feds-hawkish-outlook-202607151203",
+      "datum": "2026-07-15T13:24:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: ECB watching energy shock and expectations – BNY",
+      "link": "https://www.fxstreet.com/news/euro-ecb-watching-energy-shock-and-expectations-bny-202607151321",
+      "datum": "2026-07-15T13:21:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Market-friendly chancellor prospects – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-kingdom-market-friendly-chancellor-prospects-td-securities-202607151259",
+      "datum": "2026-07-15T12:59:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro weakens against British Pound as Bank of England rate hike bets rise",
+      "link": "https://www.fxstreet.com/news/euro-weakens-against-british-pound-as-bank-of-england-rate-hike-bets-rise-202607151259",
+      "datum": "2026-07-15T12:59:24.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US Empire Manufacturing for July 15.6 vs 5.70 last month. The estimate was 8.80.",
@@ -19,88 +85,22 @@
       "datum": "2026-07-15T12:42:44.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "United States annual producer inflation drops to 5.5% in June vs. 6.2% expected",
+      "link": "https://www.fxstreet.com/news/united-states-annual-producer-inflation-drops-to-55-in-june-vs-62-expected-202607151241",
+      "datum": "2026-07-15T12:41:17.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "May Canada manufacturing sales +1.3% vs +1.1% expected",
       "link": "https://investinglive.com/news/may-canada-manufacturing-sales-vs-1-1-expected/",
       "datum": "2026-07-15T12:34:28.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Tentative flow reversal before BoC – BNY",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-tentative-flow-reversal-before-boc-bny-202607151226",
-      "datum": "2026-07-15T12:26:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoC expected to keep interest rates unchanged as inflation pressures remain contained",
-      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-for-sixth-consecutive-meeting-202607150945",
-      "datum": "2026-07-15T12:15:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Norwegian Krone: Softer inflation but Norges Bank still hawkish – BBH",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-softer-inflation-but-norges-bank-still-hawkish-bbh-202607151211",
-      "datum": "2026-07-15T12:11:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold eases as soft US CPI fails to dent the Fed's hawkish outlook",
-      "link": "https://www.fxstreet.com/news/gold-eases-as-soft-us-cpi-fails-to-dent-the-feds-hawkish-outlook-202607151203",
-      "datum": "2026-07-15T12:03:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fed expectations weigh on Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-expectations-weigh-on-dollar-commerzbank-202607151156",
-      "datum": "2026-07-15T11:56:55.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Oil prices hold higher, yields push up again after US CPI breather",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-hold-higher-yields-push-up-again-after-us-cpi-breather/",
       "datum": "2026-07-15T11:43:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound dips below 1.3400, turns negative on the day as US Dollar picks up",
-      "link": "https://www.fxstreet.com/news/british-pound-dips-below-13400-turns-negative-on-the-day-as-us-dollar-picks-up-202607151137",
-      "datum": "2026-07-15T11:37:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "NZD/USD Price Forecast: Holds onto Tuesday’s gains amid risk-on mood",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-holds-onto-tuesdays-gains-amid-risk-on-mood-202607151119",
-      "datum": "2026-07-15T11:19:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee holds early ground as traders dial down hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-attracts-bids-as-traders-trim-fed-interest-rate-hike-bets-202607150550",
-      "datum": "2026-07-15T11:06:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar holds close to one-month high ahead of BoC decision",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-close-to-one-month-high-ahead-of-boc-decision-202607151028",
-      "datum": "2026-07-15T10:28:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD hovers above $4,000, weighed by risk-off markets",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-hovers-above-4-000-weighed-by-risk-off-markets-202607151022",
-      "datum": "2026-07-15T10:22:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: BoC caution limits CAD losses against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-caution-limits-cad-losses-against-us-dollar-mufg-202607150959",
-      "datum": "2026-07-15T09:59:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Modest UK growth and Bailey’s cautious stance – TD Securities",
-      "link": "https://www.fxstreet.com/news/british-pound-modest-uk-growth-and-baileys-cautious-stance-td-securities-202607150950",
-      "datum": "2026-07-15T09:50:54.000Z"
     },
     {
       "quelle": "ForexLive",

@@ -4208,8 +4208,8 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "0.4%",
-      "actual": null,
-      "notiz": null
+      "actual": "0.1%",
+      "notiz": "auto:FRED WPSFD49116 (Ref 2026-06-01)"
     },
     "2026-07-15T08:30:00-04:00|USD|PPI m/m": {
       "datum": "2026-07-15T08:30:00-04:00",
@@ -4218,8 +4218,8 @@
       "impact": "High",
       "prognose": "0.0%",
       "vorher": "1.1%",
-      "actual": null,
-      "notiz": null
+      "actual": "-0.3%",
+      "notiz": "auto:FRED PPIFIS (Ref 2026-06-01)"
     },
     "2026-07-15T08:30:00-04:00|USD|Empire State Manufacturing Index": {
       "datum": "2026-07-15T08:30:00-04:00",
@@ -4268,8 +4268,8 @@
       "impact": "High",
       "prognose": "2.25%",
       "vorher": "2.25%",
-      "actual": null,
-      "notiz": null
+      "actual": "2.25%",
+      "notiz": "auto:TV rate (2026-07-15)"
     },
     "2026-07-15T10:00:00-04:00|USD|Fed Chairman Warsh Testifies": {
       "datum": "2026-07-15T10:00:00-04:00",

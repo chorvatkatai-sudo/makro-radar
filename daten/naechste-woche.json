@@ -85,7 +85,7 @@
     "title": "CPI Trimmed-Mean YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "2",
+    "previous": "2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -95,7 +95,7 @@
     "title": "Inflation Rate MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "1",
+    "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -115,7 +115,7 @@
     "title": "CPI Median YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "2.1",
+    "previous": "2.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -135,7 +135,7 @@
     "title": "CPI Common YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "2.7",
+    "previous": "2.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -325,7 +325,7 @@
     "title": "ADP Employment Change Weekly",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "19.75",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -605,7 +605,7 @@
     "title": "EIA Gasoline Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.096",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -615,7 +615,7 @@
     "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.693",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -625,7 +625,7 @@
     "title": "EIA Cushing Crude Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.43",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -635,7 +635,7 @@
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.556",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -645,7 +645,7 @@
     "title": "EIA Refinery Crude Runs Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.099",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -655,7 +655,7 @@
     "title": "EIA Distillate Fuel Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.072",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -665,7 +665,7 @@
     "title": "EIA Crude Oil Imports Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.399",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -675,7 +675,7 @@
     "title": "EIA Gasoline Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.533",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -685,7 +685,7 @@
     "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.03",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -895,7 +895,7 @@
     "title": "Retail Sales Ex Autos MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.1",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -905,7 +905,7 @@
     "title": "Retail Sales YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.7",
+    "previous": "3.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -914,8 +914,8 @@
     "country": "CAD",
     "title": "Retail Sales MoM Final",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.5",
+    "forecast": "1%",
+    "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -925,7 +925,7 @@
     "title": "Retail Sales MoM Prel",
     "impact": "Medium",
     "forecast": "",
-    "previous": "1",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1305,7 +1305,7 @@
     "title": "Raw Materials Prices YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "33.4",
+    "previous": "33.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1315,7 +1315,7 @@
     "title": "Raw Materials Prices MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.7",
+    "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1395,7 +1395,7 @@
     "title": "New Home Sales MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-7.3",
+    "previous": "-7.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1415,7 +1415,7 @@
     "title": "Kansas Fed Composite Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "11",
     "actual": null,
     "quelle": "tradingview"
   },

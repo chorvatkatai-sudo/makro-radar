@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-15T07:53:45.406Z",
+  "stand": "2026-07-15T11:23:40.828Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -3,
       "tiltCot": -10,
-      "tiltZins": 6,
-      "tiltGesamt": -4,
-      "score": -7,
+      "tiltZins": 5,
+      "tiltGesamt": -5,
+      "score": -8,
       "cotExtrem": "erhoeht",
       "treiber": "Fast neutral: Der weichere Dollar und die EXTREMEN Pfund-Shorts (Squeeze-Risiko) + hohe UK-Rendite (2J 4,35% > US) begrenzen jeden Rückgang stark. Nur noch leicht negativ."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -4,
       "tiltCot": 10,
-      "tiltZins": -2,
-      "tiltGesamt": 8,
-      "score": 4,
+      "tiltZins": -3,
+      "tiltGesamt": 7,
+      "score": 3,
       "cotExtrem": "erhoeht",
       "treiber": "Abwärts (Loonie stärker): Das Öl-Comeback (WTI ~80$, +9% Woche) + solide Jobs + eine ruhige BoC (Halten) stützen den Loonie deutlich stärker, als der (ohnehin weichere) Dollar drückt."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -4,
       "tiltCot": -5,
-      "tiltZins": 6,
-      "tiltGesamt": 1,
-      "score": -3,
+      "tiltZins": 5,
+      "tiltGesamt": 0,
+      "score": -4,
       "cotExtrem": "extrem",
       "treiber": "Leicht abwärts: Schwaches China-BIP (4,3%) und gedämpfte RBNZ-Reaktion drücken; GEGENGEWICHT ist die extreme Short-Positionierung (Squeeze-Risiko nach oben) + der weichere Dollar → nur moderat negativ."
     }

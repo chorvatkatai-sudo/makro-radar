@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-14T21:51:12.062Z",
+ "erstellt": "2026-07-15T05:05:04.397Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -2351,20 +2351,20 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Der Dollar hat den Boden gefunden — Falken-Protokoll + steigende Renditen + Öl-Comeback fangen die Jobschock-Delle auf. Nächste Woche entscheidet die US-Inflation (Di)",
   "tagesnews": {
-   "stand": "2026-07-14",
-   "wochentag": "Dienstag",
-   "tenor": "Der große Tag: Heute um 14:30 kommt die US-Inflation (CPI) — DAS Marktereignis der Woche. Der Dollar geht fest hinein (DXY ~101), gestützt von einem kräftigen Öl-Sprung (WTI 77,6$, +10% Woche) nach dem Bruch der Iran-Waffenruhe und von steigenden US-Renditen (10J 4,61%). Zwei-Wege-Wette: heißer Kern-CPI → Falken-Dollar kehrt zurück; kühler → die Jobschock-Story gewinnt. Zusätzlich spricht Fed-Chef Warsh ab 16:00 vor dem Kongress.",
+   "stand": "2026-07-15",
+   "wochentag": "Mittwoch",
+   "tenor": "US-Inflation gestern deutlich KÜHLER als erwartet — der Kern trat auf der Stelle (0,0% statt +0,2%), die Jahresrate fiel auf 2,6%. Der Dollar rutschte erst kräftig ab (DXY-Tief 100,6), fing sich dann aber wieder (100,9), weil Fed-Chef Warsh betont hart blieb und das teure Öl (WTI ~80$, +9% Woche) neue Inflationssorgen macht. Fazit: Der Riss im Dollar wird etwas größer, bricht aber nicht — Warsh und Öl halten dagegen. Heute: Bank of Canada (Halten) + US-Erzeugerpreise (PPI) + Warsh Tag 2 im Senat.",
    "heute": [
-    "🇺🇸 US-INFLATION (CPI Juni) 14:30 = DAS Event. Erwartet: Kern +0,2% Monat / ~2,9% Jahr. ACHTUNG Kopfzeile: Die Gesamtrate dürfte wegen billigem Juni-Benzin auf ~3,9% FALLEN (−0,1% Monat) — eine Öl-Täuschung. Der KERN ist die wahre Geschichte, und das Benzin ist längst wieder teurer (Iran-Eskalation).",
-    "🇺🇸 FED-CHEF WARSH vor dem Kongress ab 16:00 (Repräsentantenhaus; Mittwoch dann Senat). Er hat die frischen CPI-Zahlen in der Hand und nennt die Inflation weiter 'zu hoch'. Der Markt preist noch ~64% Chance auf mindestens eine Zinserhöhung bis Jahresende.",
-    "🛢️ ÖL TREIBT MIT: WTI 77,6$ (+10% Woche!), Brent 82,7$ — die Iran-Waffenruhe am Golf ist seit dem 8.7. gebrochen, Öltanker durch die Straße von Hormus werden bedroht. Teures Öl = neue Inflationssorge (falkenhaft für die Fed, belastet Öl-Importeure Euro & Yen, stützt den Loonie).",
-    "🧭 WORAUF ES ANKOMMT: Der Dollar sitzt in der Zwickmühle. Kern-CPI über +0,3% → Zinserhöhungs-Wette kehrt zurück, Dollar rauf. Kern bei/unter +0,2% → der schwache Arbeitsmarkt (Jobschock) gewinnt, Dollar runter. Bis dahin hält der Markt die Luft an."
+    "🇨🇦 BANK OF CANADA 15:45 Wien: hält den Leitzins aller Voraussicht nach bei 2,25% (6. Mal in Folge). Wichtiger als der Satz ist der TON im Quartalsbericht (MPR) — solide Jobs (+18k) + teures Öl geben der BoC Ruhe, aber die Handelslage bleibt der Sorgenpunkt. Loonie-freundliches Umfeld.",
+    "🇺🇸 US-ERZEUGERPREISE (PPI Juni) 14:30 Wien: erwartet Gesamt 0,0% / Kern +0,3% Monat. Das ist die Inflation eine Stufe VOR den Ladenpreisen — nach dem kühlen CPI gestern schaut der Markt, ob die Entspannung sich fortsetzt. (FRED trägt den Ist-Wert später automatisch nach.)",
+    "🇺🇸 FED-CHEF WARSH Tag 2 — heute vor dem SENAT. Gestern bügelte er die Zins-Senkungs-Fantasie ab (Inflation weiter „zu hoch\"), was den Dollar stützte. Achtet auf jede Verschärfung/Milderung nach den kühlen Zahlen.",
+    "🛢️ ÖL bleibt der heiße Draht: WTI ~80$ (+9% Woche), Brent ~85$ — die gebrochene Iran-Waffenruhe hält die Straße von Hormus unter Spannung. Teures Öl = Rückenwind für den Loonie, Gegenwind für Euro & Yen (Import)."
    ],
    "gestern": [
-    "😴 MONTAG ruhig, Dollar fest: Der Dollar-Index hielt sich um ~101, EUR/USD um ~1,14, USD/JPY um ~161,7. Kaum Termine — der Markt positionierte sich vor der Inflation und Warsh (Kauf sicherer Häfen + Öl-Auftrieb stützten den Dollar).",
-    "🛢️ ÖL-COMEBACK verschärft sich: Über die Woche sprang WTI +10% auf 77,6$ (Brent +11,6% auf 82,7$), weil die Iran-Waffenruhe am 8.7. brach und die Straße von Hormus wieder bedroht ist. Das treibt US-Renditen hoch (10J 4,61%) und gibt dem Dollar Halt.",
-    "🇯🇵 YEN erholt: USD/JPY fiel unter 162 auf ~161,7 — Japans Erzeugerpreise sprangen +7,1% (schnellster Anstieg seit März 2023), dazu Fiskal-/Reformpläne (Pensionsfonds sollen mehr heimisch anlegen) und Interventionsangst nahe dem 40-Jahres-Tief.",
-    "🇨🇦 KANADA-Jobs stark (Fr): +18.000 Stellen (erwartet +11.000), Arbeitslosigkeit fiel auf 6,5% — stützt den Loonie vor der Bank of Canada am Mittwoch (Halten 2,25% erwartet). 🇺🇸 Fed-Protokoll (Mi) falkenhaft, aber ALTER Stand vor dem Jobschock → abgetan."
+    "🇺🇸 US-INFLATION (CPI Juni) KÜHL — der große Miss: KERN nur 0,0% Monat (statt +0,2%), Jahresrate 2,6% (statt 2,8%). KOPFZEILE −0,4% Monat (größter Rückgang seit April 2020) → Jahresrate 3,5% (von 4,2%), dank billigem Juni-Benzin + nachlassender Wohnkosten. Klar dollar-negativ, meine „kühl-Wette\" TRAF.",
+    "💵 DOLLAR-REAKTION zweiteilig: Sofort nach der Zahl fiel der Dollar-Index auf 100,6 (EUR/USD sprang auf ~1,145), die Juli-Zinserhöhungs-Wette wurde ausgepreist. DANN Rebound auf ~100,9, als Warsh vor dem Kongress betont falkenhaft blieb („keine Toleranz für zu hohe Inflation\"). Netto: Dollar gedellt, nicht gebrochen.",
+    "🇨🇳 CHINA-BIP Q2 SCHWACH: +4,3% Jahr (erwartet 4,5%, von 5,0% im Q1), Quartal +0,9%. Schwache Binnennachfrage — Gegenwind für die Rohstoff-Währungen Aussie & Kiwi (China ist ihr größter Kunde).",
+    "🇯🇵 YEN etwas fester: USD/JPY um ~161,5 — Japans Erzeugerpreise heiß (+7,1%), dazu Interventionsangst nahe dem 40-Jahres-Tief stützen den Yen gegen den Carry-Druck."
    ]
   },
   "lage": [
@@ -2379,80 +2379,80 @@ window.MAKRO_DATA = {
   "waehrungen": {
    "USD": {
     "stimmung": "neutral",
-    "score": 10,
-    "grund": "Boden gefunden statt weiter fallen: Das Falken-Protokoll (9 Erhöhungs-Stimmen, Senkung gestrichen), steigende Renditen (10J 4,55%) und das Öl-Comeback (→ Inflationssorge) geben Halt. Gegenpol bleibt die Jobschock-Delle (der Markt wettet frühestens Dez auf eine Erhöhung) — deshalb neutral, nicht bullisch. Die US-Inflation am Dienstag ist der echte Test."
+    "score": 6,
+    "grund": "Gedellt, nicht gebrochen: Das kühle US-CPI (Kern 0,0%, Jahr 2,6%) hat die Zinserhöhungs-Wette gestutzt und den Dollar auf 100,6 gedrückt. ABER Fed-Chef Warsh blieb betont falkenhaft, das teure Öl (WTI ~80$) macht neue Inflationssorge, und der Realzins bleibt hoch (~2,36%) → Rebound auf ~100,9. Deshalb neutral: der Riss wächst, bricht aber nicht."
    },
    "EUR": {
     "stimmung": "bärisch",
-    "score": -10,
-    "grund": "Doppelt belastet: fester Dollar (steigende Renditen, Öl-Inflationssorge) UND teureres Öl (die Eurozone ist Energie-Importeur, WTI +10% Woche). Eigene Inflation zuletzt kühl (2,8%) → die EZB hat es nicht eilig. Klarer US-Zinsvorteil (2J 4,27% vs. 2,75%). Leicht euro-negativ."
+    "score": -6,
+    "grund": "Zwei Kräfte: Der weichere Dollar nach dem kühlen CPI hebt EUR/USD auf ~1,145 — ABER das teure Öl (WTI +9% Woche) belastet die Energie-Importeurin Eurozone, und die eigene Inflation ist zuletzt kühl (2,8%), die EZB hat es nicht eilig. US-Zinsvorteil bleibt (2J 4,19% vs. 2,74%). Weniger bärisch als vorige Woche."
    },
    "GBP": {
     "stimmung": "neutral",
     "score": 2,
-    "grund": "Auf der Kippe: Der festere Dollar drückt, ABER die Großspekulanten sind beim Pfund EXTREM short (COT-z −2,2) = Squeeze-Risiko nach oben, und die britische 2J-Rendite (4,23%) liegt sogar über der US-Rendite. Nächste Woche das UK-BIP (Do). Beide Kräfte heben sich fast auf → leicht positiv."
+    "grund": "Auf der Kippe: Der weichere Dollar hilft, und die Großspekulanten sind beim Pfund EXTREM short (COT-z −1,8+ = Squeeze-Risiko nach oben); die britische 2J-Rendite (4,35%) liegt über der US-Rendite. Gegenpol: eigene Konjunktur wackelig (UK-BIP nächste Woche). Kräfte heben sich fast auf → leicht positiv."
    },
    "JPY": {
     "stimmung": "bärisch",
-    "score": -8,
-    "grund": "Weiter schwach, aber stabilisiert: Steigende US-Renditen (10J 4,61%) und teures Öl (WTI +10% Woche) belasten den zinslosen Import-Riesen. GEGENGEWICHT: Japans Erzeugerpreise +7,1% (heiß), Fiskal-/Reformpläne und Interventionsangst nahe dem 40-Jahres-Tief haben USD/JPY unter 162 (~161,7) gedrückt. Track-Record 0/3 → bewusst moderat."
+    "score": -4,
+    "grund": "Weiter schwach, aber weniger: Das kühle US-CPI + fallende Erhöhungs-Wette entlasten den zinslosen Yen etwas, dazu Japans heiße Erzeugerpreise (+7,1%) und akutes Interventionsrisiko (USD/JPY ~161,5). Gegen ihn arbeitet weiter der brutale Zins-Rückstand (2J nur 1,43%). Track-Record 0/4 → bewusst moderat nahe null."
    },
    "CHF": {
     "stimmung": "bärisch",
-    "score": -8,
-    "grund": "Der festere Dollar und die risikofreudige Stimmung (VIX tief) nehmen dem sicheren Hafen Franken den Rückenwind. Die SNB steht bei 0% ganz ohne Zins-Vorteil (2J-Rendite nur 0,07%)."
+    "score": -6,
+    "grund": "Etwas entlastet: Der weichere Dollar nimmt den Abwärtsdruck, aber die risikofreudige Stimmung (VIX 16,5) und die SNB bei 0% (2J-Rendite nur 0,12%) lassen dem Franken keinen Zins-Rückenwind. Bleibt leicht negativ."
    },
    "CAD": {
-    "stimmung": "neutral",
-    "score": 6,
-    "grund": "Aufgehellt: Das Öl-Comeback verschärft sich (WTI +10% Woche auf 77,6$) und stützt Kanadas wichtigsten Export kräftig, dazu solide Juni-Jobs (+18k, Arbeitslosigkeit 6,5%). Gegenwind: fester Dollar vor der US-Inflation. Mittwoch hält die BoC wohl bei 2,25%. Netto loonie-positiv."
-   },
-   "AUD": {
     "stimmung": "bullisch",
     "score": 8,
-    "grund": "Weiter Favorit, aber getrimmt: Die Risikofreude (VIX 15,7) hilft dem Aussie, und die australische 2J-Rendite ist mit 4,46% die höchste im Feld. Dämpfer: Chinas schwache Inflation (+1,0%) und das langsamere China-Wachstum (BIP nächste Woche) — China ist der größte Kunde. Plus der festere Dollar. Deshalb bullisch, aber nicht extrem."
+    "grund": "Relativer Gewinner: Das kräftige Öl-Comeback (WTI ~80$, +9% Woche) stützt Kanadas Top-Export, dazu solide Jobs (+18k, Quote 6,5%) und heute eine BoC, die bei 2,25% hält (Ruhe statt Senkungs-Angst). Der weichere Dollar hilft zusätzlich. Loonie-bullisch."
+   },
+   "AUD": {
+    "stimmung": "neutral",
+    "score": 4,
+    "grund": "Getrimmt: Die Risikofreude (VIX 16,5) und die hohe Aussie-Rendite (2J 4,52%, höchste im Feld) heben, und der weichere Dollar hilft. ABER das schwache China-BIP (4,3%, Miss) und die matte China-Nachfrage bremsen den Aussie klar — China ist der größte Kunde. Deshalb nur noch leicht positiv."
    },
    "NZD": {
     "stimmung": "neutral",
-    "score": 3,
-    "grund": "Die RBNZ hat auf 2,50% erhöht (erste Anhebung seit 2023) — Richtung positiv. ABER sie bremste ('weitere Schritte ungewiss'), der Kiwi gab seine Gewinne schnell ab, und der festere Dollar deckelt. Die Großspekulanten sind EXTREM short (COT-z −2,5, −57% des Marktes!) = starkes Squeeze-Risiko nach oben. Track-Record 1/3 → bewusst nahe null."
+    "score": 0,
+    "grund": "Ausgeglichen: Der weichere Dollar und die extreme Short-Positionierung (COT-z ~−2,5 = großes Squeeze-Risiko nach oben) heben — dagegen das schwache China-BIP (4,3%) und die gedämpfte Reaktion nach der RBNZ-Erhöhung (2,50%). Track-Record 1/3, jetzt neutral."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": -11,
-    "treiber": "Abwärts: fester Dollar (steigende Renditen + Öl-Inflationssorge) und das teurere Öl belasten den Euro-Importeur doppelt. Klarer US-Zinsvorteil (2J 4,27% vs. 2,75%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
+    "score": -6,
+    "treiber": "Weniger abwärts: Der weichere Dollar nach dem kühlen CPI hob EUR/USD auf ~1,145. Bremse bleibt das teure Öl (Euro-Importeur) und der US-Zinsvorteil (2J 4,19% vs. 2,74%). Netto leicht negativ."
    },
    {
     "paar": "GBP/USD",
-    "score": -4,
-    "treiber": "Leicht abwärts: der festere Dollar drückt, aber die EXTREMEN Pfund-Shorts (COT-z −2,2 = Squeeze-Risiko) und die hohe UK-Rendite (2J 4,23% > US) begrenzen den Rückgang deutlich."
+    "score": -3,
+    "treiber": "Fast neutral: Der weichere Dollar und die EXTREMEN Pfund-Shorts (Squeeze-Risiko) + hohe UK-Rendite (2J 4,35% > US) begrenzen jeden Rückgang stark. Nur noch leicht negativ."
    },
    {
     "paar": "USD/JPY",
-    "score": 8,
-    "treiber": "Aufwärts, aber gebremst: steigende US-Renditen + teures Öl + Carry schwächen den Yen. Bremse: Japans heiße Erzeugerpreise (+7,1%), Fiskalreform und akutes Interventionsrisiko (USD/JPY ~161,7). Track-Record 0/3 → bewusst moderat."
+    "score": 5,
+    "treiber": "Aufwärts, aber stark gebremst: Carry und Öl schwächen den Yen — dagegen das kühle US-CPI, Japans heiße Erzeugerpreise (+7,1%) und akutes Interventionsrisiko (~161,5). Track-Record 0/4 → bewusst moderat."
    },
    {
     "paar": "AUD/USD",
-    "score": 2,
-    "treiber": "Nur leicht positiv: Risikofreude und hohe Aussie-Rendite (2J 4,46%) heben, aber schwache China-Inflation (+1,0%), das langsamere China-Wachstum und der festere Dollar bremsen."
+    "score": -1,
+    "treiber": "Ins Minus gedreht: Zwar hilft der weichere Dollar + Risikofreude, aber das schwache China-BIP (4,3%, Miss) und die matte China-Nachfrage überwiegen jetzt. Aussie-Rendite (2J 4,52%) stützt."
    },
    {
     "paar": "USD/CAD",
-    "score": -2,
-    "treiber": "Leicht abwärts (Loonie stärker): Das kräftige Öl-Comeback (WTI +10% Woche) und solide Kanada-Jobs (+18k) stützen den Loonie stärker als der feste Dollar drückt. Mittwoch BoC (Halten erwartet)."
+    "score": -4,
+    "treiber": "Abwärts (Loonie stärker): Das Öl-Comeback (WTI ~80$, +9% Woche) + solide Jobs + eine ruhige BoC (Halten) stützen den Loonie deutlich stärker, als der (ohnehin weichere) Dollar drückt."
    },
    {
     "paar": "USD/CHF",
-    "score": 9,
-    "treiber": "Aufwärts: festerer Dollar + risikofreudige Stimmung (VIX tief) nehmen dem Franken den Rückenwind, die SNB steht zinslos bei 0%."
+    "score": 7,
+    "treiber": "Aufwärts, aber getrimmt: Risikofreude (VIX 16,5) + die zinslose SNB (0%) nehmen dem Franken den Rückenwind; der weichere Dollar deckelt den Anstieg etwas."
    },
    {
     "paar": "NZD/USD",
-    "score": -3,
-    "treiber": "Leicht abwärts: RBNZ hat zwar erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. GEGENGEWICHT: die extreme Short-Positionierung (COT-z −2,5) = großes Squeeze-Risiko nach oben → deshalb nur leicht negativ."
+    "score": -4,
+    "treiber": "Leicht abwärts: Schwaches China-BIP (4,3%) und gedämpfte RBNZ-Reaktion drücken; GEGENGEWICHT ist die extreme Short-Positionierung (Squeeze-Risiko nach oben) + der weichere Dollar → nur moderat negativ."
    }
   ],
   "wochenausblick": {
@@ -3552,73 +3552,73 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -11,
+   "baseScore": -6,
    "tiltCot": -1,
    "tiltZins": 0,
    "tiltGesamt": -1,
-   "score": -12,
+   "score": -7,
    "cotExtrem": null,
-   "treiber": "Abwärts: fester Dollar (steigende Renditen + Öl-Inflationssorge) und das teurere Öl belasten den Euro-Importeur doppelt. Klarer US-Zinsvorteil (2J 4,27% vs. 2,75%). Kühle Euro-Inflation (2,8%) nimmt der EZB die Eile."
+   "treiber": "Weniger abwärts: Der weichere Dollar nach dem kühlen CPI hob EUR/USD auf ~1,145. Bremse bleibt das teure Öl (Euro-Importeur) und der US-Zinsvorteil (2J 4,19% vs. 2,74%). Netto leicht negativ."
   },
   {
    "paar": "GBP/USD",
-   "baseScore": -4,
+   "baseScore": -3,
    "tiltCot": -10,
    "tiltZins": 0,
    "tiltGesamt": -10,
-   "score": -14,
+   "score": -13,
    "cotExtrem": "erhoeht",
-   "treiber": "Leicht abwärts: der festere Dollar drückt, aber die EXTREMEN Pfund-Shorts (COT-z −2,2 = Squeeze-Risiko) und die hohe UK-Rendite (2J 4,23% > US) begrenzen den Rückgang deutlich."
+   "treiber": "Fast neutral: Der weichere Dollar und die EXTREMEN Pfund-Shorts (Squeeze-Risiko) + hohe UK-Rendite (2J 4,35% > US) begrenzen jeden Rückgang stark. Nur noch leicht negativ."
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 8,
+   "baseScore": 5,
    "tiltCot": 10,
    "tiltZins": 0,
    "tiltGesamt": 10,
-   "score": 18,
+   "score": 15,
    "cotExtrem": null,
-   "treiber": "Aufwärts, aber gebremst: steigende US-Renditen + teures Öl + Carry schwächen den Yen. Bremse: Japans heiße Erzeugerpreise (+7,1%), Fiskalreform und akutes Interventionsrisiko (USD/JPY ~161,7). Track-Record 0/3 → bewusst moderat."
+   "treiber": "Aufwärts, aber stark gebremst: Carry und Öl schwächen den Yen — dagegen das kühle US-CPI, Japans heiße Erzeugerpreise (+7,1%) und akutes Interventionsrisiko (~161,5). Track-Record 0/4 → bewusst moderat."
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 2,
+   "baseScore": -1,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": -3,
+   "score": -6,
    "cotExtrem": null,
-   "treiber": "Nur leicht positiv: Risikofreude und hohe Aussie-Rendite (2J 4,46%) heben, aber schwache China-Inflation (+1,0%), das langsamere China-Wachstum und der festere Dollar bremsen."
+   "treiber": "Ins Minus gedreht: Zwar hilft der weichere Dollar + Risikofreude, aber das schwache China-BIP (4,3%, Miss) und die matte China-Nachfrage überwiegen jetzt. Aussie-Rendite (2J 4,52%) stützt."
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -2,
+   "baseScore": -4,
    "tiltCot": 10,
    "tiltZins": 0,
    "tiltGesamt": 10,
-   "score": 8,
+   "score": 6,
    "cotExtrem": "erhoeht",
-   "treiber": "Leicht abwärts (Loonie stärker): Das kräftige Öl-Comeback (WTI +10% Woche) und solide Kanada-Jobs (+18k) stützen den Loonie stärker als der feste Dollar drückt. Mittwoch BoC (Halten erwartet)."
+   "treiber": "Abwärts (Loonie stärker): Das Öl-Comeback (WTI ~80$, +9% Woche) + solide Jobs + eine ruhige BoC (Halten) stützen den Loonie deutlich stärker, als der (ohnehin weichere) Dollar drückt."
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 9,
+   "baseScore": 7,
    "tiltCot": 10,
    "tiltZins": 0,
    "tiltGesamt": 10,
-   "score": 19,
+   "score": 17,
    "cotExtrem": null,
-   "treiber": "Aufwärts: festerer Dollar + risikofreudige Stimmung (VIX tief) nehmen dem Franken den Rückenwind, die SNB steht zinslos bei 0%."
+   "treiber": "Aufwärts, aber getrimmt: Risikofreude (VIX 16,5) + die zinslose SNB (0%) nehmen dem Franken den Rückenwind; der weichere Dollar deckelt den Anstieg etwas."
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -3,
+   "baseScore": -4,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": -8,
+   "score": -9,
    "cotExtrem": "extrem",
-   "treiber": "Leicht abwärts: RBNZ hat zwar erhöht (2,50%), aber gedämpfte Reaktion + festerer Dollar deckeln. GEGENGEWICHT: die extreme Short-Positionierung (COT-z −2,5) = großes Squeeze-Risiko nach oben → deshalb nur leicht negativ."
+   "treiber": "Leicht abwärts: Schwaches China-BIP (4,3%) und gedämpfte RBNZ-Reaktion drücken; GEGENGEWICHT ist die extreme Short-Positionierung (Squeeze-Risiko nach oben) + der weichere Dollar → nur moderat negativ."
   }
  ],
  "sentiment": null,

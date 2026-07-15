@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-15T05:05:29.936Z",
+  "stand": "2026-07-15T07:53:45.406Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -3,
       "tiltCot": -10,
-      "tiltZins": 5,
-      "tiltGesamt": -5,
-      "score": -8,
+      "tiltZins": 6,
+      "tiltGesamt": -4,
+      "score": -7,
       "cotExtrem": "erhoeht",
       "treiber": "Fast neutral: Der weichere Dollar und die EXTREMEN Pfund-Shorts (Squeeze-Risiko) + hohe UK-Rendite (2J 4,35% > US) begrenzen jeden Rückgang stark. Nur noch leicht negativ."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -1,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -6,
+      "tiltZins": 1,
+      "tiltGesamt": -4,
+      "score": -5,
       "cotExtrem": null,
       "treiber": "Ins Minus gedreht: Zwar hilft der weichere Dollar + Risikofreude, aber das schwache China-BIP (4,3%, Miss) und die matte China-Nachfrage überwiegen jetzt. Aussie-Rendite (2J 4,52%) stützt."
     },

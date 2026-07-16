@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-16T19:18:31.871Z",
+  "stand": "2026-07-16T20:48:32.500Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -6,
       "tiltCot": -1,
-      "tiltZins": 6,
-      "tiltGesamt": 5,
-      "score": -1,
+      "tiltZins": 7,
+      "tiltGesamt": 6,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Weniger abwärts: Der weichere Dollar nach dem kühlen CPI hob EUR/USD auf ~1,145. Bremse bleibt das teure Öl (Euro-Importeur) und der US-Zinsvorteil (2J 4,19% vs. 2,74%). Netto leicht negativ."
     },
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -3,
       "tiltCot": -10,
-      "tiltZins": 6,
-      "tiltGesamt": -4,
-      "score": -7,
+      "tiltZins": 7,
+      "tiltGesamt": -3,
+      "score": -6,
       "cotExtrem": "erhoeht",
       "treiber": "Fast neutral: Der weichere Dollar und die EXTREMEN Pfund-Shorts (Squeeze-Risiko) + hohe UK-Rendite (2J 4,35% > US) begrenzen jeden Rückgang stark. Nur noch leicht negativ."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 5,
       "tiltCot": 10,
-      "tiltZins": -2,
-      "tiltGesamt": 8,
-      "score": 13,
+      "tiltZins": -3,
+      "tiltGesamt": 7,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber stark gebremst: Carry und Öl schwächen den Yen — dagegen das kühle US-CPI, Japans heiße Erzeugerpreise (+7,1%) und akutes Interventionsrisiko (~161,5). Track-Record 0/4 → bewusst moderat."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": 7,
       "tiltCot": 10,
-      "tiltZins": -4,
-      "tiltGesamt": 6,
-      "score": 13,
+      "tiltZins": -5,
+      "tiltGesamt": 5,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber getrimmt: Risikofreude (VIX 16,5) + die zinslose SNB (0%) nehmen dem Franken den Rückenwind; der weichere Dollar deckelt den Anstieg etwas."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -4,
       "tiltCot": -5,
-      "tiltZins": 5,
-      "tiltGesamt": 0,
-      "score": -4,
+      "tiltZins": 6,
+      "tiltGesamt": 1,
+      "score": -3,
       "cotExtrem": "extrem",
       "treiber": "Leicht abwärts: Schwaches China-BIP (4,3%) und gedämpfte RBNZ-Reaktion drücken; GEGENGEWICHT ist die extreme Short-Positionierung (Squeeze-Risiko nach oben) + der weichere Dollar → nur moderat negativ."
     }

@@ -1,11 +1,35 @@
 {
-  "stand": "2026-07-16T19:18:31.869Z",
+  "stand": "2026-07-16T20:48:32.499Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap: US retail sales match estimates but tech slumps",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-us-retail-sales-match-estimates-but-tech-slumps/",
+      "datum": "2026-07-16T20:11:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Further upside risk builds against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-further-upside-risk-builds-against-us-dollar-uob-202607161957",
+      "datum": "2026-07-16T19:57:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso drops as risk aversion underpins the US Dollar",
+      "link": "https://www.fxstreet.com/news/mexican-peso-drops-as-risk-aversion-underpins-the-us-dollar-202607161920",
+      "datum": "2026-07-16T19:20:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Gradual gains with capped upside against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-gains-with-capped-upside-against-us-dollar-ocbc-202607161916",
+      "datum": "2026-07-16T19:16:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro falls as strong US jobless claims support US Dollar",
@@ -67,24 +91,6 @@
       "datum": "2026-07-16T15:51:05.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Crude Oil watches the Houthis aim at the last export route that still works",
-      "link": "https://www.fxstreet.com/news/crude-oil-watches-the-houthis-aim-at-the-last-export-route-that-still-works-202607161536",
-      "datum": "2026-07-16T15:36:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold tests $4,000 as energy-driven inflation fears keep Fed rate hike bets in play",
-      "link": "https://www.fxstreet.com/news/gold-slips-as-energy-driven-inflation-fears-keep-fed-rate-hike-bets-in-play-202607161146",
-      "datum": "2026-07-16T15:34:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc falls as Middle East tensions keep Fed rate hike expectations alive",
-      "link": "https://www.fxstreet.com/news/swiss-franc-falls-as-middle-east-tensions-keep-fed-rate-hike-expectations-alive-202607161526",
-      "datum": "2026-07-16T15:26:29.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
@@ -107,12 +113,6 @@
       "titel": "US July Philly Fed business index +41.4 vs +13.0 expected",
       "link": "https://investinglive.com/news/us-july-philly-fed-business-index-41-4-vs-13-0-expected/",
       "datum": "2026-07-16T12:53:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US June retail sales +0.2% vs +0.2% expected",
-      "link": "https://investinglive.com/news/us-june-retail-sales-vs-0-2-expected/",
-      "datum": "2026-07-16T12:30:05.000Z"
     }
   ]
 }

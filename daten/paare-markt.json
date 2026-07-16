@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-16T13:40:16.375Z",
+  "stand": "2026-07-16T14:53:15.486Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": 7,
       "tiltCot": 10,
-      "tiltZins": -3,
-      "tiltGesamt": 7,
-      "score": 14,
+      "tiltZins": -4,
+      "tiltGesamt": 6,
+      "score": 13,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber getrimmt: Risikofreude (VIX 16,5) + die zinslose SNB (0%) nehmen dem Franken den Rückenwind; der weichere Dollar deckelt den Anstieg etwas."
     },

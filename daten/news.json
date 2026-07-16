@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-16T13:40:16.374Z",
+  "stand": "2026-07-16T14:53:15.485Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,9 +8,45 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
+      "titel": "US May business inventories +0.3% vs +0.3% expected",
+      "link": "https://investinglive.com/news/us-may-business-inventories-vs-0-3/",
+      "datum": "2026-07-16T14:12:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: UK GDP resilience with Q2 risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/british-pound-uk-gdp-resilience-with-q2-risks-td-securities-202607161355",
+      "datum": "2026-07-16T13:55:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro pauses a two-day winning streak as the US Dollar steadies",
+      "link": "https://www.fxstreet.com/news/euro-pauses-a-two-day-winning-streak-as-the-us-dollar-steadies-202607161353",
+      "datum": "2026-07-16T13:53:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar extends gains over US Dollar as BoC stance limits further upside",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-extends-gains-over-us-dollar-boc-stance-limits-further-upside-202607161346",
+      "datum": "2026-07-16T13:46:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Korea: Back-to-back hike risk stays live – Societe Generale",
+      "link": "https://www.fxstreet.com/news/bank-of-korea-back-to-back-hike-risk-stays-live-societe-generale-202607161331",
+      "datum": "2026-07-16T13:31:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
       "titel": "US initial jobless claims 208K vs 217K estimate",
       "link": "https://investinglive.com/news/us-initial-jobless-claims-208k-vs-217k-estimate-2/",
       "datum": "2026-07-16T13:18:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Equities: Trade tensions and value challenge – BNY",
+      "link": "https://www.fxstreet.com/news/equities-trade-tensions-and-value-challenge-bny-202607161317",
+      "datum": "2026-07-16T13:17:21.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -67,52 +103,16 @@
       "datum": "2026-07-16T12:30:01.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: BoC hold and guidance shift – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hold-and-guidance-shift-td-securities-202607161224",
-      "datum": "2026-07-16T12:24:11.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canada June housing starts 239.0K vs 257.9K expected",
       "link": "https://investinglive.com/news/canada-june-housing-starts-239-0k-vs-257-9k-expected/",
       "datum": "2026-07-16T12:17:27.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Hawkish hold bias – Rabobank",
-      "link": "https://www.fxstreet.com/news/european-central-bank-hawkish-hold-bias-rabobank-202607161211",
-      "datum": "2026-07-16T12:11:57.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Iran reportedly tells Houthis to close Red Sea oil route if US decides to strike power infrastructure",
       "link": "https://investinglive.com/news/iran-reportedly-tells-houthis-to-close-red-sea-oil-route-if-us-decides-to-strike-power-infrastructure/",
       "datum": "2026-07-16T12:08:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Policy divergence and carry flows – BNY",
-      "link": "https://www.fxstreet.com/news/euro-policy-divergence-and-carry-flows-bny-202607161202",
-      "datum": "2026-07-16T12:02:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver tumbles as energy-driven inflation fears keep rate outlook elevated",
-      "link": "https://www.fxstreet.com/news/silver-tumbles-as-energy-driven-inflation-fears-keep-rate-outlook-elevated-202607161200",
-      "datum": "2026-07-16T12:00:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Shorts on the run – ING",
-      "link": "https://www.fxstreet.com/news/british-pound-shorts-on-the-run-ing-202607161153",
-      "datum": "2026-07-16T11:53:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Dollar steady, equities dip lower as markets stay cautious",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-steady-equities-dip-lower-as-markets-stay-cautious/",
-      "datum": "2026-07-16T11:52:04.000Z"
     }
   ]
 }

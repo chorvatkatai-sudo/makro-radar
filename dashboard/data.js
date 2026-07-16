@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-16T20:48:32.501Z",
+ "erstellt": "2026-07-16T21:58:03.661Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -1911,7 +1911,7 @@ window.MAKRO_DATA = {
    "title": "Fed Balance Sheet",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "6.743 $",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3022,15 +3022,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-16T20:48:31.937Z",
+  "stand": "2026-07-16T21:58:03.100Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.72,
+    "wert": 100.73,
     "tagProzent": 0,
-    "wocheProzent": -0.25,
+    "wocheProzent": -0.24,
     "renditeDelta": false,
     "verlauf": [
      99.54,
@@ -3053,8 +3053,8 @@ window.MAKRO_DATA = {
      101.28,
      100.94,
      100.5,
-     100.72,
-     100.72
+     100.73,
+     100.73
     ]
    },
    "VIX": {
@@ -3094,9 +3094,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 78.75,
+    "wert": 78.89,
     "tagProzent": 0,
-    "wocheProzent": 10.28,
+    "wocheProzent": 10.47,
     "renditeDelta": false,
     "verlauf": [
      76.05,
@@ -3119,17 +3119,17 @@ window.MAKRO_DATA = {
      78.14,
      79.34,
      79.6,
-     78.75,
-     78.75
+     78.89,
+     78.89
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.71,
+    "wert": 84.86,
     "tagProzent": 0,
-    "wocheProzent": 11.45,
+    "wocheProzent": 11.64,
     "renditeDelta": false,
     "verlauf": [
      78.96,
@@ -3152,8 +3152,8 @@ window.MAKRO_DATA = {
      83.3,
      84.73,
      84.95,
-     84.71,
-     84.71
+     84.86,
+     84.86
     ]
    },
    "Gold": {
@@ -3291,7 +3291,7 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64099.8,
+    "wert": 64103.72,
     "tagProzent": 0,
     "wocheProzent": 0.54,
     "renditeDelta": false,
@@ -3316,8 +3316,8 @@ window.MAKRO_DATA = {
      62239.12,
      64956.11,
      64712.38,
-     64099.8,
-     64099.8
+     64103.72,
+     64103.72
     ]
    },
    "FEDFUT": {
@@ -3358,12 +3358,11 @@ window.MAKRO_DATA = {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.23,
-    "tagProzent": -0.02,
-    "wocheProzent": -0.02,
+    "wert": 2.22,
+    "tagProzent": -0.01,
+    "wocheProzent": -0.01,
     "renditeDelta": true,
     "verlauf": [
-     2.31,
      2.32,
      2.29,
      2.26,
@@ -3384,7 +3383,8 @@ window.MAKRO_DATA = {
      2.24,
      2.26,
      2.25,
-     2.23
+     2.23,
+     2.22
     ],
     "quelle": "FRED"
    },
@@ -3632,13 +3632,37 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-16T20:48:32.499Z",
+  "stand": "2026-07-16T21:58:03.659Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "South Korean Won: Hawkish BoK and equity correction support – BBH",
+    "link": "https://www.fxstreet.com/news/south-korean-won-hawkish-bok-and-equity-correction-support-bbh-202607162118",
+    "datum": "2026-07-16T21:18:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Thai Baht: Overvaluation points to weakness against US Dollar - MUFG",
+    "link": "https://www.fxstreet.com/news/thai-baht-overvaluation-points-to-weakness-against-us-dollar-mufg-202607162041",
+    "datum": "2026-07-16T20:41:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "USD/CHF Price Forecast: Swissie rebounds at 0.8042 support",
+    "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rebounds-at-08042-support-bulls-target-081-202607162033",
+    "datum": "2026-07-16T20:33:24.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Forex Today: US Dollar rises on resilient labor data, while Oil and Gold fall",
+    "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-on-resilient-labor-data-while-oil-and-gold-fall-202607162023",
+    "datum": "2026-07-16T20:23:11.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "investingLive Americas FX news wrap: US retail sales match estimates but tech slumps",
@@ -3698,30 +3722,6 @@ window.MAKRO_DATA = {
     "titel": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "datum": "2026-07-16T18:00:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro edges lower against the Japanese Yen despite ECB rate hike expectations",
-    "link": "https://www.fxstreet.com/news/euro-edges-lower-against-the-japanese-yen-despite-ecb-rate-hike-expectations-202607161715",
-    "datum": "2026-07-16T17:15:09.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "The Dow Jones Industrial Average discovers the virtue of owning few semiconductors",
-    "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-discovers-the-virtue-of-owning-no-semiconductors-202607161626",
-    "datum": "2026-07-16T16:26:41.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "NZD/USD Price Forecast: Buyers retain upper hand near one-month highs",
-    "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-buyers-retain-the-upper-hand-near-one-month-highs-202607161606",
-    "datum": "2026-07-16T16:06:44.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound pulls back as solid US data revives the Greenback",
-    "link": "https://www.fxstreet.com/news/british-pound-pulls-back-as-solid-us-data-revives-the-us-dollar-202607161551",
-    "datum": "2026-07-16T15:51:05.000Z"
    },
    {
     "quelle": "Fed",

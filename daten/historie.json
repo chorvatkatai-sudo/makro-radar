@@ -4820,6 +4820,16 @@
       "vorher": "4.93|3.3",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-16T16:30:00-04:00|USD|Treasury Currency Report": {
+      "datum": "2026-07-16T16:30:00-04:00",
+      "land": "USD",
+      "titel": "Treasury Currency Report",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

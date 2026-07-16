@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-16T17:59:36.286Z",
+ "erstellt": "2026-07-16T19:18:31.871Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -761,7 +761,7 @@ window.MAKRO_DATA = {
   {
    "title": "Treasury Currency Report",
    "country": "USD",
-   "date": "2026-07-16T16:00:00-04:00",
+   "date": "2026-07-16T16:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -3022,15 +3022,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-16T17:59:35.680Z",
+  "stand": "2026-07-16T19:18:31.303Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.78,
+    "wert": 100.76,
     "tagProzent": 0,
-    "wocheProzent": -0.19,
+    "wocheProzent": -0.21,
     "renditeDelta": false,
     "verlauf": [
      99.54,
@@ -3053,17 +3053,17 @@ window.MAKRO_DATA = {
      101.28,
      100.94,
      100.5,
-     100.78,
-     100.78
+     100.76,
+     100.76
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.47,
+    "wert": 16.59,
     "tagProzent": 0,
-    "wocheProzent": 9.58,
+    "wocheProzent": 10.38,
     "renditeDelta": false,
     "verlauf": [
      16.41,
@@ -3086,17 +3086,17 @@ window.MAKRO_DATA = {
      17.16,
      16.5,
      15.67,
-     16.47,
-     16.47
+     16.59,
+     16.59
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 78.37,
+    "wert": 78.39,
     "tagProzent": 0,
-    "wocheProzent": 9.75,
+    "wocheProzent": 9.77,
     "renditeDelta": false,
     "verlauf": [
      76.05,
@@ -3119,17 +3119,17 @@ window.MAKRO_DATA = {
      78.14,
      79.34,
      79.6,
-     78.37,
-     78.37
+     78.39,
+     78.39
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.35,
+    "wert": 84.31,
     "tagProzent": 0,
-    "wocheProzent": 10.97,
+    "wocheProzent": 10.92,
     "renditeDelta": false,
     "verlauf": [
      78.96,
@@ -3152,17 +3152,17 @@ window.MAKRO_DATA = {
      83.3,
      84.73,
      84.95,
-     84.35,
-     84.35
+     84.31,
+     84.31
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3989.7,
+    "wert": 3987.6,
     "tagProzent": 0,
-    "wocheProzent": -2.79,
+    "wocheProzent": -2.84,
     "renditeDelta": false,
     "verlauf": [
      4330.9,
@@ -3185,8 +3185,8 @@ window.MAKRO_DATA = {
      3997,
      4061.1,
      4044,
-     3989.7,
-     3989.7
+     3987.6,
+     3987.6
     ]
    },
    "US02Y": {
@@ -3258,9 +3258,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.096,
+    "wert": 5.098,
     "tagProzent": 0,
-    "wocheProzent": 0.02,
+    "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
      4.928,
@@ -3283,17 +3283,17 @@ window.MAKRO_DATA = {
      5.098,
      5.094,
      5.083,
-     5.096,
-     5.096
+     5.098,
+     5.098
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64020.58,
+    "wert": 64154.29,
     "tagProzent": 0,
-    "wocheProzent": 0.41,
+    "wocheProzent": 0.62,
     "renditeDelta": false,
     "verlauf": [
      60016.43,
@@ -3316,17 +3316,17 @@ window.MAKRO_DATA = {
      62239.12,
      64956.11,
      64712.38,
-     64020.58,
-     64020.58
+     64154.29,
+     64154.29
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.65,
-    "tagProzent": 0,
-    "wocheProzent": 0.02,
+    "wert": 3.66,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
      3.62,
@@ -3350,7 +3350,7 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.65,
-     3.65
+     3.66
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
@@ -3517,12 +3517,12 @@ window.MAKRO_DATA = {
    "stand": "2026-07-16",
    "werte": {
     "USD": {
-     "wert": 4.16,
-     "wocheDelta": -0.052
+     "wert": 4.158,
+     "wocheDelta": -0.054
     },
     "EUR": {
-     "wert": 2.755,
-     "wocheDelta": 0.096
+     "wert": 2.757,
+     "wocheDelta": 0.098
     },
     "GBP": {
      "wert": 4.341,
@@ -3533,12 +3533,12 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.006
     },
     "AUD": {
-     "wert": 4.544,
-     "wocheDelta": 0.047
+     "wert": 4.54,
+     "wocheDelta": 0.043
     },
     "CAD": {
-     "wert": 2.83,
-     "wocheDelta": 0.01
+     "wert": 2.836,
+     "wocheDelta": 0.016
     },
     "CHF": {
      "wert": 0.131,
@@ -3603,9 +3603,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -6,
    "tiltCot": 10,
-   "tiltZins": -2,
-   "tiltGesamt": 8,
-   "score": 2,
+   "tiltZins": -3,
+   "tiltGesamt": 7,
+   "score": 1,
    "cotExtrem": "erhoeht",
    "treiber": "Abwärts (Loonie stärker): Öl-Comeback (WTI ~80$, +10% Woche) + eine BoC, die bei einem Öl-Schock Erhöhungen andeutet + wieder wachsende Wirtschaft (Q2 ~2,5%) stützen den Loonie deutlich stärker, als der weiche Dollar drückt."
   },
@@ -3632,7 +3632,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-16T17:59:36.285Z",
+  "stand": "2026-07-16T19:18:31.869Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3641,13 +3641,49 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
+    "titel": "Euro falls as strong US jobless claims support US Dollar",
+    "link": "https://www.fxstreet.com/news/euro-falls-as-strong-us-jobless-claims-support-us-dollar-202607161847",
+    "datum": "2026-07-16T18:47:36.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "European Union: Trade tools and China rebalancing – Standard Chartered",
+    "link": "https://www.fxstreet.com/news/european-union-trade-tools-and-china-rebalancing-standard-chartered-202607161837",
+    "datum": "2026-07-16T18:37:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver Price Forecast: XAG/USD tests the $55 floor as sellers retain control",
+    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-the-55-floor-as-sellers-retain-control-202607161814",
+    "datum": "2026-07-16T18:14:54.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold loses track of $4,000, drops as Oil shock revives Fed bets",
+    "link": "https://www.fxstreet.com/news/gold-loses-track-of-4-000-drops-as-oil-shock-revives-fed-bets-202607161803",
+    "datum": "2026-07-16T18:03:48.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound: Dips against US Dollar seen as buying opportunity – Scotiabank",
+    "link": "https://www.fxstreet.com/news/british-pound-dips-against-us-dollar-seen-as-buying-opportunity-scotiabank-202607161800",
+    "datum": "2026-07-16T18:00:01.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
+    "datum": "2026-07-16T18:00:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
     "titel": "Euro edges lower against the Japanese Yen despite ECB rate hike expectations",
     "link": "https://www.fxstreet.com/news/euro-edges-lower-against-the-japanese-yen-despite-ecb-rate-hike-expectations-202607161715",
     "datum": "2026-07-16T17:15:09.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "The Dow Jones Industrial Average discovers the virtue of owning no semiconductors",
+    "titel": "The Dow Jones Industrial Average discovers the virtue of owning few semiconductors",
     "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-discovers-the-virtue-of-owning-no-semiconductors-202607161626",
     "datum": "2026-07-16T16:26:41.000Z"
    },
@@ -3682,40 +3718,10 @@ window.MAKRO_DATA = {
     "datum": "2026-07-16T15:26:29.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar holds above 0.7000 as US Retail Sales lose momentum",
-    "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-07000-as-us-retail-sales-lose-momentum-202607161515",
-    "datum": "2026-07-16T15:15:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar: Gains eye 1.3981 against US Dollar – Scotiabank",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-gains-eye-13981-against-us-dollar-scotiabank-202607161510",
-    "datum": "2026-07-16T15:10:29.000Z"
-   },
-   {
     "quelle": "Fed",
     "titel": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "datum": "2026-07-16T15:00:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "European Central Bank: Rate hike risk returns with Oil – ING",
-    "link": "https://www.fxstreet.com/news/european-central-bank-rate-hike-risk-returns-with-oil-ing-202607161457",
-    "datum": "2026-07-16T14:57:09.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound: BoE hikes not seen bullish – BBH",
-    "link": "https://www.fxstreet.com/news/british-pound-boe-hikes-not-seen-bullish-bbh-202607161436",
-    "datum": "2026-07-16T14:36:25.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "The BoC holds at 2.25% and removes hike language: Why the Canadian Dollar could remain stuck",
-    "link": "https://www.fxstreet.com/news/the-boc-holds-at-225-and-removes-hike-language-why-the-canadian-dollar-could-remain-stuck-202607161413",
-    "datum": "2026-07-16T14:13:35.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3740,12 +3746,6 @@ window.MAKRO_DATA = {
     "titel": "US June retail sales +0.2% vs +0.2% expected",
     "link": "https://investinglive.com/news/us-june-retail-sales-vs-0-2-expected/",
     "datum": "2026-07-16T12:30:05.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Canada June housing starts 239.0K vs 257.9K expected",
-    "link": "https://investinglive.com/news/canada-june-housing-starts-239-0k-vs-257-9k-expected/",
-    "datum": "2026-07-16T12:17:27.000Z"
    }
   ]
  },
@@ -4502,5 +4502,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 482
+ "anzahlGespeichert": 483
 };

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-16T17:59:36.285Z",
+  "stand": "2026-07-16T19:18:31.869Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,13 +8,49 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "Euro falls as strong US jobless claims support US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-falls-as-strong-us-jobless-claims-support-us-dollar-202607161847",
+      "datum": "2026-07-16T18:47:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Union: Trade tools and China rebalancing – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/european-union-trade-tools-and-china-rebalancing-standard-chartered-202607161837",
+      "datum": "2026-07-16T18:37:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD tests the $55 floor as sellers retain control",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-the-55-floor-as-sellers-retain-control-202607161814",
+      "datum": "2026-07-16T18:14:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold loses track of $4,000, drops as Oil shock revives Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-loses-track-of-4-000-drops-as-oil-shock-revives-fed-bets-202607161803",
+      "datum": "2026-07-16T18:03:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Dips against US Dollar seen as buying opportunity – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-dips-against-us-dollar-seen-as-buying-opportunity-scotiabank-202607161800",
+      "datum": "2026-07-16T18:00:01.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
+      "datum": "2026-07-16T18:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "Euro edges lower against the Japanese Yen despite ECB rate hike expectations",
       "link": "https://www.fxstreet.com/news/euro-edges-lower-against-the-japanese-yen-despite-ecb-rate-hike-expectations-202607161715",
       "datum": "2026-07-16T17:15:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Dow Jones Industrial Average discovers the virtue of owning no semiconductors",
+      "titel": "The Dow Jones Industrial Average discovers the virtue of owning few semiconductors",
       "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-discovers-the-virtue-of-owning-no-semiconductors-202607161626",
       "datum": "2026-07-16T16:26:41.000Z"
     },
@@ -49,40 +85,10 @@
       "datum": "2026-07-16T15:26:29.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar holds above 0.7000 as US Retail Sales lose momentum",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-07000-as-us-retail-sales-lose-momentum-202607161515",
-      "datum": "2026-07-16T15:15:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Gains eye 1.3981 against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-eye-13981-against-us-dollar-scotiabank-202607161510",
-      "datum": "2026-07-16T15:10:29.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
       "datum": "2026-07-16T15:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Rate hike risk returns with Oil – ING",
-      "link": "https://www.fxstreet.com/news/european-central-bank-rate-hike-risk-returns-with-oil-ing-202607161457",
-      "datum": "2026-07-16T14:57:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: BoE hikes not seen bullish – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-hikes-not-seen-bullish-bbh-202607161436",
-      "datum": "2026-07-16T14:36:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The BoC holds at 2.25% and removes hike language: Why the Canadian Dollar could remain stuck",
-      "link": "https://www.fxstreet.com/news/the-boc-holds-at-225-and-removes-hike-language-why-the-canadian-dollar-could-remain-stuck-202607161413",
-      "datum": "2026-07-16T14:13:35.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "US June retail sales +0.2% vs +0.2% expected",
       "link": "https://investinglive.com/news/us-june-retail-sales-vs-0-2-expected/",
       "datum": "2026-07-16T12:30:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada June housing starts 239.0K vs 257.9K expected",
-      "link": "https://investinglive.com/news/canada-june-housing-starts-239-0k-vs-257-9k-expected/",
-      "datum": "2026-07-16T12:17:27.000Z"
     }
   ]
 }

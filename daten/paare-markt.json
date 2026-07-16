@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-15T17:08:28.074Z",
+  "stand": "2026-07-16T05:05:18.435Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -45,13 +45,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -4,
+      "baseScore": -6,
       "tiltCot": 10,
       "tiltZins": -3,
       "tiltGesamt": 7,
-      "score": 3,
+      "score": 1,
       "cotExtrem": "erhoeht",
-      "treiber": "Abwärts (Loonie stärker): Das Öl-Comeback (WTI ~80$, +9% Woche) + solide Jobs + eine ruhige BoC (Halten) stützen den Loonie deutlich stärker, als der (ohnehin weichere) Dollar drückt."
+      "treiber": "Abwärts (Loonie stärker): Öl-Comeback (WTI ~80$, +10% Woche) + eine BoC, die bei einem Öl-Schock Erhöhungen andeutet + wieder wachsende Wirtschaft (Q2 ~2,5%) stützen den Loonie deutlich stärker, als der weiche Dollar drückt."
     },
     {
       "paar": "USD/CHF",

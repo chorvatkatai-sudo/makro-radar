@@ -3,20 +3,20 @@
   "typ": "freitag",
   "titel": "Der Dollar hat den Boden gefunden — Falken-Protokoll + steigende Renditen + Öl-Comeback fangen die Jobschock-Delle auf. Nächste Woche entscheidet die US-Inflation (Di)",
   "tagesnews": {
-    "stand": "2026-07-15",
-    "wochentag": "Mittwoch",
-    "tenor": "US-Inflation gestern deutlich KÜHLER als erwartet — der Kern trat auf der Stelle (0,0% statt +0,2%), die Jahresrate fiel auf 2,6%. Der Dollar rutschte erst kräftig ab (DXY-Tief 100,6), fing sich dann aber wieder (100,9), weil Fed-Chef Warsh betont hart blieb und das teure Öl (WTI ~80$, +9% Woche) neue Inflationssorgen macht. Fazit: Der Riss im Dollar wird etwas größer, bricht aber nicht — Warsh und Öl halten dagegen. Heute: Bank of Canada (Halten) + US-Erzeugerpreise (PPI) + Warsh Tag 2 im Senat.",
+    "stand": "2026-07-16",
+    "wochentag": "Donnerstag",
+    "tenor": "Auch die US-Erzeugerpreise gestern KÜHL (PPI −0,3%) — die Disinflation ist jetzt doppelt bestätigt (CPI Di + PPI Mi). Trotzdem hält sich der Dollar (DXY ~100,7): Fed-Chef Warsh bleibt betont hart und das Öl schießt weiter hoch (WTI ~80$, +10% Woche, Nahost-Eskalation). Die Bank of Canada hielt bei 2,25% und stellte bei einem Öl-Schock sogar neue Zins-ERHÖHUNGEN in Aussicht — Rückenwind für den Loonie. Heute der große Test: US-Einzelhandel 14:30 Wien — ein starker Verbraucher würde die Falken-Dollar-Story wiederbeleben.",
     "heute": [
-      "🇨🇦 BANK OF CANADA 15:45 Wien: hält den Leitzins aller Voraussicht nach bei 2,25% (6. Mal in Folge). Wichtiger als der Satz ist der TON im Quartalsbericht (MPR) — solide Jobs (+18k) + teures Öl geben der BoC Ruhe, aber die Handelslage bleibt der Sorgenpunkt. Loonie-freundliches Umfeld.",
-      "🇺🇸 US-ERZEUGERPREISE (PPI Juni) 14:30 Wien: erwartet Gesamt 0,0% / Kern +0,3% Monat. Das ist die Inflation eine Stufe VOR den Ladenpreisen — nach dem kühlen CPI gestern schaut der Markt, ob die Entspannung sich fortsetzt. (FRED trägt den Ist-Wert später automatisch nach.)",
-      "🇺🇸 FED-CHEF WARSH Tag 2 — heute vor dem SENAT. Gestern bügelte er die Zins-Senkungs-Fantasie ab (Inflation weiter „zu hoch\"), was den Dollar stützte. Achtet auf jede Verschärfung/Milderung nach den kühlen Zahlen.",
-      "🛢️ ÖL bleibt der heiße Draht: WTI ~80$ (+9% Woche), Brent ~85$ — die gebrochene Iran-Waffenruhe hält die Straße von Hormus unter Spannung. Teures Öl = Rückenwind für den Loonie, Gegenwind für Euro & Yen (Import)."
+      "🇺🇸 US-EINZELHANDEL (Juni) 14:30 Wien: erwartet +0,2% Monat (Kern 0,0%). DER Test heute — bleibt der Verbraucher stark, stützt das den Dollar trotz der kühlen Inflation. (FRED trägt den Ist-Wert später automatisch nach.)",
+      "🇬🇧 UK-BIP (Mai) 08:00 Wien: erwartet 0,0% Monat (nach −0,1% im April). Zeigt, ob Großbritanniens Wirtschaft wieder Tritt fasst — ein schwacher Wert wäre Gegenwind fürs Pfund.",
+      "🇺🇸 Weitere US-Daten 14:30: Erstanträge Arbeitslosenhilfe (~216k erw.) + Philly-Fed-Industrieindex — Konjunktur-Puls. Dazu mehrere Fed-Redner (Logan, Schmid, Jefferson) und ein Trump-Auftritt.",
+      "🛢️ ÖL bleibt der Brandbeschleuniger: WTI ~80$ (+10% Woche), Brent ~85$ — die Nahost-Eskalation hält die Straße von Hormus unter Spannung. Rückenwind für den Loonie (die BoC nannte Öl gestern sogar als möglichen Erhöhungs-Grund!), Gegenwind für Euro & Yen (Energie-Import)."
     ],
     "gestern": [
-      "🇺🇸 US-INFLATION (CPI Juni) KÜHL — der große Miss: KERN nur 0,0% Monat (statt +0,2%), Jahresrate 2,6% (statt 2,8%). KOPFZEILE −0,4% Monat (größter Rückgang seit April 2020) → Jahresrate 3,5% (von 4,2%), dank billigem Juni-Benzin + nachlassender Wohnkosten. Klar dollar-negativ, meine „kühl-Wette\" TRAF.",
-      "💵 DOLLAR-REAKTION zweiteilig: Sofort nach der Zahl fiel der Dollar-Index auf 100,6 (EUR/USD sprang auf ~1,145), die Juli-Zinserhöhungs-Wette wurde ausgepreist. DANN Rebound auf ~100,9, als Warsh vor dem Kongress betont falkenhaft blieb („keine Toleranz für zu hohe Inflation\"). Netto: Dollar gedellt, nicht gebrochen.",
-      "🇨🇳 CHINA-BIP Q2 SCHWACH: +4,3% Jahr (erwartet 4,5%, von 5,0% im Q1), Quartal +0,9%. Schwache Binnennachfrage — Gegenwind für die Rohstoff-Währungen Aussie & Kiwi (China ist ihr größter Kunde).",
-      "🇯🇵 YEN etwas fester: USD/JPY um ~161,5 — Japans Erzeugerpreise heiß (+7,1%), dazu Interventionsangst nahe dem 40-Jahres-Tief stützen den Yen gegen den Carry-Druck."
+      "🇨🇦 BANK OF CANADA hielt den Leitzins bei 2,25% (6. Mal in Folge). Wichtig war der Ton: Chef Macklem stellte bei einem Öl-Preis-Schock wieder Zins-ERHÖHUNGEN in Aussicht, und die Wirtschaft wächst laut BoC im Q2 wieder (~2,5%). Das ist deutlich Loonie-freundlicher als ein reines „Halten\".",
+      "🇺🇸 US-ERZEUGERPREISE (PPI Juni) KÜHL: Gesamt −0,3% Monat (statt 0,0% erwartet), Kern nur +0,1% (statt +0,3%). Nach dem kühlen Verbraucherpreis-Index am Dienstag ist die Disinflation jetzt DOPPELT bestätigt — die Inflations-Pipeline entspannt sich spürbar.",
+      "🇺🇸 FED-CHEF WARSH Tag 2 vor dem Senat blieb falkenhaft — Inflation weiter „zu hoch\", keine Eile mit Zins-Senkungen. Genau das (plus das teure Öl) hält den Dollar über der 100,6-Marke, obwohl die Zahlen kühl waren.",
+      "💵 DOLLAR gedellt, nicht gebrochen: DXY ~100,7 (EUR/USD ~1,143). Die Juli-Zinserhöhungs-Wette ist ausgepreist, aber Warsh + Öl verhindern den freien Fall."
     ]
   },
   "lage": [
@@ -56,8 +56,8 @@
     },
     "CAD": {
       "stimmung": "bullisch",
-      "score": 8,
-      "grund": "Relativer Gewinner: Das kräftige Öl-Comeback (WTI ~80$, +9% Woche) stützt Kanadas Top-Export, dazu solide Jobs (+18k, Quote 6,5%) und heute eine BoC, die bei 2,25% hält (Ruhe statt Senkungs-Angst). Der weichere Dollar hilft zusätzlich. Loonie-bullisch."
+      "score": 10,
+      "grund": "Relativer Gewinner: Das Öl-Comeback (WTI ~80$, +10% Woche) stützt Kanadas Top-Export, und die BoC (Halten bei 2,25%) stellte gestern bei einem Öl-Schock sogar neue Zins-ERHÖHUNGEN in Aussicht — plus die Wirtschaft wächst im Q2 wieder (~2,5%). Dazu solide Jobs (+18k). Klar Loonie-bullisch."
     },
     "AUD": {
       "stimmung": "neutral",
@@ -93,8 +93,8 @@
     },
     {
       "paar": "USD/CAD",
-      "score": -4,
-      "treiber": "Abwärts (Loonie stärker): Das Öl-Comeback (WTI ~80$, +9% Woche) + solide Jobs + eine ruhige BoC (Halten) stützen den Loonie deutlich stärker, als der (ohnehin weichere) Dollar drückt."
+      "score": -6,
+      "treiber": "Abwärts (Loonie stärker): Öl-Comeback (WTI ~80$, +10% Woche) + eine BoC, die bei einem Öl-Schock Erhöhungen andeutet + wieder wachsende Wirtschaft (Q2 ~2,5%) stützen den Loonie deutlich stärker, als der weiche Dollar drückt."
     },
     {
       "paar": "USD/CHF",

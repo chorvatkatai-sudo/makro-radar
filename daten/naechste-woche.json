@@ -824,7 +824,7 @@
     "country": "EUR",
     "title": "ECB Interest Rate Decision",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.4%",
     "previous": "2.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -834,7 +834,7 @@
     "country": "EUR",
     "title": "Deposit Facility Rate",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.25%",
     "previous": "2.25%",
     "actual": null,
     "quelle": "tradingview"
@@ -855,7 +855,7 @@
     "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "208",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -865,7 +865,7 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "214.25",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -875,7 +875,7 @@
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1805",
     "actual": null,
     "quelle": "tradingview"
   },

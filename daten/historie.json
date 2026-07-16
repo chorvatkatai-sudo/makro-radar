@@ -4468,8 +4468,8 @@
       "impact": "Medium",
       "prognose": "0.0%",
       "vorher": "0.8%",
-      "actual": null,
-      "notiz": null
+      "actual": "-0.2%",
+      "notiz": "auto:FRED RSFSXMV (Ref 2026-06-01)"
     },
     "2026-07-16T08:30:00-04:00|USD|Philly Fed Manufacturing Index": {
       "datum": "2026-07-16T08:30:00-04:00",
@@ -4488,8 +4488,8 @@
       "impact": "Medium",
       "prognose": "0.2%",
       "vorher": "0.9%",
-      "actual": null,
-      "notiz": null
+      "actual": "0.2%",
+      "notiz": "auto:FRED RSAFS (Ref 2026-06-01)"
     },
     "2026-07-16T08:30:00-04:00|USD|Unemployment Claims": {
       "datum": "2026-07-16T08:30:00-04:00",

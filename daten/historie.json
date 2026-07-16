@@ -4810,6 +4810,16 @@
       "vorher": "520B",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-16T05:02:00-04:00|GBP|10-y Bond Auction": {
+      "datum": "2026-07-16T05:02:00-04:00",
+      "land": "GBP",
+      "titel": "10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "4.93|3.3",
+      "actual": null,
+      "notiz": null
     }
   }
 }

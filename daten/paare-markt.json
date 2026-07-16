@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-16T16:11:12.213Z",
+  "stand": "2026-07-16T17:59:36.286Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -1,
       "tiltCot": -5,
-      "tiltZins": 3,
-      "tiltGesamt": -2,
-      "score": -3,
+      "tiltZins": 4,
+      "tiltGesamt": -1,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Ins Minus gedreht: Zwar hilft der weichere Dollar + Risikofreude, aber das schwache China-BIP (4,3%, Miss) und die matte China-Nachfrage überwiegen jetzt. Aussie-Rendite (2J 4,52%) stützt."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -6,
       "tiltCot": 10,
-      "tiltZins": -3,
-      "tiltGesamt": 7,
-      "score": 1,
+      "tiltZins": -2,
+      "tiltGesamt": 8,
+      "score": 2,
       "cotExtrem": "erhoeht",
       "treiber": "Abwärts (Loonie stärker): Öl-Comeback (WTI ~80$, +10% Woche) + eine BoC, die bei einem Öl-Schock Erhöhungen andeutet + wieder wachsende Wirtschaft (Q2 ~2,5%) stützen den Loonie deutlich stärker, als der weiche Dollar drückt."
     },

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-16T16:11:12.212Z",
+  "stand": "2026-07-16T17:59:36.285Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,7 +8,25 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "British Pound pulls back as solid US data revives the US Dollar",
+      "titel": "Euro edges lower against the Japanese Yen despite ECB rate hike expectations",
+      "link": "https://www.fxstreet.com/news/euro-edges-lower-against-the-japanese-yen-despite-ecb-rate-hike-expectations-202607161715",
+      "datum": "2026-07-16T17:15:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones Industrial Average discovers the virtue of owning no semiconductors",
+      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-discovers-the-virtue-of-owning-no-semiconductors-202607161626",
+      "datum": "2026-07-16T16:26:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Buyers retain upper hand near one-month highs",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-buyers-retain-the-upper-hand-near-one-month-highs-202607161606",
+      "datum": "2026-07-16T16:06:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound pulls back as solid US data revives the Greenback",
       "link": "https://www.fxstreet.com/news/british-pound-pulls-back-as-solid-us-data-revives-the-us-dollar-202607161551",
       "datum": "2026-07-16T15:51:05.000Z"
     },
@@ -67,28 +85,10 @@
       "datum": "2026-07-16T14:13:35.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Eurozone: Energy shock risks for inflation – Rabobank",
-      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-risks-for-inflation-rabobank-202607161412",
-      "datum": "2026-07-16T14:12:40.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US May business inventories +0.3% vs +0.3% expected",
       "link": "https://investinglive.com/news/us-may-business-inventories-vs-0-3/",
       "datum": "2026-07-16T14:12:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: UK GDP resilience with Q2 risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/british-pound-uk-gdp-resilience-with-q2-risks-td-securities-202607161355",
-      "datum": "2026-07-16T13:55:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro pauses a two-day winning streak as the US Dollar steadies",
-      "link": "https://www.fxstreet.com/news/euro-pauses-a-two-day-winning-streak-as-the-us-dollar-steadies-202607161353",
-      "datum": "2026-07-16T13:53:50.000Z"
     },
     {
       "quelle": "ForexLive",

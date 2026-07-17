@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-17T11:16:33.002Z",
+  "stand": "2026-07-17T13:10:33.887Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,81 +8,99 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
+      "titel": "US housing starts for June 1.427 million versus 1.310 million estimate.",
+      "link": "https://investinglive.com/news/us-housing-starts-for-june-1-427-million-versus-1-310-million-estimate/",
+      "datum": "2026-07-17T13:00:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US June import prices +0.3% vs -0.7% expected",
+      "link": "https://investinglive.com/news/us-june-import-prices-0-3-vs-0-7-expected/",
+      "datum": "2026-07-17T12:56:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European gas: Prices stay elevated as supply tightens – Commerzbank",
+      "link": "https://www.fxstreet.com/news/european-gas-prices-stay-elevated-as-supply-tightens-commerzbank-202607171241",
+      "datum": "2026-07-17T12:41:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Energy shock may delay renewed downtrend – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-energy-shock-may-delay-renewed-downtrend-mufg-202607171230",
+      "datum": "2026-07-17T12:30:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "UoM Consumer Sentiment Index set to improve further but remain at historically low levels in July",
+      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-improve-further-but-remain-at-historically-low-levels-in-july-202607171230",
+      "datum": "2026-07-17T12:30:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Hungarian Forint: Under pressure against Euro but story intact – ING",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-under-pressure-against-euro-but-story-intact-ing-202607171215",
+      "datum": "2026-07-17T12:15:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar weakens as US strikes on Iran fuel risk aversion",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-us-strikes-on-iran-fuel-risk-aversion-202607171200",
+      "datum": "2026-07-17T12:00:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: September hike risk assessed – Societe Generale",
+      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-risk-assessed-societe-generale-202607171156",
+      "datum": "2026-07-17T11:56:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Sideways trading extends with 1.1480 holding bulls",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-sideways-trading-extends-with-11480-holding-bulls-202607171154",
+      "datum": "2026-07-17T11:54:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold steadies below $4,000 as hawkish Fed outlook caps recovery",
+      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-000-as-hawkish-fed-outlook-caps-recovery-202607171151",
+      "datum": "2026-07-17T11:51:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Oil pushes up, tech selling pressures continue",
+      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-17-jul/",
+      "datum": "2026-07-17T11:45:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Sterling rally against Euro looks stretched - TD Securities",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-rally-against-euro-looks-stretched-td-securities-202607171138",
+      "datum": "2026-07-17T11:38:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Steadies on risk-off flows – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-steadies-on-risk-off-flows-bbh-202607171124",
+      "datum": "2026-07-17T11:24:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee gains temporary ground, higher oil prices keep upside limited",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-rbis-intervention-downside-remains-favored-202607170530",
+      "datum": "2026-07-17T11:20:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: Intervention risk keeps Franc lagging – OCBC",
+      "link": "https://www.fxstreet.com/news/swiss-franc-intervention-risk-keeps-franc-lagging-ocbc-202607171114",
+      "datum": "2026-07-17T11:14:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
       "titel": "Euro area inflation confirmed to have eased slightly in June",
       "link": "https://investinglive.com/news/eurozone-june-final-cpi-vs-2-8-y-y-prelim/",
       "datum": "2026-07-17T10:32:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607171028",
-      "datum": "2026-07-17T10:28:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoJ to leave interest rates in July policy meeting - Kyodo",
-      "link": "https://www.fxstreet.com/news/boj-to-leave-interest-rates-in-july-policy-meeting-kyodo-202607171025",
-      "datum": "2026-07-17T10:25:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen drifts lower against the US Dollar and draws closer to 40-year lows",
-      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-against-the-us-dollar-and-draws-closer-to-40-year-lows-202607171012",
-      "datum": "2026-07-17T10:12:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Rates on hold but tightening bias – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-rates-on-hold-but-tightening-bias-nordea-202607170959",
-      "datum": "2026-07-17T09:59:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Bearish against Euro on hawkish ECB guidance – TD Securities",
-      "link": "https://www.fxstreet.com/news/british-pound-bearish-against-euro-on-hawkish-ecb-guidance-td-securities-202607170949",
-      "datum": "2026-07-17T09:49:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Homeward investment shift could support recovery – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-homeward-investment-shift-could-support-recovery-mufg-202607170936",
-      "datum": "2026-07-17T09:36:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price on track for weekly decline as Middle East tensions fuel rate-hike worries",
-      "link": "https://www.fxstreet.com/news/silver-price-on-track-for-weekly-decline-as-middle-east-tensions-fuel-rate-hike-worries-202607170926",
-      "datum": "2026-07-17T09:26:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Smile narrative supports gradual gains – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-smile-narrative-supports-gradual-gains-ocbc-202607170917",
-      "datum": "2026-07-17T09:17:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee holds early ground, elevated oil prices keep upside limited",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-rbis-intervention-downside-remains-favored-202607170530",
-      "datum": "2026-07-17T09:01:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Consolidates near $79.00 before the next leg up amid bullish setup",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-consolidates-near-7900-before-the-next-leg-up-amid-bullish-setup-202607170858",
-      "datum": "2026-07-17T08:58:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brazil: Tariff fallout shapes election dynamics – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/brazil-tariff-fallout-shapes-election-dynamics-standard-chartered-202607170857",
-      "datum": "2026-07-17T08:57:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Slight downside bias within tight band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slight-downside-bias-within-tight-band-against-us-dollar-uob-202607170844",
-      "datum": "2026-07-17T08:44:29.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "Japan finance minister Katayama reaffirms that monetary policy setting is up to the BOJ to decide",
       "link": "https://investinglive.com/news/japan-finance-minister-katayama-reaffirms-that-monetary-policy-setting-is-up-to-the-boj-to-decide/",
       "datum": "2026-07-17T06:23:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "IRGC reaffirms that no oil and gas will pass through the Strait of Hormuz so long as US attacks continue",
-      "link": "https://investinglive.com/news/irgc-reaffirms-that-no-oil-and-gas-will-pass-through-the-strait-of-hormuz-so-long-as-us-attacks-continue/",
-      "datum": "2026-07-17T04:30:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-pacific FX news wrap 17 Jul",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-17-jul/",
-      "datum": "2026-07-17T03:50:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump's China election claims risk unsettling trade truce ahead of Xi meeting",
-      "link": "https://investinglive.com/news/trump-s-china-election-claims-risk-unsettling-trade-truce-ahead-of-xi-meeting/",
-      "datum": "2026-07-17T02:00:43.000Z"
     }
   ]
 }

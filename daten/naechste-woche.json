@@ -140,11 +140,21 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-20T13:20:00.000Z",
+    "country": "USD",
+    "title": "NY Fed Bill Purchases 1 to 4 months",
+    "impact": "Low",
+    "forecast": "5.18",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-20T14:00:00.000Z",
     "country": "USD",
     "title": "CB Leading Index MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -174,7 +184,7 @@
     "country": "NZD",
     "title": "Inflation Rate QoQ",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.4%",
     "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -184,7 +194,7 @@
     "country": "NZD",
     "title": "Inflation Rate YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "4%",
     "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -224,7 +234,7 @@
     "country": "GBP",
     "title": "Unemployment Rate",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4.9%",
     "previous": "4.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -244,8 +254,8 @@
     "country": "GBP",
     "title": "Average Earnings excl. Bonus (3Mo/Yr)",
     "impact": "Low",
-    "forecast": "",
-    "previous": "3.4",
+    "forecast": "3.4%",
+    "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -284,7 +294,7 @@
     "country": "GBP",
     "title": "Average Earnings incl. Bonus (3Mo/Yr)",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "4.5%",
     "previous": "4.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -550,6 +560,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-22T09:00:00.000Z",
+    "country": "CNY",
+    "title": "FDI (YTD) YoY",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "-8.6%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-22T11:00:00.000Z",
     "country": "USD",
     "title": "MBA 30-Year Mortgage Rate",
@@ -596,6 +616,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "157.2",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-22T13:20:00.000Z",
+    "country": "USD",
+    "title": "NY Fed Bill Purchases 4 to 12 months",
+    "impact": "Low",
+    "forecast": "3.453",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -734,7 +764,7 @@
     "country": "AUD",
     "title": "Unemployment Rate",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "4.4%",
     "previous": "4.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -754,7 +784,7 @@
     "country": "AUD",
     "title": "Employment Change",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "15",
     "previous": "40.3",
     "actual": null,
     "quelle": "tradingview"
@@ -854,7 +884,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "212",
     "previous": "208",
     "actual": null,
     "quelle": "tradingview"
@@ -1144,7 +1174,7 @@
     "country": "JPY",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "54.5",
     "previous": "54.8",
     "actual": null,
     "quelle": "tradingview"
@@ -1204,7 +1234,7 @@
     "country": "EUR",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "51.3",
     "previous": "51.4",
     "actual": null,
     "quelle": "tradingview"
@@ -1224,7 +1254,7 @@
     "country": "EUR",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "49.8",
     "previous": "49.4",
     "actual": null,
     "quelle": "tradingview"

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-17T15:07:33.413Z",
+  "stand": "2026-07-17T18:55:53.047Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,22 +7,94 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: RSI flirts with oversold as bears defend key resistance",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-rsi-flirts-with-oversold-as-bears-defend-key-resistance-202607171413",
-      "datum": "2026-07-17T14:13:47.000Z"
+      "quelle": "ForexLive",
+      "titel": "Iran targeted a ship trying to pass through Hormuz - Tasnim",
+      "link": "https://investinglive.com/news/iran-targeted-a-ship-trying-to-pass-through-hormuz-tasnim/",
+      "datum": "2026-07-17T17:47:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Baker Hughes oil rig count up 7 to 452",
+      "link": "https://investinglive.com/news/baker-hughes-oil-rig-count-up-7-to-452/",
+      "datum": "2026-07-17T17:08:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Bullish bias with 1.3981 in focus against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-bias-with-13981-in-focus-against-us-dollar-scotiabank-202607171411",
-      "datum": "2026-07-17T14:11:26.000Z"
+      "titel": "US Dollar Index holds as mixed US data limits upside",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-holds-as-mixed-us-data-limits-upside-202607171707",
+      "datum": "2026-07-17T17:07:01.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Breaking: UoM Consumer Sentiment Index is seen improving to 54.4 in July",
-      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-improve-further-but-remain-at-historically-low-levels-in-july-202607171230",
-      "datum": "2026-07-17T14:07:12.000Z"
+      "titel": "Euro steadies as markets weigh ECB and Fed interest rate expectations",
+      "link": "https://www.fxstreet.com/news/euro-steadies-as-markets-weigh-ecb-and-fed-interest-rate-expectations-202607171646",
+      "datum": "2026-07-17T16:46:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound slips for second straight day as Oil spike revives inflation fears",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-as-oil-spike-revives-inflation-fears-202607171623",
+      "datum": "2026-07-17T16:23:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil rallies above $81 as Middle East tensions threaten global Oil supplies",
+      "link": "https://www.fxstreet.com/news/wti-oil-rallies-above-81-as-middle-east-tensions-threaten-global-oil-supplies-202607171617",
+      "datum": "2026-07-17T16:17:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US sending more planes to Israel ahead of possible escalation - report",
+      "link": "https://investinglive.com/news/us-sending-more-planes-to-israel-ahead-of-possible-escalation-report/",
+      "datum": "2026-07-17T16:06:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar recovers as mixed US data weakens the US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-recovers-as-mixed-us-data-weakens-the-us-dollar-202607171556",
+      "datum": "2026-07-17T15:56:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Burnham policy hopes underpin Sterling against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-burnham-policy-hopes-underpin-sterling-against-us-dollar-scotiabank-202607171552",
+      "datum": "2026-07-17T15:52:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen struggles as higher Oil prices and a wide US-Japan rate gap weigh",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-higher-oil-prices-and-a-wide-us-japan-rate-gap-weigh-202607171549",
+      "datum": "2026-07-17T15:49:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Inflation divergence shapes BoC outlook – RBC",
+      "link": "https://www.fxstreet.com/news/canada-inflation-divergence-shapes-boc-outlook-rbc-202607171528",
+      "datum": "2026-07-17T15:28:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Risk-off support and DXY downside risks – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-risk-off-support-and-dxy-downside-risks-scotiabank-202607171507",
+      "datum": "2026-07-17T15:07:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc holds gains against US Dollar as Middle East tensions outweigh upbeat US data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-holds-gains-against-us-dollar-as-middle-east-tensions-outweigh-upbeat-us-data-202607171458",
+      "datum": "2026-07-17T14:58:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Brent: Oil risks rise on Bab al-Mandab threat – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-oil-risks-rise-on-bab-al-mandab-threat-commerzbank-202607171458",
+      "datum": "2026-07-17T14:58:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Global FX: Divergent central bank paths and Oil – Wells Fargo",
+      "link": "https://www.fxstreet.com/news/global-fx-divergent-central-bank-paths-and-oil-wells-fargo-202607171449",
+      "datum": "2026-07-17T14:49:31.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -31,88 +103,16 @@
       "datum": "2026-07-17T14:00:49.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Low volatility risks and summer outlook – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-low-volatility-risks-and-summer-outlook-ing-202607171353",
-      "datum": "2026-07-17T13:53:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Supply-side choices shape outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-supply-side-choices-shape-outlook-rabobank-202607171335",
-      "datum": "2026-07-17T13:35:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold trades below $4,000 as stronger US Dollar, hawkish Fed outlook weigh",
-      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-000-as-hawkish-fed-outlook-caps-recovery-202607171151",
-      "datum": "2026-07-17T13:32:12.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US June industrial production +0.1% vs +0.2% expected",
       "link": "https://investinglive.com/news/us-june-industrial-production-0-1-vs-0-2-expected/",
       "datum": "2026-07-17T13:24:07.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Holds fire as September stays live – TD Securities",
-      "link": "https://www.fxstreet.com/news/european-central-bank-holds-fire-as-september-stays-live-td-securities-202607171318",
-      "datum": "2026-07-17T13:18:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar gains on Friday's surging Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-on-surging-oil-prices-usd-cad-eyes-second-weekly-loss-202607171312",
-      "datum": "2026-07-17T13:12:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "UK: Andy Burnham outlines pro-business Labour, inflation plan",
-      "link": "https://www.fxstreet.com/news/uk-andy-burnham-outlines-pro-business-labour-inflation-plan-202607171307",
-      "datum": "2026-07-17T13:07:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Overvaluation points to Euro recovery – ING",
-      "link": "https://www.fxstreet.com/news/british-pound-overvaluation-points-to-euro-recovery-ing-202607171302",
-      "datum": "2026-07-17T13:02:44.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US housing starts for June 1.427 million versus 1.310 million estimate.",
       "link": "https://investinglive.com/news/us-housing-starts-for-june-1-427-million-versus-1-310-million-estimate/",
       "datum": "2026-07-17T13:00:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US June import prices +0.3% vs -0.7% expected",
-      "link": "https://investinglive.com/news/us-june-import-prices-0-3-vs-0-7-expected/",
-      "datum": "2026-07-17T12:56:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European gas: Prices stay elevated as supply tightens – Commerzbank",
-      "link": "https://www.fxstreet.com/news/european-gas-prices-stay-elevated-as-supply-tightens-commerzbank-202607171241",
-      "datum": "2026-07-17T12:41:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Energy shock may delay renewed downtrend – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-energy-shock-may-delay-renewed-downtrend-mufg-202607171230",
-      "datum": "2026-07-17T12:30:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil pushes up, tech selling pressures continue",
-      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-17-jul/",
-      "datum": "2026-07-17T11:45:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Euro area inflation confirmed to have eased slightly in June",
-      "link": "https://investinglive.com/news/eurozone-june-final-cpi-vs-2-8-y-y-prelim/",
-      "datum": "2026-07-17T10:32:28.000Z"
     }
   ]
 }

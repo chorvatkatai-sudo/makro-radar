@@ -1,11 +1,83 @@
 {
-  "stand": "2026-07-17T13:18:10.852Z",
+  "stand": "2026-07-17T15:07:33.413Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/GBP Price Forecast: RSI flirts with oversold as bears defend key resistance",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-rsi-flirts-with-oversold-as-bears-defend-key-resistance-202607171413",
+      "datum": "2026-07-17T14:13:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Bullish bias with 1.3981 in focus against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-bias-with-13981-in-focus-against-us-dollar-scotiabank-202607171411",
+      "datum": "2026-07-17T14:11:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: UoM Consumer Sentiment Index is seen improving to 54.4 in July",
+      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-improve-further-but-remain-at-historically-low-levels-in-july-202607171230",
+      "datum": "2026-07-17T14:07:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US July prelim UMich consumer sentiment 54.4 vs 51.0 expected",
+      "link": "https://investinglive.com/news/us-july-prelim-umich-consumer-sentiment-54-4-vs-51-0-expected/",
+      "datum": "2026-07-17T14:00:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Low volatility risks and summer outlook – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-low-volatility-risks-and-summer-outlook-ing-202607171353",
+      "datum": "2026-07-17T13:53:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Supply-side choices shape outlook – Rabobank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-supply-side-choices-shape-outlook-rabobank-202607171335",
+      "datum": "2026-07-17T13:35:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold trades below $4,000 as stronger US Dollar, hawkish Fed outlook weigh",
+      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-000-as-hawkish-fed-outlook-caps-recovery-202607171151",
+      "datum": "2026-07-17T13:32:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US June industrial production +0.1% vs +0.2% expected",
+      "link": "https://investinglive.com/news/us-june-industrial-production-0-1-vs-0-2-expected/",
+      "datum": "2026-07-17T13:24:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: Holds fire as September stays live – TD Securities",
+      "link": "https://www.fxstreet.com/news/european-central-bank-holds-fire-as-september-stays-live-td-securities-202607171318",
+      "datum": "2026-07-17T13:18:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar gains on Friday's surging Oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-on-surging-oil-prices-usd-cad-eyes-second-weekly-loss-202607171312",
+      "datum": "2026-07-17T13:12:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "UK: Andy Burnham outlines pro-business Labour, inflation plan",
+      "link": "https://www.fxstreet.com/news/uk-andy-burnham-outlines-pro-business-labour-inflation-plan-202607171307",
+      "datum": "2026-07-17T13:07:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Overvaluation points to Euro recovery – ING",
+      "link": "https://www.fxstreet.com/news/british-pound-overvaluation-points-to-euro-recovery-ing-202607171302",
+      "datum": "2026-07-17T13:02:44.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US housing starts for June 1.427 million versus 1.310 million estimate.",
@@ -31,88 +103,16 @@
       "datum": "2026-07-17T12:30:43.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "UoM Consumer Sentiment Index set to improve further but remain at historically low levels in July",
-      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-improve-further-but-remain-at-historically-low-levels-in-july-202607171230",
-      "datum": "2026-07-17T12:30:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Hungarian Forint: Under pressure against Euro but story intact – ING",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-under-pressure-against-euro-but-story-intact-ing-202607171215",
-      "datum": "2026-07-17T12:15:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar weakens as US strikes on Iran fuel risk aversion",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-us-strikes-on-iran-fuel-risk-aversion-202607171200",
-      "datum": "2026-07-17T12:00:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: September hike risk assessed – Societe Generale",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-risk-assessed-societe-generale-202607171156",
-      "datum": "2026-07-17T11:56:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Sideways trading extends with 1.1480 holding bulls",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-sideways-trading-extends-with-11480-holding-bulls-202607171154",
-      "datum": "2026-07-17T11:54:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold steadies below $4,000 as hawkish Fed outlook caps recovery",
-      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-000-as-hawkish-fed-outlook-caps-recovery-202607171151",
-      "datum": "2026-07-17T11:51:23.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Oil pushes up, tech selling pressures continue",
       "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-17-jul/",
       "datum": "2026-07-17T11:45:42.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Sterling rally against Euro looks stretched - TD Securities",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-rally-against-euro-looks-stretched-td-securities-202607171138",
-      "datum": "2026-07-17T11:38:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Steadies on risk-off flows – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-steadies-on-risk-off-flows-bbh-202607171124",
-      "datum": "2026-07-17T11:24:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee gains temporary ground, higher oil prices keep upside limited",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-rbis-intervention-downside-remains-favored-202607170530",
-      "datum": "2026-07-17T11:20:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Intervention risk keeps Franc lagging – OCBC",
-      "link": "https://www.fxstreet.com/news/swiss-franc-intervention-risk-keeps-franc-lagging-ocbc-202607171114",
-      "datum": "2026-07-17T11:14:28.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Euro area inflation confirmed to have eased slightly in June",
       "link": "https://investinglive.com/news/eurozone-june-final-cpi-vs-2-8-y-y-prelim/",
       "datum": "2026-07-17T10:32:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-5/",
-      "datum": "2026-07-17T06:26:18.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan finance minister Katayama reaffirms that monetary policy setting is up to the BOJ to decide",
-      "link": "https://investinglive.com/news/japan-finance-minister-katayama-reaffirms-that-monetary-policy-setting-is-up-to-the-boj-to-decide/",
-      "datum": "2026-07-17T06:23:50.000Z"
     }
   ]
 }

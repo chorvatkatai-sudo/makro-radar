@@ -104,7 +104,7 @@
     "country": "CAD",
     "title": "Inflation Rate MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-0.2%",
     "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
@@ -320,6 +320,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-21T08:00:00.000Z",
+    "country": "EUR",
+    "title": "ECB Bank Lending Survey",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-21T09:00:00.000Z",
     "country": "EUR",
     "title": "ZEW Economic Sentiment Index",
@@ -474,7 +484,7 @@
     "country": "GBP",
     "title": "PPI Input MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -494,7 +504,7 @@
     "country": "GBP",
     "title": "PPI Output MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -515,7 +525,7 @@
     "title": "Core Inflation Rate MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.3",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -524,8 +534,8 @@
     "country": "GBP",
     "title": "Core Inflation Rate YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "2.6",
+    "forecast": "2.5%",
+    "previous": "2.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -534,7 +544,7 @@
     "country": "GBP",
     "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.7%",
     "previous": "2.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -544,8 +554,8 @@
     "country": "GBP",
     "title": "Retail Price Index YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "3.1",
+    "forecast": "3%",
+    "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -854,7 +864,7 @@
     "country": "GBP",
     "title": "CBI Industrial Trends Orders",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-40",
     "previous": "-45",
     "actual": null,
     "quelle": "tradingview"
@@ -934,7 +944,7 @@
     "country": "CAD",
     "title": "Retail Sales Ex Autos MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -1092,7 +1102,7 @@
   {
     "date": "2026-07-23T23:01:00.000Z",
     "country": "GBP",
-    "title": "Gfk Consumer Confidence",
+    "title": "GfK Consumer Confidence",
     "impact": "Medium",
     "forecast": "",
     "previous": "-23",
@@ -1224,8 +1234,8 @@
     "country": "GBP",
     "title": "Retail Sales MoM",
     "impact": "High",
-    "forecast": "",
-    "previous": "1.2",
+    "forecast": "0.2%",
+    "previous": "1.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1246,6 +1256,16 @@
     "impact": "Medium",
     "forecast": "51.3",
     "previous": "51.4",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-24T08:00:00.000Z",
+    "country": "EUR",
+    "title": "ECB Consumer Inflation Expectations",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1334,8 +1354,18 @@
     "country": "USD",
     "title": "Building Permits Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.367",
     "previous": "1.41",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-24T12:30:00.000Z",
+    "country": "CAD",
+    "title": "Wholesale Sales MoM Prel",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1404,7 +1434,7 @@
     "country": "USD",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "51",
     "previous": "51.2",
     "actual": null,
     "quelle": "tradingview"
@@ -1414,7 +1444,7 @@
     "country": "USD",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "54.5",
     "previous": "53.9",
     "actual": null,
     "quelle": "tradingview"
@@ -1444,7 +1474,7 @@
     "country": "USD",
     "title": "New Home Sales",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.62",
     "previous": "0.58",
     "actual": null,
     "quelle": "tradingview"
@@ -1466,6 +1496,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "19",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-24T15:30:00.000Z",
+    "country": "EUR",
+    "title": "ECB Lane Speech",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },

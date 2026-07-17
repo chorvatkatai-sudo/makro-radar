@@ -70,6 +70,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-20T11:00:00.000Z",
+    "country": "CAD",
+    "title": "CFIB Business Barometer",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "49.6",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-20T12:30:00.000Z",
     "country": "CAD",
     "title": "Core Inflation Rate MoM",
@@ -1314,8 +1324,8 @@
     "country": "USD",
     "title": "Building Permits MoM Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "-0.9",
+    "forecast": "-3%",
+    "previous": "-0.9%",
     "actual": null,
     "quelle": "tradingview"
   },

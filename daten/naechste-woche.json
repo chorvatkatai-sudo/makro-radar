@@ -374,8 +374,8 @@
     "country": "JPY",
     "title": "Imports YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "12.5",
+    "forecast": "21%",
+    "previous": "12.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -384,8 +384,8 @@
     "country": "JPY",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "",
-    "previous": "-378.7",
+    "forecast": "-120 ¥",
+    "previous": "-378.7 ¥",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -394,8 +394,8 @@
     "country": "JPY",
     "title": "Exports YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "17",
+    "forecast": "18.6%",
+    "previous": "17%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -944,7 +944,7 @@
     "country": "EUR",
     "title": "Consumer Confidence Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-16.9",
     "previous": "-17.7",
     "actual": null,
     "quelle": "tradingview"
@@ -965,7 +965,7 @@
     "title": "4-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.66%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -975,7 +975,7 @@
     "title": "8-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.65%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1074,7 +1074,7 @@
     "country": "JPY",
     "title": "Core Inflation Rate YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.6%",
     "previous": "1.4%",
     "actual": null,
     "quelle": "tradingview"

@@ -274,6 +274,52 @@
       },
       "mitMarktOverlay": true,
       "auswertung": null
+    },
+    {
+      "woche": "2026-07-20",
+      "ausBriefing": "2026-07-17",
+      "paare": {
+        "EUR/USD": 2,
+        "GBP/USD": -5,
+        "USD/JPY": 9,
+        "AUD/USD": -3,
+        "USD/CAD": -1,
+        "USD/CHF": 9
+      },
+      "komponenten": {
+        "EUR/USD": {
+          "base": -5,
+          "cot": -1,
+          "zins": 8
+        },
+        "GBP/USD": {
+          "base": -2,
+          "cot": -10,
+          "zins": 7
+        },
+        "USD/JPY": {
+          "base": 3,
+          "cot": 10,
+          "zins": -4
+        },
+        "AUD/USD": {
+          "base": -2,
+          "cot": -5,
+          "zins": 4
+        },
+        "USD/CAD": {
+          "base": -8,
+          "cot": 10,
+          "zins": -3
+        },
+        "USD/CHF": {
+          "base": 5,
+          "cot": 10,
+          "zins": -6
+        }
+      },
+      "mitMarktOverlay": true,
+      "auswertung": null
     }
   ]
 }

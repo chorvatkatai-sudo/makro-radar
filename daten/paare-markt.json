@@ -1,27 +1,27 @@
 {
-  "stand": "2026-07-17T13:18:10.853Z",
-  "ausBriefing": "2026-07-10",
+  "stand": "2026-07-17T13:19:41.902Z",
+  "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -6,
+      "baseScore": -5,
       "tiltCot": -1,
       "tiltZins": 7,
       "tiltGesamt": 6,
-      "score": 0,
+      "score": 1,
       "cotExtrem": null,
-      "treiber": "Weniger abwärts: Der weichere Dollar nach dem kühlen CPI hob EUR/USD auf ~1,145. Bremse bleibt das teure Öl (Euro-Importeur) und der US-Zinsvorteil (2J 4,19% vs. 2,74%). Netto leicht negativ."
+      "treiber": "Leicht abwärts: Der weichere Dollar + die diese Woche steigende Euro-Rendite stützen den Euro, ABER das teure Öl (Euro-Importeur) und eine drohend-dovishe EZB (Do) überwiegen knapp. Netto mild negativ."
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -3,
+      "baseScore": -2,
       "tiltCot": -10,
       "tiltZins": 7,
       "tiltGesamt": -3,
-      "score": -6,
+      "score": -5,
       "cotExtrem": "erhoeht",
-      "treiber": "Fast neutral: Der weichere Dollar und die EXTREMEN Pfund-Shorts (Squeeze-Risiko) + hohe UK-Rendite (2J 4,35% > US) begrenzen jeden Rückgang stark. Nur noch leicht negativ."
+      "treiber": "Fast neutral: Weicherer Dollar + EXTREME Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,33% > US) begrenzen jeden Rückgang stark. Der Doppel-Test UK-Jobs (Di) + UK-CPI (Mi) hängt drüber → nur leicht negativ."
     },
     {
       "paar": "USD/JPY",
@@ -31,47 +31,47 @@
       "tiltGesamt": 7,
       "score": 10,
       "cotExtrem": null,
-      "treiber": "Aufwärts, aber stark gebremst: Carry + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen das doppelt-kühle US-CPI/PPI und akutes Interventions-Risiko (Katayama warnt). Track-Record 0/4 → bewusst nahe null."
+      "treiber": "Aufwärts, aber stark gebremst: Der Carry-Vorteil + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen die doppelt kühle US-Inflation, das wiederkehrende Risk-off (Yen-Bid) und akutes Interventions-Risiko. Track-Record 0/4 → bewusst nahe null."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -1,
+      "baseScore": -2,
       "tiltCot": -5,
       "tiltZins": 4,
       "tiltGesamt": -1,
-      "score": -2,
+      "score": -3,
       "cotExtrem": null,
-      "treiber": "Ins Minus gedreht: Zwar hilft der weichere Dollar + Risikofreude, aber das schwache China-BIP (4,3%, Miss) und die matte China-Nachfrage überwiegen jetzt. Aussie-Rendite (2J 4,52%) stützt."
+      "treiber": "Leicht abwärts: Zwar hilft der weichere Dollar + die hohe Aussie-Rendite (2J 4,52%), aber das wiederkehrende Risk-off (VIX rauf) und die matte China-Nachfrage nehmen der Rohstoff-Währung den Rückenwind. Fast neutral."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -6,
+      "baseScore": -8,
       "tiltCot": 10,
       "tiltZins": -4,
       "tiltGesamt": 6,
-      "score": 0,
+      "score": -2,
       "cotExtrem": "erhoeht",
-      "treiber": "Abwärts (Loonie stärker): Öl-Comeback (WTI ~80$, +10% Woche) + eine BoC, die bei einem Öl-Schock Erhöhungen andeutet + wieder wachsende Wirtschaft (Q2 ~2,5%) stützen den Loonie deutlich stärker, als der weiche Dollar drückt."
+      "treiber": "Klar abwärts (Loonie stärker): Öl-Comeback (WTI ~80$) + eine BoC, die bei Öl-Schock Erhöhungen andeutet + wieder wachsende Wirtschaft + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD deutlich stärker, als der weiche Dollar drückt."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 7,
+      "baseScore": 5,
       "tiltCot": 10,
       "tiltZins": -5,
       "tiltGesamt": 5,
-      "score": 12,
+      "score": 10,
       "cotExtrem": null,
-      "treiber": "Aufwärts, aber getrimmt: Risikofreude (VIX 16,5) + die zinslose SNB (0%) nehmen dem Franken den Rückenwind; der weichere Dollar deckelt den Anstieg etwas."
+      "treiber": "Aufwärts, aber getrimmt: Die zinslose SNB (0%) nimmt dem Franken Zins-Rückenwind — ABER das wiederkehrende Risk-off (VIX 18) bringt dem sicheren Hafen wieder etwas Nachfrage, und der weichere Dollar deckelt den Anstieg. Nur moderat positiv."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -4,
+      "baseScore": -2,
       "tiltCot": -5,
       "tiltZins": 6,
       "tiltGesamt": 1,
-      "score": -3,
+      "score": -1,
       "cotExtrem": "extrem",
-      "treiber": "Leicht abwärts: Schwaches China-BIP (4,3%) und gedämpfte RBNZ-Reaktion drücken; GEGENGEWICHT ist die extreme Short-Positionierung (Squeeze-Risiko nach oben) + der weichere Dollar → nur moderat negativ."
+      "treiber": "Nahe neutral: Schwache China-Nachfrage + Risk-off + dovishe RBNZ drücken; GEGENGEWICHT ist die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53 = großes Squeeze-Risiko nach oben) + der weichere Dollar → nur leicht negativ."
     }
   ]
 }

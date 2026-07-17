@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-17T09:51:27.193Z",
+  "stand": "2026-07-17T11:16:33.003Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -6,
       "tiltCot": 10,
-      "tiltZins": -4,
-      "tiltGesamt": 6,
-      "score": 0,
+      "tiltZins": -3,
+      "tiltGesamt": 7,
+      "score": 1,
       "cotExtrem": "erhoeht",
       "treiber": "Abwärts (Loonie stärker): Öl-Comeback (WTI ~80$, +10% Woche) + eine BoC, die bei einem Öl-Schock Erhöhungen andeutet + wieder wachsende Wirtschaft (Q2 ~2,5%) stützen den Loonie deutlich stärker, als der weiche Dollar drückt."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": 7,
       "tiltCot": 10,
-      "tiltZins": -5,
-      "tiltGesamt": 5,
-      "score": 12,
+      "tiltZins": -6,
+      "tiltGesamt": 4,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber getrimmt: Risikofreude (VIX 16,5) + die zinslose SNB (0%) nehmen dem Franken den Rückenwind; der weichere Dollar deckelt den Anstieg etwas."
     },

@@ -44,7 +44,7 @@
     "country": "CNY",
     "title": "Loan Prime Rate 1Y",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3%",
     "previous": "3%",
     "actual": null,
     "quelle": "tradingview"
@@ -54,7 +54,7 @@
     "country": "CNY",
     "title": "Loan Prime Rate 5Y",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.5%",
     "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"

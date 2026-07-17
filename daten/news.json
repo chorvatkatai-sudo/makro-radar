@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-17T09:51:27.192Z",
+  "stand": "2026-07-17T11:16:33.002Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -10,7 +10,61 @@
       "quelle": "ForexLive",
       "titel": "Euro area inflation confirmed to have eased slightly in June",
       "link": "https://investinglive.com/news/eurozone-june-final-cpi-vs-2-8-y-y-prelim/",
-      "datum": "2026-07-17T09:11:34.000Z"
+      "datum": "2026-07-17T10:32:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607171028",
+      "datum": "2026-07-17T10:28:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "BoJ to leave interest rates in July policy meeting - Kyodo",
+      "link": "https://www.fxstreet.com/news/boj-to-leave-interest-rates-in-july-policy-meeting-kyodo-202607171025",
+      "datum": "2026-07-17T10:25:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen drifts lower against the US Dollar and draws closer to 40-year lows",
+      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-against-the-us-dollar-and-draws-closer-to-40-year-lows-202607171012",
+      "datum": "2026-07-17T10:12:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: Rates on hold but tightening bias – Nordea",
+      "link": "https://www.fxstreet.com/news/european-central-bank-rates-on-hold-but-tightening-bias-nordea-202607170959",
+      "datum": "2026-07-17T09:59:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Bearish against Euro on hawkish ECB guidance – TD Securities",
+      "link": "https://www.fxstreet.com/news/british-pound-bearish-against-euro-on-hawkish-ecb-guidance-td-securities-202607170949",
+      "datum": "2026-07-17T09:49:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Homeward investment shift could support recovery – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-homeward-investment-shift-could-support-recovery-mufg-202607170936",
+      "datum": "2026-07-17T09:36:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price on track for weekly decline as Middle East tensions fuel rate-hike worries",
+      "link": "https://www.fxstreet.com/news/silver-price-on-track-for-weekly-decline-as-middle-east-tensions-fuel-rate-hike-worries-202607170926",
+      "datum": "2026-07-17T09:26:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Smile narrative supports gradual gains – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-smile-narrative-supports-gradual-gains-ocbc-202607170917",
+      "datum": "2026-07-17T09:17:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee holds early ground, elevated oil prices keep upside limited",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-rbis-intervention-downside-remains-favored-202607170530",
+      "datum": "2026-07-17T09:01:33.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -29,60 +83,6 @@
       "titel": "Japanese Yen: Slight downside bias within tight band against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/japanese-yen-slight-downside-bias-within-tight-band-against-us-dollar-uob-202607170844",
       "datum": "2026-07-17T08:44:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: More downside likely towards 1.3970",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-more-downside-likely-towards-13970-202607170841",
-      "datum": "2026-07-17T08:41:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: Rejection at 0.8100 keeps the US Dollar on the back foot",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rejection-at-08100-keeps-the-us-dollar-on-the-back-foot-202607170834",
-      "datum": "2026-07-17T08:34:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fed path and inflation risks – Wells Fargo",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-path-and-inflation-risks-wells-fargo-202607170826",
-      "datum": "2026-07-17T08:26:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold bulls seem hesitant as US-Iran tensions and Fed hike bets underpin USD",
-      "link": "https://www.fxstreet.com/news/gold-recovers-from-monthly-low-hawkish-fed-outlook-and-firm-usd-to-limit-gains-202607170415",
-      "datum": "2026-07-17T08:22:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Higher Brent supports inflation concerns – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/oil-higher-brent-supports-inflation-concerns-deutsche-bank-202607170811",
-      "datum": "2026-07-17T08:11:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound retreats further from multi-year top vs JPY as Tokyo intervention risks loom",
-      "link": "https://www.fxstreet.com/news/british-pound-retreats-further-from-multi-year-top-vs-jpy-as-tokyo-intervention-risks-loom-202607170810",
-      "datum": "2026-07-17T08:10:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: September hike still on table – Commerzbank",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-still-on-table-commerzbank-202607170757",
-      "datum": "2026-07-17T07:57:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro flattens against US Dollar while entering the weekend",
-      "link": "https://www.fxstreet.com/news/euro-flattens-against-us-dollar-while-entering-the-weekend-202607170751",
-      "datum": "2026-07-17T07:51:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones futures slip ahead of Michigan Consumer Sentiment Index",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-ahead-of-michigan-consumer-sentiment-index-202607170746",
-      "datum": "2026-07-17T07:46:09.000Z"
     },
     {
       "quelle": "ForexLive",

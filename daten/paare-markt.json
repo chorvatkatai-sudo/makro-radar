@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-16T21:58:03.660Z",
+  "stand": "2026-07-17T05:06:35.218Z",
   "ausBriefing": "2026-07-10",
   "overlayAktiv": true,
   "paare": [
@@ -25,13 +25,13 @@
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 5,
+      "baseScore": 3,
       "tiltCot": 10,
       "tiltZins": -3,
       "tiltGesamt": 7,
-      "score": 12,
+      "score": 10,
       "cotExtrem": null,
-      "treiber": "Aufwärts, aber stark gebremst: Carry und Öl schwächen den Yen — dagegen das kühle US-CPI, Japans heiße Erzeugerpreise (+7,1%) und akutes Interventionsrisiko (~161,5). Track-Record 0/4 → bewusst moderat."
+      "treiber": "Aufwärts, aber stark gebremst: Carry + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen das doppelt-kühle US-CPI/PPI und akutes Interventions-Risiko (Katayama warnt). Track-Record 0/4 → bewusst nahe null."
     },
     {
       "paar": "AUD/USD",

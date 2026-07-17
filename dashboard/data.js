@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-16T21:58:03.661Z",
+ "erstellt": "2026-07-17T05:06:35.219Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -2351,20 +2351,21 @@ window.MAKRO_DATA = {
   "typ": "freitag",
   "titel": "Der Dollar hat den Boden gefunden — Falken-Protokoll + steigende Renditen + Öl-Comeback fangen die Jobschock-Delle auf. Nächste Woche entscheidet die US-Inflation (Di)",
   "tagesnews": {
-   "stand": "2026-07-16",
-   "wochentag": "Donnerstag",
-   "tenor": "Auch die US-Erzeugerpreise gestern KÜHL (PPI −0,3%) — die Disinflation ist jetzt doppelt bestätigt (CPI Di + PPI Mi). Trotzdem hält sich der Dollar (DXY ~100,7): Fed-Chef Warsh bleibt betont hart und das Öl schießt weiter hoch (WTI ~80$, +10% Woche, Nahost-Eskalation). Die Bank of Canada hielt bei 2,25% und stellte bei einem Öl-Schock sogar neue Zins-ERHÖHUNGEN in Aussicht — Rückenwind für den Loonie. Heute der große Test: US-Einzelhandel 14:30 Wien — ein starker Verbraucher würde die Falken-Dollar-Story wiederbeleben.",
+   "stand": "2026-07-17",
+   "wochentag": "Freitag",
+   "tenor": "Ruhiger Wochenausklang mit einer klaren Botschaft aus der Woche: Die US-Inflation kühlt (CPI Di + PPI Mi beide weich), aber der Dollar bricht trotzdem nicht ein (DXY ~100,7) — Fed-Chef Warsh bleibt hart, der Verbraucher hielt sich gestern (Einzelhandel +0,2% wie erwartet) und das Öl schießt weiter (WTI ~79$, +10% Woche, Nahost). Loonie ist der relative Gewinner (Öl + falkenhafte BoC), der Yen der Verlierer (~162, Interventions-Alarm). Heute nur noch ein Datenpunkt: das US-Verbrauchervertrauen (Uni Michigan) am Nachmittag.",
    "heute": [
-    "🇺🇸 US-EINZELHANDEL (Juni) 14:30 Wien: erwartet +0,2% Monat (Kern 0,0%). DER Test heute — bleibt der Verbraucher stark, stützt das den Dollar trotz der kühlen Inflation. (FRED trägt den Ist-Wert später automatisch nach.)",
-    "🇬🇧 UK-BIP (Mai) 08:00 Wien: erwartet 0,0% Monat (nach −0,1% im April). Zeigt, ob Großbritanniens Wirtschaft wieder Tritt fasst — ein schwacher Wert wäre Gegenwind fürs Pfund.",
-    "🇺🇸 Weitere US-Daten 14:30: Erstanträge Arbeitslosenhilfe (~216k erw.) + Philly-Fed-Industrieindex — Konjunktur-Puls. Dazu mehrere Fed-Redner (Logan, Schmid, Jefferson) und ein Trump-Auftritt.",
-    "🛢️ ÖL bleibt der Brandbeschleuniger: WTI ~80$ (+10% Woche), Brent ~85$ — die Nahost-Eskalation hält die Straße von Hormus unter Spannung. Rückenwind für den Loonie (die BoC nannte Öl gestern sogar als möglichen Erhöhungs-Grund!), Gegenwind für Euro & Yen (Energie-Import)."
+    "🇺🇸 US-VERBRAUCHERVERTRAUEN (Uni Michigan, Vorab-Juli) ~16:00 Wien: erwartet ~51 Punkte. Zeigt die Stimmung der US-Haushalte — besonders wichtig sind die darin enthaltenen INFLATIONS-Erwartungen (zuletzt hoch bei 4,6%). Fällt die Stimmung schwächer aus, kann der Dollar am Freitag noch etwas nachgeben.",
+    "🛢️ ÖL bleibt der Brandbeschleuniger ins Wochenende: WTI ~79$, Brent ~85$ (+10–12% auf Wochensicht) wegen der Nahost-Eskalation rund um die Straße von Hormus. Rückenwind für den Loonie, Gegenwind für Euro & Yen (beide importieren viel Energie).",
+    "🇯🇵 YEN-WACHE übers Wochenende: USD/JPY steht bei ~162 — dem schwächsten Stand seit rund vier Jahrzehnten. Japans Finanzministerin Katayama warnt weiter verbal vor Eingriffen („jederzeit bereit\"). Das teure Öl trifft den Yen zusätzlich. Interventions-Risiko akut, aber bisher nur Worte.",
+    "📅 Sonst dünner Kalender — der große Test der Woche (US-Inflation) ist durch. Fokus verlagert sich auf nächste Woche und die Frage, ob die Fed im September doch noch erhöht (Markt gespalten)."
    ],
    "gestern": [
-    "🇨🇦 BANK OF CANADA hielt den Leitzins bei 2,25% (6. Mal in Folge). Wichtig war der Ton: Chef Macklem stellte bei einem Öl-Preis-Schock wieder Zins-ERHÖHUNGEN in Aussicht, und die Wirtschaft wächst laut BoC im Q2 wieder (~2,5%). Das ist deutlich Loonie-freundlicher als ein reines „Halten\".",
-    "🇺🇸 US-ERZEUGERPREISE (PPI Juni) KÜHL: Gesamt −0,3% Monat (statt 0,0% erwartet), Kern nur +0,1% (statt +0,3%). Nach dem kühlen Verbraucherpreis-Index am Dienstag ist die Disinflation jetzt DOPPELT bestätigt — die Inflations-Pipeline entspannt sich spürbar.",
-    "🇺🇸 FED-CHEF WARSH Tag 2 vor dem Senat blieb falkenhaft — Inflation weiter „zu hoch\", keine Eile mit Zins-Senkungen. Genau das (plus das teure Öl) hält den Dollar über der 100,6-Marke, obwohl die Zahlen kühl waren.",
-    "💵 DOLLAR gedellt, nicht gebrochen: DXY ~100,7 (EUR/USD ~1,143). Die Juli-Zinserhöhungs-Wette ist ausgepreist, aber Warsh + Öl verhindern den freien Fall."
+    "🇺🇸 US-EINZELHANDEL (Juni) kam WIE ERWARTET: +0,2% Monat — der Verbraucher hält sich also. Nur die Kern-Rate (ohne Autos) war mit −0,2% etwas schwächer. Genug Stärke, damit der Dollar gestern sogar wieder etwas zulegte (DXY ~100,7), obwohl die Inflation diese Woche kühl war.",
+    "🇬🇧 UK-BIP (Mai) +0,1% Monat — einen Tick besser als die erwarteten 0,0% und eine Erholung vom −0,1% im April. Getragen von den Dienstleistungen (+0,3%), während Industrie (−0,5%) und Bau (−0,8%) schwächelten. Milder Rückenwind fürs Pfund.",
+    "🇺🇸 US-ERZEUGERPREISE (PPI, Mi) KÜHL: −0,3% Monat (statt 0,0%), Kern nur +0,1%. Zusammen mit dem kühlen Verbraucherpreis-Index vom Dienstag (Kern 0,0% Monat, Jahr 3,5% statt 3,8%) ist die Disinflation jetzt DOPPELT bestätigt — die Preis-Pipeline entspannt sich.",
+    "🇺🇸 FED-CHEF WARSH blieb bei seiner Anhörung falkenhaft (Inflation „zu hoch\", keine Eile mit Senkungen). Das plus das teure Öl hält den Dollar über 100,6, obwohl die Zahlen für Zins-Senkungen sprächen. Die Juli-Erhöhungs-Wette ist raus, September ist offen.",
+    "🇨🇦 BANK OF CANADA hielt bei 2,25% (6. Mal in Folge), stellte aber bei einem Öl-Schock neue Zins-ERHÖHUNGEN in Aussicht — deutlich Loonie-freundlicher als ein reines „Halten\"."
    ]
   },
   "lage": [
@@ -2431,8 +2432,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/JPY",
-    "score": 5,
-    "treiber": "Aufwärts, aber stark gebremst: Carry und Öl schwächen den Yen — dagegen das kühle US-CPI, Japans heiße Erzeugerpreise (+7,1%) und akutes Interventionsrisiko (~161,5). Track-Record 0/4 → bewusst moderat."
+    "score": 3,
+    "treiber": "Aufwärts, aber stark gebremst: Carry + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen das doppelt-kühle US-CPI/PPI und akutes Interventions-Risiko (Katayama warnt). Track-Record 0/4 → bewusst nahe null."
    },
    {
     "paar": "AUD/USD",
@@ -3581,13 +3582,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 5,
+   "baseScore": 3,
    "tiltCot": 10,
    "tiltZins": -3,
    "tiltGesamt": 7,
-   "score": 12,
+   "score": 10,
    "cotExtrem": null,
-   "treiber": "Aufwärts, aber stark gebremst: Carry und Öl schwächen den Yen — dagegen das kühle US-CPI, Japans heiße Erzeugerpreise (+7,1%) und akutes Interventionsrisiko (~161,5). Track-Record 0/4 → bewusst moderat."
+   "treiber": "Aufwärts, aber stark gebremst: Carry + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen das doppelt-kühle US-CPI/PPI und akutes Interventions-Risiko (Katayama warnt). Track-Record 0/4 → bewusst nahe null."
   },
   {
    "paar": "AUD/USD",

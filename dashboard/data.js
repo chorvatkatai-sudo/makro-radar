@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-17T18:55:53.049Z",
+ "erstellt": "2026-07-18T05:03:09.056Z",
  "wochenStart": "2026-07-12",
  "events": [
   {
@@ -2618,7 +2618,24 @@ window.MAKRO_DATA = {
    "'CRACK, NOT BREAK' — 3. WOCHE, ABER MIT NEUEM RISS: Trotz doppelt kühler Inflation (CPI + PPI) blieb der Dollar flach (~100,9). Falken-Warsh + Öl + Risk-off hielten ihn. ABER erstmals dreht das Zins-Momentum GEGEN den Dollar: Die US-2J-Rendite fiel diese Woche (−0,09 Pp), während EUR/GBP/NZD-Renditen stiegen. Lehre: Der Dollar-Boden steht jetzt auf Öl und Nervosität, nicht mehr auf einem wachsenden Zinsvorsprung. Fällt das Öl zurück, könnte der Riss aufbrechen.",
    "VIX-WENDE BEACHTEN: Das Angst-Barometer stieg auf ~18 (+5%). Nach Wochen der Sorglosigkeit (VIX 15–16) kehrt Risk-off zurück — getrieben von der Öl-/Nahost-Lage. Das dreht die FX-Logik: Sichere Häfen (Franken, Yen) bekommen wieder Bid, Rohstoff-Währungen (Aussie, Kiwi) verlieren Rückenwind. Ich habe CHF und JPY deshalb weniger bärisch, AUD weniger bullisch gescort als in den Risk-on-Wochen zuvor.",
    "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Die COT-Daten zeigen drei Short-Extreme — NZD (z −2,53, −57% short!), GBP (z −1,84) und CAD (z −1,83). Bei NZD und GBP habe ich deshalb bewusst NAHE NULL gescort (Squeeze-Risiko nach oben deckelt die Bearishness). Bei CAD wirkt der extreme Short dagegen ALS ZÜNDER in Richtung meiner Bull-These: Steigt das Öl, kann die Short-Eindeckung den Loonie zusätzlich treiben."
-  ]
+  ],
+  "tagesnews": {
+   "stand": "2026-07-18",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — die Börse macht Pause. Rückblick: Die US-Inflation kam doppelt kühl, trotzdem hält der Dollar (Öl-Comeback + Nervosität stützen). Nächste Woche wird's spannend: EZB am Donnerstag, UK-Inflation am Mittwoch.",
+   "heute": [
+    "🌍 Wochenende: Devisenmarkt geschlossen, keine neuen Kurse oder Zahlen. Die Preise vom Freitagabend gelten bis Montag früh.",
+    "🇺🇸 Dollar-Index steht bei ~100,8 (auf der Woche leicht schwächer) — der Jobschock-Riss von Anfang Juli ist noch da, aber der Dollar bricht nicht: teures Öl und wieder mehr Nervosität (VIX ~19) geben ihm Halt.",
+    "🛢️ Öl bleibt teuer (WTI ~81$, Brent ~88$) — die Spannungen USA/Iran haben den Deal ausgehebelt. Gut für den Kanada-Dollar (CAD), schlecht für Öl-Importeure wie die Eurozone und Japan."
+   ],
+   "gestern": [
+    "🇺🇸 Die US-Inflation kam diese Woche DOPPELT kühl: Verbraucherpreise-Kern nur +0,0% im Monat / 2,6% im Jahr, Erzeugerpreise sogar −0,3%. Heißt: Der Preisdruck lässt nach — eigentlich dollar-negativ.",
+    "🇺🇸 Trotzdem blieb der Dollar flach: Fed-Chef Warsh redet weiter hart, der Realzins ist hoch, und die Nervosität (VIX von 16 auf 18) bringt dem Dollar Sicherheits-Nachfrage. 'Angeknackst, nicht gebrochen.'",
+    "🇯🇵 Der Yen steht bei ~162 pro Dollar — so schwach wie seit 40 Jahren nicht. Das teure Öl (Japan importiert alles) und der Zins-Nachteil drücken; Tokio warnt vor Eingreifen (Interventionsrisiko).",
+    "📊 Neu: Das Zins-Momentum dreht erstmals GEGEN den Dollar (US-2-Jahres-Rendite fällt, Euro/Pfund steigen). Der Dollar-Boden steht jetzt auf Öl + Nervosität, nicht mehr auf dem Zinsvorsprung.",
+    "🗓️ Nächste Woche: Mo Kanada- & Neuseeland-Inflation, Mi 🇬🇧 UK-Inflation (Pfund-Shorts extrem → Squeeze-Gefahr), Do 🇪🇺 EZB-Entscheid (Halten erwartet, Lagardes Ton entscheidet) + Australien-Jobs + Japan-Inflation, Fr Stimmungs-Umfragen (PMIs)."
+   ]
+  }
  },
  "lexikon": {
   "hinweis": "Lexikon für das Dashboard. 'muster' ist ein Regex, der auf den Event-Titel von ForexFactory passt. Erklärungen bewusst kinderleicht.",

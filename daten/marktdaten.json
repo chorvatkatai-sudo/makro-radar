@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-18T05:05:08.317Z",
+  "stand": "2026-07-19T05:02:53.172Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
@@ -10,7 +10,6 @@
       "wocheProzent": -0.52,
       "renditeDelta": false,
       "verlauf": [
-        100.85,
         101.02,
         101.41,
         101.61,
@@ -71,11 +70,10 @@
       "einheit": "$",
       "typ": "rohstoff",
       "wert": 81.78,
-      "tagProzent": -0.86,
+      "tagProzent": 0,
       "wocheProzent": 4.66,
       "renditeDelta": false,
       "verlauf": [
-        76.6,
         74.82,
         73.21,
         70.34,
@@ -94,7 +92,7 @@
         79.34,
         79.6,
         78.95,
-        82.49,
+        81.78,
         81.78
       ]
     },
@@ -107,7 +105,6 @@
       "wocheProzent": 5.76,
       "renditeDelta": false,
       "verlauf": [
-        79.85,
         77.9,
         77.08,
         73.74,
@@ -135,11 +132,10 @@
       "einheit": "$",
       "typ": "rohstoff",
       "wert": 4018.8,
-      "tagProzent": 0.15,
+      "tagProzent": 0,
       "wocheProzent": 0.55,
       "renditeDelta": false,
       "verlauf": [
-        4224.1,
         4181.9,
         4129.9,
         3990.3,
@@ -158,7 +154,7 @@
         4061.1,
         4044,
         3985.6,
-        4012.7,
+        4018.8,
         4018.8
       ]
     },
@@ -171,7 +167,6 @@
       "wocheProzent": 0.03,
       "renditeDelta": true,
       "verlauf": [
-        3.856,
         3.84,
         3.851,
         3.851,
@@ -264,12 +259,11 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 63909.59,
+      "wert": 64711.49,
       "tagProzent": 0,
-      "wocheProzent": 2.68,
+      "wocheProzent": -0.38,
       "renditeDelta": false,
       "verlauf": [
-        59940.1,
         59532.34,
         60138.38,
         58558.86,
@@ -289,20 +283,20 @@
         64956.11,
         64712.38,
         63789.28,
-        63909.59,
-        63909.59
+        63899.46,
+        64711.49,
+        64711.49
       ]
     },
     "FEDFUT": {
       "name": "Fed-Erwartung (FF-Futures)",
       "einheit": "%",
       "typ": "rendite",
-      "wert": 3.63,
+      "wert": 3.66,
       "tagProzent": 0,
-      "wocheProzent": 0,
+      "wocheProzent": 0.03,
       "renditeDelta": true,
       "verlauf": [
-        3.62,
         3.63,
         3.63,
         3.63,
@@ -321,8 +315,8 @@
         3.63,
         3.63,
         3.63,
-        3.63,
-        3.63
+        3.66,
+        3.66
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
     },
@@ -486,7 +480,7 @@
     }
   },
   "zinsen2j": {
-    "stand": "2026-07-18",
+    "stand": "2026-07-19",
     "werte": {
       "USD": {
         "wert": 4.183,

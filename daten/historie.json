@@ -4986,7 +4986,7 @@
       "land": "GBP",
       "titel": "Claimant Count Change",
       "impact": "High",
-      "prognose": "28.3K",
+      "prognose": "29.4K",
       "vorher": "31.2K",
       "actual": null,
       "notiz": null
@@ -5006,7 +5006,7 @@
       "land": "GBP",
       "titel": "Public Sector Net Borrowing",
       "impact": "Low",
-      "prognose": "18.1B",
+      "prognose": "17.8B",
       "vorher": "23.3B",
       "actual": null,
       "notiz": null
@@ -5026,7 +5026,7 @@
       "land": "EUR",
       "titel": "ZEW Economic Sentiment",
       "impact": "Low",
-      "prognose": "11.5",
+      "prognose": "11.2",
       "vorher": "9.5",
       "actual": null,
       "notiz": null
@@ -5036,7 +5036,7 @@
       "land": "EUR",
       "titel": "German ZEW Economic Sentiment",
       "impact": "Low",
-      "prognose": "15.7",
+      "prognose": "15.1",
       "vorher": "10.5",
       "actual": null,
       "notiz": null
@@ -5086,7 +5086,7 @@
       "land": "JPY",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "-0.54T",
+      "prognose": "-0.56T",
       "vorher": "-0.09T",
       "actual": null,
       "notiz": null
@@ -5136,7 +5136,7 @@
       "land": "GBP",
       "titel": "PPI Input m/m",
       "impact": "Low",
-      "prognose": "-0.6%",
+      "prognose": "-0.7%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -5146,7 +5146,7 @@
       "land": "GBP",
       "titel": "PPI Output m/m",
       "impact": "Low",
-      "prognose": "-0.3%",
+      "prognose": "-0.1%",
       "vorher": "0.5%",
       "actual": null,
       "notiz": null
@@ -5166,7 +5166,7 @@
       "land": "GBP",
       "titel": "HPI y/y",
       "impact": "Low",
-      "prognose": "3.9%",
+      "prognose": "3.2%",
       "vorher": "3.8%",
       "actual": null,
       "notiz": null
@@ -5186,7 +5186,7 @@
       "land": "AUD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "15.2K",
+      "prognose": "16.4K",
       "vorher": "40.3K",
       "actual": null,
       "notiz": null
@@ -5236,7 +5236,7 @@
       "land": "CAD",
       "titel": "Core Retail Sales m/m",
       "impact": "Low",
-      "prognose": "1.4%",
+      "prognose": "1.3%",
       "vorher": "0.1%",
       "actual": null,
       "notiz": null
@@ -5336,7 +5336,7 @@
       "land": "GBP",
       "titel": "GfK Consumer Confidence",
       "impact": "Low",
-      "prognose": "-21",
+      "prognose": "-22",
       "vorher": "-23",
       "actual": null,
       "notiz": null
@@ -5366,7 +5366,7 @@
       "land": "EUR",
       "titel": "German GfK Consumer Climate",
       "impact": "Low",
-      "prognose": "-28.5",
+      "prognose": "-28.7",
       "vorher": "-29.2",
       "actual": null,
       "notiz": null
@@ -5376,7 +5376,7 @@
       "land": "GBP",
       "titel": "Retail Sales m/m",
       "impact": "Medium",
-      "prognose": "-0.1%",
+      "prognose": "-0.3%",
       "vorher": "1.2%",
       "actual": null,
       "notiz": null
@@ -5386,7 +5386,7 @@
       "land": "EUR",
       "titel": "French Flash Manufacturing PMI",
       "impact": "Medium",
-      "prognose": "51.2",
+      "prognose": "51.0",
       "vorher": "50.7",
       "actual": null,
       "notiz": null
@@ -5396,7 +5396,7 @@
       "land": "EUR",
       "titel": "French Flash Services PMI",
       "impact": "Medium",
-      "prognose": "47.7",
+      "prognose": "47.5",
       "vorher": "47.4",
       "actual": null,
       "notiz": null
@@ -5406,7 +5406,7 @@
       "land": "EUR",
       "titel": "German Flash Manufacturing PMI",
       "impact": "Medium",
-      "prognose": "50.5",
+      "prognose": "50.4",
       "vorher": "50.0",
       "actual": null,
       "notiz": null
@@ -5426,7 +5426,7 @@
       "land": "EUR",
       "titel": "Flash Manufacturing PMI",
       "impact": "Low",
-      "prognose": "51.6",
+      "prognose": "51.5",
       "vorher": "51.3",
       "actual": null,
       "notiz": null
@@ -5446,7 +5446,7 @@
       "land": "GBP",
       "titel": "Flash Manufacturing PMI",
       "impact": "Medium",
-      "prognose": "52.1",
+      "prognose": "52.0",
       "vorher": "53.1",
       "actual": null,
       "notiz": null
@@ -5486,7 +5486,7 @@
       "land": "CAD",
       "titel": "RMPI m/m",
       "impact": "Low",
-      "prognose": "-2.7%",
+      "prognose": "-1.5%",
       "vorher": "0.7%",
       "actual": null,
       "notiz": null
@@ -5506,7 +5506,7 @@
       "land": "USD",
       "titel": "Flash Manufacturing PMI",
       "impact": "Low",
-      "prognose": "54.5",
+      "prognose": "54.4",
       "vorher": "55.7",
       "actual": null,
       "notiz": null
@@ -5516,7 +5516,7 @@
       "land": "USD",
       "titel": "Flash Services PMI",
       "impact": "Low",
-      "prognose": "51.4",
+      "prognose": "51.3",
       "vorher": "51.3",
       "actual": null,
       "notiz": null
@@ -5526,7 +5526,7 @@
       "land": "USD",
       "titel": "New Home Sales",
       "impact": "Low",
-      "prognose": "604K",
+      "prognose": "609K",
       "vorher": "580K",
       "actual": null,
       "notiz": null

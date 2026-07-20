@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-20T17:27:21.396Z",
+  "stand": "2026-07-20T19:28:13.614Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -10,
-      "tiltZins": 6,
-      "tiltGesamt": -4,
-      "score": -6,
+      "tiltZins": 7,
+      "tiltGesamt": -3,
+      "score": -5,
       "cotExtrem": null,
       "treiber": "Fast neutral: Weicherer Dollar + EXTREME Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,33% > US) begrenzen jeden Rückgang stark. Der Doppel-Test UK-Jobs (Di) + UK-CPI (Mi) hängt drüber → nur leicht negativ."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -2,
       "tiltCot": -6,
-      "tiltZins": 3,
-      "tiltGesamt": -3,
-      "score": -5,
+      "tiltZins": 5,
+      "tiltGesamt": -1,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Zwar hilft der weichere Dollar + die hohe Aussie-Rendite (2J 4,52%), aber das wiederkehrende Risk-off (VIX rauf) und die matte China-Nachfrage nehmen der Rohstoff-Währung den Rückenwind. Fast neutral."
     },

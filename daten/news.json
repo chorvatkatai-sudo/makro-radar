@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-20T17:27:21.395Z",
+  "stand": "2026-07-20T19:28:13.613Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,10 +7,46 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Copper: Speculators rebuild longs on tight supply – TD Securities",
+      "link": "https://www.fxstreet.com/news/copper-speculators-rebuild-longs-on-tight-supply-td-securities-202607201846",
+      "datum": "2026-07-20T18:46:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar falls as softer Canadian inflation weighs on the Loonie",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-softer-canadian-inflation-weighs-on-the-loonie-202607201841",
+      "datum": "2026-07-20T18:41:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index advances as Middle East tensions drive demand",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rebounds-as-middle-east-tensions-drive-demand-202607201830",
+      "datum": "2026-07-20T18:30:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK names John Healey Chancellor of the Exchequer",
+      "link": "https://investinglive.com/news/uk-names-john-healey-chancellor-of-the-exchequer/",
+      "datum": "2026-07-20T17:57:14.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "Trump: Iran will pay for killing American soldiers many times over",
       "link": "https://investinglive.com/news/trump-iran-will-pay-for-killing-american-soldiers-many-times-over/",
-      "datum": "2026-07-20T17:09:03.000Z"
+      "datum": "2026-07-20T17:36:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD attempts to stabilize above $55.00",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-attempts-to-stabilize-above-5500-202607201732",
+      "datum": "2026-07-20T17:32:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Trump declares retaliation against Iran automatic in Truth Social post",
+      "link": "https://www.fxstreet.com/news/trump-declares-retaliation-against-iran-automatic-in-truth-social-post-202607201704",
+      "datum": "2026-07-20T17:04:03.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -55,36 +91,6 @@
       "datum": "2026-07-20T15:36:39.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Rate divergence weighs CAD against US Dollar – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-rate-divergence-weighs-cad-against-us-dollar-td-securities-202607201458",
-      "datum": "2026-07-20T14:58:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "LatAm FX: Carry supports resilience against US Dollar - BNY",
-      "link": "https://www.fxstreet.com/news/latam-fx-carry-supports-resilience-against-us-dollar-bny-202607201447",
-      "datum": "2026-07-20T14:47:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold swings around $4,000 as conflicting Middle East headlines drive markets",
-      "link": "https://www.fxstreet.com/news/gold-swings-around-4-000-as-conflicting-middle-east-headlines-drive-markets-202607201442",
-      "datum": "2026-07-20T14:42:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Carry and growth support potential rebound – HSBC",
-      "link": "https://www.fxstreet.com/news/australian-dollar-carry-and-growth-support-potential-rebound-hsbc-202607201437",
-      "datum": "2026-07-20T14:37:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Fed risks and Dollar strength cap upside – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-fed-risks-and-dollar-strength-cap-upside-td-securities-202607201427",
-      "datum": "2026-07-20T14:27:56.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US leading index for June -0.2% versus -0.1% estimate",
       "link": "https://investinglive.com/news/us-leading-index-for-june-0-2-versus-0-1-estimate/",
@@ -107,12 +113,6 @@
       "titel": "investingLive European markets wrap: Oil retreats, equities bounce as Iran touches on mediation proposals",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-retreats-equities-bounce-as-iran-touches-on-mediation-proposals/",
       "datum": "2026-07-20T12:00:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran says that diplomatic efforts have been \"active\" in recent days, received proposals from several mediators",
-      "link": "https://investinglive.com/news/iran-says-that-diplomatic-efforts-have-been-active-in-recent-days-received-proposals-from-several-mediators/",
-      "datum": "2026-07-20T08:50:49.000Z"
     }
   ]
 }

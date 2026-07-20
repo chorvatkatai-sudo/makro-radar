@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-20T05:06:11.217Z",
+  "stand": "2026-07-20T05:11:17.072Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -2,
       "tiltCot": -6,
-      "tiltZins": 3,
-      "tiltGesamt": -3,
-      "score": -5,
+      "tiltZins": 5,
+      "tiltGesamt": -1,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Zwar hilft der weichere Dollar + die hohe Aussie-Rendite (2J 4,52%), aber das wiederkehrende Risk-off (VIX rauf) und die matte China-Nachfrage nehmen der Rohstoff-Währung den Rückenwind. Fast neutral."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": 4,
-      "tiltGesamt": -1,
-      "score": -3,
+      "tiltZins": 7,
+      "tiltGesamt": 2,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "Nahe neutral: Schwache China-Nachfrage + Risk-off + dovishe RBNZ drücken; GEGENGEWICHT ist die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53 = großes Squeeze-Risiko nach oben) + der weichere Dollar → nur leicht negativ."
     }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-19T05:02:53.740Z",
+  "stand": "2026-07-20T05:06:11.217Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -45,13 +45,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -8,
+      "baseScore": -6,
       "tiltCot": 10,
       "tiltZins": -3,
       "tiltGesamt": 7,
-      "score": -1,
+      "score": 1,
       "cotExtrem": "erhoeht",
-      "treiber": "Klar abwärts (Loonie stärker): Öl-Comeback (WTI ~80$) + eine BoC, die bei Öl-Schock Erhöhungen andeutet + wieder wachsende Wirtschaft + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD deutlich stärker, als der weiche Dollar drückt."
+      "treiber": "Weiter abwärts (Loonie stärker), heute etwas gedämpft: Teures Öl (WTI ~82$) + extreme Loonie-Shorts (Squeeze-Potenzial) + der weiche Dollar stützen den CAD. ABER die heute abkühlende Kanada-Inflation (~2,8–3,0% von 3,2%) nimmt der BoC etwas Falken-Dringlichkeit → einen Tick näher an neutral."
     },
     {
       "paar": "USD/CHF",

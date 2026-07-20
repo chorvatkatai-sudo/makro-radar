@@ -1,11 +1,47 @@
 {
-  "stand": "2026-07-20T15:45:58.285Z",
+  "stand": "2026-07-20T17:27:21.395Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Iran will pay for killing American soldiers many times over",
+      "link": "https://investinglive.com/news/trump-iran-will-pay-for-killing-american-soldiers-many-times-over/",
+      "datum": "2026-07-20T17:09:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound slips as Burnham fiscal pledge fails to lift Sterling",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-as-burnham-fiscal-pledge-fails-to-lift-sterling-202607201624",
+      "datum": "2026-07-20T16:24:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average sits out a rally priced for a peace nobody has scheduled",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sits-out-a-rally-priced-for-a-peace-nobody-has-scheduled-202607201621",
+      "datum": "2026-07-20T16:21:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar holds as PBOC stands firm",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-as-pboc-stands-firm-202607201601",
+      "datum": "2026-07-20T16:01:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "UK Chancellor of the Exchequer Rachel Reeves resigns as Andy Burnham reshuffles cabinet",
+      "link": "https://www.fxstreet.com/news/uk-chancellor-of-the-exchequer-rachel-reeves-resigns-as-andy-burnham-reshuffles-cabinet-202607201600",
+      "datum": "2026-07-20T16:00:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Brent: Geopolitics support crude and cracks – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brent-geopolitics-support-crude-and-cracks-societe-generale-202607201554",
+      "datum": "2026-07-20T15:54:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro loses momentum as US Dollar recovers from intraday lows",
@@ -49,40 +85,10 @@
       "datum": "2026-07-20T14:27:56.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro: ECB pause seen limiting downside against US Dollar – BBH",
-      "link": "https://www.fxstreet.com/news/euro-ecb-pause-seen-limiting-downside-against-us-dollar-bbh-202607201413",
-      "datum": "2026-07-20T14:13:44.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US leading index for June -0.2% versus -0.1% estimate",
       "link": "https://investinglive.com/news/us-leading-index-for-june-0-2-versus-0-1-estimate/",
       "datum": "2026-07-20T14:09:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar gains as softer Fed outlook offsets Middle East tensions",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-softer-fed-outlook-offsets-middle-east-tensions-202607201408",
-      "datum": "2026-07-20T14:08:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Inflation cools as BoC stays patient – RBC",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-inflation-cools-as-boc-stays-patient-rbc-202607201403",
-      "datum": "2026-07-20T14:03:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Sterling shifts into broader range against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-shifts-into-broader-range-against-us-dollar-uob-202607201349",
-      "datum": "2026-07-20T13:49:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed: On-hold stance with upside hike risk – TD Securities",
-      "link": "https://www.fxstreet.com/news/fed-on-hold-stance-with-upside-hike-risk-td-securities-202607201337",
-      "datum": "2026-07-20T13:37:59.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Iran says that diplomatic efforts have been \"active\" in recent days, received proposals from several mediators",
       "link": "https://investinglive.com/news/iran-says-that-diplomatic-efforts-have-been-active-in-recent-days-received-proposals-from-several-mediators/",
       "datum": "2026-07-20T08:50:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Oil prices ease a bit after Iran's Foreign Ministry Spokesperson suggests diplomatic efforts are continuing despite the attacks",
-      "link": "https://investinglive.com/news/oil-prices-ease-a-bit-after-iran-s-foreign-ministry-spokesperson-suggests-diplomatic-efforts-are-continuing-despite-the-attacks/",
-      "datum": "2026-07-20T08:47:46.000Z"
     }
   ]
 }

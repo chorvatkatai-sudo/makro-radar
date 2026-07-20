@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-20T15:45:58.287Z",
+ "erstellt": "2026-07-20T17:27:21.397Z",
  "wochenStart": "2026-07-19",
  "events": [
   {
@@ -115,7 +115,7 @@ window.MAKRO_DATA = {
    "country": "NZD",
    "date": "2026-07-20T18:45:00-04:00",
    "impact": "High",
-   "forecast": "1.5%",
+   "forecast": "1.4%",
    "previous": "0.9%",
    "actual": null
   },
@@ -3123,15 +3123,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-20T15:45:57.921Z",
+  "stand": "2026-07-20T17:27:20.969Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101,
+    "wert": 100.97,
     "tagProzent": 0,
-    "wocheProzent": 0.05,
+    "wocheProzent": 0.03,
     "renditeDelta": false,
     "verlauf": [
      101.02,
@@ -3153,17 +3153,17 @@ window.MAKRO_DATA = {
      100.5,
      100.73,
      100.75,
-     101,
-     101
+     100.97,
+     100.97
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 17.9,
+    "wert": 18.09,
     "tagProzent": 0,
-    "wocheProzent": 8.48,
+    "wocheProzent": 9.64,
     "renditeDelta": false,
     "verlauf": [
      17.28,
@@ -3185,17 +3185,17 @@ window.MAKRO_DATA = {
      15.67,
      16.73,
      18.77,
-     17.9,
-     17.9
+     18.09,
+     18.09
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 81.43,
+    "wert": 81.77,
     "tagProzent": 0,
-    "wocheProzent": 2.63,
+    "wocheProzent": 3.06,
     "renditeDelta": false,
     "verlauf": [
      74.82,
@@ -3217,17 +3217,17 @@ window.MAKRO_DATA = {
      79.6,
      78.95,
      82.49,
-     81.43,
-     81.43
+     81.77,
+     81.77
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 88.02,
+    "wert": 88.53,
     "tagProzent": 0,
-    "wocheProzent": 3.88,
+    "wocheProzent": 4.48,
     "renditeDelta": false,
     "verlauf": [
      77.9,
@@ -3249,17 +3249,17 @@ window.MAKRO_DATA = {
      84.95,
      84.23,
      88.1,
-     88.02,
-     88.02
+     88.53,
+     88.53
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4018.3,
+    "wert": 4015.1,
     "tagProzent": 0,
-    "wocheProzent": -1.05,
+    "wocheProzent": -1.13,
     "renditeDelta": false,
     "verlauf": [
      4181.9,
@@ -3281,8 +3281,8 @@ window.MAKRO_DATA = {
      4044,
      3985.6,
      4012.7,
-     4018.3,
-     4018.3
+     4015.1,
+     4015.1
     ]
    },
    "US02Y": {
@@ -3320,9 +3320,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.586,
+    "wert": 4.606,
     "tagProzent": 0,
-    "wocheProzent": 0,
+    "wocheProzent": 0.02,
     "renditeDelta": true,
     "verlauf": [
      4.509,
@@ -3344,17 +3344,17 @@ window.MAKRO_DATA = {
      4.545,
      4.569,
      4.541,
-     4.586,
-     4.586
+     4.606,
+     4.606
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.103,
+    "wert": 5.121,
     "tagProzent": 0,
-    "wocheProzent": 0.01,
+    "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
      4.947,
@@ -3376,17 +3376,17 @@ window.MAKRO_DATA = {
      5.083,
      5.098,
      5.064,
-     5.103,
-     5.103
+     5.121,
+     5.121
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 65222,
+    "wert": 65428.83,
     "tagProzent": 0,
-    "wocheProzent": 2.25,
+    "wocheProzent": 2.57,
     "renditeDelta": false,
     "verlauf": [
      58558.86,
@@ -3409,8 +3409,8 @@ window.MAKRO_DATA = {
      63899.46,
      64796.6,
      64690.8,
-     65222,
-     65222
+     65428.83,
+     65428.83
     ]
    },
    "FEDFUT": {
@@ -3446,40 +3446,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.35,
-    "tagProzent": 0.03,
-    "wocheProzent": 0.04,
-    "renditeDelta": true,
-    "verlauf": [
-     2.15,
-     2.14,
-     2.23,
-     2.21,
-     2.28,
-     2.29,
-     2.23,
-     2.19,
-     2.18,
-     2.16,
-     2.2,
-     2.25,
-     2.26,
-     2.24,
-     2.3,
-     2.31,
-     2.31,
-     2.32,
-     2.36,
-     2.33,
-     2.32,
-     2.35
-    ],
-    "quelle": "FRED"
-   },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
@@ -3513,9 +3479,43 @@ window.MAKRO_DATA = {
      2.24
     ],
     "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.35,
+    "tagProzent": 0.03,
+    "wocheProzent": 0.04,
+    "renditeDelta": true,
+    "verlauf": [
+     2.15,
+     2.14,
+     2.23,
+     2.21,
+     2.28,
+     2.29,
+     2.23,
+     2.19,
+     2.18,
+     2.16,
+     2.2,
+     2.25,
+     2.26,
+     2.24,
+     2.3,
+     2.31,
+     2.31,
+     2.32,
+     2.36,
+     2.33,
+     2.32,
+     2.35
+    ],
+    "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.63,
+  "kurve2s10s": 0.65,
   "cot": {
    "stand": "2026-07-14",
    "waehrungen": {
@@ -3613,12 +3613,12 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.011
     },
     "EUR": {
-     "wert": 2.784,
-     "wocheDelta": 0.125
+     "wert": 2.788,
+     "wocheDelta": 0.129
     },
     "GBP": {
-     "wert": 4.411,
-     "wocheDelta": 0.174
+     "wert": 4.405,
+     "wocheDelta": 0.168
     },
     "JPY": {
      "wert": 1.429,
@@ -3629,12 +3629,12 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.096
     },
     "CAD": {
-     "wert": 2.85,
-     "wocheDelta": 0.03
+     "wert": 2.845,
+     "wocheDelta": 0.025
     },
     "CHF": {
-     "wert": 0.163,
-     "wocheDelta": 0.08
+     "wert": 0.157,
+     "wocheDelta": 0.074
     },
     "NZD": {
      "wert": 3.673,
@@ -3665,9 +3665,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": -2,
    "tiltCot": -10,
-   "tiltZins": 7,
-   "tiltGesamt": -3,
-   "score": -5,
+   "tiltZins": 6,
+   "tiltGesamt": -4,
+   "score": -6,
    "cotExtrem": null,
    "treiber": "Fast neutral: Weicherer Dollar + EXTREME Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,33% > US) begrenzen jeden Rückgang stark. Der Doppel-Test UK-Jobs (Di) + UK-CPI (Mi) hängt drüber → nur leicht negativ."
   },
@@ -3724,13 +3724,49 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-20T15:45:58.285Z",
+  "stand": "2026-07-20T17:27:21.395Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "Trump: Iran will pay for killing American soldiers many times over",
+    "link": "https://investinglive.com/news/trump-iran-will-pay-for-killing-american-soldiers-many-times-over/",
+    "datum": "2026-07-20T17:09:03.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound slips as Burnham fiscal pledge fails to lift Sterling",
+    "link": "https://www.fxstreet.com/news/british-pound-slips-as-burnham-fiscal-pledge-fails-to-lift-sterling-202607201624",
+    "datum": "2026-07-20T16:24:32.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Dow Jones Industrial Average sits out a rally priced for a peace nobody has scheduled",
+    "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sits-out-a-rally-priced-for-a-peace-nobody-has-scheduled-202607201621",
+    "datum": "2026-07-20T16:21:57.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar holds as PBOC stands firm",
+    "link": "https://www.fxstreet.com/news/australian-dollar-holds-as-pboc-stands-firm-202607201601",
+    "datum": "2026-07-20T16:01:48.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "UK Chancellor of the Exchequer Rachel Reeves resigns as Andy Burnham reshuffles cabinet",
+    "link": "https://www.fxstreet.com/news/uk-chancellor-of-the-exchequer-rachel-reeves-resigns-as-andy-burnham-reshuffles-cabinet-202607201600",
+    "datum": "2026-07-20T16:00:38.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Brent: Geopolitics support crude and cracks – Societe Generale",
+    "link": "https://www.fxstreet.com/news/brent-geopolitics-support-crude-and-cracks-societe-generale-202607201554",
+    "datum": "2026-07-20T15:54:00.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Euro loses momentum as US Dollar recovers from intraday lows",
@@ -3774,40 +3810,10 @@ window.MAKRO_DATA = {
     "datum": "2026-07-20T14:27:56.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Euro: ECB pause seen limiting downside against US Dollar – BBH",
-    "link": "https://www.fxstreet.com/news/euro-ecb-pause-seen-limiting-downside-against-us-dollar-bbh-202607201413",
-    "datum": "2026-07-20T14:13:44.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "US leading index for June -0.2% versus -0.1% estimate",
     "link": "https://investinglive.com/news/us-leading-index-for-june-0-2-versus-0-1-estimate/",
     "datum": "2026-07-20T14:09:39.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar gains as softer Fed outlook offsets Middle East tensions",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-softer-fed-outlook-offsets-middle-east-tensions-202607201408",
-    "datum": "2026-07-20T14:08:44.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar: Inflation cools as BoC stays patient – RBC",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-inflation-cools-as-boc-stays-patient-rbc-202607201403",
-    "datum": "2026-07-20T14:03:03.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound: Sterling shifts into broader range against US Dollar – UOB",
-    "link": "https://www.fxstreet.com/news/british-pound-sterling-shifts-into-broader-range-against-us-dollar-uob-202607201349",
-    "datum": "2026-07-20T13:49:09.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Fed: On-hold stance with upside hike risk – TD Securities",
-    "link": "https://www.fxstreet.com/news/fed-on-hold-stance-with-upside-hike-risk-td-securities-202607201337",
-    "datum": "2026-07-20T13:37:59.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3832,12 +3838,6 @@ window.MAKRO_DATA = {
     "titel": "Iran says that diplomatic efforts have been \"active\" in recent days, received proposals from several mediators",
     "link": "https://investinglive.com/news/iran-says-that-diplomatic-efforts-have-been-active-in-recent-days-received-proposals-from-several-mediators/",
     "datum": "2026-07-20T08:50:49.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Oil prices ease a bit after Iran's Foreign Ministry Spokesperson suggests diplomatic efforts are continuing despite the attacks",
-    "link": "https://investinglive.com/news/oil-prices-ease-a-bit-after-iran-s-foreign-ministry-spokesperson-suggests-diplomatic-efforts-are-continuing-despite-the-attacks/",
-    "datum": "2026-07-20T08:47:46.000Z"
    }
   ]
  },

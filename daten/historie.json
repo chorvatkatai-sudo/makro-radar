@@ -5176,7 +5176,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-2.0M",
       "vorher": "-1.7M",
       "actual": null,
       "notiz": null
@@ -5296,7 +5296,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "29B",
       "vorher": "41B",
       "actual": null,
       "notiz": null
@@ -5548,6 +5548,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "-8.6%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-21T11:16:00-04:00|NZD|GDT Price Index": {
+      "datum": "2026-07-21T11:16:00-04:00",
+      "land": "NZD",
+      "titel": "GDT Price Index",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-4.9%",
       "actual": null,
       "notiz": null
     }

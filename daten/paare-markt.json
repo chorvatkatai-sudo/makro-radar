@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-21T16:23:41.728Z",
+  "stand": "2026-07-21T21:58:17.646Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -10,
-      "tiltZins": 5,
-      "tiltGesamt": -5,
-      "score": -7,
+      "tiltZins": 4,
+      "tiltGesamt": -6,
+      "score": -8,
       "cotExtrem": null,
       "treiber": "Fast neutral: Weicherer Dollar + EXTREME Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,33% > US) begrenzen jeden Rückgang stark. Der Doppel-Test UK-Jobs (Di) + UK-CPI (Mi) hängt drüber → nur leicht negativ."
     },

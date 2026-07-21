@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-21T08:11:44.050Z",
+  "stand": "2026-07-21T12:24:57.776Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,112 +7,112 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: US Dollar struggles to extend rebound as focus remains on Middle East",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-struggles-to-extend-rebound-as-focus-remains-on-middle-east-202607210743",
-      "datum": "2026-07-21T07:43:44.000Z"
+      "quelle": "ForexLive",
+      "titel": "ADP weekly NER Pulse 16,500 vs 19,750 last week",
+      "link": "https://investinglive.com/news/adp-weekly-ner-pulse-16-500-vs-19-750-last-week/",
+      "datum": "2026-07-21T12:17:17.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Pressured within 161.30–163.00 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pressured-within-16130-16300-against-us-dollar-uob-202607210741",
-      "datum": "2026-07-21T07:41:46.000Z"
+      "titel": "British Pound extends losses nearing 1.3400 as markets await Burnham’s policies",
+      "link": "https://www.fxstreet.com/news/british-pound-extends-losses-nearing-13400-as-markets-await-burnhams-policies-202607211150",
+      "datum": "2026-07-21T11:50:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee rebounds as oil prices correct on Mideast peace hopes",
+      "titel": "Oil: Geopolitical premium persists as Gulf conflict escalates – BNY",
+      "link": "https://www.fxstreet.com/news/oil-geopolitical-premium-persists-as-gulf-conflict-escalates-bny-202607211141",
+      "datum": "2026-07-21T11:41:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "163.00: Why the Japanese Yen is close to year-to-date lows again",
+      "link": "https://www.fxstreet.com/news/16300-why-the-japanese-yen-is-close-to-year-to-date-lows-again-202607211141",
+      "datum": "2026-07-21T11:41:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European FX news wrap: UK jobs beat, focus stays on Middle East",
+      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-uk-jobs-beat-focus-stays-on-middle-east/",
+      "datum": "2026-07-21T11:35:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold climbs as buyers defend $4,000, hawkish Fed expectations limit upside",
+      "link": "https://www.fxstreet.com/news/gold-climbs-as-buyers-defend-4-000-hawkish-fed-expectations-limit-upside-202607211133",
+      "datum": "2026-07-21T11:33:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Tariffs and soft CPI pressure Loonie – BBH",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-tariffs-and-soft-cpi-pressure-loonie-bbh-202607211127",
+      "datum": "2026-07-21T11:27:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound loses momentum as fiscal and monetary headwinds mount",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-momentum-as-fiscal-and-monetary-headwinds-mount-202607211126",
+      "datum": "2026-07-21T11:26:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Hungarian Forint: NBH easing path and FX pressure – ING",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-nbh-easing-path-and-fx-pressure-ing-202607211116",
+      "datum": "2026-07-21T11:16:04.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Market outlook today: Gold and Bitcoin lead as key breakout levels come into focus",
+      "link": "https://investinglive.com/news/market-outlook-today-gold-and-bitcoin-lead-as-key-breakout-levels-come-into-focus/",
+      "datum": "2026-07-21T11:09:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar hits fresh monthly highs above 0.7020 as risk aversion ebbs",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hits-fresh-monthly-highs-above-07020-as-risk-aversion-ebbs-202607211059",
+      "datum": "2026-07-21T10:59:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee gains ground as oil prices correct, Trump's decision awaited",
       "link": "https://www.fxstreet.com/news/indian-rupee-gains-on-middle-east-peace-hopes-202607210536",
-      "datum": "2026-07-21T07:25:47.000Z"
+      "datum": "2026-07-21T10:55:07.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro rebounds from multi-day low as carry trade undermines JPY; focus remains on ECB",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-from-multi-day-low-as-carry-trade-undermines-jpy-focus-remains-on-ecb-202607210725",
-      "datum": "2026-07-21T07:25:32.000Z"
+      "titel": "Gold Price Forecast: XAU/USD attempts Descending Triangle breakout near $4,070",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-attempts-descending-triangle-breakout-near-4-070-202607211044",
+      "datum": "2026-07-21T10:44:18.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: Rally seen fading against Euro – OCBC",
-      "link": "https://www.fxstreet.com/news/british-pound-rally-seen-fading-against-euro-ocbc-202607210722",
-      "datum": "2026-07-21T07:22:54.000Z"
+      "titel": "162.70: Japanese Yen nears 40-year lows against the US Dollar",
+      "link": "https://www.fxstreet.com/news/16270-japanese-yen-nears-40-year-lows-against-the-us-dollar-202607211014",
+      "datum": "2026-07-21T10:14:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: CPI focus supports Sterling against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/british-pound-cpi-focus-supports-sterling-against-us-dollar-societe-generale-202607211004",
+      "datum": "2026-07-21T10:04:26.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "German ZEW survey shows pick up in recovery mood in July",
+      "link": "https://investinglive.com/news/germany-zew-survey-current-conditions-77-6-vs-77-8-expected/",
+      "datum": "2026-07-21T09:13:47.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone banks tighten lending standards further as geopolitical risks weigh on credit conditions",
+      "link": "https://investinglive.com/news/eurozone-banks-tighten-lending-standards-further-as-geopolitical-risks-weigh-on-credit-conditions/",
+      "datum": "2026-07-21T08:14:10.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Trouble already for Burnham in his first policy announcement?",
       "link": "https://investinglive.com/news/trouble-already-for-burnham-in-his-first-policy-announcement/",
       "datum": "2026-07-21T07:16:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Further upside likely towards 0.7100",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-further-upside-likely-towards-07100-202607210716",
-      "datum": "2026-07-21T07:16:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro flatlines above 1.1400 with geopolitical tensions, Oil prices capping rallies",
-      "link": "https://www.fxstreet.com/news/euro-flatlines-above-11400-with-geopolitical-tensions-oil-prices-capping-rallies-202607210710",
-      "datum": "2026-07-21T07:10:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Equities: Geopolitics weigh on stocks – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-geopolitics-weigh-on-stocks-deutsche-bank-202607210658",
-      "datum": "2026-07-21T06:58:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar gathers strength above 0.5850 as CPI inflation data bolster RBNZ rate hike bets",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gathers-strength-above-05850-as-cpi-inflation-data-bolster-rbnz-rate-hike-bets-202607210655",
-      "datum": "2026-07-21T06:55:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran says any decision to reopen the Strait of Hormuz depends on security considerations",
-      "link": "https://investinglive.com/news/iran-says-any-decision-to-reopen-the-strait-of-hormuz-depends-on-security-considerations/",
-      "datum": "2026-07-21T06:45:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold jumps to nearly one-week top as Iran diplomacy hopes undermine USD despite Fed bets",
-      "link": "https://www.fxstreet.com/news/gold-rises-cautiously-as-fed-hike-bets-us-iran-tensions-and-bullish-usd-cap-gains-202607210346",
-      "datum": "2026-07-21T06:42:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brent: Geopolitics weigh on prices – ING",
-      "link": "https://www.fxstreet.com/news/brent-geopolitics-weigh-on-prices-ing-202607210642",
-      "datum": "2026-07-21T06:42:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-7/",
-      "datum": "2026-07-21T06:32:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro pulls back against a stronger Pound following upbeat UK employment data",
-      "link": "https://www.fxstreet.com/news/euro-pulls-back-against-a-stronger-pound-following-upbeat-uk-employment-data-202607210625",
-      "datum": "2026-07-21T06:25:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK unemployment rate holds steady in May, payrolls decline again in June",
-      "link": "https://investinglive.com/news/uk-may-ilo-unemployment-rate-4-9-vs-5-0-expected/",
-      "datum": "2026-07-21T06:18:48.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK prime minister Burnham announces VAT cut from energy bills to bring down cost of living",
-      "link": "https://investinglive.com/news/uk-prime-minister-burnham-announces-vat-cut-from-energy-bills-to-bring-down-cost-of-living/",
-      "datum": "2026-07-21T05:26:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Markets remain tense on the week as US-Iran tensions stay heightened",
-      "link": "https://investinglive.com/news/markets-remain-tense-on-the-week-as-us-iran-tensions-stay-heightened/",
-      "datum": "2026-07-21T05:15:31.000Z"
     }
   ]
 }

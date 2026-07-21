@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-21T12:24:57.776Z",
+  "stand": "2026-07-21T13:28:31.643Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,9 +8,57 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
+      "titel": "USTR Greer: Canada is giving other countries better trade deals",
+      "link": "https://investinglive.com/news/ustr-greer-canada-is-giving-other-countries-better-trade-deals/",
+      "datum": "2026-07-21T13:13:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar: CPI supports further RBNZ hikes – BBH",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-cpi-supports-further-rbnz-hikes-bbh-202607211250",
+      "datum": "2026-07-21T12:50:45.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Pres. Trump: Reportedly rejects proposal for a 10 day cease-fire with Iran",
+      "link": "https://investinglive.com/news/pres-trump-reportedly-rejects-proposal-for-a-10-day-cease-fire-with-iran/",
+      "datum": "2026-07-21T12:45:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Aluminium: Output declines on regional disruptions – ING",
+      "link": "https://www.fxstreet.com/news/aluminium-output-declines-on-regional-disruptions-ing-202607211236",
+      "datum": "2026-07-21T12:36:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US ADP Employment Change 4-week average drops to 16.5K",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-165k-202607211231",
+      "datum": "2026-07-21T12:31:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treas Sec Bessent: Says 3% growth is not unreasonable.",
+      "link": "https://investinglive.com/news/us-treas-sec-bessent-says-3-growth-is-not-unreasonable/",
+      "datum": "2026-07-21T12:27:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Fiscal policy uncertainty and Sterling reaction – MUFG",
+      "link": "https://www.fxstreet.com/news/british-pound-fiscal-policy-uncertainty-and-sterling-reaction-mufg-202607211220",
+      "datum": "2026-07-21T12:20:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
       "titel": "ADP weekly NER Pulse 16,500 vs 19,750 last week",
       "link": "https://investinglive.com/news/adp-weekly-ner-pulse-16-500-vs-19-750-last-week/",
       "datum": "2026-07-21T12:17:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Turkish Lira: Rising inflation expectations pressure TRY – Commerzbank",
+      "link": "https://www.fxstreet.com/news/turkish-lira-rising-inflation-expectations-pressure-try-commerzbank-202607211158",
+      "datum": "2026-07-21T11:58:27.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -65,54 +113,6 @@
       "titel": "Market outlook today: Gold and Bitcoin lead as key breakout levels come into focus",
       "link": "https://investinglive.com/news/market-outlook-today-gold-and-bitcoin-lead-as-key-breakout-levels-come-into-focus/",
       "datum": "2026-07-21T11:09:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar hits fresh monthly highs above 0.7020 as risk aversion ebbs",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hits-fresh-monthly-highs-above-07020-as-risk-aversion-ebbs-202607211059",
-      "datum": "2026-07-21T10:59:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee gains ground as oil prices correct, Trump's decision awaited",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-on-middle-east-peace-hopes-202607210536",
-      "datum": "2026-07-21T10:55:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD attempts Descending Triangle breakout near $4,070",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-attempts-descending-triangle-breakout-near-4-070-202607211044",
-      "datum": "2026-07-21T10:44:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "162.70: Japanese Yen nears 40-year lows against the US Dollar",
-      "link": "https://www.fxstreet.com/news/16270-japanese-yen-nears-40-year-lows-against-the-us-dollar-202607211014",
-      "datum": "2026-07-21T10:14:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: CPI focus supports Sterling against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/british-pound-cpi-focus-supports-sterling-against-us-dollar-societe-generale-202607211004",
-      "datum": "2026-07-21T10:04:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German ZEW survey shows pick up in recovery mood in July",
-      "link": "https://investinglive.com/news/germany-zew-survey-current-conditions-77-6-vs-77-8-expected/",
-      "datum": "2026-07-21T09:13:47.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone banks tighten lending standards further as geopolitical risks weigh on credit conditions",
-      "link": "https://investinglive.com/news/eurozone-banks-tighten-lending-standards-further-as-geopolitical-risks-weigh-on-credit-conditions/",
-      "datum": "2026-07-21T08:14:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trouble already for Burnham in his first policy announcement?",
-      "link": "https://investinglive.com/news/trouble-already-for-burnham-in-his-first-policy-announcement/",
-      "datum": "2026-07-21T07:16:27.000Z"
     }
   ]
 }

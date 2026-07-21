@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-20T19:28:13.615Z",
+ "erstellt": "2026-07-21T05:05:26.138Z",
  "wochenStart": "2026-07-19",
  "events": [
   {
@@ -2487,8 +2487,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "bullisch",
-    "score": 8,
-    "grund": "Weiter relativer Gewinner, heute leicht getrimmt: Das teure Öl (WTI ~82$, Brent ~88$) stützt Kanadas Top-Export und bleibt die stärkste Stütze, dazu solide Jobs (+18k) und EXTREME Loonie-Shorts der Großspekulanten (−48% = Short-Squeeze-Potenzial nach oben). ABER: Die Kanada-Inflation kühlt heute Richtung ~2,8–3,0% (von 3,2%) ab — das nimmt der falkenhaften BoC (die bei Öl-Schock zuletzt Erhöhungen andeutete) etwas Dringlichkeit. Deshalb einen Tick weniger bullisch."
+    "score": 5,
+    "grund": "Weiter relativer Gewinner, aber getrimmt: Das teure Öl (WTI ~83$, Brent ~89$) stützt Kanadas Top-Export und bleibt die stärkste Stütze, dazu solide Jobs (+18k) und EXTREME Loonie-Shorts der Großspekulanten (−48% = Short-Squeeze-Potenzial nach oben). ABER: Die Kanada-Inflation kam gestern KÜHLER als erwartet (2,8% statt 2,9%, ein Kern-Maß erstmals seit ~6 Jahren unter 2%) — das nimmt der BoC die Erhöhungs-Fantasie. Deshalb von +8 auf +5 zurückgestuft, aber wegen Öl weiter bullisch."
    },
    "AUD": {
     "stimmung": "neutral",
@@ -2496,9 +2496,9 @@ window.MAKRO_DATA = {
     "grund": "Getrimmt auf fast neutral: Die höchste Rendite im Feld (2J 4,52%) und der weichere Dollar heben — ABER das wiederkehrende Risk-off (VIX 18 steigt) nimmt der Rohstoff-Währung den Rückenwind, und die schwache China-Nachfrage (Inflation nur +1,0%) bremst den größten Kunden-Draht. Nächste Woche der Test: Australiens Arbeitsmarkt (Do). Nur noch leicht positiv."
    },
    "NZD": {
-    "stimmung": "neutral",
-    "score": 1,
-    "grund": "Ausgeglichen nahe null: Der weichere Dollar und die EXTREME Short-Positionierung (COT-z −2,53, −57% des Marktes short = größtes Squeeze-Risiko nach oben im ganzen Feld) heben — dagegen das wiederkehrende Risk-off, die schwache China-Nachfrage und die eher dovishe RBNZ (nach der Erhöhung auf 2,50% gebremst). Track-Record 1/4 → bewusst neutral. Nächste Woche NZ-Inflation (Mo)."
+    "stimmung": "bullisch",
+    "score": 6,
+    "grund": "Angehoben nach heißer Inflation: Die NZ-Teuerung sprang gestern auf 4,1% (über Erwartung, höchster Stand seit Ende 2023, klar über RBNZ-Ziel 1–3%) — das macht Zins-Senkungen schwerer und ist Kiwi-positiv. Dazu die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53, −57% short = größtes Squeeze-Risiko nach oben) + weicher Dollar. Gegenpol: schwache China-Nachfrage + leichtes Risk-off. Track-Record nur 1/5 → bewusst maßvoll auf +6 statt höher."
    }
   },
   "paare": [
@@ -2524,8 +2524,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": -6,
-    "treiber": "Weiter abwärts (Loonie stärker), heute etwas gedämpft: Teures Öl (WTI ~82$) + extreme Loonie-Shorts (Squeeze-Potenzial) + der weiche Dollar stützen den CAD. ABER die heute abkühlende Kanada-Inflation (~2,8–3,0% von 3,2%) nimmt der BoC etwas Falken-Dringlichkeit → einen Tick näher an neutral."
+    "score": -3,
+    "treiber": "Weiter abwärts (Loonie stärker), aber deutlich gedämpft: Teures Öl (WTI ~83$) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD. ABER die gestern KÜHLER als erwartete Kanada-Inflation (2,8% statt 2,9%, Kern unter 2%) nimmt der BoC die Erhöhungs-Fantasie → nur noch leicht negativ."
    },
    {
     "paar": "USD/CHF",
@@ -2534,8 +2534,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "NZD/USD",
-    "score": -2,
-    "treiber": "Nahe neutral: Schwache China-Nachfrage + Risk-off + dovishe RBNZ drücken; GEGENGEWICHT ist die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53 = großes Squeeze-Risiko nach oben) + der weichere Dollar → nur leicht negativ."
+    "score": 2,
+    "treiber": "Ins Plus gedreht: Die gestern HEISSE NZ-Inflation (4,1%, über Ziel) erschwert RBNZ-Senkungen und ist Kiwi-positiv; dazu die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53 = großes Squeeze-Risiko nach oben) + weicher Dollar. Gegenpol schwache China-Nachfrage + Risk-off → nur leicht positiv, Track-Record 1/5 mahnt zur Vorsicht."
    }
   ],
   "wochenausblick": {
@@ -2640,21 +2640,21 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Die COT-Daten zeigen drei Short-Extreme — NZD (z −2,53, −57% short!), GBP (z −1,84) und CAD (z −1,83). Bei NZD und GBP habe ich deshalb bewusst NAHE NULL gescort (Squeeze-Risiko nach oben deckelt die Bearishness). Bei CAD wirkt der extreme Short dagegen ALS ZÜNDER in Richtung meiner Bull-These: Steigt das Öl, kann die Short-Eindeckung den Loonie zusätzlich treiben."
   ],
   "tagesnews": {
-   "stand": "2026-07-20",
-   "wochentag": "Montag",
-   "tenor": "Ruhiger Wochenauftakt: Der Dollar ist leicht weich, hat aber weiter einen Boden (teures Öl + Nervosität stützen). Heute Kanada-Inflation + China-Leitzins; der große Test kommt später — UK-Inflation am Mittwoch, EZB am Donnerstag.",
+   "stand": "2026-07-21",
+   "wochentag": "Dienstag",
+   "tenor": "Zwei-Gesichter-Tag bei der Inflation: Neuseelands Teuerung sprang HEISS über das Notenbank-Ziel (Kiwi-positiv), Kanadas kühlte KÜHL ab (leicht Loonie-dämpfend). Heute Blick auf den UK-Arbeitsmarkt — die Vorprobe vor der UK-Inflation morgen und der EZB am Donnerstag.",
    "heute": [
-    "🇨🇦 Kanada-Inflation (Juni) steht heute an — erwartet wird ein Rückgang Richtung ~2,8–3,0% im Jahr (von 3,2% im Mai), weil Benzin rund 10% billiger wurde. Die von der Notenbank bevorzugten Kern-Maße bleiben nahe 2%. Kühler = etwas weniger Druck auf die BoC → leicht dämpfend für den Kanada-Dollar (das teure Öl bleibt aber die stärkere Stütze).",
-    "🇨🇳 China ließ seinen Leitzins (LPR) wie erwartet unverändert bei 3,0% — keine Überraschung. Signal: Peking steuert (noch) nicht kräftig gegen. Neutral für Aussie und Kiwi, die stark am China-Draht hängen.",
-    "🇯🇵 In Japan ist heute Feiertag ('Tag des Meeres') — die Börse Tokio ist zu, der Yen-Handel ist dünn. USD/JPY klebt bei ~162, so schwach wie seit rund 40 Jahren nicht (Zins-Nachteil + teures Öl drücken, Interventionsrisiko bleibt).",
-    "🛢️ Öl bleibt teuer (WTI ~82$, Brent ~88$, +5% auf der Woche) wegen der Nahost-Spannungen — Rückenwind für den Kanada-Dollar, Gegenwind für Öl-Importeure wie Eurozone und Japan."
+    "🇬🇧 Heute kommt der britische Arbeitsmarkt-Bericht (Arbeitslosen-Anträge + Löhne). Das ist die Vorprobe vor der wichtigen UK-Inflation MORGEN. Wichtig: Die Großspekulanten sind beim Pfund EXTREM short — gute UK-Zahlen könnten diese Woche eine Short-Eindeckung (Squeeze) auslösen und das Pfund kräftig nach oben schieben. Bis dahin bleibt GBP auf der Kippe.",
+    "🇩🇪 In Deutschland die ZEW-Umfrage (wie schätzen Finanzprofis die Wirtschaft ein?) — erwartet wird eine leichte Aufhellung. Nur ein Stimmungsbild, kein harter Wert; wenig Marktbewegung.",
+    "🛢️ Öl bleibt teuer (WTI ~83$, Brent ~89$, +4–5% auf der Woche) wegen der Nahost-Spannungen — Rückenwind für den Kanada-Dollar, Gegenwind für Öl-Importeure wie Eurozone und Japan. Das Angst-Barometer VIX steht bei ~18,5 (leichtes Risk-off).",
+    "🇯🇵 Der Yen bleibt am Boden: USD/JPY klebt bei ~162, so schwach wie seit rund 40 Jahren nicht (Zins-Nachteil + teures Öl drücken, Interventionsrisiko bleibt heiß)."
    ],
    "gestern": [
-    "🇺🇸 Rückblick Woche: Die US-Inflation kam DOPPELT kühl — Verbraucherpreise-Kern nur +0,0% im Monat / 2,6% im Jahr, Erzeugerpreise sogar −0,3%. Der Preisdruck lässt nach, eigentlich dollar-negativ.",
-    "🇺🇸 Trotzdem blieb der Dollar flach (~100,8): Fed-Chef Warsh redet weiter hart, der Realzins ist hoch, und die zurückkehrende Nervosität (VIX von 16 auf ~19) bringt dem Dollar Sicherheits-Nachfrage. 'Angeknackst, nicht gebrochen.'",
-    "📊 Wichtig: Das Zins-Momentum dreht erstmals GEGEN den Dollar (US-2-Jahres-Rendite fällt auf der Woche, Euro-/Pfund-Renditen steigen). Der Dollar-Boden steht jetzt auf Öl + Nervosität, nicht mehr auf dem Zinsvorsprung.",
-    "🎯 Positionierung: Großspekulanten sind bei Pfund, Kanada-Dollar und Kiwi EXTREM short (COT-Daten). Steigt eine dieser Währungen, kann eine Short-Eindeckung (Squeeze) den Anstieg zusätzlich befeuern — das ist das größte Aufwärts-Risiko der Woche.",
-    "🗓️ Diese Woche: Di 🇳🇿 Neuseeland-Inflation (erwartet Sprung auf ~4,1% wegen teurem Benzin) + 🇬🇧 UK-Arbeitsmarkt + ZEW-Umfrage, Mi 🇬🇧 UK-Inflation (Pfund-Shorts extrem → Squeeze-Gefahr), Do 🇪🇺 EZB-Entscheid (Halten bei 2,40% erwartet, Lagardes Ton entscheidet) + 🇦🇺 Australien-Jobs + 🇯🇵 Japan-Inflation, Fr Stimmungs-Umfragen (PMIs)."
+    "🇳🇿 Neuseeland-Inflation (2. Quartal) kam HEISS: +4,1% zum Vorjahr (erwartet 4,0%, vorher 3,1%) — der höchste Stand seit Ende 2023 und DEUTLICH über dem Notenbank-Ziel (1–3%). Treiber: Benzin (+27,5%) und Strom. Das macht der RBNZ Zins-Senkungen schwerer → tendenziell Kiwi-positiv (deshalb hebe ich NZD leicht an — trotz noch schwachem Track-Record).",
+    "🇨🇦 Kanada-Inflation (Juni) kam KÜHL: nur +2,8% zum Vorjahr (erwartet 2,9%, vorher 3,2%), zum Vormonat sogar −0,4% (stärkster Rückgang seit Dez 2024). Ein Kern-Maß fiel erstmals seit fast 6 Jahren unter 2%. Das nimmt der Notenbank (BoC) Erhöhungs-Dringlichkeit → leicht dämpfend für den Loonie. ABER: Das teure Öl bleibt die stärkere Stütze, deshalb trimme ich CAD nur etwas.",
+    "🇨🇳 China ließ seinen Leitzins (LPR) wie erwartet unverändert bei 3,0% — Peking steuert (noch) nicht kräftig gegen. Neutral für Aussie und Kiwi.",
+    "🇺🇸 Woche zuvor: Die US-Inflation kam DOPPELT kühl (Kern +0,0% zum Monat / 2,6% zum Jahr, Erzeugerpreise −0,3%). Trotzdem blieb der Dollar flach (~100,9) — Fed-Chef Warsh redet hart, Öl teuer, Nervosität hilft dem Dollar. 'Angeknackst, nicht gebrochen.' Neu: Das Zins-Momentum dreht erstmals GEGEN den Dollar (US-2-Jahres-Rendite fällt, Euro-/Pfund-Renditen steigen).",
+    "🗓️ Rest der Woche: Mi 🇬🇧 UK-Inflation (8:00 Wien; Pfund-Shorts extrem → Squeeze-Gefahr), Do 🇪🇺 EZB-Entscheid (14:15 Wien, Halten bei 2,40% erwartet — Lagardes Ton entscheidet; Markt preist sogar spätere ERHÖHUNGEN) + 🇦🇺 Australien-Jobs + 🇯🇵 Japan-Inflation, Fr Stimmungs-Umfragen (Flash-PMIs)."
    ]
   }
  },
@@ -3693,13 +3693,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -6,
+   "baseScore": -3,
    "tiltCot": 10,
    "tiltZins": 0,
    "tiltGesamt": 10,
-   "score": 4,
+   "score": 7,
    "cotExtrem": "erhoeht",
-   "treiber": "Weiter abwärts (Loonie stärker), heute etwas gedämpft: Teures Öl (WTI ~82$) + extreme Loonie-Shorts (Squeeze-Potenzial) + der weiche Dollar stützen den CAD. ABER die heute abkühlende Kanada-Inflation (~2,8–3,0% von 3,2%) nimmt der BoC etwas Falken-Dringlichkeit → einen Tick näher an neutral."
+   "treiber": "Weiter abwärts (Loonie stärker), aber deutlich gedämpft: Teures Öl (WTI ~83$) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD. ABER die gestern KÜHLER als erwartete Kanada-Inflation (2,8% statt 2,9%, Kern unter 2%) nimmt der BoC die Erhöhungs-Fantasie → nur noch leicht negativ."
   },
   {
    "paar": "USD/CHF",
@@ -3713,13 +3713,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -2,
+   "baseScore": 2,
    "tiltCot": -5,
    "tiltZins": 5,
    "tiltGesamt": 0,
-   "score": -2,
+   "score": 2,
    "cotExtrem": "extrem",
-   "treiber": "Nahe neutral: Schwache China-Nachfrage + Risk-off + dovishe RBNZ drücken; GEGENGEWICHT ist die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53 = großes Squeeze-Risiko nach oben) + der weichere Dollar → nur leicht negativ."
+   "treiber": "Ins Plus gedreht: Die gestern HEISSE NZ-Inflation (4,1%, über Ziel) erschwert RBNZ-Senkungen und ist Kiwi-positiv; dazu die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53 = großes Squeeze-Risiko nach oben) + weicher Dollar. Gegenpol schwache China-Nachfrage + Risk-off → nur leicht positiv, Track-Record 1/5 mahnt zur Vorsicht."
   }
  ],
  "sentiment": null,

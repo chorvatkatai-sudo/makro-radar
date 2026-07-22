@@ -655,7 +655,7 @@
     "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "2.011",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -665,7 +665,7 @@
     "title": "EIA Gasoline Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.06",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -675,7 +675,7 @@
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.395",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -685,7 +685,7 @@
     "title": "EIA Refinery Crude Runs Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.058",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -695,7 +695,7 @@
     "title": "EIA Distillate Fuel Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.09",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -705,7 +705,7 @@
     "title": "EIA Cushing Crude Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.674",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -715,7 +715,7 @@
     "title": "EIA Gasoline Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "0.765",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -725,7 +725,7 @@
     "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.231",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -735,7 +735,7 @@
     "title": "EIA Crude Oil Imports Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.485",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1595,7 +1595,7 @@
     "title": "Retail Sales YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3.5",
+    "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
   },

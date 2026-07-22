@@ -1,11 +1,71 @@
 {
-  "stand": "2026-07-22T13:25:28.348Z",
+  "stand": "2026-07-22T15:26:42.635Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Fiscal execution to support growth – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/china-fiscal-execution-to-support-growth-standard-chartered-202607221506",
+      "datum": "2026-07-22T15:06:04.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Crude oil inventories rise 2.010M vs -1.052M estimate",
+      "link": "https://investinglive.com/news/crude-oil-inventories-rise-2-010m-vs-1-052m-estimate/",
+      "datum": "2026-07-22T15:05:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "USTR Greer testifies in the Senate: We are moving with all due speed on USMCA negotiations",
+      "link": "https://investinglive.com/news/ustr-greer-testifies-in-the-senate-we-are-moving-with-all-due-speed-on-usmca-negotiations/",
+      "datum": "2026-07-22T14:55:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar steadies ahead of Australian employment data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-ahead-of-australian-employment-data-202607221448",
+      "datum": "2026-07-22T14:48:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen struggles near four-decade lows despite hawkish BoJ signals",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-near-four-decade-lows-despite-hawkish-boj-signals-202607221440",
+      "datum": "2026-07-22T14:40:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Aluminium: Tariff tweaks seen as long-term policy – ING",
+      "link": "https://www.fxstreet.com/news/aluminium-tariff-tweaks-seen-as-long-term-policy-ing-202607221436",
+      "datum": "2026-07-22T14:36:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Japan: Gradual tightening and external shocks – Rabobank",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-gradual-tightening-and-external-shocks-rabobank-202607221410",
+      "datum": "2026-07-22T14:10:29.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump News: Iran will pay a big price",
+      "link": "https://investinglive.com/news/trump-news-iran-will-pay-a-big-price/",
+      "datum": "2026-07-22T14:03:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Range-bound gains and episodic strength – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-range-bound-gains-and-episodic-strength-td-securities-202607221345",
+      "datum": "2026-07-22T13:45:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro struggles to extend gains as Iran war supports US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-struggles-to-extend-gains-as-middle-east-tensions-support-the-us-dollar-202607221335",
+      "datum": "2026-07-22T13:35:01.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Trump: If Iran fires at a ship, the US will bomb a bridge/power station. Crude oil remains elevated.",
@@ -37,34 +97,10 @@
       "datum": "2026-07-22T12:56:23.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Hungarian Forint: NBH easing path shapes HUF prospects – ING",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-nbh-easing-path-shapes-huf-prospects-ing-202607221237",
-      "datum": "2026-07-22T12:37:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of England: Wait-and-see stance holds – Societe Generale",
-      "link": "https://www.fxstreet.com/news/bank-of-england-wait-and-see-stance-holds-societe-generale-202607221219",
-      "datum": "2026-07-22T12:19:16.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Oil prices ramp higher as Middle East conflict expands to the Red Sea",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-ramp-higher-as-middle-east-conflict-expands-to-the-red-sea/",
       "datum": "2026-07-22T12:04:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: Carry appeal capped by Oil risk – BNY",
-      "link": "https://www.fxstreet.com/news/indian-rupee-carry-appeal-capped-by-oil-risk-bny-202607221201",
-      "datum": "2026-07-22T12:01:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar Index Price Forecast: keeps the Bullish bias intact above 101.00",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-keeps-the-bullish-bias-intact-above-10100-202607221147",
-      "datum": "2026-07-22T11:47:24.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -73,46 +109,10 @@
       "datum": "2026-07-22T11:46:32.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Hawkish BoJ signals versus Fed risk – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-hawkish-boj-signals-versus-fed-risk-rabobank-202607221146",
-      "datum": "2026-07-22T11:46:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Heavy trade as BoE seen adjusting – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-heavy-trade-as-boe-seen-adjusting-bbh-202607221120",
-      "datum": "2026-07-22T11:20:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price edges higher as geopolitical tensions offset inflation concerns",
-      "link": "https://www.fxstreet.com/news/silver-price-edges-higher-as-geopolitical-tensions-offset-inflation-concerns-202607221117",
-      "datum": "2026-07-22T11:17:37.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Red Sea shipping disruption now in focus as vessels are forced to change course",
       "link": "https://investinglive.com/news/red-sea-shipping-disruption-now-in-focus-as-vessels-are-changing-course/",
       "datum": "2026-07-22T11:01:57.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran is in a lot of trouble, says US secretary of state Rubio",
-      "link": "https://investinglive.com/news/iran-is-in-a-lot-of-trouble-says-us-secretary-of-state-rubio/",
-      "datum": "2026-07-22T09:45:03.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran says it struck US military facilities in Jordan and Bahrain",
-      "link": "https://investinglive.com/news/iran-says-it-struck-us-military-facilities-in-jordan-and-bahrain/",
-      "datum": "2026-07-22T06:45:35.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK inflation eases slightly in June but core prices keep steady",
-      "link": "https://investinglive.com/news/uk-june-cpi-2-6-vs-2-7-y-y-expected/",
-      "datum": "2026-07-22T06:35:11.000Z"
     }
   ]
 }

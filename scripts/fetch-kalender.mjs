@@ -253,7 +253,7 @@ const tiltCot = paar => {
   const m = COT_PAAR[paar]; if (!m) return 0;
   const c = cotW[m[0]]; if (!c || c.nettoAnteil == null) return 0;
   const daempfung = c.extrem === "extrem" ? 0.5 : 1;       // überfüllter Trade → Momentum-Signal halbieren (Reversal-Risiko)
-  return Math.round(clamp(c.nettoAnteil * 0.4, -10, 10) * m[1] * daempfung);
+  return Math.round(clamp(c.nettoAnteil * 0.2, -5, 5) * m[1] * daempfung);
 };
 const cotExtremFuer = paar => { const m = COT_PAAR[paar]; return m ? (cotW[m[0]]?.extrem || null) : null; };
 // Zinsen: BEVORZUGT die echte 2J-Zinsdifferenz je Paar (Wochen-Δ des Spreads

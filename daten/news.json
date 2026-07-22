@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-21T21:58:17.645Z",
+  "stand": "2026-07-22T05:05:34.398Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Upside bias holds near 6.7600 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-holds-near-67600-against-us-dollar-uob-202607212057",
-      "datum": "2026-07-21T20:57:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: US Dollar rises as Middle East tensions lift Oil",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-as-middle-east-tensions-lift-oil-202607212049",
-      "datum": "2026-07-21T20:49:54.000Z"
+      "titel": "AUD/USD Price Forecast: Consolidates near 0.7000 as bulls await 38.2% Fibo. breakout",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-consolidates-near-07000-as-bulls-await-382-fibo-breakout-202607220453",
+      "datum": "2026-07-22T04:53:46.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 21 Jul: USDJPY trades to a 40 year high and runs",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-jul-usdjpy-trades-to-a-40-year-high-and-runs/",
-      "datum": "2026-07-21T20:32:24.000Z"
+      "titel": "Heads up: UK CPI report for June coming up later",
+      "link": "https://investinglive.com/news/heads-up-uk-cpi-report-for-june-coming-up-later/",
+      "datum": "2026-07-22T04:49:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve seen holding rates next week amid Oil shock ‒ Reuters",
-      "link": "https://www.fxstreet.com/news/federal-reserve-seen-holding-rates-next-week-amid-oil-shock-reuters-202607212027",
-      "datum": "2026-07-21T20:27:44.000Z"
+      "titel": "WTI Price Forecast: Rises to near $85.00 on supply disruption, but remains capped below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-rises-to-near-8500-on-supply-disruption-but-remains-capped-below-100-day-sma-202607220448",
+      "datum": "2026-07-22T04:48:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "China: National team support shapes flows – BNY",
-      "link": "https://www.fxstreet.com/news/china-national-team-support-shapes-flows-bny-202607212022",
-      "datum": "2026-07-21T20:22:00.000Z"
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607220436",
+      "datum": "2026-07-22T04:36:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen tumbles to 40-year low as US Dollar safe-haven rush deepens",
-      "link": "https://www.fxstreet.com/news/japanese-yen-tumbles-to-40-year-low-as-dollar-haven-rush-deepens-202607212012",
-      "datum": "2026-07-21T20:12:32.000Z"
+      "titel": "UK CPI set to show inflation slowed in June, bolstering case for BoE rate hold",
+      "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-receding-inflation-in-june-as-gbp-usd-fails-at-may-highs-202607220200",
+      "datum": "2026-07-22T04:30:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound bounces off one-week low vs USD amid Iran diplomacy hopes, ahead of UK CPI",
+      "link": "https://www.fxstreet.com/news/british-pound-bounces-off-one-week-low-vs-usd-amid-iran-diplomacy-hopes-ahead-of-uk-cpi-202607220415",
+      "datum": "2026-07-22T04:15:09.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Wednesday, July 22, 2026 _ Japan trade data,",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-july-22-2026-_japan-trade-data/",
-      "datum": "2026-07-21T19:59:15.000Z"
+      "titel": "investingLive Asia-Pacific market moving news: Gold stuns with a surge of buying",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-gold-stuns-with-a-surge-of-buying/",
+      "datum": "2026-07-22T03:43:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rallies to over two-week high, eyes $4,150 as traders track US-Iran diplomacy efforts",
+      "link": "https://www.fxstreet.com/news/gold-rallies-to-over-two-week-high-eyes-4-150-as-traders-track-us-iran-diplomacy-efforts-202607220340",
+      "datum": "2026-07-22T03:40:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Tests ascending triangle top above 186.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-ascending-triangle-top-above-18600-202607220335",
+      "datum": "2026-07-22T03:35:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD rises to near $60.00 despite surging inflation fears",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6000-despite-surging-inflation-fears-202607220309",
+      "datum": "2026-07-22T03:09:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Secretary of State Rubio: Iranian control of Hormuz would have repercussions beyond Middle East",
+      "link": "https://www.fxstreet.com/news/us-secretary-of-state-rubio-iranian-control-of-hormuz-would-have-repercussions-beyond-middle-east-202607220307",
+      "datum": "2026-07-22T03:07:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index weakens to near 101.00 despite mounting Middle East tensions",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-10100-despite-mounting-middle-east-tensions-202607220251",
+      "datum": "2026-07-22T02:51:40.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Secretary of War Hegseth needs more money for war",
-      "link": "https://investinglive.com/news/secretary-of-war-hegseth-needs-more-money-for-war/",
-      "datum": "2026-07-21T19:54:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Support cluster near 1,464/1,461 – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-support-cluster-near-1-464-1-461-societe-generale-202607211939",
-      "datum": "2026-07-21T19:39:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG to break resistance trendline, eyes on $60",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-to-break-resistance-trendline-eyes-on-60-202607211918",
-      "datum": "2026-07-21T19:18:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada's Loonie meets another 50% tariff",
-      "link": "https://www.fxstreet.com/news/canadas-loonie-meets-another-50-tariff-202607211905",
-      "datum": "2026-07-21T19:05:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: AI exports support SGD against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-ai-exports-support-sgd-against-us-dollar-commerzbank-202607211854",
-      "datum": "2026-07-21T18:54:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold price rallies amid Gulf war strikes, strong US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-price-rallies-amid-gulf-war-strikes-strong-us-dollar-202607211848",
-      "datum": "2026-07-21T18:48:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index hits one-week high as US-Iran tensions intensify",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hits-one-week-high-as-us-iran-tensions-intensify-202607211825",
-      "datum": "2026-07-21T18:25:57.000Z"
+      "titel": "Japan trade data shows exports in June higher than expected",
+      "link": "https://investinglive.com/news/japan-trade-data-shows-exports-in-june-higher-than-expected/",
+      "datum": "2026-07-22T02:50:36.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Tension in the middle east intensifies",
-      "link": "https://investinglive.com/news/tension-in-the-middle-east-intensifies/",
-      "datum": "2026-07-21T18:21:36.000Z"
+      "titel": "Japan's oil-driven import surge widens trade gap, complicates BOJ hold",
+      "link": "https://investinglive.com/news/japan-s-oil-driven-import-surge-widens-trade-gap-complicates-boj-hold/",
+      "datum": "2026-07-22T02:49:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: Tentative stabilisation with key levels against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-tentative-stabilisation-with-key-levels-against-us-dollar-ocbc-202607211817",
-      "datum": "2026-07-21T18:17:00.000Z"
+      "titel": "US President Donald Trump approves US-Saudi Arabia nuclear deal",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-approves-us-saudi-arabia-nuclear-deal-202607220229",
+      "datum": "2026-07-22T02:29:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Yemen’s Houthis threaten Bab el-Mandeb closure, putting another trade chokepoint at risk",
+      "link": "https://www.fxstreet.com/news/yemens-houthis-threaten-bab-el-mandeb-closure-putting-another-trade-chokepoint-at-risk-202607220219",
+      "datum": "2026-07-22T02:19:15.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Trump meets with Lebanese President Joseph Aoun in the White House",
-      "link": "https://investinglive.com/news/trump-meets-with-lebanese-president-joseph-aoun-in-the-white-house/",
-      "datum": "2026-07-21T15:43:41.000Z"
+      "titel": "Trump approves 30-year US-Saudi nuclear deal with enrichment option",
+      "link": "https://investinglive.com/news/trump-approves-30-year-us-saudi-nuclear-deal-with-enrichment-option/",
+      "datum": "2026-07-22T02:04:18.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Canada Carney: Latest tariff threat are a violation of USMCA",
-      "link": "https://investinglive.com/news/canada-carney-latest-tariff-threat-are-a-violation-of-usmca/",
-      "datum": "2026-07-21T15:20:41.000Z"
+      "titel": "Trump sets 2-year tariff exemption for generic drugs, then steep rises",
+      "link": "https://investinglive.com/news/trump-sets-2-year-tariff-exemption-for-generic-drugs-then-steep-rises/",
+      "datum": "2026-07-21T23:14:12.000Z"
     }
   ]
 }

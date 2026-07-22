@@ -5560,6 +5560,26 @@
       "vorher": "-4.9%",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-21T23:03:00-04:00|NZD|Credit Card Spending y/y": {
+      "datum": "2026-07-21T23:03:00-04:00",
+      "land": "NZD",
+      "titel": "Credit Card Spending y/y",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "5.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-22T15:00:00-04:00|USD|President Trump Speaks": {
+      "datum": "2026-07-22T15:00:00-04:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

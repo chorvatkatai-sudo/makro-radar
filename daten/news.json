@@ -1,11 +1,53 @@
 {
-  "stand": "2026-07-22T05:05:34.398Z",
+  "stand": "2026-07-22T06:24:11.056Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "UK inflation eases slightly in June but core prices keep steady",
+      "link": "https://investinglive.com/news/uk-june-cpi-2-6-vs-2-7-y-y-expected/",
+      "datum": "2026-07-22T06:11:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: United Kingdom CPI inflation declines to 2.6% YoY in June vs. 2.7% forecast",
+      "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-receding-inflation-in-june-as-gbp-usd-fails-at-may-highs-202607220200",
+      "datum": "2026-07-22T06:05:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "FX option expiries for 22 July 10am New York cut",
+      "link": "https://investinglive.com/news/fx-option-expiries-for-22-july-10am-new-york-cut/",
+      "datum": "2026-07-22T05:51:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee resumes decline as oil prices rise further",
+      "link": "https://www.fxstreet.com/news/indian-rupee-resumes-decline-as-oil-prices-rise-further-202607220544",
+      "datum": "2026-07-22T05:44:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah inches lower ahead of BI policy decision",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-inches-lower-ahead-of-bi-policy-decision-202607220526",
+      "datum": "2026-07-22T05:26:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc weakens as risk aversion support US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-risk-aversion-support-us-dollar-202607220501",
+      "datum": "2026-07-22T05:01:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold sticks to gains near two-week high as hopes for US-Iran diplomacy cap USD",
+      "link": "https://www.fxstreet.com/news/gold-rallies-to-over-two-week-high-eyes-4-150-as-traders-track-us-iran-diplomacy-efforts-202607220340",
+      "datum": "2026-07-22T05:00:31.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "AUD/USD Price Forecast: Consolidates near 0.7000 as bulls await 38.2% Fibo. breakout",
@@ -32,12 +74,6 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "UK CPI set to show inflation slowed in June, bolstering case for BoE rate hold",
-      "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-receding-inflation-in-june-as-gbp-usd-fails-at-may-highs-202607220200",
-      "datum": "2026-07-22T04:30:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
       "titel": "British Pound bounces off one-week low vs USD amid Iran diplomacy hopes, ahead of UK CPI",
       "link": "https://www.fxstreet.com/news/british-pound-bounces-off-one-week-low-vs-usd-amid-iran-diplomacy-hopes-ahead-of-uk-cpi-202607220415",
       "datum": "2026-07-22T04:15:09.000Z"
@@ -47,12 +83,6 @@
       "titel": "investingLive Asia-Pacific market moving news: Gold stuns with a surge of buying",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-gold-stuns-with-a-surge-of-buying/",
       "datum": "2026-07-22T03:43:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold rallies to over two-week high, eyes $4,150 as traders track US-Iran diplomacy efforts",
-      "link": "https://www.fxstreet.com/news/gold-rallies-to-over-two-week-high-eyes-4-150-as-traders-track-us-iran-diplomacy-efforts-202607220340",
-      "datum": "2026-07-22T03:40:23.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -73,12 +103,6 @@
       "datum": "2026-07-22T03:07:24.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index weakens to near 101.00 despite mounting Middle East tensions",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-10100-despite-mounting-middle-east-tensions-202607220251",
-      "datum": "2026-07-22T02:51:40.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Japan trade data shows exports in June higher than expected",
       "link": "https://investinglive.com/news/japan-trade-data-shows-exports-in-june-higher-than-expected/",
@@ -89,30 +113,6 @@
       "titel": "Japan's oil-driven import surge widens trade gap, complicates BOJ hold",
       "link": "https://investinglive.com/news/japan-s-oil-driven-import-surge-widens-trade-gap-complicates-boj-hold/",
       "datum": "2026-07-22T02:49:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US President Donald Trump approves US-Saudi Arabia nuclear deal",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-approves-us-saudi-arabia-nuclear-deal-202607220229",
-      "datum": "2026-07-22T02:29:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Yemen’s Houthis threaten Bab el-Mandeb closure, putting another trade chokepoint at risk",
-      "link": "https://www.fxstreet.com/news/yemens-houthis-threaten-bab-el-mandeb-closure-putting-another-trade-chokepoint-at-risk-202607220219",
-      "datum": "2026-07-22T02:19:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump approves 30-year US-Saudi nuclear deal with enrichment option",
-      "link": "https://investinglive.com/news/trump-approves-30-year-us-saudi-nuclear-deal-with-enrichment-option/",
-      "datum": "2026-07-22T02:04:18.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump sets 2-year tariff exemption for generic drugs, then steep rises",
-      "link": "https://investinglive.com/news/trump-sets-2-year-tariff-exemption-for-generic-drugs-then-steep-rises/",
-      "datum": "2026-07-21T23:14:12.000Z"
     }
   ]
 }

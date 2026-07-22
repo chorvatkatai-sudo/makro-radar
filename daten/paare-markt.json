@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-22T05:05:34.399Z",
+  "stand": "2026-07-22T06:24:11.068Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -2,
       "tiltCot": -6,
-      "tiltZins": 2,
-      "tiltGesamt": -4,
-      "score": -6,
+      "tiltZins": 1,
+      "tiltGesamt": -5,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Zwar hilft der weichere Dollar + die hohe Aussie-Rendite (2J 4,52%), aber das wiederkehrende Risk-off (VIX rauf) und die matte China-Nachfrage nehmen der Rohstoff-Währung den Rückenwind. Fast neutral."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": 5,
       "tiltCot": 10,
-      "tiltZins": 0,
-      "tiltGesamt": 10,
-      "score": 15,
+      "tiltZins": -1,
+      "tiltGesamt": 9,
+      "score": 14,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber getrimmt: Die zinslose SNB (0%) nimmt dem Franken Zins-Rückenwind — ABER das wiederkehrende Risk-off (VIX 18) bringt dem sicheren Hafen wieder etwas Nachfrage, und der weichere Dollar deckelt den Anstieg. Nur moderat positiv."
     },

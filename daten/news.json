@@ -1,11 +1,47 @@
 {
-  "stand": "2026-07-22T15:26:42.635Z",
+  "stand": "2026-07-22T17:08:33.096Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury auctions off 13 billion of 20 year bonds at a high yield of 5.163%",
+      "link": "https://investinglive.com/news/us-treasury-auctions-off-13-billion-of-20-year-bonds-at-a-high-yield-of-5-163/",
+      "datum": "2026-07-22T17:06:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Treasury targets Wall Street tax loopholes as IRS ramps up enforcement",
+      "link": "https://investinglive.com/news/treasury-targets-wall-street-tax-loopholes-as-irs-ramps-up-enforcement/",
+      "datum": "2026-07-22T16:52:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "One bridge per tanker: The Dow Jones Industrial Average rallies as escalation gets a price list",
+      "link": "https://www.fxstreet.com/news/one-bridge-per-tanker-the-dow-jones-industrial-average-rallies-as-escalation-gets-a-price-list-202607221642",
+      "datum": "2026-07-22T16:42:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound steadies as cooler UK CPI meets Oil shock",
+      "link": "https://www.fxstreet.com/news/british-pound-steadies-as-cooler-uk-cpi-meets-oil-shock-202607221604",
+      "datum": "2026-07-22T16:04:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar finds support from rising Oil prices, softer Greenback",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-rising-oil-prices-softer-greenback-202607221540",
+      "datum": "2026-07-22T15:40:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar weakens as risk aversion overshadows hawkish RBNZ outlook",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-risk-aversion-overshadows-hawkish-rbnz-outlook-202607221531",
+      "datum": "2026-07-22T15:31:31.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "China: Fiscal execution to support growth – Standard Chartered",
@@ -73,46 +109,10 @@
       "datum": "2026-07-22T13:21:16.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ hints at faster hikes – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hints-at-faster-hikes-bny-202607221318",
-      "datum": "2026-07-22T13:18:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Trump: 'US will bomb and destroy' Iranian bridges or power plants",
-      "link": "https://www.fxstreet.com/news/trump-us-will-bomb-and-destroy-iranian-bridges-or-power-plants-202607221318",
-      "datum": "2026-07-22T13:18:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Middle East tensions lift Oil as bulls test 100-day SMA",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-middle-east-tensions-lift-oil-as-bulls-test-the-100-day-sma-202607221259",
-      "datum": "2026-07-22T12:59:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Core CPI resilience complicates BoE path – Nomura",
-      "link": "https://www.fxstreet.com/news/united-kingdom-core-cpi-resilience-complicates-boe-path-nomura-202607221256",
-      "datum": "2026-07-22T12:56:23.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Oil prices ramp higher as Middle East conflict expands to the Red Sea",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-ramp-higher-as-middle-east-conflict-expands-to-the-red-sea/",
       "datum": "2026-07-22T12:04:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold hits two-week high as traders weigh Middle East risks, Fed outlook",
-      "link": "https://www.fxstreet.com/news/gold-hits-two-week-high-as-traders-weigh-middle-east-risks-fed-outlook-202607221146",
-      "datum": "2026-07-22T11:46:32.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Red Sea shipping disruption now in focus as vessels are forced to change course",
-      "link": "https://investinglive.com/news/red-sea-shipping-disruption-now-in-focus-as-vessels-are-changing-course/",
-      "datum": "2026-07-22T11:01:57.000Z"
     }
   ]
 }

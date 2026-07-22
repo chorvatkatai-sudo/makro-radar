@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-21T21:58:17.647Z",
+ "erstellt": "2026-07-22T05:04:43.496Z",
  "wochenStart": "2026-07-19",
  "events": [
   {
@@ -2462,8 +2462,8 @@ window.MAKRO_DATA = {
   "waehrungen": {
    "USD": {
     "stimmung": "neutral",
-    "score": 5,
-    "grund": "Boden statt Bruch: Die doppelt kühle Inflation (CPI Kern 0,0% m/m / 2,6% y/y, PPI −0,3%) ist eigentlich taubenhaft und ließ die US-2J-Rendite fallen (−0,09 Pp) — der Zinsvorsprung schrumpft. ABER Warsh bleibt falkenhaft, das teure Öl (WTI ~80$) schürt neue Inflationssorge und das wiederkehrende Risk-off (VIX 18) gibt dem Dollar einen Sicherheits-Bid. Netto: der Riss wächst, bricht aber nicht → neutral."
+    "score": 6,
+    "grund": "Boden gefestigt: Der Dollar-Index kletterte diese Woche wieder über 101 (+0,7 %). Stützen: steigende US-Renditen (10J 4,63 %, +0,08 Pp), teures Öl als neue Inflations-Sorge und leichtes Risk-off (VIX ~17) = Sicherheits-Bid. Gegenpol: die doppelt kühle US-Inflation der Vorwoche und ein nur mager steigender US-Zinsvorsprung (2J +0,05 Pp, weniger als EUR/GBP). Der „Riss\" der Vorwoche ist verklebt → neutral, leicht fester."
    },
    "EUR": {
     "stimmung": "bärisch",
@@ -2472,8 +2472,8 @@ window.MAKRO_DATA = {
    },
    "GBP": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Auf der Kippe, leicht positiv: Die britische 2J-Rendite (4,33%) liegt über der US-Rendite und stieg diese Woche (+0,09 Pp), UK-BIP kam einen Tick besser (+0,1%), und die Großspekulanten sind beim Pfund EXTREM short (COT-z −1,84 = Squeeze-Risiko nach oben). Gegenpol: Nächste Woche der Doppel-Test UK-Arbeitsmarkt (Di) + UK-Inflation (Mi) — bis dahin heben sich die Kräfte fast auf."
+    "score": -2,
+    "grund": "Von leicht positiv auf leicht negativ gedreht: Die heute erwartete WEICHERE UK-Inflation (~2,6–2,7 %, Dienstleistungen ~3,6 %) + das gestern moderatere Lohnwachstum (+3,4 %) nehmen der BoE die Erhöhungs-Fantasie → Gegenwind fürs Pfund. Gegenpol: Die britische 2J-Rendite (4,40 %) stieg diese Woche am stärksten (+0,16 Pp) und die Großspekulanten sind EXTREM short (COT-z −1,48 = Squeeze-Risiko nach oben) — das begrenzt jeden Rückgang. Netto nur leicht negativ, Track-Record mahnt zur Vorsicht."
    },
    "JPY": {
     "stimmung": "bärisch",
@@ -2487,8 +2487,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "bullisch",
-    "score": 5,
-    "grund": "Weiter relativer Gewinner, aber getrimmt: Das teure Öl (WTI ~83$, Brent ~89$) stützt Kanadas Top-Export und bleibt die stärkste Stütze, dazu solide Jobs (+18k) und EXTREME Loonie-Shorts der Großspekulanten (−48% = Short-Squeeze-Potenzial nach oben). ABER: Die Kanada-Inflation kam gestern KÜHLER als erwartet (2,8% statt 2,9%, ein Kern-Maß erstmals seit ~6 Jahren unter 2%) — das nimmt der BoC die Erhöhungs-Fantasie. Deshalb von +8 auf +5 zurückgestuft, aber wegen Öl weiter bullisch."
+    "score": 6,
+    "grund": "Relativer Gewinner, Öl treibt: Das Öl legte weiter zu (WTI ~84,5 $, Brent ~91 $, +6 % Wo) und stützt Kanadas Top-Export kräftig. Dazu EXTREME Loonie-Shorts der Großspekulanten (−48 %, COT-z −1,86 = Short-Squeeze-Potenzial nach oben) und solide Jobs. Gegenpol: die gestern-vorgestern kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Dringlichkeit. Netto bullisch, das teure Öl überwiegt."
    },
    "AUD": {
     "stimmung": "neutral",
@@ -2509,8 +2509,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "GBP/USD",
-    "score": -2,
-    "treiber": "Fast neutral: Weicherer Dollar + EXTREME Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,33% > US) begrenzen jeden Rückgang stark. Der Doppel-Test UK-Jobs (Di) + UK-CPI (Mi) hängt drüber → nur leicht negativ."
+    "score": -4,
+    "treiber": "Leicht abwärts: Die heute erwartete weichere UK-Inflation (~2,6–2,7 %) + das moderatere Lohnwachstum nehmen der BoE die Erhöhungs-Fantasie → Pfund-Gegenwind. Der festere Dollar (Index >101) verstärkt das. ABER: extreme Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,40 % > US) begrenzen den Rückgang stark. Track-Record schwach → maßvoll."
    },
    {
     "paar": "USD/JPY",
@@ -2524,8 +2524,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": -3,
-    "treiber": "Weiter abwärts (Loonie stärker), aber deutlich gedämpft: Teures Öl (WTI ~83$) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD. ABER die gestern KÜHLER als erwartete Kanada-Inflation (2,8% statt 2,9%, Kern unter 2%) nimmt der BoC die Erhöhungs-Fantasie → nur noch leicht negativ."
+    "score": -4,
+    "treiber": "Weiter abwärts (Loonie stärker): Das noch teurere Öl (WTI ~84,5 $, +6 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD stärker als der diese Woche festere Dollar. Gegenpol: die kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Fantasie. Netto moderat negativ."
    },
    {
     "paar": "USD/CHF",
@@ -2640,21 +2640,21 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Die COT-Daten zeigen drei Short-Extreme — NZD (z −2,53, −57% short!), GBP (z −1,84) und CAD (z −1,83). Bei NZD und GBP habe ich deshalb bewusst NAHE NULL gescort (Squeeze-Risiko nach oben deckelt die Bearishness). Bei CAD wirkt der extreme Short dagegen ALS ZÜNDER in Richtung meiner Bull-These: Steigt das Öl, kann die Short-Eindeckung den Loonie zusätzlich treiben."
   ],
   "tagesnews": {
-   "stand": "2026-07-21",
-   "wochentag": "Dienstag",
-   "tenor": "Zwei-Gesichter-Tag bei der Inflation: Neuseelands Teuerung sprang HEISS über das Notenbank-Ziel (Kiwi-positiv), Kanadas kühlte KÜHL ab (leicht Loonie-dämpfend). Heute Blick auf den UK-Arbeitsmarkt — die Vorprobe vor der UK-Inflation morgen und der EZB am Donnerstag.",
+   "stand": "2026-07-22",
+   "wochentag": "Mittwoch",
+   "tenor": "UK-Inflations-Tag: Die britische Teuerung dürfte heute früh weiter abkühlen (~2,6–2,7 %) — das nimmt der Bank of England die Erhöhungs-Fantasie und dämpft den Pfund-Schwung, auch wenn extreme Pfund-Shorts den Rückgang bremsen. Alles schielt schon auf die EZB morgen. Der Dollar hat sich diese Woche leicht gefestigt (Index über 101), gestützt von teurem Öl und steigenden US-Renditen.",
    "heute": [
-    "🇬🇧 Heute kommt der britische Arbeitsmarkt-Bericht (Arbeitslosen-Anträge + Löhne). Das ist die Vorprobe vor der wichtigen UK-Inflation MORGEN. Wichtig: Die Großspekulanten sind beim Pfund EXTREM short — gute UK-Zahlen könnten diese Woche eine Short-Eindeckung (Squeeze) auslösen und das Pfund kräftig nach oben schieben. Bis dahin bleibt GBP auf der Kippe.",
-    "🇩🇪 In Deutschland die ZEW-Umfrage (wie schätzen Finanzprofis die Wirtschaft ein?) — erwartet wird eine leichte Aufhellung. Nur ein Stimmungsbild, kein harter Wert; wenig Marktbewegung.",
-    "🛢️ Öl bleibt teuer (WTI ~83$, Brent ~89$, +4–5% auf der Woche) wegen der Nahost-Spannungen — Rückenwind für den Kanada-Dollar, Gegenwind für Öl-Importeure wie Eurozone und Japan. Das Angst-Barometer VIX steht bei ~18,5 (leichtes Risk-off).",
-    "🇯🇵 Der Yen bleibt am Boden: USD/JPY klebt bei ~162, so schwach wie seit rund 40 Jahren nicht (Zins-Nachteil + teures Öl drücken, Interventionsrisiko bleibt heiß)."
+    "🇬🇧 HEUTE früh (8:00 Wien) die britische Inflation (Juni) — DAS Event des Tages. Erwartet: ~2,6–2,7 % zum Vorjahr (nach 2,8 %), Dienstleistungspreise ~3,6 % (nach 3,7 %). Kinderleicht: Die Preise steigen langsamer → die Notenbank muss die Zinsen weniger dringend anheben → das nimmt dem Pfund etwas Rückenwind. ABER: Die Großspekulanten sind beim Pfund EXTREM short (Wette auf fallendes Pfund) — schon eine kleine Enttäuschung nach oben könnte eine Short-Eindeckung (Squeeze) auslösen. Deshalb bleibt GBP auf der Kippe, leicht negativ.",
+    "🇪🇺 Alles blickt schon auf MORGEN: die EZB-Zinsentscheidung (Do, 14:15 Wien). Erwartet wird ein Halten bei 2,40 %; Lagardes Ton (eher zurückhaltend?) entscheidet über den Euro. Heute deshalb Ruhe-vor-dem-Sturm beim EUR.",
+    "🛢️ Öl bleibt teuer und legt sogar zu: WTI ~84,5 $, Brent ~91 $ (+6 % auf der Woche, Nahost-Spannungen). Rückenwind für den Kanada-Dollar (Top-Export), Gegenwind für Öl-Importeure wie Eurozone und Japan. Das Angst-Barometer VIX steht bei ~17 (leichtes Risk-off).",
+    "🇺🇸 Der Dollar hat sich gefestigt: Der Dollar-Index steht wieder über 101 (+0,7 % auf der Woche), gestützt von steigenden US-Renditen (10-Jahre 4,63 %) und teurem Öl (Inflations-Sorge). Der „Riss\" der Vorwoche ist verklebt — der Dollar steht, ohne zu glänzen."
    ],
    "gestern": [
-    "🇳🇿 Neuseeland-Inflation (2. Quartal) kam HEISS: +4,1% zum Vorjahr (erwartet 4,0%, vorher 3,1%) — der höchste Stand seit Ende 2023 und DEUTLICH über dem Notenbank-Ziel (1–3%). Treiber: Benzin (+27,5%) und Strom. Das macht der RBNZ Zins-Senkungen schwerer → tendenziell Kiwi-positiv (deshalb hebe ich NZD leicht an — trotz noch schwachem Track-Record).",
-    "🇨🇦 Kanada-Inflation (Juni) kam KÜHL: nur +2,8% zum Vorjahr (erwartet 2,9%, vorher 3,2%), zum Vormonat sogar −0,4% (stärkster Rückgang seit Dez 2024). Ein Kern-Maß fiel erstmals seit fast 6 Jahren unter 2%. Das nimmt der Notenbank (BoC) Erhöhungs-Dringlichkeit → leicht dämpfend für den Loonie. ABER: Das teure Öl bleibt die stärkere Stütze, deshalb trimme ich CAD nur etwas.",
-    "🇨🇳 China ließ seinen Leitzins (LPR) wie erwartet unverändert bei 3,0% — Peking steuert (noch) nicht kräftig gegen. Neutral für Aussie und Kiwi.",
-    "🇺🇸 Woche zuvor: Die US-Inflation kam DOPPELT kühl (Kern +0,0% zum Monat / 2,6% zum Jahr, Erzeugerpreise −0,3%). Trotzdem blieb der Dollar flach (~100,9) — Fed-Chef Warsh redet hart, Öl teuer, Nervosität hilft dem Dollar. 'Angeknackst, nicht gebrochen.' Neu: Das Zins-Momentum dreht erstmals GEGEN den Dollar (US-2-Jahres-Rendite fällt, Euro-/Pfund-Renditen steigen).",
-    "🗓️ Rest der Woche: Mi 🇬🇧 UK-Inflation (8:00 Wien; Pfund-Shorts extrem → Squeeze-Gefahr), Do 🇪🇺 EZB-Entscheid (14:15 Wien, Halten bei 2,40% erwartet — Lagardes Ton entscheidet; Markt preist sogar spätere ERHÖHUNGEN) + 🇦🇺 Australien-Jobs + 🇯🇵 Japan-Inflation, Fr Stimmungs-Umfragen (Flash-PMIs)."
+    "🇬🇧 Gestern der britische Arbeitsmarkt: Arbeitslosenquote stabil bei 4,9 %, das Lohnwachstum kühlt weiter ab (ohne Boni +3,4 %, niedrigster Stand seit Okt 2020), die Beschäftigtenzahl fiel im Juni nur noch minimal (−4 000 = Stabilisierung). Kinderleicht: Der Jobmarkt bremst sanft, die Löhne treiben die Inflation weniger — das stützt heute die Erwartung einer kühleren UK-Teuerung und einer geduldigen BoE.",
+    "🇩🇪 Deutschland: Die ZEW-Umfrage (Stimmung der Finanzprofis) — nur ein Stimmungsbild, kein harter Wert, wenig Marktbewegung.",
+    "🇳🇿 Vorgestern (Mo): Neuseeland-Inflation sprang HEISS auf +4,1 % (höchster Stand seit Ende 2023, klar über dem Notenbank-Ziel 1–3 %) — macht Zins-Senkungen schwerer, Kiwi-positiv.",
+    "🇨🇦 Vorgestern (Mo): Kanada-Inflation kam KÜHL bei +2,8 % (erwartet 2,9 %), zum Vormonat −0,4 %, ein Kern-Maß erstmals seit ~6 Jahren unter 2 %. Nimmt der BoC Erhöhungs-Druck — aber das teure Öl bleibt die stärkere Loonie-Stütze.",
+    "🗓️ Rest der Woche: MORGEN 🇪🇺 EZB (Do) + 🇦🇺 Australien-Jobs + 🇯🇵 Japan-Inflation; Fr Stimmungs-Umfragen (Flash-PMIs EU/UK/US/JP/AU) + UK-Einzelhandel."
    ]
   }
  },
@@ -3672,13 +3672,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "GBP/USD",
-   "baseScore": -2,
+   "baseScore": -4,
    "tiltCot": -10,
    "tiltZins": 4,
    "tiltGesamt": -6,
-   "score": -8,
+   "score": -10,
    "cotExtrem": null,
-   "treiber": "Fast neutral: Weicherer Dollar + EXTREME Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,33% > US) begrenzen jeden Rückgang stark. Der Doppel-Test UK-Jobs (Di) + UK-CPI (Mi) hängt drüber → nur leicht negativ."
+   "treiber": "Leicht abwärts: Die heute erwartete weichere UK-Inflation (~2,6–2,7 %) + das moderatere Lohnwachstum nehmen der BoE die Erhöhungs-Fantasie → Pfund-Gegenwind. Der festere Dollar (Index >101) verstärkt das. ABER: extreme Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,40 % > US) begrenzen den Rückgang stark. Track-Record schwach → maßvoll."
   },
   {
    "paar": "USD/JPY",
@@ -3702,13 +3702,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -3,
+   "baseScore": -4,
    "tiltCot": 10,
    "tiltZins": 2,
    "tiltGesamt": 12,
-   "score": 9,
+   "score": 8,
    "cotExtrem": "erhoeht",
-   "treiber": "Weiter abwärts (Loonie stärker), aber deutlich gedämpft: Teures Öl (WTI ~83$) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD. ABER die gestern KÜHLER als erwartete Kanada-Inflation (2,8% statt 2,9%, Kern unter 2%) nimmt der BoC die Erhöhungs-Fantasie → nur noch leicht negativ."
+   "treiber": "Weiter abwärts (Loonie stärker): Das noch teurere Öl (WTI ~84,5 $, +6 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD stärker als der diese Woche festere Dollar. Gegenpol: die kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Fantasie. Netto moderat negativ."
   },
   {
    "paar": "USD/CHF",

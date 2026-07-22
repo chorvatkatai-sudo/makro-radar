@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-22T06:24:11.111Z",
+ "erstellt": "2026-07-22T11:00:44.820Z",
  "wochenStart": "2026-07-19",
  "events": [
   {
@@ -282,15 +282,6 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
-   "title": "Foreign Direct Investment ytd/y",
-   "country": "CNY",
-   "date": "2026-07-22T02:02:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-8.6%",
-   "actual": null
-  },
-  {
    "title": "HPI y/y",
    "country": "GBP",
    "date": "2026-07-22T04:30:00-04:00",
@@ -333,6 +324,15 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.4%",
    "previous": "4.4%",
+   "actual": null
+  },
+  {
+   "title": "Foreign Direct Investment ytd/y",
+   "country": "CNY",
+   "date": "2026-07-23T02:02:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-8.6%",
    "actual": null
   },
   {
@@ -649,7 +649,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Leading Economic Index Final",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "116.8",
    "previous": "116.1",
    "actual": null,
    "quelle": "tradingview"
@@ -2000,7 +2000,7 @@ window.MAKRO_DATA = {
    "title": "Tokyo CPI Ex Food and Energy YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "1.9",
+   "previous": "1.9%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2010,7 +2010,7 @@ window.MAKRO_DATA = {
    "title": "Tokyo Core CPI YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "1.6",
+   "previous": "1.6%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2040,7 +2040,7 @@ window.MAKRO_DATA = {
    "title": "Tokyo CPI YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "1.7",
+   "previous": "1.7%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2050,7 +2050,7 @@ window.MAKRO_DATA = {
    "title": "Retail Sales MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "1.9",
+   "previous": "1.9%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2329,8 +2329,8 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "title": "GDP MoM",
    "impact": "Medium",
-   "forecast": "",
-   "previous": "0.5",
+   "forecast": "0.1%",
+   "previous": "0.5%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3132,15 +3132,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-22T06:24:10.445Z",
+  "stand": "2026-07-22T11:00:34.132Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.1,
+    "wert": 101.15,
     "tagProzent": 0,
-    "wocheProzent": 0.37,
+    "wocheProzent": 0.42,
     "renditeDelta": false,
     "verlauf": [
      101.41,
@@ -3163,20 +3163,19 @@ window.MAKRO_DATA = {
      100.75,
      100.99,
      101.18,
-     101.1,
-     101.1
+     101.15,
+     101.15
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 17.05,
+    "wert": 17.45,
     "tagProzent": 0,
-    "wocheProzent": 8.81,
+    "wocheProzent": 4.3,
     "renditeDelta": false,
     "verlauf": [
-     17.28,
      19.49,
      18.63,
      18.89,
@@ -3197,16 +3196,17 @@ window.MAKRO_DATA = {
      18.77,
      18.65,
      17.05,
-     17.05
+     17.45,
+     17.45
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.26,
+    "wert": 87.14,
     "tagProzent": 0,
-    "wocheProzent": 7.99,
+    "wocheProzent": 10.37,
     "renditeDelta": false,
     "verlauf": [
      73.21,
@@ -3229,17 +3229,17 @@ window.MAKRO_DATA = {
      82.49,
      83.23,
      84.91,
-     85.26,
-     85.26
+     87.14,
+     87.14
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 92.19,
+    "wert": 84.46,
     "tagProzent": 0,
-    "wocheProzent": 9.45,
+    "wocheProzent": 0.27,
     "renditeDelta": false,
     "verlauf": [
      77.08,
@@ -3262,17 +3262,17 @@ window.MAKRO_DATA = {
      88.1,
      89.22,
      91.01,
-     92.19,
-     92.19
+     84.46,
+     84.46
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4134.5,
+    "wert": 4123.8,
     "tagProzent": 0,
-    "wocheProzent": 3.74,
+    "wocheProzent": 3.47,
     "renditeDelta": false,
     "verlauf": [
      4129.9,
@@ -3295,8 +3295,8 @@ window.MAKRO_DATA = {
      4012.7,
      4010.3,
      4071.1,
-     4134.5,
-     4134.5
+     4123.8,
+     4123.8
     ]
    },
    "US02Y": {
@@ -3402,9 +3402,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 65828.42,
+    "wert": 65986.56,
     "tagProzent": 0,
-    "wocheProzent": 1.59,
+    "wocheProzent": 1.84,
     "renditeDelta": false,
     "verlauf": [
      61485.3,
@@ -3427,8 +3427,8 @@ window.MAKRO_DATA = {
      64690.8,
      65230.03,
      66505.13,
-     65828.42,
-     65828.42
+     65986.56,
+     65986.56
     ]
    },
    "FEDFUT": {
@@ -3465,40 +3465,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.26,
-    "tagProzent": 0.01,
-    "wocheProzent": 0.01,
-    "renditeDelta": true,
-    "verlauf": [
-     2.25,
-     2.23,
-     2.21,
-     2.18,
-     2.21,
-     2.2,
-     2.22,
-     2.24,
-     2.23,
-     2.23,
-     2.24,
-     2.25,
-     2.25,
-     2.23,
-     2.24,
-     2.26,
-     2.25,
-     2.23,
-     2.22,
-     2.24,
-     2.25,
-     2.26
-    ],
-    "quelle": "FRED"
-   },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
@@ -3530,6 +3496,40 @@ window.MAKRO_DATA = {
      2.35,
      2.31,
      2.35
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.26,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.01,
+    "renditeDelta": true,
+    "verlauf": [
+     2.25,
+     2.23,
+     2.21,
+     2.18,
+     2.21,
+     2.2,
+     2.22,
+     2.24,
+     2.23,
+     2.23,
+     2.24,
+     2.25,
+     2.25,
+     2.23,
+     2.24,
+     2.26,
+     2.25,
+     2.23,
+     2.22,
+     2.24,
+     2.25,
+     2.26
     ],
     "quelle": "FRED"
    }
@@ -3628,32 +3628,32 @@ window.MAKRO_DATA = {
    "stand": "2026-07-22",
    "werte": {
     "USD": {
-     "wert": 4.26,
-     "wocheDelta": 0.048
+     "wert": 4.262,
+     "wocheDelta": 0.05
     },
     "EUR": {
-     "wert": 2.809,
-     "wocheDelta": 0.15
+     "wert": 2.821,
+     "wocheDelta": 0.162
     },
     "GBP": {
-     "wert": 4.398,
-     "wocheDelta": 0.161
+     "wert": 4.418,
+     "wocheDelta": 0.181
     },
     "JPY": {
-     "wert": 1.447,
-     "wocheDelta": 0.021
+     "wert": 1.441,
+     "wocheDelta": 0.015
     },
     "AUD": {
-     "wert": 4.575,
-     "wocheDelta": 0.078
+     "wert": 4.582,
+     "wocheDelta": 0.085
     },
     "CAD": {
-     "wert": 2.826,
-     "wocheDelta": 0.006
+     "wert": 2.835,
+     "wocheDelta": 0.015
     },
     "CHF": {
-     "wert": 0.168,
-     "wocheDelta": 0.085
+     "wert": 0.169,
+     "wocheDelta": 0.086
     },
     "NZD": {
      "wert": 3.658,
@@ -3673,77 +3673,77 @@ window.MAKRO_DATA = {
   {
    "paar": "EUR/USD",
    "baseScore": -5,
-   "tiltCot": -1,
+   "tiltCot": 0,
    "tiltZins": 4,
-   "tiltGesamt": 3,
-   "score": -2,
+   "tiltGesamt": 4,
+   "score": -1,
    "cotExtrem": null,
    "treiber": "Leicht abwärts: Der weichere Dollar + die diese Woche steigende Euro-Rendite stützen den Euro, ABER das teure Öl (Euro-Importeur) und eine drohend-dovishe EZB (Do) überwiegen knapp. Netto mild negativ."
   },
   {
    "paar": "GBP/USD",
    "baseScore": -4,
-   "tiltCot": -10,
+   "tiltCot": -5,
    "tiltZins": 5,
-   "tiltGesamt": -5,
-   "score": -9,
+   "tiltGesamt": 0,
+   "score": -4,
    "cotExtrem": null,
    "treiber": "Leicht abwärts: Die heute erwartete weichere UK-Inflation (~2,6–2,7 %) + das moderatere Lohnwachstum nehmen der BoE die Erhöhungs-Fantasie → Pfund-Gegenwind. Der festere Dollar (Index >101) verstärkt das. ABER: extreme Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,40 % > US) begrenzen den Rückgang stark. Track-Record schwach → maßvoll."
   },
   {
    "paar": "USD/JPY",
    "baseScore": 3,
-   "tiltCot": 10,
-   "tiltZins": 0,
-   "tiltGesamt": 10,
-   "score": 13,
+   "tiltCot": 5,
+   "tiltZins": 1,
+   "tiltGesamt": 6,
+   "score": 9,
    "cotExtrem": null,
    "treiber": "Aufwärts, aber stark gebremst: Der Carry-Vorteil + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen die doppelt kühle US-Inflation, das wiederkehrende Risk-off (Yen-Bid) und akutes Interventions-Risiko. Track-Record 0/4 → bewusst nahe null."
   },
   {
    "paar": "AUD/USD",
    "baseScore": -2,
-   "tiltCot": -6,
+   "tiltCot": -3,
    "tiltZins": 1,
-   "tiltGesamt": -5,
-   "score": -7,
+   "tiltGesamt": -2,
+   "score": -4,
    "cotExtrem": null,
    "treiber": "Leicht abwärts: Zwar hilft der weichere Dollar + die hohe Aussie-Rendite (2J 4,52%), aber das wiederkehrende Risk-off (VIX rauf) und die matte China-Nachfrage nehmen der Rohstoff-Währung den Rückenwind. Fast neutral."
   },
   {
    "paar": "USD/CAD",
    "baseScore": -4,
-   "tiltCot": 10,
-   "tiltZins": 2,
-   "tiltGesamt": 12,
-   "score": 8,
+   "tiltCot": 5,
+   "tiltZins": 1,
+   "tiltGesamt": 6,
+   "score": 2,
    "cotExtrem": "erhoeht",
    "treiber": "Weiter abwärts (Loonie stärker): Das noch teurere Öl (WTI ~84,5 $, +6 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD stärker als der diese Woche festere Dollar. Gegenpol: die kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Fantasie. Netto moderat negativ."
   },
   {
    "paar": "USD/CHF",
    "baseScore": 5,
-   "tiltCot": 10,
+   "tiltCot": 5,
    "tiltZins": -1,
-   "tiltGesamt": 9,
-   "score": 14,
+   "tiltGesamt": 4,
+   "score": 9,
    "cotExtrem": null,
    "treiber": "Aufwärts, aber getrimmt: Die zinslose SNB (0%) nimmt dem Franken Zins-Rückenwind — ABER das wiederkehrende Risk-off (VIX 18) bringt dem sicheren Hafen wieder etwas Nachfrage, und der weichere Dollar deckelt den Anstieg. Nur moderat positiv."
   },
   {
    "paar": "NZD/USD",
    "baseScore": 2,
-   "tiltCot": -5,
+   "tiltCot": -2,
    "tiltZins": 3,
-   "tiltGesamt": -2,
-   "score": 0,
+   "tiltGesamt": 1,
+   "score": 3,
    "cotExtrem": "extrem",
    "treiber": "Ins Plus gedreht: Die gestern HEISSE NZ-Inflation (4,1%, über Ziel) erschwert RBNZ-Senkungen und ist Kiwi-positiv; dazu die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53 = großes Squeeze-Risiko nach oben) + weicher Dollar. Gegenpol schwache China-Nachfrage + Risk-off → nur leicht positiv, Track-Record 1/5 mahnt zur Vorsicht."
   }
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-22T06:24:11.056Z",
+  "stand": "2026-07-22T11:00:44.819Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3751,16 +3751,94 @@ window.MAKRO_DATA = {
   ],
   "eintraege": [
    {
-    "quelle": "ForexLive",
-    "titel": "UK inflation eases slightly in June but core prices keep steady",
-    "link": "https://investinglive.com/news/uk-june-cpi-2-6-vs-2-7-y-y-expected/",
-    "datum": "2026-07-22T06:11:48.000Z"
+    "quelle": "FXStreet",
+    "titel": "Euro holds near five-week highs against Yen despite BoJ tightening rumours",
+    "link": "https://www.fxstreet.com/news/euro-holds-near-five-week-highs-against-yen-despite-hawkish-boj-comments-202607221046",
+    "datum": "2026-07-22T10:46:41.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Breaking: United Kingdom CPI inflation declines to 2.6% YoY in June vs. 2.7% forecast",
-    "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-receding-inflation-in-june-as-gbp-usd-fails-at-may-highs-202607220200",
-    "datum": "2026-07-22T06:05:14.000Z"
+    "titel": "World Bank warns of risks of global slowdown, renewed inflation",
+    "link": "https://www.fxstreet.com/news/world-bank-warns-of-risks-of-global-slowdown-renewed-inflation-202607221024",
+    "datum": "2026-07-22T10:24:49.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "United States Sec. of State Rubio: Iran is in a lot of trouble",
+    "link": "https://www.fxstreet.com/news/united-states-sec-of-state-rubio-iran-is-in-a-lot-of-trouble-202607220957",
+    "datum": "2026-07-22T09:57:25.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar: Trade tariffs to reshape FX volatility – MUFG",
+    "link": "https://www.fxstreet.com/news/us-dollar-trade-tariffs-to-reshape-fx-volatility-mufg-202607220954",
+    "datum": "2026-07-22T09:54:32.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Iran is in a lot of trouble, says US secretary of state Rubio",
+    "link": "https://investinglive.com/news/iran-is-in-a-lot-of-trouble-says-us-secretary-of-state-rubio/",
+    "datum": "2026-07-22T09:45:03.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold Price Forecast: XAU/USD holds gains above $4,100 undaunted by risk-off markets",
+    "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-gains-above-4-100-undaunted-by-risk-off-markets-202607220937",
+    "datum": "2026-07-22T09:37:25.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen: Technical outlook weakens against US Dollar – Societe Generale",
+    "link": "https://www.fxstreet.com/news/japanese-yen-technical-outlook-weakens-against-us-dollar-societe-generale-202607220936",
+    "datum": "2026-07-22T09:36:38.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Swiss Franc edges higher as US-Iran tensions, higher Swiss yields sustain support",
+    "link": "https://www.fxstreet.com/news/swiss-franc-edges-higher-as-us-iran-tensions-higher-swiss-yields-sustain-support-202607220935",
+    "datum": "2026-07-22T09:35:31.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "UK inflation cools and fiscal concerns grow: Why the British Pound is surrendering recent gains",
+    "link": "https://www.fxstreet.com/news/uk-inflation-cools-and-fiscal-concerns-grow-why-the-british-pound-is-surrendering-recent-gains-202607220930",
+    "datum": "2026-07-22T09:30:52.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver price today: Silver rises, according to FXStreet data",
+    "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607220930",
+    "datum": "2026-07-22T09:30:30.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "New Zealand Dollar weakens as global risk aversion overshadows hawkish RBNZ outlook",
+    "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-global-risk-aversion-overshadows-hawkish-rbnz-outlook-202607220915",
+    "datum": "2026-07-22T09:15:35.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Hungarian Forint: Dovish tilt keeps easing alive – Commerzbank",
+    "link": "https://www.fxstreet.com/news/hungarian-forint-dovish-tilt-keeps-easing-alive-commerzbank-202607220915",
+    "datum": "2026-07-22T09:15:05.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Iran says it struck US military facilities in Jordan and Bahrain",
+    "link": "https://investinglive.com/news/iran-says-it-struck-us-military-facilities-in-jordan-and-bahrain/",
+    "datum": "2026-07-22T06:45:35.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "UK inflation eases slightly in June but core prices keep steady",
+    "link": "https://investinglive.com/news/uk-june-cpi-2-6-vs-2-7-y-y-expected/",
+    "datum": "2026-07-22T06:35:11.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "What are the main events for today?",
+    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-8/",
+    "datum": "2026-07-22T06:28:47.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3770,93 +3848,15 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Indian Rupee resumes decline as oil prices rise further",
+    "titel": "Indian Rupee falls back as oil prices rally further",
     "link": "https://www.fxstreet.com/news/indian-rupee-resumes-decline-as-oil-prices-rise-further-202607220544",
     "datum": "2026-07-22T05:44:15.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Indonesian Rupiah inches lower ahead of BI policy decision",
-    "link": "https://www.fxstreet.com/news/indonesian-rupiah-inches-lower-ahead-of-bi-policy-decision-202607220526",
-    "datum": "2026-07-22T05:26:51.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Swiss Franc weakens as risk aversion support US Dollar",
-    "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-risk-aversion-support-us-dollar-202607220501",
-    "datum": "2026-07-22T05:01:02.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold sticks to gains near two-week high as hopes for US-Iran diplomacy cap USD",
-    "link": "https://www.fxstreet.com/news/gold-rallies-to-over-two-week-high-eyes-4-150-as-traders-track-us-iran-diplomacy-efforts-202607220340",
-    "datum": "2026-07-22T05:00:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "AUD/USD Price Forecast: Consolidates near 0.7000 as bulls await 38.2% Fibo. breakout",
-    "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-consolidates-near-07000-as-bulls-await-382-fibo-breakout-202607220453",
-    "datum": "2026-07-22T04:53:46.000Z"
    },
    {
     "quelle": "ForexLive",
     "titel": "Heads up: UK CPI report for June coming up later",
     "link": "https://investinglive.com/news/heads-up-uk-cpi-report-for-june-coming-up-later/",
     "datum": "2026-07-22T04:49:51.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "WTI Price Forecast: Rises to near $85.00 on supply disruption, but remains capped below 100-day SMA",
-    "link": "https://www.fxstreet.com/news/wti-price-forecast-rises-to-near-8500-on-supply-disruption-but-remains-capped-below-100-day-sma-202607220448",
-    "datum": "2026-07-22T04:48:09.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "India Gold price today: Gold rises, according to FXStreet data",
-    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607220436",
-    "datum": "2026-07-22T04:36:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound bounces off one-week low vs USD amid Iran diplomacy hopes, ahead of UK CPI",
-    "link": "https://www.fxstreet.com/news/british-pound-bounces-off-one-week-low-vs-usd-amid-iran-diplomacy-hopes-ahead-of-uk-cpi-202607220415",
-    "datum": "2026-07-22T04:15:09.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Asia-Pacific market moving news: Gold stuns with a surge of buying",
-    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-gold-stuns-with-a-surge-of-buying/",
-    "datum": "2026-07-22T03:43:37.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/JPY Price Forecast: Tests ascending triangle top above 186.00",
-    "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-ascending-triangle-top-above-18600-202607220335",
-    "datum": "2026-07-22T03:35:46.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: XAG/USD rises to near $60.00 despite surging inflation fears",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6000-despite-surging-inflation-fears-202607220309",
-    "datum": "2026-07-22T03:09:37.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Secretary of State Rubio: Iranian control of Hormuz would have repercussions beyond Middle East",
-    "link": "https://www.fxstreet.com/news/us-secretary-of-state-rubio-iranian-control-of-hormuz-would-have-repercussions-beyond-middle-east-202607220307",
-    "datum": "2026-07-22T03:07:24.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Japan trade data shows exports in June higher than expected",
-    "link": "https://investinglive.com/news/japan-trade-data-shows-exports-in-june-higher-than-expected/",
-    "datum": "2026-07-22T02:50:36.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Japan's oil-driven import surge widens trade gap, complicates BOJ hold",
-    "link": "https://investinglive.com/news/japan-s-oil-driven-import-surge-widens-trade-gap-complicates-boj-hold/",
-    "datum": "2026-07-22T02:49:39.000Z"
    }
   ]
  },
@@ -4682,5 +4682,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 558
+ "anzahlGespeichert": 559
 };

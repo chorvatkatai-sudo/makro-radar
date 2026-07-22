@@ -14,7 +14,7 @@
     "country": "JPY",
     "title": "Leading Economic Index Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "116.8",
     "previous": "116.1",
     "actual": null,
     "quelle": "tradingview"
@@ -1365,7 +1365,7 @@
     "title": "Tokyo CPI Ex Food and Energy YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.9",
+    "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1375,7 +1375,7 @@
     "title": "Tokyo Core CPI YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.6",
+    "previous": "1.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1405,7 +1405,7 @@
     "title": "Tokyo CPI YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.7",
+    "previous": "1.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1415,7 +1415,7 @@
     "title": "Retail Sales MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.9",
+    "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1694,8 +1694,8 @@
     "country": "CAD",
     "title": "GDP MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.5",
+    "forecast": "0.1%",
+    "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
   },

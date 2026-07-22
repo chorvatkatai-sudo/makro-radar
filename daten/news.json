@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-22T06:24:11.056Z",
+  "stand": "2026-07-22T11:00:44.819Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,16 +7,94 @@
   ],
   "eintraege": [
     {
-      "quelle": "ForexLive",
-      "titel": "UK inflation eases slightly in June but core prices keep steady",
-      "link": "https://investinglive.com/news/uk-june-cpi-2-6-vs-2-7-y-y-expected/",
-      "datum": "2026-07-22T06:11:48.000Z"
+      "quelle": "FXStreet",
+      "titel": "Euro holds near five-week highs against Yen despite BoJ tightening rumours",
+      "link": "https://www.fxstreet.com/news/euro-holds-near-five-week-highs-against-yen-despite-hawkish-boj-comments-202607221046",
+      "datum": "2026-07-22T10:46:41.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Breaking: United Kingdom CPI inflation declines to 2.6% YoY in June vs. 2.7% forecast",
-      "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-receding-inflation-in-june-as-gbp-usd-fails-at-may-highs-202607220200",
-      "datum": "2026-07-22T06:05:14.000Z"
+      "titel": "World Bank warns of risks of global slowdown, renewed inflation",
+      "link": "https://www.fxstreet.com/news/world-bank-warns-of-risks-of-global-slowdown-renewed-inflation-202607221024",
+      "datum": "2026-07-22T10:24:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Sec. of State Rubio: Iran is in a lot of trouble",
+      "link": "https://www.fxstreet.com/news/united-states-sec-of-state-rubio-iran-is-in-a-lot-of-trouble-202607220957",
+      "datum": "2026-07-22T09:57:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Trade tariffs to reshape FX volatility – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-trade-tariffs-to-reshape-fx-volatility-mufg-202607220954",
+      "datum": "2026-07-22T09:54:32.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran is in a lot of trouble, says US secretary of state Rubio",
+      "link": "https://investinglive.com/news/iran-is-in-a-lot-of-trouble-says-us-secretary-of-state-rubio/",
+      "datum": "2026-07-22T09:45:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold Price Forecast: XAU/USD holds gains above $4,100 undaunted by risk-off markets",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-gains-above-4-100-undaunted-by-risk-off-markets-202607220937",
+      "datum": "2026-07-22T09:37:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Technical outlook weakens against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/japanese-yen-technical-outlook-weakens-against-us-dollar-societe-generale-202607220936",
+      "datum": "2026-07-22T09:36:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc edges higher as US-Iran tensions, higher Swiss yields sustain support",
+      "link": "https://www.fxstreet.com/news/swiss-franc-edges-higher-as-us-iran-tensions-higher-swiss-yields-sustain-support-202607220935",
+      "datum": "2026-07-22T09:35:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "UK inflation cools and fiscal concerns grow: Why the British Pound is surrendering recent gains",
+      "link": "https://www.fxstreet.com/news/uk-inflation-cools-and-fiscal-concerns-grow-why-the-british-pound-is-surrendering-recent-gains-202607220930",
+      "datum": "2026-07-22T09:30:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607220930",
+      "datum": "2026-07-22T09:30:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar weakens as global risk aversion overshadows hawkish RBNZ outlook",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-global-risk-aversion-overshadows-hawkish-rbnz-outlook-202607220915",
+      "datum": "2026-07-22T09:15:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Hungarian Forint: Dovish tilt keeps easing alive – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-dovish-tilt-keeps-easing-alive-commerzbank-202607220915",
+      "datum": "2026-07-22T09:15:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran says it struck US military facilities in Jordan and Bahrain",
+      "link": "https://investinglive.com/news/iran-says-it-struck-us-military-facilities-in-jordan-and-bahrain/",
+      "datum": "2026-07-22T06:45:35.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK inflation eases slightly in June but core prices keep steady",
+      "link": "https://investinglive.com/news/uk-june-cpi-2-6-vs-2-7-y-y-expected/",
+      "datum": "2026-07-22T06:35:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-8/",
+      "datum": "2026-07-22T06:28:47.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -26,93 +104,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee resumes decline as oil prices rise further",
+      "titel": "Indian Rupee falls back as oil prices rally further",
       "link": "https://www.fxstreet.com/news/indian-rupee-resumes-decline-as-oil-prices-rise-further-202607220544",
       "datum": "2026-07-22T05:44:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah inches lower ahead of BI policy decision",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-inches-lower-ahead-of-bi-policy-decision-202607220526",
-      "datum": "2026-07-22T05:26:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc weakens as risk aversion support US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-risk-aversion-support-us-dollar-202607220501",
-      "datum": "2026-07-22T05:01:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold sticks to gains near two-week high as hopes for US-Iran diplomacy cap USD",
-      "link": "https://www.fxstreet.com/news/gold-rallies-to-over-two-week-high-eyes-4-150-as-traders-track-us-iran-diplomacy-efforts-202607220340",
-      "datum": "2026-07-22T05:00:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Consolidates near 0.7000 as bulls await 38.2% Fibo. breakout",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-consolidates-near-07000-as-bulls-await-382-fibo-breakout-202607220453",
-      "datum": "2026-07-22T04:53:46.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Heads up: UK CPI report for June coming up later",
       "link": "https://investinglive.com/news/heads-up-uk-cpi-report-for-june-coming-up-later/",
       "datum": "2026-07-22T04:49:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Rises to near $85.00 on supply disruption, but remains capped below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-rises-to-near-8500-on-supply-disruption-but-remains-capped-below-100-day-sma-202607220448",
-      "datum": "2026-07-22T04:48:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607220436",
-      "datum": "2026-07-22T04:36:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound bounces off one-week low vs USD amid Iran diplomacy hopes, ahead of UK CPI",
-      "link": "https://www.fxstreet.com/news/british-pound-bounces-off-one-week-low-vs-usd-amid-iran-diplomacy-hopes-ahead-of-uk-cpi-202607220415",
-      "datum": "2026-07-22T04:15:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market moving news: Gold stuns with a surge of buying",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-gold-stuns-with-a-surge-of-buying/",
-      "datum": "2026-07-22T03:43:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Tests ascending triangle top above 186.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-ascending-triangle-top-above-18600-202607220335",
-      "datum": "2026-07-22T03:35:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD rises to near $60.00 despite surging inflation fears",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6000-despite-surging-inflation-fears-202607220309",
-      "datum": "2026-07-22T03:09:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Secretary of State Rubio: Iranian control of Hormuz would have repercussions beyond Middle East",
-      "link": "https://www.fxstreet.com/news/us-secretary-of-state-rubio-iranian-control-of-hormuz-would-have-repercussions-beyond-middle-east-202607220307",
-      "datum": "2026-07-22T03:07:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan trade data shows exports in June higher than expected",
-      "link": "https://investinglive.com/news/japan-trade-data-shows-exports-in-june-higher-than-expected/",
-      "datum": "2026-07-22T02:50:36.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan's oil-driven import surge widens trade gap, complicates BOJ hold",
-      "link": "https://investinglive.com/news/japan-s-oil-driven-import-surge-widens-trade-gap-complicates-boj-hold/",
-      "datum": "2026-07-22T02:49:39.000Z"
     }
   ]
 }

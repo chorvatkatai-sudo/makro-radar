@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-22T11:00:44.820Z",
+  "stand": "2026-07-22T13:25:28.349Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -5,
       "tiltCot": 0,
-      "tiltZins": 4,
-      "tiltGesamt": 4,
-      "score": -1,
+      "tiltZins": 5,
+      "tiltGesamt": 5,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Der weichere Dollar + die diese Woche steigende Euro-Rendite stützen den Euro, ABER das teure Öl (Euro-Importeur) und eine drohend-dovishe EZB (Do) überwiegen knapp. Netto mild negativ."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": 1,
-      "tiltGesamt": 6,
-      "score": 2,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": 1,
       "cotExtrem": "erhoeht",
       "treiber": "Weiter abwärts (Loonie stärker): Das noch teurere Öl (WTI ~84,5 $, +6 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD stärker als der diese Woche festere Dollar. Gegenpol: die kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Fantasie. Netto moderat negativ."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": 5,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": 9,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber getrimmt: Die zinslose SNB (0%) nimmt dem Franken Zins-Rückenwind — ABER das wiederkehrende Risk-off (VIX 18) bringt dem sicheren Hafen wieder etwas Nachfrage, und der weichere Dollar deckelt den Anstieg. Nur moderat positiv."
     },

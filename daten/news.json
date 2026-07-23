@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-22T17:08:33.096Z",
+  "stand": "2026-07-23T05:06:24.064Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
-      "titel": "US treasury auctions off 13 billion of 20 year bonds at a high yield of 5.163%",
-      "link": "https://investinglive.com/news/us-treasury-auctions-off-13-billion-of-20-year-bonds-at-a-high-yield-of-5-163/",
-      "datum": "2026-07-22T17:06:05.000Z"
+      "titel": "China sends a clear message with live-fire drills in Taiwan Strait",
+      "link": "https://investinglive.com/news/china-sends-a-clear-message-with-live-fire-drills-in-taiwan-strait/",
+      "datum": "2026-07-23T04:54:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "BoJ to raise rates again by December — Reuters poll",
+      "link": "https://www.fxstreet.com/news/boj-to-raise-rates-again-by-december-reuters-poll-202607230447",
+      "datum": "2026-07-23T04:47:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen edges higher amid intervention risks; remains close to four-decade low vs USD",
+      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-amid-intervention-risks-remains-close-to-four-decade-low-vs-usd-202607230446",
+      "datum": "2026-07-23T04:46:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar strengthens above 0.5800 on RBNZ hawkish outlook",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-above-05800-on-rbnz-hawkish-outlook-202607230441",
+      "datum": "2026-07-23T04:41:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold steadies, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202607230435",
+      "datum": "2026-07-23T04:35:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Tests 186.50 barrier after breaking above ascending triangle top",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-18650-barrier-after-breaking-above-ascending-triangle-top-202607230427",
+      "datum": "2026-07-23T04:27:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold holds above $4,100 as weak USD counters Fed hike bets amid US-Iran escalation",
+      "link": "https://www.fxstreet.com/news/gold-holds-above-4-100-as-weak-usd-counters-fed-hike-bets-amid-us-iran-escalation-202607230409",
+      "datum": "2026-07-23T04:09:44.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Treasury targets Wall Street tax loopholes as IRS ramps up enforcement",
-      "link": "https://investinglive.com/news/treasury-targets-wall-street-tax-loopholes-as-irs-ramps-up-enforcement/",
-      "datum": "2026-07-22T16:52:09.000Z"
+      "titel": "investingLive Asia-Pacific market moving news: Oil holds near six week high",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-oil-holds-near-six-week-high/",
+      "datum": "2026-07-23T03:34:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "One bridge per tanker: The Dow Jones Industrial Average rallies as escalation gets a price list",
-      "link": "https://www.fxstreet.com/news/one-bridge-per-tanker-the-dow-jones-industrial-average-rallies-as-escalation-gets-a-price-list-202607221642",
-      "datum": "2026-07-22T16:42:31.000Z"
+      "titel": "United States Dollar Index holds losses around 101.00 despite increasing risk aversion",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-losses-around-10100-despite-increasing-risk-aversion-202607230334",
+      "datum": "2026-07-23T03:34:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound steadies as cooler UK CPI meets Oil shock",
-      "link": "https://www.fxstreet.com/news/british-pound-steadies-as-cooler-uk-cpi-meets-oil-shock-202607221604",
-      "datum": "2026-07-22T16:04:20.000Z"
+      "titel": "Swiss Franc snaps three-day losing streak against US Dollar, outlook remains fragile",
+      "link": "https://www.fxstreet.com/news/swiss-franc-snaps-three-day-losing-streak-against-us-dollar-outlook-remains-fragile-202607230323",
+      "datum": "2026-07-23T03:23:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar finds support from rising Oil prices, softer Greenback",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-rising-oil-prices-softer-greenback-202607221540",
-      "datum": "2026-07-22T15:40:24.000Z"
+      "titel": "Euro advances ahead of ECB policy decision",
+      "link": "https://www.fxstreet.com/news/euro-advances-ahead-of-ecb-policy-decision-202607230301",
+      "datum": "2026-07-23T03:01:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar weakens as risk aversion overshadows hawkish RBNZ outlook",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-risk-aversion-overshadows-hawkish-rbnz-outlook-202607221531",
-      "datum": "2026-07-22T15:31:31.000Z"
+      "titel": "British Pound nudges higher above 1.3350 despite Middle East turmoil",
+      "link": "https://www.fxstreet.com/news/british-pound-nudges-higher-above-13350-despite-middle-east-turmoil-202607230241",
+      "datum": "2026-07-23T02:41:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "China: Fiscal execution to support growth – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/china-fiscal-execution-to-support-growth-standard-chartered-202607221506",
-      "datum": "2026-07-22T15:06:04.000Z"
+      "titel": "Silver Price Forecast: XAG/USD bulls have the upper hand above $59.00 confluence",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-have-the-upper-hand-above-5900-confluence-202607230222",
+      "datum": "2026-07-23T02:22:05.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Crude oil inventories rise 2.010M vs -1.052M estimate",
-      "link": "https://investinglive.com/news/crude-oil-inventories-rise-2-010m-vs-1-052m-estimate/",
-      "datum": "2026-07-22T15:05:11.000Z"
+      "titel": "Australian June 2026 jobs report: Unemployment rate 4.4% (expected 4.4%, prior 4.4%)",
+      "link": "https://investinglive.com/news/australian-june-2026-jobs-report-unemployment-rate-expected-4-4-prior-4-4/",
+      "datum": "2026-07-23T01:33:53.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "USTR Greer testifies in the Senate: We are moving with all due speed on USMCA negotiations",
-      "link": "https://investinglive.com/news/ustr-greer-testifies-in-the-senate-we-are-moving-with-all-due-speed-on-usmca-negotiations/",
-      "datum": "2026-07-22T14:55:32.000Z"
+      "titel": "US Trade Rep. Greer eyes interim US deals with Canada, Mexico by year end",
+      "link": "https://investinglive.com/news/us-trade-rep-greer-eyes-interim-us-deals-with-canada-mexico-by-year-end/",
+      "datum": "2026-07-22T23:34:08.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar steadies ahead of Australian employment data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-ahead-of-australian-employment-data-202607221448",
-      "datum": "2026-07-22T14:48:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen struggles near four-decade lows despite hawkish BoJ signals",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-near-four-decade-lows-despite-hawkish-boj-signals-202607221440",
-      "datum": "2026-07-22T14:40:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Aluminium: Tariff tweaks seen as long-term policy – ING",
-      "link": "https://www.fxstreet.com/news/aluminium-tariff-tweaks-seen-as-long-term-policy-ing-202607221436",
-      "datum": "2026-07-22T14:36:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Japan: Gradual tightening and external shocks – Rabobank",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-gradual-tightening-and-external-shocks-rabobank-202607221410",
-      "datum": "2026-07-22T14:10:29.000Z"
+      "titel": "Australia’s Unemployment Rate steadies at 4.4% in June, as expected",
+      "link": "https://www.fxstreet.com/news/australia-unemployment-rate-set-to-steady-at-44-in-june-signaling-strong-job-market-202607222130",
+      "datum": "2026-07-22T21:30:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Trump News: Iran will pay a big price",
-      "link": "https://investinglive.com/news/trump-news-iran-will-pay-a-big-price/",
-      "datum": "2026-07-22T14:03:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Range-bound gains and episodic strength – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-range-bound-gains-and-episodic-strength-td-securities-202607221345",
-      "datum": "2026-07-22T13:45:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro struggles to extend gains as Iran war supports US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-struggles-to-extend-gains-as-middle-east-tensions-support-the-us-dollar-202607221335",
-      "datum": "2026-07-22T13:35:01.000Z"
+      "titel": "Washington to expand nuclear technology exports to Saudi Arabia - US/Saudi nuclear deal",
+      "link": "https://investinglive.com/news/washington-to-expand-nuclear-technology-exports-to-saudi-arabia-us-saudi-nuclear-deal/",
+      "datum": "2026-07-22T20:54:26.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Trump: If Iran fires at a ship, the US will bomb a bridge/power station. Crude oil remains elevated.",
-      "link": "https://investinglive.com/news/trump-if-iran-rires-at-a-ship-in-the-strait-the-us-will-bomb-a-bridge/",
-      "datum": "2026-07-22T13:21:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil prices ramp higher as Middle East conflict expands to the Red Sea",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-ramp-higher-as-middle-east-conflict-expands-to-the-red-sea/",
-      "datum": "2026-07-22T12:04:21.000Z"
+      "titel": "investingLive Americas FX news wrap 22 Jul. Middle east tensions keep markets on edge. Oil higher.",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-jul-middle-east-tensions-keep-markets-on-edge-oil-higher/",
+      "datum": "2026-07-22T20:40:21.000Z"
     }
   ]
 }

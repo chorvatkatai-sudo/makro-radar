@@ -944,8 +944,8 @@
     "country": "EUR",
     "title": "Consumer Confidence Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "-17.7",
+    "forecast": "-15.9",
+    "previous": "-17.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1275,7 +1275,7 @@
     "title": "EIA Natural Gas Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "32",
     "actual": null,
     "quelle": "tradingview"
   },

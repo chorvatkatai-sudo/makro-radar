@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-23T13:28:59.981Z",
+  "stand": "2026-07-23T15:49:23.074Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -5,
       "tiltCot": 0,
-      "tiltZins": 1,
-      "tiltGesamt": 1,
-      "score": -4,
+      "tiltZins": 2,
+      "tiltGesamt": 2,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Der weichere Dollar + die diese Woche steigende Euro-Rendite stützen den Euro, ABER das teure Öl (Euro-Importeur) und eine drohend-dovishe EZB (Do) überwiegen knapp. Netto mild negativ."
     },
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -4,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -9,
+      "tiltZins": 2,
+      "tiltGesamt": -3,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Die heute erwartete weichere UK-Inflation (~2,6–2,7 %) + das moderatere Lohnwachstum nehmen der BoE die Erhöhungs-Fantasie → Pfund-Gegenwind. Der festere Dollar (Index >101) verstärkt das. ABER: extreme Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,40 % > US) begrenzen den Rückgang stark. Track-Record schwach → maßvoll."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 3,
       "tiltCot": 5,
-      "tiltZins": 2,
-      "tiltGesamt": 7,
-      "score": 10,
+      "tiltZins": 1,
+      "tiltGesamt": 6,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber stark gebremst: Der Carry-Vorteil + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen die doppelt kühle US-Inflation, das wiederkehrende Risk-off (Yen-Bid) und akutes Interventions-Risiko. Track-Record 0/4 → bewusst nahe null."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": 5,
       "tiltCot": 5,
-      "tiltZins": 0,
-      "tiltGesamt": 5,
-      "score": 10,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber getrimmt: Die zinslose SNB (0%) nimmt dem Franken Zins-Rückenwind — ABER das wiederkehrende Risk-off (VIX 18) bringt dem sicheren Hafen wieder etwas Nachfrage, und der weichere Dollar deckelt den Anstieg. Nur moderat positiv."
     },

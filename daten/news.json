@@ -1,11 +1,95 @@
 {
-  "stand": "2026-07-23T17:11:42.783Z",
+  "stand": "2026-07-23T20:53:25.669Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar rises as strong labor data and Middle East tensions lift Oil",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-as-strong-labor-data-and-middle-east-tensions-lift-oil-202607232049",
+      "datum": "2026-07-23T20:49:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: BI uses incentives over hikes – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-uses-incentives-over-hikes-commerzbank-202607232011",
+      "datum": "2026-07-23T20:11:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Friday, July 24, 2026 - Inflation data from Japan",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-july-24-2026-inflation-data-from-japan/",
+      "datum": "2026-07-23T20:08:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Carney: Canada Focused on a Comprehensive USMCA Deal",
+      "link": "https://investinglive.com/news/carney-canada-focused-on-a-comprehensive-usmca-deal/",
+      "datum": "2026-07-23T20:06:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar trades under pressure amid strong US data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-trades-under-pressure-amid-strong-us-data-202607231944",
+      "datum": "2026-07-23T19:44:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asia FX: Oil shock seen manageable – BNY",
+      "link": "https://www.fxstreet.com/news/asia-fx-oil-shock-seen-manageable-bny-202607231931",
+      "datum": "2026-07-23T19:31:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG lower highs structure holds, bears eye $55",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-lower-highs-structure-holds-bears-eye-55-202607231928",
+      "datum": "2026-07-23T19:28:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Bulls struggle below the 50-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-struggle-below-the-50-day-sma-202607231908",
+      "datum": "2026-07-23T19:08:49.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "AMD and Cerbras form a partnership that makes chips faster and more efficient.",
+      "link": "https://investinglive.com/news/amd-and-cerbras-form-a-partnership-that-makes-chips-faster-and-more-efficient/",
+      "datum": "2026-07-23T19:06:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Holds near fair value against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-near-fair-value-against-us-dollar-scotiabank-202607231857",
+      "datum": "2026-07-23T18:57:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc hits 13-month low as rising Oil prices boost bets on Fed hike",
+      "link": "https://www.fxstreet.com/news/swiss-franc-hits-13-month-low-as-rising-oil-prices-boost-fed-rate-hike-bets-202607231845",
+      "datum": "2026-07-23T18:45:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold tumbles as sellers target $4,000",
+      "link": "https://www.fxstreet.com/news/gold-losses-its-bright-tumbles-as-sellers-target-4-000-202607231827",
+      "datum": "2026-07-23T18:27:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average sells the war without an earnings alibi",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sells-the-war-without-an-earnings-alibi-202607231803",
+      "datum": "2026-07-23T18:03:34.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "EU Google Fine Escalates U.S.-EU Trade Tensions",
+      "link": "https://investinglive.com/news/eu-google-fine-escalates-u-s-eu-trade-tensions/",
+      "datum": "2026-07-23T17:10:50.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "EUR/USD Price Forecast: Bears target a break below 1.1350 support",
@@ -25,94 +109,10 @@
       "datum": "2026-07-23T16:16:27.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "US President Trump: “I'm considering a massive attack greater than anything before”",
-      "link": "https://www.fxstreet.com/news/us-president-trump-im-considering-a-massive-attack-greater-than-anything-before-202607231559",
-      "datum": "2026-07-23T15:59:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound slides as Gulf war risk fuels US Dollar rally",
-      "link": "https://www.fxstreet.com/news/british-pound-slides-as-gulf-war-risk-fuels-us-dollar-rally-202607231548",
-      "datum": "2026-07-23T15:48:17.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Pres. Trump: Considering a massive attack greater than anything before.",
       "link": "https://investinglive.com/news/pres-trump-considering-a-massive-attack-greater-than-anything-before/",
       "datum": "2026-07-23T15:37:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Crude Oil stops trading the headlines and starts trading the war",
-      "link": "https://www.fxstreet.com/news/crude-oil-stops-trading-the-headlines-and-starts-trading-the-war-202607231525",
-      "datum": "2026-07-23T15:25:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen falls near multi-decade low",
-      "link": "https://www.fxstreet.com/news/japanese-yen-falls-near-multi-decade-low-202607231503",
-      "datum": "2026-07-23T15:03:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: PCE Methodology tweaks seen as marginal – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-pce-methodology-tweaks-seen-as-marginal-td-securities-202607231453",
-      "datum": "2026-07-23T14:53:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Middle East tensions remains high with Iran increasing hostilities",
-      "link": "https://investinglive.com/news/middle-east-tensions-remains-high-with-iran-increasing-hostilities/",
-      "datum": "2026-07-23T14:49:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI rallies more than 5% as Middle East supply risks deepen",
-      "link": "https://www.fxstreet.com/news/wti-rallies-more-than-5-as-middle-east-supply-risks-deepen-202607231443",
-      "datum": "2026-07-23T14:43:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada PM Carney: Will not hesitate to defend its interest in trade war with the US",
-      "link": "https://investinglive.com/news/canada-pm-carney-will-not-hesitate-to-defend-its-interest-in-trade-war-with-the-us/",
-      "datum": "2026-07-23T14:35:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Hiking cycle continues at slower pace – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-hiking-cycle-continues-at-slower-pace-nordea-202607231424",
-      "datum": "2026-07-23T14:24:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Natural Gas: High prices sustain European power – Rabobank",
-      "link": "https://www.fxstreet.com/news/natural-gas-high-prices-sustain-european-power-rabobank-202607231403",
-      "datum": "2026-07-23T14:03:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Hike pricing questioned – TD Securities",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hike-pricing-questioned-td-securities-202607231342",
-      "datum": "2026-07-23T13:42:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro slips against British Pound as ECB keeps interest rates unchanged",
-      "link": "https://www.fxstreet.com/news/euro-slips-against-british-pound-as-ecb-keeps-interest-rates-unchanged-202607231333",
-      "datum": "2026-07-23T13:33:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada Retail sales for May 1.0% versus 1.0% expected",
-      "link": "https://investinglive.com/news/canada-retail-sales-for-may-1-0-versus-1-0-expected/",
-      "datum": "2026-07-23T12:42:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US initial jobless claims 187K versus 212K expected",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-187k-versus-212k-expected/",
-      "datum": "2026-07-23T12:37:51.000Z"
     }
   ]
 }

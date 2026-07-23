@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-23T15:49:23.072Z",
+  "stand": "2026-07-23T17:11:42.783Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,7 +8,31 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "British Pound slides as Gulf War risk fuels US Dollar rally",
+      "titel": "EUR/USD Price Forecast: Bears target a break below 1.1350 support",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-target-a-break-below-11350-support-202607231704",
+      "datum": "2026-07-23T17:04:51.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Senate blocks resolution curbing Trump's Iran War Powers. Tensions remain high.",
+      "link": "https://investinglive.com/news/us-senate-blocks-resolution-curbing-trump-s-iran-war-powers/",
+      "datum": "2026-07-23T16:48:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The story gets worse: 30 year mortgage rates reach the highest level since August 2025",
+      "link": "https://investinglive.com/news/the-story-gets-worse-30-year-mortgage-rates-reach-the-highest-level-since-august-2025/",
+      "datum": "2026-07-23T16:16:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US President Trump: “I'm considering a massive attack greater than anything before”",
+      "link": "https://www.fxstreet.com/news/us-president-trump-im-considering-a-massive-attack-greater-than-anything-before-202607231559",
+      "datum": "2026-07-23T15:59:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound slides as Gulf war risk fuels US Dollar rally",
       "link": "https://www.fxstreet.com/news/british-pound-slides-as-gulf-war-risk-fuels-us-dollar-rally-202607231548",
       "datum": "2026-07-23T15:48:17.000Z"
     },
@@ -26,7 +50,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen falls near multi decade low",
+      "titel": "Japanese Yen falls near multi-decade low",
       "link": "https://www.fxstreet.com/news/japanese-yen-falls-near-multi-decade-low-202607231503",
       "datum": "2026-07-23T15:03:19.000Z"
     },
@@ -79,12 +103,6 @@
       "datum": "2026-07-23T13:33:10.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso: Slightly stronger MXN outlook – Commerzbank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-slightly-stronger-mxn-outlook-commerzbank-202607231323",
-      "datum": "2026-07-23T13:23:54.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canada Retail sales for May 1.0% versus 1.0% expected",
       "link": "https://investinglive.com/news/canada-retail-sales-for-may-1-0-versus-1-0-expected/",
@@ -95,24 +113,6 @@
       "titel": "US initial jobless claims 187K versus 212K expected",
       "link": "https://investinglive.com/news/us-initial-jobless-claims-187k-versus-212k-expected/",
       "datum": "2026-07-23T12:37:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: Hold Iran responsible for Houthis attacks.",
-      "link": "https://investinglive.com/news/trump-hold-iran-responsible-for-houthis-attacks/",
-      "datum": "2026-07-23T12:27:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The full statement from the ECB as they keep rates unchanged.",
-      "link": "https://investinglive.com/news/the-full-statement-from-the-ecb-as-they-keep-rates-unchanged/",
-      "datum": "2026-07-23T12:16:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil prices continue to surge higher, dollar climbs alongside bond yields",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-continue-to-surge-higher-dollar-climbs-alongside-bond-yields/",
-      "datum": "2026-07-23T11:47:19.000Z"
     }
   ]
 }

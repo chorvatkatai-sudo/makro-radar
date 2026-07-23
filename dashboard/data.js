@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-22T17:08:33.098Z",
+ "erstellt": "2026-07-23T05:05:31.283Z",
  "wochenStart": "2026-07-19",
  "events": [
   {
@@ -63,7 +63,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "-0.2%",
    "previous": "1.0%",
-   "actual": null
+   "actual": "-0.3"
   },
   {
    "title": "Median CPI y/y",
@@ -72,7 +72,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "2.1%",
    "previous": "2.1%",
-   "actual": null
+   "actual": "1.9"
   },
   {
    "title": "Trimmed CPI y/y",
@@ -81,7 +81,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "2.0%",
    "previous": "2.0%",
-   "actual": null
+   "actual": "1.8"
   },
   {
    "title": "Common CPI y/y",
@@ -117,7 +117,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "1.4%",
    "previous": "0.9%",
-   "actual": null
+   "actual": "1.5"
   },
   {
    "title": "Claimant Count Change",
@@ -315,7 +315,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "16.4K",
    "previous": "40.3K",
-   "actual": null
+   "actual": "24.5"
   },
   {
    "title": "Unemployment Rate",
@@ -324,7 +324,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.4%",
    "previous": "4.4%",
-   "actual": null
+   "actual": "4.2"
   },
   {
    "title": "Foreign Direct Investment ytd/y",
@@ -2500,9 +2500,9 @@ window.MAKRO_DATA = {
     "grund": "Relativer Gewinner, Öl treibt: Das Öl legte weiter zu (WTI ~84,5 $, Brent ~91 $, +6 % Wo) und stützt Kanadas Top-Export kräftig. Dazu EXTREME Loonie-Shorts der Großspekulanten (−48 %, COT-z −1,86 = Short-Squeeze-Potenzial nach oben) und solide Jobs. Gegenpol: die gestern-vorgestern kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Dringlichkeit. Netto bullisch, das teure Öl überwiegt."
    },
    "AUD": {
-    "stimmung": "neutral",
-    "score": 2,
-    "grund": "Getrimmt auf fast neutral: Die höchste Rendite im Feld (2J 4,52%) und der weichere Dollar heben — ABER das wiederkehrende Risk-off (VIX 18 steigt) nimmt der Rohstoff-Währung den Rückenwind, und die schwache China-Nachfrage (Inflation nur +1,0%) bremst den größten Kunden-Draht. Nächste Woche der Test: Australiens Arbeitsmarkt (Do). Nur noch leicht positiv."
+    "stimmung": "bullisch",
+    "score": 5,
+    "grund": "Angehoben nach starken Jobzahlen: +24,5k neue Stellen (über Erwartung) und die Arbeitslosenquote fiel auf 4,2 % — das hält die RBA hart und gibt dem Aussie die höchste Rendite im Feld (2J 4,62 %) Rückenwind. Gebremst nur durch das wiederkehrende Risk-off (VIX ~17) und die schwache China-Nachfrage. Leicht positiv."
    },
    "NZD": {
     "stimmung": "bullisch",
@@ -2528,8 +2528,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": -2,
-    "treiber": "Leicht abwärts: Zwar hilft der weichere Dollar + die hohe Aussie-Rendite (2J 4,52%), aber das wiederkehrende Risk-off (VIX rauf) und die matte China-Nachfrage nehmen der Rohstoff-Währung den Rückenwind. Fast neutral."
+    "score": 2,
+    "treiber": "Ins Plus gedreht: Die starken Australien-Jobs (+24,5k, Quote 4,2 %) und die hohe Aussie-Rendite heben, der flache Dollar hilft — gebremst durch Risk-off (VIX ~17) und matte China-Nachfrage. Nur leicht aufwärts."
    },
    {
     "paar": "USD/CAD",
@@ -2649,21 +2649,20 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Die COT-Daten zeigen drei Short-Extreme — NZD (z −2,53, −57% short!), GBP (z −1,84) und CAD (z −1,83). Bei NZD und GBP habe ich deshalb bewusst NAHE NULL gescort (Squeeze-Risiko nach oben deckelt die Bearishness). Bei CAD wirkt der extreme Short dagegen ALS ZÜNDER in Richtung meiner Bull-These: Steigt das Öl, kann die Short-Eindeckung den Loonie zusätzlich treiben."
   ],
   "tagesnews": {
-   "stand": "2026-07-22",
-   "wochentag": "Mittwoch",
-   "tenor": "UK-Inflations-Tag: Die britische Teuerung dürfte heute früh weiter abkühlen (~2,6–2,7 %) — das nimmt der Bank of England die Erhöhungs-Fantasie und dämpft den Pfund-Schwung, auch wenn extreme Pfund-Shorts den Rückgang bremsen. Alles schielt schon auf die EZB morgen. Der Dollar hat sich diese Woche leicht gefestigt (Index über 101), gestützt von teurem Öl und steigenden US-Renditen.",
+   "stand": "2026-07-23",
+   "wochentag": "Donnerstag",
+   "tenor": "EZB-Tag: Heute Nachmittag entscheidet die Europäische Zentralbank (14:15 Wien) — erwartet wird ein Halten bei 2,40 %, alles hängt an Lagardes Ton (deutet sie eine Erhöhung im September an?). Über Nacht kamen aus Australien starke Jobzahlen (Aussie-positiv) und aus Japan eine zahme Inflation (Yen bleibt schwach). Der Dollar steht flach knapp über 101, während teures Öl (WTI ~86 $) und Gold nahe Rekord (~4.150 $) die Kulisse bilden.",
    "heute": [
-    "🇬🇧 HEUTE früh (8:00 Wien) die britische Inflation (Juni) — DAS Event des Tages. Erwartet: ~2,6–2,7 % zum Vorjahr (nach 2,8 %), Dienstleistungspreise ~3,6 % (nach 3,7 %). Kinderleicht: Die Preise steigen langsamer → die Notenbank muss die Zinsen weniger dringend anheben → das nimmt dem Pfund etwas Rückenwind. ABER: Die Großspekulanten sind beim Pfund EXTREM short (Wette auf fallendes Pfund) — schon eine kleine Enttäuschung nach oben könnte eine Short-Eindeckung (Squeeze) auslösen. Deshalb bleibt GBP auf der Kippe, leicht negativ.",
-    "🇪🇺 Alles blickt schon auf MORGEN: die EZB-Zinsentscheidung (Do, 14:15 Wien). Erwartet wird ein Halten bei 2,40 %; Lagardes Ton (eher zurückhaltend?) entscheidet über den Euro. Heute deshalb Ruhe-vor-dem-Sturm beim EUR.",
-    "🛢️ Öl bleibt teuer und legt sogar zu: WTI ~84,5 $, Brent ~91 $ (+6 % auf der Woche, Nahost-Spannungen). Rückenwind für den Kanada-Dollar (Top-Export), Gegenwind für Öl-Importeure wie Eurozone und Japan. Das Angst-Barometer VIX steht bei ~17 (leichtes Risk-off).",
-    "🇺🇸 Der Dollar hat sich gefestigt: Der Dollar-Index steht wieder über 101 (+0,7 % auf der Woche), gestützt von steigenden US-Renditen (10-Jahre 4,63 %) und teurem Öl (Inflations-Sorge). Der „Riss\" der Vorwoche ist verklebt — der Dollar steht, ohne zu glänzen."
+    "🇪🇺 HEUTE das Highlight: die EZB-Zinsentscheidung (14:15 Wien) + Lagarde-Pressekonferenz (14:45). Fast sicher wird gehalten (Leitzins 2,40 %, Einlagensatz 2,25 %) — Juli ist ein Zwischentermin ohne neue Prognosen. Kinderleicht: Nicht die Entscheidung selbst bewegt den Euro, sondern Lagardes WORTE. Klingt sie besorgt über zu hohe Preise (‚Risiken nach oben‘), wächst die Wette auf eine September-Erhöhung → Euro-Rückenwind. Klingt sie beruhigt, gibt der Euro nach. Rückenwind hat der Euro schon: Die deutschen 2-Jahres-Renditen sind diese Woche am stärksten im Feld gestiegen.",
+    "🇦🇺 Über Nacht: Australiens Arbeitsmarkt kam STARK — +24,5k neue Jobs (erwartet ~16k) und die Arbeitslosenquote FIEL auf 4,2 % (von 4,3 %, erwartet 4,4 %). Vollzeit-Jobs +60k trugen. Kinderleicht: Ein starker Jobmarkt hält die Notenbank (RBA) hart und stützt den Aussie. Deshalb heute leicht angehoben — gebremst nur durch die schwache China-Nachfrage.",
+    "🇯🇵 Über Nacht: Japans Inflation blieb ZAHM (Kern-Kern ~1,9 %, weiter unter dem 2 %-Ziel der Notenbank). Kinderleicht: Solange die Preise nicht klar über 2 % steigen, hat die Bank of Japan es nicht eilig mit Zinserhöhungen → der Yen bleibt schwach (USD/JPY ~163, nahe Mehrzehnjahres-Hoch = Interventions-Zone, Japan könnte eingreifen).",
+    "🛢️ Kulisse: Öl bleibt teuer (WTI ~86 $, Brent ~93 $ — Rückenwind für den Kanada-Dollar), Gold nahe Rekord (~4.150 $), das Angst-Barometer VIX bei ~17 (leichtes Risk-off). Der Dollar-Index steht flach über 101 — der Aufwärtsdrang hat nachgelassen, seit Öl und Gold davonziehen."
    ],
    "gestern": [
-    "🇬🇧 Gestern der britische Arbeitsmarkt: Arbeitslosenquote stabil bei 4,9 %, das Lohnwachstum kühlt weiter ab (ohne Boni +3,4 %, niedrigster Stand seit Okt 2020), die Beschäftigtenzahl fiel im Juni nur noch minimal (−4 000 = Stabilisierung). Kinderleicht: Der Jobmarkt bremst sanft, die Löhne treiben die Inflation weniger — das stützt heute die Erwartung einer kühleren UK-Teuerung und einer geduldigen BoE.",
-    "🇩🇪 Deutschland: Die ZEW-Umfrage (Stimmung der Finanzprofis) — nur ein Stimmungsbild, kein harter Wert, wenig Marktbewegung.",
-    "🇳🇿 Vorgestern (Mo): Neuseeland-Inflation sprang HEISS auf +4,1 % (höchster Stand seit Ende 2023, klar über dem Notenbank-Ziel 1–3 %) — macht Zins-Senkungen schwerer, Kiwi-positiv.",
-    "🇨🇦 Vorgestern (Mo): Kanada-Inflation kam KÜHL bei +2,8 % (erwartet 2,9 %), zum Vormonat −0,4 %, ein Kern-Maß erstmals seit ~6 Jahren unter 2 %. Nimmt der BoC Erhöhungs-Druck — aber das teure Öl bleibt die stärkere Loonie-Stütze.",
-    "🗓️ Rest der Woche: MORGEN 🇪🇺 EZB (Do) + 🇦🇺 Australien-Jobs + 🇯🇵 Japan-Inflation; Fr Stimmungs-Umfragen (Flash-PMIs EU/UK/US/JP/AU) + UK-Einzelhandel."
+    "🇬🇧 Gestern (Mi): Die britische Inflation kühlte auf +2,6 % zum Vorjahr ab (von 2,8 %, erwartet 2,7 %) — der niedrigste Stand seit März 2025, vor allem billigerer Sprit. Kinderleicht: Langsamere Preise → die Bank of England kann geduldig bleiben → dem Pfund fehlt Zins-Rückenwind. ABER die Großspekulanten sind beim Pfund weiter stark short — das bremst den Rückgang (Squeeze-Risiko).",
+    "🇳🇿 Di: Neuseeland-Inflation Q2 sprang HEISS auf +4,1 % zum Vorjahr (erwartet 4,0 %, höchster Stand seit 2 Jahren, +1,5 % zum Vorquartal) — getrieben von Sprit. Klar über dem Notenbank-Ziel (1–3 %) → RBNZ bleibt hart, Kiwi-positiv.",
+    "🇨🇦 Mo: Kanada-Inflation kam KÜHL bei +2,8 % (erwartet 2,9 %), zum Vormonat −0,3 %, die Kern-Maße (Median 1,9 % / getrimmt 1,8 %) fielen unter 2 %. Nimmt der BoC Erhöhungs-Druck — aber das teure Öl bleibt die stärkere Loonie-Stütze.",
+    "🗓️ Rest der Woche: MORGEN (Fr) die Stimmungs-Umfragen (Flash-PMIs für EU/UK/US/JP/AU) + britischer Einzelhandel. Nächster großer US-Test: die Fed-Sitzung am 29.7."
    ]
   }
  },
@@ -3702,13 +3701,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -2,
+   "baseScore": 2,
    "tiltCot": -3,
    "tiltZins": 1,
    "tiltGesamt": -2,
-   "score": -4,
+   "score": 0,
    "cotExtrem": null,
-   "treiber": "Leicht abwärts: Zwar hilft der weichere Dollar + die hohe Aussie-Rendite (2J 4,52%), aber das wiederkehrende Risk-off (VIX rauf) und die matte China-Nachfrage nehmen der Rohstoff-Währung den Rückenwind. Fast neutral."
+   "treiber": "Ins Plus gedreht: Die starken Australien-Jobs (+24,5k, Quote 4,2 %) und die hohe Aussie-Rendite heben, der flache Dollar hilft — gebremst durch Risk-off (VIX ~17) und matte China-Nachfrage. Nur leicht aufwärts."
   },
   {
    "paar": "USD/CAD",
@@ -3870,10 +3869,10 @@ window.MAKRO_DATA = {
   },
   "CAD": {
    "ueber": 1,
-   "unter": 2,
+   "unter": 5,
    "gleich": 5,
-   "gesamt": 8,
-   "score": -1
+   "gesamt": 11,
+   "score": -4
   },
   "EUR": {
    "ueber": 0,
@@ -3890,10 +3889,10 @@ window.MAKRO_DATA = {
    "score": -2
   },
   "AUD": {
-   "ueber": 2,
-   "unter": 2,
+   "ueber": 3,
+   "unter": 3,
    "gleich": 2,
-   "gesamt": 6,
+   "gesamt": 8,
    "score": 0
   },
   "JPY": {
@@ -3911,11 +3910,11 @@ window.MAKRO_DATA = {
    "score": 0
   },
   "NZD": {
-   "ueber": 0,
+   "ueber": 1,
    "unter": 1,
    "gleich": 0,
-   "gesamt": 1,
-   "score": -1
+   "gesamt": 2,
+   "score": 0
   }
  },
  "prognoseQuote": {
@@ -4262,6 +4261,26 @@ window.MAKRO_DATA = {
  },
  "historie": [
   {
+   "datum": "2026-07-22T21:30:00-04:00",
+   "land": "AUD",
+   "titel": "Employment Change",
+   "impact": "High",
+   "prognose": "16.4K",
+   "vorher": "40.3K",
+   "actual": "24.5",
+   "notiz": null
+  },
+  {
+   "datum": "2026-07-22T21:30:00-04:00",
+   "land": "AUD",
+   "titel": "Unemployment Rate",
+   "impact": "High",
+   "prognose": "4.4%",
+   "vorher": "4.4%",
+   "actual": "4.2",
+   "notiz": null
+  },
+  {
    "datum": "2026-07-22T02:00:00-04:00",
    "land": "GBP",
    "titel": "CPI y/y",
@@ -4270,6 +4289,46 @@ window.MAKRO_DATA = {
    "vorher": "2.8%",
    "actual": "2.6%",
    "notiz": "auto:TV cpiYoY (2026-07-22)"
+  },
+  {
+   "datum": "2026-07-20T18:45:00-04:00",
+   "land": "NZD",
+   "titel": "CPI q/q",
+   "impact": "High",
+   "prognose": "1.4%",
+   "vorher": "0.9%",
+   "actual": "1.5",
+   "notiz": null
+  },
+  {
+   "datum": "2026-07-20T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "CPI m/m",
+   "impact": "High",
+   "prognose": "-0.2%",
+   "vorher": "1.0%",
+   "actual": "-0.3",
+   "notiz": null
+  },
+  {
+   "datum": "2026-07-20T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "Median CPI y/y",
+   "impact": "High",
+   "prognose": "2.1%",
+   "vorher": "2.1%",
+   "actual": "1.9",
+   "notiz": null
+  },
+  {
+   "datum": "2026-07-20T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "Trimmed CPI y/y",
+   "impact": "High",
+   "prognose": "2.0%",
+   "vorher": "2.0%",
+   "actual": "1.8",
+   "notiz": null
   },
   {
    "datum": "2026-07-15T09:45:00-04:00",

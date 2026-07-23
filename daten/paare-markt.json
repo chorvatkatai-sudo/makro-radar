@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-22T17:08:33.097Z",
+  "stand": "2026-07-23T05:05:31.281Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -35,13 +35,13 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -2,
+      "baseScore": 2,
       "tiltCot": -3,
       "tiltZins": 1,
       "tiltGesamt": -2,
-      "score": -4,
+      "score": 0,
       "cotExtrem": null,
-      "treiber": "Leicht abwärts: Zwar hilft der weichere Dollar + die hohe Aussie-Rendite (2J 4,52%), aber das wiederkehrende Risk-off (VIX rauf) und die matte China-Nachfrage nehmen der Rohstoff-Währung den Rückenwind. Fast neutral."
+      "treiber": "Ins Plus gedreht: Die starken Australien-Jobs (+24,5k, Quote 4,2 %) und die hohe Aussie-Rendite heben, der flache Dollar hilft — gebremst durch Risk-off (VIX ~17) und matte China-Nachfrage. Nur leicht aufwärts."
     },
     {
       "paar": "USD/CAD",

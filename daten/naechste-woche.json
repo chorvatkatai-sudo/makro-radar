@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-07-27T00:00:00.000Z",
+    "country": "CNY",
+    "title": "Politburo Meeting",
+    "impact": "High",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-27T01:30:00.000Z",
     "country": "CNY",
     "title": "Industrial Profits (YTD) YoY",
@@ -142,20 +152,20 @@
   {
     "date": "2026-07-27T15:30:00.000Z",
     "country": "USD",
-    "title": "3-Month Bill Auction",
+    "title": "2-Year Note Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.73%",
+    "previous": "4.189%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-07-27T17:00:00.000Z",
     "country": "USD",
-    "title": "2-Year Note Auction",
+    "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "4.189%",
+    "previous": "3.73%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -222,7 +232,17 @@
   {
     "date": "2026-07-28T09:00:00.000Z",
     "country": "GBP",
-    "title": "Conventional Gilt",
+    "title": "Treasury Gilt 2028 Tender",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.989%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-28T10:30:00.000Z",
+    "country": "GBP",
+    "title": "Treasury Gilt 2040 Tender",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -752,20 +772,20 @@
   {
     "date": "2026-07-29T15:30:00.000Z",
     "country": "USD",
-    "title": "17-Week Bill Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.845%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-07-29T17:00:00.000Z",
-    "country": "USD",
     "title": "2-Year FRN Auction",
     "impact": "Low",
     "forecast": "",
     "previous": "0.079%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-07-29T15:30:00.000Z",
+    "country": "USD",
+    "title": "17-Week Bill Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.845%",
     "actual": null,
     "quelle": "tradingview"
   },

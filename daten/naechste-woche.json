@@ -120,6 +120,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-27T14:30:00.000Z",
+    "country": "CAD",
+    "title": "BoC Market Participants Survey",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-27T15:30:00.000Z",
     "country": "USD",
     "title": "6-Month Bill Auction",
@@ -790,6 +800,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-29T22:40:00.000Z",
+    "country": "AUD",
+    "title": "RBA Hunter Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-29T23:01:00.000Z",
     "country": "GBP",
     "title": "Car Production YoY",
@@ -954,8 +974,8 @@
     "country": "EUR",
     "title": "Unemployment Rate",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "6.2",
+    "forecast": "6.2%",
+    "previous": "6.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -984,7 +1004,7 @@
     "country": "EUR",
     "title": "GDP Growth Rate QoQ Flash",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "-0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1064,7 +1084,7 @@
     "country": "GBP",
     "title": "BoE Interest Rate Decision",
     "impact": "High",
-    "forecast": "",
+    "forecast": "3.75%",
     "previous": "3.75%",
     "actual": null,
     "quelle": "tradingview"
@@ -1340,16 +1360,6 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-07-30T22:40:00.000Z",
-    "country": "AUD",
-    "title": "RBA Hunter Speech",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
     "date": "2026-07-30T23:30:00.000Z",
     "country": "JPY",
     "title": "Tokyo CPI Ex Food and Energy YoY",
@@ -1440,6 +1450,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-07-31T00:00:00.000Z",
+    "country": "JPY",
+    "title": "BoJ Gov Ueda Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-07-31T01:30:00.000Z",
     "country": "CNY",
     "title": "NBS Non Manufacturing PMI",
@@ -1524,7 +1544,7 @@
     "country": "JPY",
     "title": "BoJ Interest Rate Decision",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1%",
     "previous": "1%",
     "actual": null,
     "quelle": "tradingview"

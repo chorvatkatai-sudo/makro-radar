@@ -1,11 +1,65 @@
 {
-  "stand": "2026-07-24T12:16:53.707Z",
+  "stand": "2026-07-24T13:23:13.623Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: BoJ repricing may limit JPY losses against US Dollar - BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-repricing-may-limit-jpy-losses-against-us-dollar-bbh-202607241320",
+      "datum": "2026-07-24T13:20:04.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Explosions Reported in Saudi Arabia",
+      "link": "https://investinglive.com/news/explosions-reported-in-saudi-arabia/",
+      "datum": "2026-07-24T13:15:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: September hike risk rises with oil and PMIs – Commerzbank",
+      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-risk-rises-with-oil-and-pmis-commerzbank-202607241257",
+      "datum": "2026-07-24T12:57:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro pauses near 12-week high against Yen despite upbeat Eurozone PMI",
+      "link": "https://www.fxstreet.com/news/euro-pauses-near-12-week-high-against-yen-despite-upbeat-eurozone-pmi-202607241247",
+      "datum": "2026-07-24T12:47:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Energy shock keeps risks elevated – Rabobank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-energy-shock-keeps-risks-elevated-rabobank-202607241241",
+      "datum": "2026-07-24T12:41:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada June PPI -1.4% versus -0.4% expected",
+      "link": "https://investinglive.com/news/canada-june-ppi-1-4-versus-0-4-expected/",
+      "datum": "2026-07-24T12:41:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada new housing price index for June -0.1% vs -0.3% last month",
+      "link": "https://investinglive.com/news/canada-new-housing-price-index-for-june-0-1-vs-0-3-last-month/",
+      "datum": "2026-07-24T12:33:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Economists agree: Bank of England to stay on hold amid easing inflation outlook",
+      "link": "https://www.fxstreet.com/news/economists-agree-bank-of-england-to-stay-on-hold-amid-easing-inflation-outlook-202607241233",
+      "datum": "2026-07-24T12:33:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "CEE FX: Higher rates to stabilise regional currencies – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-higher-rates-to-stabilise-regional-currencies-ing-202607241216",
+      "datum": "2026-07-24T12:16:58.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Silver Price Forecast: XAG/USD recovers as the US Dollar eases",
@@ -31,46 +85,10 @@
       "datum": "2026-07-24T11:50:45.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Holding rates while watching inflation risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-holding-rates-while-watching-inflation-risks-commerzbank-202607241135",
-      "datum": "2026-07-24T11:35:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold steadies after sharp drop as traders weigh Fed, Middle East risks",
-      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-weigh-fed-middle-east-risks-202607241133",
-      "datum": "2026-07-24T11:33:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: Oil surge offsets inflow support – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-oil-surge-offsets-inflow-support-societe-generale-202607241118",
-      "datum": "2026-07-24T11:18:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: September hike seen as highly likely – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-seen-as-highly-likely-deutsche-bank-202607241108",
-      "datum": "2026-07-24T11:08:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar rebounds but upside remains limited as US Dollar stays supported",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-but-upside-remains-limited-as-us-dollar-stays-supported-202607241107",
-      "datum": "2026-07-24T11:07:15.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "How have interest rate expectations changed after this week's events?",
       "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events/",
       "datum": "2026-07-24T10:56:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "“Still see probability of rate hike higher than hold”: ECB’s Simkus expresses hawkish bias on rates",
-      "link": "https://www.fxstreet.com/news/still-see-probability-of-rate-hike-higher-than-hold-ecbs-simkus-expresses-hawkish-bias-on-rates-202607241056",
-      "datum": "2026-07-24T10:56:09.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "Euro area business activity rises for first time in four months as demand conditions rebound",
       "link": "https://investinglive.com/news/eurozone-july-flash-services-pmi-vs-49-8-expected/",
       "datum": "2026-07-24T08:14:18.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany July flash manufacturing PMI 52.2 vs 50.5 expected",
-      "link": "https://investinglive.com/news/germany-july-flash-manufacturing-pmi-xx-vs-50-5-expected/",
-      "datum": "2026-07-24T07:32:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "French business activity stabilises in July amid strong rebound in the services economy",
-      "link": "https://investinglive.com/news/france-july-flash-services-pmi-vs-47-5-expected/",
-      "datum": "2026-07-24T07:24:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German household sentiment eases a little more heading into August",
-      "link": "https://investinglive.com/news/germany-august-gfk-consumer-sentiment-29-6-vs-28-5-expected/",
-      "datum": "2026-07-24T06:32:18.000Z"
     }
   ]
 }

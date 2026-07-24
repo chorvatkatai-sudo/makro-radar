@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-24T06:21:39.302Z",
+  "stand": "2026-07-24T11:03:12.841Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -4,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -9,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -11,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Die heute erwartete weichere UK-Inflation (~2,6–2,7 %) + das moderatere Lohnwachstum nehmen der BoE die Erhöhungs-Fantasie → Pfund-Gegenwind. Der festere Dollar (Index >101) verstärkt das. ABER: extreme Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,40 % > US) begrenzen den Rückgang stark. Track-Record schwach → maßvoll."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 3,
       "tiltCot": 5,
-      "tiltZins": 3,
-      "tiltGesamt": 8,
-      "score": 11,
+      "tiltZins": 2,
+      "tiltGesamt": 7,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber stark gebremst: Der Carry-Vorteil + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen die doppelt kühle US-Inflation, das wiederkehrende Risk-off (Yen-Bid) und akutes Interventions-Risiko. Track-Record 0/4 → bewusst nahe null."
     },

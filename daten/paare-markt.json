@@ -1,37 +1,37 @@
 {
-  "stand": "2026-07-24T12:16:53.708Z",
-  "ausBriefing": "2026-07-17",
+  "stand": "2026-07-24T13:20:46.516Z",
+  "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 2,
+      "baseScore": -5,
       "tiltCot": 0,
       "tiltZins": -1,
       "tiltGesamt": -1,
-      "score": 1,
+      "score": -6,
       "cotExtrem": null,
-      "treiber": "Leicht ins Plus: Die falkige EZB (September-Tür offen) + die stark steigende Euro-Rendite stützen den Euro gegen den festen Dollar. Gegenpol: teures Öl belastet die Import-Eurozone. Netto knapp positiv, Track-Record schwach → maßvoll."
+      "treiber": "Leicht abwärts: Der feste Dollar (Öl-Renditen + Sicherheits-Bid) drückt gegen den Öl-belasteten Euro; EUR/USD hielt sich nicht über 1,14. Gegenpol: gute Euro-PMIs + falkige EZB. Maßvoll wegen schwachem Track-Record."
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -4,
+      "baseScore": -3,
       "tiltCot": -5,
       "tiltZins": -2,
       "tiltGesamt": -7,
-      "score": -11,
+      "score": -10,
       "cotExtrem": null,
-      "treiber": "Leicht abwärts: Die heute erwartete weichere UK-Inflation (~2,6–2,7 %) + das moderatere Lohnwachstum nehmen der BoE die Erhöhungs-Fantasie → Pfund-Gegenwind. Der festere Dollar (Index >101) verstärkt das. ABER: extreme Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,40 % > US) begrenzen den Rückgang stark. Track-Record schwach → maßvoll."
+      "treiber": "Leicht abwärts: Kühlere UK-Inflation + schrumpfende PMIs gegen den festen Dollar. Gegenpol: falkige BoE (Öl) + crowded GBP-Shorts (Squeeze-Gefahr) bremsen die Abwärtswette."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 3,
+      "baseScore": 6,
       "tiltCot": 5,
       "tiltZins": 2,
       "tiltGesamt": 7,
-      "score": 10,
+      "score": 13,
       "cotExtrem": null,
-      "treiber": "Aufwärts, aber stark gebremst: Der Carry-Vorteil + teures Öl schwächen den Yen (~162, 4-Jahrzehnte-Tief) — dagegen die doppelt kühle US-Inflation, das wiederkehrende Risk-off (Yen-Bid) und akutes Interventions-Risiko. Track-Record 0/4 → bewusst nahe null."
+      "treiber": "Aufwärts, aber stark gebremst: Öl-Schock trifft den Yen hart, Zins-Nachteil wächst. ABER ~163 ist Interventions-Zone und mein USD/JPY-Record ist der schlechteste (1/5) → bewusst nur moderat positiv."
     },
     {
       "paar": "AUD/USD",
@@ -41,37 +41,37 @@
       "tiltGesamt": -2,
       "score": 0,
       "cotExtrem": null,
-      "treiber": "Ins Plus gedreht: Die starken Australien-Jobs (+24,5k, Quote 4,2 %) und die hohe Aussie-Rendite heben, der flache Dollar hilft — gebremst durch Risk-off (VIX ~17) und matte China-Nachfrage. Nur leicht aufwärts."
+      "treiber": "Knapp positiv: Starke Jobs + steigender Aussie-Zins gegen den festen Dollar. Gegenpol: Risk-off (VIX rauf) + schwaches China trimmen die Rohstoff-Währung. Netto knapp im Plus."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -8,
+      "baseScore": -6,
       "tiltCot": 5,
       "tiltZins": 3,
       "tiltGesamt": 8,
-      "score": 0,
+      "score": 2,
       "cotExtrem": "erhoeht",
-      "treiber": "Abwärts (Loonie stärker): Der Öl-Schock (WTI ~92 $, Brent >100 $, +12 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) treiben den CAD stärker als der feste Dollar. Kühlere Kanada-Inflation bremst nur leicht."
+      "treiber": "Abwärts (Loonie stärker): Der Öl-Schock (WTI ~90 $) ist Kanadas Trumpf. Gegenpol und Grund für Zurückhaltung: sehr kühle CAD-Inflation (Senkungs-Fantasie) + extrem short positionierte Loonie-Wetten (Squeeze) — die Markt-Korrektur wird das teils zurückheben."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 5,
+      "baseScore": 4,
       "tiltCot": 5,
       "tiltZins": 2,
       "tiltGesamt": 7,
-      "score": 12,
+      "score": 11,
       "cotExtrem": null,
-      "treiber": "Aufwärts, aber getrimmt: Die zinslose SNB (0%) nimmt dem Franken Zins-Rückenwind — ABER das wiederkehrende Risk-off (VIX 18) bringt dem sicheren Hafen wieder etwas Nachfrage, und der weichere Dollar deckelt den Anstieg. Nur moderat positiv."
+      "treiber": "Aufwärts, aber getrimmt: Der feste Dollar zieht das Paar hoch, doch der Franken bekommt bei steigender Nervosität (VIX) einen Hafen-Bid, der die Bewegung dämpft."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": 2,
+      "baseScore": -2,
       "tiltCot": -2,
       "tiltZins": 0,
       "tiltGesamt": -2,
-      "score": 0,
+      "score": -4,
       "cotExtrem": "extrem",
-      "treiber": "Ins Plus gedreht: Die gestern HEISSE NZ-Inflation (4,1%, über Ziel) erschwert RBNZ-Senkungen und ist Kiwi-positiv; dazu die EXTREMSTE Short-Positionierung im Feld (COT-z −2,53 = großes Squeeze-Risiko nach oben) + weicher Dollar. Gegenpol schwache China-Nachfrage + Risk-off → nur leicht positiv, Track-Record 1/5 mahnt zur Vorsicht."
+      "treiber": "Leicht abwärts: Fester Dollar + schwacher Kiwi diese Woche. Aber die EXTREM short positionierten Kiwi-Wetten (z −2,37) sind ein Pulverfass in beide Richtungen → nur zaghaft negativ."
     }
   ]
 }

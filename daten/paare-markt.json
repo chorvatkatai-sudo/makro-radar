@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-24T05:05:57.677Z",
+  "stand": "2026-07-24T06:21:39.302Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -4,
       "tiltCot": -5,
-      "tiltZins": -1,
-      "tiltGesamt": -6,
-      "score": -10,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": -9,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Die heute erwartete weichere UK-Inflation (~2,6–2,7 %) + das moderatere Lohnwachstum nehmen der BoE die Erhöhungs-Fantasie → Pfund-Gegenwind. Der festere Dollar (Index >101) verstärkt das. ABER: extreme Pfund-Shorts (Squeeze-Risiko) + höhere UK-Rendite (2J 4,40 % > US) begrenzen den Rückgang stark. Track-Record schwach → maßvoll."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 2,
       "tiltCot": -3,
-      "tiltZins": 0,
-      "tiltGesamt": -3,
-      "score": -1,
+      "tiltZins": 1,
+      "tiltGesamt": -2,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Ins Plus gedreht: Die starken Australien-Jobs (+24,5k, Quote 4,2 %) und die hohe Aussie-Rendite heben, der flache Dollar hilft — gebremst durch Risk-off (VIX ~17) und matte China-Nachfrage. Nur leicht aufwärts."
     },

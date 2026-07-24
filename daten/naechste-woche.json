@@ -34,7 +34,7 @@
     "country": "EUR",
     "title": "M3 Money Supply YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3.2%",
     "previous": "3.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -104,7 +104,7 @@
     "country": "USD",
     "title": "Durable Goods Orders Ex Transp MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.9%",
     "previous": "1.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -444,7 +444,7 @@
     "country": "AUD",
     "title": "Inflation Rate YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "4.1%",
     "previous": "4%",
     "actual": null,
     "quelle": "tradingview"
@@ -924,7 +924,7 @@
     "country": "CHF",
     "title": "KOF Leading Indicators",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "100.7",
     "previous": "101.2",
     "actual": null,
     "quelle": "tradingview"
@@ -1134,7 +1134,7 @@
     "country": "USD",
     "title": "GDP Growth Rate QoQ Adv",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.3%",
     "previous": "2.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -1144,8 +1144,8 @@
     "country": "USD",
     "title": "Personal Spending MoM",
     "impact": "High",
-    "forecast": "",
-    "previous": "0.7",
+    "forecast": "0.4%",
+    "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1194,7 +1194,7 @@
     "country": "USD",
     "title": "Personal Income MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -1224,7 +1224,7 @@
     "country": "USD",
     "title": "GDP Price Index QoQ Adv",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.7%",
     "previous": "3.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -1374,7 +1374,7 @@
     "country": "JPY",
     "title": "Tokyo Core CPI YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.8%",
     "previous": "1.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -1384,8 +1384,8 @@
     "country": "JPY",
     "title": "Unemployment Rate",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "2.5",
+    "forecast": "2.5%",
+    "previous": "2.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1424,8 +1424,8 @@
     "country": "JPY",
     "title": "Retail Sales YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "5.3",
+    "forecast": "2.8%",
+    "previous": "5.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1454,7 +1454,7 @@
     "country": "CNY",
     "title": "NBS Non Manufacturing PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "50",
     "previous": "50.2",
     "actual": null,
     "quelle": "tradingview"
@@ -1504,7 +1504,7 @@
     "country": "CNY",
     "title": "NBS Manufacturing PMI",
     "impact": "High",
-    "forecast": "",
+    "forecast": "49.9",
     "previous": "50.3",
     "actual": null,
     "quelle": "tradingview"
@@ -1564,7 +1564,7 @@
     "country": "JPY",
     "title": "Housing Starts YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "13.2%",
     "previous": "33.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -1624,7 +1624,7 @@
     "country": "EUR",
     "title": "Core Inflation Rate YoY Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.4%",
     "previous": "2.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -1634,7 +1634,7 @@
     "country": "EUR",
     "title": "Inflation Rate YoY Flash",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.9%",
     "previous": "2.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -1684,7 +1684,7 @@
     "country": "USD",
     "title": "Employment Cost Index QoQ",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.8%",
     "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"

@@ -1,11 +1,65 @@
 {
-  "stand": "2026-07-24T05:05:57.676Z",
+  "stand": "2026-07-24T06:21:39.301Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Surging US bond yields warrant downside",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-surging-us-bond-yields-warrant-downside-202607240620",
+      "datum": "2026-07-24T06:20:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Weakens despite ECB rate hike signals against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-weakens-despite-ecb-rate-hike-signals-against-us-dollar-uob-202607240615",
+      "datum": "2026-07-24T06:15:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK retail sales rose unexpectedly in June amid summer heat and World Cup fever",
+      "link": "https://investinglive.com/news/uk-june-retail-sales-1-0-vs-0-3-m-m-expected/",
+      "datum": "2026-07-24T06:14:35.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany August GfK consumer sentiment -29.6 vs -28.5 expected",
+      "link": "https://investinglive.com/news/germany-august-gfk-consumer-sentiment-29-6-vs-28-5-expected/",
+      "datum": "2026-07-24T06:02:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom Retail Sales climb 1.0% MoM in June vs. -0.3% expected",
+      "link": "https://www.fxstreet.com/news/united-kingdom-retail-sales-climb-10-mom-in-june-vs-03-expected-202607240601",
+      "datum": "2026-07-24T06:01:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Falls to near $90.00, while bullish structure stays intact",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-falls-to-near-9000-while-bullish-structure-stays-intact-202607240555",
+      "datum": "2026-07-24T05:55:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee rises as RBI intervenes again",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rises-as-rbi-intervenes-again-202607240546",
+      "datum": "2026-07-24T05:46:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asian stocks decline on Trump's tariffs, US-Iran tension; South Korea's KOSPI underperform",
+      "link": "https://www.fxstreet.com/news/asian-stocks-decline-on-trumps-tariffs-us-iran-tension-south-koreas-kospi-underperform-202607240533",
+      "datum": "2026-07-24T05:33:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB’s Nagel: Central bank is in a good position to respond to surging energy prices",
+      "link": "https://www.fxstreet.com/news/ecbs-nagel-central-bank-is-in-a-good-position-to-respond-to-surging-energy-prices-202607240532",
+      "datum": "2026-07-24T05:32:06.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro gains traction above 1.1350 as ECB holds rates steady",
@@ -38,57 +92,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Holds gains above 114.00, bullish vibe remains intact above 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-gains-above-11400-bullish-vibe-remains-intact-above-100-day-sma-202607240410",
-      "datum": "2026-07-24T04:10:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold extends slide as inflation fears lift Fed hike bets and USD amid Trump's tariffs",
+      "titel": "Gold sticks to intraday losses below $4,050 amid Fed hike bets, bullish USD",
       "link": "https://www.fxstreet.com/news/gold-extends-slide-as-inflation-fears-lift-fed-hike-bets-and-usd-amid-trumps-tariffs-202607240405",
       "datum": "2026-07-24T04:05:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Eyes rising wedge top near 187.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-eyes-rising-wedge-top-near-18700-202607240402",
-      "datum": "2026-07-24T04:02:39.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market moving news: 24 July 2026: Asian equities slapped down",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-24-july-2026-asian-equities-slapped-down/",
       "datum": "2026-07-24T03:52:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index holds gains near 101.50 on revival of hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-near-10150-on-revival-of-hawkish-fed-bets-202607240322",
-      "datum": "2026-07-24T03:22:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD holds gains above $57.50 despite rising Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-above-5750-despite-rising-fed-rate-hike-odds-202607240239",
-      "datum": "2026-07-24T02:39:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound rebounds above 1.3300 ahead of UK Retail Sales data",
-      "link": "https://www.fxstreet.com/news/british-pound-rebounds-above-13300-ahead-of-uk-retail-sales-data-202607240219",
-      "datum": "2026-07-24T02:19:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar edges higher vs soft USD; bulls seem hesitant amid mixed cues",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-higher-vs-soft-usd-bulls-seem-hesitant-amid-mixed-cues-202607240206",
-      "datum": "2026-07-24T02:06:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro rises as US Dollar weakens despite rising Middle East tensions",
-      "link": "https://www.fxstreet.com/news/euro-rises-as-us-dollar-weakens-despite-rising-middle-east-tensions-202607240145",
-      "datum": "2026-07-24T01:45:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Australia composite PMI rises to 52.6 in July as new orders return to growth",
       "link": "https://investinglive.com/news/australia-composite-pmi-rises-to-52-6-in-july-as-new-orders-return-to-growth/",
       "datum": "2026-07-23T23:12:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 23 Jul: Risk off sentiment as geopolitical tensions rise.",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-23-jul-risk-off-sentiment-as-geopolitical-tensions-rise/",
-      "datum": "2026-07-23T21:26:40.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump unveils new tariffs designed to survive legal challenge, WSJ reports",
-      "link": "https://investinglive.com/news/trump-unveils-new-tariffs-designed-to-survive-legal-challenge-wsj-reports/",
-      "datum": "2026-07-23T21:11:09.000Z"
     }
   ]
 }

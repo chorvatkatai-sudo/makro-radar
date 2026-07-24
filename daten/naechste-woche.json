@@ -54,8 +54,8 @@
     "country": "EUR",
     "title": "Loans to Households YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "3.1",
+    "forecast": "3.1%",
+    "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -64,7 +64,7 @@
     "country": "GBP",
     "title": "CBI Distributive Trades",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-45",
     "previous": "-54",
     "actual": null,
     "quelle": "tradingview"
@@ -84,7 +84,7 @@
     "country": "USD",
     "title": "Durable Goods Orders MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.6%",
     "previous": "-4.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -174,7 +174,7 @@
     "country": "GBP",
     "title": "BRC Shop Price Inflation",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.2%",
     "previous": "1.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -254,7 +254,7 @@
     "country": "USD",
     "title": "Goods Trade Balance Adv",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-98 $",
     "previous": "-105.9 $",
     "actual": null,
     "quelle": "tradingview"
@@ -264,7 +264,7 @@
     "country": "USD",
     "title": "Wholesale Inventories MoM Adv",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -364,7 +364,7 @@
     "country": "USD",
     "title": "CB Consumer Confidence",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "92.1",
     "previous": "91.2",
     "actual": null,
     "quelle": "tradingview"
@@ -444,7 +444,7 @@
     "country": "AUD",
     "title": "Inflation Rate MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "-0.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -484,7 +484,7 @@
     "country": "AUD",
     "title": "RBA Trimmed Mean CPI MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -564,7 +564,7 @@
     "country": "GBP",
     "title": "Mortgage Approvals",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "56",
     "previous": "56.21",
     "actual": null,
     "quelle": "tradingview"
@@ -574,7 +574,7 @@
     "country": "GBP",
     "title": "M4 Money Supply MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -604,7 +604,7 @@
     "country": "GBP",
     "title": "Net Lending to Individuals MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "5.5 £",
     "previous": "4.6 £",
     "actual": null,
     "quelle": "tradingview"
@@ -854,7 +854,7 @@
     "country": "AUD",
     "title": "Import Prices QoQ",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -874,7 +874,7 @@
     "country": "AUD",
     "title": "Building Permits MoM Prel",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-0.5%",
     "previous": "-1.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -924,7 +924,7 @@
     "country": "JPY",
     "title": "Consumer Confidence",
     "impact": "High",
-    "forecast": "",
+    "forecast": "34.2",
     "previous": "33.8",
     "actual": null,
     "quelle": "tradingview"
@@ -1094,7 +1094,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "206",
     "previous": "187",
     "actual": null,
     "quelle": "tradingview"
@@ -1174,7 +1174,7 @@
     "country": "USD",
     "title": "Core PCE Price Index MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1434,7 +1434,7 @@
     "country": "JPY",
     "title": "Industrial Production MoM Prel",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.7%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -1484,8 +1484,8 @@
     "country": "AUD",
     "title": "Private Sector Credit MoM",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.7",
+    "forecast": "0.6%",
+    "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1524,7 +1524,7 @@
     "country": "AUD",
     "title": "PPI QoQ",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -1604,7 +1604,7 @@
     "country": "CHF",
     "title": "Retail Sales YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.2%",
     "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1724,7 +1724,7 @@
     "country": "USD",
     "title": "Chicago PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "57.5",
     "previous": "56.7",
     "actual": null,
     "quelle": "tradingview"

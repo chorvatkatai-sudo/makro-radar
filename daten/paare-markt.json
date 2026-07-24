@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-24T13:23:13.624Z",
+  "stand": "2026-07-24T14:47:10.241Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -6,
       "tiltCot": 5,
-      "tiltZins": 4,
-      "tiltGesamt": 9,
-      "score": 3,
+      "tiltZins": 3,
+      "tiltGesamt": 8,
+      "score": 2,
       "cotExtrem": "erhoeht",
       "treiber": "Abwärts (Loonie stärker): Der Öl-Schock (WTI ~90 $) ist Kanadas Trumpf. Gegenpol und Grund für Zurückhaltung: sehr kühle CAD-Inflation (Senkungs-Fantasie) + extrem short positionierte Loonie-Wetten (Squeeze) — die Markt-Korrektur wird das teils zurückheben."
     },

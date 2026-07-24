@@ -1,11 +1,77 @@
 {
-  "stand": "2026-07-24T13:23:13.623Z",
+  "stand": "2026-07-24T14:47:10.240Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Hawkish ECB and strong PMI cap downside – BBH",
+      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-and-strong-pmi-cap-downside-bbh-202607241446",
+      "datum": "2026-07-24T14:46:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro slips as strong US PMI supports Greenback",
+      "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-strong-us-pmi-supports-greenback-202607241442",
+      "datum": "2026-07-24T14:42:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar struggles as stronger PMIs support US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-stronger-pmis-support-us-dollar-202607241433",
+      "datum": "2026-07-24T14:33:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Pres. Trump to meet with Israel Prime Minister Netanyahu on Tuesday at the White House",
+      "link": "https://investinglive.com/news/pres-trump-to-meet-with-israel-prime-minister-netanyahu-on-tuesday-at-the-white-house/",
+      "datum": "2026-07-24T14:27:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Range holds against US Dollar as trade risks linger – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-range-holds-against-us-dollar-as-trade-risks-linger-scotiabank-202607241424",
+      "datum": "2026-07-24T14:24:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US new-home sales for the month of June 0.628M versus 0.610M estimate",
+      "link": "https://investinglive.com/news/us-new-home-sales-for-the-month-of-june-0-628m-versus-0-610m-estimate/",
+      "datum": "2026-07-24T14:09:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: BoE holds as energy risks rise – Rabobank",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-holds-as-energy-risks-rise-rabobank-202607241407",
+      "datum": "2026-07-24T14:07:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The July Flash S&P Global Manufacturing 53.8 vs 54.3 estimate",
+      "link": "https://investinglive.com/news/the-july-flash-s-p-global-manufacturing-53-8-vs-54-3-estimate/",
+      "datum": "2026-07-24T13:54:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Retail sales support modest Q2 consumption – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-retail-sales-support-modest-q2-consumption-td-securities-202607241351",
+      "datum": "2026-07-24T13:51:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South African Rand: Weakness resumes after SARB surprise – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-african-rand-weakness-resumes-after-sarb-surprise-societe-generale-202607241336",
+      "datum": "2026-07-24T13:36:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Bulls retest 100-day SMA as momentum stays bullish",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-retest-100-day-sma-as-momentum-stays-bullish-202607241334",
+      "datum": "2026-07-24T13:34:31.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Japanese Yen: BoJ repricing may limit JPY losses against US Dollar - BBH",
@@ -25,18 +91,6 @@
       "datum": "2026-07-24T12:57:40.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro pauses near 12-week high against Yen despite upbeat Eurozone PMI",
-      "link": "https://www.fxstreet.com/news/euro-pauses-near-12-week-high-against-yen-despite-upbeat-eurozone-pmi-202607241247",
-      "datum": "2026-07-24T12:47:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Energy shock keeps risks elevated – Rabobank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-energy-shock-keeps-risks-elevated-rabobank-202607241241",
-      "datum": "2026-07-24T12:41:24.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canada June PPI -1.4% versus -0.4% expected",
       "link": "https://investinglive.com/news/canada-june-ppi-1-4-versus-0-4-expected/",
@@ -50,69 +104,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Economists agree: Bank of England to stay on hold amid easing inflation outlook",
-      "link": "https://www.fxstreet.com/news/economists-agree-bank-of-england-to-stay-on-hold-amid-easing-inflation-outlook-202607241233",
-      "datum": "2026-07-24T12:33:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "CEE FX: Higher rates to stabilise regional currencies – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-higher-rates-to-stabilise-regional-currencies-ing-202607241216",
-      "datum": "2026-07-24T12:16:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD recovers as the US Dollar eases",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-recovers-as-the-us-dollar-eases-202607241215",
-      "datum": "2026-07-24T12:15:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB officials confirm: Eurozone inflation to stay above target for a longer period",
-      "link": "https://www.fxstreet.com/news/ecb-officials-confirm-eurozone-inflation-to-stay-above-target-for-a-longer-period-202607241212",
-      "datum": "2026-07-24T12:12:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Improved UK growth-inflation mix backs Sterling – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-improved-uk-growth-inflation-mix-backs-sterling-bbh-202607241202",
-      "datum": "2026-07-24T12:02:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: ECB hawkish but EUR still disadvantaged against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/euro-ecb-hawkish-but-eur-still-disadvantaged-against-us-dollar-ocbc-202607241150",
-      "datum": "2026-07-24T11:50:45.000Z"
+      "titel": "Gold steadies after sharp drop as traders weigh Fed, Middle East risks",
+      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-weigh-fed-middle-east-risks-202607241133",
+      "datum": "2026-07-24T11:33:48.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "How have interest rate expectations changed after this week's events?",
       "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events/",
       "datum": "2026-07-24T10:56:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Oil prices come off the boil, markets take a light breather in final stretch of the week",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-prices-come-off-the-boil-markets-take-a-light-breather-in-final-stretch-of-the-week/",
-      "datum": "2026-07-24T10:55:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US S&P Global PMI expected to highlight resilient business activity in July",
-      "link": "https://www.fxstreet.com/news/us-sp-global-pmi-expected-to-show-steady-business-growth-in-july-202607241000",
-      "datum": "2026-07-24T10:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK July flash services PMI 51.8 vs 49.4 expected",
-      "link": "https://investinglive.com/news/uk-july-flash-services-pmi-xx-vs-49-4-expected/",
-      "datum": "2026-07-24T08:33:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Euro area business activity rises for first time in four months as demand conditions rebound",
-      "link": "https://investinglive.com/news/eurozone-july-flash-services-pmi-vs-49-8-expected/",
-      "datum": "2026-07-24T08:14:18.000Z"
     }
   ]
 }

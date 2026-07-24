@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-24T11:03:12.842Z",
+ "erstellt": "2026-07-24T12:16:53.709Z",
  "wochenStart": "2026-07-19",
  "events": [
   {
@@ -3120,15 +3120,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-24T11:00:30.468Z",
+  "stand": "2026-07-24T12:16:52.586Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.37,
+    "wert": 101.44,
     "tagProzent": 0,
-    "wocheProzent": 0.37,
+    "wocheProzent": 0.44,
     "renditeDelta": false,
     "verlauf": [
      101.43,
@@ -3151,17 +3151,17 @@ window.MAKRO_DATA = {
      101.18,
      101.14,
      101.43,
-     101.37,
-     101.37
+     101.44,
+     101.44
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.86,
+    "wert": 18.77,
     "tagProzent": 0,
-    "wocheProzent": 1.13,
+    "wocheProzent": 0.64,
     "renditeDelta": false,
     "verlauf": [
      18.89,
@@ -3184,17 +3184,17 @@ window.MAKRO_DATA = {
      17.05,
      16.64,
      18.7,
-     18.86,
-     18.86
+     18.77,
+     18.77
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 89.74,
+    "wert": 89.83,
     "tagProzent": 0,
-    "wocheProzent": 7.82,
+    "wocheProzent": 7.93,
     "renditeDelta": false,
     "verlauf": [
      71.92,
@@ -3217,17 +3217,17 @@ window.MAKRO_DATA = {
      84.91,
      86.83,
      92.19,
-     89.74,
-     89.74
+     89.83,
+     89.83
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 92.05,
+    "wert": 92,
     "tagProzent": 0,
-    "wocheProzent": 3.17,
+    "wocheProzent": 3.12,
     "renditeDelta": false,
     "verlauf": [
      75.26,
@@ -3250,17 +3250,17 @@ window.MAKRO_DATA = {
      91.01,
      94.07,
      100.69,
-     92.05,
-     92.05
+     92,
+     92
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4061.5,
+    "wert": 4057.5,
     "tagProzent": 0,
-    "wocheProzent": 1.28,
+    "wocheProzent": 1.18,
     "renditeDelta": false,
     "verlauf": [
      4030.5,
@@ -3283,8 +3283,8 @@ window.MAKRO_DATA = {
      4071.1,
      4146.9,
      4046.6,
-     4061.5,
-     4061.5
+     4057.5,
+     4057.5
     ]
    },
    "US02Y": {
@@ -3390,9 +3390,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64884.43,
+    "wert": 65001.98,
     "tagProzent": 0,
-    "wocheProzent": -0.53,
+    "wocheProzent": -0.35,
     "renditeDelta": false,
     "verlauf": [
      63088.3,
@@ -3415,17 +3415,17 @@ window.MAKRO_DATA = {
      66505.13,
      66100.8,
      65044.81,
-     64884.43,
-     64884.43
+     65001.98,
+     65001.98
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.71,
-    "tagProzent": 0,
-    "wocheProzent": 0.08,
+    "wert": 3.72,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.09,
     "renditeDelta": true,
     "verlauf": [
      3.62,
@@ -3449,9 +3449,77 @@ window.MAKRO_DATA = {
      3.64,
      3.64,
      3.71,
-     3.71
+     3.72
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.39,
+    "tagProzent": 0.02,
+    "wocheProzent": 0.07,
+    "renditeDelta": true,
+    "verlauf": [
+     2.28,
+     2.29,
+     2.23,
+     2.19,
+     2.18,
+     2.16,
+     2.2,
+     2.25,
+     2.26,
+     2.24,
+     2.3,
+     2.31,
+     2.31,
+     2.32,
+     2.36,
+     2.33,
+     2.32,
+     2.35,
+     2.31,
+     2.35,
+     2.37,
+     2.39
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.28,
+    "tagProzent": 0,
+    "wocheProzent": 0.06,
+    "renditeDelta": true,
+    "verlauf": [
+     2.21,
+     2.18,
+     2.21,
+     2.2,
+     2.22,
+     2.24,
+     2.23,
+     2.23,
+     2.24,
+     2.25,
+     2.25,
+     2.23,
+     2.24,
+     2.26,
+     2.25,
+     2.23,
+     2.22,
+     2.24,
+     2.25,
+     2.26,
+     2.28,
+     2.28
+    ],
+    "quelle": "FRED"
    }
   },
   "kurve2s10s": 0.74,
@@ -3548,32 +3616,32 @@ window.MAKRO_DATA = {
    "stand": "2026-07-24",
    "werte": {
     "USD": {
-     "wert": 4.335,
-     "wocheDelta": 0.144
+     "wert": 4.328,
+     "wocheDelta": 0.137
     },
     "EUR": {
-     "wert": 2.845,
-     "wocheDelta": 0.101
+     "wert": 2.844,
+     "wocheDelta": 0.1
     },
     "GBP": {
-     "wert": 4.449,
-     "wocheDelta": 0.098
+     "wert": 4.443,
+     "wocheDelta": 0.092
     },
     "JPY": {
      "wert": 1.516,
      "wocheDelta": 0.088
     },
     "AUD": {
-     "wert": 4.699,
-     "wocheDelta": 0.177
+     "wert": 4.69,
+     "wocheDelta": 0.168
     },
     "CAD": {
-     "wert": 2.943,
-     "wocheDelta": 0.073
+     "wert": 2.938,
+     "wocheDelta": 0.068
     },
     "CHF": {
-     "wert": 0.217,
-     "wocheDelta": 0.101
+     "wert": 0.215,
+     "wocheDelta": 0.099
     },
     "NZD": {
      "wert": 3.803,
@@ -3594,9 +3662,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 2,
    "tiltCot": 0,
-   "tiltZins": -2,
-   "tiltGesamt": -2,
-   "score": 0,
+   "tiltZins": -1,
+   "tiltGesamt": -1,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "Leicht ins Plus: Die falkige EZB (September-Tür offen) + die stark steigende Euro-Rendite stützen den Euro gegen den festen Dollar. Gegenpol: teures Öl belastet die Import-Eurozone. Netto knapp positiv, Track-Record schwach → maßvoll."
   },
@@ -3663,13 +3731,67 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-24T11:03:12.839Z",
+  "stand": "2026-07-24T12:16:53.707Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver Price Forecast: XAG/USD recovers as the US Dollar eases",
+    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-recovers-as-the-us-dollar-eases-202607241215",
+    "datum": "2026-07-24T12:15:35.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "ECB officials confirm: Eurozone inflation to stay above target for a longer period",
+    "link": "https://www.fxstreet.com/news/ecb-officials-confirm-eurozone-inflation-to-stay-above-target-for-a-longer-period-202607241212",
+    "datum": "2026-07-24T12:12:45.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound: Improved UK growth-inflation mix backs Sterling – BBH",
+    "link": "https://www.fxstreet.com/news/british-pound-improved-uk-growth-inflation-mix-backs-sterling-bbh-202607241202",
+    "datum": "2026-07-24T12:02:45.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro: ECB hawkish but EUR still disadvantaged against US Dollar – OCBC",
+    "link": "https://www.fxstreet.com/news/euro-ecb-hawkish-but-eur-still-disadvantaged-against-us-dollar-ocbc-202607241150",
+    "datum": "2026-07-24T11:50:45.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Federal Reserve: Holding rates while watching inflation risks – Commerzbank",
+    "link": "https://www.fxstreet.com/news/federal-reserve-holding-rates-while-watching-inflation-risks-commerzbank-202607241135",
+    "datum": "2026-07-24T11:35:16.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold steadies after sharp drop as traders weigh Fed, Middle East risks",
+    "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-weigh-fed-middle-east-risks-202607241133",
+    "datum": "2026-07-24T11:33:48.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee: Oil surge offsets inflow support – Societe Generale",
+    "link": "https://www.fxstreet.com/news/indian-rupee-oil-surge-offsets-inflow-support-societe-generale-202607241118",
+    "datum": "2026-07-24T11:18:19.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "European Central Bank: September hike seen as highly likely – Deutsche Bank",
+    "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-seen-as-highly-likely-deutsche-bank-202607241108",
+    "datum": "2026-07-24T11:08:18.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "New Zealand Dollar rebounds but upside remains limited as US Dollar stays supported",
+    "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-but-upside-remains-limited-as-us-dollar-stays-supported-202607241107",
+    "datum": "2026-07-24T11:07:15.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "How have interest rate expectations changed after this week's events?",
@@ -3690,51 +3812,9 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "US S&P Global PMI expected to show steady business growth in July",
+    "titel": "US S&P Global PMI expected to highlight resilient business activity in July",
     "link": "https://www.fxstreet.com/news/us-sp-global-pmi-expected-to-show-steady-business-growth-in-july-202607241000",
     "datum": "2026-07-24T10:00:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Turkish Lira: Tight CBRT funding offers marginal support – Commerzbank",
-    "link": "https://www.fxstreet.com/news/turkish-lira-tight-cbrt-funding-offers-marginal-support-commerzbank-202607240944",
-    "datum": "2026-07-24T09:44:25.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro holds steady vs British Pound after stronger Eurozone, UK data",
-    "link": "https://www.fxstreet.com/news/euro-holds-steady-vs-british-pound-after-stronger-eurozone-uk-data-202607240934",
-    "datum": "2026-07-24T09:34:18.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Silver price today: Silver rises, according to FXStreet data",
-    "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607240931",
-    "datum": "2026-07-24T09:31:38.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Dollar: Fed expectations keep upside in focus – ING",
-    "link": "https://www.fxstreet.com/news/us-dollar-fed-expectations-keep-upside-in-focus-ing-202607240923",
-    "datum": "2026-07-24T09:23:43.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen remains pinned near 40-year low as Fed-BoJ rate gap keeps carry trade active",
-    "link": "https://www.fxstreet.com/news/japanese-yen-remains-pinned-near-40-year-low-as-fed-boj-rate-gap-keeps-carry-trade-active-202607240906",
-    "datum": "2026-07-24T09:06:08.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro: Rate support seen fading gradually against US Dollar – MUFG",
-    "link": "https://www.fxstreet.com/news/euro-rate-support-seen-fading-gradually-against-us-dollar-mufg-202607240852",
-    "datum": "2026-07-24T08:52:55.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "UK S&P Global Services PMI returns to growth in July, arrives at 51.8",
-    "link": "https://www.fxstreet.com/news/uk-sp-global-services-pmi-returns-to-growth-in-july-arrives-at-518-202607240836",
-    "datum": "2026-07-24T08:36:28.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3765,18 +3845,6 @@ window.MAKRO_DATA = {
     "titel": "German household sentiment eases a little more heading into August",
     "link": "https://investinglive.com/news/germany-august-gfk-consumer-sentiment-29-6-vs-28-5-expected/",
     "datum": "2026-07-24T06:32:18.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound retreats from 1.3340 as bright UK data fails to offset risk aversion",
-    "link": "https://www.fxstreet.com/news/british-pound-remains-depressed-near-13300-despite-upbeat-uk-retail-sales-data-202607240628",
-    "datum": "2026-07-24T06:28:25.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "UK retail sales rose unexpectedly in June amid summer heat and World Cup fever",
-    "link": "https://investinglive.com/news/uk-june-retail-sales-1-0-vs-0-3-m-m-expected/",
-    "datum": "2026-07-24T06:25:28.000Z"
    }
   ]
  },

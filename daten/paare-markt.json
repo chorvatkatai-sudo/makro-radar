@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-24T11:03:12.841Z",
+  "stand": "2026-07-24T12:16:53.708Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 2,
       "tiltCot": 0,
-      "tiltZins": -2,
-      "tiltGesamt": -2,
-      "score": 0,
+      "tiltZins": -1,
+      "tiltGesamt": -1,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Leicht ins Plus: Die falkige EZB (September-Tür offen) + die stark steigende Euro-Rendite stützen den Euro gegen den festen Dollar. Gegenpol: teures Öl belastet die Import-Eurozone. Netto knapp positiv, Track-Record schwach → maßvoll."
     },

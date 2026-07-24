@@ -1,17 +1,17 @@
 {
-  "stand": "2026-07-23T20:53:25.670Z",
+  "stand": "2026-07-24T05:05:39.346Z",
   "ausBriefing": "2026-07-17",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -5,
+      "baseScore": 2,
       "tiltCot": 0,
       "tiltZins": 1,
       "tiltGesamt": 1,
-      "score": -4,
+      "score": 3,
       "cotExtrem": null,
-      "treiber": "Leicht abwärts: Der weichere Dollar + die diese Woche steigende Euro-Rendite stützen den Euro, ABER das teure Öl (Euro-Importeur) und eine drohend-dovishe EZB (Do) überwiegen knapp. Netto mild negativ."
+      "treiber": "Leicht ins Plus: Die falkige EZB (September-Tür offen) + die stark steigende Euro-Rendite stützen den Euro gegen den festen Dollar. Gegenpol: teures Öl belastet die Import-Eurozone. Netto knapp positiv, Track-Record schwach → maßvoll."
     },
     {
       "paar": "GBP/USD",
@@ -45,13 +45,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -4,
+      "baseScore": -8,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
-      "score": 1,
+      "score": -3,
       "cotExtrem": "erhoeht",
-      "treiber": "Weiter abwärts (Loonie stärker): Das noch teurere Öl (WTI ~84,5 $, +6 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD stärker als der diese Woche festere Dollar. Gegenpol: die kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Fantasie. Netto moderat negativ."
+      "treiber": "Abwärts (Loonie stärker): Der Öl-Schock (WTI ~92 $, Brent >100 $, +12 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) treiben den CAD stärker als der feste Dollar. Kühlere Kanada-Inflation bremst nur leicht."
     },
     {
       "paar": "USD/CHF",

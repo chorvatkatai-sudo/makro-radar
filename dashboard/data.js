@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-23T20:53:25.671Z",
+ "erstellt": "2026-07-24T05:05:39.347Z",
  "wochenStart": "2026-07-19",
  "events": [
   {
@@ -2475,9 +2475,9 @@ window.MAKRO_DATA = {
     "grund": "Boden gefestigt: Der Dollar-Index kletterte diese Woche wieder über 101 (+0,7 %). Stützen: steigende US-Renditen (10J 4,63 %, +0,08 Pp), teures Öl als neue Inflations-Sorge und leichtes Risk-off (VIX ~17) = Sicherheits-Bid. Gegenpol: die doppelt kühle US-Inflation der Vorwoche und ein nur mager steigender US-Zinsvorsprung (2J +0,05 Pp, weniger als EUR/GBP). Der „Riss\" der Vorwoche ist verklebt → neutral, leicht fester."
    },
    "EUR": {
-    "stimmung": "bärisch",
-    "score": -5,
-    "grund": "Zweischneidig: Der weichere Dollar und die diese Woche STEIGENDE Euro-2J-Rendite (+0,11 Pp, stärkster Anstieg im Feld) stützen den Euro. Dagegen: Das teure Öl belastet die Energie-Importeurin Eurozone spürbar, das Risk-off hilft dem Euro nicht (kein sicherer Hafen), und nächste Woche droht eine dovishe EZB (Do). Leicht negativ, etwas milder als zuvor."
+    "stimmung": "neutral",
+    "score": 0,
+    "grund": "Von leicht bärisch auf neutral gedreht: Die EZB hielt gestern zwar die Zinsen, klang aber FALKIG und ließ die September-Tür offen (statt der befürchteten Beschwichtigung) — dazu stieg die Euro-2J-Rendite diese Woche am stärksten im Feld (+0,12 Pp). Gegenpol: Das teure Öl (Brent >100 $) belastet die Energie-Importeurin Eurozone und das Risk-off hilft dem Euro nicht (kein sicherer Hafen). Netto ausgeglichen."
    },
    "GBP": {
     "stimmung": "neutral",
@@ -2487,7 +2487,7 @@ window.MAKRO_DATA = {
    "JPY": {
     "stimmung": "bärisch",
     "score": -2,
-    "grund": "Schwach, aber bewusst nur leicht: Gegen den Yen arbeiten der brutale Zins-Rückstand (2J nur 1,43%) und das teure Öl (Energie-Importeur). FÜR ihn: das wiederkehrende Risk-off (VIX 18) gibt dem sicheren Hafen etwas Bid, dazu akutes Interventionsrisiko bei ~162 (Katayama warnt) und nächste Woche Japans Inflation (Do, Kern erwartet 1,6% = festigt sich). Track-Record 0/4 → ich score ihn absichtlich fast neutral."
+    "grund": "Schwach, aber bewusst nur leicht: Gegen den Yen arbeiten der brutale Zins-Rückstand (2J nur 1,49 %) und das teure Öl (Japan ist Energie-Importeur). FÜR ihn: das Risk-off (VIX 18,7) gibt dem sicheren Hafen etwas Bid, dazu akutes Interventionsrisiko bei ~163. Track-Record 0/5 → ich score ihn absichtlich fast neutral."
    },
    "CHF": {
     "stimmung": "bärisch",
@@ -2496,8 +2496,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "bullisch",
-    "score": 6,
-    "grund": "Relativer Gewinner, Öl treibt: Das Öl legte weiter zu (WTI ~84,5 $, Brent ~91 $, +6 % Wo) und stützt Kanadas Top-Export kräftig. Dazu EXTREME Loonie-Shorts der Großspekulanten (−48 %, COT-z −1,86 = Short-Squeeze-Potenzial nach oben) und solide Jobs. Gegenpol: die gestern-vorgestern kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Dringlichkeit. Netto bullisch, das teure Öl überwiegt."
+    "score": 10,
+    "grund": "Klarer Öl-Gewinner: Der Iran-Krieg trieb Öl auf WTI ~92 $ / Brent >100 $ (+12 % Wo) — kräftige Stütze für Kanadas Top-Export. Dazu EXTREME Loonie-Shorts der Großspekulanten (−48 %, COT-z −1,86 = Short-Squeeze-Potenzial nach oben). Gegenpol: die kühlere Kanada-Inflation (2,8 %) nimmt der BoC etwas Erhöhungs-Dringlichkeit. Das teure Öl überwiegt deutlich."
    },
    "AUD": {
     "stimmung": "bullisch",
@@ -2513,8 +2513,8 @@ window.MAKRO_DATA = {
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": -5,
-    "treiber": "Leicht abwärts: Der weichere Dollar + die diese Woche steigende Euro-Rendite stützen den Euro, ABER das teure Öl (Euro-Importeur) und eine drohend-dovishe EZB (Do) überwiegen knapp. Netto mild negativ."
+    "score": 2,
+    "treiber": "Leicht ins Plus: Die falkige EZB (September-Tür offen) + die stark steigende Euro-Rendite stützen den Euro gegen den festen Dollar. Gegenpol: teures Öl belastet die Import-Eurozone. Netto knapp positiv, Track-Record schwach → maßvoll."
    },
    {
     "paar": "GBP/USD",
@@ -2533,8 +2533,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": -4,
-    "treiber": "Weiter abwärts (Loonie stärker): Das noch teurere Öl (WTI ~84,5 $, +6 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD stärker als der diese Woche festere Dollar. Gegenpol: die kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Fantasie. Netto moderat negativ."
+    "score": -8,
+    "treiber": "Abwärts (Loonie stärker): Der Öl-Schock (WTI ~92 $, Brent >100 $, +12 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) treiben den CAD stärker als der feste Dollar. Kühlere Kanada-Inflation bremst nur leicht."
    },
    {
     "paar": "USD/CHF",
@@ -2649,20 +2649,19 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Die COT-Daten zeigen drei Short-Extreme — NZD (z −2,53, −57% short!), GBP (z −1,84) und CAD (z −1,83). Bei NZD und GBP habe ich deshalb bewusst NAHE NULL gescort (Squeeze-Risiko nach oben deckelt die Bearishness). Bei CAD wirkt der extreme Short dagegen ALS ZÜNDER in Richtung meiner Bull-These: Steigt das Öl, kann die Short-Eindeckung den Loonie zusätzlich treiben."
   ],
   "tagesnews": {
-   "stand": "2026-07-23",
-   "wochentag": "Donnerstag",
-   "tenor": "EZB-Tag: Heute Nachmittag entscheidet die Europäische Zentralbank (14:15 Wien) — erwartet wird ein Halten bei 2,40 %, alles hängt an Lagardes Ton (deutet sie eine Erhöhung im September an?). Über Nacht kamen aus Australien starke Jobzahlen (Aussie-positiv) und aus Japan eine zahme Inflation (Yen bleibt schwach). Der Dollar steht flach knapp über 101, während teures Öl (WTI ~86 $) und Gold nahe Rekord (~4.150 $) die Kulisse bilden.",
+   "stand": "2026-07-24",
+   "wochentag": "Freitag",
+   "tenor": "Öl-Kriegsschock beherrscht die Bühne: WTI sprang auf ~92 $, Brent kletterte erstmals seit Mai über 100 $ (Iran-Krieg eskaliert — US-Angriffe, Tanker-Attacken, Trump droht mit „massivem Schlag\"). Die EZB hielt gestern die Zinsen (2,25 % Einlagensatz), klang aber falkig und ließ die Tür für eine September-Erhöhung offen. Der Dollar steht fest über 101 (steigende US-Renditen + Sicherheits-Bid), Kanadas Loonie ist der Öl-Gewinner, Öl-Importeure wie Euro und Yen bekommen Gegenwind. Heute die Stimmungs-Umfragen (Flash-PMIs).",
    "heute": [
-    "🇪🇺 HEUTE das Highlight: die EZB-Zinsentscheidung (14:15 Wien) + Lagarde-Pressekonferenz (14:45). Fast sicher wird gehalten (Leitzins 2,40 %, Einlagensatz 2,25 %) — Juli ist ein Zwischentermin ohne neue Prognosen. Kinderleicht: Nicht die Entscheidung selbst bewegt den Euro, sondern Lagardes WORTE. Klingt sie besorgt über zu hohe Preise (‚Risiken nach oben‘), wächst die Wette auf eine September-Erhöhung → Euro-Rückenwind. Klingt sie beruhigt, gibt der Euro nach. Rückenwind hat der Euro schon: Die deutschen 2-Jahres-Renditen sind diese Woche am stärksten im Feld gestiegen.",
-    "🇦🇺 Über Nacht: Australiens Arbeitsmarkt kam STARK — +24,5k neue Jobs (erwartet ~16k) und die Arbeitslosenquote FIEL auf 4,2 % (von 4,3 %, erwartet 4,4 %). Vollzeit-Jobs +60k trugen. Kinderleicht: Ein starker Jobmarkt hält die Notenbank (RBA) hart und stützt den Aussie. Deshalb heute leicht angehoben — gebremst nur durch die schwache China-Nachfrage.",
-    "🇯🇵 Über Nacht: Japans Inflation blieb ZAHM (Kern-Kern ~1,9 %, weiter unter dem 2 %-Ziel der Notenbank). Kinderleicht: Solange die Preise nicht klar über 2 % steigen, hat die Bank of Japan es nicht eilig mit Zinserhöhungen → der Yen bleibt schwach (USD/JPY ~163, nahe Mehrzehnjahres-Hoch = Interventions-Zone, Japan könnte eingreifen).",
-    "🛢️ Kulisse: Öl bleibt teuer (WTI ~86 $, Brent ~93 $ — Rückenwind für den Kanada-Dollar), Gold nahe Rekord (~4.150 $), das Angst-Barometer VIX bei ~17 (leichtes Risk-off). Der Dollar-Index steht flach über 101 — der Aufwärtsdrang hat nachgelassen, seit Öl und Gold davonziehen."
+    "🌍 HEUTE die Flash-PMIs (Stimmungs-Umfragen der Einkaufsmanager, erster Blick auf den Juli): Frankreich/Deutschland früh, Eurozone am Vormittag, UK 10:30 Wien, USA 15:45 Wien. Erwartet: USA ~51,9 (wächst) vs. Eurozone ~50,0 (Stillstand) vs. UK ~49,3 (schrumpft). Kinderleicht: Über 50 = Wirtschaft wächst, unter 50 = sie schrumpft. Zeigt sich die USA weiter stärker als Europa, stützt das den Dollar. Dazu heute britische Einzelhandelsumsätze.",
+    "🛢️ Das große Thema bleibt das Öl: WTI ~92 $ (+12 % auf Wochensicht!), Brent über 100 $ — der Iran-Krieg eskaliert (US-Angriffe, Tanker-Attacken im Roten Meer, Explosionen gemeldet). Kinderleicht: Teures Öl heizt weltweit die Inflation an → Notenbanken werden vorsichtiger mit Zinssenkungen, die US-Renditen steigen (10J 4,70 %, +0,16 Pp diese Woche). Gewinner: der Kanada-Dollar (Öl ist Kanadas Top-Export). Verlierer: Öl-Importeure wie Eurozone und Japan.",
+    "💵 Der Dollar-Index steht fest über 101 (+0,7 % Wo). Rückenwind: steigende US-Renditen + ein Sicherheits-Bid, weil die Nervosität steigt (VIX ~18,7). Gold hält sich nahe Rekord (~4.050 $). Nächster großer US-Test: die Fed-Sitzung am Mittwoch (29.7.)."
    ],
    "gestern": [
-    "🇬🇧 Gestern (Mi): Die britische Inflation kühlte auf +2,6 % zum Vorjahr ab (von 2,8 %, erwartet 2,7 %) — der niedrigste Stand seit März 2025, vor allem billigerer Sprit. Kinderleicht: Langsamere Preise → die Bank of England kann geduldig bleiben → dem Pfund fehlt Zins-Rückenwind. ABER die Großspekulanten sind beim Pfund weiter stark short — das bremst den Rückgang (Squeeze-Risiko).",
-    "🇳🇿 Di: Neuseeland-Inflation Q2 sprang HEISS auf +4,1 % zum Vorjahr (erwartet 4,0 %, höchster Stand seit 2 Jahren, +1,5 % zum Vorquartal) — getrieben von Sprit. Klar über dem Notenbank-Ziel (1–3 %) → RBNZ bleibt hart, Kiwi-positiv.",
-    "🇨🇦 Mo: Kanada-Inflation kam KÜHL bei +2,8 % (erwartet 2,9 %), zum Vormonat −0,3 %, die Kern-Maße (Median 1,9 % / getrimmt 1,8 %) fielen unter 2 %. Nimmt der BoC Erhöhungs-Druck — aber das teure Öl bleibt die stärkere Loonie-Stütze.",
-    "🗓️ Rest der Woche: MORGEN (Fr) die Stimmungs-Umfragen (Flash-PMIs für EU/UK/US/JP/AU) + britischer Einzelhandel. Nächster großer US-Test: die Fed-Sitzung am 29.7."
+    "🇪🇺 Gestern (Do): Die EZB HIELT die Zinsen unverändert (Einlagensatz 2,25 %, einstimmig) — aber Lagarde klang falkenhaft und ließ ausdrücklich die Tür für eine Erhöhung im September offen. Grund: das teure Öl droht die Inflation wieder anzuheizen („die EZB ist Geisel der Ölpreise\"). Kinderleicht: Nicht die Entscheidung, sondern der besorgte Ton stützte den Euro leicht — statt der befürchteten Beschwichtigung kam ein Warnschuss nach oben.",
+    "🛢️ Gestern zog das Öl kräftig an: Der US-Senat stimmte für die Fortsetzung des Iran-Kriegs, es gab Berichte über Tanker-Attacken → WTI schoss Richtung 92 $, Brent über 100 $. Das ist der Auslöser für die falkige EZB und die steigenden Renditen.",
+    "🇦🇺 Do über Nacht: Australiens Arbeitsmarkt kam STARK (Jobs klar über Erwartung, Arbeitslosenquote fiel auf 4,2 %) → hält die RBA hart, stützt den Aussie. 🇯🇵 Japans Inflation blieb zahm (Kern-Kern ~1,9 %, unter dem 2 %-Ziel) → Yen bleibt schwach (USD/JPY ~163, Interventions-Zone).",
+    "🗓️ Diese Woche davor: 🇬🇧 UK-Inflation kühlte auf 2,6 % (Mi, billigerer Sprit), 🇳🇿 Neuseeland-Inflation sprang heiß auf 4,1 % (Di), 🇨🇦 Kanada-Inflation kühl bei 2,8 % (Mo). Nächster großer Termin: Fed am Mi 29.7."
    ]
   }
  },
@@ -3671,13 +3670,13 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -5,
+   "baseScore": 2,
    "tiltCot": 0,
    "tiltZins": 1,
    "tiltGesamt": 1,
-   "score": -4,
+   "score": 3,
    "cotExtrem": null,
-   "treiber": "Leicht abwärts: Der weichere Dollar + die diese Woche steigende Euro-Rendite stützen den Euro, ABER das teure Öl (Euro-Importeur) und eine drohend-dovishe EZB (Do) überwiegen knapp. Netto mild negativ."
+   "treiber": "Leicht ins Plus: Die falkige EZB (September-Tür offen) + die stark steigende Euro-Rendite stützen den Euro gegen den festen Dollar. Gegenpol: teures Öl belastet die Import-Eurozone. Netto knapp positiv, Track-Record schwach → maßvoll."
   },
   {
    "paar": "GBP/USD",
@@ -3711,13 +3710,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -4,
+   "baseScore": -8,
    "tiltCot": 5,
    "tiltZins": 0,
    "tiltGesamt": 5,
-   "score": 1,
+   "score": -3,
    "cotExtrem": "erhoeht",
-   "treiber": "Weiter abwärts (Loonie stärker): Das noch teurere Öl (WTI ~84,5 $, +6 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) stützen den CAD stärker als der diese Woche festere Dollar. Gegenpol: die kühlere Kanada-Inflation (2,8 %) nimmt der BoC Erhöhungs-Fantasie. Netto moderat negativ."
+   "treiber": "Abwärts (Loonie stärker): Der Öl-Schock (WTI ~92 $, Brent >100 $, +12 % Wo) + extreme Loonie-Shorts (Squeeze-Potenzial) treiben den CAD stärker als der feste Dollar. Kühlere Kanada-Inflation bremst nur leicht."
   },
   {
    "paar": "USD/CHF",

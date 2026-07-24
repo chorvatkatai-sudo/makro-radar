@@ -805,7 +805,7 @@
     "title": "Foreign Bond Investment",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-714.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -815,7 +815,7 @@
     "title": "Stock Investment by Foreigners",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-79.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -885,7 +885,7 @@
     "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.9907%",
     "actual": null,
     "quelle": "tradingview"
   },

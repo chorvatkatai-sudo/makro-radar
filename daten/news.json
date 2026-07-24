@@ -1,11 +1,53 @@
 {
-  "stand": "2026-07-24T16:35:13.317Z",
+  "stand": "2026-07-24T18:12:55.766Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "EU fines today, Trump 301 tariffs tomorrow?",
+      "link": "https://investinglive.com/news/eu-fines-today-trump-301-tariffs-tomorrow/",
+      "datum": "2026-07-24T18:08:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD consolidates as bulls struggle to clear the 21-day SMA",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-as-bulls-struggle-to-clear-the-21-day-sma-202607241758",
+      "datum": "2026-07-24T17:58:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones Industrial Average buys a rumour and sleeps through a tariff regime",
+      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-buys-a-rumour-and-sleeps-through-a-tariff-regime-202607241748",
+      "datum": "2026-07-24T17:48:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Hawkish MAS stance supports SGD – MUFG",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-hawkish-mas-stance-supports-sgd-mufg-202607241744",
+      "datum": "2026-07-24T17:44:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Equities: Hyperscaler stress and chip volatility – Commerzbank",
+      "link": "https://www.fxstreet.com/news/equities-hyperscaler-stress-and-chip-volatility-commerzbank-202607241704",
+      "datum": "2026-07-24T17:04:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Softer yields curb gains ahead of FOMC – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-softer-yields-curb-gains-ahead-of-fomc-scotiabank-202607241636",
+      "datum": "2026-07-24T16:36:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US and the UK planning on having a meeting on protecting shipping in the Strait of Hormuz",
+      "link": "https://investinglive.com/news/us-and-the-uk-planning-on-having-a-meeting-on-protecting-shipping-in-the-strait-of-hormuz/",
+      "datum": "2026-07-24T16:33:25.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro: Choppy range view holds against US Dollar – Rabobank",
@@ -55,40 +97,10 @@
       "datum": "2026-07-24T15:36:49.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: MAS stance supports relative resilience – MUFG",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-stance-supports-relative-resilience-mufg-202607241532",
-      "datum": "2026-07-24T15:32:42.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump: I trust Xi and Putin when it comes to selling munitions to Iran",
       "link": "https://investinglive.com/news/trump-i-trust-xi-and-putin-when-it-comes-to-selling-missiles-to-iran/",
       "datum": "2026-07-24T15:29:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Strong PMIs and retail rebound in focus – TD Securities",
-      "link": "https://www.fxstreet.com/news/british-pound-strong-pmis-and-retail-rebound-in-focus-td-securities-202607241520",
-      "datum": "2026-07-24T15:20:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar edges higher after mixed US PMIs",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-after-mixed-us-pmis-202607241510",
-      "datum": "2026-07-24T15:10:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Multi-decade lows against US Dollar face BoJ risk – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-multi-decade-lows-against-us-dollar-face-boj-risk-scotiabank-202607241509",
-      "datum": "2026-07-24T15:09:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Higher yields keep upside risks – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-keep-upside-risks-mufg-202607241458",
-      "datum": "2026-07-24T14:58:59.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "US new-home sales for the month of June 0.628M versus 0.610M estimate",
       "link": "https://investinglive.com/news/us-new-home-sales-for-the-month-of-june-0-628m-versus-0-610m-estimate/",
       "datum": "2026-07-24T14:09:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The July Flash S&P Global Manufacturing 53.8 vs 54.3 estimate",
-      "link": "https://investinglive.com/news/the-july-flash-s-p-global-manufacturing-53-8-vs-54-3-estimate/",
-      "datum": "2026-07-24T13:54:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Explosions Reported in Saudi Arabia",
-      "link": "https://investinglive.com/news/explosions-reported-in-saudi-arabia/",
-      "datum": "2026-07-24T13:15:39.000Z"
     }
   ]
 }

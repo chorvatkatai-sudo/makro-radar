@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-24T16:35:13.318Z",
+  "stand": "2026-07-24T18:12:55.768Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 6,
       "tiltCot": 5,
-      "tiltZins": 1,
-      "tiltGesamt": 6,
-      "score": 12,
+      "tiltZins": 2,
+      "tiltGesamt": 7,
+      "score": 13,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber stark gebremst: Öl-Schock trifft den Yen hart, Zins-Nachteil wächst. ABER ~163 ist Interventions-Zone und mein USD/JPY-Record ist der schlechteste (1/5) → bewusst nur moderat positiv."
     },

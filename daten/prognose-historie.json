@@ -367,7 +367,49 @@
         }
       },
       "mitMarktOverlay": true,
-      "auswertung": null
+      "auswertung": {
+        "treffer": 4,
+        "gesamt": 6,
+        "quote": 67,
+        "details": {
+          "EUR/USD": {
+            "score": 2,
+            "moveProzent": -0.43,
+            "treffer": false,
+            "basisTreffer": true
+          },
+          "GBP/USD": {
+            "score": -5,
+            "moveProzent": -1.01,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "USD/JPY": {
+            "score": 9,
+            "moveProzent": 0.89,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "AUD/USD": {
+            "score": -3,
+            "moveProzent": -0.27,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "USD/CAD": {
+            "score": -1,
+            "moveProzent": 0.39,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "USD/CHF": {
+            "score": 9,
+            "moveProzent": 1.15,
+            "treffer": true,
+            "basisTreffer": true
+          }
+        }
+      }
     },
     {
       "woche": "2026-07-27",

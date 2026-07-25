@@ -1,11 +1,95 @@
 {
-  "stand": "2026-07-24T18:12:55.766Z",
+  "stand": "2026-07-25T05:03:04.155Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-jul-geopolitics-remain-the-focus-for-traders/",
+      "datum": "2026-07-24T21:51:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-seen-on-hold-with-cautious-inflation-tone-ocbc-202607242105",
+      "datum": "2026-07-24T21:05:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-consolidates-near-18700-bulls-target-18800-202607242054",
+      "datum": "2026-07-24T20:54:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysia: Solid fundamentals support Ringgit and bonds – DBS",
+      "link": "https://www.fxstreet.com/news/malaysia-solid-fundamentals-support-ringgit-and-bonds-dbs-202607242022",
+      "datum": "2026-07-24T20:22:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Next week's earnings calendar heats up",
+      "link": "https://investinglive.com/news/next-week-s-earnings-calendar-heats-up/",
+      "datum": "2026-07-24T19:55:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Iran not ready to make a deal.",
+      "link": "https://investinglive.com/news/trump-iran-not-ready-to-make-a-deal/",
+      "datum": "2026-07-24T19:44:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Strong GDP and inflows support Won – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-strong-gdp-and-inflows-support-won-commerzbank-202607241939",
+      "datum": "2026-07-24T19:39:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forecasting the upcoming week: Fed, BoE and BoJ decisions take center stage",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-decisions-take-center-stage-202607241928",
+      "datum": "2026-07-24T19:28:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-tests-05800-as-bullish-momentum-fades-202607241923",
+      "datum": "2026-07-24T19:23:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Thai Baht: Oil shock and dovish BoT keep THB pressured against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/thai-baht-oil-shock-and-dovish-bot-keep-thb-pressured-against-us-dollar-ocbc-202607241858",
+      "datum": "2026-07-24T18:58:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "NY Times: Trump meets with top advisors to decide whether to increase military pressure on Iran",
+      "link": "https://investinglive.com/news/ny-times-trump-meets-with-top-advisors-to-decide-whether-to-increase-military-pressure-on-iran/",
+      "datum": "2026-07-24T18:34:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro falls even amid strong Eurozone PMIs",
+      "link": "https://www.fxstreet.com/news/euro-falls-even-amid-strong-eurozone-pmis-202607241833",
+      "datum": "2026-07-24T18:33:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold gains despite firm US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-gains-despite-firm-us-dollar-202607241830",
+      "datum": "2026-07-24T18:30:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: BI pause seen as hawkish hold – UOB",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-seen-as-hawkish-hold-uob-202607241823",
+      "datum": "2026-07-24T18:23:00.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "EU fines today, Trump 301 tariffs tomorrow?",
@@ -25,94 +109,10 @@
       "datum": "2026-07-24T17:48:23.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Hawkish MAS stance supports SGD – MUFG",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-hawkish-mas-stance-supports-sgd-mufg-202607241744",
-      "datum": "2026-07-24T17:44:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Equities: Hyperscaler stress and chip volatility – Commerzbank",
-      "link": "https://www.fxstreet.com/news/equities-hyperscaler-stress-and-chip-volatility-commerzbank-202607241704",
-      "datum": "2026-07-24T17:04:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Softer yields curb gains ahead of FOMC – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-softer-yields-curb-gains-ahead-of-fomc-scotiabank-202607241636",
-      "datum": "2026-07-24T16:36:43.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US and the UK planning on having a meeting on protecting shipping in the Strait of Hormuz",
       "link": "https://investinglive.com/news/us-and-the-uk-planning-on-having-a-meeting-on-protecting-shipping-in-the-strait-of-hormuz/",
       "datum": "2026-07-24T16:33:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Choppy range view holds against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-choppy-range-view-holds-against-us-dollar-rabobank-202607241617",
-      "datum": "2026-07-24T16:17:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound rises as Oil slide softens USD, Fed hike bets increase",
-      "link": "https://www.fxstreet.com/news/british-pound-rises-as-oil-slide-softens-usd-fed-hike-bets-increase-202607241608",
-      "datum": "2026-07-24T16:08:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Supply risks keep prices elevated – BNY",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-keep-prices-elevated-bny-202607241603",
-      "datum": "2026-07-24T16:03:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc gains slightly against US Dollar as Oil prices ease",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-slightly-against-us-dollar-as-oil-prices-ease-202607241557",
-      "datum": "2026-07-24T15:57:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Pakistan is exploring a path toward a resumption of US – Iran talks. Oil moves lower",
-      "link": "https://investinglive.com/news/pakistan-is-exploring-a-path-toward-a-resumption-of-us-iran-talks-helps-stocks/",
-      "datum": "2026-07-24T15:49:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Strong UK data fail to lift GBP against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-strong-uk-data-fail-to-lift-gbp-against-us-dollar-scotiabank-202607241549",
-      "datum": "2026-07-24T15:49:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen stays under pressure as resilient US economy supports the Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-stays-under-pressure-as-resilient-us-economy-supports-the-dollar-202607241542",
-      "datum": "2026-07-24T15:42:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Pakistan and Iran explore renewed US talks under China-backed diplomatic push",
-      "link": "https://www.fxstreet.com/news/pakistan-and-iran-explore-renewed-us-talks-under-china-backed-diplomatic-push-202607241536",
-      "datum": "2026-07-24T15:36:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: I trust Xi and Putin when it comes to selling munitions to Iran",
-      "link": "https://investinglive.com/news/trump-i-trust-xi-and-putin-when-it-comes-to-selling-missiles-to-iran/",
-      "datum": "2026-07-24T15:29:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Pres. Trump to meet with Israel Prime Minister Netanyahu on Tuesday at the White House",
-      "link": "https://investinglive.com/news/pres-trump-to-meet-with-israel-prime-minister-netanyahu-on-tuesday-at-the-white-house/",
-      "datum": "2026-07-24T14:27:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US new-home sales for the month of June 0.628M versus 0.610M estimate",
-      "link": "https://investinglive.com/news/us-new-home-sales-for-the-month-of-june-0-628m-versus-0-610m-estimate/",
-      "datum": "2026-07-24T14:09:34.000Z"
     }
   ]
 }

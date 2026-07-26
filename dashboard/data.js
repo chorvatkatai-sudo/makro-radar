@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-25T05:03:05.163Z",
+ "erstellt": "2026-07-26T05:03:50.792Z",
  "wochenStart": "2026-07-19",
  "events": [
   {
@@ -2701,15 +2701,16 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Drei Short-Extreme bei den Großspekulanten — NZD (z −2,37, −53 %!), CAD (z −1,86) und GBP (z −1,48). Alle sind gegen den Dollar short. Solche Extreme sind Pulverfässer: Bei einem falkenhaften BoE/BoJ oder Öl-Rücksetzer kann ein heftiger Short-Squeeze diese Währungen nach oben schießen lassen. Deshalb NZD bewusst neutral, USD/CAD-Abwärtswette gedämpft."
   ],
   "tagesnews": {
-   "stand": "2026-07-25",
-   "wochentag": "Samstag",
-   "tenor": "Wochenende — die Börsen ruhen, keine neuen Zahlen. Die Lage zum Wochenschluss: Der Öl-Kriegsschock beherrscht weiter alles (WTI ~89 $, Brent ~96 $, Iran-Krieg eskaliert). Der Dollar steht fest über 101 (steigende US-Renditen + Sicherheits-Bid, VIX ~18), Kanadas Loonie ist der Öl-Gewinner, Öl-Importeure Euro + Yen bekommen Gegenwind. Alle Augen auf die MONSTER-Woche voraus: Fed (Mi), BoE + US-BIP + Kern-PCE (Do), BoJ + Euro-Inflation (Fr).",
+   "stand": "2026-07-26",
+   "wochentag": "Sonntag",
+   "tenor": "Wochenende — die Börsen ruhen, keine neuen Zahlen. EIN LICHTBLICK zum Wochenschluss: Öl fiel am Freitag ~4 %, weil Pakistan und China versuchen, die US-Iran-Gespräche wiederzubeleben (mögliche Friedens-Tür). Trotzdem bleibt es angespannt — WTI noch ~90 $, Dollar fest über 101, VIX ~18,6. Morgen startet die MONSTER-Woche: Fed (Mi), BoE + US-BIP + Kern-PCE (Do), BoJ + Euro-Inflation (Fr).",
    "heute": [
-    "🌙 Samstag — kein Handel, keine neuen Wirtschaftsdaten. Zeit zum Durchatmen vor der wichtigsten Woche seit Langem. Die Kurse vom Freitag: Dollar-Index 101,47 (+0,5 % Wo), Öl WTI 89 $ / Brent 96 $ (+8 % Wo!), Gold 4.066 $, VIX 18 (nervös). Kinderleicht: Der Markt ist angespannt — teures Öl + Kriegssorgen halten die Anleger vorsichtig, der Dollar gilt als sicherer Hafen."
+    "🌙 Sonntag — kein Handel, keine neuen Wirtschaftsdaten. Ruhe vor der wichtigsten Woche seit Langem. Stand vom Freitagsschluss: Dollar-Index 101,47 (+0,5 % Wo), Öl WTI ~90 $ / Brent ~96 $ (aber Fr −4 % auf Friedens-Hoffnung!), Gold 4.066 $, VIX 18,6 (nervös). Kinderleicht: Der Markt bleibt vorsichtig, aber die erste Entspannungs-Nachricht seit Wochen (mögliche Iran-Gespräche) hat das Öl am Freitag kurz abkühlen lassen."
    ],
    "gestern": [
-    "🗓️ Wochenrückblick (21.–24.7.): 🛢️ Das Öl regierte — Brent kratzte am Do erstmals seit Mai an 100 $ (Iran-Krieg eskaliert). 🇪🇺 Die EZB HIELT die Zinsen (Hauptsatz 2,40 %), klang aber falkenhaft und ließ die September-Tür offen (teures Öl könnte die Inflation wieder anheizen). 🇬🇧 UK-Inflation kühlte auf 2,6 %, 🇨🇦 Kanada-Inflation SEHR kühl (Kern 1,8–1,9 %), 🇦🇺 Australiens Jobs stark (+24,5k, Quote 4,2 %), 🇳🇿 Neuseeland-Inflation heiß (Q +1,5 %). Kinderleicht: Trotz Öl-Schub kühlen die meisten Inflationszahlen ab — der Öl-Effekt schlägt erst mit Verzögerung durch.",
-    "💵 Der Dollar hielt sich fest über 101 (Sicherheits-Bid + steigende US-Renditen, 10J ~4,70 %). Der Kanada-Dollar profitierte vom teuren Öl, Euro + Yen litten als Öl-Importeure. Gold blieb nahe Rekord (~4.066 $).",
+    "🕊️ NEU vom Freitag/Wochenende: Öl fiel ~4 % zurück, weil Pakistan und China berichten, sie wollen die US-Iran-Verhandlungen wiederbeleben — die erste ernsthafte Hoffnung auf einen diplomatischen Ausweg seit Kriegsbeginn. Kinderleicht: Wenn das gelingt, fällt der Öl-Preis → die Inflations-Angst lässt nach → das könnte dem festen Dollar Luft nehmen. Noch ist es aber nur Hoffnung, kein Deal — Öl steht immer noch bei ~90 $.",
+    "🗓️ Wochenrückblick (21.–24.7.): 🛢️ Das Öl regierte — Brent kratzte am Do erstmals seit Mai an 100 $ (Iran-Eskalation), fiel Fr aber auf Friedens-Hoffnung zurück. 🇪🇺 Die EZB HIELT die Zinsen (Hauptsatz 2,40 %), klang aber falkenhaft und ließ die September-Tür offen. 🇬🇧 UK-Inflation kühlte auf 2,6 %, 🇨🇦 Kanada-Inflation SEHR kühl (Kern 1,8–1,9 %), 🇦🇺 Australiens Jobs stark (+24,5k, Quote 4,2 %), 🇳🇿 Neuseeland-Inflation heiß (Q +1,5 %). Kinderleicht: Trotz Öl-Schub kühlen die meisten Inflationszahlen ab — der Öl-Effekt schlägt erst mit Verzögerung durch.",
+    "💵 Der Dollar hielt sich die ganze Woche fest über 101 (Sicherheits-Bid + steigende US-Renditen, 10J ~4,70 %). Der Kanada-Dollar profitierte vom teuren Öl, Öl-Importeure Euro + Yen litten. Gold blieb nahe Rekord (~4.066 $).",
     "🗓️ Der Blick nach vorn — MONSTER-Woche (27.–31.7.): Mo US-Auftragseingänge langlebiger Güter, Di US-Verbrauchervertrauen, 🇺🇸 Mi Fed-Entscheid (20:00 Wien — Halten bei 3,50–3,75 % erwartet, 5. Mal in Folge; der ÖL-TON entscheidet, ob eine Erhöhung näher rückt) + Australien-Inflation, 🇬🇧 Do Bank of England (Halten 3,75 %) + US-Wirtschaftswachstum Q2 + Fed-Lieblings-Inflation Kern-PCE, 🇯🇵 Fr Bank of Japan + Euro-Inflation. Selten prallt so viel auf einmal zusammen."
    ]
   }

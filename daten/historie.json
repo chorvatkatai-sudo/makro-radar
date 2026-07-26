@@ -5630,6 +5630,906 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-26T19:50:00-04:00|JPY|SPPI y/y": {
+      "datum": "2026-07-26T19:50:00-04:00",
+      "land": "JPY",
+      "titel": "SPPI y/y",
+      "impact": "Low",
+      "prognose": "3.4%",
+      "vorher": "3.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T04:00:00-04:00|EUR|German ifo Business Climate": {
+      "datum": "2026-07-27T04:00:00-04:00",
+      "land": "EUR",
+      "titel": "German ifo Business Climate",
+      "impact": "Low",
+      "prognose": "86.1",
+      "vorher": "85.6",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T04:00:00-04:00|EUR|M3 Money Supply y/y": {
+      "datum": "2026-07-27T04:00:00-04:00",
+      "land": "EUR",
+      "titel": "M3 Money Supply y/y",
+      "impact": "Low",
+      "prognose": "3.2%",
+      "vorher": "3.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T04:00:00-04:00|EUR|Private Loans y/y": {
+      "datum": "2026-07-27T04:00:00-04:00",
+      "land": "EUR",
+      "titel": "Private Loans y/y",
+      "impact": "Low",
+      "prognose": "3.1%",
+      "vorher": "3.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T05:15:00-04:00|EUR|ECOFIN Meetings": {
+      "datum": "2026-07-27T05:15:00-04:00",
+      "land": "EUR",
+      "titel": "ECOFIN Meetings",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T06:00:00-04:00|GBP|CBI Realized Sales": {
+      "datum": "2026-07-27T06:00:00-04:00",
+      "land": "GBP",
+      "titel": "CBI Realized Sales",
+      "impact": "Low",
+      "prognose": "-45",
+      "vorher": "-54",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T08:30:00-04:00|USD|Core Durable Goods Orders m/m": {
+      "datum": "2026-07-27T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Core Durable Goods Orders m/m",
+      "impact": "Low",
+      "prognose": "0.9%",
+      "vorher": "1.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T08:30:00-04:00|USD|Durable Goods Orders m/m": {
+      "datum": "2026-07-27T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Durable Goods Orders m/m",
+      "impact": "Low",
+      "prognose": "1.6%",
+      "vorher": "-4.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T19:01:00-04:00|GBP|BRC Shop Price Index y/y": {
+      "datum": "2026-07-27T19:01:00-04:00",
+      "land": "GBP",
+      "titel": "BRC Shop Price Index y/y",
+      "impact": "Low",
+      "prognose": "1.2%",
+      "vorher": "1.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-27T23:05:00-04:00|AUD|RBA Gov Bullock Speaks": {
+      "datum": "2026-07-27T23:05:00-04:00",
+      "land": "AUD",
+      "titel": "RBA Gov Bullock Speaks",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T01:00:00-04:00|JPY|BOJ Core CPI y/y": {
+      "datum": "2026-07-28T01:00:00-04:00",
+      "land": "JPY",
+      "titel": "BOJ Core CPI y/y",
+      "impact": "Low",
+      "prognose": "1.4%",
+      "vorher": "1.4%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T03:00:00-04:00|EUR|Spanish Unemployment Rate": {
+      "datum": "2026-07-28T03:00:00-04:00",
+      "land": "EUR",
+      "titel": "Spanish Unemployment Rate",
+      "impact": "Low",
+      "prognose": "10.7%",
+      "vorher": "10.8%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T06:03:00-04:00|EUR|German Buba Monthly Report": {
+      "datum": "2026-07-28T06:03:00-04:00",
+      "land": "EUR",
+      "titel": "German Buba Monthly Report",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T08:15:00-04:00|USD|ADP Weekly Employment Change": {
+      "datum": "2026-07-28T08:15:00-04:00",
+      "land": "USD",
+      "titel": "ADP Weekly Employment Change",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "16.5K",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T08:30:00-04:00|USD|Goods Trade Balance": {
+      "datum": "2026-07-28T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Goods Trade Balance",
+      "impact": "Low",
+      "prognose": "-98.0B",
+      "vorher": "-105.8B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T08:30:00-04:00|USD|Prelim Wholesale Inventories m/m": {
+      "datum": "2026-07-28T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Prelim Wholesale Inventories m/m",
+      "impact": "Low",
+      "prognose": "0.2%",
+      "vorher": "0.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T09:00:00-04:00|USD|HPI m/m": {
+      "datum": "2026-07-28T09:00:00-04:00",
+      "land": "USD",
+      "titel": "HPI m/m",
+      "impact": "Low",
+      "prognose": "0.2%",
+      "vorher": "-0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T09:00:00-04:00|USD|S&P/CS Composite-20 HPI y/y": {
+      "datum": "2026-07-28T09:00:00-04:00",
+      "land": "USD",
+      "titel": "S&P/CS Composite-20 HPI y/y",
+      "impact": "Low",
+      "prognose": "0.8%",
+      "vorher": "1.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T10:00:00-04:00|USD|CB Consumer Confidence": {
+      "datum": "2026-07-28T10:00:00-04:00",
+      "land": "USD",
+      "titel": "CB Consumer Confidence",
+      "impact": "Medium",
+      "prognose": "92.1",
+      "vorher": "91.2",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T10:00:00-04:00|USD|Richmond Manufacturing Index": {
+      "datum": "2026-07-28T10:00:00-04:00",
+      "land": "USD",
+      "titel": "Richmond Manufacturing Index",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "4",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T16:30:00-04:00|USD|API Weekly Statistical Bulletin": {
+      "datum": "2026-07-28T16:30:00-04:00",
+      "land": "USD",
+      "titel": "API Weekly Statistical Bulletin",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T21:30:00-04:00|AUD|CPI m/m": {
+      "datum": "2026-07-28T21:30:00-04:00",
+      "land": "AUD",
+      "titel": "CPI m/m",
+      "impact": "High",
+      "prognose": "0.2%",
+      "vorher": "-0.7%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T21:30:00-04:00|AUD|CPI y/y": {
+      "datum": "2026-07-28T21:30:00-04:00",
+      "land": "AUD",
+      "titel": "CPI y/y",
+      "impact": "High",
+      "prognose": "4.0%",
+      "vorher": "4.0%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T21:30:00-04:00|AUD|Trimmed Mean CPI m/m": {
+      "datum": "2026-07-28T21:30:00-04:00",
+      "land": "AUD",
+      "titel": "Trimmed Mean CPI m/m",
+      "impact": "High",
+      "prognose": "0.4%",
+      "vorher": "0.4%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T02:00:00-04:00|EUR|German Import Prices m/m": {
+      "datum": "2026-07-29T02:00:00-04:00",
+      "land": "EUR",
+      "titel": "German Import Prices m/m",
+      "impact": "Low",
+      "prognose": "-0.8%",
+      "vorher": "0.7%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T04:00:00-04:00|CHF|UBS Economic Expectations": {
+      "datum": "2026-07-29T04:00:00-04:00",
+      "land": "CHF",
+      "titel": "UBS Economic Expectations",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-25.0",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T04:30:00-04:00|GBP|M4 Money Supply m/m": {
+      "datum": "2026-07-29T04:30:00-04:00",
+      "land": "GBP",
+      "titel": "M4 Money Supply m/m",
+      "impact": "Low",
+      "prognose": "0.2%",
+      "vorher": "0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T04:30:00-04:00|GBP|Mortgage Approvals": {
+      "datum": "2026-07-29T04:30:00-04:00",
+      "land": "GBP",
+      "titel": "Mortgage Approvals",
+      "impact": "Low",
+      "prognose": "56K",
+      "vorher": "56K",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T04:30:00-04:00|GBP|Net Lending to Individuals m/m": {
+      "datum": "2026-07-29T04:30:00-04:00",
+      "land": "GBP",
+      "titel": "Net Lending to Individuals m/m",
+      "impact": "Low",
+      "prognose": "5.5B",
+      "vorher": "4.6B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T05:42:00-04:00|EUR|German 10-y Bond Auction": {
+      "datum": "2026-07-29T05:42:00-04:00",
+      "land": "EUR",
+      "titel": "German 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.09|1.0",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T10:30:00-04:00|USD|Crude Oil Inventories": {
+      "datum": "2026-07-29T10:30:00-04:00",
+      "land": "USD",
+      "titel": "Crude Oil Inventories",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "2.0M",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T13:30:00-04:00|CAD|BOC Summary of Deliberations": {
+      "datum": "2026-07-29T13:30:00-04:00",
+      "land": "CAD",
+      "titel": "BOC Summary of Deliberations",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T14:00:00-04:00|USD|Federal Funds Rate": {
+      "datum": "2026-07-29T14:00:00-04:00",
+      "land": "USD",
+      "titel": "Federal Funds Rate",
+      "impact": "High",
+      "prognose": "3.75%",
+      "vorher": "3.75%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T14:00:00-04:00|USD|FOMC Statement": {
+      "datum": "2026-07-29T14:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Statement",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T14:30:00-04:00|USD|FOMC Press Conference": {
+      "datum": "2026-07-29T14:30:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Press Conference",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T18:40:00-04:00|AUD|RBA Assist Gov Hunter Speaks": {
+      "datum": "2026-07-29T18:40:00-04:00",
+      "land": "AUD",
+      "titel": "RBA Assist Gov Hunter Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T21:00:00-04:00|NZD|ANZ Business Confidence": {
+      "datum": "2026-07-29T21:00:00-04:00",
+      "land": "NZD",
+      "titel": "ANZ Business Confidence",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "36.6",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T21:30:00-04:00|AUD|Building Approvals m/m": {
+      "datum": "2026-07-29T21:30:00-04:00",
+      "land": "AUD",
+      "titel": "Building Approvals m/m",
+      "impact": "Low",
+      "prognose": "-0.5%",
+      "vorher": "-1.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-29T21:30:00-04:00|AUD|Import Prices q/q": {
+      "datum": "2026-07-29T21:30:00-04:00",
+      "land": "AUD",
+      "titel": "Import Prices q/q",
+      "impact": "Low",
+      "prognose": "0.0%",
+      "vorher": "0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T01:00:00-04:00|JPY|Consumer Confidence": {
+      "datum": "2026-07-30T01:00:00-04:00",
+      "land": "JPY",
+      "titel": "Consumer Confidence",
+      "impact": "Low",
+      "prognose": "34.2",
+      "vorher": "33.8",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T01:30:00-04:00|EUR|French Consumer Spending m/m": {
+      "datum": "2026-07-30T01:30:00-04:00",
+      "land": "EUR",
+      "titel": "French Consumer Spending m/m",
+      "impact": "Low",
+      "prognose": "-0.1%",
+      "vorher": "0.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T01:30:00-04:00|EUR|French Flash GDP q/q": {
+      "datum": "2026-07-30T01:30:00-04:00",
+      "land": "EUR",
+      "titel": "French Flash GDP q/q",
+      "impact": "Low",
+      "prognose": "0.2%",
+      "vorher": "-0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T02:29:00-04:00|EUR|German Prelim CPI m/m": {
+      "datum": "2026-07-30T02:29:00-04:00",
+      "land": "EUR",
+      "titel": "German Prelim CPI m/m",
+      "impact": "Medium",
+      "prognose": "0.7%",
+      "vorher": "-0.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T02:45:00-04:00|EUR|French Prelim Private Payrolls q/q": {
+      "datum": "2026-07-30T02:45:00-04:00",
+      "land": "EUR",
+      "titel": "French Prelim Private Payrolls q/q",
+      "impact": "Low",
+      "prognose": "-0.1%",
+      "vorher": "-0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T03:00:00-04:00|CHF|KOF Economic Barometer": {
+      "datum": "2026-07-30T03:00:00-04:00",
+      "land": "CHF",
+      "titel": "KOF Economic Barometer",
+      "impact": "Low",
+      "prognose": "100.7",
+      "vorher": "101.2",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T03:00:00-04:00|EUR|Spanish Flash CPI y/y": {
+      "datum": "2026-07-30T03:00:00-04:00",
+      "land": "EUR",
+      "titel": "Spanish Flash CPI y/y",
+      "impact": "Low",
+      "prognose": "3.1%",
+      "vorher": "3.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T03:00:00-04:00|EUR|Spanish Flash GDP q/q": {
+      "datum": "2026-07-30T03:00:00-04:00",
+      "land": "EUR",
+      "titel": "Spanish Flash GDP q/q",
+      "impact": "Low",
+      "prognose": "0.6%",
+      "vorher": "0.6%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T04:00:00-04:00|EUR|German Prelim GDP q/q": {
+      "datum": "2026-07-30T04:00:00-04:00",
+      "land": "EUR",
+      "titel": "German Prelim GDP q/q",
+      "impact": "Medium",
+      "prognose": "0.1%",
+      "vorher": "0.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T04:00:00-04:00|EUR|Italian Prelim GDP q/q": {
+      "datum": "2026-07-30T04:00:00-04:00",
+      "land": "EUR",
+      "titel": "Italian Prelim GDP q/q",
+      "impact": "Low",
+      "prognose": "0.1%",
+      "vorher": "0.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T05:00:00-04:00|EUR|Italian Monthly Unemployment Rate": {
+      "datum": "2026-07-30T05:00:00-04:00",
+      "land": "EUR",
+      "titel": "Italian Monthly Unemployment Rate",
+      "impact": "Low",
+      "prognose": "5.1%",
+      "vorher": "5.0%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T05:00:00-04:00|EUR|Prelim Flash GDP q/q": {
+      "datum": "2026-07-30T05:00:00-04:00",
+      "land": "EUR",
+      "titel": "Prelim Flash GDP q/q",
+      "impact": "Low",
+      "prognose": "0.2%",
+      "vorher": "0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T05:00:00-04:00|EUR|Unemployment Rate": {
+      "datum": "2026-07-30T05:00:00-04:00",
+      "land": "EUR",
+      "titel": "Unemployment Rate",
+      "impact": "Low",
+      "prognose": "6.2%",
+      "vorher": "6.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T05:33:00-04:00|EUR|Italian 10-y Bond Auction": {
+      "datum": "2026-07-30T05:33:00-04:00",
+      "land": "EUR",
+      "titel": "Italian 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T07:00:00-04:00|GBP|BOE Monetary Policy Report": {
+      "datum": "2026-07-30T07:00:00-04:00",
+      "land": "GBP",
+      "titel": "BOE Monetary Policy Report",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T07:00:00-04:00|GBP|Monetary Policy Summary": {
+      "datum": "2026-07-30T07:00:00-04:00",
+      "land": "GBP",
+      "titel": "Monetary Policy Summary",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T07:00:00-04:00|GBP|MPC Official Bank Rate Votes": {
+      "datum": "2026-07-30T07:00:00-04:00",
+      "land": "GBP",
+      "titel": "MPC Official Bank Rate Votes",
+      "impact": "High",
+      "prognose": "2-0-7",
+      "vorher": "2-0-7",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T07:00:00-04:00|GBP|Official Bank Rate": {
+      "datum": "2026-07-30T07:00:00-04:00",
+      "land": "GBP",
+      "titel": "Official Bank Rate",
+      "impact": "High",
+      "prognose": "3.75%",
+      "vorher": "3.75%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T08:30:00-04:00|USD|Advance GDP q/q": {
+      "datum": "2026-07-30T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Advance GDP q/q",
+      "impact": "High",
+      "prognose": "2.3%",
+      "vorher": "2.0%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T08:30:00-04:00|USD|Core PCE Price Index m/m": {
+      "datum": "2026-07-30T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Core PCE Price Index m/m",
+      "impact": "High",
+      "prognose": "0.1%",
+      "vorher": "0.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T08:30:00-04:00|USD|Advance GDP Price Index q/q": {
+      "datum": "2026-07-30T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Advance GDP Price Index q/q",
+      "impact": "Medium",
+      "prognose": "3.7%",
+      "vorher": "3.6%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T08:30:00-04:00|USD|Unemployment Claims": {
+      "datum": "2026-07-30T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Unemployment Claims",
+      "impact": "Medium",
+      "prognose": "206K",
+      "vorher": "187K",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T08:30:00-04:00|USD|Personal Income m/m": {
+      "datum": "2026-07-30T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Personal Income m/m",
+      "impact": "Low",
+      "prognose": "0.3%",
+      "vorher": "0.7%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T08:30:00-04:00|USD|Personal Spending m/m": {
+      "datum": "2026-07-30T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Personal Spending m/m",
+      "impact": "Low",
+      "prognose": "0.4%",
+      "vorher": "0.7%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T10:30:00-04:00|USD|Natural Gas Storage": {
+      "datum": "2026-07-30T10:30:00-04:00",
+      "land": "USD",
+      "titel": "Natural Gas Storage",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "32B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T19:30:00-04:00|JPY|Tokyo Core CPI y/y": {
+      "datum": "2026-07-30T19:30:00-04:00",
+      "land": "JPY",
+      "titel": "Tokyo Core CPI y/y",
+      "impact": "Medium",
+      "prognose": "1.8%",
+      "vorher": "1.6%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T19:30:00-04:00|JPY|Unemployment Rate": {
+      "datum": "2026-07-30T19:30:00-04:00",
+      "land": "JPY",
+      "titel": "Unemployment Rate",
+      "impact": "Low",
+      "prognose": "2.5%",
+      "vorher": "2.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T19:50:00-04:00|JPY|Prelim Industrial Production m/m": {
+      "datum": "2026-07-30T19:50:00-04:00",
+      "land": "JPY",
+      "titel": "Prelim Industrial Production m/m",
+      "impact": "Low",
+      "prognose": "0.7%",
+      "vorher": "0.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T19:50:00-04:00|JPY|Retail Sales y/y": {
+      "datum": "2026-07-30T19:50:00-04:00",
+      "land": "JPY",
+      "titel": "Retail Sales y/y",
+      "impact": "Low",
+      "prognose": "2.8%",
+      "vorher": "5.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T21:30:00-04:00|AUD|PPI q/q": {
+      "datum": "2026-07-30T21:30:00-04:00",
+      "land": "AUD",
+      "titel": "PPI q/q",
+      "impact": "Low",
+      "prognose": "0.3%",
+      "vorher": "0.4%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T21:30:00-04:00|AUD|Private Sector Credit m/m": {
+      "datum": "2026-07-30T21:30:00-04:00",
+      "land": "AUD",
+      "titel": "Private Sector Credit m/m",
+      "impact": "Low",
+      "prognose": "0.6%",
+      "vorher": "0.7%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T21:30:00-04:00|CNY|Manufacturing PMI": {
+      "datum": "2026-07-30T21:30:00-04:00",
+      "land": "CNY",
+      "titel": "Manufacturing PMI",
+      "impact": "Low",
+      "prognose": "49.9",
+      "vorher": "50.3",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T21:30:00-04:00|CNY|Non-Manufacturing PMI": {
+      "datum": "2026-07-30T21:30:00-04:00",
+      "land": "CNY",
+      "titel": "Non-Manufacturing PMI",
+      "impact": "Low",
+      "prognose": "50.0",
+      "vorher": "50.2",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T22:30:00-04:00|JPY|BOJ Policy Rate": {
+      "datum": "2026-07-30T22:30:00-04:00",
+      "land": "JPY",
+      "titel": "BOJ Policy Rate",
+      "impact": "High",
+      "prognose": "<1.00%",
+      "vorher": "<1.00%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T22:30:00-04:00|JPY|Monetary Policy Statement": {
+      "datum": "2026-07-30T22:30:00-04:00",
+      "land": "JPY",
+      "titel": "Monetary Policy Statement",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T22:31:00-04:00|JPY|BOJ Outlook Report": {
+      "datum": "2026-07-30T22:31:00-04:00",
+      "land": "JPY",
+      "titel": "BOJ Outlook Report",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T01:00:00-04:00|JPY|Housing Starts y/y": {
+      "datum": "2026-07-31T01:00:00-04:00",
+      "land": "JPY",
+      "titel": "Housing Starts y/y",
+      "impact": "Low",
+      "prognose": "13.2%",
+      "vorher": "33.9%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T01:30:00-04:00|JPY|BOJ Press Conference": {
+      "datum": "2026-07-31T01:30:00-04:00",
+      "land": "JPY",
+      "titel": "BOJ Press Conference",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T02:00:00-04:00|GBP|Nationwide HPI m/m": {
+      "datum": "2026-07-31T02:00:00-04:00",
+      "land": "GBP",
+      "titel": "Nationwide HPI m/m",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "0.0%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T02:30:00-04:00|CHF|Retail Sales y/y": {
+      "datum": "2026-07-31T02:30:00-04:00",
+      "land": "CHF",
+      "titel": "Retail Sales y/y",
+      "impact": "Low",
+      "prognose": "3.2%",
+      "vorher": "3.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T02:45:00-04:00|EUR|French Prelim CPI m/m": {
+      "datum": "2026-07-31T02:45:00-04:00",
+      "land": "EUR",
+      "titel": "French Prelim CPI m/m",
+      "impact": "Low",
+      "prognose": "0.3%",
+      "vorher": "-0.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T03:55:00-04:00|EUR|German Unemployment Change": {
+      "datum": "2026-07-31T03:55:00-04:00",
+      "land": "EUR",
+      "titel": "German Unemployment Change",
+      "impact": "Low",
+      "prognose": "5K",
+      "vorher": "-1K",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T05:00:00-04:00|EUR|Core CPI Flash Estimate y/y": {
+      "datum": "2026-07-31T05:00:00-04:00",
+      "land": "EUR",
+      "titel": "Core CPI Flash Estimate y/y",
+      "impact": "Medium",
+      "prognose": "2.4%",
+      "vorher": "2.4%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T05:00:00-04:00|EUR|CPI Flash Estimate y/y": {
+      "datum": "2026-07-31T05:00:00-04:00",
+      "land": "EUR",
+      "titel": "CPI Flash Estimate y/y",
+      "impact": "Medium",
+      "prognose": "2.9%",
+      "vorher": "2.8%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T05:00:00-04:00|EUR|Italian Prelim CPI m/m": {
+      "datum": "2026-07-31T05:00:00-04:00",
+      "land": "EUR",
+      "titel": "Italian Prelim CPI m/m",
+      "impact": "Low",
+      "prognose": "0.1%",
+      "vorher": "0.0%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T07:15:00-04:00|GBP|MPC Member Pill Speaks": {
+      "datum": "2026-07-31T07:15:00-04:00",
+      "land": "GBP",
+      "titel": "MPC Member Pill Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T08:30:00-04:00|CAD|GDP m/m": {
+      "datum": "2026-07-31T08:30:00-04:00",
+      "land": "CAD",
+      "titel": "GDP m/m",
+      "impact": "High",
+      "prognose": "0.2%",
+      "vorher": "0.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T08:30:00-04:00|USD|Employment Cost Index q/q": {
+      "datum": "2026-07-31T08:30:00-04:00",
+      "land": "USD",
+      "titel": "Employment Cost Index q/q",
+      "impact": "Medium",
+      "prognose": "0.8%",
+      "vorher": "0.9%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T09:45:00-04:00|USD|Chicago PMI": {
+      "datum": "2026-07-31T09:45:00-04:00",
+      "land": "USD",
+      "titel": "Chicago PMI",
+      "impact": "Low",
+      "prognose": "57.5",
+      "vorher": "56.7",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T10:00:00-04:00|USD|Revised UoM Consumer Sentiment": {
+      "datum": "2026-07-31T10:00:00-04:00",
+      "land": "USD",
+      "titel": "Revised UoM Consumer Sentiment",
+      "impact": "Medium",
+      "prognose": "54.2",
+      "vorher": "54.4",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-31T10:00:00-04:00|USD|Revised UoM Inflation Expectations": {
+      "datum": "2026-07-31T10:00:00-04:00",
+      "land": "USD",
+      "titel": "Revised UoM Inflation Expectations",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "4.2%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

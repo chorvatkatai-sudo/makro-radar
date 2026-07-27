@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-27T06:58:24.963Z",
+  "stand": "2026-07-27T12:51:49.155Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro gains strongly against US Dollar on revival of risk-on sentiment",
-      "link": "https://www.fxstreet.com/news/euro-gains-strongly-against-us-dollar-on-revival-of-risk-on-sentiment-202607270646",
-      "datum": "2026-07-27T06:46:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Equities: Earnings and Fed keep risk balanced – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-earnings-and-fed-keep-risk-balanced-deutsche-bank-202607270645",
-      "datum": "2026-07-27T06:45:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Mounting supply risks and price pressures – Commerzbank",
-      "link": "https://www.fxstreet.com/news/oil-mounting-supply-risks-and-price-pressures-commerzbank-202607270628",
-      "datum": "2026-07-27T06:28:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: In a positive trend with bulls eyeing 0.8555 resistance",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-in-a-positive-trend-with-bulls-eyeing-08555-resistance-202607270623",
-      "datum": "2026-07-27T06:23:30.000Z"
+      "titel": "United States Durable Goods Orders rise 0.3% in June vs. 1.6% expected",
+      "link": "https://www.fxstreet.com/news/united-states-durable-goods-orders-rise-03-in-june-vs-16-expected-202607271248",
+      "datum": "2026-07-27T12:48:38.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-11/",
-      "datum": "2026-07-27T06:21:45.000Z"
+      "titel": "US advanced Durable Goods orders for June 0.3% vs 2.5% expected",
+      "link": "https://investinglive.com/news/us-advanced-durable-goods-orders-for-june-0-3-vs-2-5-expected/",
+      "datum": "2026-07-27T12:41:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: September hike outlook offers support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-september-hike-outlook-offers-support-against-us-dollar-uob-202607270613",
-      "datum": "2026-07-27T06:13:20.000Z"
+      "titel": "British Pound loses ground against Japanese Yen ahead of central bank decisions",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-ground-against-japanese-yen-ahead-of-central-bank-decisions-202607271239",
+      "datum": "2026-07-27T12:39:08.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee recovers further as US-Iran war pause hits oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-recovers-further-as-us-iran-war-pause-hits-oil-prices-202607270552",
-      "datum": "2026-07-27T05:52:07.000Z"
+      "titel": "CEE FX: Softer geopolitics aids high beta – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-softer-geopolitics-aids-high-beta-ing-202607271237",
+      "datum": "2026-07-27T12:37:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen gains against US Dollar at the start of Fed-BoJ policy week",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-us-dollar-at-the-start-of-fed-boj-policy-week-202607270550",
-      "datum": "2026-07-27T05:50:36.000Z"
+      "titel": "Russian Ruble: CBR credibility risks after cut – Commerzbank",
+      "link": "https://www.fxstreet.com/news/russian-ruble-cbr-credibility-risks-after-cut-commerzbank-202607271227",
+      "datum": "2026-07-27T12:27:46.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Consolidates near 0.7000 as bulls await 38.2% Fibo. breakout",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-consolidates-near-07000-as-bulls-await-382-fibo-breakout-202607270545",
-      "datum": "2026-07-27T05:45:33.000Z"
+      "titel": "Federal Reserve: Extended pause but hike risk rising – UOB",
+      "link": "https://www.fxstreet.com/news/federal-reserve-extended-pause-but-hike-risk-rising-uob-202607271218",
+      "datum": "2026-07-27T12:18:38.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold edges higher as US-Iran diplomacy and weak oil weigh on USD ahead of FOMC meeting",
-      "link": "https://www.fxstreet.com/news/gold-edges-higher-as-us-iran-diplomacy-and-weak-oil-weigh-on-usd-ahead-of-fomc-meeting-202607270517",
-      "datum": "2026-07-27T05:17:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Holds gains around 186.50 within rising wedge",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-holds-gains-around-18650-within-rising-wedge-202607270508",
-      "datum": "2026-07-27T05:08:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc climbs as US Dollar falls on easing safe-haven demand",
-      "link": "https://www.fxstreet.com/news/swiss-franc-climbs-as-us-dollar-falls-on-easing-safe-haven-demand-202607270449",
-      "datum": "2026-07-27T04:49:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607270435",
-      "datum": "2026-07-27T04:35:39.000Z"
+      "titel": "Oil: Lower prices ease inflation risks – OCBC",
+      "link": "https://www.fxstreet.com/news/oil-lower-prices-ease-inflation-risks-ocbc-202607271208",
+      "datum": "2026-07-27T12:08:29.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "A case of US-Iran déjà vu for markets?",
-      "link": "https://investinglive.com/news/a-case-of-us-iran-deja-vu-for-markets/",
-      "datum": "2026-07-27T04:33:48.000Z"
+      "titel": "investingLive European session wrap: Oil stumbles as markets cling on to US-Iran de-escalation hopes",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-stumbles-as-markets-cling-on-to-us-iran-de-escalation-hopes/",
+      "datum": "2026-07-27T11:52:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Fed uncertainty tempers USD strength – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-uncertainty-tempers-usd-strength-mufg-202607271152",
+      "datum": "2026-07-27T11:52:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold Price Forecast: XAU/USD is looking for direction around $4,100",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-is-looking-for-direction-around-4-100-202607271145",
+      "datum": "2026-07-27T11:45:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Fiber resumes decline after testing Bearish Flag breakdown",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-resumes-decline-after-testing-bearish-flag-breakdown-202607271133",
+      "datum": "2026-07-27T11:33:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: BoE pause risks dovish repricing – ING",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-pause-risks-dovish-repricing-ing-202607271129",
+      "datum": "2026-07-27T11:29:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Growth and policy doubts point lower against US Dollar – HSBC",
+      "link": "https://www.fxstreet.com/news/euro-growth-and-policy-doubts-point-lower-against-us-dollar-hsbc-202607271121",
+      "datum": "2026-07-27T11:21:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold firms as Oil prices fall on temporary US-Iran pause, Fed in focus",
+      "link": "https://www.fxstreet.com/news/gold-firms-as-oil-prices-fall-on-temporary-us-iran-pause-202607271114",
+      "datum": "2026-07-27T11:14:49.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-pacific FX news wrap: Pause in Iran strikes boosts peace trades",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-pause-in-iran-strikes-boosts-peace-trades/",
-      "datum": "2026-07-27T03:38:55.000Z"
+      "titel": "Market update today and what may be interesting to trade",
+      "link": "https://investinglive.com/news/market-update-today-and-what-may-be-interesting-to-trade/",
+      "datum": "2026-07-27T10:29:43.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Week ahead for traders: FOMC, BoE, BoJ, US PCE and GDP create major cross-asset risk",
-      "link": "https://investinglive.com/news/week-ahead-for-traders-fomc-boe-boj-us-pce-and-gdp-create-major-cross-asset-risk/",
-      "datum": "2026-07-26T21:07:13.000Z"
+      "titel": "UK retailers report smallest downturn in sales in six months during July - CBI",
+      "link": "https://investinglive.com/news/uk-retailers-report-smallest-downturn-in-sales-in-six-months-during-july-cbi/",
+      "datum": "2026-07-27T10:12:49.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Iran says it will halt strikes so long as US pause continues",
-      "link": "https://investinglive.com/news/iran-says-it-will-halt-strikes-so-long-as-us-pause-continues/",
-      "datum": "2026-07-26T20:43:51.000Z"
+      "titel": "Japan must exit excessively tight fiscal policy, says prime minister Takaichi",
+      "link": "https://investinglive.com/news/japan-must-exit-excessively-tight-fiscal-policy-says-prime-minister-takaichi/",
+      "datum": "2026-07-27T09:36:03.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Newsquawk Week in Focus: FOMC, BoE, BoJ, US PCE, US GDP, and EZ CPI",
-      "link": "https://investinglive.com/news/newsquawk-week-in-focus-fomc-boe-boj-us-pce-us-gdp-and-ez-cpi/",
-      "datum": "2026-07-26T20:09:46.000Z"
+      "titel": "Germany business sentiment rises further and by more than expected in July - Ifo",
+      "link": "https://investinglive.com/news/germany-july-ifo-business-climate-index-vs-86-0-expected/",
+      "datum": "2026-07-27T08:15:45.000Z"
     }
   ]
 }

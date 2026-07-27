@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-26T05:04:26.274Z",
+  "stand": "2026-07-27T05:09:32.157Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,112 +7,112 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Holds gains around 186.50 within rising wedge",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-holds-gains-around-18650-within-rising-wedge-202607270508",
+      "datum": "2026-07-27T05:08:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc climbs as US Dollar falls on easing safe-haven demand",
+      "link": "https://www.fxstreet.com/news/swiss-franc-climbs-as-us-dollar-falls-on-easing-safe-haven-demand-202607270449",
+      "datum": "2026-07-27T04:49:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607270435",
+      "datum": "2026-07-27T04:35:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "A case of US-Iran déjà vu for markets?",
+      "link": "https://investinglive.com/news/a-case-of-us-iran-deja-vu-for-markets/",
+      "datum": "2026-07-27T04:33:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah weakens as Bank Indonesia Governor Perry Warjiyo resigns",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-bank-indonesia-governor-perry-warjiyo-resigns-202607270341",
+      "datum": "2026-07-27T03:41:30.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-pacific FX news wrap: Pause in Iran strikes boosts peace trades",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-pause-in-iran-strikes-boosts-peace-trades/",
+      "datum": "2026-07-27T03:38:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD jumps over 2% to near $60 on renewed US-Iran diplomacy hopes",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-over-2-to-near-60-on-renewed-us-iran-diplomacy-hopes-202607270335",
+      "datum": "2026-07-27T03:35:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index falls to near 101.00 after US-Iran strike halt",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-falls-to-near-10100-after-us-iran-strike-halt-202607270327",
+      "datum": "2026-07-27T03:27:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar bulls seem hesitant; downside seems limited amid weak USD",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-bulls-seem-hesitant-downside-seems-limited-amid-weak-usd-202607270313",
+      "datum": "2026-07-27T03:13:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar advances as easing risk aversion lifts US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-advances-as-easing-risk-aversion-lifts-us-dollar-202607270241",
+      "datum": "2026-07-27T02:41:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound strengthens beyond mid-1.3300s vs weak USD amid fresh Iran diplomacy hopes",
+      "link": "https://www.fxstreet.com/news/british-pound-strengthens-beyond-mid-13300s-vs-weak-usd-amid-fresh-iran-diplomacy-hopes-202607270234",
+      "datum": "2026-07-27T02:34:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold gains as falling oil prices ease inflation and rate hike fears",
+      "link": "https://www.fxstreet.com/news/gold-gains-as-falling-oil-prices-ease-inflation-and-rate-hike-fears-202607270207",
+      "datum": "2026-07-27T02:07:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro climbs beyond 1.1400 as renewed Iran diplomacy hopes undermine safe-haven USD",
+      "link": "https://www.fxstreet.com/news/euro-climbs-beyond-11400-as-renewed-iran-diplomacy-hopes-undermine-safe-haven-usd-202607270159",
+      "datum": "2026-07-27T01:59:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI remains heavily offered near $84.00 amid hopes for de-escalation in US-Iran conflict",
+      "link": "https://www.fxstreet.com/news/wti-remains-heavily-offered-near-8400-amid-hopes-for-de-escalation-in-us-iran-conflict-202607270139",
+      "datum": "2026-07-27T01:39:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Week ahead for traders: FOMC, BoE, BoJ, US PCE and GDP create major cross-asset risk",
+      "link": "https://investinglive.com/news/week-ahead-for-traders-fomc-boe-boj-us-pce-and-gdp-create-major-cross-asset-risk/",
+      "datum": "2026-07-26T21:07:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran says it will halt strikes so long as US pause continues",
+      "link": "https://investinglive.com/news/iran-says-it-will-halt-strikes-so-long-as-us-pause-continues/",
+      "datum": "2026-07-26T20:43:51.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Newsquawk Week in Focus: FOMC, BoE, BoJ, US PCE, US GDP, and EZ CPI",
+      "link": "https://investinglive.com/news/newsquawk-week-in-focus-fomc-boe-boj-us-pce-us-gdp-and-ez-cpi/",
+      "datum": "2026-07-26T20:09:46.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-jul-geopolitics-remain-the-focus-for-traders/",
       "datum": "2026-07-24T21:51:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-seen-on-hold-with-cautious-inflation-tone-ocbc-202607242105",
-      "datum": "2026-07-24T21:05:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-consolidates-near-18700-bulls-target-18800-202607242054",
-      "datum": "2026-07-24T20:54:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Malaysia: Solid fundamentals support Ringgit and bonds – DBS",
-      "link": "https://www.fxstreet.com/news/malaysia-solid-fundamentals-support-ringgit-and-bonds-dbs-202607242022",
-      "datum": "2026-07-24T20:22:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Next week's earnings calendar heats up",
-      "link": "https://investinglive.com/news/next-week-s-earnings-calendar-heats-up/",
-      "datum": "2026-07-24T19:55:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: Iran not ready to make a deal.",
-      "link": "https://investinglive.com/news/trump-iran-not-ready-to-make-a-deal/",
-      "datum": "2026-07-24T19:44:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Strong GDP and inflows support Won – Commerzbank",
-      "link": "https://www.fxstreet.com/news/south-korean-won-strong-gdp-and-inflows-support-won-commerzbank-202607241939",
-      "datum": "2026-07-24T19:39:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forecasting the upcoming week: Fed, BoE and BoJ decisions take center stage",
-      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-decisions-take-center-stage-202607241928",
-      "datum": "2026-07-24T19:28:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-tests-05800-as-bullish-momentum-fades-202607241923",
-      "datum": "2026-07-24T19:23:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Thai Baht: Oil shock and dovish BoT keep THB pressured against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/thai-baht-oil-shock-and-dovish-bot-keep-thb-pressured-against-us-dollar-ocbc-202607241858",
-      "datum": "2026-07-24T18:58:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NY Times: Trump meets with top advisors to decide whether to increase military pressure on Iran",
-      "link": "https://investinglive.com/news/ny-times-trump-meets-with-top-advisors-to-decide-whether-to-increase-military-pressure-on-iran/",
-      "datum": "2026-07-24T18:34:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro falls even amid strong Eurozone PMIs",
-      "link": "https://www.fxstreet.com/news/euro-falls-even-amid-strong-eurozone-pmis-202607241833",
-      "datum": "2026-07-24T18:33:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold gains despite firm US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-gains-despite-firm-us-dollar-202607241830",
-      "datum": "2026-07-24T18:30:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: BI pause seen as hawkish hold – UOB",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-seen-as-hawkish-hold-uob-202607241823",
-      "datum": "2026-07-24T18:23:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "EU fines today, Trump 301 tariffs tomorrow?",
-      "link": "https://investinglive.com/news/eu-fines-today-trump-301-tariffs-tomorrow/",
-      "datum": "2026-07-24T18:08:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD consolidates as bulls struggle to clear the 21-day SMA",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-as-bulls-struggle-to-clear-the-21-day-sma-202607241758",
-      "datum": "2026-07-24T17:58:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Dow Jones Industrial Average buys a rumour and sleeps through a tariff regime",
-      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-buys-a-rumour-and-sleeps-through-a-tariff-regime-202607241748",
-      "datum": "2026-07-24T17:48:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US and the UK planning on having a meeting on protecting shipping in the Strait of Hormuz",
-      "link": "https://investinglive.com/news/us-and-the-uk-planning-on-having-a-meeting-on-protecting-shipping-in-the-strait-of-hormuz/",
-      "datum": "2026-07-24T16:33:25.000Z"
     }
   ]
 }

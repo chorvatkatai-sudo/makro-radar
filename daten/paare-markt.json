@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-27T15:38:18.258Z",
+  "stand": "2026-07-27T17:37:19.070Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -3,
       "tiltCot": -4,
-      "tiltZins": -5,
-      "tiltGesamt": -9,
-      "score": -12,
+      "tiltZins": -6,
+      "tiltGesamt": -10,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: kühle UK-Inflation + schrumpfende PMIs gegen den Dollar. Gegenpol: falkige BoE (Do) + crowded GBP-Shorts (Squeeze-Gefahr) bremsen die Abwärtswette."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": 3,
       "tiltCot": 5,
-      "tiltZins": 5,
-      "tiltGesamt": 10,
-      "score": 13,
+      "tiltZins": 6,
+      "tiltGesamt": 11,
+      "score": 14,
       "cotExtrem": "erhoeht",
       "treiber": "Gedreht auf leicht aufwärts: Der Öl-Einbruch (WTI ~84 $) nimmt dem Loonie seinen Trumpf → USD/CAD tendiert höher. Gegenpol und Grund für Zurückhaltung: extrem short positionierte Loonie-Wetten (Squeeze) + falkige BoC federn ab. USD/CAD-Record mies (1/6) → nahe null."
     },

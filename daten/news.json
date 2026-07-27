@@ -1,11 +1,83 @@
 {
-  "stand": "2026-07-27T17:37:19.069Z",
+  "stand": "2026-07-27T21:03:44.811Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 27 Jul: Oil was down sharply but the stocks, bonds, USD did not fully follow.",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-27-jul-oil-was-down-sharply-but-the-stocks-bonds-usd-did-not-fully-follow/",
+      "datum": "2026-07-27T20:55:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: Political risks temper valuation case – BBH",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-political-risks-temper-valuation-case-bbh-202607272037",
+      "datum": "2026-07-27T20:37:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: BoJ tightening yet weaker JPY against US Dollar – BNP Paribas",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-yet-weaker-jpy-against-us-dollar-bnp-paribas-202607272017",
+      "datum": "2026-07-27T20:17:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: MAS signals inflation concern – Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-signals-inflation-concern-commerzbank-202607271951",
+      "datum": "2026-07-27T19:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar softens as Oil plunges on Middle East pause",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-softens-as-oil-plunges-on-middle-east-pause-202607271949",
+      "datum": "2026-07-27T19:49:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Range holds as intervention fears bite",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-range-holds-as-intervention-fears-bite-202607271940",
+      "datum": "2026-07-27T19:40:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "LatAm FX: Carry appeal faces Fed test – BNY",
+      "link": "https://www.fxstreet.com/news/latam-fx-carry-appeal-faces-fed-test-bny-202607271907",
+      "datum": "2026-07-27T19:07:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: Bulls eye 0.8200 as rally extends",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-eye-08200-as-rally-extends-202607271854",
+      "datum": "2026-07-27T18:54:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rises toward $4,070 as falling US yields support Bullion",
+      "link": "https://www.fxstreet.com/news/gold-rises-toward-4-070-as-falling-us-yields-support-bullion-202607271849",
+      "datum": "2026-07-27T18:49:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Could Fed decision trigger a break from $55-$62 range?",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-could-fed-decision-trigger-a-break-from-55-62-range-202607271838",
+      "datum": "2026-07-27T18:38:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: Recovery potential versus energy drag – Commerzbank",
+      "link": "https://www.fxstreet.com/news/germany-recovery-potential-versus-energy-drag-commerzbank-202607271829",
+      "datum": "2026-07-27T18:29:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro flat after losing early gains on Monday",
+      "link": "https://www.fxstreet.com/news/euro-flat-after-losing-early-gains-on-monday-202607271747",
+      "datum": "2026-07-27T17:47:09.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Trump: On Iran, I have plenty of time",
@@ -31,88 +103,16 @@
       "datum": "2026-07-27T16:13:13.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound tumbles as risk-off mood boosts the US Dollar",
-      "link": "https://www.fxstreet.com/news/british-pound-tumbles-as-risk-off-mood-boosts-the-us-dollar-202607271610",
-      "datum": "2026-07-27T16:10:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc slips against the US Dollar on diverging monetary policy expectations",
-      "link": "https://www.fxstreet.com/news/swiss-franc-slips-against-the-us-dollar-on-diverging-monetary-policy-expectations-202607271608",
-      "datum": "2026-07-27T16:08:33.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US treasury sells $69 billion of 2 year note at a high yield of",
       "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-note-that-a-high-yield-of/",
       "datum": "2026-07-27T16:05:58.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen firms as easing tensions weigh on USD before Fed, BoJ",
-      "link": "https://www.fxstreet.com/news/japanese-yen-firms-as-easing-tensions-weigh-on-usd-before-fed-boj-202607271601",
-      "datum": "2026-07-27T16:01:49.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump: I am not to give much time to negotiations – either it will move quickly or won't happen at all.",
       "link": "https://investinglive.com/news/trump-i-am-not-giving-much-time-to-negotiations-either-it-will-move-quickly-or-won-t-happen-at-all/",
       "datum": "2026-07-27T15:12:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: MAS signals inflation concern – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-signals-inflation-concern-commerzbank-202607271504",
-      "datum": "2026-07-27T15:04:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar retreats from intraday gains ahead of Australian CPI and Fed decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-from-intraday-gains-ahead-of-australian-cpi-and-fed-decision-202607271502",
-      "datum": "2026-07-27T15:02:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: Technical outlook remains constructive above 1.4000",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-technical-outlook-remains-constructive-above-14000-202607271500",
-      "datum": "2026-07-27T15:00:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of England: Higher bar seen for rate hikes - ING",
-      "link": "https://www.fxstreet.com/news/bank-of-england-higher-bar-seen-for-rate-hikes-ing-202607271451",
-      "datum": "2026-07-27T14:51:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil drops more than 7% as US, Iran pause strikes",
-      "link": "https://www.fxstreet.com/news/wti-oil-drops-more-than-7-as-us-iran-pause-strikes-202607271427",
-      "datum": "2026-07-27T14:27:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Growth slowdown and higher rates – BNP Paribas",
-      "link": "https://www.fxstreet.com/news/british-pound-growth-slowdown-and-higher-rates-bnp-paribas-202607271427",
-      "datum": "2026-07-27T14:27:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Recovery signals offer limited upside against US Dollar – BBH",
-      "link": "https://www.fxstreet.com/news/euro-recovery-signals-offer-limited-upside-against-us-dollar-bbh-202607271407",
-      "datum": "2026-07-27T14:07:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US advanced Durable Goods orders for June 0.3% vs 2.5% expected",
-      "link": "https://investinglive.com/news/us-advanced-durable-goods-orders-for-june-0-3-vs-2-5-expected/",
-      "datum": "2026-07-27T12:41:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Oil stumbles as markets cling on to US-Iran de-escalation hopes",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-stumbles-as-markets-cling-on-to-us-iran-de-escalation-hopes/",
-      "datum": "2026-07-27T11:52:28.000Z"
     }
   ]
 }

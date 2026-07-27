@@ -5716,7 +5716,7 @@
       "land": "GBP",
       "titel": "BRC Shop Price Index y/y",
       "impact": "Low",
-      "prognose": "1.2%",
+      "prognose": "1.1%",
       "vorher": "1.2%",
       "actual": null,
       "notiz": null
@@ -5746,7 +5746,7 @@
       "land": "EUR",
       "titel": "Spanish Unemployment Rate",
       "impact": "Low",
-      "prognose": "10.7%",
+      "prognose": "10.1%",
       "vorher": "10.8%",
       "actual": null,
       "notiz": null
@@ -5776,7 +5776,7 @@
       "land": "USD",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-98.0B",
+      "prognose": "-100.3B",
       "vorher": "-105.8B",
       "actual": null,
       "notiz": null
@@ -5786,7 +5786,7 @@
       "land": "USD",
       "titel": "Prelim Wholesale Inventories m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.4%",
       "vorher": "0.3%",
       "actual": null,
       "notiz": null
@@ -5796,7 +5796,7 @@
       "land": "USD",
       "titel": "HPI m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.1%",
       "vorher": "-0.1%",
       "actual": null,
       "notiz": null
@@ -5806,7 +5806,7 @@
       "land": "USD",
       "titel": "S&P/CS Composite-20 HPI y/y",
       "impact": "Low",
-      "prognose": "0.8%",
+      "prognose": "1.3%",
       "vorher": "1.1%",
       "actual": null,
       "notiz": null
@@ -5816,7 +5816,7 @@
       "land": "USD",
       "titel": "CB Consumer Confidence",
       "impact": "Medium",
-      "prognose": "92.1",
+      "prognose": "92.4",
       "vorher": "91.2",
       "actual": null,
       "notiz": null
@@ -5826,7 +5826,7 @@
       "land": "USD",
       "titel": "Richmond Manufacturing Index",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "7",
       "vorher": "4",
       "actual": null,
       "notiz": null
@@ -5866,7 +5866,7 @@
       "land": "AUD",
       "titel": "Trimmed Mean CPI m/m",
       "impact": "High",
-      "prognose": "0.4%",
+      "prognose": "0.3%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -5876,7 +5876,7 @@
       "land": "EUR",
       "titel": "German Import Prices m/m",
       "impact": "Low",
-      "prognose": "-0.8%",
+      "prognose": "-0.7%",
       "vorher": "0.7%",
       "actual": null,
       "notiz": null
@@ -5906,7 +5906,7 @@
       "land": "GBP",
       "titel": "Mortgage Approvals",
       "impact": "Low",
-      "prognose": "56K",
+      "prognose": "57K",
       "vorher": "56K",
       "actual": null,
       "notiz": null
@@ -5936,7 +5936,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-1.7M",
       "vorher": "2.0M",
       "actual": null,
       "notiz": null
@@ -6157,7 +6157,7 @@
       "titel": "Italian 10-y Bond Auction",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "3.63|1.7",
       "actual": null,
       "notiz": null
     },
@@ -6536,6 +6536,26 @@
       "land": "USD",
       "titel": "President Trump Speaks",
       "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-28T06:00:00-04:00|EUR|German Buba Monthly Report": {
+      "datum": "2026-07-28T06:00:00-04:00",
+      "land": "EUR",
+      "titel": "German Buba Monthly Report",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T07:30:00-04:00|GBP|BOE Gov Bailey Speaks": {
+      "datum": "2026-07-30T07:30:00-04:00",
+      "land": "GBP",
+      "titel": "BOE Gov Bailey Speaks",
+      "impact": "High",
       "prognose": "",
       "vorher": "",
       "actual": null,

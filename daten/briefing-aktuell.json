@@ -14,80 +14,80 @@
   "waehrungen": {
     "USD": {
       "stimmung": "neutral",
-      "score": 8,
-      "grund": "Fest, aber nicht euphorisch: Der Öl-Krieg treibt die Inflations-Angst und die US-Renditen (10J 4,70 %) hoch, dazu ein Sicherheits-Bid bei steigendem VIX → Dollar über 101. Gegenpol: Die US-Inflation kühlt eigentlich (Vorwoche CPI/PPI weich), und die Fed-Sitzung Mittwoch (Halten erwartet, ~35 % Erhöhungs-Chance) ist größtenteils eingepreist. Neutral-fest, nicht mehr."
+      "score": 5,
+      "grund": "Etwas weicher als letzte Woche: Mit dem Öl-Einbruch (Waffenruhe) fällt das Sicherheits-Bid und die Öl-Inflations-Angst weg, der Dollar rutscht vom Monatshoch (DXY ~101,3). Boden bleibt aber: US-Renditen hoch (10J ~4,68 %), Realzins ~2,4 %, und die Fed (Mi) könnte trotz Öl-Entspannung falkenhaft bleiben. Neutral-fest, warten auf die Fed."
     },
     "EUR": {
       "stimmung": "bärisch",
-      "score": -6,
-      "grund": "Leicht negativ: Die Eurozone ist Öl-IMPORTEUR und leidet unter dem teuren Öl, EUR/USD hielt sich nicht über 1,14. Gegenpol: Die PMIs überraschten heute positiv (Industrie 52,0, erstes Wachstum seit 4 Monaten) und die EZB klang falkenhaft (September-Tür offen). Netto knapp bärisch."
+      "score": -3,
+      "grund": "Leicht negativ, aber entspannter: Der Euro-Raum ist Öl-IMPORTEUR und profitiert jetzt vom billigeren Öl; EUR/USD hält sich zäh über 1,14. Gegenpol: falkenhafte EZB-Töne (September-Tür offen) helfen zusätzlich, aber die Euro-Inflation (Fr) und die Fed stehen erst noch an. Netto nur noch knapp bärisch."
     },
     "GBP": {
       "stimmung": "neutral",
-      "score": -3,
-      "grund": "Leicht negativ, aber gebremst: Die UK-Inflation kühlte auf 2,6 % und die Einkaufsmanager schrumpfen weiter (PMI ~49). Gegenpol: Die BoE (Do) klingt wegen des Öls falkenhaft (Markt preist wieder Erhöhungen ein), und die Großspekulanten sind stark short (z −1,48) — Rückschlag-Gefahr nach oben (Short-Squeeze)."
+      "score": -2,
+      "grund": "Fast neutral: Billigeres Öl entlastet auch UK, die kühle Inflation (2,6 %) und schrumpfende PMIs drücken aber. Gegenpol: BoE (Do) klang zuletzt falkenhaft, und die Großspekulanten sind stark short (z −1,48) → Rückschlag-Gefahr nach oben (Short-Squeeze)."
     },
     "JPY": {
-      "stimmung": "bärisch",
-      "score": -6,
-      "grund": "Schwach: Japan ist der größte Öl-Verlierer (importiert fast alles), die steigenden Auslands-Renditen vergrößern den Zins-Nachteil, USD/JPY steht bei ~163 (Interventions-Zone). BoJ hält Freitag voraussichtlich bei 1,00 %. Bewusst nur moderat bärisch: Interventions-Risiko deckelt die Yen-Schwäche, und mein USD/JPY-Track-Record ist mies (1/5)."
+      "stimmung": "neutral",
+      "score": -3,
+      "grund": "Fast neutral: Der Öl-Einbruch hilft Japan (größter Öl-Importeur) und lindert den Handels-Nachteil — Gegengewicht zum Risk-on, das den Yen als Fluchtwährung eher schwächt. USD/JPY ~162 (Interventions-Zone), BoJ Fr voraussichtlich Halten mit Erhöhungs-Signal. Bewusst demütig: mein USD/JPY-Track-Record ist mies (2/6)."
     },
     "CHF": {
       "stimmung": "neutral",
       "score": -2,
-      "grund": "Fast neutral: Als sicherer Hafen bekommt der Franken bei steigender Nervosität (VIX ~18,8) etwas Rückenwind. Gegenpol: Die SNB verzinst mit 0 % gar nichts, und die Schweiz ist ebenfalls Öl-Importeur. Unterm Strich nur leicht negativ."
+      "grund": "Leicht negativ: Im Risk-on (VIX beruhigt) verliert der sichere Hafen etwas Rückenwind, dafür entlastet billigeres Öl die Schweiz (Importeur). Die SNB verzinst mit 0 % nichts. Unterm Strich fast neutral."
     },
     "CAD": {
-      "stimmung": "bullisch",
-      "score": 10,
-      "grund": "Klarer Öl-Gewinner: Öl ist Kanadas Top-Export, WTI ~90 $ gibt dem Loonie Rückenwind. ABER Vorsicht — die kanadische Inflation kam diese Woche SEHR kühl (Kern-Raten 1,8–1,9 %), was der BoC eher Senkungs-Spielraum gibt. Und die Großspekulanten sind extrem short (z −1,86) → Squeeze-Risiko. Öl dominiert kurzfristig, deshalb bullisch, aber die Spannung ist real."
+      "stimmung": "neutral",
+      "score": 2,
+      "grund": "GROSSE Wende: Öl war Kanadas Trumpf — und ist am Wochenende eingebrochen (WTI ~84 $). Damit fällt der Loonie-Rückenwind weitgehend weg. Gegenpol/Boden: die BoC klang zuletzt falkenhaft und die Großspekulanten sind extrem short (z −1,86) → Squeeze-Risiko federt den Rücksetzer ab. Deshalb von bullisch auf neutral gedreht. USD/CAD-Track-Record ist mies (1/6) → bewusst nahe null."
     },
     "AUD": {
       "stimmung": "bullisch",
-      "score": 4,
-      "grund": "Leicht positiv: Starker Arbeitsmarkt (+24,5k, Arbeitslosigkeit 4,2 %) hält die RBA hart, der 2-Jahres-Zins stieg diese Woche am stärksten (+0,17 Punkte). Gegenpol: Das zurückkehrende Risk-off (VIX rauf) trimmt die Rohstoff-Währung, und Chinas Konjunktur bleibt schwach."
+      "score": 5,
+      "grund": "Leicht positiv: Das zurückkehrende Risk-on (Waffenruhe, VIX runter) hilft der Rohstoff-Währung, der starke Arbeitsmarkt (+24,5k) hält die RBA hart, der 2-Jahres-Zins ist der höchste im Feld (4,68 %). Gegenpol: Chinas Konjunktur bleibt schwach + Australien-Inflation Mi als Test."
     },
     "NZD": {
       "stimmung": "neutral",
-      "score": 0,
-      "grund": "Bewusst neutral: Die NZ-Inflation kam heiß (Quartal +1,5 %), das stützt eigentlich. ABER die Großspekulanten sind EXTREM short (z −2,37, −53 % — größtes Extrem im Feld) → das kann in beide Richtungen heftig kippen (Squeeze). Zudem war der Kiwi diese Woche einer der schwächsten Majors. Netto: Finger von der Wette lassen, neutral."
+      "score": 2,
+      "grund": "Knapp positiv: Risk-on + heiße NZ-Inflation (+1,5 % Q) stützen, und die Großspekulanten sind EXTREM short (z −2,37, −53 % — größtes Extrem im Feld) → Squeeze-Zünder nach oben. Aber der Kiwi war zuletzt einer der schwächsten Majors und der Track-Record ist dünn (1/5) → nur zaghaft positiv."
     }
   },
   "paare": [
     {
       "paar": "EUR/USD",
-      "score": -5,
-      "treiber": "Leicht abwärts: Der feste Dollar (Öl-Renditen + Sicherheits-Bid) drückt gegen den Öl-belasteten Euro; EUR/USD hielt sich nicht über 1,14. Gegenpol: gute Euro-PMIs + falkige EZB. Maßvoll wegen schwachem Track-Record."
+      "score": -2,
+      "treiber": "Knapp abwärts: Der etwas weichere Dollar (Öl-Entspannung) trifft auf den ölentlasteten, zähen Euro (>1,14). Gegenpol: Euro-Inflation Fr + Fed Mi stehen noch an. Maßvoll wegen schwachem EUR/USD-Track-Record (1/6)."
     },
     {
       "paar": "GBP/USD",
       "score": -3,
-      "treiber": "Leicht abwärts: Kühlere UK-Inflation + schrumpfende PMIs gegen den festen Dollar. Gegenpol: falkige BoE (Öl) + crowded GBP-Shorts (Squeeze-Gefahr) bremsen die Abwärtswette."
+      "treiber": "Leicht abwärts: kühle UK-Inflation + schrumpfende PMIs gegen den Dollar. Gegenpol: falkige BoE (Do) + crowded GBP-Shorts (Squeeze-Gefahr) bremsen die Abwärtswette."
     },
     {
       "paar": "USD/JPY",
-      "score": 6,
-      "treiber": "Aufwärts, aber stark gebremst: Öl-Schock trifft den Yen hart, Zins-Nachteil wächst. ABER ~163 ist Interventions-Zone und mein USD/JPY-Record ist der schlechteste (1/5) → bewusst nur moderat positiv."
+      "score": 4,
+      "treiber": "Aufwärts, aber stark gebremst: Risk-on schwächt den Yen als Fluchtwährung, doch billigeres Öl hilft Japan (Importeur) und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
     },
     {
       "paar": "AUD/USD",
-      "score": 2,
-      "treiber": "Knapp positiv: Starke Jobs + steigender Aussie-Zins gegen den festen Dollar. Gegenpol: Risk-off (VIX rauf) + schwaches China trimmen die Rohstoff-Währung. Netto knapp im Plus."
+      "score": 3,
+      "treiber": "Knapp positiv: Risk-on (Waffenruhe) + höchster 2J-Zins + starke Jobs gegen den weicheren Dollar. Gegenpol: schwaches China + Australien-Inflation Mi als Test."
     },
     {
       "paar": "USD/CAD",
-      "score": -6,
-      "treiber": "Abwärts (Loonie stärker): Der Öl-Schock (WTI ~90 $) ist Kanadas Trumpf. Gegenpol und Grund für Zurückhaltung: sehr kühle CAD-Inflation (Senkungs-Fantasie) + extrem short positionierte Loonie-Wetten (Squeeze) — die Markt-Korrektur wird das teils zurückheben."
+      "score": 3,
+      "treiber": "Gedreht auf leicht aufwärts: Der Öl-Einbruch (WTI ~84 $) nimmt dem Loonie seinen Trumpf → USD/CAD tendiert höher. Gegenpol und Grund für Zurückhaltung: extrem short positionierte Loonie-Wetten (Squeeze) + falkige BoC federn ab. USD/CAD-Record mies (1/6) → nahe null."
     },
     {
       "paar": "USD/CHF",
       "score": 4,
-      "treiber": "Aufwärts, aber getrimmt: Der feste Dollar zieht das Paar hoch, doch der Franken bekommt bei steigender Nervosität (VIX) einen Hafen-Bid, der die Bewegung dämpft."
+      "treiber": "Aufwärts, aber getrimmt: Der Dollar-Vorsprung zieht das Paar leicht hoch; im Risk-on verliert der Franken etwas Hafen-Bid, doch billigeres Öl stützt die Schweiz gegen. Moderat positiv."
     },
     {
       "paar": "NZD/USD",
-      "score": -2,
-      "treiber": "Leicht abwärts: Fester Dollar + schwacher Kiwi diese Woche. Aber die EXTREM short positionierten Kiwi-Wetten (z −2,37) sind ein Pulverfass in beide Richtungen → nur zaghaft negativ."
+      "score": -1,
+      "treiber": "Fast neutral: weicherer Dollar + Risk-on stützen den Kiwi, aber er war zuletzt schwach. Die EXTREM short positionierten Kiwi-Wetten (z −2,37) sind ein Pulverfass in beide Richtungen → nur zaghaft negativ."
     }
   ],
   "wochenausblick": {
@@ -205,17 +205,18 @@
     "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Drei Short-Extreme bei den Großspekulanten — NZD (z −2,37, −53 %!), CAD (z −1,86) und GBP (z −1,48). Alle sind gegen den Dollar short. Solche Extreme sind Pulverfässer: Bei einem falkenhaften BoE/BoJ oder Öl-Rücksetzer kann ein heftiger Short-Squeeze diese Währungen nach oben schießen lassen. Deshalb NZD bewusst neutral, USD/CAD-Abwärtswette gedämpft."
   ],
   "tagesnews": {
-    "stand": "2026-07-26",
-    "wochentag": "Sonntag",
-    "tenor": "Wochenende — die Börsen ruhen, keine neuen Zahlen. EIN LICHTBLICK zum Wochenschluss: Öl fiel am Freitag ~4 %, weil Pakistan und China versuchen, die US-Iran-Gespräche wiederzubeleben (mögliche Friedens-Tür). Trotzdem bleibt es angespannt — WTI noch ~90 $, Dollar fest über 101, VIX ~18,6. Morgen startet die MONSTER-Woche: Fed (Mi), BoE + US-BIP + Kern-PCE (Do), BoJ + Euro-Inflation (Fr).",
+    "stand": "2026-07-27",
+    "wochentag": "Montag",
+    "tenor": "Wochenstart mit echter Wende: Am Wochenende ist der ÖL-PREIS EINGEBROCHEN (Brent ~−7–8 % auf ~91 $, WTI Richtung ~84 $), weil die USA ihre Iran-Angriffe gestoppt haben und eine Waffenruhe hält → der Markt atmet auf (Risk-on). Der Dollar gibt seinen Monatshoch-Schwung leicht ab (DXY ~101,3). Damit fällt der große Rückenwind für den Kanada-Dollar weg. ALLES dreht sich diese Woche aber um die Fed (Mi), dann US-BIP + Kern-PCE (Do) und BoJ + Euro-Inflation (Fr).",
     "heute": [
-      "🌙 Sonntag — kein Handel, keine neuen Wirtschaftsdaten. Ruhe vor der wichtigsten Woche seit Langem. Stand vom Freitagsschluss: Dollar-Index 101,47 (+0,5 % Wo), Öl WTI ~90 $ / Brent ~96 $ (aber Fr −4 % auf Friedens-Hoffnung!), Gold 4.066 $, VIX 18,6 (nervös). Kinderleicht: Der Markt bleibt vorsichtig, aber die erste Entspannungs-Nachricht seit Wochen (mögliche Iran-Gespräche) hat das Öl am Freitag kurz abkühlen lassen."
+      "🇺🇸 Heute Nachmittag (14:30 Wien): US-Auftragseingänge langlebiger Güter (Juni) — erwartet +1,6 % (nach −4,5 %), Kern +0,9 %; dazu Dallas-Fed-Industrieindex. Kinderleicht: zeigt, ob US-Firmen wieder mehr teure Maschinen/Flugzeuge bestellen = Konjunktur-Puls. Ein starker Wert stützt den Dollar leicht.",
+      "🕊️ Öl-Schock RÜCKWÄRTS: Nach dem US-Angriffs-Stopp am Wochenende ist Öl scharf gefallen (WTI ~84 $, Brent ~91 $, jeweils rund −7 %). Kinderleicht: Weniger Kriegsangst → billigeres Öl → weniger Inflations-Sorge → der Dollar verliert etwas Sicherheits-Bid, und Öl-Länder wie Kanada verlieren ihren Rückenwind.",
+      "🧭 Marktbild zum Start: Dollar-Index ~101,3 (leicht runter vom Monatshoch 101,5), Gold ~4.070 $, Angst-Barometer VIX beruhigt sich (Risk-on). Ruhiger Auftakt — die großen Brocken kommen ab Mittwoch (Fed)."
     ],
     "gestern": [
-      "🕊️ NEU vom Freitag/Wochenende: Öl fiel ~4 % zurück, weil Pakistan und China berichten, sie wollen die US-Iran-Verhandlungen wiederbeleben — die erste ernsthafte Hoffnung auf einen diplomatischen Ausweg seit Kriegsbeginn. Kinderleicht: Wenn das gelingt, fällt der Öl-Preis → die Inflations-Angst lässt nach → das könnte dem festen Dollar Luft nehmen. Noch ist es aber nur Hoffnung, kein Deal — Öl steht immer noch bei ~90 $.",
-      "🗓️ Wochenrückblick (21.–24.7.): 🛢️ Das Öl regierte — Brent kratzte am Do erstmals seit Mai an 100 $ (Iran-Eskalation), fiel Fr aber auf Friedens-Hoffnung zurück. 🇪🇺 Die EZB HIELT die Zinsen (Hauptsatz 2,40 %), klang aber falkenhaft und ließ die September-Tür offen. 🇬🇧 UK-Inflation kühlte auf 2,6 %, 🇨🇦 Kanada-Inflation SEHR kühl (Kern 1,8–1,9 %), 🇦🇺 Australiens Jobs stark (+24,5k, Quote 4,2 %), 🇳🇿 Neuseeland-Inflation heiß (Q +1,5 %). Kinderleicht: Trotz Öl-Schub kühlen die meisten Inflationszahlen ab — der Öl-Effekt schlägt erst mit Verzögerung durch.",
-      "💵 Der Dollar hielt sich die ganze Woche fest über 101 (Sicherheits-Bid + steigende US-Renditen, 10J ~4,70 %). Der Kanada-Dollar profitierte vom teuren Öl, Öl-Importeure Euro + Yen litten. Gold blieb nahe Rekord (~4.066 $).",
-      "🗓️ Der Blick nach vorn — MONSTER-Woche (27.–31.7.): Mo US-Auftragseingänge langlebiger Güter, Di US-Verbrauchervertrauen, 🇺🇸 Mi Fed-Entscheid (20:00 Wien — Halten bei 3,50–3,75 % erwartet, 5. Mal in Folge; der ÖL-TON entscheidet, ob eine Erhöhung näher rückt) + Australien-Inflation, 🇬🇧 Do Bank of England (Halten 3,75 %) + US-Wirtschaftswachstum Q2 + Fed-Lieblings-Inflation Kern-PCE, 🇯🇵 Fr Bank of Japan + Euro-Inflation. Selten prallt so viel auf einmal zusammen."
+      "🕊️ Das Wochenende brachte die Entspannung: Die USA stoppten ihre Iran-Angriffe, der Iran signalisierte, die Waffenruhe zu halten, solange nicht neu angegriffen wird. Folge: Öl brach ein (Brent −7,5 % auf ~91 $), Aktien risk-on. Kinderleicht: Die erste echte Entspannung seit Wochen — genau die 'Friedens-Tür', auf die der Markt Freitag schon spekuliert hat, ging am Wochenende weiter auf.",
+      "🗓️ Wochenrückblick (21.–24.7.): 🇪🇺 EZB HIELT (Hauptsatz 2,40 %, falkenhaft, September-Tür offen), 🇬🇧 UK-Inflation kühlte auf 2,6 %, 🇨🇦 Kanada-Inflation SEHR kühl (Kern 1,8–1,9 %), 🇦🇺 Australien-Jobs stark (+24,5k, Quote 4,2 %), 🇳🇿 NZ-Inflation heiß (+1,5 % Q). Öl kratzte Do erstmals seit Mai an 100 $. Kinderleicht: Trotz Öl-Schub kühlten die meisten Inflationszahlen ab — der Öl-Effekt schlägt erst verzögert durch.",
+      "🗓️ Der Blick nach vorn — MONSTER-Woche (27.–31.7.): 🇺🇸 Mi Fed (20:00 Wien, Halten bei 3,50–3,75 % erwartet, 5. Mal in Folge — jetzt wo Öl fällt, wird ein milderer Falken-Ton erwartet) + Australien-Inflation, 🇬🇧 Do BoE (Halten 3,75 %) + US-Wirtschaftswachstum Q2 + Fed-Lieblings-Inflation Kern-PCE (~0,17–0,19 % m/m, 3,3 % y/y erwartet), 🇯🇵 Fr BoJ (Halten 1,00 %, Erhöhungs-Signal möglich) + Euro-Inflation (erwartet 2,9 % y/y). Selten prallt so viel auf einmal zusammen."
     ]
   }
 }

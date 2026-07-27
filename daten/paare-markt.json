@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-27T05:09:32.158Z",
+  "stand": "2026-07-27T06:58:24.964Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -2,
       "tiltCot": -1,
-      "tiltZins": -3,
-      "tiltGesamt": -4,
-      "score": -6,
+      "tiltZins": -5,
+      "tiltGesamt": -6,
+      "score": -8,
       "cotExtrem": "erhoeht",
       "treiber": "Knapp abwärts: Der etwas weichere Dollar (Öl-Entspannung) trifft auf den ölentlasteten, zähen Euro (>1,14). Gegenpol: Euro-Inflation Fr + Fed Mi stehen noch an. Maßvoll wegen schwachem EUR/USD-Track-Record (1/6)."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 4,
       "tiltCot": 5,
-      "tiltZins": 2,
-      "tiltGesamt": 7,
-      "score": 11,
+      "tiltZins": 1,
+      "tiltGesamt": 6,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber stark gebremst: Risk-on schwächt den Yen als Fluchtwährung, doch billigeres Öl hilft Japan (Importeur) und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
     },

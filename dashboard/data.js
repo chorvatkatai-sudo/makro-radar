@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-27T21:03:44.813Z",
+ "erstellt": "2026-07-28T05:04:44.484Z",
  "wochenStart": "2026-07-26",
  "events": [
   {
@@ -2800,18 +2800,18 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Drei Short-Extreme bei den Großspekulanten — NZD (z −2,37, −53 %!), CAD (z −1,86) und GBP (z −1,48). Alle sind gegen den Dollar short. Solche Extreme sind Pulverfässer: Bei einem falkenhaften BoE/BoJ oder Öl-Rücksetzer kann ein heftiger Short-Squeeze diese Währungen nach oben schießen lassen. Deshalb NZD bewusst neutral, USD/CAD-Abwärtswette gedämpft."
   ],
   "tagesnews": {
-   "stand": "2026-07-27",
-   "wochentag": "Montag",
-   "tenor": "Wochenstart mit echter Wende: Am Wochenende ist der ÖL-PREIS EINGEBROCHEN (Brent ~−7–8 % auf ~91 $, WTI Richtung ~84 $), weil die USA ihre Iran-Angriffe gestoppt haben und eine Waffenruhe hält → der Markt atmet auf (Risk-on). Der Dollar gibt seinen Monatshoch-Schwung leicht ab (DXY ~101,3). Damit fällt der große Rückenwind für den Kanada-Dollar weg. ALLES dreht sich diese Woche aber um die Fed (Mi), dann US-BIP + Kern-PCE (Do) und BoJ + Euro-Inflation (Fr).",
+   "stand": "2026-07-28",
+   "wochentag": "Dienstag",
+   "tenor": "Ruhe-vor-dem-Sturm: Alle warten auf die Fed MORGEN (Mi 20:00 Wien). Überraschung: Der Markt preist inzwischen fast eine 50:50-Chance auf eine ZINS-ERHÖHUNG (CME ~46 %) — das Treffen ist damit ein echtes Wackel-Event, kein sicheres Halten. Heute liefern US-Verbrauchervertrauen + offene Stellen (JOLTS) den letzten Puls davor. Der Dollar steht fest (DXY ~101,5), Öl bleibt nach dem Montags-Absturz tief (WTI ~82 $, Brent ~87 $).",
    "heute": [
-    "🇺🇸 Heute Nachmittag (14:30 Wien): US-Auftragseingänge langlebiger Güter (Juni) — erwartet +1,6 % (nach −4,5 %), Kern +0,9 %; dazu Dallas-Fed-Industrieindex. Kinderleicht: zeigt, ob US-Firmen wieder mehr teure Maschinen/Flugzeuge bestellen = Konjunktur-Puls. Ein starker Wert stützt den Dollar leicht.",
-    "🕊️ Öl-Schock RÜCKWÄRTS: Nach dem US-Angriffs-Stopp am Wochenende ist Öl scharf gefallen (WTI ~84 $, Brent ~91 $, jeweils rund −7 %). Kinderleicht: Weniger Kriegsangst → billigeres Öl → weniger Inflations-Sorge → der Dollar verliert etwas Sicherheits-Bid, und Öl-Länder wie Kanada verlieren ihren Rückenwind.",
-    "🧭 Marktbild zum Start: Dollar-Index ~101,3 (leicht runter vom Monatshoch 101,5), Gold ~4.070 $, Angst-Barometer VIX beruhigt sich (Risk-on). Ruhiger Auftakt — die großen Brocken kommen ab Mittwoch (Fed)."
+    "🇺🇸 Heute 16:00 Wien: US-Verbrauchervertrauen (Conference Board, Juli) + offene Stellen (JOLTS, Mai/Juni). Kinderleicht: Zeigt, wie zuversichtlich die Amerikaner sind und wie viele freie Jobs es gibt = Puls von Konsum und Arbeitsmarkt. Stark → stützt den Dollar und die Erhöhungs-Wette; schwach → dämpft sie kurz vor der Fed.",
+    "🏦 Positionieren vor der Fed: Weil der Markt jetzt eine fast 50:50-Erhöhungswette hält (statt sicherem Halten), ist der Dollar fest (DXY ~101,5). Kinderleicht: Traders wetten, dass die Fed morgen HÄRTER sein könnte als gedacht — das gibt dem Dollar heute Rückhalt, alle halten aber die Luft an bis morgen 20:00.",
+    "🛢️ Öl bleibt tief nach dem Absturz: WTI ~82 $, Brent ~87 $. Kinderleicht: Die Waffenruhe mit Iran hält, deshalb ist die Kriegs-Prämie raus — billiges Öl heißt weniger Inflations-Angst, aber Öl-Länder wie Kanada haben ihren Rückenwind verloren."
    ],
    "gestern": [
-    "🕊️ Das Wochenende brachte die Entspannung: Die USA stoppten ihre Iran-Angriffe, der Iran signalisierte, die Waffenruhe zu halten, solange nicht neu angegriffen wird. Folge: Öl brach ein (Brent −7,5 % auf ~91 $), Aktien risk-on. Kinderleicht: Die erste echte Entspannung seit Wochen — genau die 'Friedens-Tür', auf die der Markt Freitag schon spekuliert hat, ging am Wochenende weiter auf.",
-    "🗓️ Wochenrückblick (21.–24.7.): 🇪🇺 EZB HIELT (Hauptsatz 2,40 %, falkenhaft, September-Tür offen), 🇬🇧 UK-Inflation kühlte auf 2,6 %, 🇨🇦 Kanada-Inflation SEHR kühl (Kern 1,8–1,9 %), 🇦🇺 Australien-Jobs stark (+24,5k, Quote 4,2 %), 🇳🇿 NZ-Inflation heiß (+1,5 % Q). Öl kratzte Do erstmals seit Mai an 100 $. Kinderleicht: Trotz Öl-Schub kühlten die meisten Inflationszahlen ab — der Öl-Effekt schlägt erst verzögert durch.",
-    "🗓️ Der Blick nach vorn — MONSTER-Woche (27.–31.7.): 🇺🇸 Mi Fed (20:00 Wien, Halten bei 3,50–3,75 % erwartet, 5. Mal in Folge — jetzt wo Öl fällt, wird ein milderer Falken-Ton erwartet) + Australien-Inflation, 🇬🇧 Do BoE (Halten 3,75 %) + US-Wirtschaftswachstum Q2 + Fed-Lieblings-Inflation Kern-PCE (~0,17–0,19 % m/m, 3,3 % y/y erwartet), 🇯🇵 Fr BoJ (Halten 1,00 %, Erhöhungs-Signal möglich) + Euro-Inflation (erwartet 2,9 % y/y). Selten prallt so viel auf einmal zusammen."
+    "🇺🇸 US-Auftragseingänge langlebiger Güter (Juni) ENTTÄUSCHTEN: nur +0,3 % statt erwarteter +1,7 % (nach −4,0 % im Mai). Kinderleicht: US-Firmen bestellen deutlich weniger teure Maschinen/Flugzeuge als erhofft = die Industrie schwächelt. Leicht dollar-dämpfend — aber von der Fed-Wette überlagert.",
+    "🛢️ Öl-CRASH am Montag: Brent −8,7 % (auf ~87 $), WTI −7,5 % (auf ~82 $) — der größte Tages-Absturz seit über 3 Monaten. Kinderleicht: Weil die USA ihre Iran-Angriffe stoppten und der Iran die Waffenruhe hält, ist die Kriegs-Angst schlagartig verpufft → Öl brach ein. Verlierer: Kanada-Dollar (Öl war sein Trumpf).",
+    "🗓️ Kern-Lage: Dollar-Index fest ~101,5, Angst-Barometer VIX noch leicht erhöht (~18,7, nicht voll entspannt), Gold ~4.080 $. Die ganze Woche hängt an 3 Notenbanken: 🇺🇸 Fed morgen, 🇬🇧 BoE + US-BIP + Kern-PCE Do, 🇯🇵 BoJ + Euro-Inflation Fr."
    ]
   }
  },

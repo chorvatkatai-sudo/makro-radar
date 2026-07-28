@@ -1,11 +1,47 @@
 {
-  "stand": "2026-07-28T15:59:39.647Z",
+  "stand": "2026-07-28T17:38:14.171Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump-Netanyahu meeting reinforces Iran focus",
+      "link": "https://investinglive.com/news/trump-netanyahu-meeting-reinforces-iran-focus/",
+      "datum": "2026-07-28T17:15:34.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $44B of 7-year notes at a high yield of 4.473%",
+      "link": "https://investinglive.com/news/us-treasury-sells-44b-of-7-year-notes-at-a-high-yield-of-4-473/",
+      "datum": "2026-07-28T17:05:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The chip rout is funding the Dow Jones Industrial Average's record chase",
+      "link": "https://www.fxstreet.com/news/the-chip-rout-is-funding-the-dow-jones-industrial-averages-record-chase-202607281642",
+      "datum": "2026-07-28T16:42:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Euro is not rallying, the British Pound Sterling is being demoted",
+      "link": "https://www.fxstreet.com/news/the-euro-is-not-rallying-the-british-pound-sterling-is-being-demoted-202607281626",
+      "datum": "2026-07-28T16:26:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver loses ground as hopes for US-Iran deal improve risk appetite",
+      "link": "https://www.fxstreet.com/news/silver-loses-ground-as-hopes-for-us-iran-deal-improve-risk-appetite-202607281605",
+      "datum": "2026-07-28T16:05:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Bears target the 200-day SMA after losing the $80 mark",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bears-target-the-200-day-sma-after-losing-the-80-mark-202607281601",
+      "datum": "2026-07-28T16:01:30.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "US Dollar Index eases from tops, back to 101.30 ahead of Fed",
@@ -61,24 +97,6 @@
       "datum": "2026-07-28T14:45:39.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: RBA keeps hike option alive – BNY",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hike-option-alive-bny-202607281439",
-      "datum": "2026-07-28T14:39:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar benefits from softer US Dollar despite lower Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-benefits-from-softer-us-dollar-despite-lower-oil-prices-202607281430",
-      "datum": "2026-07-28T14:30:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Knife-edge policy risks surprise – ING",
-      "link": "https://www.fxstreet.com/news/federal-reserve-knife-edge-policy-risks-surprise-ing-202607281424",
-      "datum": "2026-07-28T14:24:09.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Conference Board Consumer Confidence for July 90.8 versus 92.3 estimate",
       "link": "https://investinglive.com/news/conference-board-consumer-confidence-for-july-90-8-versus-92-3-estimate/",
@@ -95,24 +113,6 @@
       "titel": "CaseShiller seasonally adjusted YoY housing prices change 1.6% versus 1.3% estimate",
       "link": "https://investinglive.com/news/caseshiller-seasonally-adjusted-yoy-housing-prices-change-1-6-versus-1-3-estimate/",
       "datum": "2026-07-28T13:13:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump on Fox News: Iran understand it will never have a nuclear weapon",
-      "link": "https://investinglive.com/news/trump-on-fox-news-iran-understand-it-will-never-have-a-nuclear-weapon/",
-      "datum": "2026-07-28T12:56:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US advance goods trade balance for June -$101.5 billion versus -$100 billion estimate",
-      "link": "https://investinglive.com/news/us-advance-goods-trade-balance-for-june-101-5-billion-versus-100-billion-estimate/",
-      "datum": "2026-07-28T12:37:35.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US wholesale inventories for June +0.3% vs +0.4% m/m expected",
-      "link": "https://investinglive.com/news/us-wholesale-inventories-for-june-0-3-vs-0-4-m-m-expected/",
-      "datum": "2026-07-28T12:34:40.000Z"
     }
   ]
 }

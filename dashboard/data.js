@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-28T15:59:39.649Z",
+ "erstellt": "2026-07-28T17:38:14.173Z",
  "wochenStart": "2026-07-26",
  "events": [
   {
@@ -1338,7 +1338,7 @@ window.MAKRO_DATA = {
    "title": "6-Week Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "3.7%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3280,15 +3280,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-28T15:59:39.174Z",
+  "stand": "2026-07-28T17:38:13.637Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.3,
+    "wert": 101.35,
     "tagProzent": 0,
-    "wocheProzent": 0.11,
+    "wocheProzent": 0.17,
     "renditeDelta": false,
     "verlauf": [
      101.11,
@@ -3310,17 +3310,17 @@ window.MAKRO_DATA = {
      101.14,
      101.43,
      101.51,
-     101.3,
-     101.3
+     101.35,
+     101.35
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.01,
+    "wert": 18.13,
     "tagProzent": 0,
-    "wocheProzent": 5.63,
+    "wocheProzent": 6.33,
     "renditeDelta": false,
     "verlauf": [
      17.65,
@@ -3342,17 +3342,17 @@ window.MAKRO_DATA = {
      16.64,
      18.7,
      18.67,
-     18.01,
-     18.01
+     18.13,
+     18.13
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 79.4,
+    "wert": 79.04,
     "tagProzent": 0,
-    "wocheProzent": -8.56,
+    "wocheProzent": -8.97,
     "renditeDelta": false,
     "verlauf": [
      70.75,
@@ -3375,17 +3375,17 @@ window.MAKRO_DATA = {
      92.19,
      89.31,
      82.61,
-     79.4,
-     79.4
+     79.04,
+     79.04
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.56,
+    "wert": 83.93,
     "tagProzent": 0,
-    "wocheProzent": -10.11,
+    "wocheProzent": -10.78,
     "renditeDelta": false,
     "verlauf": [
      73.15,
@@ -3408,17 +3408,17 @@ window.MAKRO_DATA = {
      100.69,
      96.78,
      88.36,
-     84.56,
-     84.56
+     83.93,
+     83.93
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4044.1,
+    "wert": 4039.4,
     "tagProzent": 0,
-    "wocheProzent": -2.48,
+    "wocheProzent": -2.59,
     "renditeDelta": false,
     "verlauf": [
      4022.3,
@@ -3441,8 +3441,8 @@ window.MAKRO_DATA = {
      4046.6,
      4067.6,
      4074.5,
-     4044.1,
-     4044.1
+     4039.4,
+     4039.4
     ]
    },
    "US02Y": {
@@ -3481,7 +3481,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.594,
+    "wert": 4.598,
     "tagProzent": 0,
     "wocheProzent": -0.03,
     "renditeDelta": true,
@@ -3505,8 +3505,8 @@ window.MAKRO_DATA = {
      4.657,
      4.703,
      4.641,
-     4.594,
-     4.594
+     4.598,
+     4.598
     ]
    },
    "US30Y": {
@@ -3545,9 +3545,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63865.33,
+    "wert": 63455.76,
     "tagProzent": 0,
-    "wocheProzent": -0.36,
+    "wocheProzent": -1,
     "renditeDelta": false,
     "verlauf": [
      62257.57,
@@ -3570,8 +3570,8 @@ window.MAKRO_DATA = {
      64311.81,
      65340.3,
      63724.9,
-     63865.33,
-     63865.33
+     63455.76,
+     63455.76
     ]
    },
    "FEDFUT": {
@@ -3677,7 +3677,7 @@ window.MAKRO_DATA = {
     "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.63,
+  "kurve2s10s": 0.64,
   "cot": {
    "stand": "2026-07-21",
    "waehrungen": {
@@ -3771,32 +3771,32 @@ window.MAKRO_DATA = {
    "stand": "2026-07-28",
    "werte": {
     "USD": {
-     "wert": 4.258,
-     "wocheDelta": 0.075
+     "wert": 4.273,
+     "wocheDelta": 0.09
     },
     "EUR": {
-     "wert": 2.74,
-     "wocheDelta": -0.06
+     "wert": 2.742,
+     "wocheDelta": -0.058
     },
     "GBP": {
-     "wert": 4.333,
-     "wocheDelta": -0.042
+     "wert": 4.342,
+     "wocheDelta": -0.033
     },
     "JPY": {
-     "wert": 1.489,
-     "wocheDelta": 0.06
+     "wert": 1.483,
+     "wocheDelta": 0.054
     },
     "AUD": {
-     "wert": 4.567,
-     "wocheDelta": 0.029
+     "wert": 4.6,
+     "wocheDelta": 0.062
     },
     "CAD": {
-     "wert": 2.842,
-     "wocheDelta": -0.027
+     "wert": 2.845,
+     "wocheDelta": -0.024
     },
     "CHF": {
-     "wert": 0.095,
-     "wocheDelta": -0.041
+     "wert": 0.099,
+     "wocheDelta": -0.037
     },
     "NZD": {
      "wert": 3.705,
@@ -3817,9 +3817,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": -2,
    "tiltCot": -1,
-   "tiltZins": -5,
-   "tiltGesamt": -6,
-   "score": -8,
+   "tiltZins": -6,
+   "tiltGesamt": -7,
+   "score": -9,
    "cotExtrem": "erhoeht",
    "treiber": "Knapp abwärts: Der etwas weichere Dollar (Öl-Entspannung) trifft auf den ölentlasteten, zähen Euro (>1,14). Gegenpol: Euro-Inflation Fr + Fed Mi stehen noch an. Maßvoll wegen schwachem EUR/USD-Track-Record (1/6)."
   },
@@ -3837,9 +3837,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 4,
    "tiltCot": 5,
-   "tiltZins": 0,
-   "tiltGesamt": 5,
-   "score": 9,
+   "tiltZins": 1,
+   "tiltGesamt": 6,
+   "score": 10,
    "cotExtrem": null,
    "treiber": "Aufwärts, aber stark gebremst: Risk-on schwächt den Yen als Fluchtwährung, doch billigeres Öl hilft Japan (Importeur) und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
   },
@@ -3847,9 +3847,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": 3,
    "tiltCot": -3,
-   "tiltZins": -2,
-   "tiltGesamt": -5,
-   "score": -2,
+   "tiltZins": 0,
+   "tiltGesamt": -3,
+   "score": 0,
    "cotExtrem": null,
    "treiber": "Knapp positiv: Risk-on (Waffenruhe) + höchster 2J-Zins + starke Jobs gegen den weicheren Dollar. Gegenpol: schwaches China + Australien-Inflation Mi als Test."
   },
@@ -3857,9 +3857,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": 3,
    "tiltCot": 5,
-   "tiltZins": 4,
-   "tiltGesamt": 9,
-   "score": 12,
+   "tiltZins": 5,
+   "tiltGesamt": 10,
+   "score": 13,
    "cotExtrem": "erhoeht",
    "treiber": "Gedreht auf leicht aufwärts: Der Öl-Einbruch (WTI ~84 $) nimmt dem Loonie seinen Trumpf → USD/CAD tendiert höher. Gegenpol und Grund für Zurückhaltung: extrem short positionierte Loonie-Wetten (Squeeze) + falkige BoC federn ab. USD/CAD-Record mies (1/6) → nahe null."
   },
@@ -3886,13 +3886,49 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-28T15:59:39.647Z",
+  "stand": "2026-07-28T17:38:14.171Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "Trump-Netanyahu meeting reinforces Iran focus",
+    "link": "https://investinglive.com/news/trump-netanyahu-meeting-reinforces-iran-focus/",
+    "datum": "2026-07-28T17:15:34.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US treasury sells $44B of 7-year notes at a high yield of 4.473%",
+    "link": "https://investinglive.com/news/us-treasury-sells-44b-of-7-year-notes-at-a-high-yield-of-4-473/",
+    "datum": "2026-07-28T17:05:40.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "The chip rout is funding the Dow Jones Industrial Average's record chase",
+    "link": "https://www.fxstreet.com/news/the-chip-rout-is-funding-the-dow-jones-industrial-averages-record-chase-202607281642",
+    "datum": "2026-07-28T16:42:01.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "The Euro is not rallying, the British Pound Sterling is being demoted",
+    "link": "https://www.fxstreet.com/news/the-euro-is-not-rallying-the-british-pound-sterling-is-being-demoted-202607281626",
+    "datum": "2026-07-28T16:26:56.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver loses ground as hopes for US-Iran deal improve risk appetite",
+    "link": "https://www.fxstreet.com/news/silver-loses-ground-as-hopes-for-us-iran-deal-improve-risk-appetite-202607281605",
+    "datum": "2026-07-28T16:05:37.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI Price Forecast: Bears target the 200-day SMA after losing the $80 mark",
+    "link": "https://www.fxstreet.com/news/wti-price-forecast-bears-target-the-200-day-sma-after-losing-the-80-mark-202607281601",
+    "datum": "2026-07-28T16:01:30.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "US Dollar Index eases from tops, back to 101.30 ahead of Fed",
@@ -3948,24 +3984,6 @@ window.MAKRO_DATA = {
     "datum": "2026-07-28T14:45:39.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar: RBA keeps hike option alive – BNY",
-    "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hike-option-alive-bny-202607281439",
-    "datum": "2026-07-28T14:39:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar benefits from softer US Dollar despite lower Oil prices",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-benefits-from-softer-us-dollar-despite-lower-oil-prices-202607281430",
-    "datum": "2026-07-28T14:30:36.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Federal Reserve: Knife-edge policy risks surprise – ING",
-    "link": "https://www.fxstreet.com/news/federal-reserve-knife-edge-policy-risks-surprise-ing-202607281424",
-    "datum": "2026-07-28T14:24:09.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Conference Board Consumer Confidence for July 90.8 versus 92.3 estimate",
     "link": "https://investinglive.com/news/conference-board-consumer-confidence-for-july-90-8-versus-92-3-estimate/",
@@ -3982,24 +4000,6 @@ window.MAKRO_DATA = {
     "titel": "CaseShiller seasonally adjusted YoY housing prices change 1.6% versus 1.3% estimate",
     "link": "https://investinglive.com/news/caseshiller-seasonally-adjusted-yoy-housing-prices-change-1-6-versus-1-3-estimate/",
     "datum": "2026-07-28T13:13:38.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Trump on Fox News: Iran understand it will never have a nuclear weapon",
-    "link": "https://investinglive.com/news/trump-on-fox-news-iran-understand-it-will-never-have-a-nuclear-weapon/",
-    "datum": "2026-07-28T12:56:01.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US advance goods trade balance for June -$101.5 billion versus -$100 billion estimate",
-    "link": "https://investinglive.com/news/us-advance-goods-trade-balance-for-june-101-5-billion-versus-100-billion-estimate/",
-    "datum": "2026-07-28T12:37:35.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US wholesale inventories for June +0.3% vs +0.4% m/m expected",
-    "link": "https://investinglive.com/news/us-wholesale-inventories-for-june-0-3-vs-0-4-m-m-expected/",
-    "datum": "2026-07-28T12:34:40.000Z"
    }
   ]
  },

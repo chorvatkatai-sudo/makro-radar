@@ -6006,7 +6006,7 @@
       "land": "AUD",
       "titel": "Building Approvals m/m",
       "impact": "Low",
-      "prognose": "-0.5%",
+      "prognose": "-0.7%",
       "vorher": "-1.1%",
       "actual": null,
       "notiz": null
@@ -6076,7 +6076,7 @@
       "land": "CHF",
       "titel": "KOF Economic Barometer",
       "impact": "Low",
-      "prognose": "100.7",
+      "prognose": "100.9",
       "vorher": "101.2",
       "actual": null,
       "notiz": null
@@ -6086,7 +6086,7 @@
       "land": "EUR",
       "titel": "Spanish Flash CPI y/y",
       "impact": "Low",
-      "prognose": "3.1%",
+      "prognose": "3.2%",
       "vorher": "3.2%",
       "actual": null,
       "notiz": null
@@ -6126,7 +6126,7 @@
       "land": "EUR",
       "titel": "Italian Monthly Unemployment Rate",
       "impact": "Low",
-      "prognose": "5.1%",
+      "prognose": "5.0%",
       "vorher": "5.0%",
       "actual": null,
       "notiz": null
@@ -6206,7 +6206,7 @@
       "land": "USD",
       "titel": "Advance GDP q/q",
       "impact": "High",
-      "prognose": "2.3%",
+      "prognose": "2.0%",
       "vorher": "2.0%",
       "actual": null,
       "notiz": null
@@ -6216,7 +6216,7 @@
       "land": "USD",
       "titel": "Core PCE Price Index m/m",
       "impact": "High",
-      "prognose": "0.1%",
+      "prognose": "0.2%",
       "vorher": "0.3%",
       "actual": null,
       "notiz": null
@@ -6226,7 +6226,7 @@
       "land": "USD",
       "titel": "Advance GDP Price Index q/q",
       "impact": "Medium",
-      "prognose": "3.7%",
+      "prognose": "4.1%",
       "vorher": "3.6%",
       "actual": null,
       "notiz": null
@@ -6236,7 +6236,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "206K",
+      "prognose": "201K",
       "vorher": "187K",
       "actual": null,
       "notiz": null
@@ -6296,7 +6296,7 @@
       "land": "JPY",
       "titel": "Prelim Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.7%",
+      "prognose": "1.0%",
       "vorher": "0.5%",
       "actual": null,
       "notiz": null
@@ -6306,7 +6306,7 @@
       "land": "JPY",
       "titel": "Retail Sales y/y",
       "impact": "Low",
-      "prognose": "2.8%",
+      "prognose": "3.1%",
       "vorher": "5.3%",
       "actual": null,
       "notiz": null
@@ -6316,7 +6316,7 @@
       "land": "AUD",
       "titel": "PPI q/q",
       "impact": "Low",
-      "prognose": "0.3%",
+      "prognose": "0.5%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -6336,7 +6336,7 @@
       "land": "CNY",
       "titel": "Manufacturing PMI",
       "impact": "Low",
-      "prognose": "49.9",
+      "prognose": "50.1",
       "vorher": "50.3",
       "actual": null,
       "notiz": null
@@ -6386,7 +6386,7 @@
       "land": "JPY",
       "titel": "Housing Starts y/y",
       "impact": "Low",
-      "prognose": "13.2%",
+      "prognose": "12.7%",
       "vorher": "33.9%",
       "actual": null,
       "notiz": null
@@ -6406,7 +6406,7 @@
       "land": "GBP",
       "titel": "Nationwide HPI m/m",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "0.1%",
       "vorher": "0.0%",
       "actual": null,
       "notiz": null
@@ -6416,7 +6416,7 @@
       "land": "CHF",
       "titel": "Retail Sales y/y",
       "impact": "Low",
-      "prognose": "3.2%",
+      "prognose": "3.1%",
       "vorher": "3.5%",
       "actual": null,
       "notiz": null
@@ -6466,7 +6466,7 @@
       "land": "EUR",
       "titel": "Italian Prelim CPI m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.3%",
       "vorher": "0.0%",
       "actual": null,
       "notiz": null
@@ -6506,7 +6506,7 @@
       "land": "USD",
       "titel": "Chicago PMI",
       "impact": "Low",
-      "prognose": "57.5",
+      "prognose": "55.9",
       "vorher": "56.7",
       "actual": null,
       "notiz": null
@@ -6516,7 +6516,7 @@
       "land": "USD",
       "titel": "Revised UoM Consumer Sentiment",
       "impact": "Medium",
-      "prognose": "54.2",
+      "prognose": "53.9",
       "vorher": "54.4",
       "actual": null,
       "notiz": null

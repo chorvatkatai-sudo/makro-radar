@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-28T13:45:35.844Z",
+ "erstellt": "2026-07-28T13:53:40.033Z",
  "wochenStart": "2026-07-26",
  "events": [
   {
@@ -1228,7 +1228,7 @@ window.MAKRO_DATA = {
    "title": "Redbook YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "8.3",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3280,7 +3280,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-28T13:45:34.782Z",
+  "stand": "2026-07-28T13:53:39.540Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3318,9 +3318,9 @@ window.MAKRO_DATA = {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.61,
+    "wert": 19.08,
     "tagProzent": 0,
-    "wocheProzent": 9.15,
+    "wocheProzent": 11.91,
     "renditeDelta": false,
     "verlauf": [
      17.65,
@@ -3342,17 +3342,17 @@ window.MAKRO_DATA = {
      16.64,
      18.7,
      18.67,
-     18.61,
-     18.61
+     19.08,
+     19.08
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 80.77,
+    "wert": 80.98,
     "tagProzent": 0,
-    "wocheProzent": -6.98,
+    "wocheProzent": -6.74,
     "renditeDelta": false,
     "verlauf": [
      70.75,
@@ -3375,17 +3375,17 @@ window.MAKRO_DATA = {
      92.19,
      89.31,
      82.61,
-     80.77,
-     80.77
+     80.98,
+     80.98
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 86.03,
+    "wert": 86.24,
     "tagProzent": 0,
-    "wocheProzent": -8.55,
+    "wocheProzent": -8.32,
     "renditeDelta": false,
     "verlauf": [
      73.15,
@@ -3408,17 +3408,17 @@ window.MAKRO_DATA = {
      100.69,
      96.78,
      88.36,
-     86.03,
-     86.03
+     86.24,
+     86.24
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4031.5,
+    "wert": 4021.8,
     "tagProzent": 0,
-    "wocheProzent": -2.78,
+    "wocheProzent": -3.02,
     "renditeDelta": false,
     "verlauf": [
      4022.3,
@@ -3441,8 +3441,8 @@ window.MAKRO_DATA = {
      4046.6,
      4067.6,
      4074.5,
-     4031.5,
-     4031.5
+     4021.8,
+     4021.8
     ]
    },
    "US02Y": {
@@ -3545,7 +3545,7 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 62908.32,
+    "wert": 62906.77,
     "tagProzent": 0,
     "wocheProzent": -1.86,
     "renditeDelta": false,
@@ -3570,8 +3570,8 @@ window.MAKRO_DATA = {
      64311.81,
      65340.3,
      63724.9,
-     62908.32,
-     62908.32
+     62906.77,
+     62906.77
     ]
    },
    "FEDFUT": {
@@ -3771,28 +3771,28 @@ window.MAKRO_DATA = {
    "stand": "2026-07-28",
    "werte": {
     "USD": {
-     "wert": 4.299,
-     "wocheDelta": 0.116
+     "wert": 4.285,
+     "wocheDelta": 0.102
     },
     "EUR": {
-     "wert": 2.772,
-     "wocheDelta": -0.028
+     "wert": 2.765,
+     "wocheDelta": -0.035
     },
     "GBP": {
-     "wert": 4.362,
-     "wocheDelta": -0.013
+     "wert": 4.36,
+     "wocheDelta": -0.015
     },
     "JPY": {
      "wert": 1.489,
      "wocheDelta": 0.06
     },
     "AUD": {
-     "wert": 4.6,
-     "wocheDelta": 0.062
+     "wert": 4.596,
+     "wocheDelta": 0.058
     },
     "CAD": {
-     "wert": 2.865,
-     "wocheDelta": -0.004
+     "wert": 2.859,
+     "wocheDelta": -0.01
     },
     "CHF": {
      "wert": 0.105,
@@ -3817,9 +3817,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": -2,
    "tiltCot": -1,
-   "tiltZins": -6,
-   "tiltGesamt": -7,
-   "score": -9,
+   "tiltZins": -5,
+   "tiltGesamt": -6,
+   "score": -8,
    "cotExtrem": "erhoeht",
    "treiber": "Knapp abwärts: Der etwas weichere Dollar (Öl-Entspannung) trifft auf den ölentlasteten, zähen Euro (>1,14). Gegenpol: Euro-Inflation Fr + Fed Mi stehen noch an. Maßvoll wegen schwachem EUR/USD-Track-Record (1/6)."
   },
@@ -3857,9 +3857,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": 3,
    "tiltCot": 5,
-   "tiltZins": 5,
-   "tiltGesamt": 10,
-   "score": 13,
+   "tiltZins": 4,
+   "tiltGesamt": 9,
+   "score": 12,
    "cotExtrem": "erhoeht",
    "treiber": "Gedreht auf leicht aufwärts: Der Öl-Einbruch (WTI ~84 $) nimmt dem Loonie seinen Trumpf → USD/CAD tendiert höher. Gegenpol und Grund für Zurückhaltung: extrem short positionierte Loonie-Wetten (Squeeze) + falkige BoC federn ab. USD/CAD-Record mies (1/6) → nahe null."
   },
@@ -3867,9 +3867,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": 4,
    "tiltCot": 5,
-   "tiltZins": 6,
-   "tiltGesamt": 11,
-   "score": 15,
+   "tiltZins": 5,
+   "tiltGesamt": 10,
+   "score": 14,
    "cotExtrem": null,
    "treiber": "Aufwärts, aber getrimmt: Der Dollar-Vorsprung zieht das Paar leicht hoch; im Risk-on verliert der Franken etwas Hafen-Bid, doch billigeres Öl stützt die Schweiz gegen. Moderat positiv."
   },
@@ -3886,7 +3886,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-28T13:45:35.841Z",
+  "stand": "2026-07-28T13:53:40.031Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

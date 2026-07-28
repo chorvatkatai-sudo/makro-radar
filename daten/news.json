@@ -1,11 +1,29 @@
 {
-  "stand": "2026-07-28T17:38:14.171Z",
+  "stand": "2026-07-28T19:11:25.584Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen holds as markets await Tokyo inflation data",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-as-markets-await-tokyo-inflation-data-202607281901",
+      "datum": "2026-07-28T19:01:52.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Netanyahu: Confirmed to Trump that additional strikes on rehabilitated Iranian nuclear facilities are unavoidable",
+      "link": "https://investinglive.com/news/netanyahu-confirmed-to-trump-that-additional-strikes-on-rehabilitated-iranian-nuclear-facilities-are-unavoidable/",
+      "datum": "2026-07-28T18:26:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc steadies against US Dollar as Fed decision looms",
+      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-against-us-dollar-as-fed-decision-looms-202607281801",
+      "datum": "2026-07-28T18:01:29.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Trump-Netanyahu meeting reinforces Iran focus",
@@ -85,18 +103,6 @@
       "datum": "2026-07-28T14:54:03.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Bearish reversal extends before BoE – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-bearish-reversal-extends-before-boe-scotiabank-202607281452",
-      "datum": "2026-07-28T14:52:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD sits out the panic it was built for",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-sits-out-the-panic-it-was-built-for-202607281445",
-      "datum": "2026-07-28T14:45:39.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Conference Board Consumer Confidence for July 90.8 versus 92.3 estimate",
       "link": "https://investinglive.com/news/conference-board-consumer-confidence-for-july-90-8-versus-92-3-estimate/",
@@ -107,12 +113,6 @@
       "titel": "Richmond Fed manufacturing index for July 5 vs 10 estimate",
       "link": "https://investinglive.com/news/richmond-fed-manufacturing-index-for-july-5-vs-10-estimate/",
       "datum": "2026-07-28T14:02:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "CaseShiller seasonally adjusted YoY housing prices change 1.6% versus 1.3% estimate",
-      "link": "https://investinglive.com/news/caseshiller-seasonally-adjusted-yoy-housing-prices-change-1-6-versus-1-3-estimate/",
-      "datum": "2026-07-28T13:13:38.000Z"
     }
   ]
 }

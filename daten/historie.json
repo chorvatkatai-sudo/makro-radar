@@ -6206,7 +6206,7 @@
       "land": "USD",
       "titel": "Advance GDP q/q",
       "impact": "High",
-      "prognose": "2.0%",
+      "prognose": "2.1%",
       "vorher": "2.0%",
       "actual": null,
       "notiz": null
@@ -6266,7 +6266,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "37B",
       "vorher": "32B",
       "actual": null,
       "notiz": null

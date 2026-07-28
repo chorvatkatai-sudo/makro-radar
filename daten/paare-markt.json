@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-28T17:38:14.172Z",
+  "stand": "2026-07-28T19:11:25.586Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 4,
       "tiltCot": 5,
-      "tiltZins": 1,
-      "tiltGesamt": 6,
-      "score": 10,
+      "tiltZins": 2,
+      "tiltGesamt": 7,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber stark gebremst: Risk-on schwächt den Yen als Fluchtwährung, doch billigeres Öl hilft Japan (Importeur) und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 3,
       "tiltCot": -3,
-      "tiltZins": 0,
-      "tiltGesamt": -3,
-      "score": 0,
+      "tiltZins": -1,
+      "tiltGesamt": -4,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Knapp positiv: Risk-on (Waffenruhe) + höchster 2J-Zins + starke Jobs gegen den weicheren Dollar. Gegenpol: schwaches China + Australien-Inflation Mi als Test."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": 4,
       "tiltCot": 5,
-      "tiltZins": 5,
-      "tiltGesamt": 10,
-      "score": 14,
+      "tiltZins": 6,
+      "tiltGesamt": 11,
+      "score": 15,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber getrimmt: Der Dollar-Vorsprung zieht das Paar leicht hoch; im Risk-on verliert der Franken etwas Hafen-Bid, doch billigeres Öl stützt die Schweiz gegen. Moderat positiv."
     },

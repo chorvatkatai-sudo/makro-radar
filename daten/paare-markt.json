@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-28T13:53:40.032Z",
+  "stand": "2026-07-28T15:59:39.648Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 4,
       "tiltCot": 5,
-      "tiltZins": 2,
-      "tiltGesamt": 7,
-      "score": 11,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber stark gebremst: Risk-on schwächt den Yen als Fluchtwährung, doch billigeres Öl hilft Japan (Importeur) und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
     },

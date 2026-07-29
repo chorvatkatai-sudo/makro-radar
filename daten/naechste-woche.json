@@ -195,7 +195,7 @@
     "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.815%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -335,7 +335,7 @@
     "title": "Imports",
     "impact": "Medium",
     "forecast": "",
-    "previous": "395.3",
+    "previous": "395.3 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -345,7 +345,7 @@
     "title": "Balance of Trade",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-77.6",
+    "previous": "-77.6 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -355,7 +355,7 @@
     "title": "Exports",
     "impact": "Medium",
     "forecast": "",
-    "previous": "317.7",
+    "previous": "317.7 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -375,7 +375,7 @@
     "title": "Exports",
     "impact": "Low",
     "forecast": "",
-    "previous": "77.1",
+    "previous": "77.1 C$",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -385,7 +385,7 @@
     "title": "Imports",
     "impact": "Low",
     "forecast": "",
-    "previous": "72.86",
+    "previous": "72.86 C$",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -805,7 +805,7 @@
     "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-6.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -815,7 +815,7 @@
     "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "159.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -825,7 +825,7 @@
     "title": "MBA 30-Year Mortgage Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.76",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -835,7 +835,7 @@
     "title": "MBA Mortgage Market Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "247.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -845,7 +845,7 @@
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "723.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1045,7 +1045,7 @@
     "title": "2-Year Bond Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "2.918%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1255,7 +1255,7 @@
     "title": "Nonfarm Productivity QoQ Prel",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1535,7 +1535,7 @@
     "title": "Participation Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "61.5",
+    "previous": "61.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1575,7 +1575,7 @@
     "title": "Average Hourly Earnings YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3.5",
+    "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1585,7 +1585,7 @@
     "title": "Unemployment Rate",
     "impact": "High",
     "forecast": "",
-    "previous": "4.2",
+    "previous": "4.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1595,7 +1595,7 @@
     "title": "Average Hourly Earnings MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.3",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1605,7 +1605,7 @@
     "title": "U-6 Unemployment Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "7.9",
+    "previous": "7.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1635,7 +1635,7 @@
     "title": "Unemployment Rate",
     "impact": "High",
     "forecast": "",
-    "previous": "6.5",
+    "previous": "6.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1665,7 +1665,7 @@
     "title": "Average Hourly Wages YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.7",
+    "previous": "3.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1675,7 +1675,7 @@
     "title": "Participation Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "65",
+    "previous": "65%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1725,7 +1725,7 @@
     "title": "Consumer Inflation Expectations",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.7",
+    "previous": "3.7%",
     "actual": null,
     "quelle": "tradingview"
   },

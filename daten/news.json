@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-29T13:50:35.380Z",
+  "stand": "2026-07-29T15:46:14.323Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "British Pound holds below 1.33 as Trump warns Iran, Oil jumps",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-below-133-as-trump-warns-iran-oil-jumps-202607291530",
+      "datum": "2026-07-29T15:30:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil surges 7% as Middle East war and supply risks fuel rally",
+      "link": "https://www.fxstreet.com/news/wti-oil-surges-7-as-middle-east-war-and-supply-risks-fuel-rally-202607291530",
+      "datum": "2026-07-29T15:30:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Hawkish hold may offer US Dollar limited support – BNY",
+      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hold-may-offer-us-dollar-limited-support-bny-202607291517",
+      "datum": "2026-07-29T15:17:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen faces its moment of truth ahead of Fed decision",
+      "link": "https://www.fxstreet.com/news/japanese-yen-faces-its-moment-of-truth-ahead-of-fed-decision-202607291502",
+      "datum": "2026-07-29T15:02:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Range holds against USD with Fed and BoC in focus – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-range-holds-against-usd-with-fed-and-boc-in-focus-scotiabank-202607291454",
+      "datum": "2026-07-29T14:54:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar extends decline ahead of Fed's decision",
+      "link": "https://www.fxstreet.com/news/australian-dollar-extends-decline-ahead-of-feds-decision-202607291450",
+      "datum": "2026-07-29T14:50:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro holds below 1.1400 against US Dollar as Fed interest rate decision looms",
+      "link": "https://www.fxstreet.com/news/euro-holds-below-11400-against-us-dollar-as-fed-interest-rate-decision-looms-202607291431",
+      "datum": "2026-07-29T14:31:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Fed risk caps CTA upside – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-fed-risk-caps-cta-upside-td-securities-202607291424",
+      "datum": "2026-07-29T14:24:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Natural gas: Europe faces tighter winter balance – ING",
+      "link": "https://www.fxstreet.com/news/natural-gas-europe-faces-tighter-winter-balance-ing-202607291401",
+      "datum": "2026-07-29T14:01:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve set to hold interest rates steady, yet a hike can’t be ruled out",
+      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
+      "datum": "2026-07-29T14:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "Swiss National Bank: Rates seen on prolonged hold – Commerzbank",
       "link": "https://www.fxstreet.com/news/swiss-national-bank-rates-seen-on-prolonged-hold-commerzbank-202607291337",
       "datum": "2026-07-29T13:37:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Range guidance around NEER band – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-guidance-around-neer-band-uob-202607291319",
-      "datum": "2026-07-29T13:19:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Trump vows fresh strikes on Iran after missiles targeting US forces are intercepted",
-      "link": "https://www.fxstreet.com/news/trump-vows-fresh-strikes-on-iran-after-missiles-targeting-us-forces-are-intercepted-202607291310",
-      "datum": "2026-07-29T13:10:18.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Trump: We'll be hitting Iran hard. Strikes in reaction to attacks on US in Jordan",
       "link": "https://investinglive.com/news/trump-we-ll-be-hitting-iran-hard-strikes-in-reaction-to-attacks-on-us-in-jordan/",
       "datum": "2026-07-29T13:08:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar strengthens modestly against US Dollar ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-modestly-against-us-dollar-ahead-of-fed-decision-202607291306",
-      "datum": "2026-07-29T13:06:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Middle East tensions revive inflation channel – BNY",
-      "link": "https://www.fxstreet.com/news/oil-middle-east-tensions-revive-inflation-channel-bny-202607291301",
-      "datum": "2026-07-29T13:01:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Domestic investment shift could support the Yen – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-domestic-investment-shift-could-support-the-yen-bny-202607291243",
-      "datum": "2026-07-29T12:43:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Copper: Speculative longs rise on tight supply – ING",
-      "link": "https://www.fxstreet.com/news/copper-speculative-longs-rise-on-tight-supply-ing-202607291233",
-      "datum": "2026-07-29T12:33:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI rebounds sharply on fears of renewed escalation in US-Iran war",
-      "link": "https://www.fxstreet.com/news/wti-rebounds-sharply-on-fears-of-renewed-escalation-in-us-iran-war-202607291225",
-      "datum": "2026-07-29T12:25:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Stretched positioning caps gains against peers – BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-stretched-positioning-caps-gains-against-peers-bny-202607291222",
-      "datum": "2026-07-29T12:22:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound consolidates against Japanese Yen ahead of central bank decisions",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-against-japanese-yen-ahead-of-central-bank-decisions-202607291215",
-      "datum": "2026-07-29T12:15:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Softer CPI keeps RBA on hold – TD Securities",
-      "link": "https://www.fxstreet.com/news/australian-dollar-softer-cpi-keeps-rba-on-hold-td-securities-202607291212",
-      "datum": "2026-07-29T12:12:47.000Z"
     },
     {
       "quelle": "ForexLive",

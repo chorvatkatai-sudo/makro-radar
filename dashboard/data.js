@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-29T13:50:35.382Z",
+ "erstellt": "2026-07-29T15:46:14.325Z",
  "wochenStart": "2026-07-26",
  "events": [
   {
@@ -907,7 +907,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "title": "RatingDog Manufacturing PMI",
    "impact": "High",
-   "forecast": "",
+   "forecast": "51.5",
    "previous": "51.7",
    "actual": null,
    "quelle": "tradingview"
@@ -1778,7 +1778,7 @@ window.MAKRO_DATA = {
    "title": "EIA Distillate Stocks Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1.062",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1788,7 +1788,7 @@ window.MAKRO_DATA = {
    "title": "EIA Crude Oil Imports Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "-0.237",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1798,7 +1798,7 @@ window.MAKRO_DATA = {
    "title": "EIA Distillate Fuel Production Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "0.015",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1808,7 +1808,7 @@ window.MAKRO_DATA = {
    "title": "EIA Heating Oil Stocks Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "0.308",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1818,7 +1818,7 @@ window.MAKRO_DATA = {
    "title": "EIA Gasoline Stocks Change",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "0.007",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1828,7 +1828,7 @@ window.MAKRO_DATA = {
    "title": "EIA Cushing Crude Oil Stocks Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "-0.771",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1838,7 +1838,7 @@ window.MAKRO_DATA = {
    "title": "EIA Crude Oil Stocks Change",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "-7.167",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1848,7 +1848,7 @@ window.MAKRO_DATA = {
    "title": "EIA Refinery Crude Runs Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "0.271",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1858,7 +1858,7 @@ window.MAKRO_DATA = {
    "title": "EIA Gasoline Production Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "0.178",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3280,15 +3280,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-29T13:50:34.757Z",
+  "stand": "2026-07-29T15:46:12.992Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.41,
+    "wert": 101.46,
     "tagProzent": 0,
-    "wocheProzent": 0.27,
+    "wocheProzent": 0.28,
     "renditeDelta": false,
     "verlauf": [
      101.11,
@@ -3309,21 +3309,21 @@ window.MAKRO_DATA = {
      101.18,
      101.14,
      101.43,
-     101.47,
-     101.38,
-     101.41,
-     101.41
+     101.51,
+     101.46,
+     101.46
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.86,
+    "wert": 19.9,
     "tagProzent": 0,
-    "wocheProzent": 0.86,
+    "wocheProzent": 16.72,
     "renditeDelta": false,
     "verlauf": [
+     17.65,
      16.45,
      16.59,
      16.15,
@@ -3341,20 +3341,18 @@ window.MAKRO_DATA = {
      17.05,
      16.64,
      18.7,
-     18.58,
      18.67,
-     18.21,
-     18.86,
-     18.86
+     19.9,
+     19.9
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.32,
+    "wert": 84.61,
     "tagProzent": 0,
-    "wocheProzent": -8.54,
+    "wocheProzent": -8.22,
     "renditeDelta": false,
     "verlauf": [
      69.5,
@@ -3377,17 +3375,17 @@ window.MAKRO_DATA = {
      89.31,
      82.61,
      79.26,
-     84.32,
-     84.32
+     84.61,
+     84.61
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 89.53,
+    "wert": 90.28,
     "tagProzent": 0,
-    "wocheProzent": -11.08,
+    "wocheProzent": -10.34,
     "renditeDelta": false,
     "verlauf": [
      72.92,
@@ -3410,17 +3408,17 @@ window.MAKRO_DATA = {
      96.78,
      88.36,
      84.09,
-     89.53,
-     89.53
+     90.28,
+     90.28
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4071.6,
+    "wert": 4070.1,
     "tagProzent": 0,
-    "wocheProzent": 0.62,
+    "wocheProzent": 0.58,
     "renditeDelta": false,
     "verlauf": [
      4022.9,
@@ -3443,8 +3441,8 @@ window.MAKRO_DATA = {
      4067.6,
      4074.5,
      4036.3,
-     4071.6,
-     4071.6
+     4070.1,
+     4070.1
     ]
    },
    "US02Y": {
@@ -3484,11 +3482,12 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.627,
+    "wert": 4.639,
     "tagProzent": 0,
-    "wocheProzent": -0.08,
+    "wocheProzent": 0.01,
     "renditeDelta": true,
     "verlauf": [
+     4.374,
      4.418,
      4.475,
      4.485,
@@ -3506,22 +3505,21 @@ window.MAKRO_DATA = {
      4.628,
      4.657,
      4.703,
-     4.679,
      4.641,
-     4.604,
-     4.627,
-     4.627
+     4.639,
+     4.639
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.104,
+    "wert": 5.116,
     "tagProzent": 0,
-    "wocheProzent": -0.07,
+    "wocheProzent": -0.01,
     "renditeDelta": true,
     "verlauf": [
+     4.86,
      4.902,
      4.966,
      4.985,
@@ -3539,20 +3537,18 @@ window.MAKRO_DATA = {
      5.13,
      5.147,
      5.171,
-     5.162,
      5.125,
-     5.096,
-     5.104,
-     5.104
+     5.116,
+     5.116
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64552.31,
+    "wert": 63865.47,
     "tagProzent": 0,
-    "wocheProzent": 0.37,
+    "wocheProzent": -0.69,
     "renditeDelta": false,
     "verlauf": [
      63193.15,
@@ -3575,8 +3571,8 @@ window.MAKRO_DATA = {
      65340.3,
      63724.9,
      63871.36,
-     64552.31,
-     64552.31
+     63865.47,
+     63865.47
     ]
    },
    "FEDFUT": {
@@ -3682,110 +3678,22 @@ window.MAKRO_DATA = {
     "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.67,
-  "cot": {
-   "stand": "2026-07-21",
-   "waehrungen": {
-    "CAD": {
-     "net": -174448,
-     "dNet": 1831,
-     "long": 27007,
-     "short": 201455,
-     "oi": 365599,
-     "nettoAnteil": -47.7,
-     "richtung": "short",
-     "zScore": -1.81,
-     "extrem": "erhoeht",
-     "histWochen": 216
-    },
-    "CHF": {
-     "net": -34242,
-     "dNet": 2714,
-     "long": 9817,
-     "short": 44059,
-     "oi": 107866,
-     "nettoAnteil": -31.7,
-     "richtung": "short",
-     "zScore": -0.85,
-     "extrem": null,
-     "histWochen": 216
-    },
-    "GBP": {
-     "net": -55561,
-     "dNet": 15692,
-     "long": 64282,
-     "short": 119843,
-     "oi": 262281,
-     "nettoAnteil": -21.2,
-     "richtung": "short",
-     "zScore": -1.14,
-     "extrem": null,
-     "histWochen": 216
-    },
-    "JPY": {
-     "net": -152125,
-     "dNet": -29462,
-     "long": 107590,
-     "short": 259715,
-     "oi": 423796,
-     "nettoAnteil": -35.9,
-     "richtung": "short",
-     "zScore": -1.36,
-     "extrem": null,
-     "histWochen": 216
-    },
-    "EUR": {
-     "net": -41338,
-     "dNet": -28733,
-     "long": 220465,
-     "short": 261803,
-     "oi": 800061,
-     "nettoAnteil": -5.2,
-     "richtung": "short",
-     "zScore": -1.61,
-     "extrem": "erhoeht",
-     "histWochen": 216
-    },
-    "NZD": {
-     "net": -49969,
-     "dNet": 12797,
-     "long": 8489,
-     "short": 58458,
-     "oi": 108800,
-     "nettoAnteil": -45.9,
-     "richtung": "short",
-     "zScore": -1.71,
-     "extrem": "erhoeht",
-     "histWochen": 216
-    },
-    "AUD": {
-     "net": -37685,
-     "dNet": -6975,
-     "long": 66184,
-     "short": 103869,
-     "oi": 225153,
-     "nettoAnteil": -16.7,
-     "richtung": "short",
-     "zScore": 0.05,
-     "extrem": null,
-     "histWochen": 216
-    }
-   }
-  },
+  "kurve2s10s": 0.68,
+  "cot": null,
   "zinsen2j": {
    "stand": "2026-07-29",
    "werte": {
     "USD": {
-     "wert": 4.308,
-     "wocheDelta": 0.125
+     "wert": 4.328,
+     "wocheDelta": 0.145
     },
     "EUR": {
-     "wert": 2.796,
-     "wocheDelta": -0.004
+     "wert": 2.804,
+     "wocheDelta": 0.004
     },
     "GBP": {
-     "wert": 4.416,
-     "wocheDelta": 0.041
+     "wert": 4.445,
+     "wocheDelta": 0.07
     },
     "JPY": {
      "wert": 1.471,
@@ -3796,12 +3704,12 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.01
     },
     "CAD": {
-     "wert": 2.898,
-     "wocheDelta": 0.029
+     "wert": 2.906,
+     "wocheDelta": 0.037
     },
     "CHF": {
-     "wert": 0.143,
-     "wocheDelta": 0.007
+     "wert": 0.133,
+     "wocheDelta": -0.003
     },
     "NZD": {
      "wert": 3.633,
@@ -3821,77 +3729,77 @@ window.MAKRO_DATA = {
   {
    "paar": "EUR/USD",
    "baseScore": -3,
-   "tiltCot": -1,
-   "tiltZins": -5,
+   "tiltCot": 0,
+   "tiltZins": -6,
    "tiltGesamt": -6,
    "score": -9,
-   "cotExtrem": "erhoeht",
+   "cotExtrem": null,
    "treiber": "Knapp abwärts: Der vor der Fed feste Dollar (Zinsvorsprung wächst) drückt den zähen Euro (~1,14). Gegenpol: Euro-Inflation Fr + Fed HEUTE stehen noch an. Maßvoll wegen schwachem EUR/USD-Track-Record (1/6)."
   },
   {
    "paar": "GBP/USD",
    "baseScore": -3,
-   "tiltCot": -4,
+   "tiltCot": 0,
    "tiltZins": -3,
-   "tiltGesamt": -7,
-   "score": -10,
+   "tiltGesamt": -3,
+   "score": -6,
    "cotExtrem": null,
    "treiber": "Leicht abwärts: kühle UK-Inflation + schrumpfende PMIs gegen den Dollar. Gegenpol: falkige BoE (Do) + crowded GBP-Shorts (Squeeze-Gefahr) bremsen die Abwärtswette."
   },
   {
    "paar": "USD/JPY",
    "baseScore": 3,
-   "tiltCot": 5,
-   "tiltZins": 3,
-   "tiltGesamt": 8,
-   "score": 11,
+   "tiltCot": 0,
+   "tiltZins": 4,
+   "tiltGesamt": 4,
+   "score": 7,
    "cotExtrem": null,
    "treiber": "Aufwärts, aber stark gebremst: Fester Dollar + Zinsvorsprung gegen den Yen, doch das Risk-off gibt dem Yen wieder etwas Hafen-Bid und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
   },
   {
    "paar": "AUD/USD",
    "baseScore": -1,
-   "tiltCot": -3,
-   "tiltZins": -5,
-   "tiltGesamt": -8,
-   "score": -9,
+   "tiltCot": 0,
+   "tiltZins": -6,
+   "tiltGesamt": -6,
+   "score": -7,
    "cotExtrem": null,
    "treiber": "Auf leicht abwärts gedreht: Australiens kühlere Q2-Inflation (heute früh) nimmt der RBA Härte, dazu drückt Risk-off die Rohstoff-Währung — gegen den vor der Fed festen Dollar. Boden: starke Jobs + höchster 2J-Zins im Feld. Nahe null (Track 3/6)."
   },
   {
    "paar": "USD/CAD",
    "baseScore": 4,
-   "tiltCot": 5,
+   "tiltCot": 0,
    "tiltZins": 4,
-   "tiltGesamt": 9,
-   "score": 13,
-   "cotExtrem": "erhoeht",
+   "tiltGesamt": 4,
+   "score": 8,
+   "cotExtrem": null,
    "treiber": "Leicht aufwärts: Der Öl-Einbruch (WTI ~79 $, −9 % Woche) nimmt dem Loonie seinen Trumpf, der feste Dollar zieht zusätzlich → USD/CAD tendiert höher. Gegenpol/Zurückhaltung: extrem short positionierte Loonie-Wetten (Squeeze) + falkige BoC federn ab. USD/CAD-Record mies (1/6) → nahe null."
   },
   {
    "paar": "USD/CHF",
    "baseScore": 3,
-   "tiltCot": 5,
-   "tiltZins": 5,
-   "tiltGesamt": 10,
-   "score": 13,
+   "tiltCot": 0,
+   "tiltZins": 6,
+   "tiltGesamt": 6,
+   "score": 9,
    "cotExtrem": null,
    "treiber": "Aufwärts, aber getrimmt: Der Dollar-Vorsprung zieht das Paar leicht hoch; im Risk-off bekommt der Franken aber wieder etwas Hafen-Bid und billigeres Öl stützt die Schweiz gegen. Moderat positiv."
   },
   {
    "paar": "NZD/USD",
    "baseScore": -2,
-   "tiltCot": -5,
-   "tiltZins": -4,
-   "tiltGesamt": -9,
-   "score": -11,
-   "cotExtrem": "erhoeht",
+   "tiltCot": 0,
+   "tiltZins": -5,
+   "tiltGesamt": -5,
+   "score": -7,
+   "cotExtrem": null,
    "treiber": "Leicht abwärts: fester Dollar vor der Fed + Risk-off (VIX rauf) drücken die Rohstoff-Währung, der Kiwi war zuletzt ohnehin schwach. Die EXTREM short positionierten Kiwi-Wetten (z −2,37) sind ein Pulverfass in beide Richtungen → nur zaghaft negativ (Track 1/5)."
   }
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-29T13:50:35.380Z",
+  "stand": "2026-07-29T15:46:14.323Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3900,75 +3808,75 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
+    "titel": "British Pound holds below 1.33 as Trump warns Iran, Oil jumps",
+    "link": "https://www.fxstreet.com/news/british-pound-holds-below-133-as-trump-warns-iran-oil-jumps-202607291530",
+    "datum": "2026-07-29T15:30:31.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI Oil surges 7% as Middle East war and supply risks fuel rally",
+    "link": "https://www.fxstreet.com/news/wti-oil-surges-7-as-middle-east-war-and-supply-risks-fuel-rally-202607291530",
+    "datum": "2026-07-29T15:30:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Federal Reserve: Hawkish hold may offer US Dollar limited support – BNY",
+    "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hold-may-offer-us-dollar-limited-support-bny-202607291517",
+    "datum": "2026-07-29T15:17:49.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen faces its moment of truth ahead of Fed decision",
+    "link": "https://www.fxstreet.com/news/japanese-yen-faces-its-moment-of-truth-ahead-of-fed-decision-202607291502",
+    "datum": "2026-07-29T15:02:57.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Canadian Dollar: Range holds against USD with Fed and BoC in focus – Scotiabank",
+    "link": "https://www.fxstreet.com/news/canadian-dollar-range-holds-against-usd-with-fed-and-boc-in-focus-scotiabank-202607291454",
+    "datum": "2026-07-29T14:54:44.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar extends decline ahead of Fed's decision",
+    "link": "https://www.fxstreet.com/news/australian-dollar-extends-decline-ahead-of-feds-decision-202607291450",
+    "datum": "2026-07-29T14:50:05.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro holds below 1.1400 against US Dollar as Fed interest rate decision looms",
+    "link": "https://www.fxstreet.com/news/euro-holds-below-11400-against-us-dollar-as-fed-interest-rate-decision-looms-202607291431",
+    "datum": "2026-07-29T14:31:22.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold: Fed risk caps CTA upside – TD Securities",
+    "link": "https://www.fxstreet.com/news/gold-fed-risk-caps-cta-upside-td-securities-202607291424",
+    "datum": "2026-07-29T14:24:40.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Natural gas: Europe faces tighter winter balance – ING",
+    "link": "https://www.fxstreet.com/news/natural-gas-europe-faces-tighter-winter-balance-ing-202607291401",
+    "datum": "2026-07-29T14:01:29.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Federal Reserve set to hold interest rates steady, yet a hike can’t be ruled out",
+    "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
+    "datum": "2026-07-29T14:00:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
     "titel": "Swiss National Bank: Rates seen on prolonged hold – Commerzbank",
     "link": "https://www.fxstreet.com/news/swiss-national-bank-rates-seen-on-prolonged-hold-commerzbank-202607291337",
     "datum": "2026-07-29T13:37:58.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Singapore Dollar: Range guidance around NEER band – UOB",
-    "link": "https://www.fxstreet.com/news/singapore-dollar-range-guidance-around-neer-band-uob-202607291319",
-    "datum": "2026-07-29T13:19:35.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Trump vows fresh strikes on Iran after missiles targeting US forces are intercepted",
-    "link": "https://www.fxstreet.com/news/trump-vows-fresh-strikes-on-iran-after-missiles-targeting-us-forces-are-intercepted-202607291310",
-    "datum": "2026-07-29T13:10:18.000Z"
    },
    {
     "quelle": "ForexLive",
     "titel": "Trump: We'll be hitting Iran hard. Strikes in reaction to attacks on US in Jordan",
     "link": "https://investinglive.com/news/trump-we-ll-be-hitting-iran-hard-strikes-in-reaction-to-attacks-on-us-in-jordan/",
     "datum": "2026-07-29T13:08:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar strengthens modestly against US Dollar ahead of Fed decision",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-modestly-against-us-dollar-ahead-of-fed-decision-202607291306",
-    "datum": "2026-07-29T13:06:20.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Oil: Middle East tensions revive inflation channel – BNY",
-    "link": "https://www.fxstreet.com/news/oil-middle-east-tensions-revive-inflation-channel-bny-202607291301",
-    "datum": "2026-07-29T13:01:24.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Domestic investment shift could support the Yen – BNY",
-    "link": "https://www.fxstreet.com/news/japanese-yen-domestic-investment-shift-could-support-the-yen-bny-202607291243",
-    "datum": "2026-07-29T12:43:34.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Copper: Speculative longs rise on tight supply – ING",
-    "link": "https://www.fxstreet.com/news/copper-speculative-longs-rise-on-tight-supply-ing-202607291233",
-    "datum": "2026-07-29T12:33:53.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "WTI rebounds sharply on fears of renewed escalation in US-Iran war",
-    "link": "https://www.fxstreet.com/news/wti-rebounds-sharply-on-fears-of-renewed-escalation-in-us-iran-war-202607291225",
-    "datum": "2026-07-29T12:25:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Dollar: Stretched positioning caps gains against peers – BNY",
-    "link": "https://www.fxstreet.com/news/us-dollar-stretched-positioning-caps-gains-against-peers-bny-202607291222",
-    "datum": "2026-07-29T12:22:04.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound consolidates against Japanese Yen ahead of central bank decisions",
-    "link": "https://www.fxstreet.com/news/british-pound-consolidates-against-japanese-yen-ahead-of-central-bank-decisions-202607291215",
-    "datum": "2026-07-29T12:15:17.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar: Softer CPI keeps RBA on hold – TD Securities",
-    "link": "https://www.fxstreet.com/news/australian-dollar-softer-cpi-keeps-rba-on-hold-td-securities-202607291212",
-    "datum": "2026-07-29T12:12:47.000Z"
    },
    {
     "quelle": "ForexLive",

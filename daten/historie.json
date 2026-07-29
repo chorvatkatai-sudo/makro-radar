@@ -5698,7 +5698,7 @@
       "impact": "Low",
       "prognose": "0.9%",
       "vorher": "1.3%",
-      "actual": null,
+      "actual": "0.6",
       "notiz": null
     },
     "2026-07-27T08:30:00-04:00|USD|Durable Goods Orders m/m": {
@@ -5708,7 +5708,7 @@
       "impact": "Low",
       "prognose": "1.6%",
       "vorher": "-4.5%",
-      "actual": null,
+      "actual": "0.3",
       "notiz": null
     },
     "2026-07-27T19:01:00-04:00|GBP|BRC Shop Price Index y/y": {
@@ -5818,7 +5818,7 @@
       "impact": "Medium",
       "prognose": "92.4",
       "vorher": "91.2",
-      "actual": null,
+      "actual": "90.8",
       "notiz": null
     },
     "2026-07-28T10:00:00-04:00|USD|Richmond Manufacturing Index": {

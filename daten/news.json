@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-29T05:08:54.640Z",
+  "stand": "2026-07-29T11:16:04.806Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar holds steady below 0.5900 vs USD as traders seem hesitant ahead of FOMC",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-below-05900-vs-usd-as-traders-seem-hesitant-ahead-of-fomc-202607290502",
-      "datum": "2026-07-29T05:02:46.000Z"
+      "titel": "Australian Dollar: Pressured against US Dollar by softer CPI – Societe Generale",
+      "link": "https://www.fxstreet.com/news/australian-dollar-pressured-against-us-dollar-by-softer-cpi-societe-generale-202607291110",
+      "datum": "2026-07-29T11:10:03.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold consolidates near two-week low, holds above $4,000 as traders await FOMC decision",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-near-two-week-low-holds-above-4-000-as-traders-await-fomc-decision-202607290437",
-      "datum": "2026-07-29T04:37:22.000Z"
+      "titel": "Gold struggles for direction ahead of Federal Reserve policy verdict",
+      "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-federal-reserve-policy-verdict-202607291108",
+      "datum": "2026-07-29T11:08:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607290436",
-      "datum": "2026-07-29T04:36:34.000Z"
+      "titel": "EUR/USD Price Forecast: Struggling below 1.1400 with YTD lows at a short distance",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-struggling-below-11400-with-all-eyes-on-the-fed-202607291059",
+      "datum": "2026-07-29T10:59:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound gains ground as US Dollar struggles ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-ground-as-us-dollar-struggles-ahead-of-fed-decision-202607290431",
-      "datum": "2026-07-29T04:31:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Eyes rising wedge top at 187.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-eyes-rising-wedge-top-at-18700-202607290334",
-      "datum": "2026-07-29T03:34:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed policy awaited",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-gains-even-as-oil-prices-rebound-fed-policy-awaited-202607290312",
-      "datum": "2026-07-29T03:12:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro advances as US Dollar declines ahead of Fed policy decision",
-      "link": "https://www.fxstreet.com/news/euro-advances-as-us-dollar-declines-ahead-of-fed-policy-decision-202607290300",
-      "datum": "2026-07-29T03:00:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar remains on the front foot as USD bulls turn cautious ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-as-usd-bulls-turn-cautious-ahead-of-fed-decision-202607290242",
-      "datum": "2026-07-29T02:42:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index (DXY) flat below 101.50 as bulls await FOMC amid Iran risks",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-flat-below-10150-as-bulls-await-fomc-amid-iran-risks-202607290200",
-      "datum": "2026-07-29T02:00:48.000Z"
+      "titel": "Yemen's Houthis mulls imposing fees on vessels transiting Southern Red Sea route",
+      "link": "https://www.fxstreet.com/news/yemens-houthis-mulls-imposing-fees-on-vessels-transiting-southern-red-sea-route-202607291052",
+      "datum": "2026-07-29T10:52:24.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Australian June CPI 3.8% y/y vs +4.0% expected",
-      "link": "https://investinglive.com/news/australian-q2-cpi-y-y-vs-4-1-expected/",
-      "datum": "2026-07-29T01:58:39.000Z"
+      "titel": "Yemen's Houthis are considering fees for ships sailing through the Red Sea - Reuters",
+      "link": "https://investinglive.com/news/yemen-s-houthis-are-considering-fees-for-ships-sailing-through-the-red-sea-reuters/",
+      "datum": "2026-07-29T10:45:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar falls to one-week low vs Yen as soft CPI triggers heavy selling",
-      "link": "https://www.fxstreet.com/news/australian-dollar-falls-to-one-week-low-vs-yen-as-soft-cpi-triggers-heavy-selling-202607290151",
-      "datum": "2026-07-29T01:51:17.000Z"
+      "titel": "EUR/GBP Price Forecast: Eases from 0.8575 resistance with the bullish bias intact",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-eases-from-08575-resistance-with-the-bullish-bias-intact-202607291024",
+      "datum": "2026-07-29T10:24:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar slips as softer inflation cools domestic rate expectations",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-softer-inflation-cools-domestic-rate-expectations-202607290143",
-      "datum": "2026-07-29T01:43:54.000Z"
+      "titel": "Federal Reserve: Extended pause guidance – UOB",
+      "link": "https://www.fxstreet.com/news/federal-reserve-extended-pause-guidance-uob-202607291001",
+      "datum": "2026-07-29T10:01:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australia’s CPI inflation cools to 3.8% YoY in June vs. 4% forecast",
-      "link": "https://www.fxstreet.com/news/australia-cpi-could-boost-aussie-if-inflation-arrives-above-4-202607282230",
-      "datum": "2026-07-28T22:30:00.000Z"
+      "titel": "Canadian Dollar: BoC minutes watched for inflation tone – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-minutes-watched-for-inflation-tone-td-securities-202607290955",
+      "datum": "2026-07-29T09:55:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Seen back toward 1.15 against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-seen-back-toward-115-against-us-dollar-ing-202607290945",
+      "datum": "2026-07-29T09:45:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: Policy gap favours further losses against Euro – MUFG",
+      "link": "https://www.fxstreet.com/news/swiss-franc-policy-gap-favours-further-losses-against-euro-mufg-202607290934",
+      "datum": "2026-07-29T09:34:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607290930",
+      "datum": "2026-07-29T09:30:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/USD Price Forecast: Near-term bias remains bearish ahead of Fed-BoE policy",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-near-term-bias-remains-bearish-ahead-of-fed-boe-policy-202607290929",
+      "datum": "2026-07-29T09:29:21.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 28 Jul: Markets Await Fed and Big Tech Results",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-jul-markets-await-fed-and-big-tech-results/",
-      "datum": "2026-07-28T21:05:26.000Z"
+      "titel": "UK mortgage approvals rebound in June but credit data continues to point to worrying signals",
+      "link": "https://investinglive.com/news/uk-mortgage-approvals-rebound-in-june-but-credit-data-continues-to-point-to-worrying-signals/",
+      "datum": "2026-07-29T08:53:14.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "It's a great day already in Australia and New Zealand, what's coming up on the economic calendar",
-      "link": "https://investinglive.com/news/it-s-a-great-day-already-in-australia-and-new-zealand-what-s-coming-up-on-the-economic-calendar/",
-      "datum": "2026-07-28T20:52:27.000Z"
+      "titel": "German import prices fell in June due to drop in energy prices",
+      "link": "https://investinglive.com/news/german-import-prices-fell-in-june-due-to-drop-in-energy-prices/",
+      "datum": "2026-07-29T06:26:12.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Netanyahu: Confirmed to Trump that additional strikes on rehabilitated Iranian nuclear facilities are unavoidable",
-      "link": "https://investinglive.com/news/netanyahu-confirmed-to-trump-that-additional-strikes-on-rehabilitated-iranian-nuclear-facilities-are-unavoidable/",
-      "datum": "2026-07-28T18:26:03.000Z"
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-13/",
+      "datum": "2026-07-29T06:11:01.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Trump-Netanyahu meeting reinforces Iran focus",
-      "link": "https://investinglive.com/news/trump-netanyahu-meeting-reinforces-iran-focus/",
-      "datum": "2026-07-28T17:15:34.000Z"
+      "titel": "It's another ugly greeting for European traders this morning",
+      "link": "https://investinglive.com/news/it-s-another-ugly-greeting-for-european-traders-this-morning/",
+      "datum": "2026-07-29T06:03:42.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US treasury sells $44B of 7-year notes at a high yield of 4.473%",
-      "link": "https://investinglive.com/news/us-treasury-sells-44b-of-7-year-notes-at-a-high-yield-of-4-473/",
-      "datum": "2026-07-28T17:05:40.000Z"
+      "titel": "Iran official reportedly says Oman proposal on Strait of Hormuz has no chance of success",
+      "link": "https://investinglive.com/news/iran-official-reportedly-says-oman-proposal-on-strait-of-hormuz-has-no-chance-of-success/",
+      "datum": "2026-07-29T06:03:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-pacific FX news wrap: Iran resume strikes, Korean stocks fall further",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-iran-resume-strikes-korean-stocks-fall-further/",
+      "datum": "2026-07-29T06:02:08.000Z"
     }
   ]
 }

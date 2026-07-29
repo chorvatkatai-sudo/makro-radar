@@ -1,11 +1,65 @@
 {
-  "stand": "2026-07-29T15:46:14.323Z",
+  "stand": "2026-07-29T17:06:53.134Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc falls against US Dollar for eighth straight day as Fed decision looms",
+      "link": "https://www.fxstreet.com/news/swiss-franc-falls-against-us-dollar-for-eighth-straight-day-as-fed-decision-looms-202607291659",
+      "datum": "2026-07-29T16:59:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: FOMC risk guides downside scope – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fomc-risk-guides-downside-scope-scotiabank-202607291637",
+      "datum": "2026-07-29T16:37:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average pulls back hours before the Fed's answer",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-pulls-back-hours-before-the-feds-answer-202607291633",
+      "datum": "2026-07-29T16:33:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Hedging pressure builds on USD – BNY",
+      "link": "https://www.fxstreet.com/news/us-dollar-hedging-pressure-builds-on-usd-bny-202607291628",
+      "datum": "2026-07-29T16:28:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver slips below $57 as Fed meeting keeps markets on edge",
+      "link": "https://www.fxstreet.com/news/silver-slips-below-57-as-fed-meeting-keeps-markets-on-edge-202607291619",
+      "datum": "2026-07-29T16:19:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Policy risk with range-bound trade against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-policy-risk-with-range-bound-trade-against-us-dollar-scotiabank-202607291613",
+      "datum": "2026-07-29T16:13:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Japan: Gradual tightening path and neutral rate debate – ING",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-gradual-tightening-path-and-neutral-rate-debate-ing-202607291556",
+      "datum": "2026-07-29T15:56:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Options signal downside risk against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-options-signal-downside-risk-against-us-dollar-scotiabank-202607291556",
+      "datum": "2026-07-29T15:56:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold remains under pressure near $4,000 as Fed decision looms",
+      "link": "https://www.fxstreet.com/news/gold-remains-under-pressure-near-4-000-as-fed-decision-looms-202607291548",
+      "datum": "2026-07-29T15:48:16.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "British Pound holds below 1.33 as Trump warns Iran, Oil jumps",
@@ -20,57 +74,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve: Hawkish hold may offer US Dollar limited support – BNY",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hold-may-offer-us-dollar-limited-support-bny-202607291517",
-      "datum": "2026-07-29T15:17:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen faces its moment of truth ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/japanese-yen-faces-its-moment-of-truth-ahead-of-fed-decision-202607291502",
-      "datum": "2026-07-29T15:02:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Range holds against USD with Fed and BoC in focus – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-holds-against-usd-with-fed-and-boc-in-focus-scotiabank-202607291454",
-      "datum": "2026-07-29T14:54:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar extends decline ahead of Fed's decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-extends-decline-ahead-of-feds-decision-202607291450",
-      "datum": "2026-07-29T14:50:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds below 1.1400 against US Dollar as Fed interest rate decision looms",
-      "link": "https://www.fxstreet.com/news/euro-holds-below-11400-against-us-dollar-as-fed-interest-rate-decision-looms-202607291431",
-      "datum": "2026-07-29T14:31:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Fed risk caps CTA upside – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-fed-risk-caps-cta-upside-td-securities-202607291424",
-      "datum": "2026-07-29T14:24:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Natural gas: Europe faces tighter winter balance – ING",
-      "link": "https://www.fxstreet.com/news/natural-gas-europe-faces-tighter-winter-balance-ing-202607291401",
-      "datum": "2026-07-29T14:01:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve set to hold interest rates steady, yet a hike can’t be ruled out",
+      "titel": "Federal Reserve set to hold interest rates as pressure to hike mounts",
       "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
       "datum": "2026-07-29T14:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss National Bank: Rates seen on prolonged hold – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swiss-national-bank-rates-seen-on-prolonged-hold-commerzbank-202607291337",
-      "datum": "2026-07-29T13:37:58.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -83,12 +89,6 @@
       "titel": "investingLive European markets wrap: Oil climbs again as Iran rejects Oman proposal on Strait of Hormuz, FOMC meeting eyed next",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-climbs-again-as-iran-rejects-oman-proposal-on-strait-of-hormuz-fomc-meeting-eyed-next/",
       "datum": "2026-07-29T11:33:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold struggles near $4,000 ahead of Federal Reserve policy verdict",
-      "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-federal-reserve-policy-verdict-202607291108",
-      "datum": "2026-07-29T11:08:44.000Z"
     },
     {
       "quelle": "ForexLive",

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-29T05:07:53.837Z",
+  "stand": "2026-07-29T05:08:54.641Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -3,
       "tiltCot": -4,
-      "tiltZins": -5,
-      "tiltGesamt": -9,
-      "score": -12,
+      "tiltZins": -6,
+      "tiltGesamt": -10,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: kühle UK-Inflation + schrumpfende PMIs gegen den Dollar. Gegenpol: falkige BoE (Do) + crowded GBP-Shorts (Squeeze-Gefahr) bremsen die Abwärtswette."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 3,
       "tiltCot": 5,
-      "tiltZins": 2,
-      "tiltGesamt": 7,
-      "score": 10,
+      "tiltZins": 3,
+      "tiltGesamt": 8,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "Aufwärts, aber stark gebremst: Fester Dollar + Zinsvorsprung gegen den Yen, doch das Risk-off gibt dem Yen wieder etwas Hafen-Bid und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -1,
       "tiltCot": -3,
-      "tiltZins": -1,
-      "tiltGesamt": -4,
-      "score": -5,
+      "tiltZins": -6,
+      "tiltGesamt": -9,
+      "score": -10,
       "cotExtrem": null,
       "treiber": "Auf leicht abwärts gedreht: Australiens kühlere Q2-Inflation (heute früh) nimmt der RBA Härte, dazu drückt Risk-off die Rohstoff-Währung — gegen den vor der Fed festen Dollar. Boden: starke Jobs + höchster 2J-Zins im Feld. Nahe null (Track 3/6)."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -7,
+      "tiltZins": -3,
+      "tiltGesamt": -8,
+      "score": -10,
       "cotExtrem": "erhoeht",
       "treiber": "Leicht abwärts: fester Dollar vor der Fed + Risk-off (VIX rauf) drücken die Rohstoff-Währung, der Kiwi war zuletzt ohnehin schwach. Die EXTREM short positionierten Kiwi-Wetten (z −2,37) sind ein Pulverfass in beide Richtungen → nur zaghaft negativ (Track 1/5)."
     }

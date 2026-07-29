@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-29T17:06:53.134Z",
+  "stand": "2026-07-29T19:01:36.068Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,73 +8,91 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc falls against US Dollar for eighth straight day as Fed decision looms",
-      "link": "https://www.fxstreet.com/news/swiss-franc-falls-against-us-dollar-for-eighth-straight-day-as-fed-decision-looms-202607291659",
-      "datum": "2026-07-29T16:59:03.000Z"
+      "titel": "New Zealand Dollar rebounds after Fed hold",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-after-fed-hold-202607291844",
+      "datum": "2026-07-29T18:44:08.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: FOMC risk guides downside scope – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fomc-risk-guides-downside-scope-scotiabank-202607291637",
-      "datum": "2026-07-29T16:37:00.000Z"
+      "titel": "Japanese Yen gains after hawkish Fed hold",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-after-hawkish-fed-hold-202607291841",
+      "datum": "2026-07-29T18:41:47.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average pulls back hours before the Fed's answer",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-pulls-back-hours-before-the-feds-answer-202607291633",
-      "datum": "2026-07-29T16:33:33.000Z"
+      "titel": "Australian Dollar trims losses after Fed holds",
+      "link": "https://www.fxstreet.com/news/australian-dollar-trims-losses-after-fed-holds-202607291833",
+      "datum": "2026-07-29T18:33:03.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Hedging pressure builds on USD – BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-hedging-pressure-builds-on-usd-bny-202607291628",
-      "datum": "2026-07-29T16:28:00.000Z"
+      "titel": "Euro rises despite Fed hawkish hold, eyes on Warsh’s speech",
+      "link": "https://www.fxstreet.com/news/euro-rises-despite-fed-hawkish-hold-eyes-on-warshs-speech-202607291814",
+      "datum": "2026-07-29T18:14:41.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver slips below $57 as Fed meeting keeps markets on edge",
-      "link": "https://www.fxstreet.com/news/silver-slips-below-57-as-fed-meeting-keeps-markets-on-edge-202607291619",
-      "datum": "2026-07-29T16:19:56.000Z"
+      "titel": "Dow Jones Industrial Average finds a bid in the thing the Fed did not do",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-finds-a-bid-in-the-thing-the-fed-did-not-do-202607291810",
+      "datum": "2026-07-29T18:10:41.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: Policy risk with range-bound trade against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-policy-risk-with-range-bound-trade-against-us-dollar-scotiabank-202607291613",
-      "datum": "2026-07-29T16:13:59.000Z"
+      "titel": "British Pound Sterling collects a refund on the Fed hike that never came",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-collects-a-refund-on-the-fed-hike-that-never-came-202607291809",
+      "datum": "2026-07-29T18:09:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Bank of Japan: Gradual tightening path and neutral rate debate – ING",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-gradual-tightening-path-and-neutral-rate-debate-ing-202607291556",
-      "datum": "2026-07-29T15:56:35.000Z"
+      "titel": "Gold surges after Fed holds as hawkish dissent fuels volatility",
+      "link": "https://www.fxstreet.com/news/gold-surges-after-fed-holds-as-hawkish-dissent-fuels-volatility-202607291809",
+      "datum": "2026-07-29T18:09:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Options signal downside risk against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-options-signal-downside-risk-against-us-dollar-scotiabank-202607291556",
-      "datum": "2026-07-29T15:56:02.000Z"
+      "titel": "The US Dollar Index sells the hold and ignores the hawks",
+      "link": "https://www.fxstreet.com/news/the-us-dollar-index-sells-the-hold-and-ignores-the-hawks-202607291808",
+      "datum": "2026-07-29T18:08:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold remains under pressure near $4,000 as Fed decision looms",
-      "link": "https://www.fxstreet.com/news/gold-remains-under-pressure-near-4-000-as-fed-decision-looms-202607291548",
-      "datum": "2026-07-29T15:48:16.000Z"
+      "titel": "The Canadian Dollar takes its bid from Washington as usual",
+      "link": "https://www.fxstreet.com/news/the-canadian-dollar-takes-its-bid-from-washington-as-usual-202607291808",
+      "datum": "2026-07-29T18:08:24.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "datum": "2026-07-29T18:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound holds below 1.33 as Trump warns Iran, Oil jumps",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-below-133-as-trump-warns-iran-oil-jumps-202607291530",
-      "datum": "2026-07-29T15:30:31.000Z"
+      "titel": "Mexican Peso tumbles as Gulf War escalation weighs on mood, Fed eyed",
+      "link": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-gulf-war-escalation-weighs-on-mood-fed-eyed-202607291747",
+      "datum": "2026-07-29T17:47:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Oil surges 7% as Middle East war and supply risks fuel rally",
-      "link": "https://www.fxstreet.com/news/wti-oil-surges-7-as-middle-east-war-and-supply-risks-fuel-rally-202607291530",
-      "datum": "2026-07-29T15:30:00.000Z"
+      "titel": "The Bank of Canada shows its work, while the Canadian Dollar reads Washington",
+      "link": "https://www.fxstreet.com/news/the-bank-of-canada-shows-its-work-while-the-canadian-dollar-reads-washington-202607291744",
+      "datum": "2026-07-29T17:44:19.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Report: U.S. preparing for a larger response to Iran",
+      "link": "https://investinglive.com/news/report-u-s-preparing-for-a-larger-response-to-iran/",
+      "datum": "2026-07-29T17:37:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "WH Economic Advisor Hassett: Pres Trump has hard regard for Kevin Warsh.",
+      "link": "https://investinglive.com/news/wh-economic-advisor-hassett-pres-trump-has-hard-regard-for-kevin-warsh/",
+      "datum": "2026-07-29T17:14:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve set to hold interest rates as pressure to hike mounts",
+      "titel": "Fed's Warsh: We will deliver the 2% target",
       "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
       "datum": "2026-07-29T14:00:00.000Z"
     },
@@ -95,24 +113,6 @@
       "titel": "Yemen's Houthis are considering fees for ships sailing through the Red Sea - Reuters",
       "link": "https://investinglive.com/news/yemen-s-houthis-are-considering-fees-for-ships-sailing-through-the-red-sea-reuters/",
       "datum": "2026-07-29T10:45:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK mortgage approvals rebound in June but credit data continues to point to worrying signals",
-      "link": "https://investinglive.com/news/uk-mortgage-approvals-rebound-in-june-but-credit-data-continues-to-point-to-worrying-signals/",
-      "datum": "2026-07-29T08:53:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German import prices fell in June due to drop in energy prices",
-      "link": "https://investinglive.com/news/german-import-prices-fell-in-june-due-to-drop-in-energy-prices/",
-      "datum": "2026-07-29T06:26:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-13/",
-      "datum": "2026-07-29T06:11:01.000Z"
     }
   ]
 }

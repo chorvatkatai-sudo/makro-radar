@@ -5958,8 +5958,8 @@
       "impact": "High",
       "prognose": "3.75%",
       "vorher": "3.75%",
-      "actual": null,
-      "notiz": null
+      "actual": "3.75%",
+      "notiz": "auto:TV rate (2026-07-29)"
     },
     "2026-07-29T14:00:00-04:00|USD|FOMC Statement": {
       "datum": "2026-07-29T14:00:00-04:00",

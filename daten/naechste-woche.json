@@ -1105,7 +1105,7 @@
     "title": "Building Permits MoM Final",
     "impact": "Low",
     "forecast": "7.2%",
-    "previous": "-1.1%",
+    "previous": "-1.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1115,7 +1115,7 @@
     "title": "Building Permits YoY Final",
     "impact": "Low",
     "forecast": "8.9%",
-    "previous": "5.3%",
+    "previous": "5.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1294,7 +1294,7 @@
     "country": "USD",
     "title": "Wholesale Inventories MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"

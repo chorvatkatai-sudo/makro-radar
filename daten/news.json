@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-30T13:48:05.330Z",
+  "stand": "2026-07-30T15:05:11.615Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,40 +7,94 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: BoC minutes flags two-sided economic risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-minutes-flags-two-sided-economic-risks-td-securities-202607301339",
-      "datum": "2026-07-30T13:39:27.000Z"
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+      "datum": "2026-07-30T15:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+      "datum": "2026-07-30T15:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen gains the upper hand after US GDP miss, BoJ eyed",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-the-upper-hand-after-us-gdp-miss-boj-eyed-202607301329",
-      "datum": "2026-07-30T13:29:31.000Z"
+      "titel": "Bank of England: Tighter conditions support September hold – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-england-tighter-conditions-support-september-hold-td-securities-202607301458",
+      "datum": "2026-07-30T14:58:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Atlanta Fed GDPNow initial estimate for Q3 is set at 5.0%.",
+      "link": "https://investinglive.com/news/atlanta-fed-gdpnow-initial-estimate-for-q3-is-set-at-5-0/",
+      "datum": "2026-07-30T14:56:13.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Warsh rhetoric weakens policy credibility – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-warsh-rhetoric-weakens-policy-credibility-bbh-202607301329",
-      "datum": "2026-07-30T13:29:21.000Z"
+      "titel": "Australian Dollar rallies despite softer CPI as US Dollar tumbles after Fed, weaker data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rallies-despite-softer-cpi-as-us-dollar-tumbles-after-fed-weaker-data-202607301450",
+      "datum": "2026-07-30T14:50:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Natural Gas: Fragile supply risks keep prices elevated – Rabobank",
+      "link": "https://www.fxstreet.com/news/natural-gas-fragile-supply-risks-keep-prices-elevated-rabobank-202607301447",
+      "datum": "2026-07-30T14:47:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Domestic weakness calls for measured fiscal support - Commerzbank",
+      "link": "https://www.fxstreet.com/news/china-domestic-weakness-calls-for-measured-fiscal-support-commerzbank-202607301433",
+      "datum": "2026-07-30T14:33:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound plunges amid suspected Yen intervention",
+      "link": "https://www.fxstreet.com/news/british-pound-plunges-amid-suspected-yen-intervention-202607301433",
+      "datum": "2026-07-30T14:33:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: FOMC repricing caps CTA upside – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-fomc-repricing-caps-cta-upside-td-securities-202607301419",
+      "datum": "2026-07-30T14:19:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen surges on suspected intervention, EUR/JPY tumbles 400 pips in minutes",
+      "link": "https://www.fxstreet.com/news/japanese-yen-surges-on-suspected-intervention-eur-jpy-tumbles-400-pips-in-minutes-202607301415",
+      "datum": "2026-07-30T14:15:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Eurozone: Strategic push reshapes dependencies – Rabobank",
+      "link": "https://www.fxstreet.com/news/eurozone-strategic-push-reshapes-dependencies-rabobank-202607301406",
+      "datum": "2026-07-30T14:06:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro climbs to six-week high as suspected Japanese intervention pressures Greenback",
+      "link": "https://www.fxstreet.com/news/euro-climbs-to-six-week-high-as-suspected-japanese-intervention-pressures-greenback-202607301404",
+      "datum": "2026-07-30T14:04:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: War-driven energy shock shapes outlook – Commerzbank",
+      "link": "https://www.fxstreet.com/news/germany-war-driven-energy-shock-shapes-outlook-commerzbank-202607301356",
+      "datum": "2026-07-30T13:56:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: Japanese Yen surges on suspected intervention, USD/JPY plunges below 160.00",
+      "link": "https://www.fxstreet.com/news/breaking-japanese-yen-surges-on-suspected-intervention-usd-jpy-plunges-below-16100-202607301350",
+      "datum": "2026-07-30T13:50:01.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "WH Advisor Hassett: Inflation is continuing to ease",
       "link": "https://investinglive.com/news/wh-advisor-hassett-inflation-is-continuing-to-ease/",
       "datum": "2026-07-30T13:28:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Fed holds rates and supports Dollar – HSBC",
-      "link": "https://www.fxstreet.com/news/federal-reserve-fed-holds-rates-and-supports-dollar-hsbc-202607301318",
-      "datum": "2026-07-30T13:18:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Turkish Lira: Bank stress heightens TRY vulnerability – Commerzbank",
-      "link": "https://www.fxstreet.com/news/turkish-lira-bank-stress-heightens-try-vulnerability-commerzbank-202607301306",
-      "datum": "2026-07-30T13:06:07.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -55,64 +109,10 @@
       "datum": "2026-07-30T12:53:29.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Rally against EUR and USD unlikely to last – TD Securities",
-      "link": "https://www.fxstreet.com/news/british-pound-rally-against-eur-and-usd-unlikely-to-last-td-securities-202607301253",
-      "datum": "2026-07-30T12:53:10.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Q2 advance GDP +1.5% vs +2.1% expected",
       "link": "https://investinglive.com/news/us-q2-advance-gdp-1-5-vs-2-1-expected/",
       "datum": "2026-07-30T12:50:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US PCE inflation data confirm steady disinflation",
-      "link": "https://www.fxstreet.com/news/us-pce-inflation-data-confirm-steady-disinflation-202607301250",
-      "datum": "2026-07-30T12:50:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: RBA sees inflation still above target – BNY",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-sees-inflation-still-above-target-bny-202607301243",
-      "datum": "2026-07-30T12:43:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: Business survey supports RBNZ hikes – BBH",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-business-survey-supports-rbnz-hikes-bbh-202607301235",
-      "datum": "2026-07-30T12:35:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany July preliminary CPI +2.8% vs +2.7% y/y expected",
-      "link": "https://investinglive.com/news/germany-july-preliminary-cpi-xx-vs-2-7-y-y-expected/",
-      "datum": "2026-07-30T12:05:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Dollar extends post-Fed drop, BOE keeps bank rate unchanged",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-extends-post-fed-drop-boe-keeps-bank-rate-unchanged/",
-      "datum": "2026-07-30T11:54:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold trades sideways as US GDP disappoints, core PCE cools",
-      "link": "https://www.fxstreet.com/news/gold-caught-between-softer-us-dollar-and-rising-treasury-yields-us-pce-awaited-202607301120",
-      "datum": "2026-07-30T11:20:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Euro area economic sentiment sees a further rebound in July",
-      "link": "https://investinglive.com/news/euro-area-economic-sentiment-sees-a-further-rebound-in-july/",
-      "datum": "2026-07-30T09:09:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone Q2 preliminary GDP +0.4% vs +0.2% q/q expected",
-      "link": "https://investinglive.com/news/eurozone-q2-preliminary-gdp-xx-vs-0-2-q-q-expected/",
-      "datum": "2026-07-30T09:05:59.000Z"
     }
   ]
 }

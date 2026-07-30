@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-30T13:48:05.331Z",
+  "stand": "2026-07-30T15:05:11.616Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -4,
-      "tiltZins": -3,
-      "tiltGesamt": -7,
-      "score": -9,
+      "tiltZins": -2,
+      "tiltGesamt": -6,
+      "score": -8,
       "cotExtrem": null,
       "treiber": "Leicht abwärts vor der BoE (Halten erwartet, Ausblick zählt); weicher Dollar deckelt die Abwärtsseite."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 2,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": 5,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": 6,
       "cotExtrem": null,
       "treiber": "Leicht aufwärts: Renditevorsprung + Yen am Boden, aber Risk-off + Interventionsrisiko bremsen; Track schwach → klein."
     },

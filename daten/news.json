@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-30T12:47:55.756Z",
+  "stand": "2026-07-30T13:48:05.330Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,21 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: RBA sees inflation still above target – BNY",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-sees-inflation-still-above-target-bny-202607301243",
-      "datum": "2026-07-30T12:43:38.000Z"
+      "titel": "Canadian Dollar: BoC minutes flags two-sided economic risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-minutes-flags-two-sided-economic-risks-td-securities-202607301339",
+      "datum": "2026-07-30T13:39:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen gains the upper hand after US GDP miss, BoJ eyed",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-the-upper-hand-after-us-gdp-miss-boj-eyed-202607301329",
+      "datum": "2026-07-30T13:29:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Warsh rhetoric weakens policy credibility – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-rhetoric-weakens-policy-credibility-bbh-202607301329",
+      "datum": "2026-07-30T13:29:21.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US Q2 advance GDP +1.5% vs +2.1% expected",
-      "link": "https://investinglive.com/news/us-q2-advance-gdp-1-5-vs-2-1-expected/",
-      "datum": "2026-07-30T12:41:05.000Z"
+      "titel": "WH Advisor Hassett: Inflation is continuing to ease",
+      "link": "https://investinglive.com/news/wh-advisor-hassett-inflation-is-continuing-to-ease/",
+      "datum": "2026-07-30T13:28:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Fed holds rates and supports Dollar – HSBC",
+      "link": "https://www.fxstreet.com/news/federal-reserve-fed-holds-rates-and-supports-dollar-hsbc-202607301318",
+      "datum": "2026-07-30T13:18:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Turkish Lira: Bank stress heightens TRY vulnerability – Commerzbank",
+      "link": "https://www.fxstreet.com/news/turkish-lira-bank-stress-heightens-try-vulnerability-commerzbank-202607301306",
+      "datum": "2026-07-30T13:06:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US June PCE inflation 3.7% vs 3.7%% expected. Core 3.3% vs 3.3% expected",
+      "link": "https://investinglive.com/news/us-june-pce-inflation-3-7-vs-3-7-expected-core-3-3-vs-3-3-expected/",
+      "datum": "2026-07-30T13:04:41.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "US initial jobless claims 197K versus 200K expected",
       "link": "https://investinglive.com/news/us-initial-jobless-claims-xxk-versus-200k-expected/",
-      "datum": "2026-07-30T12:37:57.000Z"
+      "datum": "2026-07-30T12:53:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Rally against EUR and USD unlikely to last – TD Securities",
+      "link": "https://www.fxstreet.com/news/british-pound-rally-against-eur-and-usd-unlikely-to-last-td-securities-202607301253",
+      "datum": "2026-07-30T12:53:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Q2 advance GDP +1.5% vs +2.1% expected",
+      "link": "https://investinglive.com/news/us-q2-advance-gdp-1-5-vs-2-1-expected/",
+      "datum": "2026-07-30T12:50:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US PCE inflation data confirm steady disinflation",
+      "link": "https://www.fxstreet.com/news/us-pce-inflation-data-confirm-steady-disinflation-202607301250",
+      "datum": "2026-07-30T12:50:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: RBA sees inflation still above target – BNY",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-sees-inflation-still-above-target-bny-202607301243",
+      "datum": "2026-07-30T12:43:38.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -31,64 +85,22 @@
       "datum": "2026-07-30T12:35:16.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound steadies against Euro as BoE leaves interest rate unchanged",
-      "link": "https://www.fxstreet.com/news/british-pound-steadies-against-euro-as-boe-leaves-interest-rate-unchanged-202607301230",
-      "datum": "2026-07-30T12:30:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: September hike risk stays elevated – ABN AMRO",
-      "link": "https://www.fxstreet.com/news/federal-reserve-september-hike-risk-stays-elevated-abn-amro-202607301226",
-      "datum": "2026-07-30T12:26:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bailey speech: Encouraging CPI is below where we thought it would be",
-      "link": "https://www.fxstreet.com/news/bailey-speech-encouraging-cpi-is-below-where-we-thought-it-would-be-202607301222",
-      "datum": "2026-07-30T12:22:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bailey speech: Need to raise rates if Mideast conflict leads to 2nd round effects",
-      "link": "https://www.fxstreet.com/news/bailey-speech-need-to-raise-rates-if-mideast-conflict-leads-to-2nd-round-effects-202607301217",
-      "datum": "2026-07-30T12:17:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Hawkish hold tempers USD strength – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-hold-tempers-usd-strength-ing-202607301216",
-      "datum": "2026-07-30T12:16:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bailey speech: Ready to adjust our stance as evidence evolves",
-      "link": "https://www.fxstreet.com/news/bailey-speech-ready-to-adjust-our-stance-as-evidence-evolves-202607301210",
-      "datum": "2026-07-30T12:10:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Germany annual CPI inflation climbs to 2.8% in July vs. 2.7% expected",
-      "link": "https://www.fxstreet.com/news/germany-annual-cpi-inflation-climbs-to-28-in-july-vs-27-expected-202607301208",
-      "datum": "2026-07-30T12:08:28.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Germany July preliminary CPI +2.8% vs +2.7% y/y expected",
       "link": "https://investinglive.com/news/germany-july-preliminary-cpi-xx-vs-2-7-y-y-expected/",
       "datum": "2026-07-30T12:05:27.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Gold: Central bank demand seen easing after Q2 rebound – BNY",
-      "link": "https://www.fxstreet.com/news/gold-central-bank-demand-seen-easing-after-q2-rebound-bny-202607301155",
-      "datum": "2026-07-30T11:55:17.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Dollar extends post-Fed drop, BOE keeps bank rate unchanged",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-extends-post-fed-drop-boe-keeps-bank-rate-unchanged/",
       "datum": "2026-07-30T11:54:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold trades sideways as US GDP disappoints, core PCE cools",
+      "link": "https://www.fxstreet.com/news/gold-caught-between-softer-us-dollar-and-rising-treasury-yields-us-pce-awaited-202607301120",
+      "datum": "2026-07-30T11:20:05.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Eurozone Q2 preliminary GDP +0.4% vs +0.2% q/q expected",
       "link": "https://investinglive.com/news/eurozone-q2-preliminary-gdp-xx-vs-0-2-q-q-expected/",
       "datum": "2026-07-30T09:05:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoE Press Conference: Governor Bailey speaks on interest rate outlook after July policy hold",
-      "link": "https://www.fxstreet.com/news/boe-interest-rate-expected-to-remain-unchanged-at-375-as-markets-look-for-policy-clues-202607300900",
-      "datum": "2026-07-30T09:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: US GDP expands 1.5% in Q2 vs 2.1% expected",
-      "link": "https://www.fxstreet.com/news/us-gdp-expected-to-grow-at-21-in-q2-unshaken-by-iran-conflict-202607300830",
-      "datum": "2026-07-30T08:30:00.000Z"
     }
   ]
 }

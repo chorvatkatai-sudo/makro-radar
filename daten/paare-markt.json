@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-30T08:10:46.570Z",
+  "stand": "2026-07-30T10:59:38.289Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -1,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -8,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": -7,
       "cotExtrem": "erhoeht",
       "treiber": "Leicht abwärts: Risk-off belastet den Kiwi; extreme Short-Positionierung (Squeeze-Risiko) hält es nah an neutral."
     }

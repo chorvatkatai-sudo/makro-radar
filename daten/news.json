@@ -1,11 +1,53 @@
 {
-  "stand": "2026-07-30T15:05:11.615Z",
+  "stand": "2026-07-30T17:17:46.207Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Dallas Fed Trimmed Mean +1.4% vs +2.7% in May",
+      "link": "https://investinglive.com/news/dallas-fed-trimmed-mean-1-4-vs-2-7-in-may/",
+      "datum": "2026-07-30T16:16:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NASDAQ 100 rallies on one earnings report, while Dow Jones Industrial Average barely moves",
+      "link": "https://www.fxstreet.com/news/the-nasdaq-100-rallies-on-one-earnings-report-while-the-dow-jones-industrial-average-barely-moves-202607301604",
+      "datum": "2026-07-30T16:04:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index slumps as suspected Japanese intervention rattles markets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-slumps-as-suspected-japanese-intervention-rattles-markets-202607301554",
+      "datum": "2026-07-30T15:54:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysia: Balanced macro profile supports Ringgit – MUFG",
+      "link": "https://www.fxstreet.com/news/malaysia-balanced-macro-profile-supports-ringgit-mufg-202607301551",
+      "datum": "2026-07-30T15:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound surges on BoE hawkish hold, Yen intervention crushes USD",
+      "link": "https://www.fxstreet.com/news/british-pound-surges-on-boe-hawkish-hold-yen-intervention-crushes-usd-202607301550",
+      "datum": "2026-07-30T15:50:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro rises as Eurozone growth outpaces forecasts",
+      "link": "https://www.fxstreet.com/news/euro-rises-as-eurozone-growth-outpaces-forecasts-202607301547",
+      "datum": "2026-07-30T15:47:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar tumbles against Japanese Yen on suspected intervention",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-against-japanese-yen-on-suspected-intervention-202607301512",
+      "datum": "2026-07-30T15:12:51.000Z"
+    },
     {
       "quelle": "Fed",
       "titel": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
@@ -55,42 +97,6 @@
       "datum": "2026-07-30T14:33:20.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Gold: FOMC repricing caps CTA upside – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-fomc-repricing-caps-cta-upside-td-securities-202607301419",
-      "datum": "2026-07-30T14:19:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen surges on suspected intervention, EUR/JPY tumbles 400 pips in minutes",
-      "link": "https://www.fxstreet.com/news/japanese-yen-surges-on-suspected-intervention-eur-jpy-tumbles-400-pips-in-minutes-202607301415",
-      "datum": "2026-07-30T14:15:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Eurozone: Strategic push reshapes dependencies – Rabobank",
-      "link": "https://www.fxstreet.com/news/eurozone-strategic-push-reshapes-dependencies-rabobank-202607301406",
-      "datum": "2026-07-30T14:06:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro climbs to six-week high as suspected Japanese intervention pressures Greenback",
-      "link": "https://www.fxstreet.com/news/euro-climbs-to-six-week-high-as-suspected-japanese-intervention-pressures-greenback-202607301404",
-      "datum": "2026-07-30T14:04:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Germany: War-driven energy shock shapes outlook – Commerzbank",
-      "link": "https://www.fxstreet.com/news/germany-war-driven-energy-shock-shapes-outlook-commerzbank-202607301356",
-      "datum": "2026-07-30T13:56:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: Japanese Yen surges on suspected intervention, USD/JPY plunges below 160.00",
-      "link": "https://www.fxstreet.com/news/breaking-japanese-yen-surges-on-suspected-intervention-usd-jpy-plunges-below-16100-202607301350",
-      "datum": "2026-07-30T13:50:01.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "WH Advisor Hassett: Inflation is continuing to ease",
       "link": "https://investinglive.com/news/wh-advisor-hassett-inflation-is-continuing-to-ease/",
@@ -107,12 +113,6 @@
       "titel": "US initial jobless claims 197K versus 200K expected",
       "link": "https://investinglive.com/news/us-initial-jobless-claims-xxk-versus-200k-expected/",
       "datum": "2026-07-30T12:53:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US Q2 advance GDP +1.5% vs +2.1% expected",
-      "link": "https://investinglive.com/news/us-q2-advance-gdp-1-5-vs-2-1-expected/",
-      "datum": "2026-07-30T12:50:47.000Z"
     }
   ]
 }

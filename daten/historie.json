@@ -6218,8 +6218,8 @@
       "impact": "High",
       "prognose": "0.2%",
       "vorher": "0.3%",
-      "actual": null,
-      "notiz": null
+      "actual": "0.1%",
+      "notiz": "auto:FRED PCEPILFE (Ref 2026-06-01)"
     },
     "2026-07-30T08:30:00-04:00|USD|Advance GDP Price Index q/q": {
       "datum": "2026-07-30T08:30:00-04:00",

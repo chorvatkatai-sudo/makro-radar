@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-30T05:05:51.232Z",
+  "stand": "2026-07-30T05:06:32.449Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -4,
-      "tiltZins": 1,
-      "tiltGesamt": -3,
-      "score": -5,
+      "tiltZins": 0,
+      "tiltGesamt": -4,
+      "score": -6,
       "cotExtrem": null,
       "treiber": "Leicht abwärts vor der BoE (Halten erwartet, Ausblick zählt); weicher Dollar deckelt die Abwärtsseite."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -3,
       "tiltCot": -3,
-      "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -8,
+      "tiltZins": -5,
+      "tiltGesamt": -8,
+      "score": -11,
       "cotExtrem": null,
       "treiber": "Abwärts: kühlere Q2-Inflation + Aktien-Risk-off belasten den Aussie stärker als der weiche Dollar hilft."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": 1,
       "tiltCot": 5,
-      "tiltZins": 3,
-      "tiltGesamt": 8,
-      "score": 9,
+      "tiltZins": 2,
+      "tiltGesamt": 7,
+      "score": 8,
       "cotExtrem": "erhoeht",
       "treiber": "Knapp aufwärts, aber gebremst: Öl kam zurück (stützt CAD), Großspekulanten extrem short. Track mies → nah an neutral."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": 1,
       "tiltCot": 5,
-      "tiltZins": 2,
-      "tiltGesamt": 7,
-      "score": 8,
+      "tiltZins": 4,
+      "tiltGesamt": 9,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Knapp aufwärts: Renditevorsprung, aber der Franken bekommt im Risk-off Hafen-Nachfrage."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -1,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -6,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -8,
       "cotExtrem": "erhoeht",
       "treiber": "Leicht abwärts: Risk-off belastet den Kiwi; extreme Short-Positionierung (Squeeze-Risiko) hält es nah an neutral."
     }

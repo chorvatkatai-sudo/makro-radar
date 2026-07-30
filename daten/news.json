@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-29T19:01:36.068Z",
+  "stand": "2026-07-30T05:06:32.448Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,112 +7,112 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar rebounds after Fed hold",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-after-fed-hold-202607291844",
-      "datum": "2026-07-29T18:44:08.000Z"
+      "quelle": "ForexLive",
+      "titel": "Plenty on the data docket in Europe today to keep things busy",
+      "link": "https://investinglive.com/news/plenty-on-the-data-docket-in-europe-today-to-keep-things-busy/",
+      "datum": "2026-07-30T04:57:21.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen gains after hawkish Fed hold",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-after-hawkish-fed-hold-202607291841",
-      "datum": "2026-07-29T18:41:47.000Z"
+      "titel": "Australian Dollar weakens against Japanese Yen as chances of RBA rate hikes fall",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-against-japanese-yen-as-chances-of-rba-rate-hikes-fall-202607300445",
+      "datum": "2026-07-30T04:45:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar trims losses after Fed holds",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trims-losses-after-fed-holds-202607291833",
-      "datum": "2026-07-29T18:33:03.000Z"
+      "titel": "Swiss Franc erodes part of Wednesday's gains to one-week top amid reviving USD demand",
+      "link": "https://www.fxstreet.com/news/swiss-franc-erodes-part-of-wednesdays-gains-to-one-week-top-amid-reviving-usd-demand-202607300436",
+      "datum": "2026-07-30T04:36:21.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro rises despite Fed hawkish hold, eyes on Warsh’s speech",
-      "link": "https://www.fxstreet.com/news/euro-rises-despite-fed-hawkish-hold-eyes-on-warshs-speech-202607291814",
-      "datum": "2026-07-29T18:14:41.000Z"
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607300435",
+      "datum": "2026-07-30T04:35:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average finds a bid in the thing the Fed did not do",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-finds-a-bid-in-the-thing-the-fed-did-not-do-202607291810",
-      "datum": "2026-07-29T18:10:41.000Z"
+      "titel": "EUR/JPY Price Forecast: Trades near 187.00 after pulling back from ascending channel top",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-18700-after-pulling-back-from-ascending-channel-top-202607300401",
+      "datum": "2026-07-30T04:01:54.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound Sterling collects a refund on the Fed hike that never came",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-collects-a-refund-on-the-fed-hike-that-never-came-202607291809",
-      "datum": "2026-07-29T18:09:16.000Z"
+      "titel": "Silver Price Forecast: XAG/USD remains below $58.00 amid Fed hawkish pause",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-below-5800-amid-fed-hawkish-pause-202607300355",
+      "datum": "2026-07-30T03:55:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold surges after Fed holds as hawkish dissent fuels volatility",
-      "link": "https://www.fxstreet.com/news/gold-surges-after-fed-holds-as-hawkish-dissent-fuels-volatility-202607291809",
-      "datum": "2026-07-29T18:09:11.000Z"
+      "titel": "AUD/USD Price Forecast: Struggles near 0.6950 as bears retain control below 100-EMA on H4",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-struggles-near-06950-as-bears-retain-control-below-100-ema-on-h4-202607300350",
+      "datum": "2026-07-30T03:50:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The US Dollar Index sells the hold and ignores the hawks",
-      "link": "https://www.fxstreet.com/news/the-us-dollar-index-sells-the-hold-and-ignores-the-hawks-202607291808",
-      "datum": "2026-07-29T18:08:51.000Z"
+      "titel": "$4,100: Gold fails near a key hurdle as Mideast tensions and Fed hike bets support USD",
+      "link": "https://www.fxstreet.com/news/4-100-gold-fails-near-a-key-hurdle-as-mideast-tensions-and-fed-hike-bets-support-usd-202607300340",
+      "datum": "2026-07-30T03:40:35.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Canadian Dollar takes its bid from Washington as usual",
-      "link": "https://www.fxstreet.com/news/the-canadian-dollar-takes-its-bid-from-washington-as-usual-202607291808",
-      "datum": "2026-07-29T18:08:24.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-      "datum": "2026-07-29T18:00:00.000Z"
+      "titel": "United States Dollar Index regains ground on further escalation in Middle East war",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-regains-ground-on-further-escalation-in-middle-east-war-202607300318",
+      "datum": "2026-07-30T03:18:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Mexican Peso tumbles as Gulf War escalation weighs on mood, Fed eyed",
-      "link": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-gulf-war-escalation-weighs-on-mood-fed-eyed-202607291747",
-      "datum": "2026-07-29T17:47:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Bank of Canada shows its work, while the Canadian Dollar reads Washington",
-      "link": "https://www.fxstreet.com/news/the-bank-of-canada-shows-its-work-while-the-canadian-dollar-reads-washington-202607291744",
-      "datum": "2026-07-29T17:44:19.000Z"
+      "titel": "Japanese Yen softens after Fed leaves rates on hold",
+      "link": "https://www.fxstreet.com/news/japanese-yen-softens-after-fed-leaves-rates-on-hold-202607300232",
+      "datum": "2026-07-30T02:32:22.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Report: U.S. preparing for a larger response to Iran",
-      "link": "https://investinglive.com/news/report-u-s-preparing-for-a-larger-response-to-iran/",
-      "datum": "2026-07-29T17:37:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "WH Economic Advisor Hassett: Pres Trump has hard regard for Kevin Warsh.",
-      "link": "https://investinglive.com/news/wh-economic-advisor-hassett-pres-trump-has-hard-regard-for-kevin-warsh/",
-      "datum": "2026-07-29T17:14:57.000Z"
+      "titel": "US says it successfully completed a 'heavy wave' of attacks on Iran",
+      "link": "https://investinglive.com/news/us-says-it-successfully-completed-a-heavy-wave-of-attacks-on-iran/",
+      "datum": "2026-07-30T02:22:49.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed's Warsh: We will deliver the 2% target",
-      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
-      "datum": "2026-07-29T14:00:00.000Z"
+      "titel": "US resumes strikes against Iran, targeting Qeshm Island",
+      "link": "https://www.fxstreet.com/news/us-resumes-strikes-against-iran-targeting-qeshm-island-202607300219",
+      "datum": "2026-07-30T02:19:08.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Trump: We'll be hitting Iran hard. Strikes in reaction to attacks on US in Jordan",
-      "link": "https://investinglive.com/news/trump-we-ll-be-hitting-iran-hard-strikes-in-reaction-to-attacks-on-us-in-jordan/",
-      "datum": "2026-07-29T13:08:00.000Z"
+      "titel": "Russia attacks western Ukraine with cruise missiles. Polish defenses activated",
+      "link": "https://investinglive.com/news/russia-attacks-western-ukraine-with-cruise-missiles-polish-defenses-activated/",
+      "datum": "2026-07-30T02:16:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japan’s Katayama says official proposed no ceiling on next year’s budget requests",
+      "link": "https://www.fxstreet.com/news/japans-katayama-says-official-proposed-no-ceiling-on-next-years-budget-requests-202607300206",
+      "datum": "2026-07-30T02:06:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar rises as ANZ Business Outlook Index jumps in July",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-anz-business-outlook-index-jumps-in-july-202607300155",
+      "datum": "2026-07-30T01:55:07.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil climbs again as Iran rejects Oman proposal on Strait of Hormuz, FOMC meeting eyed next",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-climbs-again-as-iran-rejects-oman-proposal-on-strait-of-hormuz-fomc-meeting-eyed-next/",
-      "datum": "2026-07-29T11:33:26.000Z"
+      "titel": "US confirms that it launched strikes against Iran",
+      "link": "https://investinglive.com/news/us-confirms-that-it-launched-strikes-against-iran/",
+      "datum": "2026-07-30T00:29:48.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Yemen's Houthis are considering fees for ships sailing through the Red Sea - Reuters",
-      "link": "https://investinglive.com/news/yemen-s-houthis-are-considering-fees-for-ships-sailing-through-the-red-sea-reuters/",
-      "datum": "2026-07-29T10:45:19.000Z"
+      "titel": "Trump is weighing another two-week campaign of strikes against Iran",
+      "link": "https://investinglive.com/news/trump-is-weighing-another-two-week-campaign-of-strikes-against-iran/",
+      "datum": "2026-07-29T22:39:29.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 29 Jul: Fed Stands Pat, Markets Lose Ground Subtitle:",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-29-jul-fed-stands-pat-markets-lose-ground-subtitle/",
+      "datum": "2026-07-29T21:11:36.000Z"
     }
   ]
 }

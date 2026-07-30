@@ -49,6 +49,8 @@
     "2026-07-22T21:30:00-04:00|AUD|Employment Change",
     "2026-07-22T21:30:00-04:00|AUD|Unemployment Rate",
     "2026-07-23T08:15:00-04:00|EUR|Main Refinancing Rate",
-    "2026-07-29T14:00:00-04:00|USD|Federal Funds Rate"
+    "2026-07-29T14:00:00-04:00|USD|Federal Funds Rate",
+    "2026-07-30T07:00:00-04:00|GBP|MPC Official Bank Rate Votes",
+    "2026-07-30T07:00:00-04:00|GBP|Official Bank Rate"
   ]
 }

@@ -6188,8 +6188,8 @@
       "impact": "High",
       "prognose": "2-0-7",
       "vorher": "2-0-7",
-      "actual": null,
-      "notiz": null
+      "actual": "3.75%",
+      "notiz": "auto:TV rate (2026-07-30)"
     },
     "2026-07-30T07:00:00-04:00|GBP|Official Bank Rate": {
       "datum": "2026-07-30T07:00:00-04:00",
@@ -6198,8 +6198,8 @@
       "impact": "High",
       "prognose": "3.75%",
       "vorher": "3.75%",
-      "actual": null,
-      "notiz": null
+      "actual": "3.75%",
+      "notiz": "auto:TV rate (2026-07-30)"
     },
     "2026-07-30T08:30:00-04:00|USD|Advance GDP q/q": {
       "datum": "2026-07-30T08:30:00-04:00",
@@ -6578,6 +6578,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "3.63|1.7",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T08:00:00-04:00|GBP|BOE Gov Bailey Speaks": {
+      "datum": "2026-07-30T08:00:00-04:00",
+      "land": "GBP",
+      "titel": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

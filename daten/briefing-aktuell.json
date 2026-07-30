@@ -14,80 +14,80 @@
   "waehrungen": {
     "USD": {
       "stimmung": "neutral",
-      "score": 4,
-      "grund": "Fest vor der Fed HEUTE Abend (20:00 Wien): DXY ~101,4, US-Renditen hoch (10J ~4,60 %), Realzins ~2,4 %, und der US-Zinsvorsprung (2J) legte diese Woche am stärksten zu (+0,09). Dämpfer: Verbrauchervertrauen (90,8) und Auftragseingänge (+0,3 %) enttäuschten gestern beide. Neutral-fest, alles hängt am Fed-Ton (Warsh)."
+      "score": 2,
+      "grund": "Fed hielt (9:3, drei falkenhafte Dissenten), ABER der Dollar gab nach (DXY ~100,9, −0,5 %): Zweifel an einer September-Erhöhung. Gegengewicht: US-Renditen sprangen (30J höchster Stand seit 2007). Heute Kern-PCE (14:30) = der Schiedsrichter — bewusst nah an neutral."
     },
     "EUR": {
       "stimmung": "bärisch",
       "score": -3,
-      "grund": "Leicht negativ, aber entspannter: Der Euro-Raum ist Öl-IMPORTEUR und profitiert jetzt vom billigeren Öl; EUR/USD hält sich zäh über 1,14. Gegenpol: falkenhafte EZB-Töne (September-Tür offen) helfen zusätzlich, aber die Euro-Inflation (Fr) und die Fed stehen erst noch an. Netto nur noch knapp bärisch."
+      "grund": "Heute Euro-BIP Q2 (11:00): nur +0,1 % erwartet (knapp an Rezession vorbei). Öl bounct zurück → Öl-Importeur-Vorteil verpufft. EUR/USD-Track mies (17 %) → nah an neutral."
     },
     "GBP": {
       "stimmung": "neutral",
-      "score": -2,
-      "grund": "Fast neutral: Billigeres Öl entlastet auch UK, die kühle Inflation (2,6 %) und schrumpfende PMIs drücken aber. Gegenpol: BoE (Do) klang zuletzt falkenhaft, und die Großspekulanten sind stark short (z −1,48) → Rückschlag-Gefahr nach oben (Short-Squeeze)."
+      "score": -1,
+      "grund": "Heute BoE (13:00): Halten 3,75 % erwartet, der AUSBLICK zählt (Öl-Aufflammen macht die UK-Inflations-Prognose unsicher). GBP/USD-Track ordentlich (50 %)."
     },
     "JPY": {
       "stimmung": "neutral",
-      "score": -2,
-      "grund": "Fast neutral: Das zurückkehrende Risk-off (VIX ~18,2, +7 % Woche) gibt dem Yen als Fluchtwährung wieder etwas Hafen-Bid, und billigeres Öl hilft Japan (Importeur). USD/JPY ~162 (Interventions-Zone), BoJ Fr voraussichtlich Halten mit Erhöhungs-Signal. Bewusst demütig: mein USD/JPY-Track-Record ist mies (2/6)."
+      "score": -1,
+      "grund": "Aktien-Absturz (Dow −1.100) bringt etwas Hafen-Nachfrage, aber der Carry (Yen am Boden ~162, Interventionszone) dominiert. BoJ MORGEN. USD/JPY-Track schwach (33 %) → demütig."
     },
     "CHF": {
       "stimmung": "neutral",
-      "score": -2,
-      "grund": "Leicht negativ: Im Risk-on (VIX beruhigt) verliert der sichere Hafen etwas Rückenwind, dafür entlastet billigeres Öl die Schweiz (Importeur). Die SNB verzinst mit 0 % nichts. Unterm Strich fast neutral."
+      "score": 1,
+      "grund": "Der Aktien-Absturz + zurückkehrendes Risk-off (Dow −1.100) geben dem sicheren Hafen Franken etwas Rückenwind."
     },
     "CAD": {
-      "stimmung": "bärisch",
-      "score": -3,
-      "grund": "Öl war Kanadas Trumpf — und ist diese Woche voll eingebrochen (WTI ~79 $, −9 % Woche). Damit ist der Loonie-Rückenwind weg. Gegenpol/Boden: die BoC klang zuletzt falkenhaft und die Großspekulanten sind extrem short (z −1,81) → Squeeze-Risiko federt den Rücksetzer ab. Deshalb leicht bärisch, aber bewusst nahe null (USD/CAD-Track-Record ist mies, 1/6)."
+      "stimmung": "neutral",
+      "score": 0,
+      "grund": "Öl kam zurück (WTI ~85 $, Nahost-Eskalation) → der bärische Öl-Einbruch der Vorwoche ist teils gedreht. ABER Großspekulanten extrem short (−48 %, Squeeze-Gefahr), USD/CAD-Track mies (17 %) → neutral."
     },
     "AUD": {
       "stimmung": "neutral",
-      "score": 2,
-      "grund": "Von bullisch auf neutral getrimmt: Australiens Q2-Inflation kam HEUTE früh KÜHLER als erwartet (Kern-Maß 'Trimmed Mean' 0,8 % zum Vorquartal / 3,6 % Jahr, beides unter Prognose) → weniger Druck auf die RBA, hart zu bleiben. Dazu drückt das Risk-off (VIX rauf) die Rohstoff-Währung. Boden: starker Arbeitsmarkt (+24,5k) + höchster 2J-Zins im Feld (4,60 %)."
+      "score": -2,
+      "grund": "Kühlere Q2-Inflation (Trimmed 3,6 %) + Aktien-Risk-off drücken; die RBA kann etwas lockerer bleiben."
     },
     "NZD": {
       "stimmung": "neutral",
-      "score": 2,
-      "grund": "Knapp positiv: Risk-on + heiße NZ-Inflation (+1,5 % Q) stützen, und die Großspekulanten sind EXTREM short (z −2,37, −53 % — größtes Extrem im Feld) → Squeeze-Zünder nach oben. Aber der Kiwi war zuletzt einer der schwächsten Majors und der Track-Record ist dünn (1/5) → nur zaghaft positiv."
+      "score": 1,
+      "grund": "Risk-off belastet, ABER Großspekulanten extrem short (Squeeze-Zünder). NZD/USD-Track schwach (20 %) → nah an neutral."
     }
   },
   "paare": [
     {
       "paar": "EUR/USD",
-      "score": -3,
-      "treiber": "Knapp abwärts: Der vor der Fed feste Dollar (Zinsvorsprung wächst) drückt den zähen Euro (~1,14). Gegenpol: Euro-Inflation Fr + Fed HEUTE stehen noch an. Maßvoll wegen schwachem EUR/USD-Track-Record (1/6)."
+      "score": -2,
+      "treiber": "Leicht abwärts: schwaches Euro-BIP (+0,1 %) vs. weicher, aber renditegestützter Dollar. Track mies → nah an neutral."
     },
     {
       "paar": "GBP/USD",
-      "score": -3,
-      "treiber": "Leicht abwärts: kühle UK-Inflation + schrumpfende PMIs gegen den Dollar. Gegenpol: falkige BoE (Do) + crowded GBP-Shorts (Squeeze-Gefahr) bremsen die Abwärtswette."
+      "score": -2,
+      "treiber": "Leicht abwärts vor der BoE (Halten erwartet, Ausblick zählt); weicher Dollar deckelt die Abwärtsseite."
     },
     {
       "paar": "USD/JPY",
-      "score": 3,
-      "treiber": "Aufwärts, aber stark gebremst: Fester Dollar + Zinsvorsprung gegen den Yen, doch das Risk-off gibt dem Yen wieder etwas Hafen-Bid und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
+      "score": 2,
+      "treiber": "Leicht aufwärts: Renditevorsprung + Yen am Boden, aber Risk-off + Interventionsrisiko bremsen; Track schwach → klein."
     },
     {
       "paar": "AUD/USD",
-      "score": -1,
-      "treiber": "Auf leicht abwärts gedreht: Australiens kühlere Q2-Inflation (heute früh) nimmt der RBA Härte, dazu drückt Risk-off die Rohstoff-Währung — gegen den vor der Fed festen Dollar. Boden: starke Jobs + höchster 2J-Zins im Feld. Nahe null (Track 3/6)."
+      "score": -3,
+      "treiber": "Abwärts: kühlere Q2-Inflation + Aktien-Risk-off belasten den Aussie stärker als der weiche Dollar hilft."
     },
     {
       "paar": "USD/CAD",
-      "score": 4,
-      "treiber": "Leicht aufwärts: Der Öl-Einbruch (WTI ~79 $, −9 % Woche) nimmt dem Loonie seinen Trumpf, der feste Dollar zieht zusätzlich → USD/CAD tendiert höher. Gegenpol/Zurückhaltung: extrem short positionierte Loonie-Wetten (Squeeze) + falkige BoC federn ab. USD/CAD-Record mies (1/6) → nahe null."
+      "score": 1,
+      "treiber": "Knapp aufwärts, aber gebremst: Öl kam zurück (stützt CAD), Großspekulanten extrem short. Track mies → nah an neutral."
     },
     {
       "paar": "USD/CHF",
-      "score": 3,
-      "treiber": "Aufwärts, aber getrimmt: Der Dollar-Vorsprung zieht das Paar leicht hoch; im Risk-off bekommt der Franken aber wieder etwas Hafen-Bid und billigeres Öl stützt die Schweiz gegen. Moderat positiv."
+      "score": 1,
+      "treiber": "Knapp aufwärts: Renditevorsprung, aber der Franken bekommt im Risk-off Hafen-Nachfrage."
     },
     {
       "paar": "NZD/USD",
-      "score": -2,
-      "treiber": "Leicht abwärts: fester Dollar vor der Fed + Risk-off (VIX rauf) drücken die Rohstoff-Währung, der Kiwi war zuletzt ohnehin schwach. Die EXTREM short positionierten Kiwi-Wetten (z −2,37) sind ein Pulverfass in beide Richtungen → nur zaghaft negativ (Track 1/5)."
+      "score": -1,
+      "treiber": "Leicht abwärts: Risk-off belastet den Kiwi; extreme Short-Positionierung (Squeeze-Risiko) hält es nah an neutral."
     }
   ],
   "wochenausblick": {
@@ -205,18 +205,21 @@
     "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Drei Short-Extreme bei den Großspekulanten — NZD (z −2,37, −53 %!), CAD (z −1,86) und GBP (z −1,48). Alle sind gegen den Dollar short. Solche Extreme sind Pulverfässer: Bei einem falkenhaften BoE/BoJ oder Öl-Rücksetzer kann ein heftiger Short-Squeeze diese Währungen nach oben schießen lassen. Deshalb NZD bewusst neutral, USD/CAD-Abwärtswette gedämpft."
   ],
   "tagesnews": {
-    "stand": "2026-07-29",
-    "wochentag": "Mittwoch",
-    "tenor": "FED-TAG: Heute Abend 20:00 Wien entscheidet die Fed (Pressekonferenz Warsh 20:30). Basisfall ist ein Halten bei 3,50–3,75 % (5. Mal in Folge, ~65 %) — aber rund ein Drittel des Marktes wettet auf eine ZINS-ERHÖHUNG, also ein echtes Wackel-Event. Bewegen wird vor allem der TON. Australiens Inflation kam heute früh KÜHLER → Aussie gedämpft. Öl bleibt am Boden (WTI ~79 $). Dollar fest vor der Entscheidung (DXY ~101,4).",
+    "stand": "2026-07-30",
+    "wochentag": "Donnerstag",
+    "tenor": "NACH DER FED: Die Fed hat gestern Abend wie erwartet gehalten (3,50–3,75 %, 9:3 — drei Regionalpräsidenten wollten SOFORT erhöhen). Trotz dieser falkenhaften Töne GAB DER DOLLAR NACH (DXY ~100,9, −0,5 %): der Markt zweifelt, ob im September wirklich genug für eine Erhöhung stimmen. US-Renditen sprangen dagegen (30-jährige auf höchstem Stand seit 2007), die Wall Street stürzte ab (Dow −1.100). HEUTE Mega-Datentag: Fed-Lieblings-Inflation (Kern-PCE) + US-BIP am Nachmittag, dazu BoE und Euro-BIP.",
     "heute": [
-      "🇺🇸 HEUTE 20:00 Wien: Fed-Zinsentscheid + Warsh-Pressekonferenz (20:30). Erwartet: Halten bei 3,50–3,75 % (~65 %), Erhöhung ~35 % — also ein echter Wackel. Kinderleicht: Die Fed legt den US-Leitzins fest. Betont Warsh die Inflations-Gefahr = 'falkenhaft' → Dollar rauf, Gold runter. Beschwichtigt er → Dollar-Delle. Der Ton zählt mehr als die Zahl.",
-      "🇦🇺 Heute früh: Australiens Inflation Q2 kam KÜHLER als erwartet — Gesamt +0,6 % zum Vorquartal (statt +0,7 %, Jahr 4,0 %), Kern-Maß 'Trimmed Mean' 0,8 % (statt 0,9 %) bzw. 3,6 % im Jahr. Kinderleicht: Die Preise steigen langsamer als gedacht → die australische Notenbank muss weniger hart bleiben → Aussie-Dollar leicht schwächer (AUD von bullisch auf neutral getrimmt).",
-      "🛢️ Öl bleibt am Boden nach dem Wochen-Absturz: WTI ~79 $ (−9 % Woche), Brent ~84 $. Kinderleicht: Die Iran-Waffenruhe hält, die Kriegs-Prämie ist raus → billiges Öl dämpft die Inflations-Angst, aber Öl-Länder wie Kanada haben ihren Rückenwind ganz verloren (CAD leicht bärisch)."
+      "🇺🇸 HEUTE 14:30 Wien: US-Kern-PCE (Juni) — die LIEBLINGS-Inflation der Fed (erwartet +0,2 % zum Vormonat / 3,3 % im Jahr, von 3,4 %). Kinderleicht: Das ist das Maß, auf das die Fed am meisten schaut. Kommt es HEISS → die falkenhaften Fed-Dissenten bekommen recht, Dollar rauf. Kommt es kühl (wie zuletzt CPI) → die September-Erhöhungs-Wette bröckelt weiter, Dollar-Delle. Gleichzeitig US-BIP Q2 (erwartet ~2,3 % aufs Jahr hochgerechnet).",
+      "🇬🇧 HEUTE 13:00 Wien: Bank of England — Halten bei 3,75 % erwartet. Kinderleicht: Kein Zins-Schritt, aber der AUSBLICK zählt: Das wieder aufflammende Öl (Nahost) macht die britische Inflations-Prognose unsicher. Falkenhafter Ton → Pfund fester.",
+      "🇪🇺 HEUTE 11:00 Wien: Euro-BIP Q2 Schnellschätzung — nur +0,1 % zum Vorquartal erwartet (haarscharf an einer Rezession vorbei) + Deutschland-BIP. Kinderleicht: Die Euro-Wirtschaft tritt fast auf der Stelle → schwacher Rückenwind für den Euro; die wichtigste Zahl vor der EZB-Sitzung im September.",
+      "🇯🇵 MORGEN Fr: Bank of Japan (Halten bei 1,00 % erwartet, Yen-Squeeze-Risiko) + Euro-Inflation Flash. Damit endet die Notenbank-Superwoche."
     ],
     "gestern": [
-      "🇺🇸 US-Verbrauchervertrauen (Juli) FIEL auf 90,8 (erwartet 92,4, dritter Rückgang in Folge bei der Lagebeurteilung). Kinderleicht: Die Amerikaner sind pessimistischer bei Jobs und Geschäftslage → ein Warnsignal für den Konsum (2/3 der US-Wirtschaft), leicht dollar-dämpfend.",
-      "🇺🇸 US-Auftragseingänge langlebiger Güter (Juni) enttäuschten: nur +0,3 % (Kern +0,6 %), deutlich unter Erwartung. Kinderleicht: US-Firmen bestellen weniger teure Maschinen/Flugzeuge als erhofft = die Industrie schwächelt. Auch leicht dollar-dämpfend — aber von der Fed-Erwartung überlagert.",
-      "🗓️ Kern-Lage: Dollar-Index fest ~101,4, Angst-Barometer VIX wieder erhöht (~18,2, +7 % Woche = Risk-off kehrt zurück), Gold ~4.020 $, US-Zinsvorsprung (2J) legte diese Woche am stärksten zu. Die restliche Woche: 🇺🇸 Fed heute, 🇬🇧 BoE + US-BIP + Fed-Lieblings-Inflation (Kern-PCE) Do, 🇯🇵 BoJ + Euro-Inflation Fr."
+      "🇺🇸 FED HIELT bei 3,50–3,75 % (5. Mal in Folge) — aber mit 9:3-Stimmen: Drei Regionalpräsidenten (Cleveland, Minneapolis, Dallas) wollten SOFORT erhöhen. Warsh (kürzeres Statement, harter Ton): „Ich wollte einen guten Familienstreit — und ich habe ihn bekommen.\" Kinderleicht: Die Fed lässt den Leitzins gleich, aber ein ungewöhnlich großer Teil drängt auf höhere Zinsen = falkenhaft.",
+      "💵 DOLLAR GAB TROTZDEM NACH (DXY von ~101,4 auf ~100,9, −0,5 %): Weil die Fed eben NICHT erhöht hat, zweifelt der Markt jetzt, ob im September genug Stimmen für eine Erhöhung zusammenkommen. Kinderleicht: Ein bisschen Enttäuschung — die Falken haben geredet, aber nicht gehandelt → Dollar leicht runter.",
+      "📉 US-Renditen sprangen dagegen NACH OBEN (30-jährige auf höchstem Stand seit 2007), die Aktien stürzten ab: Dow Jones −1.100 Punkte = schlechtester Tag seit über einem Jahr. Kinderleicht: Höhere Zinsen + Angst an der Börse = Risk-off. Das stützt sichere Häfen (Franken, Gold ~4.150 $).",
+      "🛢️ Öl kam ZURÜCK (WTI von ~79 $ auf ~85 $, Brent ~91 $) — neue Nahost-Eskalation. Kinderleicht: Die Kriegs-Prämie ist teilweise zurück → Kanadas Öl-Rückenwind ist nicht mehr ganz weg (CAD von bärisch auf neutral).",
+      "🇦🇺 Australiens Inflation Q2 kam KÜHLER (Trimmed Mean 3,6 % im Jahr statt 3,7 %) → die RBA kann etwas lockerer bleiben, Aussie leicht gedämpft."
     ]
   }
 }

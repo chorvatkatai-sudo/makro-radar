@@ -1,77 +1,77 @@
 {
-  "stand": "2026-07-29T19:01:36.069Z",
+  "stand": "2026-07-30T05:05:51.232Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -3,
+      "baseScore": -2,
       "tiltCot": -1,
       "tiltZins": -2,
       "tiltGesamt": -3,
-      "score": -6,
+      "score": -5,
       "cotExtrem": "erhoeht",
-      "treiber": "Knapp abwärts: Der vor der Fed feste Dollar (Zinsvorsprung wächst) drückt den zähen Euro (~1,14). Gegenpol: Euro-Inflation Fr + Fed HEUTE stehen noch an. Maßvoll wegen schwachem EUR/USD-Track-Record (1/6)."
+      "treiber": "Leicht abwärts: schwaches Euro-BIP (+0,1 %) vs. weicher, aber renditegestützter Dollar. Track mies → nah an neutral."
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -3,
+      "baseScore": -2,
       "tiltCot": -4,
       "tiltZins": 1,
       "tiltGesamt": -3,
-      "score": -6,
+      "score": -5,
       "cotExtrem": null,
-      "treiber": "Leicht abwärts: kühle UK-Inflation + schrumpfende PMIs gegen den Dollar. Gegenpol: falkige BoE (Do) + crowded GBP-Shorts (Squeeze-Gefahr) bremsen die Abwärtswette."
+      "treiber": "Leicht abwärts vor der BoE (Halten erwartet, Ausblick zählt); weicher Dollar deckelt die Abwärtsseite."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 3,
+      "baseScore": 2,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
-      "score": 8,
+      "score": 7,
       "cotExtrem": null,
-      "treiber": "Aufwärts, aber stark gebremst: Fester Dollar + Zinsvorsprung gegen den Yen, doch das Risk-off gibt dem Yen wieder etwas Hafen-Bid und ~162 ist Interventions-Zone. Mein USD/JPY-Record ist der schlechteste (2/6) → bewusst nur moderat positiv."
+      "treiber": "Leicht aufwärts: Renditevorsprung + Yen am Boden, aber Risk-off + Interventionsrisiko bremsen; Track schwach → klein."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -1,
+      "baseScore": -3,
       "tiltCot": -3,
       "tiltZins": -2,
       "tiltGesamt": -5,
-      "score": -6,
+      "score": -8,
       "cotExtrem": null,
-      "treiber": "Auf leicht abwärts gedreht: Australiens kühlere Q2-Inflation (heute früh) nimmt der RBA Härte, dazu drückt Risk-off die Rohstoff-Währung — gegen den vor der Fed festen Dollar. Boden: starke Jobs + höchster 2J-Zins im Feld. Nahe null (Track 3/6)."
+      "treiber": "Abwärts: kühlere Q2-Inflation + Aktien-Risk-off belasten den Aussie stärker als der weiche Dollar hilft."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 4,
+      "baseScore": 1,
       "tiltCot": 5,
       "tiltZins": 3,
       "tiltGesamt": 8,
-      "score": 12,
+      "score": 9,
       "cotExtrem": "erhoeht",
-      "treiber": "Leicht aufwärts: Der Öl-Einbruch (WTI ~79 $, −9 % Woche) nimmt dem Loonie seinen Trumpf, der feste Dollar zieht zusätzlich → USD/CAD tendiert höher. Gegenpol/Zurückhaltung: extrem short positionierte Loonie-Wetten (Squeeze) + falkige BoC federn ab. USD/CAD-Record mies (1/6) → nahe null."
+      "treiber": "Knapp aufwärts, aber gebremst: Öl kam zurück (stützt CAD), Großspekulanten extrem short. Track mies → nah an neutral."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 3,
+      "baseScore": 1,
       "tiltCot": 5,
       "tiltZins": 2,
       "tiltGesamt": 7,
-      "score": 10,
+      "score": 8,
       "cotExtrem": null,
-      "treiber": "Aufwärts, aber getrimmt: Der Dollar-Vorsprung zieht das Paar leicht hoch; im Risk-off bekommt der Franken aber wieder etwas Hafen-Bid und billigeres Öl stützt die Schweiz gegen. Moderat positiv."
+      "treiber": "Knapp aufwärts: Renditevorsprung, aber der Franken bekommt im Risk-off Hafen-Nachfrage."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -2,
+      "baseScore": -1,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": -7,
+      "score": -6,
       "cotExtrem": "erhoeht",
-      "treiber": "Leicht abwärts: fester Dollar vor der Fed + Risk-off (VIX rauf) drücken die Rohstoff-Währung, der Kiwi war zuletzt ohnehin schwach. Die EXTREM short positionierten Kiwi-Wetten (z −2,37) sind ein Pulverfass in beide Richtungen → nur zaghaft negativ (Track 1/5)."
+      "treiber": "Leicht abwärts: Risk-off belastet den Kiwi; extreme Short-Positionierung (Squeeze-Risiko) hält es nah an neutral."
     }
   ]
 }

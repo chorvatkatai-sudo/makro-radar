@@ -6138,7 +6138,7 @@
       "impact": "Low",
       "prognose": "0.2%",
       "vorher": "0.1%",
-      "actual": null,
+      "actual": "0.4%",
       "notiz": null
     },
     "2026-07-30T05:00:00-04:00|EUR|Unemployment Rate": {
@@ -6208,7 +6208,7 @@
       "impact": "High",
       "prognose": "2.1%",
       "vorher": "2.0%",
-      "actual": null,
+      "actual": "1.5%",
       "notiz": null
     },
     "2026-07-30T08:30:00-04:00|USD|Core PCE Price Index m/m": {
@@ -6358,7 +6358,7 @@
       "impact": "High",
       "prognose": "<1.00%",
       "vorher": "<1.00%",
-      "actual": null,
+      "actual": "1.00%",
       "notiz": null
     },
     "2026-07-30T22:30:00-04:00|JPY|Monetary Policy Statement": {

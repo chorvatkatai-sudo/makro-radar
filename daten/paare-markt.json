@@ -1,77 +1,77 @@
 {
-  "stand": "2026-07-30T20:58:28.985Z",
+  "stand": "2026-07-31T05:07:06.161Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -2,
+      "baseScore": 6,
       "tiltCot": -1,
       "tiltZins": -3,
       "tiltGesamt": -4,
-      "score": -6,
+      "score": 2,
       "cotExtrem": "erhoeht",
-      "treiber": "Leicht abwärts: schwaches Euro-BIP (+0,1 %) vs. weicher, aber renditegestützter Dollar. Track mies → nah an neutral."
+      "treiber": "Aufwärts: Euro-BIP-Beat + Dollar-Schwäche nach schwachem BIP/kühler PCE. (Track 17 % → moderat.)"
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -2,
+      "baseScore": 5,
       "tiltCot": -4,
       "tiltZins": -4,
       "tiltGesamt": -8,
-      "score": -10,
+      "score": -3,
       "cotExtrem": null,
-      "treiber": "Leicht abwärts vor der BoE (Halten erwartet, Ausblick zählt); weicher Dollar deckelt die Abwärtsseite."
+      "treiber": "Aufwärts: BoE-Falken (3 Dissenten) + weicher Dollar; Bailey bremst etwas."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 2,
+      "baseScore": -2,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
-      "score": 7,
+      "score": 3,
       "cotExtrem": null,
-      "treiber": "Leicht aufwärts: Renditevorsprung + Yen am Boden, aber Risk-off + Interventionsrisiko bremsen; Track schwach → klein."
+      "treiber": "Leicht abwärts: Dollar weich, aber Yen am 40-Jahres-Tief + Interventionsrisiko asymmetrisch. Track 2/6 → nahe null."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -3,
+      "baseScore": 4,
       "tiltCot": -3,
       "tiltZins": -4,
       "tiltGesamt": -7,
-      "score": -10,
+      "score": -3,
       "cotExtrem": null,
-      "treiber": "Abwärts: kühlere Q2-Inflation + Aktien-Risk-off belasten den Aussie stärker als der weiche Dollar hilft."
+      "treiber": "Aufwärts: Risk-on-Rückkehr + Dollar-Schwäche; China-PMI im Blick."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 1,
+      "baseScore": -3,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
-      "score": 6,
+      "score": 2,
       "cotExtrem": "erhoeht",
-      "treiber": "Knapp aufwärts, aber gebremst: Öl kam zurück (stützt CAD), Großspekulanten extrem short. Track mies → nah an neutral."
+      "treiber": "Abwärts (Dollar weich), aber gebremst: CAD durch schwaches Öl belastet. Track 17 % → gedämpft."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 1,
+      "baseScore": -3,
       "tiltCot": 5,
       "tiltZins": 3,
       "tiltGesamt": 8,
-      "score": 9,
+      "score": 5,
       "cotExtrem": null,
-      "treiber": "Knapp aufwärts: Renditevorsprung, aber der Franken bekommt im Risk-off Hafen-Nachfrage."
+      "treiber": "Abwärts: Dollar weich, Franken neutral (Risk-on lässt Hafen-Bid verblassen)."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -1,
+      "baseScore": 3,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": -6,
+      "score": -2,
       "cotExtrem": "erhoeht",
-      "treiber": "Leicht abwärts: Risk-off belastet den Kiwi; extreme Short-Positionierung (Squeeze-Risiko) hält es nah an neutral."
+      "treiber": "Aufwärts: Risk-on + extreme Short-Positionierung (Squeeze). Track 20 % → vorsichtig."
     }
   ]
 }

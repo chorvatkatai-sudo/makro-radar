@@ -13,81 +13,81 @@
   ],
   "waehrungen": {
     "USD": {
-      "stimmung": "neutral",
-      "score": 2,
-      "grund": "Fed hielt (9:3, drei falkenhafte Dissenten), ABER der Dollar gab nach (DXY ~100,9, −0,5 %): Zweifel an einer September-Erhöhung. Gegengewicht: US-Renditen sprangen (30J höchster Stand seit 2007). Heute Kern-PCE (14:30) = der Schiedsrichter — bewusst nah an neutral."
+      "stimmung": "bärisch",
+      "score": -6,
+      "grund": "Doppelschlag Do: schwaches BIP (+1,5 % statt 2,1 %) + kühlere Kern-PCE (+0,1 %) untergraben die Falken-Fed; DXY fiel unter 100 (von den Tiefs aber erholt)."
     },
     "EUR": {
-      "stimmung": "bärisch",
-      "score": -3,
-      "grund": "Heute Euro-BIP Q2 (11:00): nur +0,1 % erwartet (knapp an Rezession vorbei). Öl bounct zurück → Öl-Importeur-Vorteil verpufft. EUR/USD-Track mies (17 %) → nah an neutral."
+      "stimmung": "bullisch",
+      "score": 7,
+      "grund": "Euro-BIP-Beat (+0,4 % statt +0,2 %) + heute höhere Inflation erwartet → EUR/USD 6-Wochen-Hoch. (Track EUR/USD nur 17 % → bewusst moderat.)"
     },
     "GBP": {
       "stimmung": "neutral",
-      "score": -1,
-      "grund": "Heute BoE (13:00): Halten 3,75 % erwartet, der AUSBLICK zählt (Öl-Aufflammen macht die UK-Inflations-Prognose unsicher). GBP/USD-Track ordentlich (50 %)."
+      "score": 4,
+      "grund": "BoE hielt 3,75 % mit 3 Falken-Dissenten (Hike-Risiko steigt), Pfund fest — aber Bailey bremste die Erwartungen."
     },
     "JPY": {
       "stimmung": "neutral",
-      "score": -1,
-      "grund": "Aktien-Absturz (Dow −1.100) bringt etwas Hafen-Nachfrage, aber der Carry (Yen am Boden ~162, Interventionszone) dominiert. BoJ MORGEN. USD/JPY-Track schwach (33 %) → demütig."
+      "score": -2,
+      "grund": "BoJ hielt 1,00 %, Yen auf 40-Jahres-Tief (~163); Interventionsverdacht Do. Carry drückt, Interventionsrisiko deckelt. Track 2/6 → nahe null."
     },
     "CHF": {
       "stimmung": "neutral",
-      "score": 1,
-      "grund": "Der Aktien-Absturz + zurückkehrendes Risk-off (Dow −1.100) geben dem sicheren Hafen Franken etwas Rückenwind."
+      "score": -2,
+      "grund": "Risk-on kehrt zurück (VIX 17, −8 % Wo) → Hafen-Nachfrage verblasst; EUR-Block-Stärke zieht den Franken etwas mit."
     },
     "CAD": {
       "stimmung": "neutral",
-      "score": 0,
-      "grund": "Öl kam zurück (WTI ~85 $, Nahost-Eskalation) → der bärische Öl-Einbruch der Vorwoche ist teils gedreht. ABER Großspekulanten extrem short (−48 %, Squeeze-Gefahr), USD/CAD-Track mies (17 %) → neutral."
+      "score": -2,
+      "grund": "Öl gab wieder nach (WTI ~84 $, −6 % Wo) → Öl-Rückenwind verpufft; COT extrem short (Squeeze-Reserve)."
     },
     "AUD": {
       "stimmung": "neutral",
-      "score": -2,
-      "grund": "Kühlere Q2-Inflation (Trimmed 3,6 %) + Aktien-Risk-off drücken; die RBA kann etwas lockerer bleiben."
+      "score": 2,
+      "grund": "Risk-on-Rückkehr stützt, aber kühlere Q2-Inflation + China-PMI-Blick dämpfen. (Track 50 %.)"
     },
     "NZD": {
       "stimmung": "neutral",
-      "score": 1,
-      "grund": "Risk-off belastet, ABER Großspekulanten extrem short (Squeeze-Zünder). NZD/USD-Track schwach (20 %) → nah an neutral."
+      "score": 2,
+      "grund": "Risk-on hilft; Großspekulanten extrem short = Squeeze-Zünder. (Track 20 % → vorsichtig.)"
     }
   },
   "paare": [
     {
       "paar": "EUR/USD",
-      "score": -2,
-      "treiber": "Leicht abwärts: schwaches Euro-BIP (+0,1 %) vs. weicher, aber renditegestützter Dollar. Track mies → nah an neutral."
+      "score": 6,
+      "treiber": "Aufwärts: Euro-BIP-Beat + Dollar-Schwäche nach schwachem BIP/kühler PCE. (Track 17 % → moderat.)"
     },
     {
       "paar": "GBP/USD",
-      "score": -2,
-      "treiber": "Leicht abwärts vor der BoE (Halten erwartet, Ausblick zählt); weicher Dollar deckelt die Abwärtsseite."
+      "score": 5,
+      "treiber": "Aufwärts: BoE-Falken (3 Dissenten) + weicher Dollar; Bailey bremst etwas."
     },
     {
       "paar": "USD/JPY",
-      "score": 2,
-      "treiber": "Leicht aufwärts: Renditevorsprung + Yen am Boden, aber Risk-off + Interventionsrisiko bremsen; Track schwach → klein."
+      "score": -2,
+      "treiber": "Leicht abwärts: Dollar weich, aber Yen am 40-Jahres-Tief + Interventionsrisiko asymmetrisch. Track 2/6 → nahe null."
     },
     {
       "paar": "AUD/USD",
-      "score": -3,
-      "treiber": "Abwärts: kühlere Q2-Inflation + Aktien-Risk-off belasten den Aussie stärker als der weiche Dollar hilft."
+      "score": 4,
+      "treiber": "Aufwärts: Risk-on-Rückkehr + Dollar-Schwäche; China-PMI im Blick."
     },
     {
       "paar": "USD/CAD",
-      "score": 1,
-      "treiber": "Knapp aufwärts, aber gebremst: Öl kam zurück (stützt CAD), Großspekulanten extrem short. Track mies → nah an neutral."
+      "score": -3,
+      "treiber": "Abwärts (Dollar weich), aber gebremst: CAD durch schwaches Öl belastet. Track 17 % → gedämpft."
     },
     {
       "paar": "USD/CHF",
-      "score": 1,
-      "treiber": "Knapp aufwärts: Renditevorsprung, aber der Franken bekommt im Risk-off Hafen-Nachfrage."
+      "score": -3,
+      "treiber": "Abwärts: Dollar weich, Franken neutral (Risk-on lässt Hafen-Bid verblassen)."
     },
     {
       "paar": "NZD/USD",
-      "score": -1,
-      "treiber": "Leicht abwärts: Risk-off belastet den Kiwi; extreme Short-Positionierung (Squeeze-Risiko) hält es nah an neutral."
+      "score": 3,
+      "treiber": "Aufwärts: Risk-on + extreme Short-Positionierung (Squeeze). Track 20 % → vorsichtig."
     }
   ],
   "wochenausblick": {
@@ -205,21 +205,21 @@
     "POSITIONIERUNG BLEIBT KONTER-SIGNAL: Drei Short-Extreme bei den Großspekulanten — NZD (z −2,37, −53 %!), CAD (z −1,86) und GBP (z −1,48). Alle sind gegen den Dollar short. Solche Extreme sind Pulverfässer: Bei einem falkenhaften BoE/BoJ oder Öl-Rücksetzer kann ein heftiger Short-Squeeze diese Währungen nach oben schießen lassen. Deshalb NZD bewusst neutral, USD/CAD-Abwärtswette gedämpft."
   ],
   "tagesnews": {
-    "stand": "2026-07-30",
-    "wochentag": "Donnerstag",
-    "tenor": "NACH DER FED: Die Fed hat gestern Abend wie erwartet gehalten (3,50–3,75 %, 9:3 — drei Regionalpräsidenten wollten SOFORT erhöhen). Trotz dieser falkenhaften Töne GAB DER DOLLAR NACH (DXY ~100,9, −0,5 %): der Markt zweifelt, ob im September wirklich genug für eine Erhöhung stimmen. US-Renditen sprangen dagegen (30-jährige auf höchstem Stand seit 2007), die Wall Street stürzte ab (Dow −1.100). HEUTE Mega-Datentag: Fed-Lieblings-Inflation (Kern-PCE) + US-BIP am Nachmittag, dazu BoE und Euro-BIP.",
+    "stand": "2026-07-31",
+    "wochentag": "Freitag",
+    "tenor": "DOLLAR UNTER DRUCK: Ein Doppelschlag am Donnerstag — mageres US-Wachstum (BIP nur +1,5 % statt erwartet 2,1 %) plus kühlere Fed-Lieblings-Inflation (Kern-PCE nur +0,1 %) — hat den Dollar-Index unter die 100er-Marke gedrückt und EUR/USD auf ein 6-Wochen-Hoch gehoben. Heute schließt die Notenbank-Superwoche: Die Bank of Japan hielt bei 1,00 %, der Yen steht auf einem 40-Jahres-Tief (Interventionsverdacht), dazu kommt die Euro-Inflation.",
     "heute": [
-      "🇺🇸 HEUTE 14:30 Wien: US-Kern-PCE (Juni) — die LIEBLINGS-Inflation der Fed (erwartet +0,2 % zum Vormonat / 3,3 % im Jahr, von 3,4 %). Kinderleicht: Das ist das Maß, auf das die Fed am meisten schaut. Kommt es HEISS → die falkenhaften Fed-Dissenten bekommen recht, Dollar rauf. Kommt es kühl (wie zuletzt CPI) → die September-Erhöhungs-Wette bröckelt weiter, Dollar-Delle. Gleichzeitig US-BIP Q2 (erwartet ~2,3 % aufs Jahr hochgerechnet).",
-      "🇬🇧 HEUTE 13:00 Wien: Bank of England — Halten bei 3,75 % erwartet. Kinderleicht: Kein Zins-Schritt, aber der AUSBLICK zählt: Das wieder aufflammende Öl (Nahost) macht die britische Inflations-Prognose unsicher. Falkenhafter Ton → Pfund fester.",
-      "🇪🇺 HEUTE 11:00 Wien: Euro-BIP Q2 Schnellschätzung — nur +0,1 % zum Vorquartal erwartet (haarscharf an einer Rezession vorbei) + Deutschland-BIP. Kinderleicht: Die Euro-Wirtschaft tritt fast auf der Stelle → schwacher Rückenwind für den Euro; die wichtigste Zahl vor der EZB-Sitzung im September.",
-      "🇯🇵 MORGEN Fr: Bank of Japan (Halten bei 1,00 % erwartet, Yen-Squeeze-Risiko) + Euro-Inflation Flash. Damit endet die Notenbank-Superwoche."
+      "🇯🇵 BANK OF JAPAN hielt bei 1,00 % (8:1-Stimmen — ein Falke wollte erhöhen) und hob die Wachstumsprognose leicht an. Kinderleicht: Kein Zins-Schritt, und weil Japans Zinsen so niedrig bleiben, ist der Yen so schwach wie seit ~40 Jahren nicht (rund 163 Yen je Dollar). Am Donnerstagabend sprang der Yen plötzlich ~2 % nach oben → starker Verdacht, dass Japans Regierung eingegriffen hat, um den Yen zu stützen. HEISS: Das Interventionsrisiko bleibt extrem hoch.",
+      "🇪🇺 HEUTE 11:00 Wien: Euro-Inflation Juli (Schnellschätzung) — erwartet ~2,9 % im Jahr (von 2,8 %), Kern stabil bei 2,4 %. Kinderleicht: Steigt die Inflation wegen des teureren Öls wieder, bleibt die EZB auf Straffungskurs (mögliche Erhöhung im September) → stützt den Euro. Das ist die letzte große Inflationszahl vor der EZB-Sitzung.",
+      "🇨🇳 China: Einkaufsmanager-Indizes (PMI) für Juli. Kinderleicht: Ein Frühindikator, wie es Chinas Fabriken geht — wichtig für die rohstoffnahen Währungen Aussie-Dollar und Kiwi.",
+      "🏁 Damit endet die Notenbank-Superwoche (Fed Mi, BoE Do, BoJ Fr). Kernbild: Die Falken reden viel, handeln aber wenig — und das schwache US-Wachstum lässt den Dollar bröckeln."
     ],
     "gestern": [
-      "🇺🇸 FED HIELT bei 3,50–3,75 % (5. Mal in Folge) — aber mit 9:3-Stimmen: Drei Regionalpräsidenten (Cleveland, Minneapolis, Dallas) wollten SOFORT erhöhen. Warsh (kürzeres Statement, harter Ton): „Ich wollte einen guten Familienstreit — und ich habe ihn bekommen.\" Kinderleicht: Die Fed lässt den Leitzins gleich, aber ein ungewöhnlich großer Teil drängt auf höhere Zinsen = falkenhaft.",
-      "💵 DOLLAR GAB TROTZDEM NACH (DXY von ~101,4 auf ~100,9, −0,5 %): Weil die Fed eben NICHT erhöht hat, zweifelt der Markt jetzt, ob im September genug Stimmen für eine Erhöhung zusammenkommen. Kinderleicht: Ein bisschen Enttäuschung — die Falken haben geredet, aber nicht gehandelt → Dollar leicht runter.",
-      "📉 US-Renditen sprangen dagegen NACH OBEN (30-jährige auf höchstem Stand seit 2007), die Aktien stürzten ab: Dow Jones −1.100 Punkte = schlechtester Tag seit über einem Jahr. Kinderleicht: Höhere Zinsen + Angst an der Börse = Risk-off. Das stützt sichere Häfen (Franken, Gold ~4.150 $).",
-      "🛢️ Öl kam ZURÜCK (WTI von ~79 $ auf ~85 $, Brent ~91 $) — neue Nahost-Eskalation. Kinderleicht: Die Kriegs-Prämie ist teilweise zurück → Kanadas Öl-Rückenwind ist nicht mehr ganz weg (CAD von bärisch auf neutral).",
-      "🇦🇺 Australiens Inflation Q2 kam KÜHLER (Trimmed Mean 3,6 % im Jahr statt 3,7 %) → die RBA kann etwas lockerer bleiben, Aussie leicht gedämpft."
+      "🇺🇸 US-KERN-PCE (die Fed-Lieblings-Inflation) kam KÜHL: nur +0,1 % zum Vormonat (erwartet +0,2 %), im Jahr 3,3 % (von 3,4 %). Die Gesamt-PCE fiel auf 3,7 % (von 4,1 %, dank billigerem Energie). Kinderleicht: Die Inflation kühlt weiter ab → die September-Erhöhungs-Wette der Fed-Falken bröckelt → Dollar runter.",
+      "🇺🇸 US-WIRTSCHAFT WÄCHST NUR +1,5 % (Q2, aufs Jahr hochgerechnet) — deutlich weniger als die erwarteten 2,1 %. ABER: Der Konsum sprang kräftig an (+3,2 %), gebremst haben vor allem hohe Importe. Kinderleicht: Die US-Wirtschaft verliert an Tempo — schlecht für den Dollar, aber der Verbraucher hält sich wacker.",
+      "💵 DOLLAR VERKAUFT SICH AB: Der Dollar-Index fiel kurz unter 100, EUR/USD stieg auf ein 6-Wochen-Hoch (~1,153). Kinderleicht: Schwaches Wachstum + kühle Inflation = weniger Grund für hohe US-Zinsen → der Dollar verliert an Anziehungskraft.",
+      "🇬🇧 BANK OF ENGLAND hielt bei 3,75 % (6:3-Stimmen — jetzt wollen DREI erhöhen, einer mehr als zuvor). Chef Bailey bremste aber die Zins-Erhöhungs-Fantasie. Kinderleicht: Kein Schritt, aber die Falken-Fraktion wächst wegen des teureren Öls → Pfund fest (Blick Richtung 1,34).",
+      "🇪🇺 EURO-WIRTSCHAFT ÜBERRASCHT POSITIV: BIP Q2 +0,4 % (erwartet nur +0,2 %). Kinderleicht: Die Euro-Wirtschaft läuft besser als gedacht → die EZB kann hart bleiben → Rückenwind für den Euro."
     ]
   }
 }

@@ -700,6 +700,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-08-05T03:35:00.000Z",
+    "country": "JPY",
+    "title": "BoJ JGB Purchase",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-08-05T08:00:00.000Z",
     "country": "GBP",
     "title": "New Car Sales YoY",
@@ -1544,7 +1554,7 @@
     "country": "USD",
     "title": "Non Farm Payrolls",
     "impact": "High",
-    "forecast": "",
+    "forecast": "91",
     "previous": "57",
     "actual": null,
     "quelle": "tradingview"
@@ -1584,7 +1594,7 @@
     "country": "USD",
     "title": "Unemployment Rate",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4.3%",
     "previous": "4.2%",
     "actual": null,
     "quelle": "tradingview"

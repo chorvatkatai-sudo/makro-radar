@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-31T08:37:49.030Z",
+  "stand": "2026-07-31T11:23:41.459Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": -2,
-      "tiltGesamt": -6,
-      "score": -1,
+      "tiltZins": 0,
+      "tiltGesamt": -4,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Aufwärts: BoE-Falken (3 Dissenten) + weicher Dollar; Bailey bremst etwas."
     },

@@ -624,20 +624,20 @@
     "previous": "33.9%"
   },
   {
-    "title": "BOJ Press Conference",
-    "country": "JPY",
-    "date": "2026-07-31T01:30:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Nationwide HPI m/m",
     "country": "GBP",
     "date": "2026-07-31T02:00:00-04:00",
     "impact": "Low",
     "forecast": "0.1%",
     "previous": "0.0%"
+  },
+  {
+    "title": "BOJ Press Conference",
+    "country": "JPY",
+    "date": "2026-07-31T02:05:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Retail Sales y/y",

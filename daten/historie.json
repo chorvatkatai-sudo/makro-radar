@@ -6620,6 +6620,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-31T02:05:00-04:00|JPY|BOJ Press Conference": {
+      "datum": "2026-07-31T02:05:00-04:00",
+      "land": "JPY",
+      "titel": "BOJ Press Conference",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-31T05:08:21.286Z",
+  "stand": "2026-07-31T06:39:53.221Z",
   "ausBriefing": "2026-07-24",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": 0,
-      "tiltGesamt": -4,
-      "score": 1,
+      "tiltZins": -1,
+      "tiltGesamt": -5,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Aufwärts: BoE-Falken (3 Dissenten) + weicher Dollar; Bailey bremst etwas."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -2,
       "tiltCot": 5,
-      "tiltZins": -5,
-      "tiltGesamt": 0,
-      "score": -2,
+      "tiltZins": -4,
+      "tiltGesamt": 1,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Leicht abwärts: Dollar weich, aber Yen am 40-Jahres-Tief + Interventionsrisiko asymmetrisch. Track 2/6 → nahe null."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": -3,
-      "tiltGesamt": -6,
-      "score": -2,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Aufwärts: Risk-on-Rückkehr + Dollar-Schwäche; China-PMI im Blick."
     },

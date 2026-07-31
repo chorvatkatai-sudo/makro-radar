@@ -52,6 +52,8 @@
     "2026-07-29T14:00:00-04:00|USD|Federal Funds Rate",
     "2026-07-30T07:00:00-04:00|GBP|MPC Official Bank Rate Votes",
     "2026-07-30T07:00:00-04:00|GBP|Official Bank Rate",
-    "2026-07-30T08:30:00-04:00|USD|Core PCE Price Index m/m"
+    "2026-07-30T08:30:00-04:00|USD|Core PCE Price Index m/m",
+    "2026-07-30T08:30:00-04:00|USD|Advance GDP q/q",
+    "2026-07-30T22:30:00-04:00|JPY|BOJ Policy Rate"
   ]
 }

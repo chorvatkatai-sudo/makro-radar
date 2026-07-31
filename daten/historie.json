@@ -6590,6 +6590,36 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-07-30T23:11:00-04:00|JPY|BOJ Outlook Report": {
+      "datum": "2026-07-30T23:11:00-04:00",
+      "land": "JPY",
+      "titel": "BOJ Outlook Report",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T23:11:00-04:00|JPY|BOJ Policy Rate": {
+      "datum": "2026-07-30T23:11:00-04:00",
+      "land": "JPY",
+      "titel": "BOJ Policy Rate",
+      "impact": "High",
+      "prognose": "<1.00%",
+      "vorher": "<1.00%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-07-30T23:11:00-04:00|JPY|Monetary Policy Statement": {
+      "datum": "2026-07-30T23:11:00-04:00",
+      "land": "JPY",
+      "titel": "Monetary Policy Statement",
+      "impact": "High",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

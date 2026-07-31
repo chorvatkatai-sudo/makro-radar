@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-31T11:23:41.458Z",
+  "stand": "2026-07-31T13:19:19.171Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar holds firm despite weak Chinese data, fading RBA rate hike bets",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-despite-weak-chinese-data-fading-rba-rate-hike-bets-202607311121",
-      "datum": "2026-07-31T11:21:08.000Z"
+      "titel": "Euro slips back below 1.1500 as US Dollar recovers",
+      "link": "https://www.fxstreet.com/news/euro-slips-back-below-11500-as-us-dollar-recovers-202607311308",
+      "datum": "2026-07-31T13:08:56.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Balanced growth supports CAD – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-balanced-growth-supports-cad-td-securities-202607311114",
-      "datum": "2026-07-31T11:14:57.000Z"
+      "titel": "China: Policy support balances weak PMIs – UOB",
+      "link": "https://www.fxstreet.com/news/china-policy-support-balances-weak-pmis-uob-202607311304",
+      "datum": "2026-07-31T13:04:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar shrugs off upbeat GDP as US Dollar stages a comeback",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-shrugs-off-upbeat-gdp-as-us-dollar-stages-a-comeback-202607311302",
+      "datum": "2026-07-31T13:02:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: BoJ patience keeps wide trading range – TD Securities",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-patience-keeps-wide-trading-range-td-securities-202607311246",
+      "datum": "2026-07-31T12:46:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: Canada's GDP expanded by 0.3% MoM in May",
+      "link": "https://www.fxstreet.com/news/breaking-canadas-gdp-expanded-by-03-mom-in-may-202607311234",
+      "datum": "2026-07-31T12:34:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Reduced Fed hike bets support prices - Commerzbank",
+      "link": "https://www.fxstreet.com/news/gold-reduced-fed-hike-bets-support-prices-commerzbank-202607311230",
+      "datum": "2026-07-31T12:30:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Softer BoE stance seen weighing on Sterling – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-softer-boe-stance-seen-weighing-on-sterling-bbh-202607311220",
+      "datum": "2026-07-31T12:20:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: ECB September hike still base case – TD Securities",
+      "link": "https://www.fxstreet.com/news/euro-ecb-september-hike-still-base-case-td-securities-202607311209",
+      "datum": "2026-07-31T12:09:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Policy credibility and intervention dynamics – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-credibility-and-intervention-dynamics-bny-202607311157",
+      "datum": "2026-07-31T11:57:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD remains under pressure as bond yields, US Dollar rebound",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-under-pressure-as-bond-yields-us-dollar-rebound-202607311149",
+      "datum": "2026-07-31T11:49:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold declines as firmer US Dollar, hawkish Fed outlook weigh",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-firmer-us-dollar-and-hawkish-fed-outlook-weigh-202607311148",
+      "datum": "2026-07-31T11:48:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Brent: Conflict risks keep prices elevated – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-conflict-risks-keep-prices-elevated-commerzbank-202607311145",
+      "datum": "2026-07-31T11:45:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Eurozone inflation ticks up in July; USD/JPY intervention again?",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-eurozone-inflation-ticks-up-in-july-usd-jpy-intervention-again/",
+      "datum": "2026-07-31T11:23:06.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "How have interest rate expectations changed after this week's events?",
       "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-0/",
       "datum": "2026-07-31T10:56:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Experts agree: The US Dollar rally might have found serious headwinds",
-      "link": "https://www.fxstreet.com/news/experts-agree-the-us-dollar-rally-might-have-found-serious-headwinds-202607311025",
-      "datum": "2026-07-31T10:25:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Post-Fed losses extend as positioning unwinds – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-post-fed-losses-extend-as-positioning-unwinds-ing-202607311005",
-      "datum": "2026-07-31T10:05:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro rebounds vs Yen as BoJ rate hold, Eurozone inflation support",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-vs-yen-as-boj-rate-hold-eurozone-inflation-support-202607311002",
-      "datum": "2026-07-31T10:02:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Wide range trading outlook – TD Securities",
-      "link": "https://www.fxstreet.com/news/japanese-yen-wide-range-trading-outlook-td-securities-202607310954",
-      "datum": "2026-07-31T09:54:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro hits session lows against the British Pound following Eurozone inflation data",
-      "link": "https://www.fxstreet.com/news/euro-hits-session-lows-against-the-british-pound-following-eurozone-inflation-data-202607310939",
-      "datum": "2026-07-31T09:39:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound underperforms as traders reconsider BoE interest rate hike bets",
-      "link": "https://www.fxstreet.com/news/british-pound-underperforms-as-traders-reconsider-boe-interest-rate-hike-bets-202607310936",
-      "datum": "2026-07-31T09:36:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607310931",
-      "datum": "2026-07-31T09:31:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Growth drift and export reliance – Rabobank",
-      "link": "https://www.fxstreet.com/news/china-growth-drift-and-export-reliance-rabobank-202607310931",
-      "datum": "2026-07-31T09:31:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Kocher: Central bank policies will remain data-dependent",
-      "link": "https://www.fxstreet.com/news/ecbs-kocher-central-bank-policies-will-remain-data-dependent-202607310927",
-      "datum": "2026-07-31T09:27:52.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "French inflation accelerates in July, reaffirming the broader trend in the region",
       "link": "https://investinglive.com/news/french-inflation-accelerates-in-july-reaffirming-the-broader-trend-in-the-region/",
       "datum": "2026-07-31T07:03:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-15/",
-      "datum": "2026-07-31T06:38:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK annual house price growth slows in July - Nationwide",
-      "link": "https://investinglive.com/news/uk-annual-house-price-growth-slows-in-july-nationwide/",
-      "datum": "2026-07-31T06:08:23.000Z"
     }
   ]
 }

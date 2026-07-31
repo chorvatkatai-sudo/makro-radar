@@ -54,6 +54,7 @@
     "2026-07-30T07:00:00-04:00|GBP|Official Bank Rate",
     "2026-07-30T08:30:00-04:00|USD|Core PCE Price Index m/m",
     "2026-07-30T08:30:00-04:00|USD|Advance GDP q/q",
-    "2026-07-30T22:30:00-04:00|JPY|BOJ Policy Rate"
+    "2026-07-30T22:30:00-04:00|JPY|BOJ Policy Rate",
+    "2026-07-28T21:30:00-04:00|AUD|CPI y/y"
   ]
 }

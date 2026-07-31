@@ -1,11 +1,35 @@
 {
-  "stand": "2026-07-31T15:56:51.312Z",
+  "stand": "2026-07-31T17:26:06.111Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Two earnings shocks cancel inside the Dow Jones Industrial Average",
+      "link": "https://www.fxstreet.com/news/two-earnings-shocks-cancel-inside-the-dow-jones-industrial-average-202607311657",
+      "datum": "2026-07-31T16:57:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil recovers above $83 ahead of OPEC meeting",
+      "link": "https://www.fxstreet.com/news/wti-oil-recovers-above-83-ahead-of-opec-meeting-202607311611",
+      "datum": "2026-07-31T16:11:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar holds despite weak Chinese PMIs",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-despite-weak-chinese-pmis-202607311605",
+      "datum": "2026-07-31T16:05:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds firm as USD rebounds from intervention rout",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-usd-rebounds-from-intervention-rout-202607311600",
+      "datum": "2026-07-31T16:00:45.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Swiss Franc trims losses against US Dollar amid Japanese intervention concerns",
@@ -26,7 +50,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealnd Dollar weakens after China PMI miss as the US Dollar rebounds",
+      "titel": "New Zealand Dollar weakens after China PMI miss as the US Dollar rebounds",
       "link": "https://www.fxstreet.com/news/new-zealnd-dollar-weakens-after-china-pmi-miss-as-the-us-dollar-rebounds-202607311436",
       "datum": "2026-07-31T14:36:06.000Z"
     },
@@ -47,18 +71,6 @@
       "titel": "Japanese Yen surges amid hawkish BoJ",
       "link": "https://www.fxstreet.com/news/japanese-yen-surges-amid-hawkish-boj-202607311420",
       "datum": "2026-07-31T14:20:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Growth outpaces forecasts – RBC",
-      "link": "https://www.fxstreet.com/news/canada-growth-outpaces-forecasts-rbc-202607311417",
-      "datum": "2026-07-31T14:17:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Broad-based Q2 GDP strength beyond AI – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-broad-based-q2-gdp-strength-beyond-ai-td-securities-202607311405",
-      "datum": "2026-07-31T14:05:20.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -85,12 +97,6 @@
       "datum": "2026-07-31T13:54:38.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Aluminium: Tightness points to higher prices – Commerzbank",
-      "link": "https://www.fxstreet.com/news/aluminium-tightness-points-to-higher-prices-commerzbank-202607311349",
-      "datum": "2026-07-31T13:49:43.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Q2 Employment Cost Index +0.9% vs +0.8% expected",
       "link": "https://investinglive.com/news/us-q2-employment-cost-index-xx-vs-0-8-expected/",
@@ -101,12 +107,6 @@
       "titel": "Canada May GDP 0.3% versus 0.2% expected",
       "link": "https://investinglive.com/news/canada-may-gdp-0-3-versus-0-2-expected/",
       "datum": "2026-07-31T13:48:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Intervention risk and hawkish BoJ support Yen – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-hawkish-boj-support-yen-bbh-202607311334",
-      "datum": "2026-07-31T13:34:12.000Z"
     },
     {
       "quelle": "FXStreet",

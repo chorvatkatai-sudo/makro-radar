@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-31T15:56:51.314Z",
+ "erstellt": "2026-07-31T17:26:06.113Z",
  "wochenStart": "2026-07-26",
  "events": [
   {
@@ -2608,7 +2608,7 @@ window.MAKRO_DATA = {
    "title": "Baker Hughes Total Rigs Count",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "588",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2618,7 +2618,7 @@ window.MAKRO_DATA = {
    "title": "Baker Hughes Oil Rig Count",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "451",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3295,15 +3295,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-07-31T15:56:49.863Z",
+  "stand": "2026-07-31T17:26:05.698Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 100.07,
+    "wert": 100.02,
     "tagProzent": 0,
-    "wocheProzent": -1.42,
+    "wocheProzent": -1.47,
     "renditeDelta": false,
     "verlauf": [
      100.86,
@@ -3326,17 +3326,17 @@ window.MAKRO_DATA = {
      101.38,
      100.8,
      100.01,
-     100.07,
-     100.07
+     100.02,
+     100.02
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 17.51,
+    "wert": 16.77,
     "tagProzent": 0,
-    "wocheProzent": -6.21,
+    "wocheProzent": -10.18,
     "renditeDelta": false,
     "verlauf": [
      16.15,
@@ -3359,17 +3359,17 @@ window.MAKRO_DATA = {
      18.21,
      20.66,
      17.09,
-     17.51,
-     17.51
+     16.77,
+     16.77
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.66,
+    "wert": 84.97,
     "tagProzent": 0,
-    "wocheProzent": 2.48,
+    "wocheProzent": 2.86,
     "renditeDelta": false,
     "verlauf": [
      68.69,
@@ -3392,17 +3392,17 @@ window.MAKRO_DATA = {
      79.26,
      84.46,
      83.59,
-     84.66,
-     84.66
+     84.97,
+     84.97
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 90,
+    "wert": 90.01,
     "tagProzent": 0,
-    "wocheProzent": 1.86,
+    "wocheProzent": 1.87,
     "renditeDelta": false,
     "verlauf": [
      71.8,
@@ -3425,17 +3425,17 @@ window.MAKRO_DATA = {
      84.09,
      90.74,
      89.03,
-     90,
-     90
+     90.01,
+     90.01
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4098.6,
+    "wert": 4102.1,
     "tagProzent": 0,
-    "wocheProzent": 0.59,
+    "wocheProzent": 0.68,
     "renditeDelta": false,
     "verlauf": [
      4112.7,
@@ -3458,8 +3458,8 @@ window.MAKRO_DATA = {
      4036.3,
      4034.7,
      4100.1,
-     4098.6,
-     4098.6
+     4102.1,
+     4102.1
     ]
    },
    "US02Y": {
@@ -3532,9 +3532,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.266,
+    "wert": 5.271,
     "tagProzent": 0,
-    "wocheProzent": 0.14,
+    "wocheProzent": 0.15,
     "renditeDelta": true,
     "verlauf": [
      4.985,
@@ -3557,17 +3557,17 @@ window.MAKRO_DATA = {
      5.096,
      5.143,
      5.208,
-     5.266,
-     5.266
+     5.271,
+     5.271
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 62658.99,
+    "wert": 62897.34,
     "tagProzent": 0,
-    "wocheProzent": -1.67,
+    "wocheProzent": -1.3,
     "renditeDelta": false,
     "verlauf": [
      63802.03,
@@ -3590,8 +3590,8 @@ window.MAKRO_DATA = {
      63871.36,
      63908.17,
      64725.31,
-     62658.99,
-     62658.99
+     62897.34,
+     62897.34
     ]
    },
    "FEDFUT": {
@@ -3791,12 +3791,12 @@ window.MAKRO_DATA = {
    "stand": "2026-07-31",
    "werte": {
     "USD": {
-     "wert": 4.297,
-     "wocheDelta": 0.036
+     "wert": 4.289,
+     "wocheDelta": 0.028
     },
     "EUR": {
-     "wert": 2.809,
-     "wocheDelta": 0.005
+     "wert": 2.807,
+     "wocheDelta": 0.003
     },
     "GBP": {
      "wert": 4.413,
@@ -3811,12 +3811,12 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.084
     },
     "CAD": {
-     "wert": 2.921,
-     "wocheDelta": 0.095
+     "wert": 2.924,
+     "wocheDelta": 0.098
     },
     "CHF": {
-     "wert": 0.135,
-     "wocheDelta": -0.017
+     "wert": 0.137,
+     "wocheDelta": -0.015
     },
     "NZD": {
      "wert": 3.635,
@@ -3837,9 +3837,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 7,
    "tiltCot": -1,
-   "tiltZins": -1,
-   "tiltGesamt": -2,
-   "score": 5,
+   "tiltZins": 0,
+   "tiltGesamt": -1,
+   "score": 6,
    "cotExtrem": "erhoeht",
    "treiber": "Aufwärts: Euro-BIP-Beat + hochtickende Inflation + Dollar-Riss; COT-Shorts als Squeeze-Brennstoff. (Track 17 % → moderat.)"
   },
@@ -3857,9 +3857,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -4,
    "tiltCot": 5,
-   "tiltZins": 0,
-   "tiltGesamt": 5,
-   "score": 1,
+   "tiltZins": -1,
+   "tiltGesamt": 4,
+   "score": 0,
    "cotExtrem": null,
    "treiber": "Abwärts: Dollar weich + aktive Yen-Intervention + steigende Yen-Zinsdifferenz. Aber Carry heavy + Track 2/6 → klein."
   },
@@ -3867,9 +3867,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": 3,
    "tiltCot": -3,
-   "tiltZins": -5,
-   "tiltGesamt": -8,
-   "score": -5,
+   "tiltZins": -4,
+   "tiltGesamt": -7,
+   "score": -4,
    "cotExtrem": null,
    "treiber": "Leicht aufwärts: Risk-on + Dollar-Schwäche gegen kühlere CPI/gestrichene RBA-Wetten. China-PMI-Risiko."
   },
@@ -3877,9 +3877,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -6,
    "tiltCot": 5,
-   "tiltZins": -2,
-   "tiltGesamt": 3,
-   "score": -3,
+   "tiltZins": -3,
+   "tiltGesamt": 2,
+   "score": -4,
    "cotExtrem": "erhoeht",
    "treiber": "Abwärts: Öl + falkenhafte BoC + Loonie-Short-Squeeze bei weichem Dollar. (Track 17 % → moderat.)"
   },
@@ -3906,13 +3906,37 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-07-31T15:56:51.312Z",
+  "stand": "2026-07-31T17:26:06.111Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Two earnings shocks cancel inside the Dow Jones Industrial Average",
+    "link": "https://www.fxstreet.com/news/two-earnings-shocks-cancel-inside-the-dow-jones-industrial-average-202607311657",
+    "datum": "2026-07-31T16:57:36.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI Oil recovers above $83 ahead of OPEC meeting",
+    "link": "https://www.fxstreet.com/news/wti-oil-recovers-above-83-ahead-of-opec-meeting-202607311611",
+    "datum": "2026-07-31T16:11:28.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar holds despite weak Chinese PMIs",
+    "link": "https://www.fxstreet.com/news/australian-dollar-holds-despite-weak-chinese-pmis-202607311605",
+    "datum": "2026-07-31T16:05:14.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound holds firm as USD rebounds from intervention rout",
+    "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-usd-rebounds-from-intervention-rout-202607311600",
+    "datum": "2026-07-31T16:00:45.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Swiss Franc trims losses against US Dollar amid Japanese intervention concerns",
@@ -3933,7 +3957,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "New Zealnd Dollar weakens after China PMI miss as the US Dollar rebounds",
+    "titel": "New Zealand Dollar weakens after China PMI miss as the US Dollar rebounds",
     "link": "https://www.fxstreet.com/news/new-zealnd-dollar-weakens-after-china-pmi-miss-as-the-us-dollar-rebounds-202607311436",
     "datum": "2026-07-31T14:36:06.000Z"
    },
@@ -3954,18 +3978,6 @@ window.MAKRO_DATA = {
     "titel": "Japanese Yen surges amid hawkish BoJ",
     "link": "https://www.fxstreet.com/news/japanese-yen-surges-amid-hawkish-boj-202607311420",
     "datum": "2026-07-31T14:20:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canada: Growth outpaces forecasts – RBC",
-    "link": "https://www.fxstreet.com/news/canada-growth-outpaces-forecasts-rbc-202607311417",
-    "datum": "2026-07-31T14:17:21.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United States: Broad-based Q2 GDP strength beyond AI – TD Securities",
-    "link": "https://www.fxstreet.com/news/united-states-broad-based-q2-gdp-strength-beyond-ai-td-securities-202607311405",
-    "datum": "2026-07-31T14:05:20.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3992,12 +4004,6 @@ window.MAKRO_DATA = {
     "datum": "2026-07-31T13:54:38.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Aluminium: Tightness points to higher prices – Commerzbank",
-    "link": "https://www.fxstreet.com/news/aluminium-tightness-points-to-higher-prices-commerzbank-202607311349",
-    "datum": "2026-07-31T13:49:43.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "US Q2 Employment Cost Index +0.9% vs +0.8% expected",
     "link": "https://investinglive.com/news/us-q2-employment-cost-index-xx-vs-0-8-expected/",
@@ -4008,12 +4014,6 @@ window.MAKRO_DATA = {
     "titel": "Canada May GDP 0.3% versus 0.2% expected",
     "link": "https://investinglive.com/news/canada-may-gdp-0-3-versus-0-2-expected/",
     "datum": "2026-07-31T13:48:01.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Intervention risk and hawkish BoJ support Yen – BBH",
-    "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-hawkish-boj-support-yen-bbh-202607311334",
-    "datum": "2026-07-31T13:34:12.000Z"
    },
    {
     "quelle": "FXStreet",

@@ -1,11 +1,41 @@
 {
-  "stand": "2026-07-31T13:19:19.171Z",
+  "stand": "2026-07-31T13:52:22.421Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Aluminium: Tightness points to higher prices – Commerzbank",
+      "link": "https://www.fxstreet.com/news/aluminium-tightness-points-to-higher-prices-commerzbank-202607311349",
+      "datum": "2026-07-31T13:49:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Q2 Employment Cost Index +0.9% vs +0.8% expected",
+      "link": "https://investinglive.com/news/us-q2-employment-cost-index-xx-vs-0-8-expected/",
+      "datum": "2026-07-31T13:48:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada May GDP 0.3% versus 0.2% expected",
+      "link": "https://investinglive.com/news/canada-may-gdp-0-3-versus-0-2-expected/",
+      "datum": "2026-07-31T13:48:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Intervention risk and hawkish BoJ support Yen – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-hawkish-boj-support-yen-bbh-202607311334",
+      "datum": "2026-07-31T13:34:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India: RBI hold expectations shape policy outlook – ING",
+      "link": "https://www.fxstreet.com/news/india-rbi-hold-expectations-shape-policy-outlook-ing-202607311320",
+      "datum": "2026-07-31T13:20:47.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro slips back below 1.1500 as US Dollar recovers",
@@ -56,27 +86,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Policy credibility and intervention dynamics – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-credibility-and-intervention-dynamics-bny-202607311157",
-      "datum": "2026-07-31T11:57:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD remains under pressure as bond yields, US Dollar rebound",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-under-pressure-as-bond-yields-us-dollar-rebound-202607311149",
-      "datum": "2026-07-31T11:49:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
       "titel": "Gold declines as firmer US Dollar, hawkish Fed outlook weigh",
       "link": "https://www.fxstreet.com/news/gold-declines-as-firmer-us-dollar-and-hawkish-fed-outlook-weigh-202607311148",
       "datum": "2026-07-31T11:48:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brent: Conflict risks keep prices elevated – Commerzbank",
-      "link": "https://www.fxstreet.com/news/brent-conflict-risks-keep-prices-elevated-commerzbank-202607311145",
-      "datum": "2026-07-31T11:45:38.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Euro area inflation nudges up in July, keeps the pressure on the ECB",
       "link": "https://investinglive.com/news/euro-area-inflation-nudges-up-in-july-keeps-the-pressure-on-the-ecb/",
       "datum": "2026-07-31T09:11:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German unemployment rises by slightly more than anticipated in July",
-      "link": "https://investinglive.com/news/german-unemployment-rises-by-slightly-more-than-anticipated-in-july/",
-      "datum": "2026-07-31T08:03:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "French inflation accelerates in July, reaffirming the broader trend in the region",
-      "link": "https://investinglive.com/news/french-inflation-accelerates-in-july-reaffirming-the-broader-trend-in-the-region/",
-      "datum": "2026-07-31T07:03:25.000Z"
     }
   ]
 }

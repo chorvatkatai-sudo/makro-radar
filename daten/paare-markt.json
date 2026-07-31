@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-31T13:19:19.172Z",
+  "stand": "2026-07-31T13:52:22.422Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -4,
-      "tiltZins": -2,
-      "tiltGesamt": -6,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": -4,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "Aufwärts: BoE-Falken wachsen (3 Dissenten) + weicher Dollar; Bailey deckelt."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Abwärts: Dollar weich + aktive Yen-Intervention + steigende Yen-Zinsdifferenz. Aber Carry heavy + Track 2/6 → klein."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 4,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -3,
+      "tiltZins": -3,
+      "tiltGesamt": -8,
+      "score": -4,
       "cotExtrem": "erhoeht",
       "treiber": "Aufwärts: extremer Kiwi-Short-Squeeze + Dollar-Riss + Risk-on. (Track 20 % → demütig.)"
     }

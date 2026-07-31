@@ -1,11 +1,89 @@
 {
-  "stand": "2026-07-31T13:52:22.421Z",
+  "stand": "2026-07-31T15:56:51.312Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc trims losses against US Dollar amid Japanese intervention concerns",
+      "link": "https://www.fxstreet.com/news/swiss-franc-trims-losses-against-us-dollar-amid-japanese-intervention-concerns-202607311544",
+      "datum": "2026-07-31T15:44:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Canada: Strong GDP lowers cut risk – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-strong-gdp-lowers-cut-risk-td-securities-202607311459",
+      "datum": "2026-07-31T14:59:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Intervention slows but does not reverse trend – ING",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-slows-but-does-not-reverse-trend-ing-202607311446",
+      "datum": "2026-07-31T14:46:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealnd Dollar weakens after China PMI miss as the US Dollar rebounds",
+      "link": "https://www.fxstreet.com/news/new-zealnd-dollar-weakens-after-china-pmi-miss-as-the-us-dollar-rebounds-202607311436",
+      "datum": "2026-07-31T14:36:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Range seen around mid‑1.15s against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-range-seen-around-mid-115s-against-us-dollar-scotiabank-202607311435",
+      "datum": "2026-07-31T14:35:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen strengthens against British Pound amid intervention speculation",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-against-british-pound-amid-intervention-speculation-202607311432",
+      "datum": "2026-07-31T14:32:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen surges amid hawkish BoJ",
+      "link": "https://www.fxstreet.com/news/japanese-yen-surges-amid-hawkish-boj-202607311420",
+      "datum": "2026-07-31T14:20:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Growth outpaces forecasts – RBC",
+      "link": "https://www.fxstreet.com/news/canada-growth-outpaces-forecasts-rbc-202607311417",
+      "datum": "2026-07-31T14:17:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States: Broad-based Q2 GDP strength beyond AI – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-broad-based-q2-gdp-strength-beyond-ai-td-securities-202607311405",
+      "datum": "2026-07-31T14:05:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Univ. of Michigan Consumer confidence final for July 55.2 vs 54.0 estimate",
+      "link": "https://investinglive.com/news/univ-of-michigan-consumer-confidence-final-for-july-55-2-vs-54-0-estimate/",
+      "datum": "2026-07-31T14:01:34.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+      "datum": "2026-07-31T14:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+      "datum": "2026-07-31T14:00:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "USD moves higher as employee benefits rise and so do yields.",
+      "link": "https://investinglive.com/news/usd-moving-higher-as-employee-benefits-rise/",
+      "datum": "2026-07-31T13:54:38.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Aluminium: Tightness points to higher prices – Commerzbank",
@@ -32,87 +110,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "India: RBI hold expectations shape policy outlook – ING",
-      "link": "https://www.fxstreet.com/news/india-rbi-hold-expectations-shape-policy-outlook-ing-202607311320",
-      "datum": "2026-07-31T13:20:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro slips back below 1.1500 as US Dollar recovers",
-      "link": "https://www.fxstreet.com/news/euro-slips-back-below-11500-as-us-dollar-recovers-202607311308",
-      "datum": "2026-07-31T13:08:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Policy support balances weak PMIs – UOB",
-      "link": "https://www.fxstreet.com/news/china-policy-support-balances-weak-pmis-uob-202607311304",
-      "datum": "2026-07-31T13:04:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar shrugs off upbeat GDP as US Dollar stages a comeback",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-shrugs-off-upbeat-gdp-as-us-dollar-stages-a-comeback-202607311302",
-      "datum": "2026-07-31T13:02:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ patience keeps wide trading range – TD Securities",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-patience-keeps-wide-trading-range-td-securities-202607311246",
-      "datum": "2026-07-31T12:46:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: Canada's GDP expanded by 0.3% MoM in May",
-      "link": "https://www.fxstreet.com/news/breaking-canadas-gdp-expanded-by-03-mom-in-may-202607311234",
-      "datum": "2026-07-31T12:34:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Reduced Fed hike bets support prices - Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-reduced-fed-hike-bets-support-prices-commerzbank-202607311230",
-      "datum": "2026-07-31T12:30:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Softer BoE stance seen weighing on Sterling – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-softer-boe-stance-seen-weighing-on-sterling-bbh-202607311220",
-      "datum": "2026-07-31T12:20:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: ECB September hike still base case – TD Securities",
-      "link": "https://www.fxstreet.com/news/euro-ecb-september-hike-still-base-case-td-securities-202607311209",
-      "datum": "2026-07-31T12:09:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
       "titel": "Gold declines as firmer US Dollar, hawkish Fed outlook weigh",
       "link": "https://www.fxstreet.com/news/gold-declines-as-firmer-us-dollar-and-hawkish-fed-outlook-weigh-202607311148",
       "datum": "2026-07-31T11:48:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Eurozone inflation ticks up in July; USD/JPY intervention again?",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-eurozone-inflation-ticks-up-in-july-usd-jpy-intervention-again/",
-      "datum": "2026-07-31T11:23:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "How have interest rate expectations changed after this week's events?",
-      "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-0/",
-      "datum": "2026-07-31T10:56:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Italy July preliminary CPI +2.8% vs +2.8% y/y expected",
-      "link": "https://investinglive.com/news/italy-july-preliminary-cpi-xx-vs-2-8-y-y-expected/",
-      "datum": "2026-07-31T09:11:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Euro area inflation nudges up in July, keeps the pressure on the ECB",
-      "link": "https://investinglive.com/news/euro-area-inflation-nudges-up-in-july-keeps-the-pressure-on-the-ecb/",
-      "datum": "2026-07-31T09:11:15.000Z"
     }
   ]
 }

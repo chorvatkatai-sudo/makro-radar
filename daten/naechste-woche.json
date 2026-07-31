@@ -74,7 +74,7 @@
     "country": "CNY",
     "title": "RatingDog Manufacturing PMI",
     "impact": "High",
-    "forecast": "51.5",
+    "forecast": "52",
     "previous": "51.7",
     "actual": null,
     "quelle": "tradingview"
@@ -84,7 +84,7 @@
     "country": "CHF",
     "title": "Inflation Rate MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-0.1%",
     "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
@@ -104,7 +104,7 @@
     "country": "CHF",
     "title": "procure.ch Manufacturing PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "54.5",
     "previous": "54.3",
     "actual": null,
     "quelle": "tradingview"
@@ -144,7 +144,7 @@
     "country": "USD",
     "title": "ISM Manufacturing Prices",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "70",
     "previous": "73",
     "actual": null,
     "quelle": "tradingview"
@@ -154,7 +154,7 @@
     "country": "USD",
     "title": "ISM Manufacturing PMI",
     "impact": "High",
-    "forecast": "",
+    "forecast": "54",
     "previous": "53.3",
     "actual": null,
     "quelle": "tradingview"
@@ -184,8 +184,8 @@
     "country": "USD",
     "title": "Construction Spending MoM",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.1",
+    "forecast": "0.2%",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -234,7 +234,7 @@
     "country": "JPY",
     "title": "Monetary Base YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-13%",
     "previous": "-13.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -264,7 +264,7 @@
     "country": "AUD",
     "title": "Household Spending MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "1.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -322,7 +322,7 @@
   {
     "date": "2026-08-04T09:00:00.000Z",
     "country": "GBP",
-    "title": "New Conventional Gilt 2032",
+    "title": "Treasury Gilt 2032 Auctions",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -354,7 +354,7 @@
     "country": "USD",
     "title": "Balance of Trade",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-73 $",
     "previous": "-77.6 $",
     "actual": null,
     "quelle": "tradingview"
@@ -374,7 +374,7 @@
     "country": "CAD",
     "title": "Balance of Trade",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3 C$",
     "previous": "4.24 C$",
     "actual": null,
     "quelle": "tradingview"
@@ -434,7 +434,7 @@
     "country": "CAD",
     "title": "S&P Global Manufacturing PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "50.2",
     "previous": "53",
     "actual": null,
     "quelle": "tradingview"
@@ -454,7 +454,7 @@
     "country": "USD",
     "title": "RCM/TIPP Economic Optimism Index",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "47.5",
     "previous": "45.5",
     "actual": null,
     "quelle": "tradingview"
@@ -474,8 +474,8 @@
     "country": "USD",
     "title": "Factory Orders MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "-1.3",
+    "forecast": "0.5%",
+    "previous": "-1.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -484,7 +484,7 @@
     "country": "USD",
     "title": "JOLTs Job Openings",
     "impact": "High",
-    "forecast": "",
+    "forecast": "7.25",
     "previous": "7.594",
     "actual": null,
     "quelle": "tradingview"
@@ -534,7 +534,7 @@
     "country": "NZD",
     "title": "Labour Costs Index QoQ",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.6%",
     "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -544,7 +544,7 @@
     "country": "NZD",
     "title": "Employment Change QoQ",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -574,7 +574,7 @@
     "country": "NZD",
     "title": "Unemployment Rate",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "5.4%",
     "previous": "5.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -634,7 +634,7 @@
     "country": "JPY",
     "title": "Average Cash Earnings YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3.4%",
     "previous": "3.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -684,7 +684,7 @@
     "country": "CNY",
     "title": "RatingDog Services PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "53.7",
     "previous": "54.1",
     "actual": null,
     "quelle": "tradingview"
@@ -764,7 +764,7 @@
     "country": "EUR",
     "title": "PPI MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-0.3%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -864,7 +864,7 @@
     "country": "USD",
     "title": "ADP Employment Change",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "75",
     "previous": "98",
     "actual": null,
     "quelle": "tradingview"
@@ -924,7 +924,7 @@
     "country": "USD",
     "title": "ISM Services PMI",
     "impact": "High",
-    "forecast": "",
+    "forecast": "54.2",
     "previous": "54",
     "actual": null,
     "quelle": "tradingview"
@@ -1114,7 +1114,7 @@
     "country": "AUD",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "",
+    "forecast": "-1.08 A$",
     "previous": "-3.018 A$",
     "actual": null,
     "quelle": "tradingview"
@@ -1194,7 +1194,7 @@
     "country": "GBP",
     "title": "S&P Global Construction PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "40.2",
     "previous": "38.4",
     "actual": null,
     "quelle": "tradingview"
@@ -1204,8 +1204,8 @@
     "country": "EUR",
     "title": "Retail Sales MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.2",
+    "forecast": "0.1%",
+    "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1254,7 +1254,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "200",
     "previous": "197",
     "actual": null,
     "quelle": "tradingview"
@@ -1264,7 +1264,7 @@
     "country": "USD",
     "title": "Unit Labour Costs QoQ Prel",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.7%",
     "previous": "1.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -1274,7 +1274,7 @@
     "country": "USD",
     "title": "Nonfarm Productivity QoQ Prel",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.7%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1390,12 +1390,22 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-08-06T21:30:00.000Z",
+    "country": "USD",
+    "title": "Fed Musalem Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-08-06T23:30:00.000Z",
     "country": "JPY",
     "title": "Household Spending YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "-0.3",
+    "forecast": "0.9%",
+    "previous": "-0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1434,7 +1444,7 @@
     "country": "CNY",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "",
+    "forecast": "112.5 $",
     "previous": "125.62 $",
     "actual": null,
     "quelle": "tradingview"
@@ -1484,7 +1494,7 @@
     "country": "JPY",
     "title": "Leading Economic Index Prel",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "116.5",
     "previous": "116.5",
     "actual": null,
     "quelle": "tradingview"
@@ -1494,7 +1504,7 @@
     "country": "GBP",
     "title": "Lloyds House Price Index MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1514,7 +1524,7 @@
     "country": "CHF",
     "title": "Consumer Confidence",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-35",
     "previous": "-36",
     "actual": null,
     "quelle": "tradingview"
@@ -1614,7 +1624,7 @@
     "country": "USD",
     "title": "Average Hourly Earnings MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1654,7 +1664,7 @@
     "country": "CAD",
     "title": "Unemployment Rate",
     "impact": "High",
-    "forecast": "",
+    "forecast": "6.5%",
     "previous": "6.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1664,7 +1674,7 @@
     "country": "CAD",
     "title": "Employment Change",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "15",
     "previous": "18.2",
     "actual": null,
     "quelle": "tradingview"
@@ -1734,8 +1744,18 @@
     "country": "CAD",
     "title": "Ivey PMI s.a",
     "impact": "High",
-    "forecast": "",
+    "forecast": "55.4",
     "previous": "56.2",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-07T14:00:00.000Z",
+    "country": "USD",
+    "title": "Fed Barkin Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1774,8 +1794,8 @@
     "country": "USD",
     "title": "Consumer Credit Change",
     "impact": "Low",
-    "forecast": "",
-    "previous": "-0.18",
+    "forecast": "12.1 $",
+    "previous": "-0.18 $",
     "actual": null,
     "quelle": "tradingview"
   }

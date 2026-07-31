@@ -632,20 +632,20 @@
     "previous": "0.0%"
   },
   {
-    "title": "BOJ Press Conference",
-    "country": "JPY",
-    "date": "2026-07-31T02:05:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "Retail Sales y/y",
     "country": "CHF",
     "date": "2026-07-31T02:30:00-04:00",
     "impact": "Low",
     "forecast": "3.1%",
     "previous": "3.5%"
+  },
+  {
+    "title": "BOJ Press Conference",
+    "country": "JPY",
+    "date": "2026-07-31T02:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "French Prelim CPI m/m",

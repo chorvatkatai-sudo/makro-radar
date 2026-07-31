@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-31T06:39:53.220Z",
+  "stand": "2026-07-31T08:37:49.029Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Intervention and cautious BoJ stance – Commerzbank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-and-cautious-boj-stance-commerzbank-202607310629",
-      "datum": "2026-07-31T06:29:36.000Z"
+      "titel": "Federal Reserve: Prolonged pause with hike risks – UOB",
+      "link": "https://www.fxstreet.com/news/federal-reserve-prolonged-pause-with-hike-risks-uob-202607310830",
+      "datum": "2026-07-31T08:30:46.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: Euro is testing trendline support at 0.8555",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-is-testing-trendline-support-at-08555-202607310619",
-      "datum": "2026-07-31T06:19:23.000Z"
+      "titel": "British Pound struggles to extend recovery against Japanese Yen",
+      "link": "https://www.fxstreet.com/news/british-pound-struggles-to-extend-recovery-against-japanese-yen-202607310824",
+      "datum": "2026-07-31T08:24:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CAD Price Forecast: Steadies above June low as bears await 1.4000 breakdown",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-steadies-above-june-low-as-bears-await-14000-breakdown-202607310818",
+      "datum": "2026-07-31T08:18:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: September hike path shaped by Iran war – Nomura",
+      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-path-shaped-by-iran-war-nomura-202607310811",
+      "datum": "2026-07-31T08:11:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Japanese Yen retreats after rallying on suspected intervention, BoJ holds steady",
+      "link": "https://www.fxstreet.com/news/forex-today-japanese-yen-retreats-after-rallying-on-suspected-intervention-boj-holds-steady-202607310806",
+      "datum": "2026-07-31T08:06:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Intervention risks and BoJ stance – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risks-and-boj-stance-mufg-202607310804",
+      "datum": "2026-07-31T08:04:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "German unemployment rises by slightly more than anticipated in July",
+      "link": "https://investinglive.com/news/german-unemployment-rises-by-slightly-more-than-anticipated-in-july/",
+      "datum": "2026-07-31T08:03:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Previous highs around 0.5860 are holding bears for now",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-previous-highs-around-05860-are-holding-bears-for-now-202607310753",
+      "datum": "2026-07-31T07:53:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Middle distillate tightness supports prices – ING",
+      "link": "https://www.fxstreet.com/news/oil-middle-distillate-tightness-supports-prices-ing-202607310753",
+      "datum": "2026-07-31T07:53:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones futures rise as tech rally, AI optimism drive market rebound",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-tech-rally-ai-optimism-drive-market-rebound-202607310744",
+      "datum": "2026-07-31T07:44:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Supported by growth surprise – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-supported-by-growth-surprise-commerzbank-202607310738",
+      "datum": "2026-07-31T07:38:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of England: Dovish hold shapes Pound outlook – UOB",
+      "link": "https://www.fxstreet.com/news/bank-of-england-dovish-hold-shapes-pound-outlook-uob-202607310728",
+      "datum": "2026-07-31T07:28:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "French inflation accelerates in July, reaffirming the broader trend in the region",
+      "link": "https://investinglive.com/news/french-inflation-accelerates-in-july-reaffirming-the-broader-trend-in-the-region/",
+      "datum": "2026-07-31T07:03:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-15/",
+      "datum": "2026-07-31T06:38:26.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "UK annual house price growth slows in July - Nationwide",
       "link": "https://investinglive.com/news/uk-annual-house-price-growth-slows-in-july-nationwide/",
       "datum": "2026-07-31T06:08:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Weakens below 1.3450 while technical uptrend stays intact",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-weakens-below-13450-while-technical-uptrend-stays-intact-202607310552",
-      "datum": "2026-07-31T05:52:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee hits fresh two-week high against US Dollar",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-week-high-against-us-dollar-202607310543",
-      "datum": "2026-07-31T05:43:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI falls to near $80.50 on profit-taking, increased traffic through Strait of Hormuz",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-8050-on-profit-taking-increased-traffic-through-strait-of-hormuz-202607310516",
-      "datum": "2026-07-31T05:16:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains",
-      "link": "https://www.fxstreet.com/news/asian-stocks-surge-led-by-kospi-on-ai-optimism-wall-street-gains-202607310508",
-      "datum": "2026-07-31T05:08:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar retreats on sliding oil prices as USD recovers on Fed bets, Mideast risks",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-retreats-on-sliding-oil-prices-as-usd-recovers-on-fed-bets-mideast-risks-202607310503",
-      "datum": "2026-07-31T05:03:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Rare Japan-South Korea joint intervention lifts Yen and Won — Reuters",
-      "link": "https://www.fxstreet.com/news/rare-japan-south-korea-joint-intervention-lifts-yen-and-won-reuters-202607310441",
-      "datum": "2026-07-31T04:41:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607310435",
-      "datum": "2026-07-31T04:35:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah loses ground following China PMI release",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-loses-ground-following-china-pmi-release-202607310424",
-      "datum": "2026-07-31T04:24:01.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -80,7 +104,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold sticks to intraday losses as Fed hike bets and Iran risks revive USD demand",
+      "titel": "Gold weakens towards $4,050 as USD preserves gains on Iran risks and Fed hike bets",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-usd-recovers-amid-fed-hike-bets-and-geopolitical-tensions-202607310355",
       "datum": "2026-07-31T03:55:06.000Z"
     },
@@ -89,30 +113,6 @@
       "titel": "China July manufacturing PMI 49.2 vs 50.0 expected",
       "link": "https://investinglive.com/news/china-july-manufacturing-pmi-49-2-vs-50-0-expected/",
       "datum": "2026-07-31T01:32:48.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia Q2 PPI +3.6% vs +3.0% prior",
-      "link": "https://investinglive.com/news/australia-q2-ppi-vs-3-0-prior/",
-      "datum": "2026-07-31T01:30:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan June prelim industrial production +1.3% m/m vs +0.7% expected",
-      "link": "https://investinglive.com/news/japan-june-prelim-industrial-production-1-3-m-m-vs-0-7-expected/",
-      "datum": "2026-07-30T23:51:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan unemployment rate 2.5% vs 2.5% expected",
-      "link": "https://investinglive.com/news/japan-unemployment-rate-2-5-vs-2-5-expected/",
-      "datum": "2026-07-30T23:32:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NZ consumer confidence bounces to 99.3 from 91.3",
-      "link": "https://investinglive.com/news/nz-consumer-confidence-bounces-to-99-3-from-91-3/",
-      "datum": "2026-07-30T22:33:58.000Z"
     }
   ]
 }

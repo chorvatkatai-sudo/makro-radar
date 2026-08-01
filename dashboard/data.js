@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-07-31T17:26:06.113Z",
+ "erstellt": "2026-08-01T05:03:11.575Z",
  "wochenStart": "2026-07-26",
  "events": [
   {
@@ -2812,21 +2812,20 @@ window.MAKRO_DATA = {
    "ÜBERFÜLLTE POSITIONEN SIND BRENNSTOFF: Alle Majors sind netto-short gegen den Dollar (COT 21.7.), NZD/EUR/CAD sogar erhöht/extrem. Wenn der Dollar fällt, werden diese Shorts zurückgekauft (Squeeze) und verstärken die Bewegung. Das ist der Grund, warum ich EUR/CAD/NZD trotz demütiger Track-Records leicht aufwärts sehe — nicht wegen Makro allein, sondern wegen der Positionierung."
   ],
   "tagesnews": {
-   "stand": "2026-07-31",
-   "wochentag": "Freitag",
-   "tenor": "DOLLAR UNTER DRUCK: Ein Doppelschlag am Donnerstag — mageres US-Wachstum (BIP nur +1,5 % statt erwartet 2,1 %) plus kühlere Fed-Lieblings-Inflation (Kern-PCE nur +0,1 %) — hat den Dollar-Index unter die 100er-Marke gedrückt und EUR/USD auf ein 6-Wochen-Hoch gehoben. Heute schließt die Notenbank-Superwoche: Die Bank of Japan hielt bei 1,00 %, der Yen steht auf einem 40-Jahres-Tief (Interventionsverdacht), dazu kommt die Euro-Inflation.",
+   "stand": "2026-08-01",
+   "wochentag": "Samstag",
+   "tenor": "WOCHENENDE — die Märkte ruhen. Rückblick auf eine Woche, die den Dollar geschwächt hat: Fed, BoE und BoJ hielten alle still und klangen falkenhaft, doch schwaches US-Wachstum (+1,5 %) und kühle Kern-Inflation (Kern-PCE +0,1 %) übertönten die Falken-Worte — der Dollar-Index rutschte unter 100 auf 6-Wochen-Tiefs. Nächste Woche wird ruhig bis zum großen US-Jobbericht am Freitag (7.8.).",
    "heute": [
-    "🇯🇵 BANK OF JAPAN hielt bei 1,00 % (8:1-Stimmen — ein Falke wollte erhöhen) und hob die Wachstumsprognose leicht an. Kinderleicht: Kein Zins-Schritt, und weil Japans Zinsen so niedrig bleiben, ist der Yen so schwach wie seit ~40 Jahren nicht (rund 163 Yen je Dollar). Am Donnerstagabend sprang der Yen plötzlich ~2 % nach oben → starker Verdacht, dass Japans Regierung eingegriffen hat, um den Yen zu stützen. HEISS: Das Interventionsrisiko bleibt extrem hoch.",
-    "🇪🇺 HEUTE 11:00 Wien: Euro-Inflation Juli (Schnellschätzung) — erwartet ~2,9 % im Jahr (von 2,8 %), Kern stabil bei 2,4 %. Kinderleicht: Steigt die Inflation wegen des teureren Öls wieder, bleibt die EZB auf Straffungskurs (mögliche Erhöhung im September) → stützt den Euro. Das ist die letzte große Inflationszahl vor der EZB-Sitzung.",
-    "🇨🇳 China: Einkaufsmanager-Indizes (PMI) für Juli. Kinderleicht: Ein Frühindikator, wie es Chinas Fabriken geht — wichtig für die rohstoffnahen Währungen Aussie-Dollar und Kiwi.",
-    "🏁 Damit endet die Notenbank-Superwoche (Fed Mi, BoE Do, BoJ Fr). Kernbild: Die Falken reden viel, handeln aber wenig — und das schwache US-Wachstum lässt den Dollar bröckeln."
+    "🛌 SAMSTAG — kein Handel, keine neuen Zahlen. Der Devisenmarkt macht Wochenende; die Kurse von Freitag gelten bis Montagfrüh. Zeit zum Durchatmen.",
+    "💵 WOCHENFAZIT: Der Dollar-Index (DXY) schloss bei ~100 (−1,3 % auf der Woche), EUR/USD auf einem 6-Wochen-Hoch (~1,153). Kernlehre der Woche: Falken-TON allein hält den Dollar nicht — das WACHSTUM entscheidet, und das war zu schwach. Risikofreude ist zurück (Angst-Barometer VIX tief bei ~16,8).",
+    "🔮 AUSBLICK NÄCHSTE WOCHE (4.–7.8., ruhig bis Freitag): Mo US-ISM-Industrie, Mi US-ISM-Dienstleistungen, und der Höhepunkt am 🇺🇸 FREITAG 7.8. um 14:30 Wien — der US-Jobbericht (NFP) für Juli. Kinderleicht: Nach dem Mini-Wert vom Vormonat (+57k) ist das Risiko wieder nach unten offen — ein schwacher Bericht könnte den Dollar weiter drücken."
    ],
    "gestern": [
-    "🇺🇸 US-KERN-PCE (die Fed-Lieblings-Inflation) kam KÜHL: nur +0,1 % zum Vormonat (erwartet +0,2 %), im Jahr 3,3 % (von 3,4 %). Die Gesamt-PCE fiel auf 3,7 % (von 4,1 %, dank billigerem Energie). Kinderleicht: Die Inflation kühlt weiter ab → die September-Erhöhungs-Wette der Fed-Falken bröckelt → Dollar runter.",
-    "🇺🇸 US-WIRTSCHAFT WÄCHST NUR +1,5 % (Q2, aufs Jahr hochgerechnet) — deutlich weniger als die erwarteten 2,1 %. ABER: Der Konsum sprang kräftig an (+3,2 %), gebremst haben vor allem hohe Importe. Kinderleicht: Die US-Wirtschaft verliert an Tempo — schlecht für den Dollar, aber der Verbraucher hält sich wacker.",
-    "💵 DOLLAR VERKAUFT SICH AB: Der Dollar-Index fiel kurz unter 100, EUR/USD stieg auf ein 6-Wochen-Hoch (~1,153). Kinderleicht: Schwaches Wachstum + kühle Inflation = weniger Grund für hohe US-Zinsen → der Dollar verliert an Anziehungskraft.",
-    "🇬🇧 BANK OF ENGLAND hielt bei 3,75 % (6:3-Stimmen — jetzt wollen DREI erhöhen, einer mehr als zuvor). Chef Bailey bremste aber die Zins-Erhöhungs-Fantasie. Kinderleicht: Kein Schritt, aber die Falken-Fraktion wächst wegen des teureren Öls → Pfund fest (Blick Richtung 1,34).",
-    "🇪🇺 EURO-WIRTSCHAFT ÜBERRASCHT POSITIV: BIP Q2 +0,4 % (erwartet nur +0,2 %). Kinderleicht: Die Euro-Wirtschaft läuft besser als gedacht → die EZB kann hart bleiben → Rückenwind für den Euro."
+    "🇪🇺 FREITAG: Euro-Inflation (Juli, Schnellschätzung) tickte auf ~2,9 % im Jahr HOCH (Kern 2,5 %). Kinderleicht: Die Teuerung im Euroraum steigt wieder leicht (teureres Öl) → die EZB bleibt auf Straffungskurs (mögliche Erhöhung im September). Der Markt preist bereits zwei weitere EZB-Schritte bis Anfang 2027 → Rückenwind für den Euro.",
+    "🇯🇵 FREITAG: Die BANK OF JAPAN hielt bei 1,00 % (8:1) und hob die Wachstumsprognose leicht an. Der Yen bleibt auf einem 40-Jahres-Tief (~163 je Dollar); nach dem mutmaßlichen Eingriff der Regierung am Donnerstag bleibt das Interventionsrisiko extrem hoch.",
+    "🇺🇸 DONNERSTAG: US-Kern-PCE (Fed-Lieblings-Inflation) KÜHL bei +0,1 % zum Vormonat (erwartet +0,2 %), plus US-Wachstum nur +1,5 % (statt 2,1 %). Dieser Doppelschlag drückte den Dollar unter 100 — die September-Erhöhungs-Wette der Fed bröckelte.",
+    "🇺🇸 MITTWOCH: Die FED hielt bei 3,50–3,75 % — aber DREI Mitglieder stimmten FÜR eine Erhöhung (die meisten Dissenten seit 2016). Chef Warsh nennt die Inflation weiter „zu hoch\". Kinderleicht: Die Notenbank bleibt hart im Ton, handelt aber nicht — der Markt gibt der September-Erhöhung noch ~65 % Chance.",
+    "🇬🇧 DONNERSTAG: Die BANK OF ENGLAND hielt bei 3,75 % (6:3 — drei wollen erhöhen), Chef Bailey bremste aber die Zins-Fantasie. Pfund fest."
    ]
   }
  },

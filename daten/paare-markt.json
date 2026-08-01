@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-01T05:03:11.574Z",
+  "stand": "2026-08-01T05:03:45.609Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -10,16 +10,16 @@
       "tiltZins": 0,
       "tiltGesamt": -1,
       "score": 6,
-      "cotExtrem": "erhoeht",
+      "cotExtrem": "extrem",
       "treiber": "Aufwärts: Euro-BIP-Beat + hochtickende Inflation + Dollar-Riss; COT-Shorts als Squeeze-Brennstoff. (Track 17 % → moderat.)"
     },
     {
       "paar": "GBP/USD",
       "baseScore": 6,
-      "tiltCot": -4,
+      "tiltCot": -5,
       "tiltZins": 0,
-      "tiltGesamt": -4,
-      "score": 2,
+      "tiltGesamt": -5,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Aufwärts: BoE-Falken wachsen (3 Dissenten) + weicher Dollar; Bailey deckelt."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": 0,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Abwärts: Dollar weich + aktive Yen-Intervention + steigende Yen-Zinsdifferenz. Aber Carry heavy + Track 2/6 → klein."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 3,
       "tiltCot": -3,
-      "tiltZins": -4,
-      "tiltGesamt": -7,
-      "score": -4,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Leicht aufwärts: Risk-on + Dollar-Schwäche gegen kühlere CPI/gestrichene RBA-Wetten. China-PMI-Risiko."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -5,
       "tiltCot": 5,
-      "tiltZins": 2,
-      "tiltGesamt": 7,
-      "score": 2,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Abwärts: Dollar-Schwäche hebt den Franken; Risk-on trimmt aber den Hafen-Bonus."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 4,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -3,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": -1,
       "cotExtrem": "erhoeht",
       "treiber": "Aufwärts: extremer Kiwi-Short-Squeeze + Dollar-Riss + Risk-on. (Track 20 % → demütig.)"
     }

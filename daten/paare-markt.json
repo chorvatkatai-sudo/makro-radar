@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-02T05:03:23.501Z",
+  "stand": "2026-08-02T05:03:56.455Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 7,
       "tiltCot": -1,
-      "tiltZins": 0,
-      "tiltGesamt": -1,
-      "score": 6,
+      "tiltZins": 1,
+      "tiltGesamt": 0,
+      "score": 7,
       "cotExtrem": "extrem",
       "treiber": "Aufwärts: Euro-BIP-Beat + hochtickende Inflation + Dollar-Riss; COT-Shorts als Squeeze-Brennstoff. (Track 17 % → moderat.)"
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": -1,
+      "tiltZins": -4,
+      "tiltGesamt": 1,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Abwärts: Dollar weich + aktive Yen-Intervention + steigende Yen-Zinsdifferenz. Aber Carry heavy + Track 2/6 → klein."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 3,
       "tiltCot": -3,
-      "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -2,
+      "tiltZins": -4,
+      "tiltGesamt": -7,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Leicht aufwärts: Risk-on + Dollar-Schwäche gegen kühlere CPI/gestrichene RBA-Wetten. China-PMI-Risiko."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -6,
       "tiltCot": 5,
-      "tiltZins": -3,
-      "tiltGesamt": 2,
-      "score": -4,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": -3,
       "cotExtrem": "erhoeht",
       "treiber": "Abwärts: Öl + falkenhafte BoC + Loonie-Short-Squeeze bei weichem Dollar. (Track 17 % → moderat.)"
     },

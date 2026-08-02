@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-01T13:08:04.654Z",
+ "erstellt": "2026-08-02T05:03:23.502Z",
  "wochenStart": "2026-07-26",
  "events": [
   {
@@ -2812,12 +2812,13 @@ window.MAKRO_DATA = {
    "ÜBERFÜLLTE POSITIONEN SIND BRENNSTOFF: Alle Majors sind netto-short gegen den Dollar (COT 21.7.), NZD/EUR/CAD sogar erhöht/extrem. Wenn der Dollar fällt, werden diese Shorts zurückgekauft (Squeeze) und verstärken die Bewegung. Das ist der Grund, warum ich EUR/CAD/NZD trotz demütiger Track-Records leicht aufwärts sehe — nicht wegen Makro allein, sondern wegen der Positionierung."
   ],
   "tagesnews": {
-   "stand": "2026-08-01",
-   "wochentag": "Samstag",
-   "tenor": "WOCHENENDE — die Märkte ruhen. Rückblick auf eine Woche, die den Dollar geschwächt hat: Fed, BoE und BoJ hielten alle still und klangen falkenhaft, doch schwaches US-Wachstum (+1,5 %) und kühle Kern-Inflation (Kern-PCE +0,1 %) übertönten die Falken-Worte — der Dollar-Index rutschte unter 100 auf 6-Wochen-Tiefs. Nächste Woche wird ruhig bis zum großen US-Jobbericht am Freitag (7.8.).",
+   "stand": "2026-08-02",
+   "wochentag": "Sonntag",
+   "tenor": "WOCHENENDE, Tag 2 — die Märkte ruhen weiter. Rückblick auf eine Dollar-schwache Woche: Fed, BoE und BoJ hielten alle still und klangen falkenhaft, doch schwaches US-Wachstum (+1,5 %) und kühle Kern-Inflation (Kern-PCE +0,1 %) übertönten die Falken-Worte — der Dollar-Index schloss unter 100 (99,8) auf 6-Wochen-Tiefs. Ab Montagfrüh geht's wieder los; ruhig bis zum großen US-Jobbericht am Freitag (7.8.).",
    "heute": [
-    "🛌 SAMSTAG — kein Handel, keine neuen Zahlen. Der Devisenmarkt macht Wochenende; die Kurse von Freitag gelten bis Montagfrüh. Zeit zum Durchatmen.",
-    "💵 WOCHENFAZIT: Der Dollar-Index (DXY) schloss bei ~100 (−1,3 % auf der Woche), EUR/USD auf einem 6-Wochen-Hoch (~1,153). Kernlehre der Woche: Falken-TON allein hält den Dollar nicht — das WACHSTUM entscheidet, und das war zu schwach. Risikofreude ist zurück (Angst-Barometer VIX tief bei ~16,8).",
+    "🛌 SONNTAG — kein Handel, keine neuen Zahlen. Der Devisenmarkt schläft noch; die Freitags-Schlusskurse gelten bis Montagfrüh (Asien-Eröffnung). Kurz durchatmen vor der neuen Woche.",
+    "💵 WOCHENFAZIT: Der Dollar-Index (DXY) schloss bei 99,8 (−1,7 % auf der Woche, erstmals seit 6 Wochen klar unter 100), EUR/USD auf einem 6-Wochen-Hoch (~1,153). Kernlehre: Falken-TON allein hält den Dollar nicht — das WACHSTUM entscheidet, und das war zu schwach. Risikofreude klar zurück (Angst-Barometer VIX tief bei ~16).",
+    "🛢️ Öl bleibt fest (WTI ~85 $, Brent ~90 $): Der Nahost-Konflikt hält die Preise oben — Rückenwind für den Kanada-Dollar (CAD), Gegenwind für Euro und Yen (teurer Import). Ob es eskaliert, entscheidet den Montags-Start.",
     "🔮 AUSBLICK NÄCHSTE WOCHE (4.–7.8., ruhig bis Freitag): Mo US-ISM-Industrie, Mi US-ISM-Dienstleistungen, und der Höhepunkt am 🇺🇸 FREITAG 7.8. um 14:30 Wien — der US-Jobbericht (NFP) für Juli. Kinderleicht: Nach dem Mini-Wert vom Vormonat (+57k) ist das Risiko wieder nach unten offen — ein schwacher Bericht könnte den Dollar weiter drücken."
    ],
    "gestern": [

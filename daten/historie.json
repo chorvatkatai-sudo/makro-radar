@@ -6916,7 +6916,7 @@
       "land": "EUR",
       "titel": "Spanish Unemployment Change",
       "impact": "Low",
-      "prognose": "-20.3K",
+      "prognose": "-18.4K",
       "vorher": "-28.7K",
       "actual": null,
       "notiz": null
@@ -6926,7 +6926,7 @@
       "land": "EUR",
       "titel": "Italian Retail Sales m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.3%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -6956,7 +6956,7 @@
       "land": "CAD",
       "titel": "Manufacturing PMI",
       "impact": "Low",
-      "prognose": "50.2",
+      "prognose": "52.2",
       "vorher": "53.0",
       "actual": null,
       "notiz": null
@@ -6966,7 +6966,7 @@
       "land": "USD",
       "titel": "JOLTS Job Openings",
       "impact": "Medium",
-      "prognose": "7.42M",
+      "prognose": "7.44M",
       "vorher": "7.59M",
       "actual": null,
       "notiz": null
@@ -6976,7 +6976,7 @@
       "land": "USD",
       "titel": "Factory Orders m/m",
       "impact": "Low",
-      "prognose": "0.0%",
+      "prognose": "0.2%",
       "vorher": "-1.3%",
       "actual": null,
       "notiz": null
@@ -7096,7 +7096,7 @@
       "land": "EUR",
       "titel": "Spanish Services PMI",
       "impact": "Low",
-      "prognose": "54.8",
+      "prognose": "54.9",
       "vorher": "54.2",
       "actual": null,
       "notiz": null
@@ -7106,7 +7106,7 @@
       "land": "EUR",
       "titel": "Italian Services PMI",
       "impact": "Low",
-      "prognose": "51.2",
+      "prognose": "51.0",
       "vorher": "50.2",
       "actual": null,
       "notiz": null
@@ -7156,7 +7156,7 @@
       "land": "EUR",
       "titel": "PPI m/m",
       "impact": "Low",
-      "prognose": "-0.3%",
+      "prognose": "-0.2%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -7166,7 +7166,7 @@
       "land": "USD",
       "titel": "ADP Non-Farm Employment Change",
       "impact": "Medium",
-      "prognose": "71K",
+      "prognose": "68K",
       "vorher": "98K",
       "actual": null,
       "notiz": null
@@ -7216,7 +7216,7 @@
       "land": "AUD",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-1.08B",
+      "prognose": "-1.06B",
       "vorher": "-3.02B",
       "actual": null,
       "notiz": null
@@ -7326,7 +7326,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "205K",
+      "prognose": "203K",
       "vorher": "197K",
       "actual": null,
       "notiz": null
@@ -7615,6 +7615,16 @@
       "datum": "2026-08-04T20:15:00-04:00",
       "land": "USD",
       "titel": "FOMC Member Schmid Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-03T14:00:00-04:00|USD|Loan Officer Survey": {
+      "datum": "2026-08-03T14:00:00-04:00",
+      "land": "USD",
+      "titel": "Loan Officer Survey",
       "impact": "Low",
       "prognose": "",
       "vorher": "",

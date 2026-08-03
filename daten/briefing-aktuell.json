@@ -14,80 +14,80 @@
   "waehrungen": {
     "USD": {
       "stimmung": "bärisch",
-      "score": -6,
-      "grund": "Der Riss wird tiefer: schwaches BIP (+1,5 %) + kühle Kern-PCE (+0,1 %) drückten den DXY unter 100. Aber Warsh falkenhaft (3 wollten erhöhen!) + hohe Realzinsen (~2,3 %) geben einen Boden — angeknackst, nicht gebrochen."
+      "score": -8,
+      "grund": "Dollar-Index unter 100 (schlechteste Woche seit 3 Monaten) — schwaches Wachstum + kühle Inflation übertönen den Falken-Ton. ISM heute + NFP Fr sind die Tests."
     },
     "EUR": {
       "stimmung": "bullisch",
-      "score": 6,
-      "grund": "BIP-Beat (+0,4 %) + Inflation tickt hoch (2,9 %/Kern 2,5 %) → EZB kann September-Erhöhung offenhalten; EUR/USD 6-Wochen-Hoch. Aber EUR/USD-Trefferquote nur 17 % → bewusst moderat."
+      "score": 7,
+      "grund": "6-Wochen-Hoch, hochtickende Inflation (2,9 %) + EZB-Straffungskurs; EUR-COT-Shorts extrem = Squeeze-Brennstoff."
     },
     "GBP": {
       "stimmung": "bullisch",
       "score": 5,
-      "grund": "BoE-Hold, aber jetzt 3 von 9 wollen erhöhen (Falken-Fraktion wächst) — Chef Bailey bremste die Fantasie aber. Netto leicht fest bei weichem Dollar."
+      "grund": "BoE-Falken (3 Dissenten für Erhöhung), weicher Dollar; Bailey bremst die Fantasie."
     },
     "JPY": {
       "stimmung": "neutral",
-      "score": 3,
-      "grund": "BoJ-Hold + angehobene Wachstumsprognose + Yen-Zinsdifferenz stieg diese Woche am stärksten; Intervention hat ~2 % Sprung ausgelöst. Aber ~163 = 40-Jahres-Tief, schwerer Carry + Track 2/6 → nahe null."
+      "score": 4,
+      "grund": "Kräftiger Sprung nach Intervention (~156,5) + steigende Zinsdifferenz, aber Carry-Gegenwind + schwacher Track-Record → vorsichtig."
     },
     "CHF": {
       "stimmung": "neutral",
       "score": 2,
-      "grund": "Weicher Dollar hebt den Franken mechanisch an, aber die ruhige Risk-on-Stimmung (VIX 16,7) nimmt dem sicheren Hafen die Nachfrage. SNB bei 0 %."
+      "grund": "Dollar-Schwäche gibt Bid, aber Risk-on (VIX 16) trimmt den Hafen-Bonus."
     },
     "CAD": {
       "stimmung": "bullisch",
       "score": 6,
-      "grund": "Öl noch hoch (~84 $) + falkenhafte BoC (Erhöhungs-Warnung im Bericht) + überfüllte Loonie-Shorts (COT erhöht) = Squeeze-Zünder bei weichem Dollar. Aber USD/CAD-Track nur 17 % → moderat; CAD-Jobs Fr."
+      "grund": "Fester Öl-Preis + falkenhafte BoC + Loonie-Short-Squeeze; CAD-Jobs Fr als Test."
     },
     "AUD": {
       "stimmung": "neutral",
-      "score": 2,
-      "grund": "Kühlere CPI (3,9 %) + fast gestrichene RBA-Wetten + gefallene Zinsdifferenz drücken; Risk-on + weicher Dollar heben. Unterm Strich Wäsche → neutral. China-PMI im Blick."
+      "score": 3,
+      "grund": "Risk-on + Dollar-Schwäche gegen China-Daten-Risiko."
     },
     "NZD": {
       "stimmung": "neutral",
       "score": 3,
-      "grund": "Extrem überfüllte Kiwi-Shorts (COT z −1,7) = größtes Squeeze-Risiko bei fallendem Dollar; Risk-on hilft. Aber Track 20 % → demütig."
+      "grund": "Extremer Short-Squeeze + Dollar-Riss + Risk-on; schwacher Track-Record → demütig."
     }
   },
   "paare": [
     {
       "paar": "EUR/USD",
-      "score": 7,
-      "treiber": "Aufwärts: Euro-BIP-Beat + hochtickende Inflation + Dollar-Riss; COT-Shorts als Squeeze-Brennstoff. (Track 17 % → moderat.)"
+      "score": 8,
+      "treiber": "Aufwärts: Dollar unter 100 + 6-Wochen-Hoch (~1,153) + EUR-COT-Shorts EXTREM (z −2,0 = Squeeze-Brennstoff). Aber Track 14 % → bewusst moderat."
     },
     {
       "paar": "GBP/USD",
       "score": 6,
-      "treiber": "Aufwärts: BoE-Falken wachsen (3 Dissenten) + weicher Dollar; Bailey deckelt."
+      "treiber": "Aufwärts: weicher Dollar + BoE-Falken (3 Dissenten), Bailey deckelt. Pfund fest."
     },
     {
       "paar": "USD/JPY",
-      "score": -4,
-      "treiber": "Abwärts: Dollar weich + aktive Yen-Intervention + steigende Yen-Zinsdifferenz. Aber Carry heavy + Track 2/6 → klein."
+      "score": -8,
+      "treiber": "Abwärts: Yen-Sprung auf ~156,5 nach Intervention + weicher Dollar + steigende Yen-Zinsdifferenz. Carry heavy + Track 2/7 → nicht übertreiben."
     },
     {
       "paar": "AUD/USD",
-      "score": 3,
-      "treiber": "Leicht aufwärts: Risk-on + Dollar-Schwäche gegen kühlere CPI/gestrichene RBA-Wetten. China-PMI-Risiko."
+      "score": 4,
+      "treiber": "Leicht aufwärts: Risk-on (VIX ~16) + Dollar-Schwäche. China-Daten-Risiko."
     },
     {
       "paar": "USD/CAD",
       "score": -6,
-      "treiber": "Abwärts: Öl + falkenhafte BoC + Loonie-Short-Squeeze bei weichem Dollar. (Track 17 % → moderat.)"
+      "treiber": "Abwärts: fester Öl-Preis + weicher Dollar + Loonie-Short-Squeeze. CAD-Jobs Fr = Risiko."
     },
     {
       "paar": "USD/CHF",
-      "score": -5,
+      "score": -6,
       "treiber": "Abwärts: Dollar-Schwäche hebt den Franken; Risk-on trimmt aber den Hafen-Bonus."
     },
     {
       "paar": "NZD/USD",
       "score": 4,
-      "treiber": "Aufwärts: extremer Kiwi-Short-Squeeze + Dollar-Riss + Risk-on. (Track 20 % → demütig.)"
+      "treiber": "Aufwärts: extremer Kiwi-Short-Squeeze + Dollar-Riss + Risk-on. (Track 17 % → demütig.)"
     }
   ],
   "wochenausblick": {
@@ -177,21 +177,20 @@
     "ÜBERFÜLLTE POSITIONEN SIND BRENNSTOFF: Alle Majors sind netto-short gegen den Dollar (COT 21.7.), NZD/EUR/CAD sogar erhöht/extrem. Wenn der Dollar fällt, werden diese Shorts zurückgekauft (Squeeze) und verstärken die Bewegung. Das ist der Grund, warum ich EUR/CAD/NZD trotz demütiger Track-Records leicht aufwärts sehe — nicht wegen Makro allein, sondern wegen der Positionierung."
   ],
   "tagesnews": {
-    "stand": "2026-08-02",
-    "wochentag": "Sonntag",
-    "tenor": "WOCHENENDE, Tag 2 — die Märkte ruhen weiter. Rückblick auf eine Dollar-schwache Woche: Fed, BoE und BoJ hielten alle still und klangen falkenhaft, doch schwaches US-Wachstum (+1,5 %) und kühle Kern-Inflation (Kern-PCE +0,1 %) übertönten die Falken-Worte — der Dollar-Index schloss unter 100 (99,8) auf 6-Wochen-Tiefs. Ab Montagfrüh geht's wieder los; ruhig bis zum großen US-Jobbericht am Freitag (7.8.).",
+    "stand": "2026-08-03",
+    "wochentag": "Montag",
+    "tenor": "Neue Woche, gleicher Trend: Der Dollar startet SCHWACH unter die Marke von 100 (DXY ~99,7) und der Yen springt kräftig hoch (~156,5 je Dollar) — nach dem mutmaßlichen Regierungs-Eingriff letzte Woche. Heute liefert die US-Industrie-Umfrage (ISM) den ersten Impuls; der große Test ist der US-Jobbericht am Freitag.",
     "heute": [
-      "🛌 SONNTAG — kein Handel, keine neuen Zahlen. Der Devisenmarkt schläft noch; die Freitags-Schlusskurse gelten bis Montagfrüh (Asien-Eröffnung). Kurz durchatmen vor der neuen Woche.",
-      "💵 WOCHENFAZIT: Der Dollar-Index (DXY) schloss bei 99,8 (−1,7 % auf der Woche, erstmals seit 6 Wochen klar unter 100), EUR/USD auf einem 6-Wochen-Hoch (~1,153). Kernlehre: Falken-TON allein hält den Dollar nicht — das WACHSTUM entscheidet, und das war zu schwach. Risikofreude klar zurück (Angst-Barometer VIX tief bei ~16).",
-      "🛢️ Öl bleibt fest (WTI ~85 $, Brent ~90 $): Der Nahost-Konflikt hält die Preise oben — Rückenwind für den Kanada-Dollar (CAD), Gegenwind für Euro und Yen (teurer Import). Ob es eskaliert, entscheidet den Montags-Start.",
-      "🔮 AUSBLICK NÄCHSTE WOCHE (4.–7.8., ruhig bis Freitag): Mo US-ISM-Industrie, Mi US-ISM-Dienstleistungen, und der Höhepunkt am 🇺🇸 FREITAG 7.8. um 14:30 Wien — der US-Jobbericht (NFP) für Juli. Kinderleicht: Nach dem Mini-Wert vom Vormonat (+57k) ist das Risiko wieder nach unten offen — ein schwacher Bericht könnte den Dollar weiter drücken."
+      "🇺🇸 HEUTE 16:00 Wien — US-ISM-Industrie (Juli): Die wichtigste Fabrik-Umfrage. Kinderleicht: Zeigt, ob die US-Industrie wächst (Wert über 50) oder schrumpft. Zuletzt 53,3; die parallele S&P-Umfrage kam mit 53,8 leicht unter Erwartung. Stark + hohe Preise → Dollar/Renditen rauf; schwach → Dollar weiter runter, Gold/Aktien freuen sich.",
+      "💵 Der Dollar-Index bleibt UNTER 100 (~99,7, −0,2 % zum Freitag) — die schwache US-Wachstums-Story der Vorwoche trägt weiter. EUR/USD auf 6-Wochen-Hoch (~1,153), Pfund fest.",
+      "🇯🇵 Großer Yen-Sprung: USD/JPY fällt auf ~156,5 (−0,6 %) — vom 40-Jahres-Tief bei ~163 hat sich der Yen deutlich erholt, nachdem Tokio letzte Woche mutmaßlich am Markt eingriff. Kinderleicht: Ein stärkerer Yen heißt, man bekommt weniger Yen pro Dollar — Erfolg für Japans Regierung, aber teuer erkaufte Stärke.",
+      "🔮 Diese Woche: Mi US-ISM-Dienstleistungen, und der Höhepunkt am 🇺🇸 FREITAG 7.8. 14:30 Wien — US-Jobbericht (NFP). Erwartet +91k (Erholung vom Mini-Wert +57k), Arbeitslosenquote ~4,3 %. Enttäuscht er wieder → der Dollar dürfte weiter fallen."
     ],
     "gestern": [
-      "🇪🇺 FREITAG: Euro-Inflation (Juli, Schnellschätzung) tickte auf ~2,9 % im Jahr HOCH (Kern 2,5 %). Kinderleicht: Die Teuerung im Euroraum steigt wieder leicht (teureres Öl) → die EZB bleibt auf Straffungskurs (mögliche Erhöhung im September). Der Markt preist bereits zwei weitere EZB-Schritte bis Anfang 2027 → Rückenwind für den Euro.",
-      "🇯🇵 FREITAG: Die BANK OF JAPAN hielt bei 1,00 % (8:1) und hob die Wachstumsprognose leicht an. Der Yen bleibt auf einem 40-Jahres-Tief (~163 je Dollar); nach dem mutmaßlichen Eingriff der Regierung am Donnerstag bleibt das Interventionsrisiko extrem hoch.",
-      "🇺🇸 DONNERSTAG: US-Kern-PCE (Fed-Lieblings-Inflation) KÜHL bei +0,1 % zum Vormonat (erwartet +0,2 %), plus US-Wachstum nur +1,5 % (statt 2,1 %). Dieser Doppelschlag drückte den Dollar unter 100 — die September-Erhöhungs-Wette der Fed bröckelte.",
-      "🇺🇸 MITTWOCH: Die FED hielt bei 3,50–3,75 % — aber DREI Mitglieder stimmten FÜR eine Erhöhung (die meisten Dissenten seit 2016). Chef Warsh nennt die Inflation weiter „zu hoch\". Kinderleicht: Die Notenbank bleibt hart im Ton, handelt aber nicht — der Markt gibt der September-Erhöhung noch ~65 % Chance.",
-      "🇬🇧 DONNERSTAG: Die BANK OF ENGLAND hielt bei 3,75 % (6:3 — drei wollen erhöhen), Chef Bailey bremste aber die Zins-Fantasie. Pfund fest."
+      "🛌 WOCHENENDE: Kein Handel — die Freitags-Schlusskurse galten bis zur Asien-Eröffnung. Ruhiger Übergang in die neue Woche.",
+      "💵 WOCHENFAZIT (bis Fr 1.8.): Der Dollar hatte seine schlechteste Woche seit drei Monaten (−1,7 %) und schloss erstmals seit 6 Wochen klar unter 100. Kernlehre: Falken-TON allein hält den Dollar nicht — schwaches US-WACHSTUM (+1,5 %) und kühle Kern-Inflation (Kern-PCE +0,1 %) entschieden.",
+      "🇺🇸 Vorwoche: Die FED hielt (3,50–3,75 %), aber DREI Mitglieder wollten erhöhen (meiste Dissenten seit 2016) — harter Ton, keine Tat. 🇬🇧 BoE hielt 3,75 % (6:3). 🇯🇵 BoJ hielt 1,00 % + mutmaßliche Intervention.",
+      "🛢️ Öl bleibt fest (WTI ~85 $, Brent ~90 $) wegen Nahost-Spannungen — Rückenwind für den Kanada-Dollar, Gegenwind für Euro und Yen (teurerer Import). Risikofreude hoch (Angst-Barometer VIX tief bei ~16)."
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
-  "stand": "2026-08-02T05:03:56.455Z",
+  "stand": "2026-08-03T05:05:29.598Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 7,
+      "baseScore": 8,
       "tiltCot": -1,
       "tiltZins": 1,
       "tiltGesamt": 0,
-      "score": 7,
+      "score": 8,
       "cotExtrem": "extrem",
-      "treiber": "Aufwärts: Euro-BIP-Beat + hochtickende Inflation + Dollar-Riss; COT-Shorts als Squeeze-Brennstoff. (Track 17 % → moderat.)"
+      "treiber": "Aufwärts: Dollar unter 100 + 6-Wochen-Hoch (~1,153) + EUR-COT-Shorts EXTREM (z −2,0 = Squeeze-Brennstoff). Aber Track 14 % → bewusst moderat."
     },
     {
       "paar": "GBP/USD",
@@ -21,27 +21,27 @@
       "tiltGesamt": -5,
       "score": 1,
       "cotExtrem": null,
-      "treiber": "Aufwärts: BoE-Falken wachsen (3 Dissenten) + weicher Dollar; Bailey deckelt."
+      "treiber": "Aufwärts: weicher Dollar + BoE-Falken (3 Dissenten), Bailey deckelt. Pfund fest."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": -4,
+      "baseScore": -8,
       "tiltCot": 5,
       "tiltZins": -4,
       "tiltGesamt": 1,
-      "score": -3,
+      "score": -7,
       "cotExtrem": null,
-      "treiber": "Abwärts: Dollar weich + aktive Yen-Intervention + steigende Yen-Zinsdifferenz. Aber Carry heavy + Track 2/6 → klein."
+      "treiber": "Abwärts: Yen-Sprung auf ~156,5 nach Intervention + weicher Dollar + steigende Yen-Zinsdifferenz. Carry heavy + Track 2/7 → nicht übertreiben."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 3,
+      "baseScore": 4,
       "tiltCot": -3,
       "tiltZins": -4,
       "tiltGesamt": -7,
-      "score": -4,
+      "score": -3,
       "cotExtrem": null,
-      "treiber": "Leicht aufwärts: Risk-on + Dollar-Schwäche gegen kühlere CPI/gestrichene RBA-Wetten. China-PMI-Risiko."
+      "treiber": "Leicht aufwärts: Risk-on (VIX ~16) + Dollar-Schwäche. China-Daten-Risiko."
     },
     {
       "paar": "USD/CAD",
@@ -51,15 +51,15 @@
       "tiltGesamt": 3,
       "score": -3,
       "cotExtrem": "erhoeht",
-      "treiber": "Abwärts: Öl + falkenhafte BoC + Loonie-Short-Squeeze bei weichem Dollar. (Track 17 % → moderat.)"
+      "treiber": "Abwärts: fester Öl-Preis + weicher Dollar + Loonie-Short-Squeeze. CAD-Jobs Fr = Risiko."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": -5,
+      "baseScore": -6,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
-      "score": 0,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Abwärts: Dollar-Schwäche hebt den Franken; Risk-on trimmt aber den Hafen-Bonus."
     },
@@ -71,7 +71,7 @@
       "tiltGesamt": -5,
       "score": -1,
       "cotExtrem": "erhoeht",
-      "treiber": "Aufwärts: extremer Kiwi-Short-Squeeze + Dollar-Riss + Risk-on. (Track 20 % → demütig.)"
+      "treiber": "Aufwärts: extremer Kiwi-Short-Squeeze + Dollar-Riss + Risk-on. (Track 17 % → demütig.)"
     }
   ]
 }

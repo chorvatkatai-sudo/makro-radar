@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-03T19:21:47.750Z",
+  "stand": "2026-08-03T20:56:51.375Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -1,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Aufwärts: weicher Dollar + BoE-Falken (3 Dissenten), Bailey deckelt. Pfund fest."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -1,
+      "tiltZins": -1,
+      "tiltGesamt": -4,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Leicht aufwärts: Risk-on (VIX ~16) + Dollar-Schwäche. China-Daten-Risiko."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 4,
       "tiltCot": -5,
-      "tiltZins": -3,
-      "tiltGesamt": -8,
-      "score": -4,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -3,
       "cotExtrem": "erhoeht",
       "treiber": "Aufwärts: extremer Kiwi-Short-Squeeze + Dollar-Riss + Risk-on. (Track 17 % → demütig.)"
     }

@@ -1,11 +1,29 @@
 {
-  "stand": "2026-08-03T19:21:47.748Z",
+  "stand": "2026-08-03T20:56:51.374Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Oil collapses on Iran talks, Yen holds gains",
+      "link": "https://www.fxstreet.com/news/forex-today-oil-collapses-on-iran-talks-yen-holds-gains-202608032043",
+      "datum": "2026-08-03T20:43:26.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Tuesday, August 4, 2026 - a light one",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-august-4-2026-a-light-one/",
+      "datum": "2026-08-03T19:52:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso outpaces broad US Dollar strength ahead of Banxico’s rate decision",
+      "link": "https://www.fxstreet.com/news/mexican-peso-outpace-broad-us-dollar-strength-ahead-of-banxicos-day-202608031952",
+      "datum": "2026-08-03T19:52:36.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold slips as USD rebounds, strong ISM data clouds Fed path",
@@ -85,12 +103,6 @@
       "datum": "2026-08-03T14:44:18.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro pares gains as traders seek clarity on US-Iran talks, Fed monetary policy",
-      "link": "https://www.fxstreet.com/news/euro-pares-gains-as-traders-seek-clarity-on-us-iran-talks-fed-monetary-policy-202608031433",
-      "datum": "2026-08-03T14:33:55.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Construction Spending for June -0.1% vs 0.2% estimate",
       "link": "https://investinglive.com/news/us-construction-spending-for-june-0-1-vs-0-2-estimate/",
@@ -101,18 +113,6 @@
       "titel": "US ISM Manufacturing PMI for July 55.6 versus 54.0 estimate",
       "link": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-july-55-6-versus-54-0-estimate/",
       "datum": "2026-08-03T14:02:40.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "S&P Global Manufacturing PMI Final for July 53.9 vs 53.8 preliminary",
-      "link": "https://investinglive.com/news/s-p-global-manufacturing-pmi-final-for-july-53-9-vs-53-8-preliminary/",
-      "datum": "2026-08-03T13:47:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US has made a concession to Iran on Hormuz but Iran won't open until the war is over",
-      "link": "https://investinglive.com/news/us-has-made-a-concession-to-iran-on-hormuz-but-iran-won-t-open-until-the-war-is-over/",
-      "datum": "2026-08-03T13:21:48.000Z"
     }
   ]
 }

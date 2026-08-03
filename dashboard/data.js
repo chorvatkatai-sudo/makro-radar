@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-03T19:21:47.750Z",
+ "erstellt": "2026-08-03T20:56:51.376Z",
  "wochenStart": "2026-08-02",
  "events": [
   {
@@ -655,7 +655,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-08-06T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "0.7%",
+   "forecast": "0.6%",
    "previous": "0.8%",
    "actual": null
   },
@@ -664,7 +664,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-08-06T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "2.1%",
+   "forecast": "2.2%",
    "previous": "2.3%",
    "actual": null
   },
@@ -700,7 +700,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "date": "2026-08-06T19:30:00-04:00",
    "impact": "Low",
-   "forecast": "0.9%",
+   "forecast": "0.8%",
    "previous": "-0.4%",
    "actual": null
   },
@@ -709,7 +709,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "date": "2026-08-06T22:03:00-04:00",
    "impact": "Low",
-   "forecast": "740B",
+   "forecast": "735B",
    "previous": "859B",
    "actual": null
   },
@@ -718,7 +718,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "date": "2026-08-06T22:04:00-04:00",
    "impact": "Low",
-   "forecast": "109.4B",
+   "forecast": "108.6B",
    "previous": "125.6B",
    "actual": null
   },
@@ -736,7 +736,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "date": "2026-08-07T02:00:00-04:00",
    "impact": "Low",
-   "forecast": "0.0%",
+   "forecast": "0.2%",
    "previous": "0.9%",
    "actual": null
   },
@@ -745,7 +745,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "date": "2026-08-07T02:00:00-04:00",
    "impact": "Low",
-   "forecast": "17.0B",
+   "forecast": "17.2B",
    "previous": "19.1B",
    "actual": null
   },
@@ -790,7 +790,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "date": "2026-08-07T08:30:00-04:00",
    "impact": "High",
-   "forecast": "15.0K",
+   "forecast": "14.8K",
    "previous": "18.2K",
    "actual": null
   },
@@ -817,7 +817,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-08-07T08:30:00-04:00",
    "impact": "High",
-   "forecast": "88K",
+   "forecast": "85K",
    "previous": "57K",
    "actual": null
   },
@@ -853,7 +853,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-08-07T15:00:00-04:00",
    "impact": "Low",
-   "forecast": "12.1B",
+   "forecast": "11.2B",
    "previous": "-0.2B",
    "actual": null
   },
@@ -2948,15 +2948,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-03T19:21:47.218Z",
+  "stand": "2026-08-03T20:56:50.886Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.91,
+    "wert": 99.96,
     "tagProzent": 0,
-    "wocheProzent": -1.45,
+    "wocheProzent": -1.4,
     "renditeDelta": false,
     "verlauf": [
      100.85,
@@ -2979,17 +2979,17 @@ window.MAKRO_DATA = {
      100.8,
      100.01,
      99.8,
-     99.9,
-     99.91
+     99.96,
+     99.96
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.78,
+    "wert": 15.86,
     "tagProzent": 0,
-    "wocheProzent": -13.34,
+    "wocheProzent": -12.9,
     "renditeDelta": false,
     "verlauf": [
      15.57,
@@ -3012,17 +3012,17 @@ window.MAKRO_DATA = {
      20.66,
      17.09,
      15.99,
-     15.78,
-     15.78
+     15.86,
+     15.86
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 80.44,
+    "wert": 80.01,
     "tagProzent": 0,
-    "wocheProzent": 1.49,
+    "wocheProzent": 0.95,
     "renditeDelta": false,
     "verlauf": [
      68.55,
@@ -3045,17 +3045,17 @@ window.MAKRO_DATA = {
      84.46,
      83.59,
      84.67,
-     80.44,
-     80.44
+     80.01,
+     80.01
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.03,
+    "wert": 83.51,
     "tagProzent": 0,
-    "wocheProzent": -0.07,
+    "wocheProzent": -0.69,
     "renditeDelta": false,
     "verlauf": [
      71.99,
@@ -3078,17 +3078,17 @@ window.MAKRO_DATA = {
      90.74,
      89.03,
      90.12,
-     84.03,
-     84.03
+     83.51,
+     83.51
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4103.7,
+    "wert": 4112.3,
     "tagProzent": 0,
-    "wocheProzent": 1.67,
+    "wocheProzent": 1.88,
     "renditeDelta": false,
     "verlauf": [
      4155.1,
@@ -3111,8 +3111,8 @@ window.MAKRO_DATA = {
      4034.7,
      4100.1,
      4049.1,
-     4103.7,
-     4103.7
+     4112.3,
+     4112.3
     ]
    },
    "US02Y": {
@@ -3217,9 +3217,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63876.61,
+    "wert": 63747.51,
     "tagProzent": 0,
-    "wocheProzent": -1.31,
+    "wocheProzent": -1.51,
     "renditeDelta": false,
     "verlauf": [
      64956.11,
@@ -3242,8 +3242,8 @@ window.MAKRO_DATA = {
      62813.75,
      62763.32,
      63482,
-     63876.61,
-     63876.61
+     63747.51,
+     63747.51
     ]
    },
    "FEDFUT": {
@@ -3284,12 +3284,11 @@ window.MAKRO_DATA = {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.41,
-    "tagProzent": 0,
-    "wocheProzent": -0.02,
+    "wert": 2.47,
+    "tagProzent": 0.06,
+    "wocheProzent": 0.04,
     "renditeDelta": true,
     "verlauf": [
-     2.2,
      2.25,
      2.26,
      2.24,
@@ -3310,7 +3309,8 @@ window.MAKRO_DATA = {
      2.44,
      2.41,
      2.41,
-     2.41
+     2.41,
+     2.47
     ],
     "quelle": "FRED"
    },
@@ -3443,12 +3443,12 @@ window.MAKRO_DATA = {
    "stand": "2026-08-03",
    "werte": {
     "USD": {
-     "wert": 4.256,
-     "wocheDelta": -0.072
+     "wert": 4.237,
+     "wocheDelta": -0.091
     },
     "EUR": {
-     "wert": 2.761,
-     "wocheDelta": -0.067
+     "wert": 2.763,
+     "wocheDelta": -0.065
     },
     "GBP": {
      "wert": 4.307,
@@ -3459,8 +3459,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.046
     },
     "AUD": {
-     "wert": 4.559,
-     "wocheDelta": -0.117
+     "wert": 4.554,
+     "wocheDelta": -0.122
     },
     "CAD": {
      "wert": 2.921,
@@ -3471,8 +3471,8 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.097
     },
     "NZD": {
-     "wert": 3.665,
-     "wocheDelta": -0.138
+     "wert": 3.66,
+     "wocheDelta": -0.143
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3499,9 +3499,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 6,
    "tiltCot": -5,
-   "tiltZins": -2,
-   "tiltGesamt": -7,
-   "score": -1,
+   "tiltZins": 0,
+   "tiltGesamt": -5,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "Aufwärts: weicher Dollar + BoE-Falken (3 Dissenten), Bailey deckelt. Pfund fest."
   },
@@ -3519,9 +3519,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": 4,
    "tiltCot": -3,
-   "tiltZins": -2,
-   "tiltGesamt": -5,
-   "score": -1,
+   "tiltZins": -1,
+   "tiltGesamt": -4,
+   "score": 0,
    "cotExtrem": null,
    "treiber": "Leicht aufwärts: Risk-on (VIX ~16) + Dollar-Schwäche. China-Daten-Risiko."
   },
@@ -3549,22 +3549,40 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": 4,
    "tiltCot": -5,
-   "tiltZins": -3,
-   "tiltGesamt": -8,
-   "score": -4,
+   "tiltZins": -2,
+   "tiltGesamt": -7,
+   "score": -3,
    "cotExtrem": "erhoeht",
    "treiber": "Aufwärts: extremer Kiwi-Short-Squeeze + Dollar-Riss + Risk-on. (Track 17 % → demütig.)"
   }
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-03T19:21:47.748Z",
+  "stand": "2026-08-03T20:56:51.374Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Forex Today: Oil collapses on Iran talks, Yen holds gains",
+    "link": "https://www.fxstreet.com/news/forex-today-oil-collapses-on-iran-talks-yen-holds-gains-202608032043",
+    "datum": "2026-08-03T20:43:26.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Economic and event calendar in Asia Tuesday, August 4, 2026 - a light one",
+    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-august-4-2026-a-light-one/",
+    "datum": "2026-08-03T19:52:39.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Mexican Peso outpaces broad US Dollar strength ahead of Banxico’s rate decision",
+    "link": "https://www.fxstreet.com/news/mexican-peso-outpace-broad-us-dollar-strength-ahead-of-banxicos-day-202608031952",
+    "datum": "2026-08-03T19:52:36.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Gold slips as USD rebounds, strong ISM data clouds Fed path",
@@ -3644,12 +3662,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-03T14:44:18.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Euro pares gains as traders seek clarity on US-Iran talks, Fed monetary policy",
-    "link": "https://www.fxstreet.com/news/euro-pares-gains-as-traders-seek-clarity-on-us-iran-talks-fed-monetary-policy-202608031433",
-    "datum": "2026-08-03T14:33:55.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "US Construction Spending for June -0.1% vs 0.2% estimate",
     "link": "https://investinglive.com/news/us-construction-spending-for-june-0-1-vs-0-2-estimate/",
@@ -3660,18 +3672,6 @@ window.MAKRO_DATA = {
     "titel": "US ISM Manufacturing PMI for July 55.6 versus 54.0 estimate",
     "link": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-july-55-6-versus-54-0-estimate/",
     "datum": "2026-08-03T14:02:40.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "S&P Global Manufacturing PMI Final for July 53.9 vs 53.8 preliminary",
-    "link": "https://investinglive.com/news/s-p-global-manufacturing-pmi-final-for-july-53-9-vs-53-8-preliminary/",
-    "datum": "2026-08-03T13:47:11.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US has made a concession to Iran on Hormuz but Iran won't open until the war is over",
-    "link": "https://investinglive.com/news/us-has-made-a-concession-to-iran-on-hormuz-but-iran-won-t-open-until-the-war-is-over/",
-    "datum": "2026-08-03T13:21:48.000Z"
    }
   ]
  },

@@ -7336,7 +7336,7 @@
       "land": "USD",
       "titel": "Prelim Nonfarm Productivity q/q",
       "impact": "Low",
-      "prognose": "0.7%",
+      "prognose": "0.6%",
       "vorher": "0.8%",
       "actual": null,
       "notiz": null
@@ -7346,7 +7346,7 @@
       "land": "USD",
       "titel": "Prelim Unit Labor Costs q/q",
       "impact": "Low",
-      "prognose": "2.1%",
+      "prognose": "2.2%",
       "vorher": "2.3%",
       "actual": null,
       "notiz": null
@@ -7386,7 +7386,7 @@
       "land": "JPY",
       "titel": "Household Spending y/y",
       "impact": "Low",
-      "prognose": "0.9%",
+      "prognose": "0.8%",
       "vorher": "-0.4%",
       "actual": null,
       "notiz": null
@@ -7396,7 +7396,7 @@
       "land": "CNY",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "740B",
+      "prognose": "735B",
       "vorher": "859B",
       "actual": null,
       "notiz": null
@@ -7406,7 +7406,7 @@
       "land": "CNY",
       "titel": "USD-Denominated Trade Balance",
       "impact": "Low",
-      "prognose": "109.4B",
+      "prognose": "108.6B",
       "vorher": "125.6B",
       "actual": null,
       "notiz": null
@@ -7426,7 +7426,7 @@
       "land": "EUR",
       "titel": "German Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.0%",
+      "prognose": "0.2%",
       "vorher": "0.9%",
       "actual": null,
       "notiz": null
@@ -7436,7 +7436,7 @@
       "land": "EUR",
       "titel": "German Trade Balance",
       "impact": "Low",
-      "prognose": "17.0B",
+      "prognose": "17.2B",
       "vorher": "19.1B",
       "actual": null,
       "notiz": null
@@ -7486,7 +7486,7 @@
       "land": "CAD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "15.0K",
+      "prognose": "14.8K",
       "vorher": "18.2K",
       "actual": null,
       "notiz": null
@@ -7516,7 +7516,7 @@
       "land": "USD",
       "titel": "Non-Farm Employment Change",
       "impact": "High",
-      "prognose": "88K",
+      "prognose": "85K",
       "vorher": "57K",
       "actual": null,
       "notiz": null
@@ -7556,7 +7556,7 @@
       "land": "USD",
       "titel": "Consumer Credit m/m",
       "impact": "Low",
-      "prognose": "12.1B",
+      "prognose": "11.2B",
       "vorher": "-0.2B",
       "actual": null,
       "notiz": null

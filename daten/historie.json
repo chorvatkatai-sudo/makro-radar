@@ -7610,6 +7610,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-04T20:15:00-04:00|USD|FOMC Member Schmid Speaks": {
+      "datum": "2026-08-04T20:15:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Schmid Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

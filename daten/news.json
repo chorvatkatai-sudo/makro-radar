@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-03T05:06:41.811Z",
+  "stand": "2026-08-03T12:51:17.730Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Gains traction above 1.1500, while remaining constrained below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gains-traction-above-11500-while-remaining-constrained-below-100-day-sma-202608030449",
-      "datum": "2026-08-03T04:49:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold holds above $4,050 as easing inflation fears curb Fed hike bets; USD bounce caps gains",
-      "link": "https://www.fxstreet.com/news/gold-holds-above-4-050-as-easing-inflation-fears-curb-fed-hike-bets-usd-bounce-caps-gains-202608030440",
-      "datum": "2026-08-03T04:40:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608030435",
-      "datum": "2026-08-03T04:35:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD rises above $58.00 on renewed US-Iran peace talks",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-5800-on-renewed-us-iran-peace-talks-202608030359",
-      "datum": "2026-08-03T03:59:55.000Z"
+      "titel": "Japanese Yen: Intervention seen as containment – ING",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-seen-as-containment-ing-202608031245",
+      "datum": "2026-08-03T12:45:03.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Market moving news for Asian trading on 3 August: Oil slumps on Trump's Iran claims",
-      "link": "https://investinglive.com/news/market-moving-news-for-asian-trading-on-3-august-oil-slumps-on-trump-s-iran-claims/",
-      "datum": "2026-08-03T03:49:36.000Z"
+      "titel": "WH NEC Kevin Hassett: US inflation numbers have been fantastic",
+      "link": "https://investinglive.com/news/wh-nec-kevin-hassett-us-inflation-numbers-have-been-fantastic/",
+      "datum": "2026-08-03T12:41:01.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: More pain likely if fails to hold $77",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-more-pain-likely-if-fails-to-hold-77-202608030321",
-      "datum": "2026-08-03T03:21:29.000Z"
+      "titel": "Norwegian Krone: Policy rate seen on hold from Norges Bank – Nordea",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-policy-rate-seen-on-hold-from-norges-bank-nordea-202608031226",
+      "datum": "2026-08-03T12:26:13.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United States Dollar Index weakens below 100.00 as Trump says new Iran talks would begin Monday",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-10000-as-trump-says-new-iran-talks-would-begin-monday-202608030305",
-      "datum": "2026-08-03T03:05:40.000Z"
+      "titel": "Oil: Hormuz risks keep prices in focus – Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-hormuz-risks-keep-prices-in-focus-rabobank-202608031207",
+      "datum": "2026-08-03T12:07:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar drifts lower as falling oil prices counter weak USD amid Iran hopes",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-drifts-lower-as-falling-oil-prices-counter-weak-usd-amid-iran-hopes-202608030243",
-      "datum": "2026-08-03T02:43:57.000Z"
+      "titel": "EUR/GBP Price Forecast: Cross remains capped near bottom of bullish channel",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-below-the-bottom-of-the-bullish-channel-at-08570-202608031206",
+      "datum": "2026-08-03T12:06:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar remains stronger following China’s RatingDog Manufacturing PMI data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-following-chinas-ratingdog-manufacturing-pmi-data-202608030221",
-      "datum": "2026-08-03T02:21:28.000Z"
+      "titel": "US Dollar: Labour data and hawkish risks in focus – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-dollar-labour-data-and-hawkish-risks-in-focus-deutsche-bank-202608031155",
+      "datum": "2026-08-03T11:55:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand holds gains near 0.5900 despite weaker China PMI data",
-      "link": "https://www.fxstreet.com/news/new-zealand-holds-gains-near-05900-despite-weaker-china-pmi-data-202608030207",
-      "datum": "2026-08-03T02:07:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar languishes near April low as joint US-Japan intervention lifts Yen",
-      "link": "https://www.fxstreet.com/news/australian-dollar-languishes-near-april-low-as-joint-us-japan-intervention-lifts-yen-202608030200",
-      "datum": "2026-08-03T02:00:46.000Z"
+      "titel": "Japanese Yen: Joint intervention supports yen outlook – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-joint-intervention-supports-yen-outlook-mufg-202608031141",
+      "datum": "2026-08-03T11:41:35.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "China's RatingDog manufacturing PMI eases to 50.9, eighth month of growth",
-      "link": "https://investinglive.com/news/china-s-ratingdog-manufacturing-pmi-eases-to-50-9-eighth-month-of-growth/",
-      "datum": "2026-08-03T01:59:07.000Z"
+      "titel": "investingLive European markets wrap: Oil holds lower despite Iran refuting Trump claims",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-holds-lower-despite-iran-refuting-trump-claims/",
+      "datum": "2026-08-03T11:39:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound struggles despite easing risk aversion",
-      "link": "https://www.fxstreet.com/news/british-pound-struggles-despite-easing-risk-aversion-202608030153",
-      "datum": "2026-08-03T01:53:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China private survey July manufacturing PMI 50.9 (expected 51.5, prior 51.7)",
-      "link": "https://investinglive.com/news/china-private-survey-july-manufacturing-pmi-5-expected-51-5-prior-51-7/",
-      "datum": "2026-08-03T01:45:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan manufacturing output grows at fastest pace in 12.5 years in July",
-      "link": "https://investinglive.com/news/japan-manufacturing-output-grows-at-fastest-pace-in-12-5-years-in-july/",
-      "datum": "2026-08-03T00:38:42.000Z"
+      "titel": "Australian Dollar comes under pressure as US Dollar regains ground",
+      "link": "https://www.fxstreet.com/news/australian-dollar-comes-under-pressure-as-us-dollar-regains-ground-202608031131",
+      "datum": "2026-08-03T11:31:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japan's Katayama says no comment on whether there was FX intervention on Monday",
-      "link": "https://www.fxstreet.com/news/japans-katayama-conducted-coordinated-yen-purchasing-intervention-with-us-202608030035",
-      "datum": "2026-08-03T00:35:32.000Z"
+      "titel": "Federal Reserve: Data driven rate path – HSBC",
+      "link": "https://www.fxstreet.com/news/federal-reserve-data-driven-rate-path-hsbc-202608031126",
+      "datum": "2026-08-03T11:26:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI stays lower near $78.50 ahead of US-Iran peace talks 2.0",
+      "link": "https://www.fxstreet.com/news/wti-stays-lower-near-7850-ahead-of-us-iran-peace-talks-20-202608031109",
+      "datum": "2026-08-03T11:09:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold struggles to hold gains amid mixed US-Iran headlines, hawkish Fed",
+      "link": "https://www.fxstreet.com/news/gold-struggles-to-hold-gains-amid-mixed-us-iran-headlines-hawkish-fed-202608031058",
+      "datum": "2026-08-03T10:58:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US ISM Manufacturing PMI is set to have improved in July, with prices easing",
+      "link": "https://www.fxstreet.com/news/us-ism-manufacturing-pmi-is-expected-to-show-strong-factory-activity-in-july-202608031000",
+      "datum": "2026-08-03T10:00:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Australia manufacturing PMI hits 52.0 as output growth returns in July",
-      "link": "https://investinglive.com/news/australia-manufacturing-pmi-hits-52-0-as-output-growth-returns-in-july/",
-      "datum": "2026-08-02T23:20:48.000Z"
+      "titel": "Iran foreign ministry spokesperson says no plan for a delegation on talks with the US in the coming days",
+      "link": "https://investinglive.com/news/iran-foreign-ministry-spokesperson-says-no-plan-for-a-delegation-on-talks-with-the-us-in-the-coming-days/",
+      "datum": "2026-08-03T08:40:56.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia 03 August 2026 - Australia holiday",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-03-august-2026-australia-holiday/",
-      "datum": "2026-08-02T22:53:19.000Z"
+      "titel": "UK July final manufacturing PMI 51.9 vs 52.8 prelim",
+      "link": "https://investinglive.com/news/uk-july-final-manufacturing-pmi-xx-vs-52-8-prelim/",
+      "datum": "2026-08-03T08:32:52.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Euro area industrial activity ramps up in July even as demand conditions are still weak - PMI data",
+      "link": "https://investinglive.com/news/euro-area-industrial-activity-ramps-up-in-july-even-as-demand-conditions-are-still-weak-pmi-data/",
+      "datum": "2026-08-03T08:17:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France manufacturing activity confirmed to have eased slightly in July",
+      "link": "https://investinglive.com/news/france-manufacturing-activity-confirmed-to-have-eased-slightly-in-july/",
+      "datum": "2026-08-03T08:01:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany July final manufacturing PMI 52.2 vs 52.2 prelim",
+      "link": "https://investinglive.com/news/germany-july-final-manufacturing-pmi-xx-vs-52-2-prelim/",
+      "datum": "2026-08-03T07:57:26.000Z"
     }
   ]
 }

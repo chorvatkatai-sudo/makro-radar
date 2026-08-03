@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-03T05:06:41.812Z",
+  "stand": "2026-08-03T12:51:17.731Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 8,
       "tiltCot": -1,
-      "tiltZins": 3,
-      "tiltGesamt": 2,
-      "score": 10,
+      "tiltZins": 0,
+      "tiltGesamt": -1,
+      "score": 7,
       "cotExtrem": "extrem",
       "treiber": "Aufwärts: Dollar unter 100 + 6-Wochen-Hoch (~1,153) + EUR-COT-Shorts EXTREM (z −2,0 = Squeeze-Brennstoff). Aber Track 14 % → bewusst moderat."
     },
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -5,
-      "tiltZins": 3,
-      "tiltGesamt": -2,
-      "score": 4,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Aufwärts: weicher Dollar + BoE-Falken (3 Dissenten), Bailey deckelt. Pfund fest."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -4,
-      "tiltGesamt": 1,
-      "score": -7,
+      "tiltZins": -5,
+      "tiltGesamt": 0,
+      "score": -8,
       "cotExtrem": null,
       "treiber": "Abwärts: Yen-Sprung auf ~156,5 nach Intervention + weicher Dollar + steigende Yen-Zinsdifferenz. Carry heavy + Track 2/7 → nicht übertreiben."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": -3,
-      "tiltGesamt": -6,
-      "score": -2,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Leicht aufwärts: Risk-on (VIX ~16) + Dollar-Schwäche. China-Daten-Risiko."
     },

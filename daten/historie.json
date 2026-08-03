@@ -7580,6 +7580,36 @@
       "vorher": "4.1%",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-02T05:15:00-04:00|All|OPEC-JMMC Meetings": {
+      "datum": "2026-08-02T05:15:00-04:00",
+      "land": "All",
+      "titel": "OPEC-JMMC Meetings",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-05T20:35:00-04:00|USD|FOMC Member Daly Speaks": {
+      "datum": "2026-08-05T20:35:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Daly Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-08T12:45:00-04:00|USD|FOMC Member Bowman Speaks": {
+      "datum": "2026-08-08T12:45:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Bowman Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

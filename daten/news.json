@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-04T16:08:00.232Z",
+  "stand": "2026-08-04T18:23:15.775Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,13 +8,55 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "Gold shines and rises on Iran’s deal hopes, lower US yields",
+      "link": "https://www.fxstreet.com/news/gold-shines-and-rises-on-irans-deal-hopes-lower-us-yields-202608041753",
+      "datum": "2026-08-04T17:53:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/JPY Price Forecast: 200-day SMA caps rebound after intervention-led selloff",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-200-day-sma-caps-rebound-after-intervention-led-selloff-202608041747",
+      "datum": "2026-08-04T17:47:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesia: Trade risks and structural support – UOB",
+      "link": "https://www.fxstreet.com/news/indonesia-trade-risks-and-structural-support-uob-202608041745",
+      "datum": "2026-08-04T17:45:48.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US State Dept: Latest Lebanon-Israel talks began today and will continue through Aug 6",
+      "link": "https://investinglive.com/news/us-state-dept-latest-lebanon-israel-talks-began-today-and-will-continue-through-aug-6/",
+      "datum": "2026-08-04T17:06:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran and Oman continue Strait of Hormuz shipping talks",
+      "link": "https://investinglive.com/news/iran-and-oman-continue-strait-of-hormuz-shipping-talks/",
+      "datum": "2026-08-04T16:55:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bulldozers built a third of the Dow Jones Industrial Average record",
+      "link": "https://www.fxstreet.com/news/bulldozers-built-a-third-of-the-dow-jones-industrial-average-record-202608041645",
+      "datum": "2026-08-04T16:45:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil drops sharply after Bessent signals an imminent Iran deal",
+      "link": "https://www.fxstreet.com/news/wti-oil-drops-sharply-after-bessent-signals-an-imminent-iran-deal-202608041613",
+      "datum": "2026-08-04T16:13:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "Canadian Dollar: Bullish signals point to gains versus US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-signals-point-to-gains-versus-us-dollar-scotiabank-202608041558",
       "datum": "2026-08-04T15:58:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound rebounds as soft JOLTS, Oil fall pressures the USD",
+      "titel": "British Pound rebounds as soft JOLTS and Oil decline pressure USD",
       "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-soft-jolts-oil-fall-pressures-the-usd-202608041551",
       "datum": "2026-08-04T15:51:35.000Z"
     },
@@ -49,18 +91,6 @@
       "datum": "2026-08-04T14:57:41.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen stalls amid soft JOLTS data",
-      "link": "https://www.fxstreet.com/news/japanese-yen-stalls-amid-soft-jolts-data-202608041440",
-      "datum": "2026-08-04T14:40:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Trade surplus hits four-year high – NBC",
-      "link": "https://www.fxstreet.com/news/canada-trade-surplus-hits-four-year-high-nbc-202608041437",
-      "datum": "2026-08-04T14:37:07.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canadian manufacturing PMI hits a four-year high",
       "link": "https://investinglive.com/news/canadian-manufacturing-pmi-hits-a-four-year-high/",
@@ -73,24 +103,6 @@
       "datum": "2026-08-04T14:28:29.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Gold recovers as Hormuz reopening hopes drag US Dollar, Oil prices lower",
-      "link": "https://www.fxstreet.com/news/gold-recovers-as-hormuz-reopening-hopes-drag-us-dollar-oil-prices-lower-202608041427",
-      "datum": "2026-08-04T14:27:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed's Paulson: Underlying inflation is too high",
-      "link": "https://www.fxstreet.com/news/feds-paulson-underlying-inflation-is-too-high-202608041420",
-      "datum": "2026-08-04T14:20:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar climbs above 0.7000 as hopes of an Iran deal lift risk sentiment",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-above-07000-as-hopes-of-an-iran-deal-lift-risk-sentiment-202608041414",
-      "datum": "2026-08-04T14:14:41.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "JOLTs job openings 7.359M vs 7.400M estimate. Lower than last month.",
       "link": "https://investinglive.com/news/jolts-job-openings-7-359m-vs-7-400m-estimate-lower-than-last-month/",
@@ -101,18 +113,6 @@
       "titel": "US June factory orders -0.3% vs +0.2% expected",
       "link": "https://investinglive.com/news/us-june-factory-orders-vs-0-2-expected/",
       "datum": "2026-08-04T14:00:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Al Arabiya: expects an announcement on the reopening of the Strait of Hormuz",
-      "link": "https://investinglive.com/news/al-arabiya-expects-an-announcement-on-the-reopening-of-the-strait-of-hormuz/",
-      "datum": "2026-08-04T13:28:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US International Trade balance for June -$73.3B vs -$73.0B estimate",
-      "link": "https://investinglive.com/news/us-international-trade-balance-for-june-73-3b-vs-73-0b-estimate/",
-      "datum": "2026-08-04T12:31:02.000Z"
     }
   ]
 }

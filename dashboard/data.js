@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-04T16:08:00.233Z",
+ "erstellt": "2026-08-04T18:23:15.777Z",
  "wochenStart": "2026-08-02",
  "events": [
   {
@@ -1152,7 +1152,7 @@ window.MAKRO_DATA = {
    "title": "6-Week Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "3.64%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2947,15 +2947,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-04T16:07:59.745Z",
+  "stand": "2026-08-04T18:23:14.823Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.89,
+    "wert": 99.92,
     "tagProzent": 0,
-    "wocheProzent": -0.91,
+    "wocheProzent": -0.87,
     "renditeDelta": false,
     "verlauf": [
      101.14,
@@ -2978,17 +2978,17 @@ window.MAKRO_DATA = {
      100.01,
      99.8,
      99.96,
-     99.89,
-     99.89
+     99.92,
+     99.92
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.32,
+    "wert": 16.53,
     "tagProzent": 0,
-    "wocheProzent": -21.01,
+    "wocheProzent": -19.99,
     "renditeDelta": false,
     "verlauf": [
      16.13,
@@ -3011,17 +3011,17 @@ window.MAKRO_DATA = {
      17.09,
      15.99,
      15.86,
-     16.32,
-     16.32
+     16.53,
+     16.53
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 75.61,
+    "wert": 75.84,
     "tagProzent": 0,
-    "wocheProzent": -10.48,
+    "wocheProzent": -10.21,
     "renditeDelta": false,
     "verlauf": [
      70.44,
@@ -3044,17 +3044,17 @@ window.MAKRO_DATA = {
      83.59,
      84.67,
      80.34,
-     75.61,
-     75.61
+     75.84,
+     75.84
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 79.06,
+    "wert": 79.38,
     "tagProzent": 0,
-    "wocheProzent": -12.87,
+    "wocheProzent": -12.52,
     "renditeDelta": false,
     "verlauf": [
      74.16,
@@ -3077,17 +3077,17 @@ window.MAKRO_DATA = {
      89.03,
      90.12,
      83.77,
-     79.06,
-     79.06
+     79.38,
+     79.38
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4144.2,
+    "wert": 4144.3,
     "tagProzent": 0,
-    "wocheProzent": 2.71,
+    "wocheProzent": 2.72,
     "renditeDelta": false,
     "verlauf": [
      4145.3,
@@ -3110,8 +3110,8 @@ window.MAKRO_DATA = {
      4100.1,
      4049.1,
      4033.7,
-     4144.2,
-     4144.2
+     4144.3,
+     4144.3
     ]
    },
    "US02Y": {
@@ -3151,9 +3151,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.625,
+    "wert": 4.631,
     "tagProzent": 0,
-    "wocheProzent": 0,
+    "wocheProzent": 0.01,
     "renditeDelta": true,
     "verlauf": [
      4.529,
@@ -3176,17 +3176,17 @@ window.MAKRO_DATA = {
      4.663,
      4.745,
      4.686,
-     4.625,
-     4.625
+     4.631,
+     4.631
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.188,
+    "wert": 5.196,
     "tagProzent": 0,
-    "wocheProzent": 0.04,
+    "wocheProzent": 0.05,
     "renditeDelta": true,
     "verlauf": [
      5.043,
@@ -3209,17 +3209,17 @@ window.MAKRO_DATA = {
      5.208,
      5.275,
      5.231,
-     5.188,
-     5.188
+     5.196,
+     5.196
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63966.93,
+    "wert": 64284.73,
     "tagProzent": 0,
-    "wocheProzent": 1.84,
+    "wocheProzent": 2.34,
     "renditeDelta": false,
     "verlauf": [
      64712.38,
@@ -3242,8 +3242,8 @@ window.MAKRO_DATA = {
      62763.32,
      63482,
      63460.9,
-     63966.93,
-     63966.93
+     64284.73,
+     64284.73
     ]
    },
    "FEDFUT": {
@@ -3251,7 +3251,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.78,
-    "tagProzent": 0,
+    "tagProzent": -0.01,
     "wocheProzent": 0.15,
     "renditeDelta": true,
     "verlauf": [
@@ -3275,7 +3275,7 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.64,
-     3.78,
+     3.79,
      3.78
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -3349,7 +3349,7 @@ window.MAKRO_DATA = {
     "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.66,
+  "kurve2s10s": 0.67,
   "cot": {
    "stand": "2026-07-28",
    "waehrungen": {
@@ -3443,36 +3443,36 @@ window.MAKRO_DATA = {
    "stand": "2026-08-04",
    "werte": {
     "USD": {
-     "wert": 4.198,
-     "wocheDelta": -0.139
+     "wert": 4.194,
+     "wocheDelta": -0.143
     },
     "EUR": {
-     "wert": 2.705,
-     "wocheDelta": -0.127
+     "wert": 2.7,
+     "wocheDelta": -0.132
     },
     "GBP": {
-     "wert": 4.24,
-     "wocheDelta": -0.186
+     "wert": 4.239,
+     "wocheDelta": -0.187
     },
     "JPY": {
      "wert": 1.576,
      "wocheDelta": 0.062
     },
     "AUD": {
-     "wert": 4.514,
-     "wocheDelta": -0.162
+     "wert": 4.528,
+     "wocheDelta": -0.148
     },
     "CAD": {
      "wert": 2.835,
      "wocheDelta": -0.075
     },
     "CHF": {
-     "wert": 0.084,
-     "wocheDelta": -0.114
+     "wert": 0.078,
+     "wocheDelta": -0.12
     },
     "NZD": {
-     "wert": 3.658,
-     "wocheDelta": -0.145
+     "wert": 3.665,
+     "wocheDelta": -0.138
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3558,7 +3558,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-04T16:08:00.232Z",
+  "stand": "2026-08-04T18:23:15.775Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3567,13 +3567,55 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
+    "titel": "Gold shines and rises on Iran’s deal hopes, lower US yields",
+    "link": "https://www.fxstreet.com/news/gold-shines-and-rises-on-irans-deal-hopes-lower-us-yields-202608041753",
+    "datum": "2026-08-04T17:53:32.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "USD/JPY Price Forecast: 200-day SMA caps rebound after intervention-led selloff",
+    "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-200-day-sma-caps-rebound-after-intervention-led-selloff-202608041747",
+    "datum": "2026-08-04T17:47:04.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indonesia: Trade risks and structural support – UOB",
+    "link": "https://www.fxstreet.com/news/indonesia-trade-risks-and-structural-support-uob-202608041745",
+    "datum": "2026-08-04T17:45:48.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US State Dept: Latest Lebanon-Israel talks began today and will continue through Aug 6",
+    "link": "https://investinglive.com/news/us-state-dept-latest-lebanon-israel-talks-began-today-and-will-continue-through-aug-6/",
+    "datum": "2026-08-04T17:06:16.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Iran and Oman continue Strait of Hormuz shipping talks",
+    "link": "https://investinglive.com/news/iran-and-oman-continue-strait-of-hormuz-shipping-talks/",
+    "datum": "2026-08-04T16:55:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Bulldozers built a third of the Dow Jones Industrial Average record",
+    "link": "https://www.fxstreet.com/news/bulldozers-built-a-third-of-the-dow-jones-industrial-average-record-202608041645",
+    "datum": "2026-08-04T16:45:25.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI Oil drops sharply after Bessent signals an imminent Iran deal",
+    "link": "https://www.fxstreet.com/news/wti-oil-drops-sharply-after-bessent-signals-an-imminent-iran-deal-202608041613",
+    "datum": "2026-08-04T16:13:42.000Z"
+   },
+   {
+    "quelle": "FXStreet",
     "titel": "Canadian Dollar: Bullish signals point to gains versus US Dollar – Scotiabank",
     "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-signals-point-to-gains-versus-us-dollar-scotiabank-202608041558",
     "datum": "2026-08-04T15:58:00.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "British Pound rebounds as soft JOLTS, Oil fall pressures the USD",
+    "titel": "British Pound rebounds as soft JOLTS and Oil decline pressure USD",
     "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-soft-jolts-oil-fall-pressures-the-usd-202608041551",
     "datum": "2026-08-04T15:51:35.000Z"
    },
@@ -3608,18 +3650,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-04T14:57:41.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen stalls amid soft JOLTS data",
-    "link": "https://www.fxstreet.com/news/japanese-yen-stalls-amid-soft-jolts-data-202608041440",
-    "datum": "2026-08-04T14:40:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canada: Trade surplus hits four-year high – NBC",
-    "link": "https://www.fxstreet.com/news/canada-trade-surplus-hits-four-year-high-nbc-202608041437",
-    "datum": "2026-08-04T14:37:07.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Canadian manufacturing PMI hits a four-year high",
     "link": "https://investinglive.com/news/canadian-manufacturing-pmi-hits-a-four-year-high/",
@@ -3632,24 +3662,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-04T14:28:29.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Gold recovers as Hormuz reopening hopes drag US Dollar, Oil prices lower",
-    "link": "https://www.fxstreet.com/news/gold-recovers-as-hormuz-reopening-hopes-drag-us-dollar-oil-prices-lower-202608041427",
-    "datum": "2026-08-04T14:27:11.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Fed's Paulson: Underlying inflation is too high",
-    "link": "https://www.fxstreet.com/news/feds-paulson-underlying-inflation-is-too-high-202608041420",
-    "datum": "2026-08-04T14:20:58.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar climbs above 0.7000 as hopes of an Iran deal lift risk sentiment",
-    "link": "https://www.fxstreet.com/news/australian-dollar-climbs-above-07000-as-hopes-of-an-iran-deal-lift-risk-sentiment-202608041414",
-    "datum": "2026-08-04T14:14:41.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "JOLTs job openings 7.359M vs 7.400M estimate. Lower than last month.",
     "link": "https://investinglive.com/news/jolts-job-openings-7-359m-vs-7-400m-estimate-lower-than-last-month/",
@@ -3660,18 +3672,6 @@ window.MAKRO_DATA = {
     "titel": "US June factory orders -0.3% vs +0.2% expected",
     "link": "https://investinglive.com/news/us-june-factory-orders-vs-0-2-expected/",
     "datum": "2026-08-04T14:00:08.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Al Arabiya: expects an announcement on the reopening of the Strait of Hormuz",
-    "link": "https://investinglive.com/news/al-arabiya-expects-an-announcement-on-the-reopening-of-the-strait-of-hormuz/",
-    "datum": "2026-08-04T13:28:19.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US International Trade balance for June -$73.3B vs -$73.0B estimate",
-    "link": "https://investinglive.com/news/us-international-trade-balance-for-june-73-3b-vs-73-0b-estimate/",
-    "datum": "2026-08-04T12:31:02.000Z"
    }
   ]
  },

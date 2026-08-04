@@ -7196,7 +7196,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "-0.9M",
+      "prognose": "-1.5M",
       "vorher": "-7.2M",
       "actual": null,
       "notiz": null
@@ -7366,7 +7366,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "30B",
       "vorher": "28B",
       "actual": null,
       "notiz": null
@@ -7486,7 +7486,7 @@
       "land": "CAD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "14.8K",
+      "prognose": "17.8K",
       "vorher": "18.2K",
       "actual": null,
       "notiz": null
@@ -7556,7 +7556,7 @@
       "land": "USD",
       "titel": "Consumer Credit m/m",
       "impact": "Low",
-      "prognose": "11.2B",
+      "prognose": "11.4B",
       "vorher": "-0.2B",
       "actual": null,
       "notiz": null
@@ -7648,6 +7648,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "1.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-05T16:30:00-04:00|USD|President Trump Speaks": {
+      "datum": "2026-08-05T16:30:00-04:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

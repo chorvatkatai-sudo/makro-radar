@@ -1,11 +1,53 @@
 {
-  "stand": "2026-08-04T18:23:15.775Z",
+  "stand": "2026-08-04T20:19:41.286Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap: Everyone back in the AI boat",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-4-aug/",
+      "datum": "2026-08-04T20:01:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Nothing Britain does moves the Pound against the Dollar",
+      "link": "https://www.fxstreet.com/news/nothing-britain-does-moves-the-pound-against-the-dollar-202608041954",
+      "datum": "2026-08-04T19:54:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Oil extends collapse on Hormuz reopening reports, Silver surges",
+      "link": "https://www.fxstreet.com/news/forex-today-oil-extends-collapse-on-hormuz-reopening-reports-silver-surges-202608041951",
+      "datum": "2026-08-04T19:51:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Gains risk watched below 1.2790 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-gains-risk-watched-below-12790-against-us-dollar-uob-202608041951",
+      "datum": "2026-08-04T19:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso rallies to a one-month high on Hormuz deal speculation",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-a-one-month-high-on-hormuz-deal-speculation-202608041928",
+      "datum": "2026-08-04T19:28:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: PMI weakness boosts easing expectations – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pmi-weakness-boosts-easing-expectations-commerzbank-202608041912",
+      "datum": "2026-08-04T19:12:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Range trade with upside risk against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-trade-with-upside-risk-against-us-dollar-scotiabank-202608041831",
+      "datum": "2026-08-04T18:31:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold shines and rises on Iran’s deal hopes, lower US yields",
@@ -55,42 +97,6 @@
       "datum": "2026-08-04T15:58:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound rebounds as soft JOLTS and Oil decline pressure USD",
-      "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-soft-jolts-oil-fall-pressures-the-usd-202608041551",
-      "datum": "2026-08-04T15:51:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds above 1.1500 on Hormuz reopening hopes and softer US jobs data",
-      "link": "https://www.fxstreet.com/news/euro-holds-above-11500-on-hormuz-reopening-hopes-and-softer-us-jobs-data-202608041551",
-      "datum": "2026-08-04T15:51:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver advances amid Hormuz reopening hopes",
-      "link": "https://www.fxstreet.com/news/silver-advances-amid-hormuz-reopening-hopes-202608041545",
-      "datum": "2026-08-04T15:45:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar Index: Rally questioned as safe-haven role tested – Rabobank",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-rally-questioned-as-safe-haven-role-tested-rabobank-202608041529",
-      "datum": "2026-08-04T15:29:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Asia FX: Yen-led winners and export backdrop – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-yen-led-winners-and-export-backdrop-mufg-202608041515",
-      "datum": "2026-08-04T15:15:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Consolidation below resistance against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-consolidation-below-resistance-against-us-dollar-scotiabank-202608041457",
-      "datum": "2026-08-04T14:57:41.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canadian manufacturing PMI hits a four-year high",
       "link": "https://investinglive.com/news/canadian-manufacturing-pmi-hits-a-four-year-high/",
@@ -107,12 +113,6 @@
       "titel": "JOLTs job openings 7.359M vs 7.400M estimate. Lower than last month.",
       "link": "https://investinglive.com/news/jolts-job-openings-7-359m-vs-7-400m-estimate-lower-than-last-month/",
       "datum": "2026-08-04T14:00:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US June factory orders -0.3% vs +0.2% expected",
-      "link": "https://investinglive.com/news/us-june-factory-orders-vs-0-2-expected/",
-      "datum": "2026-08-04T14:00:08.000Z"
     }
   ]
 }

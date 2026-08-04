@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-04T13:51:52.012Z",
+  "stand": "2026-08-04T16:08:00.233Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": 0,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Pfund fest über 1,27, weicher Dollar, COT-Short-Squeeze-Risiko. Moderat."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt; Risk-on nimmt dem Franken etwas Hafen-Bid. Klein."
     },

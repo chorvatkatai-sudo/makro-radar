@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-04T05:05:53.190Z",
+  "stand": "2026-08-04T05:07:34.260Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": 0,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Pfund fest über 1,27, weicher Dollar, COT-Short-Squeeze-Risiko. Moderat."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 4,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -3,
+      "tiltZins": -3,
+      "tiltGesamt": -8,
+      "score": -4,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + Kiwi-COT-Short-Squeeze-Potenzial + Risk-on. Moderat."
     }

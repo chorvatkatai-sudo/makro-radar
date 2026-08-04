@@ -1,11 +1,47 @@
 {
-  "stand": "2026-08-04T20:19:41.286Z",
+  "stand": "2026-08-04T22:05:17.470Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia 05 August 2026 - New Zealand jobs report",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-05-august-2026-new-zealand-jobs-report/",
+      "datum": "2026-08-04T21:27:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Strengthening toward 6.7300 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-strengthening-toward-67300-against-us-dollar-uob-202608042117",
+      "datum": "2026-08-04T21:17:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Vietnam Dong: Stable despite widening trade deficit – Commerzbank",
+      "link": "https://www.fxstreet.com/news/vietnam-dong-stable-despite-widening-trade-deficit-commerzbank-202608042034",
+      "datum": "2026-08-04T20:34:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+      "datum": "2026-08-04T20:30:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+      "datum": "2026-08-04T20:30:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+      "datum": "2026-08-04T20:30:00.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap: Everyone back in the AI boat",
@@ -32,7 +68,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Mexican Peso rallies to a one-month high on Hormuz deal speculation",
+      "titel": "Mexican Peso rallies to six-week high on Hormuz deal speculation",
       "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-a-one-month-high-on-hormuz-deal-speculation-202608041928",
       "datum": "2026-08-04T19:28:37.000Z"
     },
@@ -77,42 +113,6 @@
       "titel": "Iran and Oman continue Strait of Hormuz shipping talks",
       "link": "https://investinglive.com/news/iran-and-oman-continue-strait-of-hormuz-shipping-talks/",
       "datum": "2026-08-04T16:55:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bulldozers built a third of the Dow Jones Industrial Average record",
-      "link": "https://www.fxstreet.com/news/bulldozers-built-a-third-of-the-dow-jones-industrial-average-record-202608041645",
-      "datum": "2026-08-04T16:45:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil drops sharply after Bessent signals an imminent Iran deal",
-      "link": "https://www.fxstreet.com/news/wti-oil-drops-sharply-after-bessent-signals-an-imminent-iran-deal-202608041613",
-      "datum": "2026-08-04T16:13:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Bullish signals point to gains versus US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-signals-point-to-gains-versus-us-dollar-scotiabank-202608041558",
-      "datum": "2026-08-04T15:58:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canadian manufacturing PMI hits a four-year high",
-      "link": "https://investinglive.com/news/canadian-manufacturing-pmi-hits-a-four-year-high/",
-      "datum": "2026-08-04T14:37:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Rubio: There's been progress on reopening Strait. Nothing final but hoping agreement will happen very shortly",
-      "link": "https://investinglive.com/news/rubio-there-s-been-progress-on-reopening-strait-nothing-final-but-hoping-agreement-will-happen-very-shortly/",
-      "datum": "2026-08-04T14:28:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "JOLTs job openings 7.359M vs 7.400M estimate. Lower than last month.",
-      "link": "https://investinglive.com/news/jolts-job-openings-7-359m-vs-7-400m-estimate-lower-than-last-month/",
-      "datum": "2026-08-04T14:00:59.000Z"
     }
   ]
 }

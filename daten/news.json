@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-05T15:55:40.271Z",
+  "stand": "2026-08-05T19:18:04.698Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,57 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "Euro advances as US labor data disappoints",
+      "link": "https://www.fxstreet.com/news/euro-advances-as-us-labor-data-disappoints-202608051913",
+      "datum": "2026-08-05T19:13:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD skyrockets above $60, tests 50-day SMA",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-skyrockets-above-60-tests-50-day-sma-202608051859",
+      "datum": "2026-08-05T18:59:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Range trade holds ahead of Q2 GDP against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-trade-holds-ahead-of-q2-gdp-against-us-dollar-scotiabank-202608051842",
+      "datum": "2026-08-05T18:42:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rallies as Iran-US deal seems closer ahead of NFP",
+      "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-us-deal-seems-closer-ahead-of-nfp-202608051819",
+      "datum": "2026-08-05T18:19:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI holds near three-week low as traders await Hormuz agreement",
+      "link": "https://www.fxstreet.com/news/wti-holds-near-three-week-low-as-traders-await-hormuz-agreement-202608051759",
+      "datum": "2026-08-05T17:59:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc gains as US economic data disappoints and Fed hike bets weaken",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-economic-data-disappoints-and-fed-hike-bets-weaken-202608051730",
+      "datum": "2026-08-05T17:30:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average takes another record on Tehran's terms",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-takes-another-record-on-tehrans-terms-202608051659",
+      "datum": "2026-08-05T16:59:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen consolidates as traders weigh weak US data, market sentiment",
+      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-as-traders-weigh-weak-us-data-market-sentiment-202608051628",
+      "datum": "2026-08-05T16:28:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar slips as ADP collapse offsets hot services",
+      "link": "https://www.fxstreet.com/news/us-dollar-slips-as-adp-collapse-offsets-hot-services-202608051618",
+      "datum": "2026-08-05T16:18:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound rises as soft ADP jobs report weighs on Dollar, NFP looms",
+      "link": "https://www.fxstreet.com/news/british-pound-rises-as-soft-adp-weighs-on-dollar-nfp-looms-202608051604",
+      "datum": "2026-08-05T16:04:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "Silver Price Forecast: Daily momentum improves, but weekly outlook stays bearish",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-daily-momentum-improves-but-weekly-outlook-stays-bearish-202608051513",
       "datum": "2026-08-05T15:13:54.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro steadies as Eurozone PMIs beat forecasts",
+      "titel": "Euro steadies against Japanese Yen as Eurozone PMIs beat forecasts",
       "link": "https://www.fxstreet.com/news/euro-steadies-as-eurozone-pmis-beat-forecasts-202608051508",
       "datum": "2026-08-05T15:08:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar climbs as softer US data, improving risk sentiment weigh on USD",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-softer-us-data-improving-risk-sentiment-weigh-on-the-usd-202608051504",
-      "datum": "2026-08-05T15:04:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Recovery holds within 1.15–1.16 band against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-recovery-holds-within-115-116-band-against-us-dollar-scotiabank-202608051457",
-      "datum": "2026-08-05T14:57:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Limited downside on softer payrolls – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-limited-downside-on-softer-payrolls-td-securities-202608051441",
-      "datum": "2026-08-05T14:41:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Treasury lifts Iran sanctions as deal hopes gain momentum",
-      "link": "https://www.fxstreet.com/news/us-treasury-lifts-iran-sanctions-as-deal-hopes-gain-momentum-202608051438",
-      "datum": "2026-08-05T14:38:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brazilian Real: Flows support carry resilience – BNY",
-      "link": "https://www.fxstreet.com/news/brazilian-real-flows-support-carry-resilience-bny-202608051420",
-      "datum": "2026-08-05T14:20:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro edges higher as weak US labor data, lower Oil prices temper Fed hike bets",
-      "link": "https://www.fxstreet.com/news/euro-edges-higher-as-weak-us-labour-data-lower-oil-prices-temper-fed-hike-bets-202608051411",
-      "datum": "2026-08-05T14:11:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: Labor slack tempers strong jobs data – BBH",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-labor-slack-tempers-strong-jobs-data-bbh-202608051403",
-      "datum": "2026-08-05T14:03:13.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -73,12 +91,6 @@
       "datum": "2026-08-05T13:45:14.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI seen defending 97 band onshore – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-defending-97-band-onshore-societe-generale-202608051343",
-      "datum": "2026-08-05T13:43:18.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US July ADP national employment +44K vs +70K expected",
       "link": "https://investinglive.com/news/us-july-adp-national-employment-k-vs-70k-expected/",
@@ -91,22 +103,10 @@
       "datum": "2026-08-05T11:37:39.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Gold tops $4,200 on softer US labour data as Fed outlook turns less hawkish",
-      "link": "https://www.fxstreet.com/news/gold-advances-to-one-month-high-as-hormuz-reopening-hopes-ease-inflation-fears-202608051119",
-      "datum": "2026-08-05T11:19:27.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Drop in energy prices drive fall in Eurozone producer prices in June",
       "link": "https://investinglive.com/news/eurozone-june-producer-prices-0-3-vs-0-3-m-m-expected/",
       "datum": "2026-08-05T09:00:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: ISM Services PMI came in at 54.1 in July",
-      "link": "https://www.fxstreet.com/news/ism-services-pmi-preview-us-services-sector-expected-to-accelerate-in-july-202608050900",
-      "datum": "2026-08-05T09:00:00.000Z"
     },
     {
       "quelle": "ForexLive",

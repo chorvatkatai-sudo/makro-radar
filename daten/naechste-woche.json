@@ -895,7 +895,7 @@
     "title": "NIESR Monthly GDP Tracker",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1065,7 +1065,7 @@
     "title": "30-Year Bond Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "5.058%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1195,7 +1195,7 @@
     "title": "Current Account Prel",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "184.3 $",
     "actual": null,
     "quelle": "tradingview"
   },

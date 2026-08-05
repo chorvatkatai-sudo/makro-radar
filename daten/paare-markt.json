@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-05T15:55:40.273Z",
+  "stand": "2026-08-05T19:18:04.699Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 6,
       "tiltCot": -1,
-      "tiltZins": 0,
-      "tiltGesamt": -1,
-      "score": 5,
+      "tiltZins": 1,
+      "tiltGesamt": 0,
+      "score": 6,
       "cotExtrem": "extrem",
       "treiber": "Aufwärts: Dollar unter 100 + EUR/USD 6-Wochen-Hoch + EUR-COT-Shorts EXTREM (Squeeze). Track 14 % → bewusst moderat."
     },
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -2,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Pfund fest über 1,27, weicher Dollar, COT-Short-Squeeze-Risiko. Moderat."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -5,
       "tiltCot": 5,
-      "tiltZins": -7,
-      "tiltGesamt": -2,
-      "score": -7,
+      "tiltZins": -8,
+      "tiltGesamt": -3,
+      "score": -8,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + Yen-Stütze durch US-Japan-Intervention deckeln das Paar; heute nur leichter Rücksetzer. Track 2/7 → klein gehalten."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -2,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": 1,
+      "tiltZins": -3,
+      "tiltGesamt": 2,
+      "score": 0,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + CAD-COT-Squeeze drücken, aber schwächeres Öl (~75 $) bremst den Loonie → nur noch leicht abwärts. Klein (Track 14 %)."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -1,
       "tiltCot": -5,
-      "tiltZins": -4,
-      "tiltGesamt": -9,
-      "score": -10,
+      "tiltZins": -3,
+      "tiltGesamt": -8,
+      "score": -9,
       "cotExtrem": "erhoeht",
       "treiber": "Schwache NZ-Jobs (Quote 5,6 %, höchster Stand seit 2015) kippen den Squeeze-Bullen kurzfristig; weicher Dollar federt ab. Track 17 % → nahe null."
     }

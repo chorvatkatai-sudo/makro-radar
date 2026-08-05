@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-04T22:05:17.472Z",
+ "erstellt": "2026-08-05T05:05:02.800Z",
  "wochenStart": "2026-08-02",
  "events": [
   {
@@ -2336,9 +2336,9 @@ window.MAKRO_DATA = {
     "grund": "Risk-on (VIX ~16) nimmt dem Hafen-Franken etwas Nachfrage."
    },
    "CAD": {
-    "stimmung": "bullisch",
-    "score": 4,
-    "grund": "COT-Shorts erhöht (z −1,8, Squeeze), aber Öl zurück auf 80 $ trimmt den Rückenwind. Von +6 auf +4."
+    "stimmung": "neutral",
+    "score": 2,
+    "grund": "COT-Shorts erhöht (z −1,8, Squeeze-Brennstoff), ABER Öl weiter runter auf ~75 $ nimmt den Rückenwind. Von +4 auf +2 getrimmt."
    },
    "AUD": {
     "stimmung": "neutral",
@@ -2347,8 +2347,8 @@ window.MAKRO_DATA = {
    },
    "NZD": {
     "stimmung": "neutral",
-    "score": 3,
-    "grund": "COT-Shorts erhöht (z −1,6 = Squeeze-Brennstoff), Risk-on hilft leicht."
+    "score": -1,
+    "grund": "Arbeitslosenquote auf 5,6 % gesprungen (höchster Stand seit 2015) → mehr Zinssenkungs-Wetten belasten den Kiwi. COT-Short-Squeeze deckelt den Rückgang; Track 17 % → bewusst nahe null."
    }
   },
   "paare": [
@@ -2374,8 +2374,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": -4,
-    "treiber": "Weicher Dollar + CAD-Squeeze drücken das Paar, aber Öl-Rückgang bremst den Loonie. Klein."
+    "score": -2,
+    "treiber": "Weicher Dollar + CAD-COT-Squeeze drücken, aber schwächeres Öl (~75 $) bremst den Loonie → nur noch leicht abwärts. Klein (Track 14 %)."
    },
    {
     "paar": "USD/CHF",
@@ -2384,8 +2384,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "NZD/USD",
-    "score": 4,
-    "treiber": "Weicher Dollar + Kiwi-COT-Short-Squeeze-Potenzial + Risk-on. Moderat."
+    "score": -1,
+    "treiber": "Schwache NZ-Jobs (Quote 5,6 %, höchster Stand seit 2015) kippen den Squeeze-Bullen kurzfristig; weicher Dollar federt ab. Track 17 % → nahe null."
    }
   ],
   "wochenausblick": {
@@ -2475,19 +2475,20 @@ window.MAKRO_DATA = {
    "ÜBERFÜLLTE POSITIONEN SIND BRENNSTOFF: Alle Majors sind netto-short gegen den Dollar (COT 21.7.), NZD/EUR/CAD sogar erhöht/extrem. Wenn der Dollar fällt, werden diese Shorts zurückgekauft (Squeeze) und verstärken die Bewegung. Das ist der Grund, warum ich EUR/CAD/NZD trotz demütiger Track-Records leicht aufwärts sehe — nicht wegen Makro allein, sondern wegen der Positionierung."
   ],
   "tagesnews": {
-   "stand": "2026-08-04",
-   "wochentag": "Dienstag",
-   "tenor": "Sogar eine Fabrik-Umfrage auf 4-Jahres-Hoch (ISM 55,6) konnte den Dollar gestern nicht zurück über 100 hieven — der Riss nach dem schwachen Jobbericht klebt. Heute liefern die US-Stellenangebote (JOLTS, 16:00 Wien) einen Vorgeschmack auf den großen Jobbericht am Freitag; der Yen bleibt nach der historischen US-Japan-Intervention volatil.",
+   "stand": "2026-08-05",
+   "wochentag": "Mittwoch",
+   "tenor": "Der Dollar klebt weiter unter 100 (~99,9) — eine heiße Fabrik-Umfrage am Montag und ein schwacher Stellen-Report gestern heben sich auf. Heute liefern gleich zwei US-Job-Vorboten Munition für den großen Jobbericht am Freitag: der ADP-Bericht (14:15 Wien) und die ISM-Dienstleistungen (16:00 Wien). Alles ist nur Vorspiel für die NFP-Zahlen Fr.",
    "heute": [
-    "🇺🇸 HEUTE 16:00 Wien — US-JOLTS (Stellenangebote, Juni). Kinderleicht: Zählt, wie viele offene Jobs es gibt = wie hungrig die Firmen nach Personal sind. Zuletzt hoch (~7,4 Mio). Als Vorbote für den Jobbericht am Freitag: viele offene Stellen → Arbeitsmarkt robust → Dollar-Stütze; wenige → Dollar weiter weich.",
-    "💵 Der Dollar-Index bleibt UNTER 100 (~99,9) — selbst die heiße Fabrik-Umfrage von gestern reichte nicht für die Rückeroberung. EUR/USD hält sein 6-Wochen-Hoch (~1,15), das Pfund fest über 1,27.",
-    "🇯🇵 USD/JPY tickt heute leicht hoch auf ~157,6 (+0,3 %) — der Yen gibt nach dem starken Sprung der Vorwoche ein bisschen ab. Hintergrund: erstmals seit 2011 kaufen USA und Japan GEMEINSAM Yen (Japan gab Fr ~5,3 Bio ¥, Do sogar Rekord ~8,5 Bio ¥ aus). Kinderleicht: Zwei Regierungen stützen zusammen den Yen — das deckelt, wie hoch der Dollar gegen den Yen steigen kann.",
-    "🏭 Großer US-Bilanztag (AMD, Caterpillar, McDonald’s, HSBC, BP, Spotify). Die Risikolaune (Angst-Barometer VIX tief bei ~16 = Anleger entspannt) gibt den Grundton für die Währungen vor."
+    "🇺🇸 HEUTE 14:15 Wien — ADP-Jobbericht (privater Arbeitsmarkt, erwartet nur +68.000 nach +98.000). Kinderleicht: Ein privater Zähler, wie viele Jobs die US-Firmen letzten Monat geschaffen haben — der inoffizielle Vorbote für den großen Regierungs-Jobbericht am Freitag. Schwach → Dollar bleibt weich; überraschend stark → kurze Dollar-Erholung.",
+    "🇺🇸 HEUTE 16:00 Wien — US-ISM-Dienstleistungen (erwartet 54,5 nach 54,0). Kinderleicht: Umfrage bei Dienstleistern (Läden, Banken, Gesundheit = ~70 % der US-Wirtschaft); über 50 = Wachstum. Nachdem die Fabrik-Umfrage am Montag heiß war (55,6), zeigt diese, ob auch der große Rest der Wirtschaft brummt. Achte auf den Preis-Teil — fällt er, deutet das auf kühlere Inflation.",
+    "💵 Der Dollar-Index bleibt UNTER 100 (~99,9, −0,9 % auf Wochensicht) und der US-Zinsvorsprung schmilzt (2-Jahres-Rendite −0,14 Pp auf Wochensicht = stärkster Rückgang der G10). EUR/USD hält sein 6-Wochen-Hoch (~1,15), das Pfund fest über 1,27.",
+    "🗣️ 16:30 Wien spricht Präsident Trump, dazu die Fed-Mitglieder Cook (16:05) und Daly (20:35) — mögliche Impulse für Zins- und Dollar-Erwartungen."
    ],
    "gestern": [
-    "🇺🇸 ISM-Industrie HEISS: 55,6 statt 54,0 erwartet — höchster Wert seit Mai 2022 (über 50 = die US-Fabriken wachsen). Sogar der Beschäftigungs-Teil sprang erstmals seit fast 3 Jahren zurück ins Wachstum (52,8). Ein starkes Lebenszeichen der Industrie.",
-    "💵 ABER: Selbst diese Top-Zahl hob den Dollar nicht zurück über 100. Kernlehre: EINE gute Umfrage dreht keinen Trend — das schwache Wachstum (+1,5 %) und die kühle Kern-Inflation (Kern-PCE +0,1 %) der Vorwoche wiegen schwerer. „Crack, not break“ hält.",
-    "🛢️ Öl zurück auf ~80 $ WTI (von ~90 $ in der Vorwoche) — die Inflations-Angst lässt nach, aber der Rückenwind für den Kanada-Dollar wird dünner."
+    "🇺🇸 US-Stellenangebote (JOLTS) blieben im Juni bei ~7,4 Mio. hängen — UNTER Erwartung. Kinderleicht: Weniger offene Stellen als gedacht = Firmen suchen etwas weniger hektisch = der Arbeitsmarkt kühlt sanft ab. Das stützt die schwache-Dollar-Geschichte vor dem Freitags-Jobbericht.",
+    "🇳🇿 Neuseeland-Arbeitsmarkt (Q2) GEMISCHT, aber Kiwi verlor: Arbeitslosenquote sprang auf 5,6 % (erwartet 5,4 %, höchster Stand seit 2015), obwohl die Beschäftigung +0,5 % zulegte (Beat). Kinderleicht: Mehr Menschen ohne Job → Markt wettet stärker auf Zinssenkungen der neuseeländischen Notenbank → NZD/USD fiel und blieb unten.",
+    "🇺🇸 Rückblick Montag: ISM-Fabrik-Umfrage HEISS mit 55,6 (statt 54,0, höchster Wert seit Mai 2022) — trotzdem holte der Dollar die 100 nicht zurück. Lehre: eine gute Umfrage dreht keinen Trend, das schwache Wachstum + kühle Kern-Inflation der Vorwoche wiegen schwerer.",
+    "🛢️ Öl weiter gefallen auf ~75 $ WTI (von ~84 $) — die Inflations-Angst lässt nach, aber dem Kanada-Dollar geht damit ein Stück Rückenwind verloren."
    ]
   }
  },
@@ -3536,13 +3537,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -4,
+   "baseScore": -2,
    "tiltCot": 5,
    "tiltZins": -2,
    "tiltGesamt": 3,
-   "score": -1,
+   "score": 1,
    "cotExtrem": "erhoeht",
-   "treiber": "Weicher Dollar + CAD-Squeeze drücken das Paar, aber Öl-Rückgang bremst den Loonie. Klein."
+   "treiber": "Weicher Dollar + CAD-COT-Squeeze drücken, aber schwächeres Öl (~75 $) bremst den Loonie → nur noch leicht abwärts. Klein (Track 14 %)."
   },
   {
    "paar": "USD/CHF",
@@ -3556,13 +3557,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "NZD/USD",
-   "baseScore": 4,
+   "baseScore": -1,
    "tiltCot": -5,
    "tiltZins": -2,
    "tiltGesamt": -7,
-   "score": -3,
+   "score": -8,
    "cotExtrem": "erhoeht",
-   "treiber": "Weicher Dollar + Kiwi-COT-Short-Squeeze-Potenzial + Risk-on. Moderat."
+   "treiber": "Schwache NZ-Jobs (Quote 5,6 %, höchster Stand seit 2015) kippen den Squeeze-Bullen kurzfristig; weicher Dollar federt ab. Track 17 % → nahe null."
   }
  ],
  "sentiment": null,

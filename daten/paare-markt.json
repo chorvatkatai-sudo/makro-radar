@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-04T22:05:17.471Z",
+  "stand": "2026-08-05T05:05:02.799Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -45,13 +45,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -4,
+      "baseScore": -2,
       "tiltCot": 5,
       "tiltZins": -2,
       "tiltGesamt": 3,
-      "score": -1,
+      "score": 1,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar + CAD-Squeeze drücken das Paar, aber Öl-Rückgang bremst den Loonie. Klein."
+      "treiber": "Weicher Dollar + CAD-COT-Squeeze drücken, aber schwächeres Öl (~75 $) bremst den Loonie → nur noch leicht abwärts. Klein (Track 14 %)."
     },
     {
       "paar": "USD/CHF",
@@ -65,13 +65,13 @@
     },
     {
       "paar": "NZD/USD",
-      "baseScore": 4,
+      "baseScore": -1,
       "tiltCot": -5,
       "tiltZins": -2,
       "tiltGesamt": -7,
-      "score": -3,
+      "score": -8,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar + Kiwi-COT-Short-Squeeze-Potenzial + Risk-on. Moderat."
+      "treiber": "Schwache NZ-Jobs (Quote 5,6 %, höchster Stand seit 2015) kippen den Squeeze-Bullen kurzfristig; weicher Dollar federt ab. Track 17 % → nahe null."
     }
   ]
 }

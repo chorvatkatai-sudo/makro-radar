@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-05T05:05:28.409Z",
+  "stand": "2026-08-05T13:48:03.750Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -2,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Pfund fest über 1,27, weicher Dollar, COT-Short-Squeeze-Risiko. Moderat."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -5,
       "tiltCot": 5,
-      "tiltZins": -8,
-      "tiltGesamt": -3,
-      "score": -8,
+      "tiltZins": -7,
+      "tiltGesamt": -2,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + Yen-Stütze durch US-Japan-Intervention deckeln das Paar; heute nur leichter Rücksetzer. Track 2/7 → klein gehalten."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": 0,
-      "tiltGesamt": -3,
-      "score": 1,
+      "tiltZins": -1,
+      "tiltGesamt": -4,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Risk-on + weicher Dollar heben den Aussie leicht. Moderat."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -1,
       "tiltCot": -5,
-      "tiltZins": -3,
-      "tiltGesamt": -8,
-      "score": -9,
+      "tiltZins": -4,
+      "tiltGesamt": -9,
+      "score": -10,
       "cotExtrem": "erhoeht",
       "treiber": "Schwache NZ-Jobs (Quote 5,6 %, höchster Stand seit 2015) kippen den Squeeze-Bullen kurzfristig; weicher Dollar federt ab. Track 17 % → nahe null."
     }

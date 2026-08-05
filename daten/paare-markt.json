@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-05T13:57:05.981Z",
+  "stand": "2026-08-05T15:55:40.273Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": -1,
-      "tiltGesamt": -4,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": -3,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Risk-on + weicher Dollar heben den Aussie leicht. Moderat."
     },

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-05T13:48:03.750Z",
+  "stand": "2026-08-05T13:57:05.981Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -5,
-      "tiltZins": -1,
-      "tiltGesamt": -6,
-      "score": -1,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Pfund fest über 1,27, weicher Dollar, COT-Short-Squeeze-Risiko. Moderat."
     },

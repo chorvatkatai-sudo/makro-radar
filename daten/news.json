@@ -1,11 +1,17 @@
 {
-  "stand": "2026-08-05T13:48:03.748Z",
+  "stand": "2026-08-05T13:57:05.980Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US S&P Global services final PMI 54.6 vs 53.6 prelim",
+      "link": "https://investinglive.com/news/us-s-p-global-services-final-pmi-54-6-vs-53-6-prelim/",
+      "datum": "2026-08-05T13:45:14.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Indian Rupee: RBI seen defending 97 band onshore – Societe Generale",
@@ -107,12 +113,6 @@
       "titel": "Euro area services sector drives business activity rebound in July - PMI data",
       "link": "https://investinglive.com/news/eurozone-july-final-services-pmi-vs-51-6-prelim/",
       "datum": "2026-08-05T08:00:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany July final services PMI 49.8 vs 49.6 prelim",
-      "link": "https://investinglive.com/news/germany-july-final-services-pmi-xx-vs-49-6-prelim/",
-      "datum": "2026-08-05T07:55:11.000Z"
     }
   ]
 }

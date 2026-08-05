@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-05T05:05:02.799Z",
+  "stand": "2026-08-05T05:05:28.409Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -1,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -8,
+      "tiltZins": -3,
+      "tiltGesamt": -8,
+      "score": -9,
       "cotExtrem": "erhoeht",
       "treiber": "Schwache NZ-Jobs (Quote 5,6 %, höchster Stand seit 2015) kippen den Squeeze-Bullen kurzfristig; weicher Dollar federt ab. Track 17 % → nahe null."
     }

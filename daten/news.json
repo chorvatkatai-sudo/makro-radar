@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-05T19:18:04.698Z",
+  "stand": "2026-08-06T05:06:14.903Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro advances as US labor data disappoints",
-      "link": "https://www.fxstreet.com/news/euro-advances-as-us-labor-data-disappoints-202608051913",
-      "datum": "2026-08-05T19:13:36.000Z"
+      "titel": "EUR/JPY Price Forecast: Falls to near 182.00 amid prevailing bearish bias",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-falls-to-near-18200-amid-prevailing-bearish-bias-202608060503",
+      "datum": "2026-08-06T05:03:21.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD skyrockets above $60, tests 50-day SMA",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-skyrockets-above-60-tests-50-day-sma-202608051859",
-      "datum": "2026-08-05T18:59:38.000Z"
+      "titel": "British Pound consolidates vs Yen; bullish bias remains amid Japan's fiscal concerns",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidates-vs-yen-bullish-bias-remains-amid-japans-fiscal-concerns-202608060450",
+      "datum": "2026-08-06T04:50:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: Range trade holds ahead of Q2 GDP against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-range-trade-holds-ahead-of-q2-gdp-against-us-dollar-scotiabank-202608051842",
-      "datum": "2026-08-05T18:42:22.000Z"
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608060435",
+      "datum": "2026-08-06T04:35:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold rallies as Iran-US deal seems closer ahead of NFP",
-      "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-us-deal-seems-closer-ahead-of-nfp-202608051819",
-      "datum": "2026-08-05T18:19:04.000Z"
+      "titel": "AUD/JPY Price Forecast: Softens to near 111.00 as bearish bias holds below key technical barriers",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-softens-to-near-11100-as-bearish-bias-holds-below-key-technical-barriers-202608060423",
+      "datum": "2026-08-06T04:23:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI holds near three-week low as traders await Hormuz agreement",
-      "link": "https://www.fxstreet.com/news/wti-holds-near-three-week-low-as-traders-await-hormuz-agreement-202608051759",
-      "datum": "2026-08-05T17:59:52.000Z"
+      "titel": "Gold pulls back from seven-week high as bulls struggle to find acceptance above $4,300",
+      "link": "https://www.fxstreet.com/news/gold-pulls-back-from-seven-week-high-as-bulls-struggle-to-find-acceptance-above-4-300-202608060420",
+      "datum": "2026-08-06T04:20:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific Financial Market news: Japan, South Korea equities slide",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-japan-south-korea-equities-slide/",
+      "datum": "2026-08-06T03:40:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc gains as US economic data disappoints and Fed hike bets weaken",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-economic-data-disappoints-and-fed-hike-bets-weaken-202608051730",
-      "datum": "2026-08-05T17:30:54.000Z"
+      "titel": "Swiss Franc receives support as US Dollar weakens on easing risk aversion",
+      "link": "https://www.fxstreet.com/news/swiss-franc-receives-support-as-us-dollar-weakens-on-easing-risk-aversion-202608060335",
+      "datum": "2026-08-06T03:35:36.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average takes another record on Tehran's terms",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-takes-another-record-on-tehrans-terms-202608051659",
-      "datum": "2026-08-05T16:59:44.000Z"
+      "titel": "EUR/USD Price Forecast: Looks set to extend advance beyond 1.1600",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-looks-set-to-extend-advance-beyond-11600-202608060316",
+      "datum": "2026-08-06T03:16:17.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen consolidates as traders weigh weak US data, market sentiment",
-      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-as-traders-weigh-weak-us-data-market-sentiment-202608051628",
-      "datum": "2026-08-05T16:28:28.000Z"
+      "titel": "Silver Price Forecast: XAG/USD rises above $62.00 on easing inflation concerns",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-6200-on-easing-inflation-concerns-202608060252",
+      "datum": "2026-08-06T02:52:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar slips as ADP collapse offsets hot services",
-      "link": "https://www.fxstreet.com/news/us-dollar-slips-as-adp-collapse-offsets-hot-services-202608051618",
-      "datum": "2026-08-05T16:18:46.000Z"
+      "titel": "United States Dollar Index (DXY) struggles near 99.65 and remains close to multi-week low",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-struggles-near-9965-and-remains-close-to-multi-week-low-202608060239",
+      "datum": "2026-08-06T02:39:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound rises as soft ADP jobs report weighs on Dollar, NFP looms",
-      "link": "https://www.fxstreet.com/news/british-pound-rises-as-soft-adp-weighs-on-dollar-nfp-looms-202608051604",
-      "datum": "2026-08-05T16:04:41.000Z"
+      "titel": "Japanese Yen gathers strength to near 157.50 on US-backed intervention",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-to-near-15750-on-us-backed-intervention-202608060237",
+      "datum": "2026-08-06T02:37:47.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: Daily momentum improves, but weekly outlook stays bearish",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-daily-momentum-improves-but-weekly-outlook-stays-bearish-202608051513",
-      "datum": "2026-08-05T15:13:54.000Z"
+      "titel": "Canadian Dollar remains on the front foot vs USD as oil rebounds and Fed hike bets fade",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-vs-usd-as-oil-rebounds-and-fed-hike-bets-fade-202608060153",
+      "datum": "2026-08-06T01:53:59.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro steadies against Japanese Yen as Eurozone PMIs beat forecasts",
-      "link": "https://www.fxstreet.com/news/euro-steadies-as-eurozone-pmis-beat-forecasts-202608051508",
-      "datum": "2026-08-05T15:08:37.000Z"
+      "titel": "US President Donald Trump's administration refunds $100bn of ‘liberation day’ tariffs",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trumps-administration-refunds-100bn-of-liberation-day-tariffs-202608060151",
+      "datum": "2026-08-06T01:51:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australian June trade surplus AU$1.929bn (deficit 1.1bn expected)",
+      "link": "https://investinglive.com/news/australian-june-trade-surplus-au-1-929bn-deficit-1-1bn-expected/",
+      "datum": "2026-08-06T01:34:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump administration refunds $100bn of struck down tariffs",
+      "link": "https://investinglive.com/news/trump-administration-refunds-100bn-of-struck-down-tariffs/",
+      "datum": "2026-08-05T22:53:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Gold storms higher",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-gold-storms-higher/",
+      "datum": "2026-08-05T21:32:16.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -89,30 +113,6 @@
       "titel": "US S&P Global services final PMI 54.6 vs 53.6 prelim",
       "link": "https://investinglive.com/news/us-s-p-global-services-final-pmi-54-6-vs-53-6-prelim/",
       "datum": "2026-08-05T13:45:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US July ADP national employment +44K vs +70K expected",
-      "link": "https://investinglive.com/news/us-july-adp-national-employment-k-vs-70k-expected/",
-      "datum": "2026-08-05T12:15:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Dollar subdued, gold climbs; US stocks eyed after record-breaking day",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-subdued-gold-climbs-us-stocks-eyed-after-record-breaking-day/",
-      "datum": "2026-08-05T11:37:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Drop in energy prices drive fall in Eurozone producer prices in June",
-      "link": "https://investinglive.com/news/eurozone-june-producer-prices-0-3-vs-0-3-m-m-expected/",
-      "datum": "2026-08-05T09:00:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK July final services PMI 52.1 vs 51.8 prelim",
-      "link": "https://investinglive.com/news/uk-july-final-services-pmi-xx-vs-51-8-prelim/",
-      "datum": "2026-08-05T08:30:08.000Z"
     }
   ]
 }

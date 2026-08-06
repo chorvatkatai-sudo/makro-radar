@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-06T11:13:06.899Z",
+  "stand": "2026-08-06T13:45:38.032Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 6,
       "tiltCot": -1,
-      "tiltZins": 3,
-      "tiltGesamt": 2,
-      "score": 8,
+      "tiltZins": 2,
+      "tiltGesamt": 1,
+      "score": 7,
       "cotExtrem": "extrem",
       "treiber": "Aufwärts: Dollar unter 100 + EUR/USD 7-Wochen-Hoch + EUR-COT-Shorts EXTREM (Squeeze). Track nur 14 % → bewusst moderat."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": -3,
-      "tiltGesamt": 2,
-      "score": -2,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt; Risk-on nimmt dem Franken etwas Hafen-Bid. Klein."
     },

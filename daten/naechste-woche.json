@@ -905,7 +905,7 @@
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1801",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -915,7 +915,7 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "198.75",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -925,7 +925,7 @@
     "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "199",
     "actual": null,
     "quelle": "tradingview"
   },

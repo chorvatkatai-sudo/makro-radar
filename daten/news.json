@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-06T05:06:14.903Z",
+  "stand": "2026-08-06T11:13:06.898Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Falls to near 182.00 amid prevailing bearish bias",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-falls-to-near-18200-amid-prevailing-bearish-bias-202608060503",
-      "datum": "2026-08-06T05:03:21.000Z"
+      "titel": "Silver Price Forecast: XAG/USD clings to gains near $62 with US NFP in focus",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-clings-to-gains-near-62-with-us-nfp-in-focus-202608061059",
+      "datum": "2026-08-06T10:59:25.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound consolidates vs Yen; bullish bias remains amid Japan's fiscal concerns",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-vs-yen-bullish-bias-remains-amid-japans-fiscal-concerns-202608060450",
-      "datum": "2026-08-06T04:50:23.000Z"
+      "titel": "Gold Price Forecast: XAU/USD bulls target $4,380 buoyed by lower US yields",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bulls-target-4-380-buoyed-by-lower-us-yields-202608061036",
+      "datum": "2026-08-06T10:36:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608060435",
-      "datum": "2026-08-06T04:35:39.000Z"
+      "titel": "Japanese Yen: Policy shifts weigh on JPY against US Dollar – Rabobank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-shifts-weigh-on-jpy-against-us-dollar-rabobank-202608061004",
+      "datum": "2026-08-06T10:04:55.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Softens to near 111.00 as bearish bias holds below key technical barriers",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-softens-to-near-11100-as-bearish-bias-holds-below-key-technical-barriers-202608060423",
-      "datum": "2026-08-06T04:23:11.000Z"
+      "titel": "US Dollar: Data-dependent Fed keeps upside in check – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-data-dependent-fed-keeps-upside-in-check-ocbc-202608060957",
+      "datum": "2026-08-06T09:57:10.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold pulls back from seven-week high as bulls struggle to find acceptance above $4,300",
-      "link": "https://www.fxstreet.com/news/gold-pulls-back-from-seven-week-high-as-bulls-struggle-to-find-acceptance-above-4-300-202608060420",
-      "datum": "2026-08-06T04:20:50.000Z"
+      "titel": "Yen struggles to hold intervention gains and drifts towards 158.00",
+      "link": "https://www.fxstreet.com/news/yen-struggles-to-hold-intervention-gains-and-drifts-towards-15800-202608060944",
+      "datum": "2026-08-06T09:44:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: Policy pause offers limited support – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-policy-pause-offers-limited-support-commerzbank-202608060941",
+      "datum": "2026-08-06T09:41:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Czech Koruna: Softer CNB guidance may weigh against euro – ING",
+      "link": "https://www.fxstreet.com/news/czech-koruna-softer-cnb-guidance-may-weigh-against-euro-ing-202608060933",
+      "datum": "2026-08-06T09:33:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver broadly unchanged, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202608060933",
+      "datum": "2026-08-06T09:33:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific Financial Market news: Japan, South Korea equities slide",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-japan-south-korea-equities-slide/",
-      "datum": "2026-08-06T03:40:42.000Z"
+      "titel": "US-based employers announce fewest job cuts in two years in July",
+      "link": "https://investinglive.com/news/us-based-employers-announce-fewest-job-cuts-in-two-years-in-july/",
+      "datum": "2026-08-06T09:30:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc receives support as US Dollar weakens on easing risk aversion",
-      "link": "https://www.fxstreet.com/news/swiss-franc-receives-support-as-us-dollar-weakens-on-easing-risk-aversion-202608060335",
-      "datum": "2026-08-06T03:35:36.000Z"
+      "titel": "Brazilian Real: Cautious BCB easing offers limited support – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brazilian-real-cautious-bcb-easing-offers-limited-support-societe-generale-202608060924",
+      "datum": "2026-08-06T09:24:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Looks set to extend advance beyond 1.1600",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-looks-set-to-extend-advance-beyond-11600-202608060316",
-      "datum": "2026-08-06T03:16:17.000Z"
+      "titel": "Swedish Krona: Riksbank set to hold despite core pressure – Nomura",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-set-to-hold-despite-core-pressure-nomura-202608060916",
+      "datum": "2026-08-06T09:16:28.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD rises above $62.00 on easing inflation concerns",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-6200-on-easing-inflation-concerns-202608060252",
-      "datum": "2026-08-06T02:52:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index (DXY) struggles near 99.65 and remains close to multi-week low",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-struggles-near-9965-and-remains-close-to-multi-week-low-202608060239",
-      "datum": "2026-08-06T02:39:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen gathers strength to near 157.50 on US-backed intervention",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-to-near-15750-on-us-backed-intervention-202608060237",
-      "datum": "2026-08-06T02:37:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar remains on the front foot vs USD as oil rebounds and Fed hike bets fade",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-vs-usd-as-oil-rebounds-and-fed-hike-bets-fade-202608060153",
-      "datum": "2026-08-06T01:53:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US President Donald Trump's administration refunds $100bn of ‘liberation day’ tariffs",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trumps-administration-refunds-100bn-of-liberation-day-tariffs-202608060151",
-      "datum": "2026-08-06T01:51:07.000Z"
+      "titel": "Japanese Yen: Upside risk while stuck in range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-upside-risk-while-stuck-in-range-against-us-dollar-uob-202608060904",
+      "datum": "2026-08-06T09:04:35.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Australian June trade surplus AU$1.929bn (deficit 1.1bn expected)",
-      "link": "https://investinglive.com/news/australian-june-trade-surplus-au-1-929bn-deficit-1-1bn-expected/",
-      "datum": "2026-08-06T01:34:50.000Z"
+      "titel": "Euro area retail sales unexpectedly fall in June amid broader slump in overall activity",
+      "link": "https://investinglive.com/news/euro-area-retail-sales-unexpectedly-fall-in-june-amid-broader-slump-in-overall-activity/",
+      "datum": "2026-08-06T09:00:28.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Trump administration refunds $100bn of struck down tariffs",
-      "link": "https://investinglive.com/news/trump-administration-refunds-100bn-of-struck-down-tariffs/",
-      "datum": "2026-08-05T22:53:28.000Z"
+      "titel": "UK construction slump eases in July amid rebound in client demand",
+      "link": "https://investinglive.com/news/uk-july-construction-pmi-vs-40-0-expected/",
+      "datum": "2026-08-06T08:30:11.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Gold storms higher",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-gold-storms-higher/",
-      "datum": "2026-08-05T21:32:16.000Z"
+      "titel": "Italian industrial production falls by 1.0% in June despite quarterly growth",
+      "link": "https://investinglive.com/news/italian-industrial-production-falls-by-1-0-in-june-despite-quarterly-growth/",
+      "datum": "2026-08-06T08:12:10.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US July ISM services index 54.1 vs 54.5 expected",
-      "link": "https://investinglive.com/news/us-july-ism-services-index-vs-54-5-expected/",
-      "datum": "2026-08-05T14:00:21.000Z"
+      "titel": "German construction activity continues to struggle at the start of Q3",
+      "link": "https://investinglive.com/news/germany-july-construction-pmi-42-1-vs-44-8-prior/",
+      "datum": "2026-08-06T07:30:06.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US S&P Global services final PMI 54.6 vs 53.6 prelim",
-      "link": "https://investinglive.com/news/us-s-p-global-services-final-pmi-54-6-vs-53-6-prelim/",
-      "datum": "2026-08-05T13:45:14.000Z"
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-19/",
+      "datum": "2026-08-06T06:29:48.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "German factory orders rise by more than expected in June on another surge in large-scale orders",
+      "link": "https://investinglive.com/news/german-factory-orders-rise-by-more-than-expected-in-june-on-another-surge-in-large-scale-orders/",
+      "datum": "2026-08-06T06:00:12.000Z"
     }
   ]
 }

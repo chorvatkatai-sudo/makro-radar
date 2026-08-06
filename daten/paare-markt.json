@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-06T05:06:14.904Z",
+  "stand": "2026-08-06T11:13:06.899Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 6,
       "tiltCot": -1,
-      "tiltZins": 2,
-      "tiltGesamt": 1,
-      "score": 7,
+      "tiltZins": 3,
+      "tiltGesamt": 2,
+      "score": 8,
       "cotExtrem": "extrem",
       "treiber": "Aufwärts: Dollar unter 100 + EUR/USD 7-Wochen-Hoch + EUR-COT-Shorts EXTREM (Squeeze). Track nur 14 % → bewusst moderat."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -5,
       "tiltCot": 5,
-      "tiltZins": -8,
-      "tiltGesamt": -3,
-      "score": -8,
+      "tiltZins": -7,
+      "tiltGesamt": -2,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + Yen-Stütze durch US-Japan-Intervention deckeln das Paar. Track 2/7 → klein gehalten."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -2,
       "tiltCot": 5,
-      "tiltZins": -4,
-      "tiltGesamt": 1,
-      "score": -1,
+      "tiltZins": -6,
+      "tiltGesamt": -1,
+      "score": -3,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + CAD-COT-Squeeze drücken, aber der Öl-Sturz (~75 $) bremst den Loonie → nur leicht abwärts. Klein (Track 14 %)."
     },

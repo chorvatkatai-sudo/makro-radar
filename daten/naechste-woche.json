@@ -4,7 +4,7 @@
     "country": "CNY",
     "title": "Inflation Rate MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "-0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -14,7 +14,7 @@
     "country": "CNY",
     "title": "PPI YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.8%",
     "previous": "4.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -24,7 +24,7 @@
     "country": "CNY",
     "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.8%",
     "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
@@ -105,7 +105,7 @@
     "title": "BRC Retail Sales Monitor YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "1.7",
+    "previous": "1.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -234,7 +234,7 @@
     "country": "USD",
     "title": "Existing Home Sales",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4.07",
     "previous": "4.09",
     "actual": null,
     "quelle": "tradingview"
@@ -374,7 +374,7 @@
     "country": "USD",
     "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "3.4%",
     "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -384,7 +384,7 @@
     "country": "USD",
     "title": "Core Inflation Rate MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
@@ -394,7 +394,7 @@
     "country": "USD",
     "title": "Core Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.5%",
     "previous": "2.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -404,7 +404,7 @@
     "country": "USD",
     "title": "Inflation Rate MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "-0.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -585,7 +585,7 @@
     "title": "RICS House Price Balance",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-33",
+    "previous": "-33%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -705,7 +705,7 @@
     "title": "GDP 3-Month Avg",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.7",
+    "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -844,7 +844,7 @@
     "country": "CNY",
     "title": "Total Social Financing",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1220 CNY",
     "previous": "3360 CNY",
     "actual": null,
     "quelle": "tradingview"
@@ -864,7 +864,7 @@
     "country": "CNY",
     "title": "New Yuan Loans",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "45 CNY",
     "previous": "1610 CNY",
     "actual": null,
     "quelle": "tradingview"
@@ -874,7 +874,7 @@
     "country": "CNY",
     "title": "Outstanding Loan Growth YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "5.3%",
     "previous": "5.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -884,7 +884,7 @@
     "country": "CNY",
     "title": "M2 Money Supply YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "7.9%",
     "previous": "8%",
     "actual": null,
     "quelle": "tradingview"
@@ -964,7 +964,7 @@
     "country": "USD",
     "title": "Core PPI MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -974,7 +974,7 @@
     "country": "USD",
     "title": "PPI MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "-0.3%",
     "actual": null,
     "quelle": "tradingview"

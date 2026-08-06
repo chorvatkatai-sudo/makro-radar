@@ -7660,6 +7660,26 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-06T04:41:00-04:00|EUR|Spanish 10-y Bond Auction": {
+      "datum": "2026-08-06T04:41:00-04:00",
+      "land": "EUR",
+      "titel": "Spanish 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.40|1.8",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-06T04:57:00-04:00|EUR|French 10-y Bond Auction": {
+      "datum": "2026-08-06T04:57:00-04:00",
+      "land": "EUR",
+      "titel": "French 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.68|3.3",
+      "actual": null,
+      "notiz": null
     }
   }
 }

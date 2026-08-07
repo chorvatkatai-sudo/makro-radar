@@ -7700,6 +7700,16 @@
       "vorher": "125.6B",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-07T02:03:00-04:00|GBP|Lloyds HPI m/m": {
+      "datum": "2026-08-07T02:03:00-04:00",
+      "land": "GBP",
+      "titel": "Lloyds HPI m/m",
+      "impact": "Low",
+      "prognose": "0.2%",
+      "vorher": "0.2%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

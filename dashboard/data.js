@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-07T05:06:08.247Z",
+ "erstellt": "2026-08-07T07:02:34.895Z",
  "wochenStart": "2026-08-02",
  "events": [
   {
@@ -761,7 +761,7 @@ window.MAKRO_DATA = {
   {
    "title": "Lloyds HPI m/m",
    "country": "GBP",
-   "date": "2026-08-07T02:00:00-04:00",
+   "date": "2026-08-07T02:03:00-04:00",
    "impact": "Low",
    "forecast": "0.2%",
    "previous": "0.2%",
@@ -2957,15 +2957,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-07T05:06:07.662Z",
+  "stand": "2026-08-07T07:02:34.491Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.95,
+    "wert": 99.94,
     "tagProzent": 0,
-    "wocheProzent": -0.01,
+    "wocheProzent": -0.02,
     "renditeDelta": false,
     "verlauf": [
      100.97,
@@ -2988,8 +2988,8 @@ window.MAKRO_DATA = {
      99.89,
      99.69,
      99.97,
-     99.95,
-     99.95
+     99.94,
+     99.94
     ]
    },
    "VIX": {
@@ -3029,9 +3029,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 78.31,
+    "wert": 77.96,
     "tagProzent": 0,
-    "wocheProzent": -2.53,
+    "wocheProzent": -2.96,
     "renditeDelta": false,
     "verlauf": [
      71.41,
@@ -3054,17 +3054,17 @@ window.MAKRO_DATA = {
      75.77,
      75.22,
      77.29,
-     78.31,
-     78.31
+     77.96,
+     77.96
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 83.75,
+    "wert": 83.46,
     "tagProzent": 0,
-    "wocheProzent": -0.02,
+    "wocheProzent": -0.37,
     "renditeDelta": false,
     "verlauf": [
      76.01,
@@ -3087,17 +3087,17 @@ window.MAKRO_DATA = {
      79.36,
      79.45,
      82.49,
-     83.75,
-     83.75
+     83.46,
+     83.46
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4325.4,
+    "wert": 4352.1,
     "tagProzent": 0,
-    "wocheProzent": 7.23,
+    "wocheProzent": 7.89,
     "renditeDelta": false,
     "verlauf": [
      4104.1,
@@ -3120,8 +3120,8 @@ window.MAKRO_DATA = {
      4095.4,
      4245.8,
      4242,
-     4325.4,
-     4325.4
+     4352.1,
+     4352.1
     ]
    },
    "US02Y": {
@@ -3227,9 +3227,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64157.5,
+    "wert": 64213.43,
     "tagProzent": 0,
-    "wocheProzent": 1.06,
+    "wocheProzent": 1.15,
     "renditeDelta": false,
     "verlauf": [
      63899.46,
@@ -3252,8 +3252,8 @@ window.MAKRO_DATA = {
      63460.9,
      64055.95,
      64597.5,
-     64157.5,
-     64157.5
+     64213.43,
+     64213.43
     ]
    },
    "FEDFUT": {
@@ -3453,32 +3453,32 @@ window.MAKRO_DATA = {
    "stand": "2026-08-07",
    "werte": {
     "USD": {
-     "wert": 4.249,
-     "wocheDelta": -0.026
+     "wert": 4.241,
+     "wocheDelta": -0.034
     },
     "EUR": {
-     "wert": 2.759,
-     "wocheDelta": 0.014
+     "wert": 2.752,
+     "wocheDelta": 0.007
     },
     "GBP": {
-     "wert": 4.309,
-     "wocheDelta": -0.033
+     "wert": 4.318,
+     "wocheDelta": -0.024
     },
     "JPY": {
-     "wert": 1.593,
-     "wocheDelta": 0.11
+     "wert": 1.614,
+     "wocheDelta": 0.131
     },
     "AUD": {
-     "wert": 4.576,
-     "wocheDelta": -0.021
+     "wert": 4.563,
+     "wocheDelta": -0.034
     },
     "CAD": {
      "wert": 2.928,
      "wocheDelta": 0.083
     },
     "CHF": {
-     "wert": 0.065,
-     "wocheDelta": -0.021
+     "wert": 0.086,
+     "wocheDelta": 0
     },
     "NZD": {
      "wert": 3.618,
@@ -3519,9 +3519,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -5,
    "tiltCot": 5,
-   "tiltZins": -5,
-   "tiltGesamt": 0,
-   "score": -5,
+   "tiltZins": -7,
+   "tiltGesamt": -2,
+   "score": -7,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + Yen-Stütze durch US-Japan-Intervention deckeln das Paar. Track 2/7 → klein gehalten."
   },
@@ -3539,9 +3539,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -2,
    "tiltCot": 5,
-   "tiltZins": -4,
-   "tiltGesamt": 1,
-   "score": -1,
+   "tiltZins": -5,
+   "tiltGesamt": 0,
+   "score": -2,
    "cotExtrem": "erhoeht",
    "treiber": "Weicher Dollar + CAD-COT-Squeeze drücken, aber der Öl-Sturz (~75 $) bremst den Loonie → nur leicht abwärts. Klein (Track 14 %)."
   },
@@ -3549,9 +3549,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": -4,
    "tiltCot": 5,
-   "tiltZins": 0,
-   "tiltGesamt": 5,
-   "score": 1,
+   "tiltZins": -1,
+   "tiltGesamt": 4,
+   "score": 0,
    "cotExtrem": null,
    "treiber": "Weicher Dollar überwiegt; Risk-on nimmt dem Franken etwas Hafen-Bid. Klein."
   },
@@ -3568,7 +3568,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-07T05:06:08.245Z",
+  "stand": "2026-08-07T07:02:34.893Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3577,21 +3577,75 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
+    "titel": "Gold: Breakout holds as US payrolls loom – OCBC",
+    "link": "https://www.fxstreet.com/news/gold-breakout-holds-as-us-payrolls-loom-ocbc-202608070655",
+    "datum": "2026-08-07T06:55:26.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Equities: Sector rotation dominates risk-off – Danske Bank",
+    "link": "https://www.fxstreet.com/news/equities-sector-rotation-dominates-risk-off-danske-bank-202608070646",
+    "datum": "2026-08-07T06:46:13.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Brent: US-Iran tensions support prices – ING",
+    "link": "https://www.fxstreet.com/news/brent-us-iran-tensions-support-prices-ing-202608070634",
+    "datum": "2026-08-07T06:34:30.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "What are the main events for today?",
+    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20/",
+    "datum": "2026-08-07T06:33:45.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro flatlines amid mixed German data with all eyes on US Nonfarm Payrolls",
+    "link": "https://www.fxstreet.com/news/euro-flatlines-amid-mixed-german-data-with-all-eyes-on-us-nonfarm-payrolls-data-202608070630",
+    "datum": "2026-08-07T06:30:37.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI Price Forecast: Growing internal war risks in Middle East support recovery to near $78",
+    "link": "https://www.fxstreet.com/news/wti-price-forecast-growing-internal-war-risks-in-middle-east-support-recovery-to-near-78-202608070630",
+    "datum": "2026-08-07T06:30:07.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro: Rebound against US Dollar faces key cloud barrier – UOB",
+    "link": "https://www.fxstreet.com/news/euro-rebound-against-us-dollar-faces-key-cloud-barrier-uob-202608070619",
+    "datum": "2026-08-07T06:19:57.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indonesian Rupiah strengthens as foreign inflows surge into domestic assets",
+    "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-foreign-inflows-surge-into-indonesian-assets-202608070607",
+    "datum": "2026-08-07T06:07:23.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "German Industrial Production rises 0.2% MoM in June, beats 0.1% estimates",
+    "link": "https://www.fxstreet.com/news/german-industrial-production-rises-02-mom-in-june-beats-01-estimates-202608070602",
+    "datum": "2026-08-07T06:02:08.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee drops slightly ahead of US NFP data release",
+    "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546",
+    "datum": "2026-08-07T05:46:06.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "USD/JPY Price Forecast: Consolidates near 158.55/38.2% Fibo. before the next leg up",
+    "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-near-15855-382-fibo-before-the-next-leg-up-202608070511",
+    "datum": "2026-08-07T05:11:15.000Z"
+   },
+   {
+    "quelle": "FXStreet",
     "titel": "Swiss Franc weakens as increased risk aversion boosts safe-haven US Dollar",
     "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-increased-risk-aversion-boosts-safe-haven-us-dollar-202608070443",
     "datum": "2026-08-07T04:43:55.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "India Gold price today: Gold rises, according to FXStreet data",
-    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608070436",
-    "datum": "2026-08-07T04:36:25.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Saudi Arabia warns to step up attacks on Houthis – The Guardian",
-    "link": "https://www.fxstreet.com/news/saudi-arabia-warns-to-step-up-attacks-on-houthis-the-guardian-202608070415",
-    "datum": "2026-08-07T04:15:41.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3600,46 +3654,10 @@ window.MAKRO_DATA = {
     "datum": "2026-08-07T03:51:31.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar holds losses against Japanese Yen following China’s Trade Balance data",
-    "link": "https://www.fxstreet.com/news/australian-dollar-holds-losses-against-japanese-yen-following-chinas-trade-balance-data-202608070340",
-    "datum": "2026-08-07T03:40:40.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound remains weaker as UK-US yields narrow, US Dollar strengthens",
-    "link": "https://www.fxstreet.com/news/british-pound-remains-weaker-as-uk-us-yields-narrow-us-dollar-strengthens-202608070329",
-    "datum": "2026-08-07T03:29:57.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: XAG/USD rises to near $62.20 in countdown to US NFP data",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6220-in-countdown-to-us-nfp-data-202608070325",
-    "datum": "2026-08-07T03:25:58.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar hangs near weekly low after China's trade data as USD bulls await NFP",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-hangs-near-weekly-low-after-chinas-trade-data-as-usd-bulls-await-nfp-202608070325",
-    "datum": "2026-08-07T03:25:40.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Beijing's export engine holds up on AI demand despite fresh US tariffs - July exports beat forecasts",
     "link": "https://investinglive.com/news/beijing-s-export-engine-holds-up-on-ai-demand-despite-fresh-us-tariffs-july-exports-beat-forecasts/",
     "datum": "2026-08-07T03:25:15.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "China’s July Trade Balance: Surplus widens more than expected to $112.5 billion",
-    "link": "https://www.fxstreet.com/news/chinas-june-trade-balance-surplus-widens-more-than-expected-to-1125-billion-202608070259",
-    "datum": "2026-08-07T02:59:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United States Dollar Index holds steady near 100.00 as bulls await US NFP amid Iran risks",
-    "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-steady-near-10000-as-bulls-await-us-nfp-amid-iran-risks-202608070249",
-    "datum": "2026-08-07T02:49:55.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3649,19 +3667,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Australian Dollar bulls remains on the sidelines as Iran risks support USD ahead of US NFP",
-    "link": "https://www.fxstreet.com/news/australian-dollar-bulls-remains-on-the-sidelines-as-iran-risks-support-usd-ahead-of-us-nfp-202608070217",
-    "datum": "2026-08-07T02:17:21.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro weakens against US Dollar amid Middle East tensions",
-    "link": "https://www.fxstreet.com/news/euro-weakens-against-us-dollar-amid-middle-east-tensions-202608070154",
-    "datum": "2026-08-07T01:54:37.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold trades above $4,250; upside seems capped as Fed hike bets support USD ahead of US NFP",
+    "titel": "Gold approaches $4,300 as bulls shrug off firm USD and Fed hike bets ahead of US NFP",
     "link": "https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135",
     "datum": "2026-08-07T01:35:01.000Z"
    },
@@ -3676,12 +3682,6 @@ window.MAKRO_DATA = {
     "titel": "Japan June 2026 Household spending -6.4% m/m (vs. expected -3.1%, prior +3.7%)",
     "link": "https://investinglive.com/news/japan-june-2026-household-spending-6-4-m-m-vs-expected-3-1-prior-3-7/",
     "datum": "2026-08-06T23:36:31.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Asia-pacific FX news wrap 6 Aug: USD moves higher with yields ahead of US jobs report",
-    "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-6-aug-usd-moves-higher-with-yields-ahead-of-us-jobs-report/",
-    "datum": "2026-08-06T21:12:08.000Z"
    }
   ]
  },
@@ -4695,5 +4695,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 770
+ "anzahlGespeichert": 771
 };

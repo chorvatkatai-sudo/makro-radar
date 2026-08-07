@@ -1,11 +1,71 @@
 {
-  "stand": "2026-08-07T08:48:25.714Z",
+  "stand": "2026-08-07T09:53:32.518Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Polish Zloty: Near-term EUR/PLN forecast raised to 4.30 – Commerzbank",
+      "link": "https://www.fxstreet.com/news/polish-zloty-near-term-eur-pln-forecast-raised-to-430-commerzbank-202608070950",
+      "datum": "2026-08-07T09:50:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: Dollar eases towards 0.8100 ahead of the NFP release",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-dollar-eases-towards-08100-ahead-of-the-nfp-release-202608070946",
+      "datum": "2026-08-07T09:46:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump says a rate hike isn't completely up to Warsh, it's up to the Board",
+      "link": "https://investinglive.com/news/trump-says-a-rate-hike-isn-t-completely-up-to-warsh-it-s-up-to-the-board/",
+      "datum": "2026-08-07T09:32:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NFP or Iran: Which factor will break the US Dollar Index out of its consolidation?",
+      "link": "https://www.fxstreet.com/news/nfp-or-iran-which-factor-will-break-the-us-dollar-index-out-of-its-consolidation-202608070932",
+      "datum": "2026-08-07T09:32:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608070930",
+      "datum": "2026-08-07T09:30:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Labour market still solid – Danske Bank",
+      "link": "https://www.fxstreet.com/news/us-dollar-labour-market-still-solid-danske-bank-202608070929",
+      "datum": "2026-08-07T09:29:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: Funding currency weakness extends – OCBC",
+      "link": "https://www.fxstreet.com/news/swiss-franc-funding-currency-weakness-extends-ocbc-202608070921",
+      "datum": "2026-08-07T09:21:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Upside risk tied to 0.7075 break against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-tied-to-07075-break-against-us-dollar-uob-202608070910",
+      "datum": "2026-08-07T09:10:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen holds onto weekly losses amid absence of US-Japan intervention follow-up",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-onto-weekly-losses-amid-absence-of-us-japan-intervention-follow-up-202608070900",
+      "datum": "2026-08-07T09:00:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Consolidates above 0.5860/weekly low as bulls look to US NFP",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-consolidates-above-05860-weekly-low-as-bulls-look-to-us-nfp-202608070859",
+      "datum": "2026-08-07T08:59:44.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Oil: Volatile range trading outlook – Rabobank",
@@ -19,60 +79,6 @@
       "datum": "2026-08-07T08:30:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound eases below 1.3450 as markets brace for the US Nonfarm Payrolls report",
-      "link": "https://www.fxstreet.com/news/british-pound-eases-below-13450-as-markets-brace-for-the-us-nonfarm-payrolls-report-202608070825",
-      "datum": "2026-08-07T08:25:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Czech Koruna: CZK softens against Euro as CNB waits – Commerzbank",
-      "link": "https://www.fxstreet.com/news/czech-koruna-czk-softens-against-euro-as-cnb-waits-commerzbank-202608070823",
-      "datum": "2026-08-07T08:23:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Higher US rate volatility favors safe havens – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-higher-us-rate-volatility-favors-safe-havens-bny-202608070811",
-      "datum": "2026-08-07T08:11:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro remains stronger against Canadian Dollar as German Industrial output beats forecasts",
-      "link": "https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-as-german-industrial-output-beats-forecasts-202608070803",
-      "datum": "2026-08-07T08:03:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Equities: Stocks pressured by higher yields and energy risks - Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-stocks-pressured-by-higher-yields-and-energy-risks-deutsche-bank-202608070802",
-      "datum": "2026-08-07T08:02:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen trades broadly flat against US Dollar, NFP data eyed",
-      "link": "https://www.fxstreet.com/news/japanese-yen-trades-broadly-flat-against-us-dollar-nfp-data-eyed-202608070802",
-      "datum": "2026-08-07T08:02:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound holds steady around 213.00 as fiscal concerns and rate gap undermine Yen",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-around-21300-as-fiscal-concerns-and-rate-gap-undermine-yen-202608070753",
-      "datum": "2026-08-07T07:53:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecasts: XAG/USD bulls are eroding resistance at the $63.30 area",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-bulls-are-eroding-resistance-at-the-6330-area-202608070749",
-      "datum": "2026-08-07T07:49:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Copper: Near record highs on tight supply – ING",
-      "link": "https://www.fxstreet.com/news/copper-near-record-highs-on-tight-supply-ing-202608070748",
-      "datum": "2026-08-07T07:48:42.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "What is the distribution of forecasts for the US NFP?",
       "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp/",
@@ -83,6 +89,12 @@
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20/",
       "datum": "2026-08-07T06:33:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee drops as oil price rebounds, US NFP awaited",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546",
+      "datum": "2026-08-07T05:46:06.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "China July Exports jump higher again in July",
       "link": "https://investinglive.com/news/china-july-exports-jump-higher-again-in-july/",
       "datum": "2026-08-07T02:37:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold looks to build on momentum beyond $4,300 as traders await US NFP amid Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135",
-      "datum": "2026-08-07T01:35:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan household spending falls for seventh month, clouding BOJ rate path",
-      "link": "https://investinglive.com/news/japan-household-spending-falls-for-seventh-month-clouding-boj-rate-path/",
-      "datum": "2026-08-06T23:55:09.000Z"
     }
   ]
 }

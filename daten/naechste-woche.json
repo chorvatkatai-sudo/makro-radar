@@ -54,7 +54,7 @@
     "country": "JPY",
     "title": "Current Account",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1512 ¥",
     "previous": "3968 ¥",
     "actual": null,
     "quelle": "tradingview"
@@ -65,7 +65,7 @@
     "title": "Eco Watchers Survey Outlook",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "45.7",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -74,7 +74,7 @@
     "country": "JPY",
     "title": "Eco Watchers Survey Current",
     "impact": "Low",
-    "forecast": "44",
+    "forecast": "44.4",
     "previous": "44",
     "actual": null,
     "quelle": "tradingview"
@@ -525,7 +525,7 @@
     "title": "17-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.785%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -604,8 +604,8 @@
     "country": "JPY",
     "title": "PPI MoM",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.4",
+    "forecast": "0.6%",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -795,7 +795,7 @@
     "title": "Machine Tool Orders YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "52.8",
+    "previous": "52.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -896,6 +896,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "0.4%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-13T12:15:00.000Z",
+    "country": "USD",
+    "title": "Fed Hammack Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1344,7 +1354,7 @@
     "country": "USD",
     "title": "Michigan Consumer Sentiment Prel",
     "impact": "High",
-    "forecast": "",
+    "forecast": "54",
     "previous": "55.2",
     "actual": null,
     "quelle": "tradingview"

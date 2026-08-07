@@ -7498,8 +7498,8 @@
       "impact": "High",
       "prognose": "6.5%",
       "vorher": "6.5%",
-      "actual": null,
-      "notiz": null
+      "actual": "6.4%",
+      "notiz": "auto:TV unemployment (2026-08-07)"
     },
     "2026-08-07T08:30:00-04:00|USD|Average Hourly Earnings m/m": {
       "datum": "2026-08-07T08:30:00-04:00",
@@ -7528,8 +7528,8 @@
       "impact": "High",
       "prognose": "4.2%",
       "vorher": "4.2%",
-      "actual": null,
-      "notiz": null
+      "actual": "4.1%",
+      "notiz": "auto:TV unemployment (2026-08-07)"
     },
     "2026-08-07T10:00:00-04:00|CAD|Ivey PMI": {
       "datum": "2026-08-07T10:00:00-04:00",

@@ -1,11 +1,59 @@
 {
-  "stand": "2026-08-07T16:43:43.823Z",
+  "stand": "2026-08-07T18:42:45.250Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-need-13560-to-unlock-13600-202608071833",
+      "datum": "2026-08-07T18:33:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Upside risk capped by 1.2790 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-capped-by-12790-against-us-dollar-uob-202608071832",
+      "datum": "2026-08-07T18:32:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso hits five-month high on weak US jobs data",
+      "link": "https://www.fxstreet.com/news/mexican-peso-hits-five-month-high-on-weak-us-jobs-data-202608071807",
+      "datum": "2026-08-07T18:07:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Intervention risks support KRW against US Dollar – DBS",
+      "link": "https://www.fxstreet.com/news/south-korean-won-intervention-risks-support-krw-against-us-dollar-dbs-202608071758",
+      "datum": "2026-08-07T17:58:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Buyers eye a break above the 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-eye-a-break-above-the-100-day-sma-202608071738",
+      "datum": "2026-08-07T17:38:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rallies as mediocre US NFP crushes Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/gold-rallies-as-mediocre-us-nfp-crushes-fed-rate-hike-bets-202608071737",
+      "datum": "2026-08-07T17:37:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesia: Modest growth outlook – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/indonesia-modest-growth-outlook-standard-chartered-202608071733",
+      "datum": "2026-08-07T17:33:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average dodges a hike December still prices",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-dodges-a-hike-december-still-prices-202608071646",
+      "datum": "2026-08-07T16:46:30.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "New Zealand Dollar advances as US labor market weakness pressures USD",
@@ -31,52 +79,10 @@
       "datum": "2026-08-07T15:34:16.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Natural Gas: Higher price forecasts on LNG squeeze – Commerzbank",
-      "link": "https://www.fxstreet.com/news/natural-gas-higher-price-forecasts-on-lng-squeeze-commerzbank-202608071534",
-      "datum": "2026-08-07T15:34:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Payrolls-driven consolidation as CPI looms – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-payrolls-driven-consolidation-as-cpi-looms-td-securities-202608071525",
-      "datum": "2026-08-07T15:25:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Fed focus shifts to jobs – ABN AMRO",
-      "link": "https://www.fxstreet.com/news/federal-reserve-fed-focus-shifts-to-jobs-abn-amro-202608071515",
-      "datum": "2026-08-07T15:15:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc gains against US Dollar after surprise decline in US payrolls",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-after-surprise-decline-in-us-payrolls-202608071513",
-      "datum": "2026-08-07T15:13:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Labour market resilience supports cautious Bank of Canada – NBC",
-      "link": "https://www.fxstreet.com/news/canada-labour-market-resilience-supports-cautious-bank-of-canada-nbc-202608071507",
-      "datum": "2026-08-07T15:07:07.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "New York Fed survey: One year inflation expectations dip to 3.6% from 3.7%",
       "link": "https://investinglive.com/news/new-york-fed-survey-one-year-inflation-expectations-dip-to-3-6-from-3-7/",
       "datum": "2026-08-07T15:01:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Discretionary demand keeps bulls in control - TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-discretionary-demand-keeps-bulls-in-control-td-securities-202608071458",
-      "datum": "2026-08-07T14:58:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar jumps after North American jobs double surprise",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-jumps-after-north-american-jobs-double-surprise-202608071454",
-      "datum": "2026-08-07T14:54:45.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -89,12 +95,6 @@
       "titel": "Canada July employment change +75.1K vs +15K expected",
       "link": "https://investinglive.com/news/canada-july-employment-change-xxk-vs-15k-expected/",
       "datum": "2026-08-07T12:30:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold heads for best week since January after disappointing NFP",
-      "link": "https://www.fxstreet.com/news/gold-rises-above-4-300-as-traders-brace-for-us-nonfarm-payrolls-202608071121",
-      "datum": "2026-08-07T11:21:15.000Z"
     },
     {
       "quelle": "ForexLive",

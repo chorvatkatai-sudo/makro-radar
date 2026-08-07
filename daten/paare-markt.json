@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-07T16:43:43.824Z",
+  "stand": "2026-08-07T18:42:45.252Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 6,
       "tiltCot": -3,
-      "tiltZins": 1,
-      "tiltGesamt": -2,
-      "score": 4,
+      "tiltZins": 2,
+      "tiltGesamt": -1,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "Risk-on + weicher Dollar heben den Aussie. RBA-Hold (Di) + Chinas Deflation bremsen. Moderat."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -7,
-      "tiltGesamt": -2,
-      "score": -10,
+      "tiltZins": -8,
+      "tiltGesamt": -3,
+      "score": -11,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + starker Kanada-Jobbericht drücken das Paar. Gegenwind: Öl-Rückgang + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -7,
       "tiltCot": 5,
-      "tiltZins": -3,
-      "tiltGesamt": 2,
-      "score": -5,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt. Risk-on nimmt dem Franken etwas Hafen-Bid, sonst wäre das Paar noch schwächer. Moderat."
     },

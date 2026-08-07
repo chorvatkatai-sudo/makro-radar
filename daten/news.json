@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-07T07:02:34.893Z",
+  "stand": "2026-08-07T08:48:25.714Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Gold: Breakout holds as US payrolls loom – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-breakout-holds-as-us-payrolls-loom-ocbc-202608070655",
-      "datum": "2026-08-07T06:55:26.000Z"
+      "titel": "Oil: Volatile range trading outlook – Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-volatile-range-trading-outlook-rabobank-202608070837",
+      "datum": "2026-08-07T08:37:01.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Equities: Sector rotation dominates risk-off – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-sector-rotation-dominates-risk-off-danske-bank-202608070646",
-      "datum": "2026-08-07T06:46:13.000Z"
+      "titel": "US Nonfarm Payrolls expected to rise by 80K in July",
+      "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830",
+      "datum": "2026-08-07T08:30:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Brent: US-Iran tensions support prices – ING",
-      "link": "https://www.fxstreet.com/news/brent-us-iran-tensions-support-prices-ing-202608070634",
-      "datum": "2026-08-07T06:34:30.000Z"
+      "titel": "British Pound eases below 1.3450 as markets brace for the US Nonfarm Payrolls report",
+      "link": "https://www.fxstreet.com/news/british-pound-eases-below-13450-as-markets-brace-for-the-us-nonfarm-payrolls-report-202608070825",
+      "datum": "2026-08-07T08:25:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Czech Koruna: CZK softens against Euro as CNB waits – Commerzbank",
+      "link": "https://www.fxstreet.com/news/czech-koruna-czk-softens-against-euro-as-cnb-waits-commerzbank-202608070823",
+      "datum": "2026-08-07T08:23:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Higher US rate volatility favors safe havens – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-higher-us-rate-volatility-favors-safe-havens-bny-202608070811",
+      "datum": "2026-08-07T08:11:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro remains stronger against Canadian Dollar as German Industrial output beats forecasts",
+      "link": "https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-as-german-industrial-output-beats-forecasts-202608070803",
+      "datum": "2026-08-07T08:03:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Equities: Stocks pressured by higher yields and energy risks - Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-stocks-pressured-by-higher-yields-and-energy-risks-deutsche-bank-202608070802",
+      "datum": "2026-08-07T08:02:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen trades broadly flat against US Dollar, NFP data eyed",
+      "link": "https://www.fxstreet.com/news/japanese-yen-trades-broadly-flat-against-us-dollar-nfp-data-eyed-202608070802",
+      "datum": "2026-08-07T08:02:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds steady around 213.00 as fiscal concerns and rate gap undermine Yen",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-around-21300-as-fiscal-concerns-and-rate-gap-undermine-yen-202608070753",
+      "datum": "2026-08-07T07:53:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecasts: XAG/USD bulls are eroding resistance at the $63.30 area",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-bulls-are-eroding-resistance-at-the-6330-area-202608070749",
+      "datum": "2026-08-07T07:49:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Copper: Near record highs on tight supply – ING",
+      "link": "https://www.fxstreet.com/news/copper-near-record-highs-on-tight-supply-ing-202608070748",
+      "datum": "2026-08-07T07:48:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What is the distribution of forecasts for the US NFP?",
+      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp/",
+      "datum": "2026-08-07T07:29:47.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-20/",
       "datum": "2026-08-07T06:33:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro flatlines amid mixed German data with all eyes on US Nonfarm Payrolls",
-      "link": "https://www.fxstreet.com/news/euro-flatlines-amid-mixed-german-data-with-all-eyes-on-us-nonfarm-payrolls-data-202608070630",
-      "datum": "2026-08-07T06:30:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Growing internal war risks in Middle East support recovery to near $78",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-growing-internal-war-risks-in-middle-east-support-recovery-to-near-78-202608070630",
-      "datum": "2026-08-07T06:30:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Rebound against US Dollar faces key cloud barrier – UOB",
-      "link": "https://www.fxstreet.com/news/euro-rebound-against-us-dollar-faces-key-cloud-barrier-uob-202608070619",
-      "datum": "2026-08-07T06:19:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah strengthens as foreign inflows surge into domestic assets",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-foreign-inflows-surge-into-indonesian-assets-202608070607",
-      "datum": "2026-08-07T06:07:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "German Industrial Production rises 0.2% MoM in June, beats 0.1% estimates",
-      "link": "https://www.fxstreet.com/news/german-industrial-production-rises-02-mom-in-june-beats-01-estimates-202608070602",
-      "datum": "2026-08-07T06:02:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee drops slightly ahead of US NFP data release",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546",
-      "datum": "2026-08-07T05:46:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: Consolidates near 158.55/38.2% Fibo. before the next leg up",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-near-15855-382-fibo-before-the-next-leg-up-202608070511",
-      "datum": "2026-08-07T05:11:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc weakens as increased risk aversion boosts safe-haven US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-increased-risk-aversion-boosts-safe-haven-us-dollar-202608070443",
-      "datum": "2026-08-07T04:43:55.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -98,7 +104,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold approaches $4,300 as bulls shrug off firm USD and Fed hike bets ahead of US NFP",
+      "titel": "Gold looks to build on momentum beyond $4,300 as traders await US NFP amid Fed hike bets",
       "link": "https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135",
       "datum": "2026-08-07T01:35:01.000Z"
     },
@@ -107,12 +113,6 @@
       "titel": "Japan household spending falls for seventh month, clouding BOJ rate path",
       "link": "https://investinglive.com/news/japan-household-spending-falls-for-seventh-month-clouding-boj-rate-path/",
       "datum": "2026-08-06T23:55:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan June 2026 Household spending -6.4% m/m (vs. expected -3.1%, prior +3.7%)",
-      "link": "https://investinglive.com/news/japan-june-2026-household-spending-6-4-m-m-vs-expected-3-1-prior-3-7/",
-      "datum": "2026-08-06T23:36:31.000Z"
     }
   ]
 }

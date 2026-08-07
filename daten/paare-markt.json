@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-07T07:02:34.894Z",
+  "stand": "2026-08-07T08:48:25.716Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -5,
       "tiltCot": 5,
-      "tiltZins": -7,
-      "tiltGesamt": -2,
-      "score": -7,
+      "tiltZins": -6,
+      "tiltGesamt": -1,
+      "score": -6,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + Yen-Stütze durch US-Japan-Intervention deckeln das Paar. Track 2/7 → klein gehalten."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": 0,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt; Risk-on nimmt dem Franken etwas Hafen-Bid. Klein."
     },

@@ -44,7 +44,7 @@
     "country": "JPY",
     "title": "Bank Lending YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "5.7%",
     "previous": "5.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -74,7 +74,7 @@
     "country": "JPY",
     "title": "Eco Watchers Survey Current",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "44",
     "previous": "44",
     "actual": null,
     "quelle": "tradingview"
@@ -104,7 +104,7 @@
     "country": "GBP",
     "title": "BRC Retail Sales Monitor YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.5%",
     "previous": "1.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -164,7 +164,7 @@
     "country": "AUD",
     "title": "RBA Interest Rate Decision",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4.35%",
     "previous": "4.35%",
     "actual": null,
     "quelle": "tradingview"
@@ -194,7 +194,7 @@
     "country": "USD",
     "title": "NFIB Business Optimism Index",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "97.1",
     "previous": "97.4",
     "actual": null,
     "quelle": "tradingview"
@@ -594,8 +594,8 @@
     "country": "JPY",
     "title": "PPI YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "7.1",
+    "forecast": "7.4%",
+    "previous": "7.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -684,7 +684,7 @@
     "country": "GBP",
     "title": "GDP Growth Rate QoQ Prel",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -734,8 +734,8 @@
     "country": "GBP",
     "title": "GDP MoM",
     "impact": "High",
-    "forecast": "",
-    "previous": "0.1",
+    "forecast": "-0.1%",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -764,8 +764,8 @@
     "country": "GBP",
     "title": "Manufacturing Production MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.1",
+    "forecast": "-0.3%",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -784,7 +784,7 @@
     "country": "GBP",
     "title": "Industrial Production MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0%",
     "previous": "-0.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -834,8 +834,8 @@
     "country": "EUR",
     "title": "Industrial Production MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "-0.2",
+    "forecast": "0.2%",
+    "previous": "-0.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1025,7 +1025,7 @@
     "title": "8-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.71%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1035,7 +1035,7 @@
     "title": "4-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.64%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1244,7 +1244,7 @@
     "country": "USD",
     "title": "Retail Sales Ex Autos MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "-0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1254,7 +1254,7 @@
     "country": "USD",
     "title": "Retail Sales MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"

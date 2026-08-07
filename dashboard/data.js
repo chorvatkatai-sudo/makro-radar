@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-07T12:43:37.340Z",
+ "erstellt": "2026-08-07T12:52:32.369Z",
  "wochenStart": "2026-08-02",
  "events": [
   {
@@ -2987,15 +2987,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-07T12:43:36.774Z",
+  "stand": "2026-08-07T12:52:32.024Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.61,
+    "wert": 99.47,
     "tagProzent": 0,
-    "wocheProzent": -0.35,
+    "wocheProzent": -0.49,
     "renditeDelta": false,
     "verlauf": [
      100.97,
@@ -3018,17 +3018,17 @@ window.MAKRO_DATA = {
      99.89,
      99.69,
      99.97,
-     99.61,
-     99.61
+     99.47,
+     99.47
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.15,
+    "wert": 15.12,
     "tagProzent": 0,
-    "wocheProzent": -4.48,
+    "wocheProzent": -4.67,
     "renditeDelta": false,
     "verlauf": [
      15.03,
@@ -3051,17 +3051,17 @@ window.MAKRO_DATA = {
      16.5,
      15.81,
      15.15,
-     15.15,
-     15.15
+     15.12,
+     15.12
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 76.95,
+    "wert": 76.83,
     "tagProzent": 0,
-    "wocheProzent": -4.22,
+    "wocheProzent": -4.37,
     "renditeDelta": false,
     "verlauf": [
      71.41,
@@ -3084,17 +3084,17 @@ window.MAKRO_DATA = {
      75.77,
      75.22,
      77.29,
-     76.95,
-     76.95
+     76.83,
+     76.83
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 81.87,
+    "wert": 81.72,
     "tagProzent": 0,
-    "wocheProzent": -2.27,
+    "wocheProzent": -2.45,
     "renditeDelta": false,
     "verlauf": [
      76.01,
@@ -3117,17 +3117,17 @@ window.MAKRO_DATA = {
      79.36,
      79.45,
      82.49,
-     81.87,
-     81.87
+     81.72,
+     81.72
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4411.9,
+    "wert": 4428.2,
     "tagProzent": 0,
-    "wocheProzent": 9.38,
+    "wocheProzent": 9.78,
     "renditeDelta": false,
     "verlauf": [
      4104.1,
@@ -3150,8 +3150,8 @@ window.MAKRO_DATA = {
      4095.4,
      4245.8,
      4242,
-     4411.9,
-     4411.9
+     4428.2,
+     4428.2
     ]
    },
    "US02Y": {
@@ -3191,9 +3191,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.666,
+    "wert": 4.611,
     "tagProzent": 0,
-    "wocheProzent": -0.02,
+    "wocheProzent": -0.07,
     "renditeDelta": true,
     "verlauf": [
      4.569,
@@ -3216,17 +3216,17 @@ window.MAKRO_DATA = {
      4.627,
      4.617,
      4.67,
-     4.666,
-     4.666
+     4.611,
+     4.611
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.217,
+    "wert": 5.176,
     "tagProzent": 0,
-    "wocheProzent": -0.01,
+    "wocheProzent": -0.06,
     "renditeDelta": true,
     "verlauf": [
      5.071,
@@ -3249,17 +3249,17 @@ window.MAKRO_DATA = {
      5.19,
      5.174,
      5.213,
-     5.217,
-     5.217
+     5.176,
+     5.176
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 65115.41,
+    "wert": 65249.56,
     "tagProzent": 0,
-    "wocheProzent": 2.61,
+    "wocheProzent": 2.82,
     "renditeDelta": false,
     "verlauf": [
      64796.6,
@@ -3282,17 +3282,17 @@ window.MAKRO_DATA = {
      64055.95,
      64597.5,
      64262.11,
-     65115.41,
-     65115.41
+     65249.56,
+     65249.56
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.75,
+    "wert": 3.74,
     "tagProzent": 0,
-    "wocheProzent": 0.11,
+    "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
      3.63,
@@ -3315,8 +3315,8 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.64,
-     3.75,
-     3.75
+     3.74,
+     3.74
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
@@ -3389,7 +3389,7 @@ window.MAKRO_DATA = {
     "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.71,
+  "kurve2s10s": 0.65,
   "cot": {
    "stand": "2026-07-28",
    "waehrungen": {
@@ -3483,32 +3483,32 @@ window.MAKRO_DATA = {
    "stand": "2026-08-07",
    "werte": {
     "USD": {
-     "wert": 4.16,
-     "wocheDelta": -0.115
+     "wert": 4.17,
+     "wocheDelta": -0.105
     },
     "EUR": {
-     "wert": 2.718,
-     "wocheDelta": -0.027
+     "wert": 2.725,
+     "wocheDelta": -0.02
     },
     "GBP": {
-     "wert": 4.253,
-     "wocheDelta": -0.089
+     "wert": 4.248,
+     "wocheDelta": -0.094
     },
     "JPY": {
      "wert": 1.6,
      "wocheDelta": 0.117
     },
     "AUD": {
-     "wert": 4.521,
-     "wocheDelta": -0.076
+     "wert": 4.523,
+     "wocheDelta": -0.074
     },
     "CAD": {
-     "wert": 2.917,
-     "wocheDelta": 0.072
+     "wert": 2.914,
+     "wocheDelta": 0.069
     },
     "CHF": {
-     "wert": 0.101,
-     "wocheDelta": 0.015
+     "wert": 0.082,
+     "wocheDelta": -0.004
     },
     "NZD": {
      "wert": 3.618,
@@ -3529,9 +3529,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 6,
    "tiltCot": -1,
-   "tiltZins": 4,
-   "tiltGesamt": 3,
-   "score": 9,
+   "tiltZins": 3,
+   "tiltGesamt": 2,
+   "score": 8,
    "cotExtrem": "extrem",
    "treiber": "Aufwärts: Dollar unter 100 + EUR/USD 7-Wochen-Hoch + EUR-COT-Shorts EXTREM (Squeeze). Track nur 14 % → bewusst moderat."
   },
@@ -3559,9 +3559,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": 4,
    "tiltCot": -3,
-   "tiltZins": 2,
-   "tiltGesamt": -1,
-   "score": 3,
+   "tiltZins": 1,
+   "tiltGesamt": -2,
+   "score": 2,
    "cotExtrem": null,
    "treiber": "Risk-on + weicher Dollar heben den Aussie leicht. Moderat."
   },
@@ -3579,9 +3579,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": -4,
    "tiltCot": 5,
-   "tiltZins": -5,
-   "tiltGesamt": 0,
-   "score": -4,
+   "tiltZins": -4,
+   "tiltGesamt": 1,
+   "score": -3,
    "cotExtrem": null,
    "treiber": "Weicher Dollar überwiegt; Risk-on nimmt dem Franken etwas Hafen-Bid. Klein."
   },
@@ -3598,7 +3598,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-07T12:43:37.338Z",
+  "stand": "2026-08-07T12:52:32.368Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3679,9 +3679,9 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Euro: Upside bias hinges on 1.1565 break against US Dollar – UOB",
-    "link": "https://www.fxstreet.com/news/euro-upside-bias-hinges-on-11565-break-against-us-dollar-uob-202608071132",
-    "datum": "2026-08-07T11:32:29.000Z"
+    "titel": "Gold heads for best week since January after disappointing NFP",
+    "link": "https://www.fxstreet.com/news/gold-rises-above-4-300-as-traders-brace-for-us-nonfarm-payrolls-202608071121",
+    "datum": "2026-08-07T11:21:15.000Z"
    },
    {
     "quelle": "ForexLive",

@@ -57,6 +57,11 @@
     "2026-07-30T22:30:00-04:00|JPY|BOJ Policy Rate",
     "2026-07-28T21:30:00-04:00|AUD|CPI y/y",
     "2026-08-07T08:30:00-04:00|CAD|Unemployment Rate",
-    "2026-08-07T08:30:00-04:00|USD|Unemployment Rate"
+    "2026-08-07T08:30:00-04:00|USD|Unemployment Rate",
+    "2026-08-03T10:00:00-04:00|USD|ISM Manufacturing PMI",
+    "2026-08-04T18:45:00-04:00|NZD|Employment Change q/q",
+    "2026-08-04T18:45:00-04:00|NZD|Unemployment Rate",
+    "2026-08-07T08:30:00-04:00|CAD|Employment Change",
+    "2026-08-07T08:30:00-04:00|USD|Non-Farm Employment Change"
   ]
 }

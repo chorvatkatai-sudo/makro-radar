@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-07T13:39:48.283Z",
+  "stand": "2026-08-07T13:41:47.263Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -7,
-      "tiltGesamt": -2,
-      "score": -10,
+      "tiltZins": -8,
+      "tiltGesamt": -3,
+      "score": -11,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + starker Kanada-Jobbericht drücken das Paar. Gegenwind: Öl-Rückgang + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },

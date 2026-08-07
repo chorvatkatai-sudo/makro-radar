@@ -714,8 +714,8 @@
     "country": "GBP",
     "title": "Goods Trade Balance",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "-18.66",
+    "forecast": "-20.4 £",
+    "previous": "-18.66 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -764,7 +764,7 @@
     "country": "GBP",
     "title": "Business Investment QoQ Prel",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-0.4%",
     "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -824,7 +824,7 @@
     "country": "CHF",
     "title": "Producer & Import Prices MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "-0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -944,7 +944,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "198",
     "previous": "199",
     "actual": null,
     "quelle": "tradingview"
@@ -1394,8 +1394,8 @@
     "country": "USD",
     "title": "Business Inventories MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.3",
+    "forecast": "0.2%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },

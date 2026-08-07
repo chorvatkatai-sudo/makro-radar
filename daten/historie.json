@@ -6808,7 +6808,7 @@
       "impact": "High",
       "prognose": "54.0",
       "vorher": "53.3",
-      "actual": null,
+      "actual": "55.6",
       "notiz": null
     },
     "2026-08-03T10:00:00-04:00|USD|ISM Manufacturing Prices": {
@@ -7018,7 +7018,7 @@
       "impact": "High",
       "prognose": "0.1%",
       "vorher": "0.2%",
-      "actual": null,
+      "actual": "0.5%",
       "notiz": null
     },
     "2026-08-04T18:45:00-04:00|NZD|Unemployment Rate": {
@@ -7028,7 +7028,7 @@
       "impact": "High",
       "prognose": "5.4%",
       "vorher": "5.3%",
-      "actual": null,
+      "actual": "5.6%",
       "notiz": null
     },
     "2026-08-04T18:45:00-04:00|NZD|Labor Cost Index q/q": {
@@ -7488,7 +7488,7 @@
       "impact": "High",
       "prognose": "17.8K",
       "vorher": "18.2K",
-      "actual": null,
+      "actual": "75.1K",
       "notiz": null
     },
     "2026-08-07T08:30:00-04:00|CAD|Unemployment Rate": {
@@ -7518,7 +7518,7 @@
       "impact": "High",
       "prognose": "85K",
       "vorher": "57K",
-      "actual": null,
+      "actual": "-23K",
       "notiz": null
     },
     "2026-08-07T08:30:00-04:00|USD|Unemployment Rate": {

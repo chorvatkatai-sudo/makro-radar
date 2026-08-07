@@ -1,14 +1,14 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-07-31",
+  "stand": "2026-08-07",
   "zinsen": [
     {
       "code": "AUD",
       "bank": "RBA",
       "satz": 4.35,
       "anzeige": "4,35%",
-      "naechste": "Anf. Aug 2026",
-      "erwartung": "Halten bei 4,35% erwartet. Q2-CPI kühlte (Schlagzeile 3,9%, Kern 3,6% klebrig) → Markt hat Erhöhungswetten fast gestrichen (nur ~4% für nächsten Monat)",
+      "naechste": "11.8.2026",
+      "erwartung": "Halten bei 4,35% erwartet (alle 4 Großbanken + 37/37 Ökonomen). Nach kühlerer Q2-Inflation (Kern-Trimmed 3,6%) ist der Fall für eine Erhöhung erstmal vom Tisch. Ton von Gouverneurin Bullock ist der Schlüssel",
       "richtung": "halten"
     },
     {
@@ -25,9 +25,9 @@
       "bank": "Fed",
       "satz": 3.625,
       "anzeige": "3,50–3,75%",
-      "naechste": "Mitte Sep 2026",
-      "erwartung": "Am 29.7. bei 3,50–3,75% GEHALTEN (5. Mal in Folge), aber 3 Mitglieder wollten ERHÖHEN (meiste Dissenten seit 2016). Warsh falkenhaft ('5 Jahre zu hohe Inflation heilt man nicht in 9 Wochen'). Markt sieht jetzt 1–2 Erhöhungen bis Jahresende — aber schwaches Wachstum/kühle PCE dämpfen das",
-      "richtung": "halten"
+      "naechste": "17.9.2026",
+      "erwartung": "KEHRTWENDE nach dem Job-Schock: Im Juli sind 23k Stellen WEGGEFALLEN + 103k Abwärts-Revisionen → Markt preist jetzt ~90% eine ZINSSENKUNG (−0,25) im September ein. Warsh bleibt zwar falkenhaft (Inflation 'zu hoch'), aber die harten Arbeitsmarkt-Daten übertönen den Ton. US-CPI (12.8.) ist der letzte Test vor der Sitzung",
+      "richtung": "runter"
     },
     {
       "code": "NZD",

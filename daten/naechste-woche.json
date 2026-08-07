@@ -290,6 +290,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-08-12T01:30:00.000Z",
+    "country": "AUD",
+    "title": "RBA Chart Pack",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-08-12T03:35:00.000Z",
     "country": "JPY",
     "title": "10-Year Index-Linked JGB Auction",
@@ -1106,6 +1116,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "6.7%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-13T23:30:00.000Z",
+    "country": "AUD",
+    "title": "RBA Gov Bullock Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },

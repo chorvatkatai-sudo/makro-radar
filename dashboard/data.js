@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-07T09:53:32.520Z",
+ "erstellt": "2026-08-07T10:43:51.927Z",
  "wochenStart": "2026-08-02",
  "events": [
   {
@@ -1186,6 +1186,16 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
+   "date": "2026-08-12T01:30:00.000Z",
+   "country": "AUD",
+   "title": "RBA Chart Pack",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
    "date": "2026-08-12T03:35:00.000Z",
    "country": "JPY",
    "title": "10-Year Index-Linked JGB Auction",
@@ -2002,6 +2012,16 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "",
    "previous": "6.7%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-08-13T23:30:00.000Z",
+   "country": "AUD",
+   "title": "RBA Gov Bullock Speech",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2967,15 +2987,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-07T09:53:31.943Z",
+  "stand": "2026-08-07T10:43:51.351Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.91,
+    "wert": 99.92,
     "tagProzent": 0,
-    "wocheProzent": -0.05,
+    "wocheProzent": -0.04,
     "renditeDelta": false,
     "verlauf": [
      100.97,
@@ -2998,17 +3018,17 @@ window.MAKRO_DATA = {
      99.89,
      99.69,
      99.97,
-     99.91,
-     99.91
+     99.92,
+     99.92
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.29,
+    "wert": 15.28,
     "tagProzent": 0,
-    "wocheProzent": -3.59,
+    "wocheProzent": -3.66,
     "renditeDelta": false,
     "verlauf": [
      15.03,
@@ -3031,17 +3051,17 @@ window.MAKRO_DATA = {
      16.5,
      15.81,
      15.15,
-     15.29,
-     15.29
+     15.28,
+     15.28
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 77.16,
+    "wert": 76.98,
     "tagProzent": 0,
-    "wocheProzent": -3.96,
+    "wocheProzent": -4.18,
     "renditeDelta": false,
     "verlauf": [
      71.41,
@@ -3064,17 +3084,17 @@ window.MAKRO_DATA = {
      75.77,
      75.22,
      77.29,
-     77.16,
-     77.16
+     76.98,
+     76.98
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 82.34,
+    "wert": 81.92,
     "tagProzent": 0,
-    "wocheProzent": -1.71,
+    "wocheProzent": -2.21,
     "renditeDelta": false,
     "verlauf": [
      76.01,
@@ -3097,17 +3117,17 @@ window.MAKRO_DATA = {
      79.36,
      79.45,
      82.49,
-     82.34,
-     82.34
+     81.92,
+     81.92
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4376.1,
+    "wert": 4374,
     "tagProzent": 0,
-    "wocheProzent": 8.49,
+    "wocheProzent": 8.44,
     "renditeDelta": false,
     "verlauf": [
      4104.1,
@@ -3130,8 +3150,8 @@ window.MAKRO_DATA = {
      4095.4,
      4245.8,
      4242,
-     4376.1,
-     4376.1
+     4374,
+     4374
     ]
    },
    "US02Y": {
@@ -3237,7 +3257,7 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64805.25,
+    "wert": 64808.62,
     "tagProzent": 0,
     "wocheProzent": 2.12,
     "renditeDelta": false,
@@ -3262,8 +3282,8 @@ window.MAKRO_DATA = {
      64055.95,
      64597.5,
      64262.11,
-     64805.25,
-     64805.25
+     64808.62,
+     64808.62
     ]
    },
    "FEDFUT": {
@@ -3463,28 +3483,28 @@ window.MAKRO_DATA = {
    "stand": "2026-08-07",
    "werte": {
     "USD": {
-     "wert": 4.237,
-     "wocheDelta": -0.038
+     "wert": 4.233,
+     "wocheDelta": -0.042
     },
     "EUR": {
-     "wert": 2.746,
-     "wocheDelta": 0.001
+     "wert": 2.748,
+     "wocheDelta": 0.003
     },
     "GBP": {
-     "wert": 4.302,
-     "wocheDelta": -0.04
+     "wert": 4.297,
+     "wocheDelta": -0.045
     },
     "JPY": {
-     "wert": 1.601,
-     "wocheDelta": 0.118
+     "wert": 1.607,
+     "wocheDelta": 0.124
     },
     "AUD": {
      "wert": 4.56,
      "wocheDelta": -0.037
     },
     "CAD": {
-     "wert": 2.928,
-     "wocheDelta": 0.083
+     "wert": 2.924,
+     "wocheDelta": 0.079
     },
     "CHF": {
      "wert": 0.099,
@@ -3529,9 +3549,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -5,
    "tiltCot": 5,
-   "tiltZins": -6,
-   "tiltGesamt": -1,
-   "score": -6,
+   "tiltZins": -7,
+   "tiltGesamt": -2,
+   "score": -7,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + Yen-Stütze durch US-Japan-Intervention deckeln das Paar. Track 2/7 → klein gehalten."
   },
@@ -3578,13 +3598,37 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-07T09:53:32.518Z",
+  "stand": "2026-08-07T10:43:51.925Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold Price Forecast: XAU/USD rallies further with bulls eyeing $4,380 area",
+    "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-further-with-bulls-eyeing-4-380-area-202608071023",
+    "datum": "2026-08-07T10:23:21.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US President Trump: Warsh is great and I won’t criticize him",
+    "link": "https://www.fxstreet.com/news/us-president-trump-warsh-is-great-and-i-wont-criticize-him-202608071020",
+    "datum": "2026-08-07T10:20:33.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "All eyes on the US jobs report now",
+    "link": "https://investinglive.com/news/all-eyes-on-the-us-jobs-report-now/",
+    "datum": "2026-08-07T10:01:48.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Canadian Dollar: Labour resilience favours CAD against US Dollar – TD Securities",
+    "link": "https://www.fxstreet.com/news/canadian-dollar-labour-resilience-favours-cad-against-us-dollar-td-securities-202608070959",
+    "datum": "2026-08-07T09:59:24.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Polish Zloty: Near-term EUR/PLN forecast raised to 4.30 – Commerzbank",
@@ -3641,19 +3685,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "NZD/USD Price Forecast: Consolidates above 0.5860/weekly low as bulls look to US NFP",
-    "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-consolidates-above-05860-weekly-low-as-bulls-look-to-us-nfp-202608070859",
-    "datum": "2026-08-07T08:59:44.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Oil: Volatile range trading outlook – Rabobank",
-    "link": "https://www.fxstreet.com/news/oil-volatile-range-trading-outlook-rabobank-202608070837",
-    "datum": "2026-08-07T08:37:01.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Nonfarm Payrolls expected to rise by 80K in July",
+    "titel": "US Nonfarm Payrolls set to rebound in July as markets reassess Fed rate path",
     "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830",
     "datum": "2026-08-07T08:30:00.000Z"
    },
@@ -3670,12 +3702,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-07T06:33:45.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Indian Rupee drops as oil price rebounds, US NFP awaited",
-    "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546",
-    "datum": "2026-08-07T05:46:06.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "investingLive Asia-Pacific Financial Market news: Gulf on edge as Saudi attack warning sharpens",
     "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-gulf-on-edge-as-saudi-attack-warning-sharpens/",
@@ -3686,12 +3712,6 @@ window.MAKRO_DATA = {
     "titel": "Beijing's export engine holds up on AI demand despite fresh US tariffs - July exports beat forecasts",
     "link": "https://investinglive.com/news/beijing-s-export-engine-holds-up-on-ai-demand-despite-fresh-us-tariffs-july-exports-beat-forecasts/",
     "datum": "2026-08-07T03:25:15.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "China July Exports jump higher again in July",
-    "link": "https://investinglive.com/news/china-july-exports-jump-higher-again-in-july/",
-    "datum": "2026-08-07T02:37:36.000Z"
    }
   ]
  },

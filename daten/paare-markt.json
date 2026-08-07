@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-07T09:53:32.519Z",
+  "stand": "2026-08-07T10:43:51.926Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -5,
       "tiltCot": 5,
-      "tiltZins": -6,
-      "tiltGesamt": -1,
-      "score": -6,
+      "tiltZins": -7,
+      "tiltGesamt": -2,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + Yen-Stütze durch US-Japan-Intervention deckeln das Paar. Track 2/7 → klein gehalten."
     },

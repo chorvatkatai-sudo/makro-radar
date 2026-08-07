@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-06T13:45:38.031Z",
+  "stand": "2026-08-07T00:36:32.724Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,112 +7,112 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Undervaluation flags downside risks – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-undervaluation-flags-downside-risks-mufg-202608061343",
-      "datum": "2026-08-06T13:43:11.000Z"
+      "quelle": "ForexLive",
+      "titel": "Japan household spending falls for seventh month, clouding BOJ rate path",
+      "link": "https://investinglive.com/news/japan-household-spending-falls-for-seventh-month-clouding-boj-rate-path/",
+      "datum": "2026-08-06T23:55:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United Kingdom: Polling bounce faces October test – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/united-kingdom-polling-bounce-faces-october-test-standard-chartered-202608061325",
-      "datum": "2026-08-06T13:25:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Core CPI momentum seen returning in July – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-core-cpi-momentum-seen-returning-in-july-td-securities-202608061312",
-      "datum": "2026-08-06T13:12:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso: Carry flows outpace fundamentals – BNY",
-      "link": "https://www.fxstreet.com/news/mexican-peso-carry-flows-outpace-fundamentals-bny-202608061301",
-      "datum": "2026-08-06T13:01:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Modest upside bias into 12 months – Rabobank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-modest-upside-bias-into-12-months-rabobank-202608061243",
-      "datum": "2026-08-06T12:43:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Initial Jobless Claims increased to 199K last week",
-      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-increased-to-199k-last-week-202608061235",
-      "datum": "2026-08-06T12:35:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swedish Krona: Hotter core supports SEK against Euro – ING",
-      "link": "https://www.fxstreet.com/news/swedish-krona-hotter-core-supports-sek-against-euro-ing-202608061232",
-      "datum": "2026-08-06T12:32:40.000Z"
+      "titel": "Chinese Yuan: Bullish tone with upside tests against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-tone-with-upside-tests-against-us-dollar-uob-202608062355",
+      "datum": "2026-08-06T23:55:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US Q2 prelim unit labor costs +1.3% vs +2.1% expected",
-      "link": "https://investinglive.com/news/us-q2-prelim-unit-labor-costs-vs-2-1-expected/",
-      "datum": "2026-08-06T12:30:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US initial jobless claims 199K versus 202K estimate",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-199k-versus-202k-estimate/",
-      "datum": "2026-08-06T12:30:07.000Z"
+      "titel": "Japan June 2026 Household spending -6.4% m/m (vs. expected -3.1%, prior +3.7%)",
+      "link": "https://investinglive.com/news/japan-june-2026-household-spending-6-4-m-m-vs-expected-3-1-prior-3-7/",
+      "datum": "2026-08-06T23:36:31.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Retail flows reshape post-intervention dynamics – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-retail-flows-reshape-post-intervention-dynamics-mufg-202608061224",
-      "datum": "2026-08-06T12:24:27.000Z"
+      "titel": "South Korean Won: Stable Fed and AI demand support KRW against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/south-korean-won-stable-fed-and-ai-demand-support-krw-against-us-dollar-ing-202608062323",
+      "datum": "2026-08-06T23:23:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "GBP/JPY Price Forecast: 200-day SMA holds as downside risks linger",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-200-day-sma-holds-as-downside-risks-linger-202608061215",
-      "datum": "2026-08-06T12:15:25.000Z"
+      "titel": "Singapore Dollar: Upside risk capped against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-capped-against-us-dollar-uob-202608062247",
+      "datum": "2026-08-06T22:47:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee: Lower oil and inflows support INR against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/indian-rupee-lower-oil-and-inflows-support-inr-against-us-dollar-ocbc-202608061207",
-      "datum": "2026-08-06T12:07:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Dollar steadies, gold stays poised but off early highs",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-steadies-gold-stays-poised-but-off-early-highs/",
-      "datum": "2026-08-06T12:02:10.000Z"
+      "titel": "Philippine Peso: Inflation and politics weigh on PHP against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/philippine-peso-inflation-and-politics-weigh-on-php-against-us-dollar-ing-202608062209",
+      "datum": "2026-08-06T22:09:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: AAA rating intact but growth risks linger – BNY",
-      "link": "https://www.fxstreet.com/news/australian-dollar-aaa-rating-intact-but-growth-risks-linger-bny-202608061152",
-      "datum": "2026-08-06T11:52:19.000Z"
+      "titel": "Fed’s Musalem backs rate hikes, says inflation remains too high",
+      "link": "https://www.fxstreet.com/news/feds-musalem-backs-rate-hikes-says-inflation-remains-too-high-202608062159",
+      "datum": "2026-08-06T21:59:46.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold holds near seven-week high as markets await Strait of Hormuz deal",
-      "link": "https://www.fxstreet.com/news/gold-steadies-near-seven-week-high-as-markets-await-strait-of-hormuz-deal-202608061118",
-      "datum": "2026-08-06T11:18:04.000Z"
+      "titel": "Mexican Peso strengthens as Banxico hold extends 10-day rally",
+      "link": "https://www.fxstreet.com/news/mexican-peso-strengthens-as-banxico-hold-extends-10-day-rally-202608062146",
+      "datum": "2026-08-06T21:46:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesia: Headline GDP strength, mixed momentum – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indonesia-headline-gdp-strength-mixed-momentum-societe-generale-202608062132",
+      "datum": "2026-08-06T21:32:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar drops amid a firmer US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-drops-amid-a-firmer-us-dollar-202608062115",
+      "datum": "2026-08-06T21:15:54.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US-based employers announce fewest job cuts in two years in July",
-      "link": "https://investinglive.com/news/us-based-employers-announce-fewest-job-cuts-in-two-years-in-july/",
-      "datum": "2026-08-06T09:30:05.000Z"
+      "titel": "investingLive Asia-pacific FX news wrap 6 Aug: USD moves higher with yields ahead of US jobs report",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-6-aug-usd-moves-higher-with-yields-ahead-of-us-jobs-report/",
+      "datum": "2026-08-06T21:12:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar firms ahead of Nonfarm Payrolls as Hormuz risk returns",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-nonfarm-payrolls-as-hormuz-risk-returns-202608062053",
+      "datum": "2026-08-06T20:53:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Thailand: Supply-led pressures and prolonged hold for BoT – UOB",
+      "link": "https://www.fxstreet.com/news/thailand-supply-led-pressures-and-prolonged-hold-for-bot-uob-202608062051",
+      "datum": "2026-08-06T20:51:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Euro area retail sales unexpectedly fall in June amid broader slump in overall activity",
-      "link": "https://investinglive.com/news/euro-area-retail-sales-unexpectedly-fall-in-june-amid-broader-slump-in-overall-activity/",
-      "datum": "2026-08-06T09:00:28.000Z"
+      "titel": "Economic and event calendar in Asia Friday, August 7, 2026 - Fed speaker, Chinese trade data",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-august-7-2026-fed-speaker-chinese-trade-data/",
+      "datum": "2026-08-06T20:10:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: Policy uncertainty weighs on IDR against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-policy-uncertainty-weighs-on-idr-against-us-dollar-ing-202608062007",
+      "datum": "2026-08-06T20:07:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Flow reversal case builds – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-flow-reversal-case-builds-societe-generale-202608061935",
+      "datum": "2026-08-06T19:35:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "UK construction slump eases in July amid rebound in client demand",
-      "link": "https://investinglive.com/news/uk-july-construction-pmi-vs-40-0-expected/",
-      "datum": "2026-08-06T08:30:11.000Z"
+      "titel": "Preview: July non-farm payrolls by the numbers",
+      "link": "https://investinglive.com/news/preview-july-non-farm-payrolls-by-the-numbers/",
+      "datum": "2026-08-06T17:48:29.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Now we are supposedly waiting on Trump's decision on the Iran deal",
+      "link": "https://investinglive.com/news/now-we-are-supposedly-waiting-on-trump-s-decision-on-the-iran-deal/",
+      "datum": "2026-08-06T16:54:38.000Z"
     }
   ]
 }

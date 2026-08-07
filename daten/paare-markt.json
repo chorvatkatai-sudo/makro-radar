@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-06T13:45:38.032Z",
+  "stand": "2026-08-07T00:36:32.725Z",
   "ausBriefing": "2026-07-31",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -5,
       "tiltCot": 5,
-      "tiltZins": -7,
-      "tiltGesamt": -2,
-      "score": -7,
+      "tiltZins": -5,
+      "tiltGesamt": 0,
+      "score": -5,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + Yen-Stütze durch US-Japan-Intervention deckeln das Paar. Track 2/7 → klein gehalten."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": -1,
-      "tiltGesamt": -4,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": -3,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Risk-on + weicher Dollar heben den Aussie leicht. Moderat."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -2,
       "tiltCot": 5,
-      "tiltZins": -6,
-      "tiltGesamt": -1,
-      "score": -3,
+      "tiltZins": -4,
+      "tiltGesamt": 1,
+      "score": -1,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + CAD-COT-Squeeze drücken, aber der Öl-Sturz (~75 $) bremst den Loonie → nur leicht abwärts. Klein (Track 14 %)."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": -1,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt; Risk-on nimmt dem Franken etwas Hafen-Bid. Klein."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -1,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -6,
+      "tiltZins": -3,
+      "tiltGesamt": -8,
+      "score": -9,
       "cotExtrem": "erhoeht",
       "treiber": "Schwache NZ-Jobs (Quote 5,6 %, höchster seit 2015) kippen den Squeeze-Bullen; weicher Dollar federt ab. Track 17 % → nahe null."
     }

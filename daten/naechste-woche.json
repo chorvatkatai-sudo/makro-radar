@@ -1015,7 +1015,7 @@
     "title": "EIA Natural Gas Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "33",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1045,7 +1045,7 @@
     "title": "15-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.01",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1055,7 +1055,7 @@
     "title": "30-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.69",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1075,7 +1075,7 @@
     "title": "Fed Balance Sheet",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.749 $",
     "actual": null,
     "quelle": "tradingview"
   },

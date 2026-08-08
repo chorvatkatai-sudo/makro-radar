@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-07T18:42:45.250Z",
+  "stand": "2026-08-08T04:51:45.651Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "China: Credit demand and liquidity trends – DBS",
+      "link": "https://www.fxstreet.com/news/china-credit-demand-and-liquidity-trends-dbs-202608072151",
+      "datum": "2026-08-07T21:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-holds-with-bullish-tone-against-us-dollar-uob-202608072112",
+      "datum": "2026-08-07T21:12:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore: GDP revision and forecast upgrade – DBS",
+      "link": "https://www.fxstreet.com/news/singapore-gdp-revision-and-forecast-upgrade-dbs-202608072027",
+      "datum": "2026-08-07T20:27:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Hormuz deal hopes rise as talks progress – Reuters",
+      "link": "https://www.fxstreet.com/news/hormuz-deal-hopes-rise-as-talks-progress-rtrs-abc-news-202608072019",
+      "datum": "2026-08-07T20:19:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-turn-negative-dollar-drops/",
+      "datum": "2026-08-07T20:10:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebound-holds-above-200-day-sma-202608072003",
+      "datum": "2026-08-07T20:03:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Philippines: BSP policy outlook shifts – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/philippines-bsp-policy-outlook-shifts-standard-chartered-202608071942",
+      "datum": "2026-08-07T19:42:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forecasting the upcoming week: US inflation takes center stage next week",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-inflation-takes-center-stage-next-week-202608071933",
+      "datum": "2026-08-07T19:33:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasury yields drop on soft NFP, Hormuz hopes ease Fed risks",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-drop-on-soft-nfp-hormuz-hopes-ease-fed-risks-202608071924",
+      "datum": "2026-08-07T19:24:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: Supportive domestic backdrop, capped gains – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-supportive-domestic-backdrop-capped-gains-commerzbank-202608071907",
+      "datum": "2026-08-07T19:07:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-clears-50-day-sma-eyes-65-202608071904",
+      "datum": "2026-08-07T19:04:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY recovers from session low but remains down on Friday",
+      "link": "https://www.fxstreet.com/news/eur-jpy-recovers-from-session-low-but-remains-down-on-friday-202608071848",
+      "datum": "2026-08-07T18:48:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
       "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-need-13560-to-unlock-13600-202608071833",
       "datum": "2026-08-07T18:33:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Upside risk capped by 1.2790 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-capped-by-12790-against-us-dollar-uob-202608071832",
-      "datum": "2026-08-07T18:32:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso hits five-month high on weak US jobs data",
-      "link": "https://www.fxstreet.com/news/mexican-peso-hits-five-month-high-on-weak-us-jobs-data-202608071807",
-      "datum": "2026-08-07T18:07:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Intervention risks support KRW against US Dollar – DBS",
-      "link": "https://www.fxstreet.com/news/south-korean-won-intervention-risks-support-krw-against-us-dollar-dbs-202608071758",
-      "datum": "2026-08-07T17:58:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Buyers eye a break above the 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-eye-a-break-above-the-100-day-sma-202608071738",
-      "datum": "2026-08-07T17:38:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold rallies as mediocre US NFP crushes Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/gold-rallies-as-mediocre-us-nfp-crushes-fed-rate-hike-bets-202608071737",
-      "datum": "2026-08-07T17:37:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesia: Modest growth outlook – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/indonesia-modest-growth-outlook-standard-chartered-202608071733",
-      "datum": "2026-08-07T17:33:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average dodges a hike December still prices",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-dodges-a-hike-december-still-prices-202608071646",
-      "datum": "2026-08-07T16:46:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar advances as US labor market weakness pressures USD",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-advances-as-us-labor-market-weakness-pressures-the-usd-202608071603",
-      "datum": "2026-08-07T16:03:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Gradual improvement with tariff risks – RBC",
-      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-with-tariff-risks-rbc-202608071554",
-      "datum": "2026-08-07T15:54:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar climbs near two-month highs as NFP turns negative",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-near-two-month-highs-as-nfp-turns-negative-202608071538",
-      "datum": "2026-08-07T15:38:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "NY Fed inflation expectations ease modestly in the short term",
-      "link": "https://www.fxstreet.com/news/ny-fed-inflation-expectations-ease-modestly-in-the-short-term-202608071534",
-      "datum": "2026-08-07T15:34:16.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "All eyes on the US jobs report now",
       "link": "https://investinglive.com/news/all-eyes-on-the-us-jobs-report-now/",
       "datum": "2026-08-07T10:01:48.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump says a rate hike isn't completely up to Warsh, it's up to the Board",
-      "link": "https://investinglive.com/news/trump-says-a-rate-hike-isn-t-completely-up-to-warsh-it-s-up-to-the-board/",
-      "datum": "2026-08-07T09:32:41.000Z"
     }
   ]
 }

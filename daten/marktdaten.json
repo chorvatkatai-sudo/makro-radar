@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-08T04:51:44.899Z",
+  "stand": "2026-08-08T05:03:33.141Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
@@ -269,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 64976.75,
+      "wert": 64966.59,
       "tagProzent": 0,
-      "wocheProzent": 2.39,
+      "wocheProzent": 2.37,
       "renditeDelta": false,
       "verlauf": [
         64796.6,
@@ -294,8 +294,8 @@
         64055.95,
         64597.5,
         64262.11,
-        64976.75,
-        64976.75
+        64966.59,
+        64966.59
       ]
     },
     "FEDFUT": {

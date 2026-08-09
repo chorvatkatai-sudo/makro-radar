@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-09T05:03:48.507Z",
+ "erstellt": "2026-08-09T12:39:19.774Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -3328,7 +3328,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-09T05:03:48.017Z",
+  "stand": "2026-08-09T12:39:19.349Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3598,12 +3598,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64737.3,
+    "wert": 64889.49,
     "tagProzent": 0,
-    "wocheProzent": 1.06,
+    "wocheProzent": 0.45,
     "renditeDelta": false,
     "verlauf": [
-     64690.8,
      65230.03,
      66505.13,
      66100.8,
@@ -3623,8 +3622,9 @@ window.MAKRO_DATA = {
      64597.5,
      64262.11,
      64880.19,
-     64737.3,
-     64737.3
+     64904.69,
+     64889.49,
+     64889.49
     ]
    },
    "FEDFUT": {
@@ -3661,40 +3661,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.43,
-    "tagProzent": 0.02,
-    "wocheProzent": 0.02,
-    "renditeDelta": true,
-    "verlauf": [
-     2.31,
-     2.31,
-     2.32,
-     2.36,
-     2.33,
-     2.32,
-     2.35,
-     2.31,
-     2.35,
-     2.37,
-     2.39,
-     2.43,
-     2.43,
-     2.44,
-     2.41,
-     2.41,
-     2.41,
-     2.47,
-     2.43,
-     2.4,
-     2.41,
-     2.43
-    ],
-    "quelle": "FRED"
-   },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
@@ -3726,6 +3692,40 @@ window.MAKRO_DATA = {
      2.22,
      2.26,
      2.25
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.43,
+    "tagProzent": 0.02,
+    "wocheProzent": 0.02,
+    "renditeDelta": true,
+    "verlauf": [
+     2.31,
+     2.31,
+     2.32,
+     2.36,
+     2.33,
+     2.32,
+     2.35,
+     2.31,
+     2.35,
+     2.37,
+     2.39,
+     2.43,
+     2.43,
+     2.44,
+     2.41,
+     2.41,
+     2.41,
+     2.47,
+     2.43,
+     2.4,
+     2.41,
+     2.43
     ],
     "quelle": "FRED"
    }
@@ -3939,7 +3939,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-09T05:03:48.505Z",
+  "stand": "2026-08-09T12:39:19.772Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

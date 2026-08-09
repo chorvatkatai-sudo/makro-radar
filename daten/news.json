@@ -1,11 +1,17 @@
 {
-  "stand": "2026-08-08T12:36:57.703Z",
+  "stand": "2026-08-09T04:59:18.236Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "China's July CPI cools to six-month low as producer prices also ease",
+      "link": "https://investinglive.com/news/china-s-july-cpi-cools-to-six-month-low-as-producer-prices-also-ease/",
+      "datum": "2026-08-09T04:29:04.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "China: Credit demand and liquidity trends – DBS",
@@ -107,12 +113,6 @@
       "titel": "investingLive European markets wrap: Gold advances, dollar muted ahead of NFP",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-advances-dollar-muted-ahead-of-nfp/",
       "datum": "2026-08-07T11:05:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "All eyes on the US jobs report now",
-      "link": "https://investinglive.com/news/all-eyes-on-the-us-jobs-report-now/",
-      "datum": "2026-08-07T10:01:48.000Z"
     }
   ]
 }

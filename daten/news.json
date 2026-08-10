@@ -1,11 +1,35 @@
 {
-  "stand": "2026-08-10T15:52:28.999Z",
+  "stand": "2026-08-10T16:44:31.178Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones Industrial Average kept what payrolls lost",
+      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-kept-what-payrolls-lost-202608101625",
+      "datum": "2026-08-10T16:25:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound climbs as Hormuz talks stall, US CPI up next",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-hormuz-talks-stall-us-cpi-up-next-202608101616",
+      "datum": "2026-08-10T16:16:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Emerging Markets: Selectivity key as Fed path clouds – HSBC",
+      "link": "https://www.fxstreet.com/news/emerging-markets-selectivity-key-as-fed-path-clouds-hsbc-202608101613",
+      "datum": "2026-08-10T16:13:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Denmark: Tax cuts keep inflation below the euro area – Nordea",
+      "link": "https://www.fxstreet.com/news/denmark-tax-cuts-keep-inflation-below-the-euro-area-nordea-202608101554",
+      "datum": "2026-08-10T15:54:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "USD/CAD Price Forecast: Bearish pressure builds below 1.4000",
@@ -49,34 +73,10 @@
       "datum": "2026-08-10T14:21:46.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Positioning-driven softness ahead of CPI – BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-positioning-driven-softness-ahead-of-cpi-bny-202608101409",
-      "datum": "2026-08-10T14:09:33.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US July employment trends 107.71 vs 106.74 prior",
       "link": "https://investinglive.com/news/us-july-employment-trends-107-71-vs-106-74-prior/",
       "datum": "2026-08-10T14:03:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Softer CPI may unlock 1.1600 against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-softer-cpi-may-unlock-11600-against-us-dollar-ing-202608101358",
-      "datum": "2026-08-10T13:58:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound rises against Japanese Yen as intervention impact fades",
-      "link": "https://www.fxstreet.com/news/british-pound-rises-against-japanese-yen-as-intervention-impact-fades-202608101349",
-      "datum": "2026-08-10T13:49:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Hungarian Forint: Recovery against Euro may resume – Commerzbank",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-recovery-against-euro-may-resume-commerzbank-202608101347",
-      "datum": "2026-08-10T13:47:34.000Z"
     },
     {
       "quelle": "ForexLive",

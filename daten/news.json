@@ -1,11 +1,47 @@
 {
-  "stand": "2026-08-10T19:49:13.494Z",
+  "stand": "2026-08-10T21:33:31.952Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Citi Mexico Survey expects Banxico hold, USD/MXN ending 2026 at 17.90",
+      "link": "https://www.fxstreet.com/news/citi-mexico-survey-sees-banxico-hold-usd-mxn-ending-2026-at-1790-202608102126",
+      "datum": "2026-08-10T21:26:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar slips as firm US Dollar and Oil keep the Kiwi pinned",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-as-firm-us-dollar-and-oil-keep-the-kiwi-pinned-202608102113",
+      "datum": "2026-08-10T21:13:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD extends rally and eyes $69",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-eyes-69-as-rally-extends-202608102023",
+      "datum": "2026-08-10T20:23:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Gold and oil continue to climb, yen sinks",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-10-aug/",
+      "datum": "2026-08-10T20:17:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Tuesday, August 11, 2026 - Japan holiday, RBA decision",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-august-11-2026-japan-holiday-rba-decision/",
+      "datum": "2026-08-10T20:02:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar firms as Oil surges on Hormuz",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-as-oil-surges-on-hormuz-202608101955",
+      "datum": "2026-08-10T19:55:33.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "China: Cost-driven reflation and narrow profit gains – Standard Chartered",
@@ -50,33 +86,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold edges higher as Hormuz delays, US CPI keep traders cautious",
-      "link": "https://www.fxstreet.com/news/gold-edges-higher-as-hormuz-delays-us-cpi-keep-traders-cautious-202608101758",
-      "datum": "2026-08-10T17:58:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen weakens as surprise current account deficit weighs",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-surprise-current-account-deficit-weighs-202608101647",
-      "datum": "2026-08-10T16:47:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Canadian Dollar takes back two months in ten sessions",
-      "link": "https://www.fxstreet.com/news/the-canadian-dollar-takes-back-two-months-in-ten-sessions-202608101644",
-      "datum": "2026-08-10T16:44:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
       "titel": "Dow Jones Industrial Average begins pricing a 2029 war premium",
       "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-kept-what-payrolls-lost-202608101625",
       "datum": "2026-08-10T16:25:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound climbs as Hormuz talks stall, US CPI in focus",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-hormuz-talks-stall-us-cpi-up-next-202608101616",
-      "datum": "2026-08-10T16:16:33.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Iran foreign ministry reaffirms that there are no negotiations with the US currently",
       "link": "https://investinglive.com/news/iran-foreign-ministry-reaffirms-that-there-are-no-negotiations-with-the-us-currently/",
       "datum": "2026-08-10T08:05:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-21/",
-      "datum": "2026-08-10T06:26:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific Financial Market news: No Hormuz deal in sight",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-no-hormuz-deal-in-sight/",
-      "datum": "2026-08-10T03:39:00.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-10T05:06:17.676Z",
+  "stand": "2026-08-10T05:06:43.878Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": 1,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Weicher Dollar hebt das Pfund über 1,27; UK-BIP (Do) ist der Test. COT-Short-Squeeze-Risiko nach oben. Moderat."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -7,
-      "tiltGesamt": -5,
-      "score": -14,
+      "tiltZins": -8,
+      "tiltGesamt": -6,
+      "score": -15,
       "cotExtrem": null,
       "treiber": "US-Zinssenkung verengt die Zinsdifferenz → Yen-Rückenwind, weicher Dollar drückt das Paar. Yen bleibt aber fundamental schwach (Interventionszone) — deckelt den Rückgang."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 6,
       "tiltCot": -3,
-      "tiltZins": 3,
-      "tiltGesamt": 0,
-      "score": 6,
+      "tiltZins": 5,
+      "tiltGesamt": 2,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "Risk-on + weicher Dollar heben den Aussie. RBA-Hold (Di) + Chinas Deflation bremsen. Moderat."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -6,
-      "tiltGesamt": -1,
-      "score": -9,
+      "tiltZins": -5,
+      "tiltGesamt": 0,
+      "score": -8,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + starker Kanada-Jobbericht drücken das Paar. Gegenwind: Öl-Rückgang + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 2,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -3,
+      "tiltZins": 2,
+      "tiltGesamt": -3,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar zieht den Kiwi leicht hoch, obwohl die NZ-Arbeitslosigkeit (5,6 %, Jahrzehnt-Hoch) belastet. Zwei Gegenkräfte ≈ nahe null."
     }

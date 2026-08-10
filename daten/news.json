@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-09T12:39:19.772Z",
+  "stand": "2026-08-10T05:06:43.876Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,88 +7,100 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah struggles as Consumer Confidence drops to weakest level since September 2025",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-struggles-as-consumer-confidence-drops-to-weakest-level-since-september-2025-202608100503",
+      "datum": "2026-08-10T05:03:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608100436",
+      "datum": "2026-08-10T04:36:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc declines as safe-haven demand supports US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-declines-as-safe-haven-demand-supports-us-dollar-202608100424",
+      "datum": "2026-08-10T04:24:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar drifts lower as USD recovers from post-NFP lows amid Mideast jitters",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-drifts-lower-as-usd-recovers-from-post-nfp-lows-amid-mideast-jitters-202608100348",
+      "datum": "2026-08-10T03:48:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index advances above 99.50 due to Middle East risks",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-advances-above-9950-due-to-middle-east-risks-202608100347",
+      "datum": "2026-08-10T03:47:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific Financial Market news: No Hormuz deal in sight",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-no-hormuz-deal-in-sight/",
+      "datum": "2026-08-10T03:39:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD starts US CPI week on flat note around $63.50",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-starts-us-cpi-week-on-flat-note-around-6350-202608100316",
+      "datum": "2026-08-10T03:16:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar weakens as safe-haven demand lifts US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-safe-haven-demand-lifts-us-dollar-202608100315",
+      "datum": "2026-08-10T03:15:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar pulls back from two-month top as rebounding USD counters higher oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-pulls-back-from-two-month-top-as-rebounding-usd-counters-higher-oil-prices-202608100314",
+      "datum": "2026-08-10T03:14:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold remains on the back foot below June 17 high amid USD uptick; downside seems cushioned",
+      "link": "https://www.fxstreet.com/news/gold-retreats-from-june-17-highest-amid-usd-uptick-holds-above-4-300-pivotal-support-202608100229",
+      "datum": "2026-08-10T02:29:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen comes under pressure as BoJ division, unexpected current account deficit",
+      "link": "https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-boj-division-narrowing-surplus-202608100202",
+      "datum": "2026-08-10T02:02:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound moves away from multi-week top as Hormuz risks support USD",
+      "link": "https://www.fxstreet.com/news/british-pound-moves-away-from-multi-week-top-as-hormuz-risks-support-usd-202608100159",
+      "datum": "2026-08-10T01:59:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro consolidates below its highest level since June 17 as Mideast tensions support USD",
+      "link": "https://www.fxstreet.com/news/euro-consolidates-below-its-highest-level-since-june-17-as-mideast-tensions-support-usd-202608100135",
+      "datum": "2026-08-10T01:35:29.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Newsquawk week ahead: RBA announcement and US retail sales",
+      "link": "https://investinglive.com/news/newsquawk-week-ahead/",
+      "datum": "2026-08-09T13:34:42.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "China's July CPI cools to six-month low as producer prices also ease",
       "link": "https://investinglive.com/news/china-s-july-cpi-cools-to-six-month-low-as-producer-prices-also-ease/",
       "datum": "2026-08-09T04:29:04.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "China: Credit demand and liquidity trends – DBS",
-      "link": "https://www.fxstreet.com/news/china-credit-demand-and-liquidity-trends-dbs-202608072151",
-      "datum": "2026-08-07T21:51:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-holds-with-bullish-tone-against-us-dollar-uob-202608072112",
-      "datum": "2026-08-07T21:12:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore: GDP revision and forecast upgrade – DBS",
-      "link": "https://www.fxstreet.com/news/singapore-gdp-revision-and-forecast-upgrade-dbs-202608072027",
-      "datum": "2026-08-07T20:27:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Hormuz deal hopes rise as talks progress – Reuters",
-      "link": "https://www.fxstreet.com/news/hormuz-deal-hopes-rise-as-talks-progress-rtrs-abc-news-202608072019",
-      "datum": "2026-08-07T20:19:13.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
       "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-turn-negative-dollar-drops/",
       "datum": "2026-08-07T20:10:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebound-holds-above-200-day-sma-202608072003",
-      "datum": "2026-08-07T20:03:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Philippines: BSP policy outlook shifts – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/philippines-bsp-policy-outlook-shifts-standard-chartered-202608071942",
-      "datum": "2026-08-07T19:42:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forecasting the upcoming week: US inflation takes center stage next week",
-      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-inflation-takes-center-stage-next-week-202608071933",
-      "datum": "2026-08-07T19:33:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Treasury yields drop on soft NFP, Hormuz hopes ease Fed risks",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-drop-on-soft-nfp-hormuz-hopes-ease-fed-risks-202608071924",
-      "datum": "2026-08-07T19:24:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: Supportive domestic backdrop, capped gains – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-supportive-domestic-backdrop-capped-gains-commerzbank-202608071907",
-      "datum": "2026-08-07T19:07:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-clears-50-day-sma-eyes-65-202608071904",
-      "datum": "2026-08-07T19:04:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY recovers from session low but remains down on Friday",
-      "link": "https://www.fxstreet.com/news/eur-jpy-recovers-from-session-low-but-remains-down-on-friday-202608071848",
-      "datum": "2026-08-07T18:48:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-need-13560-to-unlock-13600-202608071833",
-      "datum": "2026-08-07T18:33:19.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "US July non-farm payrolls -23K vs +80K expected",
       "link": "https://investinglive.com/news/us-july-non-farm-payrolls-23k-vs-80k-expected/",
       "datum": "2026-08-07T12:30:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada July employment change +75.1K vs +15K expected",
-      "link": "https://investinglive.com/news/canada-july-employment-change-xxk-vs-15k-expected/",
-      "datum": "2026-08-07T12:30:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Gold advances, dollar muted ahead of NFP",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-advances-dollar-muted-ahead-of-nfp/",
-      "datum": "2026-08-07T11:05:05.000Z"
     }
   ]
 }

@@ -8440,6 +8440,16 @@
       "vorher": "0.3%",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-10T15:00:00-04:00|USD|FOMC Member Hammack Speaks": {
+      "datum": "2026-08-10T15:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Hammack Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-10T12:56:28.655Z",
+  "stand": "2026-08-10T15:52:28.999Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,51 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Modest upside bias against US Dollar as Fed repricing – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-modest-upside-bias-against-us-dollar-as-fed-repricing-rabobank-202608101249",
-      "datum": "2026-08-10T12:49:43.000Z"
+      "titel": "USD/CAD Price Forecast: Bearish pressure builds below 1.4000",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-pressure-builds-below-14000-202608101550",
+      "datum": "2026-08-10T15:50:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: RBA policy pause maintained – TD Securities",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-policy-pause-maintained-td-securities-202608101238",
-      "datum": "2026-08-10T12:38:54.000Z"
+      "titel": "Eurozone: Resilient data but growth risks weigh on Euro – Rabobank",
+      "link": "https://www.fxstreet.com/news/eurozone-resilient-data-but-growth-risks-weigh-on-euro-rabobank-202608101457",
+      "datum": "2026-08-10T14:57:52.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ tightening risks support JPY – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-risks-support-jpy-bny-202608101230",
-      "datum": "2026-08-10T12:30:34.000Z"
+      "titel": "Australian Dollar stays flat ahead of RBA rate decision",
+      "link": "https://www.fxstreet.com/news/australian-dollar-stays-flat-ahead-of-rba-rate-decision-202608101457",
+      "datum": "2026-08-10T14:57:27.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Oil: Strait risk and cautious positioning – ING",
-      "link": "https://www.fxstreet.com/news/oil-strait-risk-and-cautious-positioning-ing-202608101220",
-      "datum": "2026-08-10T12:20:19.000Z"
+      "titel": "Euro holds ground against US Dollar amid Fed uncertainty ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/euro-holds-ground-against-us-dollar-amid-fed-uncertainty-ahead-of-us-cpi-202608101451",
+      "datum": "2026-08-10T14:51:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver tests $65: Why are buyers struggling to extend the rally?",
-      "link": "https://www.fxstreet.com/news/silver-tests-65-why-are-buyers-struggling-to-extend-the-rally-202608101217",
-      "datum": "2026-08-10T12:17:09.000Z"
+      "titel": "Australian Dollar jumps as Yen struggles with Japan’s fiscal woes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-jumps-as-yen-struggles-with-japans-fiscal-woes-202608101443",
+      "datum": "2026-08-10T14:43:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Norwegian Krone: Rate hike odds slashed after soft inflation – BBH",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-rate-hike-odds-slashed-after-soft-inflation-bbh-202608101208",
-      "datum": "2026-08-10T12:08:01.000Z"
+      "titel": "Federal Reserve: Sideways growth and sticky inflation – TD Securities",
+      "link": "https://www.fxstreet.com/news/federal-reserve-sideways-growth-and-sticky-inflation-td-securities-202608101438",
+      "datum": "2026-08-10T14:38:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar steadies, caught between risk aversion, rebounding Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-caught-between-risk-aversion-rebounding-oil-prices-202608101203",
-      "datum": "2026-08-10T12:03:23.000Z"
+      "titel": "Japanese Yen: Faces risk of return to 160 against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/japanese-yen-faces-risk-of-return-to-160-against-us-dollar-ing-202608101421",
+      "datum": "2026-08-10T14:21:46.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Fed pricing shifts with softer data – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-shifts-with-softer-data-deutsche-bank-202608101158",
-      "datum": "2026-08-10T11:58:26.000Z"
+      "titel": "US Dollar: Positioning-driven softness ahead of CPI – BNY",
+      "link": "https://www.fxstreet.com/news/us-dollar-positioning-driven-softness-ahead-of-cpi-bny-202608101409",
+      "datum": "2026-08-10T14:09:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US July employment trends 107.71 vs 106.74 prior",
+      "link": "https://investinglive.com/news/us-july-employment-trends-107-71-vs-106-74-prior/",
+      "datum": "2026-08-10T14:03:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Softer CPI may unlock 1.1600 against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-softer-cpi-may-unlock-11600-against-us-dollar-ing-202608101358",
+      "datum": "2026-08-10T13:58:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound rises against Japanese Yen as intervention impact fades",
+      "link": "https://www.fxstreet.com/news/british-pound-rises-against-japanese-yen-as-intervention-impact-fades-202608101349",
+      "datum": "2026-08-10T13:49:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Hungarian Forint: Recovery against Euro may resume – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-recovery-against-euro-may-resume-commerzbank-202608101347",
+      "datum": "2026-08-10T13:47:34.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -62,27 +86,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar approaches two-month highs at 0.7088 with RBA decision on tap",
-      "link": "https://www.fxstreet.com/news/australian-dollar-approaches-two-month-highs-at-07088-with-rba-decision-on-tap-202608101155",
-      "datum": "2026-08-10T11:55:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: On verge of downward-trendline breakout",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-on-verge-of-downward-trendline-breakout-202608101146",
-      "datum": "2026-08-10T11:46:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: September hike odds reassessed – Rabobank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-september-hike-odds-reassessed-rabobank-202608101145",
-      "datum": "2026-08-10T11:45:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Copper: Tariff-driven arbitrage reshapes COMEX-LME spread – Societe Generale",
-      "link": "https://www.fxstreet.com/news/copper-tariff-driven-arbitrage-reshapes-comex-lme-spread-societe-generale-202608101137",
-      "datum": "2026-08-10T11:37:23.000Z"
+      "titel": "Gold holds firm as Fed rate outlook, Middle East developments remain in focus",
+      "link": "https://www.fxstreet.com/news/gold-holds-firm-as-fed-rate-outlook-middle-east-developments-remain-in-focus-202608101127",
+      "datum": "2026-08-10T11:27:31.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "investingLive Asia-Pacific Financial Market news: No Hormuz deal in sight",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-no-hormuz-deal-in-sight/",
       "datum": "2026-08-10T03:39:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Newsquawk week ahead: RBA announcement and US retail sales",
-      "link": "https://investinglive.com/news/newsquawk-week-ahead/",
-      "datum": "2026-08-09T13:34:42.000Z"
     }
   ]
 }

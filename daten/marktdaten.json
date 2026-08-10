@@ -1,13 +1,13 @@
 {
-  "stand": "2026-08-10T05:06:43.535Z",
+  "stand": "2026-08-10T12:51:05.456Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 99.7,
+      "wert": 99.77,
       "tagProzent": 0,
-      "wocheProzent": -0.19,
+      "wocheProzent": -0.12,
       "renditeDelta": false,
       "verlauf": [
         101.28,
@@ -30,20 +30,19 @@
         99.69,
         99.97,
         99.6,
-        99.7,
-        99.7
+        99.77,
+        99.77
       ]
     },
     "VIX": {
       "name": "VIX (Angst-Barometer)",
       "einheit": "",
       "typ": "index",
-      "wert": 14.9,
+      "wert": 15.41,
       "tagProzent": 0,
-      "wocheProzent": -6.05,
+      "wocheProzent": -6.61,
       "renditeDelta": false,
       "verlauf": [
-        15.03,
         17.16,
         16.5,
         15.67,
@@ -64,16 +63,17 @@
         15.81,
         15.15,
         14.9,
-        14.9
+        15.41,
+        15.41
       ]
     },
     "WTI": {
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 78.49,
+      "wert": 79.58,
       "tagProzent": 0,
-      "wocheProzent": 3.59,
+      "wocheProzent": 5.03,
       "renditeDelta": false,
       "verlauf": [
         78.14,
@@ -96,17 +96,17 @@
         75.22,
         77.29,
         78.18,
-        78.49,
-        78.49
+        79.58,
+        79.58
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 83.99,
+      "wert": 84.99,
       "tagProzent": 0,
-      "wocheProzent": 5.83,
+      "wocheProzent": 7.09,
       "renditeDelta": false,
       "verlauf": [
         83.3,
@@ -129,17 +129,17 @@
         79.45,
         82.49,
         83.55,
-        83.99,
-        83.99
+        84.99,
+        84.99
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4396.5,
+      "wert": 4390.4,
       "tagProzent": 0,
-      "wocheProzent": 7.35,
+      "wocheProzent": 7.2,
       "renditeDelta": false,
       "verlauf": [
         3997,
@@ -162,8 +162,8 @@
         4245.8,
         4242,
         4340.7,
-        4396.5,
-        4396.5
+        4390.4,
+        4390.4
       ]
     },
     "US02Y": {
@@ -203,12 +203,11 @@
       "name": "US-Rendite 10 Jahre",
       "einheit": "%",
       "typ": "rendite",
-      "wert": 4.66,
+      "wert": 4.664,
       "tagProzent": 0,
-      "wocheProzent": -0.03,
+      "wocheProzent": 0.04,
       "renditeDelta": true,
       "verlauf": [
-        4.569,
         4.609,
         4.585,
         4.545,
@@ -229,19 +228,19 @@
         4.617,
         4.67,
         4.66,
-        4.66
+        4.664,
+        4.664
       ]
     },
     "US30Y": {
       "name": "US-Rendite 30 Jahre",
       "einheit": "%",
       "typ": "rendite",
-      "wert": 5.211,
+      "wert": 5.208,
       "tagProzent": 0,
-      "wocheProzent": -0.02,
+      "wocheProzent": 0.02,
       "renditeDelta": true,
       "verlauf": [
-        5.071,
         5.098,
         5.094,
         5.083,
@@ -262,19 +261,19 @@
         5.174,
         5.213,
         5.211,
-        5.211
+        5.208,
+        5.208
       ]
     },
     "BTC": {
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 65000.48,
+      "wert": 64880.36,
       "tagProzent": 0,
-      "wocheProzent": 0.62,
+      "wocheProzent": 0.96,
       "renditeDelta": false,
       "verlauf": [
-        65230.03,
         66505.13,
         66100.8,
         65044.81,
@@ -294,8 +293,9 @@
         64262.11,
         64880.19,
         64904.69,
-        65000.48,
-        65000.48
+        64844.89,
+        64880.36,
+        64880.36
       ]
     },
     "FEDFUT": {
@@ -495,32 +495,32 @@
     "stand": "2026-08-10",
     "werte": {
       "USD": {
-        "wert": 4.206,
-        "wocheDelta": -0.083
+        "wert": 4.226,
+        "wocheDelta": -0.063
       },
       "EUR": {
-        "wert": 2.728,
-        "wocheDelta": -0.079
+        "wert": 2.768,
+        "wocheDelta": -0.039
       },
       "GBP": {
-        "wert": 4.296,
-        "wocheDelta": -0.117
+        "wert": 4.32,
+        "wocheDelta": -0.093
       },
       "JPY": {
-        "wert": 1.614,
-        "wocheDelta": 0.11
+        "wert": 1.612,
+        "wocheDelta": 0.108
       },
       "AUD": {
-        "wert": 4.568,
-        "wocheDelta": 0.044
+        "wert": 4.569,
+        "wocheDelta": 0.045
       },
       "CAD": {
-        "wert": 2.965,
-        "wocheDelta": 0.041
+        "wert": 3.003,
+        "wocheDelta": 0.079
       },
       "CHF": {
-        "wert": 0.076,
-        "wocheDelta": -0.061
+        "wert": 0.093,
+        "wocheDelta": -0.044
       },
       "NZD": {
         "wert": 3.605,

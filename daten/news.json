@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-10T16:44:31.178Z",
+  "stand": "2026-08-10T19:49:13.494Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "The Dow Jones Industrial Average kept what payrolls lost",
+      "titel": "China: Cost-driven reflation and narrow profit gains – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/china-cost-driven-reflation-and-narrow-profit-gains-standard-chartered-202608101924",
+      "datum": "2026-08-10T19:24:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States: Weak payrolls and softer retail sales – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-weak-payrolls-and-softer-retail-sales-td-securities-202608101847",
+      "datum": "2026-08-10T18:47:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso rally pauses ahead of US inflation report",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rally-pauses-ahead-of-us-inflation-report-202608101836",
+      "datum": "2026-08-10T18:36:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI jumps over 6% as Strait of Hormuz reopening remains uncertain",
+      "link": "https://www.fxstreet.com/news/wti-jumps-over-6-as-strait-of-hormuz-reopening-remains-uncertain-202608101822",
+      "datum": "2026-08-10T18:22:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: Iran won't negotiate with the US until Trump's term is done",
+      "link": "https://www.fxstreet.com/news/breaking-iran-wont-negotiate-with-the-us-until-trumps-term-is-done-202608101811",
+      "datum": "2026-08-10T18:11:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "LatAm FX: Carry window opens with caveats – BNY",
+      "link": "https://www.fxstreet.com/news/latam-fx-carry-window-opens-with-caveats-bny-202608101809",
+      "datum": "2026-08-10T18:09:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US President Trump says Iran should pay for regional damage",
+      "link": "https://www.fxstreet.com/news/us-president-trump-says-iran-should-pay-for-regional-damage-202608101806",
+      "datum": "2026-08-10T18:06:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold edges higher as Hormuz delays, US CPI keep traders cautious",
+      "link": "https://www.fxstreet.com/news/gold-edges-higher-as-hormuz-delays-us-cpi-keep-traders-cautious-202608101758",
+      "datum": "2026-08-10T17:58:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen weakens as surprise current account deficit weighs",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-surprise-current-account-deficit-weighs-202608101647",
+      "datum": "2026-08-10T16:47:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Canadian Dollar takes back two months in ten sessions",
+      "link": "https://www.fxstreet.com/news/the-canadian-dollar-takes-back-two-months-in-ten-sessions-202608101644",
+      "datum": "2026-08-10T16:44:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average begins pricing a 2029 war premium",
       "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-kept-what-payrolls-lost-202608101625",
       "datum": "2026-08-10T16:25:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound climbs as Hormuz talks stall, US CPI up next",
+      "titel": "British Pound climbs as Hormuz talks stall, US CPI in focus",
       "link": "https://www.fxstreet.com/news/british-pound-climbs-as-hormuz-talks-stall-us-cpi-up-next-202608101616",
       "datum": "2026-08-10T16:16:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Emerging Markets: Selectivity key as Fed path clouds – HSBC",
-      "link": "https://www.fxstreet.com/news/emerging-markets-selectivity-key-as-fed-path-clouds-hsbc-202608101613",
-      "datum": "2026-08-10T16:13:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Denmark: Tax cuts keep inflation below the euro area – Nordea",
-      "link": "https://www.fxstreet.com/news/denmark-tax-cuts-keep-inflation-below-the-euro-area-nordea-202608101554",
-      "datum": "2026-08-10T15:54:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: Bearish pressure builds below 1.4000",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-pressure-builds-below-14000-202608101550",
-      "datum": "2026-08-10T15:50:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Eurozone: Resilient data but growth risks weigh on Euro – Rabobank",
-      "link": "https://www.fxstreet.com/news/eurozone-resilient-data-but-growth-risks-weigh-on-euro-rabobank-202608101457",
-      "datum": "2026-08-10T14:57:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar stays flat ahead of RBA rate decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-stays-flat-ahead-of-rba-rate-decision-202608101457",
-      "datum": "2026-08-10T14:57:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds ground against US Dollar amid Fed uncertainty ahead of US CPI",
-      "link": "https://www.fxstreet.com/news/euro-holds-ground-against-us-dollar-amid-fed-uncertainty-ahead-of-us-cpi-202608101451",
-      "datum": "2026-08-10T14:51:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar jumps as Yen struggles with Japan’s fiscal woes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-jumps-as-yen-struggles-with-japans-fiscal-woes-202608101443",
-      "datum": "2026-08-10T14:43:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Sideways growth and sticky inflation – TD Securities",
-      "link": "https://www.fxstreet.com/news/federal-reserve-sideways-growth-and-sticky-inflation-td-securities-202608101438",
-      "datum": "2026-08-10T14:38:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Faces risk of return to 160 against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/japanese-yen-faces-risk-of-return-to-160-against-us-dollar-ing-202608101421",
-      "datum": "2026-08-10T14:21:46.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -83,12 +89,6 @@
       "titel": "investingLive European session wrap: Yen drops, markets tentative to start the week",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-yen-drops-markets-tentative-to-start-the-week/",
       "datum": "2026-08-10T11:57:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold holds firm as Fed rate outlook, Middle East developments remain in focus",
-      "link": "https://www.fxstreet.com/news/gold-holds-firm-as-fed-rate-outlook-middle-east-developments-remain-in-focus-202608101127",
-      "datum": "2026-08-10T11:27:31.000Z"
     },
     {
       "quelle": "ForexLive",

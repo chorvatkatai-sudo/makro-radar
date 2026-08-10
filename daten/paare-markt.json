@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-10T16:44:31.180Z",
+  "stand": "2026-08-10T19:49:13.495Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 6,
       "tiltCot": -3,
-      "tiltZins": 5,
-      "tiltGesamt": 2,
-      "score": 8,
+      "tiltZins": 6,
+      "tiltGesamt": 3,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Risk-on + weicher Dollar heben den Aussie. RBA-Hold (Di) + Chinas Deflation bremsen. Moderat."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -5,
-      "tiltGesamt": 0,
-      "score": -8,
+      "tiltZins": -6,
+      "tiltGesamt": -1,
+      "score": -9,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + starker Kanada-Jobbericht drücken das Paar. Gegenwind: Öl-Rückgang + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },

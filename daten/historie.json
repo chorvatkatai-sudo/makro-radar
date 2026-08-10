@@ -7786,7 +7786,7 @@
       "land": "GBP",
       "titel": "BRC Retail Sales Monitor y/y",
       "impact": "Low",
-      "prognose": "1.5%",
+      "prognose": "1.6%",
       "vorher": "1.7%",
       "actual": null,
       "notiz": null
@@ -7856,7 +7856,7 @@
       "land": "USD",
       "titel": "NFIB Small Business Index",
       "impact": "Low",
-      "prognose": "97.8",
+      "prognose": "97.5",
       "vorher": "97.4",
       "actual": null,
       "notiz": null
@@ -7946,7 +7946,7 @@
       "land": "CAD",
       "titel": "Building Permits m/m",
       "impact": "Low",
-      "prognose": "1.0%",
+      "prognose": "0.8%",
       "vorher": "-1.7%",
       "actual": null,
       "notiz": null
@@ -8016,7 +8016,7 @@
       "land": "USD",
       "titel": "Federal Budget Balance",
       "impact": "Low",
-      "prognose": "-294.6B",
+      "prognose": "-361.2B",
       "vorher": "-120.3B",
       "actual": null,
       "notiz": null
@@ -8086,7 +8086,7 @@
       "land": "GBP",
       "titel": "Construction Output m/m",
       "impact": "Low",
-      "prognose": "-0.4%",
+      "prognose": "-0.3%",
       "vorher": "-0.8%",
       "actual": null,
       "notiz": null
@@ -8096,7 +8096,7 @@
       "land": "GBP",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-20.3B",
+      "prognose": "-20.6B",
       "vorher": "-18.7B",
       "actual": null,
       "notiz": null
@@ -8136,7 +8136,7 @@
       "land": "GBP",
       "titel": "Prelim Business Investment q/q",
       "impact": "Low",
-      "prognose": "-0.4%",
+      "prognose": "-0.3%",
       "vorher": "0.7%",
       "actual": null,
       "notiz": null
@@ -8156,7 +8156,7 @@
       "land": "CHF",
       "titel": "PPI m/m",
       "impact": "Low",
-      "prognose": "-0.1%",
+      "prognose": "-0.2%",
       "vorher": "-0.3%",
       "actual": null,
       "notiz": null

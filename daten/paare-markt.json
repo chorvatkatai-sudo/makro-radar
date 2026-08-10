@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-10T12:51:06.029Z",
+  "stand": "2026-08-10T12:56:28.656Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -5,
-      "tiltZins": -1,
-      "tiltGesamt": -6,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar hebt das Pfund über 1,27; UK-BIP (Do) ist der Test. COT-Short-Squeeze-Risiko nach oben. Moderat."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -6,
-      "tiltGesamt": -1,
-      "score": -9,
+      "tiltZins": -5,
+      "tiltGesamt": 0,
+      "score": -8,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + starker Kanada-Jobbericht drücken das Paar. Gegenwind: Öl-Rückgang + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },

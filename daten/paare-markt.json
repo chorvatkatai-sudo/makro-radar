@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-11T14:14:12.025Z",
+  "stand": "2026-08-11T15:53:14.712Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -5,
-      "tiltZins": -3,
-      "tiltGesamt": -8,
-      "score": -2,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar hebt das Pfund über 1,27; UK-BIP (Do) ist der Test. COT-Short-Squeeze-Risiko nach oben. Moderat."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -6,
-      "tiltGesamt": -4,
-      "score": -13,
+      "tiltZins": -5,
+      "tiltGesamt": -3,
+      "score": -12,
       "cotExtrem": null,
       "treiber": "US-Zinssenkung verengt die Zinsdifferenz → Yen-Rückenwind, weicher Dollar drückt das Paar. Yen bleibt aber fundamental schwach (Interventionszone) — deckelt den Rückgang."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -7,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": -4,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt. Risk-on nimmt dem Franken etwas Hafen-Bid, sonst wäre das Paar noch schwächer. Moderat."
     },

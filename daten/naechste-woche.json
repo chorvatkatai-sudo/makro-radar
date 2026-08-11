@@ -745,7 +745,7 @@
     "title": "6-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.67%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -820,6 +820,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-08-19T02:45:00.000Z",
+    "country": "AUD",
+    "title": "RBA Hauser Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-08-19T03:35:00.000Z",
     "country": "JPY",
     "title": "52-Week Bill Auction",
@@ -834,16 +844,6 @@
     "country": "JPY",
     "title": "BoJ JGB Purchase",
     "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-19T03:45:00.000Z",
-    "country": "AUD",
-    "title": "RBA Hauser Speech",
-    "impact": "Medium",
     "forecast": "",
     "previous": "",
     "actual": null,

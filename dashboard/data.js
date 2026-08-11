@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-11T12:44:28.292Z",
+ "erstellt": "2026-08-11T12:52:51.161Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -3338,7 +3338,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-11T12:44:27.743Z",
+  "stand": "2026-08-11T12:52:37.816Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3377,9 +3377,9 @@ window.MAKRO_DATA = {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.55,
+    "wert": 15.53,
     "tagProzent": 0,
-    "wocheProzent": -1.64,
+    "wocheProzent": -1.77,
     "renditeDelta": false,
     "verlauf": [
      16.5,
@@ -3402,17 +3402,17 @@ window.MAKRO_DATA = {
      15.15,
      14.9,
      15.46,
-     15.55,
-     15.55
+     15.53,
+     15.53
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 82.46,
+    "wert": 82.36,
     "tagProzent": 0,
-    "wocheProzent": 9.63,
+    "wocheProzent": 9.49,
     "renditeDelta": false,
     "verlauf": [
      79.34,
@@ -3435,17 +3435,17 @@ window.MAKRO_DATA = {
      77.29,
      78.18,
      82.13,
-     82.46,
-     82.46
+     82.36,
+     82.36
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 87.89,
+    "wert": 87.85,
     "tagProzent": 0,
-    "wocheProzent": 10.62,
+    "wocheProzent": 10.57,
     "renditeDelta": false,
     "verlauf": [
      84.73,
@@ -3468,17 +3468,17 @@ window.MAKRO_DATA = {
      82.49,
      83.55,
      87.72,
-     87.89,
-     87.89
+     87.85,
+     87.85
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4447,
+    "wert": 4453.5,
     "tagProzent": 0,
-    "wocheProzent": 4.74,
+    "wocheProzent": 4.89,
     "renditeDelta": false,
     "verlauf": [
      4061.1,
@@ -3501,8 +3501,8 @@ window.MAKRO_DATA = {
      4242,
      4340.7,
      4361.8,
-     4447,
-     4447
+     4453.5,
+     4453.5
     ]
    },
    "US02Y": {
@@ -3542,7 +3542,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.699,
+    "wert": 4.697,
     "tagProzent": 0,
     "wocheProzent": 0.08,
     "renditeDelta": true,
@@ -3567,15 +3567,15 @@ window.MAKRO_DATA = {
      4.67,
      4.66,
      4.699,
-     4.699,
-     4.699
+     4.697,
+     4.697
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.248,
+    "wert": 5.247,
     "tagProzent": 0,
     "wocheProzent": 0.07,
     "renditeDelta": true,
@@ -3600,17 +3600,17 @@ window.MAKRO_DATA = {
      5.213,
      5.211,
      5.243,
-     5.248,
-     5.248
+     5.247,
+     5.247
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64269.01,
+    "wert": 64277.78,
     "tagProzent": 0,
-    "wocheProzent": -0.94,
+    "wocheProzent": -0.93,
     "renditeDelta": false,
     "verlauf": [
      66100.8,
@@ -3633,8 +3633,8 @@ window.MAKRO_DATA = {
      64904.69,
      64844.89,
      63910.59,
-     64269.01,
-     64269.01
+     64277.78,
+     64277.78
     ]
    },
    "FEDFUT": {
@@ -3671,40 +3671,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.29,
-    "tagProzent": 0.04,
-    "wocheProzent": 0.02,
-    "renditeDelta": true,
-    "verlauf": [
-     2.24,
-     2.26,
-     2.25,
-     2.23,
-     2.22,
-     2.24,
-     2.25,
-     2.26,
-     2.28,
-     2.28,
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29
-    ],
-    "quelle": "FRED"
-   },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
@@ -3736,6 +3702,40 @@ window.MAKRO_DATA = {
      2.41,
      2.43,
      2.4
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.29,
+    "tagProzent": 0.04,
+    "wocheProzent": 0.02,
+    "renditeDelta": true,
+    "verlauf": [
+     2.24,
+     2.26,
+     2.25,
+     2.23,
+     2.22,
+     2.24,
+     2.25,
+     2.26,
+     2.28,
+     2.28,
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29
     ],
     "quelle": "FRED"
    }
@@ -3834,16 +3834,16 @@ window.MAKRO_DATA = {
    "stand": "2026-08-11",
    "werte": {
     "USD": {
-     "wert": 4.23,
-     "wocheDelta": -0.032
+     "wert": 4.226,
+     "wocheDelta": -0.036
     },
     "EUR": {
-     "wert": 2.783,
-     "wocheDelta": -0.033
+     "wert": 2.786,
+     "wocheDelta": -0.03
     },
     "GBP": {
-     "wert": 4.315,
-     "wocheDelta": -0.098
+     "wert": 4.321,
+     "wocheDelta": -0.092
     },
     "JPY": {
      "wert": 1.609,
@@ -3854,8 +3854,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.051
     },
     "CAD": {
-     "wert": 3.006,
-     "wocheDelta": 0.085
+     "wert": 3.003,
+     "wocheDelta": 0.082
     },
     "CHF": {
      "wert": 0.134,
@@ -3890,9 +3890,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 6,
    "tiltCot": -5,
-   "tiltZins": -3,
-   "tiltGesamt": -8,
-   "score": -2,
+   "tiltZins": -2,
+   "tiltGesamt": -7,
+   "score": -1,
    "cotExtrem": null,
    "treiber": "Weicher Dollar hebt das Pfund über 1,27; UK-BIP (Do) ist der Test. COT-Short-Squeeze-Risiko nach oben. Moderat."
   },
@@ -3900,9 +3900,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -9,
    "tiltCot": 2,
-   "tiltZins": -5,
-   "tiltGesamt": -3,
-   "score": -12,
+   "tiltZins": -6,
+   "tiltGesamt": -4,
+   "score": -13,
    "cotExtrem": null,
    "treiber": "US-Zinssenkung verengt die Zinsdifferenz → Yen-Rückenwind, weicher Dollar drückt das Paar. Yen bleibt aber fundamental schwach (Interventionszone) — deckelt den Rückgang."
   },
@@ -3949,7 +3949,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-11T12:44:28.290Z",
+  "stand": "2026-08-11T12:52:51.159Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

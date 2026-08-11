@@ -1,11 +1,53 @@
 {
-  "stand": "2026-08-11T15:53:14.711Z",
+  "stand": "2026-08-11T17:51:34.757Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold eases amid firm US Dollar as CPI and Hormuz risks loom",
+      "link": "https://www.fxstreet.com/news/gold-eases-amid-firm-us-dollar-as-cpi-and-hormuz-risks-loom-202608111728",
+      "datum": "2026-08-11T17:28:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Goolsbee: Inflation is the “biggest problem” of the economy",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-inflation-is-the-biggest-problem-of-the-economy-202608111723",
+      "datum": "2026-08-11T17:23:35.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "EIA raises crude oil price forecasts as Middle East supply risks tighten outlook",
+      "link": "https://investinglive.com/news/eia-raises-crude-oil-price-forecasts-as-middle-east-supply-risks-tighten-outlook/",
+      "datum": "2026-08-11T17:19:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $75 billion 3 year notes at a high yield of 4.291%",
+      "link": "https://investinglive.com/news/us-treasury-sells-75-billion-3-year-notes-at-a-high-yield-of-4-291/",
+      "datum": "2026-08-11T17:08:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "European shares end mixed, but DAX and Ibex close at record highs",
+      "link": "https://investinglive.com/news/european-shares-end-mixed-but-dax-and-ibex-close-at-record-highs/",
+      "datum": "2026-08-11T16:22:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Iran took back the Dow Jones Industrial Average breakout",
+      "link": "https://www.fxstreet.com/news/iran-took-back-the-dow-jones-industrial-average-breakout-202608111621",
+      "datum": "2026-08-11T16:21:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: Buyers struggle to clear the 21-day SMA",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-buyers-struggle-to-clear-the-21-day-sma-202608111554",
+      "datum": "2026-08-11T15:54:17.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro: Consolidation holds in mid 1.15s against US Dollar – Scotiabank",
@@ -55,24 +97,6 @@
       "datum": "2026-08-11T14:48:57.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro: Gradual appreciation path against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-gradual-appreciation-path-against-us-dollar-commerzbank-202608111427",
-      "datum": "2026-08-11T14:27:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Oil prices keep USD/JPY near 160 resistance - BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-oil-prices-keep-usd-jpy-near-160-resistance-bbh-202608111415",
-      "datum": "2026-08-11T14:15:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar trades near weekly high after RBA decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trades-near-weekly-high-after-rba-decision-202608111404",
-      "datum": "2026-08-11T14:04:48.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US July existing home sales 4.06m vs 4.05m expected",
       "link": "https://investinglive.com/news/us-july-existing-home-sales-4-06m-vs-4-05m-expected/",
@@ -89,30 +113,6 @@
       "titel": "investingLive European FX news wrap: RBA holds steady, Iran-Oman close to Hormuz deal",
       "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-rba-holds-steady-iran-oman-close-to-hormuz-deal/",
       "datum": "2026-08-11T11:35:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold pauses near two-month high as Oil swings shape Fed outlook",
-      "link": "https://www.fxstreet.com/news/gold-pauses-near-two-month-highs-as-us-iran-standoff-drives-oil-prices-higher-202608111125",
-      "datum": "2026-08-11T11:25:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US July NFIB small business optimism index 99.8 vs 97.5 expected",
-      "link": "https://investinglive.com/news/us-july-nfib-small-business-optimism-index-xx-vs-97-5-expected/",
-      "datum": "2026-08-11T10:00:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Another cargo ship reportedly struck by the Houthis in the Red Sea",
-      "link": "https://investinglive.com/news/another-cargo-ship-reportedly-struck-by-the-houthis-in-the-red-sea/",
-      "datum": "2026-08-11T09:36:57.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK stats office to only decide in July next year on plausibility of transition to improved labour market data",
-      "link": "https://investinglive.com/news/uk-stats-office-to-only-decide-in-july-next-year-on-plausibility-of-transition-to-improved-labour-market-data/",
-      "datum": "2026-08-11T08:44:35.000Z"
     }
   ]
 }

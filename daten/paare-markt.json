@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-11T15:53:14.712Z",
+  "stand": "2026-08-11T17:51:34.758Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -5,
-      "tiltGesamt": -3,
-      "score": -12,
+      "tiltZins": -6,
+      "tiltGesamt": -4,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "US-Zinssenkung verengt die Zinsdifferenz → Yen-Rückenwind, weicher Dollar drückt das Paar. Yen bleibt aber fundamental schwach (Interventionszone) — deckelt den Rückgang."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 7,
       "tiltCot": -3,
-      "tiltZins": 3,
-      "tiltGesamt": 0,
-      "score": 7,
+      "tiltZins": 4,
+      "tiltGesamt": 1,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "Falkischer RBA-Hold + Risk-on + weicher Dollar heben den Aussie; Chinas Deflation bremst. Moderat."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -10,
       "tiltCot": 5,
-      "tiltZins": -4,
-      "tiltGesamt": 1,
-      "score": -9,
+      "tiltZins": -5,
+      "tiltGesamt": 0,
+      "score": -10,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + starker Kanada-Jobbericht + Öl-Comeback (Hormus) drücken das Paar. Gegenwind: extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },

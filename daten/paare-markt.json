@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-11T05:02:29.290Z",
+  "stand": "2026-08-11T05:04:34.306Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -35,23 +35,23 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 6,
+      "baseScore": 7,
       "tiltCot": -3,
       "tiltZins": 3,
       "tiltGesamt": 0,
-      "score": 6,
+      "score": 7,
       "cotExtrem": null,
-      "treiber": "Risk-on + weicher Dollar heben den Aussie. RBA-Hold (Di) + Chinas Deflation bremsen. Moderat."
+      "treiber": "Falkischer RBA-Hold + Risk-on + weicher Dollar heben den Aussie; Chinas Deflation bremst. Moderat."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -8,
+      "baseScore": -10,
       "tiltCot": 5,
       "tiltZins": -5,
       "tiltGesamt": 0,
-      "score": -8,
+      "score": -10,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar + starker Kanada-Jobbericht drücken das Paar. Gegenwind: Öl-Rückgang + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
+      "treiber": "Weicher Dollar + starker Kanada-Jobbericht + Öl-Comeback (Hormus) drücken das Paar. Gegenwind: extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },
     {
       "paar": "USD/CHF",

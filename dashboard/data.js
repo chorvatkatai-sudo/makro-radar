@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-11T05:02:29.291Z",
+ "erstellt": "2026-08-11T05:04:34.307Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -2722,13 +2722,13 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "bullisch",
-    "score": 7,
-    "grund": "Kanada-Jobs waren ein Volltreffer (+75k, Arbeitslosigkeit 6,4 % = 2-Jahres-Tief) — klar Loonie-positiv. Gegengewicht: Öl ist diese Woche gefallen (WTI ~77 $, −4,4 %) und die Großspekulanten sind stark CAD-short (z −1,83)."
+    "score": 9,
+    "grund": "Kanada-Jobs waren ein Volltreffer (+75k, Arbeitslosigkeit 6,4 % = 2-Jahres-Tief) — Loonie-positiv. Jetzt ZUSÄTZLICH Rückenwind: Öl ist sprunghaft zurück (WTI ~82 $, +~8 % Wo, Hormus-Streit). Gegengewicht: Großspekulanten sind stark CAD-short (z −1,83) = Squeeze-Risiko in beide Richtungen."
    },
    "AUD": {
-    "stimmung": "neutral",
-    "score": 3,
-    "grund": "Gute Börsenstimmung (Risk-on) + weicher Dollar helfen dem Aussie leicht. Aber Dienstag entscheidet die RBA (Halten bei 4,35 % erwartet) und Chinas Deflation (CPI-Rückgang) drückt. Per saldo neutral."
+    "stimmung": "bullisch",
+    "score": 5,
+    "grund": "RBA hält bei 4,35 % mit falkischem Unterton (44 % sehen bis Jahresende noch eine Erhöhung) + Risk-on + weicher Dollar helfen dem Aussie leicht. Gegenwind: Chinas Deflation (fallende Preise) drückt. Per saldo leicht positiv."
    },
    "NZD": {
     "stimmung": "bärisch",
@@ -2754,13 +2754,13 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": 6,
-    "treiber": "Risk-on + weicher Dollar heben den Aussie. RBA-Hold (Di) + Chinas Deflation bremsen. Moderat."
+    "score": 7,
+    "treiber": "Falkischer RBA-Hold + Risk-on + weicher Dollar heben den Aussie; Chinas Deflation bremst. Moderat."
    },
    {
     "paar": "USD/CAD",
-    "score": -8,
-    "treiber": "Weicher Dollar + starker Kanada-Jobbericht drücken das Paar. Gegenwind: Öl-Rückgang + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
+    "score": -10,
+    "treiber": "Weicher Dollar + starker Kanada-Jobbericht + Öl-Comeback (Hormus) drücken das Paar. Gegenwind: extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
    },
    {
     "paar": "USD/CHF",
@@ -2856,19 +2856,20 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG ALS ZÜNDER UND WARNUNG ZUGLEICH: Die Großspekulanten sind quer über alle Währungen netto-short gegen den Dollar (EUR sogar extrem, z −2,04). Das ist Squeeze-Treibstoff, wenn der Dollar fällt (verstärkt die Bewegung) — aber bei Extremen zugleich ein Reversal-Warnsignal. Deshalb tilte ich die Extreme nur gedämpft (Cap ±5 seit dem Tuning)."
   ],
   "tagesnews": {
-   "stand": "2026-08-10",
-   "wochentag": "Montag",
-   "tenor": "Ruhiger Wochenstart im Wartemodus: Alle Augen auf die US-Inflation am Mittwoch. Der Dollar bleibt nach dem Job-Schock angeschlagen (knapp unter 100), eine Fed-Zinssenkung im September ist zu ~90 % eingepreist, Gold notiert nahe Rekord.",
+   "stand": "2026-08-11",
+   "wochentag": "Dienstag",
+   "tenor": "Zwei Treiber vor der US-Inflation morgen: Die RBA hält den Leitzins wie erwartet bei 4,35 % (mit leicht falkischem Unterton), und das Öl ist sprunghaft zurück (Hormus-Streit) — beides überlagert einen weiter angeschlagenen Dollar knapp unter 100. Morgen entscheidet die US-Inflation die Richtung.",
    "heute": [
-    "📅 Ruhiger Wochenauftakt — keine großen Daten am Montag. Die Märkte sammeln sich vor dem Highlight der Woche: der US-Inflation am Mittwoch. Bis dahin dürfte es zäh und abwartend bleiben.",
-    "💵 Aktueller Stand: Dollar-Index ~99,6 (weiter knapp unter der 100er-Marke), Gold nahe Rekord (~4.400 $), Öl WTI ~78 $, VIX tief bei 14,9 (= entspannte, risikofreudige Börsenstimmung). Der weiche Dollar aus der Job-Schock-Woche wirkt nach.",
-    "🔮 Diese Woche: 🇦🇺 Di 11.8. RBA-Zinsentscheid (Halten bei 4,35 % erwartet — einstimmig, der TON zur Inflation zählt mehr als die Zahl selbst). 🇺🇸 Mi 12.8. US-Inflation (CPI Juli, Kern +0,2 % m/m / 2,5 % y/y erw.) = DAS Event — kühl macht die Fed-Senkung im September fix, heiß holt den Dollar zurück. Do US-Erzeugerpreise (PPI) + 🇬🇧 UK-BIP, Fr US-Einzelhandel + Uni-Michigan-Stimmung."
+    "🇦🇺 RBA hält den Leitzins wie erwartet bei 4,35 % — keine Überraschung. Bemerkenswert: Die Notenbank klingt vorsichtig falkisch (Inflation „noch zu hoch\"), und 44 % der Volkswirte sehen bis Jahresende sogar noch EINE Zinserhöhung. Das stützt den Aussie leicht, war aber weitgehend erwartet → kaum Bewegung.",
+    "🛢️ Öl schießt zurück: WTI ~82 $ / Brent ~88 $ (+~8 % auf Wochensicht) — weil Zweifel wachsen, dass sich USA und Iran auf eine Öffnung der Straße von Hormus einigen. Das hilft dem Öl-Loonie (CAD), schürt aber neue Inflationssorgen.",
+    "💵 Aktueller Stand: Dollar-Index ~99,7 (nahe dem Tief seit Mitte Juni bei 99,4), Gold auf Rekordkurs (~4.450 $), VIX tief bei ~15,5 (= entspannte, risikofreudige Börsenstimmung). Heute nur Nebendaten (US-Kleinunternehmens-Index, Verkäufe bestehender Häuser).",
+    "🔮 Morgen 🇺🇸 Mi 12.8. US-Inflation (CPI Juli, Kern +0,2 % m/m / 2,5 % y/y erw.) = DAS Event der Woche — kühl macht die Fed-Senkung im September fix (EUR/USD-Ziel dann ~1,16), heiß holt den Dollar zurück."
    ],
    "gestern": [
-    "🇯🇵 Vom Wochenende: US-Finanzminister Bessent bekräftigte, die USA würden „nicht zögern\", den schwachen Yen notfalls erneut per Intervention zu stützen — das gibt dem Yen (USD/JPY ~162) einen kleinen Boden nach unten.",
-    "🇺🇸 Nachwirkung des Job-Schocks (Fr): US-Jobbericht Juli −23.000 Stellen (erwartet +85k!), erster Rückgang seit Monaten; Mai/Juni zusammen um 103.000 nach unten korrigiert → Fed-Zinssenkung im September ~90 % eingepreist, Dollar unter 100, Gold-Rekord (+9 % Woche), US-2-Jahres-Rendite fiel kräftig.",
-    "🇺🇸 Kurios bleibt: Die US-Industrie war zugleich überraschend STARK (ISM 55,6, bester Wert seit 2022) — Wirtschaft mit zwei Geschwindigkeiten (Fabriken brummen, Arbeitsmarkt bricht).",
-    "🇨🇦 Kanada glänzte mit +75.100 Jobs (Arbeitslosigkeit 6,4 % = 2-Jahres-Tief) — Loonie-Stütze. 🇳🇿 Neuseeland enttäuschte (Arbeitslosigkeit 5,6 %, fast 10-Jahres-Hoch) — belastet den Kiwi."
+    "🛢️ Montag: Öl sprang rund 5 % nach oben, nachdem Präsident Trump sagte, man verhandle mit dem Iran „nur halb\" über die Straße von Hormus — Lieferängste trieben WTI/Brent hoch.",
+    "💵 Der Dollar blieb nach dem Job-Schock der Vorwoche angeschlagen und pendelte knapp unter 100; EUR/USD hält sich fest über 1,15, mit bullischer Tendenz vor der Inflation.",
+    "🇺🇸 Nachwirkung des Job-Schocks (Fr 7.8.): US-Jobbericht Juli −23.000 Stellen (erwartet +85k!), Mai/Juni um 103.000 nach unten korrigiert → Fed-Zinssenkung im September ~90 % eingepreist, Gold-Rekord. Kontrast: US-Industrie zugleich überraschend stark (ISM 55,6) = Wirtschaft mit zwei Geschwindigkeiten.",
+    "🇨🇦 Kanada glänzte mit +75.100 Jobs (Arbeitslosigkeit 6,4 % = 2-Jahres-Tief). 🇳🇿 Neuseeland enttäuschte (Arbeitslosigkeit 5,6 %, fast 10-Jahres-Hoch)."
    ]
   }
  },
@@ -3907,23 +3908,23 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 6,
+   "baseScore": 7,
    "tiltCot": -3,
    "tiltZins": 3,
    "tiltGesamt": 0,
-   "score": 6,
+   "score": 7,
    "cotExtrem": null,
-   "treiber": "Risk-on + weicher Dollar heben den Aussie. RBA-Hold (Di) + Chinas Deflation bremsen. Moderat."
+   "treiber": "Falkischer RBA-Hold + Risk-on + weicher Dollar heben den Aussie; Chinas Deflation bremst. Moderat."
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -8,
+   "baseScore": -10,
    "tiltCot": 5,
    "tiltZins": -5,
    "tiltGesamt": 0,
-   "score": -8,
+   "score": -10,
    "cotExtrem": "erhoeht",
-   "treiber": "Weicher Dollar + starker Kanada-Jobbericht drücken das Paar. Gegenwind: Öl-Rückgang + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
+   "treiber": "Weicher Dollar + starker Kanada-Jobbericht + Öl-Comeback (Hormus) drücken das Paar. Gegenwind: extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
   },
   {
    "paar": "USD/CHF",

@@ -7996,7 +7996,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "-1.5M",
+      "prognose": "-1.7M",
       "vorher": "2.5M",
       "actual": null,
       "notiz": null
@@ -8016,7 +8016,7 @@
       "land": "USD",
       "titel": "Federal Budget Balance",
       "impact": "Low",
-      "prognose": "-361.2B",
+      "prognose": "-348.3B",
       "vorher": "-120.3B",
       "actual": null,
       "notiz": null
@@ -8066,7 +8066,7 @@
       "land": "GBP",
       "titel": "GDP m/m",
       "impact": "High",
-      "prognose": "-0.1%",
+      "prognose": "0.0%",
       "vorher": "0.1%",
       "actual": null,
       "notiz": null

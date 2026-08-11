@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-11T05:04:34.307Z",
+ "erstellt": "2026-08-11T05:04:49.434Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -3338,7 +3338,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-11T05:02:27.586Z",
+  "stand": "2026-08-11T05:04:48.991Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3346,7 +3346,7 @@ window.MAKRO_DATA = {
     "typ": "index",
     "wert": 99.81,
     "tagProzent": 0,
-    "wocheProzent": 0.13,
+    "wocheProzent": 0.12,
     "renditeDelta": false,
     "verlauf": [
      100.94,
@@ -3369,7 +3369,7 @@ window.MAKRO_DATA = {
      99.97,
      99.6,
      99.81,
-     99.82,
+     99.81,
      99.81
     ]
    },
@@ -3476,9 +3476,9 @@ window.MAKRO_DATA = {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4466.4,
+    "wert": 4467.3,
     "tagProzent": 0,
-    "wocheProzent": 5.2,
+    "wocheProzent": 5.22,
     "renditeDelta": false,
     "verlauf": [
      4061.1,
@@ -3501,8 +3501,8 @@ window.MAKRO_DATA = {
      4242,
      4340.7,
      4361.8,
-     4466.4,
-     4466.4
+     4467.3,
+     4467.3
     ]
    },
    "US02Y": {
@@ -3608,9 +3608,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63949.52,
+    "wert": 63974.42,
     "tagProzent": 0,
-    "wocheProzent": -0.49,
+    "wocheProzent": -0.45,
     "renditeDelta": false,
     "verlauf": [
      66505.13,
@@ -3633,8 +3633,8 @@ window.MAKRO_DATA = {
      64880.19,
      64904.69,
      64844.89,
-     63949.52,
-     63949.52
+     63974.42,
+     63974.42
     ]
    },
    "FEDFUT": {
@@ -3671,40 +3671,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.29,
-    "tagProzent": 0.04,
-    "wocheProzent": 0.02,
-    "renditeDelta": true,
-    "verlauf": [
-     2.24,
-     2.26,
-     2.25,
-     2.23,
-     2.22,
-     2.24,
-     2.25,
-     2.26,
-     2.28,
-     2.28,
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29
-    ],
-    "quelle": "FRED"
-   },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
@@ -3736,6 +3702,40 @@ window.MAKRO_DATA = {
      2.41,
      2.43,
      2.4
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.29,
+    "tagProzent": 0.04,
+    "wocheProzent": 0.02,
+    "renditeDelta": true,
+    "verlauf": [
+     2.24,
+     2.26,
+     2.25,
+     2.23,
+     2.22,
+     2.24,
+     2.25,
+     2.26,
+     2.28,
+     2.28,
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29
     ],
     "quelle": "FRED"
    }
@@ -3949,7 +3949,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-11T05:02:29.289Z",
+  "stand": "2026-08-11T05:04:49.432Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

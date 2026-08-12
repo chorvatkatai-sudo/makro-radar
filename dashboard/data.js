@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-12T12:51:07.218Z",
+ "erstellt": "2026-08-12T12:57:52.585Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -3338,15 +3338,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-12T12:51:06.853Z",
+  "stand": "2026-08-12T12:57:52.217Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.66,
+    "wert": 99.71,
     "tagProzent": 0,
-    "wocheProzent": -0.31,
+    "wocheProzent": -0.26,
     "renditeDelta": false,
     "verlauf": [
      100.5,
@@ -3369,17 +3369,17 @@ window.MAKRO_DATA = {
      99.6,
      99.81,
      99.82,
-     99.66,
-     99.66
+     99.71,
+     99.71
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.18,
+    "wert": 15.12,
     "tagProzent": 0,
-    "wocheProzent": 0.2,
+    "wocheProzent": -0.2,
     "renditeDelta": false,
     "verlauf": [
      15.67,
@@ -3402,17 +3402,17 @@ window.MAKRO_DATA = {
      14.9,
      15.46,
      15.28,
-     15.18,
-     15.18
+     15.12,
+     15.12
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 83.56,
+    "wert": 83.34,
     "tagProzent": 0,
-    "wocheProzent": 8.11,
+    "wocheProzent": 7.83,
     "renditeDelta": false,
     "verlauf": [
      79.6,
@@ -3435,17 +3435,17 @@ window.MAKRO_DATA = {
      78.18,
      82.13,
      83.2,
-     83.56,
-     83.56
+     83.34,
+     83.34
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 89.09,
+    "wert": 88.83,
     "tagProzent": 0,
-    "wocheProzent": 8,
+    "wocheProzent": 7.69,
     "renditeDelta": false,
     "verlauf": [
      84.95,
@@ -3468,17 +3468,17 @@ window.MAKRO_DATA = {
      83.55,
      87.72,
      88.91,
-     89.09,
-     89.09
+     88.83,
+     88.83
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4487.4,
+    "wert": 4480.2,
     "tagProzent": 0,
-    "wocheProzent": 5.79,
+    "wocheProzent": 5.62,
     "renditeDelta": false,
     "verlauf": [
      4044,
@@ -3501,8 +3501,8 @@ window.MAKRO_DATA = {
      4340.7,
      4361.8,
      4383,
-     4487.4,
-     4487.4
+     4480.2,
+     4480.2
     ]
    },
    "US02Y": {
@@ -3542,7 +3542,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.66,
+    "wert": 4.656,
     "tagProzent": 0,
     "wocheProzent": -0.01,
     "renditeDelta": true,
@@ -3567,17 +3567,17 @@ window.MAKRO_DATA = {
      4.66,
      4.699,
      4.684,
-     4.66,
-     4.66
+     4.656,
+     4.656
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.216,
+    "wert": 5.218,
     "tagProzent": 0,
-    "wocheProzent": 0,
+    "wocheProzent": 0.01,
     "renditeDelta": true,
     "verlauf": [
      5.083,
@@ -3600,17 +3600,17 @@ window.MAKRO_DATA = {
      5.211,
      5.243,
      5.236,
-     5.216,
-     5.216
+     5.218,
+     5.218
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63966.7,
+    "wert": 64060.86,
     "tagProzent": 0,
-    "wocheProzent": -1.45,
+    "wocheProzent": -1.3,
     "renditeDelta": false,
     "verlauf": [
      65044.81,
@@ -3633,8 +3633,8 @@ window.MAKRO_DATA = {
      64844.89,
      63910.59,
      63551.88,
-     63966.7,
-     63966.7
+     64060.86,
+     64060.86
     ]
    },
    "FEDFUT": {
@@ -3740,7 +3740,7 @@ window.MAKRO_DATA = {
     "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.7,
+  "kurve2s10s": 0.69,
   "cot": {
    "stand": "2026-08-04",
    "waehrungen": {
@@ -3834,28 +3834,28 @@ window.MAKRO_DATA = {
    "stand": "2026-08-12",
    "werte": {
     "USD": {
-     "wert": 4.182,
-     "wocheDelta": -0.08
+     "wert": 4.18,
+     "wocheDelta": -0.082
     },
     "EUR": {
-     "wert": 2.757,
-     "wocheDelta": -0.059
+     "wert": 2.758,
+     "wocheDelta": -0.058
     },
     "GBP": {
      "wert": 4.293,
      "wocheDelta": -0.12
     },
     "JPY": {
-     "wert": 1.632,
-     "wocheDelta": 0.128
+     "wert": 1.637,
+     "wocheDelta": 0.133
     },
     "AUD": {
      "wert": 4.547,
      "wocheDelta": 0.023
     },
     "CAD": {
-     "wert": 2.991,
-     "wocheDelta": 0.07
+     "wert": 2.988,
+     "wocheDelta": 0.067
     },
     "CHF": {
      "wert": 0.105,
@@ -3949,7 +3949,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-12T12:51:07.215Z",
+  "stand": "2026-08-12T12:57:52.583Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

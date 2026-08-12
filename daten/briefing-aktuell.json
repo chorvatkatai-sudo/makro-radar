@@ -13,81 +13,81 @@
   ],
   "waehrungen": {
     "USD": {
-      "stimmung": "bärisch",
-      "score": -14,
-      "grund": "Zweiter Job-Schock (−23k + 103k Abwärts-Revisionen) → Fed-Zinssenkung im Sept jetzt ~90 % eingepreist, Dollar-Index unter 100, US-2J-Rendite fällt (−0,105 Wo). Gedämpft nur durch das starke ISM-Industrie (55,6) + den hohen Realzins — und durch meinen mageren Track-Record."
+      "stimmung": "neutral",
+      "score": -3,
+      "grund": "Zwei-Fronten-Patt: Der schwache Arbeitsmarkt (Job-Schock −23k) spricht für eine Fed-Senkung, die HEISSE Kern-Inflation (3,1 % y/y, höchster seit Feb) spricht dagegen. Sept-Senkungswette fiel von ~90 % auf ~46 %. Dollar fand einen Boden, sprang aber nicht (Warsh taubenhaft). Per saldo fast neutral, leicht weich."
     },
     "EUR": {
-      "stimmung": "bullisch",
-      "score": 9,
-      "grund": "Der weiche Dollar hebt den Euro (EUR/USD nahe 1,15). ABER: Die Großspekulanten sind extrem EUR-short positioniert (z −2,04) — das ist Squeeze-Treibstoff nach oben, aber zugleich ein Warnsignal für eine mögliche Gegenbewegung."
+      "stimmung": "neutral",
+      "score": 4,
+      "grund": "Der weiche Dollar stützt den Euro noch, aber EUR/USD kommt über 1,156–1,16 nicht hinaus, seit die heiße US-Kern-Inflation dem Dollar Boden gibt. Extreme EUR-COT-Shorts (z −1,81) = Squeeze-Treibstoff, aber auch Reversal-Warnung. Bewusst nur leicht positiv."
     },
     "GBP": {
-      "stimmung": "bullisch",
-      "score": 5,
-      "grund": "Weicher Dollar stützt das Pfund. Nächste Woche kommt das UK-BIP (Do) — schwach würde bremsen. COT-Shorts (z −1,33) bergen etwas Squeeze-Risiko nach oben."
+      "stimmung": "neutral",
+      "score": 2,
+      "grund": "Weicher Dollar stützt das Pfund leicht, aber morgen (Do) kommt das UK-BIP — schwach würde bremsen. Nach der heißen US-Inflation ist der Dollar-Rückenwind kleiner. COT-Shorts (z −1,18) bergen etwas Squeeze-Risiko nach oben."
     },
     "JPY": {
-      "stimmung": "bullisch",
-      "score": 7,
-      "grund": "Eine US-Zinssenkung verkleinert den Zinsvorsprung des Dollars gegenüber dem Yen — das hilft dem Yen. Japans 2J-Rendite stieg diese Woche am stärksten (+0,117). ABER: Der Yen bleibt fundamental schwach (~162, Interventionszone), Carry-Trades drücken, und mein Yen-Track-Record ist schwach (2/6) → bewusst moderat."
+      "stimmung": "neutral",
+      "score": 4,
+      "grund": "Der Yen ist fester (USD/JPY ~159, von ~162) — Nachwirkung der mutmaßlichen Intervention + weicher Dollar + eine mögliche Fed-Senkung verkleinert den Zinsvorsprung. ABER: heiße US-Inflation stützt den Dollar zurück, Carry drückt, und mein Yen-Track-Record ist schwach (2/8) → bewusst moderat."
     },
     "CHF": {
       "stimmung": "neutral",
-      "score": 2,
-      "grund": "Der weiche Dollar hilft dem Franken etwas. Aber die gute Stimmung an den Börsen (VIX tief bei 15) nimmt dem Franken den 'sicheren-Hafen'-Bonus. Unterm Strich neutral."
+      "score": 0,
+      "grund": "Der weiche Dollar hilft dem Franken kaum noch, seit die heiße US-Inflation dem Dollar Boden gibt. Die gute Börsenstimmung (VIX tief ~15) nimmt dem Franken den 'sicheren-Hafen'-Bonus. Neutral."
     },
     "CAD": {
       "stimmung": "bullisch",
-      "score": 9,
-      "grund": "Kanada-Jobs waren ein Volltreffer (+75k, Arbeitslosigkeit 6,4 % = 2-Jahres-Tief) — Loonie-positiv. Jetzt ZUSÄTZLICH Rückenwind: Öl ist sprunghaft zurück (WTI ~82 $, +~8 % Wo, Hormus-Streit). Gegengewicht: Großspekulanten sind stark CAD-short (z −1,83) = Squeeze-Risiko in beide Richtungen."
+      "score": 6,
+      "grund": "Öl bleibt sprunghaft hoch (WTI ~83 $, +11 % Wo, Hormus) + starker Kanada-Jobbericht (+75k) stützen den Loonie. Gegengewicht: festerer Dollar nach heißer US-Inflation + extreme CAD-COT-Shorts (z −1,85) = Squeeze-Risiko in beide Richtungen. Leicht positiv."
     },
     "AUD": {
-      "stimmung": "bullisch",
-      "score": 5,
-      "grund": "RBA hält bei 4,35 % mit falkischem Unterton (44 % sehen bis Jahresende noch eine Erhöhung) + Risk-on + weicher Dollar helfen dem Aussie leicht. Gegenwind: Chinas Deflation (fallende Preise) drückt. Per saldo leicht positiv."
+      "stimmung": "neutral",
+      "score": 3,
+      "grund": "Falkischer RBA-Hold (4,35 %) + Risk-on stützen den Aussie leicht. Gegenwind: festerer Dollar nach heißer US-Inflation + Chinas Deflation. Per saldo nur leicht positiv."
     },
     "NZD": {
       "stimmung": "bärisch",
       "score": -3,
-      "grund": "Neuseelands Arbeitslosigkeit stieg auf 5,6 % (höchster Stand seit fast 10 Jahren) — das schürt Zinssenkungs-Erwartungen und belastet den Kiwi. Der weiche Dollar federt den Rückgang etwas ab; COT-Shorts (z −1,58) bergen Squeeze-Risiko."
+      "grund": "Neuseelands Arbeitslosigkeit stieg auf 5,6 % (fast 10-Jahres-Hoch) — das schürt Zinssenkungs-Erwartungen und belastet den Kiwi. Der festere Dollar nach der US-Inflation verstärkt den Druck; COT-Shorts (z −1,25) bergen Squeeze-Risiko."
     }
   },
   "paare": [
     {
       "paar": "EUR/USD",
-      "score": 9,
-      "treiber": "Weicher Dollar (Job-Schock + Sept-Senkung ~90 %) + EUR/USD nahe 1,15. Extreme EUR-COT-Shorts = Squeeze-Treibstoff, aber auch Reversal-Warnung. Track nur ~17 % → bewusst moderat."
+      "score": 4,
+      "treiber": "Weicher Dollar stützt noch, aber die heiße US-Kern-Inflation (3,1 %) gibt dem Dollar Boden — EUR/USD hängt bei 1,154 unter der Hürde 1,16. Extreme EUR-COT-Shorts = Squeeze-Treibstoff. Track nur ~13 % → bewusst moderat."
     },
     {
       "paar": "GBP/USD",
-      "score": 6,
-      "treiber": "Weicher Dollar hebt das Pfund über 1,27; UK-BIP (Do) ist der Test. COT-Short-Squeeze-Risiko nach oben. Moderat."
+      "score": 2,
+      "treiber": "Kleiner Dollar-Rückenwind bleibt, aber UK-BIP (Do) ist der Test und die heiße US-Inflation schrumpft den Rückenwind. COT-Short-Squeeze-Risiko nach oben. Moderat."
     },
     {
       "paar": "USD/JPY",
-      "score": -9,
-      "treiber": "US-Zinssenkung verengt die Zinsdifferenz → Yen-Rückenwind, weicher Dollar drückt das Paar. Yen bleibt aber fundamental schwach (Interventionszone) — deckelt den Rückgang."
+      "score": -4,
+      "treiber": "Yen fester (~159) durch Interventions-Nachwirkung + weichen Dollar + kleineren Zinsvorsprung bei möglicher Fed-Senkung. Heiße US-Inflation deckelt den Rückgang aber. Track 25 % → nahe null gehalten."
     },
     {
       "paar": "AUD/USD",
-      "score": 7,
-      "treiber": "Falkischer RBA-Hold + Risk-on + weicher Dollar heben den Aussie; Chinas Deflation bremst. Moderat."
+      "score": 3,
+      "treiber": "Falkischer RBA-Hold + Risk-on heben den Aussie leicht; festerer Dollar nach US-Inflation + Chinas Deflation bremsen. Moderat."
     },
     {
       "paar": "USD/CAD",
-      "score": -10,
-      "treiber": "Weicher Dollar + starker Kanada-Jobbericht + Öl-Comeback (Hormus) drücken das Paar. Gegenwind: extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
+      "score": -5,
+      "treiber": "Öl-Comeback (Hormus) + starker Kanada-Jobbericht drücken das Paar. Gegenwind: festerer Dollar nach heißer US-Inflation + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },
     {
       "paar": "USD/CHF",
-      "score": -7,
-      "treiber": "Weicher Dollar überwiegt. Risk-on nimmt dem Franken etwas Hafen-Bid, sonst wäre das Paar noch schwächer. Moderat."
+      "score": -3,
+      "treiber": "Weicher Dollar überwiegt knapp, aber die heiße US-Inflation gibt dem Dollar Boden. Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
     },
     {
       "paar": "NZD/USD",
-      "score": 2,
-      "treiber": "Weicher Dollar zieht den Kiwi leicht hoch, obwohl die NZ-Arbeitslosigkeit (5,6 %, Jahrzehnt-Hoch) belastet. Zwei Gegenkräfte ≈ nahe null."
+      "score": -2,
+      "treiber": "Festerer Dollar nach US-Inflation + schwacher NZ-Arbeitsmarkt (5,6 %) drücken den Kiwi leicht; COT-Shorts federn (Squeeze). Nahe null."
     }
   ],
   "wochenausblick": {
@@ -173,19 +173,19 @@
     "POSITIONIERUNG ALS ZÜNDER UND WARNUNG ZUGLEICH: Die Großspekulanten sind quer über alle Währungen netto-short gegen den Dollar (EUR sogar extrem, z −2,04). Das ist Squeeze-Treibstoff, wenn der Dollar fällt (verstärkt die Bewegung) — aber bei Extremen zugleich ein Reversal-Warnsignal. Deshalb tilte ich die Extreme nur gedämpft (Cap ±5 seit dem Tuning)."
   ],
   "tagesnews": {
-    "stand": "2026-08-11",
-    "wochentag": "Dienstag",
-    "tenor": "Zwei Treiber vor der US-Inflation morgen: Die RBA hält den Leitzins wie erwartet bei 4,35 % (mit leicht falkischem Unterton), und das Öl ist sprunghaft zurück (Hormus-Streit) — beides überlagert einen weiter angeschlagenen Dollar knapp unter 100. Morgen entscheidet die US-Inflation die Richtung.",
+    "stand": "2026-08-12",
+    "wochentag": "Mittwoch",
+    "tenor": "Die US-Inflation kam heute im WICHTIGSTEN Teil (Kern) deutlich HEISSER als erwartet — das durchkreuzt die fast schon sichere Fed-Zinssenkung im September und gibt dem angeschlagenen Dollar den ersten festen Boden seit dem Job-Schock. Fed-Chef Warsh klang zugleich weiter vorsichtig-taubenhaft, deshalb kein Dollar-Sprung, sondern ein Patt: schwacher Arbeitsmarkt (senkungsfreundlich) gegen heiße Kern-Inflation (senkungs-feindlich).",
     "heute": [
-      "🇦🇺 RBA hält den Leitzins wie erwartet bei 4,35 % — keine Überraschung. Bemerkenswert: Die Notenbank klingt vorsichtig falkisch (Inflation „noch zu hoch\"), und 44 % der Volkswirte sehen bis Jahresende sogar noch EINE Zinserhöhung. Das stützt den Aussie leicht, war aber weitgehend erwartet → kaum Bewegung.",
-      "🛢️ Öl schießt zurück: WTI ~82 $ / Brent ~88 $ (+~8 % auf Wochensicht) — weil Zweifel wachsen, dass sich USA und Iran auf eine Öffnung der Straße von Hormus einigen. Das hilft dem Öl-Loonie (CAD), schürt aber neue Inflationssorgen.",
-      "💵 Aktueller Stand: Dollar-Index ~99,7 (nahe dem Tief seit Mitte Juni bei 99,4), Gold auf Rekordkurs (~4.450 $), VIX tief bei ~15,5 (= entspannte, risikofreudige Börsenstimmung). Heute nur Nebendaten (US-Kleinunternehmens-Index, Verkäufe bestehender Häuser).",
-      "🔮 Morgen 🇺🇸 Mi 12.8. US-Inflation (CPI Juli, Kern +0,2 % m/m / 2,5 % y/y erw.) = DAS Event der Woche — kühl macht die Fed-Senkung im September fix (EUR/USD-Ziel dann ~1,16), heiß holt den Dollar zurück."
+      "🇺🇸 US-Inflation Juli (das Event der Woche): Die KERN-Rate (ohne Sprit & Lebensmittel, der Wert, auf den die Fed am meisten schaut) sprang +0,32 % im Monat / 3,1 % im Jahr — der höchste Jahreswert seit Februar und klar ÜBER der Erwartung (0,2 % / 2,5 %). Grund: Zölle drücken auf die Güterpreise, dazu teurere Flugtickets und Arztkosten. Die Gesamt-Rate blieb mit +0,2 % im Monat / 2,7 % im Jahr zahmer.",
+      "💵 Folge: Die Wette auf eine Fed-Zinssenkung im September fiel von ~90 % (nach dem Job-Schock) auf nur noch ~46 % — jetzt ein Münzwurf. Der Dollar fand einen Boden (Dollar-Index knapp unter 100), sprang aber NICHT, weil Warsh vor dem Kongress betonte: „Wir sind nah dran, aber noch nicht am Ziel bei der Inflation\" — er will grundsätzlich weiter senken.",
+      "🇯🇵 Yen fester: USD/JPY rutschte Richtung 159 (von zuletzt ~162) — die Nachwirkung der mutmaßlichen Intervention und der weiche Dollar helfen dem Yen. EUR/USD hängt fest um 1,154 und kommt über die Hürde bei 1,156–1,16 nicht hinaus.",
+      "🛢️ Öl bleibt hoch (WTI ~83 $ / Brent ~89 $, +~11 % auf Wochensicht) wegen des Hormus-Streits — stützt den Öl-Loonie (CAD), schürt aber neue Inflationssorgen. Gold hält sich nahe Rekord (~4.430 $)."
     ],
     "gestern": [
-      "🛢️ Montag: Öl sprang rund 5 % nach oben, nachdem Präsident Trump sagte, man verhandle mit dem Iran „nur halb\" über die Straße von Hormus — Lieferängste trieben WTI/Brent hoch.",
-      "💵 Der Dollar blieb nach dem Job-Schock der Vorwoche angeschlagen und pendelte knapp unter 100; EUR/USD hält sich fest über 1,15, mit bullischer Tendenz vor der Inflation.",
-      "🇺🇸 Nachwirkung des Job-Schocks (Fr 7.8.): US-Jobbericht Juli −23.000 Stellen (erwartet +85k!), Mai/Juni um 103.000 nach unten korrigiert → Fed-Zinssenkung im September ~90 % eingepreist, Gold-Rekord. Kontrast: US-Industrie zugleich überraschend stark (ISM 55,6) = Wirtschaft mit zwei Geschwindigkeiten.",
+      "🇦🇺 Dienstag: Die RBA hielt den Leitzins wie erwartet bei 4,35 % mit vorsichtig-falkischem Unterton (44 % der Volkswirte sehen bis Jahresende noch EINE Erhöhung) — kaum Bewegung, weil erwartet.",
+      "🛢️ Öl schoss zu Wochenbeginn ~5 % hoch, nachdem Trump sagte, man verhandle mit dem Iran „nur halb\" über die Straße von Hormus — neue Lieferängste.",
+      "🇺🇸 Nachwirkung des Job-Schocks (Fr 7.8.): US-Jobbericht Juli −23.000 Stellen (erwartet +85k!) + 103.000 Abwärts-Korrektur → hatte die September-Senkung zunächst fast fix gemacht. Die heiße Kern-Inflation heute nimmt genau diese Sicherheit wieder heraus. Kontrast bleibt: US-Industrie überraschend stark (ISM 55,6) = Wirtschaft mit zwei Geschwindigkeiten.",
       "🇨🇦 Kanada glänzte mit +75.100 Jobs (Arbeitslosigkeit 6,4 % = 2-Jahres-Tief). 🇳🇿 Neuseeland enttäuschte (Arbeitslosigkeit 5,6 %, fast 10-Jahres-Hoch)."
     ]
   }

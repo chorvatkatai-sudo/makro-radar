@@ -7988,8 +7988,8 @@
       "impact": "High",
       "prognose": "3.4%",
       "vorher": "3.5%",
-      "actual": null,
-      "notiz": null
+      "actual": "3.4%",
+      "notiz": "auto:TV cpiYoY (2026-08-12)"
     },
     "2026-08-12T10:30:00-04:00|USD|Crude Oil Inventories": {
       "datum": "2026-08-12T10:30:00-04:00",

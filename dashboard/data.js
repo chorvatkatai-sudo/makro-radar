@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-12T12:57:52.585Z",
+ "erstellt": "2026-08-12T14:16:08.327Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -234,7 +234,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.2%",
    "previous": "0.0%",
-   "actual": null
+   "actual": "0.2%"
   },
   {
    "title": "Core CPI y/y",
@@ -243,7 +243,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "2.5%",
    "previous": "2.6%",
-   "actual": null
+   "actual": "2.5%"
   },
   {
    "title": "CPI m/m",
@@ -252,7 +252,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.1%",
    "previous": "-0.4%",
-   "actual": null
+   "actual": "0.1%"
   },
   {
    "title": "CPI y/y",
@@ -3338,7 +3338,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-12T12:57:52.217Z",
+  "stand": "2026-08-12T14:16:05.794Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3377,24 +3377,23 @@ window.MAKRO_DATA = {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.12,
+    "wert": 14.79,
     "tagProzent": 0,
-    "wocheProzent": -0.2,
+    "wocheProzent": -2.38,
     "renditeDelta": false,
     "verlauf": [
+     17.16,
+     16.5,
      15.67,
      16.73,
      18.77,
      18.65,
-     17.05,
-     16.64,
      18.7,
      18.58,
      18.67,
      18.21,
      20.66,
      17.09,
-     15.99,
      15.86,
      16.5,
      15.81,
@@ -3402,17 +3401,17 @@ window.MAKRO_DATA = {
      14.9,
      15.46,
      15.28,
-     15.12,
-     15.12
+     14.79,
+     14.79
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 83.34,
+    "wert": 82.63,
     "tagProzent": 0,
-    "wocheProzent": 7.83,
+    "wocheProzent": 6.91,
     "renditeDelta": false,
     "verlauf": [
      79.6,
@@ -3435,17 +3434,17 @@ window.MAKRO_DATA = {
      78.18,
      82.13,
      83.2,
-     83.34,
-     83.34
+     82.63,
+     82.63
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 88.83,
+    "wert": 88.45,
     "tagProzent": 0,
-    "wocheProzent": 7.69,
+    "wocheProzent": 7.23,
     "renditeDelta": false,
     "verlauf": [
      84.95,
@@ -3468,17 +3467,17 @@ window.MAKRO_DATA = {
      83.55,
      87.72,
      88.91,
-     88.83,
-     88.83
+     88.45,
+     88.45
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4480.2,
+    "wert": 4486.6,
     "tagProzent": 0,
-    "wocheProzent": 5.62,
+    "wocheProzent": 5.77,
     "renditeDelta": false,
     "verlauf": [
      4044,
@@ -3501,8 +3500,8 @@ window.MAKRO_DATA = {
      4340.7,
      4361.8,
      4383,
-     4480.2,
-     4480.2
+     4486.6,
+     4486.6
     ]
    },
    "US02Y": {
@@ -3542,7 +3541,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.656,
+    "wert": 4.66,
     "tagProzent": 0,
     "wocheProzent": -0.01,
     "renditeDelta": true,
@@ -3567,15 +3566,15 @@ window.MAKRO_DATA = {
      4.66,
      4.699,
      4.684,
-     4.656,
-     4.656
+     4.66,
+     4.66
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.218,
+    "wert": 5.225,
     "tagProzent": 0,
     "wocheProzent": 0.01,
     "renditeDelta": true,
@@ -3600,17 +3599,17 @@ window.MAKRO_DATA = {
      5.211,
      5.243,
      5.236,
-     5.218,
-     5.218
+     5.225,
+     5.225
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64060.86,
+    "wert": 63766.28,
     "tagProzent": 0,
-    "wocheProzent": -1.3,
+    "wocheProzent": -1.75,
     "renditeDelta": false,
     "verlauf": [
      65044.81,
@@ -3633,17 +3632,17 @@ window.MAKRO_DATA = {
      64844.89,
      63910.59,
      63551.88,
-     64060.86,
-     64060.86
+     63766.28,
+     63766.28
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.74,
-    "tagProzent": 0,
-    "wocheProzent": 0.1,
+    "wert": 3.73,
+    "tagProzent": -0.01,
+    "wocheProzent": 0.09,
     "renditeDelta": true,
     "verlauf": [
      3.63,
@@ -3667,7 +3666,7 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.74,
-     3.74
+     3.73
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
@@ -3740,7 +3739,7 @@ window.MAKRO_DATA = {
     "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.69,
+  "kurve2s10s": 0.7,
   "cot": {
    "stand": "2026-08-04",
    "waehrungen": {
@@ -3834,28 +3833,28 @@ window.MAKRO_DATA = {
    "stand": "2026-08-12",
    "werte": {
     "USD": {
-     "wert": 4.18,
-     "wocheDelta": -0.082
+     "wert": 4.189,
+     "wocheDelta": -0.073
     },
     "EUR": {
-     "wert": 2.758,
-     "wocheDelta": -0.058
+     "wert": 2.763,
+     "wocheDelta": -0.053
     },
     "GBP": {
-     "wert": 4.293,
-     "wocheDelta": -0.12
+     "wert": 4.304,
+     "wocheDelta": -0.109
     },
     "JPY": {
      "wert": 1.637,
      "wocheDelta": 0.133
     },
     "AUD": {
-     "wert": 4.547,
-     "wocheDelta": 0.023
+     "wert": 4.558,
+     "wocheDelta": 0.034
     },
     "CAD": {
-     "wert": 2.988,
-     "wocheDelta": 0.067
+     "wert": 2.991,
+     "wocheDelta": 0.07
     },
     "CHF": {
      "wert": 0.105,
@@ -3890,9 +3889,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 2,
    "tiltCot": -5,
-   "tiltZins": -2,
-   "tiltGesamt": -7,
-   "score": -5,
+   "tiltZins": -1,
+   "tiltGesamt": -6,
+   "score": -4,
    "cotExtrem": null,
    "treiber": "Kleiner Dollar-Rückenwind bleibt, aber UK-BIP (Do) ist der Test und die heiße US-Inflation schrumpft den Rückenwind. COT-Short-Squeeze-Risiko nach oben. Moderat."
   },
@@ -3940,22 +3939,52 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -2,
    "tiltCot": -5,
-   "tiltZins": 2,
-   "tiltGesamt": -3,
-   "score": -5,
+   "tiltZins": 1,
+   "tiltGesamt": -4,
+   "score": -6,
    "cotExtrem": null,
    "treiber": "Festerer Dollar nach US-Inflation + schwacher NZ-Arbeitsmarkt (5,6 %) drücken den Kiwi leicht; COT-Shorts federn (Squeeze). Nahe null."
   }
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-12T12:57:52.583Z",
+  "stand": "2026-08-12T14:16:08.325Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound: Improving sentiment supports gains against US Dollar – Scotiabank",
+    "link": "https://www.fxstreet.com/news/british-pound-improving-sentiment-supports-gains-against-us-dollar-scotiabank-202608121407",
+    "datum": "2026-08-12T14:07:22.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Canadian Dollar steadies as US inflation meets expectations, Oil limits downside",
+    "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-us-inflation-meets-expectations-oil-limits-downside-202608121400",
+    "datum": "2026-08-12T14:00:07.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Pound Sterling retains gains as US CPI trims September Fed hike odds",
+    "link": "https://www.fxstreet.com/news/pound-sterling-retains-gains-as-us-cpi-trims-september-fed-hike-odds-202608121341",
+    "datum": "2026-08-12T13:41:04.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Brazil: Lula victory could deepen fiscal risks - Societe Generale",
+    "link": "https://www.fxstreet.com/news/brazil-lula-victory-could-deepen-fiscal-risks-societe-generale-202608121335",
+    "datum": "2026-08-12T13:35:58.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "United Kingdom: Resilience tested as data mixed – Rabobank",
+    "link": "https://www.fxstreet.com/news/united-kingdom-resilience-tested-as-data-mixed-rabobank-202608121312",
+    "datum": "2026-08-12T13:12:40.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Oil: Chinese demand recovery could lift prices – NBC",
@@ -3999,46 +4028,10 @@ window.MAKRO_DATA = {
     "datum": "2026-08-12T12:14:24.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Intervention doubts as flows favor US Dollar – BNY",
-    "link": "https://www.fxstreet.com/news/japanese-yen-intervention-doubts-as-flows-favor-us-dollar-bny-202608121204",
-    "datum": "2026-08-12T12:04:53.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "investingLive European markets wrap: Gold stays poised, dollar tentative awaiting US CPI report",
     "link": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-stays-poised-dollar-tentative-awaiting-us-cpi-report/",
     "datum": "2026-08-12T11:58:02.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar slides as Middle East tensions give US Dollar the upper hand",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-as-middle-east-tensions-give-us-dollar-the-upper-hand-202608121156",
-    "datum": "2026-08-12T11:56:44.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United States Dollar Index trades calmly ahead of US Inflation data",
-    "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-calmly-ahead-of-us-inflation-data-202608121149",
-    "datum": "2026-08-12T11:49:38.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Why is the Japanese Yen stuck near 159.25 after the first joint US-Japan intervention since 2011?",
-    "link": "https://www.fxstreet.com/news/why-is-the-japanese-yen-stuck-near-15925-after-the-first-joint-us-japan-intervention-since-2011-202608121148",
-    "datum": "2026-08-12T11:48:57.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/USD Price Forecast: Biding its time near 1.1550, awaiting US CPI numbers",
-    "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-biding-its-time-near-11550-awaiting-us-cpi-numbers-202608121147",
-    "datum": "2026-08-12T11:47:57.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "GBP/JPY Price Forecast: Recovery stalls below the 50-day SMA",
-    "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-recovery-stalls-below-the-50-day-sma-202608121146",
-    "datum": "2026-08-12T11:46:08.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -4051,6 +4044,12 @@ window.MAKRO_DATA = {
     "titel": "India’s CPI rises further to 4.45% in July as food prices accelerate",
     "link": "https://investinglive.com/news/india-s-cpi-rises-further-to-4-45-in-july-as-food-prices-accelerate/",
     "datum": "2026-08-12T10:54:36.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold holds gains above $4,400 after US CPI meets expectations",
+    "link": "https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051",
+    "datum": "2026-08-12T10:51:12.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -4070,8 +4069,8 @@ window.MAKRO_DATA = {
   "USD": {
    "ueber": 4,
    "unter": 15,
-   "gleich": 7,
-   "gesamt": 26,
+   "gleich": 10,
+   "gesamt": 29,
    "score": -11
   },
   "CAD": {
@@ -4515,6 +4514,36 @@ window.MAKRO_DATA = {
   ]
  },
  "historie": [
+  {
+   "datum": "2026-08-12T08:30:00-04:00",
+   "land": "USD",
+   "titel": "Core CPI m/m",
+   "impact": "High",
+   "prognose": "0.2%",
+   "vorher": "0.0%",
+   "actual": "0.2%",
+   "notiz": "auto:FRED CPILFESL (Ref 2026-07-01)"
+  },
+  {
+   "datum": "2026-08-12T08:30:00-04:00",
+   "land": "USD",
+   "titel": "Core CPI y/y",
+   "impact": "High",
+   "prognose": "2.5%",
+   "vorher": "2.6%",
+   "actual": "2.5%",
+   "notiz": "auto:FRED CPILFENS (Ref 2026-07-01)"
+  },
+  {
+   "datum": "2026-08-12T08:30:00-04:00",
+   "land": "USD",
+   "titel": "CPI m/m",
+   "impact": "High",
+   "prognose": "0.1%",
+   "vorher": "-0.4%",
+   "actual": "0.1%",
+   "notiz": "auto:FRED CPIAUCSL (Ref 2026-07-01)"
+  },
   {
    "datum": "2026-08-12T08:30:00-04:00",
    "land": "USD",
@@ -5083,36 +5112,6 @@ window.MAKRO_DATA = {
    "prognose": "-0.1%",
    "vorher": "0.3%",
    "actual": "-0.1%",
-   "notiz": null
-  },
-  {
-   "datum": "2026-06-11T08:30:00-04:00",
-   "land": "USD",
-   "titel": "Core PPI m/m",
-   "impact": "High",
-   "prognose": "0.5%",
-   "vorher": "1.0%",
-   "actual": "0.8%",
-   "notiz": null
-  },
-  {
-   "datum": "2026-06-11T08:30:00-04:00",
-   "land": "USD",
-   "titel": "PPI m/m",
-   "impact": "High",
-   "prognose": "0.7%",
-   "vorher": "1.4%",
-   "actual": "1.1%",
-   "notiz": null
-  },
-  {
-   "datum": "2026-06-11T08:15:00-04:00",
-   "land": "EUR",
-   "titel": "Main Refinancing Rate",
-   "impact": "High",
-   "prognose": "2.40%",
-   "vorher": "2.15%",
-   "actual": "2.40%",
    "notiz": null
   }
  ],

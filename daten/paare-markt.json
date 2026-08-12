@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12T12:57:52.584Z",
+  "stand": "2026-08-12T14:16:08.326Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 2,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -5,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Kleiner Dollar-Rückenwind bleibt, aber UK-BIP (Do) ist der Test und die heiße US-Inflation schrumpft den Rückenwind. COT-Short-Squeeze-Risiko nach oben. Moderat."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": 2,
-      "tiltGesamt": -3,
-      "score": -5,
+      "tiltZins": 1,
+      "tiltGesamt": -4,
+      "score": -6,
       "cotExtrem": null,
       "treiber": "Festerer Dollar nach US-Inflation + schwacher NZ-Arbeitsmarkt (5,6 %) drücken den Kiwi leicht; COT-Shorts federn (Squeeze). Nahe null."
     }

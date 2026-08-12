@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12T05:07:06.971Z",
+  "stand": "2026-08-12T09:03:52.920Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,21 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Bulls retain control near 38.2% Fibo.; move beyond $83.00 awaited",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-retain-control-near-382-fibo-move-beyond-8300-awaited-202608120456",
-      "datum": "2026-08-12T04:56:54.000Z"
+      "titel": "British Pound holds steady above 1.3500 vs USD as traders eye US CPI ahead of UK GDP",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-above-13500-vs-usd-as-traders-eye-us-cpi-ahead-of-uk-gdp-202608120903",
+      "datum": "2026-08-12T09:03:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608120435",
-      "datum": "2026-08-12T04:35:12.000Z"
+      "titel": "British Pound: Budget uncertainty leaves Sterling vulnerable against Euro - Rabobank",
+      "link": "https://www.fxstreet.com/news/british-pound-budget-uncertainty-leaves-sterling-vulnerable-against-euro-rabobank-202608120856",
+      "datum": "2026-08-12T08:56:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United States Dollar Index rises to near 100.00 ahead of US inflation data",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-10000-ahead-of-us-inflation-data-202608120403",
-      "datum": "2026-08-12T04:03:32.000Z"
+      "titel": "Japanese Yen: Remains vulnerable against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-against-us-dollar-uob-202608120848",
+      "datum": "2026-08-12T08:48:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc weakens against US Dollar with US Inflation in focus",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-against-us-dollar-with-us-inflation-in-focus-202608120845",
+      "datum": "2026-08-12T08:45:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecasts: XAG/USD resumes its uptrend, with bulls aiming for $67.17",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-resumes-its-uptrend-with-bulls-aiming-for-6717-202608120839",
+      "datum": "2026-08-12T08:39:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso: Bullish trend resumes against US Dollar - Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-bullish-trend-resumes-against-us-dollar-societe-generale-202608120839",
+      "datum": "2026-08-12T08:39:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index Price Forecast: Bulls await US CPI and breakout above 100.00",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-price-forecast-bulls-await-us-cpi-and-breakout-above-10000-202608120835",
+      "datum": "2026-08-12T08:35:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones futures remain steady as traders await US CPI data",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-remain-steady-as-traders-await-us-cpi-data-202608120833",
+      "datum": "2026-08-12T08:33:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US CPI data set to show softer inflation in July as markets reassess Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830",
+      "datum": "2026-08-12T08:30:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Brazilian Real: Politics weighs but carry supports – ING",
+      "link": "https://www.fxstreet.com/news/brazilian-real-politics-weighs-but-carry-supports-ing-202608120827",
+      "datum": "2026-08-12T08:27:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: CPI and RBI repo rate risk skew higher – MUFG",
+      "link": "https://www.fxstreet.com/news/indian-rupee-cpi-and-rbi-repo-rate-risk-skew-higher-mufg-202608120818",
+      "datum": "2026-08-12T08:18:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Italy inflation eases just a touch in July, core price keep steady though",
+      "link": "https://investinglive.com/news/italy-july-final-cpi-2-9-vs-2-8-y-y-prelim/",
+      "datum": "2026-08-12T08:01:34.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What is the distribution of forecasts for the US CPI?",
+      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-0/",
+      "datum": "2026-08-12T07:45:58.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-23/",
+      "datum": "2026-08-12T06:20:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany inflation confirmed to accelerate in July but core prices remain steadier",
+      "link": "https://investinglive.com/news/germany-july-final-cpi-vs-2-8-y-y-prelim/",
+      "datum": "2026-08-12T06:01:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee drops with India-US CPI data in focus",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-extend-surge-india-us-cpi-awaited-202608120529",
+      "datum": "2026-08-12T05:29:36.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -35,84 +113,6 @@
       "titel": "Australia sets world leading pay floor for 250,000 gig delivery workers",
       "link": "https://investinglive.com/news/australia-sets-world-leading-pay-floor-for-250-000-gig-delivery-workers/",
       "datum": "2026-08-12T03:34:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD rises to near $65.40 with US inflation in focus",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6540-with-us-inflation-in-focus-202608120322",
-      "datum": "2026-08-12T03:22:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar eases from two-month high as USD preserves weekly gains ahead of US CPI",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-eases-from-two-month-high-as-usd-preserves-weekly-gains-ahead-of-us-cpi-202608120317",
-      "datum": "2026-08-12T03:17:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar struggles as US Dollar gains on Middle East uncertainty",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-us-dollar-gains-on-middle-east-uncertainty-202608120308",
-      "datum": "2026-08-12T03:08:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar slips as US Dollar strengthens amid uncertainty over Fed outlook",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-us-dollar-strengthens-amid-uncertainty-over-fed-outlook-202608120233",
-      "datum": "2026-08-12T02:33:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen slides to two-week low, seems vulnerable as USD stands firm ahead of US CPI",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slides-to-two-week-low-seems-vulnerable-as-usd-stands-firm-ahead-of-us-cpi-202608120228",
-      "datum": "2026-08-12T02:28:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound loses as rising US Dollar, geopolitical tensions weigh on sentiment",
-      "link": "https://www.fxstreet.com/news/british-pound-loses-as-rising-us-dollar-geopolitical-tensions-weigh-on-sentiment-202608120155",
-      "datum": "2026-08-12T01:55:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold retakes $4,400, eyes two-month high as traders look to US CPI for Fed hike cues",
-      "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138",
-      "datum": "2026-08-12T01:38:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Experts split on whether next RBA move is a hike or cut amid energy risks",
-      "link": "https://www.fxstreet.com/news/banks-split-on-whether-next-rba-move-is-a-hike-or-cut-amid-energy-risks-202608120115",
-      "datum": "2026-08-12T01:15:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "PBOC sets USD/CNY reference rate at 6.7882 vs. 6.7900 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67882-vs-67900-previous-202608120115",
-      "datum": "2026-08-12T01:15:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Goldman chief economist Hatzius expects a benign July US CPI print",
-      "link": "https://investinglive.com/news/goldman-chief-economist-hatzius-expects-a-benign-july-us-cpi-print/",
-      "datum": "2026-08-12T01:07:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan bond yields rise as oil gains stoke fresh inflation concerns",
-      "link": "https://investinglive.com/news/japan-bond-yields-rise-as-oil-gains-stoke-fresh-inflation-concerns/",
-      "datum": "2026-08-12T00:40:56.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Reuters Tankan hits highest manufacturing reading since March on chip boom",
-      "link": "https://investinglive.com/news/reuters-tankan-hits-highest-manufacturing-reading-since-march-on-chip-boom/",
-      "datum": "2026-08-11T23:12:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 11 Aug: Stocks /yields Slip as markets await US CPI",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-aug-stocks-yields-slip-as-markets-await-us-cpi/",
-      "datum": "2026-08-11T21:08:42.000Z"
     }
   ]
 }

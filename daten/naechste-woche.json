@@ -194,7 +194,7 @@
     "country": "JPY",
     "title": "Industrial Production MoM Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.3%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -514,7 +514,7 @@
     "country": "GBP",
     "title": "Labour Productivity QoQ",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-0.5%",
     "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -1024,7 +1024,7 @@
     "country": "EUR",
     "title": "Inflation Rate MoM Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.8%",
     "previous": "-0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -1914,7 +1914,7 @@
     "country": "CAD",
     "title": "Retail Sales MoM Final",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "1%",
     "actual": null,
     "quelle": "tradingview"

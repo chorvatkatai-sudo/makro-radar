@@ -1,11 +1,47 @@
 {
-  "stand": "2026-08-12T16:49:19.132Z",
+  "stand": "2026-08-12T18:51:52.274Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "The US government deficit in July was the highest in any month since 2021",
+      "link": "https://investinglive.com/news/the-us-government-deficit-in-july-was-the-highest-in-any-month-since-2021/",
+      "datum": "2026-08-12T18:29:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Fading bullish momentum puts focus on 1.1500 support",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fading-bullish-momentum-puts-focus-on-11500-support-202608121811",
+      "datum": "2026-08-12T18:11:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI holds firm as Strait of Hormuz concerns outweigh sharp US inventory build",
+      "link": "https://www.fxstreet.com/news/wti-holds-firm-as-strait-of-hormuz-concerns-outweigh-sharp-us-inventory-build-202608121719",
+      "datum": "2026-08-12T17:19:34.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells 10 year notes at a high yield of 4.683%",
+      "link": "https://investinglive.com/news/us-treasury-sells-10-year-notes-at-a-high-yield-of-4-683/",
+      "datum": "2026-08-12T17:04:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "WARNING: There is a long way to go until the next Fed Meeting",
+      "link": "https://investinglive.com/news/warning-there-is-a-long-way-to-go-until-the-next-fed-meeting/",
+      "datum": "2026-08-12T17:00:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds near 1.3500 as CPI relief meets Hormuz risk",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-near-13500-as-cpi-relief-meets-hormuz-risk-202608121657",
+      "datum": "2026-08-12T16:57:31.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Australian Dollar slips as US Dollar steadies post CPI",
@@ -67,18 +103,6 @@
       "datum": "2026-08-12T14:55:15.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro steadies against Pound Sterling as traders await UK GDP verdict",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-pound-sterling-as-traders-await-uk-gdp-verdict-202608121440",
-      "datum": "2026-08-12T14:40:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Emerging Markets: Steepening Treasuries curb appeal – BNY",
-      "link": "https://www.fxstreet.com/news/emerging-markets-steepening-treasuries-curb-appeal-bny-202608121436",
-      "datum": "2026-08-12T14:36:36.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canada Building Permits for June 18.5% vs 0.8% estimate",
       "link": "https://investinglive.com/news/canada-building-permits-for-june-18-5-vs-0-8-estimate/",
@@ -89,30 +113,6 @@
       "titel": "US July CPI 3.4% y/y vs 3.4% expected",
       "link": "https://investinglive.com/news/us-july-cpi-y-y-vs-3-4-expected/",
       "datum": "2026-08-12T12:30:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Gold stays poised, dollar tentative awaiting US CPI report",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-stays-poised-dollar-tentative-awaiting-us-cpi-report/",
-      "datum": "2026-08-12T11:58:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran reportedly maintains that there are no discussions over ceasefire extension as the pact doesn't exist anymore",
-      "link": "https://investinglive.com/news/iran-reportedly-maintains-that-there-are-no-discussions-over-ceasefire-extension-as-the-pact-doesn-t-exist-anymore/",
-      "datum": "2026-08-12T10:57:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "India’s CPI rises further to 4.45% in July as food prices accelerate",
-      "link": "https://investinglive.com/news/india-s-cpi-rises-further-to-4-45-in-july-as-food-prices-accelerate/",
-      "datum": "2026-08-12T10:54:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold holds gains above $4,400 after US CPI meets expectations",
-      "link": "https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051",
-      "datum": "2026-08-12T10:51:12.000Z"
     }
   ]
 }

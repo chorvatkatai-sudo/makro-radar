@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12T16:49:19.134Z",
+  "stand": "2026-08-12T18:51:52.275Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 3,
       "tiltCot": -3,
-      "tiltZins": 4,
-      "tiltGesamt": 1,
-      "score": 4,
+      "tiltZins": 5,
+      "tiltGesamt": 2,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "Falkischer RBA-Hold + Risk-on heben den Aussie leicht; festerer Dollar nach US-Inflation + Chinas Deflation bremsen. Moderat."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": 1,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt knapp, aber die heiße US-Inflation gibt dem Dollar Boden. Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
     },

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12T10:53:56.285Z",
+  "stand": "2026-08-12T11:40:48.215Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -4,
       "tiltCot": 2,
-      "tiltZins": -7,
-      "tiltGesamt": -5,
-      "score": -9,
+      "tiltZins": -8,
+      "tiltGesamt": -6,
+      "score": -10,
       "cotExtrem": null,
       "treiber": "Yen fester (~159) durch Interventions-Nachwirkung + weichen Dollar + kleineren Zinsvorsprung bei möglicher Fed-Senkung. Heiße US-Inflation deckelt den Rückgang aber. Track 25 % → nahe null gehalten."
     },

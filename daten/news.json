@@ -1,11 +1,41 @@
 {
-  "stand": "2026-08-12T10:53:56.284Z",
+  "stand": "2026-08-12T11:40:48.214Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Strong Q2 may give way to flat growth - TD Securities",
+      "link": "https://www.fxstreet.com/news/british-pound-strong-q2-may-give-way-to-flat-growth-td-securities-202608121137",
+      "datum": "2026-08-12T11:37:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Inflation data and Middle East risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-inflation-data-and-middle-east-risks-commerzbank-202608121120",
+      "datum": "2026-08-12T11:20:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Iran confirms no discussions over US-Iran ceasefire extension for now - Reuters",
+      "link": "https://www.fxstreet.com/news/iran-confirms-no-discussions-over-us-iran-ceasefire-extension-for-now-reuters-202608121102",
+      "datum": "2026-08-12T11:02:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran reportedly maintains that there are no discussions over ceasefire extension as the pact doesn't exist anymore",
+      "link": "https://investinglive.com/news/iran-reportedly-maintains-that-there-are-no-discussions-over-ceasefire-extension-as-the-pact-doesn-t-exist-anymore/",
+      "datum": "2026-08-12T10:57:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "India’s CPI rises further to 4.45% in July as food prices accelerate",
+      "link": "https://investinglive.com/news/india-s-cpi-rises-further-to-4-45-in-july-as-food-prices-accelerate/",
+      "datum": "2026-08-12T10:54:36.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold rises above $4,400 as US inflation data takes centre stage",
@@ -56,31 +86,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro drifts away from 184.00 Yen despite hot German inflation figures",
-      "link": "https://www.fxstreet.com/news/euro-drifts-away-from-18400-yen-despite-hot-german-inflation-figures-202608120952",
-      "datum": "2026-08-12T09:52:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Upside risk intact above support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-support-against-us-dollar-uob-202608120943",
-      "datum": "2026-08-12T09:43:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Looks to extend recovery against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-looks-to-extend-recovery-against-us-dollar-societe-generale-202608120935",
-      "datum": "2026-08-12T09:35:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608120930",
-      "datum": "2026-08-12T09:30:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US CPI data expected to cool in July as markets weigh Fed rate hike bets",
+      "titel": "US July CPI data set to show easing inflation as markets gauge Fed rate hike expectations",
       "link": "https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830",
       "datum": "2026-08-12T08:30:00.000Z"
     },
@@ -107,12 +113,6 @@
       "titel": "Germany inflation confirmed to accelerate in July but core prices remain steadier",
       "link": "https://investinglive.com/news/germany-july-final-cpi-vs-2-8-y-y-prelim/",
       "datum": "2026-08-12T06:01:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific Financial Market news: Oil edges higher",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-oil-edges-higher/",
-      "datum": "2026-08-12T03:50:27.000Z"
     }
   ]
 }

@@ -445,7 +445,7 @@
     "title": "Average Earnings excl. Bonus (3Mo/Yr)",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.4",
+    "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -475,7 +475,7 @@
     "title": "Average Earnings incl. Bonus (3Mo/Yr)",
     "impact": "Medium",
     "forecast": "",
-    "previous": "4.3",
+    "previous": "4.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -915,7 +915,7 @@
     "title": "Core Inflation Rate YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "2.6",
+    "previous": "2.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -935,7 +935,7 @@
     "title": "Retail Price Index YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "3",
+    "previous": "3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -965,7 +965,7 @@
     "title": "Retail Price Index MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.3",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1035,7 +1035,7 @@
     "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "157.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1045,7 +1045,7 @@
     "title": "MBA Mortgage Market Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "248.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1055,7 +1055,7 @@
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "744.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1065,7 +1065,7 @@
     "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1075,7 +1075,7 @@
     "title": "MBA 30-Year Mortgage Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.77",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1775,7 +1775,7 @@
     "title": "Retail Sales YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "4.2",
+    "previous": "4.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1785,7 +1785,7 @@
     "title": "Retail Sales ex Fuel MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.1",
+    "previous": "1.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1795,7 +1795,7 @@
     "title": "Retail Sales MoM",
     "impact": "High",
     "forecast": "",
-    "previous": "1",
+    "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1805,7 +1805,7 @@
     "title": "Public Sector Net Borrowing Ex Banks",
     "impact": "Low",
     "forecast": "",
-    "previous": "-16",
+    "previous": "-16 £",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -8176,7 +8176,7 @@
       "land": "CNY",
       "titel": "New Loans",
       "impact": "Low",
-      "prognose": "50B",
+      "prognose": "-50B",
       "vorher": "1610B",
       "actual": null,
       "notiz": null
@@ -8226,7 +8226,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "203K",
+      "prognose": "202K",
       "vorher": "199K",
       "actual": null,
       "notiz": null
@@ -8276,7 +8276,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "31B",
       "vorher": "33B",
       "actual": null,
       "notiz": null

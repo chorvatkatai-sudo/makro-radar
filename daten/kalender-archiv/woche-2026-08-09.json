@@ -380,7 +380,7 @@
     "country": "CNY",
     "date": "2026-08-13T04:03:00-04:00",
     "impact": "Low",
-    "forecast": "50B",
+    "forecast": "-50B",
     "previous": "1610B"
   },
   {
@@ -420,7 +420,7 @@
     "country": "USD",
     "date": "2026-08-13T08:30:00-04:00",
     "impact": "Medium",
-    "forecast": "203K",
+    "forecast": "202K",
     "previous": "199K"
   },
   {
@@ -460,7 +460,7 @@
     "country": "USD",
     "date": "2026-08-13T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "31B",
     "previous": "33B"
   },
   {

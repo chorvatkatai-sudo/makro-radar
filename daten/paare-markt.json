@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12T05:06:22.988Z",
+  "stand": "2026-08-12T05:07:06.972Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -4,
       "tiltCot": 2,
-      "tiltZins": -6,
-      "tiltGesamt": -4,
-      "score": -8,
+      "tiltZins": -7,
+      "tiltGesamt": -5,
+      "score": -9,
       "cotExtrem": null,
       "treiber": "Yen fester (~159) durch Interventions-Nachwirkung + weichen Dollar + kleineren Zinsvorsprung bei möglicher Fed-Senkung. Heiße US-Inflation deckelt den Rückgang aber. Track 25 % → nahe null gehalten."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 3,
       "tiltCot": -3,
-      "tiltZins": 5,
-      "tiltGesamt": 2,
-      "score": 5,
+      "tiltZins": 4,
+      "tiltGesamt": 1,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "Falkischer RBA-Hold + Risk-on heben den Aussie leicht; festerer Dollar nach US-Inflation + Chinas Deflation bremsen. Moderat."
     },

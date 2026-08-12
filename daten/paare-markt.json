@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12T15:52:45.809Z",
+  "stand": "2026-08-12T16:49:19.134Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -5,
       "tiltCot": 5,
-      "tiltZins": -6,
-      "tiltGesamt": -1,
-      "score": -6,
+      "tiltZins": -5,
+      "tiltGesamt": 0,
+      "score": -5,
       "cotExtrem": "erhoeht",
       "treiber": "Öl-Comeback (Hormus) + starker Kanada-Jobbericht drücken das Paar. Gegenwind: festerer Dollar nach heißer US-Inflation + extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": 0,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt knapp, aber die heiße US-Inflation gibt dem Dollar Boden. Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": 1,
-      "tiltGesamt": -4,
-      "score": -6,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Festerer Dollar nach US-Inflation + schwacher NZ-Arbeitsmarkt (5,6 %) drücken den Kiwi leicht; COT-Shorts federn (Squeeze). Nahe null."
     }

@@ -8470,6 +8470,16 @@
       "vorher": "15.0K",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-12T05:33:00-04:00|EUR|German 30-y Bond Auction": {
+      "datum": "2026-08-12T05:33:00-04:00",
+      "land": "EUR",
+      "titel": "German 30-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.64|2.9",
+      "actual": null,
+      "notiz": null
     }
   }
 }

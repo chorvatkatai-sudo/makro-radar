@@ -1,11 +1,59 @@
 {
-  "stand": "2026-08-12T14:16:08.325Z",
+  "stand": "2026-08-12T15:52:45.808Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen pares gains against US Dollar as markets digest US CPI",
+      "link": "https://www.fxstreet.com/news/japanese-yen-pares-gains-against-us-dollar-as-markets-digest-us-cpi-202608121519",
+      "datum": "2026-08-12T15:19:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Tightening supply supports elevated prices – BNY",
+      "link": "https://www.fxstreet.com/news/oil-tightening-supply-supports-elevated-prices-bny-202608121519",
+      "datum": "2026-08-12T15:19:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Cleveland Fed median CPI +0.3% vs +0.2% prior",
+      "link": "https://investinglive.com/news/cleveland-fed-median-cpi-0-3-vs-0-2-prior/",
+      "datum": "2026-08-12T15:12:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver jumps more than 2% after US inflation meets expectations",
+      "link": "https://www.fxstreet.com/news/silver-jumps-more-than-2-after-us-inflation-meets-expectations-202608121505",
+      "datum": "2026-08-12T15:05:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Bearish momentum extends after CPI – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-bearish-momentum-extends-after-cpi-td-securities-202608121504",
+      "datum": "2026-08-12T15:04:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "President Trump says US has \"total control\" of Hormuz",
+      "link": "https://www.fxstreet.com/news/president-trump-says-us-has-total-control-of-hormuz-202608121455",
+      "datum": "2026-08-12T14:55:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro steadies against Pound Sterling as traders await UK GDP verdict",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-pound-sterling-as-traders-await-uk-gdp-verdict-202608121440",
+      "datum": "2026-08-12T14:40:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Emerging Markets: Steepening Treasuries curb appeal – BNY",
+      "link": "https://www.fxstreet.com/news/emerging-markets-steepening-treasuries-curb-appeal-bny-202608121436",
+      "datum": "2026-08-12T14:36:36.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "British Pound: Improving sentiment supports gains against US Dollar – Scotiabank",
@@ -31,24 +79,6 @@
       "datum": "2026-08-12T13:35:58.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Resilience tested as data mixed – Rabobank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-resilience-tested-as-data-mixed-rabobank-202608121312",
-      "datum": "2026-08-12T13:12:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Chinese demand recovery could lift prices – NBC",
-      "link": "https://www.fxstreet.com/news/oil-chinese-demand-recovery-could-lift-prices-nbc-202608121250",
-      "datum": "2026-08-12T12:50:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro remains little changed as US CPI fails to surprise the markets",
-      "link": "https://www.fxstreet.com/news/euro-remains-little-changed-as-us-cpi-fails-to-surprise-the-markets-202608121246",
-      "datum": "2026-08-12T12:46:02.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canada Building Permits for June 18.5% vs 0.8% estimate",
       "link": "https://investinglive.com/news/canada-building-permits-for-june-18-5-vs-0-8-estimate/",
@@ -59,24 +89,6 @@
       "titel": "US July CPI 3.4% y/y vs 3.4% expected",
       "link": "https://investinglive.com/news/us-july-cpi-y-y-vs-3-4-expected/",
       "datum": "2026-08-12T12:30:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "IEA forecasts 4.3 million bpd drop in global Oil supply",
-      "link": "https://www.fxstreet.com/news/iea-forecasts-43-million-bpd-drop-in-global-oil-supply-202608121228",
-      "datum": "2026-08-12T12:28:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Gradual gains against US Dollar remain likely – MUFG",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gradual-gains-against-us-dollar-remain-likely-mufg-202608121226",
-      "datum": "2026-08-12T12:26:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Soft CPI risks weigh on outlook – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-soft-cpi-risks-weigh-on-outlook-ing-202608121214",
-      "datum": "2026-08-12T12:14:24.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Gold holds gains above $4,400 after US CPI meets expectations",
       "link": "https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051",
       "datum": "2026-08-12T10:51:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What to expect from the US CPI report later today?",
-      "link": "https://investinglive.com/news/what-to-expect-from-the-us-cpi-report-later-today/",
-      "datum": "2026-08-12T10:05:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: US CPI inflation softens to 3.4% in July as expected",
-      "link": "https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830",
-      "datum": "2026-08-12T08:30:00.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12T14:16:08.326Z",
+  "stand": "2026-08-12T15:52:45.809Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 4,
       "tiltCot": -1,
-      "tiltZins": 0,
-      "tiltGesamt": -1,
-      "score": 3,
+      "tiltZins": 1,
+      "tiltGesamt": 0,
+      "score": 4,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar stützt noch, aber die heiße US-Kern-Inflation (3,1 %) gibt dem Dollar Boden — EUR/USD hängt bei 1,154 unter der Hürde 1,16. Extreme EUR-COT-Shorts = Squeeze-Treibstoff. Track nur ~13 % → bewusst moderat."
     },
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 2,
       "tiltCot": -5,
-      "tiltZins": -1,
-      "tiltGesamt": -6,
-      "score": -4,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Kleiner Dollar-Rückenwind bleibt, aber UK-BIP (Do) ist der Test und die heiße US-Inflation schrumpft den Rückenwind. COT-Short-Squeeze-Risiko nach oben. Moderat."
     },

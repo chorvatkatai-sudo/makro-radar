@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T17:51:35.680Z",
+  "stand": "2026-08-13T21:36:30.639Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": 0,
+      "tiltZins": -3,
+      "tiltGesamt": 2,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt knapp; Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -9,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": -8,
       "cotExtrem": null,
       "treiber": "Schwacher NZ-Arbeitsmarkt (5,6 %) drückt den Kiwi; weicher Dollar federt etwas, COT-Shorts bergen Squeeze. Nahe null."
     }

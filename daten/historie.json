@@ -8560,6 +8560,16 @@
       "vorher": "4.44%",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-13T18:00:00-04:00|USD|FOMC Member Goolsbee Speaks": {
+      "datum": "2026-08-13T18:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

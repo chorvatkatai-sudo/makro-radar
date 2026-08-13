@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T17:51:35.679Z",
+  "stand": "2026-08-13T21:36:30.638Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,22 +7,100 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Euro holds above 1.1500 as US inflation curbs Fed bets",
+      "link": "https://www.fxstreet.com/news/euro-holds-above-11500-as-us-inflation-curbs-fed-bets-202608132122",
+      "datum": "2026-08-13T21:22:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Fitch affirms US at AA+, keeps outlook stable amid growth slowdown",
+      "link": "https://investinglive.com/news/fitch-affirms-us-at-aa-keeps-outlook-stable-amid-growth-slowdown/",
+      "datum": "2026-08-13T20:54:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar steadies off two-week lows following dovish RBNZ survey",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-off-two-week-lows-following-dovish-rbnz-survey-202608132032",
+      "datum": "2026-08-13T20:32:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: S&P 500 hits a fresh record",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-s-p-500-hits-a-fresh-record/",
+      "datum": "2026-08-13T20:08:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar holds steady ahead of US Retail Sales",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-steady-ahead-of-us-retail-sales-202608132001",
+      "datum": "2026-08-13T20:01:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Friday, August 14, 2026",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-august-14-2026/",
+      "datum": "2026-08-13T19:59:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/MXN Price Forecast: Bears eye 17.00 as downtrend stretches",
+      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-bears-eye-1700-as-downtrend-stretches-202608131940",
+      "datum": "2026-08-13T19:40:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: Two-way trade with key levels watched against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-trade-with-key-levels-watched-against-us-dollar-ocbc-202608131921",
+      "datum": "2026-08-13T19:21:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Crude Oil sells a glut that never left the dock",
+      "link": "https://www.fxstreet.com/news/crude-oil-sells-a-glut-that-never-left-the-dock-202608131915",
+      "datum": "2026-08-13T19:15:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Range holds as upside risk watched against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-holds-as-upside-risk-watched-against-us-dollar-uob-202608131838",
+      "datum": "2026-08-13T18:38:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-keeps-08145-in-focus-202608131836",
+      "datum": "2026-08-13T18:36:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen little changed amid cooling US inflation",
+      "link": "https://www.fxstreet.com/news/japanese-yen-little-changed-amid-cooling-us-inflation-202608131817",
+      "datum": "2026-08-13T18:17:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold slips as US Dollar recovers despite softer US factory inflation",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-us-dollar-recovers-despite-softer-us-factory-inflation-202608131813",
+      "datum": "2026-08-13T18:13:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-momentum-cools-as-xag-usd-consolidates-above-50-day-sma-202608131810",
+      "datum": "2026-08-13T18:10:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Growth resilient as BoE stays on hold – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/united-kingdom-growth-resilient-as-boe-stays-on-hold-standard-chartered-202608131756",
+      "datum": "2026-08-13T17:56:19.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "US treasury sells 30 year bonds at a high yield of 5.216%",
       "link": "https://investinglive.com/news/us-treasury-sells-30-year-bonds-at-a-high-yield-of-5-216/",
       "datum": "2026-08-13T17:02:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar stumbles near recent highs",
-      "link": "https://www.fxstreet.com/news/australian-dollar-stumbles-near-recent-highs-202608131644",
-      "datum": "2026-08-13T16:44:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Natural gas: Storage worries with TTF higher – ING",
-      "link": "https://www.fxstreet.com/news/natural-gas-storage-worries-with-ttf-higher-ing-202608131639",
-      "datum": "2026-08-13T16:39:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -31,88 +109,10 @@
       "datum": "2026-08-13T16:31:55.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "One stock wrote the Dow Jones Industrial Average's entire session",
-      "link": "https://www.fxstreet.com/news/one-stock-wrote-the-dow-jones-industrial-averages-entire-session-202608131618",
-      "datum": "2026-08-13T16:18:52.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "European shares close lower despite the US tech push higher",
       "link": "https://investinglive.com/news/european-shares-close-lower-despite-the-us-tech-push-higher/",
       "datum": "2026-08-13T16:06:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar struggles as softer inflation expectations challenge RBNZ hawks",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-softer-inflation-expectations-challenge-rbnz-hawks-202608131600",
-      "datum": "2026-08-13T16:00:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen struggles despite soft US PPI, fading Fed rate-hike bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-despite-soft-us-ppi-fading-fed-rate-hike-bets-202608131600",
-      "datum": "2026-08-13T16:00:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound climbs as soft US inflation data hurt Fed hawkish bets",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-soft-us-inflation-data-hurt-fed-hawkish-bets-202608131552",
-      "datum": "2026-08-13T15:52:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Carry Trade: Supportive backdrop holds – OCBC",
-      "link": "https://www.fxstreet.com/news/carry-trade-supportive-backdrop-holds-ocbc-202608131551",
-      "datum": "2026-08-13T15:51:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Upside GDP surprise, limited BoE impact – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-kingdom-upside-gdp-surprise-limited-boe-impact-td-securities-202608131515",
-      "datum": "2026-08-13T15:15:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Poland: Fuel-driven inflation rise contained – ING",
-      "link": "https://www.fxstreet.com/news/poland-fuel-driven-inflation-rise-contained-ing-202608131503",
-      "datum": "2026-08-13T15:03:19.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
-      "datum": "2026-08-13T15:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India: Inflation path higher into FY27 – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/india-inflation-path-higher-into-fy27-standard-chartered-202608131456",
-      "datum": "2026-08-13T14:56:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Equities favored over Treasuries – BNY",
-      "link": "https://www.fxstreet.com/news/united-states-equities-favored-over-treasuries-bny-202608131449",
-      "datum": "2026-08-13T14:49:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US initial claims for the current week 209K vs 202K estimate",
-      "link": "https://investinglive.com/news/us-initial-claims-for-the-current-week-209k-vs-202k-estimate/",
-      "datum": "2026-08-13T12:30:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Dollar remains tentative, gold off the highs in post-CPI trading",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-remains-tentative-gold-off-the-highs-in-post-cpi-trading/",
-      "datum": "2026-08-13T11:47:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold struggles below two-month high despite softer US PPI",
-      "link": "https://www.fxstreet.com/news/gold-retreats-from-two-month-high-as-traders-await-us-ppi-202608131057",
-      "datum": "2026-08-13T10:57:10.000Z"
     }
   ]
 }

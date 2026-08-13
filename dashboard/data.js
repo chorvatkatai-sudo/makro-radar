@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-13T12:51:55.727Z",
+ "erstellt": "2026-08-13T12:58:37.685Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -3337,29 +3337,29 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-13T12:51:54.948Z",
+  "stand": "2026-08-13T12:58:37.252Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.92,
+    "wert": 99.87,
     "tagProzent": 0,
-    "wocheProzent": 0.32,
+    "wocheProzent": 0.27,
     "renditeDelta": false,
     "verlauf": [
-     101.28,
-     100.94,
-     100.5,
      100.73,
      100.75,
      100.99,
+     101.18,
+     101.14,
      101.43,
      101.47,
      101.51,
      101.38,
      100.8,
      100.01,
+     99.8,
      99.96,
      99.89,
      99.69,
@@ -3368,17 +3368,17 @@ window.MAKRO_DATA = {
      99.81,
      99.82,
      100.01,
-     99.92,
-     99.92
+     99.87,
+     99.87
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 14.53,
+    "wert": 14.51,
     "tagProzent": 0,
-    "wocheProzent": -2.48,
+    "wocheProzent": -2.62,
     "renditeDelta": false,
     "verlauf": [
      16.73,
@@ -3401,17 +3401,17 @@ window.MAKRO_DATA = {
      15.46,
      15.28,
      14.55,
-     14.53,
-     14.53
+     14.51,
+     14.51
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 81.25,
+    "wert": 81.22,
     "tagProzent": 0,
-    "wocheProzent": 3.93,
+    "wocheProzent": 3.89,
     "renditeDelta": false,
     "verlauf": [
      78.95,
@@ -3434,8 +3434,8 @@ window.MAKRO_DATA = {
      82.13,
      83.2,
      83.27,
-     81.25,
-     81.25
+     81.22,
+     81.22
     ]
    },
    "Brent": {
@@ -3475,9 +3475,9 @@ window.MAKRO_DATA = {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4446.5,
+    "wert": 4452.1,
     "tagProzent": 0,
-    "wocheProzent": 2.44,
+    "wocheProzent": 2.57,
     "renditeDelta": false,
     "verlauf": [
      3985.6,
@@ -3500,8 +3500,8 @@ window.MAKRO_DATA = {
      4361.8,
      4383,
      4408.9,
-     4446.5,
-     4446.5
+     4452.1,
+     4452.1
     ]
    },
    "US02Y": {
@@ -3541,9 +3541,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.668,
+    "wert": 4.664,
     "tagProzent": 0,
-    "wocheProzent": 0.01,
+    "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
      4.569,
@@ -3566,15 +3566,15 @@ window.MAKRO_DATA = {
      4.699,
      4.684,
      4.682,
-     4.668,
-     4.668
+     4.664,
+     4.664
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.235,
+    "wert": 5.231,
     "tagProzent": 0,
     "wocheProzent": 0.02,
     "renditeDelta": true,
@@ -3599,17 +3599,17 @@ window.MAKRO_DATA = {
      5.243,
      5.236,
      5.247,
-     5.235,
-     5.235
+     5.231,
+     5.231
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63553.66,
+    "wert": 63631.63,
     "tagProzent": 0,
-    "wocheProzent": -1.99,
+    "wocheProzent": -1.87,
     "renditeDelta": false,
     "verlauf": [
      64098.5,
@@ -3632,8 +3632,8 @@ window.MAKRO_DATA = {
      63910.59,
      63551.88,
      63402.43,
-     63553.66,
-     63553.66
+     63631.63,
+     63631.63
     ]
    },
    "FEDFUT": {
@@ -3670,40 +3670,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.26,
-    "tagProzent": -0.01,
-    "wocheProzent": 0.04,
-    "renditeDelta": true,
-    "verlauf": [
-     2.25,
-     2.23,
-     2.22,
-     2.24,
-     2.25,
-     2.26,
-     2.28,
-     2.28,
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29,
-     2.27,
-     2.26
-    ],
-    "quelle": "FRED"
-   },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
@@ -3737,9 +3703,43 @@ window.MAKRO_DATA = {
      2.43
     ],
     "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.26,
+    "tagProzent": -0.01,
+    "wocheProzent": 0.04,
+    "renditeDelta": true,
+    "verlauf": [
+     2.25,
+     2.23,
+     2.22,
+     2.24,
+     2.25,
+     2.26,
+     2.28,
+     2.28,
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29,
+     2.27,
+     2.26
+    ],
+    "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.71,
+  "kurve2s10s": 0.7,
   "cot": {
    "stand": "2026-08-04",
    "waehrungen": {
@@ -3833,16 +3833,16 @@ window.MAKRO_DATA = {
    "stand": "2026-08-13",
    "werte": {
     "USD": {
-     "wert": 4.159,
-     "wocheDelta": -0.078
+     "wert": 4.157,
+     "wocheDelta": -0.08
     },
     "EUR": {
-     "wert": 2.768,
-     "wocheDelta": 0.005
+     "wert": 2.766,
+     "wocheDelta": 0.003
     },
     "GBP": {
-     "wert": 4.303,
-     "wocheDelta": -0.004
+     "wert": 4.31,
+     "wocheDelta": 0.003
     },
     "JPY": {
      "wert": 1.654,
@@ -3857,8 +3857,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.028
     },
     "CHF": {
-     "wert": 0.091,
-     "wocheDelta": -0.01
+     "wert": 0.085,
+     "wocheDelta": -0.016
     },
     "NZD": {
      "wert": 3.535,
@@ -3948,7 +3948,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-13T12:51:55.725Z",
+  "stand": "2026-08-13T12:58:37.683Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3963,7 +3963,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "US PPI comes in softer than expected, confirms easing inflation pressures",
+    "titel": "US PPI comes in softer than expected, confirms easing inflation pressure",
     "link": "https://www.fxstreet.com/news/us-ppi-comes-in-softer-than-expected-confirms-easing-inflation-pressures-202608131243",
     "datum": "2026-08-13T12:43:15.000Z"
    },

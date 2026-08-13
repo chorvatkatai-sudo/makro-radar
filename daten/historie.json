@@ -8208,8 +8208,8 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "0.2%",
-      "actual": null,
-      "notiz": null
+      "actual": "0.4%",
+      "notiz": "auto:FRED WPSFD49116 (Ref 2026-07-01)"
     },
     "2026-08-13T08:30:00-04:00|USD|PPI m/m": {
       "datum": "2026-08-13T08:30:00-04:00",
@@ -8218,8 +8218,8 @@
       "impact": "High",
       "prognose": "0.2%",
       "vorher": "-0.3%",
-      "actual": null,
-      "notiz": null
+      "actual": "-0.0%",
+      "notiz": "auto:FRED PPIFIS (Ref 2026-07-01)"
     },
     "2026-08-13T08:30:00-04:00|USD|Unemployment Claims": {
       "datum": "2026-08-13T08:30:00-04:00",
@@ -8538,6 +8538,16 @@
       "impact": "Low",
       "prognose": "-50B",
       "vorher": "1610B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-13T10:15:00-04:00|USD|Mortgage Delinquencies": {
+      "datum": "2026-08-13T10:15:00-04:00",
+      "land": "USD",
+      "titel": "Mortgage Delinquencies",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "4.44%",
       "actual": null,
       "notiz": null
     }

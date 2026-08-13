@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T12:58:37.684Z",
+  "stand": "2026-08-13T14:17:38.930Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 5,
       "tiltCot": -1,
-      "tiltZins": 3,
-      "tiltGesamt": 2,
-      "score": 7,
+      "tiltZins": 4,
+      "tiltGesamt": 3,
+      "score": 8,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar nach der gekühlten US-Inflation stützt (EUR/USD nahe 1,16). Extreme EUR-COT-Shorts = Squeeze-Treibstoff. Track nur ~13 % → bewusst moderat."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 4,
       "tiltCot": 2,
-      "tiltZins": -7,
-      "tiltGesamt": -5,
-      "score": -1,
+      "tiltZins": -8,
+      "tiltGesamt": -6,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Der Yen schwächte sich wieder über 159 ab (Interventions-Effekt verpufft, Carry dominiert) — das hebt das Paar leicht. Der weiche Dollar deckelt den Anstieg. Track 25 % → nahe null gehalten."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -6,
       "tiltCot": 5,
-      "tiltZins": -4,
-      "tiltGesamt": 1,
-      "score": -5,
+      "tiltZins": -5,
+      "tiltGesamt": 0,
+      "score": -6,
       "cotExtrem": "erhoeht",
       "treiber": "Öl-Festigkeit (Hormus) + starker Kanada-Jobbericht drücken das Paar. Gegenwind: extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -3,
-      "tiltGesamt": 2,
-      "score": -1,
+      "tiltZins": -4,
+      "tiltGesamt": 1,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt knapp; Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -9,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Schwacher NZ-Arbeitsmarkt (5,6 %) drückt den Kiwi; weicher Dollar federt etwas, COT-Shorts bergen Squeeze. Nahe null."
     }

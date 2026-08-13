@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T12:58:37.683Z",
+  "stand": "2026-08-13T14:17:38.929Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "US Dollar: Safe haven support versus Fed repricing – Rabobank",
+      "link": "https://www.fxstreet.com/news/us-dollar-safe-haven-support-versus-fed-repricing-rabobank-202608131412",
+      "datum": "2026-08-13T14:12:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Europe: Extreme weather weighs on growth – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/europe-extreme-weather-weighs-on-growth-standard-chartered-202608131401",
+      "datum": "2026-08-13T14:01:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Food inflation jumped to 5.52% and the Reserve Bank of India held at 5.25%: Why rate hikes are still on the table",
+      "link": "https://www.fxstreet.com/news/food-inflation-jumped-to-552-and-the-reserve-bank-of-india-held-at-525-why-rate-hikes-are-still-on-the-table-202608131355",
+      "datum": "2026-08-13T13:55:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Growth risks tilt higher – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-growth-risks-tilt-higher-deutsche-bank-202608131351",
+      "datum": "2026-08-13T13:51:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Norges Bank: Disinflation slows rate path – Nomura",
+      "link": "https://www.fxstreet.com/news/norges-bank-disinflation-slows-rate-path-nomura-202608131343",
+      "datum": "2026-08-13T13:43:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Trump pressure and rate risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-trump-pressure-and-rate-risks-commerzbank-202608131333",
+      "datum": "2026-08-13T13:33:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Yield support erodes on weaker inflation – DBS",
+      "link": "https://www.fxstreet.com/news/us-dollar-yield-support-erodes-on-weaker-inflation-dbs-202608131324",
+      "datum": "2026-08-13T13:24:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "\"Still an open question\": Fed’s Barkin keeps possibility of rate hike alive",
+      "link": "https://www.fxstreet.com/news/still-an-open-question-feds-barkin-keeps-possibility-of-rate-hike-alive-202608131311",
+      "datum": "2026-08-13T13:11:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Choppy range trading outlook against US Dollar – Rabobank",
+      "link": "https://www.fxstreet.com/news/euro-choppy-range-trading-outlook-against-us-dollar-rabobank-202608131311",
+      "datum": "2026-08-13T13:11:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Policy support for BoJ hikes – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-support-for-boj-hikes-bbh-202608131302",
+      "datum": "2026-08-13T13:02:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "Turkish Lira: Further depreciation seen against US Dollar – Commerzbank",
       "link": "https://www.fxstreet.com/news/turkish-lira-further-depreciation-seen-against-us-dollar-commerzbank-202608131250",
       "datum": "2026-08-13T12:50:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US PPI comes in softer than expected, confirms easing inflation pressure",
-      "link": "https://www.fxstreet.com/news/us-ppi-comes-in-softer-than-expected-confirms-easing-inflation-pressures-202608131243",
-      "datum": "2026-08-13T12:43:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Canada: Gradual tightening path into 2027 – NBC",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-gradual-tightening-path-into-2027-nbc-202608131239",
-      "datum": "2026-08-13T12:39:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Initial Jobless Claims increased to 209K last week",
-      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-increased-to-209k-last-week-202608131237",
-      "datum": "2026-08-13T12:37:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil Price Forecast: Momentum turns flat as Bollinger Bands expand",
-      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-momentum-turns-flat-as-bollinger-bands-expand-202608131234",
-      "datum": "2026-08-13T12:34:20.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "US initial claims for the current week 209K vs 202K estimate",
       "link": "https://investinglive.com/news/us-initial-claims-for-the-current-week-209k-vs-202k-estimate/",
       "datum": "2026-08-13T12:30:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro steadies against Japanese Yen as ECB rate hike expectations strengthen",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-ecb-rate-hike-expectations-strengthen-202608131229",
-      "datum": "2026-08-13T12:29:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: Benign inflation reinforces RBI pause – DBS",
-      "link": "https://www.fxstreet.com/news/indian-rupee-benign-inflation-reinforces-rbi-pause-dbs-202608131229",
-      "datum": "2026-08-13T12:29:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: Anchored expectations back RBNZ hikes – BBH",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-anchored-expectations-back-rbnz-hikes-bbh-202608131200",
-      "datum": "2026-08-13T12:00:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro gains against British Pound despite stronger UK growth data",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-british-pound-despite-stronger-uk-growth-data-202608131159",
-      "datum": "2026-08-13T11:59:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD stands tall at two-month highs above $4,380",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-stands-tall-at-two-month-highs-above-4-380-202608131152",
-      "datum": "2026-08-13T11:52:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Gradual easing path – UOB",
-      "link": "https://www.fxstreet.com/news/federal-reserve-gradual-easing-path-uob-202608131152",
-      "datum": "2026-08-13T11:52:02.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -86,9 +86,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "European Central Bank: Independence risks rise with debt – Commerzbank",
-      "link": "https://www.fxstreet.com/news/european-central-bank-independence-risks-rise-with-debt-commerzbank-202608131142",
-      "datum": "2026-08-13T11:42:28.000Z"
+      "titel": "Gold struggles below two-month high despite softer US PPI",
+      "link": "https://www.fxstreet.com/news/gold-retreats-from-two-month-high-as-traders-await-us-ppi-202608131057",
+      "datum": "2026-08-13T10:57:10.000Z"
     },
     {
       "quelle": "ForexLive",

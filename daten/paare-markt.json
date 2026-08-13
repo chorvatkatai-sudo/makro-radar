@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T09:04:34.035Z",
+  "stand": "2026-08-13T10:55:02.805Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -3,
-      "tiltGesamt": 2,
-      "score": -1,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt knapp; Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
     },

@@ -368,22 +368,6 @@
     "previous": "-0.2%"
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-08-13T05:03:00-04:00",
-    "impact": "Low",
-    "forecast": "7.9%",
-    "previous": "8.0%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-08-13T05:03:00-04:00",
-    "impact": "Low",
-    "forecast": "-50B",
-    "previous": "1610B"
-  },
-  {
     "title": "FOMC Member Hammack Speaks",
     "country": "USD",
     "date": "2026-08-13T08:15:00-04:00",
@@ -534,6 +518,22 @@
     "impact": "Low",
     "forecast": "-2.2B",
     "previous": "-5.0B"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-08-14T05:03:00-04:00",
+    "impact": "Low",
+    "forecast": "7.9%",
+    "previous": "8.0%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-08-14T05:03:00-04:00",
+    "impact": "Low",
+    "forecast": "-50B",
+    "previous": "1610B"
   },
   {
     "title": "Manufacturing Sales m/m",

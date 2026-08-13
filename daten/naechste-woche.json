@@ -124,7 +124,7 @@
     "country": "CNY",
     "title": "Fixed Asset Investment (YTD) YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-6%",
     "previous": "-5.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -134,7 +134,7 @@
     "country": "CNY",
     "title": "Retail Sales YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.6%",
     "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
@@ -154,7 +154,7 @@
     "country": "CNY",
     "title": "Industrial Production YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4.8%",
     "previous": "5.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -584,7 +584,7 @@
     "country": "USD",
     "title": "Housing Starts",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.34",
     "previous": "1.427",
     "actual": null,
     "quelle": "tradingview"
@@ -674,7 +674,7 @@
     "country": "USD",
     "title": "Industrial Production MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -704,7 +704,7 @@
     "country": "USD",
     "title": "Capacity Utilization",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "76.3%",
     "previous": "76.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -1395,7 +1395,7 @@
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1777",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1405,7 +1405,7 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "199",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1415,7 +1415,7 @@
     "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "209",
     "actual": null,
     "quelle": "tradingview"
   },

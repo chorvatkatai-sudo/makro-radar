@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T10:55:02.804Z",
+  "stand": "2026-08-13T12:51:55.725Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,51 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Economists agree: ECB to hike interest rates by 25 bps to 2.5% in September - Reuters",
-      "link": "https://www.fxstreet.com/news/economists-agree-ecb-to-hike-interest-rates-by-25-bps-to-25-in-september-202608131024",
-      "datum": "2026-08-13T10:24:36.000Z"
+      "titel": "Turkish Lira: Further depreciation seen against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/turkish-lira-further-depreciation-seen-against-us-dollar-commerzbank-202608131250",
+      "datum": "2026-08-13T12:50:27.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar caught between hawkish RBA, Iran-related inflation risks",
-      "link": "https://www.fxstreet.com/news/australian-dollar-caught-between-hawkish-rba-iran-related-inflation-risks-202608131023",
-      "datum": "2026-08-13T10:23:22.000Z"
+      "titel": "US PPI comes in softer than expected, confirms easing inflation pressures",
+      "link": "https://www.fxstreet.com/news/us-ppi-comes-in-softer-than-expected-confirms-easing-inflation-pressures-202608131243",
+      "datum": "2026-08-13T12:43:15.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Bearish bias against US Dollar within higher range – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bearish-bias-against-us-dollar-within-higher-range-uob-202608131002",
-      "datum": "2026-08-13T10:02:13.000Z"
+      "titel": "Bank of Canada: Gradual tightening path into 2027 – NBC",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-gradual-tightening-path-into-2027-nbc-202608131239",
+      "datum": "2026-08-13T12:39:15.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: CPI-driven moves point to near-term stability – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-driven-moves-point-to-near-term-stability-mufg-202608130952",
-      "datum": "2026-08-13T09:52:12.000Z"
+      "titel": "US Initial Jobless Claims increased to 209K last week",
+      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-increased-to-209k-last-week-202608131237",
+      "datum": "2026-08-13T12:37:31.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Brazilian Real: Election risks threaten carry story – Societe Generale",
-      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-threaten-carry-story-societe-generale-202608130943",
-      "datum": "2026-08-13T09:43:06.000Z"
+      "titel": "WTI Oil Price Forecast: Momentum turns flat as Bollinger Bands expand",
+      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-momentum-turns-flat-as-bollinger-bands-expand-202608131234",
+      "datum": "2026-08-13T12:34:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US initial claims for the current week 209K vs 202K estimate",
+      "link": "https://investinglive.com/news/us-initial-claims-for-the-current-week-209k-vs-202k-estimate/",
+      "datum": "2026-08-13T12:30:49.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608130932",
-      "datum": "2026-08-13T09:32:36.000Z"
+      "titel": "Euro steadies against Japanese Yen as ECB rate hike expectations strengthen",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-ecb-rate-hike-expectations-strengthen-202608131229",
+      "datum": "2026-08-13T12:29:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Range tests with upside bias against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-range-tests-with-upside-bias-against-us-dollar-ing-202608130929",
-      "datum": "2026-08-13T09:29:35.000Z"
+      "titel": "Indian Rupee: Benign inflation reinforces RBI pause – DBS",
+      "link": "https://www.fxstreet.com/news/indian-rupee-benign-inflation-reinforces-rbi-pause-dbs-202608131229",
+      "datum": "2026-08-13T12:29:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Inflation outlook and Fed path – UOB",
-      "link": "https://www.fxstreet.com/news/us-dollar-inflation-outlook-and-fed-path-uob-202608130919",
-      "datum": "2026-08-13T09:19:40.000Z"
+      "titel": "New Zealand Dollar: Anchored expectations back RBNZ hikes – BBH",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-anchored-expectations-back-rbnz-hikes-bbh-202608131200",
+      "datum": "2026-08-13T12:00:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro gains against British Pound despite stronger UK growth data",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-british-pound-despite-stronger-uk-growth-data-202608131159",
+      "datum": "2026-08-13T11:59:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold Price Forecast: XAU/USD stands tall at two-month highs above $4,380",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-stands-tall-at-two-month-highs-above-4-380-202608131152",
+      "datum": "2026-08-13T11:52:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Gradual easing path – UOB",
+      "link": "https://www.fxstreet.com/news/federal-reserve-gradual-easing-path-uob-202608131152",
+      "datum": "2026-08-13T11:52:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Dollar remains tentative, gold off the highs in post-CPI trading",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-remains-tentative-gold-off-the-highs-in-post-cpi-trading/",
+      "datum": "2026-08-13T11:47:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: Independence risks rise with debt – Commerzbank",
+      "link": "https://www.fxstreet.com/news/european-central-bank-independence-risks-rise-with-debt-commerzbank-202608131142",
+      "datum": "2026-08-13T11:42:28.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -61,34 +97,10 @@
       "datum": "2026-08-13T09:14:34.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc holds ground following domestic Producer and Import Prices data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-holds-ground-following-domestic-producer-and-import-prices-data-202608130911",
-      "datum": "2026-08-13T09:11:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ hike expectations support JPY against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-expectations-support-jpy-against-us-dollar-mufg-202608130910",
-      "datum": "2026-08-13T09:10:23.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Euro area industrial output holds flat in June",
       "link": "https://investinglive.com/news/euro-area-industrial-output-holds-flat-in-june/",
       "datum": "2026-08-13T09:05:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Eurozone Industrial Production remains flat in June vs. -0.1% estimates",
-      "link": "https://www.fxstreet.com/news/eurozone-industrial-production-remains-flat-in-june-vs-01-estimates-202608130902",
-      "datum": "2026-08-13T09:02:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro bounces off one-week low, holds above 1.1500 vs USD as traders look to US PPI",
-      "link": "https://www.fxstreet.com/news/euro-bounces-off-one-week-low-holds-above-11500-vs-usd-as-traders-look-to-us-ppi-202608130854",
-      "datum": "2026-08-13T08:54:24.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-24/",
       "datum": "2026-08-13T06:33:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK Q2 preliminary GDP +0.4% vs +0.4% q/q expected",
-      "link": "https://investinglive.com/news/uk-q2-preliminary-gdp-vs-0-4-q-q-expected/",
-      "datum": "2026-08-13T06:00:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK economy posts unexpected growth in June on stronger services sector showing",
-      "link": "https://investinglive.com/news/uk-economy-posts-unexpected-growth-in-june-on-stronger-services-sector-showing/",
-      "datum": "2026-08-13T06:00:06.000Z"
     }
   ]
 }

@@ -8490,6 +8490,16 @@
       "vorher": "-120.3B",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-14T02:02:00-04:00|CNY|Foreign Direct Investment ytd/y": {
+      "datum": "2026-08-14T02:02:00-04:00",
+      "land": "CNY",
+      "titel": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-5.0%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T05:06:04.397Z",
+  "stand": "2026-08-13T07:15:06.387Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 2,
       "tiltCot": -5,
-      "tiltZins": 3,
-      "tiltGesamt": -2,
-      "score": 0,
+      "tiltZins": 2,
+      "tiltGesamt": -3,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Kleiner Dollar-Rückenwind, aber UK-BIP (Do) ist der Test. COT-Short-Squeeze-Risiko nach oben. Vor der Zahl nahe neutral."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": 4,
       "tiltCot": 2,
-      "tiltZins": -5,
-      "tiltGesamt": -3,
-      "score": 1,
+      "tiltZins": -6,
+      "tiltGesamt": -4,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Der Yen schwächte sich wieder über 159 ab (Interventions-Effekt verpufft, Carry dominiert) — das hebt das Paar leicht. Der weiche Dollar deckelt den Anstieg. Track 25 % → nahe null gehalten."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 3,
       "tiltCot": -3,
-      "tiltZins": 2,
-      "tiltGesamt": -1,
-      "score": 2,
+      "tiltZins": 1,
+      "tiltGesamt": -2,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "RBA-Hold + Risk-on heben den Aussie leicht; Chinas Deflation bremst. Moderat."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": 0,
+      "tiltZins": -3,
+      "tiltGesamt": 2,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt knapp; Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
     },

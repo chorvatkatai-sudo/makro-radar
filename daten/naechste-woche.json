@@ -115,7 +115,7 @@
     "title": "House Price Index YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-3.3",
+    "previous": "-3.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -205,7 +205,17 @@
     "title": "FDI (YTD) YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-5",
+    "previous": "-5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-17T09:30:00.000Z",
+    "country": "EUR",
+    "title": "ECB Lane Speech",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -500,16 +510,6 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-08-18T06:30:00.000Z",
-    "country": "CHF",
-    "title": "Industrial Production YoY",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "-7.1%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
     "date": "2026-08-18T08:30:00.000Z",
     "country": "GBP",
     "title": "Labour Productivity QoQ",
@@ -536,6 +536,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "5.04%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-18T11:45:00.000Z",
+    "country": "EUR",
+    "title": "ECB Lane Speech",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -785,7 +795,7 @@
     "title": "Machinery Orders MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-12.4",
+    "previous": "-12.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -966,6 +976,26 @@
     "impact": "Low",
     "forecast": "",
     "previous": "0.3%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-19T06:30:00.000Z",
+    "country": "CHF",
+    "title": "Industrial Production YoY",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "-7.1%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-19T07:10:00.000Z",
+    "country": "EUR",
+    "title": "ECB President Lagarde Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1245,7 +1275,7 @@
     "title": "Balance of Trade",
     "impact": "High",
     "forecast": "",
-    "previous": "-406.9",
+    "previous": "-406.9 ¥",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1386,6 +1416,16 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "-45",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-20T11:30:00.000Z",
+    "country": "EUR",
+    "title": "ECB Monetary Policy Meeting Accounts",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1545,7 +1585,7 @@
     "title": "EIA Natural Gas Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "36",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1685,7 +1725,7 @@
     "title": "Inflation Rate MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.3",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1705,7 +1745,7 @@
     "title": "Inflation Rate YoY",
     "impact": "High",
     "forecast": "",
-    "previous": "1.7",
+    "previous": "1.7%",
     "actual": null,
     "quelle": "tradingview"
   },

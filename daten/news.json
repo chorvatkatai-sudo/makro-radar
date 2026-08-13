@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T14:17:38.929Z",
+  "stand": "2026-08-13T15:51:36.923Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Safe haven support versus Fed repricing – Rabobank",
-      "link": "https://www.fxstreet.com/news/us-dollar-safe-haven-support-versus-fed-repricing-rabobank-202608131412",
-      "datum": "2026-08-13T14:12:23.000Z"
+      "titel": "Carry Trade: Supportive backdrop holds – OCBC",
+      "link": "https://www.fxstreet.com/news/carry-trade-supportive-backdrop-holds-ocbc-202608131551",
+      "datum": "2026-08-13T15:51:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Europe: Extreme weather weighs on growth – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/europe-extreme-weather-weighs-on-growth-standard-chartered-202608131401",
-      "datum": "2026-08-13T14:01:12.000Z"
+      "titel": "United Kingdom: Upside GDP surprise, limited BoE impact – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-kingdom-upside-gdp-surprise-limited-boe-impact-td-securities-202608131515",
+      "datum": "2026-08-13T15:15:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Food inflation jumped to 5.52% and the Reserve Bank of India held at 5.25%: Why rate hikes are still on the table",
-      "link": "https://www.fxstreet.com/news/food-inflation-jumped-to-552-and-the-reserve-bank-of-india-held-at-525-why-rate-hikes-are-still-on-the-table-202608131355",
-      "datum": "2026-08-13T13:55:29.000Z"
+      "titel": "Poland: Fuel-driven inflation rise contained – ING",
+      "link": "https://www.fxstreet.com/news/poland-fuel-driven-inflation-rise-contained-ing-202608131503",
+      "datum": "2026-08-13T15:03:19.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+      "datum": "2026-08-13T15:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United Kingdom: Growth risks tilt higher – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-growth-risks-tilt-higher-deutsche-bank-202608131351",
-      "datum": "2026-08-13T13:51:26.000Z"
+      "titel": "India: Inflation path higher into FY27 – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/india-inflation-path-higher-into-fy27-standard-chartered-202608131456",
+      "datum": "2026-08-13T14:56:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Norges Bank: Disinflation slows rate path – Nomura",
-      "link": "https://www.fxstreet.com/news/norges-bank-disinflation-slows-rate-path-nomura-202608131343",
-      "datum": "2026-08-13T13:43:09.000Z"
+      "titel": "United States: Equities favored over Treasuries – BNY",
+      "link": "https://www.fxstreet.com/news/united-states-equities-favored-over-treasuries-bny-202608131449",
+      "datum": "2026-08-13T14:49:49.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve: Trump pressure and rate risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-trump-pressure-and-rate-risks-commerzbank-202608131333",
-      "datum": "2026-08-13T13:33:44.000Z"
+      "titel": "Canadian Dollar steadies as falling Oil offsets US Dollar weakness",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-falling-oil-offsets-us-dollar-weakness-202608131447",
+      "datum": "2026-08-13T14:47:33.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Yield support erodes on weaker inflation – DBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-yield-support-erodes-on-weaker-inflation-dbs-202608131324",
-      "datum": "2026-08-13T13:24:18.000Z"
+      "titel": "United Kingdom: Softer second-half growth expected – Societe Generale",
+      "link": "https://www.fxstreet.com/news/united-kingdom-softer-second-half-growth-expected-societe-generale-202608131443",
+      "datum": "2026-08-13T14:43:28.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "\"Still an open question\": Fed’s Barkin keeps possibility of rate hike alive",
-      "link": "https://www.fxstreet.com/news/still-an-open-question-feds-barkin-keeps-possibility-of-rate-hike-alive-202608131311",
-      "datum": "2026-08-13T13:11:07.000Z"
+      "titel": "Euro holds steady against Pound Sterling despite steady UK growth",
+      "link": "https://www.fxstreet.com/news/euro-holds-steady-against-pound-sterling-despite-steady-uk-growth-202608131442",
+      "datum": "2026-08-13T14:42:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Choppy range trading outlook against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-choppy-range-trading-outlook-against-us-dollar-rabobank-202608131311",
-      "datum": "2026-08-13T13:11:03.000Z"
+      "titel": "Canada: Spending resilience with energy pressures – RBC",
+      "link": "https://www.fxstreet.com/news/canada-spending-resilience-with-energy-pressures-rbc-202608131435",
+      "datum": "2026-08-13T14:35:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Policy support for BoJ hikes – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-support-for-boj-hikes-bbh-202608131302",
-      "datum": "2026-08-13T13:02:11.000Z"
+      "titel": "Euro edges higher against US Dollar after soft US PPI data",
+      "link": "https://www.fxstreet.com/news/euro-edges-higher-against-us-dollar-after-soft-us-ppi-data-202608131430",
+      "datum": "2026-08-13T14:30:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Turkish Lira: Further depreciation seen against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/turkish-lira-further-depreciation-seen-against-us-dollar-commerzbank-202608131250",
-      "datum": "2026-08-13T12:50:27.000Z"
+      "titel": "Norwegian Krone: Softer Norges Bank stance weighs – BBH",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-softer-norges-bank-stance-weighs-bbh-202608131425",
+      "datum": "2026-08-13T14:25:31.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Spain inflation nudges higher in July as both headline and core prices push up",
       "link": "https://investinglive.com/news/spain-inflation-nudges-higher-in-july-as-both-headline-and-core-prices-push-up/",
       "datum": "2026-08-13T07:00:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-24/",
-      "datum": "2026-08-13T06:33:23.000Z"
     }
   ]
 }

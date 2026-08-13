@@ -1615,7 +1615,7 @@
     "title": "15-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.01",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1625,7 +1625,7 @@
     "title": "30-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.67",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1735,7 +1735,7 @@
     "title": "Core Inflation Rate YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "1.6",
+    "previous": "1.6%",
     "actual": null,
     "quelle": "tradingview"
   },

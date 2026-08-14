@@ -8398,8 +8398,8 @@
       "impact": "Medium",
       "prognose": "0.2%",
       "vorher": "-0.2%",
-      "actual": null,
-      "notiz": null
+      "actual": "-0.3%",
+      "notiz": "auto:FRED RSFSXMV (Ref 2026-07-01)"
     },
     "2026-08-14T08:30:00-04:00|USD|Retail Sales m/m": {
       "datum": "2026-08-14T08:30:00-04:00",
@@ -8408,8 +8408,8 @@
       "impact": "Medium",
       "prognose": "0.1%",
       "vorher": "0.2%",
-      "actual": null,
-      "notiz": null
+      "actual": "-0.6%",
+      "notiz": "auto:FRED RSAFS (Ref 2026-07-01)"
     },
     "2026-08-14T10:00:00-04:00|USD|Prelim UoM Consumer Sentiment": {
       "datum": "2026-08-14T10:00:00-04:00",
@@ -8588,6 +8588,16 @@
       "impact": "Low",
       "prognose": "-50B",
       "vorher": "1610B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-14T15:00:00-04:00|USD|President Trump Speaks": {
+      "datum": "2026-08-14T15:00:00-04:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

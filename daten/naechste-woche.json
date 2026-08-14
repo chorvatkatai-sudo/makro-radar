@@ -262,6 +262,16 @@
   {
     "date": "2026-08-17T12:30:00.000Z",
     "country": "CAD",
+    "title": "New Motor Vehicle Sales",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "190.6",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-17T12:30:00.000Z",
+    "country": "CAD",
     "title": "CPI Trimmed-Mean YoY",
     "impact": "Low",
     "forecast": "",

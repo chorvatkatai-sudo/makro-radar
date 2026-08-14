@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T16:42:17.511Z",
+  "stand": "2026-08-14T17:45:34.305Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 9,
       "tiltCot": -5,
-      "tiltZins": 7,
-      "tiltGesamt": 2,
-      "score": 11,
+      "tiltZins": 6,
+      "tiltGesamt": 1,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "UK-Wachstum beat + britische Zinsen steigen am stärksten + Falken in der BoE. Dollar-Schwäche zieht mit. UK-CPI Mi ist der Katalysator."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -10,
       "tiltCot": 2,
-      "tiltZins": -5,
-      "tiltGesamt": -3,
-      "score": -13,
+      "tiltZins": -4,
+      "tiltGesamt": -2,
+      "score": -12,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach (~163) + Carry. Interventionsrisiko der Regierung bleibt hoch."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 11,
       "tiltCot": -3,
-      "tiltZins": 4,
-      "tiltGesamt": 1,
-      "score": 12,
+      "tiltZins": 3,
+      "tiltGesamt": 0,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,5). RBA-Hochzins 4,35 %. Bremse: China-Daten Mo."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": -7,
-      "tiltGesamt": -2,
-      "score": -11,
+      "tiltZins": -6,
+      "tiltGesamt": -1,
+      "score": -10,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + stabiles Öl + falkenhafte BoC sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
     },

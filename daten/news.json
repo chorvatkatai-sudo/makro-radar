@@ -1,11 +1,29 @@
 {
-  "stand": "2026-08-14T16:42:17.510Z",
+  "stand": "2026-08-14T17:45:34.303Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rallies as weak US data dents Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-rallies-as-weak-us-data-dents-fed-hike-bets-202608141739",
+      "datum": "2026-08-14T17:39:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Gains target 1407 against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-gains-target-1407-against-us-dollar-societe-generale-202608141739",
+      "datum": "2026-08-14T17:39:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Range trade persists near 6.7450 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-near-67450-against-us-dollar-uob-202608141700",
+      "datum": "2026-08-14T17:00:49.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "The Dow Jones Industrial Average learns who paid for disinflation",
@@ -56,27 +74,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indonesia: Policy continuity supports Rupiah – ING",
-      "link": "https://www.fxstreet.com/news/indonesia-policy-continuity-supports-rupiah-ing-202608141545",
-      "datum": "2026-08-14T15:45:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
       "titel": "British Pound hits three-month high as weak US sales deepen USD slide",
       "link": "https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543",
       "datum": "2026-08-14T15:43:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Policy risks support gains against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-risks-support-gains-against-us-dollar-scotiabank-202608141537",
-      "datum": "2026-08-14T15:37:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Copper: Rally pauses as Chinese demand signal softens – Commerzbank",
-      "link": "https://www.fxstreet.com/news/copper-rally-pauses-as-chinese-demand-signal-softens-commerzbank-202608141529",
-      "datum": "2026-08-14T15:29:00.000Z"
     },
     {
       "quelle": "ForexLive",

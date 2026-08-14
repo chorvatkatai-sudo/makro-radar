@@ -1,11 +1,71 @@
 {
-  "stand": "2026-08-14T15:43:06.647Z",
+  "stand": "2026-08-14T16:42:17.510Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones Industrial Average learns who paid for disinflation",
+      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-learns-who-paid-for-disinflation-202608141635",
+      "datum": "2026-08-14T16:35:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar charges toward 0.5900 as US Dollar loses ground",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-charges-toward-05900-as-us-dollar-loses-ground-202608141628",
+      "datum": "2026-08-14T16:28:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Natural gas: Tight European balance and storage risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/natural-gas-tight-european-balance-and-storage-risks-commerzbank-202608141617",
+      "datum": "2026-08-14T16:17:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-but-struggles-for-fresh-momentum-202608141614",
+      "datum": "2026-08-14T16:14:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Spreads support upside bias against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-spreads-support-upside-bias-against-us-dollar-scotiabank-202608141609",
+      "datum": "2026-08-14T16:09:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/GBP stuck in a tight range as traders observe the war",
+      "link": "https://www.fxstreet.com/news/eur-gbp-stuck-in-a-tight-range-as-traders-observe-the-war-202608141606",
+      "datum": "2026-08-14T16:06:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ASEAN FX: Regional data and growth concerns – MUFG",
+      "link": "https://www.fxstreet.com/news/asean-fx-regional-data-and-growth-concerns-mufg-202608141601",
+      "datum": "2026-08-14T16:01:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Core softness guides BoC path – TD Securities",
+      "link": "https://www.fxstreet.com/news/canada-core-softness-guides-boc-path-td-securities-202608141553",
+      "datum": "2026-08-14T15:53:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesia: Policy continuity supports Rupiah – ING",
+      "link": "https://www.fxstreet.com/news/indonesia-policy-continuity-supports-rupiah-ing-202608141545",
+      "datum": "2026-08-14T15:45:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound hits three-month high as weak US sales deepen USD slide",
+      "link": "https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543",
+      "datum": "2026-08-14T15:43:58.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Japanese Yen: Policy risks support gains against US Dollar – Scotiabank",
@@ -17,60 +77,6 @@
       "titel": "Copper: Rally pauses as Chinese demand signal softens – Commerzbank",
       "link": "https://www.fxstreet.com/news/copper-rally-pauses-as-chinese-demand-signal-softens-commerzbank-202608141529",
       "datum": "2026-08-14T15:29:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Norwegian Krone: Range-bound near term, stronger in 2027 against Euro – Nordea",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-range-bound-near-term-stronger-in-2027-against-euro-nordea-202608141521",
-      "datum": "2026-08-14T15:21:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Data-driven outlook in focus – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-data-driven-outlook-in-focus-mufg-202608141511",
-      "datum": "2026-08-14T15:11:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro gains against Japanese Yen as ECB, BoJ rate hike bets intensify",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-japanese-yen-as-ecb-boj-rate-hike-bets-intensify-202608141507",
-      "datum": "2026-08-14T15:07:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Bullish momentum points to gains against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-points-to-gains-against-us-dollar-scotiabank-202608141505",
-      "datum": "2026-08-14T15:05:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Activity slowdown and LPR hold – ING",
-      "link": "https://www.fxstreet.com/news/china-activity-slowdown-and-lpr-hold-ing-202608141454",
-      "datum": "2026-08-14T14:54:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro climbs as fading Fed hike expectations pressure US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-climbs-as-fading-fed-hike-expectations-pressure-us-dollar-202608141445",
-      "datum": "2026-08-14T14:45:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Upside seen as Fed hike bets fade – Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-upside-seen-as-fed-hike-bets-fade-commerzbank-202608141445",
-      "datum": "2026-08-14T14:45:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Labour strength supports further hikes – Nordea",
-      "link": "https://www.fxstreet.com/news/federal-reserve-labour-strength-supports-further-hikes-nordea-202608141437",
-      "datum": "2026-08-14T14:37:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Inflation risks tilt higher – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-kingdom-inflation-risks-tilt-higher-td-securities-202608141428",
-      "datum": "2026-08-14T14:28:51.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "investingLive European session wrap: Dollar falls, gold rebounds amid mixed markets",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-falls-gold-rebounds-amid-mixed-markets/",
       "datum": "2026-08-14T11:53:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade",
-      "link": "https://www.fxstreet.com/news/gold-bounces-from-weekly-low-on-softer-us-dollar-fading-september-fed-hike-bets-202608141116",
-      "datum": "2026-08-14T11:16:24.000Z"
     }
   ]
 }

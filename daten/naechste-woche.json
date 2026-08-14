@@ -454,7 +454,7 @@
     "country": "GBP",
     "title": "Average Earnings excl. Bonus (3Mo/Yr)",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3.3%",
     "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -474,7 +474,7 @@
     "country": "GBP",
     "title": "Claimant Count Change",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "9",
     "previous": "6.7",
     "actual": null,
     "quelle": "tradingview"
@@ -484,7 +484,7 @@
     "country": "GBP",
     "title": "Average Earnings incl. Bonus (3Mo/Yr)",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "4%",
     "previous": "4.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -504,7 +504,7 @@
     "country": "GBP",
     "title": "Unemployment Rate",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4.9%",
     "previous": "4.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -604,7 +604,7 @@
     "country": "USD",
     "title": "Import Prices MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -614,7 +614,7 @@
     "country": "USD",
     "title": "Building Permits Prel",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.39",
     "previous": "1.374",
     "actual": null,
     "quelle": "tradingview"
@@ -644,7 +644,7 @@
     "country": "USD",
     "title": "Export Prices MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-0.2%",
     "previous": "-0.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -734,7 +734,7 @@
     "country": "USD",
     "title": "Pending Home Sales MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.5%",
     "previous": "-5.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -794,7 +794,7 @@
     "country": "JPY",
     "title": "Machinery Orders MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "7.8%",
     "previous": "-12.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -804,8 +804,8 @@
     "country": "JPY",
     "title": "Machinery Orders YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "-1.9",
+    "forecast": "10.8%",
+    "previous": "-1.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -814,7 +814,7 @@
     "country": "AUD",
     "title": "Wage Price Index QoQ",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.8%",
     "previous": "0.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -924,7 +924,7 @@
     "country": "GBP",
     "title": "Core Inflation Rate YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.7%",
     "previous": "2.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -944,7 +944,7 @@
     "country": "GBP",
     "title": "Retail Price Index YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3%",
     "previous": "3%",
     "actual": null,
     "quelle": "tradingview"
@@ -954,7 +954,7 @@
     "country": "GBP",
     "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "3%",
     "previous": "2.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -984,7 +984,7 @@
     "country": "CHF",
     "title": "Industrial Production YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-4.7%",
     "previous": "-7.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -1264,8 +1264,8 @@
     "country": "JPY",
     "title": "Imports YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "25.4",
+    "forecast": "26.5%",
+    "previous": "25.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1274,7 +1274,7 @@
     "country": "JPY",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "",
+    "forecast": "-680 ¥",
     "previous": "-406.9 ¥",
     "actual": null,
     "quelle": "tradingview"
@@ -1284,8 +1284,8 @@
     "country": "JPY",
     "title": "Exports YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "19.3",
+    "forecast": "19.9%",
+    "previous": "19.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1324,7 +1324,7 @@
     "country": "AUD",
     "title": "Employment Change",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "15.5",
     "previous": "76.3",
     "actual": null,
     "quelle": "tradingview"
@@ -1334,7 +1334,7 @@
     "country": "AUD",
     "title": "Unemployment Rate",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "4.4%",
     "previous": "4.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -1595,7 +1595,7 @@
     "title": "8-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.665%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1605,7 +1605,7 @@
     "title": "4-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.625%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1784,7 +1784,7 @@
     "country": "JPY",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "54.5",
     "previous": "54.5",
     "actual": null,
     "quelle": "tradingview"

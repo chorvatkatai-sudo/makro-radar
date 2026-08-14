@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T09:01:01.588Z",
+  "stand": "2026-08-14T10:51:05.372Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,63 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Approaches 0.5900 resistance area as US Dollar weakens",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-approaches-05900-resistance-area-as-us-dollar-weakens-202608141037",
+      "datum": "2026-08-14T10:37:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "UoM Consumer Sentiment Index set to ease as inflation, labour market worries loom",
+      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-ease-as-inflation-labour-market-worries-loom-202608141000",
+      "datum": "2026-08-14T10:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro holds gains above 1.1550 following Eurozone GDP and bright Trade Balance data",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11550-following-eurozone-gdp-and-bright-trade-balance-data-202608140959",
+      "datum": "2026-08-14T09:59:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Looking for a shift in Fedspeak – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-looking-for-a-shift-in-fedspeak-ing-202608140945",
+      "datum": "2026-08-14T09:45:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Bearish bias within 158.00–160.20 band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-15800-16020-band-against-us-dollar-uob-202608140937",
+      "datum": "2026-08-14T09:37:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608140931",
+      "datum": "2026-08-14T09:31:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver regains ground above $64 as Fed rate hike bets fade",
+      "link": "https://www.fxstreet.com/news/silver-regains-ground-above-64-as-fed-rate-hike-bets-fade-202608140931",
+      "datum": "2026-08-14T09:31:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Brazilian Real: Election risks threaten Real – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-threaten-real-societe-generale-202608140927",
+      "datum": "2026-08-14T09:27:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: RBA keeps hike option open – Rabobank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hike-option-open-rabobank-202608140918",
+      "datum": "2026-08-14T09:18:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: RMP pause and QT timing – TD Securities",
+      "link": "https://www.fxstreet.com/news/federal-reserve-rmp-pause-and-qt-timing-td-securities-202608140908",
+      "datum": "2026-08-14T09:08:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China new bank loans contract again in July, the second time this year",
+      "link": "https://investinglive.com/news/china-new-bank-loans-contract-again-in-july-the-second-time-this-year/",
+      "datum": "2026-08-14T09:07:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Eurozone Q2 GDP growth remains at 0.4%, as flash data showed",
+      "link": "https://www.fxstreet.com/news/eurozone-q2-gdp-growth-remains-at-04-as-flash-data-showed-202608140902",
+      "datum": "2026-08-14T09:02:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone Q2 GDP second estimate +0.4% vs +0.4% q/q prelim",
+      "link": "https://investinglive.com/news/eurozone-q2-gdp-second-estimate-0-4-vs-0-4-q-q-prelim/",
+      "datum": "2026-08-14T09:01:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "US Dollar Index Price Forecast: DXY declines to 99.75-99.70 amid receding Fed hike bets",
       "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-declines-to-9975-9970-amid-receding-fed-hike-bets-202608140858",
       "datum": "2026-08-14T08:58:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Picks up above 1.3500 amid generalised US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-picks-up-above-13500-amid-generalised-us-dollar-weakness-202608140855",
-      "datum": "2026-08-14T08:55:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Growth resilience supports gains against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-growth-resilience-supports-gains-against-us-dollar-mufg-202608140854",
-      "datum": "2026-08-14T08:54:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Carry trades supported as Fed seen on hold – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-carry-trades-supported-as-fed-seen-on-hold-ocbc-202608140846",
-      "datum": "2026-08-14T08:46:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro flattens against Japanese Yen, ECB-BoJ to raise rates in September",
-      "link": "https://www.fxstreet.com/news/euro-flattens-against-japanese-yen-ecb-boj-to-raise-rates-in-september-202608140841",
-      "datum": "2026-08-14T08:41:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Shifting rate expectations and currency support – Commerzbank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-shifting-rate-expectations-and-currency-support-commerzbank-202608140838",
-      "datum": "2026-08-14T08:38:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI support offsets wider trade gap – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-offsets-wider-trade-gap-societe-generale-202608140819",
-      "datum": "2026-08-14T08:19:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Upside risk intact above support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-support-against-us-dollar-uob-202608140810",
-      "datum": "2026-08-14T08:10:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brent: Geopolitical premium eases after six-day rally – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-geopolitical-premium-eases-after-six-day-rally-deutsche-bank-202608140802",
-      "datum": "2026-08-14T08:02:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen recovers from two-week low on fast BoJ rate hike bets, softer USD",
-      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-from-two-week-low-on-fast-boj-rate-hike-bets-softer-usd-202608140800",
-      "datum": "2026-08-14T08:00:01.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -85,34 +109,10 @@
       "datum": "2026-08-14T06:00:22.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee flattens while approaching weekend",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525",
-      "datum": "2026-08-14T05:25:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold recovers intraday losses as reduced Fed hike bets offset geopolitics and weigh on USD",
-      "link": "https://www.fxstreet.com/news/gold-extends-pullback-from-two-month-high-as-iran-risks-counter-receding-fed-hike-bets-202608140341",
-      "datum": "2026-08-14T03:41:34.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific Market news: Oil edges up, small move",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-edges-up-small-move/",
       "datum": "2026-08-14T03:40:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump orders more tariffs, this time up to 100% on drone imports. Cites security.",
-      "link": "https://investinglive.com/news/trump-orders-more-tariffs-this-time-up-to-100-on-drone-imports-cites-security/",
-      "datum": "2026-08-14T03:04:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Follow-up: Latvia shoots down drone hours after issuing air threat alert",
-      "link": "https://investinglive.com/news/follow-up-latvia-shoots-down-drone-hours-after-issuing-air-threat-alert/",
-      "datum": "2026-08-14T02:37:03.000Z"
     }
   ]
 }

@@ -15,7 +15,7 @@
     "USD": {
       "stimmung": "neutral",
       "score": -4,
-      "grund": "Die US-Kern-Inflation kühlte gestern wie erwartet auf 2,5 % (niedrigste seit 2021) — die Zoll-Inflationsangst bestätigte sich nicht. Das ist leicht dollar-negativ, doch der Boden hält: Warsh bleibt hawkish, die Realzinsen sind hoch (~2,4 %) und teures Öl schürt neue Preissorgen. Sept-Zug offen (Anhebungswette ~42 %). Per saldo weich, aber nicht gebrochen."
+      "grund": "Die US-Inflation kühlte diese Woche doppelt: Verbraucherpreise (Kern 2,5 %, niedrigste seit 2021) UND gestern die Erzeugerpreise (praktisch flach). Das ist leicht dollar-negativ, doch der Boden hält: Warsh bleibt hawkish, die Realzinsen sind hoch (~2,4 %) und teures Öl schürt neue Preissorgen. Sept-Anhebungswette nur noch ~42 %. Per saldo weich, aber nicht gebrochen."
     },
     "EUR": {
       "stimmung": "neutral",
@@ -25,7 +25,7 @@
     "GBP": {
       "stimmung": "neutral",
       "score": 2,
-      "grund": "Leichter Dollar-Rückenwind, aber heute (Do) kommt das UK-BIP — schwach würde bremsen. COT-Shorts (z −1,18) bergen etwas Squeeze-Risiko nach oben. Vor der Zahl bewusst nahe neutral."
+      "grund": "Das UK-BIP (Q2 +0,4 %, Juni +0,3 %) fiel solide aus — die Wirtschaft stolpert nicht, aber das Pfund reagierte kaum. Leichter Dollar-Rückenwind; COT-Shorts (z −1,18) bergen etwas Squeeze-Risiko nach oben. Bewusst nahe neutral."
     },
     "JPY": {
       "stimmung": "bärisch",
@@ -173,19 +173,19 @@
     "POSITIONIERUNG ALS ZÜNDER UND WARNUNG ZUGLEICH: Die Großspekulanten sind quer über alle Währungen netto-short gegen den Dollar (EUR sogar extrem, z −2,04). Das ist Squeeze-Treibstoff, wenn der Dollar fällt (verstärkt die Bewegung) — aber bei Extremen zugleich ein Reversal-Warnsignal. Deshalb tilte ich die Extreme nur gedämpft (Cap ±5 seit dem Tuning)."
   ],
   "tagesnews": {
-    "stand": "2026-08-13",
-    "wochentag": "Donnerstag",
-    "tenor": "Die US-Inflation kühlte gestern wie erwartet ab (die Kernrate ist so niedrig wie seit 2021 nicht mehr) — das nimmt Druck von der Fed, hält den Dollar aber nur weich, nicht gebrochen. Heute richtet sich der Blick auf britisches Wachstum (früh) und US-Erzeugerpreise (nachmittags).",
+    "stand": "2026-08-14",
+    "wochentag": "Freitag",
+    "tenor": "Ruhiger Wochenausklang mit weichem Dollar: Nach der zahmen US-Inflation kamen gestern auch die Erzeugerpreise flau — die Fed hat Zeit. Heute runden US-Einzelhandel (nachmittags) und Verbraucherstimmung die Woche ab; Öl fest, Gold auf Rekordkurs.",
     "heute": [
-      "🇬🇧 UK-Wirtschaftswachstum (2. Quartal, 08:00 Wien): erwartet +0,4 % zum Vorquartal, der Einzelmonat Juni flach (0,0 %). Zeigt, ob die zuletzt robuste britische Wirtschaft an Schwung verliert — schwach würde das Pfund bremsen.",
-      "🇺🇸 US-Erzeugerpreise PPI (14:30 Wien): erwartet +0,2 % im Monat (Kern +0,3 %) — das ist die Inflation eine Stufe früher in der Kette (was die Firmen zahlen, bevor es beim Kunden ankommt). Dazu die wöchentlichen Erstanträge auf Arbeitslosenhilfe (~202k) als Puls des Arbeitsmarkts.",
-      "🗣️ Kleinere Daten (Schweizer Erzeugerpreise, Euro-Industrieproduktion) und zwei Fed-Redner (Hammack, Barkin) — kein großer Kurs-Treiber, aber Töne zur Zinsrichtung."
+      "🇺🇸 US-Einzelhandel Juli (14:30 Wien): erwartet +0,1 % im Monat (Kern +0,2 %). Das misst, wie viel die Amerikaner in den Läden ausgeben — der wichtigste Puls des Konsums, der rund zwei Drittel der US-Wirtschaft trägt. Stark = Dollar-Stütze, schwach = mehr Zinssenkungs-Fantasie.",
+      "🇺🇸 Uni-Michigan-Verbrauchervertrauen (16:00 Wien, vorläufig): erwartet 54,7. Misst die Laune der Verbraucher und ihre Inflationserwartung — schlechte Stimmung heute heißt oft weniger Ausgaben morgen.",
+      "🇪🇺 Eurozone-Wachstum 2. Quartal (Schnellschätzung, 11:00 Wien): erwartet +0,4 %. Zusammen mit der französischen Inflation der Euro-Datenpunkt des Tages — zeigt, ob die Eurozone mit den USA mithält."
     ],
     "gestern": [
-      "🇺🇸 US-Verbraucherpreise Juli (Mi): Gesamt +0,1 % im Monat / 3,4 % im Jahr, die KERN-Rate (ohne Sprit & Lebensmittel — der Wert, auf den die Fed am meisten schaut) nur +0,2 % im Monat / 2,5 % im Jahr = niedrigste Kernrate seit März 2021. Kam wie erwartet, tendenziell sogar etwas kühler — die Zoll-Inflationsangst bestätigte sich NICHT. Wetten auf eine September-Zinsanhebung fielen auf ~42 %, der Dollar gab minimal nach (Dollar-Index ~100), Aktien stiegen.",
-      "🇯🇵 Der Yen schwächte sich wieder über 159 je Dollar ab — rund die Hälfte des Sprungs aus der mutmaßlichen Intervention Ende Juli ist schon wieder weg. Der Zins-Nachteil (Carry) zieht den Yen erneut nach unten.",
-      "🇦🇺 Die RBA hielt den Leitzins bei 4,35 % (Di, 2. Sitzung in Folge) — wegen langsamerem Wachstum und weicherer Inflation; wie erwartet, der Aussie bewegte sich kaum.",
-      "🥇🛢️ Gold hält sich nahe Rekord (~4.400 $, +10 % im Monat), Öl bleibt fest (WTI ~83 $, +8 % auf Wochensicht wegen des Hormus-Streits) — Rückenwind für den Rohstoff-Loonie (CAD)."
+      "🇺🇸 US-Erzeugerpreise PPI Juli (Do): praktisch FLACH (−0,0 % im Monat statt erwarteter +0,2 %), Jahresrate 4,7 % (unter 4,9 % erwartet). Das ist die Inflation eine Stufe VOR dem Kunden — und auch dort kühlt sie. Zusammen mit der zahmen Kern-Inflation vom Mittwoch: die Fed kann entspannt abwarten. Der Dollar blieb weich (Index knapp unter 100).",
+      "🇬🇧 UK-Wachstum 2. Quartal +0,4 % (wie erwartet), der Einzelmonat Juni sogar +0,3 % (besser als die erwarteten 0,0 %) — die britische Wirtschaft stolpert nicht. Trotzdem reagierte das Pfund kaum (GBP/USD ~1,35): Die Anleger trauen dem Aufschwung noch nicht ganz.",
+      "🇯🇵 Der Yen bleibt schwach über 159 je Dollar — der Zinsnachteil (Carry) zieht ihn weiter nach unten, der Effekt der mutmaßlichen Intervention von Ende Juli ist fast verpufft.",
+      "🥇🛢️ Gold auf Rekordkurs (~4.400 $, +1,5 % auf Wochensicht), Öl fest (WTI ~81 $, +3,9 % Wo, Hormus-Streit) — Rückenwind für den Rohstoff-Loonie (CAD), Gegenwind für Öl-Importeure wie Euro und Yen."
     ]
   }
 }

@@ -1892,16 +1892,6 @@
   {
     "date": "2026-08-21T08:00:00.000Z",
     "country": "EUR",
-    "title": "ECB Consumer Inflation Expectations",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-21T08:00:00.000Z",
-    "country": "EUR",
     "title": "S&P Global Composite PMI Flash",
     "impact": "Medium",
     "forecast": "",

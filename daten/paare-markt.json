@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T14:04:03.854Z",
+  "stand": "2026-08-14T14:06:06.145Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 9,
       "tiltCot": -5,
-      "tiltZins": 6,
-      "tiltGesamt": 1,
-      "score": 10,
+      "tiltZins": 7,
+      "tiltGesamt": 2,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "UK-Wachstum beat + britische Zinsen steigen am stärksten + Falken in der BoE. Dollar-Schwäche zieht mit. UK-CPI Mi ist der Katalysator."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -10,
       "tiltCot": 2,
-      "tiltZins": -6,
-      "tiltGesamt": -4,
-      "score": -14,
+      "tiltZins": -5,
+      "tiltGesamt": -3,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach (~163) + Carry. Interventionsrisiko der Regierung bleibt hoch."
     },

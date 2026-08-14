@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T14:10:43.846Z",
+  "stand": "2026-08-14T15:43:06.647Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,9 +8,69 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Medium-term depreciation risks build – Nordea",
-      "link": "https://www.fxstreet.com/news/us-dollar-medium-term-depreciation-risks-build-nordea-202608141403",
-      "datum": "2026-08-14T14:03:05.000Z"
+      "titel": "Japanese Yen: Policy risks support gains against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-risks-support-gains-against-us-dollar-scotiabank-202608141537",
+      "datum": "2026-08-14T15:37:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Copper: Rally pauses as Chinese demand signal softens – Commerzbank",
+      "link": "https://www.fxstreet.com/news/copper-rally-pauses-as-chinese-demand-signal-softens-commerzbank-202608141529",
+      "datum": "2026-08-14T15:29:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Norwegian Krone: Range-bound near term, stronger in 2027 against Euro – Nordea",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-range-bound-near-term-stronger-in-2027-against-euro-nordea-202608141521",
+      "datum": "2026-08-14T15:21:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Data-driven outlook in focus – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-data-driven-outlook-in-focus-mufg-202608141511",
+      "datum": "2026-08-14T15:11:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro gains against Japanese Yen as ECB, BoJ rate hike bets intensify",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-japanese-yen-as-ecb-boj-rate-hike-bets-intensify-202608141507",
+      "datum": "2026-08-14T15:07:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Bullish momentum points to gains against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-points-to-gains-against-us-dollar-scotiabank-202608141505",
+      "datum": "2026-08-14T15:05:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Activity slowdown and LPR hold – ING",
+      "link": "https://www.fxstreet.com/news/china-activity-slowdown-and-lpr-hold-ing-202608141454",
+      "datum": "2026-08-14T14:54:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro climbs as fading Fed hike expectations pressure US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-climbs-as-fading-fed-hike-expectations-pressure-us-dollar-202608141445",
+      "datum": "2026-08-14T14:45:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Upside seen as Fed hike bets fade – Commerzbank",
+      "link": "https://www.fxstreet.com/news/gold-upside-seen-as-fed-hike-bets-fade-commerzbank-202608141445",
+      "datum": "2026-08-14T14:45:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Labour strength supports further hikes – Nordea",
+      "link": "https://www.fxstreet.com/news/federal-reserve-labour-strength-supports-further-hikes-nordea-202608141437",
+      "datum": "2026-08-14T14:37:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Inflation risks tilt higher – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-kingdom-inflation-risks-tilt-higher-td-securities-202608141428",
+      "datum": "2026-08-14T14:28:51.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -23,60 +83,6 @@
       "titel": "US August prelim UMich consumer sentiment 51.0 vs 54.5 expected",
       "link": "https://investinglive.com/news/us-august-prelim-umich-consumer-sentiment-51-0-vs-54-5-expected/",
       "datum": "2026-08-14T14:00:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Solid growth with limited tariff drag – RBC",
-      "link": "https://www.fxstreet.com/news/canada-solid-growth-with-limited-tariff-drag-rbc-202608141353",
-      "datum": "2026-08-14T13:53:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen gains on hawkish BoJ outlook and softer US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-on-hawkish-boj-outlook-and-softer-us-dollar-202608141353",
-      "datum": "2026-08-14T13:53:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Fed pause keeps systematic demand supported - TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-fed-pause-keeps-systematic-demand-supported-td-securities-202608141339",
-      "datum": "2026-08-14T13:39:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ policy story having little effect – ING",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-policy-story-having-little-effect-ing-202608141330",
-      "datum": "2026-08-14T13:30:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: BoE hawks get support from UK data – Rabobank",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-hawks-get-support-from-uk-data-rabobank-202608141321",
-      "datum": "2026-08-14T13:21:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Inflation keeps three rate hikes in play - Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-keeps-three-rate-hikes-in-play-nordea-202608141312",
-      "datum": "2026-08-14T13:12:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Norwegian Krone: Dovish turn risks NOK appeal – Societe Generale",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-dovish-turn-risks-nok-appeal-societe-generale-202608141259",
-      "datum": "2026-08-14T12:59:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Lower short-term yields weigh on the Greenback – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-lower-short-term-yields-weigh-on-the-greenback-mufg-202608141249",
-      "datum": "2026-08-14T12:49:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: War-driven price effects and inflation – UBS",
-      "link": "https://www.fxstreet.com/news/oil-war-driven-price-effects-and-inflation-ubs-202608141236",
-      "datum": "2026-08-14T12:36:23.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -104,15 +110,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold bounces from weekly low on softer US Dollar, fading September Fed hike bets",
+      "titel": "Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade",
       "link": "https://www.fxstreet.com/news/gold-bounces-from-weekly-low-on-softer-us-dollar-fading-september-fed-hike-bets-202608141116",
       "datum": "2026-08-14T11:16:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US UoM Consumer Sentiment Index is seen at 51.0 in August",
-      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-ease-as-inflation-labour-market-worries-loom-202608141000",
-      "datum": "2026-08-14T10:00:00.000Z"
     }
   ]
 }

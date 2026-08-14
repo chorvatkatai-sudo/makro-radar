@@ -1,11 +1,77 @@
 {
-  "stand": "2026-08-14T17:45:34.303Z",
+  "stand": "2026-08-14T20:23:04.054Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-steady-appreciation-backed-by-pboc-stance-societe-generale-202608142022",
+      "datum": "2026-08-14T20:22:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Pretty soon will be declaring Strait of Hormuz territory of the US",
+      "link": "https://investinglive.com/news/trump-pretty-soon-will-be-declaring-strait-of-hormuz-territory-of-the-us/",
+      "datum": "2026-08-14T20:04:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forecasting the upcoming week: FOMC Minutes take center stage next week",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fomc-minutes-take-center-stage-next-week-202608141942",
+      "datum": "2026-08-14T19:42:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Foreign inflows and exporters support KRW – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-foreign-inflows-and-exporters-support-krw-commerzbank-202608141939",
+      "datum": "2026-08-14T19:39:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: 100-Day SMA blocks bullish reversal",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-100-day-sma-blocks-bullish-reversal-202608141929",
+      "datum": "2026-08-14T19:29:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Activity data and PBOC stance guide FX – MUFG",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-activity-data-and-pboc-stance-guide-fx-mufg-202608141857",
+      "datum": "2026-08-14T18:57:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen holds as soft US data meets a weak Yen",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-as-soft-us-data-meets-a-weak-yen-202608141853",
+      "datum": "2026-08-14T18:53:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CAD Price Forecast: Bears target the 200-day SMA",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bears-target-the-200-day-sma-202608141824",
+      "datum": "2026-08-14T18:24:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dollar Index breaks on the fourth consecutive soft print",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-breaks-on-the-fourth-consecutive-soft-print-202608141823",
+      "datum": "2026-08-14T18:23:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Consolidation near 1.28 with upside risks against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-128-with-upside-risks-against-us-dollar-ocbc-202608141814",
+      "datum": "2026-08-14T18:14:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-holds-as-bulls-eye-08150-202608141804",
+      "datum": "2026-08-14T18:04:49.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold rallies as weak US data dents Fed hike bets",
@@ -17,66 +83,6 @@
       "titel": "South Korean Won: Gains target 1407 against US Dollar – Societe Generale",
       "link": "https://www.fxstreet.com/news/south-korean-won-gains-target-1407-against-us-dollar-societe-generale-202608141739",
       "datum": "2026-08-14T17:39:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Range trade persists near 6.7450 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-near-67450-against-us-dollar-uob-202608141700",
-      "datum": "2026-08-14T17:00:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Dow Jones Industrial Average learns who paid for disinflation",
-      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-learns-who-paid-for-disinflation-202608141635",
-      "datum": "2026-08-14T16:35:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar charges toward 0.5900 as US Dollar loses ground",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-charges-toward-05900-as-us-dollar-loses-ground-202608141628",
-      "datum": "2026-08-14T16:28:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Natural gas: Tight European balance and storage risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/natural-gas-tight-european-balance-and-storage-risks-commerzbank-202608141617",
-      "datum": "2026-08-14T16:17:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-but-struggles-for-fresh-momentum-202608141614",
-      "datum": "2026-08-14T16:14:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Spreads support upside bias against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-spreads-support-upside-bias-against-us-dollar-scotiabank-202608141609",
-      "datum": "2026-08-14T16:09:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP stuck in a tight range as traders observe the war",
-      "link": "https://www.fxstreet.com/news/eur-gbp-stuck-in-a-tight-range-as-traders-observe-the-war-202608141606",
-      "datum": "2026-08-14T16:06:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ASEAN FX: Regional data and growth concerns – MUFG",
-      "link": "https://www.fxstreet.com/news/asean-fx-regional-data-and-growth-concerns-mufg-202608141601",
-      "datum": "2026-08-14T16:01:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Core softness guides BoC path – TD Securities",
-      "link": "https://www.fxstreet.com/news/canada-core-softness-guides-boc-path-td-securities-202608141553",
-      "datum": "2026-08-14T15:53:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound hits three-month high as weak US sales deepen USD slide",
-      "link": "https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543",
-      "datum": "2026-08-14T15:43:58.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "US stocks hit records (again...), but oil and earnings risks are growing. What can you trade?",
       "link": "https://investinglive.com/news/us-stocks-hit-records-again-but-oil-and-earnings-risks-are-growing-what-can-you-trade/",
       "datum": "2026-08-14T12:19:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Dollar falls, gold rebounds amid mixed markets",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-falls-gold-rebounds-amid-mixed-markets/",
-      "datum": "2026-08-14T11:53:35.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T17:45:34.305Z",
+  "stand": "2026-08-14T20:23:04.056Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -16,10 +16,10 @@
     {
       "paar": "GBP/USD",
       "baseScore": 9,
-      "tiltCot": -5,
+      "tiltCot": -4,
       "tiltZins": 6,
-      "tiltGesamt": 1,
-      "score": 10,
+      "tiltGesamt": 2,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "UK-Wachstum beat + britische Zinsen steigen am stärksten + Falken in der BoE. Dollar-Schwäche zieht mit. UK-CPI Mi ist der Katalysator."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": -5,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on nimmt dem Franken aber etwas Schwung. Netto leicht bärisch fürs Paar."
     },

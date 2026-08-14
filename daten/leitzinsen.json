@@ -1,14 +1,14 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-08-07",
+  "stand": "2026-08-14",
   "zinsen": [
     {
       "code": "AUD",
       "bank": "RBA",
       "satz": 4.35,
       "anzeige": "4,35%",
-      "naechste": "11.8.2026",
-      "erwartung": "Halten bei 4,35% erwartet (alle 4 Großbanken + 37/37 Ökonomen). Nach kühlerer Q2-Inflation (Kern-Trimmed 3,6%) ist der Fall für eine Erhöhung erstmal vom Tisch. Ton von Gouverneurin Bullock ist der Schlüssel",
+      "naechste": "Ende Sep 2026",
+      "erwartung": "Am 11.8. bei 4,35% GEHALTEN (wie erwartet, einstimmig). Nach kühlerer Q2-Inflation (Kern-Trimmed 3,6%) ist der Fall für eine Erhöhung vom Tisch; Gouverneurin Bullock blieb geduldig-neutral. Höchster G10-Zins → Aussie-Rückenwind im Risk-on",
       "richtung": "halten"
     },
     {
@@ -26,7 +26,7 @@
       "satz": 3.625,
       "anzeige": "3,50–3,75%",
       "naechste": "17.9.2026",
-      "erwartung": "KEHRTWENDE nach dem Job-Schock: Im Juli sind 23k Stellen WEGGEFALLEN + 103k Abwärts-Revisionen → Markt preist jetzt ~90% eine ZINSSENKUNG (−0,25) im September ein. Warsh bleibt zwar falkenhaft (Inflation 'zu hoch'), aber die harten Arbeitsmarkt-Daten übertönen den Ton. US-CPI (12.8.) ist der letzte Test vor der Sitzung",
+      "erwartung": "Kehrtwende nach dem Job-Schock BESTÄTIGT: US-CPI Juli kühl (Kern 2,5% y/y, −0,1pp) + Einzelhandel −0,6% (Kollaps) → Markt preist ~85% eine ZINSSENKUNG (−0,25) am 17.9. ein. Warsh bleibt falkenhaft, aber die weichen Daten übertönen den Ton. FOMC-Protokoll (Mi 19.8.) + Warsh-Rede in Jackson Hole (Fr 28.8.) sind die nächsten Signale",
       "richtung": "runter"
     },
     {

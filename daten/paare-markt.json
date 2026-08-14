@@ -1,77 +1,77 @@
 {
-  "stand": "2026-08-14T12:54:41.485Z",
-  "ausBriefing": "2026-08-07",
+  "stand": "2026-08-14T14:04:03.854Z",
+  "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 5,
+      "baseScore": 11,
       "tiltCot": -1,
       "tiltZins": 6,
       "tiltGesamt": 5,
-      "score": 10,
+      "score": 16,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar nach der gekühlten US-Inflation stützt (EUR/USD nahe 1,16). Extreme EUR-COT-Shorts = Squeeze-Treibstoff. Track nur ~13 % → bewusst moderat."
+      "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + steigende Euro-Zinsen vs. fallende US-Zinsen + extreme EUR-Shorts als Squeeze-Treibstoff. EUR/USD nahe 1,17. Track nur 13 % → bewusst gedeckelt."
     },
     {
       "paar": "GBP/USD",
-      "baseScore": 2,
+      "baseScore": 9,
       "tiltCot": -5,
       "tiltZins": 6,
       "tiltGesamt": 1,
-      "score": 3,
+      "score": 10,
       "cotExtrem": null,
-      "treiber": "Kleiner Dollar-Rückenwind, aber UK-BIP (Do) ist der Test. COT-Short-Squeeze-Risiko nach oben. Vor der Zahl nahe neutral."
+      "treiber": "UK-Wachstum beat + britische Zinsen steigen am stärksten + Falken in der BoE. Dollar-Schwäche zieht mit. UK-CPI Mi ist der Katalysator."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 4,
+      "baseScore": -10,
       "tiltCot": 2,
       "tiltZins": -6,
       "tiltGesamt": -4,
-      "score": 0,
+      "score": -14,
       "cotExtrem": null,
-      "treiber": "Der Yen schwächte sich wieder über 159 ab (Interventions-Effekt verpufft, Carry dominiert) — das hebt das Paar leicht. Der weiche Dollar deckelt den Anstieg. Track 25 % → nahe null gehalten."
+      "treiber": "Schwacher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach (~163) + Carry. Interventionsrisiko der Regierung bleibt hoch."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 3,
+      "baseScore": 11,
       "tiltCot": -3,
       "tiltZins": 4,
       "tiltGesamt": 1,
-      "score": 4,
+      "score": 12,
       "cotExtrem": null,
-      "treiber": "RBA-Hold + Risk-on heben den Aussie leicht; Chinas Deflation bremst. Moderat."
+      "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,5). RBA-Hochzins 4,35 %. Bremse: China-Daten Mo."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -6,
+      "baseScore": -9,
       "tiltCot": 5,
       "tiltZins": -6,
       "tiltGesamt": -1,
-      "score": -7,
+      "score": -10,
       "cotExtrem": "erhoeht",
-      "treiber": "Öl-Festigkeit (Hormus) + starker Kanada-Jobbericht drücken das Paar. Gegenwind: extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
+      "treiber": "Dollar-Schwäche + stabiles Öl + falkenhafte BoC sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": -3,
+      "baseScore": -8,
       "tiltCot": 5,
       "tiltZins": -3,
       "tiltGesamt": 2,
-      "score": -1,
+      "score": -6,
       "cotExtrem": null,
-      "treiber": "Weicher Dollar überwiegt knapp; Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
+      "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on nimmt dem Franken aber etwas Schwung. Netto leicht bärisch fürs Paar."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -2,
+      "baseScore": 6,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": -7,
+      "score": 1,
       "cotExtrem": null,
-      "treiber": "Schwacher NZ-Arbeitsmarkt (5,6 %) drückt den Kiwi; weicher Dollar federt etwas, COT-Shorts bergen Squeeze. Nahe null."
+      "treiber": "Risk-on + Dollar-Schwäche heben den Kiwi, aber fallende NZ-Zinsen + starke Shorts deckeln. Schwächstes Kaufsignal der Risk-on-Gruppe."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T12:46:29.867Z",
+  "stand": "2026-08-14T12:54:41.485Z",
   "ausBriefing": "2026-08-07",
   "overlayAktiv": true,
   "paare": [
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -6,
       "tiltCot": 5,
-      "tiltZins": -7,
-      "tiltGesamt": -2,
-      "score": -8,
+      "tiltZins": -6,
+      "tiltGesamt": -1,
+      "score": -7,
       "cotExtrem": "erhoeht",
       "treiber": "Öl-Festigkeit (Hormus) + starker Kanada-Jobbericht drücken das Paar. Gegenwind: extreme CAD-COT-Shorts (Squeeze-Risiko). Transparente Spannung."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -4,
-      "tiltGesamt": 1,
-      "score": -2,
+      "tiltZins": -3,
+      "tiltGesamt": 2,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar überwiegt knapp; Risk-on nimmt dem Franken den Hafen-Bid. Moderat."
     },

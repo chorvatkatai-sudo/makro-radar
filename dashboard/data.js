@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-15T05:03:42.613Z",
+ "erstellt": "2026-08-15T12:27:37.373Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -3409,7 +3409,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-15T05:03:42.175Z",
+  "stand": "2026-08-15T12:27:36.950Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3651,17 +3651,12 @@ window.MAKRO_DATA = {
     "wocheProzent": 0.02,
     "renditeDelta": true,
     "verlauf": [
-     5.064,
-     5.118,
-     5.13,
-     5.147,
      5.171,
      5.162,
      5.125,
      5.096,
      5.143,
      5.208,
-     5.275,
      5.231,
      5.19,
      5.174,
@@ -3679,12 +3674,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63061.67,
+    "wert": 62921.46,
     "tagProzent": 0,
-    "wocheProzent": -1.33,
+    "wocheProzent": -0.99,
     "renditeDelta": false,
     "verlauf": [
-     64311.81,
      65340.3,
      63724.9,
      63871.36,
@@ -3704,8 +3698,9 @@ window.MAKRO_DATA = {
      63551.88,
      63402.43,
      63402.17,
-     63061.67,
-     63061.67
+     62975.59,
+     62921.46,
+     62921.46
     ]
    },
    "FEDFUT": {
@@ -3742,40 +3737,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.27,
-    "tagProzent": 0.03,
-    "wocheProzent": 0.02,
-    "renditeDelta": true,
-    "verlauf": [
-     2.22,
-     2.24,
-     2.25,
-     2.26,
-     2.28,
-     2.28,
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29,
-     2.27,
-     2.26,
-     2.24,
-     2.27
-    ],
-    "quelle": "FRED"
-   },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
@@ -3807,6 +3768,40 @@ window.MAKRO_DATA = {
      2.43,
      2.42,
      2.39
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.27,
+    "tagProzent": 0.03,
+    "wocheProzent": 0.02,
+    "renditeDelta": true,
+    "verlauf": [
+     2.22,
+     2.24,
+     2.25,
+     2.26,
+     2.28,
+     2.28,
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29,
+     2.27,
+     2.26,
+     2.24,
+     2.27
     ],
     "quelle": "FRED"
    }
@@ -4020,7 +4015,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-15T05:03:42.612Z",
+  "stand": "2026-08-15T12:27:37.371Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

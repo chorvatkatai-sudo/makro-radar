@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-15T04:24:12.497Z",
+ "erstellt": "2026-08-15T05:02:51.470Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -2928,18 +2928,19 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG = ZÜNDER UND WARNUNG: Alle Währungen sind netto-short gegen den Dollar, EUR und CAD extrem. Das kann die Dollar-Schwäche über einen Squeeze VERSTÄRKEN — oder bei einer guten US-Zahl eine heftige, schnelle Dollar-Gegenbewegung auslösen. Beide Richtungen respektieren."
   ],
   "tagesnews": {
-   "stand": "2026-08-14",
-   "wochentag": "Freitag",
-   "tenor": "Schwacher Wochenausklang für den Dollar: Nach der zahmen US-Inflation ist heute auch der Einzelhandel EINGEBROCHEN (−0,6 % statt +0,1 %) — die Amerikaner sparen. Zusammen mit dem Job-Schock der Vorwoche ist die Fed-Senkung am 17.9. praktisch fix (~85 %). Dollar-Index unter 100, Gold auf Rekord, VIX tief (sorgloser Markt).",
+   "stand": "2026-08-15",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — die Börsen ruhen. Rückblick: eine klar Dollar-schwache Woche. Zahme US-Inflation, eingebrochener Einzelhandel (−0,6 %) und mieses Verbrauchervertrauen (Michigan nur 51,0) machen die Fed-Senkung am 17.9. praktisch fix. Dollar-Index unter 100, Gold auf Rekord (~4.430 $), VIX tief (14,3 = sorgloser Markt). Nächste Woche: UK-/Kanada-Inflation + Fed-Protokoll (Mi), dann Jackson Hole (27.–29.8.).",
    "heute": [
-    "🇺🇸 US-Einzelhandel Juli (kam 14:30 Wien): −0,6 % im Monat — ein KLARER Einbruch (erwartet war +0,1 %), auch die Kernrate fiel (−0,3 %). Die Amerikaner halten ihr Geld zusammen; das ist der stärkste Beleg diese Woche für eine baldige Zinssenkung. Dollar-negativ.",
-    "🇺🇸 Uni-Michigan-Verbrauchervertrauen (16:00 Wien, vorläufig): erwartet ~54,7. Misst die Verbraucherlaune — passt ins Bild vorsichtiger Konsumenten.",
-    "🥇 Gold auf Rekord (~4.430 $) und Dollar-Index unter 100: Der Markt stellt sich klar auf eine lockerere Fed ein."
+    "📅 Samstag — kein Handel, keine neuen Zahlen. Die Devisen- und Anleihemärkte sind übers Wochenende geschlossen; erst Montag geht es weiter.",
+    "🔭 Ausblick nächste Woche: Mo 🇨🇦 Kanada-Inflation, Di 🇬🇧 UK-Arbeitsmarkt, Mi 🇬🇧 UK-Inflation (Achtung: viele wetten auf fallendes Pfund → bei heißer Zahl Squeeze-Risiko) + 🇺🇸 Fed-Sitzungsprotokoll (20:00 Wien; stammt aber von VOR dem Job-Schock → dürfte abgehakt werden). Höhepunkt eine Woche später: Notenbank-Treffen in Jackson Hole (27.–29.8.).",
+    "🥇 Stand vom Wochenende (letzte Kurse Fr): Dollar-Index 99,6 (unter 100), Gold nahe Rekord ~4.432 $, Öl WTI ~82 $, US-10-Jahres-Rendite 4,70 %, Angst-Barometer VIX tief bei 14,3."
    ],
    "gestern": [
-    "🇺🇸 US-Erzeugerpreise (Mi/Do): Schlagzeile praktisch flach (−0,0 %), nur die Kernrate etwas fester (+0,4 %) — insgesamt kein neuer Inflationsdruck von der Produzenten-Seite.",
-    "🇬🇧 UK-Wachstum Q2: +0,4 % (wie erwartet), im Monat sogar +0,3 % (besser) — leicht Pfund-stützend.",
-    "🇺🇸 US-Verbraucherpreise (Di): brav kühl — Kern 2,5 % im Jahr (niedrigste seit Jahren), Schlagzeile 3,4 %. Der Grundstein für die September-Senkung."
+    "🇺🇸 US-Einzelhandel Juli (Fr): −0,6 % im Monat — ein KLARER Einbruch (erwartet +0,1 %), Kernrate −0,3 %. Die Amerikaner halten ihr Geld zusammen — der stärkste Beleg der Woche für eine baldige Zinssenkung.",
+    "🇺🇸 Uni-Michigan-Verbrauchervertrauen (Fr, vorläufig): fiel auf 51,0 (von 55,2, erwartet ~54,7) — die Verbraucherlaune kippt deutlich. Passt ins Bild eines vorsichtigen Konsumenten und stützt die Senkungs-Wette.",
+    "🇺🇸 US-Verbraucherpreise (Di) & Erzeugerpreise (Do): beide zahm — CPI-Kern 2,5 % im Jahr (niedrigste seit Jahren), Erzeugerpreise praktisch flach. Kein neuer Inflationsdruck.",
+    "🇬🇧 UK-Wachstum Q2 (Do): +0,4 % (wie erwartet), im Monat +0,3 % (besser) — leicht Pfund-stützend."
    ]
   }
  },

@@ -1,11 +1,41 @@
 {
-  "stand": "2026-08-14T20:23:04.054Z",
+  "stand": "2026-08-15T04:24:11.592Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG stalls as yields cap recovery",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-stalls-as-yields-cap-recovery-202608142259",
+      "datum": "2026-08-14T22:59:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07100-after-us-retail-sales-miss-202608142230",
+      "datum": "2026-08-14T22:30:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasury yields rise as Oil strength offsets weak Retail Sales",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-oil-strength-offsets-weak-retail-sales-202608142201",
+      "datum": "2026-08-14T22:01:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-14-aug-stocks-finish-mixed-as-yields-rise-and-the-dollar-falls/",
+      "datum": "2026-08-14T21:18:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso refreshes multi-month highs, Banxico minutes eyed",
+      "link": "https://www.fxstreet.com/news/mexican-peso-refreshes-multi-month-highs-banxico-minutes-eyed-202608142044",
+      "datum": "2026-08-14T20:44:08.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
@@ -61,30 +91,6 @@
       "datum": "2026-08-14T18:23:56.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Consolidation near 1.28 with upside risks against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-128-with-upside-risks-against-us-dollar-ocbc-202608141814",
-      "datum": "2026-08-14T18:14:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-holds-as-bulls-eye-08150-202608141804",
-      "datum": "2026-08-14T18:04:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold rallies as weak US data dents Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-rallies-as-weak-us-data-dents-fed-hike-bets-202608141739",
-      "datum": "2026-08-14T17:39:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Gains target 1407 against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-gains-target-1407-against-us-dollar-societe-generale-202608141739",
-      "datum": "2026-08-14T17:39:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Business inventories for June 0.0% vs 0.1% estimate",
       "link": "https://investinglive.com/news/us-business-inventories-for-june-0-0-vs-0-1-estimate/",
@@ -107,12 +113,6 @@
       "titel": "US July retail sales -0.6% vs +0.1% expected",
       "link": "https://investinglive.com/news/us-july-retail-sales-0-6-vs-0-1-expected/",
       "datum": "2026-08-14T12:30:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US stocks hit records (again...), but oil and earnings risks are growing. What can you trade?",
-      "link": "https://investinglive.com/news/us-stocks-hit-records-again-but-oil-and-earnings-risks-are-growing-what-can-you-trade/",
-      "datum": "2026-08-14T12:19:28.000Z"
     }
   ]
 }

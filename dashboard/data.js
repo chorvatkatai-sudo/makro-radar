@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-15T05:02:51.470Z",
+ "erstellt": "2026-08-15T05:03:42.613Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -3409,7 +3409,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-15T04:24:11.081Z",
+  "stand": "2026-08-15T05:03:42.175Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3547,9 +3547,9 @@ window.MAKRO_DATA = {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4432,
-    "tagProzent": 1.18,
-    "wocheProzent": 1.61,
+    "wert": 4437.3,
+    "tagProzent": 1.3,
+    "wocheProzent": 1.73,
     "renditeDelta": false,
     "verlauf": [
      4012.7,
@@ -3573,7 +3573,7 @@ window.MAKRO_DATA = {
      4408.9,
      4363.6,
      4380.4,
-     4432
+     4437.3
     ]
    },
    "US02Y": {
@@ -3679,9 +3679,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63055.49,
+    "wert": 63061.67,
     "tagProzent": 0,
-    "wocheProzent": -1.34,
+    "wocheProzent": -1.33,
     "renditeDelta": false,
     "verlauf": [
      64311.81,
@@ -3704,8 +3704,8 @@ window.MAKRO_DATA = {
      63551.88,
      63402.43,
      63402.17,
-     63055.49,
-     63055.49
+     63061.67,
+     63061.67
     ]
    },
    "FEDFUT": {
@@ -3742,40 +3742,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.39,
-    "tagProzent": -0.03,
-    "wocheProzent": -0.04,
-    "renditeDelta": true,
-    "verlauf": [
-     2.32,
-     2.35,
-     2.31,
-     2.35,
-     2.37,
-     2.39,
-     2.43,
-     2.43,
-     2.44,
-     2.41,
-     2.41,
-     2.41,
-     2.47,
-     2.43,
-     2.4,
-     2.41,
-     2.43,
-     2.4,
-     2.43,
-     2.43,
-     2.42,
-     2.39
-    ],
-    "quelle": "FRED"
-   },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
@@ -3807,6 +3773,40 @@ window.MAKRO_DATA = {
      2.26,
      2.24,
      2.27
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.39,
+    "tagProzent": -0.03,
+    "wocheProzent": -0.04,
+    "renditeDelta": true,
+    "verlauf": [
+     2.32,
+     2.35,
+     2.31,
+     2.35,
+     2.37,
+     2.39,
+     2.43,
+     2.43,
+     2.44,
+     2.41,
+     2.41,
+     2.41,
+     2.47,
+     2.43,
+     2.4,
+     2.41,
+     2.43,
+     2.4,
+     2.43,
+     2.43,
+     2.42,
+     2.39
     ],
     "quelle": "FRED"
    }
@@ -4020,7 +4020,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-15T04:24:11.592Z",
+  "stand": "2026-08-15T05:03:42.612Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

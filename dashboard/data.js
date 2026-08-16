@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-15T12:27:37.373Z",
+ "erstellt": "2026-08-16T04:30:47.190Z",
  "wochenStart": "2026-08-09",
  "events": [
   {
@@ -915,7 +915,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "title": "Foreign Securities Purchases",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "15 C$",
    "previous": "7.9 C$",
    "actual": null,
    "quelle": "tradingview"
@@ -1455,7 +1455,7 @@ window.MAKRO_DATA = {
    "country": "NZD",
    "title": "PPI Output QoQ",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.4%",
    "previous": "0.8%",
    "actual": null,
    "quelle": "tradingview"
@@ -1465,7 +1465,7 @@ window.MAKRO_DATA = {
    "country": "NZD",
    "title": "PPI Input QoQ",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.5%",
    "previous": "1.4%",
    "actual": null,
    "quelle": "tradingview"
@@ -2345,7 +2345,7 @@ window.MAKRO_DATA = {
    "country": "NZD",
    "title": "Balance of Trade",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "0.32 NZ$",
    "previous": "0.02 NZ$",
    "actual": null,
    "quelle": "tradingview"
@@ -2545,7 +2545,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "S&P Global Manufacturing PMI Flash",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "51.8",
    "previous": "51.9",
    "actual": null,
    "quelle": "tradingview"
@@ -2555,7 +2555,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "S&P Global Services PMI Flash",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "51.5",
    "previous": "51.7",
    "actual": null,
    "quelle": "tradingview"
@@ -3409,7 +3409,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-15T12:27:36.950Z",
+  "stand": "2026-08-16T04:30:46.712Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3548,7 +3548,7 @@ window.MAKRO_DATA = {
     "einheit": "$",
     "typ": "rohstoff",
     "wert": 4437.3,
-    "tagProzent": 1.3,
+    "tagProzent": 0,
     "wocheProzent": 1.73,
     "renditeDelta": false,
     "verlauf": [
@@ -3572,7 +3572,7 @@ window.MAKRO_DATA = {
      4383,
      4408.9,
      4363.6,
-     4380.4,
+     4437.3,
      4437.3
     ]
    },
@@ -3651,12 +3651,17 @@ window.MAKRO_DATA = {
     "wocheProzent": 0.02,
     "renditeDelta": true,
     "verlauf": [
+     5.064,
+     5.118,
+     5.13,
+     5.147,
      5.171,
      5.162,
      5.125,
      5.096,
      5.143,
      5.208,
+     5.275,
      5.231,
      5.19,
      5.174,
@@ -3674,9 +3679,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 62921.46,
+    "wert": 63082.49,
     "tagProzent": 0,
-    "wocheProzent": -0.99,
+    "wocheProzent": -0.74,
     "renditeDelta": false,
     "verlauf": [
      65340.3,
@@ -3699,8 +3704,8 @@ window.MAKRO_DATA = {
      63402.43,
      63402.17,
      62975.59,
-     62921.46,
-     62921.46
+     63082.49,
+     63082.49
     ]
    },
    "FEDFUT": {
@@ -3708,7 +3713,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.72,
-    "tagProzent": 0.09,
+    "tagProzent": 0,
     "wocheProzent": 0.09,
     "renditeDelta": true,
     "verlauf": [
@@ -3732,7 +3737,7 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
-     3.63,
+     3.72,
      3.72
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -3897,39 +3902,39 @@ window.MAKRO_DATA = {
    }
   },
   "zinsen2j": {
-   "stand": "2026-08-15",
+   "stand": "2026-08-16",
    "werte": {
     "USD": {
      "wert": 4.171,
-     "wocheDelta": -0.012
+     "wocheDelta": -0.047
     },
     "EUR": {
      "wert": 2.795,
-     "wocheDelta": 0.086
+     "wocheDelta": 0.065
     },
     "GBP": {
      "wert": 4.369,
-     "wocheDelta": 0.115
+     "wocheDelta": 0.096
     },
     "JPY": {
      "wert": 1.661,
-     "wocheDelta": 0.092
+     "wocheDelta": 0.098
     },
     "AUD": {
      "wert": 4.581,
-     "wocheDelta": 0.037
+     "wocheDelta": 0.043
     },
     "CAD": {
      "wert": 2.958,
-     "wocheDelta": 0.131
+     "wocheDelta": 0.057
     },
     "CHF": {
      "wert": 0.087,
-     "wocheDelta": 0.015
+     "wocheDelta": 0.01
     },
     "NZD": {
      "wert": 3.568,
-     "wocheDelta": -0.01
+     "wocheDelta": -0.005
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3956,9 +3961,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 9,
    "tiltCot": -4,
-   "tiltZins": 5,
-   "tiltGesamt": 1,
-   "score": 10,
+   "tiltZins": 6,
+   "tiltGesamt": 2,
+   "score": 11,
    "cotExtrem": null,
    "treiber": "UK-Wachstum beat + britische Zinsen steigen am stärksten + Falken in der BoE. Dollar-Schwäche zieht mit. UK-CPI Mi ist der Katalysator."
   },
@@ -3966,9 +3971,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -10,
    "tiltCot": 2,
-   "tiltZins": -4,
-   "tiltGesamt": -2,
-   "score": -12,
+   "tiltZins": -6,
+   "tiltGesamt": -4,
+   "score": -14,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach (~163) + Carry. Interventionsrisiko der Regierung bleibt hoch."
   },
@@ -3976,9 +3981,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": 11,
    "tiltCot": -3,
-   "tiltZins": 2,
-   "tiltGesamt": -1,
-   "score": 10,
+   "tiltZins": 4,
+   "tiltGesamt": 1,
+   "score": 12,
    "cotExtrem": null,
    "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,5). RBA-Hochzins 4,35 %. Bremse: China-Daten Mo."
   },
@@ -3986,9 +3991,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -9,
    "tiltCot": 5,
-   "tiltZins": -6,
-   "tiltGesamt": -1,
-   "score": -10,
+   "tiltZins": -4,
+   "tiltGesamt": 1,
+   "score": -8,
    "cotExtrem": "erhoeht",
    "treiber": "Dollar-Schwäche + stabiles Öl + falkenhafte BoC sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
   },
@@ -3996,9 +4001,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": -8,
    "tiltCot": 5,
-   "tiltZins": 0,
-   "tiltGesamt": 5,
-   "score": -3,
+   "tiltZins": -2,
+   "tiltGesamt": 3,
+   "score": -5,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on nimmt dem Franken aber etwas Schwung. Netto leicht bärisch fürs Paar."
   },
@@ -4006,16 +4011,16 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": 6,
    "tiltCot": -5,
-   "tiltZins": 0,
-   "tiltGesamt": -5,
-   "score": 1,
+   "tiltZins": 2,
+   "tiltGesamt": -3,
+   "score": 3,
    "cotExtrem": null,
    "treiber": "Risk-on + Dollar-Schwäche heben den Kiwi, aber fallende NZ-Zinsen + starke Shorts deckeln. Schwächstes Kaufsignal der Risk-on-Gruppe."
   }
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-15T12:27:37.371Z",
+  "stand": "2026-08-16T04:30:47.188Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

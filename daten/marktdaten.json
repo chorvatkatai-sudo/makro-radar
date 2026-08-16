@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-15T12:27:36.950Z",
+  "stand": "2026-08-16T04:30:46.712Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
@@ -138,7 +138,7 @@
       "einheit": "$",
       "typ": "rohstoff",
       "wert": 4437.3,
-      "tagProzent": 1.3,
+      "tagProzent": 0,
       "wocheProzent": 1.73,
       "renditeDelta": false,
       "verlauf": [
@@ -162,7 +162,7 @@
         4383,
         4408.9,
         4363.6,
-        4380.4,
+        4437.3,
         4437.3
       ]
     },
@@ -241,12 +241,17 @@
       "wocheProzent": 0.02,
       "renditeDelta": true,
       "verlauf": [
+        5.064,
+        5.118,
+        5.13,
+        5.147,
         5.171,
         5.162,
         5.125,
         5.096,
         5.143,
         5.208,
+        5.275,
         5.231,
         5.19,
         5.174,
@@ -264,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 62921.46,
+      "wert": 63082.49,
       "tagProzent": 0,
-      "wocheProzent": -0.99,
+      "wocheProzent": -0.74,
       "renditeDelta": false,
       "verlauf": [
         65340.3,
@@ -289,8 +294,8 @@
         63402.43,
         63402.17,
         62975.59,
-        62921.46,
-        62921.46
+        63082.49,
+        63082.49
       ]
     },
     "FEDFUT": {
@@ -298,7 +303,7 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 3.72,
-      "tagProzent": 0.09,
+      "tagProzent": 0,
       "wocheProzent": 0.09,
       "renditeDelta": true,
       "verlauf": [
@@ -322,7 +327,7 @@
         3.63,
         3.63,
         3.63,
-        3.63,
+        3.72,
         3.72
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -487,39 +492,39 @@
     }
   },
   "zinsen2j": {
-    "stand": "2026-08-15",
+    "stand": "2026-08-16",
     "werte": {
       "USD": {
         "wert": 4.171,
-        "wocheDelta": -0.012
+        "wocheDelta": -0.047
       },
       "EUR": {
         "wert": 2.795,
-        "wocheDelta": 0.086
+        "wocheDelta": 0.065
       },
       "GBP": {
         "wert": 4.369,
-        "wocheDelta": 0.115
+        "wocheDelta": 0.096
       },
       "JPY": {
         "wert": 1.661,
-        "wocheDelta": 0.092
+        "wocheDelta": 0.098
       },
       "AUD": {
         "wert": 4.581,
-        "wocheDelta": 0.037
+        "wocheDelta": 0.043
       },
       "CAD": {
         "wert": 2.958,
-        "wocheDelta": 0.131
+        "wocheDelta": 0.057
       },
       "CHF": {
         "wert": 0.087,
-        "wocheDelta": 0.015
+        "wocheDelta": 0.01
       },
       "NZD": {
         "wert": 3.568,
-        "wocheDelta": -0.01
+        "wocheDelta": -0.005
       }
     },
     "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"

@@ -244,7 +244,7 @@
     "country": "CAD",
     "title": "Foreign Securities Purchases",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "15 C$",
     "previous": "7.9 C$",
     "actual": null,
     "quelle": "tradingview"
@@ -784,7 +784,7 @@
     "country": "NZD",
     "title": "PPI Output QoQ",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -794,7 +794,7 @@
     "country": "NZD",
     "title": "PPI Input QoQ",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.5%",
     "previous": "1.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -1674,7 +1674,7 @@
     "country": "NZD",
     "title": "Balance of Trade",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.32 NZ$",
     "previous": "0.02 NZ$",
     "actual": null,
     "quelle": "tradingview"
@@ -1874,7 +1874,7 @@
     "country": "EUR",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "51.8",
     "previous": "51.9",
     "actual": null,
     "quelle": "tradingview"
@@ -1884,7 +1884,7 @@
     "country": "EUR",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "51.5",
     "previous": "51.7",
     "actual": null,
     "quelle": "tradingview"

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-17T04:35:59.741Z",
+ "erstellt": "2026-08-17T05:06:55.125Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -2455,8 +2455,8 @@ window.MAKRO_DATA = {
    },
    "AUD": {
     "stimmung": "bullisch",
-    "score": 9,
-    "grund": "Klarer Gewinner der guten Marktstimmung (Risk-on). Die RBA hielt am Di bei 4,35 % — der höchste Zins der großen Notenbanken → Rückenwind. Die australischen 2-Jahres-Zinsen sind die höchsten im Vergleich. Wackelpunkt: schwache China-Daten könnten bremsen."
+    "score": 7,
+    "grund": "Gewinner der guten Marktstimmung (Risk-on) und der Hochzins-RBA (4,35 %, höchster der großen Notenbanken). ABER heute Morgen enttäuschte China (Industrie +5,7 %, Einzelhandel schwach) — das bremst den Rohstoff-Aussie. Deshalb leicht gekappt."
    },
    "NZD": {
     "stimmung": "neutral",
@@ -2482,8 +2482,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": 11,
-    "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,5). RBA-Hochzins 4,35 %. Bremse: China-Daten Mo."
+    "score": 9,
+    "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,3), RBA-Hochzins 4,35 %. Bremse heute: schwache China-Daten (Industrie/Einzelhandel verfehlt)."
    },
    {
     "paar": "USD/CAD",
@@ -2596,19 +2596,20 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG = ZÜNDER UND WARNUNG: Alle Währungen sind netto-short gegen den Dollar, EUR und CAD extrem. Das kann die Dollar-Schwäche über einen Squeeze VERSTÄRKEN — oder bei einer guten US-Zahl eine heftige, schnelle Dollar-Gegenbewegung auslösen. Beide Richtungen respektieren."
   ],
   "tagesnews": {
-   "stand": "2026-08-16",
-   "wochentag": "Sonntag",
-   "tenor": "Wochenende, 2. Tag — die Börsen ruhen weiter. Das Bild der Woche bleibt: ein klar schwacher Dollar. Zahme US-Inflation, eingebrochener Einzelhandel (−0,6 %) und mieses Verbrauchervertrauen (Michigan 51,0) machen die Fed-Zinssenkung am 17.9. praktisch sicher. Dollar-Index unter 100, Gold nahe Rekord (~4.430 $), Angst-Barometer VIX tief (14,3 = sorgloser Markt). Ab Montag geht es wieder los: UK-/Kanada-Inflation + Fed-Protokoll (Mi), dann Jackson Hole (27.–29.8.).",
+   "stand": "2026-08-17",
+   "wochentag": "Montag",
+   "tenor": "Neue Handelswoche startet — der Dollar bleibt schwach (Index unter 100), die Börsen-Stimmung sorglos (VIX 14,3). Heute früh lieferte China enttäuschende Zahlen (Industrie + Einzelhandel unter Erwartung), nachmittags kommt die Kanada-Inflation. Der eigentliche Test folgt Mittwoch: UK-Inflation + Fed-Protokoll.",
    "heute": [
-    "📅 Sonntag — kein Handel, keine neuen Zahlen. Devisen- und Anleihemärkte bleiben übers Wochenende geschlossen; morgen (Mo) startet die neue Handelswoche.",
-    "🔭 Ausblick neue Woche: Mo 🇨🇦 Kanada-Inflation (14:30 Wien), Di 🇬🇧 UK-Arbeitsmarkt, Mi 🇬🇧 UK-Inflation (viele wetten auf ein fallendes Pfund → bei heißer Zahl Squeeze-Risiko nach oben) + 🇺🇸 Fed-Sitzungsprotokoll (20:00 Wien; stammt aber von VOR dem Job-Schock → dürfte abgehakt werden), Do 🇯🇵 Japan-Inflation, Fr Einkaufsmanager-Umfragen (EU/UK/US). Höhepunkt eine Woche später: Notenbank-Treffen in Jackson Hole (27.–29.8., Warsh-Rede Fr 28.8.).",
-    "🥇 Stand vom Wochenende (letzte Kurse Fr): Dollar-Index 99,6 (unter 100), Gold nahe Rekord ~4.430 $, Öl WTI ~81 $, US-10-Jahres-Rendite 4,65 %, Angst-Barometer VIX tief bei 14,3 (sorgloser Markt)."
+    "🇨🇳 China früh: Industrieproduktion nur +5,7 % im Jahr (erwartet +6 %, Vormonat +6,8 %), auch der Einzelhandel verfehlte die Erwartung — die chinesische Wirtschaft kühlt ab. Das ist Gegenwind für die rohstoffnahen Australien- und Neuseeland-Dollar (China ist ihr größter Abnehmer).",
+    "🇨🇦 Heute 14:30 Wien: Kanada-Inflation (Juli). Erwartet wird ein leichter Anstieg auf 2,9 % im Jahr (von 2,8 %), getrieben vom teureren Benzin (Öl-Spannungen im Nahen Osten). Die Kernrate soll ruhig bleiben (~1,8–1,9 %). ACHTUNG: Sehr viele Spekulanten wetten gegen den Kanada-Dollar (extrem short) — eine heiße Zahl könnte eine schnelle Gegenbewegung auslösen (Short-Squeeze).",
+    "🥇 Marktbild heute früh: Dollar-Index 99,5 (unter 100), Gold auf Rekordkurs ~4.450 $, Öl WTI ~82 $, US-10-Jahres-Rendite 4,70 %, Angst-Barometer VIX sehr tief bei 14,3 (sorgloser Markt).",
+    "🔭 Rest der Woche: Di 🇬🇧 UK-Arbeitsmarkt, Mi 🇬🇧 UK-Inflation (viele wetten auf ein fallendes Pfund → bei heißer Zahl Squeeze-Risiko nach oben) + 🇺🇸 Fed-Sitzungsprotokoll (20:00 Wien; stammt aber von VOR dem Job-Schock → dürfte abgehakt werden), Do 🇯🇵 Japan-Inflation, Fr Einkaufsmanager-Umfragen. Höhepunkt nächste Woche: Jackson Hole (27.–29.8., Warsh-Rede Fr 28.8.)."
    ],
    "gestern": [
-    "🇺🇸 US-Einzelhandel Juli (Fr): −0,6 % im Monat — ein KLARER Einbruch (erwartet +0,1 %), Kernrate −0,3 %. Die Amerikaner halten ihr Geld zusammen — der stärkste Beleg der Woche für eine baldige Zinssenkung.",
-    "🇺🇸 Uni-Michigan-Verbrauchervertrauen (Fr, vorläufig): fiel auf 51,0 (von 55,2, erwartet ~54,7) — die Verbraucherlaune kippt deutlich, stützt die Senkungs-Wette.",
-    "🇺🇸 US-Verbraucherpreise (Di) & Erzeugerpreise (Do): beide zahm — CPI-Kern 2,5 % im Jahr (niedrigste seit Jahren), Erzeugerpreise praktisch flach. Kein neuer Inflationsdruck.",
-    "💵 Unterm Strich: Der Dollar steht auf zwei schwachen Beinen (weiche Daten + drehendes Zins-Momentum). Gegenwind bleibt nur die falkenhafte Warsh-Fed und der hohe Realzins — deshalb Boden, aber angeknackst."
+    "📅 Wochenende (Sa/So): keine neuen Zahlen, Devisen- und Anleihemärkte geschlossen.",
+    "🇺🇸 Rückblick Freitag: Der US-Einzelhandel BRACH ein (−0,6 % im Monat statt +0,1 % erwartet) und das Uni-Michigan-Verbrauchervertrauen fiel auf 51,0 (von 55,2) — der US-Konsument schwächelt deutlich.",
+    "🇺🇸 US-Inflation der Vorwoche (Di/Do): brav kühl — Verbraucherpreise-Kern 2,5 % im Jahr (niedrigste seit Jahren), Erzeugerpreise praktisch flach. Kein neuer Preisdruck.",
+    "💵 Unterm Strich: Der Dollar steht auf zwei schwachen Beinen (weiche Daten + drehendes Zins-Momentum). Die Fed-Zinssenkung am 17.9. ist zu ~85 % eingepreist. Gegenwind bleibt nur die falkenhafte Warsh-Fed und der hohe Realzins — deshalb Boden, aber angeknackst."
    ]
   }
  },
@@ -3647,13 +3648,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 11,
+   "baseScore": 9,
    "tiltCot": -3,
    "tiltZins": 2,
    "tiltGesamt": -1,
-   "score": 10,
+   "score": 8,
    "cotExtrem": null,
-   "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,5). RBA-Hochzins 4,35 %. Bremse: China-Daten Mo."
+   "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,3), RBA-Hochzins 4,35 %. Bremse heute: schwache China-Daten (Industrie/Einzelhandel verfehlt)."
   },
   {
    "paar": "USD/CAD",

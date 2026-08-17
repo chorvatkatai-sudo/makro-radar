@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-17T04:35:59.740Z",
+  "stand": "2026-08-17T05:06:55.124Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -35,13 +35,13 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 11,
+      "baseScore": 9,
       "tiltCot": -3,
       "tiltZins": 2,
       "tiltGesamt": -1,
-      "score": 10,
+      "score": 8,
       "cotExtrem": null,
-      "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,5). RBA-Hochzins 4,35 %. Bremse: China-Daten Mo."
+      "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,3), RBA-Hochzins 4,35 %. Bremse heute: schwache China-Daten (Industrie/Einzelhandel verfehlt)."
     },
     {
       "paar": "USD/CAD",

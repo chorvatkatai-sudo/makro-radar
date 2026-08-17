@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-17T19:21:05.668Z",
+  "stand": "2026-08-17T20:17:15.693Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": 0,
-      "tiltGesamt": 5,
-      "score": -4,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -5,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + stabiles Öl + falkenhafte BoC sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
     },

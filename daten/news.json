@@ -1,11 +1,47 @@
 {
-  "stand": "2026-08-17T19:21:05.667Z",
+  "stand": "2026-08-17T20:17:15.691Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 17 Aug",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-17-aug/",
+      "datum": "2026-08-17T20:06:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia 18 August 2026 - very light",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-18-august-2026-very-light/",
+      "datum": "2026-08-17T20:01:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen muted on a soft US Dollar note",
+      "link": "https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001",
+      "datum": "2026-08-17T20:01:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Mild upside bias against US Dollar remains intact – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mild-upside-bias-against-us-dollar-remains-intact-uob-202608171953",
+      "datum": "2026-08-17T19:53:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso softens as Middle East risks boosts the US Dollar",
+      "link": "https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952",
+      "datum": "2026-08-17T19:52:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Policymakers guide measured RMB appreciation – OCBC",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-policymakers-guide-measured-rmb-appreciation-ocbc-202608171926",
+      "datum": "2026-08-17T19:26:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "United States: Washington hardens AI alignment strategy - Rabobank",
@@ -55,28 +91,10 @@
       "datum": "2026-08-17T16:16:57.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil climbs above $82 as Washington-Tehran standoff reignites supply concerns",
-      "link": "https://www.fxstreet.com/news/wti-oil-climbs-above-82-as-washington-tehran-standoff-reignites-supply-concerns-202608171604",
-      "datum": "2026-08-17T16:04:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound edges higher as traders await UK jobs and CPI data",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-traders-await-uk-jobs-cpi-data-202608171604",
-      "datum": "2026-08-17T16:04:36.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "European stocks close mostly lower as yields rise",
       "link": "https://investinglive.com/news/european-stocks-close-mostly-lower-as-yields-rise/",
       "datum": "2026-08-17T16:01:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen struggles despite rising bond yields and BoJ hike bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-despite-rising-bond-yields-and-boj-hike-bets-202608171526",
-      "datum": "2026-08-17T15:26:25.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "US Empire Manufacturing index 20.60 vs 11.00 estimate",
       "link": "https://investinglive.com/news/us-empire-manufacturing-index-20-60-vs-11-00-estimate/",
       "datum": "2026-08-17T12:30:31.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada July CPI 3.0% y/y vs +2.9% expected",
-      "link": "https://investinglive.com/news/canada-july-cpi-3-0-y-y-vs-2-9-expected/",
-      "datum": "2026-08-17T12:30:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Dollar holds lower to start the week",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-holds-lower-to-start-the-week/",
-      "datum": "2026-08-17T11:29:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold strengthens above $4,400 as Fed rate-hike expectations fade",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128",
-      "datum": "2026-08-17T11:28:11.000Z"
     }
   ]
 }

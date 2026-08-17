@@ -1,11 +1,35 @@
 {
-  "stand": "2026-08-17T04:35:59.739Z",
+  "stand": "2026-08-17T05:08:03.885Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Heads up: China July economic data releases to feature in the session ahead",
+      "link": "https://investinglive.com/news/heads-up-china-july-economic-data-releases-to-feature-in-the-session-ahead/",
+      "datum": "2026-08-17T05:02:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets",
+      "link": "https://www.fxstreet.com/news/euro-rallies-to-two-month-high-eyes-11600-as-usd-struggles-amid-receding-fed-hike-bets-202608170502",
+      "datum": "2026-08-17T05:02:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-edges-higher-above-11300-bullish-bias-prevails-above-100-day-sma-202608170447",
+      "datum": "2026-08-17T04:47:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee holds ground despite RBI ending FCNR forex swap window early",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440",
+      "datum": "2026-08-17T04:40:31.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "India Gold price today: Gold rises, according to FXStreet data",
@@ -73,24 +97,6 @@
       "datum": "2026-08-17T01:59:01.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "PBOC sets USD/CNY reference rate at 6.7873 vs. 6.7878 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67873-vs-67878-previous-202608170115",
-      "datum": "2026-08-17T01:15:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen gains against weaker US Dollar following softer Q2 GDP data",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-weaker-us-dollar-following-softer-q2-gdp-data-202608170112",
-      "datum": "2026-08-17T01:12:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound trades near three-month top as fading Fed hike bets undermine USD",
-      "link": "https://www.fxstreet.com/news/british-pound-trades-near-three-month-top-as-fading-fed-hike-bets-undermine-usd-202608170111",
-      "datum": "2026-08-17T01:11:49.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Yen edges higher as traders push back Fed rate hike bets, shrug off soft GDP",
       "link": "https://investinglive.com/news/yen-edges-higher-as-traders-push-back-fed-rate-hike-bets-shrug-off-soft-gdp/",
@@ -107,12 +113,6 @@
       "titel": "Japan Q2 GDP growth undershoots forecasts, complicating BOJ's hike timeline",
       "link": "https://investinglive.com/news/japan-q2-gdp-growth-undershoots-forecasts-complicating-boj-s-hike-timeline/",
       "datum": "2026-08-16T23:59:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK data - Housing slump and hiring freeze cloud outlook",
-      "link": "https://investinglive.com/news/uk-data-housing-slump-and-hiring-freeze-cloud-outlook/",
-      "datum": "2026-08-16T23:26:17.000Z"
     }
   ]
 }

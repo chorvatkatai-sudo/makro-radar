@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-17T05:06:55.125Z",
+ "erstellt": "2026-08-17T05:08:03.888Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -63,15 +63,6 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "-0.9%",
    "previous": "1.1%",
-   "actual": null
-  },
-  {
-   "title": "Foreign Direct Investment ytd/y",
-   "country": "CNY",
-   "date": "2026-08-17T02:02:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-5.0%",
    "actual": null
   },
   {
@@ -243,6 +234,15 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "4.8%",
    "previous": "4.9%",
+   "actual": null
+  },
+  {
+   "title": "Foreign Direct Investment ytd/y",
+   "country": "CNY",
+   "date": "2026-08-18T02:02:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-5.0%",
    "actual": null
   },
   {
@@ -3078,15 +3078,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-17T04:35:57.324Z",
+  "stand": "2026-08-17T05:08:03.493Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.49,
+    "wert": 99.5,
     "tagProzent": 0,
-    "wocheProzent": -0.33,
+    "wocheProzent": -0.32,
     "renditeDelta": false,
     "verlauf": [
      100.99,
@@ -3109,8 +3109,8 @@ window.MAKRO_DATA = {
      100.01,
      99.96,
      99.67,
-     99.49,
-     99.49
+     99.5,
+     99.5
     ]
    },
    "VIX": {
@@ -3150,9 +3150,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 82.27,
+    "wert": 82.22,
     "tagProzent": 0,
-    "wocheProzent": -1.12,
+    "wocheProzent": -1.18,
     "renditeDelta": false,
     "verlauf": [
      83.23,
@@ -3175,17 +3175,17 @@ window.MAKRO_DATA = {
      83.27,
      81.25,
      82.4,
-     82.27,
-     82.27
+     82.22,
+     82.22
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 88.7,
+    "wert": 88.6,
     "tagProzent": 0,
-    "wocheProzent": -0.24,
+    "wocheProzent": -0.35,
     "renditeDelta": false,
     "verlauf": [
      89.22,
@@ -3208,17 +3208,17 @@ window.MAKRO_DATA = {
      88.98,
      87.07,
      88.52,
-     88.7,
-     88.7
+     88.6,
+     88.6
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4449.9,
+    "wert": 4449.5,
     "tagProzent": 0,
-    "wocheProzent": 1.53,
+    "wocheProzent": 1.52,
     "renditeDelta": false,
     "verlauf": [
      4010.3,
@@ -3241,8 +3241,8 @@ window.MAKRO_DATA = {
      4408.9,
      4363.6,
      4380.4,
-     4449.9,
-     4449.9
+     4449.5,
+     4449.5
     ]
    },
    "US02Y": {
@@ -3348,9 +3348,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63440.24,
+    "wert": 63389.06,
     "tagProzent": 0,
-    "wocheProzent": 0.06,
+    "wocheProzent": -0.02,
     "renditeDelta": false,
     "verlauf": [
      63724.9,
@@ -3373,8 +3373,8 @@ window.MAKRO_DATA = {
      63402.17,
      62975.59,
      63024.32,
-     63440.24,
-     63440.24
+     63389.06,
+     63389.06
     ]
    },
    "FEDFUT": {
@@ -3574,8 +3574,8 @@ window.MAKRO_DATA = {
    "stand": "2026-08-17",
    "werte": {
     "USD": {
-     "wert": 4.156,
-     "wocheDelta": -0.048
+     "wert": 4.154,
+     "wocheDelta": -0.05
     },
     "EUR": {
      "wert": 2.795,
@@ -3586,12 +3586,12 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.073
     },
     "JPY": {
-     "wert": 1.692,
-     "wocheDelta": 0.088
+     "wert": 1.687,
+     "wocheDelta": 0.083
     },
     "AUD": {
-     "wert": 4.584,
-     "wocheDelta": 0.01
+     "wert": 4.58,
+     "wocheDelta": 0.006
     },
     "CAD": {
      "wert": 2.958,
@@ -3689,13 +3689,37 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-17T04:35:59.739Z",
+  "stand": "2026-08-17T05:08:03.885Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "Heads up: China July economic data releases to feature in the session ahead",
+    "link": "https://investinglive.com/news/heads-up-china-july-economic-data-releases-to-feature-in-the-session-ahead/",
+    "datum": "2026-08-17T05:02:31.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets",
+    "link": "https://www.fxstreet.com/news/euro-rallies-to-two-month-high-eyes-11600-as-usd-struggles-amid-receding-fed-hike-bets-202608170502",
+    "datum": "2026-08-17T05:02:11.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA",
+    "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-edges-higher-above-11300-bullish-bias-prevails-above-100-day-sma-202608170447",
+    "datum": "2026-08-17T04:47:13.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee holds ground despite RBI ending FCNR forex swap window early",
+    "link": "https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440",
+    "datum": "2026-08-17T04:40:31.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "India Gold price today: Gold rises, according to FXStreet data",
@@ -3763,24 +3787,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-17T01:59:01.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "PBOC sets USD/CNY reference rate at 6.7873 vs. 6.7878 previous",
-    "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67873-vs-67878-previous-202608170115",
-    "datum": "2026-08-17T01:15:44.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen gains against weaker US Dollar following softer Q2 GDP data",
-    "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-weaker-us-dollar-following-softer-q2-gdp-data-202608170112",
-    "datum": "2026-08-17T01:12:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound trades near three-month top as fading Fed hike bets undermine USD",
-    "link": "https://www.fxstreet.com/news/british-pound-trades-near-three-month-top-as-fading-fed-hike-bets-undermine-usd-202608170111",
-    "datum": "2026-08-17T01:11:49.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Yen edges higher as traders push back Fed rate hike bets, shrug off soft GDP",
     "link": "https://investinglive.com/news/yen-edges-higher-as-traders-push-back-fed-rate-hike-bets-shrug-off-soft-gdp/",
@@ -3797,12 +3803,6 @@ window.MAKRO_DATA = {
     "titel": "Japan Q2 GDP growth undershoots forecasts, complicating BOJ's hike timeline",
     "link": "https://investinglive.com/news/japan-q2-gdp-growth-undershoots-forecasts-complicating-boj-s-hike-timeline/",
     "datum": "2026-08-16T23:59:02.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "UK data - Housing slump and hiring freeze cloud outlook",
-    "link": "https://investinglive.com/news/uk-data-housing-slump-and-hiring-freeze-cloud-outlook/",
-    "datum": "2026-08-16T23:26:17.000Z"
    }
   ]
  },
@@ -4856,5 +4856,5 @@ window.MAKRO_DATA = {
    "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — UK-CPI 2,8% y/y — KUEHLER als 3,0% erwartet (Abwaerts-Ueberraschung); ABER Dienstleistungen 3,2->3,7% heiss"
   }
  ],
- "anzahlGespeichert": 962
+ "anzahlGespeichert": 963
 };

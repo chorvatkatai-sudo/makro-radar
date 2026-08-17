@@ -9630,6 +9630,16 @@
       "vorher": "-5.0%",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-17T08:32:00-04:00|CAD|Core CPI m/m": {
+      "datum": "2026-08-17T08:32:00-04:00",
+      "land": "CAD",
+      "titel": "Core CPI m/m",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "0.1%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

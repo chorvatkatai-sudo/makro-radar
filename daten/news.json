@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-17T12:33:36.561Z",
+  "stand": "2026-08-17T13:33:23.863Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,9 +8,51 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "Canadian Dollar struggles against Euro as inflation accelerates to 3%",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-against-euro-as-inflation-accelerates-to-3-202608171331",
+      "datum": "2026-08-17T13:31:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Fiscal support to offset weak demand – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/china-fiscal-support-to-offset-weak-demand-standard-chartered-202608171317",
+      "datum": "2026-08-17T13:17:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar hits two-month high as US Dollar weakness offsets softer China data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hits-two-month-high-as-us-dollar-weakness-offsets-softer-china-data-202608171301",
+      "datum": "2026-08-17T13:01:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Taiwan: Strong double-digit GDP expansion to persist – DBS",
+      "link": "https://www.fxstreet.com/news/taiwan-strong-double-digit-gdp-expansion-to-persist-dbs-202608171259",
+      "datum": "2026-08-17T12:59:51.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran has set a deadline of \"a few weeks\" for full implementation of the MOU",
+      "link": "https://investinglive.com/news/iran-has-set-a-deadline-of-a-few-weeks-for-full-implementation-of-the-mou/",
+      "datum": "2026-08-17T12:53:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "United States: Sideways growth and sticky inflation – TD Securities",
       "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-sticky-inflation-td-securities-202608171232",
       "datum": "2026-08-17T12:32:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Empire Manufacturing index 20.60 vs 11.00 estimate",
+      "link": "https://investinglive.com/news/us-empire-manufacturing-index-20-60-vs-11-00-estimate/",
+      "datum": "2026-08-17T12:30:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada July CPI 3.0% y/y vs +2.9% expected",
+      "link": "https://investinglive.com/news/canada-july-cpi-3-0-y-y-vs-2-9-expected/",
+      "datum": "2026-08-17T12:30:08.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -49,34 +91,10 @@
       "datum": "2026-08-17T11:45:58.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Intervention risk near 160 highlighted – DBS",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-near-160-highlighted-dbs-202608171138",
-      "datum": "2026-08-17T11:38:39.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Dollar holds lower to start the week",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-holds-lower-to-start-the-week/",
       "datum": "2026-08-17T11:29:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128",
-      "datum": "2026-08-17T11:28:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar gains ground with inflation data set to test BoC outlook",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-with-inflation-data-set-to-test-boc-outlook-202608171127",
-      "datum": "2026-08-17T11:27:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Growth risks rise into H2 – Commerzbank",
-      "link": "https://www.fxstreet.com/news/china-growth-risks-rise-into-h2-commerzbank-202608171126",
-      "datum": "2026-08-17T11:26:01.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -86,7 +104,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Breaking: Canada headline CPI rose by 3.0% YoY in July",
+      "titel": "Breaking: Canada headline CPI rose by 3% YoY in July",
       "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730",
       "datum": "2026-08-17T07:30:00.000Z"
     },
@@ -95,24 +113,6 @@
       "titel": "China stats bureau says July economic activity affected by extreme weather conditions, among other factors",
       "link": "https://investinglive.com/news/china-stats-bureau-says-july-economic-activity-affected-by-extreme-weather-conditions-among-other-factors/",
       "datum": "2026-08-17T07:28:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China retail sales disappoint in July, industrial output slows while new home prices extend declines",
-      "link": "https://investinglive.com/news/china-retail-sales-disappoint-in-july-industrial-output-slows-while-new-home-prices-extend-declines/",
-      "datum": "2026-08-17T07:00:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "No major US data releases but this week will feature a big test on consumer health",
-      "link": "https://investinglive.com/news/no-major-us-data-releases-but-this-week-will-feature-a-big-test-on-consumer-health/",
-      "datum": "2026-08-17T06:06:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Heads up: China July economic data releases to feature in the session ahead",
-      "link": "https://investinglive.com/news/heads-up-china-july-economic-data-releases-to-feature-in-the-session-ahead/",
-      "datum": "2026-08-17T05:02:31.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-17T05:08:03.887Z",
+  "stand": "2026-08-17T12:27:08.797Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 11,
       "tiltCot": -1,
-      "tiltZins": 4,
-      "tiltGesamt": 3,
-      "score": 14,
+      "tiltZins": 3,
+      "tiltGesamt": 2,
+      "score": 13,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + steigende Euro-Zinsen vs. fallende US-Zinsen + extreme EUR-Shorts als Squeeze-Treibstoff. EUR/USD nahe 1,17. Track nur 13 % → bewusst gedeckelt."
     },
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 9,
       "tiltCot": -4,
-      "tiltZins": 5,
-      "tiltGesamt": 1,
-      "score": 10,
+      "tiltZins": 3,
+      "tiltGesamt": -1,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "UK-Wachstum beat + britische Zinsen steigen am stärksten + Falken in der BoE. Dollar-Schwäche zieht mit. UK-CPI Mi ist der Katalysator."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": -5,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": -6,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + stabiles Öl + falkenhafte BoC sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
     },

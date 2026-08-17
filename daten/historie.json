@@ -9560,6 +9560,66 @@
       "vorher": "-16",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-17T03:00:00-04:00|CNY|Fixed Asset Investment ytd/y": {
+      "datum": "2026-08-17T03:00:00-04:00",
+      "land": "CNY",
+      "titel": "Fixed Asset Investment ytd/y",
+      "impact": "Low",
+      "prognose": "-6.2%",
+      "vorher": "-5.7%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-17T03:00:00-04:00|CNY|Industrial Production y/y": {
+      "datum": "2026-08-17T03:00:00-04:00",
+      "land": "CNY",
+      "titel": "Industrial Production y/y",
+      "impact": "Low",
+      "prognose": "5.0%",
+      "vorher": "5.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-17T03:00:00-04:00|CNY|NBS Press Conference": {
+      "datum": "2026-08-17T03:00:00-04:00",
+      "land": "CNY",
+      "titel": "NBS Press Conference",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-17T03:00:00-04:00|CNY|New Home Prices m/m": {
+      "datum": "2026-08-17T03:00:00-04:00",
+      "land": "CNY",
+      "titel": "New Home Prices m/m",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-0.15%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-17T03:00:00-04:00|CNY|Retail Sales y/y": {
+      "datum": "2026-08-17T03:00:00-04:00",
+      "land": "CNY",
+      "titel": "Retail Sales y/y",
+      "impact": "Low",
+      "prognose": "1.5%",
+      "vorher": "1.0%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-17T03:00:00-04:00|CNY|Unemployment Rate": {
+      "datum": "2026-08-17T03:00:00-04:00",
+      "land": "CNY",
+      "titel": "Unemployment Rate",
+      "impact": "Low",
+      "prognose": "5.1%",
+      "vorher": "5.0%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

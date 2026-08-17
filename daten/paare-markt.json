@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-17T12:27:08.797Z",
+  "stand": "2026-08-17T12:33:36.562Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 9,
       "tiltCot": -4,
-      "tiltZins": 3,
-      "tiltGesamt": -1,
-      "score": 8,
+      "tiltZins": 4,
+      "tiltGesamt": 0,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "UK-Wachstum beat + britische Zinsen steigen am stärksten + Falken in der BoE. Dollar-Schwäche zieht mit. UK-CPI Mi ist der Katalysator."
     },

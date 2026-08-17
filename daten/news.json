@@ -1,11 +1,23 @@
 {
-  "stand": "2026-08-17T12:27:08.796Z",
+  "stand": "2026-08-17T12:33:36.561Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "United States: Sideways growth and sticky inflation – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-sticky-inflation-td-securities-202608171232",
+      "datum": "2026-08-17T12:32:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/USD Price Forecast: Bulls press toward 1.3600 as uptrend strengthens",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-press-toward-13600-as-uptrend-strengthens-202608171229",
+      "datum": "2026-08-17T12:29:43.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Norwegian Krone: Further gains seen versus Euro - Rabobank",
@@ -67,18 +79,6 @@
       "datum": "2026-08-17T11:26:01.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Copper: Record highs on tightening supply – ING",
-      "link": "https://www.fxstreet.com/news/copper-record-highs-on-tightening-supply-ing-202608171113",
-      "datum": "2026-08-17T11:13:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Yen retreats below 159.00 against the US Dollar as Japanese GDP disappoints",
-      "link": "https://www.fxstreet.com/news/yen-retreats-below-15900-against-the-us-dollar-as-japanese-gdp-slows-down-202608171040",
-      "datum": "2026-08-17T10:40:27.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Iran reaffirms that talks have not yet begun with the US",
       "link": "https://investinglive.com/news/iran-reaffirms-that-talks-have-not-yet-begun-with-the-us/",
@@ -86,7 +86,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canada CPI Preview: Inflation forecast to tick higher in July, pressuring BoC",
+      "titel": "Breaking: Canada headline CPI rose by 3.0% YoY in July",
       "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730",
       "datum": "2026-08-17T07:30:00.000Z"
     },

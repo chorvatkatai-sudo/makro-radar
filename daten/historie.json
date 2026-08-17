@@ -9456,7 +9456,7 @@
       "land": "EUR",
       "titel": "German Flash Manufacturing PMI",
       "impact": "Medium",
-      "prognose": "52.0",
+      "prognose": "52.1",
       "vorher": "52.2",
       "actual": null,
       "notiz": null
@@ -9466,7 +9466,7 @@
       "land": "EUR",
       "titel": "German Flash Services PMI",
       "impact": "Medium",
-      "prognose": "50.2",
+      "prognose": "50.1",
       "vorher": "49.6",
       "actual": null,
       "notiz": null
@@ -9506,7 +9506,7 @@
       "land": "GBP",
       "titel": "Flash Services PMI",
       "impact": "Medium",
-      "prognose": "51.9",
+      "prognose": "51.8",
       "vorher": "51.8",
       "actual": null,
       "notiz": null
@@ -9516,7 +9516,7 @@
       "land": "CAD",
       "titel": "Core Retail Sales m/m",
       "impact": "Low",
-      "prognose": "0.0%",
+      "prognose": "0.2%",
       "vorher": "1.2%",
       "actual": null,
       "notiz": null
@@ -9536,7 +9536,7 @@
       "land": "USD",
       "titel": "Flash Manufacturing PMI",
       "impact": "Low",
-      "prognose": "54.0",
+      "prognose": "53.9",
       "vorher": "53.8",
       "actual": null,
       "notiz": null
@@ -9546,7 +9546,7 @@
       "land": "USD",
       "titel": "Flash Services PMI",
       "impact": "Low",
-      "prognose": "53.9",
+      "prognose": "54.0",
       "vorher": "53.6",
       "actual": null,
       "notiz": null

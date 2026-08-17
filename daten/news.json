@@ -1,11 +1,35 @@
 {
-  "stand": "2026-08-17T20:17:15.691Z",
+  "stand": "2026-08-17T21:18:10.998Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Growth risks and stimulus watch – TD Securities",
+      "link": "https://www.fxstreet.com/news/china-growth-risks-and-stimulus-watch-td-securities-202608172058",
+      "datum": "2026-08-17T20:58:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasury yields surge as 30-year hits 2007 high",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045",
+      "datum": "2026-08-17T20:45:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022",
+      "datum": "2026-08-17T20:22:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: BI expected to extend policy pause – BBH",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-expected-to-extend-policy-pause-bbh-202608172021",
+      "datum": "2026-08-17T20:21:00.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 17 Aug",
@@ -32,7 +56,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Mexican Peso softens as Middle East risks boosts the US Dollar",
+      "titel": "Mexican Peso softens as Middle East risks boost US Dollar",
       "link": "https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952",
       "datum": "2026-08-17T19:52:53.000Z"
     },
@@ -65,30 +89,6 @@
       "titel": "Silver Price Forecast: XAG consolidates as haven demand returns",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-consolidates-as-haven-demand-returns-202608171820",
       "datum": "2026-08-17T18:20:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro returns below 1.1600 as US Dollar selling pressure eases",
-      "link": "https://www.fxstreet.com/news/euro-returns-below-11600-as-us-dollar-selling-pressure-eases-202608171755",
-      "datum": "2026-08-17T17:55:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP trades in a tight range ahead of UK jobs data",
-      "link": "https://www.fxstreet.com/news/eur-gbp-trades-in-a-tight-range-ahead-of-uk-jobs-data-202608171654",
-      "datum": "2026-08-17T16:54:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The US Dollar Index cannot rally with Washington on the offer",
-      "link": "https://www.fxstreet.com/news/the-us-dollar-index-cannot-rally-with-washington-on-the-offer-202608171624",
-      "datum": "2026-08-17T16:24:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Dow Jones Industrial Average lets refiners price the war",
-      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-lets-refiners-price-the-war-202608171616",
-      "datum": "2026-08-17T16:16:57.000Z"
     },
     {
       "quelle": "ForexLive",

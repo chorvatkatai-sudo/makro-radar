@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-17T20:17:15.693Z",
+  "stand": "2026-08-17T21:18:10.999Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": 0,
-      "tiltGesamt": 5,
-      "score": -3,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on nimmt dem Franken aber etwas Schwung. Netto leicht bärisch fürs Paar."
     },

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-17T21:18:10.999Z",
+  "stand": "2026-08-18T04:29:59.859Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -10,
       "tiltCot": 2,
-      "tiltZins": -4,
-      "tiltGesamt": -2,
-      "score": -12,
+      "tiltZins": -3,
+      "tiltGesamt": -1,
+      "score": -11,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach (~163) + Carry. Interventionsrisiko der Regierung bleibt hoch."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": -5,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": -4,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + stabiles Öl + falkenhafte BoC sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": -4,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on nimmt dem Franken aber etwas Schwung. Netto leicht bärisch fürs Paar."
     },

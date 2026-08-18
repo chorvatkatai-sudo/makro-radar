@@ -1,17 +1,17 @@
 {
-  "stand": "2026-08-18T04:29:59.859Z",
+  "stand": "2026-08-18T05:05:34.299Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 11,
+      "baseScore": 10,
       "tiltCot": -1,
       "tiltZins": 3,
       "tiltGesamt": 2,
-      "score": 13,
+      "score": 12,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + steigende Euro-Zinsen vs. fallende US-Zinsen + extreme EUR-Shorts als Squeeze-Treibstoff. EUR/USD nahe 1,17. Track nur 13 % → bewusst gedeckelt."
+      "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + steigende Euro-Zinsen vs. flache US-Zinsen + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
     },
     {
       "paar": "GBP/USD",
@@ -21,57 +21,57 @@
       "tiltGesamt": 0,
       "score": 9,
       "cotExtrem": null,
-      "treiber": "UK-Wachstum beat + britische Zinsen steigen am stärksten + Falken in der BoE. Dollar-Schwäche zieht mit. UK-CPI Mi ist der Katalysator."
+      "treiber": "Weicher Dollar + britische Zinsen steigen am stärksten + Falken in der BoE. Heute UK-Arbeitsmarkt, morgen UK-Inflation als Katalysator."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": -10,
+      "baseScore": -9,
       "tiltCot": 2,
       "tiltZins": -3,
       "tiltGesamt": -1,
-      "score": -11,
+      "score": -10,
       "cotExtrem": null,
-      "treiber": "Schwacher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach (~163) + Carry. Interventionsrisiko der Regierung bleibt hoch."
+      "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar; Yen festigte sich auf ~159. Gegenkraft: Yen fundamental schwach + Carry + Interventionsrisiko."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 9,
+      "baseScore": 8,
       "tiltCot": -3,
       "tiltZins": 2,
       "tiltGesamt": -1,
-      "score": 8,
+      "score": 7,
       "cotExtrem": null,
-      "treiber": "Doppelter Rückenwind: schwacher Dollar + Risk-on (VIX 14,3), RBA-Hochzins 4,35 %. Bremse heute: schwache China-Daten (Industrie/Einzelhandel verfehlt)."
+      "treiber": "Schwacher Dollar + Risk-on (VIX 15,2) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -9,
-      "tiltCot": 5,
-      "tiltZins": 0,
-      "tiltGesamt": 5,
-      "score": -4,
-      "cotExtrem": "erhoeht",
-      "treiber": "Dollar-Schwäche + stabiles Öl + falkenhafte BoC sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
-    },
-    {
-      "paar": "USD/CHF",
       "baseScore": -8,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
       "score": -3,
+      "cotExtrem": "erhoeht",
+      "treiber": "Dollar-Schwäche + festes Öl + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
+    },
+    {
+      "paar": "USD/CHF",
+      "baseScore": -7,
+      "tiltCot": 5,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": -2,
       "cotExtrem": null,
-      "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on nimmt dem Franken aber etwas Schwung. Netto leicht bärisch fürs Paar."
+      "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on (VIX 15,2) nimmt dem Franken aber Schwung. Netto leicht bärisch fürs Paar."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": 6,
+      "baseScore": 5,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": 1,
+      "score": 0,
       "cotExtrem": null,
-      "treiber": "Risk-on + Dollar-Schwäche heben den Kiwi, aber fallende NZ-Zinsen + starke Shorts deckeln. Schwächstes Kaufsignal der Risk-on-Gruppe."
+      "treiber": "Risk-on + Dollar-Schwäche heben den Kiwi, aber schwache China-Daten + fallende NZ-Zinsen + starke Shorts deckeln. Schwächstes Kaufsignal der Risk-on-Gruppe."
     }
   ]
 }

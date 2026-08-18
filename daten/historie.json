@@ -9670,6 +9670,16 @@
       "vorher": "5.04|3.1",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-18T10:51:00-04:00|NZD|GDT Price Index": {
+      "datum": "2026-08-18T10:51:00-04:00",
+      "land": "NZD",
+      "titel": "GDT Price Index",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "0.1%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

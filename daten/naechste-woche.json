@@ -154,7 +154,7 @@
     "country": "USD",
     "title": "Building Permits Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.443",
     "previous": "1.374",
     "actual": null,
     "quelle": "tradingview"
@@ -164,8 +164,8 @@
     "country": "USD",
     "title": "Building Permits MoM Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "-2.6",
+    "forecast": "5%",
+    "previous": "-2.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -175,7 +175,7 @@
     "title": "ADP Employment Change Weekly",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "9.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -185,7 +185,7 @@
     "title": "Redbook YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "7.6",
     "actual": null,
     "quelle": "tradingview"
   },

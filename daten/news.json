@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-18T05:06:21.662Z",
+  "stand": "2026-08-18T07:30:50.878Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,33 +8,69 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
-      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449",
-      "datum": "2026-08-18T04:49:08.000Z"
+      "titel": "British Pound: Softer as jobs data cools hikes – ING",
+      "link": "https://www.fxstreet.com/news/british-pound-softer-as-jobs-data-cools-hikes-ing-202608180721",
+      "datum": "2026-08-18T07:21:38.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18500-after-breaking-above-50-day-ema-202608180442",
-      "datum": "2026-08-18T04:42:17.000Z"
+      "titel": "Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades",
+      "link": "https://www.fxstreet.com/news/japanese-yen-hits-drift-closer-to-the-key-16000-level-as-risk-appetite-fades-202608180715",
+      "datum": "2026-08-18T07:15:15.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437",
-      "datum": "2026-08-18T04:37:19.000Z"
+      "titel": "US Dollar: Carry-supported but rangebound near term – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-carry-supported-but-rangebound-near-term-ocbc-202608180708",
+      "datum": "2026-08-18T07:08:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-to-near-11350-near-term-outlook-remain-constructive-202608180427",
-      "datum": "2026-08-18T04:27:48.000Z"
+      "titel": "Silver Price Forecast: XAG/USD remains sideways around $65, FOMC takes centre stage",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-sideways-around-65-fomc-takes-centre-stage-202608180707",
+      "datum": "2026-08-18T07:07:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Bulls retain near two-week top, above $84.00 and 38.2% Fibo.",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-retain-near-two-week-top-above-8400-and-382-fibo-202608180402",
-      "datum": "2026-08-18T04:02:55.000Z"
+      "titel": "USD/CAD Price Forecast: Consolidates below 1.3900 as bears await 200-SMA breakdown",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-consolidates-below-13900-as-bears-await-200-sma-breakdown-202608180703",
+      "datum": "2026-08-18T07:03:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Mood sours as Middle East tensions come back under spotlight",
+      "link": "https://www.fxstreet.com/news/forex-today-mood-sours-as-middle-east-tensions-come-back-under-spotlight-202608180700",
+      "datum": "2026-08-18T07:00:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Equities: Stagflation fears weigh on US stocks – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-stagflation-fears-weigh-on-us-stocks-deutsche-bank-202608180649",
+      "datum": "2026-08-18T06:49:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro holds gains against British Pound as UK unemployment disappoints",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-british-pound-as-uk-unemployment-disappoints-202608180644",
+      "datum": "2026-08-18T06:44:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound dips to fresh lows near 1.3520 after mixed UK employment data",
+      "link": "https://www.fxstreet.com/news/british-pound-dips-to-fresh-lows-near-13520-after-mixed-uk-employment-data-202608180629",
+      "datum": "2026-08-18T06:29:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: RBI inflow strategy recalibrated – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-inflow-strategy-recalibrated-commerzbank-202608180627",
+      "datum": "2026-08-18T06:27:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee edges up, higher oil prices to remain key drag",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534",
+      "datum": "2026-08-18T05:34:57.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -44,45 +80,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD",
+      "titel": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
       "datum": "2026-08-18T03:49:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "UKMTO reports incident in the Strait of Hormuz — Reuters",
-      "link": "https://www.fxstreet.com/news/ukmto-reports-incident-in-the-strait-of-hormuz-reuters-202608180337",
-      "datum": "2026-08-18T03:37:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen remains near two-week low against US Dollar despite hawkish BoJ bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-near-two-week-low-against-us-dollar-despite-hawkish-boj-bets-202608180326",
-      "datum": "2026-08-18T03:26:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index holds ground on safe-haven demand",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-on-safe-haven-demand-202608180311",
-      "datum": "2026-08-18T03:11:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226",
-      "datum": "2026-08-18T02:26:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6550-amid-us-iran-peace-uncertainty-202608180208",
-      "datum": "2026-08-18T02:08:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar holds near early June high as rising oil prices offset modest USD strength",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-near-early-june-high-as-rising-oil-prices-offset-modest-usd-strength-202608180155",
-      "datum": "2026-08-18T01:55:49.000Z"
     },
     {
       "quelle": "ForexLive",

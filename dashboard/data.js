@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-18T05:06:21.664Z",
+ "erstellt": "2026-08-18T07:30:50.880Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -234,15 +234,6 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "4.8%",
    "previous": "4.9%",
-   "actual": null
-  },
-  {
-   "title": "Foreign Direct Investment ytd/y",
-   "country": "CNY",
-   "date": "2026-08-18T02:02:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-5.0%",
    "actual": null
   },
   {
@@ -747,6 +738,15 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "0.0B",
    "previous": "16.0B",
+   "actual": null
+  },
+  {
+   "title": "Foreign Direct Investment ytd/y",
+   "country": "CNY",
+   "date": "2026-08-21T02:02:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-5.0%",
    "actual": null
   },
   {
@@ -3078,15 +3078,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-18T05:06:21.245Z",
+  "stand": "2026-08-18T07:30:50.233Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.64,
+    "wert": 99.66,
     "tagProzent": 0,
-    "wocheProzent": -0.18,
+    "wocheProzent": -0.16,
     "renditeDelta": false,
     "verlauf": [
      100.99,
@@ -3109,27 +3109,29 @@ window.MAKRO_DATA = {
      100.01,
      99.96,
      99.67,
-     99.64,
-     99.64
+     99.66,
+     99.66
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.19,
-    "tagProzent": 6.6,
-    "wocheProzent": -1.75,
+    "wert": 15.81,
+    "tagProzent": 0,
+    "wocheProzent": 3.47,
     "renditeDelta": false,
     "verlauf": [
-     18.77,
      18.65,
+     17.05,
+     16.64,
      18.7,
      18.58,
      18.67,
      18.21,
      20.66,
      17.09,
+     15.99,
      15.86,
      16.5,
      15.81,
@@ -3140,16 +3142,17 @@ window.MAKRO_DATA = {
      14.55,
      14.63,
      14.25,
-     15.19
+     15.81,
+     15.81
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.16,
+    "wert": 85,
     "tagProzent": 0,
-    "wocheProzent": 2.27,
+    "wocheProzent": 2.08,
     "renditeDelta": false,
     "verlauf": [
      84.91,
@@ -3172,17 +3175,17 @@ window.MAKRO_DATA = {
      81.25,
      82.4,
      84.5,
-     85.16,
-     85.16
+     85,
+     85
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 91.43,
+    "wert": 91.08,
     "tagProzent": 0,
-    "wocheProzent": 2.75,
+    "wocheProzent": 2.36,
     "renditeDelta": false,
     "verlauf": [
      91.01,
@@ -3205,17 +3208,17 @@ window.MAKRO_DATA = {
      87.07,
      88.52,
      90.87,
-     91.43,
-     91.43
+     91.08,
+     91.08
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4450.4,
+    "wert": 4455.6,
     "tagProzent": 0,
-    "wocheProzent": 0.94,
+    "wocheProzent": 1.06,
     "renditeDelta": false,
     "verlauf": [
      4071.1,
@@ -3238,8 +3241,8 @@ window.MAKRO_DATA = {
      4363.6,
      4380.4,
      4417.8,
-     4450.4,
-     4450.4
+     4455.6,
+     4455.6
     ]
    },
    "US02Y": {
@@ -3345,12 +3348,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64141.69,
+    "wert": 64217.45,
     "tagProzent": 0,
-    "wocheProzent": 1.17,
+    "wocheProzent": 1.97,
     "renditeDelta": false,
     "verlauf": [
-     63871.36,
      63908.17,
      64725.31,
      62813.75,
@@ -3370,8 +3372,9 @@ window.MAKRO_DATA = {
      62975.59,
      63024.32,
      62818.65,
-     64141.69,
-     64141.69
+     64506.25,
+     64217.45,
+     64217.45
     ]
    },
    "FEDFUT": {
@@ -3379,12 +3382,11 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.72,
-    "tagProzent": 0.09,
+    "tagProzent": 0,
     "wocheProzent": 0.09,
     "renditeDelta": true,
     "verlauf": [
      3.63,
-     3.63,
      3.64,
      3.64,
      3.63,
@@ -3404,6 +3406,7 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
+     3.72,
      3.72
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -3571,32 +3574,32 @@ window.MAKRO_DATA = {
    "stand": "2026-08-18",
    "werte": {
     "USD": {
-     "wert": 4.194,
-     "wocheDelta": -0.005
+     "wert": 4.188,
+     "wocheDelta": -0.011
     },
     "EUR": {
-     "wert": 2.802,
-     "wocheDelta": 0.074
+     "wert": 2.819,
+     "wocheDelta": 0.091
     },
     "GBP": {
-     "wert": 4.381,
-     "wocheDelta": 0.085
+     "wert": 4.377,
+     "wocheDelta": 0.081
     },
     "JPY": {
-     "wert": 1.674,
-     "wocheDelta": 0.07
+     "wert": 1.685,
+     "wocheDelta": 0.081
     },
     "AUD": {
-     "wert": 4.622,
-     "wocheDelta": 0.048
+     "wert": 4.612,
+     "wocheDelta": 0.038
     },
     "CAD": {
      "wert": 2.984,
      "wocheDelta": 0.019
     },
     "CHF": {
-     "wert": 0.086,
-     "wocheDelta": 0.01
+     "wert": 0.101,
+     "wocheDelta": 0.025
     },
     "NZD": {
      "wert": 3.588,
@@ -3617,9 +3620,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 10,
    "tiltCot": -1,
-   "tiltZins": 3,
-   "tiltGesamt": 2,
-   "score": 12,
+   "tiltZins": 4,
+   "tiltGesamt": 3,
+   "score": 13,
    "cotExtrem": "erhoeht",
    "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + steigende Euro-Zinsen vs. flache US-Zinsen + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
   },
@@ -3637,9 +3640,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -9,
    "tiltCot": 2,
-   "tiltZins": -3,
-   "tiltGesamt": -1,
-   "score": -10,
+   "tiltZins": -4,
+   "tiltGesamt": -2,
+   "score": -11,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar; Yen festigte sich auf ~159. Gegenkraft: Yen fundamental schwach + Carry + Interventionsrisiko."
   },
@@ -3657,9 +3660,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -8,
    "tiltCot": 5,
-   "tiltZins": 0,
-   "tiltGesamt": 5,
-   "score": -3,
+   "tiltZins": -1,
+   "tiltGesamt": 4,
+   "score": -4,
    "cotExtrem": "erhoeht",
    "treiber": "Dollar-Schwäche + festes Öl + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
   },
@@ -3667,9 +3670,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": -7,
    "tiltCot": 5,
-   "tiltZins": 0,
-   "tiltGesamt": 5,
-   "score": -2,
+   "tiltZins": -1,
+   "tiltGesamt": 4,
+   "score": -3,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on (VIX 15,2) nimmt dem Franken aber Schwung. Netto leicht bärisch fürs Paar."
   },
@@ -3686,7 +3689,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-18T05:06:21.662Z",
+  "stand": "2026-08-18T07:30:50.878Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3695,33 +3698,69 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
-    "titel": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
-    "link": "https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449",
-    "datum": "2026-08-18T04:49:08.000Z"
+    "titel": "British Pound: Softer as jobs data cools hikes – ING",
+    "link": "https://www.fxstreet.com/news/british-pound-softer-as-jobs-data-cools-hikes-ing-202608180721",
+    "datum": "2026-08-18T07:21:38.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA",
-    "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18500-after-breaking-above-50-day-ema-202608180442",
-    "datum": "2026-08-18T04:42:17.000Z"
+    "titel": "Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades",
+    "link": "https://www.fxstreet.com/news/japanese-yen-hits-drift-closer-to-the-key-16000-level-as-risk-appetite-fades-202608180715",
+    "datum": "2026-08-18T07:15:15.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "India Gold price today: Gold falls, according to FXStreet data",
-    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437",
-    "datum": "2026-08-18T04:37:19.000Z"
+    "titel": "US Dollar: Carry-supported but rangebound near term – OCBC",
+    "link": "https://www.fxstreet.com/news/us-dollar-carry-supported-but-rangebound-near-term-ocbc-202608180708",
+    "datum": "2026-08-18T07:08:51.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
-    "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-to-near-11350-near-term-outlook-remain-constructive-202608180427",
-    "datum": "2026-08-18T04:27:48.000Z"
+    "titel": "Silver Price Forecast: XAG/USD remains sideways around $65, FOMC takes centre stage",
+    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-sideways-around-65-fomc-takes-centre-stage-202608180707",
+    "datum": "2026-08-18T07:07:24.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "WTI Price Forecast: Bulls retain near two-week top, above $84.00 and 38.2% Fibo.",
-    "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-retain-near-two-week-top-above-8400-and-382-fibo-202608180402",
-    "datum": "2026-08-18T04:02:55.000Z"
+    "titel": "USD/CAD Price Forecast: Consolidates below 1.3900 as bears await 200-SMA breakdown",
+    "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-consolidates-below-13900-as-bears-await-200-sma-breakdown-202608180703",
+    "datum": "2026-08-18T07:03:28.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Forex Today: Mood sours as Middle East tensions come back under spotlight",
+    "link": "https://www.fxstreet.com/news/forex-today-mood-sours-as-middle-east-tensions-come-back-under-spotlight-202608180700",
+    "datum": "2026-08-18T07:00:14.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Equities: Stagflation fears weigh on US stocks – Deutsche Bank",
+    "link": "https://www.fxstreet.com/news/equities-stagflation-fears-weigh-on-us-stocks-deutsche-bank-202608180649",
+    "datum": "2026-08-18T06:49:32.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro holds gains against British Pound as UK unemployment disappoints",
+    "link": "https://www.fxstreet.com/news/euro-holds-gains-against-british-pound-as-uk-unemployment-disappoints-202608180644",
+    "datum": "2026-08-18T06:44:05.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound dips to fresh lows near 1.3520 after mixed UK employment data",
+    "link": "https://www.fxstreet.com/news/british-pound-dips-to-fresh-lows-near-13520-after-mixed-uk-employment-data-202608180629",
+    "datum": "2026-08-18T06:29:35.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee: RBI inflow strategy recalibrated – Commerzbank",
+    "link": "https://www.fxstreet.com/news/indian-rupee-rbi-inflow-strategy-recalibrated-commerzbank-202608180627",
+    "datum": "2026-08-18T06:27:50.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee edges up, higher oil prices to remain key drag",
+    "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534",
+    "datum": "2026-08-18T05:34:57.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3731,45 +3770,9 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD",
+    "titel": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
     "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
     "datum": "2026-08-18T03:49:02.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "UKMTO reports incident in the Strait of Hormuz — Reuters",
-    "link": "https://www.fxstreet.com/news/ukmto-reports-incident-in-the-strait-of-hormuz-reuters-202608180337",
-    "datum": "2026-08-18T03:37:46.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen remains near two-week low against US Dollar despite hawkish BoJ bets",
-    "link": "https://www.fxstreet.com/news/japanese-yen-remains-near-two-week-low-against-us-dollar-despite-hawkish-boj-bets-202608180326",
-    "datum": "2026-08-18T03:26:08.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United States Dollar Index holds ground on safe-haven demand",
-    "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-on-safe-haven-demand-202608180311",
-    "datum": "2026-08-18T03:11:46.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226",
-    "datum": "2026-08-18T02:26:20.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6550-amid-us-iran-peace-uncertainty-202608180208",
-    "datum": "2026-08-18T02:08:51.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar holds near early June high as rising oil prices offset modest USD strength",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-holds-near-early-june-high-as-rising-oil-prices-offset-modest-usd-strength-202608180155",
-    "datum": "2026-08-18T01:55:49.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -4853,5 +4856,5 @@ window.MAKRO_DATA = {
    "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — US-Retail Mai +0,9% (stark); Prognose nicht dokumentiert -> leer gelassen (kein Momentum-Eintrag)"
   }
  ],
- "anzahlGespeichert": 964
+ "anzahlGespeichert": 965
 };

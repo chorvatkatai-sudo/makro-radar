@@ -1,13 +1,13 @@
 {
-  "stand": "2026-08-18T09:24:20.877Z",
+  "stand": "2026-08-18T10:19:52.248Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 99.64,
+      "wert": 99.62,
       "tagProzent": 0,
-      "wocheProzent": -0.18,
+      "wocheProzent": -0.2,
       "renditeDelta": false,
       "verlauf": [
         100.99,
@@ -30,17 +30,17 @@
         100.01,
         99.96,
         99.67,
-        99.64,
-        99.64
+        99.62,
+        99.62
       ]
     },
     "VIX": {
       "name": "VIX (Angst-Barometer)",
       "einheit": "",
       "typ": "index",
-      "wert": 15.87,
+      "wert": 15.93,
       "tagProzent": 0,
-      "wocheProzent": 3.86,
+      "wocheProzent": 4.25,
       "renditeDelta": false,
       "verlauf": [
         18.65,
@@ -63,17 +63,17 @@
         14.55,
         14.63,
         14.25,
-        15.87,
-        15.87
+        15.93,
+        15.93
       ]
     },
     "WTI": {
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 84.08,
+      "wert": 84.15,
       "tagProzent": 0,
-      "wocheProzent": 0.97,
+      "wocheProzent": 1.06,
       "renditeDelta": false,
       "verlauf": [
         84.91,
@@ -96,17 +96,17 @@
         81.25,
         82.4,
         84.5,
-        84.08,
-        84.08
+        84.15,
+        84.15
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 90.95,
+      "wert": 90.91,
       "tagProzent": 0,
-      "wocheProzent": 2.21,
+      "wocheProzent": 2.17,
       "renditeDelta": false,
       "verlauf": [
         91.01,
@@ -129,17 +129,17 @@
         87.07,
         88.52,
         90.87,
-        90.95,
-        90.95
+        90.91,
+        90.91
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4448.2,
+      "wert": 4449.2,
       "tagProzent": 0,
-      "wocheProzent": 0.89,
+      "wocheProzent": 0.91,
       "renditeDelta": false,
       "verlauf": [
         4071.1,
@@ -162,8 +162,8 @@
         4363.6,
         4380.4,
         4417.8,
-        4448.2,
-        4448.2
+        4449.2,
+        4449.2
       ]
     },
     "US02Y": {
@@ -189,7 +189,6 @@
         4.15,
         4.15,
         4.15,
-        4.17,
         4.17,
         4.17,
         4.17,
@@ -269,7 +268,7 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 64112.05,
+      "wert": 64107.89,
       "tagProzent": 0,
       "wocheProzent": 1.8,
       "renditeDelta": false,
@@ -294,17 +293,17 @@
         63024.32,
         62818.65,
         64506.25,
-        64112.05,
-        64112.05
+        64107.89,
+        64107.89
       ]
     },
     "FEDFUT": {
       "name": "Fed-Erwartung (FF-Futures)",
       "einheit": "%",
       "typ": "rendite",
-      "wert": 3.77,
+      "wert": 3.72,
       "tagProzent": 0,
-      "wocheProzent": 0.14,
+      "wocheProzent": 0.09,
       "renditeDelta": true,
       "verlauf": [
         3.63,
@@ -327,8 +326,8 @@
         3.63,
         3.63,
         3.63,
-        3.77,
-        3.77
+        3.72,
+        3.72
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
     },
@@ -499,28 +498,28 @@
         "wocheDelta": -0.011
       },
       "EUR": {
-        "wert": 2.826,
-        "wocheDelta": 0.098
+        "wert": 2.823,
+        "wocheDelta": 0.095
       },
       "GBP": {
-        "wert": 4.371,
-        "wocheDelta": 0.075
+        "wert": 4.377,
+        "wocheDelta": 0.081
       },
       "JPY": {
         "wert": 1.684,
         "wocheDelta": 0.08
       },
       "AUD": {
-        "wert": 4.612,
-        "wocheDelta": 0.038
+        "wert": 4.617,
+        "wocheDelta": 0.043
       },
       "CAD": {
         "wert": 2.984,
         "wocheDelta": 0.019
       },
       "CHF": {
-        "wert": 0.111,
-        "wocheDelta": 0.035
+        "wert": 0.106,
+        "wocheDelta": 0.03
       },
       "NZD": {
         "wert": 3.588,

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-18T09:24:22.440Z",
+  "stand": "2026-08-18T10:19:52.535Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 9,
       "tiltCot": -4,
-      "tiltZins": 3,
-      "tiltGesamt": -1,
-      "score": 8,
+      "tiltZins": 4,
+      "tiltGesamt": 0,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + britische Zinsen steigen am stärksten + Falken in der BoE. Heute UK-Arbeitsmarkt, morgen UK-Inflation als Katalysator."
     },

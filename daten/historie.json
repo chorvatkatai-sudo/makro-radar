@@ -9166,7 +9166,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "0.2M",
       "vorher": "17.4M",
       "actual": null,
       "notiz": null
@@ -9336,7 +9336,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "15B",
       "vorher": "36B",
       "actual": null,
       "notiz": null

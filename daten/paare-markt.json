@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-18T18:25:18.414Z",
+  "stand": "2026-08-18T21:15:37.718Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 10,
       "tiltCot": -1,
-      "tiltZins": 6,
-      "tiltGesamt": 5,
-      "score": 15,
+      "tiltZins": 5,
+      "tiltGesamt": 4,
+      "score": 14,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + steigende Euro-Zinsen vs. flache US-Zinsen + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
     },
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 9,
       "tiltCot": -4,
-      "tiltZins": 5,
-      "tiltGesamt": 1,
-      "score": 10,
+      "tiltZins": 4,
+      "tiltGesamt": 0,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + britische Zinsen steigen am stärksten + Falken in der BoE. Heute UK-Arbeitsmarkt, morgen UK-Inflation als Katalysator."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -5,
-      "tiltGesamt": -3,
-      "score": -12,
+      "tiltZins": -4,
+      "tiltGesamt": -2,
+      "score": -11,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar; Yen festigte sich auf ~159. Gegenkraft: Yen fundamental schwach + Carry + Interventionsrisiko."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 8,
       "tiltCot": -3,
-      "tiltZins": 5,
-      "tiltGesamt": 2,
-      "score": 10,
+      "tiltZins": 4,
+      "tiltGesamt": 1,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar + Risk-on (VIX 15,2) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
     },

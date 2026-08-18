@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-18T12:28:43.857Z",
+ "erstellt": "2026-08-18T12:35:17.391Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -3118,13 +3118,13 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-18T12:28:43.405Z",
+  "stand": "2026-08-18T12:35:17.025Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.64,
+    "wert": 99.63,
     "tagProzent": 0,
     "wocheProzent": -0.19,
     "renditeDelta": false,
@@ -3149,8 +3149,8 @@ window.MAKRO_DATA = {
      100.01,
      99.96,
      99.67,
-     99.64,
-     99.64
+     99.63,
+     99.63
     ]
    },
    "VIX": {
@@ -3190,9 +3190,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.42,
+    "wert": 84.32,
     "tagProzent": 0,
-    "wocheProzent": 1.38,
+    "wocheProzent": 1.26,
     "renditeDelta": false,
     "verlauf": [
      84.91,
@@ -3215,17 +3215,17 @@ window.MAKRO_DATA = {
      81.25,
      82.4,
      84.5,
-     84.42,
-     84.42
+     84.32,
+     84.32
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 91.33,
+    "wert": 91.19,
     "tagProzent": 0,
-    "wocheProzent": 2.64,
+    "wocheProzent": 2.48,
     "renditeDelta": false,
     "verlauf": [
      91.01,
@@ -3248,17 +3248,17 @@ window.MAKRO_DATA = {
      87.07,
      88.52,
      90.87,
-     91.33,
-     91.33
+     91.19,
+     91.19
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4448.3,
+    "wert": 4450.3,
     "tagProzent": 0,
-    "wocheProzent": 0.89,
+    "wocheProzent": 0.94,
     "renditeDelta": false,
     "verlauf": [
      4071.1,
@@ -3281,8 +3281,8 @@ window.MAKRO_DATA = {
      4363.6,
      4380.4,
      4417.8,
-     4448.3,
-     4448.3
+     4450.3,
+     4450.3
     ]
    },
    "US02Y": {
@@ -3322,9 +3322,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.724,
-    "tagProzent": 0.6,
-    "wocheProzent": 0.03,
+    "wert": 4.728,
+    "tagProzent": 0,
+    "wocheProzent": 0.04,
     "renditeDelta": true,
     "verlauf": [
      4.598,
@@ -3347,16 +3347,17 @@ window.MAKRO_DATA = {
      4.682,
      4.641,
      4.696,
-     4.724
+     4.728,
+     4.728
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.309,
-    "tagProzent": 0.84,
-    "wocheProzent": 0.07,
+    "wert": 5.318,
+    "tagProzent": 0,
+    "wocheProzent": 0.08,
     "renditeDelta": true,
     "verlauf": [
      5.118,
@@ -3379,16 +3380,17 @@ window.MAKRO_DATA = {
      5.247,
      5.213,
      5.265,
-     5.309
+     5.318,
+     5.318
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64242.97,
+    "wert": 64233.73,
     "tagProzent": 0,
-    "wocheProzent": 2.01,
+    "wocheProzent": 2,
     "renditeDelta": false,
     "verlauf": [
      63908.17,
@@ -3411,8 +3413,8 @@ window.MAKRO_DATA = {
      63024.32,
      62818.65,
      64506.25,
-     64242.97,
-     64242.97
+     64233.73,
+     64233.73
     ]
    },
    "FEDFUT": {
@@ -3449,40 +3451,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.28,
-    "tagProzent": 0.01,
-    "wocheProzent": -0.01,
-    "renditeDelta": true,
-    "verlauf": [
-     2.24,
-     2.25,
-     2.26,
-     2.28,
-     2.28,
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29,
-     2.27,
-     2.26,
-     2.24,
-     2.27,
-     2.28
-    ],
-    "quelle": "FRED"
-   },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
@@ -3516,9 +3484,43 @@ window.MAKRO_DATA = {
      2.41
     ],
     "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.28,
+    "tagProzent": 0.01,
+    "wocheProzent": -0.01,
+    "renditeDelta": true,
+    "verlauf": [
+     2.24,
+     2.25,
+     2.26,
+     2.28,
+     2.28,
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29,
+     2.27,
+     2.26,
+     2.24,
+     2.27,
+     2.28
+    ],
+    "quelle": "FRED"
    }
   },
-  "kurve2s10s": 0.76,
+  "kurve2s10s": 0.77,
   "cot": {
    "stand": "2026-08-11",
    "waehrungen": {
@@ -3612,24 +3614,24 @@ window.MAKRO_DATA = {
    "stand": "2026-08-18",
    "werte": {
     "USD": {
-     "wert": 4.194,
-     "wocheDelta": -0.005
+     "wert": 4.196,
+     "wocheDelta": -0.003
     },
     "EUR": {
      "wert": 2.83,
      "wocheDelta": 0.102
     },
     "GBP": {
-     "wert": 4.372,
-     "wocheDelta": 0.076
+     "wert": 4.373,
+     "wocheDelta": 0.077
     },
     "JPY": {
      "wert": 1.69,
      "wocheDelta": 0.086
     },
     "AUD": {
-     "wert": 4.621,
-     "wocheDelta": 0.047
+     "wert": 4.623,
+     "wocheDelta": 0.049
     },
     "CAD": {
      "wert": 2.995,
@@ -3727,13 +3729,19 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-18T12:28:43.855Z",
+  "stand": "2026-08-18T12:35:17.389Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro: Range-bound before FOMC against US Dollar – ING",
+    "link": "https://www.fxstreet.com/news/euro-range-bound-before-fomc-against-us-dollar-ing-202608181230",
+    "datum": "2026-08-18T12:30:23.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "US ADP Employment Change 4-week average rises to 9.5K as hiring rebounds",
@@ -3805,12 +3813,6 @@ window.MAKRO_DATA = {
     "titel": "investingLive European FX news wrap: Markets remain in limbo as US-Iran stalemate extends",
     "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-in-limbo-as-us-iran-stalemate-extends/",
     "datum": "2026-08-18T11:22:35.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "USD/JPY Price Forecast: Aims to extend rally above 160.00",
-    "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-aims-to-extend-rally-above-16000-202608181115",
-    "datum": "2026-08-18T11:15:08.000Z"
    },
    {
     "quelle": "ForexLive",

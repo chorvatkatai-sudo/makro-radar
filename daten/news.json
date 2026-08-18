@@ -1,11 +1,17 @@
 {
-  "stand": "2026-08-18T12:28:43.855Z",
+  "stand": "2026-08-18T12:35:17.389Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Range-bound before FOMC against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-range-bound-before-fomc-against-us-dollar-ing-202608181230",
+      "datum": "2026-08-18T12:30:23.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "US ADP Employment Change 4-week average rises to 9.5K as hiring rebounds",
@@ -77,12 +83,6 @@
       "titel": "investingLive European FX news wrap: Markets remain in limbo as US-Iran stalemate extends",
       "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-in-limbo-as-us-iran-stalemate-extends/",
       "datum": "2026-08-18T11:22:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: Aims to extend rally above 160.00",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-aims-to-extend-rally-above-16000-202608181115",
-      "datum": "2026-08-18T11:15:08.000Z"
     },
     {
       "quelle": "ForexLive",

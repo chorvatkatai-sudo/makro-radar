@@ -60,6 +60,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-08-25T00:00:00.000Z",
+    "country": "CNY",
+    "title": "National People's Congress",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-08-25T01:30:00.000Z",
     "country": "AUD",
     "title": "RBA Meeting Minutes",
@@ -323,6 +333,16 @@
     "date": "2026-08-25T20:30:00.000Z",
     "country": "USD",
     "title": "API Crude Oil Stock Change",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T00:00:00.000Z",
+    "country": "CNY",
+    "title": "National People's Congress",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -880,6 +900,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-08-27T00:00:00.000Z",
+    "country": "CNY",
+    "title": "National People's Congress",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
     "title": "Household Spending YoY",
@@ -1233,6 +1263,16 @@
     "date": "2026-08-28T00:00:00.000Z",
     "country": "USD",
     "title": "Jackson Hole Symposium",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-28T00:00:00.000Z",
+    "country": "CNY",
+    "title": "National People's Congress",
     "impact": "Medium",
     "forecast": "",
     "previous": "",

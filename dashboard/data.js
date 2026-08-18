@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-18T05:05:34.300Z",
+ "erstellt": "2026-08-18T05:06:21.664Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -3078,15 +3078,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-18T04:29:59.302Z",
+  "stand": "2026-08-18T05:06:21.245Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.66,
+    "wert": 99.64,
     "tagProzent": 0,
-    "wocheProzent": -0.16,
+    "wocheProzent": -0.18,
     "renditeDelta": false,
     "verlauf": [
      100.99,
@@ -3109,8 +3109,8 @@ window.MAKRO_DATA = {
      100.01,
      99.96,
      99.67,
-     99.66,
-     99.66
+     99.64,
+     99.64
     ]
    },
    "VIX": {
@@ -3118,8 +3118,8 @@ window.MAKRO_DATA = {
     "einheit": "",
     "typ": "index",
     "wert": 15.19,
-    "tagProzent": 0,
-    "wocheProzent": -0.59,
+    "tagProzent": 6.6,
+    "wocheProzent": -1.75,
     "renditeDelta": false,
     "verlauf": [
      18.77,
@@ -3140,7 +3140,6 @@ window.MAKRO_DATA = {
      14.55,
      14.63,
      14.25,
-     15.19,
      15.19
     ]
    },
@@ -3148,9 +3147,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.17,
+    "wert": 85.16,
     "tagProzent": 0,
-    "wocheProzent": 2.28,
+    "wocheProzent": 2.27,
     "renditeDelta": false,
     "verlauf": [
      84.91,
@@ -3173,17 +3172,17 @@ window.MAKRO_DATA = {
      81.25,
      82.4,
      84.5,
-     85.17,
-     85.17
+     85.16,
+     85.16
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 91.39,
+    "wert": 91.43,
     "tagProzent": 0,
-    "wocheProzent": 2.71,
+    "wocheProzent": 2.75,
     "renditeDelta": false,
     "verlauf": [
      91.01,
@@ -3206,17 +3205,17 @@ window.MAKRO_DATA = {
      87.07,
      88.52,
      90.87,
-     91.39,
-     91.39
+     91.43,
+     91.43
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4446.8,
+    "wert": 4450.4,
     "tagProzent": 0,
-    "wocheProzent": 0.86,
+    "wocheProzent": 0.94,
     "renditeDelta": false,
     "verlauf": [
      4071.1,
@@ -3239,8 +3238,8 @@ window.MAKRO_DATA = {
      4363.6,
      4380.4,
      4417.8,
-     4446.8,
-     4446.8
+     4450.4,
+     4450.4
     ]
    },
    "US02Y": {
@@ -3272,6 +3271,7 @@ window.MAKRO_DATA = {
      4.17,
      4.17,
      4.17,
+     4.17,
      3.961
     ]
    },
@@ -3280,16 +3280,21 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 4.724,
-    "tagProzent": 0,
-    "wocheProzent": 0.04,
+    "tagProzent": 0.6,
+    "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
+     4.541,
+     4.598,
+     4.628,
+     4.657,
      4.703,
      4.679,
      4.641,
      4.604,
      4.622,
      4.663,
+     4.745,
      4.686,
      4.627,
      4.617,
@@ -3300,7 +3305,6 @@ window.MAKRO_DATA = {
      4.682,
      4.641,
      4.696,
-     4.724,
      4.724
     ]
    },
@@ -3309,16 +3313,21 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 5.309,
-    "tagProzent": 0,
+    "tagProzent": 0.84,
     "wocheProzent": 0.07,
     "renditeDelta": true,
     "verlauf": [
+     5.064,
+     5.118,
+     5.13,
+     5.147,
      5.171,
      5.162,
      5.125,
      5.096,
      5.143,
      5.208,
+     5.275,
      5.231,
      5.19,
      5.174,
@@ -3329,7 +3338,6 @@ window.MAKRO_DATA = {
      5.247,
      5.213,
      5.265,
-     5.309,
      5.309
     ]
    },
@@ -3337,9 +3345,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64091.58,
+    "wert": 64141.69,
     "tagProzent": 0,
-    "wocheProzent": 1.09,
+    "wocheProzent": 1.17,
     "renditeDelta": false,
     "verlauf": [
      63871.36,
@@ -3362,8 +3370,8 @@ window.MAKRO_DATA = {
      62975.59,
      63024.32,
      62818.65,
-     64091.58,
-     64091.58
+     64141.69,
+     64141.69
     ]
    },
    "FEDFUT": {
@@ -3400,40 +3408,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.41,
-    "tagProzent": 0.02,
-    "wocheProzent": 0.01,
-    "renditeDelta": true,
-    "verlauf": [
-     2.35,
-     2.31,
-     2.35,
-     2.37,
-     2.39,
-     2.43,
-     2.43,
-     2.44,
-     2.41,
-     2.41,
-     2.41,
-     2.47,
-     2.43,
-     2.4,
-     2.41,
-     2.43,
-     2.4,
-     2.43,
-     2.43,
-     2.42,
-     2.39,
-     2.41
-    ],
-    "quelle": "FRED"
-   },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
@@ -3465,6 +3439,40 @@ window.MAKRO_DATA = {
      2.24,
      2.27,
      2.28
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.41,
+    "tagProzent": 0.02,
+    "wocheProzent": 0.01,
+    "renditeDelta": true,
+    "verlauf": [
+     2.35,
+     2.31,
+     2.35,
+     2.37,
+     2.39,
+     2.43,
+     2.43,
+     2.44,
+     2.41,
+     2.41,
+     2.41,
+     2.47,
+     2.43,
+     2.4,
+     2.41,
+     2.43,
+     2.4,
+     2.43,
+     2.43,
+     2.42,
+     2.39,
+     2.41
     ],
     "quelle": "FRED"
    }
@@ -3563,8 +3571,8 @@ window.MAKRO_DATA = {
    "stand": "2026-08-18",
    "werte": {
     "USD": {
-     "wert": 4.196,
-     "wocheDelta": -0.003
+     "wert": 4.194,
+     "wocheDelta": -0.005
     },
     "EUR": {
      "wert": 2.802,
@@ -3575,12 +3583,12 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.085
     },
     "JPY": {
-     "wert": 1.682,
-     "wocheDelta": 0.078
+     "wert": 1.674,
+     "wocheDelta": 0.07
     },
     "AUD": {
-     "wert": 4.618,
-     "wocheDelta": 0.044
+     "wert": 4.622,
+     "wocheDelta": 0.048
     },
     "CAD": {
      "wert": 2.984,
@@ -3678,13 +3686,31 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-18T04:29:59.858Z",
+  "stand": "2026-08-18T05:06:21.662Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
+    "link": "https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449",
+    "datum": "2026-08-18T04:49:08.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA",
+    "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18500-after-breaking-above-50-day-ema-202608180442",
+    "datum": "2026-08-18T04:42:17.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "India Gold price today: Gold falls, according to FXStreet data",
+    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437",
+    "datum": "2026-08-18T04:37:19.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
@@ -3705,7 +3731,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Gold drifts lower as oil-driven inflation risks and US-Iran tensions bolster USD",
+    "titel": "Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD",
     "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
     "datum": "2026-08-18T03:49:02.000Z"
    },
@@ -3752,28 +3778,10 @@ window.MAKRO_DATA = {
     "datum": "2026-08-18T01:49:58.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "British Pound gathers strength to near 1.3550 as Fed hike bets fade, UK jobs data loom",
-    "link": "https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13550-as-fed-hike-bets-fade-uk-jobs-data-loom-202608180127",
-    "datum": "2026-08-18T01:27:36.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Australian consumer sentiment rises 6% to 88.9 but stays deep in pessimism",
     "link": "https://investinglive.com/news/australian-consumer-sentiment-rises-6-to-88-9-but-stays-deep-in-pessimism/",
     "datum": "2026-08-18T01:18:03.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "PBOC sets USD/CNY reference rate at 6.7905 vs. 6.7873 previous",
-    "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67905-vs-67873-previous-202608180115",
-    "datum": "2026-08-18T01:15:34.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro flat lines below two-month high as oil-driven inflation fears support USD",
-    "link": "https://www.fxstreet.com/news/euro-flat-lines-below-two-month-low-as-oil-driven-inflation-fears-support-usd-202608180114",
-    "datum": "2026-08-18T01:14:26.000Z"
    },
    {
     "quelle": "ForexLive",

@@ -1,11 +1,29 @@
 {
-  "stand": "2026-08-18T04:29:59.858Z",
+  "stand": "2026-08-18T05:06:21.662Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
+      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449",
+      "datum": "2026-08-18T04:49:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18500-after-breaking-above-50-day-ema-202608180442",
+      "datum": "2026-08-18T04:42:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437",
+      "datum": "2026-08-18T04:37:19.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
@@ -26,7 +44,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold drifts lower as oil-driven inflation risks and US-Iran tensions bolster USD",
+      "titel": "Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
       "datum": "2026-08-18T03:49:02.000Z"
     },
@@ -73,28 +91,10 @@
       "datum": "2026-08-18T01:49:58.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound gathers strength to near 1.3550 as Fed hike bets fade, UK jobs data loom",
-      "link": "https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13550-as-fed-hike-bets-fade-uk-jobs-data-loom-202608180127",
-      "datum": "2026-08-18T01:27:36.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Australian consumer sentiment rises 6% to 88.9 but stays deep in pessimism",
       "link": "https://investinglive.com/news/australian-consumer-sentiment-rises-6-to-88-9-but-stays-deep-in-pessimism/",
       "datum": "2026-08-18T01:18:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "PBOC sets USD/CNY reference rate at 6.7905 vs. 6.7873 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67905-vs-67873-previous-202608180115",
-      "datum": "2026-08-18T01:15:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro flat lines below two-month high as oil-driven inflation fears support USD",
-      "link": "https://www.fxstreet.com/news/euro-flat-lines-below-two-month-low-as-oil-driven-inflation-fears-support-usd-202608180114",
-      "datum": "2026-08-18T01:14:26.000Z"
     },
     {
       "quelle": "ForexLive",

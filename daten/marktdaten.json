@@ -1,13 +1,13 @@
 {
-  "stand": "2026-08-18T10:19:52.248Z",
+  "stand": "2026-08-18T12:28:43.405Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 99.62,
+      "wert": 99.64,
       "tagProzent": 0,
-      "wocheProzent": -0.2,
+      "wocheProzent": -0.19,
       "renditeDelta": false,
       "verlauf": [
         100.99,
@@ -30,17 +30,17 @@
         100.01,
         99.96,
         99.67,
-        99.62,
-        99.62
+        99.64,
+        99.64
       ]
     },
     "VIX": {
       "name": "VIX (Angst-Barometer)",
       "einheit": "",
       "typ": "index",
-      "wert": 15.93,
+      "wert": 15.7,
       "tagProzent": 0,
-      "wocheProzent": 4.25,
+      "wocheProzent": 2.75,
       "renditeDelta": false,
       "verlauf": [
         18.65,
@@ -63,17 +63,17 @@
         14.55,
         14.63,
         14.25,
-        15.93,
-        15.93
+        15.7,
+        15.7
       ]
     },
     "WTI": {
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 84.15,
+      "wert": 84.42,
       "tagProzent": 0,
-      "wocheProzent": 1.06,
+      "wocheProzent": 1.38,
       "renditeDelta": false,
       "verlauf": [
         84.91,
@@ -96,17 +96,17 @@
         81.25,
         82.4,
         84.5,
-        84.15,
-        84.15
+        84.42,
+        84.42
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 90.91,
+      "wert": 91.33,
       "tagProzent": 0,
-      "wocheProzent": 2.17,
+      "wocheProzent": 2.64,
       "renditeDelta": false,
       "verlauf": [
         91.01,
@@ -129,17 +129,17 @@
         87.07,
         88.52,
         90.87,
-        90.91,
-        90.91
+        91.33,
+        91.33
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4449.2,
+      "wert": 4448.3,
       "tagProzent": 0,
-      "wocheProzent": 0.91,
+      "wocheProzent": 0.89,
       "renditeDelta": false,
       "verlauf": [
         4071.1,
@@ -162,8 +162,8 @@
         4363.6,
         4380.4,
         4417.8,
-        4449.2,
-        4449.2
+        4448.3,
+        4448.3
       ]
     },
     "US02Y": {
@@ -195,6 +195,7 @@
         4.17,
         4.17,
         4.17,
+        4.17,
         3.961
       ]
     },
@@ -207,7 +208,6 @@
       "wocheProzent": 0.03,
       "renditeDelta": true,
       "verlauf": [
-        4.541,
         4.598,
         4.628,
         4.657,
@@ -240,7 +240,6 @@
       "wocheProzent": 0.07,
       "renditeDelta": true,
       "verlauf": [
-        5.064,
         5.118,
         5.13,
         5.147,
@@ -268,9 +267,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 64107.89,
+      "wert": 64242.97,
       "tagProzent": 0,
-      "wocheProzent": 1.8,
+      "wocheProzent": 2.01,
       "renditeDelta": false,
       "verlauf": [
         63908.17,
@@ -293,8 +292,8 @@
         63024.32,
         62818.65,
         64506.25,
-        64107.89,
-        64107.89
+        64242.97,
+        64242.97
       ]
     },
     "FEDFUT": {
@@ -494,28 +493,28 @@
     "stand": "2026-08-18",
     "werte": {
       "USD": {
-        "wert": 4.188,
-        "wocheDelta": -0.011
+        "wert": 4.194,
+        "wocheDelta": -0.005
       },
       "EUR": {
-        "wert": 2.823,
-        "wocheDelta": 0.095
+        "wert": 2.83,
+        "wocheDelta": 0.102
       },
       "GBP": {
-        "wert": 4.377,
-        "wocheDelta": 0.081
+        "wert": 4.372,
+        "wocheDelta": 0.076
       },
       "JPY": {
-        "wert": 1.684,
-        "wocheDelta": 0.08
+        "wert": 1.69,
+        "wocheDelta": 0.086
       },
       "AUD": {
-        "wert": 4.617,
-        "wocheDelta": 0.043
+        "wert": 4.621,
+        "wocheDelta": 0.047
       },
       "CAD": {
-        "wert": 2.984,
-        "wocheDelta": 0.019
+        "wert": 2.995,
+        "wocheDelta": 0.03
       },
       "CHF": {
         "wert": 0.106,

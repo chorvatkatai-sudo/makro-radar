@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-18T13:36:14.353Z",
+  "stand": "2026-08-18T16:21:42.112Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,15 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Gold expected to trade range-bound despite increasing bets of a Fed rate pause",
-      "link": "https://www.fxstreet.com/news/gold-expected-to-trade-range-bound-despite-increasing-bets-of-a-fed-rate-pause-202608181334",
-      "datum": "2026-08-18T13:34:01.000Z"
+      "titel": "Euro fails to hold gains over the Pound ahead of UK inflation",
+      "link": "https://www.fxstreet.com/news/euro-fails-to-hold-gains-over-the-pound-ahead-of-uk-inflation-202608181610",
+      "datum": "2026-08-18T16:10:59.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro consolidates below two-month high as US Dollar steadies",
-      "link": "https://www.fxstreet.com/news/euro-consolidates-below-two-month-high-as-us-dollar-steadies-202608181319",
-      "datum": "2026-08-18T13:19:12.000Z"
+      "titel": "New Zealand Dollar edges lower on US-Iran tensions as RBNZ hike expectations curb losses",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-on-us-iran-tensions-as-rbnz-hike-expectations-curb-losses-202608181605",
+      "datum": "2026-08-18T16:05:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen stays on the back foot despite hawkish BoJ expectations",
+      "link": "https://www.fxstreet.com/news/japanese-yen-stays-on-the-back-foot-despite-hawkish-boj-expectations-202608181540",
+      "datum": "2026-08-18T15:40:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Pentagon weighing a smaller US military presence in the Gulf once the Iran war ends - WaPo",
+      "link": "https://investinglive.com/news/pentagon-weighing-a-smaller-us-military-presence-in-the-gulf-once-the-iran-war-ends-wapo/",
+      "datum": "2026-08-18T15:32:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canadian Dollar comes under renewed pressure as Trump tariff deadline approaches",
+      "link": "https://investinglive.com/news/canadian-dollar-comes-under-renewed-pressure-as-trump-tariff-deadline-approaches/",
+      "datum": "2026-08-18T15:10:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Copper: Booming prices face supply risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/copper-booming-prices-face-supply-risks-commerzbank-202608181509",
+      "datum": "2026-08-18T15:09:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Bullish momentum targets mid-1.17s – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-bullish-momentum-targets-mid-117s-scotiabank-202608181458",
+      "datum": "2026-08-18T14:58:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound steadies as weak US data counters Iran risk",
+      "link": "https://www.fxstreet.com/news/british-pound-steadies-as-weak-us-data-counters-iran-risk-202608181451",
+      "datum": "2026-08-18T14:51:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Atlanta Fed GDPNow downgrades Q3 growth estimate to 4.03% vs 4.31% prior",
+      "link": "https://investinglive.com/news/atlanta-fed-gdpnow-downgrades-q3-growth-estimate-to-4-03-vs-4-31-prior/",
+      "datum": "2026-08-18T14:46:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Tight market keeps Brent elevated – TD Securities",
+      "link": "https://www.fxstreet.com/news/oil-tight-market-keeps-brent-elevated-td-securities-202608181439",
+      "datum": "2026-08-18T14:39:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Soft UK jobs but supportive mix - BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-soft-uk-jobs-but-supportive-mix-bbh-202608181424",
+      "datum": "2026-08-18T14:24:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar remains resilient near two-month high ahead of Fed Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-resilient-near-two-month-high-ahead-of-fed-minutes-202608181418",
+      "datum": "2026-08-18T14:18:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Further gains eye 1.35–1.37 against US Dollar - Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-further-gains-eye-135-137-against-us-dollar-scotiabank-202608181406",
+      "datum": "2026-08-18T14:06:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil Price Forecast: Weak trend strength keeps WTI below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-weak-trend-strength-keeps-wti-below-100-day-sma-202608181357",
+      "datum": "2026-08-18T13:57:04.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump says there are no talks going on, or scheduled, with Iran; US naval blockade remains in full force",
+      "link": "https://investinglive.com/news/trump-says-there-are-no-talks-going-on-or-scheduled-with-iran-us-naval-blockade-remains-in-full-force/",
+      "datum": "2026-08-18T13:37:54.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -25,94 +103,16 @@
       "datum": "2026-08-18T13:15:23.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Copper: Tariff distortions unwind, prices seen lower – TD Securities",
-      "link": "https://www.fxstreet.com/news/copper-tariff-distortions-unwind-prices-seen-lower-td-securities-202608181315",
-      "datum": "2026-08-18T13:15:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: Market overpricing RBNZ hikes – BNY",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-market-overpricing-rbnz-hikes-bny-202608181256",
-      "datum": "2026-08-18T12:56:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brazilian Real: Fiscal risks point to weakness against US Dollar - Rabobank",
-      "link": "https://www.fxstreet.com/news/brazilian-real-fiscal-risks-point-to-weakness-against-us-dollar-rabobank-202608181240",
-      "datum": "2026-08-18T12:40:49.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US July import prices -0.4% vs +0.1% expected",
       "link": "https://investinglive.com/news/us-july-import-prices-xx-vs-0-1-expected/",
       "datum": "2026-08-18T12:30:51.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro: Range-bound before FOMC against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-range-bound-before-fomc-against-us-dollar-ing-202608181230",
-      "datum": "2026-08-18T12:30:23.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US July housing starts 1.239m vs 1.350m expected",
       "link": "https://investinglive.com/news/us-july-housing-starts-xxm-vs-1-350m-expected/",
       "datum": "2026-08-18T12:30:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US ADP Employment Change 4-week average rises to 9.5K as hiring rebounds",
-      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-rises-to-95k-as-hiring-rebounds-202608181224",
-      "datum": "2026-08-18T12:24:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brent: War-linked range trading outlook – BBH",
-      "link": "https://www.fxstreet.com/news/brent-war-linked-range-trading-outlook-bbh-202608181219",
-      "datum": "2026-08-18T12:19:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar remains resilient as Oil strength counters firmer US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-resilient-as-oil-strength-counters-firmer-us-dollar-202608181216",
-      "datum": "2026-08-18T12:16:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "ADP weekly NER pulse 9.50K vs 8.25K prior",
-      "link": "https://investinglive.com/news/adp-weekly-ner-pulse-xxk-vs-8-25k-prior/",
-      "datum": "2026-08-18T12:15:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European gas: LNG inflows key for prices – Commerzbank",
-      "link": "https://www.fxstreet.com/news/european-gas-lng-inflows-key-for-prices-commerzbank-202608181157",
-      "datum": "2026-08-18T11:57:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Higher-rate risk to keep prices range-bound – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-higher-rate-risk-to-keep-prices-range-bound-td-securities-202608181146",
-      "datum": "2026-08-18T11:46:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European FX news wrap: Markets remain in limbo as US-Iran stalemate extends",
-      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-in-limbo-as-us-iran-stalemate-extends/",
-      "datum": "2026-08-18T11:22:35.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Qatar says Iran-Oman Hormuz agreement could clear path for broader US-Iran talks",
-      "link": "https://investinglive.com/news/qatar-says-iran-oman-hormuz-agreement-could-clear-path-for-broader-us-iran-talks/",
-      "datum": "2026-08-18T11:01:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold falls as rising US Treasury yields strengthen the US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051",
-      "datum": "2026-08-18T10:51:51.000Z"
     }
   ]
 }

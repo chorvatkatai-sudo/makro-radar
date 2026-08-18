@@ -9690,6 +9690,16 @@
       "vorher": "0.1%",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-19T06:15:00-04:00|EUR|ECB President Lagarde Speaks": {
+      "datum": "2026-08-19T06:15:00-04:00",
+      "land": "EUR",
+      "titel": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

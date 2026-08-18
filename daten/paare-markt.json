@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-18T16:21:42.113Z",
+  "stand": "2026-08-18T18:25:18.414Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 8,
       "tiltCot": -3,
-      "tiltZins": 3,
-      "tiltGesamt": 0,
-      "score": 8,
+      "tiltZins": 5,
+      "tiltGesamt": 2,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar + Risk-on (VIX 15,2) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
     },

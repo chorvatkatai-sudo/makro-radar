@@ -1,11 +1,71 @@
 {
-  "stand": "2026-08-18T16:21:42.112Z",
+  "stand": "2026-08-18T18:25:18.412Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Economists agree: BoE will hold rates through year-end – Reuters poll",
+      "link": "https://www.fxstreet.com/news/economists-agree-boe-will-hold-rates-through-year-end-reuters-poll-202608181809",
+      "datum": "2026-08-18T18:09:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen drifts lower as Greenback retains safe-haven bid",
+      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-as-greenback-retains-safe-haven-bid-202608181806",
+      "datum": "2026-08-18T18:06:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesia Rupiah: Fiscal discipline supports stability – UOB",
+      "link": "https://www.fxstreet.com/news/indonesia-rupiah-fiscal-discipline-supports-stability-uob-202608181751",
+      "datum": "2026-08-18T17:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold price falls as US yields surge, pressuring bullion",
+      "link": "https://www.fxstreet.com/news/gold-price-falls-as-us-yields-surge-pressuring-bullion-202608181748",
+      "datum": "2026-08-18T17:48:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canadian and US negotiators are expected to meet again ahead of midnight tariff deadline",
+      "link": "https://investinglive.com/news/canadian-and-us-negotiators-are-expected-to-meet-again-ahead-of-midnight-tariff-deadline/",
+      "datum": "2026-08-18T17:41:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD consolidates as bullish momentum fades",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-as-bullish-momentum-fades-202608181730",
+      "datum": "2026-08-18T17:30:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "A two-decade yield high buys the Dollar Index nothing",
+      "link": "https://www.fxstreet.com/news/a-two-decade-yield-high-buys-the-dollar-index-nothing-202608181728",
+      "datum": "2026-08-18T17:28:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones Industrial Average has a term premium problem",
+      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-has-a-term-premium-problem-202608181727",
+      "datum": "2026-08-18T17:27:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Cleveland Fed survey: businesses expect inflation to ease, investment to weaken over the coming year",
+      "link": "https://investinglive.com/news/cleveland-fed-survey-businesses-expect-inflation-to-ease-investment-to-weaken-over-the-coming-year/",
+      "datum": "2026-08-18T17:03:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar declines from two-month highs as Hormuz tensions lift the US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-from-two-month-highs-as-hormuz-tensions-lift-the-us-dollar-202608181625",
+      "datum": "2026-08-18T16:25:40.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro fails to hold gains over the Pound ahead of UK inflation",
@@ -43,76 +103,16 @@
       "datum": "2026-08-18T15:09:10.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro: Bullish momentum targets mid-1.17s – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-bullish-momentum-targets-mid-117s-scotiabank-202608181458",
-      "datum": "2026-08-18T14:58:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound steadies as weak US data counters Iran risk",
-      "link": "https://www.fxstreet.com/news/british-pound-steadies-as-weak-us-data-counters-iran-risk-202608181451",
-      "datum": "2026-08-18T14:51:11.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Atlanta Fed GDPNow downgrades Q3 growth estimate to 4.03% vs 4.31% prior",
       "link": "https://investinglive.com/news/atlanta-fed-gdpnow-downgrades-q3-growth-estimate-to-4-03-vs-4-31-prior/",
       "datum": "2026-08-18T14:46:08.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Oil: Tight market keeps Brent elevated – TD Securities",
-      "link": "https://www.fxstreet.com/news/oil-tight-market-keeps-brent-elevated-td-securities-202608181439",
-      "datum": "2026-08-18T14:39:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Soft UK jobs but supportive mix - BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-soft-uk-jobs-but-supportive-mix-bbh-202608181424",
-      "datum": "2026-08-18T14:24:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar remains resilient near two-month high ahead of Fed Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-resilient-near-two-month-high-ahead-of-fed-minutes-202608181418",
-      "datum": "2026-08-18T14:18:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Further gains eye 1.35–1.37 against US Dollar - Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-further-gains-eye-135-137-against-us-dollar-scotiabank-202608181406",
-      "datum": "2026-08-18T14:06:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil Price Forecast: Weak trend strength keeps WTI below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-weak-trend-strength-keeps-wti-below-100-day-sma-202608181357",
-      "datum": "2026-08-18T13:57:04.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump says there are no talks going on, or scheduled, with Iran; US naval blockade remains in full force",
       "link": "https://investinglive.com/news/trump-says-there-are-no-talks-going-on-or-scheduled-with-iran-us-naval-blockade-remains-in-full-force/",
       "datum": "2026-08-18T13:37:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US July industrial production +0.2% vs +0.3% expected",
-      "link": "https://investinglive.com/news/us-july-industrial-production-xx-vs-0-3-expected/",
-      "datum": "2026-08-18T13:15:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US July import prices -0.4% vs +0.1% expected",
-      "link": "https://investinglive.com/news/us-july-import-prices-xx-vs-0-1-expected/",
-      "datum": "2026-08-18T12:30:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US July housing starts 1.239m vs 1.350m expected",
-      "link": "https://investinglive.com/news/us-july-housing-starts-xxm-vs-1-350m-expected/",
-      "datum": "2026-08-18T12:30:15.000Z"
     }
   ]
 }

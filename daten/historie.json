@@ -8758,7 +8758,7 @@
       "impact": "High",
       "prognose": "2.0%",
       "vorher": "1.9%",
-      "actual": null,
+      "actual": "2.0",
       "notiz": null
     },
     "2026-08-17T08:30:00-04:00|CAD|Trimmed CPI y/y": {
@@ -8768,7 +8768,7 @@
       "impact": "High",
       "prognose": "1.8%",
       "vorher": "1.8%",
-      "actual": null,
+      "actual": "1.9",
       "notiz": null
     },
     "2026-08-17T08:30:00-04:00|CAD|Common CPI y/y": {
@@ -8778,7 +8778,7 @@
       "impact": "Medium",
       "prognose": "2.5%",
       "vorher": "2.6%",
-      "actual": null,
+      "actual": "2.7",
       "notiz": null
     },
     "2026-08-17T08:30:00-04:00|CAD|Core CPI m/m": {

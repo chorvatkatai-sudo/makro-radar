@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-19T04:31:56.685Z",
+ "erstellt": "2026-08-19T05:06:44.244Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -135,7 +135,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "2.0%",
    "previous": "1.9%",
-   "actual": null
+   "actual": "2.0"
   },
   {
    "title": "Trimmed CPI y/y",
@@ -144,7 +144,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "1.8%",
    "previous": "1.8%",
-   "actual": null
+   "actual": "1.9"
   },
   {
    "title": "Common CPI y/y",
@@ -153,7 +153,7 @@ window.MAKRO_DATA = {
    "impact": "Medium",
    "forecast": "2.5%",
    "previous": "2.6%",
-   "actual": null
+   "actual": "2.7"
   },
   {
    "title": "Foreign Securities Purchases",
@@ -2484,37 +2484,37 @@ window.MAKRO_DATA = {
    "USD": {
     "stimmung": "bärisch",
     "score": -12,
-    "grund": "Doppelt weiche Daten (kühle Inflation 2,5 % + eingebrochener Einzelhandel −0,6 %) halten die September-Zinssenkung (~85 %) fest; auch das Zins-Momentum dreht leicht gegen den Dollar. Index dritten Tag unter 100. Gegenkraft: Warsh bleibt falkenhaft, Realzins hoch (~2,4 %) → Boden gefunden, aber angeknackst."
+    "grund": "Doppelt weiche Daten (kühle Kern-Inflation 2,5 % + eingebrochener Einzelhandel −0,6 %, heute schwache Baubeginne) halten die September-Zinssenkung (~85 %) fest; das Zins-Momentum dreht leicht gegen den Dollar (US-2-Jahres-Rendite fällt). Index dritten Tag unter 100. Gegenkraft: Warsh bleibt falkenhaft, Realzins hoch (~2,4 %), und heute Abend könnte ein falkenhaftes Fed-Protokoll kurz stützen → Boden gefunden, aber angeknackst."
    },
    "EUR": {
     "stimmung": "bullisch",
-    "score": 8,
-    "grund": "Profitiert vom schwachen Dollar; die Euro-Zinsen steigen leicht, die US-Zinsen fallen. Zusätzlich sind die Spekulanten extrem gegen den Euro aufgestellt (netto short, sehr ungewöhnlich) = Treibstoff für einen Squeeze nach oben. Aber mein EUR/USD-Track ist mies (1/8) → bewusst moderat."
+    "score": 9,
+    "grund": "Profitiert vom schwachen Dollar; die Euro-2-Jahres-Zinsen steigen aktuell am stärksten aller G10 (+0,11 in der Woche), die US-Zinsen fallen — das Zins-Momentum spricht klar für den Euro. Zusätzlich sind die Spekulanten extrem gegen den Euro aufgestellt (netto short) = Squeeze-Treibstoff nach oben. Aber mein EUR/USD-Track ist mies (1/8) → bewusst moderat."
    },
    "GBP": {
-    "stimmung": "bullisch",
-    "score": 6,
-    "grund": "UK-Wachstum überraschte positiv (Q2 +0,4 %, Monat +0,3 %), die britischen 2-Jahres-Zinsen steigen am stärksten. Drei BoE-Mitglieder wollen sogar erhöhen. Kommende Woche UK-Inflation (Mi) = Squeeze-Risiko für die vielen Pfund-Shorts."
+    "stimmung": "neutral",
+    "score": 3,
+    "grund": "Der britische Arbeitsmarkt kühlt ab (Arbeitslosenquote 4,9 %, Angestellte fallen) und die heutige Inflation zeigte kühlere Dienstleistungspreise — beides nimmt der BoE Druck und dämpft das Pfund. Gegengewicht: die britischen 2-Jahres-Zinsen steigen weiter und die vielen Pfund-Shorts bergen Squeeze-Risiko. Deshalb von bullisch auf leicht positiv gekürzt."
    },
    "JPY": {
     "stimmung": "neutral",
-    "score": 5,
-    "grund": "Die japanischen 2-Jahres-Zinsen steigen weiter (BoJ-Erhöhung Q4 im Gespräch), der Yen festigte sich zurück auf ~159 (Intervention verpufft, aber etwas stabiler als zuletzt). Bremse: fundamental schwach, teures Carry, sorglose Börse nimmt dem Hafen den Reiz. Track 2/8 → demütig."
+    "score": 4,
+    "grund": "Die japanischen 2-Jahres-Zinsen steigen weiter (BoJ-Erhöhung Q4 im Gespräch). Bremse: Yen fundamental schwach, teures Carry, sorglose Börse (VIX 15,8) nimmt dem Hafen den Reiz, Yen wieder Richtung 159–160. Track 2/8 → bewusst demütig."
    },
    "CHF": {
     "stimmung": "neutral",
     "score": 2,
-    "grund": "Der schwache Dollar hilft ein wenig, aber die sorglose Marktstimmung (VIX 14,5) nimmt dem 'sicheren Hafen' Franken den Sicherheits-Bonus. Die SNB-Zinsen liegen bei 0 % — wenig Eigenantrieb."
+    "grund": "Der schwache Dollar hilft ein wenig, aber die sorglose Marktstimmung (VIX 15,8) nimmt dem 'sicheren Hafen' Franken den Sicherheits-Bonus. SNB-Zinsen bei 0 % — wenig Eigenantrieb."
    },
    "CAD": {
     "stimmung": "neutral",
-    "score": 5,
-    "grund": "Kanada-Inflation kam einen Tick heißer (3,0 %), das härtet den Halten-Kurs der BoC — plus schwacher Dollar + festes Öl. ABER: nur Benzin-getrieben (Kern ruhig 2,2 %), und die Spekulanten sind extrem gegen den Loonie aufgestellt (fast Rekord-Short) = Rückschlag-Risiko."
+    "score": 6,
+    "grund": "Rückenwind von festem Öl (WTI +4 % in der Woche, Nahost) und der einen Tick heißeren Inflation (3,0 %), die den Halten-Kurs der BoC härtet — plus schwacher Dollar. ABER: Kern nur benzin-getrieben (ruhig bei ~2 %), und die Spekulanten sind fast rekord-short gegen den Loonie = Rückschlag-Risiko. Leicht angehoben."
    },
    "AUD": {
     "stimmung": "bullisch",
     "score": 4,
-    "grund": "Gewinner der guten Marktstimmung (Risk-on) und der Hochzins-RBA (4,35 %). ABER China enttäuschte deutlich (Industrie +4,5 %, Einzelhandel +0,6 % — beide klar verfehlt) — das bremst den Rohstoff-Aussie spürbar. Deshalb gekappt."
+    "grund": "Gewinner der guten Marktstimmung (Risk-on) und der Hochzins-RBA (4,35 %). ABER China enttäuschte deutlich (Industrie +4,5 %, Einzelhandel +0,6 %) — das bremst den Rohstoff-Aussie spürbar. Heute früh der australische Arbeitsmarkt als Test. Deshalb gekappt."
    },
    "NZD": {
     "stimmung": "neutral",
@@ -2525,37 +2525,37 @@ window.MAKRO_DATA = {
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": 10,
-    "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + steigende Euro-Zinsen vs. flache US-Zinsen + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
+    "score": 11,
+    "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + Euro-2-Jahres-Zinsen steigen am stärksten (Zins-Momentum pro-Euro) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
    },
    {
     "paar": "GBP/USD",
-    "score": 9,
-    "treiber": "Weicher Dollar + britische Zinsen steigen am stärksten + Falken in der BoE. Heute UK-Arbeitsmarkt, morgen UK-Inflation als Katalysator."
+    "score": 5,
+    "treiber": "Weicher Dollar zieht das Paar hoch, aber der schwächelnde UK-Arbeitsmarkt + kühlere Dienstleistungspreise nehmen dem Pfund Rückenwind (dovish BoE). Kürzung ggü. Vorwoche; steigende UK-Zinsen + Short-Squeeze halten es knapp positiv."
    },
    {
     "paar": "USD/JPY",
     "score": -9,
-    "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar; Yen festigte sich auf ~159. Gegenkraft: Yen fundamental schwach + Carry + Interventionsrisiko."
+    "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach + teures Carry + Interventionsrisiko, Yen wieder Richtung 159–160."
    },
    {
     "paar": "AUD/USD",
     "score": 8,
-    "treiber": "Schwacher Dollar + Risk-on (VIX 15,2) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
+    "treiber": "Schwacher Dollar + Risk-on (VIX 15,8) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
    },
    {
     "paar": "USD/CAD",
-    "score": -8,
-    "treiber": "Dollar-Schwäche + festes Öl + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
+    "score": -9,
+    "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
    },
    {
     "paar": "USD/CHF",
     "score": -7,
-    "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on (VIX 15,2) nimmt dem Franken aber Schwung. Netto leicht bärisch fürs Paar."
+    "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on (VIX 15,8) nimmt dem Franken aber Schwung. Netto leicht bärisch fürs Paar."
    },
    {
     "paar": "NZD/USD",
-    "score": 5,
+    "score": 4,
     "treiber": "Risk-on + Dollar-Schwäche heben den Kiwi, aber schwache China-Daten + fallende NZ-Zinsen + starke Shorts deckeln. Schwächstes Kaufsignal der Risk-on-Gruppe."
    }
   ],
@@ -2654,20 +2654,20 @@ window.MAKRO_DATA = {
    "POSITIONIERUNG = ZÜNDER UND WARNUNG: Alle Währungen sind netto-short gegen den Dollar, EUR und CAD extrem. Das kann die Dollar-Schwäche über einen Squeeze VERSTÄRKEN — oder bei einer guten US-Zahl eine heftige, schnelle Dollar-Gegenbewegung auslösen. Beide Richtungen respektieren."
   ],
   "tagesnews": {
-   "stand": "2026-08-18",
-   "wochentag": "Dienstag",
-   "tenor": "Der Dollar bleibt weich (Index unter 100, dritter Verlusttag) — weiche US-Daten + China-Enttäuschung drücken, Gold hält Rekordkurs. Heute früh der UK-Arbeitsmarkt, aber der eigentliche Test folgt morgen: UK-Inflation + Fed-Protokoll. Höhepunkt nächste Woche: Jackson Hole.",
+   "stand": "2026-08-19",
+   "wochentag": "Mittwoch",
+   "tenor": "Der Dollar bleibt weich (Index unter 100). Heute drücken die UK-Inflation (Dienstleistungspreise kühlen ab) und der schwächelnde britische Arbeitsmarkt das Pfund; am Abend das Fed-Protokoll (aber veraltet, von VOR dem Job-Schock). Gold nahe Rekord, Öl fest. Höhepunkt bleibt Jackson Hole nächste Woche.",
    "heute": [
-    "🇬🇧 Heute 08:00 Wien: UK-Arbeitsmarkt. Erwartet werden ~16,5k mehr Arbeitslose und ein Lohnwachstum von ~4,0 %. Achtung: Sehr viele Spekulanten wetten gegen das Pfund — schwache Zahlen bestätigen die Wetten, überraschend gute könnten eine Gegenbewegung nach oben auslösen (Squeeze). Der echte Pfund-Test ist aber die UK-Inflation morgen.",
-    "🇺🇸 Nachmittags 14:30 Wien: US-Baubeginne + Baugenehmigungen (Juli). Nur zweitrangig, zeigt aber, wie es dem zinssensiblen Wohnungsmarkt geht — ein weiteres Puzzleteil zur US-Konjunktur-Abkühlung.",
-    "🥇 Marktbild heute früh: Dollar-Index 99,7 (unter 100), Gold hält Rekordkurs über 4.400 $ (~4.447 $), Öl WTI ~85 $ (+2 % in der Woche, Nahost-Spannungen), US-10-Jahres-Rendite 4,72 %, Angst-Barometer VIX tief bei 15,2 (sorgloser Markt). USD/JPY zurück über 159 — die japanische Intervention verpufft, der Yen bleibt schwach.",
-    "🔭 Rest der Woche: Mi 🇬🇧 UK-Inflation (Squeeze-Risiko fürs Pfund) + 🇺🇸 Fed-Protokoll (20:00 Wien; stammt von VOR dem Job-Schock → dürfte abgehakt werden), Do 🇯🇵 Japan-Inflation, Fr Einkaufsmanager-Umfragen. Großes Ereignis nächste Woche: Jackson Hole (27.–29.8.), Warsh-Rede Fr 28.8."
+    "🇬🇧 Heute früh: UK-Inflation (Juli). Das Wichtige daran: die hartnäckigen Dienstleistungspreise kühlten spürbar ab. Das nimmt der Bank of England Druck (mehr Spielraum für spätere Zinssenkungen) und dämpft das Pfund. Erwartet war eine Jahresrate um ~2,9 %. Zusammen mit dem gestern gemeldeten schwachen Arbeitsmarkt kippt die Pfund-Story von 'zäh-heiß' Richtung 'kühlt ab'.",
+    "🇺🇸 Heute Abend 20:00 Wien: Fed-Protokoll (von der Sitzung 28./29. Juli, als 3 Mitglieder sogar erhöhen wollten). ABER: Es stammt von VOR dem Job-Schock und der weichen Inflation → der Markt dürfte es weitgehend abhaken. Nur ein überraschend falkenhafter Ton könnte dem Dollar kurz Luft geben.",
+    "🇺🇸 Nachmittags: US-Baubeginne (Juli) brachen ein — nur 1,24 Mio. (erwartet 1,35 Mio., −12 % zum Vormonat). Der zinssensible Wohnungsbau schwächelt = ein weiteres Puzzleteil zur US-Konjunktur-Abkühlung (Baugenehmigungen stiegen aber leicht — Bauherren planen mehr, bauen aber weniger).",
+    "🥇 Marktbild: Dollar-Index 99,6 (unter 100), Gold ~4.405 $ (Rekordnähe), Öl WTI ~85 $ (+4 % in der Woche, Nahost), US-10-Jahres-Rendite 4,71 %, Angst-Barometer VIX 15,8 (tief = sorgloser, risikofreudiger Markt)."
    ],
    "gestern": [
-    "🇨🇦 Kanada-Inflation (Juli) stieg auf 3,0 % im Jahr (von 2,8 %, einen Tick heißer als die erwarteten 2,9 %) — ABER nur wegen des teuren Benzins (Nahost). Die Kernrate ohne Benzin blieb den dritten Monat in Folge ruhig bei 2,2 %. Für die kanadische Notenbank kein Grund zum Handeln → sie bleibt beim Halten. Ist-Wert nachgetragen: CPI +0,5 % im Monat.",
-    "🇨🇳 China enttäuschte auf ganzer Linie: Industrieproduktion nur +4,5 % im Jahr (erwartet +4,8 %, Vormonat +5,3 %), Einzelhandel mickrige +0,6 % (erwartet +1,5 %), auch die Investitionen schrumpfen weiter. Die chinesische Wirtschaft verliert überall an Schwung — klarer Gegenwind für die rohstoffnahen Australien- und Neuseeland-Dollar (China ist ihr größter Abnehmer).",
-    "🇺🇸 Rückblick Freitag: Der US-Einzelhandel brach ein (−0,6 % im Monat), das Verbrauchervertrauen fiel auf 51,0. Zusammen mit der kühlen US-Kern-Inflation (2,5 %) der Vorwoche steht der Dollar auf zwei schwachen Beinen (weiche Daten + drehendes Zins-Momentum).",
-    "💵 Unterm Strich: Die Fed-Zinssenkung am 17.9. ist hoch eingepreist. Gegenkraft bleibt nur die falkenhafte Warsh-Fed + der hohe Realzins (~2,4 %) — deshalb Boden, aber angeknackst."
+    "🇬🇧 UK-Arbeitsmarkt (Di): Die Arbeitslosenquote stieg auf 4,9 % (mehrjahres-Hoch), das Lohnwachstum blieb bei 3,5 %, und die Zahl der Angestellten fiel im Juli erneut (−13k). Der britische Arbeitsmarkt kühlt weiter ab → das spricht eher für spätere BoE-Zinssenkungen (pfund-dämpfend).",
+    "🇨🇦 Kanada-Inflation (Mo): stieg auf 3,0 % im Jahr (nur wegen teurem Benzin). Die Kernraten blieben brav: Median 2,0 %, gekappt 1,9 % — die kanadische Notenbank bleibt beim Halten. Kern-Ist-Werte heute nachgetragen.",
+    "🇨🇳 China (Mo) enttäuschte auf ganzer Linie: Industrieproduktion +4,5 % (erwartet +4,8 %), Einzelhandel mickrige +0,6 % (erwartet +1,5 %). Die chinesische Wirtschaft verliert Schwung — Gegenwind für die rohstoffnahen Australien- und Neuseeland-Dollar.",
+    "💵 US-Rückblick: eingebrochener Einzelhandel (−0,6 %) + kühle Kern-Inflation (2,5 %) halten die Fed-Zinssenkung am 17.9. fest im Sattel (~85 %). Gegenkraft bleibt nur die falkenhafte Warsh-Fed + der hohe Realzins (~2,4 %) → Boden, aber angeknackst."
    ]
   }
  },
@@ -3669,23 +3669,23 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": 10,
+   "baseScore": 11,
    "tiltCot": -1,
    "tiltZins": 6,
    "tiltGesamt": 5,
-   "score": 15,
+   "score": 16,
    "cotExtrem": "erhoeht",
-   "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + steigende Euro-Zinsen vs. flache US-Zinsen + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
+   "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + Euro-2-Jahres-Zinsen steigen am stärksten (Zins-Momentum pro-Euro) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
   },
   {
    "paar": "GBP/USD",
-   "baseScore": 9,
+   "baseScore": 5,
    "tiltCot": -4,
    "tiltZins": 5,
    "tiltGesamt": 1,
-   "score": 10,
+   "score": 6,
    "cotExtrem": null,
-   "treiber": "Weicher Dollar + britische Zinsen steigen am stärksten + Falken in der BoE. Heute UK-Arbeitsmarkt, morgen UK-Inflation als Katalysator."
+   "treiber": "Weicher Dollar zieht das Paar hoch, aber der schwächelnde UK-Arbeitsmarkt + kühlere Dienstleistungspreise nehmen dem Pfund Rückenwind (dovish BoE). Kürzung ggü. Vorwoche; steigende UK-Zinsen + Short-Squeeze halten es knapp positiv."
   },
   {
    "paar": "USD/JPY",
@@ -3695,7 +3695,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -2,
    "score": -11,
    "cotExtrem": null,
-   "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar; Yen festigte sich auf ~159. Gegenkraft: Yen fundamental schwach + Carry + Interventionsrisiko."
+   "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach + teures Carry + Interventionsrisiko, Yen wieder Richtung 159–160."
   },
   {
    "paar": "AUD/USD",
@@ -3705,17 +3705,17 @@ window.MAKRO_DATA = {
    "tiltGesamt": -1,
    "score": 7,
    "cotExtrem": null,
-   "treiber": "Schwacher Dollar + Risk-on (VIX 15,2) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
+   "treiber": "Schwacher Dollar + Risk-on (VIX 15,8) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -8,
+   "baseScore": -9,
    "tiltCot": 5,
    "tiltZins": -1,
    "tiltGesamt": 4,
-   "score": -4,
+   "score": -5,
    "cotExtrem": "erhoeht",
-   "treiber": "Dollar-Schwäche + festes Öl + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: extreme CAD-Shorts können kurzfristig gegen den Trend zünden."
+   "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
   },
   {
    "paar": "USD/CHF",
@@ -3725,15 +3725,15 @@ window.MAKRO_DATA = {
    "tiltGesamt": 2,
    "score": -5,
    "cotExtrem": null,
-   "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on (VIX 15,2) nimmt dem Franken aber Schwung. Netto leicht bärisch fürs Paar."
+   "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on (VIX 15,8) nimmt dem Franken aber Schwung. Netto leicht bärisch fürs Paar."
   },
   {
    "paar": "NZD/USD",
-   "baseScore": 5,
+   "baseScore": 4,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": 0,
+   "score": -1,
    "cotExtrem": null,
    "treiber": "Risk-on + Dollar-Schwäche heben den Kiwi, aber schwache China-Daten + fallende NZ-Zinsen + starke Shorts deckeln. Schwächstes Kaufsignal der Risk-on-Gruppe."
   }
@@ -3866,11 +3866,11 @@ window.MAKRO_DATA = {
    "score": -11
   },
   "CAD": {
-   "ueber": 3,
+   "ueber": 4,
    "unter": 6,
-   "gleich": 5,
-   "gesamt": 14,
-   "score": -3
+   "gleich": 6,
+   "gesamt": 16,
+   "score": -2
   },
   "EUR": {
    "ueber": 0,
@@ -4314,6 +4314,26 @@ window.MAKRO_DATA = {
    "prognose": "0.4%",
    "vorher": "-0.4%",
    "actual": "0.5",
+   "notiz": null
+  },
+  {
+   "datum": "2026-08-17T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "Median CPI y/y",
+   "impact": "High",
+   "prognose": "2.0%",
+   "vorher": "1.9%",
+   "actual": "2.0",
+   "notiz": null
+  },
+  {
+   "datum": "2026-08-17T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "Trimmed CPI y/y",
+   "impact": "High",
+   "prognose": "1.8%",
+   "vorher": "1.8%",
+   "actual": "1.9",
    "notiz": null
   },
   {
@@ -4885,26 +4905,6 @@ window.MAKRO_DATA = {
    "vorher": "0.00%",
    "actual": "0.00%",
    "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — SNB haelt 0% (erwartet)"
-  },
-  {
-   "datum": "2026-06-17T14:00:00-04:00",
-   "land": "USD",
-   "titel": "Federal Funds Rate",
-   "impact": "High",
-   "prognose": "3.50-3.75%",
-   "vorher": "3.50-3.75%",
-   "actual": "3.50-3.75%",
-   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — Fed HAELT 3,50-3,75% (12:0), aber HAWKISHER Dot-Plot-Schwenk: Median 2026 3,4->3,8%, PCE 2,7->3,6% (Warshs Debuet)"
-  },
-  {
-   "datum": "2026-06-17T08:30:00-04:00",
-   "land": "USD",
-   "titel": "Retail Sales m/m",
-   "impact": "High",
-   "prognose": "",
-   "vorher": "",
-   "actual": "0.9%",
-   "notiz": "manuell:Session6 (2026-06-29) — Superwoche 15.-19.6. nie im Feed, aus Briefing-Doku nachgetragen — US-Retail Mai +0,9% (stark); Prognose nicht dokumentiert -> leer gelassen (kein Momentum-Eintrag)"
   }
  ],
  "anzahlGespeichert": 971

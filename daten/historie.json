@@ -9058,8 +9058,8 @@
       "impact": "High",
       "prognose": "2.9%",
       "vorher": "2.6%",
-      "actual": null,
-      "notiz": null
+      "actual": "2.9%",
+      "notiz": "auto:TV cpiYoY (2026-08-19)"
     },
     "2026-08-19T02:00:00-04:00|GBP|Core CPI y/y": {
       "datum": "2026-08-19T02:00:00-04:00",

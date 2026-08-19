@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-19T05:07:28.155Z",
+  "stand": "2026-08-19T06:29:42.106Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -4,
-      "tiltGesamt": -2,
-      "score": -11,
+      "tiltZins": -5,
+      "tiltGesamt": -3,
+      "score": -12,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach + teures Carry + Interventionsrisiko, Yen wieder Richtung 159–160."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 8,
       "tiltCot": -3,
-      "tiltZins": 2,
-      "tiltGesamt": -1,
-      "score": 7,
+      "tiltZins": 3,
+      "tiltGesamt": 0,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar + Risk-on (VIX 15,8) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
     },

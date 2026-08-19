@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-19T12:36:22.928Z",
+  "stand": "2026-08-19T15:22:49.269Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -5,
-      "tiltGesamt": -3,
-      "score": -12,
+      "tiltZins": -3,
+      "tiltGesamt": -1,
+      "score": -10,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach + teures Carry + Interventionsrisiko, Yen wieder Richtung 159–160."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 8,
       "tiltCot": -3,
-      "tiltZins": 2,
-      "tiltGesamt": -1,
-      "score": 7,
+      "tiltZins": 1,
+      "tiltGesamt": -2,
+      "score": 6,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar + Risk-on (VIX 15,8) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -7,
       "tiltCot": 5,
-      "tiltZins": -3,
-      "tiltGesamt": 2,
-      "score": -5,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on (VIX 15,8) nimmt dem Franken aber Schwung. Netto leicht bärisch fürs Paar."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 4,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -1,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Risk-on + Dollar-Schwäche heben den Kiwi, aber schwache China-Daten + fallende NZ-Zinsen + starke Shorts deckeln. Schwächstes Kaufsignal der Risk-on-Gruppe."
     }

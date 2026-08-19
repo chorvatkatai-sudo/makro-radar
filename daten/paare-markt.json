@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-19T12:29:17.996Z",
+  "stand": "2026-08-19T12:36:22.928Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": 4,
-      "tiltGesamt": 0,
-      "score": 5,
+      "tiltZins": 3,
+      "tiltGesamt": -1,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "Weicher Dollar zieht das Paar hoch, aber der schwächelnde UK-Arbeitsmarkt + kühlere Dienstleistungspreise nehmen dem Pfund Rückenwind (dovish BoE). Kürzung ggü. Vorwoche; steigende UK-Zinsen + Short-Squeeze halten es knapp positiv."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 8,
       "tiltCot": -3,
-      "tiltZins": 3,
-      "tiltGesamt": 0,
-      "score": 8,
+      "tiltZins": 2,
+      "tiltGesamt": -1,
+      "score": 7,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar + Risk-on (VIX 15,8) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
     },

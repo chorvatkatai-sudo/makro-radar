@@ -124,7 +124,7 @@
     "country": "JPY",
     "title": "Leading Economic Index Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "116.4",
     "previous": "116.4",
     "actual": null,
     "quelle": "tradingview"
@@ -1444,7 +1444,7 @@
     "country": "CAD",
     "title": "GDP MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1494,7 +1494,7 @@
     "country": "USD",
     "title": "Michigan Current Conditions Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "51.8",
     "previous": "54.8",
     "actual": null,
     "quelle": "tradingview"
@@ -1504,7 +1504,7 @@
     "country": "USD",
     "title": "Michigan Inflation Expectations Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "4.3%",
     "previous": "4.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1514,7 +1514,7 @@
     "country": "USD",
     "title": "Michigan Consumer Expectations Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "50.6",
     "previous": "55.4",
     "actual": null,
     "quelle": "tradingview"
@@ -1524,7 +1524,7 @@
     "country": "USD",
     "title": "Michigan 5 Year Inflation Expectations Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3.3%",
     "previous": "3.3%",
     "actual": null,
     "quelle": "tradingview"

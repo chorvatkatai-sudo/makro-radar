@@ -9710,6 +9710,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-19T05:34:00-04:00|EUR|German 10-y Bond Auction": {
+      "datum": "2026-08-19T05:34:00-04:00",
+      "land": "EUR",
+      "titel": "German 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.13|1.1",
+      "actual": null,
+      "notiz": null
     }
   }
 }

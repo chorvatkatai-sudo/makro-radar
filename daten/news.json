@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-19T08:26:58.787Z",
+  "stand": "2026-08-19T10:20:27.699Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Gold: Pullback risk with higher yields and Oil – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-pullback-risk-with-higher-yields-and-oil-ocbc-202608190820",
-      "datum": "2026-08-19T08:20:11.000Z"
+      "titel": "Australian Dollar: RBA seen sidelined on softer wages – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-seen-sidelined-on-softer-wages-bbh-202608190949",
+      "datum": "2026-08-19T09:49:41.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Dow Jones futures pause as tech sell-off, oil pressures weigh on sentiment",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-pause-as-tech-sell-off-oil-pressures-weigh-on-sentiment-202608190818",
-      "datum": "2026-08-19T08:18:22.000Z"
+      "titel": "Euro steadies against Japanese Yen as ECB, BoJ rate-hike bets collide",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-ecb-boj-rate-hike-bets-collide-202608190948",
+      "datum": "2026-08-19T09:48:58.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United States Dollar Index slumps in countdown to FOMC minutes",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-slumps-in-countdown-to-fomc-minutes-202608190818",
-      "datum": "2026-08-19T08:18:08.000Z"
+      "titel": "Brazilian Real: Election risks then renewed gains – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-then-renewed-gains-commerzbank-202608190939",
+      "datum": "2026-08-19T09:39:25.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Range-bound trading as FOMC minutes loom – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-range-bound-trading-as-fomc-minutes-loom-ing-202608190809",
-      "datum": "2026-08-19T08:09:38.000Z"
+      "titel": "Euro extends gains against British Pound as Eurozone inflation accelerates",
+      "link": "https://www.fxstreet.com/news/euro-extends-gains-against-british-pound-as-eurozone-inflation-accelerates-202608190936",
+      "datum": "2026-08-19T09:36:53.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI holds ground around $84.50 as supply risks increase due to US-Iran peace uncertainty",
-      "link": "https://www.fxstreet.com/news/wti-holds-ground-around-8450-as-supply-risks-increase-due-to-us-iran-peace-uncertainty-202608190801",
-      "datum": "2026-08-19T08:01:28.000Z"
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608190930",
+      "datum": "2026-08-19T09:30:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Extends rebound as yields stabilize against US Dollar - Danske Bank",
-      "link": "https://www.fxstreet.com/news/euro-extends-rebound-as-yields-stabilize-against-us-dollar-danske-bank-202608190758",
-      "datum": "2026-08-19T07:58:53.000Z"
+      "titel": "United Kingdom: Upside risks building for inflation – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-upside-risks-building-for-inflation-deutsche-bank-202608190929",
+      "datum": "2026-08-19T09:29:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: Bears look at 1.3850 support after rejection at 1.3900",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bears-look-at-13850-support-after-rejection-at-13900-202608190751",
-      "datum": "2026-08-19T07:51:10.000Z"
+      "titel": "Euro remains stronger following July’s Eurozone HICP data",
+      "link": "https://www.fxstreet.com/news/euro-remains-stronger-following-julys-eurozone-hicp-data-202608190915",
+      "datum": "2026-08-19T09:15:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: BoE outlook steady with CPI and jobs data – MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-outlook-steady-with-cpi-and-jobs-data-mufg-202608190749",
-      "datum": "2026-08-19T07:49:48.000Z"
+      "titel": "Copper: LME stock jump eases supply squeeze – ING",
+      "link": "https://www.fxstreet.com/news/copper-lme-stock-jump-eases-supply-squeeze-ing-202608190915",
+      "datum": "2026-08-19T09:15:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Euro area inflation confirmed to nudge up a little in July",
+      "link": "https://investinglive.com/news/euro-area-inflation-confirmed-to-nudge-up-a-little-in-july/",
+      "datum": "2026-08-19T09:02:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Equities: Chip-led selloff under stagflation pressure – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-chip-led-selloff-under-stagflation-pressure-deutsche-bank-202608190741",
-      "datum": "2026-08-19T07:41:20.000Z"
+      "titel": "US Dollar: Higher yields threaten housing and risk sentiment – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-threaten-housing-and-risk-sentiment-mufg-202608190900",
+      "datum": "2026-08-19T09:00:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Forex Today: UK inflation data arrive mixed, focus shifts to FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/forex-today-uk-inflation-data-arrive-mixed-focus-shifts-to-fomc-minutes-202608190739",
-      "datum": "2026-08-19T07:39:09.000Z"
+      "titel": "Japanese Yen: BoJ’s hawkish pivot reshapes outlook against US Dollar - Standard Chartered",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bojs-hawkish-pivot-reshapes-outlook-against-us-dollar-standard-chartered-202608190849",
+      "datum": "2026-08-19T08:49:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah holds firm as BI keeps rate steady at 5.75%",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-firm-as-bi-keeps-rate-steady-at-575-202608190738",
-      "datum": "2026-08-19T07:38:43.000Z"
+      "titel": "Swiss Franc picks up within range, USDollar softens awaiting Fed minutes",
+      "link": "https://www.fxstreet.com/news/swiss-franc-picks-up-within-range-usdollar-softens-awaiting-fed-minutes-202608190831",
+      "datum": "2026-08-19T08:31:13.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -79,16 +85,16 @@
       "datum": "2026-08-19T06:00:20.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee trades lower amid higher oil prices, early FCNR (B) closure",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531",
+      "datum": "2026-08-19T05:31:26.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "Inflation data the main focus on the economic calendar in Europe today",
       "link": "https://investinglive.com/news/inflation-data-the-main-focus-on-the-economic-calendar-in-europe-today/",
       "datum": "2026-08-19T04:41:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold climbs back above $4,350 as USD remains depressed ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336",
-      "datum": "2026-08-19T03:36:33.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Australia Q2 2026 Wage price Index +0.8% q/q (expected +0.8%)",
       "link": "https://investinglive.com/news/australia-q2-2026-wage-price-index-q-q-expected-0-8/",
       "datum": "2026-08-19T01:34:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan June Machine Orders +16.9% y/y (expected +10.8%)",
-      "link": "https://investinglive.com/news/japan-june-machine-orders-16-9-y-y-expected-10-8/",
-      "datum": "2026-08-18T23:50:40.000Z"
     }
   ]
 }

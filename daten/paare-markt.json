@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-19T08:26:58.788Z",
+  "stand": "2026-08-19T10:20:27.700Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -5,
-      "tiltGesamt": -3,
-      "score": -12,
+      "tiltZins": -4,
+      "tiltGesamt": -2,
+      "score": -11,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach + teures Carry + Interventionsrisiko, Yen wieder Richtung 159–160."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": -6,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -5,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
     },

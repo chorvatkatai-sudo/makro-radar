@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-20T10:21:19.325Z",
+  "stand": "2026-08-20T12:31:28.677Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro holds steady against British Pound as ECB, BoE rate hike bets offset each other",
-      "link": "https://www.fxstreet.com/news/euro-holds-steady-against-british-pound-as-ecb-boe-rate-hike-bets-offset-each-other-202608201010",
-      "datum": "2026-08-20T10:10:43.000Z"
+      "titel": "United States: Long-end yield risks contained – ING",
+      "link": "https://www.fxstreet.com/news/united-states-long-end-yield-risks-contained-ing-202608201225",
+      "datum": "2026-08-20T12:25:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound gains as Japanese Yen struggles despite hawkish BoJ outlook",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-as-japanese-yen-struggles-despite-hawkish-boj-outlook-202608201213",
+      "datum": "2026-08-20T12:13:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Treasury buybacks raise fiscal questions – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-treasury-buybacks-raise-fiscal-questions-bbh-202608201211",
+      "datum": "2026-08-20T12:11:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Riksbank: Early-2027 hike view – Nomura",
+      "link": "https://www.fxstreet.com/news/riksbank-early-2027-hike-view-nomura-202608201201",
+      "datum": "2026-08-20T12:01:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-yields-recover-some-poise-walmart-shares-slide-after-earnings/",
+      "datum": "2026-08-20T11:58:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen trims gains as downbeat foreign trade data offsets US Dollar’s weakness",
+      "link": "https://www.fxstreet.com/news/japanese-yen-trims-gains-as-downbeat-foreign-trade-data-offsets-us-dollars-weakness-202608201154",
+      "datum": "2026-08-20T11:54:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Experienced Traders Can Now Apply to Teach on investingLive Academy",
+      "link": "https://investinglive.com/news/experienced-traders-can-now-apply-to-teach-on-investinglive-academy/",
+      "datum": "2026-08-20T11:52:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Flows and trade leave Japanese Yen exposed – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-flows-and-trade-leave-japanese-yen-exposed-bny-202608201149",
+      "datum": "2026-08-20T11:49:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver gives back some gains as US yields rebound",
+      "link": "https://www.fxstreet.com/news/silver-gives-back-some-gains-as-us-yields-rebound-202608201144",
+      "datum": "2026-08-20T11:44:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Benefits from US Dollar weakness – DBS",
+      "link": "https://www.fxstreet.com/news/euro-benefits-from-us-dollar-weakness-dbs-202608201140",
+      "datum": "2026-08-20T11:40:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Downside risks grow as yields contained – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-downside-risks-grow-as-yields-contained-mufg-202608201128",
+      "datum": "2026-08-20T11:28:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold pares gains, remaining close to recent highs, as Treasury buybacks weigh on US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
+      "datum": "2026-08-20T11:16:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Softer jobs data keeps RBA sidelined – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-softer-jobs-data-keeps-rba-sidelined-bbh-202608201112",
+      "datum": "2026-08-20T11:12:49.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "At best, German economy may grow slightly in this quarter - Bundesbank",
       "link": "https://investinglive.com/news/at-best-german-economy-may-grow-slightly-in-this-quarter-bundesbank/",
       "datum": "2026-08-20T10:09:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Slow growth but data understate jobs – Commerzbank",
-      "link": "https://www.fxstreet.com/news/united-states-slow-growth-but-data-understate-jobs-commerzbank-202608201003",
-      "datum": "2026-08-20T10:03:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI minutes temper rate-cut hopes – DBS",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-minutes-temper-rate-cut-hopes-dbs-202608200938",
-      "datum": "2026-08-20T09:38:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608200932",
-      "datum": "2026-08-20T09:32:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: AI, inflation risks and limited FX impact – MUFG",
-      "link": "https://www.fxstreet.com/news/federal-reserve-ai-inflation-risks-and-limited-fx-impact-mufg-202608200925",
-      "datum": "2026-08-20T09:25:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Policy-driven yield retreat – UBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-policy-driven-yield-retreat-ubs-202608200916",
-      "datum": "2026-08-20T09:16:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro weakens against Canadian Dollar amid higher oil prices",
-      "link": "https://www.fxstreet.com/news/euro-weakens-against-canadian-dollar-amid-higher-oil-prices-202608200910",
-      "datum": "2026-08-20T09:10:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Upside bias targets 1.1725 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-targets-11725-against-us-dollar-uob-202608200905",
-      "datum": "2026-08-20T09:05:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI refreshes three-week high near $86 amid US-Iran deadlock",
-      "link": "https://www.fxstreet.com/news/wti-refreshes-three-week-high-near-86-amid-us-iran-deadlock-202608200855",
-      "datum": "2026-08-20T08:55:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Copper: Tight physical market supports prices – ING",
-      "link": "https://www.fxstreet.com/news/copper-tight-physical-market-supports-prices-ing-202608200855",
-      "datum": "2026-08-20T08:55:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones futures gain on Treasury bond buyback relief",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-on-treasury-bond-buyback-relief-202608200850",
-      "datum": "2026-08-20T08:50:36.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -98,21 +110,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee capitalizes on falling US bond yields",
+      "titel": "Indian Rupee surrenders gains as higher Oil prices outweigh US Dollar weakness",
       "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502",
       "datum": "2026-08-20T05:02:58.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Trump vows sweeping new Iran sanctions",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-vows-sweeping-new-iran-sanctions/",
-      "datum": "2026-08-20T03:29:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Run on banks feared as concern rises over government seizing deposits to fund war",
-      "link": "https://investinglive.com/news/run-on-banks-feared-as-concern-rises-over-government-seizing-deposits-to-fund-war/",
-      "datum": "2026-08-20T02:19:54.000Z"
     }
   ]
 }

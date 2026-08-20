@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-20T10:21:19.326Z",
+  "stand": "2026-08-20T12:31:28.679Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": 3,
-      "tiltGesamt": -1,
-      "score": 4,
+      "tiltZins": 4,
+      "tiltGesamt": 0,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "Weicher Dollar zieht das Paar hoch, aber der schwächelnde UK-Arbeitsmarkt + kühlere Dienstleistungspreise nehmen dem Pfund Rückenwind (dovish BoE). Kürzung ggü. Vorwoche; steigende UK-Zinsen + Short-Squeeze halten es knapp positiv."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -5,
-      "tiltGesamt": -3,
-      "score": -12,
+      "tiltZins": -4,
+      "tiltGesamt": -2,
+      "score": -11,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach + teures Carry + Interventionsrisiko, Yen wieder Richtung 159–160."
     },

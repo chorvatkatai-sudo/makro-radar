@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-20T10:21:19.327Z",
+ "erstellt": "2026-08-20T12:31:28.680Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -1131,7 +1131,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "New Home Sales",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "0.62",
    "previous": "0.628",
    "actual": null,
    "quelle": "tradingview"
@@ -1171,7 +1171,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "CB Consumer Confidence",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "91.2",
    "previous": "90.8",
    "actual": null,
    "quelle": "tradingview"
@@ -1412,7 +1412,7 @@ window.MAKRO_DATA = {
    "title": "Wholesale Sales MoM Prel",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "2.8%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1521,7 +1521,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Durable Goods Orders Ex Transp MoM",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "0.5%",
    "previous": "0.6%",
    "actual": null,
    "quelle": "tradingview"
@@ -1571,7 +1571,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Durable Goods Orders MoM",
    "impact": "High",
-   "forecast": "",
+   "forecast": "0.7%",
    "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -3137,24 +3137,24 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-20T10:21:19.010Z",
+  "stand": "2026-08-20T12:31:26.394Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.57,
+    "wert": 98.77,
     "tagProzent": 0,
-    "wocheProzent": -1.11,
+    "wocheProzent": -0.9,
     "renditeDelta": false,
     "verlauf": [
+     100.99,
      101.43,
      101.47,
      101.51,
      101.38,
      100.8,
      100.01,
-     99.8,
      99.96,
      99.89,
      99.69,
@@ -3168,26 +3168,26 @@ window.MAKRO_DATA = {
      99.64,
      99.65,
      98.83,
-     98.57,
-     98.57
+     98.77,
+     98.77
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.21,
+    "wert": 15.96,
     "tagProzent": 0,
-    "wocheProzent": 6.74,
+    "wocheProzent": 12,
     "renditeDelta": false,
     "verlauf": [
+     18.65,
      18.7,
      18.58,
      18.67,
      18.21,
      20.66,
      17.09,
-     15.99,
      15.86,
      16.5,
      15.81,
@@ -3201,17 +3201,17 @@ window.MAKRO_DATA = {
      15.19,
      15.84,
      14.89,
-     15.21,
-     15.21
+     15.96,
+     15.96
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 86.64,
+    "wert": 87.69,
     "tagProzent": 0,
-    "wocheProzent": 5.15,
+    "wocheProzent": 6.42,
     "renditeDelta": false,
     "verlauf": [
      92.19,
@@ -3234,17 +3234,17 @@ window.MAKRO_DATA = {
      84.5,
      84.94,
      85.83,
-     86.64,
-     86.64
+     87.69,
+     87.69
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 93.95,
+    "wert": 94.71,
     "tagProzent": 0,
-    "wocheProzent": 6.13,
+    "wocheProzent": 6.99,
     "renditeDelta": false,
     "verlauf": [
      100.69,
@@ -3267,17 +3267,17 @@ window.MAKRO_DATA = {
      90.87,
      91.02,
      91.62,
-     93.95,
-     93.95
+     94.71,
+     94.71
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4545.7,
+    "wert": 4518.6,
     "tagProzent": 0,
-    "wocheProzent": 3.77,
+    "wocheProzent": 3.15,
     "renditeDelta": false,
     "verlauf": [
      4046.6,
@@ -3300,8 +3300,8 @@ window.MAKRO_DATA = {
      4417.8,
      4366,
      4489.4,
-     4545.7,
-     4545.7
+     4518.6,
+     4518.6
     ]
    },
    "US02Y": {
@@ -3313,6 +3313,7 @@ window.MAKRO_DATA = {
     "wocheProzent": -0.21,
     "renditeDelta": true,
     "verlauf": [
+     4.027,
      4.033,
      4.035,
      4.051,
@@ -3333,7 +3334,6 @@ window.MAKRO_DATA = {
      4.17,
      4.17,
      4.17,
-     4.17,
      3.961
     ]
    },
@@ -3346,14 +3346,12 @@ window.MAKRO_DATA = {
     "wocheProzent": 0.01,
     "renditeDelta": true,
     "verlauf": [
-     4.657,
      4.703,
      4.679,
      4.641,
      4.604,
      4.622,
      4.663,
-     4.745,
      4.686,
      4.627,
      4.617,
@@ -3379,14 +3377,12 @@ window.MAKRO_DATA = {
     "wocheProzent": -0.02,
     "renditeDelta": true,
     "verlauf": [
-     5.147,
      5.171,
      5.162,
      5.125,
      5.096,
      5.143,
      5.208,
-     5.275,
      5.231,
      5.19,
      5.174,
@@ -3407,9 +3403,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 72210,
+    "wert": 71906.95,
     "tagProzent": 0,
-    "wocheProzent": 14.95,
+    "wocheProzent": 14.47,
     "renditeDelta": false,
     "verlauf": [
      62813.75,
@@ -3432,17 +3428,17 @@ window.MAKRO_DATA = {
      64506.25,
      64680.71,
      69266.19,
-     72210,
-     72210
+     71906.95,
+     71906.95
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.76,
-    "tagProzent": 0,
-    "wocheProzent": 0.13,
+    "wert": 3.77,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.14,
     "renditeDelta": true,
     "verlauf": [
      3.64,
@@ -3466,43 +3462,9 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.76,
-     3.76
+     3.77
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
-   },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.41,
-    "tagProzent": -0.03,
-    "wocheProzent": -0.02,
-    "renditeDelta": true,
-    "verlauf": [
-     2.35,
-     2.37,
-     2.39,
-     2.43,
-     2.43,
-     2.44,
-     2.41,
-     2.41,
-     2.41,
-     2.47,
-     2.43,
-     2.4,
-     2.41,
-     2.43,
-     2.4,
-     2.43,
-     2.43,
-     2.42,
-     2.39,
-     2.41,
-     2.44,
-     2.41
-    ],
-    "quelle": "FRED"
    },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
@@ -3535,6 +3497,40 @@ window.MAKRO_DATA = {
      2.28,
      2.3,
      2.3
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.41,
+    "tagProzent": -0.03,
+    "wocheProzent": -0.02,
+    "renditeDelta": true,
+    "verlauf": [
+     2.35,
+     2.37,
+     2.39,
+     2.43,
+     2.43,
+     2.44,
+     2.41,
+     2.41,
+     2.41,
+     2.47,
+     2.43,
+     2.4,
+     2.41,
+     2.43,
+     2.4,
+     2.43,
+     2.43,
+     2.42,
+     2.39,
+     2.41,
+     2.44,
+     2.41
     ],
     "quelle": "FRED"
    }
@@ -3633,32 +3629,32 @@ window.MAKRO_DATA = {
    "stand": "2026-08-20",
    "werte": {
     "USD": {
-     "wert": 4.177,
-     "wocheDelta": -0.066
+     "wert": 4.19,
+     "wocheDelta": -0.053
     },
     "EUR": {
-     "wert": 2.852,
-     "wocheDelta": 0.058
+     "wert": 2.864,
+     "wocheDelta": 0.07
     },
     "GBP": {
-     "wert": 4.366,
-     "wocheDelta": 0.008
+     "wert": 4.401,
+     "wocheDelta": 0.043
     },
     "JPY": {
      "wert": 1.668,
      "wocheDelta": 0.056
     },
     "AUD": {
-     "wert": 4.576,
-     "wocheDelta": -0.049
+     "wert": 4.594,
+     "wocheDelta": -0.031
     },
     "CAD": {
-     "wert": 3.003,
-     "wocheDelta": -0.026
+     "wert": 3.023,
+     "wocheDelta": -0.006
     },
     "CHF": {
-     "wert": 0.1,
-     "wocheDelta": -0.015
+     "wert": 0.109,
+     "wocheDelta": -0.006
     },
     "NZD": {
      "wert": 3.565,
@@ -3689,9 +3685,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 5,
    "tiltCot": -4,
-   "tiltZins": 3,
-   "tiltGesamt": -1,
-   "score": 4,
+   "tiltZins": 4,
+   "tiltGesamt": 0,
+   "score": 5,
    "cotExtrem": null,
    "treiber": "Weicher Dollar zieht das Paar hoch, aber der schwächelnde UK-Arbeitsmarkt + kühlere Dienstleistungspreise nehmen dem Pfund Rückenwind (dovish BoE). Kürzung ggü. Vorwoche; steigende UK-Zinsen + Short-Squeeze halten es knapp positiv."
   },
@@ -3699,9 +3695,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -9,
    "tiltCot": 2,
-   "tiltZins": -5,
-   "tiltGesamt": -3,
-   "score": -12,
+   "tiltZins": -4,
+   "tiltGesamt": -2,
+   "score": -11,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach + teures Carry + Interventionsrisiko, Yen wieder Richtung 159–160."
   },
@@ -3748,7 +3744,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-20T10:21:19.325Z",
+  "stand": "2026-08-20T12:31:28.677Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3757,75 +3753,87 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
-    "titel": "Euro holds steady against British Pound as ECB, BoE rate hike bets offset each other",
-    "link": "https://www.fxstreet.com/news/euro-holds-steady-against-british-pound-as-ecb-boe-rate-hike-bets-offset-each-other-202608201010",
-    "datum": "2026-08-20T10:10:43.000Z"
+    "titel": "United States: Long-end yield risks contained – ING",
+    "link": "https://www.fxstreet.com/news/united-states-long-end-yield-risks-contained-ing-202608201225",
+    "datum": "2026-08-20T12:25:08.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound gains as Japanese Yen struggles despite hawkish BoJ outlook",
+    "link": "https://www.fxstreet.com/news/british-pound-gains-as-japanese-yen-struggles-despite-hawkish-boj-outlook-202608201213",
+    "datum": "2026-08-20T12:13:57.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar: Treasury buybacks raise fiscal questions – BBH",
+    "link": "https://www.fxstreet.com/news/us-dollar-treasury-buybacks-raise-fiscal-questions-bbh-202608201211",
+    "datum": "2026-08-20T12:11:55.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Riksbank: Early-2027 hike view – Nomura",
+    "link": "https://www.fxstreet.com/news/riksbank-early-2027-hike-view-nomura-202608201201",
+    "datum": "2026-08-20T12:01:43.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
+    "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-yields-recover-some-poise-walmart-shares-slide-after-earnings/",
+    "datum": "2026-08-20T11:58:01.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen trims gains as downbeat foreign trade data offsets US Dollar’s weakness",
+    "link": "https://www.fxstreet.com/news/japanese-yen-trims-gains-as-downbeat-foreign-trade-data-offsets-us-dollars-weakness-202608201154",
+    "datum": "2026-08-20T11:54:53.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Experienced Traders Can Now Apply to Teach on investingLive Academy",
+    "link": "https://investinglive.com/news/experienced-traders-can-now-apply-to-teach-on-investinglive-academy/",
+    "datum": "2026-08-20T11:52:24.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen: Flows and trade leave Japanese Yen exposed – BNY",
+    "link": "https://www.fxstreet.com/news/japanese-yen-flows-and-trade-leave-japanese-yen-exposed-bny-202608201149",
+    "datum": "2026-08-20T11:49:25.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver gives back some gains as US yields rebound",
+    "link": "https://www.fxstreet.com/news/silver-gives-back-some-gains-as-us-yields-rebound-202608201144",
+    "datum": "2026-08-20T11:44:25.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro: Benefits from US Dollar weakness – DBS",
+    "link": "https://www.fxstreet.com/news/euro-benefits-from-us-dollar-weakness-dbs-202608201140",
+    "datum": "2026-08-20T11:40:35.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar: Downside risks grow as yields contained – MUFG",
+    "link": "https://www.fxstreet.com/news/us-dollar-downside-risks-grow-as-yields-contained-mufg-202608201128",
+    "datum": "2026-08-20T11:28:56.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold pares gains, remaining close to recent highs, as Treasury buybacks weigh on US Dollar",
+    "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
+    "datum": "2026-08-20T11:16:10.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Australian Dollar: Softer jobs data keeps RBA sidelined – BBH",
+    "link": "https://www.fxstreet.com/news/australian-dollar-softer-jobs-data-keeps-rba-sidelined-bbh-202608201112",
+    "datum": "2026-08-20T11:12:49.000Z"
    },
    {
     "quelle": "ForexLive",
     "titel": "At best, German economy may grow slightly in this quarter - Bundesbank",
     "link": "https://investinglive.com/news/at-best-german-economy-may-grow-slightly-in-this-quarter-bundesbank/",
     "datum": "2026-08-20T10:09:33.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United States: Slow growth but data understate jobs – Commerzbank",
-    "link": "https://www.fxstreet.com/news/united-states-slow-growth-but-data-understate-jobs-commerzbank-202608201003",
-    "datum": "2026-08-20T10:03:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Indian Rupee: RBI minutes temper rate-cut hopes – DBS",
-    "link": "https://www.fxstreet.com/news/indian-rupee-rbi-minutes-temper-rate-cut-hopes-dbs-202608200938",
-    "datum": "2026-08-20T09:38:34.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Silver price today: Silver falls, according to FXStreet data",
-    "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608200932",
-    "datum": "2026-08-20T09:32:47.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Federal Reserve: AI, inflation risks and limited FX impact – MUFG",
-    "link": "https://www.fxstreet.com/news/federal-reserve-ai-inflation-risks-and-limited-fx-impact-mufg-202608200925",
-    "datum": "2026-08-20T09:25:37.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Dollar: Policy-driven yield retreat – UBS",
-    "link": "https://www.fxstreet.com/news/us-dollar-policy-driven-yield-retreat-ubs-202608200916",
-    "datum": "2026-08-20T09:16:24.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro weakens against Canadian Dollar amid higher oil prices",
-    "link": "https://www.fxstreet.com/news/euro-weakens-against-canadian-dollar-amid-higher-oil-prices-202608200910",
-    "datum": "2026-08-20T09:10:01.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro: Upside bias targets 1.1725 against US Dollar – UOB",
-    "link": "https://www.fxstreet.com/news/euro-upside-bias-targets-11725-against-us-dollar-uob-202608200905",
-    "datum": "2026-08-20T09:05:59.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "WTI refreshes three-week high near $86 amid US-Iran deadlock",
-    "link": "https://www.fxstreet.com/news/wti-refreshes-three-week-high-near-86-amid-us-iran-deadlock-202608200855",
-    "datum": "2026-08-20T08:55:27.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Copper: Tight physical market supports prices – ING",
-    "link": "https://www.fxstreet.com/news/copper-tight-physical-market-supports-prices-ing-202608200855",
-    "datum": "2026-08-20T08:55:05.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Dow Jones futures gain on Treasury bond buyback relief",
-    "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-on-treasury-bond-buyback-relief-202608200850",
-    "datum": "2026-08-20T08:50:36.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3847,21 +3855,9 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Indian Rupee capitalizes on falling US bond yields",
+    "titel": "Indian Rupee surrenders gains as higher Oil prices outweigh US Dollar weakness",
     "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502",
     "datum": "2026-08-20T05:02:58.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Asia-Pacific market news: Trump vows sweeping new Iran sanctions",
-    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-vows-sweeping-new-iran-sanctions/",
-    "datum": "2026-08-20T03:29:39.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Run on banks feared as concern rises over government seizing deposits to fund war",
-    "link": "https://investinglive.com/news/run-on-banks-feared-as-concern-rises-over-government-seizing-deposits-to-fund-war/",
-    "datum": "2026-08-20T02:19:54.000Z"
    }
   ]
  },

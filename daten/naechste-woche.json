@@ -244,7 +244,7 @@
     "country": "USD",
     "title": "New Home Sales",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.62",
     "previous": "0.628",
     "actual": null,
     "quelle": "tradingview"
@@ -284,7 +284,7 @@
     "country": "USD",
     "title": "CB Consumer Confidence",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "91.2",
     "previous": "90.8",
     "actual": null,
     "quelle": "tradingview"
@@ -525,7 +525,7 @@
     "title": "Wholesale Sales MoM Prel",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "2.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -634,7 +634,7 @@
     "country": "USD",
     "title": "Durable Goods Orders Ex Transp MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.5%",
     "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -684,7 +684,7 @@
     "country": "USD",
     "title": "Durable Goods Orders MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.7%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-20T05:05:46.792Z",
+ "erstellt": "2026-08-20T05:06:45.626Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -3137,24 +3137,24 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-20T04:31:23.809Z",
+  "stand": "2026-08-20T05:06:45.194Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.81,
+    "wert": 98.84,
     "tagProzent": 0,
-    "wocheProzent": -0.86,
+    "wocheProzent": -0.83,
     "renditeDelta": false,
     "verlauf": [
-     100.99,
      101.43,
      101.47,
      101.51,
      101.38,
      100.8,
      100.01,
+     99.8,
      99.96,
      99.89,
      99.69,
@@ -3168,8 +3168,8 @@ window.MAKRO_DATA = {
      99.64,
      99.65,
      98.83,
-     98.81,
-     98.81
+     98.84,
+     98.84
     ]
    },
    "VIX": {
@@ -3181,13 +3181,14 @@ window.MAKRO_DATA = {
     "wocheProzent": 1.78,
     "renditeDelta": false,
     "verlauf": [
-     18.65,
+     16.64,
      18.7,
      18.58,
      18.67,
      18.21,
      20.66,
      17.09,
+     15.99,
      15.86,
      16.5,
      15.81,
@@ -3208,9 +3209,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.56,
+    "wert": 84.46,
     "tagProzent": 0,
-    "wocheProzent": 2.62,
+    "wocheProzent": 2.5,
     "renditeDelta": false,
     "verlauf": [
      92.19,
@@ -3233,17 +3234,17 @@ window.MAKRO_DATA = {
      84.5,
      84.94,
      85.83,
-     84.56,
-     84.56
+     84.46,
+     84.46
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 91.95,
+    "wert": 91.77,
     "tagProzent": 0,
-    "wocheProzent": 3.87,
+    "wocheProzent": 3.67,
     "renditeDelta": false,
     "verlauf": [
      100.69,
@@ -3266,17 +3267,17 @@ window.MAKRO_DATA = {
      90.87,
      91.02,
      91.62,
-     91.95,
-     91.95
+     91.77,
+     91.77
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4551.9,
+    "wert": 4548,
     "tagProzent": 0,
-    "wocheProzent": 3.92,
+    "wocheProzent": 3.83,
     "renditeDelta": false,
     "verlauf": [
      4046.6,
@@ -3299,8 +3300,8 @@ window.MAKRO_DATA = {
      4417.8,
      4366,
      4489.4,
-     4551.9,
-     4551.9
+     4548,
+     4548
     ]
    },
    "US02Y": {
@@ -3312,7 +3313,6 @@ window.MAKRO_DATA = {
     "wocheProzent": -0.21,
     "renditeDelta": true,
     "verlauf": [
-     4.027,
      4.033,
      4.035,
      4.051,
@@ -3333,6 +3333,7 @@ window.MAKRO_DATA = {
      4.17,
      4.17,
      4.17,
+     4.17,
      3.961
     ]
    },
@@ -3345,12 +3346,14 @@ window.MAKRO_DATA = {
     "wocheProzent": 0.01,
     "renditeDelta": true,
     "verlauf": [
+     4.657,
      4.703,
      4.679,
      4.641,
      4.604,
      4.622,
      4.663,
+     4.745,
      4.686,
      4.627,
      4.617,
@@ -3376,12 +3379,14 @@ window.MAKRO_DATA = {
     "wocheProzent": -0.02,
     "renditeDelta": true,
     "verlauf": [
+     5.147,
      5.171,
      5.162,
      5.125,
      5.096,
      5.143,
      5.208,
+     5.275,
      5.231,
      5.19,
      5.174,
@@ -3402,9 +3407,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 69282.05,
+    "wert": 69498.5,
     "tagProzent": 0,
-    "wocheProzent": 9.93,
+    "wocheProzent": 10.27,
     "renditeDelta": false,
     "verlauf": [
      64725.31,
@@ -3427,17 +3432,17 @@ window.MAKRO_DATA = {
      62818.65,
      64506.25,
      64680.71,
-     69282.05,
-     69282.05
+     69498.5,
+     69498.5
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.71,
-    "tagProzent": 0,
-    "wocheProzent": 0.08,
+    "wert": 3.72,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.09,
     "renditeDelta": true,
     "verlauf": [
      3.64,
@@ -3461,43 +3466,9 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.71,
-     3.71
+     3.72
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.3,
-    "tagProzent": 0,
-    "wocheProzent": 0.04,
-    "renditeDelta": true,
-    "verlauf": [
-     2.26,
-     2.28,
-     2.28,
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29,
-     2.27,
-     2.26,
-     2.24,
-     2.27,
-     2.28,
-     2.3,
-     2.3
-    ],
-    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
@@ -3530,6 +3501,40 @@ window.MAKRO_DATA = {
      2.41,
      2.44,
      2.41
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.3,
+    "tagProzent": 0,
+    "wocheProzent": 0.04,
+    "renditeDelta": true,
+    "verlauf": [
+     2.26,
+     2.28,
+     2.28,
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29,
+     2.27,
+     2.26,
+     2.24,
+     2.27,
+     2.28,
+     2.3,
+     2.3
     ],
     "quelle": "FRED"
    }
@@ -3640,8 +3645,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.012
     },
     "JPY": {
-     "wert": 1.664,
-     "wocheDelta": 0.052
+     "wert": 1.665,
+     "wocheDelta": 0.053
     },
     "AUD": {
      "wert": 4.567,
@@ -3743,13 +3748,37 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-20T04:31:24.268Z",
+  "stand": "2026-08-20T05:06:45.578Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee rebounds after three-day losing streak against US Dollar",
+    "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502",
+    "datum": "2026-08-20T05:02:58.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro consolidates near late May highs as USD draws support from hawkish Fed, Iran risks",
+    "link": "https://www.fxstreet.com/news/euro-consolidates-near-late-may-highs-as-usd-draws-support-from-hawkish-fed-iran-risks-202608200442",
+    "datum": "2026-08-20T04:42:45.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "United States Dollar Index weakens below 99.00 on Fed repricing, Treasury bond buybacks",
+    "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-9900-on-fed-repricing-treasury-bond-buybacks-202608200437",
+    "datum": "2026-08-20T04:37:40.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "India Gold price today: Gold falls, according to FXStreet data",
+    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608200437",
+    "datum": "2026-08-20T04:37:12.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Canadian Dollar gains on higher oil prices, weaker US Dollar",
@@ -3805,40 +3834,16 @@ window.MAKRO_DATA = {
     "datum": "2026-08-20T02:19:54.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar declines following weak labor data",
-    "link": "https://www.fxstreet.com/news/australian-dollar-declines-following-weak-labor-data-202608200155",
-    "datum": "2026-08-20T01:55:24.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Australia's jobless rate climbs to a near four year high in July",
     "link": "https://investinglive.com/news/australia-s-jobless-rate-climbs-to-a-near-four-year-high-in-july/",
     "datum": "2026-08-20T01:54:07.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY",
-    "link": "https://www.fxstreet.com/news/australian-dollar-reacts-little-to-dismal-jobs-data-holds-above-weekly-low-vs-weaker-jpy-202608200152",
-    "datum": "2026-08-20T01:52:34.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Australian July 2026 jobs report: Unemployment rate 4.5% (expected 4.4%, prior 4.4%)",
     "link": "https://investinglive.com/news/australian-july-2026-jobs-report-unemployment-rate-4-expected-4-4-prior-4-4/",
     "datum": "2026-08-20T01:30:10.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound edges lower as USD steadies above three-month low; downside seems limited",
-    "link": "https://www.fxstreet.com/news/british-pound-edges-lower-as-usd-steadies-above-three-month-low-downside-seems-limited-202608200118",
-    "datum": "2026-08-20T01:18:48.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "WTI surges above $84.50 as Strait of Hormuz standoff escalate",
-    "link": "https://www.fxstreet.com/news/wti-surges-above-8450-as-strait-of-hormuz-standoff-escalate-202608200117",
-    "datum": "2026-08-20T01:17:33.000Z"
    },
    {
     "quelle": "ForexLive",

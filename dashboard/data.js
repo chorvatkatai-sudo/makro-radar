@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-20T19:24:40.896Z",
+ "erstellt": "2026-08-20T20:19:23.433Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -898,20 +898,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-23T22:45:00.000Z",
    "country": "NZD",
-   "title": "Retail Sales QoQ",
+   "title": "Retail Sales YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.9%",
+   "previous": "4.5%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-08-23T22:45:00.000Z",
    "country": "NZD",
-   "title": "Retail Sales YoY",
+   "title": "Retail Sales QoQ",
    "impact": "Low",
    "forecast": "",
-   "previous": "4.5%",
+   "previous": "0.9%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1118,10 +1118,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-25T13:00:00.000Z",
    "country": "USD",
-   "title": "S&P/Case-Shiller Home Price MoM",
+   "title": "House Price Index MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.9%",
+   "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1132,6 +1132,16 @@ window.MAKRO_DATA = {
    "impact": "Medium",
    "forecast": "",
    "previous": "1.6%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-08-25T13:00:00.000Z",
+   "country": "USD",
+   "title": "S&P/Case-Shiller Home Price MoM",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.9%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1152,16 +1162,6 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "",
    "previous": "442.4",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-25T13:00:00.000Z",
-   "country": "USD",
-   "title": "House Price Index MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3186,7 +3186,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-20T19:24:40.371Z",
+  "stand": "2026-08-20T20:19:22.931Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3194,7 +3194,7 @@ window.MAKRO_DATA = {
     "typ": "index",
     "wert": 98.89,
     "tagProzent": 0,
-    "wocheProzent": -0.78,
+    "wocheProzent": -0.79,
     "renditeDelta": false,
     "verlauf": [
      100.99,
@@ -3225,9 +3225,9 @@ window.MAKRO_DATA = {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.09,
+    "wert": 15.96,
     "tagProzent": 0,
-    "wocheProzent": 12.91,
+    "wocheProzent": 12,
     "renditeDelta": false,
     "verlauf": [
      18.65,
@@ -3250,17 +3250,17 @@ window.MAKRO_DATA = {
      15.19,
      15.84,
      14.89,
-     16.09,
-     16.09
+     15.96,
+     15.96
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 86.73,
+    "wert": 86.64,
     "tagProzent": 0,
-    "wocheProzent": 5.25,
+    "wocheProzent": 5.15,
     "renditeDelta": false,
     "verlauf": [
      92.19,
@@ -3283,17 +3283,17 @@ window.MAKRO_DATA = {
      84.5,
      84.94,
      85.83,
-     86.73,
-     86.73
+     86.64,
+     86.64
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 93.66,
+    "wert": 93.5,
     "tagProzent": 0,
-    "wocheProzent": 5.81,
+    "wocheProzent": 5.63,
     "renditeDelta": false,
     "verlauf": [
      100.69,
@@ -3316,17 +3316,17 @@ window.MAKRO_DATA = {
      90.87,
      91.02,
      91.62,
-     93.66,
-     93.66
+     93.5,
+     93.5
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4584,
+    "wert": 4579.2,
     "tagProzent": 0,
-    "wocheProzent": 4.65,
+    "wocheProzent": 4.54,
     "renditeDelta": false,
     "verlauf": [
      4046.6,
@@ -3349,8 +3349,8 @@ window.MAKRO_DATA = {
      4417.8,
      4366,
      4489.4,
-     4584,
-     4584
+     4579.2,
+     4579.2
     ]
    },
    "US02Y": {
@@ -3454,9 +3454,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 72591.77,
+    "wert": 72700.67,
     "tagProzent": 0,
-    "wocheProzent": 15.56,
+    "wocheProzent": 15.73,
     "renditeDelta": false,
     "verlauf": [
      62813.75,
@@ -3479,8 +3479,8 @@ window.MAKRO_DATA = {
      64506.25,
      64680.71,
      69266.19,
-     72591.77,
-     72591.77
+     72700.67,
+     72700.67
     ]
    },
    "FEDFUT": {
@@ -3521,12 +3521,11 @@ window.MAKRO_DATA = {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.41,
-    "tagProzent": -0.03,
-    "wocheProzent": -0.02,
+    "wert": 2.35,
+    "tagProzent": -0.06,
+    "wocheProzent": -0.07,
     "renditeDelta": true,
     "verlauf": [
-     2.35,
      2.37,
      2.39,
      2.43,
@@ -3547,7 +3546,8 @@ window.MAKRO_DATA = {
      2.39,
      2.41,
      2.44,
-     2.41
+     2.41,
+     2.35
     ],
     "quelle": "FRED"
    },
@@ -3680,12 +3680,12 @@ window.MAKRO_DATA = {
    "stand": "2026-08-20",
    "werte": {
     "USD": {
-     "wert": 4.183,
-     "wocheDelta": -0.06
+     "wert": 4.187,
+     "wocheDelta": -0.056
     },
     "EUR": {
-     "wert": 2.833,
-     "wocheDelta": 0.039
+     "wert": 2.836,
+     "wocheDelta": 0.042
     },
     "GBP": {
      "wert": 4.382,
@@ -3795,13 +3795,37 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-20T19:24:40.894Z",
+  "stand": "2026-08-20T20:19:23.431Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Mexican Peso holds firm as Banxico minutes supports the Peso",
+    "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014",
+    "datum": "2026-08-20T20:14:02.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Economic and event calendar in Asia Friday, August 21, 2026 - focus on Japanese inflation data",
+    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-august-21-2026-focus-on-japanese-inflation-data/",
+    "datum": "2026-08-20T20:12:54.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+    "datum": "2026-08-20T20:00:00.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas news wrap: Bessent doubles down on buyback plan",
+    "link": "https://investinglive.com/news/investinglive-americas-news-wrap-bessent-doubles-down-on-buyback-plan/",
+    "datum": "2026-08-20T19:31:32.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "South Korean Won: Rally accelerates with foreign inflows – DBS",
@@ -3875,12 +3899,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-20T17:01:02.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Dow Jones Industrial Average sells the best outlook since 1983",
-    "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sells-the-best-outlook-since-1983-202608201659",
-    "datum": "2026-08-20T16:59:29.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
     "link": "https://investinglive.com/news/us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-than-4-billion/",
@@ -3891,24 +3909,6 @@ window.MAKRO_DATA = {
     "titel": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "datum": "2026-08-20T15:00:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
-    "datum": "2026-08-20T15:00:00.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US leading index for July +0.2% vs +0.1% expected",
-    "link": "https://investinglive.com/news/us-leading-index-for-july-0-2-vs-0-1-expected/",
-    "datum": "2026-08-20T14:00:08.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US August Philly Fed business index +47.4 vs +25.0 expected",
-    "link": "https://investinglive.com/news/us-august-philly-fed-business-index-xx-vs-25-0-expected/",
-    "datum": "2026-08-20T12:30:42.000Z"
    }
   ]
  },

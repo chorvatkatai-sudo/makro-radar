@@ -2,20 +2,20 @@
   {
     "date": "2026-08-23T22:45:00.000Z",
     "country": "NZD",
-    "title": "Retail Sales QoQ",
+    "title": "Retail Sales YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.9%",
+    "previous": "4.5%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-23T22:45:00.000Z",
     "country": "NZD",
-    "title": "Retail Sales YoY",
+    "title": "Retail Sales QoQ",
     "impact": "Low",
     "forecast": "",
-    "previous": "4.5%",
+    "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -222,10 +222,10 @@
   {
     "date": "2026-08-25T13:00:00.000Z",
     "country": "USD",
-    "title": "S&P/Case-Shiller Home Price MoM",
+    "title": "House Price Index MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.9%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -236,6 +236,16 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "1.6%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-25T13:00:00.000Z",
+    "country": "USD",
+    "title": "S&P/Case-Shiller Home Price MoM",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -256,16 +266,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "442.4",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-25T13:00:00.000Z",
-    "country": "USD",
-    "title": "House Price Index MoM",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },

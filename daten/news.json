@@ -1,11 +1,35 @@
 {
-  "stand": "2026-08-20T19:24:40.894Z",
+  "stand": "2026-08-20T20:19:23.431Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso holds firm as Banxico minutes supports the Peso",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014",
+      "datum": "2026-08-20T20:14:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Friday, August 21, 2026 - focus on Japanese inflation data",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-august-21-2026-focus-on-japanese-inflation-data/",
+      "datum": "2026-08-20T20:12:54.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+      "datum": "2026-08-20T20:00:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas news wrap: Bessent doubles down on buyback plan",
+      "link": "https://investinglive.com/news/investinglive-americas-news-wrap-bessent-doubles-down-on-buyback-plan/",
+      "datum": "2026-08-20T19:31:32.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "South Korean Won: Rally accelerates with foreign inflows – DBS",
@@ -79,12 +103,6 @@
       "datum": "2026-08-20T17:01:02.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average sells the best outlook since 1983",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sells-the-best-outlook-since-1983-202608201659",
-      "datum": "2026-08-20T16:59:29.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
       "link": "https://investinglive.com/news/us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-than-4-billion/",
@@ -95,24 +113,6 @@
       "titel": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
       "datum": "2026-08-20T15:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
-      "datum": "2026-08-20T15:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US leading index for July +0.2% vs +0.1% expected",
-      "link": "https://investinglive.com/news/us-leading-index-for-july-0-2-vs-0-1-expected/",
-      "datum": "2026-08-20T14:00:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US August Philly Fed business index +47.4 vs +25.0 expected",
-      "link": "https://investinglive.com/news/us-august-philly-fed-business-index-xx-vs-25-0-expected/",
-      "datum": "2026-08-20T12:30:42.000Z"
     }
   ]
 }

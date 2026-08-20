@@ -1,11 +1,71 @@
 {
-  "stand": "2026-08-20T14:27:13.946Z",
+  "stand": "2026-08-20T15:25:54.902Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI hits three-week high as Iran deadlock supports Oil",
+      "link": "https://www.fxstreet.com/news/wti-hits-three-week-high-as-iran-deadlock-supports-oil-202608201512",
+      "datum": "2026-08-20T15:12:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesia: Rupiah stability supports BI pause – DBS",
+      "link": "https://www.fxstreet.com/news/indonesia-rupiah-stability-supports-bi-pause-dbs-202608201511",
+      "datum": "2026-08-20T15:11:32.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
+      "link": "https://investinglive.com/news/us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-than-4-billion/",
+      "datum": "2026-08-20T15:04:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar remains supported by rising Oil prices and US tariff pause",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-supported-despite-modest-us-dollar-rebound-202608201502",
+      "datum": "2026-08-20T15:02:01.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "datum": "2026-08-20T15:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "datum": "2026-08-20T15:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Sustained break above 1.3650 may open 1.41 – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-sustained-break-above-13650-may-open-141-scotiabank-202608201459",
+      "datum": "2026-08-20T14:59:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/GBP eases from intraday highs as traders eye dual flash PMIs",
+      "link": "https://www.fxstreet.com/news/eur-gbp-eases-from-intraday-highs-as-traders-eye-dual-flash-pmis-202608201455",
+      "datum": "2026-08-20T14:55:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Leads Asia FX on tech support – MUFG",
+      "link": "https://www.fxstreet.com/news/south-korean-won-leads-asia-fx-on-tech-support-mufg-202608201446",
+      "datum": "2026-08-20T14:46:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swedish Krona: Riksbank keeps hikes on table – BNY",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-hikes-on-table-bny-202608201432",
+      "datum": "2026-08-20T14:32:07.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro: Bullish trend eyes upper 1.17s against US Dollar – Scotiabank",
@@ -37,48 +97,6 @@
       "datum": "2026-08-20T13:30:55.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro eases from three-month high as US Dollar stabilises, Jobless Claims beat expectations",
-      "link": "https://www.fxstreet.com/news/euro-eases-from-three-month-high-as-us-dollar-stabilises-jobless-claims-beat-expectations-202608201327",
-      "datum": "2026-08-20T13:27:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "\"More avenues opening for US Dollar weakness ahead\": MUFG on why Treasury buyback could backfire",
-      "link": "https://www.fxstreet.com/news/more-avenues-opening-for-us-dollar-weakness-ahead-mufg-on-why-treasury-buyback-could-backfire-202608201323",
-      "datum": "2026-08-20T13:23:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI defends manageable Dollar shorts – BNY",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-defends-manageable-dollar-shorts-bny-202608201320",
-      "datum": "2026-08-20T13:20:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Analysts agree: Indian Rupee should draw support from hawkish RBI, strong reserves",
-      "link": "https://www.fxstreet.com/news/analysts-agree-indian-rupee-should-draw-support-from-hawkish-rbi-strong-reserves-202608201308",
-      "datum": "2026-08-20T13:08:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Consolidation after treasury buybacks – DBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-after-treasury-buybacks-dbs-202608201305",
-      "datum": "2026-08-20T13:05:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed's Daly: Rise in long term yields is a global issue",
-      "link": "https://www.fxstreet.com/news/feds-daly-rise-in-long-term-yields-is-a-global-issue-202608201300",
-      "datum": "2026-08-20T13:00:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar retreats as weak jobs data weighs on RBA rate outlook",
-      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-as-weak-jobs-data-weighs-on-rba-rate-outlook-202608201254",
-      "datum": "2026-08-20T12:54:02.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US August Philly Fed business index +47.4 vs +25.0 expected",
       "link": "https://investinglive.com/news/us-august-philly-fed-business-index-xx-vs-25-0-expected/",
@@ -95,24 +113,6 @@
       "titel": "US initial jobless claims 206K vs 210K expected",
       "link": "https://investinglive.com/news/us-initial-jobless-claims-206k-vs-210k-expected/",
       "datum": "2026-08-20T12:30:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-yields-recover-some-poise-walmart-shares-slide-after-earnings/",
-      "datum": "2026-08-20T11:58:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Experienced Traders Can Now Apply to Teach on investingLive Academy",
-      "link": "https://investinglive.com/news/experienced-traders-can-now-apply-to-teach-on-investinglive-academy/",
-      "datum": "2026-08-20T11:52:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold pares gains as US Treasury yields, Dollar recover",
-      "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
-      "datum": "2026-08-20T11:16:10.000Z"
     }
   ]
 }

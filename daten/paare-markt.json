@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-20T14:27:13.948Z",
+  "stand": "2026-08-20T15:25:54.904Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": 2,
-      "tiltGesamt": -2,
-      "score": 3,
+      "tiltZins": 3,
+      "tiltGesamt": -1,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "Weicher Dollar zieht das Paar hoch, aber der schwächelnde UK-Arbeitsmarkt + kühlere Dienstleistungspreise nehmen dem Pfund Rückenwind (dovish BoE). Kürzung ggü. Vorwoche; steigende UK-Zinsen + Short-Squeeze halten es knapp positiv."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": -5,
+      "tiltZins": -2,
+      "tiltGesamt": 3,
+      "score": -6,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
     },

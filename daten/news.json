@@ -1,11 +1,35 @@
 {
-  "stand": "2026-08-20T16:24:50.098Z",
+  "stand": "2026-08-20T17:21:04.564Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
+      "link": "https://investinglive.com/news/us-treasury-auctions-off-9-billion-of-30-year-tips-at-2-973-vs-2-991-wi/",
+      "datum": "2026-08-20T17:11:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar rises as RBNZ rate hike expectations strengthen",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705",
+      "datum": "2026-08-20T17:05:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar holds near highs as mixed data keeps RBA tightening bets alive",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-highs-as-mixed-data-keeps-rba-tightening-bets-alive-202608201701",
+      "datum": "2026-08-20T17:01:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average sells the best outlook since 1983",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sells-the-best-outlook-since-1983-202608201659",
+      "datum": "2026-08-20T16:59:29.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "British Pound climbs as UK inflation keeps BoE hike bets alive",
@@ -73,24 +97,6 @@
       "datum": "2026-08-20T15:00:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Sustained break above 1.3650 may open 1.41 – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-sustained-break-above-13650-may-open-141-scotiabank-202608201459",
-      "datum": "2026-08-20T14:59:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP eases from intraday highs as traders eye dual flash PMIs",
-      "link": "https://www.fxstreet.com/news/eur-gbp-eases-from-intraday-highs-as-traders-eye-dual-flash-pmis-202608201455",
-      "datum": "2026-08-20T14:55:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Leads Asia FX on tech support – MUFG",
-      "link": "https://www.fxstreet.com/news/south-korean-won-leads-asia-fx-on-tech-support-mufg-202608201446",
-      "datum": "2026-08-20T14:46:12.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US leading index for July +0.2% vs +0.1% expected",
       "link": "https://investinglive.com/news/us-leading-index-for-july-0-2-vs-0-1-expected/",
@@ -107,12 +113,6 @@
       "titel": "Canada July PPI +0.6% vs -0.5% expected",
       "link": "https://investinglive.com/news/canada-july-ppi-xx-vs-0-5-expected/",
       "datum": "2026-08-20T12:30:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US initial jobless claims 206K vs 210K expected",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-206k-vs-210k-expected/",
-      "datum": "2026-08-20T12:30:07.000Z"
     }
   ]
 }

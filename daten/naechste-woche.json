@@ -92,6 +92,16 @@
   {
     "date": "2026-08-25T02:35:00.000Z",
     "country": "NZD",
+    "title": "1-Year Bill Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.4%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-25T02:35:00.000Z",
+    "country": "NZD",
     "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
@@ -106,16 +116,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.0311%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-25T02:35:00.000Z",
-    "country": "NZD",
-    "title": "1-Year Bill Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -402,18 +402,8 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "Inflation Rate YoY",
+    "title": "RBA Trimmed Mean CPI MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "3.8%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T01:30:00.000Z",
-    "country": "AUD",
-    "title": "RBA Weighted Median CPI MoM",
-    "impact": "Low",
     "forecast": "",
     "previous": "0.3%",
     "actual": null,
@@ -432,20 +422,10 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "RBA Trimmed Mean CPI YoY",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "3.6%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T01:30:00.000Z",
-    "country": "AUD",
-    "title": "RBA Weighted Median CPI YoY",
+    "title": "RBA Weighted Median CPI MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.7%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -462,6 +442,16 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
+    "title": "RBA Weighted Median CPI YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.7%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T01:30:00.000Z",
+    "country": "AUD",
     "title": "Inflation Rate MoM",
     "impact": "Medium",
     "forecast": "",
@@ -472,10 +462,20 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "RBA Trimmed Mean CPI MoM",
+    "title": "Inflation Rate YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.3%",
+    "previous": "3.8%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T01:30:00.000Z",
+    "country": "AUD",
+    "title": "RBA Trimmed Mean CPI YoY",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "3.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -752,16 +752,6 @@
   {
     "date": "2026-08-26T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Crude Oil Imports Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-1.754",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T14:30:00.000Z",
-    "country": "USD",
     "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
@@ -816,6 +806,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "0.143",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Crude Oil Imports Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-1.754",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1042,6 +1042,16 @@
   {
     "date": "2026-08-27T08:00:00.000Z",
     "country": "EUR",
+    "title": "M3 Money Supply YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.3%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-27T08:00:00.000Z",
+    "country": "EUR",
     "title": "Loans to Companies YoY",
     "impact": "Low",
     "forecast": "",
@@ -1056,16 +1066,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-27T08:00:00.000Z",
-    "country": "EUR",
-    "title": "M3 Money Supply YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1215,7 +1215,7 @@
     "title": "15-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "5.95",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1225,7 +1225,7 @@
     "title": "30-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.65",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -152,20 +152,20 @@
   {
     "date": "2026-08-25T12:00:00.000Z",
     "country": "USD",
-    "title": "Building Permits MoM Final",
+    "title": "Building Permits Final",
     "impact": "Low",
-    "forecast": "5%",
-    "previous": "-2.6%",
+    "forecast": "1.443",
+    "previous": "1.374",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-25T12:00:00.000Z",
     "country": "USD",
-    "title": "Building Permits Final",
+    "title": "Building Permits MoM Final",
     "impact": "Low",
-    "forecast": "1.443",
-    "previous": "1.374",
+    "forecast": "5%",
+    "previous": "-2.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -532,20 +532,20 @@
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "PCE Prices QoQ 2nd Est",
+    "title": "Durable Goods Orders ex Defense MoM",
     "impact": "Low",
-    "forecast": "5.1%",
-    "previous": "4.6%",
+    "forecast": "",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "Durable Goods Orders ex Defense MoM",
+    "title": "PCE Prices QoQ 2nd Est",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.3%",
+    "forecast": "5.1%",
+    "previous": "4.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -972,20 +972,20 @@
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Plant Machinery Capital Expenditure QoQ",
+    "title": "Household Spending MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "18.1%",
+    "previous": "0.8",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Household Spending MoM",
+    "title": "Plant Machinery Capital Expenditure QoQ",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.8",
+    "previous": "18.1%",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -1,11 +1,77 @@
 {
-  "stand": "2026-08-20T12:37:26.615Z",
+  "stand": "2026-08-20T13:39:27.451Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Upside focus into 1.35–1.37 against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-upside-focus-into-135-137-against-us-dollar-scotiabank-202608201330",
+      "datum": "2026-08-20T13:30:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro eases from three-month high as US Dollar stabilises, Jobless Claims beat expectations",
+      "link": "https://www.fxstreet.com/news/euro-eases-from-three-month-high-as-us-dollar-stabilises-jobless-claims-beat-expectations-202608201327",
+      "datum": "2026-08-20T13:27:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "\"More avenues opening for US Dollar weakness ahead\": MUFG on why Treasury buyback could backfire",
+      "link": "https://www.fxstreet.com/news/more-avenues-opening-for-us-dollar-weakness-ahead-mufg-on-why-treasury-buyback-could-backfire-202608201323",
+      "datum": "2026-08-20T13:23:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: RBI defends manageable Dollar shorts – BNY",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-defends-manageable-dollar-shorts-bny-202608201320",
+      "datum": "2026-08-20T13:20:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Analysts agree: Indian Rupee should draw support from hawkish RBI, strong reserves",
+      "link": "https://www.fxstreet.com/news/analysts-agree-indian-rupee-should-draw-support-from-hawkish-rbi-strong-reserves-202608201308",
+      "datum": "2026-08-20T13:08:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Consolidation after treasury buybacks – DBS",
+      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-after-treasury-buybacks-dbs-202608201305",
+      "datum": "2026-08-20T13:05:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed's Daly: Rise in long term yields is a global issue",
+      "link": "https://www.fxstreet.com/news/feds-daly-rise-in-long-term-yields-is-a-global-issue-202608201300",
+      "datum": "2026-08-20T13:00:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar retreats as weak jobs data weighs on RBA rate outlook",
+      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-as-weak-jobs-data-weighs-on-rba-rate-outlook-202608201254",
+      "datum": "2026-08-20T12:54:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Debt concerns shape FX outlook – Rabobank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-debt-concerns-shape-fx-outlook-rabobank-202608201253",
+      "datum": "2026-08-20T12:53:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Rally faces questions as buybacks reshape yields – BNY",
+      "link": "https://www.fxstreet.com/news/gold-rally-faces-questions-as-buybacks-reshape-yields-bny-202608201240",
+      "datum": "2026-08-20T12:40:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Initial Jobless Claims dropped to 206K last week",
+      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-206k-last-week-202608201238",
+      "datum": "2026-08-20T12:38:19.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US August Philly Fed business index +47.4 vs +25.0 expected",
@@ -25,40 +91,10 @@
       "datum": "2026-08-20T12:30:07.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "United States: Long-end yield risks contained – ING",
-      "link": "https://www.fxstreet.com/news/united-states-long-end-yield-risks-contained-ing-202608201225",
-      "datum": "2026-08-20T12:25:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound gains as Japanese Yen struggles despite hawkish BoJ outlook",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-as-japanese-yen-struggles-despite-hawkish-boj-outlook-202608201213",
-      "datum": "2026-08-20T12:13:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Treasury buybacks raise fiscal questions – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-treasury-buybacks-raise-fiscal-questions-bbh-202608201211",
-      "datum": "2026-08-20T12:11:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Riksbank: Early-2027 hike view – Nomura",
-      "link": "https://www.fxstreet.com/news/riksbank-early-2027-hike-view-nomura-202608201201",
-      "datum": "2026-08-20T12:01:43.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-yields-recover-some-poise-walmart-shares-slide-after-earnings/",
       "datum": "2026-08-20T11:58:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen trims gains as downbeat foreign trade data offsets US Dollar’s weakness",
-      "link": "https://www.fxstreet.com/news/japanese-yen-trims-gains-as-downbeat-foreign-trade-data-offsets-us-dollars-weakness-202608201154",
-      "datum": "2026-08-20T11:54:53.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -68,51 +104,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Flows and trade leave Japanese Yen exposed – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-flows-and-trade-leave-japanese-yen-exposed-bny-202608201149",
-      "datum": "2026-08-20T11:49:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver gives back some gains as US yields rebound",
-      "link": "https://www.fxstreet.com/news/silver-gives-back-some-gains-as-us-yields-rebound-202608201144",
-      "datum": "2026-08-20T11:44:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Benefits from US Dollar weakness – DBS",
-      "link": "https://www.fxstreet.com/news/euro-benefits-from-us-dollar-weakness-dbs-202608201140",
-      "datum": "2026-08-20T11:40:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Downside risks grow as yields contained – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-downside-risks-grow-as-yields-contained-mufg-202608201128",
-      "datum": "2026-08-20T11:28:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold pares gains, remaining close to recent highs, as Treasury buybacks weigh on US Dollar",
+      "titel": "Gold pares gains as US Treasury yields, Dollar recover",
       "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
       "datum": "2026-08-20T11:16:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Softer jobs data keeps RBA sidelined – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-softer-jobs-data-keeps-rba-sidelined-bbh-202608201112",
-      "datum": "2026-08-20T11:12:49.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "At best, German economy may grow slightly in this quarter - Bundesbank",
       "link": "https://investinglive.com/news/at-best-german-economy-may-grow-slightly-in-this-quarter-bundesbank/",
       "datum": "2026-08-20T10:09:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran foreign minister plays down US president Trump's economic threat",
-      "link": "https://investinglive.com/news/iran-foreign-minister-plays-down-us-president-trump-s-economic-threat/",
-      "datum": "2026-08-20T07:19:49.000Z"
     }
   ]
 }

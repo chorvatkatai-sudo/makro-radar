@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-20T12:37:26.616Z",
+  "stand": "2026-08-20T13:39:27.453Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 11,
       "tiltCot": -1,
-      "tiltZins": 5,
-      "tiltGesamt": 4,
-      "score": 15,
+      "tiltZins": 4,
+      "tiltGesamt": 3,
+      "score": 14,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + Euro-2-Jahres-Zinsen steigen am stärksten (Zins-Momentum pro-Euro) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
     },
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": 4,
-      "tiltGesamt": 0,
-      "score": 5,
+      "tiltZins": 2,
+      "tiltGesamt": -2,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "Weicher Dollar zieht das Paar hoch, aber der schwächelnde UK-Arbeitsmarkt + kühlere Dienstleistungspreise nehmen dem Pfund Rückenwind (dovish BoE). Kürzung ggü. Vorwoche; steigende UK-Zinsen + Short-Squeeze halten es knapp positiv."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": -6,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -5,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
     },

@@ -1,11 +1,41 @@
 {
-  "stand": "2026-08-20T15:25:54.902Z",
+  "stand": "2026-08-20T16:24:50.098Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound climbs as UK inflation keeps BoE hike bets alive",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-uk-inflation-keeps-boe-hike-bets-alive-202608201558",
+      "datum": "2026-08-20T15:58:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed's Musalem: Hiking rates now could save more aggressive action later",
+      "link": "https://www.fxstreet.com/news/feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-202608201552",
+      "datum": "2026-08-20T15:52:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Debasement worries weigh after buyback – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-debasement-worries-weigh-after-buyback-scotiabank-202608201552",
+      "datum": "2026-08-20T15:52:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-attempts-to-reclaim-08000-after-defending-the-100-day-sma-202608201540",
+      "datum": "2026-08-20T15:40:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bessent wants bigger bond buybacks, but markets barely blink",
+      "link": "https://www.fxstreet.com/news/bessent-wants-bigger-bond-buybacks-but-markets-barely-blink-202608201527",
+      "datum": "2026-08-20T15:27:44.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "WTI hits three-week high as Iran deadlock supports Oil",
@@ -61,40 +91,10 @@
       "datum": "2026-08-20T14:46:12.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Swedish Krona: Riksbank keeps hikes on table – BNY",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-hikes-on-table-bny-202608201432",
-      "datum": "2026-08-20T14:32:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Bullish trend eyes upper 1.17s against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-bullish-trend-eyes-upper-117s-against-us-dollar-scotiabank-202608201413",
-      "datum": "2026-08-20T14:13:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: BI pause keeps tightening risk alive – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-keeps-tightening-risk-alive-commerzbank-202608201400",
-      "datum": "2026-08-20T14:00:26.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US leading index for July +0.2% vs +0.1% expected",
       "link": "https://investinglive.com/news/us-leading-index-for-july-0-2-vs-0-1-expected/",
       "datum": "2026-08-20T14:00:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Higher range holds but next leg delayed – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-higher-range-holds-but-next-leg-delayed-td-securities-202608201345",
-      "datum": "2026-08-20T13:45:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Upside focus into 1.35–1.37 against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-upside-focus-into-135-137-against-us-dollar-scotiabank-202608201330",
-      "datum": "2026-08-20T13:30:55.000Z"
     },
     {
       "quelle": "ForexLive",

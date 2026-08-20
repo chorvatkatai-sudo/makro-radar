@@ -9720,6 +9720,16 @@
       "vorher": "3.13|1.1",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-20T11:10:00-04:00|USD|FOMC Member Musalem Speaks": {
+      "datum": "2026-08-20T11:10:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Musalem Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

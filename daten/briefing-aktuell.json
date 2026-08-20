@@ -15,7 +15,7 @@
     "USD": {
       "stimmung": "bärisch",
       "score": -12,
-      "grund": "Doppelt weiche Daten (kühle Kern-Inflation 2,5 % + eingebrochener Einzelhandel −0,6 %, heute schwache Baubeginne) halten die September-Zinssenkung (~85 %) fest; das Zins-Momentum dreht leicht gegen den Dollar (US-2-Jahres-Rendite fällt). Index dritten Tag unter 100. Gegenkraft: Warsh bleibt falkenhaft, Realzins hoch (~2,4 %), und heute Abend könnte ein falkenhaftes Fed-Protokoll kurz stützen → Boden gefunden, aber angeknackst."
+      "grund": "Doppelt weiche Daten (kühle Kern-Inflation 2,5 % + eingebrochener Einzelhandel −0,6 % + schwache Baubeginne) halten die September-Zinssenkung (~85 %) fest; das Zins-Momentum dreht gegen den Dollar (US-2-Jahres-Rendite fällt). Der Index bricht erstmals unter 99 (dritter Verlusttag), Gold auf Rekord. Gegenkraft: Warsh bleibt falkenhaft (3 Fed-Chefs wollten sogar erhöhen), Realzins hoch (~2,4 %) → Boden gefunden, aber angeknackst."
     },
     "EUR": {
       "stimmung": "bullisch",
@@ -30,7 +30,7 @@
     "JPY": {
       "stimmung": "neutral",
       "score": 4,
-      "grund": "Die japanischen 2-Jahres-Zinsen steigen weiter (BoJ-Erhöhung Q4 im Gespräch). Bremse: Yen fundamental schwach, teures Carry, sorglose Börse (VIX 15,8) nimmt dem Hafen den Reiz, Yen wieder Richtung 159–160. Track 2/8 → bewusst demütig."
+      "grund": "Die Japan-Inflation hält sich hartnäckig (Kern-Kern 3,4 %, Kern 3,1 % über Erwartung) und die 2-Jahres-Zinsen steigen weiter → BoJ-Erhöhung im Herbst im Gespräch, hilft dem Yen ein wenig. Bremse: Yen fundamental schwach, teures Carry, sorglose Börse (VIX 14,9) nimmt dem Hafen den Reiz, Yen wieder Richtung 159–160. Track 2/9 → bewusst demütig."
     },
     "CHF": {
       "stimmung": "neutral",
@@ -43,9 +43,9 @@
       "grund": "Rückenwind von festem Öl (WTI +4 % in der Woche, Nahost) und der einen Tick heißeren Inflation (3,0 %), die den Halten-Kurs der BoC härtet — plus schwacher Dollar. ABER: Kern nur benzin-getrieben (ruhig bei ~2 %), und die Spekulanten sind fast rekord-short gegen den Loonie = Rückschlag-Risiko. Leicht angehoben."
     },
     "AUD": {
-      "stimmung": "bullisch",
-      "score": 4,
-      "grund": "Gewinner der guten Marktstimmung (Risk-on) und der Hochzins-RBA (4,35 %). ABER China enttäuschte deutlich (Industrie +4,5 %, Einzelhandel +0,6 %) — das bremst den Rohstoff-Aussie spürbar. Heute früh der australische Arbeitsmarkt als Test. Deshalb gekappt."
+      "stimmung": "bärisch",
+      "score": -4,
+      "grund": "Heute enttäuschte der Arbeitsmarkt klar: Arbeitslosigkeit auf 5-Jahres-Hoch (4,5 %), 15.800 Stellen verloren → Händler fuhren die RBA-Zins-Erhöhungswetten zurück. Dazu die schwachen China-Daten (Industrie/Einzelhandel verfehlt). Die gute Börsenstimmung (Risk-on) und der Hochzins (4,35 %) federn nur teilweise ab. Von bullisch auf leicht bärisch gedreht."
     },
     "NZD": {
       "stimmung": "neutral",
@@ -71,8 +71,8 @@
     },
     {
       "paar": "AUD/USD",
-      "score": 8,
-      "treiber": "Schwacher Dollar + Risk-on (VIX 15,8) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
+      "score": 2,
+      "treiber": "Schwacher Dollar (unter 99) zieht das Paar nach oben, aber der heute enttäuschende Aussie-Arbeitsmarkt (Arbeitslosigkeit 4,5 %, Jobs verloren) + schwache China-Daten kappen den Aussie hart — von +8 auf knapp positiv gekürzt."
     },
     {
       "paar": "USD/CAD",
@@ -185,20 +185,21 @@
     "POSITIONIERUNG = ZÜNDER UND WARNUNG: Alle Währungen sind netto-short gegen den Dollar, EUR und CAD extrem. Das kann die Dollar-Schwäche über einen Squeeze VERSTÄRKEN — oder bei einer guten US-Zahl eine heftige, schnelle Dollar-Gegenbewegung auslösen. Beide Richtungen respektieren."
   ],
   "tagesnews": {
-    "stand": "2026-08-19",
-    "wochentag": "Mittwoch",
-    "tenor": "Der Dollar bleibt weich (Index unter 100). Heute drücken die UK-Inflation (Dienstleistungspreise kühlen ab) und der schwächelnde britische Arbeitsmarkt das Pfund; am Abend das Fed-Protokoll (aber veraltet, von VOR dem Job-Schock). Gold nahe Rekord, Öl fest. Höhepunkt bleibt Jackson Hole nächste Woche.",
+    "stand": "2026-08-20",
+    "wochentag": "Donnerstag",
+    "tenor": "Der Dollar rutscht weiter — der Dollar-Index bricht erstmals unter 99, Gold klettert auf ein Rekordhoch (~4.552$). Heute enttäuscht der australische Arbeitsmarkt (Arbeitslosigkeit auf 5-Jahres-Hoch) und drückt den Aussie; gestern hakte der Markt das (veraltete) Fed-Protokoll einfach ab. Alles blickt schon auf Jackson Hole nächste Woche.",
     "heute": [
-      "🇬🇧 Heute früh: UK-Inflation (Juli). Das Wichtige daran: die hartnäckigen Dienstleistungspreise kühlten spürbar ab. Das nimmt der Bank of England Druck (mehr Spielraum für spätere Zinssenkungen) und dämpft das Pfund. Erwartet war eine Jahresrate um ~2,9 %. Zusammen mit dem gestern gemeldeten schwachen Arbeitsmarkt kippt die Pfund-Story von 'zäh-heiß' Richtung 'kühlt ab'.",
-      "🇺🇸 Heute Abend 20:00 Wien: Fed-Protokoll (von der Sitzung 28./29. Juli, als 3 Mitglieder sogar erhöhen wollten). ABER: Es stammt von VOR dem Job-Schock und der weichen Inflation → der Markt dürfte es weitgehend abhaken. Nur ein überraschend falkenhafter Ton könnte dem Dollar kurz Luft geben.",
-      "🇺🇸 Nachmittags: US-Baubeginne (Juli) brachen ein — nur 1,24 Mio. (erwartet 1,35 Mio., −12 % zum Vormonat). Der zinssensible Wohnungsbau schwächelt = ein weiteres Puzzleteil zur US-Konjunktur-Abkühlung (Baugenehmigungen stiegen aber leicht — Bauherren planen mehr, bauen aber weniger).",
-      "🥇 Marktbild: Dollar-Index 99,6 (unter 100), Gold ~4.405 $ (Rekordnähe), Öl WTI ~85 $ (+4 % in der Woche, Nahost), US-10-Jahres-Rendite 4,71 %, Angst-Barometer VIX 15,8 (tief = sorgloser, risikofreudiger Markt)."
+      "🇦🇺 Heute früh: Australiens Arbeitsmarkt (Juli) enttäuschte deutlich. Die Arbeitslosenquote sprang auf 4,5 % (5-Jahres-Hoch, erwartet 4,4 %) und es gingen sogar 15.800 Stellen VERLOREN (erwartet war ein Plus von ~12.000). Kinderleicht: Wenn weniger Menschen Arbeit haben, muss die australische Notenbank die Zinsen eher NICHT weiter erhöhen — das nimmt dem Australien-Dollar Rückenwind. Händler haben ihre Zins-Erhöhungswetten sofort zurückgefahren.",
+      "🇯🇵 Japan-Inflation (frisch): Die Kern-Kern-Rate (ohne Lebensmittel und Energie) hält sich bei hartnäckigen 3,4 % im Jahr, die Kernrate (ohne Frischwaren) kam mit 3,1 % über der Erwartung (3,0 %). Das stützt den Kurs der Bank of Japan Richtung weiterer Zins-Erhöhung im Herbst — hilft dem Yen ein wenig, auch wenn er fundamental schwach bleibt (~159–160).",
+      "🥇 Marktbild heute: Dollar-Index 98,8 (UNTER 99, dritter Verlusttag), Gold auf Rekord ~4.552$ (+3,9 % Woche), Öl WTI ~85$ (fest, Nahost), US-10-Jahres-Rendite 4,65 %, Angst-Barometer VIX 14,9 (sehr tief = sorgloser, risikofreudiger Markt). Die US-2-Jahres-Rendite fällt weiter — das Zins-Momentum arbeitet gegen den Dollar.",
+      "📅 Blick voraus: Morgen (Fr) die Vorab-Einkaufsmanager-Indizes (PMIs) für Europa, UK und USA. Der eigentliche Höhepunkt ist aber nächste Woche: das Notenbank-Treffen in Jackson Hole (27.–29.8.) mit Fed-Chef Warshs erster großer Rede am Freitag (28.8.)."
     ],
     "gestern": [
-      "🇬🇧 UK-Arbeitsmarkt (Di): Die Arbeitslosenquote stieg auf 4,9 % (mehrjahres-Hoch), das Lohnwachstum blieb bei 3,5 %, und die Zahl der Angestellten fiel im Juli erneut (−13k). Der britische Arbeitsmarkt kühlt weiter ab → das spricht eher für spätere BoE-Zinssenkungen (pfund-dämpfend).",
-      "🇨🇦 Kanada-Inflation (Mo): stieg auf 3,0 % im Jahr (nur wegen teurem Benzin). Die Kernraten blieben brav: Median 2,0 %, gekappt 1,9 % — die kanadische Notenbank bleibt beim Halten. Kern-Ist-Werte heute nachgetragen.",
-      "🇨🇳 China (Mo) enttäuschte auf ganzer Linie: Industrieproduktion +4,5 % (erwartet +4,8 %), Einzelhandel mickrige +0,6 % (erwartet +1,5 %). Die chinesische Wirtschaft verliert Schwung — Gegenwind für die rohstoffnahen Australien- und Neuseeland-Dollar.",
-      "💵 US-Rückblick: eingebrochener Einzelhandel (−0,6 %) + kühle Kern-Inflation (2,5 %) halten die Fed-Zinssenkung am 17.9. fest im Sattel (~85 %). Gegenkraft bleibt nur die falkenhafte Warsh-Fed + der hohe Realzins (~2,4 %) → Boden, aber angeknackst."
+      "🇺🇸 Fed-Protokoll (Mi Abend, Sitzung 28./29. Juli): Es war der zerstrittenste Fed-Beschluss seit Jahren — 9:3 fürs Halten, aber DREI regionale Notenbank-Chefs (Cleveland, Minneapolis, Dallas) wollten sogar ERHÖHEN, und der falkenhafte Ton reichte weit darüber hinaus. ABER: Das Protokoll stammt von VOR dem Job-Schock und der weichen Inflation → der Markt hakte es ab, der Dollar fiel trotzdem weiter unter 99. (Nebenbei: Warsh denkt laut über weniger Fed-Sitzungen nach — 6 statt 8 pro Jahr.)",
+      "🇬🇧 UK-Rückblick: Die Inflation (Mi) zeigte kühlere Dienstleistungspreise, und der Arbeitsmarkt (Di) schwächelt (Arbeitslosenquote 4,9 %, weniger Angestellte). Beides nimmt der Bank of England Druck (mehr Spielraum für spätere Zinssenkungen) und dämpft das Pfund — die Pfund-Story kippt von \"zäh-heiß\" Richtung \"kühlt ab\".",
+      "🇨🇦 Kanada-Inflation (Mo): stieg auf 3,0 % im Jahr, aber nur wegen teurem Benzin — die Kernraten blieben brav (Median 2,0 %, gekappt 1,9 %). Die kanadische Notenbank bleibt beim Halten.",
+      "🇨🇳 China (Mo) enttäuschte auf ganzer Linie (Industrie +4,5 %, Einzelhandel nur +0,6 %) — Gegenwind für die rohstoffnahen Australien- und Neuseeland-Dollar, der heute durch die schwachen Aussie-Jobs noch verstärkt wird.",
+      "💵 US-Rückblick: eingebrochener Einzelhandel (−0,6 %) + kühle Kern-Inflation (2,5 %) + schwache Baubeginne halten die Fed-Zinssenkung am 17.9. fest im Sattel (~85 %). Gegenkraft bleibt nur die falkenhafte Warsh-Fed + der hohe Realzins (~2,4 %) → Dollar-Boden, aber angeknackst."
     ]
   }
 }

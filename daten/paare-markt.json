@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-20T04:31:24.270Z",
+  "stand": "2026-08-20T05:05:46.791Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -35,13 +35,13 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 8,
+      "baseScore": 2,
       "tiltCot": -3,
       "tiltZins": 0,
       "tiltGesamt": -3,
-      "score": 5,
+      "score": -1,
       "cotExtrem": null,
-      "treiber": "Schwacher Dollar + Risk-on (VIX 15,8) + RBA-Hochzins heben den Aussie. Klare Bremse: enttäuschende China-Daten (Industrie/Einzelhandel verfehlt)."
+      "treiber": "Schwacher Dollar (unter 99) zieht das Paar nach oben, aber der heute enttäuschende Aussie-Arbeitsmarkt (Arbeitslosigkeit 4,5 %, Jobs verloren) + schwache China-Daten kappen den Aussie hart — von +8 auf knapp positiv gekürzt."
     },
     {
       "paar": "USD/CAD",

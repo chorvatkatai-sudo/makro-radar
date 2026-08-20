@@ -9228,7 +9228,7 @@
       "impact": "High",
       "prognose": "11.7K",
       "vorher": "76.3K",
-      "actual": null,
+      "actual": "-15.8K",
       "notiz": null
     },
     "2026-08-19T21:30:00-04:00|AUD|Unemployment Rate": {
@@ -9238,7 +9238,7 @@
       "impact": "High",
       "prognose": "4.4%",
       "vorher": "4.4%",
-      "actual": null,
+      "actual": "4.5%",
       "notiz": null
     },
     "2026-08-20T02:00:00-04:00|EUR|German PPI m/m": {

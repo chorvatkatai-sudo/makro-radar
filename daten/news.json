@@ -1,11 +1,35 @@
 {
-  "stand": "2026-08-20T17:21:04.564Z",
+  "stand": "2026-08-20T18:26:48.051Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-100-day-sma-as-rally-extends-202608201812",
+      "datum": "2026-08-20T18:12:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers",
+      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756",
+      "datum": "2026-08-20T17:56:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold pulls back as US yields recover after Treasury buyback",
+      "link": "https://www.fxstreet.com/news/gold-pulls-back-as-us-yields-recover-after-treasury-buyback-202608201736",
+      "datum": "2026-08-20T17:36:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Banxico minutes signals long rate pause as inflation eases",
+      "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736",
+      "datum": "2026-08-20T17:36:26.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
@@ -55,34 +79,10 @@
       "datum": "2026-08-20T15:40:03.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Bessent wants bigger bond buybacks, but markets barely blink",
-      "link": "https://www.fxstreet.com/news/bessent-wants-bigger-bond-buybacks-but-markets-barely-blink-202608201527",
-      "datum": "2026-08-20T15:27:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI hits three-week high as Iran deadlock supports Oil",
-      "link": "https://www.fxstreet.com/news/wti-hits-three-week-high-as-iran-deadlock-supports-oil-202608201512",
-      "datum": "2026-08-20T15:12:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesia: Rupiah stability supports BI pause – DBS",
-      "link": "https://www.fxstreet.com/news/indonesia-rupiah-stability-supports-bi-pause-dbs-202608201511",
-      "datum": "2026-08-20T15:11:32.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
       "link": "https://investinglive.com/news/us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-than-4-billion/",
       "datum": "2026-08-20T15:04:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar remains supported by rising Oil prices and US tariff pause",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-supported-despite-modest-us-dollar-rebound-202608201502",
-      "datum": "2026-08-20T15:02:01.000Z"
     },
     {
       "quelle": "Fed",

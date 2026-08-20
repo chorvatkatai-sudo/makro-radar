@@ -222,10 +222,10 @@
   {
     "date": "2026-08-25T13:00:00.000Z",
     "country": "USD",
-    "title": "House Price Index MoM",
+    "title": "House Price Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.3%",
+    "previous": "442.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -262,10 +262,10 @@
   {
     "date": "2026-08-25T13:00:00.000Z",
     "country": "USD",
-    "title": "House Price Index",
+    "title": "House Price Index MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "442.4",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -292,16 +292,6 @@
   {
     "date": "2026-08-25T14:00:00.000Z",
     "country": "USD",
-    "title": "CB Consumer Confidence",
-    "impact": "Medium",
-    "forecast": "91.2",
-    "previous": "90.8",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-25T14:00:00.000Z",
-    "country": "USD",
     "title": "New Home Sales MoM",
     "impact": "Medium",
     "forecast": "",
@@ -316,6 +306,16 @@
     "impact": "Medium",
     "forecast": "0.62",
     "previous": "0.628",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-25T14:00:00.000Z",
+    "country": "USD",
+    "title": "CB Consumer Confidence",
+    "impact": "Medium",
+    "forecast": "91.2",
+    "previous": "90.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -592,16 +592,6 @@
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "GDP Price Index QoQ 2nd Est",
-    "impact": "Medium",
-    "forecast": "6.3%",
-    "previous": "3.6%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T12:30:00.000Z",
-    "country": "USD",
     "title": "Durable Goods Orders Ex Transp MoM",
     "impact": "Medium",
     "forecast": "0.5%",
@@ -626,6 +616,16 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "0.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T12:30:00.000Z",
+    "country": "USD",
+    "title": "GDP Price Index QoQ 2nd Est",
+    "impact": "Medium",
+    "forecast": "6.3%",
+    "previous": "3.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1245,7 +1245,7 @@
     "title": "Fed Balance Sheet",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.746 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1412,10 +1412,10 @@
   {
     "date": "2026-08-28T09:00:00.000Z",
     "country": "EUR",
-    "title": "Consumer Inflation Expectations",
+    "title": "Consumer Confidence Final",
     "impact": "Low",
     "forecast": "",
-    "previous": "30.3",
+    "previous": "-15.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1432,10 +1432,10 @@
   {
     "date": "2026-08-28T09:00:00.000Z",
     "country": "EUR",
-    "title": "Consumer Confidence Final",
+    "title": "Consumer Inflation Expectations",
     "impact": "Low",
     "forecast": "",
-    "previous": "-15.9",
+    "previous": "30.3",
     "actual": null,
     "quelle": "tradingview"
   },

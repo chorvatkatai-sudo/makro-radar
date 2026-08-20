@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-20T20:19:23.433Z",
+ "erstellt": "2026-08-20T21:19:50.753Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -1118,10 +1118,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-25T13:00:00.000Z",
    "country": "USD",
-   "title": "House Price Index MoM",
+   "title": "House Price Index",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.3%",
+   "previous": "442.4",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1158,10 +1158,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-25T13:00:00.000Z",
    "country": "USD",
-   "title": "House Price Index",
+   "title": "House Price Index MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "442.4",
+   "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1188,16 +1188,6 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-25T14:00:00.000Z",
    "country": "USD",
-   "title": "CB Consumer Confidence",
-   "impact": "Medium",
-   "forecast": "91.2",
-   "previous": "90.8",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-25T14:00:00.000Z",
-   "country": "USD",
    "title": "New Home Sales MoM",
    "impact": "Medium",
    "forecast": "",
@@ -1212,6 +1202,16 @@ window.MAKRO_DATA = {
    "impact": "Medium",
    "forecast": "0.62",
    "previous": "0.628",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-08-25T14:00:00.000Z",
+   "country": "USD",
+   "title": "CB Consumer Confidence",
+   "impact": "Medium",
+   "forecast": "91.2",
+   "previous": "90.8",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1488,16 +1488,6 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-26T12:30:00.000Z",
    "country": "USD",
-   "title": "GDP Price Index QoQ 2nd Est",
-   "impact": "Medium",
-   "forecast": "6.3%",
-   "previous": "3.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-26T12:30:00.000Z",
-   "country": "USD",
    "title": "Durable Goods Orders Ex Transp MoM",
    "impact": "Medium",
    "forecast": "0.5%",
@@ -1522,6 +1512,16 @@ window.MAKRO_DATA = {
    "impact": "Medium",
    "forecast": "",
    "previous": "0.5%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-08-26T12:30:00.000Z",
+   "country": "USD",
+   "title": "GDP Price Index QoQ 2nd Est",
+   "impact": "Medium",
+   "forecast": "6.3%",
+   "previous": "3.6%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2141,7 +2141,7 @@ window.MAKRO_DATA = {
    "title": "Fed Balance Sheet",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "6.746 $",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2308,10 +2308,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-28T09:00:00.000Z",
    "country": "EUR",
-   "title": "Consumer Inflation Expectations",
+   "title": "Consumer Confidence Final",
    "impact": "Low",
    "forecast": "",
-   "previous": "30.3",
+   "previous": "-15.9",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2328,10 +2328,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-28T09:00:00.000Z",
    "country": "EUR",
-   "title": "Consumer Confidence Final",
+   "title": "Consumer Inflation Expectations",
    "impact": "Low",
    "forecast": "",
-   "previous": "-15.9",
+   "previous": "30.3",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3186,15 +3186,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-20T20:19:22.931Z",
+  "stand": "2026-08-20T21:19:49.984Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.89,
+    "wert": 98.87,
     "tagProzent": 0,
-    "wocheProzent": -0.79,
+    "wocheProzent": -0.8,
     "renditeDelta": false,
     "verlauf": [
      100.99,
@@ -3217,17 +3217,17 @@ window.MAKRO_DATA = {
      99.64,
      99.65,
      98.83,
-     98.89,
-     98.89
+     98.87,
+     98.87
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.96,
+    "wert": 16.01,
     "tagProzent": 0,
-    "wocheProzent": 12,
+    "wocheProzent": 12.35,
     "renditeDelta": false,
     "verlauf": [
      18.65,
@@ -3250,17 +3250,17 @@ window.MAKRO_DATA = {
      15.19,
      15.84,
      14.89,
-     15.96,
-     15.96
+     16.01,
+     16.01
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 86.64,
+    "wert": 86.21,
     "tagProzent": 0,
-    "wocheProzent": 5.15,
+    "wocheProzent": 4.62,
     "renditeDelta": false,
     "verlauf": [
      92.19,
@@ -3283,17 +3283,17 @@ window.MAKRO_DATA = {
      84.5,
      84.94,
      85.83,
-     86.64,
-     86.64
+     86.21,
+     86.21
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 93.5,
+    "wert": 93.15,
     "tagProzent": 0,
-    "wocheProzent": 5.63,
+    "wocheProzent": 5.23,
     "renditeDelta": false,
     "verlauf": [
      100.69,
@@ -3316,17 +3316,17 @@ window.MAKRO_DATA = {
      90.87,
      91.02,
      91.62,
-     93.5,
-     93.5
+     93.15,
+     93.15
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4579.2,
+    "wert": 4575.1,
     "tagProzent": 0,
-    "wocheProzent": 4.54,
+    "wocheProzent": 4.44,
     "renditeDelta": false,
     "verlauf": [
      4046.6,
@@ -3349,8 +3349,8 @@ window.MAKRO_DATA = {
      4417.8,
      4366,
      4489.4,
-     4579.2,
-     4579.2
+     4575.1,
+     4575.1
     ]
    },
    "US02Y": {
@@ -3454,9 +3454,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 72700.67,
+    "wert": 72762.39,
     "tagProzent": 0,
-    "wocheProzent": 15.73,
+    "wocheProzent": 15.83,
     "renditeDelta": false,
     "verlauf": [
      62813.75,
@@ -3479,17 +3479,17 @@ window.MAKRO_DATA = {
      64506.25,
      64680.71,
      69266.19,
-     72700.67,
-     72700.67
+     72762.39,
+     72762.39
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.72,
+    "wert": 3.73,
     "tagProzent": 0,
-    "wocheProzent": 0.09,
+    "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
      3.64,
@@ -3512,10 +3512,44 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
-     3.72,
-     3.72
+     3.73,
+     3.73
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.34,
+    "tagProzent": 0.04,
+    "wocheProzent": 0.1,
+    "renditeDelta": true,
+    "verlauf": [
+     2.28,
+     2.28,
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29,
+     2.27,
+     2.26,
+     2.24,
+     2.27,
+     2.28,
+     2.3,
+     2.3,
+     2.34
+    ],
+    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
@@ -3548,40 +3582,6 @@ window.MAKRO_DATA = {
      2.44,
      2.41,
      2.35
-    ],
-    "quelle": "FRED"
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.3,
-    "tagProzent": 0,
-    "wocheProzent": 0.04,
-    "renditeDelta": true,
-    "verlauf": [
-     2.26,
-     2.28,
-     2.28,
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29,
-     2.27,
-     2.26,
-     2.24,
-     2.27,
-     2.28,
-     2.3,
-     2.3
     ],
     "quelle": "FRED"
    }
@@ -3680,8 +3680,8 @@ window.MAKRO_DATA = {
    "stand": "2026-08-20",
    "werte": {
     "USD": {
-     "wert": 4.187,
-     "wocheDelta": -0.056
+     "wert": 4.19,
+     "wocheDelta": -0.053
     },
     "EUR": {
      "wert": 2.836,
@@ -3696,20 +3696,20 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.064
     },
     "AUD": {
-     "wert": 4.593,
-     "wocheDelta": -0.032
+     "wert": 4.589,
+     "wocheDelta": -0.036
     },
     "CAD": {
-     "wert": 3.021,
-     "wocheDelta": -0.008
+     "wert": 3.023,
+     "wocheDelta": -0.006
     },
     "CHF": {
      "wert": 0.105,
      "wocheDelta": -0.01
     },
     "NZD": {
-     "wert": 3.565,
-     "wocheDelta": -0.063
+     "wert": 3.598,
+     "wocheDelta": -0.03
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3795,13 +3795,19 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-20T20:19:23.431Z",
+  "stand": "2026-08-20T21:19:50.750Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen slips as firmer yields lift US Dollar ahead of global PMIs",
+    "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-firmer-yields-lift-us-dollar-ahead-of-global-pmis-202608202118",
+    "datum": "2026-08-20T21:18:26.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Mexican Peso holds firm as Banxico minutes supports the Peso",
@@ -3891,12 +3897,6 @@ window.MAKRO_DATA = {
     "titel": "New Zealand Dollar rises as RBNZ rate hike expectations strengthen",
     "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705",
     "datum": "2026-08-20T17:05:03.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar holds near highs as mixed data keeps RBA tightening bets alive",
-    "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-highs-as-mixed-data-keeps-rba-tightening-bets-alive-202608201701",
-    "datum": "2026-08-20T17:01:02.000Z"
    },
    {
     "quelle": "ForexLive",

@@ -1,11 +1,17 @@
 {
-  "stand": "2026-08-20T20:19:23.431Z",
+  "stand": "2026-08-20T21:19:50.750Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen slips as firmer yields lift US Dollar ahead of global PMIs",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-firmer-yields-lift-us-dollar-ahead-of-global-pmis-202608202118",
+      "datum": "2026-08-20T21:18:26.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Mexican Peso holds firm as Banxico minutes supports the Peso",
@@ -95,12 +101,6 @@
       "titel": "New Zealand Dollar rises as RBNZ rate hike expectations strengthen",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705",
       "datum": "2026-08-20T17:05:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar holds near highs as mixed data keeps RBA tightening bets alive",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-highs-as-mixed-data-keeps-rba-tightening-bets-alive-202608201701",
-      "datum": "2026-08-20T17:01:02.000Z"
     },
     {
       "quelle": "ForexLive",

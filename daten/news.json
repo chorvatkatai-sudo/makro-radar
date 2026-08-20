@@ -1,11 +1,29 @@
 {
-  "stand": "2026-08-20T12:31:28.677Z",
+  "stand": "2026-08-20T12:37:26.615Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US August Philly Fed business index +47.4 vs +25.0 expected",
+      "link": "https://investinglive.com/news/us-august-philly-fed-business-index-xx-vs-25-0-expected/",
+      "datum": "2026-08-20T12:30:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada July PPI +0.6% vs -0.5% expected",
+      "link": "https://investinglive.com/news/canada-july-ppi-xx-vs-0-5-expected/",
+      "datum": "2026-08-20T12:30:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US initial jobless claims 206K vs 210K expected",
+      "link": "https://investinglive.com/news/us-initial-jobless-claims-206k-vs-210k-expected/",
+      "datum": "2026-08-20T12:30:07.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "United States: Long-end yield risks contained – ING",
@@ -95,24 +113,6 @@
       "titel": "Iran foreign minister plays down US president Trump's economic threat",
       "link": "https://investinglive.com/news/iran-foreign-minister-plays-down-us-president-trump-s-economic-threat/",
       "datum": "2026-08-20T07:19:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German producer prices nudge up again in July as energy prices rise further",
-      "link": "https://investinglive.com/news/german-producer-prices-nudge-up-again-in-july-as-energy-prices-rise-further/",
-      "datum": "2026-08-20T06:00:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Will the US Treasury buyback be a game changer for markets?",
-      "link": "https://investinglive.com/news/will-the-us-treasury-buyback-be-a-game-changer-for-markets/",
-      "datum": "2026-08-20T05:33:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee surrenders gains as higher Oil prices outweigh US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502",
-      "datum": "2026-08-20T05:02:58.000Z"
     }
   ]
 }

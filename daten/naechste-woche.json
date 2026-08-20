@@ -942,10 +942,10 @@
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Household Spending MoM",
+    "title": "Plant Machinery Capital Expenditure QoQ",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.8",
+    "previous": "18.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -982,10 +982,10 @@
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Plant Machinery Capital Expenditure QoQ",
+    "title": "Household Spending MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "18.1%",
+    "previous": "0.8",
     "actual": null,
     "quelle": "tradingview"
   },

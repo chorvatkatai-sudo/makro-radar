@@ -1,11 +1,41 @@
 {
-  "stand": "2026-08-20T18:26:48.051Z",
+  "stand": "2026-08-20T19:24:40.894Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Rally accelerates with foreign inflows – DBS",
+      "link": "https://www.fxstreet.com/news/south-korean-won-rally-accelerates-with-foreign-inflows-dbs-202608201921",
+      "datum": "2026-08-20T19:21:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar firms ahead of global flash PMIs",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-global-flash-pmis-202608201915",
+      "datum": "2026-08-20T19:15:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dollar Index takes its floor from a Fed non-voter",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-floor-from-a-fed-non-voter-202608201844",
+      "datum": "2026-08-20T18:44:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: Softer Dollar offers limited relief – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-softer-dollar-offers-limited-relief-ocbc-202608201843",
+      "datum": "2026-08-20T18:43:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608201833",
+      "datum": "2026-08-20T18:33:36.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends",
@@ -26,7 +56,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Banxico minutes signals long rate pause as inflation eases",
+      "titel": "Banxico minutes signal long rate pause as inflation eases",
       "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736",
       "datum": "2026-08-20T17:36:26.000Z"
     },
@@ -53,30 +83,6 @@
       "titel": "Dow Jones Industrial Average sells the best outlook since 1983",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sells-the-best-outlook-since-1983-202608201659",
       "datum": "2026-08-20T16:59:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound climbs as UK inflation keeps BoE hike bets alive",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-uk-inflation-keeps-boe-hike-bets-alive-202608201558",
-      "datum": "2026-08-20T15:58:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed's Musalem: Hiking rates now could save more aggressive action later",
-      "link": "https://www.fxstreet.com/news/feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-202608201552",
-      "datum": "2026-08-20T15:52:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Debasement worries weigh after buyback – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-debasement-worries-weigh-after-buyback-scotiabank-202608201552",
-      "datum": "2026-08-20T15:52:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-attempts-to-reclaim-08000-after-defending-the-100-day-sma-202608201540",
-      "datum": "2026-08-20T15:40:03.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "US August Philly Fed business index +47.4 vs +25.0 expected",
       "link": "https://investinglive.com/news/us-august-philly-fed-business-index-xx-vs-25-0-expected/",
       "datum": "2026-08-20T12:30:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada July PPI +0.6% vs -0.5% expected",
-      "link": "https://investinglive.com/news/canada-july-ppi-xx-vs-0-5-expected/",
-      "datum": "2026-08-20T12:30:27.000Z"
     }
   ]
 }

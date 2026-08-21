@@ -324,7 +324,7 @@
     "country": "USD",
     "title": "Richmond Fed Manufacturing Index",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "7",
     "previous": "5",
     "actual": null,
     "quelle": "tradingview"
@@ -402,10 +402,10 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "Inflation Rate YoY",
+    "title": "RBA Trimmed Mean CPI MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3.8%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -432,10 +432,10 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "RBA Trimmed Mean CPI YoY",
+    "title": "Inflation Rate YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "3.6%",
+    "forecast": "3.2%",
+    "previous": "3.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -472,10 +472,10 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "RBA Trimmed Mean CPI MoM",
+    "title": "RBA Trimmed Mean CPI YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.3%",
+    "previous": "3.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -494,7 +494,7 @@
     "country": "GBP",
     "title": "CBI Distributive Trades",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-24",
     "previous": "-26",
     "actual": null,
     "quelle": "tradingview"
@@ -982,20 +982,20 @@
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Household Spending MoM",
+    "title": "Private Capital Expenditure QoQ",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.8",
+    "forecast": "-1%",
+    "previous": "6.5%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Private Capital Expenditure QoQ",
+    "title": "Household Spending MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "6.5%",
+    "previous": "0.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1084,7 +1084,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "209",
     "previous": "206",
     "actual": null,
     "quelle": "tradingview"
@@ -1394,7 +1394,7 @@
     "country": "CHF",
     "title": "KOF Leading Indicators",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "103.7",
     "previous": "103.5",
     "actual": null,
     "quelle": "tradingview"
@@ -1404,7 +1404,7 @@
     "country": "EUR",
     "title": "Economic Sentiment",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "97.5",
     "previous": "96.9",
     "actual": null,
     "quelle": "tradingview"
@@ -1434,7 +1434,7 @@
     "country": "EUR",
     "title": "Consumer Confidence Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-16.3",
     "previous": "-15.9",
     "actual": null,
     "quelle": "tradingview"
@@ -1472,20 +1472,20 @@
   {
     "date": "2026-08-28T12:30:00.000Z",
     "country": "CAD",
-    "title": "GDP MoM",
+    "title": "GDP MoM Prel",
     "impact": "Medium",
-    "forecast": "0.2%",
-    "previous": "0.3%",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-28T12:30:00.000Z",
     "country": "CAD",
-    "title": "GDP MoM Prel",
+    "title": "GDP MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "",
+    "forecast": "0.2%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1514,7 +1514,7 @@
     "country": "USD",
     "title": "Chicago PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "57",
     "previous": "57.6",
     "actual": null,
     "quelle": "tradingview"

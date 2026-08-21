@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T14:25:58.017Z",
+  "stand": "2026-08-21T16:22:32.612Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,27 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "Euro treads water vs Yen as Japanese inflation, European PMIs offset each other",
+      "link": "https://www.fxstreet.com/news/euro-treads-water-vs-yen-as-japanese-inflation-european-pmis-offset-each-other-202608211619",
+      "datum": "2026-08-21T16:19:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones Industrial Average buys its own bond problem",
+      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-buys-its-own-bond-problem-202608211617",
+      "datum": "2026-08-21T16:17:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: Structural LTROs could ease funding pressure - Rabobank",
+      "link": "https://www.fxstreet.com/news/european-central-bank-structural-ltros-could-ease-funding-pressure-rabobank-202608211551",
+      "datum": "2026-08-21T15:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound eases as UK sales drop, US services beat forecasts",
+      "link": "https://www.fxstreet.com/news/british-pound-eases-as-uk-sales-drop-us-services-beat-202608211548",
+      "datum": "2026-08-21T15:48:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Bulls eye 0.7200 as RSI nears overbought territory",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-as-rsi-nears-overbought-territory-202608211526",
+      "datum": "2026-08-21T15:26:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro area: Manufacturing strengthens as services stall – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-area-manufacturing-strengthens-as-services-stall-commerzbank-202608211501",
+      "datum": "2026-08-21T15:01:58.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Gets rid of 26.4% tariffs on imported beef and prices will come down by 25%",
+      "link": "https://investinglive.com/news/trump-gets-rid-of-26-4-tariffs-on-imported-beef-and-prices-will-come-down-by-25/",
+      "datum": "2026-08-21T14:59:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Services-led growth and price risks – Nomura",
+      "link": "https://www.fxstreet.com/news/united-kingdom-services-led-growth-and-price-risks-nomura-202608211451",
+      "datum": "2026-08-21T14:51:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/GBP slips as strong PMIs cancel out and Iran signals de-escalation",
+      "link": "https://www.fxstreet.com/news/eur-gbp-slips-as-strong-pmis-cancel-out-and-iran-signals-de-escalation-202608211449",
+      "datum": "2026-08-21T14:49:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Jackson Hole volatility over credibility – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-volatility-over-credibility-td-securities-202608211443",
+      "datum": "2026-08-21T14:43:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: PMI strength supports against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/euro-pmi-strength-supports-against-us-dollar-bbh-202608211428",
+      "datum": "2026-08-21T14:28:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "Japanese Yen strengthens against US Dollar as inflation backs BoJ rate hike bets",
       "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-against-us-dollar-as-inflation-backs-boj-rate-hike-bets-202608211423",
       "datum": "2026-08-21T14:23:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European gas: Storage gap supports high prices – Commerzbank",
-      "link": "https://www.fxstreet.com/news/european-gas-storage-gap-supports-high-prices-commerzbank-202608211419",
-      "datum": "2026-08-21T14:19:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Q2 GDP rebound faces future headwinds – RBC",
-      "link": "https://www.fxstreet.com/news/canada-q2-gdp-rebound-faces-future-headwinds-rbc-202608211409",
-      "datum": "2026-08-21T14:09:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro pares gains against US Dollar but eyes fourth weekly advance",
-      "link": "https://www.fxstreet.com/news/euro-pares-gains-against-us-dollar-but-eyes-fourth-weekly-advance-202608211409",
-      "datum": "2026-08-21T14:09:33.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -37,46 +85,10 @@
       "datum": "2026-08-21T14:04:08.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-soft-dollar-and-boj-outlook-shift-near-term-tone-scotiabank-202608211359",
-      "datum": "2026-08-21T13:59:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Upside asymmetry into next week – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-upside-asymmetry-into-next-week-td-securities-202608211350",
-      "datum": "2026-08-21T13:50:36.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate",
       "link": "https://investinglive.com/news/s-p-global-manufacturing-pmi-flash-estimate-for-august-53-2-versus-53-9-estimate/",
       "datum": "2026-08-21T13:45:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Mixed data but Sterling supported – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-mixed-data-but-sterling-supported-bbh-202608211335",
-      "datum": "2026-08-21T13:35:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325",
-      "datum": "2026-08-21T13:25:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro area: PMIs signal resilient growth – Nomura",
-      "link": "https://www.fxstreet.com/news/euro-area-pmis-signal-resilient-growth-nomura-202608211308",
-      "datum": "2026-08-21T13:08:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-heads-for-fourth-weekly-gain-on-weaker-us-dollar-elevated-oil-prices-202608211259",
-      "datum": "2026-08-21T12:59:08.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -97,22 +109,10 @@
       "datum": "2026-08-21T11:06:55.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Breaking: S&P Global Composite PMI is seen at 56 in August",
-      "link": "https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945",
-      "datum": "2026-08-21T09:45:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Why markets care more about the signal than the size of the Treasury buyback",
       "link": "https://investinglive.com/news/why-markets-care-more-about-the-signal-than-the-size-of-the-treasury-buyback/",
       "datum": "2026-08-21T08:50:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK August flash services PMI 52.8 vs 51.8 expected",
-      "link": "https://investinglive.com/news/uk-august-flash-services-pmi-xx-vs-51-8-expected/",
-      "datum": "2026-08-21T08:30:20.000Z"
     }
   ]
 }

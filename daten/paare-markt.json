@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T14:25:58.018Z",
+  "stand": "2026-08-21T16:22:32.614Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -4,
-      "tiltZins": 0,
-      "tiltGesamt": -4,
-      "score": 2,
+      "tiltZins": 2,
+      "tiltGesamt": -2,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -6,
       "tiltCot": 5,
-      "tiltZins": 0,
-      "tiltGesamt": 5,
-      "score": -1,
+      "tiltZins": 1,
+      "tiltGesamt": 6,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
     },

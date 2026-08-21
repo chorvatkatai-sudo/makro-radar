@@ -1,11 +1,71 @@
 {
-  "stand": "2026-08-21T05:05:54.726Z",
+  "stand": "2026-08-21T06:32:17.612Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Treasury twist signals structural risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-treasury-twist-signals-structural-risks-commerzbank-202608210628",
+      "datum": "2026-08-21T06:28:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-25/",
+      "datum": "2026-08-21T06:23:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asian stocks gain despite easing pressure on global bond yields",
+      "link": "https://www.fxstreet.com/news/asian-stocks-gain-despite-easing-pressure-on-global-bond-yields-202608210614",
+      "datum": "2026-08-21T06:14:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Further upside toward 1.1725 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-further-upside-toward-11725-against-us-dollar-uob-202608210610",
+      "datum": "2026-08-21T06:10:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom Retail Sales decline 0.5% MoM in July, as expected",
+      "link": "https://www.fxstreet.com/news/united-kingdom-retail-sales-decline-05-mom-in-july-as-expected-202608210601",
+      "datum": "2026-08-21T06:01:56.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK retail sales fall in July as early summer buzz fades",
+      "link": "https://investinglive.com/news/uk-july-retail-sales-vs-0-5-m-m-expected/",
+      "datum": "2026-08-21T06:00:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI steadies near $86.00 as Iran sanctions threat offsets US inventory build",
+      "link": "https://www.fxstreet.com/news/wti-steadies-near-8600-as-iran-sanctions-threat-offsets-us-inventory-build-202608210556",
+      "datum": "2026-08-21T05:56:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treasury move risks creating unintended consequences for markets and the economy",
+      "link": "https://investinglive.com/news/us-treasury-move-risks-creating-unintended-consequences-for-markets-and-the-economy/",
+      "datum": "2026-08-21T05:52:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551",
+      "datum": "2026-08-21T05:51:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US yields push back up, looks to challenge \"Bessent put\"",
+      "link": "https://investinglive.com/news/us-yields-push-back-up-looks-to-challenge-bessent-put/",
+      "datum": "2026-08-21T05:13:26.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "52.9: India's HSBC Manufacturing PMI falls in August",
@@ -38,19 +98,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18600-as-bullish-bias-prevails-202608210412",
-      "datum": "2026-08-21T04:12:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-remains-key-hurdle-202608210408",
-      "datum": "2026-08-21T04:08:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets",
+      "titel": "Gold hits fresh high since June, above $4,550 as receding Fed hike bets undermine USD",
       "link": "https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407",
       "datum": "2026-08-21T04:07:20.000Z"
     },
@@ -61,58 +109,10 @@
       "datum": "2026-08-21T03:28:29.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc edges up against US Dollar amid heightened US debt concerns",
-      "link": "https://www.fxstreet.com/news/swiss-franc-edges-up-against-us-dollar-amid-heightened-us-debt-concerns-202608210322",
-      "datum": "2026-08-21T03:22:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar gains ground above 0.7100 as US debt concerns weigh on US Dollar",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-ground-above-07100-as-us-debt-concerns-weigh-on-us-dollar-202608210245",
-      "datum": "2026-08-21T02:45:21.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "China vice finance minister signals more fiscal support as economy slows",
       "link": "https://investinglive.com/news/china-vice-finance-minister-signals-more-fiscal-support-as-economy-slows/",
       "datum": "2026-08-21T02:41:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-surges-to-near-6900-amid-heightened-volatility-202608210237",
-      "datum": "2026-08-21T02:37:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index trades around 99.75-99.70, hangs near three-month low",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-around-9975-9970-hangs-near-three-month-low-202608210226",
-      "datum": "2026-08-21T02:26:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Flash PMI shows Japan factories leading strongest growth since February",
-      "link": "https://investinglive.com/news/flash-pmi-shows-japan-factories-leading-strongest-growth-since-february/",
-      "datum": "2026-08-21T00:37:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan July Core CPI 1.8% y/y (expected 1.8%)",
-      "link": "https://investinglive.com/news/japan-july-headline-cpi-1-8-y-y-expected-1-8/",
-      "datum": "2026-08-20T23:30:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK consumer confidence hits two year high despite inflation warning",
-      "link": "https://investinglive.com/news/uk-consumer-confidence-hits-two-year-high-despite-inflation-warning/",
-      "datum": "2026-08-20T23:13:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia private sector growth softens as cost pressures intensify in August",
-      "link": "https://investinglive.com/news/australia-private-sector-growth-softens-as-cost-pressures-intensify-in-august/",
-      "datum": "2026-08-20T23:07:43.000Z"
     }
   ]
 }

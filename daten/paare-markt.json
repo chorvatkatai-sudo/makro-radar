@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T05:05:54.727Z",
+  "stand": "2026-08-21T06:32:17.613Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 1,
       "tiltCot": -3,
-      "tiltZins": 1,
-      "tiltGesamt": -2,
-      "score": -1,
+      "tiltZins": 0,
+      "tiltGesamt": -3,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar leicht hoch, aber schwache Aussie-Jobs, China-Flaute und Risk-off deckeln fast auf null."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": -6,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -5,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": -4,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; der anziehende VIX gibt dem Franken zusätzlich Haven-Bid."
     },

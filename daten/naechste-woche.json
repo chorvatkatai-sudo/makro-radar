@@ -272,20 +272,20 @@
   {
     "date": "2026-08-25T14:00:00.000Z",
     "country": "USD",
-    "title": "Richmond Fed Services Revenues Index",
+    "title": "Richmond Fed Manufacturing Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "-3",
+    "previous": "5",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-25T14:00:00.000Z",
     "country": "USD",
-    "title": "Richmond Fed Manufacturing Shipments Index",
+    "title": "Richmond Fed Services Revenues Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "8",
+    "previous": "-3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -322,10 +322,10 @@
   {
     "date": "2026-08-25T14:00:00.000Z",
     "country": "USD",
-    "title": "Richmond Fed Manufacturing Index",
+    "title": "Richmond Fed Manufacturing Shipments Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "5",
+    "previous": "8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -552,10 +552,10 @@
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "GDP Sales QoQ 2nd Est",
+    "title": "Durable Goods Orders ex Defense MoM",
     "impact": "Low",
-    "forecast": "2.2%",
-    "previous": "1.9%",
+    "forecast": "",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -576,6 +576,26 @@
     "impact": "High",
     "forecast": "0.3%",
     "previous": "0.2%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T12:30:00.000Z",
+    "country": "USD",
+    "title": "PCE Price Index MoM",
+    "impact": "Medium",
+    "forecast": "0.1%",
+    "previous": "-0.1%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T12:30:00.000Z",
+    "country": "USD",
+    "title": "Corporate Profits QoQ Prel",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -612,20 +632,40 @@
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "PCE Price Index MoM",
-    "impact": "Medium",
-    "forecast": "0.1%",
-    "previous": "-0.1%",
+    "title": "Real Personal Spending MoM",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "Corporate Profits QoQ Prel",
-    "impact": "Medium",
-    "forecast": "",
+    "title": "Real Consumer Spending QoQ 2nd Est",
+    "impact": "Low",
+    "forecast": "3.2%",
     "previous": "0.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T12:30:00.000Z",
+    "country": "USD",
+    "title": "PCE Prices QoQ 2nd Est",
+    "impact": "Low",
+    "forecast": "5.1%",
+    "previous": "4.6%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T12:30:00.000Z",
+    "country": "USD",
+    "title": "Personal Spending MoM",
+    "impact": "High",
+    "forecast": "0.2%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -662,50 +702,10 @@
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "Personal Spending MoM",
-    "impact": "High",
-    "forecast": "0.2%",
-    "previous": "0.3%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T12:30:00.000Z",
-    "country": "USD",
-    "title": "Real Personal Spending MoM",
+    "title": "GDP Sales QoQ 2nd Est",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.4%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T12:30:00.000Z",
-    "country": "USD",
-    "title": "Real Consumer Spending QoQ 2nd Est",
-    "impact": "Low",
-    "forecast": "3.2%",
-    "previous": "0.5%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T12:30:00.000Z",
-    "country": "USD",
-    "title": "PCE Prices QoQ 2nd Est",
-    "impact": "Low",
-    "forecast": "5.1%",
-    "previous": "4.6%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T12:30:00.000Z",
-    "country": "USD",
-    "title": "Durable Goods Orders ex Defense MoM",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.3%",
+    "forecast": "2.2%",
+    "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -732,16 +732,6 @@
   {
     "date": "2026-08-26T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Gasoline Stocks Change",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "0.688",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T14:30:00.000Z",
-    "country": "USD",
     "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
@@ -752,30 +742,10 @@
   {
     "date": "2026-08-26T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Distillate Stocks Change",
-    "impact": "Low",
+    "title": "EIA Gasoline Stocks Change",
+    "impact": "Medium",
     "forecast": "",
-    "previous": "-1.53",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Cushing Crude Oil Stocks Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-1.314",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-26T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Refinery Crude Runs Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.216",
+    "previous": "0.688",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -816,6 +786,36 @@
     "impact": "Low",
     "forecast": "",
     "previous": "0.143",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Distillate Stocks Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-1.53",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Cushing Crude Oil Stocks Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-1.314",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-26T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Refinery Crude Runs Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.216",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -862,20 +862,20 @@
   {
     "date": "2026-08-26T17:00:00.000Z",
     "country": "USD",
-    "title": "2-Year FRN Auction",
+    "title": "5-Year Note Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.05%",
+    "previous": "4.408%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-26T17:00:00.000Z",
     "country": "USD",
-    "title": "5-Year Note Auction",
+    "title": "2-Year FRN Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "4.408%",
+    "previous": "0.05%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1042,20 +1042,20 @@
   {
     "date": "2026-08-27T08:00:00.000Z",
     "country": "EUR",
-    "title": "Loans to Companies YoY",
+    "title": "Loans to Households YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "4%",
+    "previous": "3%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-27T08:00:00.000Z",
     "country": "EUR",
-    "title": "Loans to Households YoY",
+    "title": "Loans to Companies YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "3%",
+    "previous": "4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1412,6 +1412,16 @@
   {
     "date": "2026-08-28T09:00:00.000Z",
     "country": "EUR",
+    "title": "Consumer Inflation Expectations",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "30.3",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-28T09:00:00.000Z",
+    "country": "EUR",
     "title": "Services Sentiment",
     "impact": "Low",
     "forecast": "",
@@ -1426,16 +1436,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "-15.9",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-28T09:00:00.000Z",
-    "country": "EUR",
-    "title": "Consumer Inflation Expectations",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "30.3",
     "actual": null,
     "quelle": "tradingview"
   },

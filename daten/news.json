@@ -1,11 +1,23 @@
 {
-  "stand": "2026-08-21T12:30:33.160Z",
+  "stand": "2026-08-21T12:36:13.055Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Support test as Japan data firm – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-support-test-as-japan-data-firm-bbh-202608211232",
+      "datum": "2026-08-21T12:32:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada Retail sales for June 0.6% vs 0.4% estimate",
+      "link": "https://investinglive.com/news/canada-retail-sales-for-june-0-6-vs-0-4-estimate/",
+      "datum": "2026-08-21T12:31:15.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Indonesia: Expansionary stance with narrowing buffer – Standard Chartered",
@@ -73,12 +85,6 @@
       "datum": "2026-08-21T11:15:01.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
-      "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
-      "datum": "2026-08-21T11:06:55.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Why markets care more about the signal than the size of the Treasury buyback",
       "link": "https://investinglive.com/news/why-markets-care-more-about-the-signal-than-the-size-of-the-treasury-buyback/",
@@ -107,12 +113,6 @@
       "titel": "French business activity contracts further in August as demand conditions remain subdued",
       "link": "https://investinglive.com/news/french-business-activity-contracts-further-in-august-as-demand-conditions-remain-subdued/",
       "datum": "2026-08-21T07:15:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "French business confidence extends recovery into August",
-      "link": "https://investinglive.com/news/french-business-confidence-extends-recovery-into-august/",
-      "datum": "2026-08-21T06:45:10.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T12:30:33.162Z",
+  "stand": "2026-08-21T12:36:13.056Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -9,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": -6,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -5,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 3,
       "tiltCot": -5,
-      "tiltZins": 1,
-      "tiltGesamt": -4,
-      "score": -1,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und Risk-off bremsen; Großspekulanten extrem short."
     }

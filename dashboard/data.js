@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-21T12:30:33.162Z",
+ "erstellt": "2026-08-21T12:36:13.057Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -3186,15 +3186,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-21T12:30:23.990Z",
+  "stand": "2026-08-21T12:36:12.612Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.68,
+    "wert": 98.67,
     "tagProzent": 0,
-    "wocheProzent": -0.96,
+    "wocheProzent": -0.97,
     "renditeDelta": false,
     "verlauf": [
      101.47,
@@ -3217,8 +3217,8 @@ window.MAKRO_DATA = {
      99.65,
      98.83,
      98.9,
-     98.68,
-     98.68
+     98.67,
+     98.67
     ]
    },
    "VIX": {
@@ -3258,9 +3258,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 87.16,
+    "wert": 87.18,
     "tagProzent": 0,
-    "wocheProzent": 3.15,
+    "wocheProzent": 3.17,
     "renditeDelta": false,
     "verlauf": [
      89.31,
@@ -3283,17 +3283,17 @@ window.MAKRO_DATA = {
      84.94,
      85.83,
      87.83,
-     87.16,
-     87.16
+     87.18,
+     87.18
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 94.24,
+    "wert": 94.26,
     "tagProzent": 0,
-    "wocheProzent": 3.71,
+    "wocheProzent": 3.73,
     "renditeDelta": false,
     "verlauf": [
      96.78,
@@ -3316,17 +3316,17 @@ window.MAKRO_DATA = {
      91.02,
      91.62,
      93.78,
-     94.24,
-     94.24
+     94.26,
+     94.26
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4644.9,
+    "wert": 4642.5,
     "tagProzent": 0,
-    "wocheProzent": 5.14,
+    "wocheProzent": 5.09,
     "renditeDelta": false,
     "verlauf": [
      4067.6,
@@ -3349,8 +3349,8 @@ window.MAKRO_DATA = {
      4366,
      4489.4,
      4516.3,
-     4644.9,
-     4644.9
+     4642.5,
+     4642.5
     ]
    },
    "US02Y": {
@@ -3390,12 +3390,11 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.696,
+    "wert": 4.692,
     "tagProzent": 0,
-    "wocheProzent": 0,
+    "wocheProzent": -0.03,
     "renditeDelta": true,
     "verlauf": [
-     4.703,
      4.679,
      4.641,
      4.604,
@@ -3416,19 +3415,19 @@ window.MAKRO_DATA = {
      4.706,
      4.653,
      4.696,
-     4.696
+     4.692,
+     4.692
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.237,
+    "wert": 5.242,
     "tagProzent": 0,
-    "wocheProzent": -0.03,
+    "wocheProzent": -0.07,
     "renditeDelta": true,
     "verlauf": [
-     5.171,
      5.162,
      5.125,
      5.096,
@@ -3449,16 +3448,17 @@ window.MAKRO_DATA = {
      5.285,
      5.194,
      5.237,
-     5.237
+     5.242,
+     5.242
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 76616.97,
+    "wert": 76816.49,
     "tagProzent": 0,
-    "wocheProzent": 18.77,
+    "wocheProzent": 19.08,
     "renditeDelta": false,
     "verlauf": [
      62763.32,
@@ -3481,8 +3481,8 @@ window.MAKRO_DATA = {
      64680.71,
      69266.19,
      73032.76,
-     76616.97,
-     76616.97
+     76816.49,
+     76816.49
     ]
    },
    "FEDFUT": {
@@ -3519,40 +3519,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.35,
-    "tagProzent": -0.06,
-    "wocheProzent": -0.07,
-    "renditeDelta": true,
-    "verlauf": [
-     2.37,
-     2.39,
-     2.43,
-     2.43,
-     2.44,
-     2.41,
-     2.41,
-     2.41,
-     2.47,
-     2.43,
-     2.4,
-     2.41,
-     2.43,
-     2.4,
-     2.43,
-     2.43,
-     2.42,
-     2.39,
-     2.41,
-     2.44,
-     2.41,
-     2.35
-    ],
-    "quelle": "FRED"
-   },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
@@ -3584,6 +3550,40 @@ window.MAKRO_DATA = {
      2.3,
      2.3,
      2.34
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.35,
+    "tagProzent": -0.06,
+    "wocheProzent": -0.07,
+    "renditeDelta": true,
+    "verlauf": [
+     2.37,
+     2.39,
+     2.43,
+     2.43,
+     2.44,
+     2.41,
+     2.41,
+     2.41,
+     2.47,
+     2.43,
+     2.4,
+     2.41,
+     2.43,
+     2.4,
+     2.43,
+     2.43,
+     2.42,
+     2.39,
+     2.41,
+     2.44,
+     2.41,
+     2.35
     ],
     "quelle": "FRED"
    }
@@ -3682,16 +3682,16 @@ window.MAKRO_DATA = {
    "stand": "2026-08-21",
    "werte": {
     "USD": {
-     "wert": 4.181,
-     "wocheDelta": -0.041
+     "wert": 4.185,
+     "wocheDelta": -0.037
     },
     "EUR": {
-     "wert": 2.817,
-     "wocheDelta": 0.034
+     "wert": 2.816,
+     "wocheDelta": 0.033
     },
     "GBP": {
-     "wert": 4.337,
-     "wocheDelta": 0.014
+     "wert": 4.338,
+     "wocheDelta": 0.015
     },
     "JPY": {
      "wert": 1.672,
@@ -3702,12 +3702,12 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.047
     },
     "CAD": {
-     "wert": 3.017,
-     "wocheDelta": -0.003
+     "wert": 3.014,
+     "wocheDelta": -0.006
     },
     "CHF": {
-     "wert": 0.087,
-     "wocheDelta": -0.022
+     "wert": 0.088,
+     "wocheDelta": -0.021
     },
     "NZD": {
      "wert": 3.61,
@@ -3768,9 +3768,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -9,
    "tiltCot": 5,
-   "tiltZins": -2,
-   "tiltGesamt": 3,
-   "score": -6,
+   "tiltZins": -1,
+   "tiltGesamt": 4,
+   "score": -5,
    "cotExtrem": "erhoeht",
    "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
   },
@@ -3788,22 +3788,34 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": 3,
    "tiltCot": -5,
-   "tiltZins": 1,
-   "tiltGesamt": -4,
-   "score": -1,
+   "tiltZins": 0,
+   "tiltGesamt": -5,
+   "score": -2,
    "cotExtrem": null,
    "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und Risk-off bremsen; Großspekulanten extrem short."
   }
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-21T12:30:33.160Z",
+  "stand": "2026-08-21T12:36:13.055Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen: Support test as Japan data firm – BBH",
+    "link": "https://www.fxstreet.com/news/japanese-yen-support-test-as-japan-data-firm-bbh-202608211232",
+    "datum": "2026-08-21T12:32:06.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Canada Retail sales for June 0.6% vs 0.4% estimate",
+    "link": "https://investinglive.com/news/canada-retail-sales-for-june-0-6-vs-0-4-estimate/",
+    "datum": "2026-08-21T12:31:15.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Indonesia: Expansionary stance with narrowing buffer – Standard Chartered",
@@ -3871,12 +3883,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-21T11:15:01.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
-    "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
-    "datum": "2026-08-21T11:06:55.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Why markets care more about the signal than the size of the Treasury buyback",
     "link": "https://investinglive.com/news/why-markets-care-more-about-the-signal-than-the-size-of-the-treasury-buyback/",
@@ -3905,12 +3911,6 @@ window.MAKRO_DATA = {
     "titel": "French business activity contracts further in August as demand conditions remain subdued",
     "link": "https://investinglive.com/news/french-business-activity-contracts-further-in-august-as-demand-conditions-remain-subdued/",
     "datum": "2026-08-21T07:15:15.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "French business confidence extends recovery into August",
-    "link": "https://investinglive.com/news/french-business-confidence-extends-recovery-into-august/",
-    "datum": "2026-08-21T06:45:10.000Z"
    }
   ]
  },

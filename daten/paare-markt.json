@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T09:28:05.537Z",
+  "stand": "2026-08-21T10:21:28.309Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 3,
       "tiltCot": -5,
-      "tiltZins": 1,
-      "tiltGesamt": -4,
-      "score": -1,
+      "tiltZins": 0,
+      "tiltGesamt": -5,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und Risk-off bremsen; Großspekulanten extrem short."
     }

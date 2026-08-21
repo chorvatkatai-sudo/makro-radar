@@ -222,10 +222,10 @@
   {
     "date": "2026-08-25T13:00:00.000Z",
     "country": "USD",
-    "title": "House Price Index",
+    "title": "House Price Index MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "442.4",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -262,10 +262,10 @@
   {
     "date": "2026-08-25T13:00:00.000Z",
     "country": "USD",
-    "title": "House Price Index MoM",
+    "title": "House Price Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.3%",
+    "previous": "442.4",
     "actual": null,
     "quelle": "tradingview"
   },

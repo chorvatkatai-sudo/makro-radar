@@ -1,11 +1,29 @@
 {
-  "stand": "2026-08-21T10:21:28.308Z",
+  "stand": "2026-08-21T11:17:59.407Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Yield management weighs on currency – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-yield-management-weighs-on-currency-bbh-202608211115",
+      "datum": "2026-08-21T11:15:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
+      "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
+      "datum": "2026-08-21T11:06:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar broadly consolidates as analysts cast doubts over long-term impact of US Treasury buyback",
+      "link": "https://www.fxstreet.com/news/us-dollar-broadly-consolidates-as-analysts-cast-doubts-over-long-term-impact-of-us-treasury-buyback-202608211043",
+      "datum": "2026-08-21T10:43:23.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "New Zealand Dollar climbs to highest since June as US Dollar weakens",
@@ -53,24 +71,6 @@
       "titel": "Silver price today: Silver rises, according to FXStreet data",
       "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608210930",
       "datum": "2026-08-21T09:30:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swedish Krona: Riksbank keeps tightening option open – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-tightening-option-open-commerzbank-202608210923",
-      "datum": "2026-08-21T09:23:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Kazāks: Central bank is well placed to act if needed to get inflation to 2%",
-      "link": "https://www.fxstreet.com/news/ecbs-kazaks-central-bank-is-well-placed-to-act-if-needed-to-get-inflation-to-2-202608210916",
-      "datum": "2026-08-21T09:16:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Weakness offsets intervention impact – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-offsets-intervention-impact-mufg-202608210912",
-      "datum": "2026-08-21T09:12:54.000Z"
     },
     {
       "quelle": "ForexLive",

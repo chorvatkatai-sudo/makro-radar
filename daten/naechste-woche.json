@@ -1042,20 +1042,20 @@
   {
     "date": "2026-08-27T08:00:00.000Z",
     "country": "EUR",
-    "title": "Loans to Companies YoY",
+    "title": "M3 Money Supply YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "4%",
+    "forecast": "3.3%",
+    "previous": "3.3%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-27T08:00:00.000Z",
     "country": "EUR",
-    "title": "M3 Money Supply YoY",
+    "title": "Loans to Companies YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.3%",
+    "previous": "4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1254,7 +1254,7 @@
     "country": "JPY",
     "title": "Jobs/applications ratio",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.19",
     "previous": "1.18",
     "actual": null,
     "quelle": "tradingview"
@@ -1294,7 +1294,7 @@
     "country": "JPY",
     "title": "Unemployment Rate",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.5%",
     "previous": "2.5%",
     "actual": null,
     "quelle": "tradingview"

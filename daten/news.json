@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T12:36:13.055Z",
+  "stand": "2026-08-21T14:25:58.017Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,51 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Support test as Japan data firm – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-support-test-as-japan-data-firm-bbh-202608211232",
-      "datum": "2026-08-21T12:32:06.000Z"
+      "titel": "Japanese Yen strengthens against US Dollar as inflation backs BoJ rate hike bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-against-us-dollar-as-inflation-backs-boj-rate-hike-bets-202608211423",
+      "datum": "2026-08-21T14:23:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European gas: Storage gap supports high prices – Commerzbank",
+      "link": "https://www.fxstreet.com/news/european-gas-storage-gap-supports-high-prices-commerzbank-202608211419",
+      "datum": "2026-08-21T14:19:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Q2 GDP rebound faces future headwinds – RBC",
+      "link": "https://www.fxstreet.com/news/canada-q2-gdp-rebound-faces-future-headwinds-rbc-202608211409",
+      "datum": "2026-08-21T14:09:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro pares gains against US Dollar but eyes fourth weekly advance",
+      "link": "https://www.fxstreet.com/news/euro-pares-gains-against-us-dollar-but-eyes-fourth-weekly-advance-202608211409",
+      "datum": "2026-08-21T14:09:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "EU consumer confidence -15.5 versus -16.3 expected",
+      "link": "https://investinglive.com/news/eu-consumer-confidence-15-5-versus-16-3-expected/",
+      "datum": "2026-08-21T14:04:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-soft-dollar-and-boj-outlook-shift-near-term-tone-scotiabank-202608211359",
+      "datum": "2026-08-21T13:59:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Upside asymmetry into next week – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-upside-asymmetry-into-next-week-td-securities-202608211350",
+      "datum": "2026-08-21T13:50:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate",
+      "link": "https://investinglive.com/news/s-p-global-manufacturing-pmi-flash-estimate-for-august-53-2-versus-53-9-estimate/",
+      "datum": "2026-08-21T13:45:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Mixed data but Sterling supported – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-mixed-data-but-sterling-supported-bbh-202608211335",
+      "datum": "2026-08-21T13:35:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325",
+      "datum": "2026-08-21T13:25:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro area: PMIs signal resilient growth – Nomura",
+      "link": "https://www.fxstreet.com/news/euro-area-pmis-signal-resilient-growth-nomura-202608211308",
+      "datum": "2026-08-21T13:08:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-heads-for-fourth-weekly-gain-on-weaker-us-dollar-elevated-oil-prices-202608211259",
+      "datum": "2026-08-21T12:59:08.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Canada Retail sales for June 0.6% vs 0.4% estimate",
       "link": "https://investinglive.com/news/canada-retail-sales-for-june-0-6-vs-0-4-estimate/",
       "datum": "2026-08-21T12:31:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesia: Expansionary stance with narrowing buffer – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/indonesia-expansionary-stance-with-narrowing-buffer-standard-chartered-202608211223",
-      "datum": "2026-08-21T12:23:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Safe-haven bid on US debt worries – Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-safe-haven-bid-on-us-debt-worries-commerzbank-202608211214",
-      "datum": "2026-08-21T12:14:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: Neutral RSI signals further consolidation",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-neutral-rsi-signals-further-consolidation-202608211203",
-      "datum": "2026-08-21T12:03:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound dips hold above 216.50 Japanese Yen following mixed UK data",
-      "link": "https://www.fxstreet.com/news/british-pound-dips-hold-above-21650-japanese-yen-following-mixed-uk-data-202608211157",
-      "datum": "2026-08-21T11:57:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Binary tariff risks shape near-term path – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-binary-tariff-risks-shape-near-term-path-td-securities-202608211151",
-      "datum": "2026-08-21T11:51:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver climbs toward $70 as US Dollar remains under pressure",
-      "link": "https://www.fxstreet.com/news/silver-climbs-toward-70-as-us-dollar-remains-under-pressure-202608211141",
-      "datum": "2026-08-21T11:41:17.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -62,27 +92,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Set to outperform Pound, US Dollar and Yen - Nomura",
-      "link": "https://www.fxstreet.com/news/euro-set-to-outperform-pound-us-dollar-and-yen-nomura-202608211136",
-      "datum": "2026-08-21T11:36:11.000Z"
+      "titel": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
+      "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
+      "datum": "2026-08-21T11:06:55.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar rallies above 0.7150 as the US Dollar bleeds amid bond buybacks",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rallies-above-07150-as-the-us-dollar-bleeds-amid-bond-buybacks-202608211124",
-      "datum": "2026-08-21T11:24:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Experts agree: Weak Dollar backs near-term upside in EUR/USD",
-      "link": "https://www.fxstreet.com/news/experts-agree-weak-dollar-backs-near-term-upside-in-eur-usd-202608211118",
-      "datum": "2026-08-21T11:18:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Yield management weighs on currency – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-yield-management-weighs-on-currency-bbh-202608211115",
-      "datum": "2026-08-21T11:15:01.000Z"
+      "titel": "Breaking: S&P Global Composite PMI is seen at 56 in August",
+      "link": "https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945",
+      "datum": "2026-08-21T09:45:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "UK August flash services PMI 52.8 vs 51.8 expected",
       "link": "https://investinglive.com/news/uk-august-flash-services-pmi-xx-vs-51-8-expected/",
       "datum": "2026-08-21T08:30:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Euro area business activity sees further pick up in August despite France, Germany softness",
-      "link": "https://investinglive.com/news/euro-area-business-activity-sees-further-pick-up-in-august-despite-france-germany-softness/",
-      "datum": "2026-08-21T08:00:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
-      "link": "https://investinglive.com/news/germany-august-flash-manufacturing-pmi-xx-vs-52-0-expected/",
-      "datum": "2026-08-21T07:30:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "French business activity contracts further in August as demand conditions remain subdued",
-      "link": "https://investinglive.com/news/french-business-activity-contracts-further-in-august-as-demand-conditions-remain-subdued/",
-      "datum": "2026-08-21T07:15:15.000Z"
     }
   ]
 }

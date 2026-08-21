@@ -224,7 +224,7 @@
     "country": "USD",
     "title": "House Price Index MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -234,7 +234,7 @@
     "country": "USD",
     "title": "S&P/Case-Shiller Home Price YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.7%",
     "previous": "1.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -454,7 +454,7 @@
     "country": "AUD",
     "title": "Construction Work Done QoQ",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -982,20 +982,20 @@
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Private Capital Expenditure QoQ",
+    "title": "Household Spending MoM",
     "impact": "Low",
-    "forecast": "-1%",
-    "previous": "6.5%",
+    "forecast": "0.4%",
+    "previous": "0.8%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Household Spending MoM",
+    "title": "Private Capital Expenditure QoQ",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.8",
+    "forecast": "-1%",
+    "previous": "6.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1064,7 +1064,7 @@
     "country": "EUR",
     "title": "Loans to Households YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.9%",
     "previous": "3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1114,7 +1114,7 @@
     "country": "CAD",
     "title": "Current Account",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-5.5 C$",
     "previous": "-7.2 C$",
     "actual": null,
     "quelle": "tradingview"
@@ -1134,7 +1134,7 @@
     "country": "USD",
     "title": "Wholesale Inventories MoM Adv",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1274,7 +1274,7 @@
     "country": "JPY",
     "title": "Tokyo Core CPI YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.8%",
     "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"

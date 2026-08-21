@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T08:29:45.551Z",
+  "stand": "2026-08-21T09:28:05.536Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Range-bound with mild upside against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-with-mild-upside-against-us-dollar-uob-202608210828",
-      "datum": "2026-08-21T08:28:05.000Z"
+      "titel": "Swedish Krona: Riksbank keeps tightening option open – Commerzbank",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-tightening-option-open-commerzbank-202608210923",
+      "datum": "2026-08-21T09:23:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro holds near three-month highs as Eurozone Flash PMIs beat expectations",
-      "link": "https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-eurozone-flash-pmis-beat-expectations-202608210823",
-      "datum": "2026-08-21T08:23:27.000Z"
+      "titel": "ECB’s Kazāks: Central bank is well placed to act if needed to get inflation to 2%",
+      "link": "https://www.fxstreet.com/news/ecbs-kazaks-central-bank-is-well-placed-to-act-if-needed-to-get-inflation-to-2-202608210916",
+      "datum": "2026-08-21T09:16:08.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: Extreme shorts face a high bar for further losses – MUFG",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extreme-shorts-face-a-high-bar-for-further-losses-mufg-202608210819",
-      "datum": "2026-08-21T08:19:37.000Z"
+      "titel": "Japanese Yen: Weakness offsets intervention impact – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-offsets-intervention-impact-mufg-202608210912",
+      "datum": "2026-08-21T09:12:54.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar stands firm near three-month high vs weak USD ahead of data",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-stands-firm-near-three-month-high-vs-weak-usd-ahead-of-data-202608210802",
-      "datum": "2026-08-21T08:02:48.000Z"
+      "titel": "WTI Price Forecast: Oil supply tightness supports further upside above $90",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-oil-supply-tightness-supports-further-upside-above-90-202608210904",
+      "datum": "2026-08-21T09:04:06.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Eurozone flash Manufacturing PMI rises unexpectedly faster-than-estimates to 52.8 in August",
-      "link": "https://www.fxstreet.com/news/eurozone-flash-manufacturing-pmi-rises-unexpectedly-faster-than-estimates-to-528-in-august-202608210802",
-      "datum": "2026-08-21T08:02:18.000Z"
+      "titel": "US Dollar: Softer bias with pro-risk flows – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-softer-bias-with-pro-risk-flows-ing-202608210901",
+      "datum": "2026-08-21T09:01:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro steadies against British Pound as strong PMIs offer support on both sides",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-british-pound-as-strong-pmis-offer-support-on-both-sides-202608210857",
+      "datum": "2026-08-21T08:57:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen sticks to gains amid hawkish BoJ bets as USD stays weak on Fed expectations",
+      "link": "https://www.fxstreet.com/news/japanese-yen-sticks-to-gains-amid-hawkish-boj-bets-as-usd-stays-weak-on-fed-expectations-202608210851",
+      "datum": "2026-08-21T08:51:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Backstop doubts and high intervention bar – BNY",
+      "link": "https://www.fxstreet.com/news/federal-reserve-backstop-doubts-and-high-intervention-bar-bny-202608210851",
+      "datum": "2026-08-21T08:51:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Why markets care more about the signal than the size of the Treasury buyback",
+      "link": "https://investinglive.com/news/why-markets-care-more-about-the-signal-than-the-size-of-the-treasury-buyback/",
+      "datum": "2026-08-21T08:50:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Polish Zloty: Inflation re-acceleration weighs on PLN – Commerzbank",
+      "link": "https://www.fxstreet.com/news/polish-zloty-inflation-re-acceleration-weighs-on-pln-commerzbank-202608210840",
+      "datum": "2026-08-21T08:40:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom flash Services PMI expands faster to 52.8 in August, beats 51.8 estimates",
+      "link": "https://www.fxstreet.com/news/united-kingdom-flash-services-pmi-expands-faster-to-528-in-august-beats-518-estimates-202608210833",
+      "datum": "2026-08-21T08:33:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK August flash services PMI 52.8 vs 51.8 expected",
+      "link": "https://investinglive.com/news/uk-august-flash-services-pmi-xx-vs-51-8-expected/",
+      "datum": "2026-08-21T08:30:20.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Euro area business activity sees further pick up in August despite France, Germany softness",
       "link": "https://investinglive.com/news/euro-area-business-activity-sees-further-pick-up-in-august-despite-france-germany-softness/",
       "datum": "2026-08-21T08:00:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Funding role grows as volatility stays low – ING",
-      "link": "https://www.fxstreet.com/news/swiss-franc-funding-role-grows-as-volatility-stays-low-ing-202608210758",
-      "datum": "2026-08-21T07:58:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Consolidation around 99.00 after buyback news – DBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-around-9900-after-buyback-news-dbs-202608210750",
-      "datum": "2026-08-21T07:50:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones futures gain as traders weigh US debt buybacks against surging oil prices",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-traders-weigh-us-debt-buybacks-against-surging-oil-prices-202608210744",
-      "datum": "2026-08-21T07:44:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro remains weaker against Canadian Dollar following German PMI data",
-      "link": "https://www.fxstreet.com/news/euro-remains-weaker-against-canadian-dollar-following-german-pmi-data-202608210744",
-      "datum": "2026-08-21T07:44:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: September BoJ risk builds – Commerzbank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-september-boj-risk-builds-commerzbank-202608210741",
-      "datum": "2026-08-21T07:41:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Germany’s flash Manufacturing PMI unexpectedly rises faster to 54.1 vs. 52.0 estimates",
-      "link": "https://www.fxstreet.com/news/germanys-flash-manufacturing-pmi-unexpectedly-rises-faster-to-541-vs-520-estimates-202608210732",
-      "datum": "2026-08-21T07:32:52.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "UK retail sales fall in July as early summer buzz fades",
       "link": "https://investinglive.com/news/uk-july-retail-sales-vs-0-5-m-m-expected/",
       "datum": "2026-08-21T06:00:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US Treasury move risks creating unintended consequences for markets and the economy",
-      "link": "https://investinglive.com/news/us-treasury-move-risks-creating-unintended-consequences-for-markets-and-the-economy/",
-      "datum": "2026-08-21T05:52:55.000Z"
     }
   ]
 }

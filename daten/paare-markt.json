@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T04:32:22.658Z",
+  "stand": "2026-08-21T05:05:05.761Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -15,13 +15,13 @@
     },
     {
       "paar": "GBP/USD",
-      "baseScore": 5,
+      "baseScore": 7,
       "tiltCot": -4,
       "tiltZins": 4,
       "tiltGesamt": 0,
-      "score": 5,
+      "score": 7,
       "cotExtrem": null,
-      "treiber": "Weicher Dollar zieht das Paar hoch, aber der schwächelnde UK-Arbeitsmarkt + kühlere Dienstleistungspreise nehmen dem Pfund Rückenwind (dovish BoE). Kürzung ggü. Vorwoche; steigende UK-Zinsen + Short-Squeeze halten es knapp positiv."
+      "treiber": "Der starke UK-Dienstleistungs-PMI (53,6) + weicher Dollar (unter 99) heben das Paar; die schrumpfende UK-Industrie deckelt."
     },
     {
       "paar": "USD/JPY",
@@ -31,17 +31,17 @@
       "tiltGesamt": -2,
       "score": -11,
       "cotExtrem": null,
-      "treiber": "Weicher Dollar + steigende Japan-Zinsen drücken das Paar. Gegenkraft: Yen fundamental schwach + teures Carry + Interventionsrisiko, Yen wieder Richtung 159–160."
+      "treiber": "Weicher Dollar + steigende Japan-Zinsen + leichter Haven-Bid (VIX 16) drücken das Paar. Yen fundamental aber schwach."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 2,
+      "baseScore": 1,
       "tiltCot": -3,
       "tiltZins": 1,
       "tiltGesamt": -2,
-      "score": 0,
+      "score": -1,
       "cotExtrem": null,
-      "treiber": "Schwacher Dollar (unter 99) zieht das Paar nach oben, aber der heute enttäuschende Aussie-Arbeitsmarkt (Arbeitslosigkeit 4,5 %, Jobs verloren) + schwache China-Daten kappen den Aussie hart — von +8 auf knapp positiv gekürzt."
+      "treiber": "Schwacher Dollar zieht das Paar leicht hoch, aber schwache Aussie-Jobs, China-Flaute und Risk-off deckeln fast auf null."
     },
     {
       "paar": "USD/CAD",
@@ -55,23 +55,23 @@
     },
     {
       "paar": "USD/CHF",
-      "baseScore": -7,
+      "baseScore": -8,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
-      "score": -2,
+      "score": -3,
       "cotExtrem": null,
-      "treiber": "Schwacher Dollar zieht das Paar runter; Risk-on (VIX 15,8) nimmt dem Franken aber Schwung. Netto leicht bärisch fürs Paar."
+      "treiber": "Schwacher Dollar zieht das Paar runter; der anziehende VIX gibt dem Franken zusätzlich Haven-Bid."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": 4,
+      "baseScore": 3,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": -1,
+      "score": -2,
       "cotExtrem": null,
-      "treiber": "Risk-on + Dollar-Schwäche heben den Kiwi, aber schwache China-Daten + fallende NZ-Zinsen + starke Shorts deckeln. Schwächstes Kaufsignal der Risk-on-Gruppe."
+      "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und Risk-off bremsen; Großspekulanten extrem short."
     }
   ]
 }

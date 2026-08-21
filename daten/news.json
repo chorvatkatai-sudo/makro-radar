@@ -1,11 +1,41 @@
 {
-  "stand": "2026-08-21T04:32:22.656Z",
+  "stand": "2026-08-21T05:05:54.726Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "52.9: India's HSBC Manufacturing PMI falls in August",
+      "link": "https://www.fxstreet.com/news/529-indias-hsbc-manufacturing-pmi-falls-in-august-202608210503",
+      "datum": "2026-08-21T05:03:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah advances despite record Current Account Deficit",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-advances-despite-record-current-account-deficit-202608210500",
+      "datum": "2026-08-21T05:00:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11350-as-bullish-momentum-persists-above-100-day-sma-202608210446",
+      "datum": "2026-08-21T04:46:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs",
+      "link": "https://www.fxstreet.com/news/euro-sits-near-multi-month-top-vs-weak-usd-as-bulls-await-move-beyond-11700-ahead-of-pmis-202608210439",
+      "datum": "2026-08-21T04:39:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608210435",
+      "datum": "2026-08-21T04:35:27.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
@@ -59,36 +89,6 @@
       "titel": "United States Dollar Index trades around 99.75-99.70, hangs near three-month low",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-around-9975-9970-hangs-near-three-month-low-202608210226",
       "datum": "2026-08-21T02:26:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound edges higher to near 1.3650, UK Retail Sales data looms",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13650-uk-retail-sales-data-looms-202608210155",
-      "datum": "2026-08-21T01:55:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar gains ground amid rising oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-amid-rising-oil-prices-202608210153",
-      "datum": "2026-08-21T01:53:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar extends gains to fresh high since June, above mid-0.5900s vs softer USD",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-gains-to-fresh-high-since-june-above-mid-05900s-vs-softer-usd-202608210141",
-      "datum": "2026-08-21T01:41:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro gains on hawkish ECB outlook despite firm US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-gains-on-hawkish-ecb-outlook-despite-firm-us-dollar-202608210122",
-      "datum": "2026-08-21T01:22:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "PBOC sets USD/CNY reference rate at 6.7817 vs. 6.7808 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67817-vs-67808-previous-202608210115",
-      "datum": "2026-08-21T01:15:46.000Z"
     },
     {
       "quelle": "ForexLive",

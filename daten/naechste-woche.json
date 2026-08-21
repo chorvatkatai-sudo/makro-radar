@@ -1412,16 +1412,6 @@
   {
     "date": "2026-08-28T09:00:00.000Z",
     "country": "EUR",
-    "title": "Consumer Inflation Expectations",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "30.3",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-28T09:00:00.000Z",
-    "country": "EUR",
     "title": "Services Sentiment",
     "impact": "Low",
     "forecast": "",
@@ -1436,6 +1426,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "-15.9",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-28T09:00:00.000Z",
+    "country": "EUR",
+    "title": "Consumer Inflation Expectations",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "30.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1522,10 +1522,10 @@
   {
     "date": "2026-08-28T14:00:00.000Z",
     "country": "USD",
-    "title": "Michigan Consumer Expectations Final",
+    "title": "Michigan Current Conditions Final",
     "impact": "Low",
-    "forecast": "50.6",
-    "previous": "55.4",
+    "forecast": "51.8",
+    "previous": "54.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1542,20 +1542,20 @@
   {
     "date": "2026-08-28T14:00:00.000Z",
     "country": "USD",
-    "title": "Michigan Current Conditions Final",
+    "title": "Michigan Consumer Expectations Final",
     "impact": "Low",
-    "forecast": "51.8",
-    "previous": "54.8",
+    "forecast": "50.6",
+    "previous": "55.4",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-28T14:00:00.000Z",
     "country": "USD",
-    "title": "Michigan Inflation Expectations Final",
+    "title": "Michigan 5 Year Inflation Expectations Final",
     "impact": "Low",
-    "forecast": "4.3%",
-    "previous": "4.2%",
+    "forecast": "3.3%",
+    "previous": "3.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1572,10 +1572,10 @@
   {
     "date": "2026-08-28T14:00:00.000Z",
     "country": "USD",
-    "title": "Michigan 5 Year Inflation Expectations Final",
+    "title": "Michigan Inflation Expectations Final",
     "impact": "Low",
-    "forecast": "3.3%",
-    "previous": "3.3%",
+    "forecast": "4.3%",
+    "previous": "4.2%",
     "actual": null,
     "quelle": "tradingview"
   },

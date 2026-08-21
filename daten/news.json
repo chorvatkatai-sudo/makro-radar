@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-20T21:19:50.750Z",
+  "stand": "2026-08-21T04:32:22.656Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen slips as firmer yields lift US Dollar ahead of global PMIs",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-firmer-yields-lift-us-dollar-ahead-of-global-pmis-202608202118",
-      "datum": "2026-08-20T21:18:26.000Z"
+      "titel": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-18600-as-bullish-bias-prevails-202608210412",
+      "datum": "2026-08-21T04:12:30.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Mexican Peso holds firm as Banxico minutes supports the Peso",
-      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014",
-      "datum": "2026-08-20T20:14:02.000Z"
+      "titel": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-remains-key-hurdle-202608210408",
+      "datum": "2026-08-21T04:08:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407",
+      "datum": "2026-08-21T04:07:20.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Friday, August 21, 2026 - focus on Japanese inflation data",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-august-21-2026-focus-on-japanese-inflation-data/",
-      "datum": "2026-08-20T20:12:54.000Z"
+      "titel": "investingLive Asia-Pacific market news: Surge for crypto",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-surge-for-crypto/",
+      "datum": "2026-08-21T03:28:29.000Z"
     },
     {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-      "datum": "2026-08-20T20:00:00.000Z"
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc edges up against US Dollar amid heightened US debt concerns",
+      "link": "https://www.fxstreet.com/news/swiss-franc-edges-up-against-us-dollar-amid-heightened-us-debt-concerns-202608210322",
+      "datum": "2026-08-21T03:22:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar gains ground above 0.7100 as US debt concerns weigh on US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-ground-above-07100-as-us-debt-concerns-weigh-on-us-dollar-202608210245",
+      "datum": "2026-08-21T02:45:21.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas news wrap: Bessent doubles down on buyback plan",
-      "link": "https://investinglive.com/news/investinglive-americas-news-wrap-bessent-doubles-down-on-buyback-plan/",
-      "datum": "2026-08-20T19:31:32.000Z"
+      "titel": "China vice finance minister signals more fiscal support as economy slows",
+      "link": "https://investinglive.com/news/china-vice-finance-minister-signals-more-fiscal-support-as-economy-slows/",
+      "datum": "2026-08-21T02:41:53.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "South Korean Won: Rally accelerates with foreign inflows – DBS",
-      "link": "https://www.fxstreet.com/news/south-korean-won-rally-accelerates-with-foreign-inflows-dbs-202608201921",
-      "datum": "2026-08-20T19:21:00.000Z"
+      "titel": "Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-surges-to-near-6900-amid-heightened-volatility-202608210237",
+      "datum": "2026-08-21T02:37:37.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Forex Today: US Dollar firms ahead of global flash PMIs",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-global-flash-pmis-202608201915",
-      "datum": "2026-08-20T19:15:15.000Z"
+      "titel": "United States Dollar Index trades around 99.75-99.70, hangs near three-month low",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-around-9975-9970-hangs-near-three-month-low-202608210226",
+      "datum": "2026-08-21T02:26:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Dollar Index takes its floor from a Fed non-voter",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-floor-from-a-fed-non-voter-202608201844",
-      "datum": "2026-08-20T18:44:47.000Z"
+      "titel": "British Pound edges higher to near 1.3650, UK Retail Sales data looms",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13650-uk-retail-sales-data-looms-202608210155",
+      "datum": "2026-08-21T01:55:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: Softer Dollar offers limited relief – OCBC",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-softer-dollar-offers-limited-relief-ocbc-202608201843",
-      "datum": "2026-08-20T18:43:19.000Z"
+      "titel": "Canadian Dollar gains ground amid rising oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-amid-rising-oil-prices-202608210153",
+      "datum": "2026-08-21T01:53:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608201833",
-      "datum": "2026-08-20T18:33:36.000Z"
+      "titel": "New Zealand Dollar extends gains to fresh high since June, above mid-0.5900s vs softer USD",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-gains-to-fresh-high-since-june-above-mid-05900s-vs-softer-usd-202608210141",
+      "datum": "2026-08-21T01:41:37.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-100-day-sma-as-rally-extends-202608201812",
-      "datum": "2026-08-20T18:12:21.000Z"
+      "titel": "Euro gains on hawkish ECB outlook despite firm US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-gains-on-hawkish-ecb-outlook-despite-firm-us-dollar-202608210122",
+      "datum": "2026-08-21T01:22:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers",
-      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756",
-      "datum": "2026-08-20T17:56:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold pulls back as US yields recover after Treasury buyback",
-      "link": "https://www.fxstreet.com/news/gold-pulls-back-as-us-yields-recover-after-treasury-buyback-202608201736",
-      "datum": "2026-08-20T17:36:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Banxico minutes signal long rate pause as inflation eases",
-      "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736",
-      "datum": "2026-08-20T17:36:26.000Z"
+      "titel": "PBOC sets USD/CNY reference rate at 6.7817 vs. 6.7808 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67817-vs-67808-previous-202608210115",
+      "datum": "2026-08-21T01:15:46.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
-      "link": "https://investinglive.com/news/us-treasury-auctions-off-9-billion-of-30-year-tips-at-2-973-vs-2-991-wi/",
-      "datum": "2026-08-20T17:11:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar rises as RBNZ rate hike expectations strengthen",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705",
-      "datum": "2026-08-20T17:05:03.000Z"
+      "titel": "Flash PMI shows Japan factories leading strongest growth since February",
+      "link": "https://investinglive.com/news/flash-pmi-shows-japan-factories-leading-strongest-growth-since-february/",
+      "datum": "2026-08-21T00:37:27.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
-      "link": "https://investinglive.com/news/us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-than-4-billion/",
-      "datum": "2026-08-20T15:04:57.000Z"
+      "titel": "Japan July Core CPI 1.8% y/y (expected 1.8%)",
+      "link": "https://investinglive.com/news/japan-july-headline-cpi-1-8-y-y-expected-1-8/",
+      "datum": "2026-08-20T23:30:24.000Z"
     },
     {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
-      "datum": "2026-08-20T15:00:00.000Z"
+      "quelle": "ForexLive",
+      "titel": "UK consumer confidence hits two year high despite inflation warning",
+      "link": "https://investinglive.com/news/uk-consumer-confidence-hits-two-year-high-despite-inflation-warning/",
+      "datum": "2026-08-20T23:13:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia private sector growth softens as cost pressures intensify in August",
+      "link": "https://investinglive.com/news/australia-private-sector-growth-softens-as-cost-pressures-intensify-in-august/",
+      "datum": "2026-08-20T23:07:43.000Z"
     }
   ]
 }

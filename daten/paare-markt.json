@@ -1,77 +1,77 @@
 {
-  "stand": "2026-08-21T12:36:13.056Z",
-  "ausBriefing": "2026-08-14",
+  "stand": "2026-08-21T13:27:25.231Z",
+  "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 11,
+      "baseScore": 8,
       "tiltCot": -1,
       "tiltZins": 3,
       "tiltGesamt": 2,
-      "score": 13,
+      "score": 10,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar (Sept-Senkung ~85 %) + Euro-2-Jahres-Zinsen steigen am stärksten (Zins-Momentum pro-Euro) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 13 % → bewusst gedeckelt."
+      "treiber": "Weicher Dollar (unter 99) + Euro-Wirtschaft wächst wieder (PMI 51) + Zins-Momentum pro-Euro (EUR-2J steigt, US-2J fällt) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 22 % → bewusst gedeckelt."
     },
     {
       "paar": "GBP/USD",
-      "baseScore": 7,
+      "baseScore": 6,
       "tiltCot": -4,
       "tiltZins": 2,
       "tiltGesamt": -2,
-      "score": 5,
+      "score": 4,
       "cotExtrem": null,
-      "treiber": "Der starke UK-Dienstleistungs-PMI (53,6) + weicher Dollar (unter 99) heben das Paar; die schrumpfende UK-Industrie deckelt."
+      "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": -9,
+      "baseScore": -7,
       "tiltCot": 2,
       "tiltZins": -4,
       "tiltGesamt": -2,
-      "score": -11,
+      "score": -9,
       "cotExtrem": null,
-      "treiber": "Weicher Dollar + steigende Japan-Zinsen + leichter Haven-Bid (VIX 16) drücken das Paar. Yen fundamental aber schwach."
+      "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 1,
+      "baseScore": -3,
       "tiltCot": -3,
       "tiltZins": 0,
       "tiltGesamt": -3,
-      "score": -2,
+      "score": -6,
       "cotExtrem": null,
-      "treiber": "Schwacher Dollar zieht das Paar leicht hoch, aber schwache Aussie-Jobs, China-Flaute und Risk-off deckeln fast auf null."
+      "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -9,
+      "baseScore": -6,
       "tiltCot": 5,
       "tiltZins": -1,
       "tiltGesamt": 4,
-      "score": -5,
+      "score": -2,
       "cotExtrem": "erhoeht",
-      "treiber": "Dollar-Schwäche + festes Öl (+4 % Wo) + etwas heißere Kanada-Inflation (härtet BoC-Halten) sprechen für den Loonie (Paar runter). Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig gegen den Trend zünden."
+      "treiber": "Dollar-Schwäche + festes Öl (+3 % Wo) + heißere Kanada-Schlagzeilen-Inflation (härtet BoC-Halten-plus-Warnung) sprechen für den Loonie (Paar runter). GROSSE Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig heftig gegen den Trend zünden."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": -8,
+      "baseScore": -6,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
-      "score": -3,
+      "score": -1,
       "cotExtrem": null,
-      "treiber": "Schwacher Dollar zieht das Paar runter; der anziehende VIX gibt dem Franken zusätzlich Haven-Bid."
+      "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
     },
     {
       "paar": "NZD/USD",
-      "baseScore": 3,
+      "baseScore": 2,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": -2,
+      "score": -3,
       "cotExtrem": null,
-      "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und Risk-off bremsen; Großspekulanten extrem short."
+      "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und leichtes Risk-off bremsen; Großspekulanten stark short."
     }
   ]
 }

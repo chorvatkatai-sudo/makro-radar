@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-08-14",
+  "stand": "2026-08-21",
   "zinsen": [
     {
       "code": "AUD",
@@ -26,7 +26,7 @@
       "satz": 3.625,
       "anzeige": "3,50–3,75%",
       "naechste": "17.9.2026",
-      "erwartung": "Kehrtwende nach dem Job-Schock BESTÄTIGT: US-CPI Juli kühl (Kern 2,5% y/y, −0,1pp) + Einzelhandel −0,6% (Kollaps) → Markt preist ~85% eine ZINSSENKUNG (−0,25) am 17.9. ein. Warsh bleibt falkenhaft, aber die weichen Daten übertönen den Ton. FOMC-Protokoll (Mi 19.8.) + Warsh-Rede in Jackson Hole (Fr 28.8.) sind die nächsten Signale",
+      "erwartung": "Der Kurs hat sich klar in Richtung Lockerung gedreht (die Erhöhungs-Drohung ist vom Tisch): Dollar-Index unter 99, Gold + Bitcoin auf Rekord, US-Zinsen fallen. ABER die September-Senkung ist NICHT sicher — der FedWatch-Markt neigt eher zu einem HALTEN am 17.9. (~65–68%), mit Senkungen später im Jahr. Das FOMC-Protokoll (19.8.) war falkenhaft (9:3 Halten, 3 wollten erhöhen), wurde aber als 'vor den Job-Schocks' abgehakt. DAS Signal ist Warshs Grundsatzrede in Jackson Hole (Fr 28.8.) — als Falke bekannt, 'nicht an Marktpreise gebunden' → falkenhafte Überraschung möglich",
       "richtung": "runter"
     },
     {

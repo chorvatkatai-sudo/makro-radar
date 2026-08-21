@@ -412,20 +412,20 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "RBA Weighted Median CPI YoY",
+    "title": "CPI",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.7%",
+    "previous": "102.03",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "CPI",
+    "title": "RBA Weighted Median CPI MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "102.03",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -442,10 +442,10 @@
   {
     "date": "2026-08-26T01:30:00.000Z",
     "country": "AUD",
-    "title": "RBA Weighted Median CPI MoM",
+    "title": "RBA Weighted Median CPI YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.3%",
+    "previous": "3.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -562,20 +562,20 @@
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "GDP Growth Rate QoQ 2nd Est",
+    "title": "Durable Goods Orders MoM",
     "impact": "High",
-    "forecast": "1.5%",
-    "previous": "2.1%",
+    "forecast": "0.7%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "Personal Income MoM",
+    "title": "Personal Spending MoM",
     "impact": "High",
-    "forecast": "0.3%",
-    "previous": "0.2%",
+    "forecast": "0.2%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -662,10 +662,10 @@
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "Personal Spending MoM",
+    "title": "Core PCE Price Index MoM",
     "impact": "High",
     "forecast": "0.2%",
-    "previous": "0.3%",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -712,20 +712,20 @@
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "Core PCE Price Index MoM",
+    "title": "GDP Growth Rate QoQ 2nd Est",
     "impact": "High",
-    "forecast": "0.2%",
-    "previous": "0.1%",
+    "forecast": "1.5%",
+    "previous": "2.1%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-26T12:30:00.000Z",
     "country": "USD",
-    "title": "Durable Goods Orders MoM",
+    "title": "Personal Income MoM",
     "impact": "High",
-    "forecast": "0.7%",
-    "previous": "0.3%",
+    "forecast": "0.3%",
+    "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -942,10 +942,10 @@
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Household Spending MoM",
+    "title": "Plant Machinery Capital Expenditure QoQ",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.8",
+    "previous": "18.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -982,10 +982,10 @@
   {
     "date": "2026-08-27T01:30:00.000Z",
     "country": "AUD",
-    "title": "Plant Machinery Capital Expenditure QoQ",
+    "title": "Household Spending MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "18.1%",
+    "previous": "0.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1252,26 +1252,6 @@
   {
     "date": "2026-08-27T23:30:00.000Z",
     "country": "JPY",
-    "title": "Jobs/applications ratio",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.18",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-27T23:30:00.000Z",
-    "country": "JPY",
-    "title": "Tokyo CPI Ex Food and Energy YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-27T23:30:00.000Z",
-    "country": "JPY",
     "title": "Tokyo Core CPI YoY",
     "impact": "Low",
     "forecast": "",
@@ -1282,7 +1262,27 @@
   {
     "date": "2026-08-27T23:30:00.000Z",
     "country": "JPY",
+    "title": "Jobs/applications ratio",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.18",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-27T23:30:00.000Z",
+    "country": "JPY",
     "title": "Tokyo CPI YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-27T23:30:00.000Z",
+    "country": "JPY",
+    "title": "Tokyo CPI Ex Food and Energy YoY",
     "impact": "Low",
     "forecast": "",
     "previous": "2%",
@@ -1412,6 +1412,16 @@
   {
     "date": "2026-08-28T09:00:00.000Z",
     "country": "EUR",
+    "title": "Selling Price Expectations",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "17.7",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-28T09:00:00.000Z",
+    "country": "EUR",
     "title": "Consumer Inflation Expectations",
     "impact": "Low",
     "forecast": "",
@@ -1422,10 +1432,10 @@
   {
     "date": "2026-08-28T09:00:00.000Z",
     "country": "EUR",
-    "title": "Services Sentiment",
+    "title": "Industrial Sentiment",
     "impact": "Low",
     "forecast": "",
-    "previous": "4.7",
+    "previous": "-6.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1442,20 +1452,10 @@
   {
     "date": "2026-08-28T09:00:00.000Z",
     "country": "EUR",
-    "title": "Selling Price Expectations",
+    "title": "Services Sentiment",
     "impact": "Low",
     "forecast": "",
-    "previous": "17.7",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-28T09:00:00.000Z",
-    "country": "EUR",
-    "title": "Industrial Sentiment",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-6.1",
+    "previous": "4.7",
     "actual": null,
     "quelle": "tradingview"
   },

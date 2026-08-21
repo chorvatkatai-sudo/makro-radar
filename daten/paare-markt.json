@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-21T07:36:02.566Z",
+  "stand": "2026-08-21T08:29:45.552Z",
   "ausBriefing": "2026-08-14",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -9,
       "tiltCot": 2,
-      "tiltZins": -4,
-      "tiltGesamt": -2,
-      "score": -11,
+      "tiltZins": -5,
+      "tiltGesamt": -3,
+      "score": -12,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + steigende Japan-Zinsen + leichter Haven-Bid (VIX 16) drücken das Paar. Yen fundamental aber schwach."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -8,
       "tiltCot": 5,
-      "tiltZins": 0,
-      "tiltGesamt": 5,
-      "score": -3,
+      "tiltZins": -1,
+      "tiltGesamt": 4,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; der anziehende VIX gibt dem Franken zusätzlich Haven-Bid."
     },

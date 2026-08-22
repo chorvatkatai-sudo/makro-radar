@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-22T05:03:05.500Z",
+ "erstellt": "2026-08-22T05:03:28.274Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -3221,7 +3221,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-22T04:27:23.070Z",
+  "stand": "2026-08-22T05:03:27.722Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3293,9 +3293,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 86.64,
-    "tagProzent": -0.48,
-    "wocheProzent": 2.53,
+    "wert": 87.06,
+    "tagProzent": 0,
+    "wocheProzent": 3.03,
     "renditeDelta": false,
     "verlauf": [
      89.31,
@@ -3319,7 +3319,7 @@ window.MAKRO_DATA = {
      85.83,
      87.83,
      87.06,
-     86.64
+     87.06
     ]
    },
    "Brent": {
@@ -3359,9 +3359,9 @@ window.MAKRO_DATA = {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4661.6,
-    "tagProzent": 0.81,
-    "wocheProzent": 5.52,
+    "wert": 4680.6,
+    "tagProzent": 1.22,
+    "wocheProzent": 5.95,
     "renditeDelta": false,
     "verlauf": [
      4067.6,
@@ -3385,7 +3385,7 @@ window.MAKRO_DATA = {
      4489.4,
      4516.3,
      4624.1,
-     4661.6
+     4680.6
     ]
    },
    "US02Y": {
@@ -3491,9 +3491,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 78528.75,
+    "wert": 78549.27,
     "tagProzent": 0,
-    "wocheProzent": 21.74,
+    "wocheProzent": 21.77,
     "renditeDelta": false,
     "verlauf": [
      62763.32,
@@ -3516,8 +3516,8 @@ window.MAKRO_DATA = {
      64680.71,
      69266.19,
      73032.76,
-     78528.75,
-     78528.75
+     78549.27,
+     78549.27
     ]
    },
    "FEDFUT": {
@@ -3832,7 +3832,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-22T04:27:23.424Z",
+  "stand": "2026-08-22T05:03:28.272Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

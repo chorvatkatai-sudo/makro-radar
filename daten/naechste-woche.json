@@ -132,20 +132,20 @@
   {
     "date": "2026-08-25T05:00:00.000Z",
     "country": "JPY",
-    "title": "Coincident Index Final",
+    "title": "Leading Economic Index Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "117.9",
+    "forecast": "116.4",
+    "previous": "116.4",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-25T05:00:00.000Z",
     "country": "JPY",
-    "title": "Leading Economic Index Final",
+    "title": "Coincident Index Final",
     "impact": "Low",
-    "forecast": "116.4",
-    "previous": "116.4",
+    "forecast": "",
+    "previous": "117.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1112,6 +1112,16 @@
   {
     "date": "2026-08-27T12:30:00.000Z",
     "country": "USD",
+    "title": "Goods Trade Balance Adv",
+    "impact": "Medium",
+    "forecast": "-99 $",
+    "previous": "-101.4 $",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-08-27T12:30:00.000Z",
+    "country": "USD",
     "title": "Retail Inventories Ex Autos MoM Adv",
     "impact": "Medium",
     "forecast": "",
@@ -1126,16 +1136,6 @@
     "impact": "Medium",
     "forecast": "0.1%",
     "previous": "0.2%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-08-27T12:30:00.000Z",
-    "country": "USD",
-    "title": "Goods Trade Balance Adv",
-    "impact": "Medium",
-    "forecast": "-99 $",
-    "previous": "-101.4 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1472,10 +1472,10 @@
   {
     "date": "2026-08-28T12:30:00.000Z",
     "country": "CAD",
-    "title": "GDP MoM Prel",
+    "title": "GDP MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "",
+    "forecast": "0.2%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1502,10 +1502,10 @@
   {
     "date": "2026-08-28T12:30:00.000Z",
     "country": "CAD",
-    "title": "GDP MoM",
+    "title": "GDP MoM Prel",
     "impact": "Medium",
-    "forecast": "0.2%",
-    "previous": "0.3%",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },

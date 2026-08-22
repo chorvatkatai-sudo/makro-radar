@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-21T18:24:47.645Z",
+ "erstellt": "2026-08-22T04:27:24.041Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -1037,20 +1037,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-25T05:00:00.000Z",
    "country": "JPY",
-   "title": "Coincident Index Final",
+   "title": "Leading Economic Index Final",
    "impact": "Low",
-   "forecast": "",
-   "previous": "117.9",
+   "forecast": "116.4",
+   "previous": "116.4",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-08-25T05:00:00.000Z",
    "country": "JPY",
-   "title": "Leading Economic Index Final",
+   "title": "Coincident Index Final",
    "impact": "Low",
-   "forecast": "116.4",
-   "previous": "116.4",
+   "forecast": "",
+   "previous": "117.9",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2017,6 +2017,16 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-27T12:30:00.000Z",
    "country": "USD",
+   "title": "Goods Trade Balance Adv",
+   "impact": "Medium",
+   "forecast": "-99 $",
+   "previous": "-101.4 $",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-08-27T12:30:00.000Z",
+   "country": "USD",
    "title": "Retail Inventories Ex Autos MoM Adv",
    "impact": "Medium",
    "forecast": "",
@@ -2031,16 +2041,6 @@ window.MAKRO_DATA = {
    "impact": "Medium",
    "forecast": "0.1%",
    "previous": "0.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-27T12:30:00.000Z",
-   "country": "USD",
-   "title": "Goods Trade Balance Adv",
-   "impact": "Medium",
-   "forecast": "-99 $",
-   "previous": "-101.4 $",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2377,10 +2377,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-28T12:30:00.000Z",
    "country": "CAD",
-   "title": "GDP MoM Prel",
+   "title": "GDP MoM",
    "impact": "Medium",
-   "forecast": "",
-   "previous": "",
+   "forecast": "0.2%",
+   "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2407,10 +2407,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-08-28T12:30:00.000Z",
    "country": "CAD",
-   "title": "GDP MoM",
+   "title": "GDP MoM Prel",
    "impact": "Medium",
-   "forecast": "0.2%",
-   "previous": "0.3%",
+   "forecast": "",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3222,15 +3222,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-21T18:24:47.083Z",
+  "stand": "2026-08-22T04:27:23.070Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.81,
-    "tagProzent": 0,
-    "wocheProzent": -0.84,
+    "wert": 98.84,
+    "tagProzent": 0.04,
+    "wocheProzent": -0.8,
     "renditeDelta": false,
     "verlauf": [
      101.47,
@@ -3253,17 +3253,17 @@ window.MAKRO_DATA = {
      99.65,
      98.83,
      98.9,
-     98.81,
-     98.81
+     98.8,
+     98.84
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.29,
+    "wert": 15.13,
     "tagProzent": 0,
-    "wocheProzent": 0.66,
+    "wocheProzent": -0.39,
     "renditeDelta": false,
     "verlauf": [
      18.58,
@@ -3286,17 +3286,17 @@ window.MAKRO_DATA = {
      15.84,
      14.89,
      16.01,
-     15.29,
-     15.29
+     15.13,
+     15.13
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 87.16,
-    "tagProzent": 0,
-    "wocheProzent": 3.15,
+    "wert": 86.64,
+    "tagProzent": -0.48,
+    "wocheProzent": 2.53,
     "renditeDelta": false,
     "verlauf": [
      89.31,
@@ -3319,17 +3319,17 @@ window.MAKRO_DATA = {
      84.94,
      85.83,
      87.83,
-     87.16,
-     87.16
+     87.06,
+     86.64
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 94.37,
+    "wert": 94.39,
     "tagProzent": 0,
-    "wocheProzent": 3.85,
+    "wocheProzent": 3.87,
     "renditeDelta": false,
     "verlauf": [
      96.78,
@@ -3352,17 +3352,17 @@ window.MAKRO_DATA = {
      91.02,
      91.62,
      93.78,
-     94.37,
-     94.37
+     94.39,
+     94.39
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4682.6,
-    "tagProzent": 0,
-    "wocheProzent": 5.99,
+    "wert": 4661.6,
+    "tagProzent": 0.81,
+    "wocheProzent": 5.52,
     "renditeDelta": false,
     "verlauf": [
      4067.6,
@@ -3385,8 +3385,8 @@ window.MAKRO_DATA = {
      4366,
      4489.4,
      4516.3,
-     4682.6,
-     4682.6
+     4624.1,
+     4661.6
     ]
    },
    "US02Y": {
@@ -3398,7 +3398,6 @@ window.MAKRO_DATA = {
     "wocheProzent": -0.21,
     "renditeDelta": true,
     "verlauf": [
-     4.035,
      4.051,
      4.062,
      4.086,
@@ -3419,6 +3418,7 @@ window.MAKRO_DATA = {
      4.17,
      4.17,
      4.17,
+     4.17,
      3.961
     ]
    },
@@ -3426,9 +3426,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.74,
+    "wert": 4.738,
     "tagProzent": 0,
-    "wocheProzent": 0.02,
+    "wocheProzent": 0.01,
     "renditeDelta": true,
     "verlauf": [
      4.679,
@@ -3451,15 +3451,15 @@ window.MAKRO_DATA = {
      4.706,
      4.653,
      4.696,
-     4.74,
-     4.74
+     4.738,
+     4.738
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.28,
+    "wert": 5.276,
     "tagProzent": 0,
     "wocheProzent": -0.03,
     "renditeDelta": true,
@@ -3484,17 +3484,17 @@ window.MAKRO_DATA = {
      5.285,
      5.194,
      5.237,
-     5.28,
-     5.28
+     5.276,
+     5.276
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 77410.63,
+    "wert": 78528.75,
     "tagProzent": 0,
-    "wocheProzent": 20,
+    "wocheProzent": 21.74,
     "renditeDelta": false,
     "verlauf": [
      62763.32,
@@ -3517,8 +3517,8 @@ window.MAKRO_DATA = {
      64680.71,
      69266.19,
      73032.76,
-     77410.63,
-     77410.63
+     78528.75,
+     78528.75
     ]
    },
    "FEDFUT": {
@@ -3526,7 +3526,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.73,
-    "tagProzent": -0.01,
+    "tagProzent": 0.1,
     "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
@@ -3550,55 +3550,20 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
-     3.74,
+     3.63,
      3.73
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
-   },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.34,
-    "tagProzent": 0.04,
-    "wocheProzent": 0.1,
-    "renditeDelta": true,
-    "verlauf": [
-     2.28,
-     2.28,
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29,
-     2.27,
-     2.26,
-     2.24,
-     2.27,
-     2.28,
-     2.3,
-     2.3,
-     2.34
-    ],
-    "quelle": "FRED"
    },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
     "typ": "rendite",
     "wert": 2.35,
-    "tagProzent": -0.06,
-    "wocheProzent": -0.07,
+    "tagProzent": 0,
+    "wocheProzent": -0.04,
     "renditeDelta": true,
     "verlauf": [
-     2.37,
      2.39,
      2.43,
      2.43,
@@ -3619,135 +3584,170 @@ window.MAKRO_DATA = {
      2.41,
      2.44,
      2.41,
+     2.35,
      2.35
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.34,
+    "tagProzent": 0,
+    "wocheProzent": 0.07,
+    "renditeDelta": true,
+    "verlauf": [
+     2.28,
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29,
+     2.27,
+     2.26,
+     2.24,
+     2.27,
+     2.28,
+     2.3,
+     2.3,
+     2.34,
+     2.34
     ],
     "quelle": "FRED"
    }
   },
   "kurve2s10s": 0.78,
   "cot": {
-   "stand": "2026-08-11",
+   "stand": "2026-08-18",
    "waehrungen": {
     "CAD": {
-     "net": -173362,
-     "dNet": 5733,
-     "long": 12854,
-     "short": 186216,
-     "oi": 364104,
-     "nettoAnteil": -47.6,
+     "net": -158166,
+     "dNet": 15196,
+     "long": 22985,
+     "short": 181151,
+     "oi": 359585,
+     "nettoAnteil": -44,
      "richtung": "short",
-     "zScore": -1.74,
-     "extrem": "erhoeht",
-     "histWochen": 219
+     "zScore": -1.48,
+     "extrem": null,
+     "histWochen": 220
     },
     "CHF": {
-     "net": -32462,
-     "dNet": 360,
-     "long": 9773,
-     "short": 42235,
-     "oi": 109874,
-     "nettoAnteil": -29.5,
+     "net": -27278,
+     "dNet": 5184,
+     "long": 14041,
+     "short": 41319,
+     "oi": 113749,
+     "nettoAnteil": -24,
      "richtung": "short",
-     "zScore": -0.72,
+     "zScore": -0.34,
      "extrem": null,
-     "histWochen": 219
+     "histWochen": 220
     },
     "GBP": {
-     "net": -56221,
-     "dNet": 1593,
-     "long": 65268,
-     "short": 121489,
-     "oi": 256447,
-     "nettoAnteil": -21.9,
+     "net": -54573,
+     "dNet": 1648,
+     "long": 77343,
+     "short": 131916,
+     "oi": 286371,
+     "nettoAnteil": -19.1,
      "richtung": "short",
-     "zScore": -1.14,
+     "zScore": -1.1,
      "extrem": null,
-     "histWochen": 219
+     "histWochen": 220
     },
     "JPY": {
-     "net": -42085,
-     "dNet": 3388,
-     "long": 134188,
-     "short": 176273,
-     "oi": 391874,
-     "nettoAnteil": -10.7,
+     "net": -52893,
+     "dNet": -10808,
+     "long": 128932,
+     "short": 181825,
+     "oi": 380811,
+     "nettoAnteil": -13.9,
      "richtung": "short",
-     "zScore": -0.08,
+     "zScore": -0.2,
      "extrem": null,
-     "histWochen": 219
+     "histWochen": 220
     },
     "EUR": {
-     "net": -60010,
-     "dNet": -1919,
-     "long": 197186,
-     "short": 257196,
-     "oi": 801884,
-     "nettoAnteil": -7.5,
+     "net": -59088,
+     "dNet": 922,
+     "long": 196241,
+     "short": 255329,
+     "oi": 804940,
+     "nettoAnteil": -7.3,
      "richtung": "short",
-     "zScore": -1.82,
+     "zScore": -1.79,
      "extrem": "erhoeht",
-     "histWochen": 219
+     "histWochen": 220
     },
     "NZD": {
-     "net": -39586,
-     "dNet": 1617,
-     "long": 4949,
-     "short": 44535,
-     "oi": 96840,
-     "nettoAnteil": -40.9,
+     "net": -32620,
+     "dNet": 6966,
+     "long": 6344,
+     "short": 38964,
+     "oi": 89153,
+     "nettoAnteil": -36.6,
      "richtung": "short",
-     "zScore": -1.17,
+     "zScore": -0.82,
      "extrem": null,
-     "histWochen": 219
+     "histWochen": 220
     },
     "AUD": {
-     "net": -39223,
-     "dNet": -6033,
-     "long": 80538,
-     "short": 119761,
-     "oi": 267222,
-     "nettoAnteil": -14.7,
+     "net": -44159,
+     "dNet": -4936,
+     "long": 88204,
+     "short": 132363,
+     "oi": 288526,
+     "nettoAnteil": -15.3,
      "richtung": "short",
-     "zScore": 0.01,
+     "zScore": -0.11,
      "extrem": null,
-     "histWochen": 219
+     "histWochen": 220
     }
    }
   },
   "zinsen2j": {
-   "stand": "2026-08-21",
+   "stand": "2026-08-22",
    "werte": {
     "USD": {
-     "wert": 4.236,
-     "wocheDelta": 0.014
+     "wert": 4.24,
+     "wocheDelta": 0.041
     },
     "EUR": {
-     "wert": 2.842,
-     "wocheDelta": 0.059
+     "wert": 2.84,
+     "wocheDelta": 0.055
     },
     "GBP": {
      "wert": 4.368,
-     "wocheDelta": 0.045
+     "wocheDelta": 0.041
     },
     "JPY": {
      "wert": 1.684,
-     "wocheDelta": 0.075
+     "wocheDelta": 0.049
     },
     "AUD": {
      "wert": 4.558,
-     "wocheDelta": -0.047
+     "wocheDelta": -0.028
     },
     "CAD": {
-     "wert": 3.034,
-     "wocheDelta": 0.014
+     "wert": 3.042,
+     "wocheDelta": 0.054
     },
     "CHF": {
      "wert": 0.081,
-     "wocheDelta": -0.028
+     "wocheDelta": -0.016
     },
     "NZD": {
      "wert": 3.61,
-     "wocheDelta": -0.008
+     "wocheDelta": 0.015
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3764,9 +3764,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 8,
    "tiltCot": -1,
-   "tiltZins": 2,
-   "tiltGesamt": 1,
-   "score": 9,
+   "tiltZins": 0,
+   "tiltGesamt": -1,
+   "score": 7,
    "cotExtrem": "erhoeht",
    "treiber": "Weicher Dollar (unter 99) + Euro-Wirtschaft wächst wieder (PMI 51) + Zins-Momentum pro-Euro (EUR-2J steigt, US-2J fällt) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 22 % → bewusst gedeckelt."
   },
@@ -3774,19 +3774,19 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 6,
    "tiltCot": -4,
-   "tiltZins": 1,
-   "tiltGesamt": -3,
-   "score": 3,
+   "tiltZins": 0,
+   "tiltGesamt": -4,
+   "score": 2,
    "cotExtrem": null,
    "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
   },
   {
    "paar": "USD/JPY",
    "baseScore": -7,
-   "tiltCot": 2,
-   "tiltZins": -2,
-   "tiltGesamt": 0,
-   "score": -7,
+   "tiltCot": 3,
+   "tiltZins": 0,
+   "tiltGesamt": 3,
+   "score": -4,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
   },
@@ -3794,9 +3794,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": -3,
    "tiltCot": -3,
-   "tiltZins": -2,
-   "tiltGesamt": -5,
-   "score": -8,
+   "tiltZins": -3,
+   "tiltGesamt": -6,
+   "score": -9,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
   },
@@ -3807,7 +3807,7 @@ window.MAKRO_DATA = {
    "tiltZins": 0,
    "tiltGesamt": 5,
    "score": -1,
-   "cotExtrem": "erhoeht",
+   "cotExtrem": null,
    "treiber": "Dollar-Schwäche + festes Öl (+3 % Wo) + heißere Kanada-Schlagzeilen-Inflation (härtet BoC-Halten-plus-Warnung) sprechen für den Loonie (Paar runter). GROSSE Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig heftig gegen den Trend zünden."
   },
   {
@@ -3833,13 +3833,79 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-21T18:24:47.643Z",
+  "stand": "2026-08-22T04:27:23.424Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
+    "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315",
+    "datum": "2026-08-21T23:15:29.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
+    "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08000-as-recovery-stalls-202608212302",
+    "datum": "2026-08-21T23:02:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Treasury yields extend rebound as Services PMI beats estimates",
+    "link": "https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238",
+    "datum": "2026-08-21T22:38:51.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Mexican Peso reaches two-year high despite weaker Retail Sales",
+    "link": "https://www.fxstreet.com/news/mexican-peso-reaches-two-year-high-despite-weaker-retail-sales-202608212222",
+    "datum": "2026-08-21T22:22:01.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
+    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-aug-trump-folds-on-beef-tariffs-0/",
+    "datum": "2026-08-21T22:14:33.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "South Korean Won: Cautious tightening path expected from BoK – DBS",
+    "link": "https://www.fxstreet.com/news/south-korean-won-cautious-tightening-path-expected-from-bok-dbs-202608212058",
+    "datum": "2026-08-21T20:58:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Malaysian Ringgit: Robust trade supports MYR – Commerzbank",
+    "link": "https://www.fxstreet.com/news/malaysian-ringgit-robust-trade-supports-myr-commerzbank-202608212024",
+    "datum": "2026-08-21T20:24:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Forecasting the upcoming week: Warsh's Jackson Hole debut and US inflation test a soft US Dollar",
+    "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-warshs-jackson-hole-debut-and-us-inflation-test-a-soft-us-dollar-202608212022",
+    "datum": "2026-08-21T20:22:46.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Thai Baht: Extended policy pause expected from Bank of Thailand – DBS",
+    "link": "https://www.fxstreet.com/news/thai-baht-extended-policy-pause-expected-from-bank-of-thailand-dbs-202608211937",
+    "datum": "2026-08-21T19:37:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Japanese Yen neutral as it meets resilient US data",
+    "link": "https://www.fxstreet.com/news/japanese-yen-neutral-as-it-meets-resilient-us-data-202608211935",
+    "datum": "2026-08-21T19:35:57.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC",
+    "link": "https://www.fxstreet.com/news/malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-202608211853",
+    "datum": "2026-08-21T18:53:00.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Singapore: inflation and production outlook – DBS",
@@ -3853,70 +3919,10 @@ window.MAKRO_DATA = {
     "datum": "2026-08-21T18:05:45.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally",
-    "link": "https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756",
-    "datum": "2026-08-21T17:56:27.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought",
-    "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bulls-test-11700-as-rsi-turns-overbought-202608211752",
-    "datum": "2026-08-21T17:52:54.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Germany: Ifo sentiment seen weakening on Iran war – Commerzbank",
-    "link": "https://www.fxstreet.com/news/germany-ifo-sentiment-seen-weakening-on-iran-war-commerzbank-202608211747",
-    "datum": "2026-08-21T17:47:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Higher yields stop paying the Dollar Index",
-    "link": "https://www.fxstreet.com/news/higher-yields-stop-paying-the-dollar-index-202608211733",
-    "datum": "2026-08-21T17:33:59.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Swiss Franc struggles as US Dollar steadies, SNB keeps negative rates on table",
-    "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-us-dollar-steadies-snb-keeps-negative-rates-on-table-202608211726",
-    "datum": "2026-08-21T17:26:39.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United Kingdom: Resilient growth outlook – Deutsche Bank",
-    "link": "https://www.fxstreet.com/news/united-kingdom-resilient-growth-outlook-deutsche-bank-202608211708",
-    "datum": "2026-08-21T17:08:57.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar extends rally as fading Fed-hike bets soften US Dollar",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-rally-as-fading-fed-hike-bets-soften-us-dollar-202608211708",
-    "datum": "2026-08-21T17:08:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Iran’s President Pezeshkian urges end to war as US pressure looms – Bloomberg",
-    "link": "https://www.fxstreet.com/news/irans-president-pezeshkian-urges-wars-end-as-us-pressure-looms-bbg-202608211641",
-    "datum": "2026-08-21T16:41:17.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Bank of Canada: Tariff deal unlikely to accelerate hikes – TD Securities",
-    "link": "https://www.fxstreet.com/news/bank-of-canada-tariff-deal-unlikely-to-accelerate-hikes-td-securities-202608211638",
-    "datum": "2026-08-21T16:38:00.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
     "link": "https://investinglive.com/news/brazil-s-lula-us-trump-held-phone-call-on-friday/",
     "datum": "2026-08-21T16:22:38.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro treads water vs Yen as Japanese inflation, European PMIs offset each other",
-    "link": "https://www.fxstreet.com/news/euro-treads-water-vs-yen-as-japanese-inflation-european-pmis-offset-each-other-202608211619",
-    "datum": "2026-08-21T16:19:49.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3941,12 +3947,6 @@ window.MAKRO_DATA = {
     "titel": "Canada Retail sales for June 0.6% vs 0.4% estimate",
     "link": "https://investinglive.com/news/canada-retail-sales-for-june-0-6-vs-0-4-estimate/",
     "datum": "2026-08-21T12:31:15.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European markets wrap: Gold runs higher, dollar stays under pressure",
-    "link": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-runs-higher-dollar-stays-under-pressure/",
-    "datum": "2026-08-21T11:38:13.000Z"
    }
   ]
  },
@@ -4009,22 +4009,16 @@ window.MAKRO_DATA = {
   }
  },
  "prognoseQuote": {
-  "wochenAusgewertet": 9,
-  "treffer": 21,
-  "gesamt": 60,
-  "quote": 35,
+  "wochenAusgewertet": 10,
+  "treffer": 28,
+  "gesamt": 67,
+  "quote": 42,
   "wochenErfasst": 11,
   "proPaar": {
    "USD/JPY": {
-    "treffer": 2,
-    "gesamt": 9,
+    "treffer": 3,
+    "gesamt": 10,
     "letzte": [
-     {
-      "woche": "2026-07-06",
-      "treffer": false,
-      "score": 12,
-      "move": -0.29
-     },
      {
       "woche": "2026-07-13",
       "treffer": true,
@@ -4054,21 +4048,21 @@ window.MAKRO_DATA = {
       "treffer": false,
       "score": -12,
       "move": 0.23
+     },
+     {
+      "woche": "2026-08-17",
+      "treffer": true,
+      "score": -14,
+      "move": -0.33
      }
     ],
-    "quote": 22,
+    "quote": 30,
     "konfidenz": "niedrig"
    },
    "EUR/USD": {
-    "treffer": 2,
-    "gesamt": 9,
+    "treffer": 3,
+    "gesamt": 10,
     "letzte": [
-     {
-      "woche": "2026-07-06",
-      "treffer": false,
-      "score": -4,
-      "move": 0.13
-     },
      {
       "woche": "2026-07-13",
       "treffer": false,
@@ -4098,21 +4092,21 @@ window.MAKRO_DATA = {
       "treffer": true,
       "score": 11,
       "move": 0.1
+     },
+     {
+      "woche": "2026-08-17",
+      "treffer": true,
+      "score": 16,
+      "move": 0.91
      }
     ],
-    "quote": 22,
+    "quote": 30,
     "konfidenz": "niedrig"
    },
    "GBP/USD": {
-    "treffer": 4,
-    "gesamt": 9,
+    "treffer": 5,
+    "gesamt": 10,
     "letzte": [
-     {
-      "woche": "2026-07-06",
-      "treffer": false,
-      "score": -3,
-      "move": 0.58
-     },
      {
       "woche": "2026-07-13",
       "treffer": false,
@@ -4142,21 +4136,21 @@ window.MAKRO_DATA = {
       "treffer": true,
       "score": 1,
       "move": 0.24
+     },
+     {
+      "woche": "2026-08-17",
+      "treffer": true,
+      "score": 10,
+      "move": 0.71
      }
     ],
-    "quote": 44,
+    "quote": 50,
     "konfidenz": "mittel"
    },
    "AUD/USD": {
-    "treffer": 4,
-    "gesamt": 8,
+    "treffer": 5,
+    "gesamt": 9,
     "letzte": [
-     {
-      "woche": "2026-06-29",
-      "treffer": false,
-      "score": -1,
-      "move": 0.56
-     },
      {
       "woche": "2026-07-06",
       "treffer": true,
@@ -4186,21 +4180,21 @@ window.MAKRO_DATA = {
       "treffer": true,
       "score": 4,
       "move": 0.26
+     },
+     {
+      "woche": "2026-08-17",
+      "treffer": true,
+      "score": 12,
+      "move": 0.61
      }
     ],
-    "quote": 50,
+    "quote": 56,
     "konfidenz": "mittel"
    },
    "NZD/USD": {
-    "treffer": 3,
-    "gesamt": 8,
+    "treffer": 4,
+    "gesamt": 9,
     "letzte": [
-     {
-      "woche": "2026-06-29",
-      "treffer": false,
-      "score": -30,
-      "move": 1
-     },
      {
       "woche": "2026-07-06",
       "treffer": false,
@@ -4230,21 +4224,21 @@ window.MAKRO_DATA = {
       "treffer": true,
       "score": -3,
       "move": -0.04
+     },
+     {
+      "woche": "2026-08-17",
+      "treffer": true,
+      "score": 1,
+      "move": 1.18
      }
     ],
-    "quote": 38,
-    "konfidenz": "niedrig"
+    "quote": 44,
+    "konfidenz": "mittel"
    },
    "USD/CAD": {
-    "treffer": 3,
-    "gesamt": 9,
+    "treffer": 4,
+    "gesamt": 10,
     "letzte": [
-     {
-      "woche": "2026-07-06",
-      "treffer": false,
-      "score": 20,
-      "move": -0.49
-     },
      {
       "woche": "2026-07-13",
       "treffer": false,
@@ -4274,21 +4268,21 @@ window.MAKRO_DATA = {
       "treffer": true,
       "score": -10,
       "move": -0.47
+     },
+     {
+      "woche": "2026-08-17",
+      "treffer": true,
+      "score": -10,
+      "move": -0.86
      }
     ],
-    "quote": 33,
+    "quote": 40,
     "konfidenz": "niedrig"
    },
    "USD/CHF": {
-    "treffer": 3,
-    "gesamt": 8,
+    "treffer": 4,
+    "gesamt": 9,
     "letzte": [
-     {
-      "woche": "2026-06-29",
-      "treffer": false,
-      "score": 24,
-      "move": -0.71
-     },
      {
       "woche": "2026-07-06",
       "treffer": true,
@@ -4318,19 +4312,25 @@ window.MAKRO_DATA = {
       "treffer": false,
       "score": -6,
       "move": 0.43
+     },
+     {
+      "woche": "2026-08-17",
+      "treffer": true,
+      "score": -6,
+      "move": -1.29
      }
     ],
-    "quote": 38,
-    "konfidenz": "niedrig"
+    "quote": 44,
+    "konfidenz": "mittel"
    }
   },
   "kalibrierung": {
    "schwach": {
     "min": 1,
     "max": 25,
-    "treffer": 18,
-    "gesamt": 53,
-    "quote": 34
+    "treffer": 25,
+    "gesamt": 60,
+    "quote": 42
    },
    "mittel": {
     "min": 26,
@@ -4349,23 +4349,17 @@ window.MAKRO_DATA = {
   },
   "overlayVergleich": {
    "mitOverlay": {
-    "treffer": 12,
-    "gesamt": 32,
-    "quote": 38
+    "treffer": 19,
+    "gesamt": 39,
+    "quote": 49
    },
    "nurBase": {
-    "treffer": 14,
-    "gesamt": 32,
-    "quote": 44
+    "treffer": 21,
+    "gesamt": 39,
+    "quote": 54
    }
   },
   "letzte": [
-   {
-    "woche": "2026-07-06",
-    "quote": 29,
-    "treffer": 2,
-    "gesamt": 7
-   },
    {
     "woche": "2026-07-13",
     "quote": 14,
@@ -4394,6 +4388,12 @@ window.MAKRO_DATA = {
     "woche": "2026-08-10",
     "quote": 71,
     "treffer": 5,
+    "gesamt": 7
+   },
+   {
+    "woche": "2026-08-17",
+    "quote": 100,
+    "treffer": 7,
     "gesamt": 7
    }
   ]

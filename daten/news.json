@@ -1,11 +1,77 @@
 {
-  "stand": "2026-08-21T18:24:47.643Z",
+  "stand": "2026-08-22T04:27:23.424Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315",
+      "datum": "2026-08-21T23:15:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08000-as-recovery-stalls-202608212302",
+      "datum": "2026-08-21T23:02:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasury yields extend rebound as Services PMI beats estimates",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238",
+      "datum": "2026-08-21T22:38:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso reaches two-year high despite weaker Retail Sales",
+      "link": "https://www.fxstreet.com/news/mexican-peso-reaches-two-year-high-despite-weaker-retail-sales-202608212222",
+      "datum": "2026-08-21T22:22:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-aug-trump-folds-on-beef-tariffs-0/",
+      "datum": "2026-08-21T22:14:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Cautious tightening path expected from BoK – DBS",
+      "link": "https://www.fxstreet.com/news/south-korean-won-cautious-tightening-path-expected-from-bok-dbs-202608212058",
+      "datum": "2026-08-21T20:58:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysian Ringgit: Robust trade supports MYR – Commerzbank",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-robust-trade-supports-myr-commerzbank-202608212024",
+      "datum": "2026-08-21T20:24:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forecasting the upcoming week: Warsh's Jackson Hole debut and US inflation test a soft US Dollar",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-warshs-jackson-hole-debut-and-us-inflation-test-a-soft-us-dollar-202608212022",
+      "datum": "2026-08-21T20:22:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Thai Baht: Extended policy pause expected from Bank of Thailand – DBS",
+      "link": "https://www.fxstreet.com/news/thai-baht-extended-policy-pause-expected-from-bank-of-thailand-dbs-202608211937",
+      "datum": "2026-08-21T19:37:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen neutral as it meets resilient US data",
+      "link": "https://www.fxstreet.com/news/japanese-yen-neutral-as-it-meets-resilient-us-data-202608211935",
+      "datum": "2026-08-21T19:35:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-202608211853",
+      "datum": "2026-08-21T18:53:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Singapore: inflation and production outlook – DBS",
@@ -19,70 +85,10 @@
       "datum": "2026-08-21T18:05:45.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally",
-      "link": "https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756",
-      "datum": "2026-08-21T17:56:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bulls-test-11700-as-rsi-turns-overbought-202608211752",
-      "datum": "2026-08-21T17:52:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Germany: Ifo sentiment seen weakening on Iran war – Commerzbank",
-      "link": "https://www.fxstreet.com/news/germany-ifo-sentiment-seen-weakening-on-iran-war-commerzbank-202608211747",
-      "datum": "2026-08-21T17:47:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Higher yields stop paying the Dollar Index",
-      "link": "https://www.fxstreet.com/news/higher-yields-stop-paying-the-dollar-index-202608211733",
-      "datum": "2026-08-21T17:33:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc struggles as US Dollar steadies, SNB keeps negative rates on table",
-      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-us-dollar-steadies-snb-keeps-negative-rates-on-table-202608211726",
-      "datum": "2026-08-21T17:26:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Resilient growth outlook – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-resilient-growth-outlook-deutsche-bank-202608211708",
-      "datum": "2026-08-21T17:08:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar extends rally as fading Fed-hike bets soften US Dollar",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-rally-as-fading-fed-hike-bets-soften-us-dollar-202608211708",
-      "datum": "2026-08-21T17:08:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Iran’s President Pezeshkian urges end to war as US pressure looms – Bloomberg",
-      "link": "https://www.fxstreet.com/news/irans-president-pezeshkian-urges-wars-end-as-us-pressure-looms-bbg-202608211641",
-      "datum": "2026-08-21T16:41:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Canada: Tariff deal unlikely to accelerate hikes – TD Securities",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-tariff-deal-unlikely-to-accelerate-hikes-td-securities-202608211638",
-      "datum": "2026-08-21T16:38:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
       "link": "https://investinglive.com/news/brazil-s-lula-us-trump-held-phone-call-on-friday/",
       "datum": "2026-08-21T16:22:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro treads water vs Yen as Japanese inflation, European PMIs offset each other",
-      "link": "https://www.fxstreet.com/news/euro-treads-water-vs-yen-as-japanese-inflation-european-pmis-offset-each-other-202608211619",
-      "datum": "2026-08-21T16:19:49.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Canada Retail sales for June 0.6% vs 0.4% estimate",
       "link": "https://investinglive.com/news/canada-retail-sales-for-june-0-6-vs-0-4-estimate/",
       "datum": "2026-08-21T12:31:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Gold runs higher, dollar stays under pressure",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-runs-higher-dollar-stays-under-pressure/",
-      "datum": "2026-08-21T11:38:13.000Z"
     }
   ]
 }

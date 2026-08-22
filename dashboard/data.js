@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-22T04:27:24.041Z",
+ "erstellt": "2026-08-22T05:03:05.500Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -2739,21 +2739,20 @@ window.MAKRO_DATA = {
    "TRACK-RECORD-DEMUT: Über 9 ausgewertete Wochen liegt die Kurs-Trefferquote bei nur ~35 % (USD/JPY und EUR/USD am schlechtesten, 2/9). Das deckt sich mit der Forschung (Makro schlägt auf Wochensicht kaum den Zufall). Zahlen-Prognosen sind der verlässliche Teil, die Kurs-Richtung die Schwachstelle — darum kleine Scores."
   ],
   "tagesnews": {
-   "stand": "2026-08-21",
-   "wochentag": "Freitag",
-   "tenor": "Ruhiger Wochenausklang mit gemischten Einkaufsmanager-Zahlen. Der Dollar bleibt schwach (Index unter 99), Gold und Bitcoin sind auf Rekordjagd (Entwertungs-Wette). Alle Augen richten sich schon auf Jackson Hole nächste Woche und die Grundsatzrede von Fed-Chef Warsh am Freitag.",
+   "stand": "2026-08-22",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — die Märkte ruhen. Die große Linie bleibt: schwacher Dollar (Index unter 99), Gold und Bitcoin auf Rekordjagd. Nächste Woche wird es spannend: Jackson-Hole-Treffen mit der ersten Grundsatzrede von Fed-Chef Warsh (Fr 28.8.) plus der Fed-Lieblings-Inflationswert Kern-PCE (Mi 26.8.).",
    "heute": [
-    "🇪🇺 Eurozone Flash-Einkaufsmanager-Indizes (August): Der Gesamt-Wert kam mit ~51 leicht im Wachstumsbereich. Kinderleicht: Alles über 50 heißt Wachstum. Die Euro-Wirtschaft wächst also wieder ein kleines bisschen — das stützt den Euro leicht.",
-    "🇬🇧 UK Flash-Indizes: Der Dienstleistungssektor sprang überraschend stark auf 53,6, ABER die Industrie schrumpft weiter (47,3). Gemischt, doch der starke Dienstleistungssektor gibt dem Pfund heute etwas Rückenwind.",
-    "🇺🇸 USA: Die US-Flash-Indizes folgen am Nachmittag (ca. 15:45 Wien). Zuletzt lief die US-Wirtschaft mit zwei Geschwindigkeiten — kräftige Industrie, stotternder Konsum. Werte über 50 = Wachstum.",
-    "🥇 Marktbild heute: Dollar-Index ~98,7 (unter 99, schwach), Gold auf neuem Rekord (~4.640 $), Öl WTI ~87 $ (fest), Angst-Barometer VIX 15,5 (niedrig, aber leicht steigend). Auffällig: Bitcoin +19 % in der Woche — der schwache Dollar und die Entwertungs-Sorge treiben Gold UND Bitcoin nach oben."
+    "🛌 Samstag = Handelspause. Devisenmärkte sind zu, keine neuen Zahlen. Der Stand vom Freitag gilt weiter: Dollar-Index ~98,8 (schwach), Gold ~4.660 $ (Rekord), Bitcoin ~78.500 $, Öl WTI ~87 $ (fest), Angst-Barometer VIX 15 (niedrig = entspannter Markt).",
+    "🥇 Auffällig bleibt: Gold UND Bitcoin steigen gleichzeitig auf Rekorde. Kinderleicht: Viele Anleger trauen dem Papiergeld (vor allem dem Dollar) gerade weniger und flüchten in Sachwerte — das ist mehr als nur ein schwacher Dollar.",
+    "🗓️ Ausblick nächste Woche: Mi 26.8. Kern-PCE (Fed-Lieblings-Inflationswert, ~2,9 % erwartet) — kühl = Zinssenkungs-Wette wächst, Dollar noch schwächer. Fr 28.8. Warshs erste Jackson-Hole-Rede (~16:00 Wien): Warsh ist ein Falke; klingt er hart, könnte der stark überverkaufte Dollar kurz zurückschnellen (Squeeze-Risiko)."
    ],
    "gestern": [
-    "🇦🇺 Australien-Arbeitsmarkt (Do): Enttäuschung — 15.800 Stellen VERLOREN (statt eines Plus), Arbeitslosigkeit auf 4,5 % (5-Jahres-Hoch). Folge: Die australische Notenbank erhöht eher NICHT weiter → der Aussie verliert Rückenwind.",
-    "🇯🇵 Japan-Inflation (Do): hartnäckig — Kern-Kern-Rate bei 3,4 %, über Erwartung. Das stützt die Bank of Japan Richtung Zins-Erhöhung im Herbst und hilft dem Yen ein wenig, auch wenn er fundamental schwach bleibt (~159–160).",
-    "🇬🇧 UK-Inflation (Mi): Schlagzeile hitzig 2,9 % (teures Gas), ABER die Dienstleistungspreise KÜHLTEN (3,6 → 3,4 %) und der Kern blieb stabil (2,6 %). Für die Bank of England unterm Strich eher entspannend.",
-    "🇺🇸 Fed-Protokoll (Mi): der zerstrittenste Beschluss seit Jahren — 9:3 fürs Halten, drei regionale Notenbank-Chefs wollten sogar ERHÖHEN. ABER: Es stammt von VOR den Job-Schocks → der Markt hakte es ab, der Dollar fiel trotzdem weiter unter 99.",
-    "🇨🇦 Kanada-Inflation (Mo): Schlagzeile auf 3,0 % gestiegen (Benzin +25,7 %), aber der Kern blieb nahe 2 %. Die Notenbank schaut durch den Benzin-Ausschlag hindurch — kombiniert mit festem Öl bleibt der Loonie unterstützt."
+    "📅 Wochenrückblick: Der Dollar blieb die ganze Woche schwach (Index unter 99). Zwei Gründe: Die Zahlen deuten weiter auf Fed-Zinssenkungen, UND seit Neuestem dreht auch der Zins-Vergleich gegen den Dollar (US-Zinsen weicher, Europa/Japan ziehen an).",
+    "🇬🇧 UK (Mi): Inflation-Schlagzeile hitzig 2,9 % (teures Gas), ABER die Dienstleistungspreise kühlten (3,6→3,4 %) — für die Bank of England unterm Strich eher entspannend. Pfund trotzdem stark (3-Monats-Hoch).",
+    "🇨🇦 Kanada (Mo): Inflation auf 3,0 % gestiegen, aber nur wegen Benzin (+25,7 %) — der Kern liegt nahe 2 %. Festes Öl stützt den Loonie.",
+    "🇦🇺 Australien (Do): schwacher Arbeitsmarkt — 15.800 Stellen verloren, Arbeitslosigkeit 4,5 % (5-Jahres-Hoch). Der Aussie verliert Rückenwind.",
+    "🇯🇵 Japan (Do): Inflation hartnäckig (Kern-Kern 3,4 %) — stützt die Bank of Japan Richtung Zins-Erhöhung im Herbst und hilft dem Yen etwas."
    ]
   }
  },

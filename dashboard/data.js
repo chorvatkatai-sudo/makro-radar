@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-22T12:28:46.322Z",
+ "erstellt": "2026-08-23T04:31:19.590Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -919,7 +919,7 @@ window.MAKRO_DATA = {
    "country": "NZD",
    "title": "Retail Sales QoQ",
    "impact": "Low",
-   "forecast": "-0.5%",
+   "forecast": "0.1%",
    "previous": "0.9%",
    "actual": null,
    "quelle": "tradingview"
@@ -3221,7 +3221,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-22T12:28:45.949Z",
+  "stand": "2026-08-23T04:31:18.593Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3360,7 +3360,7 @@ window.MAKRO_DATA = {
     "einheit": "$",
     "typ": "rohstoff",
     "wert": 4680.6,
-    "tagProzent": 1.22,
+    "tagProzent": 0,
     "wocheProzent": 5.95,
     "renditeDelta": false,
     "verlauf": [
@@ -3384,7 +3384,7 @@ window.MAKRO_DATA = {
      4366,
      4489.4,
      4516.3,
-     4624.1,
+     4680.6,
      4680.6
     ]
    },
@@ -3491,9 +3491,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 77330.92,
+    "wert": 76908.75,
     "tagProzent": 0,
-    "wocheProzent": 19.56,
+    "wocheProzent": 18.91,
     "renditeDelta": false,
     "verlauf": [
      63482,
@@ -3516,8 +3516,8 @@ window.MAKRO_DATA = {
      69266.19,
      73032.76,
      78335.19,
-     77330.92,
-     77330.92
+     76908.75,
+     76908.75
     ]
    },
    "FEDFUT": {
@@ -3525,7 +3525,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.73,
-    "tagProzent": 0.1,
+    "tagProzent": -0.01,
     "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
@@ -3549,44 +3549,10 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
-     3.63,
+     3.74,
      3.73
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
-   },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.35,
-    "tagProzent": 0,
-    "wocheProzent": -0.04,
-    "renditeDelta": true,
-    "verlauf": [
-     2.39,
-     2.43,
-     2.43,
-     2.44,
-     2.41,
-     2.41,
-     2.41,
-     2.47,
-     2.43,
-     2.4,
-     2.41,
-     2.43,
-     2.4,
-     2.43,
-     2.43,
-     2.42,
-     2.39,
-     2.41,
-     2.44,
-     2.41,
-     2.35,
-     2.35
-    ],
-    "quelle": "FRED"
    },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
@@ -3619,6 +3585,40 @@ window.MAKRO_DATA = {
      2.3,
      2.34,
      2.34
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.35,
+    "tagProzent": 0,
+    "wocheProzent": -0.04,
+    "renditeDelta": true,
+    "verlauf": [
+     2.39,
+     2.43,
+     2.43,
+     2.44,
+     2.41,
+     2.41,
+     2.41,
+     2.47,
+     2.43,
+     2.4,
+     2.41,
+     2.43,
+     2.4,
+     2.43,
+     2.43,
+     2.42,
+     2.39,
+     2.41,
+     2.44,
+     2.41,
+     2.35,
+     2.35
     ],
     "quelle": "FRED"
    }
@@ -3714,39 +3714,39 @@ window.MAKRO_DATA = {
    }
   },
   "zinsen2j": {
-   "stand": "2026-08-22",
+   "stand": "2026-08-23",
    "werte": {
     "USD": {
      "wert": 4.24,
-     "wocheDelta": 0.041
+     "wocheDelta": 0.091
     },
     "EUR": {
      "wert": 2.84,
-     "wocheDelta": 0.055
+     "wocheDelta": 0.085
     },
     "GBP": {
      "wert": 4.368,
-     "wocheDelta": 0.041
+     "wocheDelta": 0.057
     },
     "JPY": {
      "wert": 1.684,
-     "wocheDelta": 0.049
+     "wocheDelta": 0.031
     },
     "AUD": {
      "wert": 4.558,
-     "wocheDelta": -0.028
+     "wocheDelta": -0.005
     },
     "CAD": {
      "wert": 3.042,
-     "wocheDelta": 0.054
+     "wocheDelta": 0.114
     },
     "CHF": {
      "wert": 0.081,
-     "wocheDelta": -0.016
+     "wocheDelta": 0.004
     },
     "NZD": {
      "wert": 3.61,
-     "wocheDelta": 0.015
+     "wocheDelta": 0.075
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3773,9 +3773,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 6,
    "tiltCot": -4,
-   "tiltZins": 0,
-   "tiltGesamt": -4,
-   "score": 2,
+   "tiltZins": -1,
+   "tiltGesamt": -5,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
   },
@@ -3783,9 +3783,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -7,
    "tiltCot": 3,
-   "tiltZins": 0,
-   "tiltGesamt": 3,
-   "score": -4,
+   "tiltZins": 2,
+   "tiltGesamt": 5,
+   "score": -2,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
   },
@@ -3793,9 +3793,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": -3,
    "tiltCot": -3,
-   "tiltZins": -3,
-   "tiltGesamt": -6,
-   "score": -9,
+   "tiltZins": -4,
+   "tiltGesamt": -7,
+   "score": -10,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
   },
@@ -3813,9 +3813,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": -6,
    "tiltCot": 5,
-   "tiltZins": 2,
-   "tiltGesamt": 7,
-   "score": 1,
+   "tiltZins": 3,
+   "tiltGesamt": 8,
+   "score": 2,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
   },
@@ -3832,7 +3832,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-22T12:28:46.319Z",
+  "stand": "2026-08-23T04:31:19.588Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

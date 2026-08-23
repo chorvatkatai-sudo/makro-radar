@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-22T12:28:45.949Z",
+  "stand": "2026-08-23T04:31:18.593Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
@@ -138,7 +138,7 @@
       "einheit": "$",
       "typ": "rohstoff",
       "wert": 4680.6,
-      "tagProzent": 1.22,
+      "tagProzent": 0,
       "wocheProzent": 5.95,
       "renditeDelta": false,
       "verlauf": [
@@ -162,7 +162,7 @@
         4366,
         4489.4,
         4516.3,
-        4624.1,
+        4680.6,
         4680.6
       ]
     },
@@ -269,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 77330.92,
+      "wert": 76908.75,
       "tagProzent": 0,
-      "wocheProzent": 19.56,
+      "wocheProzent": 18.91,
       "renditeDelta": false,
       "verlauf": [
         63482,
@@ -294,8 +294,8 @@
         69266.19,
         73032.76,
         78335.19,
-        77330.92,
-        77330.92
+        76908.75,
+        76908.75
       ]
     },
     "FEDFUT": {
@@ -303,7 +303,7 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 3.73,
-      "tagProzent": 0.1,
+      "tagProzent": -0.01,
       "wocheProzent": 0.1,
       "renditeDelta": true,
       "verlauf": [
@@ -327,44 +327,10 @@
         3.63,
         3.63,
         3.63,
-        3.63,
+        3.74,
         3.73
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
-    },
-    "REAL10": {
-      "name": "US-Realzins 10J (TIPS)",
-      "einheit": "%",
-      "typ": "rendite",
-      "wert": 2.35,
-      "tagProzent": 0,
-      "wocheProzent": -0.04,
-      "renditeDelta": true,
-      "verlauf": [
-        2.39,
-        2.43,
-        2.43,
-        2.44,
-        2.41,
-        2.41,
-        2.41,
-        2.47,
-        2.43,
-        2.4,
-        2.41,
-        2.43,
-        2.4,
-        2.43,
-        2.43,
-        2.42,
-        2.39,
-        2.41,
-        2.44,
-        2.41,
-        2.35,
-        2.35
-      ],
-      "quelle": "FRED"
     },
     "INFL10": {
       "name": "Inflationserwartung 10J (Breakeven)",
@@ -397,6 +363,40 @@
         2.3,
         2.34,
         2.34
+      ],
+      "quelle": "FRED"
+    },
+    "REAL10": {
+      "name": "US-Realzins 10J (TIPS)",
+      "einheit": "%",
+      "typ": "rendite",
+      "wert": 2.35,
+      "tagProzent": 0,
+      "wocheProzent": -0.04,
+      "renditeDelta": true,
+      "verlauf": [
+        2.39,
+        2.43,
+        2.43,
+        2.44,
+        2.41,
+        2.41,
+        2.41,
+        2.47,
+        2.43,
+        2.4,
+        2.41,
+        2.43,
+        2.4,
+        2.43,
+        2.43,
+        2.42,
+        2.39,
+        2.41,
+        2.44,
+        2.41,
+        2.35,
+        2.35
       ],
       "quelle": "FRED"
     }
@@ -492,39 +492,39 @@
     }
   },
   "zinsen2j": {
-    "stand": "2026-08-22",
+    "stand": "2026-08-23",
     "werte": {
       "USD": {
         "wert": 4.24,
-        "wocheDelta": 0.041
+        "wocheDelta": 0.091
       },
       "EUR": {
         "wert": 2.84,
-        "wocheDelta": 0.055
+        "wocheDelta": 0.085
       },
       "GBP": {
         "wert": 4.368,
-        "wocheDelta": 0.041
+        "wocheDelta": 0.057
       },
       "JPY": {
         "wert": 1.684,
-        "wocheDelta": 0.049
+        "wocheDelta": 0.031
       },
       "AUD": {
         "wert": 4.558,
-        "wocheDelta": -0.028
+        "wocheDelta": -0.005
       },
       "CAD": {
         "wert": 3.042,
-        "wocheDelta": 0.054
+        "wocheDelta": 0.114
       },
       "CHF": {
         "wert": 0.081,
-        "wocheDelta": -0.016
+        "wocheDelta": 0.004
       },
       "NZD": {
         "wert": 3.61,
-        "wocheDelta": 0.015
+        "wocheDelta": 0.075
       }
     },
     "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"

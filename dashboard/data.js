@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-23T04:31:19.590Z",
+ "erstellt": "2026-08-23T05:03:42.066Z",
  "wochenStart": "2026-08-16",
  "events": [
   {
@@ -2739,20 +2739,21 @@ window.MAKRO_DATA = {
    "TRACK-RECORD-DEMUT: Über 9 ausgewertete Wochen liegt die Kurs-Trefferquote bei nur ~35 % (USD/JPY und EUR/USD am schlechtesten, 2/9). Das deckt sich mit der Forschung (Makro schlägt auf Wochensicht kaum den Zufall). Zahlen-Prognosen sind der verlässliche Teil, die Kurs-Richtung die Schwachstelle — darum kleine Scores."
   ],
   "tagesnews": {
-   "stand": "2026-08-22",
-   "wochentag": "Samstag",
-   "tenor": "Wochenende — die Märkte ruhen. Die große Linie bleibt: schwacher Dollar (Index unter 99), Gold und Bitcoin auf Rekordjagd. Nächste Woche wird es spannend: Jackson-Hole-Treffen mit der ersten Grundsatzrede von Fed-Chef Warsh (Fr 28.8.) plus der Fed-Lieblings-Inflationswert Kern-PCE (Mi 26.8.).",
+   "stand": "2026-08-23",
+   "wochentag": "Sonntag",
+   "tenor": "Wochenende — die Märkte ruhen bis morgen früh. Die große Linie bleibt unverändert: schwacher Dollar (Index unter 99), Gold und Bitcoin auf Rekordjagd. Die Woche wird spannend: Jackson-Hole-Treffen mit Fed-Chef Warshs erster Grundsatzrede (Fr 28.8.) plus dem Fed-Lieblings-Inflationswert Kern-PCE (Mi 26.8.).",
    "heute": [
-    "🛌 Samstag = Handelspause. Devisenmärkte sind zu, keine neuen Zahlen. Der Stand vom Freitag gilt weiter: Dollar-Index ~98,8 (schwach), Gold ~4.660 $ (Rekord), Bitcoin ~78.500 $, Öl WTI ~87 $ (fest), Angst-Barometer VIX 15 (niedrig = entspannter Markt).",
-    "🥇 Auffällig bleibt: Gold UND Bitcoin steigen gleichzeitig auf Rekorde. Kinderleicht: Viele Anleger trauen dem Papiergeld (vor allem dem Dollar) gerade weniger und flüchten in Sachwerte — das ist mehr als nur ein schwacher Dollar.",
-    "🗓️ Ausblick nächste Woche: Mi 26.8. Kern-PCE (Fed-Lieblings-Inflationswert, ~2,9 % erwartet) — kühl = Zinssenkungs-Wette wächst, Dollar noch schwächer. Fr 28.8. Warshs erste Jackson-Hole-Rede (~16:00 Wien): Warsh ist ein Falke; klingt er hart, könnte der stark überverkaufte Dollar kurz zurückschnellen (Squeeze-Risiko)."
+    "🛌 Sonntag = Handelspause. Devisenmärkte sind zu, keine neuen Zahlen — morgen früh (Montag) geht es wieder los. Der Freitags-Stand gilt weiter: Dollar-Index ~98,8 (schwach), Gold ~4.681 $ (Rekord), Bitcoin ~76.900 $, Öl WTI ~87 $ (fest), Angst-Barometer VIX 15 (niedrig = entspannter Markt).",
+    "🥇 Das Auffällige bleibt: Gold UND Bitcoin steigen gleichzeitig auf Rekorde. Kinderleicht erklärt: Viele Anleger trauen dem Papiergeld (vor allem dem Dollar) gerade weniger und flüchten in Sachwerte — das ist mehr als nur ein schwacher Dollar.",
+    "🗓️ Diese Woche wird es ernst: Mi 26.8. Kern-PCE (Fed-Lieblings-Inflationswert, ~2,9 % erwartet) — kühl = Zinssenkungs-Wette wächst, Dollar noch schwächer. Do 27.–Sa 29.8. Jackson-Hole-Treffen. Fr 28.8. Warshs erste Rede dort (~16:00 Wien) = DAS Event: Warsh ist ein Falke; klingt er hart, könnte der stark überverkaufte Dollar kurz zurückschnellen (Squeeze-Risiko nach oben).",
+    "📆 Montag-Auftakt ruhig: nur das RBA-Sitzungsprotokoll (Australien) — die harten Zahlen kommen ab Mittwoch."
    ],
    "gestern": [
-    "📅 Wochenrückblick: Der Dollar blieb die ganze Woche schwach (Index unter 99). Zwei Gründe: Die Zahlen deuten weiter auf Fed-Zinssenkungen, UND seit Neuestem dreht auch der Zins-Vergleich gegen den Dollar (US-Zinsen weicher, Europa/Japan ziehen an).",
-    "🇬🇧 UK (Mi): Inflation-Schlagzeile hitzig 2,9 % (teures Gas), ABER die Dienstleistungspreise kühlten (3,6→3,4 %) — für die Bank of England unterm Strich eher entspannend. Pfund trotzdem stark (3-Monats-Hoch).",
-    "🇨🇦 Kanada (Mo): Inflation auf 3,0 % gestiegen, aber nur wegen Benzin (+25,7 %) — der Kern liegt nahe 2 %. Festes Öl stützt den Loonie.",
-    "🇦🇺 Australien (Do): schwacher Arbeitsmarkt — 15.800 Stellen verloren, Arbeitslosigkeit 4,5 % (5-Jahres-Hoch). Der Aussie verliert Rückenwind.",
-    "🇯🇵 Japan (Do): Inflation hartnäckig (Kern-Kern 3,4 %) — stützt die Bank of Japan Richtung Zins-Erhöhung im Herbst und hilft dem Yen etwas."
+    "📅 Wochenrückblick (18.–22.8.): Der Dollar blieb die ganze Woche schwach (Index unter 99). Zwei Gründe: Die Zahlen deuten weiter auf Fed-Zinssenkungen, UND seit Neuestem dreht auch der Zins-Vergleich gegen den Dollar (US-Zinsen weicher, Europa/Japan ziehen an).",
+    "🇬🇧 UK: Inflation-Schlagzeile hitzig 2,9 % (teures Gas), ABER die Dienstleistungspreise kühlten (3,6→3,4 %) — für die Bank of England unterm Strich eher entspannend. Pfund trotzdem stark (3-Monats-Hoch).",
+    "🇨🇦 Kanada: Inflation auf 3,0 % gestiegen, aber nur wegen Benzin (+25,7 %) — der Kern liegt nahe 2 %. Festes Öl (WTI +3 % Wo) stützt den Loonie.",
+    "🇦🇺 Australien: schwacher Arbeitsmarkt — 15.800 Stellen verloren, Arbeitslosigkeit 4,5 % (5-Jahres-Hoch). Der Aussie verliert Rückenwind.",
+    "🇯🇵 Japan: Inflation hartnäckig (Kern-Kern 3,4 %) — stützt die Bank of Japan Richtung Zins-Erhöhung im Herbst und hilft dem Yen etwas."
    ]
   }
  },

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-23T05:04:24.429Z",
+ "erstellt": "2026-08-23T12:29:47.810Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -3206,7 +3206,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-23T05:04:23.931Z",
+  "stand": "2026-08-23T12:29:47.451Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3476,12 +3476,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 76526.62,
+    "wert": 77038.66,
     "tagProzent": 0,
-    "wocheProzent": 18.31,
+    "wocheProzent": 11.22,
     "renditeDelta": false,
     "verlauf": [
-     63482,
      63460.9,
      64055.95,
      64597.5,
@@ -3501,8 +3500,9 @@ window.MAKRO_DATA = {
      69266.19,
      73032.76,
      78335.19,
-     76526.62,
-     76526.62
+     77083.41,
+     77038.66,
+     77038.66
     ]
    },
    "FEDFUT": {
@@ -3817,7 +3817,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-23T05:04:24.427Z",
+  "stand": "2026-08-23T12:29:47.808Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

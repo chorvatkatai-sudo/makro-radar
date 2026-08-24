@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-24T10:29:48.928Z",
+  "stand": "2026-08-24T12:31:48.504Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-pushes-higher-but-overbought-rsi-warns-bulls-202608241026",
-      "datum": "2026-08-24T10:26:24.000Z"
+      "titel": "Australian Dollar: Cooling inflation but carry remains supportive – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-cooling-inflation-but-carry-remains-supportive-bbh-202608241223",
+      "datum": "2026-08-24T12:23:56.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar edges down from highs amid soft retail consumption data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-down-from-highs-amid-soft-retail-consumption-data-202608241002",
-      "datum": "2026-08-24T10:02:18.000Z"
+      "titel": "WTI Oil retreats toward $85 ahead of US economic offensive against Iran",
+      "link": "https://www.fxstreet.com/news/wti-oil-retreats-toward-85-ahead-of-us-economic-offensive-against-iran-202608241217",
+      "datum": "2026-08-24T12:17:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro steadies against Japanese Yen as markets weigh ECB, BoJ rate hikes",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-markets-weigh-ecb-boj-rate-hikes-202608240958",
-      "datum": "2026-08-24T09:58:53.000Z"
+      "titel": "CEE FX: Koruna leads as policy diverges – Commerzbank",
+      "link": "https://www.fxstreet.com/news/cee-fx-koruna-leads-as-policy-diverges-commerzbank-202608241212",
+      "datum": "2026-08-24T12:12:30.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Event-driven risks shape debasement narrative – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-event-driven-risks-shape-debasement-narrative-mufg-202608240958",
-      "datum": "2026-08-24T09:58:53.000Z"
+      "titel": "Silver Price Forecast: Buyers stall near $70 after strong rally",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-buyers-stall-near-70-after-strong-rally-202608241209",
+      "datum": "2026-08-24T12:09:33.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: Momentum builds toward 0.7200 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-momentum-builds-toward-07200-against-us-dollar-uob-202608240948",
-      "datum": "2026-08-24T09:48:52.000Z"
+      "titel": "Hungarian Forint: MNB easing and HUF carry prospects – BNY",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-mnb-easing-and-huf-carry-prospects-bny-202608241201",
+      "datum": "2026-08-24T12:01:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treasury could tap the nearly $1 trillion TGA to fund bond buybacks",
+      "link": "https://investinglive.com/news/us-treasury-could-tap-the-nearly-1-trillion-tga-to-fund-bond-buybacks/",
+      "datum": "2026-08-24T11:53:37.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Trade tensions threaten recovery against US Dollar - OCBC",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-threaten-recovery-against-us-dollar-ocbc-202608240939",
-      "datum": "2026-08-24T09:39:01.000Z"
+      "titel": "Canadian Dollar: GDP rebound supports Loonie – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gdp-rebound-supports-loonie-td-securities-202608241151",
+      "datum": "2026-08-24T11:51:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608240931",
-      "datum": "2026-08-24T09:31:38.000Z"
+      "titel": "US Dollar: Debasement narrative caps upside – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-debasement-narrative-caps-upside-ocbc-202608241139",
+      "datum": "2026-08-24T11:39:59.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Polish Zloty: Budget risks point to further weakness versus Euro - Societe Generale",
-      "link": "https://www.fxstreet.com/news/polish-zloty-budget-risks-point-to-further-weakness-versus-euro-societe-generale-202608240927",
-      "datum": "2026-08-24T09:27:35.000Z"
+      "titel": "Experts agree: Japanese Yen needs more than intervention to take off from lows",
+      "link": "https://www.fxstreet.com/news/experts-agree-japanese-yen-needs-more-than-intervention-to-take-off-from-lows-202608241139",
+      "datum": "2026-08-24T11:39:51.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Canadian dollar extends losses after trade talks collapse",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-canadian-dollar-extends-losses-after-trade-talks-collapse/",
+      "datum": "2026-08-24T11:34:33.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Hungarian Forint: Rate path extends beyond summer – ING",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-rate-path-extends-beyond-summer-ing-202608240916",
-      "datum": "2026-08-24T09:16:49.000Z"
+      "titel": "Gold: Breakout sustains upward momentum – Societe Generale",
+      "link": "https://www.fxstreet.com/news/gold-breakout-sustains-upward-momentum-societe-generale-202608241126",
+      "datum": "2026-08-24T11:26:06.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro holds near three-month highs as investors await US sanctions to Iran",
-      "link": "https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-investors-await-us-sanctions-to-iran-202608240915",
-      "datum": "2026-08-24T09:15:23.000Z"
+      "titel": "Euro: Positioning supports gradual gains against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-positioning-supports-gradual-gains-against-us-dollar-ing-202608241117",
+      "datum": "2026-08-24T11:17:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-recovering-usd-seems-vulnerable-amid-us-japan-rate-gap-202608240909",
-      "datum": "2026-08-24T09:09:12.000Z"
+      "titel": "Gold extends rally as markets await US PCE and Warsh’s Jackson Hole speech",
+      "link": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107",
+      "datum": "2026-08-24T11:07:10.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Warsh speech shapes Dollar and Treasuries – BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-warsh-speech-shapes-dollar-and-treasuries-bny-202608240907",
-      "datum": "2026-08-24T09:07:34.000Z"
+      "titel": "New Zealand Dollar: Retail slump yet hikes priced – BBH",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retail-slump-yet-hikes-priced-bbh-202608241106",
+      "datum": "2026-08-24T11:06:44.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Retail sales data due from New Zealand imminently",
       "link": "https://investinglive.com/news/retail-sales-data-due-from-new-zealand-imminently/",
       "datum": "2026-08-23T22:38:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US-Canada trade talks collapse as 50% tariffs take effect, Carney vows retaliation",
-      "link": "https://investinglive.com/news/us-canada-trade-talks-collapse-as-50-tariffs-take-effect-carney-vows-retaliation/",
-      "datum": "2026-08-23T20:07:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-aug-trump-folds-on-beef-tariffs-0/",
-      "datum": "2026-08-21T22:14:33.000Z"
     }
   ]
 }

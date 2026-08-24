@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-24T12:38:51.906Z",
+  "stand": "2026-08-24T15:31:17.443Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,63 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Policy risks keep downside bias – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-policy-risks-keep-downside-bias-ing-202608241233",
-      "datum": "2026-08-24T12:33:56.000Z"
+      "titel": "British Pound: Sentiment supports further gains against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-sentiment-supports-further-gains-against-us-dollar-scotiabank-202608241529",
+      "datum": "2026-08-24T15:29:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: Cooling inflation but carry remains supportive – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-cooling-inflation-but-carry-remains-supportive-bbh-202608241223",
-      "datum": "2026-08-24T12:23:56.000Z"
+      "titel": "United States: Spending and inflation outlook – Wells Fargo",
+      "link": "https://www.fxstreet.com/news/united-states-spending-and-inflation-outlook-wells-fargo-202608241506",
+      "datum": "2026-08-24T15:06:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Oil retreats toward $85 ahead of US economic offensive against Iran",
-      "link": "https://www.fxstreet.com/news/wti-oil-retreats-toward-85-ahead-of-us-economic-offensive-against-iran-202608241217",
-      "datum": "2026-08-24T12:17:26.000Z"
+      "titel": "Copper: AI-driven demand reshapes pricing – Societe Generale",
+      "link": "https://www.fxstreet.com/news/copper-ai-driven-demand-reshapes-pricing-societe-generale-202608241457",
+      "datum": "2026-08-24T14:57:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "CEE FX: Koruna leads as policy diverges – Commerzbank",
-      "link": "https://www.fxstreet.com/news/cee-fx-koruna-leads-as-policy-diverges-commerzbank-202608241212",
-      "datum": "2026-08-24T12:12:30.000Z"
+      "titel": "Japanese Yen slips as US Dollar stabilizes, US PCE in focus",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-us-dollar-stabilizes-us-pce-in-focus-202608241451",
+      "datum": "2026-08-24T14:51:35.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: Buyers stall near $70 after strong rally",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-buyers-stall-near-70-after-strong-rally-202608241209",
-      "datum": "2026-08-24T12:09:33.000Z"
+      "titel": "Canadian Dollar: Trade shock weighs against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-shock-weighs-against-us-dollar-scotiabank-202608241444",
+      "datum": "2026-08-24T14:44:33.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Hungarian Forint: MNB easing and HUF carry prospects – BNY",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-mnb-easing-and-huf-carry-prospects-bny-202608241201",
-      "datum": "2026-08-24T12:01:15.000Z"
+      "titel": "Federal Reserve: Jackson Hole communication focus – Wells Fargo",
+      "link": "https://www.fxstreet.com/news/federal-reserve-jackson-hole-communication-focus-wells-fargo-202608241433",
+      "datum": "2026-08-24T14:33:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Canada: Rates seen on hold then higher – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-seen-on-hold-then-higher-td-securities-202608241421",
+      "datum": "2026-08-24T14:21:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US President Trump announces tariffs on Canadian autos, trucks and steel",
+      "link": "https://www.fxstreet.com/news/us-president-trump-announces-tariffs-on-canadian-autos-trucks-and-steel-202608241413",
+      "datum": "2026-08-24T14:13:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Weakness may stabilize as US growth advantage persists - BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-weakness-may-stabilize-as-us-growth-advantage-persists-bbh-202608241411",
+      "datum": "2026-08-24T14:11:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar slides as Trump escalates trade war with Canada",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-trump-escalates-trade-war-with-canada-202608241403",
+      "datum": "2026-08-24T14:03:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Rally vulnerable to reversal against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-rally-vulnerable-to-reversal-against-us-dollar-scotiabank-202608241355",
+      "datum": "2026-08-24T13:55:57.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "US Treasury could tap the nearly $1 trillion TGA to fund bond buybacks",
       "link": "https://investinglive.com/news/us-treasury-could-tap-the-nearly-1-trillion-tga-to-fund-bond-buybacks/",
       "datum": "2026-08-24T11:53:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: GDP rebound supports Loonie – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gdp-rebound-supports-loonie-td-securities-202608241151",
-      "datum": "2026-08-24T11:51:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Debasement narrative caps upside – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-debasement-narrative-caps-upside-ocbc-202608241139",
-      "datum": "2026-08-24T11:39:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Experts agree: Japanese Yen needs more than intervention to take off from lows",
-      "link": "https://www.fxstreet.com/news/experts-agree-japanese-yen-needs-more-than-intervention-to-take-off-from-lows-202608241139",
-      "datum": "2026-08-24T11:39:51.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -74,19 +86,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold: Breakout sustains upward momentum – Societe Generale",
-      "link": "https://www.fxstreet.com/news/gold-breakout-sustains-upward-momentum-societe-generale-202608241126",
-      "datum": "2026-08-24T11:26:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Positioning supports gradual gains against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-positioning-supports-gradual-gains-against-us-dollar-ing-202608241117",
-      "datum": "2026-08-24T11:17:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold extends rally as markets await US PCE and Warsh’s Jackson Hole speech",
+      "titel": "Gold extends gains as US Treasury buyback fallout keeps buyers in control",
       "link": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107",
       "datum": "2026-08-24T11:07:10.000Z"
     },

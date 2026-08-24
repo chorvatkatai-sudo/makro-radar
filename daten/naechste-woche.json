@@ -452,6 +452,16 @@
   {
     "date": "2026-09-01T09:00:00.000Z",
     "country": "EUR",
+    "title": "Unemployment Rate",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "6.3%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-01T09:00:00.000Z",
+    "country": "EUR",
     "title": "Inflation Rate MoM Flash",
     "impact": "Medium",
     "forecast": "",
@@ -462,20 +472,10 @@
   {
     "date": "2026-09-01T09:00:00.000Z",
     "country": "EUR",
-    "title": "Unemployment Rate",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "6.3",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-01T09:00:00.000Z",
-    "country": "EUR",
     "title": "Core Inflation Rate YoY Flash",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "2.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1285,7 +1285,7 @@
     "title": "PPI YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "4.6",
+    "previous": "4.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1305,7 +1305,7 @@
     "title": "PPI MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "-0.3",
+    "previous": "-0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1735,7 +1735,7 @@
     "title": "Retail Sales YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.7",
+    "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1745,7 +1745,7 @@
     "title": "Retail Sales MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.3",
+    "previous": "-0.3%",
     "actual": null,
     "quelle": "tradingview"
   },

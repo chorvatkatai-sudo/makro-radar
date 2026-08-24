@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-24T05:09:32.493Z",
+  "stand": "2026-08-24T10:29:48.928Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,27 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc advances as Dollar slides on US bond buyback surge",
-      "link": "https://www.fxstreet.com/news/swiss-franc-advances-as-dollar-slides-on-us-bond-buyback-surge-202608240445",
-      "datum": "2026-08-24T04:45:53.000Z"
+      "titel": "Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-pushes-higher-but-overbought-rsi-warns-bulls-202608241026",
+      "datum": "2026-08-24T10:26:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-to-near-18550-but-maintaining-constructive-bias-above-100-day-sma-202608240445",
-      "datum": "2026-08-24T04:45:43.000Z"
+      "titel": "New Zealand Dollar edges down from highs amid soft retail consumption data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-down-from-highs-amid-soft-retail-consumption-data-202608241002",
+      "datum": "2026-08-24T10:02:18.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
-      "link": "https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444",
-      "datum": "2026-08-24T04:44:26.000Z"
+      "titel": "Euro steadies against Japanese Yen as markets weigh ECB, BoJ rate hikes",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-markets-weigh-ecb-boj-rate-hikes-202608240958",
+      "datum": "2026-08-24T09:58:53.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608240436",
-      "datum": "2026-08-24T04:36:17.000Z"
+      "titel": "US Dollar: Event-driven risks shape debasement narrative – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-event-driven-risks-shape-debasement-narrative-mufg-202608240958",
+      "datum": "2026-08-24T09:58:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Momentum builds toward 0.7200 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-momentum-builds-toward-07200-against-us-dollar-uob-202608240948",
+      "datum": "2026-08-24T09:48:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Trade tensions threaten recovery against US Dollar - OCBC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-threaten-recovery-against-us-dollar-ocbc-202608240939",
+      "datum": "2026-08-24T09:39:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608240931",
+      "datum": "2026-08-24T09:31:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Polish Zloty: Budget risks point to further weakness versus Euro - Societe Generale",
+      "link": "https://www.fxstreet.com/news/polish-zloty-budget-risks-point-to-further-weakness-versus-euro-societe-generale-202608240927",
+      "datum": "2026-08-24T09:27:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Hungarian Forint: Rate path extends beyond summer – ING",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-rate-path-extends-beyond-summer-ing-202608240916",
+      "datum": "2026-08-24T09:16:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro holds near three-month highs as investors await US sanctions to Iran",
+      "link": "https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-investors-await-us-sanctions-to-iran-202608240915",
+      "datum": "2026-08-24T09:15:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-recovering-usd-seems-vulnerable-amid-us-japan-rate-gap-202608240909",
+      "datum": "2026-08-24T09:09:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Warsh speech shapes Dollar and Treasuries – BNY",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-speech-shapes-dollar-and-treasuries-bny-202608240907",
+      "datum": "2026-08-24T09:07:34.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -37,58 +85,10 @@
       "datum": "2026-08-24T04:18:10.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee strengthens due to strong capital inflows, RBI support",
-      "link": "https://www.fxstreet.com/news/indian-rupee-strengthens-due-to-strong-capital-inflows-rbi-support-202608240412",
-      "datum": "2026-08-24T04:12:40.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Gold hit a three month high",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-hit-a-three-month-high/",
       "datum": "2026-08-24T03:29:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD holds bullish below $70.00/two-month high set on Friday",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-bullish-below-7000-two-month-high-set-on-friday-202608240254",
-      "datum": "2026-08-24T02:54:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index softens below 99.00 on US fiscal concerns",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-softens-below-9900-on-us-fiscal-concerns-202608240248",
-      "datum": "2026-08-24T02:48:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen advances on BoJ rate hike bets, subdued US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-advances-on-boj-rate-hike-bets-subdued-us-dollar-202608240228",
-      "datum": "2026-08-24T02:28:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar bears seem hesitant as weak USD counters US-Canada trade war",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bears-seem-hesitant-as-weak-usd-counters-us-canada-trade-war-202608240203",
-      "datum": "2026-08-24T02:03:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold gains momentum above $4,600 on US Treasury buyback plans",
-      "link": "https://www.fxstreet.com/news/gold-gains-momentum-above-4-600-on-us-treasury-buyback-plans-202608240140",
-      "datum": "2026-08-24T01:40:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI slips below $85.00 as traders take profits before new US sanctions on Iran",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-8500-as-traders-take-profits-before-new-us-sanctions-on-iran-202608240130",
-      "datum": "2026-08-24T01:30:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-near-feb-11-highs-vs-weak-usd-as-bulls-await-breakout-above-13660-202608240116",
-      "datum": "2026-08-24T01:16:31.000Z"
     },
     {
       "quelle": "ForexLive",

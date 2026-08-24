@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-24T05:09:32.494Z",
+  "stand": "2026-08-24T10:29:48.929Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -4,
-      "tiltZins": -2,
-      "tiltGesamt": -6,
-      "score": 0,
+      "tiltZins": -3,
+      "tiltGesamt": -7,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
     },
@@ -47,9 +47,9 @@
       "paar": "USD/CAD",
       "baseScore": -6,
       "tiltCot": 5,
-      "tiltZins": -1,
-      "tiltGesamt": 4,
-      "score": -2,
+      "tiltZins": 2,
+      "tiltGesamt": 7,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Dollar-Schwäche + festes Öl (+3 % Wo) + heißere Kanada-Schlagzeilen-Inflation (härtet BoC-Halten-plus-Warnung) sprechen für den Loonie (Paar runter). GROSSE Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig heftig gegen den Trend zünden."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 2,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -5,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und leichtes Risk-off bremsen; Großspekulanten stark short."
     }

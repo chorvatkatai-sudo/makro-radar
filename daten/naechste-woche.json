@@ -184,7 +184,7 @@
     "country": "AUD",
     "title": "S&P Global Manufacturing PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52",
     "previous": "52",
     "actual": null,
     "quelle": "tradingview"
@@ -214,7 +214,7 @@
     "country": "JPY",
     "title": "S&P Global Manufacturing PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "55.1",
     "previous": "54.5",
     "actual": null,
     "quelle": "tradingview"
@@ -1084,7 +1084,7 @@
     "country": "AUD",
     "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52.9",
     "previous": "53.6",
     "actual": null,
     "quelle": "tradingview"
@@ -1094,7 +1094,7 @@
     "country": "AUD",
     "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52.5",
     "previous": "53.2",
     "actual": null,
     "quelle": "tradingview"
@@ -1124,7 +1124,7 @@
     "country": "JPY",
     "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52.3",
     "previous": "51.2",
     "actual": null,
     "quelle": "tradingview"
@@ -1134,7 +1134,7 @@
     "country": "JPY",
     "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "53.4",
     "previous": "52.7",
     "actual": null,
     "quelle": "tradingview"
@@ -1464,7 +1464,7 @@
     "country": "USD",
     "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "56.8",
     "previous": "54.6",
     "actual": null,
     "quelle": "tradingview"
@@ -1474,7 +1474,7 @@
     "country": "USD",
     "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "56",
     "previous": "54.5",
     "actual": null,
     "quelle": "tradingview"

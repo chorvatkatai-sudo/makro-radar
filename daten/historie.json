@@ -9826,7 +9826,7 @@
       "land": "EUR",
       "titel": "German ifo Business Climate",
       "impact": "Low",
-      "prognose": "87.3",
+      "prognose": "87.2",
       "vorher": "86.6",
       "actual": null,
       "notiz": null
@@ -9866,7 +9866,7 @@
       "land": "USD",
       "titel": "S&P/CS Composite-20 HPI y/y",
       "impact": "Low",
-      "prognose": "1.9%",
+      "prognose": "1.8%",
       "vorher": "1.6%",
       "actual": null,
       "notiz": null
@@ -9896,7 +9896,7 @@
       "land": "USD",
       "titel": "Richmond Manufacturing Index",
       "impact": "Low",
-      "prognose": "7",
+      "prognose": "6",
       "vorher": "5",
       "actual": null,
       "notiz": null
@@ -10406,6 +10406,46 @@
       "land": "All",
       "titel": "Jackson Hole Symposium",
       "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-24T13:00:00-04:00|USD|Treasury Sec Bessent Speaks": {
+      "datum": "2026-08-24T13:00:00-04:00",
+      "land": "USD",
+      "titel": "Treasury Sec Bessent Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-25T08:30:00-04:00|USD|FOMC Member Barkin Speaks": {
+      "datum": "2026-08-25T08:30:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Barkin Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-25T16:00:00-04:00|USD|FOMC Member Barkin Speaks": {
+      "datum": "2026-08-25T16:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Barkin Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-08-26T11:45:00-04:00|USD|FOMC Member Barkin Speaks": {
+      "datum": "2026-08-26T11:45:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Barkin Speaks",
+      "impact": "Low",
       "prognose": "",
       "vorher": "",
       "actual": null,

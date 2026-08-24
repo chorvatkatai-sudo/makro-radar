@@ -1,11 +1,53 @@
 {
-  "stand": "2026-08-24T15:31:17.443Z",
+  "stand": "2026-08-24T16:26:23.035Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "The Treasury bids and offers the Dow Jones Industrial Average",
+      "link": "https://www.fxstreet.com/news/the-treasury-bids-and-offers-the-dow-jones-industrial-average-202608241614",
+      "datum": "2026-08-24T16:14:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds firm as the US sanctions on Iran loom",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-the-us-sanctions-on-iran-loom-202608241613",
+      "datum": "2026-08-24T16:13:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Growth rebound overshadowed by trade war – BBH",
+      "link": "https://www.fxstreet.com/news/canada-growth-rebound-overshadowed-by-trade-war-bbh-202608241611",
+      "datum": "2026-08-24T16:11:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar retreats from recent highs on weak Retail Sales",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-from-recent-highs-on-weak-retail-sales-202608241552",
+      "datum": "2026-08-24T15:52:49.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US set to impose a 7.5% tariff on Chinese goods - report",
+      "link": "https://investinglive.com/news/us-set-to-impose-a-7-5-tariff-on-chinese-goods-report/",
+      "datum": "2026-08-24T15:50:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar pulls back near multi-month highs as traders await RBA Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-pulls-back-near-multi-month-highs-as-traders-await-rba-minutes-202608241543",
+      "datum": "2026-08-24T15:43:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: 100-day SMA caps upside near $85",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-100-day-sma-caps-upside-near-85-202608241541",
+      "datum": "2026-08-24T15:41:44.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "British Pound: Sentiment supports further gains against US Dollar – Scotiabank",
@@ -35,42 +77,6 @@
       "titel": "Canadian Dollar: Trade shock weighs against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/canadian-dollar-trade-shock-weighs-against-us-dollar-scotiabank-202608241444",
       "datum": "2026-08-24T14:44:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Jackson Hole communication focus – Wells Fargo",
-      "link": "https://www.fxstreet.com/news/federal-reserve-jackson-hole-communication-focus-wells-fargo-202608241433",
-      "datum": "2026-08-24T14:33:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Canada: Rates seen on hold then higher – TD Securities",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-seen-on-hold-then-higher-td-securities-202608241421",
-      "datum": "2026-08-24T14:21:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US President Trump announces tariffs on Canadian autos, trucks and steel",
-      "link": "https://www.fxstreet.com/news/us-president-trump-announces-tariffs-on-canadian-autos-trucks-and-steel-202608241413",
-      "datum": "2026-08-24T14:13:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Weakness may stabilize as US growth advantage persists - BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-weakness-may-stabilize-as-us-growth-advantage-persists-bbh-202608241411",
-      "datum": "2026-08-24T14:11:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar slides as Trump escalates trade war with Canada",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-trump-escalates-trade-war-with-canada-202608241403",
-      "datum": "2026-08-24T14:03:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Rally vulnerable to reversal against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-rally-vulnerable-to-reversal-against-us-dollar-scotiabank-202608241355",
-      "datum": "2026-08-24T13:55:57.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "New Zealand Q2 retail sales have slowed much worse than expected",
       "link": "https://investinglive.com/news/new-zealand-q2-retail-sales-have-slowed-much-worse-than-expected/",
       "datum": "2026-08-23T22:50:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Retail sales data due from New Zealand imminently",
-      "link": "https://investinglive.com/news/retail-sales-data-due-from-new-zealand-imminently/",
-      "datum": "2026-08-23T22:38:20.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-24T16:26:23.037Z",
+  "stand": "2026-08-24T17:23:42.285Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -3,
       "tiltCot": -3,
-      "tiltZins": -3,
-      "tiltGesamt": -6,
-      "score": -9,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -8,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
     },

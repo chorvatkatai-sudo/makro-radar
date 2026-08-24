@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-24T16:26:23.035Z",
+  "stand": "2026-08-24T17:23:42.284Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,13 +8,19 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "The Dollar Index takes its orders from the Treasury",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-orders-from-the-treasury-202608241647",
+      "datum": "2026-08-24T16:47:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "The Treasury bids and offers the Dow Jones Industrial Average",
       "link": "https://www.fxstreet.com/news/the-treasury-bids-and-offers-the-dow-jones-industrial-average-202608241614",
       "datum": "2026-08-24T16:14:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound holds firm as the US sanctions on Iran loom",
+      "titel": "British Pound holds firm as US sanctions on Iran loom",
       "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-the-us-sanctions-on-iran-loom-202608241613",
       "datum": "2026-08-24T16:13:06.000Z"
     },
@@ -71,12 +77,6 @@
       "titel": "Japanese Yen slips as US Dollar stabilizes, US PCE in focus",
       "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-us-dollar-stabilizes-us-pce-in-focus-202608241451",
       "datum": "2026-08-24T14:51:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Trade shock weighs against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-shock-weighs-against-us-dollar-scotiabank-202608241444",
-      "datum": "2026-08-24T14:44:33.000Z"
     },
     {
       "quelle": "ForexLive",

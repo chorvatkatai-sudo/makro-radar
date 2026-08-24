@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-24T16:26:23.038Z",
+ "erstellt": "2026-08-24T17:23:42.285Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -205,7 +205,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "date": "2026-08-25T21:30:00-04:00",
    "impact": "High",
-   "forecast": "0.3%",
+   "forecast": "0.4%",
    "previous": "0.3%",
    "actual": null
   },
@@ -3233,15 +3233,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-24T16:26:22.501Z",
+  "stand": "2026-08-24T17:23:41.759Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.97,
+    "wert": 99,
     "tagProzent": 0,
-    "wocheProzent": -0.68,
+    "wocheProzent": -0.66,
     "renditeDelta": false,
     "verlauf": [
      101.51,
@@ -3264,17 +3264,17 @@ window.MAKRO_DATA = {
      98.83,
      98.9,
      98.8,
-     98.97,
-     98.97
+     99,
+     99
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.72,
+    "wert": 15.65,
     "tagProzent": 0,
-    "wocheProzent": -0.76,
+    "wocheProzent": -1.2,
     "renditeDelta": false,
     "verlauf": [
      18.67,
@@ -3297,17 +3297,17 @@ window.MAKRO_DATA = {
      14.89,
      16.01,
      15.13,
-     15.72,
-     15.72
+     15.65,
+     15.65
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.1,
+    "wert": 84.96,
     "tagProzent": 0,
-    "wocheProzent": 0.19,
+    "wocheProzent": 0.02,
     "renditeDelta": false,
     "verlauf": [
      82.61,
@@ -3330,17 +3330,17 @@ window.MAKRO_DATA = {
      85.83,
      87.83,
      87.06,
-     85.1,
-     85.1
+     84.96,
+     84.96
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 92.53,
+    "wert": 92.2,
     "tagProzent": 0,
-    "wocheProzent": 1.66,
+    "wocheProzent": 1.3,
     "renditeDelta": false,
     "verlauf": [
      88.36,
@@ -3363,17 +3363,17 @@ window.MAKRO_DATA = {
      91.62,
      93.78,
      94.39,
-     92.53,
-     92.53
+     92.2,
+     92.2
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4713.8,
+    "wert": 4711.2,
     "tagProzent": 0,
-    "wocheProzent": 7.97,
+    "wocheProzent": 7.91,
     "renditeDelta": false,
     "verlauf": [
      4074.5,
@@ -3396,8 +3396,8 @@ window.MAKRO_DATA = {
      4489.4,
      4516.3,
      4624.1,
-     4713.8,
-     4713.8
+     4711.2,
+     4711.2
     ]
    },
    "US02Y": {
@@ -3437,9 +3437,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.692,
+    "wert": 4.69,
     "tagProzent": 0,
-    "wocheProzent": -0.01,
+    "wocheProzent": -0.02,
     "renditeDelta": true,
     "verlauf": [
      4.641,
@@ -3462,17 +3462,17 @@ window.MAKRO_DATA = {
      4.653,
      4.696,
      4.738,
-     4.692,
-     4.692
+     4.69,
+     4.69
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.221,
+    "wert": 5.214,
     "tagProzent": 0,
-    "wocheProzent": -0.06,
+    "wocheProzent": -0.07,
     "renditeDelta": true,
     "verlauf": [
      5.125,
@@ -3495,17 +3495,17 @@ window.MAKRO_DATA = {
      5.194,
      5.237,
      5.276,
-     5.221,
-     5.221
+     5.214,
+     5.214
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 79687.16,
+    "wert": 78563.27,
     "tagProzent": 0,
-    "wocheProzent": 9.11,
+    "wocheProzent": 7.57,
     "renditeDelta": false,
     "verlauf": [
      64055.95,
@@ -3528,8 +3528,8 @@ window.MAKRO_DATA = {
      78335.19,
      77083.41,
      77755.27,
-     79687.16,
-     79687.16
+     78563.27,
+     78563.27
     ]
    },
    "FEDFUT": {
@@ -3729,32 +3729,32 @@ window.MAKRO_DATA = {
    "stand": "2026-08-24",
    "werte": {
     "USD": {
-     "wert": 4.236,
-     "wocheDelta": 0.067
+     "wert": 4.234,
+     "wocheDelta": 0.065
     },
     "EUR": {
-     "wert": 2.854,
-     "wocheDelta": 0.059
+     "wert": 2.853,
+     "wocheDelta": 0.058
     },
     "GBP": {
-     "wert": 4.378,
-     "wocheDelta": 0.009
+     "wert": 4.383,
+     "wocheDelta": 0.014
     },
     "JPY": {
      "wert": 1.677,
      "wocheDelta": 0.016
     },
     "AUD": {
-     "wert": 4.568,
-     "wocheDelta": -0.013
+     "wert": 4.592,
+     "wocheDelta": 0.011
     },
     "CAD": {
      "wert": 2.939,
      "wocheDelta": -0.013
     },
     "CHF": {
-     "wert": 0.082,
-     "wocheDelta": -0.005
+     "wert": 0.077,
+     "wocheDelta": -0.01
     },
     "NZD": {
      "wert": 3.588,
@@ -3805,9 +3805,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": -3,
    "tiltCot": -3,
-   "tiltZins": -3,
-   "tiltGesamt": -6,
-   "score": -9,
+   "tiltZins": -2,
+   "tiltGesamt": -5,
+   "score": -8,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
   },
@@ -3844,7 +3844,7 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-24T16:26:23.035Z",
+  "stand": "2026-08-24T17:23:42.284Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -3853,13 +3853,19 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
+    "titel": "The Dollar Index takes its orders from the Treasury",
+    "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-orders-from-the-treasury-202608241647",
+    "datum": "2026-08-24T16:47:19.000Z"
+   },
+   {
+    "quelle": "FXStreet",
     "titel": "The Treasury bids and offers the Dow Jones Industrial Average",
     "link": "https://www.fxstreet.com/news/the-treasury-bids-and-offers-the-dow-jones-industrial-average-202608241614",
     "datum": "2026-08-24T16:14:16.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "British Pound holds firm as the US sanctions on Iran loom",
+    "titel": "British Pound holds firm as US sanctions on Iran loom",
     "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-the-us-sanctions-on-iran-loom-202608241613",
     "datum": "2026-08-24T16:13:06.000Z"
    },
@@ -3916,12 +3922,6 @@ window.MAKRO_DATA = {
     "titel": "Japanese Yen slips as US Dollar stabilizes, US PCE in focus",
     "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-us-dollar-stabilizes-us-pce-in-focus-202608241451",
     "datum": "2026-08-24T14:51:35.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar: Trade shock weighs against US Dollar – Scotiabank",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-trade-shock-weighs-against-us-dollar-scotiabank-202608241444",
-    "datum": "2026-08-24T14:44:33.000Z"
    },
    {
     "quelle": "ForexLive",

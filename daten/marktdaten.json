@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-24T04:39:21.786Z",
+  "stand": "2026-08-24T05:09:32.072Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
@@ -7,7 +7,7 @@
       "typ": "index",
       "wert": 98.82,
       "tagProzent": 0,
-      "wocheProzent": -0.83,
+      "wocheProzent": -0.84,
       "renditeDelta": false,
       "verlauf": [
         101.51,
@@ -137,9 +137,9 @@
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4695.6,
+      "wert": 4693.9,
       "tagProzent": 0,
-      "wocheProzent": 7.55,
+      "wocheProzent": 7.51,
       "renditeDelta": false,
       "verlauf": [
         4074.5,
@@ -162,8 +162,8 @@
         4489.4,
         4516.3,
         4624.1,
-        4695.6,
-        4695.6
+        4693.9,
+        4693.9
       ]
     },
     "US02Y": {
@@ -269,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 77146.58,
+      "wert": 77010.89,
       "tagProzent": 0,
-      "wocheProzent": 11.38,
+      "wocheProzent": 11.18,
       "renditeDelta": false,
       "verlauf": [
         63460.9,
@@ -294,8 +294,8 @@
         73032.76,
         78335.19,
         77083.41,
-        77146.58,
-        77146.58
+        77010.89,
+        77010.89
       ]
     },
     "FEDFUT": {
@@ -303,11 +303,10 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 3.73,
-      "tagProzent": 0.1,
+      "tagProzent": 0,
       "wocheProzent": 0.1,
       "renditeDelta": true,
       "verlauf": [
-        3.63,
         3.64,
         3.63,
         3.63,
@@ -328,6 +327,7 @@
         3.63,
         3.63,
         3.63,
+        3.73,
         3.73
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -507,12 +507,12 @@
         "wocheDelta": -0.001
       },
       "JPY": {
-        "wert": 1.675,
-        "wocheDelta": 0.014
+        "wert": 1.673,
+        "wocheDelta": 0.012
       },
       "AUD": {
-        "wert": 4.572,
-        "wocheDelta": -0.009
+        "wert": 4.571,
+        "wocheDelta": -0.01
       },
       "CAD": {
         "wert": 3.042,

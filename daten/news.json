@@ -1,11 +1,29 @@
 {
-  "stand": "2026-08-24T04:39:22.217Z",
+  "stand": "2026-08-24T05:09:32.493Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc advances as Dollar slides on US bond buyback surge",
+      "link": "https://www.fxstreet.com/news/swiss-franc-advances-as-dollar-slides-on-us-bond-buyback-surge-202608240445",
+      "datum": "2026-08-24T04:45:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-to-near-18550-but-maintaining-constructive-bias-above-100-day-sma-202608240445",
+      "datum": "2026-08-24T04:45:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+      "link": "https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444",
+      "datum": "2026-08-24T04:44:26.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "India Gold price today: Gold rises, according to FXStreet data",
@@ -71,24 +89,6 @@
       "titel": "British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660",
       "link": "https://www.fxstreet.com/news/british-pound-holds-near-feb-11-highs-vs-weak-usd-as-bulls-await-breakout-above-13660-202608240116",
       "datum": "2026-08-24T01:16:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "PBOC sets USD/CNY reference rate at 6.7841 vs. 6.7817 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67841-vs-67817-previous-202608240115",
-      "datum": "2026-08-24T01:15:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds steady against US Dollar amid US debt strategy",
-      "link": "https://www.fxstreet.com/news/euro-holds-steady-against-us-dollar-amid-us-debt-strategy-202608240055",
-      "datum": "2026-08-24T00:55:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada’s Carney: Retaliatory tariffs will start September 8",
-      "link": "https://www.fxstreet.com/news/canadas-carney-retaliatory-tariffs-will-start-september-8-202608240047",
-      "datum": "2026-08-24T00:47:43.000Z"
     },
     {
       "quelle": "ForexLive",

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-24T05:08:53.724Z",
+ "erstellt": "2026-08-24T05:09:32.495Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -3206,7 +3206,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-24T04:39:21.786Z",
+  "stand": "2026-08-24T05:09:32.072Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3214,7 +3214,7 @@ window.MAKRO_DATA = {
     "typ": "index",
     "wert": 98.82,
     "tagProzent": 0,
-    "wocheProzent": -0.83,
+    "wocheProzent": -0.84,
     "renditeDelta": false,
     "verlauf": [
      101.51,
@@ -3344,9 +3344,9 @@ window.MAKRO_DATA = {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4695.6,
+    "wert": 4693.9,
     "tagProzent": 0,
-    "wocheProzent": 7.55,
+    "wocheProzent": 7.51,
     "renditeDelta": false,
     "verlauf": [
      4074.5,
@@ -3369,8 +3369,8 @@ window.MAKRO_DATA = {
      4489.4,
      4516.3,
      4624.1,
-     4695.6,
-     4695.6
+     4693.9,
+     4693.9
     ]
    },
    "US02Y": {
@@ -3476,9 +3476,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 77146.58,
+    "wert": 77010.89,
     "tagProzent": 0,
-    "wocheProzent": 11.38,
+    "wocheProzent": 11.18,
     "renditeDelta": false,
     "verlauf": [
      63460.9,
@@ -3501,8 +3501,8 @@ window.MAKRO_DATA = {
      73032.76,
      78335.19,
      77083.41,
-     77146.58,
-     77146.58
+     77010.89,
+     77010.89
     ]
    },
    "FEDFUT": {
@@ -3510,11 +3510,10 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.73,
-    "tagProzent": 0.1,
+    "tagProzent": 0,
     "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
-     3.63,
      3.64,
      3.63,
      3.63,
@@ -3535,6 +3534,7 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
+     3.73,
      3.73
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -3714,12 +3714,12 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.001
     },
     "JPY": {
-     "wert": 1.675,
-     "wocheDelta": 0.014
+     "wert": 1.673,
+     "wocheDelta": 0.012
     },
     "AUD": {
-     "wert": 4.572,
-     "wocheDelta": -0.009
+     "wert": 4.571,
+     "wocheDelta": -0.01
     },
     "CAD": {
      "wert": 3.042,
@@ -3817,13 +3817,31 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-24T04:39:22.217Z",
+  "stand": "2026-08-24T05:09:32.493Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Swiss Franc advances as Dollar slides on US bond buyback surge",
+    "link": "https://www.fxstreet.com/news/swiss-franc-advances-as-dollar-slides-on-us-bond-buyback-surge-202608240445",
+    "datum": "2026-08-24T04:45:53.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
+    "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-to-near-18550-but-maintaining-constructive-bias-above-100-day-sma-202608240445",
+    "datum": "2026-08-24T04:45:43.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+    "link": "https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444",
+    "datum": "2026-08-24T04:44:26.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "India Gold price today: Gold rises, according to FXStreet data",
@@ -3889,24 +3907,6 @@ window.MAKRO_DATA = {
     "titel": "British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660",
     "link": "https://www.fxstreet.com/news/british-pound-holds-near-feb-11-highs-vs-weak-usd-as-bulls-await-breakout-above-13660-202608240116",
     "datum": "2026-08-24T01:16:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "PBOC sets USD/CNY reference rate at 6.7841 vs. 6.7817 previous",
-    "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67841-vs-67817-previous-202608240115",
-    "datum": "2026-08-24T01:15:38.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro holds steady against US Dollar amid US debt strategy",
-    "link": "https://www.fxstreet.com/news/euro-holds-steady-against-us-dollar-amid-us-debt-strategy-202608240055",
-    "datum": "2026-08-24T00:55:49.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canada’s Carney: Retaliatory tariffs will start September 8",
-    "link": "https://www.fxstreet.com/news/canadas-carney-retaliatory-tariffs-will-start-september-8-202608240047",
-    "datum": "2026-08-24T00:47:43.000Z"
    },
    {
     "quelle": "ForexLive",

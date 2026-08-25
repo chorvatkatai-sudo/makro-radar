@@ -1,11 +1,17 @@
 {
-  "stand": "2026-08-25T12:32:05.417Z",
+  "stand": "2026-08-25T12:37:35.881Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: RBA risks and carry support – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-risks-and-carry-support-bbh-202608251234",
+      "datum": "2026-08-25T12:34:53.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "British Pound: Range trading outlook against Euro – Rabobank",
@@ -74,13 +80,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Recovery against US Dollar supported by data – BBH",
-      "link": "https://www.fxstreet.com/news/euro-recovery-against-us-dollar-supported-by-data-bbh-202608251117",
-      "datum": "2026-08-25T11:17:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold pauses near three-month high after sharp rally",
+      "titel": "Gold takes a breather after climbing to a three-month high",
       "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
       "datum": "2026-08-25T11:09:01.000Z"
     },

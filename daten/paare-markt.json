@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T12:37:35.882Z",
+  "stand": "2026-08-25T13:41:38.649Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -6,
       "tiltCot": 3,
-      "tiltZins": 1,
-      "tiltGesamt": 4,
-      "score": -2,
+      "tiltZins": 0,
+      "tiltGesamt": 3,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
     },

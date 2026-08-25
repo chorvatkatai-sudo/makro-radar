@@ -1,11 +1,53 @@
 {
-  "stand": "2026-08-25T12:37:35.881Z",
+  "stand": "2026-08-25T13:41:38.648Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro stays near three-month high as US Dollar remains subdued",
+      "link": "https://www.fxstreet.com/news/euro-stays-near-three-month-high-as-us-dollar-remains-subdued-202608251335",
+      "datum": "2026-08-25T13:35:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Trading near fair value against US Dollar - Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trading-near-fair-value-against-us-dollar-scotiabank-202608251334",
+      "datum": "2026-08-25T13:34:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Bond market supports cautious consolidation – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-bond-market-supports-cautious-consolidation-ing-202608251314",
+      "datum": "2026-08-25T13:14:32.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US June CaseShiller 20-city home price index +2.1% y/y vs +1.7% expected",
+      "link": "https://investinglive.com/news/us-june-caseshiller-20-city-home-price-index-2-1-y-y-vs-1-7-expected/",
+      "datum": "2026-08-25T13:00:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Tariff conflict fuels safe haven bid – Commerzbank",
+      "link": "https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250",
+      "datum": "2026-08-25T12:50:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar defies stronger US Dollar as RBNZ rate hike bets offer support",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-defies-stronger-us-dollar-as-rbnz-rate-hike-bets-offer-support-202608251241",
+      "datum": "2026-08-25T12:41:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada July flash wholesale trade -0.6%",
+      "link": "https://investinglive.com/news/canada-july-flash-wholesale-trade-0-6/",
+      "datum": "2026-08-25T12:39:56.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Australian Dollar: RBA risks and carry support – BBH",
@@ -43,40 +85,10 @@
       "datum": "2026-08-25T11:54:47.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen under pressure as geopolitical risks support the US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-under-pressure-as-geopolitical-risks-support-the-us-dollar-202608251150",
-      "datum": "2026-08-25T11:50:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Chinese demand peak shifts market balance – Commerzbank",
-      "link": "https://www.fxstreet.com/news/oil-chinese-demand-peak-shifts-market-balance-commerzbank-202608251145",
-      "datum": "2026-08-25T11:45:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI plummets to near $82 as US economic pressure on Iran seems less risky",
-      "link": "https://www.fxstreet.com/news/wti-plummets-to-near-82-as-us-economic-pressure-on-iran-seems-less-risky-202608251136",
-      "datum": "2026-08-25T11:36:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound hovers near six-month highs with investors awaiting key US events",
-      "link": "https://www.fxstreet.com/news/british-pound-hovers-near-six-month-highs-with-investors-awaiting-key-us-events-202608251135",
-      "datum": "2026-08-25T11:35:13.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European news wrap: Risk sentiment improves on hopes of US-Iran breakthrough",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-on-hopes-of-us-iran-breakthrough/",
       "datum": "2026-08-25T11:34:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Strength intact with 0.7200 in focus against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strength-intact-with-07200-in-focus-against-us-dollar-uob-202608251127",
-      "datum": "2026-08-25T11:27:21.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -101,18 +113,6 @@
       "titel": "France August consumer confidence 86 vs 87 expected",
       "link": "https://investinglive.com/news/france-august-consumer-confidence-xx-vs-87-expected/",
       "datum": "2026-08-25T06:45:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany Q2 final GDP +0.3% vs +0.2% q/q prelim",
-      "link": "https://investinglive.com/news/germany-q2-final-gdp-xx-vs-0-2-q-q-prelim/",
-      "datum": "2026-08-25T06:00:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-27/",
-      "datum": "2026-08-25T04:15:59.000Z"
     }
   ]
 }

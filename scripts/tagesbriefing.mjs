@@ -194,7 +194,15 @@ if (paare.length) {
     const sc = p.score || 0;
     fuss.push(`${ampel(sc)} ${p.paar}  ${prozent(sc)} ${label(sc)}${staerke(sc)}`);
   }
-  fuss.push("50% = neutral · % = wie klar die Daten in eine Richtung zeigen");
+  fuss.push("50% = neutral · % = meine Überzeugung, KEINE gemessene Wahrscheinlichkeit");
+  // Gemessene Trefferquote der Signalstärke danebenstellen (sonst wirken die %
+  // präziser, als sie sind). Stufen wie in der Kalibrierung des Build-Skripts.
+  const kal = quote?.kalibrierung;
+  if (kal) {
+    const gemessen = ["schwach", "mittel", "stark"].filter(s => kal[s]?.gesamt)
+      .map(s => `${s} ${kal[s].quote}%`);
+    if (gemessen.length) fuss.push(`⚖️ Tatsächlich getroffen bisher: ${gemessen.join(" · ")}`);
+  }
 }
 fuss.push("");
 fuss.push("📲 Details & Einzel-Signale laufen separat ein. Volles Dashboard:");

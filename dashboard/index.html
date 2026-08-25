@@ -810,6 +810,22 @@ if (B) {
     return `<div class="paar-track ${konfKlasse(s.konfidenz)}">📊 Treffer-Quote dieses Paars: <b>${s.quote}%</b> (${s.treffer}/${s.gesamt} Woche${s.gesamt > 1 ? "n" : ""}${zusatz})</div>`;
   };
 
+  // EHRLICHKEIT (Session 10): Die %-Zahl ist eine umskalierte Überzeugung
+  // (50 + score/2) — KEINE gemessene Wahrscheinlichkeit. Wer sie dafür hält,
+  // wird systematisch zu selbstbewusst. Deshalb die tatsächliche Trefferquote
+  // der jeweiligen Signalstärke direkt danebenstellen.
+  const KAL = D.prognoseQuote?.kalibrierung || {};
+  const kalibrierZeile = score => {
+    const mag = Math.abs(score || 0);
+    if (!mag) return "";
+    const stufe = mag <= 25 ? "schwach" : mag <= 50 ? "mittel" : "stark";
+    const b = KAL[stufe];
+    if (!b || !b.gesamt) return `<div class="paar-track neu">⚖️ Die % oben sind meine Überzeugung, keine gemessene Wahrscheinlichkeit — für diese Signalstärke gibt es noch keine Auswertung.</div>`;
+    const duenn = b.gesamt < 15 ? " · dünne Stichprobe" : "";
+    const klasse = b.quote >= 55 ? "gut" : b.quote <= 45 ? "schlecht" : "neutral";
+    return `<div class="paar-track ${klasse}">⚖️ Die % oben sind meine Überzeugung, keine Wahrscheinlichkeit — Signale dieser Stärke (${stufe}) trafen bisher in <b>${b.quote}%</b> der Fälle (${b.treffer}/${b.gesamt})${duenn}.</div>`;
+  };
+
   document.getElementById("sec-paare").style.display = "";
   document.getElementById("paare").innerHTML = paarliste.map(p => {
     const bullPct = Math.max(0, Math.min(100, Math.round(50 + p.score / 2)));
@@ -831,6 +847,7 @@ if (B) {
         <div class="paar-skala"><span>${bearPct}% bärisch</span><span>${bullPct}% bullisch</span></div>
         ${p.treiber ? `<div class="paar-treiber">${esc(p.treiber)}</div>` : ""}
         ${tiltZeile(p)}
+        ${kalibrierZeile(p.score)}
         ${trackZeile(p.paar)}
       </div>
     </div>`;

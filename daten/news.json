@@ -1,11 +1,59 @@
 {
-  "stand": "2026-08-25T17:24:13.303Z",
+  "stand": "2026-08-25T19:17:42.141Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "The US Dollar Index stops paying for hawks who cannot vote",
+      "link": "https://www.fxstreet.com/news/the-us-dollar-index-stops-paying-for-hawks-who-cannot-vote-202608251853",
+      "datum": "2026-08-25T18:53:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar stays on the back foot ahead of PCE",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-stays-on-the-back-foot-ahead-of-pce-202608251843",
+      "datum": "2026-08-25T18:43:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Upside momentum eases against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-momentum-eases-against-us-dollar-uob-202608251839",
+      "datum": "2026-08-25T18:39:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-100-day-sma-eyes-70-202608251831",
+      "datum": "2026-08-25T18:31:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold pulls back from $4,700 as Hormuz hopes cool haven demand",
+      "link": "https://www.fxstreet.com/news/gold-pulls-back-from-4-700-as-hormuz-hopes-cool-haven-demand-202608251814",
+      "datum": "2026-08-25T18:14:14.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+      "datum": "2026-08-25T18:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CAD Price Forecast: Bearish indicators keep the path tilted lower",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756",
+      "datum": "2026-08-25T17:56:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro remains flat with Sterling despite upbeat German data",
+      "link": "https://www.fxstreet.com/news/euro-remains-flat-with-sterling-despite-upbeat-german-data-202608251739",
+      "datum": "2026-08-25T17:39:11.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Japanese Yen remains vulnerable despite softer Greenback",
@@ -49,52 +97,10 @@
       "datum": "2026-08-25T16:34:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar faces double trouble from Oil slump, US tariffs",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-faces-double-trouble-from-oil-slump-us-tariffs-202608251622",
-      "datum": "2026-08-25T16:22:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Germany: Business climate brightens – Commerzbank",
-      "link": "https://www.fxstreet.com/news/germany-business-climate-brightens-commerzbank-202608251618",
-      "datum": "2026-08-25T16:18:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound holds near six-month high as Hormuz hopes lift sentiment",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-near-six-month-high-as-hormuz-hopes-lift-sentiment-202608251605",
-      "datum": "2026-08-25T16:05:02.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Iran and Oman propose a joint temporary shipping lane",
       "link": "https://investinglive.com/news/iran-and-oman-propose-a-joint-temporary-shipping-lane/",
       "datum": "2026-08-25T15:40:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Eurozone: AfD surge raises policy uncertainty – ING",
-      "link": "https://www.fxstreet.com/news/eurozone-afd-surge-raises-policy-uncertainty-ing-202608251522",
-      "datum": "2026-08-25T15:22:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar up modestly on RBA, weak USD",
-      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-after-hawkish-rba-minutes-as-soft-us-dollar-lends-support-202608251520",
-      "datum": "2026-08-25T15:20:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Range-bound against US Dollar ahead of Budget – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-ahead-of-budget-scotiabank-202608251508",
-      "datum": "2026-08-25T15:08:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US President Trump: US Navy has cleared Strait of Hormuz mines",
-      "link": "https://www.fxstreet.com/news/us-president-trump-us-navy-has-cleared-strait-of-hormuz-mines-202608251506",
-      "datum": "2026-08-25T15:06:58.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "US Conference Board August consumer confidence 89.4 vs 90.2 expected",
       "link": "https://investinglive.com/news/us-conference-board-august-consumer-confidence-89-4-vs-90-2-expected/",
       "datum": "2026-08-25T14:00:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US New home sales for July 0.607M vs 0.620M estimate",
-      "link": "https://investinglive.com/news/us-new-home-sales-for-july-0-607m-vs-0-620m-estimate/",
-      "datum": "2026-08-25T14:00:11.000Z"
     }
   ]
 }

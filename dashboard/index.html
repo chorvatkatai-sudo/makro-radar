@@ -879,11 +879,22 @@ if (B) {
           .map(k => `${labels[k]}: <b>${K[k].quote}%</b> (${K[k].treffer}/${K[k].gesamt})`);
         if (teile.length) box.innerHTML += `<div style="margin-top:8px;font-size:12.5px;color:var(--faint)">📐 Verlässlichkeit nach Signalstärke — ${teile.join(" · ")}${Q.wochenAusgewertet < 4 ? " · noch dünn" : ""}</div>`;
       }
+      // Ehrlichkeits-Zeile: Die 7 Paare sind alle Dollar-Wetten. Zeigen sie in dieselbe
+      // Richtung, ist die Woche EINE Wette — die x/67 täuschen sonst eine Stichprobe vor.
+      const WW = Q.wochenWette;
+      if (WW?.gesamt) {
+        const band = WW.zufallsband ? `Eine Münze träfe hier in 95 % der Fälle ${WW.zufallsband[0]}–${WW.zufallsband[1]} mal` : "";
+        const urteil = WW.vomZufallUnterscheidbar
+          ? "<b>unterscheidet sich vom Zufall</b>"
+          : "liegt also <b>noch im Zufallsbereich</b>";
+        box.innerHTML += `<div style="margin-top:6px;font-size:12.5px;color:var(--faint)">🎲 Ehrlich gerechnet: Im Schnitt zeigen <b>${WW.konzentration} %</b> der Paare in dieselbe Dollar-Richtung — das sind faktisch <b>${WW.gesamt}</b> Wochen-Wetten, nicht ${Q.gesamt} einzelne. Davon <b>${WW.treffer}</b> richtig (${WW.quote} %). ${band} — das Ergebnis ${urteil}.</div>`;
+      }
       // Bringt die Markt-Korrektur (COT/Zinsen) etwas? Endscore vs. reiner Makro-Score.
       const OV = Q.overlayVergleich;
       if (OV?.mitOverlay?.gesamt) {
         const diff = OV.mitOverlay.quote - OV.nurBase.quote;
-        box.innerHTML += `<div style="margin-top:6px;font-size:12.5px;color:var(--faint)">⚙ Nutzen der Markt-Korrektur: mit <b>${OV.mitOverlay.quote}%</b> vs. ohne <b>${OV.nurBase.quote}%</b> (${OV.mitOverlay.gesamt} Wertungen) — ${diff > 0 ? "die Tilts helfen bisher" : diff < 0 ? "die Tilts schaden bisher" : "bisher kein Unterschied"}${OV.mitOverlay.gesamt < 14 ? " · noch dünn" : ""}</div>`;
+        const seit = OV.seit ? ` seit der Tilt-Justierung ${OV.seit.split("-").reverse().join(".")}` : "";
+        box.innerHTML += `<div style="margin-top:6px;font-size:12.5px;color:var(--faint)">⚙ Nutzen der Markt-Korrektur${seit}: mit <b>${OV.mitOverlay.quote}%</b> vs. ohne <b>${OV.nurBase.quote}%</b> (${OV.mitOverlay.gesamt} Wertungen) — ${diff > 0 ? "die Tilts helfen bisher" : diff < 0 ? "die Tilts schaden bisher" : "bisher kein Unterschied"}${OV.mitOverlay.gesamt < 14 ? " · noch dünn" : ""}</div>`;
       }
     } else {
       box.innerHTML = `🎯 Selbstlernen läuft: <b style="color:var(--amber)">${Q.wochenErfasst}</b> Woche${Q.wochenErfasst > 1 ? "n" : ""} erfasst — die erste Treffer-Quote erscheint nach Abschluss der kommenden Woche.`;

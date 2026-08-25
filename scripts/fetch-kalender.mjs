@@ -417,8 +417,14 @@ for (const k in kalibrierung) {
 // Overlay-Nutzen: über alle Zeilen, in denen BEIDE Bewertungen vorliegen (gleiche
 // Stichprobe!), Endscore-Treffer vs. Grundscore-Treffer vergleichen. Beantwortet
 // datenbasiert: verbessern die Markt-Tilts (COT/Zinsen) die Quote oder schaden sie?
-const overlayVergleich = { mitOverlay: { treffer: 0, gesamt: 0 }, nurBase: { treffer: 0, gesamt: 0 } };
+// WICHTIG: nur Wochen ab der letzten Tilt-Parameter-Änderung zählen — sonst bewertet
+// der Vergleich eine Konfiguration, die es nicht mehr gibt (die alten Tilts mit
+// COT-Faktor 0,4/Cap ±10 waren nachweislich schädlich, die getunten sind neutral).
+// BEI JEDER ÄNDERUNG DER TILT-PARAMETER (Block 6b) DIESES DATUM HOCHSETZEN.
+const TILT_STAND = "2026-07-22";   // Commit 3c8e96f: COT-Faktor 0,4→0,2, Cap ±10→±5
+const overlayVergleich = { seit: TILT_STAND, mitOverlay: { treffer: 0, gesamt: 0 }, nurBase: { treffer: 0, gesamt: 0 } };
 for (const w of ausgewertet) {
+  if (w.woche < TILT_STAND) continue;   // Vor-Tuning-Wochen: andere Parameter, nicht vergleichbar
   for (const paar in (w.auswertung.details || {})) {
     const d = w.auswertung.details[paar];
     if (d.basisTreffer == null) continue;
@@ -426,9 +432,46 @@ for (const w of ausgewertet) {
     overlayVergleich.nurBase.gesamt++; if (d.basisTreffer) overlayVergleich.nurBase.treffer++;
   }
 }
-for (const k in overlayVergleich) {
+for (const k of ["mitOverlay", "nurBase"]) {
   const b = overlayVergleich[k];
   b.quote = b.gesamt ? Math.round(b.treffer / b.gesamt * 100) : null;
+}
+
+// KLUMPEN-CHECK (Session 10): Alle 7 Major-Paare sind USD-Crosses. Zeigt ein Briefing
+// sie in dieselbe Dollar-Richtung, ist das EINE Wette — siebenfach gezählt. Die
+// Paar-Quote (x/67) täuscht dann eine Stichprobe vor, die es nicht gibt. Deshalb
+// zusätzlich die ehrliche Wochen-Ebene: war die Dollar-Richtung der Woche richtig?
+const wochenWette = { treffer: 0, gesamt: 0, quote: null, konzentration: null };
+let konzSumme = 0;
+for (const w of ausgewertet) {
+  let pStark = 0, pSchwach = 0, eStark = 0, eSchwach = 0;
+  for (const paar in (w.auswertung.details || {})) {
+    const d = w.auswertung.details[paar];
+    const usdIstBasis = paar.startsWith("USD/");   // USD/JPY: score>0 = Dollar stark
+    const sP = usdIstBasis ? Math.sign(d.score) : -Math.sign(d.score);
+    const sE = usdIstBasis ? Math.sign(d.moveProzent) : -Math.sign(d.moveProzent);
+    if (sP > 0) pStark++; else if (sP < 0) pSchwach++;
+    if (sE > 0) eStark++; else if (sE < 0) eSchwach++;
+  }
+  if (!(pStark + pSchwach) || !(eStark + eSchwach)) continue;
+  konzSumme += Math.max(pStark, pSchwach) / (pStark + pSchwach);
+  wochenWette.gesamt++;
+  if ((pStark > pSchwach) === (eStark > eSchwach)) wochenWette.treffer++;
+}
+if (wochenWette.gesamt) {
+  wochenWette.quote = Math.round(wochenWette.treffer / wochenWette.gesamt * 100);
+  wochenWette.konzentration = Math.round(konzSumme / wochenWette.gesamt * 100);
+  // Münzwurf-Band: in welchem Trefferbereich landet eine faire Münze in 95% der Fälle?
+  // Exakt binomial, damit "besser/schlechter als Zufall" nicht überinterpretiert wird.
+  const binom = (n, k) => { let r = 1; for (let i = 0; i < k; i++) r = r * (n - i) / (i + 1); return r; };
+  const n = wochenWette.gesamt;
+  const pmf = i => binom(n, i) * Math.pow(0.5, n);
+  let lo = 0, hi = n, kum = 0;
+  for (let i = 0; i <= n; i++) { kum += pmf(i); if (kum > 0.025) { lo = i; break; } }
+  kum = 0;
+  for (let i = n; i >= 0; i--) { kum += pmf(i); if (kum > 0.025) { hi = i; break; } }
+  wochenWette.zufallsband = [lo, hi];
+  wochenWette.vomZufallUnterscheidbar = wochenWette.treffer < lo || wochenWette.treffer > hi;
 }
 
 const prognoseQuote = {
@@ -438,6 +481,7 @@ const prognoseQuote = {
   wochenErfasst: prognoseHist.wochen.length,
   proPaar,
   kalibrierung,
+  wochenWette: wochenWette.gesamt ? wochenWette : null,
   overlayVergleich: overlayVergleich.mitOverlay.gesamt ? overlayVergleich : null,
   letzte: ausgewertet.slice(-6).map(w => ({ woche: w.woche, quote: w.auswertung.quote, treffer: w.auswertung.treffer, gesamt: w.auswertung.gesamt }))
 };

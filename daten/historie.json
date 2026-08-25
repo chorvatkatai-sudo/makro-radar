@@ -9986,7 +9986,7 @@
       "land": "GBP",
       "titel": "CBI Realized Sales",
       "impact": "Low",
-      "prognose": "-34",
+      "prognose": "-35",
       "vorher": "-26",
       "actual": null,
       "notiz": null
@@ -10026,7 +10026,7 @@
       "land": "USD",
       "titel": "Core Durable Goods Orders m/m",
       "impact": "Low",
-      "prognose": "0.5%",
+      "prognose": "0.6%",
       "vorher": "0.6%",
       "actual": null,
       "notiz": null
@@ -10036,7 +10036,7 @@
       "land": "USD",
       "titel": "Durable Goods Orders m/m",
       "impact": "Low",
-      "prognose": "0.5%",
+      "prognose": "0.4%",
       "vorher": "0.3%",
       "actual": null,
       "notiz": null
@@ -10066,7 +10066,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "1.9M",
       "vorher": "4.4M",
       "actual": null,
       "notiz": null
@@ -10086,7 +10086,7 @@
       "land": "AUD",
       "titel": "Household Spending m/m",
       "impact": "Low",
-      "prognose": "0.4%",
+      "prognose": "0.3%",
       "vorher": "0.8%",
       "actual": null,
       "notiz": null
@@ -10116,7 +10116,7 @@
       "land": "EUR",
       "titel": "German GfK Consumer Climate",
       "impact": "Low",
-      "prognose": "-29.2",
+      "prognose": "-29.5",
       "vorher": "-29.6",
       "actual": null,
       "notiz": null
@@ -10126,7 +10126,7 @@
       "land": "EUR",
       "titel": "M3 Money Supply y/y",
       "impact": "Low",
-      "prognose": "3.4%",
+      "prognose": "3.5%",
       "vorher": "3.3%",
       "actual": null,
       "notiz": null
@@ -10156,7 +10156,7 @@
       "land": "CAD",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "5.6B",
+      "prognose": "3.5B",
       "vorher": "-7.2B",
       "actual": null,
       "notiz": null
@@ -10176,7 +10176,7 @@
       "land": "USD",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-99.9B",
+      "prognose": "-100.8B",
       "vorher": "-101.5B",
       "actual": null,
       "notiz": null
@@ -10256,7 +10256,7 @@
       "land": "EUR",
       "titel": "French Consumer Spending m/m",
       "impact": "Low",
-      "prognose": "0.0%",
+      "prognose": "0.1%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -10346,7 +10346,7 @@
       "land": "USD",
       "titel": "Chicago PMI",
       "impact": "Low",
-      "prognose": "57.8",
+      "prognose": "57.9",
       "vorher": "57.6",
       "actual": null,
       "notiz": null

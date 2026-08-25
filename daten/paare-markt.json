@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-24T17:23:42.285Z",
+  "stand": "2026-08-25T04:33:50.737Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -4,
-      "tiltZins": -2,
-      "tiltGesamt": -6,
-      "score": 0,
+      "tiltZins": -3,
+      "tiltGesamt": -7,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
     },
@@ -27,9 +27,9 @@
       "paar": "USD/JPY",
       "baseScore": -7,
       "tiltCot": 3,
-      "tiltZins": 2,
-      "tiltGesamt": 5,
-      "score": -2,
+      "tiltZins": 3,
+      "tiltGesamt": 6,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": -3,
       "tiltCot": -3,
-      "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -8,
+      "tiltZins": -3,
+      "tiltGesamt": -6,
+      "score": -9,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -6,
       "tiltCot": 5,
-      "tiltZins": 3,
-      "tiltGesamt": 8,
-      "score": 2,
+      "tiltZins": 4,
+      "tiltGesamt": 9,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
     },

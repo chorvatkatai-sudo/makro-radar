@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T13:41:38.648Z",
+  "stand": "2026-08-25T16:26:43.056Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,21 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro stays near three-month high as US Dollar remains subdued",
-      "link": "https://www.fxstreet.com/news/euro-stays-near-three-month-high-as-us-dollar-remains-subdued-202608251335",
-      "datum": "2026-08-25T13:35:23.000Z"
+      "titel": "Canadian Dollar faces double trouble from Oil slump, US tariffs",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-faces-double-trouble-from-oil-slump-us-tariffs-202608251622",
+      "datum": "2026-08-25T16:22:07.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Trading near fair value against US Dollar - Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trading-near-fair-value-against-us-dollar-scotiabank-202608251334",
-      "datum": "2026-08-25T13:34:15.000Z"
+      "titel": "Germany: Business climate brightens – Commerzbank",
+      "link": "https://www.fxstreet.com/news/germany-business-climate-brightens-commerzbank-202608251618",
+      "datum": "2026-08-25T16:18:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Bond market supports cautious consolidation – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-bond-market-supports-cautious-consolidation-ing-202608251314",
-      "datum": "2026-08-25T13:14:32.000Z"
+      "titel": "British Pound holds near six-month high as Hormuz hopes lift sentiment",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-near-six-month-high-as-hormuz-hopes-lift-sentiment-202608251605",
+      "datum": "2026-08-25T16:05:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran and Oman propose a joint temporary shipping lane",
+      "link": "https://investinglive.com/news/iran-and-oman-propose-a-joint-temporary-shipping-lane/",
+      "datum": "2026-08-25T15:40:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Eurozone: AfD surge raises policy uncertainty – ING",
+      "link": "https://www.fxstreet.com/news/eurozone-afd-surge-raises-policy-uncertainty-ing-202608251522",
+      "datum": "2026-08-25T15:22:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar up modestly on RBA, weak USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-after-hawkish-rba-minutes-as-soft-us-dollar-lends-support-202608251520",
+      "datum": "2026-08-25T15:20:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Range-bound against US Dollar ahead of Budget – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-ahead-of-budget-scotiabank-202608251508",
+      "datum": "2026-08-25T15:08:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US President Trump: US Navy has cleared Strait of Hormuz mines",
+      "link": "https://www.fxstreet.com/news/us-president-trump-us-navy-has-cleared-strait-of-hormuz-mines-202608251506",
+      "datum": "2026-08-25T15:06:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Investment risk and USMCA reliability – Societe Generale",
+      "link": "https://www.fxstreet.com/news/canada-investment-risk-and-usmca-reliability-societe-generale-202608251459",
+      "datum": "2026-08-25T14:59:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI slides as traders shrug off US sanctions on Iran, Hormuz risks persist",
+      "link": "https://www.fxstreet.com/news/wti-slides-as-traders-shrug-off-us-sanctions-on-iran-hormuz-risks-persist-202608251448",
+      "datum": "2026-08-25T14:48:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso: Carry appeal faces crowding risk – MUFG",
+      "link": "https://www.fxstreet.com/news/mexican-peso-carry-appeal-faces-crowding-risk-mufg-202608251442",
+      "datum": "2026-08-25T14:42:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: BoJ September risk looms in flat range against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-september-risk-looms-in-flat-range-against-us-dollar-scotiabank-202608251428",
+      "datum": "2026-08-25T14:28:22.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Richmond Fed manufacturing composite index +4 vs +5 prior",
+      "link": "https://investinglive.com/news/richmond-fed-manufacturing-composite-index-4-vs-5-prior/",
+      "datum": "2026-08-25T14:03:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Conference Board August consumer confidence 89.4 vs 90.2 expected",
+      "link": "https://investinglive.com/news/us-conference-board-august-consumer-confidence-89-4-vs-90-2-expected/",
+      "datum": "2026-08-25T14:00:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US New home sales for July 0.607M vs 0.620M estimate",
+      "link": "https://investinglive.com/news/us-new-home-sales-for-july-0-607m-vs-0-620m-estimate/",
+      "datum": "2026-08-25T14:00:11.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -31,88 +103,16 @@
       "datum": "2026-08-25T13:00:07.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Gold: Tariff conflict fuels safe haven bid – Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250",
-      "datum": "2026-08-25T12:50:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar defies stronger US Dollar as RBNZ rate hike bets offer support",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-defies-stronger-us-dollar-as-rbnz-rate-hike-bets-offer-support-202608251241",
-      "datum": "2026-08-25T12:41:12.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canada July flash wholesale trade -0.6%",
       "link": "https://investinglive.com/news/canada-july-flash-wholesale-trade-0-6/",
       "datum": "2026-08-25T12:39:56.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: RBA risks and carry support – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-risks-and-carry-support-bbh-202608251234",
-      "datum": "2026-08-25T12:34:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Range trading outlook against Euro – Rabobank",
-      "link": "https://www.fxstreet.com/news/british-pound-range-trading-outlook-against-euro-rabobank-202608251221",
-      "datum": "2026-08-25T12:21:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US ADP Employment Change 4-week average increases to 11.750K",
-      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-11750k-202608251221",
-      "datum": "2026-08-25T12:21:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fragmentation risks and reserve diversification – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-fragmentation-risks-and-reserve-diversification-mufg-202608251206",
-      "datum": "2026-08-25T12:06:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-recover-lost-ground-as-intervention-effect-wears-off-202608251157",
-      "datum": "2026-08-25T11:57:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Trade conflict keeps downside risks alive against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-conflict-keeps-downside-risks-alive-against-us-dollar-ing-202608251154",
-      "datum": "2026-08-25T11:54:47.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European news wrap: Risk sentiment improves on hopes of US-Iran breakthrough",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-on-hopes-of-us-iran-breakthrough/",
       "datum": "2026-08-25T11:34:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold takes a breather after climbing to a three-month high",
-      "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
-      "datum": "2026-08-25T11:09:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Pakistani Army Chief Munir is carrying an offer to Iran to halt blockade and lift sanctions under MoU",
-      "link": "https://investinglive.com/news/pakistani-army-chief-munir-is-carrying-an-offer-to-iran-to-halt-blockade-and-lift-sanctions-under-mou/",
-      "datum": "2026-08-25T08:36:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany August Ifo business climate index 88.8 vs 87.2 expected",
-      "link": "https://investinglive.com/news/germany-august-ifo-business-climate-index-xx-vs-87-2-expected/",
-      "datum": "2026-08-25T08:00:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France August consumer confidence 86 vs 87 expected",
-      "link": "https://investinglive.com/news/france-august-consumer-confidence-xx-vs-87-expected/",
-      "datum": "2026-08-25T06:45:07.000Z"
     }
   ]
 }

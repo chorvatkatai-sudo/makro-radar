@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T13:41:38.649Z",
+  "stand": "2026-08-25T16:26:43.057Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 6,
       "tiltCot": -1,
-      "tiltZins": 0,
-      "tiltGesamt": -1,
-      "score": 5,
+      "tiltZins": -1,
+      "tiltGesamt": -2,
+      "score": 4,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar leicht erholt, aber Entwertungs-Wette (Gold/BTC-Rekord) trägt Euro; EUR-2J steigt. Zins-Momentum diese Woche etwas weniger pro-Euro als zuletzt (US-2J zieht an). Track nur 30 % → gedeckelt."
     },
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 0,
       "tiltCot": -3,
-      "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -5,
+      "tiltZins": -3,
+      "tiltGesamt": -6,
+      "score": -6,
       "cotExtrem": null,
       "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral."
     },

@@ -45,35 +45,170 @@ const label = sc => sc > 0 ? "bullish" : sc < 0 ? "bärisch" : "neutral";
 const prozent = sc => `${Math.round(50 + Math.abs(sc) / 2)}%`;
 const staerke = sc => { const m = Math.abs(sc); return m === 0 ? "" : m <= 25 ? " · schwach" : m <= 50 ? " · mittel" : " · stark"; };
 
-const z = [];
-z.push("📰 Makro-Radar · Tagesüberblick");
-z.push(`🗓️ ${tn.wochentag ? tn.wochentag + ", " : ""}${fmtDatum()}`);
-if (tn.tenor) { z.push(""); z.push(`🧭 ${tn.tenor}`); }
-if (Array.isArray(tn.heute) && tn.heute.length) {
-  z.push(""); z.push("🔥 Heute:");
-  for (const h of tn.heute) z.push(`• ${h}`);
-}
-if (Array.isArray(tn.gestern) && tn.gestern.length) {
-  z.push(""); z.push("📅 Gestern/davor:");
-  for (const g of tn.gestern) z.push(`• ${g}`);
-}
 // Bevorzugt die Markt-korrigierten Endscores (paare-markt.json, von fetch-kalender
 // direkt davor geschrieben) — dieselben Werte wie im Dashboard. Fallback: briefing.paare.
-const pm = leseJson(path.join(DATEN, "paare-markt.json"), null);
-const paare = ((pm?.paare?.length ? pm.paare : briefing.paare) || [])
+const pmDatei = leseJson(path.join(DATEN, "paare-markt.json"), null);
+const paare = ((pmDatei?.paare?.length ? pmDatei.paare : briefing.paare) || [])
   .slice().sort((a, b) => Math.abs(b.score || 0) - Math.abs(a.score || 0));
+
+// ───────────────────────────────────────────────────────────────────────────
+// KURZFASSUNG ganz oben (User-Wunsch Session 10): harte Fakten in 6 Zeilen, damit
+// der Rest der Nachricht optional ist. Alles hier ist aus Daten abgeleitet, nicht
+// aus Prosa — Richtung, nächster Termin mit Uhrzeit, Marktlage, Risiko, Ehrlichkeit.
+// ───────────────────────────────────────────────────────────────────────────
+const markt = leseJson(path.join(DATEN, "marktdaten.json"), null);
+const quote = leseJson(path.join(DATEN, "prognose-quote.json"), null);
+
+const WIEN = "Europe/Vienna";
+const tagWien = d => new Date(d).toLocaleDateString("sv-SE", { timeZone: WIEN });
+const uhrWien = d => new Date(d).toLocaleTimeString("de-AT", { timeZone: WIEN, hour: "2-digit", minute: "2-digit" });
+const heuteWien = new Date().toLocaleDateString("sv-SE", { timeZone: WIEN });
+
+// Nächste High-Impact-Termine: aktuelle Woche, sonst nächste Woche.
+function naechsteTermine(anzahl = 2) {
+  const kandidaten = [];
+  const archivDir = path.join(DATEN, "kalender-archiv");
+  const wocheDatei = fs.existsSync(archivDir)
+    ? fs.readdirSync(archivDir).filter(f => f.startsWith("woche-")).sort().pop()
+    : null;
+  if (wocheDatei) kandidaten.push(...(leseJson(path.join(archivDir, wocheDatei), []) || []));
+  kandidaten.push(...(leseJson(path.join(DATEN, "naechste-woche.json"), { events: [] })?.events || []));
+  const jetzt = Date.now();
+  const kommend = kandidaten
+    .filter(e => e && e.impact === "High" && e.date && new Date(e.date).getTime() > jetzt && !e.actual)
+    .sort((a, b) => new Date(a.date) - new Date(b.date));
+  // Mehrere Zahlen derselben Veröffentlichung (gleiches Land + gleiche Minute)
+  // zusammenfassen, damit nicht 3x "AUD CPI" die Liste füllt.
+  const gebuendelt = [];
+  for (const e of kommend) {
+    const letzter = gebuendelt[gebuendelt.length - 1];
+    if (letzter && letzter.country === e.country && letzter.date === e.date) continue;
+    gebuendelt.push(e);
+    if (gebuendelt.length >= anzahl) break;
+  }
+  return gebuendelt;
+}
+
+function baueKurzfassung() {
+  const k = [];
+  k.push("⚡ KURZFASSUNG");
+
+  // 1) Dollar-Richtung + wie klar. Alle 7 Majors sind USD-Crosses.
+  if (paare.length) {
+    let stark = 0, schwach = 0;
+    for (const p of paare) {
+      const usdIstBasis = p.paar.startsWith("USD/");
+      const s = usdIstBasis ? Math.sign(p.score || 0) : -Math.sign(p.score || 0);
+      if (s > 0) stark++; else if (s < 0) schwach++;
+    }
+    const maxAbs = Math.max(...paare.map(p => Math.abs(p.score || 0)));
+    // Ehrlich bleiben: bei |score| ≤ 10 (= unter 55%) ist nichts davon eine Richtung.
+    if (maxAbs <= 10) {
+      k.push(`🎯 Dollar: praktisch NEUTRAL — kein Signal über ${prozent(maxAbs)}, heute kein Makro-Edge`);
+    } else {
+      const wucht = maxAbs <= 25 ? "schwach" : maxAbs <= 50 ? "mittel" : "stark";
+      const richtung = stark > schwach ? "eher STARK" : schwach > stark ? "eher SCHWACH" : "gemischt";
+      k.push(`🎯 Dollar ${richtung} (${Math.max(stark, schwach)} von ${stark + schwach} Paaren) · Signalstärke ${wucht}`);
+    }
+
+    // 2) Die zwei klarsten Signale, in Handelsrichtung formuliert.
+    const top = paare.filter(p => (p.score || 0) !== 0).slice(0, 2)
+      .map(p => `${(p.score > 0 ? "🟢 LONG " : "🔴 SHORT ")}${p.paar} ${prozent(p.score)}`);
+    if (top.length) k.push(`📈 Klarste Signale: ${top.join("  ·  ")}`);
+  }
+
+  // 3) Die nächsten harten Termine mit Wiener Uhrzeit — der wichtigste Trading-Fakt.
+  const morgenTag = new Date(Date.now() + 864e5).toLocaleDateString("sv-SE", { timeZone: WIEN });
+  for (const t of naechsteTermine(2)) {
+    const tg = tagWien(t.date);
+    const wann = tg === heuteWien ? "HEUTE" : tg === morgenTag ? "MORGEN"
+      : new Date(t.date).toLocaleDateString("de-AT", { timeZone: WIEN, weekday: "short" }).replace(".", "").toUpperCase();
+    const fc = t.forecast ? ` (erw. ${String(t.forecast).replace(".", ",")})` : "";
+    k.push(`📅 ${wann} ${uhrWien(t.date)} · ${t.country} ${t.title}${fc}`);
+  }
+
+  // 4) Marktlage in einer Zeile (Wochenveränderung, weil Tageswerte oft 0 sind).
+  if (markt?.kurse) {
+    const kk = markt.kurse;
+    // de-DE (Punkt als Tausendertrenner) — de-AT nutzt ein schmales Leerzeichen,
+    // das in Telegram wie ein Zeilenumbruch-Fehler aussieht ("4 716$").
+    const de = (v, n) => v.toLocaleString("de-DE", { minimumFractionDigits: n, maximumFractionDigits: n });
+    const pz = v => v == null ? "" : ` ${v > 0 ? "+" : "−"}${de(Math.abs(v), 1)}%`;
+    const teile = [];
+    if (kk.DXY) teile.push(`DXY ${de(kk.DXY.wert, 2)}${pz(kk.DXY.wocheProzent)}`);
+    if (kk.Gold) teile.push(`Gold ${de(Math.round(kk.Gold.wert), 0)}$${pz(kk.Gold.wocheProzent)}`);
+    if (kk.WTI) teile.push(`Öl ${de(kk.WTI.wert, 0)}$${pz(kk.WTI.wocheProzent)}`);
+    if (kk.VIX) teile.push(`VIX ${de(kk.VIX.wert, 1)}`);
+    if (kk.US10Y) teile.push(`US10J ${de(kk.US10Y.wert, 2)}%`);
+    if (teile.length) k.push(`📊 Markt (Wo): ${teile.join(" · ")}`);
+  }
+
+  // 5) Risiko-Zeile: überfüllte Positionierung (Squeeze-Gefahr) + Klumpen-Warnung.
+  const risiken = [];
+  const cot = markt?.cot?.waehrungen || markt?.cot;
+  if (cot && typeof cot === "object") {
+    const extrem = Object.entries(cot)
+      .filter(([, v]) => v && typeof v.zScore === "number" && Math.abs(v.zScore) >= 1.5)
+      .sort((a, b) => Math.abs(b[1].zScore) - Math.abs(a[1].zScore)).slice(0, 2)
+      .map(([c, v]) => `${c} ${v.richtung === "short" ? "short" : "long"} überfüllt (z ${v.zScore.toFixed(1).replace(".", ",").replace("-", "−")})`);
+    if (extrem.length) risiken.push(`${extrem.join(", ")} → Squeeze-Gefahr`);
+  }
+  if (paare.length) {
+    const richtungen = new Set(paare.filter(p => p.score).map(p => (p.paar.startsWith("USD/") ? 1 : -1) * Math.sign(p.score)));
+    if (richtungen.size === 1) risiken.push("alle 7 Paare = EINE Dollar-Wette (kein Streuungs-Schutz)");
+  }
+  if (risiken.length) k.push(`⚠️ Risiko: ${risiken.join(" · ")}`);
+
+  // 6) Ehrlichkeit: wie gut lag das Scoring bisher wirklich?
+  const WW = quote?.wochenWette;
+  if (WW?.gesamt) {
+    const urteil = WW.vomZufallUnterscheidbar ? "besser als Zufall" : "noch im Zufallsbereich → klein bleiben";
+    k.push(`🎲 Bisher: ${WW.treffer}/${WW.gesamt} Wochen-Calls richtig (${WW.quote}%) — ${urteil}`);
+  }
+  return k;
+}
+
+// Nachricht in drei Blöcke bauen. KOPF (Kurzfassung) und FUSS (Paar-Liste + Link)
+// sind gesetzt; nur der DETAIL-Teil wird gekürzt, wenn Telegrams 4096-Zeichen-Limit
+// sonst gerissen würde — die Kurzfassung darf nie wegfallen.
+const kopf = ["📰 Makro-Radar · Tagesüberblick", `🗓️ ${tn.wochentag ? tn.wochentag + ", " : ""}${fmtDatum()}`];
+const kurz = baueKurzfassung();
+if (kurz.length > 1) kopf.push("", ...kurz);
+
+const detail = [];
+if (tn.tenor) { detail.push(""); detail.push(`🧭 ${tn.tenor}`); }
+if (Array.isArray(tn.heute) && tn.heute.length) {
+  detail.push(""); detail.push("🔥 Heute:");
+  for (const h of tn.heute) detail.push(`• ${h}`);
+}
+if (Array.isArray(tn.gestern) && tn.gestern.length) {
+  detail.push(""); detail.push("📅 Gestern/davor:");
+  for (const g of tn.gestern) detail.push(`• ${g}`);
+}
+if (detail.length) detail.unshift("", "— — — Details unten — — —");
+
+const fuss = [];
 if (paare.length) {
-  z.push(""); z.push("📊 Paar-Einschätzung (Prognose der Woche):");
+  fuss.push(""); fuss.push("📊 Paar-Einschätzung (Prognose der Woche):");
   for (const p of paare) {
     const sc = p.score || 0;
-    z.push(`${ampel(sc)} ${p.paar}  ${prozent(sc)} ${label(sc)}${staerke(sc)}`);
+    fuss.push(`${ampel(sc)} ${p.paar}  ${prozent(sc)} ${label(sc)}${staerke(sc)}`);
   }
-  z.push("50% = neutral · % = wie klar die Daten in eine Richtung zeigen");
+  fuss.push("50% = neutral · % = wie klar die Daten in eine Richtung zeigen");
 }
-z.push("");
-z.push("📲 Details & Einzel-Signale laufen separat ein. Volles Dashboard:");
-z.push("https://chorvatkatai-sudo.github.io/makro-radar/");
-const text = z.join("\n");
+fuss.push("");
+fuss.push("📲 Details & Einzel-Signale laufen separat ein. Volles Dashboard:");
+fuss.push("https://chorvatkatai-sudo.github.io/makro-radar/");
+
+const LIMIT = Number(process.env.TG_LIMIT) || 4000;   // Reserve unter Telegrams 4096 (TG_LIMIT nur zum Testen)
+const HINWEIS = "… (gekürzt — voller Text im Dashboard)";
+let detailKurz = detail.slice();
+const laenge = d => [...kopf, ...d, ...fuss].join("\n").length;
+while (detailKurz.length && laenge(detailKurz) > LIMIT) {
+  detailKurz.pop();                                   // von hinten Stichpunkte wegnehmen
+  if (detailKurz.length && laenge([...detailKurz, HINWEIS]) <= LIMIT) { detailKurz.push(HINWEIS); break; }
+}
+const text = [...kopf, ...detailKurz, ...fuss].join("\n");
 
 async function sende(t) {
   const res = await fetch(`https://api.telegram.org/bot${TOKEN}/sendMessage`, {

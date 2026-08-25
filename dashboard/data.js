@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-25T19:19:04.207Z",
+ "erstellt": "2026-08-25T19:27:59.980Z",
  "wochenStart": "2026-08-23",
  "events": [
   {

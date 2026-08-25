@@ -486,6 +486,10 @@ const prognoseQuote = {
   letzte: ausgewertet.slice(-6).map(w => ({ woche: w.woche, quote: w.auswertung.quote, treffer: w.auswertung.treffer, gesamt: w.auswertung.gesamt }))
 };
 
+// Auch als eigene JSON ablegen (wie paare-markt.json): tagesbriefing.mjs braucht die
+// Verlässlichkeits-Zahlen für die Telegram-Kurzfassung, ohne data.js parsen zu müssen.
+fs.writeFileSync(path.join(DATEN, "prognose-quote.json"), JSON.stringify(prognoseQuote, null, 2));
+
 const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   erstellt: new Date().toISOString(),
   wochenStart: woche,

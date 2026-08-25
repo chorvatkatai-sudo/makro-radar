@@ -1,65 +1,65 @@
 {
-  "stand": "2026-08-25T04:33:50.737Z",
+  "stand": "2026-08-25T05:05:04.597Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 8,
+      "baseScore": 6,
       "tiltCot": -1,
       "tiltZins": 0,
       "tiltGesamt": -1,
-      "score": 7,
+      "score": 5,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar (unter 99) + Euro-Wirtschaft wächst wieder (PMI 51) + Zins-Momentum pro-Euro (EUR-2J steigt, US-2J fällt) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 22 % → bewusst gedeckelt."
+      "treiber": "Dollar leicht erholt, aber Entwertungs-Wette (Gold/BTC-Rekord) trägt Euro; EUR-2J steigt. Zins-Momentum diese Woche etwas weniger pro-Euro als zuletzt (US-2J zieht an). Track nur 30 % → gedeckelt."
     },
     {
       "paar": "GBP/USD",
-      "baseScore": 6,
+      "baseScore": 5,
       "tiltCot": -4,
       "tiltZins": -3,
       "tiltGesamt": -7,
-      "score": -1,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
     },
     {
       "paar": "USD/JPY",
-      "baseScore": -7,
+      "baseScore": -6,
       "tiltCot": 3,
       "tiltZins": 3,
       "tiltGesamt": 6,
-      "score": -1,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -3,
+      "baseScore": 0,
       "tiltCot": -3,
       "tiltZins": -3,
       "tiltGesamt": -6,
-      "score": -9,
+      "score": -6,
       "cotExtrem": null,
-      "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
+      "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral."
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -6,
+      "baseScore": -5,
       "tiltCot": 5,
       "tiltZins": 3,
       "tiltGesamt": 8,
-      "score": 2,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "Dollar-Schwäche + festes Öl (+3 % Wo) + heißere Kanada-Schlagzeilen-Inflation (härtet BoC-Halten-plus-Warnung) sprechen für den Loonie (Paar runter). GROSSE Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig heftig gegen den Trend zünden."
     },
     {
       "paar": "USD/CHF",
-      "baseScore": -6,
+      "baseScore": -4,
       "tiltCot": 5,
       "tiltZins": 4,
       "tiltGesamt": 9,
-      "score": 3,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
     },

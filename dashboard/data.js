@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-25T04:33:50.738Z",
+ "erstellt": "2026-08-25T05:05:04.598Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -2583,17 +2583,17 @@ window.MAKRO_DATA = {
   "waehrungen": {
    "USD": {
     "stimmung": "bärisch",
-    "score": -8,
-    "grund": "Der Index bleibt unter 99, Gold und Bitcoin auf Rekord = klare Entwertungs-/Lockerungs-Wette. Jetzt dreht auch das Zins-Momentum gegen den Dollar (US-2J fällt). ABER: Die September-Zinssenkung ist NICHT sicher (Markt eher Halten-Neigung), Warsh bleibt falkenhaft, der Realzins ist hoch (~2,35 %), und die extreme Dollar-Short-Aufstellung + Warshs Jackson-Hole-Rede (Fr) sind ein Squeeze-Risiko nach oben. Deshalb nur moderat bärisch."
+    "score": -6,
+    "grund": "Index vom Fünf-Monats-Tief leicht erholt (~99,1) — Gold/Bitcoin bleiben aber auf Rekord (Entwertungs-Wette). NEU: Das Zins-Momentum dreht diese Woche WIEDER leicht pro-Dollar (US-2J steigt am stärksten) — das federt die Schwäche ab. September-Senkung NICHT sicher, Warsh falkenhaft, Realzins hoch (~2,4 %), extreme Short-Aufstellung + Warsh-Rede (Fr) = Squeeze-Risiko nach oben. Deshalb nur leicht bärisch."
    },
    "EUR": {
     "stimmung": "bullisch",
-    "score": 8,
+    "score": 6,
     "grund": "Profitiert vom schwachen Dollar; die Euro-Wirtschaft wächst laut Flash-PMI wieder leicht (Gesamt 51), die Euro-2-Jahres-Zinsen steigen (+0,03 Wo) gegen fallende US-Zinsen. Die Spekulanten sind extrem gegen den Euro aufgestellt (z −1,82) = Squeeze-Treibstoff nach oben. Aber mein EUR/USD-Track ist mies (2/9) → bewusst moderat."
    },
    "GBP": {
     "stimmung": "bullisch",
-    "score": 6,
+    "score": 5,
     "grund": "Der Dienstleistungssektor sprang im August-Flash-PMI auf starke 53,6, die Schlagzeilen-Inflation kam mit 2,9 % über Erwartung, die 2-Jahres-Zinsen steigen. Gegenkraft: Die Dienstleistungs-Inflation KÜHLTE tatsächlich (3,6 → 3,4 %), der Arbeitsmarkt schwächelt — das nimmt der Bank of England Druck. Netto leicht positiv."
    },
    "JPY": {
@@ -2612,9 +2612,9 @@ window.MAKRO_DATA = {
     "grund": "Rückenwind von festem Öl (WTI +3 % in der Woche) und der einen Tick heißeren Inflation (3,0 %), die den Halten-plus-Warnung-Kurs der BoC härtet — plus schwacher Dollar. ABER: Der Kern ist nur benzin-getrieben (~2 %, zahm), und die Spekulanten sind EXTREM short gegen den Loonie (z −1,74, fast rekord, −47,6 %) = großes Rückschlag-/Squeeze-Risiko. Deshalb gedeckelt."
    },
    "AUD": {
-    "stimmung": "bärisch",
-    "score": -3,
-    "grund": "Schwacher Arbeitsmarkt (15.800 Stellen verloren, Arbeitslosigkeit 4,5 % = 5-Jahres-Hoch) + weiche China-Daten + fallende 2-Jahres-Zinsen (−0,05 Wo) treffen den rohstoffnahen Aussie — trotz Risk-on und höchstem G10-Zins (4,35 %). Die schwachen Jobs überwiegen."
+    "stimmung": "neutral",
+    "score": 0,
+    "grund": "RBA-Protokoll bestätigt harte Haltung (Erhöhung ernsthaft diskutiert, Aufwärtsrisiken Inflation) → stützt den Aussie. Gegengewicht: schwacher Arbeitsmarkt (4,5 % = 5-J-Hoch). Inflation morgen (Mi) ist der Test. Neutral."
    },
    "NZD": {
     "stimmung": "neutral",
@@ -2625,32 +2625,32 @@ window.MAKRO_DATA = {
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": 8,
-    "treiber": "Weicher Dollar (unter 99) + Euro-Wirtschaft wächst wieder (PMI 51) + Zins-Momentum pro-Euro (EUR-2J steigt, US-2J fällt) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 22 % → bewusst gedeckelt."
+    "score": 6,
+    "treiber": "Dollar leicht erholt, aber Entwertungs-Wette (Gold/BTC-Rekord) trägt Euro; EUR-2J steigt. Zins-Momentum diese Woche etwas weniger pro-Euro als zuletzt (US-2J zieht an). Track nur 30 % → gedeckelt."
    },
    {
     "paar": "GBP/USD",
-    "score": 6,
+    "score": 5,
     "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
    },
    {
     "paar": "USD/JPY",
-    "score": -7,
+    "score": -6,
     "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
    },
    {
     "paar": "AUD/USD",
-    "score": -3,
-    "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
+    "score": 0,
+    "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral."
    },
    {
     "paar": "USD/CAD",
-    "score": -6,
+    "score": -5,
     "treiber": "Dollar-Schwäche + festes Öl (+3 % Wo) + heißere Kanada-Schlagzeilen-Inflation (härtet BoC-Halten-plus-Warnung) sprechen für den Loonie (Paar runter). GROSSE Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig heftig gegen den Trend zünden."
    },
    {
     "paar": "USD/CHF",
-    "score": -6,
+    "score": -4,
     "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
    },
    {
@@ -2750,21 +2750,20 @@ window.MAKRO_DATA = {
    "TRACK-RECORD-DEMUT: Über 9 ausgewertete Wochen liegt die Kurs-Trefferquote bei nur ~35 % (USD/JPY und EUR/USD am schlechtesten, 2/9). Das deckt sich mit der Forschung (Makro schlägt auf Wochensicht kaum den Zufall). Zahlen-Prognosen sind der verlässliche Teil, die Kurs-Richtung die Schwachstelle — darum kleine Scores."
   ],
   "tagesnews": {
-   "stand": "2026-08-24",
-   "wochentag": "Montag",
-   "tenor": "Ruhiger Wochenauftakt mit unverändert schwachem Dollar: Der Index steht bei ~98,8 (tiefster Stand seit Mai), Gold (~4.696 $) und Bitcoin (~77.100 $) haben ihre Rekorde übers Wochenende sogar noch ausgebaut. Neu präzisiert ist der Motor dahinter: Das US-Finanzministerium kauft ab September doppelt so viele lange Anleihen zurück — das drückt die langen Zinsen und hat die 'Entwertungs-Wette' angefacht. Diese Woche entscheidet Jackson Hole: Warshs erste Grundsatzrede (Fr 28.8.) + Kern-PCE (Mi 26.8.).",
+   "stand": "2026-08-25",
+   "wochentag": "Dienstag",
+   "tenor": "Ruhige Konsolidierung vor Jackson Hole: Der Dollar hat sich vom Fünf-Monats-Tief leicht erholt (Index ~99,1 nach 98,55 am Freitag) — Gold (~4.688 $) und Bitcoin (~80.300 $) bleiben aber auf Rekordkurs. Wichtige Wende unter der Oberfläche: Der Zins-Vergleich dreht diese Woche erstmals seit Langem WIEDER leicht zugunsten des Dollars (US-2-Jahres-Zins steigt am stärksten). Heute nur weiche US-Daten (Konsumklima) + RBA-Protokoll; der Feuertest kommt Mi (Kern-PCE + Australien-Inflation) und Fr (Warsh-Rede).",
    "heute": [
-    "📆 Montag = ruhiger Auftakt, kaum harte Zahlen. Stand früh: Dollar-Index ~98,8 (schwach, Tief seit Mai), EUR/USD ~1,168, Gold ~4.696 $ (Rekord, +7,5 % Wo), Bitcoin ~77.100 $ (+11 % Wo), Öl WTI ~85,6 $ (fest), Angst-Barometer VIX 15,1 (niedrig = entspannter Markt).",
-    "🏦 WICHTIG — der wahre Grund für den schwachen Dollar: Das US-Finanzministerium hat am 19.8. angekündigt, ab 9. September doppelt so viele lange Staatsanleihen zurückzukaufen (4 statt 2 Mrd. $ je Runde). Kinderleicht: Der Staat kauft eigene Schulden zurück → das drückt die langen Zinsen (10-Jahres auf ~4,65 %) → der Dollar wirft weniger ab und wird unattraktiver. Genau das hat die Flucht in Gold und Bitcoin (Sachwerte) befeuert.",
-    "🗓️ Diese Woche wird es ernst: Di 25.8. RBA-Protokoll (Australien). Mi 26.8. Kern-PCE (Fed-Lieblings-Inflationswert, ~2,9 % erwartet) + US-BIP 2. Schätzung — kühles PCE = Zinssenkungs-Wette wächst, Dollar noch schwächer. Do 27.8. Jackson-Hole-Treffen beginnt. Fr 28.8. Warshs erste Grundsatzrede dort (~16:00 Wien) = DAS Event.",
-    "⚠️ Warsh-Warnung: Er ist ein Falke und hat gesagt, er lasse sich 'nicht von Marktpreisen leiten'. Weil fast alle gegen den Dollar wetten (extreme Short-Aufstellung), könnte schon ein hartes Wort den überverkauften Dollar kurz und heftig nach oben zurückschnellen lassen (Short-Squeeze). Deshalb bleiben meine Dollar-Wetten bewusst klein."
+    "📆 Dienstag = weiter ruhig, kaum harte Zahlen. Stand früh: Dollar-Index ~99,1 (leichte Erholung vom Freitags-Tief 98,55), EUR/USD ~1,168, Gold ~4.688 $ (Rekord, +4,4 % Wo), Bitcoin ~80.300 $ (+10 % Wo), Öl WTI ~85 $ (fest), Angst-Barometer VIX 15,9 (niedrig = entspannter Markt).",
+    "🇦🇺 RBA-Protokoll (Australien): Die Notenbank hat am 10./11.8. den Leitzins bei 4,35 % gehalten — das Protokoll zeigt aber, dass sie eine ZinsERHÖHUNG ernsthaft diskutiert hat ('Aufwärtsrisiken bei der Inflation'). Kinderleicht: Die RBA bleibt hart. Der Aussie reagierte kaum (das war schon bekannt) — der echte Test ist Australiens Inflation morgen.",
+    "🇺🇸 Heute Nachmittag (16:00 Wien): US-Konsumklima (Conference Board, zuletzt 90,8) + Auftragseingänge langlebiger Güter. Weiche Zahlen würden die Zinssenkungs-Wette nähren und den Dollar wieder drücken; feste Zahlen stützen die kleine Erholung.",
+    "🗓️ Der Wochen-Höhepunkt naht: Mi 26.8. Kern-PCE (Fed-Lieblings-Inflationswert, ~2,9 % erwartet) + US-BIP 2. Schätzung + Australien-Inflation. Fr 28.8. Warshs erste Grundsatzrede in Jackson Hole (~16:00 Wien) = DAS Event. Weil fast alle gegen den Dollar wetten, kann schon ein hartes Wort einen kurzen, heftigen Dollar-Rückpraller (Short-Squeeze) auslösen — daher bleiben meine Dollar-Wetten bewusst klein."
    ],
    "gestern": [
-    "🥇 Übers Wochenende ausgebaut: Gold UND Bitcoin gleichzeitig auf frischen Rekorden. Kinderleicht: Viele trauen dem Papiergeld (vor allem dem Dollar) gerade weniger und flüchten in Sachwerte — das ist mehr als nur ein schwacher Dollar, es ist eine Entwertungs-Sorge.",
-    "📅 Wochenrückblick (18.–22.8.): Der Dollar blieb die ganze Woche schwach (Index unter 99). Neben dem Anleihe-Rückkauf-Motor dreht auch der Zins-Vergleich gegen den Dollar (US-Zinsen weich, Europa/Japan ziehen an).",
-    "🇬🇧 UK: Inflation-Schlagzeile hitzig 2,9 % (teures Gas), ABER die Dienstleistungspreise kühlten (3,6→3,4 %) — für die Bank of England unterm Strich eher entspannend. Pfund trotzdem stark (3-Monats-Hoch).",
-    "🇨🇦 Kanada: Inflation auf 3,0 % gestiegen, aber nur wegen Benzin (+25,7 %) — der Kern liegt nahe 2 %. Festes Öl (WTI ~86 $) stützt den Loonie.",
-    "🇦🇺 Australien: schwacher Arbeitsmarkt — 15.800 Stellen verloren, Arbeitslosigkeit 4,5 % (5-Jahres-Hoch). Der Aussie verliert Rückenwind; morgen zeigt das RBA-Protokoll, wie besorgt die Notenbank ist."
+    "💵 Der Dollar hat am Wochenanfang einen kleinen Boden gefunden: Vom Fünf-Monats-Tief (Index 98,55 am Freitag) ging es leicht auf ~99,1 hoch. Grund ist keine gute US-Nachricht, sondern das Auslaufen der Verkaufswelle vor den großen Terminen — vor Warsh trauen sich weniger, noch mehr gegen den Dollar zu wetten.",
+    "📈 NEU unter der Oberfläche — Zins-Vergleich dreht: Nach Wochen, in denen die US-Zinsen relativ WEICH waren, steigt der US-2-Jahres-Zins diese Woche wieder am stärksten (+0,08 Punkte). Kinderleicht: Der Dollar wirft wieder etwas mehr ab — ein kleines Gegengewicht zur Entwertungs-Wette, aber (noch) kein Trendbruch.",
+    "🥇 Gold UND Bitcoin bleiben auf frischen Rekorden (Gold ~4.688 $, Bitcoin ~80.300 $). Viele trauen dem Papiergeld gerade weniger und flüchten in Sachwerte — die Entwertungs-Sorge trägt den Markt weiter, auch wenn der Dollar heute etwas fester steht.",
+    "🏦 Der Hintergrund bleibt: Das US-Finanzministerium kauft ab 9. September doppelt so viele lange Staatsanleihen zurück → das drückt die langen Zinsen und hält die Flucht in Gold/Bitcoin am Leben."
    ]
   }
  },
@@ -3773,61 +3772,61 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": 8,
+   "baseScore": 6,
    "tiltCot": -1,
    "tiltZins": 0,
    "tiltGesamt": -1,
-   "score": 7,
+   "score": 5,
    "cotExtrem": "erhoeht",
-   "treiber": "Weicher Dollar (unter 99) + Euro-Wirtschaft wächst wieder (PMI 51) + Zins-Momentum pro-Euro (EUR-2J steigt, US-2J fällt) + extreme EUR-Shorts als Squeeze-Treibstoff. Track nur 22 % → bewusst gedeckelt."
+   "treiber": "Dollar leicht erholt, aber Entwertungs-Wette (Gold/BTC-Rekord) trägt Euro; EUR-2J steigt. Zins-Momentum diese Woche etwas weniger pro-Euro als zuletzt (US-2J zieht an). Track nur 30 % → gedeckelt."
   },
   {
    "paar": "GBP/USD",
-   "baseScore": 6,
+   "baseScore": 5,
    "tiltCot": -4,
    "tiltZins": -3,
    "tiltGesamt": -7,
-   "score": -1,
+   "score": -2,
    "cotExtrem": null,
    "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
   },
   {
    "paar": "USD/JPY",
-   "baseScore": -7,
+   "baseScore": -6,
    "tiltCot": 3,
    "tiltZins": 3,
    "tiltGesamt": 6,
-   "score": -1,
+   "score": 0,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -3,
+   "baseScore": 0,
    "tiltCot": -3,
    "tiltZins": -3,
    "tiltGesamt": -6,
-   "score": -9,
+   "score": -6,
    "cotExtrem": null,
-   "treiber": "Schwacher Dollar zieht leicht hoch, aber schwache Aussie-Jobs (5-Jahres-Hoch Arbeitslosigkeit), China-Flaute und fallende Aussie-Zinsen ziehen unterm Strich nach unten."
+   "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral."
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -6,
+   "baseScore": -5,
    "tiltCot": 5,
    "tiltZins": 3,
    "tiltGesamt": 8,
-   "score": 2,
+   "score": 3,
    "cotExtrem": null,
    "treiber": "Dollar-Schwäche + festes Öl (+3 % Wo) + heißere Kanada-Schlagzeilen-Inflation (härtet BoC-Halten-plus-Warnung) sprechen für den Loonie (Paar runter). GROSSE Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig heftig gegen den Trend zünden."
   },
   {
    "paar": "USD/CHF",
-   "baseScore": -6,
+   "baseScore": -4,
    "tiltCot": 5,
    "tiltZins": 4,
    "tiltGesamt": 9,
-   "score": 3,
+   "score": 5,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
   },

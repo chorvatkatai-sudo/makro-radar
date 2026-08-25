@@ -1,0 +1,229 @@
+{
+  "stand": "2026-08-25T21:25:45.093Z",
+  "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
+  "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
+  "gesamt": {
+    "faelle": 22,
+    "treffer": 15,
+    "quote": 68,
+    "schnittGerichtet": 0.159,
+    "schnittBetrag": 0.339,
+    "pWert": 0.134,
+    "belastbar": false
+  },
+  "gesamtRoh": {
+    "faelle": 44,
+    "treffer": 29,
+    "quote": 66,
+    "schnittGerichtet": 0.145,
+    "schnittBetrag": 0.371,
+    "pWert": 0.049,
+    "belastbar": true
+  },
+  "jeWaehrung": {
+    "USD": {
+      "faelle": 7,
+      "treffer": 4,
+      "quote": 57,
+      "schnittGerichtet": 0.062,
+      "schnittBetrag": 0.288,
+      "pWert": 1,
+      "belastbar": false
+    },
+    "CAD": {
+      "faelle": 5,
+      "treffer": 4,
+      "quote": 80,
+      "schnittGerichtet": 0.201,
+      "schnittBetrag": 0.242,
+      "pWert": 0.375,
+      "belastbar": false
+    },
+    "AUD": {
+      "faelle": 4,
+      "treffer": 2,
+      "quote": 50,
+      "schnittGerichtet": 0.026,
+      "schnittBetrag": 0.447,
+      "pWert": 1,
+      "belastbar": false
+    },
+    "GBP": {
+      "faelle": 4,
+      "treffer": 3,
+      "quote": 75,
+      "schnittGerichtet": 0.191,
+      "schnittBetrag": 0.316,
+      "pWert": 0.625,
+      "belastbar": false
+    }
+  },
+  "jeKategorie": {
+    "Inflation": {
+      "faelle": 11,
+      "treffer": 8,
+      "quote": 73,
+      "schnittGerichtet": 0.153,
+      "schnittBetrag": 0.253,
+      "pWert": 0.227,
+      "belastbar": false
+    },
+    "Arbeitsmarkt": {
+      "faelle": 5,
+      "treffer": 3,
+      "quote": 60,
+      "schnittGerichtet": 0.056,
+      "schnittBetrag": 0.394,
+      "pWert": 1,
+      "belastbar": false
+    },
+    "Wachstum & Konsum": {
+      "faelle": 4,
+      "treffer": 2,
+      "quote": 50,
+      "schnittGerichtet": 0.17,
+      "schnittBetrag": 0.466,
+      "pWert": 1,
+      "belastbar": false
+    }
+  },
+  "jeWaehrungRoh": {
+    "USD": {
+      "faelle": 19,
+      "treffer": 12,
+      "quote": 63,
+      "schnittGerichtet": 0.084,
+      "schnittBetrag": 0.313,
+      "pWert": 0.359,
+      "belastbar": false
+    },
+    "CAD": {
+      "faelle": 8,
+      "treffer": 6,
+      "quote": 75,
+      "schnittGerichtet": 0.188,
+      "schnittBetrag": 0.239,
+      "pWert": 0.289,
+      "belastbar": false
+    },
+    "AUD": {
+      "faelle": 9,
+      "treffer": 5,
+      "quote": 56,
+      "schnittGerichtet": 0.147,
+      "schnittBetrag": 0.63,
+      "pWert": 1,
+      "belastbar": false
+    },
+    "GBP": {
+      "faelle": 4,
+      "treffer": 3,
+      "quote": 75,
+      "schnittGerichtet": 0.191,
+      "schnittBetrag": 0.316,
+      "pWert": 0.625,
+      "belastbar": false
+    },
+    "NZD": {
+      "faelle": 4,
+      "treffer": 3,
+      "quote": 75,
+      "schnittGerichtet": 0.296,
+      "schnittBetrag": 0.383,
+      "pWert": 0.625,
+      "belastbar": false
+    }
+  },
+  "letzte": [
+    {
+      "datum": "2026-07-22",
+      "land": "GBP",
+      "titel": "CPI y/y",
+      "ueberraschung": "niedriger",
+      "erwartet": "schwächer",
+      "bewegung": -0.246,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-07-22",
+      "land": "AUD",
+      "titel": "Employment Change (+1 weitere)",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": -0.308,
+      "wieErwartet": false
+    },
+    {
+      "datum": "2026-07-28",
+      "land": "AUD",
+      "titel": "CPI y/y",
+      "ueberraschung": "niedriger",
+      "erwartet": "schwächer",
+      "bewegung": -0.444,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-07-30",
+      "land": "GBP",
+      "titel": "MPC Official Bank Rate Votes",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": 0.749,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-07-30",
+      "land": "USD",
+      "titel": "Advance GDP q/q (+1 weitere)",
+      "ueberraschung": "niedriger",
+      "erwartet": "schwächer",
+      "bewegung": -0.463,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-08-03",
+      "land": "USD",
+      "titel": "ISM Manufacturing PMI",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": 0.099,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-08-07",
+      "land": "CAD",
+      "titel": "Employment Change",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": 0.497,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-08-13",
+      "land": "GBP",
+      "titel": "GDP m/m",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": -0.25,
+      "wieErwartet": false
+    },
+    {
+      "datum": "2026-08-17",
+      "land": "CAD",
+      "titel": "CPI m/m (+1 weitere)",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": -0.103,
+      "wieErwartet": false
+    },
+    {
+      "datum": "2026-08-19",
+      "land": "AUD",
+      "titel": "Employment Change (+1 weitere)",
+      "ueberraschung": "niedriger",
+      "erwartet": "schwächer",
+      "bewegung": -0.501,
+      "wieErwartet": true
+    }
+  ]
+}

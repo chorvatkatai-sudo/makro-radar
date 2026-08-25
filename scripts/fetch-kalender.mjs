@@ -20,6 +20,7 @@ import { fuelleTvIstwerte } from "./tv-istwerte.mjs";
 import { holeNews } from "./news.mjs";
 import { holeSentiment } from "./sentiment.mjs";
 import { werteZahlenPrognosenAus } from "./prognose-zahlen.mjs";
+import { baueEventReaktion } from "./event-reaktion.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -524,6 +525,14 @@ let zahlenBilanz = null;
 try { zahlenBilanz = werteZahlenPrognosenAus().bericht; }
 catch (err) { console.warn("Zahlen-Prognosen-Auswertung übersprungen:", err.message); }
 
+// Event-Reaktions-Statistik: braucht Kurs-Zeitreihen (frankfurter) → nur online.
+// Die JSON ist versioniert, damit der --lokal-Build den letzten Stand behält.
+let eventReaktion = leseJson(path.join(DATEN, "event-reaktion.json"), null);
+if (!NUR_LOKAL) {
+  try { eventReaktion = (await baueEventReaktion()) || eventReaktion; }
+  catch (err) { console.warn("Event-Reaktions-Auswertung übersprungen:", err.message); }
+}
+
 const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   erstellt: new Date().toISOString(),
   wochenStart: woche,
@@ -535,6 +544,7 @@ const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   marktdaten,
   paareMarkt,
   zahlenBilanz,
+  eventReaktion,
   sentiment,
   news,
   momentum,

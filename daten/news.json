@@ -1,11 +1,59 @@
 {
-  "stand": "2026-08-25T19:50:08.080Z",
+  "stand": "2026-08-25T21:25:44.928Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Bullish bias with focus on 6.7000 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-with-focus-on-67000-against-us-dollar-uob-202608252121",
+      "datum": "2026-08-25T21:21:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar climbs to fresh highs amid timid US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-fresh-highs-amid-timid-us-dollar-202608252054",
+      "datum": "2026-08-25T20:54:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Range-bound consolidation outlook against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bound-consolidation-outlook-against-us-dollar-commerzbank-202608252040",
+      "datum": "2026-08-25T20:40:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Some late talk of Iran peace",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-some-late-talk-of-iran-peace/",
+      "datum": "2026-08-25T20:22:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US-Iran agree ceasefire deal, sinks Oil – RIA Novosti",
+      "link": "https://www.fxstreet.com/news/reports-of-us-iran-ceasefire-deal-sinks-oil-ria-novosti-202608252015",
+      "datum": "2026-08-25T20:15:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia 26 August 2026 - Australian inflation data due",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-26-august-2026-australian-inflation-data-due/",
+      "datum": "2026-08-25T20:04:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasury yields fall as Hormuz progress eases inflation fears",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-fall-as-hormuz-progress-eases-inflation-fears-202608251954",
+      "datum": "2026-08-25T19:54:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Strength backed by tech flows against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-strength-backed-by-tech-flows-against-us-dollar-societe-generale-202608251954",
+      "datum": "2026-08-25T19:54:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Chinese Yuan: Trade risks limit gains against US Dollar – OCBC",
@@ -49,40 +97,10 @@
       "datum": "2026-08-25T18:00:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: Bearish indicators keep the path tilted lower",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756",
-      "datum": "2026-08-25T17:56:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro remains flat with Sterling despite upbeat German data",
-      "link": "https://www.fxstreet.com/news/euro-remains-flat-with-sterling-despite-upbeat-german-data-202608251739",
-      "datum": "2026-08-25T17:39:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen remains vulnerable despite softer Greenback",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-despite-softer-greenback-202608251719",
-      "datum": "2026-08-25T17:19:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Germany: Political risks cloud reform outlook – ING",
-      "link": "https://www.fxstreet.com/news/germany-political-risks-cloud-reform-outlook-ing-202608251707",
-      "datum": "2026-08-25T17:07:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US treasury sells $69 billion of 2-year notes at a high yield of 4.204%",
       "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of/",
       "datum": "2026-08-25T17:06:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexico: Alignment for certainty in USMCA – Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexico-alignment-for-certainty-in-usmca-societe-generale-202608251648",
-      "datum": "2026-08-25T16:48:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -91,28 +109,10 @@
       "datum": "2026-08-25T16:42:36.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average round-trips between Ottawa and the Treasury",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-202608251636",
-      "datum": "2026-08-25T16:36:36.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Iran and Oman propose a joint temporary shipping lane",
       "link": "https://investinglive.com/news/iran-and-oman-propose-a-joint-temporary-shipping-lane/",
       "datum": "2026-08-25T15:40:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Richmond Fed manufacturing composite index +4 vs +5 prior",
-      "link": "https://investinglive.com/news/richmond-fed-manufacturing-composite-index-4-vs-5-prior/",
-      "datum": "2026-08-25T14:03:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US Conference Board August consumer confidence 89.4 vs 90.2 expected",
-      "link": "https://investinglive.com/news/us-conference-board-august-consumer-confidence-89-4-vs-90-2-expected/",
-      "datum": "2026-08-25T14:00:14.000Z"
     }
   ]
 }

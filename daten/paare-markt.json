@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T21:03:39.198Z",
+  "stand": "2026-08-25T21:25:44.938Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": -3,
-      "tiltGesamt": -7,
-      "score": -2,
+      "tiltZins": -2,
+      "tiltGesamt": -6,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln.",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 0,
       "tiltCot": -3,
-      "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -5,
+      "tiltZins": -1,
+      "tiltGesamt": -4,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 1,
       "tiltCot": 4,
-      "tiltZins": -3,
-      "tiltGesamt": 1,
-      "score": 2,
+      "tiltZins": -2,
+      "tiltGesamt": 2,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

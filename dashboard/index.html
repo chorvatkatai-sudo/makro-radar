@@ -388,6 +388,13 @@
     <div class="markt-grid" id="sentiment"></div>
   </section>
 
+  <section id="sec-reaktion" style="display:none">
+    <h2>Reaktions-Playbook — wie bewegt sich die Währung nach einer Überraschung?</h2>
+    <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px">Aus den eigenen gespeicherten Zahlen gemessen: Kommt ein Wert anders als erwartet, reagiert die Währung dann so, wie das Lehrbuch sagt (bessere Zahl = stärkere Währung)? Fenster = letzter Kurs-Fixpunkt vor der Veröffentlichung bis zum ersten danach. <b>Wichtig:</b> Mehrere Zahlen derselben Veröffentlichung (z.&nbsp;B. CPI m/m und y/y) zählen nur EINMAL — sie teilen sich dieselbe Kursbewegung. Die Fallzahl steht überall dabei; „gesichert" heißt, dass reiner Zufall unwahrscheinlich ist.</div>
+    <div class="markt-grid" id="reaktion"></div>
+    <div id="reaktionHinweis" style="color:var(--faint);font-size:12px;margin-top:10px"></div>
+  </section>
+
   <section id="sec-news" style="display:none">
     <h2>Schlagzeilen — was bewegt den Markt gerade?</h2>
     <div style="color:var(--faint);font-size:12.5px;margin:-8px 0 14px" id="newsStand">Kostenlose Feeds: ForexLive · FXStreet · Fed. Stand beim letzten Daten-Update.</div>
@@ -705,6 +712,32 @@ if (Z2 && Object.keys(Z2).length >= 2) {
     document.getElementById("sec-zinsdiff").style.display = "";
     document.getElementById("zinsdiff").innerHTML = karten;
   }
+}
+
+// ---------- Reaktions-Playbook (Event-Überraschung -> Kursreaktion) ----------
+const ER = D.eventReaktion;
+if (ER?.gesamt?.faelle) {
+  const FLAGGE = { USD: "🇺🇸", EUR: "🇪🇺", GBP: "🇬🇧", JPY: "🇯🇵", CHF: "🇨🇭", CAD: "🇨🇦", AUD: "🇦🇺", NZD: "🇳🇿" };
+  const karte = (name, b, unten) => {
+    // Farbe nur, wenn die Stichprobe die Aussage trägt — sonst neutral grau,
+    // damit ein "3/4 = 75%" nicht wie eine belegte Regel aussieht.
+    const kl = !b.belastbar ? "flat" : b.quote > 50 ? "up" : "down";
+    return `<div class="markt-karte">
+      <div class="markt-name">${esc(name)}</div>
+      <div class="markt-wert">${b.quote}%</div>
+      <div class="markt-delta ${kl}">${b.treffer}/${b.faelle} wie erwartet ${b.belastbar ? "· gesichert" : "· Zufall möglich"}</div>
+      <div style="color:var(--faint);font-size:11.5px;margin-top:4px">${esc(unten)}</div>
+    </div>`;
+  };
+  const teile = [karte("ALLE Überraschungen", ER.gesamt, `Ø Bewegung ${ER.gesamt.schnittBetrag}% je Ereignis`)];
+  for (const k in (ER.jeKategorie || {})) teile.push(karte(k, ER.jeKategorie[k], `Ø ${ER.jeKategorie[k].schnittBetrag}% Bewegung`));
+  for (const k in (ER.jeWaehrung || {})) teile.push(karte(`${FLAGGE[k] || ""} ${k}`, ER.jeWaehrung[k], `Ø ${ER.jeWaehrung[k].schnittBetrag}% Bewegung`));
+  document.getElementById("sec-reaktion").style.display = "";
+  document.getElementById("reaktion").innerHTML = teile.join("");
+  document.getElementById("reaktionHinweis").innerHTML =
+    `Grundlage: ${ER.gesamt.faelle} Veröffentlichungen mit echter Überraschung (Gruppen erst ab 4 Fällen). `
+    + `Ein Wert um 50 % heißt: Die Zahl allein sagt die Richtung nicht vorher. `
+    + `${ER.gesamt.belastbar ? "" : "Aktuell ist auch der Gesamtwert noch nicht gegen Zufall gesichert — als Tendenz lesen, nicht als Regel."}`;
 }
 
 // ---------- Retail-Sentiment (Myfxbook) ----------

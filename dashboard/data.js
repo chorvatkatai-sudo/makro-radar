@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-25T21:03:39.232Z",
+ "erstellt": "2026-08-25T21:25:45.100Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -3232,15 +3232,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-25T19:50:07.168Z",
+  "stand": "2026-08-25T21:25:43.995Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.93,
+    "wert": 98.92,
     "tagProzent": 0,
-    "wocheProzent": 0.1,
+    "wocheProzent": 0.09,
     "renditeDelta": false,
     "verlauf": [
      101.38,
@@ -3263,17 +3263,17 @@ window.MAKRO_DATA = {
      98.9,
      98.8,
      99,
-     98.93,
-     98.93
+     98.92,
+     98.92
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.46,
+    "wert": 15.45,
     "tagProzent": 0,
-    "wocheProzent": 3.83,
+    "wocheProzent": 3.76,
     "renditeDelta": false,
     "verlauf": [
      18.21,
@@ -3296,17 +3296,17 @@ window.MAKRO_DATA = {
      16.01,
      15.13,
      15.85,
-     15.46,
-     15.46
+     15.45,
+     15.45
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 82.05,
+    "wert": 81.11,
     "tagProzent": 0,
-    "wocheProzent": -4.4,
+    "wocheProzent": -5.5,
     "renditeDelta": false,
     "verlauf": [
      79.26,
@@ -3329,17 +3329,17 @@ window.MAKRO_DATA = {
      87.83,
      87.06,
      85.01,
-     82.05,
-     82.05
+     81.11,
+     81.11
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 87.06,
+    "wert": 85.86,
     "tagProzent": 0,
-    "wocheProzent": -4.98,
+    "wocheProzent": -6.29,
     "renditeDelta": false,
     "verlauf": [
      84.09,
@@ -3362,17 +3362,17 @@ window.MAKRO_DATA = {
      93.78,
      94.39,
      92.17,
-     87.06,
-     87.06
+     85.86,
+     85.86
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4716.9,
+    "wert": 4715.9,
     "tagProzent": 0,
-    "wocheProzent": 5.07,
+    "wocheProzent": 5.05,
     "renditeDelta": false,
     "verlauf": [
      4036.3,
@@ -3395,8 +3395,8 @@ window.MAKRO_DATA = {
      4516.3,
      4624.1,
      4640.8,
-     4716.9,
-     4716.9
+     4715.9,
+     4715.9
     ]
    },
    "US02Y": {
@@ -3502,9 +3502,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 78765.48,
+    "wert": 78343.31,
     "tagProzent": 0,
-    "wocheProzent": 0.55,
+    "wocheProzent": 0.01,
     "renditeDelta": false,
     "verlauf": [
      64597.5,
@@ -3527,17 +3527,17 @@ window.MAKRO_DATA = {
      77083.41,
      77755.27,
      78964.48,
-     78765.48,
-     78765.48
+     78343.31,
+     78343.31
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.72,
+    "wert": 3.73,
     "tagProzent": 0,
-    "wocheProzent": 0.09,
+    "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
      3.63,
@@ -3560,8 +3560,8 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
-     3.72,
-     3.72
+     3.73,
+     3.73
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
@@ -3570,11 +3570,10 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 2.32,
-    "tagProzent": -0.02,
-    "wocheProzent": 0.04,
+    "tagProzent": 0,
+    "wocheProzent": 0.02,
     "renditeDelta": true,
     "verlauf": [
-     2.26,
      2.21,
      2.2,
      2.26,
@@ -3595,6 +3594,7 @@ window.MAKRO_DATA = {
      2.3,
      2.34,
      2.34,
+     2.32,
      2.32
     ],
     "quelle": "FRED"
@@ -3603,12 +3603,11 @@ window.MAKRO_DATA = {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 2.4,
-    "tagProzent": 0.05,
-    "wocheProzent": -0.01,
+    "wert": 2.38,
+    "tagProzent": -0.02,
+    "wocheProzent": -0.06,
     "renditeDelta": true,
     "verlauf": [
-     2.43,
      2.43,
      2.44,
      2.41,
@@ -3629,7 +3628,8 @@ window.MAKRO_DATA = {
      2.41,
      2.35,
      2.35,
-     2.4
+     2.4,
+     2.38
     ],
     "quelle": "FRED"
    }
@@ -3728,12 +3728,12 @@ window.MAKRO_DATA = {
    "stand": "2026-08-25",
    "werte": {
     "USD": {
-     "wert": 4.187,
-     "wocheDelta": 0.016
+     "wert": 4.176,
+     "wocheDelta": 0.005
     },
     "EUR": {
-     "wert": 2.759,
-     "wocheDelta": -0.036
+     "wert": 2.751,
+     "wocheDelta": -0.044
     },
     "GBP": {
      "wert": 4.313,
@@ -3748,16 +3748,16 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.032
     },
     "CAD": {
-     "wert": 2.908,
-     "wocheDelta": -0.05
+     "wert": 2.899,
+     "wocheDelta": -0.059
     },
     "CHF": {
      "wert": 0.047,
      "wocheDelta": -0.04
     },
     "NZD": {
-     "wert": 3.6,
-     "wocheDelta": 0.032
+     "wert": 3.578,
+     "wocheDelta": 0.01
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3785,9 +3785,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 5,
    "tiltCot": -4,
-   "tiltZins": -3,
-   "tiltGesamt": -7,
-   "score": -2,
+   "tiltZins": -2,
+   "tiltGesamt": -6,
+   "score": -1,
    "cotExtrem": null,
    "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln.",
    "istCross": false
@@ -3807,9 +3807,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": 0,
    "tiltCot": -3,
-   "tiltZins": -2,
-   "tiltGesamt": -5,
-   "score": -5,
+   "tiltZins": -1,
+   "tiltGesamt": -4,
+   "score": -4,
    "cotExtrem": null,
    "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral.",
    "istCross": false
@@ -3873,9 +3873,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 1,
    "tiltCot": 4,
-   "tiltZins": -3,
-   "tiltGesamt": 1,
-   "score": 2,
+   "tiltZins": -2,
+   "tiltGesamt": 2,
+   "score": 3,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -3893,7 +3893,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-25T21:03:39.228Z",
+  "stand": "2026-08-25T21:25:44.975Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 46,
   "gewertet": 23,
@@ -4000,15 +4000,292 @@ window.MAKRO_DATA = {
    }
   ]
  },
+ "eventReaktion": {
+  "stand": "2026-08-25T21:25:45.093Z",
+  "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
+  "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
+  "gesamt": {
+   "faelle": 22,
+   "treffer": 15,
+   "quote": 68,
+   "schnittGerichtet": 0.159,
+   "schnittBetrag": 0.339,
+   "pWert": 0.134,
+   "belastbar": false
+  },
+  "gesamtRoh": {
+   "faelle": 44,
+   "treffer": 29,
+   "quote": 66,
+   "schnittGerichtet": 0.145,
+   "schnittBetrag": 0.371,
+   "pWert": 0.049,
+   "belastbar": true
+  },
+  "jeWaehrung": {
+   "USD": {
+    "faelle": 7,
+    "treffer": 4,
+    "quote": 57,
+    "schnittGerichtet": 0.062,
+    "schnittBetrag": 0.288,
+    "pWert": 1,
+    "belastbar": false
+   },
+   "CAD": {
+    "faelle": 5,
+    "treffer": 4,
+    "quote": 80,
+    "schnittGerichtet": 0.201,
+    "schnittBetrag": 0.242,
+    "pWert": 0.375,
+    "belastbar": false
+   },
+   "AUD": {
+    "faelle": 4,
+    "treffer": 2,
+    "quote": 50,
+    "schnittGerichtet": 0.026,
+    "schnittBetrag": 0.447,
+    "pWert": 1,
+    "belastbar": false
+   },
+   "GBP": {
+    "faelle": 4,
+    "treffer": 3,
+    "quote": 75,
+    "schnittGerichtet": 0.191,
+    "schnittBetrag": 0.316,
+    "pWert": 0.625,
+    "belastbar": false
+   }
+  },
+  "jeKategorie": {
+   "Inflation": {
+    "faelle": 11,
+    "treffer": 8,
+    "quote": 73,
+    "schnittGerichtet": 0.153,
+    "schnittBetrag": 0.253,
+    "pWert": 0.227,
+    "belastbar": false
+   },
+   "Arbeitsmarkt": {
+    "faelle": 5,
+    "treffer": 3,
+    "quote": 60,
+    "schnittGerichtet": 0.056,
+    "schnittBetrag": 0.394,
+    "pWert": 1,
+    "belastbar": false
+   },
+   "Wachstum & Konsum": {
+    "faelle": 4,
+    "treffer": 2,
+    "quote": 50,
+    "schnittGerichtet": 0.17,
+    "schnittBetrag": 0.466,
+    "pWert": 1,
+    "belastbar": false
+   }
+  },
+  "jeWaehrungRoh": {
+   "USD": {
+    "faelle": 19,
+    "treffer": 12,
+    "quote": 63,
+    "schnittGerichtet": 0.084,
+    "schnittBetrag": 0.313,
+    "pWert": 0.359,
+    "belastbar": false
+   },
+   "CAD": {
+    "faelle": 8,
+    "treffer": 6,
+    "quote": 75,
+    "schnittGerichtet": 0.188,
+    "schnittBetrag": 0.239,
+    "pWert": 0.289,
+    "belastbar": false
+   },
+   "AUD": {
+    "faelle": 9,
+    "treffer": 5,
+    "quote": 56,
+    "schnittGerichtet": 0.147,
+    "schnittBetrag": 0.63,
+    "pWert": 1,
+    "belastbar": false
+   },
+   "GBP": {
+    "faelle": 4,
+    "treffer": 3,
+    "quote": 75,
+    "schnittGerichtet": 0.191,
+    "schnittBetrag": 0.316,
+    "pWert": 0.625,
+    "belastbar": false
+   },
+   "NZD": {
+    "faelle": 4,
+    "treffer": 3,
+    "quote": 75,
+    "schnittGerichtet": 0.296,
+    "schnittBetrag": 0.383,
+    "pWert": 0.625,
+    "belastbar": false
+   }
+  },
+  "letzte": [
+   {
+    "datum": "2026-07-22",
+    "land": "GBP",
+    "titel": "CPI y/y",
+    "ueberraschung": "niedriger",
+    "erwartet": "schwächer",
+    "bewegung": -0.246,
+    "wieErwartet": true
+   },
+   {
+    "datum": "2026-07-22",
+    "land": "AUD",
+    "titel": "Employment Change (+1 weitere)",
+    "ueberraschung": "hoeher",
+    "erwartet": "stärker",
+    "bewegung": -0.308,
+    "wieErwartet": false
+   },
+   {
+    "datum": "2026-07-28",
+    "land": "AUD",
+    "titel": "CPI y/y",
+    "ueberraschung": "niedriger",
+    "erwartet": "schwächer",
+    "bewegung": -0.444,
+    "wieErwartet": true
+   },
+   {
+    "datum": "2026-07-30",
+    "land": "GBP",
+    "titel": "MPC Official Bank Rate Votes",
+    "ueberraschung": "hoeher",
+    "erwartet": "stärker",
+    "bewegung": 0.749,
+    "wieErwartet": true
+   },
+   {
+    "datum": "2026-07-30",
+    "land": "USD",
+    "titel": "Advance GDP q/q (+1 weitere)",
+    "ueberraschung": "niedriger",
+    "erwartet": "schwächer",
+    "bewegung": -0.463,
+    "wieErwartet": true
+   },
+   {
+    "datum": "2026-08-03",
+    "land": "USD",
+    "titel": "ISM Manufacturing PMI",
+    "ueberraschung": "hoeher",
+    "erwartet": "stärker",
+    "bewegung": 0.099,
+    "wieErwartet": true
+   },
+   {
+    "datum": "2026-08-07",
+    "land": "CAD",
+    "titel": "Employment Change",
+    "ueberraschung": "hoeher",
+    "erwartet": "stärker",
+    "bewegung": 0.497,
+    "wieErwartet": true
+   },
+   {
+    "datum": "2026-08-13",
+    "land": "GBP",
+    "titel": "GDP m/m",
+    "ueberraschung": "hoeher",
+    "erwartet": "stärker",
+    "bewegung": -0.25,
+    "wieErwartet": false
+   },
+   {
+    "datum": "2026-08-17",
+    "land": "CAD",
+    "titel": "CPI m/m (+1 weitere)",
+    "ueberraschung": "hoeher",
+    "erwartet": "stärker",
+    "bewegung": -0.103,
+    "wieErwartet": false
+   },
+   {
+    "datum": "2026-08-19",
+    "land": "AUD",
+    "titel": "Employment Change (+1 weitere)",
+    "ueberraschung": "niedriger",
+    "erwartet": "schwächer",
+    "bewegung": -0.501,
+    "wieErwartet": true
+   }
+  ]
+ },
  "sentiment": null,
  "news": {
-  "stand": "2026-08-25T19:50:08.080Z",
+  "stand": "2026-08-25T21:25:44.928Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Chinese Yuan: Bullish bias with focus on 6.7000 against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-with-focus-on-67000-against-us-dollar-uob-202608252121",
+    "datum": "2026-08-25T21:21:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "New Zealand Dollar climbs to fresh highs amid timid US Dollar",
+    "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-fresh-highs-amid-timid-us-dollar-202608252054",
+    "datum": "2026-08-25T20:54:20.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Singapore Dollar: Range-bound consolidation outlook against US Dollar – Commerzbank",
+    "link": "https://www.fxstreet.com/news/singapore-dollar-range-bound-consolidation-outlook-against-us-dollar-commerzbank-202608252040",
+    "datum": "2026-08-25T20:40:00.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas market news wrap: Some late talk of Iran peace",
+    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-some-late-talk-of-iran-peace/",
+    "datum": "2026-08-25T20:22:48.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US-Iran agree ceasefire deal, sinks Oil – RIA Novosti",
+    "link": "https://www.fxstreet.com/news/reports-of-us-iran-ceasefire-deal-sinks-oil-ria-novosti-202608252015",
+    "datum": "2026-08-25T20:15:37.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Economic and event calendar in Asia 26 August 2026 - Australian inflation data due",
+    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-26-august-2026-australian-inflation-data-due/",
+    "datum": "2026-08-25T20:04:24.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Treasury yields fall as Hormuz progress eases inflation fears",
+    "link": "https://www.fxstreet.com/news/us-treasury-yields-fall-as-hormuz-progress-eases-inflation-fears-202608251954",
+    "datum": "2026-08-25T19:54:06.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "South Korean Won: Strength backed by tech flows against US Dollar – Societe Generale",
+    "link": "https://www.fxstreet.com/news/south-korean-won-strength-backed-by-tech-flows-against-us-dollar-societe-generale-202608251954",
+    "datum": "2026-08-25T19:54:00.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Chinese Yuan: Trade risks limit gains against US Dollar – OCBC",
@@ -4052,40 +4329,10 @@ window.MAKRO_DATA = {
     "datum": "2026-08-25T18:00:00.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "USD/CAD Price Forecast: Bearish indicators keep the path tilted lower",
-    "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756",
-    "datum": "2026-08-25T17:56:36.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro remains flat with Sterling despite upbeat German data",
-    "link": "https://www.fxstreet.com/news/euro-remains-flat-with-sterling-despite-upbeat-german-data-202608251739",
-    "datum": "2026-08-25T17:39:11.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen remains vulnerable despite softer Greenback",
-    "link": "https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-despite-softer-greenback-202608251719",
-    "datum": "2026-08-25T17:19:16.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Germany: Political risks cloud reform outlook – ING",
-    "link": "https://www.fxstreet.com/news/germany-political-risks-cloud-reform-outlook-ing-202608251707",
-    "datum": "2026-08-25T17:07:00.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "US treasury sells $69 billion of 2-year notes at a high yield of 4.204%",
     "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of/",
     "datum": "2026-08-25T17:06:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Mexico: Alignment for certainty in USMCA – Societe Generale",
-    "link": "https://www.fxstreet.com/news/mexico-alignment-for-certainty-in-usmca-societe-generale-202608251648",
-    "datum": "2026-08-25T16:48:00.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -4094,28 +4341,10 @@ window.MAKRO_DATA = {
     "datum": "2026-08-25T16:42:36.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Dow Jones Industrial Average round-trips between Ottawa and the Treasury",
-    "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-202608251636",
-    "datum": "2026-08-25T16:36:36.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Iran and Oman propose a joint temporary shipping lane",
     "link": "https://investinglive.com/news/iran-and-oman-propose-a-joint-temporary-shipping-lane/",
     "datum": "2026-08-25T15:40:45.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Richmond Fed manufacturing composite index +4 vs +5 prior",
-    "link": "https://investinglive.com/news/richmond-fed-manufacturing-composite-index-4-vs-5-prior/",
-    "datum": "2026-08-25T14:03:05.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US Conference Board August consumer confidence 89.4 vs 90.2 expected",
-    "link": "https://investinglive.com/news/us-conference-board-august-consumer-confidence-89-4-vs-90-2-expected/",
-    "datum": "2026-08-25T14:00:14.000Z"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T08:32:37.219Z",
+  "stand": "2026-08-25T12:32:05.417Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro holds gains against Canadian Dollar on upbeat German IFO data",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-on-upbeat-german-ifo-data-202608250830",
-      "datum": "2026-08-25T08:30:12.000Z"
+      "titel": "British Pound: Range trading outlook against Euro – Rabobank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-trading-outlook-against-euro-rabobank-202608251221",
+      "datum": "2026-08-25T12:21:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound extends gains to fresh monthly peak, around mid-217.00s vs weaker Yen",
-      "link": "https://www.fxstreet.com/news/british-pound-extends-gains-to-fresh-monthly-peak-around-mid-21700s-vs-weaker-yen-202608250829",
-      "datum": "2026-08-25T08:29:27.000Z"
+      "titel": "US ADP Employment Change 4-week average increases to 11.750K",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-11750k-202608251221",
+      "datum": "2026-08-25T12:21:10.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Policy crosscurrents shape outlook – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-policy-crosscurrents-shape-outlook-ocbc-202608250825",
-      "datum": "2026-08-25T08:25:53.000Z"
+      "titel": "US Dollar: Fragmentation risks and reserve diversification – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-fragmentation-risks-and-reserve-diversification-mufg-202608251206",
+      "datum": "2026-08-25T12:06:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: Upside bias toward 1.3700 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-upside-bias-toward-13700-against-us-dollar-uob-202608250810",
-      "datum": "2026-08-25T08:10:22.000Z"
+      "titel": "GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-recover-lost-ground-as-intervention-effect-wears-off-202608251157",
+      "datum": "2026-08-25T11:57:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Germany’s IFO Business Climate Index improves again, arriving at 88.8 vs. 87.2 estimates",
-      "link": "https://www.fxstreet.com/news/germanys-ifo-business-climate-index-improves-again-arriving-at-888-vs-872-estimates-202608250802",
-      "datum": "2026-08-25T08:02:48.000Z"
+      "titel": "Canadian Dollar: Trade conflict keeps downside risks alive against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-conflict-keeps-downside-risks-alive-against-us-dollar-ing-202608251154",
+      "datum": "2026-08-25T11:54:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen under pressure as geopolitical risks support the US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-under-pressure-as-geopolitical-risks-support-the-us-dollar-202608251150",
+      "datum": "2026-08-25T11:50:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Chinese demand peak shifts market balance – Commerzbank",
+      "link": "https://www.fxstreet.com/news/oil-chinese-demand-peak-shifts-market-balance-commerzbank-202608251145",
+      "datum": "2026-08-25T11:45:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI plummets to near $82 as US economic pressure on Iran seems less risky",
+      "link": "https://www.fxstreet.com/news/wti-plummets-to-near-82-as-us-economic-pressure-on-iran-seems-less-risky-202608251136",
+      "datum": "2026-08-25T11:36:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound hovers near six-month highs with investors awaiting key US events",
+      "link": "https://www.fxstreet.com/news/british-pound-hovers-near-six-month-highs-with-investors-awaiting-key-us-events-202608251135",
+      "datum": "2026-08-25T11:35:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Risk sentiment improves on hopes of US-Iran breakthrough",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-on-hopes-of-us-iran-breakthrough/",
+      "datum": "2026-08-25T11:34:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Strength intact with 0.7200 in focus against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strength-intact-with-07200-in-focus-against-us-dollar-uob-202608251127",
+      "datum": "2026-08-25T11:27:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Recovery against US Dollar supported by data – BBH",
+      "link": "https://www.fxstreet.com/news/euro-recovery-against-us-dollar-supported-by-data-bbh-202608251117",
+      "datum": "2026-08-25T11:17:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold pauses near three-month high after sharp rally",
+      "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
+      "datum": "2026-08-25T11:09:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Pakistani Army Chief Munir is carrying an offer to Iran to halt blockade and lift sanctions under MoU",
+      "link": "https://investinglive.com/news/pakistani-army-chief-munir-is-carrying-an-offer-to-iran-to-halt-blockade-and-lift-sanctions-under-mou/",
+      "datum": "2026-08-25T08:36:49.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Germany August Ifo business climate index 88.8 vs 87.2 expected",
       "link": "https://investinglive.com/news/germany-august-ifo-business-climate-index-xx-vs-87-2-expected/",
       "datum": "2026-08-25T08:00:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Rally pauses below 1.3700",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-rally-pauses-below-13700-202608250757",
-      "datum": "2026-08-25T07:57:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Path depends on yield regime shift – MUFG",
-      "link": "https://www.fxstreet.com/news/gold-path-depends-on-yield-regime-shift-mufg-202608250748",
-      "datum": "2026-08-25T07:48:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: Could surpass 1.3900 as break above 38.2% Fibo. comes into play",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-could-surpass-13900-as-break-above-382-fibo-comes-into-play-202608250748",
-      "datum": "2026-08-25T07:48:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar falls as US Dollar gains on safe-haven demand",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-falls-as-us-dollar-gains-on-safe-haven-demand-202608250748",
-      "datum": "2026-08-25T07:48:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD slips below $68.50 despite revived debasement trading",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6850-despite-revived-debasement-trading-202608250732",
-      "datum": "2026-08-25T07:32:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China says its cooperation with Iran should not be disrupted - Reuters",
-      "link": "https://www.fxstreet.com/news/china-says-its-cooperation-with-iran-should-not-be-disrupted-reuters-202608250732",
-      "datum": "2026-08-25T07:32:41.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -91,28 +109,10 @@
       "datum": "2026-08-25T06:00:12.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee to remain under pressure due to elevated oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537",
-      "datum": "2026-08-25T05:37:39.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-27/",
       "datum": "2026-08-25T04:15:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Gold down, Bitcoin up",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-down-bitcoin-up/",
-      "datum": "2026-08-25T03:34:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan to weigh tax incentives for retail JGB investors, Katayama says",
-      "link": "https://investinglive.com/news/japan-to-weigh-tax-incentives-for-retail-jgb-investors-katayama-says/",
-      "datum": "2026-08-25T02:49:31.000Z"
     }
   ]
 }

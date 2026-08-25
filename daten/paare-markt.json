@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T05:06:03.728Z",
+  "stand": "2026-08-25T06:32:12.177Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": -3,
-      "tiltGesamt": -7,
-      "score": -2,
+      "tiltZins": -2,
+      "tiltGesamt": -6,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
     },
@@ -57,9 +57,9 @@
       "paar": "USD/CHF",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": 4,
-      "tiltGesamt": 9,
-      "score": 5,
+      "tiltZins": 3,
+      "tiltGesamt": 8,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
     },
@@ -67,9 +67,9 @@
       "paar": "NZD/USD",
       "baseScore": 2,
       "tiltCot": -5,
-      "tiltZins": -2,
-      "tiltGesamt": -7,
-      "score": -5,
+      "tiltZins": -1,
+      "tiltGesamt": -6,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und leichtes Risk-off bremsen; Großspekulanten stark short."
     }

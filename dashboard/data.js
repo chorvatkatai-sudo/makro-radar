@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-25T05:06:03.729Z",
+ "erstellt": "2026-08-25T06:32:12.178Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -2271,7 +2271,7 @@ window.MAKRO_DATA = {
    "title": "Coincident Index Prel",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "118.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2281,7 +2281,7 @@ window.MAKRO_DATA = {
    "title": "Leading Economic Index Prel",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "116.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3232,7 +3232,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-25T05:06:03.174Z",
+  "stand": "2026-08-25T06:32:11.753Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3304,9 +3304,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.1,
+    "wert": 84.23,
     "tagProzent": 0,
-    "wocheProzent": -0.85,
+    "wocheProzent": -1.86,
     "renditeDelta": false,
     "verlauf": [
      79.26,
@@ -3329,17 +3329,17 @@ window.MAKRO_DATA = {
      87.83,
      87.06,
      85.01,
-     85.1,
-     85.1
+     84.23,
+     84.23
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 92.14,
+    "wert": 91.35,
     "tagProzent": 0,
-    "wocheProzent": 0.57,
+    "wocheProzent": -0.29,
     "renditeDelta": false,
     "verlauf": [
      84.09,
@@ -3362,17 +3362,17 @@ window.MAKRO_DATA = {
      93.78,
      94.39,
      92.17,
-     92.14,
-     92.14
+     91.35,
+     91.35
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4682.5,
+    "wert": 4702.3,
     "tagProzent": 0,
-    "wocheProzent": 4.3,
+    "wocheProzent": 4.74,
     "renditeDelta": false,
     "verlauf": [
      4036.3,
@@ -3395,8 +3395,8 @@ window.MAKRO_DATA = {
      4516.3,
      4624.1,
      4640.8,
-     4682.5,
-     4682.5
+     4702.3,
+     4702.3
     ]
    },
    "US02Y": {
@@ -3502,9 +3502,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 80452.29,
+    "wert": 80690.84,
     "tagProzent": 0,
-    "wocheProzent": 10.16,
+    "wocheProzent": 10.49,
     "renditeDelta": false,
     "verlauf": [
      64055.95,
@@ -3527,8 +3527,8 @@ window.MAKRO_DATA = {
      78335.19,
      77083.41,
      77755.27,
-     80452.29,
-     80452.29
+     80690.84,
+     80690.84
     ]
    },
    "FEDFUT": {
@@ -3728,12 +3728,12 @@ window.MAKRO_DATA = {
    "stand": "2026-08-25",
    "werte": {
     "USD": {
-     "wert": 4.249,
-     "wocheDelta": 0.078
+     "wert": 4.24,
+     "wocheDelta": 0.069
     },
     "EUR": {
-     "wert": 2.855,
-     "wocheDelta": 0.06
+     "wert": 2.848,
+     "wocheDelta": 0.053
     },
     "GBP": {
      "wert": 4.383,
@@ -3744,8 +3744,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.016
     },
     "AUD": {
-     "wert": 4.592,
-     "wocheDelta": 0.011
+     "wert": 4.584,
+     "wocheDelta": 0.003
     },
     "CAD": {
      "wert": 2.957,
@@ -3784,9 +3784,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 5,
    "tiltCot": -4,
-   "tiltZins": -3,
-   "tiltGesamt": -7,
-   "score": -2,
+   "tiltZins": -2,
+   "tiltGesamt": -6,
+   "score": -1,
    "cotExtrem": null,
    "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
   },
@@ -3824,9 +3824,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": -4,
    "tiltCot": 5,
-   "tiltZins": 4,
-   "tiltGesamt": 9,
-   "score": 5,
+   "tiltZins": 3,
+   "tiltGesamt": 8,
+   "score": 4,
    "cotExtrem": null,
    "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
   },
@@ -3834,22 +3834,64 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": 2,
    "tiltCot": -5,
-   "tiltZins": -2,
-   "tiltGesamt": -7,
-   "score": -5,
+   "tiltZins": -1,
+   "tiltGesamt": -6,
+   "score": -4,
    "cotExtrem": null,
    "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und leichtes Risk-off bremsen; Großspekulanten stark short."
   }
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-25T05:06:03.727Z",
+  "stand": "2026-08-25T06:32:12.176Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area",
+    "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-us-dollar-keeps-crawling-towards-the-key-16000-area-202608250631",
+    "datum": "2026-08-25T06:31:14.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar: Data weakness keeps downside risks elevated - TD Securities",
+    "link": "https://www.fxstreet.com/news/us-dollar-data-weakness-keeps-downside-risks-elevated-td-securities-202608250627",
+    "datum": "2026-08-25T06:27:10.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro: Further gains eyed toward 1.1800 against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/euro-further-gains-eyed-toward-11800-against-us-dollar-uob-202608250608",
+    "datum": "2026-08-25T06:08:53.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Germany Q2 final GDP +0.3% vs +0.2% q/q prelim",
+    "link": "https://investinglive.com/news/germany-q2-final-gdp-xx-vs-0-2-q-q-prelim/",
+    "datum": "2026-08-25T06:00:12.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "EUR/USD Price Forecast: Corrects further as US Dollar extends recovery",
+    "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-corrects-further-as-us-dollar-extends-recovery-202608250558",
+    "datum": "2026-08-25T05:58:30.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indian Rupee ticks up against US Dollar on RBI’s likely intervention",
+    "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537",
+    "datum": "2026-08-25T05:37:39.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indonesian Rupiah struggles amid record deficit, external pressures",
+    "link": "https://www.fxstreet.com/news/indonesian-rupiah-struggles-amid-record-deficit-external-pressures-202608250527",
+    "datum": "2026-08-25T05:27:23.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "India Gold price today: Gold falls, according to FXStreet data",
@@ -3887,12 +3929,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-25T03:45:37.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: XAG/USD corrects below $68 in countdown to US PCE Inflation data",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-corrects-below-68-in-countdown-to-us-pce-inflation-data-202608250344",
-    "datum": "2026-08-25T03:44:16.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "investingLive Asia-Pacific market news: Gold down, Bitcoin up",
     "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-down-bitcoin-up/",
@@ -3900,19 +3936,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "British Pound holds range below mid-1.3600s as USD firms amid Fed risks and Iran tensions",
-    "link": "https://www.fxstreet.com/news/british-pound-holds-range-below-mid-13600s-as-usd-firms-amid-fed-risks-and-iran-tensions-202608250333",
-    "datum": "2026-08-25T03:33:43.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar gains as high inflation fuels odds of RBNZ September rate hikes",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-high-inflation-fuels-odds-of-rbnz-september-rate-hikes-202608250300",
-    "datum": "2026-08-25T03:00:34.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Gold moves away from multi‑month top as Fed rate fears and Middle East jitters support USD",
+    "titel": "Gold sticks to modest losses below $4,650 as Fed risks and Middle East tensions lift USD",
     "link": "https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254",
     "datum": "2026-08-25T02:54:12.000Z"
    },
@@ -3921,24 +3945,6 @@ window.MAKRO_DATA = {
     "titel": "Japan to weigh tax incentives for retail JGB investors, Katayama says",
     "link": "https://investinglive.com/news/japan-to-weigh-tax-incentives-for-retail-jgb-investors-katayama-says/",
     "datum": "2026-08-25T02:49:31.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japan’s Katayama: Will focus on key policies in FY27 budget to drive economic growth",
-    "link": "https://www.fxstreet.com/news/japans-katayama-will-focus-on-key-policies-in-fy27-budget-to-drive-economic-growth-202608250241",
-    "datum": "2026-08-25T02:41:27.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar remains steady following RBA Meeting Minutes",
-    "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-rba-meeting-minutes-202608250205",
-    "datum": "2026-08-25T02:05:19.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran",
-    "link": "https://www.fxstreet.com/news/wti-holds-ground-above-8450-as-escalating-concerns-over-us-sanctions-on-iran-202608250135",
-    "datum": "2026-08-25T01:35:23.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -3951,12 +3957,6 @@ window.MAKRO_DATA = {
     "titel": "investingLive Americas market news wrap: Trump and Canada trade threats",
     "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-trump-and-canada-trade-threats-0/",
     "datum": "2026-08-24T20:13:00.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Is the US-Canada deal the classic fifth stage of Trump negotiations",
-    "link": "https://investinglive.com/news/is-the-us-canada-deal-the-classic-fifth-stage-of-trump-negotiations/",
-    "datum": "2026-08-24T19:23:42.000Z"
    }
   ]
  },

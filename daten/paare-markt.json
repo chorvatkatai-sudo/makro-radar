@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T06:32:12.177Z",
+  "stand": "2026-08-25T08:32:37.220Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -37,9 +37,9 @@
       "paar": "AUD/USD",
       "baseScore": 0,
       "tiltCot": -3,
-      "tiltZins": -3,
-      "tiltGesamt": -6,
-      "score": -6,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -5,
       "cotExtrem": null,
       "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral."
     },

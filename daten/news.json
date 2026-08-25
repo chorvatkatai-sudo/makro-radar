@@ -1,11 +1,17 @@
 {
-  "stand": "2026-08-25T04:33:50.736Z",
+  "stand": "2026-08-25T05:06:03.727Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608250435",
+      "datum": "2026-08-25T04:35:04.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "EUR/JPY Price Forecast: Rises toward 186.00 after rebounding from ascending channel bottom",
@@ -62,7 +68,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD",
+      "titel": "Gold moves away from multi‑month top as Fed rate fears and Middle East jitters support USD",
       "link": "https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254",
       "datum": "2026-08-25T02:54:12.000Z"
     },
@@ -89,12 +95,6 @@
       "titel": "WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran",
       "link": "https://www.fxstreet.com/news/wti-holds-ground-above-8450-as-escalating-concerns-over-us-sanctions-on-iran-202608250135",
       "datum": "2026-08-25T01:35:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "RBA Minutes: Board ready to raise rates if upside risks materialise",
-      "link": "https://www.fxstreet.com/news/rba-minutes-board-ready-to-raise-rates-if-upside-risks-materialise-202608250132",
-      "datum": "2026-08-25T01:32:40.000Z"
     },
     {
       "quelle": "ForexLive",

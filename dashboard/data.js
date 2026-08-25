@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-25T05:05:04.598Z",
+ "erstellt": "2026-08-25T05:06:03.729Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -3232,13 +3232,13 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-25T04:33:49.828Z",
+  "stand": "2026-08-25T05:06:03.174Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99.08,
+    "wert": 99.07,
     "tagProzent": 0,
     "wocheProzent": 0.25,
     "renditeDelta": false,
@@ -3263,8 +3263,8 @@ window.MAKRO_DATA = {
      98.9,
      98.8,
      99,
-     99.08,
-     99.08
+     99.07,
+     99.07
     ]
    },
    "VIX": {
@@ -3304,9 +3304,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.23,
+    "wert": 85.1,
     "tagProzent": 0,
-    "wocheProzent": -0.7,
+    "wocheProzent": -0.85,
     "renditeDelta": false,
     "verlauf": [
      79.26,
@@ -3329,17 +3329,17 @@ window.MAKRO_DATA = {
      87.83,
      87.06,
      85.01,
-     85.23,
-     85.23
+     85.1,
+     85.1
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 92.28,
+    "wert": 92.14,
     "tagProzent": 0,
-    "wocheProzent": 0.72,
+    "wocheProzent": 0.57,
     "renditeDelta": false,
     "verlauf": [
      84.09,
@@ -3362,17 +3362,17 @@ window.MAKRO_DATA = {
      93.78,
      94.39,
      92.17,
-     92.28,
-     92.28
+     92.14,
+     92.14
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4687.9,
+    "wert": 4682.5,
     "tagProzent": 0,
-    "wocheProzent": 4.42,
+    "wocheProzent": 4.3,
     "renditeDelta": false,
     "verlauf": [
      4036.3,
@@ -3395,8 +3395,8 @@ window.MAKRO_DATA = {
      4516.3,
      4624.1,
      4640.8,
-     4687.9,
-     4687.9
+     4682.5,
+     4682.5
     ]
    },
    "US02Y": {
@@ -3502,9 +3502,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 80304.68,
+    "wert": 80452.29,
     "tagProzent": 0,
-    "wocheProzent": 9.96,
+    "wocheProzent": 10.16,
     "renditeDelta": false,
     "verlauf": [
      64055.95,
@@ -3527,8 +3527,8 @@ window.MAKRO_DATA = {
      78335.19,
      77083.41,
      77755.27,
-     80304.68,
-     80304.68
+     80452.29,
+     80452.29
     ]
    },
    "FEDFUT": {
@@ -3565,40 +3565,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "INFL10": {
-    "name": "Inflationserwartung 10J (Breakeven)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.32,
-    "tagProzent": -0.02,
-    "wocheProzent": 0.04,
-    "renditeDelta": true,
-    "verlauf": [
-     2.26,
-     2.21,
-     2.2,
-     2.26,
-     2.27,
-     2.28,
-     2.27,
-     2.23,
-     2.22,
-     2.26,
-     2.25,
-     2.29,
-     2.27,
-     2.26,
-     2.24,
-     2.27,
-     2.28,
-     2.3,
-     2.3,
-     2.34,
-     2.34,
-     2.32
-    ],
-    "quelle": "FRED"
-   },
    "REAL10": {
     "name": "US-Realzins 10J (TIPS)",
     "einheit": "%",
@@ -3630,6 +3596,40 @@ window.MAKRO_DATA = {
      2.35,
      2.35,
      2.4
+    ],
+    "quelle": "FRED"
+   },
+   "INFL10": {
+    "name": "Inflationserwartung 10J (Breakeven)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.32,
+    "tagProzent": -0.02,
+    "wocheProzent": 0.04,
+    "renditeDelta": true,
+    "verlauf": [
+     2.26,
+     2.21,
+     2.2,
+     2.26,
+     2.27,
+     2.28,
+     2.27,
+     2.23,
+     2.22,
+     2.26,
+     2.25,
+     2.29,
+     2.27,
+     2.26,
+     2.24,
+     2.27,
+     2.28,
+     2.3,
+     2.3,
+     2.34,
+     2.34,
+     2.32
     ],
     "quelle": "FRED"
    }
@@ -3740,12 +3740,12 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.014
     },
     "JPY": {
-     "wert": 1.676,
-     "wocheDelta": 0.015
+     "wert": 1.677,
+     "wocheDelta": 0.016
     },
     "AUD": {
-     "wert": 4.591,
-     "wocheDelta": 0.01
+     "wert": 4.592,
+     "wocheDelta": 0.011
     },
     "CAD": {
      "wert": 2.957,
@@ -3794,9 +3794,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": -6,
    "tiltCot": 3,
-   "tiltZins": 3,
-   "tiltGesamt": 6,
-   "score": 0,
+   "tiltZins": 2,
+   "tiltGesamt": 5,
+   "score": -1,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
   },
@@ -3843,13 +3843,19 @@ window.MAKRO_DATA = {
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-25T04:33:50.736Z",
+  "stand": "2026-08-25T05:06:03.727Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "India Gold price today: Gold falls, according to FXStreet data",
+    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608250435",
+    "datum": "2026-08-25T04:35:04.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "EUR/JPY Price Forecast: Rises toward 186.00 after rebounding from ascending channel bottom",
@@ -3906,7 +3912,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD",
+    "titel": "Gold moves away from multi‑month top as Fed rate fears and Middle East jitters support USD",
     "link": "https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254",
     "datum": "2026-08-25T02:54:12.000Z"
    },
@@ -3933,12 +3939,6 @@ window.MAKRO_DATA = {
     "titel": "WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran",
     "link": "https://www.fxstreet.com/news/wti-holds-ground-above-8450-as-escalating-concerns-over-us-sanctions-on-iran-202608250135",
     "datum": "2026-08-25T01:35:23.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "RBA Minutes: Board ready to raise rates if upside risks materialise",
-    "link": "https://www.fxstreet.com/news/rba-minutes-board-ready-to-raise-rates-if-upside-risks-materialise-202608250132",
-    "datum": "2026-08-25T01:32:40.000Z"
    },
    {
     "quelle": "ForexLive",

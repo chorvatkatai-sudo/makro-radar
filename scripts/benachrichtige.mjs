@@ -29,7 +29,8 @@ const TOKEN = process.env.TELEGRAM_TOKEN?.trim();
 const CHAT = process.env.TELEGRAM_CHAT?.trim();
 
 const FLAGGE = { USD: "🇺🇸", EUR: "🇪🇺", GBP: "🇬🇧", JPY: "🇯🇵", CHF: "🇨🇭", CAD: "🇨🇦", AUD: "🇦🇺", NZD: "🇳🇿", CNY: "🇨🇳" };
-const MAJORS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD"];
+const MAJORS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD",
+                "EUR/GBP", "EUR/JPY", "AUD/NZD", "EUR/CHF"];   // Crosses seit Session 10
 
 // Live-Kurse (ECB-Tageskurse, frankfurter.dev — kostenlos, kein Key). Einmal pro Lauf.
 async function holeKurse() {

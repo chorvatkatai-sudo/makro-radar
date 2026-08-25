@@ -230,7 +230,14 @@ for (const code in momentum) momentum[code].score = momentum[code].ueber - momen
 //         bei inverser 2s10s-Kurve (Häfen JPY/CHF rauf, AUD/NZD runter).
 //     Endscore = Grundscore + Tilts (gedeckelt -100..+100). Wird gezeigt UND vom
 //     Selbstlernen bewertet (siehe 7a).
+// Die 7 klassischen Majors sind ALLE USD-Crosses — zeigt das Briefing sie in dieselbe
+// Dollar-Richtung, ist das faktisch EINE Wette (Session-10-Befund: Ø 89% Gleichlauf,
+// daher nach 10 Wochen nur ~10 unabhängige Beobachtungen). Die vier Crosses darunter
+// sind vom Dollar unabhängig: sie liefern echte Zusatz-Information, beschleunigen das
+// Selbstlernen und geben auch an dollar-neutralen Tagen ein handelbares Signal.
 const MAJORS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD"];
+const CROSSES = ["EUR/GBP", "EUR/JPY", "AUD/NZD", "EUR/CHF"];
+const ALLE_PAARE = [...MAJORS, ...CROSSES];
 const clamp = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
 const stimmungZuScore = s => s === "bullisch" ? 40 : s === "bärisch" ? -40 : 0;
 const waehrungScore = code => {
@@ -246,16 +253,28 @@ const grundScore = paar => {
   const [b, q] = paar.split("/");
   return clamp(Math.round((waehrungScore(b) - waehrungScore(q)) / 2), -100, 100);
 };
-// COT: Währung + Vorzeichen (+1 wenn Basis, -1 wenn Gegenwährung); USD hat keine COT-Serie
-const COT_PAAR = { "EUR/USD": ["EUR", 1], "GBP/USD": ["GBP", 1], "AUD/USD": ["AUD", 1], "NZD/USD": ["NZD", 1], "USD/JPY": ["JPY", -1], "USD/CAD": ["CAD", -1], "USD/CHF": ["CHF", -1] };
+// COT: Der CFTC-Datensatz misst jede Währung GEGEN den Dollar (USD selbst hat im
+// CME-Satz keine Serie). Für ein USD-Paar zählt daher genau eine Seite; für ein Cross
+// ist die relative Positionierung die DIFFERENZ beider Netto-Anteile (die Dollar-Seite
+// kürzt sich heraus). Für USD-Paare liefert die Formel exakt das bisherige Ergebnis,
+// weil der USD-Anteil als 0 eingeht.
 const cotW = marktdaten?.cot?.waehrungen || {};
+const cotFuer = code => { const c = cotW[code]; return c && c.nettoAnteil != null ? c : null; };
 const tiltCot = paar => {
-  const m = COT_PAAR[paar]; if (!m) return 0;
-  const c = cotW[m[0]]; if (!c || c.nettoAnteil == null) return 0;
-  const daempfung = c.extrem === "extrem" ? 0.5 : 1;       // überfüllter Trade → Momentum-Signal halbieren (Reversal-Risiko)
-  return Math.round(clamp(c.nettoAnteil * 0.2, -5, 5) * m[1] * daempfung);
+  const [b, q] = paar.split("/");
+  const cb = cotFuer(b), cq = cotFuer(q);
+  if (!cb && !cq) return 0;
+  const diff = (cb?.nettoAnteil || 0) - (cq?.nettoAnteil || 0);
+  // Überfüllter Trade (|z|≥2) → Momentum-Signal halbieren (Reversal-Risiko).
+  const daempfung = (cb?.extrem === "extrem" || cq?.extrem === "extrem") ? 0.5 : 1;
+  return Math.round(clamp(diff * 0.2, -5, 5) * daempfung);
 };
-const cotExtremFuer = paar => { const m = COT_PAAR[paar]; return m ? (cotW[m[0]]?.extrem || null) : null; };
+// Für die Anzeige: die auffälligere der beiden Seiten melden.
+const cotExtremFuer = paar => {
+  const [b, q] = paar.split("/");
+  const stufen = [cotFuer(b)?.extrem, cotFuer(q)?.extrem].filter(Boolean);
+  return stufen.includes("extrem") ? "extrem" : (stufen[0] || null);
+};
 // Zinsen: BEVORZUGT die echte 2J-Zinsdifferenz je Paar (Wochen-Δ des Spreads
 // Basis−Gegenwährung, aus marktdaten.zinsen2j) — der klassische kurzfristige
 // FX-Treiber. Fallback (solange die 2J-Historie <1 Woche ist oder die Quelle
@@ -275,20 +294,26 @@ const spreadTilt = paar => {
   return clamp(d * 40, -8, 8);                           // 0,2 Pp Spread-Move/Woche = voller Ausschlag
 };
 const kurveInvers = marktdaten?.kurve2s10s != null && marktdaten.kurve2s10s < 0;
-// Risk-off: sichere Häfen JPY/CHF werten AUF -> USD/JPY & USD/CHF fallen (negativer Nudge)
-const RISKOFF = { "USD/JPY": -3, "USD/CHF": -3, "AUD/USD": -3, "NZD/USD": -3 };
+// Risk-off: sichere Häfen JPY/CHF werten AUF -> USD/JPY & USD/CHF fallen (negativer Nudge).
+// Bei den Crosses gilt dasselbe, wenn ein Hafen die GEGENwährung ist (EUR/JPY, EUR/CHF).
+// EUR/GBP und AUD/NZD haben keinen Hafen auf einer Seite -> kein Nudge.
+const RISKOFF = { "USD/JPY": -3, "USD/CHF": -3, "AUD/USD": -3, "NZD/USD": -3, "EUR/JPY": -3, "EUR/CHF": -3 };
 const tiltZins = paar => {
   let t = spreadTilt(paar);
   if (t == null) t = usdTilt * (USD_SEITE[paar] || 0);
   if (kurveInvers) t += (RISKOFF[paar] || 0);
   return Math.round(clamp(t, -10, 10));
 };
-const paareMarkt = MAJORS.map(paar => {
+const paareMarkt = ALLE_PAARE.map(paar => {
   const basis = grundScore(paar);
   const tc = tiltCot(paar), tz = tiltZins(paar);
   const score = clamp(basis + tc + tz, -100, 100);
   const e = explizitPaar[paar];
-  return { paar, baseScore: basis, tiltCot: tc, tiltZins: tz, tiltGesamt: tc + tz, score, cotExtrem: cotExtremFuer(paar), treiber: e?.treiber || "" };
+  return {
+    paar, baseScore: basis, tiltCot: tc, tiltZins: tz, tiltGesamt: tc + tz, score,
+    cotExtrem: cotExtremFuer(paar), treiber: e?.treiber || "",
+    istCross: !paar.includes("USD"),          // für Dashboard/Telegram: eigene Gruppe
+  };
 });
 const marktOverlayAktiv = !!(marktdaten?.cot?.waehrungen || marktdaten?.kurse?.US10Y);
 
@@ -441,11 +466,13 @@ for (const k of ["mitOverlay", "nurBase"]) {
 // sie in dieselbe Dollar-Richtung, ist das EINE Wette — siebenfach gezählt. Die
 // Paar-Quote (x/67) täuscht dann eine Stichprobe vor, die es nicht gibt. Deshalb
 // zusätzlich die ehrliche Wochen-Ebene: war die Dollar-Richtung der Woche richtig?
-const wochenWette = { treffer: 0, gesamt: 0, quote: null, konzentration: null };
+const wochenWette = { treffer: 0, gesamt: 0, quote: null, konzentration: null, usdWertungen: 0 };
 let konzSumme = 0;
 for (const w of ausgewertet) {
   let pStark = 0, pSchwach = 0, eStark = 0, eSchwach = 0;
   for (const paar in (w.auswertung.details || {})) {
+    if (!paar.includes("USD")) continue;           // Crosses sind KEINE Dollar-Wette
+    wochenWette.usdWertungen++;
     const d = w.auswertung.details[paar];
     const usdIstBasis = paar.startsWith("USD/");   // USD/JPY: score>0 = Dollar stark
     const sP = usdIstBasis ? Math.sign(d.score) : -Math.sign(d.score);

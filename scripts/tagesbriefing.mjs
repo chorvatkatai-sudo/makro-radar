@@ -93,15 +93,17 @@ function baueKurzfassung() {
   const k = [];
   k.push("⚡ KURZFASSUNG");
 
-  // 1) Dollar-Richtung + wie klar. Alle 7 Majors sind USD-Crosses.
-  if (paare.length) {
+  // 1) Dollar-Richtung + wie klar. NUR die USD-Paare zählen — die Crosses sind
+  //    eigenständige Wetten und würden die Dollar-Aussage sonst verwässern.
+  const usdPaare = paare.filter(p => p.paar.includes("USD"));
+  if (usdPaare.length) {
     let stark = 0, schwach = 0;
-    for (const p of paare) {
+    for (const p of usdPaare) {
       const usdIstBasis = p.paar.startsWith("USD/");
       const s = usdIstBasis ? Math.sign(p.score || 0) : -Math.sign(p.score || 0);
       if (s > 0) stark++; else if (s < 0) schwach++;
     }
-    const maxAbs = Math.max(...paare.map(p => Math.abs(p.score || 0)));
+    const maxAbs = Math.max(...usdPaare.map(p => Math.abs(p.score || 0)));
     // Ehrlich bleiben: bei |score| ≤ 10 (= unter 55%) ist nichts davon eine Richtung.
     if (maxAbs <= 10) {
       k.push(`🎯 Dollar: praktisch NEUTRAL — kein Signal über ${prozent(maxAbs)}, heute kein Makro-Edge`);
@@ -153,9 +155,10 @@ function baueKurzfassung() {
       .map(([c, v]) => `${c} ${v.richtung === "short" ? "short" : "long"} überfüllt (z ${v.zScore.toFixed(1).replace(".", ",").replace("-", "−")})`);
     if (extrem.length) risiken.push(`${extrem.join(", ")} → Squeeze-Gefahr`);
   }
-  if (paare.length) {
-    const richtungen = new Set(paare.filter(p => p.score).map(p => (p.paar.startsWith("USD/") ? 1 : -1) * Math.sign(p.score)));
-    if (richtungen.size === 1) risiken.push("alle 7 Paare = EINE Dollar-Wette (kein Streuungs-Schutz)");
+  const usdMitScore = paare.filter(p => p.paar.includes("USD") && p.score);
+  if (usdMitScore.length >= 5) {
+    const richtungen = new Set(usdMitScore.map(p => (p.paar.startsWith("USD/") ? 1 : -1) * Math.sign(p.score)));
+    if (richtungen.size === 1) risiken.push(`alle ${usdMitScore.length} Dollar-Paare = EINE Wette (kein Streuungs-Schutz — dann eher ein Cross handeln)`);
   }
   if (risiken.length) k.push(`⚠️ Risiko: ${risiken.join(" · ")}`);
 
@@ -190,10 +193,13 @@ if (detail.length) detail.unshift("", "— — — Details unten — — —");
 const fuss = [];
 if (paare.length) {
   fuss.push(""); fuss.push("📊 Paar-Einschätzung (Prognose der Woche):");
-  for (const p of paare) {
-    const sc = p.score || 0;
-    fuss.push(`${ampel(sc)} ${p.paar}  ${prozent(sc)} ${label(sc)}${staerke(sc)}`);
-  }
+  // Kompakt halten: 🟢/🔴 sagt die Richtung schon, die Signalstärke steht in der
+  // Kalibrierungszeile darunter. Paare ohne Signal in einer Sammelzeile.
+  const mitSignal = paare.filter(p => p.score);
+  const ohneSignal = paare.filter(p => !p.score);
+  for (const p of mitSignal) fuss.push(`${ampel(p.score)} ${p.paar} ${prozent(p.score)}${p.paar.includes("USD") ? "" : " 🔀"}`);
+  if (ohneSignal.length) fuss.push(`⚪ ohne Signal: ${ohneSignal.map(p => p.paar).join(", ")}`);
+  fuss.push("🔀 = Cross ohne Dollar (unabhängig von der Dollar-Richtung)");
   fuss.push("50% = neutral · % = meine Überzeugung, KEINE gemessene Wahrscheinlichkeit");
   // Gemessene Trefferquote der Signalstärke danebenstellen (sonst wirken die %
   // präziser, als sie sind). Stufen wie in der Kalibrierung des Build-Skripts.
@@ -208,7 +214,9 @@ fuss.push("");
 fuss.push("📲 Details & Einzel-Signale laufen separat ein. Volles Dashboard:");
 fuss.push("https://chorvatkatai-sudo.github.io/makro-radar/");
 
-const LIMIT = Number(process.env.TG_LIMIT) || 4000;   // Reserve unter Telegrams 4096 (TG_LIMIT nur zum Testen)
+// Telegram begrenzt auf 4096 Zeichen (UTF-16-Einheiten = JS .length; Emojis zählen 2).
+// 4060 lässt etwas Reserve, verschenkt aber nicht unnötig Platz. TG_LIMIT nur zum Testen.
+const LIMIT = Number(process.env.TG_LIMIT) || 4060;
 const HINWEIS = "… (gekürzt — voller Text im Dashboard)";
 let detailKurz = detail.slice();
 const laenge = d => [...kopf, ...d, ...fuss].join("\n").length;

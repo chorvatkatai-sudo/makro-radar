@@ -112,6 +112,7 @@
   .paar-detail { margin-top: 8px; }
   .paar-skala { display: flex; justify-content: space-between; font-size: 10.5px; color: var(--faint); margin-bottom: 7px; font-variant-numeric: tabular-nums; }
   .paar-treiber { font-size: 12.5px; color: var(--dim); line-height: 1.5; }
+  .paar-cross { font-size: 11px; opacity: .75; vertical-align: middle; }
   .paar-track { font-size: 11.5px; margin-top: 7px; font-weight: 700; }
   .paar-track.gut { color: var(--green); }
   .paar-track.schlecht { color: var(--red); }
@@ -351,11 +352,12 @@
   </div>
 
   <section id="sec-paare" style="display:none">
-    <h2>Major-Paare · Wochen-Score</h2>
+    <h2>Währungspaare · Wochen-Score</h2>
     <div class="paare-legende">
       <span><b class="g">▲ Grün = Bullish</b> — Basiswährung wird voraussichtlich stärker</span>
       <span><b class="r">▼ Rot = Bearish</b> — Basiswährung wird voraussichtlich schwächer</span>
-      <span>Der %-Wert ist meine Makro-Einschätzung + eine sichtbare Markt-Korrektur (COT-Positionierung &amp; US-Zinsen) — antippen zeigt die Aufschlüsselung.</span>
+      <span>Der %-Wert ist meine Makro-Einschätzung + eine sichtbare Markt-Korrektur (COT-Positionierung &amp; Zinsdifferenz) — antippen zeigt die Aufschlüsselung.</span>
+      <span><b>🔀 Cross</b> = Paar ohne Dollar (EUR/GBP, EUR/JPY, AUD/NZD, EUR/CHF). Die 7 Dollar-Paare bewegen sich meist gemeinsam; die Crosses sind davon unabhängig — sie geben auch dann ein Signal, wenn der Dollar seitwärts läuft.</span>
     </div>
     <div class="quote-box" id="quoteBox" style="display:none"></div>
     <div class="paare-grid" id="paare"></div>
@@ -681,7 +683,8 @@ if (MD?.cot?.waehrungen && Object.keys(MD.cot.waehrungen).length) {
 // ---------- 2J-Zinsdifferenzen je Paar ----------
 const Z2 = MD?.zinsen2j?.werte;
 if (Z2 && Object.keys(Z2).length >= 2) {
-  const MAJORS7 = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD"];
+  const MAJORS7 = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD",
+                   "EUR/GBP", "EUR/JPY", "AUD/NZD", "EUR/CHF"];
   const karten = MAJORS7.map(paar => {
     const [b, q] = paar.split("/");
     const zb = Z2[b], zq = Z2[q];
@@ -759,7 +762,8 @@ if (B) {
   // Score-Skala: -100 (max bärisch fürs Paar) … 0 (neutral) … +100 (max bullisch).
   // Quelle 1: expliziter B.paare-Block (meine direkte Paar-Einschätzung).
   // Quelle 2 (Fallback): aus den Währungs-Scores berechnet (Basis minus Gegenwährung).
-  const MAJORS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD"];
+  const MAJORS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD",
+                  "EUR/GBP", "EUR/JPY", "AUD/NZD", "EUR/CHF"];
   const stimmungZuScore = s => s === "bullisch" ? 40 : s === "bärisch" ? -40 : 0;
   const waehrungScore = code => {
     const w = (B.waehrungen || {})[code];
@@ -837,7 +841,7 @@ if (B) {
     return `<div class="paar-karte ${richtung}" onclick="this.classList.toggle('offen')">
       <div class="paar-kopf">
         <div class="paar-links">
-          <span class="paar-name">${esc(p.paar)}${konfChip(p.paar)}</span>
+          <span class="paar-name">${esc(p.paar)}${p.istCross || !p.paar.includes("USD") ? ` <span class="paar-cross" title="Cross-Paar ohne Dollar — unabhängig von der Dollar-Richtung">🔀</span>` : ""}${konfChip(p.paar)}</span>
           <span class="paar-kurs" data-pair="${esc(p.paar)}">&nbsp;</span>
         </div>
         <span class="paar-badge ${richtung}">${badge}</span>
@@ -904,7 +908,7 @@ if (B) {
         const urteil = WW.vomZufallUnterscheidbar
           ? "<b>unterscheidet sich vom Zufall</b>"
           : "liegt also <b>noch im Zufallsbereich</b>";
-        box.innerHTML += `<div style="margin-top:6px;font-size:12.5px;color:var(--faint)">🎲 Ehrlich gerechnet: Im Schnitt zeigen <b>${WW.konzentration} %</b> der Paare in dieselbe Dollar-Richtung — das sind faktisch <b>${WW.gesamt}</b> Wochen-Wetten, nicht ${Q.gesamt} einzelne. Davon <b>${WW.treffer}</b> richtig (${WW.quote} %). ${band} — das Ergebnis ${urteil}.</div>`;
+        box.innerHTML += `<div style="margin-top:6px;font-size:12.5px;color:var(--faint)">🎲 Ehrlich gerechnet: Im Schnitt zeigen <b>${WW.konzentration} %</b> der Dollar-Paare in dieselbe Richtung — das sind faktisch <b>${WW.gesamt}</b> Wochen-Wetten, nicht ${WW.usdWertungen || Q.gesamt} einzelne. Davon <b>${WW.treffer}</b> richtig (${WW.quote} %). ${band} — das Ergebnis ${urteil}. <i>Die Cross-Paare (ohne Dollar) zählen hier bewusst nicht mit — sie sind eigenständige Wetten.</i></div>`;
       }
       // Bringt die Markt-Korrektur (COT/Zinsen) etwas? Endscore vs. reiner Makro-Score.
       const OV = Q.overlayVergleich;

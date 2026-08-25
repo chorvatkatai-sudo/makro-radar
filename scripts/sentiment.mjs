@@ -19,7 +19,8 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
 
 const PAARE = { EURUSD: "EUR/USD", GBPUSD: "GBP/USD", USDJPY: "USD/JPY", AUDUSD: "AUD/USD",
-                USDCAD: "USD/CAD", USDCHF: "USD/CHF", NZDUSD: "NZD/USD" };
+                USDCAD: "USD/CAD", USDCHF: "USD/CHF", NZDUSD: "NZD/USD",
+                EURGBP: "EUR/GBP", EURJPY: "EUR/JPY", AUDNZD: "AUD/NZD", EURCHF: "EUR/CHF" };
 const UA = { "User-Agent": "Mozilla/5.0 (Makro-Dashboard, privat)" };
 
 async function api(pfad) {

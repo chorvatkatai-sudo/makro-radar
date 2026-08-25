@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-25T19:36:54.861Z",
+ "erstellt": "2026-08-25T19:50:08.108Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -3232,15 +3232,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-25T19:17:41.225Z",
+  "stand": "2026-08-25T19:50:07.168Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.91,
+    "wert": 98.93,
     "tagProzent": 0,
-    "wocheProzent": 0.08,
+    "wocheProzent": 0.1,
     "renditeDelta": false,
     "verlauf": [
      101.38,
@@ -3263,17 +3263,17 @@ window.MAKRO_DATA = {
      98.9,
      98.8,
      99,
-     98.91,
-     98.91
+     98.93,
+     98.93
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.45,
+    "wert": 15.46,
     "tagProzent": 0,
-    "wocheProzent": 3.76,
+    "wocheProzent": 3.83,
     "renditeDelta": false,
     "verlauf": [
      18.21,
@@ -3296,17 +3296,17 @@ window.MAKRO_DATA = {
      16.01,
      15.13,
      15.85,
-     15.45,
-     15.45
+     15.46,
+     15.46
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 82.36,
+    "wert": 82.05,
     "tagProzent": 0,
-    "wocheProzent": -4.04,
+    "wocheProzent": -4.4,
     "renditeDelta": false,
     "verlauf": [
      79.26,
@@ -3329,17 +3329,17 @@ window.MAKRO_DATA = {
      87.83,
      87.06,
      85.01,
-     82.36,
-     82.36
+     82.05,
+     82.05
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 87.23,
+    "wert": 87.06,
     "tagProzent": 0,
-    "wocheProzent": -4.79,
+    "wocheProzent": -4.98,
     "renditeDelta": false,
     "verlauf": [
      84.09,
@@ -3362,17 +3362,17 @@ window.MAKRO_DATA = {
      93.78,
      94.39,
      92.17,
-     87.23,
-     87.23
+     87.06,
+     87.06
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4715.6,
+    "wert": 4716.9,
     "tagProzent": 0,
-    "wocheProzent": 5.04,
+    "wocheProzent": 5.07,
     "renditeDelta": false,
     "verlauf": [
      4036.3,
@@ -3395,8 +3395,8 @@ window.MAKRO_DATA = {
      4516.3,
      4624.1,
      4640.8,
-     4715.6,
-     4715.6
+     4716.9,
+     4716.9
     ]
    },
    "US02Y": {
@@ -3502,9 +3502,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 79190.97,
+    "wert": 78765.48,
     "tagProzent": 0,
-    "wocheProzent": 1.09,
+    "wocheProzent": 0.55,
     "renditeDelta": false,
     "verlauf": [
      64597.5,
@@ -3527,17 +3527,17 @@ window.MAKRO_DATA = {
      77083.41,
      77755.27,
      78964.48,
-     79190.97,
-     79190.97
+     78765.48,
+     78765.48
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.73,
-    "tagProzent": -0.01,
-    "wocheProzent": 0.1,
+    "wert": 3.72,
+    "tagProzent": 0,
+    "wocheProzent": 0.09,
     "renditeDelta": true,
     "verlauf": [
      3.63,
@@ -3560,8 +3560,8 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
-     3.74,
-     3.73
+     3.72,
+     3.72
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
@@ -3728,12 +3728,12 @@ window.MAKRO_DATA = {
    "stand": "2026-08-25",
    "werte": {
     "USD": {
-     "wert": 4.195,
-     "wocheDelta": 0.024
+     "wert": 4.187,
+     "wocheDelta": 0.016
     },
     "EUR": {
-     "wert": 2.796,
-     "wocheDelta": 0.001
+     "wert": 2.759,
+     "wocheDelta": -0.036
     },
     "GBP": {
      "wert": 4.313,
@@ -3748,8 +3748,8 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.032
     },
     "CAD": {
-     "wert": 2.917,
-     "wocheDelta": -0.041
+     "wert": 2.908,
+     "wocheDelta": -0.05
     },
     "CHF": {
      "wert": 0.047,
@@ -3774,11 +3774,12 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 6,
    "tiltCot": -1,
-   "tiltZins": 0,
-   "tiltGesamt": -1,
-   "score": 5,
+   "tiltZins": -2,
+   "tiltGesamt": -3,
+   "score": 3,
    "cotExtrem": "erhoeht",
-   "treiber": "Dollar leicht erholt, aber Entwertungs-Wette (Gold/BTC-Rekord) trägt Euro; EUR-2J steigt. Zins-Momentum diese Woche etwas weniger pro-Euro als zuletzt (US-2J zieht an). Track nur 30 % → gedeckelt."
+   "treiber": "Dollar leicht erholt, aber Entwertungs-Wette (Gold/BTC-Rekord) trägt Euro; EUR-2J steigt. Zins-Momentum diese Woche etwas weniger pro-Euro als zuletzt (US-2J zieht an). Track nur 30 % → gedeckelt.",
+   "istCross": false
   },
   {
    "paar": "GBP/USD",
@@ -3788,7 +3789,8 @@ window.MAKRO_DATA = {
    "tiltGesamt": -7,
    "score": -2,
    "cotExtrem": null,
-   "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
+   "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln.",
+   "istCross": false
   },
   {
    "paar": "USD/JPY",
@@ -3798,7 +3800,8 @@ window.MAKRO_DATA = {
    "tiltGesamt": 3,
    "score": -3,
    "cotExtrem": null,
-   "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut."
+   "treiber": "Weicher Dollar + am stärksten steigende Japan-Zinsen + hartnäckige japanische Inflation drücken das Paar. Yen fundamental aber schwach (~159), Interventionsrisiko hoch — Track 2/9 mahnt zur Demut.",
+   "istCross": false
   },
   {
    "paar": "AUD/USD",
@@ -3808,7 +3811,8 @@ window.MAKRO_DATA = {
    "tiltGesamt": -5,
    "score": -5,
    "cotExtrem": null,
-   "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral."
+   "treiber": "Hawkishes RBA-Protokoll stützt den Aussie vs. schwacher Dollar, aber schwacher AU-Jobmarkt deckelt; AU-Inflation morgen ist der Test. Track 56 % (bestes Paar). Neutral.",
+   "istCross": false
   },
   {
    "paar": "USD/CAD",
@@ -3818,17 +3822,19 @@ window.MAKRO_DATA = {
    "tiltGesamt": 8,
    "score": 3,
    "cotExtrem": null,
-   "treiber": "Dollar-Schwäche + festes Öl (+3 % Wo) + heißere Kanada-Schlagzeilen-Inflation (härtet BoC-Halten-plus-Warnung) sprechen für den Loonie (Paar runter). GROSSE Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig heftig gegen den Trend zünden."
+   "treiber": "Dollar-Schwäche + festes Öl (+3 % Wo) + heißere Kanada-Schlagzeilen-Inflation (härtet BoC-Halten-plus-Warnung) sprechen für den Loonie (Paar runter). GROSSE Vorsicht: fast rekord-hohe CAD-Shorts können kurzfristig heftig gegen den Trend zünden.",
+   "istCross": false
   },
   {
    "paar": "USD/CHF",
    "baseScore": -4,
    "tiltCot": 5,
-   "tiltZins": 3,
-   "tiltGesamt": 8,
-   "score": 4,
+   "tiltZins": 2,
+   "tiltGesamt": 7,
+   "score": 3,
    "cotExtrem": null,
-   "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid."
+   "treiber": "Schwacher Dollar zieht das Paar runter; das leicht anziehende Angst-Barometer gibt dem Franken zusätzlich etwas Hafen-Bid.",
+   "istCross": false
   },
   {
    "paar": "NZD/USD",
@@ -3838,18 +3844,69 @@ window.MAKRO_DATA = {
    "tiltGesamt": -5,
    "score": -3,
    "cotExtrem": null,
-   "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und leichtes Risk-off bremsen; Großspekulanten stark short."
+   "treiber": "Dollar-Schwäche hebt den Kiwi leicht, aber China-Flaute und leichtes Risk-off bremsen; Großspekulanten stark short.",
+   "istCross": false
+  },
+  {
+   "paar": "EUR/GBP",
+   "baseScore": 1,
+   "tiltCot": 2,
+   "tiltZins": 0,
+   "tiltGesamt": 2,
+   "score": 3,
+   "cotExtrem": "erhoeht",
+   "treiber": "",
+   "istCross": true
+  },
+  {
+   "paar": "EUR/JPY",
+   "baseScore": 1,
+   "tiltCot": 1,
+   "tiltZins": -2,
+   "tiltGesamt": -1,
+   "score": 0,
+   "cotExtrem": "erhoeht",
+   "treiber": "",
+   "istCross": true
+  },
+  {
+   "paar": "AUD/NZD",
+   "baseScore": 1,
+   "tiltCot": 4,
+   "tiltZins": -3,
+   "tiltGesamt": 1,
+   "score": 2,
+   "cotExtrem": null,
+   "treiber": "",
+   "istCross": true
+  },
+  {
+   "paar": "EUR/CHF",
+   "baseScore": 2,
+   "tiltCot": 3,
+   "tiltZins": 0,
+   "tiltGesamt": 3,
+   "score": 5,
+   "cotExtrem": "erhoeht",
+   "treiber": "",
+   "istCross": true
   }
  ],
  "sentiment": null,
  "news": {
-  "stand": "2026-08-25T19:17:42.141Z",
+  "stand": "2026-08-25T19:50:08.080Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Chinese Yuan: Trade risks limit gains against US Dollar – OCBC",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-trade-risks-limit-gains-against-us-dollar-ocbc-202608251923",
+    "datum": "2026-08-25T19:23:00.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "The US Dollar Index stops paying for hawks who cannot vote",
@@ -3933,12 +3990,6 @@ window.MAKRO_DATA = {
     "titel": "Dow Jones Industrial Average round-trips between Ottawa and the Treasury",
     "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-202608251636",
     "datum": "2026-08-25T16:36:36.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United Kingdom: Resilient growth versus fiscal strain – Rabobank",
-    "link": "https://www.fxstreet.com/news/united-kingdom-resilient-growth-versus-fiscal-strain-rabobank-202608251634",
-    "datum": "2026-08-25T16:34:00.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -4362,6 +4413,7 @@ window.MAKRO_DATA = {
    "gesamt": 10,
    "quote": 40,
    "konzentration": 89,
+   "usdWertungen": 67,
    "zufallsband": [
     2,
     8

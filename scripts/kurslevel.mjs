@@ -6,6 +6,8 @@
 const SYMBOL = {
   "EUR/USD": "EURUSD=X", "GBP/USD": "GBPUSD=X", "USD/JPY": "USDJPY=X", "AUD/USD": "AUDUSD=X",
   "USD/CAD": "USDCAD=X", "USD/CHF": "USDCHF=X", "NZD/USD": "NZDUSD=X",
+  // Crosses ohne Dollar (seit Session 10)
+  "EUR/GBP": "EURGBP=X", "EUR/JPY": "EURJPY=X", "AUD/NZD": "AUDNZD=X", "EUR/CHF": "EURCHF=X",
 };
 
 async function holeKerzen(symbol) {

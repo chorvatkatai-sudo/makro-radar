@@ -1,11 +1,17 @@
 {
-  "stand": "2026-08-25T19:17:42.141Z",
+  "stand": "2026-08-25T19:50:08.080Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Trade risks limit gains against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-risks-limit-gains-against-us-dollar-ocbc-202608251923",
+      "datum": "2026-08-25T19:23:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "The US Dollar Index stops paying for hawks who cannot vote",
@@ -89,12 +95,6 @@
       "titel": "Dow Jones Industrial Average round-trips between Ottawa and the Treasury",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-202608251636",
       "datum": "2026-08-25T16:36:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Resilient growth versus fiscal strain – Rabobank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-resilient-growth-versus-fiscal-strain-rabobank-202608251634",
-      "datum": "2026-08-25T16:34:00.000Z"
     },
     {
       "quelle": "ForexLive",

@@ -1,0 +1,108 @@
+{
+  "stand": "2026-08-25T21:03:39.228Z",
+  "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
+  "gefunden": 46,
+  "gewertet": 23,
+  "nichtWertbar": 23,
+  "treffer": 13,
+  "quote": 57,
+  "zinsentscheide": {
+    "treffer": 7,
+    "gesamt": 7,
+    "quote": 100
+  },
+  "datenPrognosen": {
+    "treffer": 6,
+    "gesamt": 16,
+    "quote": 38
+  },
+  "richtungBeiAbweichung": {
+    "treffer": 6,
+    "gesamt": 11,
+    "quote": 55
+  },
+  "exakt": {
+    "treffer": 0,
+    "gesamt": 0,
+    "quote": null
+  },
+  "textdeutung": {
+    "treffer": 13,
+    "gesamt": 23,
+    "quote": 57
+  },
+  "letzte": [
+    {
+      "event": "Kanada-Verbraucherpreise (CPI, Juni)",
+      "datum": "2026-07-20",
+      "richtung": "hoeher",
+      "tatsaechlich": "niedriger",
+      "konsens": "-0.2%",
+      "ist": "-0.3",
+      "treffer": false
+    },
+    {
+      "event": "Fed-Zinsentscheid + Warsh-Pressekonferenz",
+      "datum": "2026-07-29",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "3.75%",
+      "ist": "3.75%",
+      "treffer": true
+    },
+    {
+      "event": "USA: Jobbericht (Non-Farm Payrolls, Juli)",
+      "datum": "2026-08-07",
+      "richtung": "niedriger",
+      "tatsaechlich": "niedriger",
+      "konsens": "85K",
+      "ist": "-23K",
+      "treffer": true
+    },
+    {
+      "event": "USA: Verbraucherpreise (CPI, Juli)",
+      "datum": "2026-08-12",
+      "richtung": "niedriger",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "0.2%",
+      "ist": "0.2%",
+      "treffer": false
+    },
+    {
+      "event": "Australien: RBA-Zinsentscheid",
+      "datum": "2026-08-11",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "4.35%",
+      "ist": "4.35%",
+      "treffer": true
+    },
+    {
+      "event": "Großbritannien: BIP (Vorabschätzung Q2)",
+      "datum": "2026-08-13",
+      "richtung": "niedriger",
+      "tatsaechlich": "hoeher",
+      "konsens": "0.0%",
+      "ist": "0.3%",
+      "treffer": false
+    },
+    {
+      "event": "Kanada: Verbraucherpreise (CPI, Juli)",
+      "datum": "2026-08-17",
+      "richtung": "hoeher",
+      "tatsaechlich": "hoeher",
+      "konsens": "0.4%",
+      "ist": "0.5",
+      "treffer": true
+    },
+    {
+      "event": "Großbritannien: Verbraucherpreise (CPI, Juli)",
+      "datum": "2026-08-19",
+      "richtung": "hoeher",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "2.9%",
+      "ist": "2.9%",
+      "treffer": false
+    }
+  ]
+}

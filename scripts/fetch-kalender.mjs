@@ -19,6 +19,7 @@ import { fuelleFredIstwerte, holeFredMarktreihen } from "./fred.mjs";
 import { fuelleTvIstwerte } from "./tv-istwerte.mjs";
 import { holeNews } from "./news.mjs";
 import { holeSentiment } from "./sentiment.mjs";
+import { werteZahlenPrognosenAus } from "./prognose-zahlen.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -517,6 +518,12 @@ const prognoseQuote = {
 // Verlässlichkeits-Zahlen für die Telegram-Kurzfassung, ohne data.js parsen zu müssen.
 fs.writeFileSync(path.join(DATEN, "prognose-quote.json"), JSON.stringify(prognoseQuote, null, 2));
 
+// Track-Record der ZAHLEN-Prognosen (getrennt von der Kursrichtung). Braucht nur
+// lokale Dateien (Briefing-Archiv + Historie), läuft daher auch im --lokal-Build.
+let zahlenBilanz = null;
+try { zahlenBilanz = werteZahlenPrognosenAus().bericht; }
+catch (err) { console.warn("Zahlen-Prognosen-Auswertung übersprungen:", err.message); }
+
 const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   erstellt: new Date().toISOString(),
   wochenStart: woche,
@@ -527,6 +534,7 @@ const dataJs = "window.MAKRO_DATA = " + JSON.stringify({
   leitzinsen,
   marktdaten,
   paareMarkt,
+  zahlenBilanz,
   sentiment,
   news,
   momentum,

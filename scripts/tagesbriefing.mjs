@@ -168,6 +168,13 @@ function baueKurzfassung() {
     const urteil = WW.vomZufallUnterscheidbar ? "besser als Zufall" : "noch im Zufallsbereich → klein bleiben";
     k.push(`🎲 Bisher: ${WW.treffer}/${WW.gesamt} Wochen-Calls richtig (${WW.quote}%) — ${urteil}`);
   }
+  // 7) Zweiter, davon unabhängiger Track-Record: die Zahlen-Prognosen.
+  const zb = leseJson(path.join(DATEN, "prognose-zahlen.json"), null);
+  if (zb?.datenPrognosen?.gesamt) {
+    const ab = zb.richtungBeiAbweichung;
+    const zusatz = ab?.gesamt ? `, bei echter Abweichung ${ab.quote}%` : "";
+    k.push(`🔢 Zahlen-Calls: ${zb.datenPrognosen.quote}% (${zb.datenPrognosen.treffer}/${zb.datenPrognosen.gesamt})${zusatz}`);
+  }
   return k;
 }
 

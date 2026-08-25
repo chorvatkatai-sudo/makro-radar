@@ -920,6 +920,19 @@ if (B) {
     } else {
       box.innerHTML = `🎯 Selbstlernen läuft: <b style="color:var(--amber)">${Q.wochenErfasst}</b> Woche${Q.wochenErfasst > 1 ? "n" : ""} erfasst — die erste Treffer-Quote erscheint nach Abschluss der kommenden Woche.`;
     }
+
+    // Zweiter Track-Record: die ZAHLEN-Prognosen ("kommt der Wert über oder unter
+    // dem Konsens?") — bewusst getrennt von der Kursrichtung, weil das zwei ganz
+    // verschiedene Fähigkeiten sind.
+    const ZB = D.zahlenBilanz;
+    if (ZB?.gewertet) {
+      const dp = ZB.datenPrognosen, ab = ZB.richtungBeiAbweichung, zi = ZB.zinsentscheide;
+      const teile = [];
+      if (dp?.gesamt) teile.push(`Datenprognosen <b>${dp.quote}%</b> (${dp.treffer}/${dp.gesamt})`);
+      if (ab?.gesamt) teile.push(`davon Richtung richtig, wenn der Wert wirklich abwich: <b>${ab.quote}%</b> (${ab.treffer}/${ab.gesamt})`);
+      if (zi?.gesamt) teile.push(`Zinsentscheide ${zi.quote}% (${zi.treffer}/${zi.gesamt}, „Halten wie erwartet" ist fast geschenkt)`);
+      box.innerHTML += `<div style="margin-top:8px;font-size:12.5px;color:var(--faint);border-top:1px solid var(--line);padding-top:7px">🔢 Zahlen-Prognosen (Wert über/unter Konsens): ${teile.join(" · ")}. <i>${ZB.nichtWertbar} von ${ZB.gefunden} waren nicht eindeutig genug zum Werten.</i></div>`;
+    }
   }
 
   // Live-Kurse + Wochen-Bewegung (ECB-Tageskurse, frankfurter.dev — kostenlos, ohne Schlüssel)

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-25T21:25:45.100Z",
+ "erstellt": "2026-08-25T21:37:41.344Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -3232,15 +3232,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-25T21:25:43.995Z",
+  "stand": "2026-08-25T21:37:40.193Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.92,
+    "wert": 98.91,
     "tagProzent": 0,
-    "wocheProzent": 0.09,
+    "wocheProzent": 0.08,
     "renditeDelta": false,
     "verlauf": [
      101.38,
@@ -3263,8 +3263,8 @@ window.MAKRO_DATA = {
      98.9,
      98.8,
      99,
-     98.92,
-     98.92
+     98.91,
+     98.91
     ]
    },
    "VIX": {
@@ -3502,9 +3502,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 78343.31,
+    "wert": 78553,
     "tagProzent": 0,
-    "wocheProzent": 0.01,
+    "wocheProzent": 0.28,
     "renditeDelta": false,
     "verlauf": [
      64597.5,
@@ -3527,8 +3527,8 @@ window.MAKRO_DATA = {
      77083.41,
      77755.27,
      78964.48,
-     78343.31,
-     78343.31
+     78553,
+     78553
     ]
    },
    "FEDFUT": {
@@ -3893,7 +3893,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-25T21:25:44.975Z",
+  "stand": "2026-08-25T21:37:40.961Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 46,
   "gewertet": 23,
@@ -4001,7 +4001,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-08-25T21:25:45.093Z",
+  "stand": "2026-08-25T21:37:41.343Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4231,7 +4231,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-08-25T21:25:44.928Z",
+  "stand": "2026-08-25T21:37:40.953Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

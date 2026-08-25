@@ -1,13 +1,13 @@
 {
-  "stand": "2026-08-25T21:25:43.995Z",
+  "stand": "2026-08-25T21:37:40.193Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 98.92,
+      "wert": 98.91,
       "tagProzent": 0,
-      "wocheProzent": 0.09,
+      "wocheProzent": 0.08,
       "renditeDelta": false,
       "verlauf": [
         101.38,
@@ -30,8 +30,8 @@
         98.9,
         98.8,
         99,
-        98.92,
-        98.92
+        98.91,
+        98.91
       ]
     },
     "VIX": {
@@ -269,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 78343.31,
+      "wert": 78553,
       "tagProzent": 0,
-      "wocheProzent": 0.01,
+      "wocheProzent": 0.28,
       "renditeDelta": false,
       "verlauf": [
         64597.5,
@@ -294,8 +294,8 @@
         77083.41,
         77755.27,
         78964.48,
-        78343.31,
-        78343.31
+        78553,
+        78553
       ]
     },
     "FEDFUT": {

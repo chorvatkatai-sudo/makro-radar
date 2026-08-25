@@ -10066,7 +10066,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "1.9M",
+      "prognose": "1.6M",
       "vorher": "4.4M",
       "actual": null,
       "notiz": null
@@ -10206,7 +10206,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "19B",
       "vorher": "16B",
       "actual": null,
       "notiz": null
@@ -10327,7 +10327,7 @@
       "titel": "Italian 10-y Bond Auction",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "4.00|1.7",
       "actual": null,
       "notiz": null
     },

@@ -1,11 +1,53 @@
 {
-  "stand": "2026-08-25T16:26:43.056Z",
+  "stand": "2026-08-25T17:24:13.303Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen remains vulnerable despite softer Greenback",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-despite-softer-greenback-202608251719",
+      "datum": "2026-08-25T17:19:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: Political risks cloud reform outlook – ING",
+      "link": "https://www.fxstreet.com/news/germany-political-risks-cloud-reform-outlook-ing-202608251707",
+      "datum": "2026-08-25T17:07:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $69 billion of 2-year notes at a high yield of 4.204%",
+      "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of/",
+      "datum": "2026-08-25T17:06:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexico: Alignment for certainty in USMCA – Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexico-alignment-for-certainty-in-usmca-societe-generale-202608251648",
+      "datum": "2026-08-25T16:48:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treas. Sec. Bessent: Iran leadership is feeling the economic pressure",
+      "link": "https://investinglive.com/news/bessent-iran-leadership-is-feeling-the-economic-pressure/",
+      "datum": "2026-08-25T16:42:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average round-trips between Ottawa and the Treasury",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-202608251636",
+      "datum": "2026-08-25T16:36:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Resilient growth versus fiscal strain – Rabobank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-resilient-growth-versus-fiscal-strain-rabobank-202608251634",
+      "datum": "2026-08-25T16:34:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Canadian Dollar faces double trouble from Oil slump, US tariffs",
@@ -55,30 +97,6 @@
       "datum": "2026-08-25T15:06:58.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Canada: Investment risk and USMCA reliability – Societe Generale",
-      "link": "https://www.fxstreet.com/news/canada-investment-risk-and-usmca-reliability-societe-generale-202608251459",
-      "datum": "2026-08-25T14:59:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI slides as traders shrug off US sanctions on Iran, Hormuz risks persist",
-      "link": "https://www.fxstreet.com/news/wti-slides-as-traders-shrug-off-us-sanctions-on-iran-hormuz-risks-persist-202608251448",
-      "datum": "2026-08-25T14:48:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso: Carry appeal faces crowding risk – MUFG",
-      "link": "https://www.fxstreet.com/news/mexican-peso-carry-appeal-faces-crowding-risk-mufg-202608251442",
-      "datum": "2026-08-25T14:42:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ September risk looms in flat range against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-september-risk-looms-in-flat-range-against-us-dollar-scotiabank-202608251428",
-      "datum": "2026-08-25T14:28:22.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Richmond Fed manufacturing composite index +4 vs +5 prior",
       "link": "https://investinglive.com/news/richmond-fed-manufacturing-composite-index-4-vs-5-prior/",
@@ -95,24 +113,6 @@
       "titel": "US New home sales for July 0.607M vs 0.620M estimate",
       "link": "https://investinglive.com/news/us-new-home-sales-for-july-0-607m-vs-0-620m-estimate/",
       "datum": "2026-08-25T14:00:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US June CaseShiller 20-city home price index +2.1% y/y vs +1.7% expected",
-      "link": "https://investinglive.com/news/us-june-caseshiller-20-city-home-price-index-2-1-y-y-vs-1-7-expected/",
-      "datum": "2026-08-25T13:00:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada July flash wholesale trade -0.6%",
-      "link": "https://investinglive.com/news/canada-july-flash-wholesale-trade-0-6/",
-      "datum": "2026-08-25T12:39:56.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Risk sentiment improves on hopes of US-Iran breakthrough",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-on-hopes-of-us-iran-breakthrough/",
-      "datum": "2026-08-25T11:34:05.000Z"
     }
   ]
 }

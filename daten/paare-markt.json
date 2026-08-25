@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T16:26:43.057Z",
+  "stand": "2026-08-25T17:24:13.304Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -17,9 +17,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -4,
-      "tiltZins": -3,
-      "tiltGesamt": -7,
-      "score": -2,
+      "tiltZins": -4,
+      "tiltGesamt": -8,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Starker UK-Dienstleistungs-PMI (53,6) + heiße Schlagzeilen-Inflation (2,9 %) + weicher Dollar heben das Paar; die gekühlte Dienstleistungs-Inflation und der schwächere Arbeitsmarkt deckeln."
     },

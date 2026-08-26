@@ -1,11 +1,41 @@
 {
-  "stand": "2026-08-26T04:34:23.908Z",
+  "stand": "2026-08-26T05:08:22.785Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Asian stock markets gain as oil extends downfall, eyes on Jackson Hall Symposium",
+      "link": "https://www.fxstreet.com/news/asian-stock-markets-gain-as-oil-extends-downfall-eyes-on-jackson-hall-symposium-202608260452",
+      "datum": "2026-08-26T04:52:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Seems vulnerable below $80.00 as break below 50% Fibo. comes into play",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-seems-vulnerable-below-8000-as-break-below-50-fibo-comes-into-play-202608260448",
+      "datum": "2026-08-26T04:48:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah remains subdued amid market caution, external headwinds",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-subdued-amid-market-caution-external-headwinds-202608260447",
+      "datum": "2026-08-26T04:47:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index recovers to near 99.00 ahead of US PCE inflation data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-recovers-to-near-9900-ahead-of-us-pce-inflation-data-202608260442",
+      "datum": "2026-08-26T04:42:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608260435",
+      "datum": "2026-08-26T04:35:21.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Japan’s Kiuchi: CPI expected to gradually rise due to Middle East conditions",
@@ -61,30 +91,6 @@
       "datum": "2026-08-26T02:41:32.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar strengthens against Japanese Yen following CPI data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-against-japanese-yen-following-cpi-data-202608260214",
-      "datum": "2026-08-26T02:14:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoJ to raise rate to 1.25% in September — Reuters poll",
-      "link": "https://www.fxstreet.com/news/boj-to-raise-rate-to-125-in-september-reuters-poll-202608260213",
-      "datum": "2026-08-26T02:13:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar strengthens after hot CPI report; eyes multi-month high ahead of US PCE",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-after-hot-cpi-report-eyes-multi-month-high-ahead-of-us-pce-202608260147",
-      "datum": "2026-08-26T01:47:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI drops amid Middle East diplomacy, eased US sanction fears",
-      "link": "https://www.fxstreet.com/news/wti-drops-amid-middle-east-diplomacy-eased-us-sanction-fears-202608260135",
-      "datum": "2026-08-26T01:35:41.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Australian monthly CPI (July 2026) 3.5 % y/y (vs. 3.2% expected)",
       "link": "https://investinglive.com/news/australian-monthly-cpi-july-2026-y-y-vs-3-2-expected/",
@@ -107,12 +113,6 @@
       "titel": "US weighs further trade escalation after Canada sets retaliatory tariffs",
       "link": "https://investinglive.com/news/us-weighs-further-trade-escalation-after-canada-sets-retaliatory-tariffs/",
       "datum": "2026-08-25T23:57:47.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan July 2026 Services PPI +3.6% y/y (expected 3.2%, prior 3.2%)",
-      "link": "https://investinglive.com/news/japan-july-2026-services-ppi-3-6-y-y-expected-3-2-prior-3-2/",
-      "datum": "2026-08-25T23:53:37.000Z"
     }
   ]
 }

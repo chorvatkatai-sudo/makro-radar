@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-26T05:06:52.584Z",
+ "erstellt": "2026-08-26T05:08:23.765Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -3234,15 +3234,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-26T04:34:23.266Z",
+  "stand": "2026-08-26T05:08:22.047Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 98.98,
+    "wert": 99,
     "tagProzent": 0,
-    "wocheProzent": 0.08,
+    "wocheProzent": 0.1,
     "renditeDelta": false,
     "verlauf": [
      100.8,
@@ -3265,8 +3265,8 @@ window.MAKRO_DATA = {
      98.8,
      99,
      98.92,
-     98.98,
-     98.98
+     99,
+     99
     ]
    },
    "VIX": {
@@ -3306,9 +3306,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 80.27,
+    "wert": 80.63,
     "tagProzent": 0,
-    "wocheProzent": -8.61,
+    "wocheProzent": -8.2,
     "renditeDelta": false,
     "verlauf": [
      84.46,
@@ -3331,17 +3331,17 @@ window.MAKRO_DATA = {
      87.06,
      85.01,
      82.36,
-     80.27,
-     80.27
+     80.63,
+     80.63
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.21,
+    "wert": 85.58,
     "tagProzent": 0,
-    "wocheProzent": -9.14,
+    "wocheProzent": -8.74,
     "renditeDelta": false,
     "verlauf": [
      90.74,
@@ -3364,17 +3364,17 @@ window.MAKRO_DATA = {
      94.39,
      92.17,
      88.58,
-     85.21,
-     85.21
+     85.58,
+     85.58
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4698.5,
+    "wert": 4696.8,
     "tagProzent": 0,
-    "wocheProzent": 4.03,
+    "wocheProzent": 4,
     "renditeDelta": false,
     "verlauf": [
      4034.7,
@@ -3397,8 +3397,8 @@ window.MAKRO_DATA = {
      4624.1,
      4640.8,
      4638.1,
-     4698.5,
-     4698.5
+     4696.8,
+     4696.8
     ]
    },
    "US02Y": {
@@ -3504,9 +3504,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 78893.37,
+    "wert": 78696.52,
     "tagProzent": 0,
-    "wocheProzent": 0.71,
+    "wocheProzent": 0.46,
     "renditeDelta": false,
     "verlauf": [
      64597.5,
@@ -3529,8 +3529,8 @@ window.MAKRO_DATA = {
      77083.41,
      77755.27,
      78964.48,
-     78893.37,
-     78893.37
+     78696.52,
+     78696.52
     ]
    },
    "FEDFUT": {
@@ -3538,14 +3538,13 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.73,
-    "tagProzent": 0.1,
+    "tagProzent": 0,
     "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
      3.63,
      3.63,
      3.63,
-     3.63,
      3.64,
      3.63,
      3.63,
@@ -3563,6 +3562,7 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
+     3.73,
      3.73
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -3746,8 +3746,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.023
     },
     "AUD": {
-     "wert": 4.621,
-     "wocheDelta": 0.04
+     "wert": 4.624,
+     "wocheDelta": 0.043
     },
     "CAD": {
      "wert": 2.899,
@@ -3895,7 +3895,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-26T05:06:52.584Z",
+  "stand": "2026-08-26T05:08:22.793Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 46,
   "gewertet": 23,
@@ -4003,26 +4003,26 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-08-26T04:34:24.496Z",
+  "stand": "2026-08-26T05:08:23.764Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-   "faelle": 22,
+   "faelle": 23,
    "treffer": 15,
-   "quote": 68,
-   "schnittGerichtet": 0.159,
-   "schnittBetrag": 0.339,
-   "pWert": 0.134,
+   "quote": 65,
+   "schnittGerichtet": 0.147,
+   "schnittBetrag": 0.329,
+   "pWert": 0.21,
    "belastbar": false
   },
   "gesamtRoh": {
-   "faelle": 44,
+   "faelle": 46,
    "treffer": 29,
-   "quote": 66,
-   "schnittGerichtet": 0.145,
-   "schnittBetrag": 0.371,
-   "pWert": 0.049,
-   "belastbar": true
+   "quote": 63,
+   "schnittGerichtet": 0.133,
+   "schnittBetrag": 0.36,
+   "pWert": 0.104,
+   "belastbar": false
   },
   "jeWaehrung": {
    "USD": {
@@ -4044,11 +4044,11 @@ window.MAKRO_DATA = {
     "belastbar": false
    },
    "AUD": {
-    "faelle": 4,
+    "faelle": 5,
     "treffer": 2,
-    "quote": 50,
-    "schnittGerichtet": 0.026,
-    "schnittBetrag": 0.447,
+    "quote": 40,
+    "schnittGerichtet": -0.003,
+    "schnittBetrag": 0.381,
     "pWert": 1,
     "belastbar": false
    },
@@ -4064,12 +4064,12 @@ window.MAKRO_DATA = {
   },
   "jeKategorie": {
    "Inflation": {
-    "faelle": 11,
+    "faelle": 12,
     "treffer": 8,
-    "quote": 73,
-    "schnittGerichtet": 0.153,
-    "schnittBetrag": 0.253,
-    "pWert": 0.227,
+    "quote": 67,
+    "schnittGerichtet": 0.13,
+    "schnittBetrag": 0.242,
+    "pWert": 0.388,
     "belastbar": false
    },
    "Arbeitsmarkt": {
@@ -4111,11 +4111,11 @@ window.MAKRO_DATA = {
     "belastbar": false
    },
    "AUD": {
-    "faelle": 9,
+    "faelle": 11,
     "treffer": 5,
-    "quote": 56,
-    "schnittGerichtet": 0.147,
-    "schnittBetrag": 0.63,
+    "quote": 45,
+    "schnittGerichtet": 0.099,
+    "schnittBetrag": 0.537,
     "pWert": 1,
     "belastbar": false
    },
@@ -4139,15 +4139,6 @@ window.MAKRO_DATA = {
    }
   },
   "letzte": [
-   {
-    "datum": "2026-07-22",
-    "land": "GBP",
-    "titel": "CPI y/y",
-    "ueberraschung": "niedriger",
-    "erwartet": "schwächer",
-    "bewegung": -0.246,
-    "wieErwartet": true
-   },
    {
     "datum": "2026-07-22",
     "land": "AUD",
@@ -4228,18 +4219,57 @@ window.MAKRO_DATA = {
     "erwartet": "schwächer",
     "bewegung": -0.501,
     "wieErwartet": true
+   },
+   {
+    "datum": "2026-08-25",
+    "land": "AUD",
+    "titel": "CPI m/m (+1 weitere)",
+    "ueberraschung": "hoeher",
+    "erwartet": "stärker",
+    "bewegung": -0.115,
+    "wieErwartet": false
    }
   ]
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-08-26T04:34:23.908Z",
+  "stand": "2026-08-26T05:08:22.785Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Asian stock markets gain as oil extends downfall, eyes on Jackson Hall Symposium",
+    "link": "https://www.fxstreet.com/news/asian-stock-markets-gain-as-oil-extends-downfall-eyes-on-jackson-hall-symposium-202608260452",
+    "datum": "2026-08-26T04:52:55.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI Price Forecast: Seems vulnerable below $80.00 as break below 50% Fibo. comes into play",
+    "link": "https://www.fxstreet.com/news/wti-price-forecast-seems-vulnerable-below-8000-as-break-below-50-fibo-comes-into-play-202608260448",
+    "datum": "2026-08-26T04:48:39.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Indonesian Rupiah remains subdued amid market caution, external headwinds",
+    "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-subdued-amid-market-caution-external-headwinds-202608260447",
+    "datum": "2026-08-26T04:47:09.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "United States Dollar Index recovers to near 99.00 ahead of US PCE inflation data",
+    "link": "https://www.fxstreet.com/news/united-states-dollar-index-recovers-to-near-9900-ahead-of-us-pce-inflation-data-202608260442",
+    "datum": "2026-08-26T04:42:51.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "India Gold price today: Gold falls, according to FXStreet data",
+    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608260435",
+    "datum": "2026-08-26T04:35:21.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "Japan’s Kiuchi: CPI expected to gradually rise due to Middle East conditions",
@@ -4295,30 +4325,6 @@ window.MAKRO_DATA = {
     "datum": "2026-08-26T02:41:32.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar strengthens against Japanese Yen following CPI data",
-    "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-against-japanese-yen-following-cpi-data-202608260214",
-    "datum": "2026-08-26T02:14:52.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "BoJ to raise rate to 1.25% in September — Reuters poll",
-    "link": "https://www.fxstreet.com/news/boj-to-raise-rate-to-125-in-september-reuters-poll-202608260213",
-    "datum": "2026-08-26T02:13:02.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar strengthens after hot CPI report; eyes multi-month high ahead of US PCE",
-    "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-after-hot-cpi-report-eyes-multi-month-high-ahead-of-us-pce-202608260147",
-    "datum": "2026-08-26T01:47:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "WTI drops amid Middle East diplomacy, eased US sanction fears",
-    "link": "https://www.fxstreet.com/news/wti-drops-amid-middle-east-diplomacy-eased-us-sanction-fears-202608260135",
-    "datum": "2026-08-26T01:35:41.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Australian monthly CPI (July 2026) 3.5 % y/y (vs. 3.2% expected)",
     "link": "https://investinglive.com/news/australian-monthly-cpi-july-2026-y-y-vs-3-2-expected/",
@@ -4341,12 +4347,6 @@ window.MAKRO_DATA = {
     "titel": "US weighs further trade escalation after Canada sets retaliatory tariffs",
     "link": "https://investinglive.com/news/us-weighs-further-trade-escalation-after-canada-sets-retaliatory-tariffs/",
     "datum": "2026-08-25T23:57:47.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Japan July 2026 Services PPI +3.6% y/y (expected 3.2%, prior 3.2%)",
-    "link": "https://investinglive.com/news/japan-july-2026-services-ppi-3-6-y-y-expected-3-2-prior-3-2/",
-    "datum": "2026-08-25T23:53:37.000Z"
    }
   ]
  },

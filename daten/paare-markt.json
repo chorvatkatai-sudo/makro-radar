@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-26T08:33:33.806Z",
+  "stand": "2026-08-26T09:32:56.492Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 5,
       "tiltCot": -1,
-      "tiltZins": -2,
-      "tiltGesamt": -3,
-      "score": 2,
+      "tiltZins": -1,
+      "tiltGesamt": -2,
+      "score": 3,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + Entwertungs-Wette (Gold/BTC-Rekord); gebremst durch drehenden Zins-Vergleich pro-Dollar und Squeeze-Risiko.",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 3,
       "tiltCot": -3,
-      "tiltZins": 0,
-      "tiltGesamt": -3,
-      "score": 0,
+      "tiltZins": 1,
+      "tiltGesamt": -2,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Heiße Australien-Inflation + hartes RBA-Protokoll heben den Aussie über den Dollar-Block hinaus.",
       "istCross": false
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": 1,
       "tiltCot": 1,
-      "tiltZins": -2,
-      "tiltGesamt": -1,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": 1,
+      "score": 2,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 2,
       "tiltCot": 3,
-      "tiltZins": 0,
-      "tiltGesamt": 3,
-      "score": 5,
+      "tiltZins": 1,
+      "tiltGesamt": 4,
+      "score": 6,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-26T09:32:56.490Z",
+  "stand": "2026-08-26T12:35:05.072Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,82 +7,100 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "US Dollar Index: Range trade persists as data soft – DBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-range-trade-persists-as-data-soft-dbs-202608260925",
-      "datum": "2026-08-26T09:25:46.000Z"
+      "quelle": "ForexLive",
+      "titel": "US GDP 2nd estimate for Q2 1.5% vs 1.5% preliminary.",
+      "link": "https://investinglive.com/news/us-gdp-2nd-estimate-for-q2-1-5-vs-1-5-preliminary-0/",
+      "datum": "2026-08-26T12:30:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-confluence-support-near-18500-202608260912",
-      "datum": "2026-08-26T09:12:15.000Z"
+      "titel": "Australian Dollar: Hot CPI supports carry and RBA risk – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hot-cpi-supports-carry-and-rba-risk-bbh-202608261227",
+      "datum": "2026-08-26T12:27:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Brent: Diplomatic progress weighs on prices – OCBC",
-      "link": "https://www.fxstreet.com/news/brent-diplomatic-progress-weighs-on-prices-ocbc-202608260907",
-      "datum": "2026-08-26T09:07:10.000Z"
+      "titel": "Swiss Franc: Weakness before renewed strength – Commerzbank",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakness-before-renewed-strength-commerzbank-202608261213",
+      "datum": "2026-08-26T12:13:17.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Shaky basis trade risks weigh – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-shaky-basis-trade-risks-weigh-commerzbank-202608260859",
-      "datum": "2026-08-26T08:59:01.000Z"
+      "titel": "Euro holds upper hand against British Pound on diverging ECB-BoE expectations",
+      "link": "https://www.fxstreet.com/news/euro-holds-upper-hand-against-british-pound-on-diverging-ecb-boe-expectations-202608261205",
+      "datum": "2026-08-26T12:05:58.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD bulls await break above $70.00 amid mixed setup",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-await-break-above-7000-amid-mixed-setup-202608260857",
-      "datum": "2026-08-26T08:57:03.000Z"
+      "titel": "Japanese Yen: Intervention impact assessed – Rabobank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-impact-assessed-rabobank-202608261158",
+      "datum": "2026-08-26T11:58:59.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc ticks up against US Dollar despite bright Swiss ZEW economic expectations",
-      "link": "https://www.fxstreet.com/news/swiss-franc-ticks-up-against-us-dollar-despite-bright-swiss-zew-economic-expectations-202608260848",
-      "datum": "2026-08-26T08:48:00.000Z"
+      "titel": "US Dollar: Softer energy supports carry trades – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-softer-energy-supports-carry-trades-ing-202608261148",
+      "datum": "2026-08-26T11:48:30.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar remains stronger as CPI YoY climbs in July",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-as-cpi-yoy-climbs-in-july-202608260847",
-      "datum": "2026-08-26T08:47:39.000Z"
+      "titel": "Indian Rupee poised for positive opening on Thursday amid lower oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-poised-for-positive-opening-on-thursday-amid-lower-oil-prices-202608261144",
+      "datum": "2026-08-26T11:44:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-rally-extends-further-to-near-11430-as-hawkish-rba-bets-accelerate-202608260840",
-      "datum": "2026-08-26T08:40:19.000Z"
+      "titel": "Euro: ECB tightening outlook offers support against US Dollar - BNY",
+      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-outlook-offers-support-against-us-dollar-bny-202608261140",
+      "datum": "2026-08-26T11:40:17.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: RBA risks seen underpriced – MUFG",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-risks-seen-underpriced-mufg-202608260836",
-      "datum": "2026-08-26T08:36:49.000Z"
+      "titel": "Japanese Yen treads water around 159.00 with US PCE Inflation on tap",
+      "link": "https://www.fxstreet.com/news/japanese-yen-treads-water-around-15900-with-us-pce-inflation-on-tap-202608261139",
+      "datum": "2026-08-26T11:39:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Markets await further US-Iran news, Jackson Hole event",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-await-further-us-iran-news-jackson-hole-event/",
+      "datum": "2026-08-26T11:33:33.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro advances against Canadian Dollar amid falling oil prices",
-      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-falling-oil-prices-202608260828",
-      "datum": "2026-08-26T08:28:46.000Z"
+      "titel": "Australian Dollar: RBA tightening risks rise – TD Securities",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-tightening-risks-rise-td-securities-202608261128",
+      "datum": "2026-08-26T11:28:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Forex Today: US Dollar extends consolidation ahead of key inflation data, Nvidia earnings",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-extends-consolidation-ahead-of-key-inflation-data-nvidia-earnings-202608260815",
-      "datum": "2026-08-26T08:15:41.000Z"
+      "titel": "US Dollar Index: Range-bound consolidation as PCE looms – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-range-bound-consolidation-as-pce-looms-bbh-202608261117",
+      "datum": "2026-08-26T11:17:21.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Schnabel’s upbeat tone supports against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-schnabels-upbeat-tone-supports-against-us-dollar-ing-202608260812",
-      "datum": "2026-08-26T08:12:59.000Z"
+      "titel": "Gold slips ahead of US PCE as US Dollar firms modestly",
+      "link": "https://www.fxstreet.com/news/gold-slips-ahead-of-us-pce-as-us-dollar-firms-modestly-202608261107",
+      "datum": "2026-08-26T11:07:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK retail sector remains under pressure as CBI survey shows sharp sales decline",
+      "link": "https://investinglive.com/news/uk-retail-sector-remains-under-pressure-as-cbi-survey-shows-sharp-sales-decline/",
+      "datum": "2026-08-26T10:10:20.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Switzerland August UBS investor sentiment +12.1 vs +10.0 prior",
       "link": "https://investinglive.com/news/switzerland-august-ubs-investor-sentiment-xx-vs-10-0-prior/",
       "datum": "2026-08-26T08:00:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: US core PCE inflation holds steady at 3.3% in July as expected",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800",
+      "datum": "2026-08-26T08:00:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "investingLive Asia-Pacific market news: Oil down, AUD 3 month high",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-down-aud-3-month-high/",
       "datum": "2026-08-26T03:49:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australian monthly CPI (July 2026) 3.5 % y/y (vs. 3.2% expected)",
-      "link": "https://investinglive.com/news/australian-monthly-cpi-july-2026-y-y-vs-3-2-expected/",
-      "datum": "2026-08-26T01:30:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Preview, today: Fed's favoured inflation gauge lands two days before Warsh's Jackson Hole speech",
-      "link": "https://investinglive.com/news/preview-today-fed-s-favoured-inflation-gauge-lands-two-days-before-warsh-s-jackson-hole-speech/",
-      "datum": "2026-08-26T00:55:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan's services inflation accelerates to 3.6pct in July, beating forecasts",
-      "link": "https://investinglive.com/news/japan-s-services-inflation-accelerates-to-3-6pct-in-july-beating-forecasts/",
-      "datum": "2026-08-26T00:24:24.000Z"
     }
   ]
 }

@@ -9938,7 +9938,7 @@
       "impact": "High",
       "prognose": "0.9%",
       "vorher": "-0.1%",
-      "actual": null,
+      "actual": "1.0%",
       "notiz": null
     },
     "2026-08-25T21:30:00-04:00|AUD|CPI y/y": {
@@ -9948,7 +9948,7 @@
       "impact": "High",
       "prognose": "3.3%",
       "vorher": "3.8%",
-      "actual": null,
+      "actual": "3.5%",
       "notiz": null
     },
     "2026-08-25T21:30:00-04:00|AUD|Trimmed Mean CPI m/m": {

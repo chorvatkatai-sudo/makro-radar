@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T21:37:40.953Z",
+  "stand": "2026-08-26T04:34:23.908Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Bullish bias with focus on 6.7000 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-with-focus-on-67000-against-us-dollar-uob-202608252121",
-      "datum": "2026-08-25T21:21:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar climbs to fresh highs amid timid US Dollar",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-fresh-highs-amid-timid-us-dollar-202608252054",
-      "datum": "2026-08-25T20:54:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Range-bound consolidation outlook against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bound-consolidation-outlook-against-us-dollar-commerzbank-202608252040",
-      "datum": "2026-08-25T20:40:00.000Z"
+      "titel": "Japan’s Kiuchi: CPI expected to gradually rise due to Middle East conditions",
+      "link": "https://www.fxstreet.com/news/japans-kiuchi-cpi-expected-to-gradually-rise-due-to-middle-east-conditions-202608260423",
+      "datum": "2026-08-26T04:23:43.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Some late talk of Iran peace",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-some-late-talk-of-iran-peace/",
-      "datum": "2026-08-25T20:22:48.000Z"
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-28/",
+      "datum": "2026-08-26T04:23:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US-Iran agree ceasefire deal, sinks Oil – RIA Novosti",
-      "link": "https://www.fxstreet.com/news/reports-of-us-iran-ceasefire-deal-sinks-oil-ria-novosti-202608252015",
-      "datum": "2026-08-25T20:15:37.000Z"
+      "titel": "British Pound edges lower but remains close to multi-month top as USD awaits US PCE",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-lower-but-remains-close-to-multi-month-top-as-usd-awaits-us-pce-202608260407",
+      "datum": "2026-08-26T04:07:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Remains sideways ahead of key US events",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sideways-ahead-of-key-us-events-202608260404",
+      "datum": "2026-08-26T04:04:13.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia 26 August 2026 - Australian inflation data due",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-26-august-2026-australian-inflation-data-due/",
-      "datum": "2026-08-25T20:04:24.000Z"
+      "titel": "investingLive Asia-Pacific market news: Oil down, AUD 3 month high",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-down-aud-3-month-high/",
+      "datum": "2026-08-26T03:49:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Treasury yields fall as Hormuz progress eases inflation fears",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-fall-as-hormuz-progress-eases-inflation-fears-202608251954",
-      "datum": "2026-08-25T19:54:06.000Z"
+      "titel": "Gold holds steady around $4,650 as traders look to US PCE for Fed rate cues",
+      "link": "https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332",
+      "datum": "2026-08-26T03:32:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "South Korean Won: Strength backed by tech flows against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-strength-backed-by-tech-flows-against-us-dollar-societe-generale-202608251954",
-      "datum": "2026-08-25T19:54:00.000Z"
+      "titel": "Silver Price Forecast: XAG/USD holds firmly above $69 ahead of US PCE Inflation data",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-firmly-above-69-ahead-of-us-pce-inflation-data-202608260319",
+      "datum": "2026-08-26T03:19:54.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Trade risks limit gains against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-risks-limit-gains-against-us-dollar-ocbc-202608251923",
-      "datum": "2026-08-25T19:23:00.000Z"
+      "titel": "New Zealand Dollar declines as US Dollar advances ahead of PCE index data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-advances-ahead-of-pce-index-data-202608260313",
+      "datum": "2026-08-26T03:13:03.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The US Dollar Index stops paying for hawks who cannot vote",
-      "link": "https://www.fxstreet.com/news/the-us-dollar-index-stops-paying-for-hawks-who-cannot-vote-202608251853",
-      "datum": "2026-08-25T18:53:53.000Z"
+      "titel": "Japanese Yen strengthens on US bond buyback, traders brace for US PCE inflation report",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-on-us-bond-buyback-traders-brace-for-us-pce-inflation-report-202608260241",
+      "datum": "2026-08-26T02:41:32.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Forex Today: US Dollar stays on the back foot ahead of PCE",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-stays-on-the-back-foot-ahead-of-pce-202608251843",
-      "datum": "2026-08-25T18:43:32.000Z"
+      "titel": "Australian Dollar strengthens against Japanese Yen following CPI data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-against-japanese-yen-following-cpi-data-202608260214",
+      "datum": "2026-08-26T02:14:52.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Upside momentum eases against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-momentum-eases-against-us-dollar-uob-202608251839",
-      "datum": "2026-08-25T18:39:11.000Z"
+      "titel": "BoJ to raise rate to 1.25% in September — Reuters poll",
+      "link": "https://www.fxstreet.com/news/boj-to-raise-rate-to-125-in-september-reuters-poll-202608260213",
+      "datum": "2026-08-26T02:13:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-100-day-sma-eyes-70-202608251831",
-      "datum": "2026-08-25T18:31:57.000Z"
+      "titel": "Australian Dollar strengthens after hot CPI report; eyes multi-month high ahead of US PCE",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-after-hot-cpi-report-eyes-multi-month-high-ahead-of-us-pce-202608260147",
+      "datum": "2026-08-26T01:47:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold pulls back from $4,700 as Hormuz hopes cool haven demand",
-      "link": "https://www.fxstreet.com/news/gold-pulls-back-from-4-700-as-hormuz-hopes-cool-haven-demand-202608251814",
-      "datum": "2026-08-25T18:14:14.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-      "datum": "2026-08-25T18:00:00.000Z"
+      "titel": "WTI drops amid Middle East diplomacy, eased US sanction fears",
+      "link": "https://www.fxstreet.com/news/wti-drops-amid-middle-east-diplomacy-eased-us-sanction-fears-202608260135",
+      "datum": "2026-08-26T01:35:41.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US treasury sells $69 billion of 2-year notes at a high yield of 4.204%",
-      "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of/",
-      "datum": "2026-08-25T17:06:00.000Z"
+      "titel": "Australian monthly CPI (July 2026) 3.5 % y/y (vs. 3.2% expected)",
+      "link": "https://investinglive.com/news/australian-monthly-cpi-july-2026-y-y-vs-3-2-expected/",
+      "datum": "2026-08-26T01:30:12.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US Treas. Sec. Bessent: Iran leadership is feeling the economic pressure",
-      "link": "https://investinglive.com/news/bessent-iran-leadership-is-feeling-the-economic-pressure/",
-      "datum": "2026-08-25T16:42:36.000Z"
+      "titel": "Preview, today: Fed's favoured inflation gauge lands two days before Warsh's Jackson Hole speech",
+      "link": "https://investinglive.com/news/preview-today-fed-s-favoured-inflation-gauge-lands-two-days-before-warsh-s-jackson-hole-speech/",
+      "datum": "2026-08-26T00:55:09.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Iran and Oman propose a joint temporary shipping lane",
-      "link": "https://investinglive.com/news/iran-and-oman-propose-a-joint-temporary-shipping-lane/",
-      "datum": "2026-08-25T15:40:45.000Z"
+      "titel": "Japan's services inflation accelerates to 3.6pct in July, beating forecasts",
+      "link": "https://investinglive.com/news/japan-s-services-inflation-accelerates-to-3-6pct-in-july-beating-forecasts/",
+      "datum": "2026-08-26T00:24:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US weighs further trade escalation after Canada sets retaliatory tariffs",
+      "link": "https://investinglive.com/news/us-weighs-further-trade-escalation-after-canada-sets-retaliatory-tariffs/",
+      "datum": "2026-08-25T23:57:47.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan July 2026 Services PPI +3.6% y/y (expected 3.2%, prior 3.2%)",
+      "link": "https://investinglive.com/news/japan-july-2026-services-ppi-3-6-y-y-expected-3-2-prior-3-2/",
+      "datum": "2026-08-25T23:53:37.000Z"
     }
   ]
 }

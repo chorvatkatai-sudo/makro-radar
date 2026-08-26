@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-26T13:46:58.135Z",
+  "stand": "2026-08-26T16:11:20.962Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,51 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "British Pound weakens against US Dollar as headline PCE beats forecasts",
-      "link": "https://www.fxstreet.com/news/british-pound-weakens-against-us-dollar-as-headline-pce-beats-forecasts-202608261335",
-      "datum": "2026-08-26T13:35:42.000Z"
+      "titel": "New Zealand Dollar dips, but RBNZ hike bets provide safety net",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-dips-but-rbnz-hike-bets-provide-safety-net-202608261603",
+      "datum": "2026-08-26T16:03:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Aluminium: Midwest premium to stay elevated – ING",
-      "link": "https://www.fxstreet.com/news/aluminium-midwest-premium-to-stay-elevated-ing-202608261330",
-      "datum": "2026-08-26T13:30:30.000Z"
+      "titel": "Silver Price Forecast: Buyers struggle below the 100-day SMA",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-buyers-struggle-below-the-100-day-sma-202608261528",
+      "datum": "2026-08-26T15:28:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Kevin Warsh’s Jackson Hole dilemma: Say too much, too little, or just enough",
-      "link": "https://www.fxstreet.com/news/kevin-warshs-jackson-hole-dilemma-say-too-much-too-little-or-just-enough-202608261315",
-      "datum": "2026-08-26T13:15:09.000Z"
+      "titel": "Polish Zloty: Policy divergence weighs on PLN against Euro – ABN AMRO",
+      "link": "https://www.fxstreet.com/news/polish-zloty-policy-divergence-weighs-on-pln-against-euro-abn-amro-202608261515",
+      "datum": "2026-08-26T15:15:32.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Oil: Tight balance persists as Iran deal talk grows – TD Securities",
-      "link": "https://www.fxstreet.com/news/oil-tight-balance-persists-as-iran-deal-talk-grows-td-securities-202608261312",
-      "datum": "2026-08-26T13:12:20.000Z"
+      "titel": "Australian Dollar stumbles as hot Australian CPI runs into a firmer US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-stumbles-as-hot-australian-cpi-runs-into-a-firmer-us-dollar-202608261456",
+      "datum": "2026-08-26T14:56:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Taiwan: AI boom sustains exceptional growth – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-ai-boom-sustains-exceptional-growth-commerzbank-202608261453",
+      "datum": "2026-08-26T14:53:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar falls despite Oil gains as trade tensions take center stage",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-despite-oil-gains-as-trade-tensions-take-center-stage-202608261438",
+      "datum": "2026-08-26T14:38:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Trade shock and GDP drag – TD Securities",
+      "link": "https://www.fxstreet.com/news/canada-trade-shock-and-gdp-drag-td-securities-202608261425",
+      "datum": "2026-08-26T14:25:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen reverses earlier gains as US Dollar firms after PCE data",
+      "link": "https://www.fxstreet.com/news/japanese-yen-reverses-earlier-gains-as-us-dollar-firms-after-pce-data-202608261418",
+      "datum": "2026-08-26T14:18:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Pressure builds as risk premia rise – ABN AMRO",
+      "link": "https://www.fxstreet.com/news/us-dollar-pressure-builds-as-risk-premia-rise-abn-amro-202608261406",
+      "datum": "2026-08-26T14:06:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Neither a confirmed hike nor a guaranteed pause: Why the Australian Dollar is climbing toward 0.7200",
+      "link": "https://www.fxstreet.com/news/neither-a-confirmed-hike-nor-a-guaranteed-pause-why-the-australian-dollar-is-climbing-toward-07200-202608261405",
+      "datum": "2026-08-26T14:05:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: GDP Recovery strengthens outlook – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/germany-gdp-recovery-strengthens-outlook-deutsche-bank-202608261347",
+      "datum": "2026-08-26T13:47:01.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Meta and US states agree to settle claims that platforms harmed children",
       "link": "https://investinglive.com/news/meta-and-us-states-agree-to-settle-claims-that-platforms-harmed-children/",
       "datum": "2026-08-26T13:10:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold slips as sticky US PCE inflation fails to boost Fed rate-hike expectations",
-      "link": "https://www.fxstreet.com/news/gold-slips-as-sticky-us-pce-inflation-fails-to-boost-fed-rate-hike-expectations-202608261259",
-      "datum": "2026-08-26T12:59:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro comes under pressure against US Dollar after mixed US PCE data",
-      "link": "https://www.fxstreet.com/news/euro-comes-under-pressure-against-us-dollar-after-mixed-us-pce-data-202608261257",
-      "datum": "2026-08-26T12:57:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Trade dispute risks weigh on Canada – BNY",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-dispute-risks-weigh-on-canada-bny-202608261247",
-      "datum": "2026-08-26T12:47:42.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -67,34 +91,16 @@
       "datum": "2026-08-26T12:30:43.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Hot CPI supports carry and RBA risk – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hot-cpi-supports-carry-and-rba-risk-bbh-202608261227",
-      "datum": "2026-08-26T12:27:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Weakness before renewed strength – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakness-before-renewed-strength-commerzbank-202608261213",
-      "datum": "2026-08-26T12:13:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds upper hand against British Pound on diverging ECB-BoE expectations",
-      "link": "https://www.fxstreet.com/news/euro-holds-upper-hand-against-british-pound-on-diverging-ecb-boe-expectations-202608261205",
-      "datum": "2026-08-26T12:05:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Intervention impact assessed – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-impact-assessed-rabobank-202608261158",
-      "datum": "2026-08-26T11:58:59.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European news wrap: Markets await further US-Iran news, Jackson Hole event",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-await-further-us-iran-news-jackson-hole-event/",
       "datum": "2026-08-26T11:33:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold stays under pressure as US Dollar firms after PCE data",
+      "link": "https://www.fxstreet.com/news/gold-slips-ahead-of-us-pce-as-us-dollar-firms-modestly-202608261107",
+      "datum": "2026-08-26T11:07:10.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Switzerland August UBS investor sentiment +12.1 vs +10.0 prior",
       "link": "https://investinglive.com/news/switzerland-august-ubs-investor-sentiment-xx-vs-10-0-prior/",
       "datum": "2026-08-26T08:00:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: US core PCE inflation holds steady at 3.3% in July as expected",
-      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800",
-      "datum": "2026-08-26T08:00:00.000Z"
     }
   ]
 }

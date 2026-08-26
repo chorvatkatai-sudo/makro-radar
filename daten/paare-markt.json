@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-26T12:35:05.074Z",
+  "stand": "2026-08-26T12:40:58.786Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 5,
       "tiltCot": -1,
-      "tiltZins": -1,
-      "tiltGesamt": -2,
-      "score": 3,
+      "tiltZins": -2,
+      "tiltGesamt": -3,
+      "score": 2,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + Entwertungs-Wette (Gold/BTC-Rekord); gebremst durch drehenden Zins-Vergleich pro-Dollar und Squeeze-Risiko.",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": -1,
-      "tiltGesamt": -6,
-      "score": -8,
+      "tiltZins": -2,
+      "tiltGesamt": -7,
+      "score": -9,
       "cotExtrem": null,
       "treiber": "Weicher Dollar hilft dem Kiwi kaum — schwache China-Nachfrage und niedriger Zins überwiegen.",
       "istCross": false
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 2,
       "tiltCot": 3,
-      "tiltZins": 2,
-      "tiltGesamt": 5,
-      "score": 7,
+      "tiltZins": 1,
+      "tiltGesamt": 4,
+      "score": 6,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

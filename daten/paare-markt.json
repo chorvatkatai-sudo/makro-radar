@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-26T05:08:22.786Z",
+  "stand": "2026-08-26T08:33:33.806Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 5,
       "tiltCot": -1,
-      "tiltZins": -3,
-      "tiltGesamt": -4,
-      "score": 1,
+      "tiltZins": -2,
+      "tiltGesamt": -3,
+      "score": 2,
       "cotExtrem": "erhoeht",
       "treiber": "Weicher Dollar + Entwertungs-Wette (Gold/BTC-Rekord); gebremst durch drehenden Zins-Vergleich pro-Dollar und Squeeze-Risiko.",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": 1,
       "tiltCot": 2,
-      "tiltZins": 0,
-      "tiltGesamt": 2,
-      "score": 3,
+      "tiltZins": 2,
+      "tiltGesamt": 4,
+      "score": 5,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": 1,
       "tiltCot": 1,
-      "tiltZins": -3,
-      "tiltGesamt": -2,
-      "score": -1,
+      "tiltZins": -2,
+      "tiltGesamt": -1,
+      "score": 0,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

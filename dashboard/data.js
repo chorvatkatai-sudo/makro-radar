@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-26T05:08:23.765Z",
+ "erstellt": "2026-08-26T08:33:34.185Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -1921,7 +1921,7 @@ window.MAKRO_DATA = {
    "title": "Index-linked Treasury Gilt 2049 Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "2.165%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3234,15 +3234,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-26T05:08:22.047Z",
+  "stand": "2026-08-26T08:33:33.272Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 99,
+    "wert": 98.94,
     "tagProzent": 0,
-    "wocheProzent": 0.1,
+    "wocheProzent": 0.04,
     "renditeDelta": false,
     "verlauf": [
      100.8,
@@ -3265,20 +3265,19 @@ window.MAKRO_DATA = {
      98.8,
      99,
      98.92,
-     99,
-     99
+     98.93,
+     98.94
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.45,
+    "wert": 15.69,
     "tagProzent": 0,
-    "wocheProzent": 3.76,
+    "wocheProzent": -2,
     "renditeDelta": false,
     "verlauf": [
-     18.21,
      20.66,
      17.09,
      15.99,
@@ -3299,16 +3298,17 @@ window.MAKRO_DATA = {
      15.13,
      15.85,
      15.45,
-     15.45
+     15.69,
+     15.69
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 80.63,
+    "wert": 80.46,
     "tagProzent": 0,
-    "wocheProzent": -8.2,
+    "wocheProzent": -8.39,
     "renditeDelta": false,
     "verlauf": [
      84.46,
@@ -3331,17 +3331,17 @@ window.MAKRO_DATA = {
      87.06,
      85.01,
      82.36,
-     80.63,
-     80.63
+     80.46,
+     80.46
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.58,
+    "wert": 85.61,
     "tagProzent": 0,
-    "wocheProzent": -8.74,
+    "wocheProzent": -8.71,
     "renditeDelta": false,
     "verlauf": [
      90.74,
@@ -3364,17 +3364,17 @@ window.MAKRO_DATA = {
      94.39,
      92.17,
      88.58,
-     85.58,
-     85.58
+     85.61,
+     85.61
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4696.8,
+    "wert": 4678.1,
     "tagProzent": 0,
-    "wocheProzent": 4,
+    "wocheProzent": 3.58,
     "renditeDelta": false,
     "verlauf": [
      4034.7,
@@ -3397,8 +3397,8 @@ window.MAKRO_DATA = {
      4624.1,
      4640.8,
      4638.1,
-     4696.8,
-     4696.8
+     4678.1,
+     4678.1
     ]
    },
    "US02Y": {
@@ -3504,12 +3504,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 78696.52,
+    "wert": 78957.31,
     "tagProzent": 0,
-    "wocheProzent": 0.46,
+    "wocheProzent": 2.43,
     "renditeDelta": false,
     "verlauf": [
-     64597.5,
      64262.11,
      64880.19,
      64904.69,
@@ -3529,8 +3528,9 @@ window.MAKRO_DATA = {
      77083.41,
      77755.27,
      78964.48,
-     78696.52,
-     78696.52
+     78564.98,
+     78957.31,
+     78957.31
     ]
    },
    "FEDFUT": {
@@ -3730,32 +3730,32 @@ window.MAKRO_DATA = {
    "stand": "2026-08-26",
    "werte": {
     "USD": {
-     "wert": 4.195,
-     "wocheDelta": 0.024
+     "wert": 4.199,
+     "wocheDelta": 0.028
     },
     "EUR": {
-     "wert": 2.751,
-     "wocheDelta": -0.044
+     "wert": 2.783,
+     "wocheDelta": -0.012
     },
     "GBP": {
-     "wert": 4.313,
-     "wocheDelta": -0.056
+     "wert": 4.312,
+     "wocheDelta": -0.057
     },
     "JPY": {
-     "wert": 1.684,
-     "wocheDelta": 0.023
+     "wert": 1.689,
+     "wocheDelta": 0.028
     },
     "AUD": {
-     "wert": 4.624,
-     "wocheDelta": 0.043
+     "wert": 4.638,
+     "wocheDelta": 0.057
     },
     "CAD": {
      "wert": 2.899,
      "wocheDelta": -0.059
     },
     "CHF": {
-     "wert": 0.047,
-     "wocheDelta": -0.04
+     "wert": 0.046,
+     "wocheDelta": -0.041
     },
     "NZD": {
      "wert": 3.57,
@@ -3776,9 +3776,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 5,
    "tiltCot": -1,
-   "tiltZins": -3,
-   "tiltGesamt": -4,
-   "score": 1,
+   "tiltZins": -2,
+   "tiltGesamt": -3,
+   "score": 2,
    "cotExtrem": "erhoeht",
    "treiber": "Weicher Dollar + Entwertungs-Wette (Gold/BTC-Rekord); gebremst durch drehenden Zins-Vergleich pro-Dollar und Squeeze-Risiko.",
    "istCross": false
@@ -3853,9 +3853,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/GBP",
    "baseScore": 1,
    "tiltCot": 2,
-   "tiltZins": 0,
-   "tiltGesamt": 2,
-   "score": 3,
+   "tiltZins": 2,
+   "tiltGesamt": 4,
+   "score": 5,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
@@ -3864,9 +3864,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/JPY",
    "baseScore": 1,
    "tiltCot": 1,
-   "tiltZins": -3,
-   "tiltGesamt": -2,
-   "score": -1,
+   "tiltZins": -2,
+   "tiltGesamt": -1,
+   "score": 0,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
@@ -3895,7 +3895,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-26T05:08:22.793Z",
+  "stand": "2026-08-26T08:33:33.813Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 46,
   "gewertet": 23,
@@ -4003,7 +4003,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-08-26T05:08:23.764Z",
+  "stand": "2026-08-26T08:33:34.184Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4233,7 +4233,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-08-26T05:08:22.785Z",
+  "stand": "2026-08-26T08:33:33.805Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -4242,57 +4242,81 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "FXStreet",
-    "titel": "Asian stock markets gain as oil extends downfall, eyes on Jackson Hall Symposium",
-    "link": "https://www.fxstreet.com/news/asian-stock-markets-gain-as-oil-extends-downfall-eyes-on-jackson-hall-symposium-202608260452",
-    "datum": "2026-08-26T04:52:55.000Z"
+    "titel": "Euro advances against Canadian Dollar amid falling oil prices",
+    "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-falling-oil-prices-202608260828",
+    "datum": "2026-08-26T08:28:46.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "WTI Price Forecast: Seems vulnerable below $80.00 as break below 50% Fibo. comes into play",
-    "link": "https://www.fxstreet.com/news/wti-price-forecast-seems-vulnerable-below-8000-as-break-below-50-fibo-comes-into-play-202608260448",
-    "datum": "2026-08-26T04:48:39.000Z"
+    "titel": "Forex Today: US Dollar extends consolidation ahead of key inflation data, Nvidia earnings",
+    "link": "https://www.fxstreet.com/news/forex-today-us-dollar-extends-consolidation-ahead-of-key-inflation-data-nvidia-earnings-202608260815",
+    "datum": "2026-08-26T08:15:41.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Indonesian Rupiah remains subdued amid market caution, external headwinds",
-    "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-subdued-amid-market-caution-external-headwinds-202608260447",
-    "datum": "2026-08-26T04:47:09.000Z"
+    "titel": "Euro: Schnabel’s upbeat tone supports against US Dollar – ING",
+    "link": "https://www.fxstreet.com/news/euro-schnabels-upbeat-tone-supports-against-us-dollar-ing-202608260812",
+    "datum": "2026-08-26T08:12:59.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "United States Dollar Index recovers to near 99.00 ahead of US PCE inflation data",
-    "link": "https://www.fxstreet.com/news/united-states-dollar-index-recovers-to-near-9900-ahead-of-us-pce-inflation-data-202608260442",
-    "datum": "2026-08-26T04:42:51.000Z"
+    "titel": "Dow Jones futures hold flat as traders await US PCE inflation data, Nvidia earnings",
+    "link": "https://www.fxstreet.com/news/dow-jones-futures-hold-flat-as-traders-await-us-pce-inflation-data-nvidia-earnings-202608260806",
+    "datum": "2026-08-26T08:06:27.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "India Gold price today: Gold falls, according to FXStreet data",
-    "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608260435",
-    "datum": "2026-08-26T04:35:21.000Z"
+    "titel": "Japanese Yen: Range-bound trading outlook against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-trading-outlook-against-us-dollar-uob-202608260804",
+    "datum": "2026-08-26T08:04:35.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Switzerland August UBS investor sentiment +12.1 vs +10.0 prior",
+    "link": "https://investinglive.com/news/switzerland-august-ubs-investor-sentiment-xx-vs-10-0-prior/",
+    "datum": "2026-08-26T08:00:17.000Z"
    },
    {
     "quelle": "FXStreet",
-    "titel": "Japan’s Kiuchi: CPI expected to gradually rise due to Middle East conditions",
-    "link": "https://www.fxstreet.com/news/japans-kiuchi-cpi-expected-to-gradually-rise-due-to-middle-east-conditions-202608260423",
-    "datum": "2026-08-26T04:23:43.000Z"
+    "titel": "US core PCE inflation set to keep pressure on the Federal Reserve to hike interest rates",
+    "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800",
+    "datum": "2026-08-26T08:00:00.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "US Dollar Index Price Forecast: Bears prevail with the 200-day SMA capping rallies",
+    "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-bears-prevail-with-the-200-day-sma-capping-rallies-202608260758",
+    "datum": "2026-08-26T07:58:26.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Euro holds above mid-1.1600s vs USD; looks to US PCE data for fresh impetus",
+    "link": "https://www.fxstreet.com/news/euro-holds-above-mid-11600s-vs-usd-looks-to-us-pce-data-for-fresh-impetus-202608260754",
+    "datum": "2026-08-26T07:54:28.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "British Pound weakens against Japanese Yen amid hawkish BoJ prospects",
+    "link": "https://www.fxstreet.com/news/british-pound-weakens-against-japanese-yen-amid-hawkish-boj-prospects-202608260748",
+    "datum": "2026-08-26T07:48:28.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Brent: Prices extend sharp decline – Deutsche Bank",
+    "link": "https://www.fxstreet.com/news/brent-prices-extend-sharp-decline-deutsche-bank-202608260744",
+    "datum": "2026-08-26T07:44:35.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Silver Price Forecast: XAG/USD rises to near $69.00 ahead of US PCE inflation data",
+    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6900-ahead-of-us-pce-inflation-data-202608260742",
+    "datum": "2026-08-26T07:42:22.000Z"
    },
    {
     "quelle": "ForexLive",
     "titel": "What are the main events for today?",
     "link": "https://investinglive.com/news/what-are-the-main-events-for-today-28/",
     "datum": "2026-08-26T04:23:24.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound edges lower but remains close to multi-month top as USD awaits US PCE",
-    "link": "https://www.fxstreet.com/news/british-pound-edges-lower-but-remains-close-to-multi-month-top-as-usd-awaits-us-pce-202608260407",
-    "datum": "2026-08-26T04:07:11.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/USD Price Forecast: Remains sideways ahead of key US events",
-    "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sideways-ahead-of-key-us-events-202608260404",
-    "datum": "2026-08-26T04:04:13.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -4302,27 +4326,9 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "Gold holds steady around $4,650 as traders look to US PCE for Fed rate cues",
+    "titel": "Gold refreshes daily low, around $4,625 as USD sticks to modest gains ahead of US PCE",
     "link": "https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332",
     "datum": "2026-08-26T03:32:20.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Silver Price Forecast: XAG/USD holds firmly above $69 ahead of US PCE Inflation data",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-firmly-above-69-ahead-of-us-pce-inflation-data-202608260319",
-    "datum": "2026-08-26T03:19:54.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar declines as US Dollar advances ahead of PCE index data",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-advances-ahead-of-pce-index-data-202608260313",
-    "datum": "2026-08-26T03:13:03.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen strengthens on US bond buyback, traders brace for US PCE inflation report",
-    "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-on-us-bond-buyback-traders-brace-for-us-pce-inflation-report-202608260241",
-    "datum": "2026-08-26T02:41:32.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -4341,12 +4347,6 @@ window.MAKRO_DATA = {
     "titel": "Japan's services inflation accelerates to 3.6pct in July, beating forecasts",
     "link": "https://investinglive.com/news/japan-s-services-inflation-accelerates-to-3-6pct-in-july-beating-forecasts/",
     "datum": "2026-08-26T00:24:24.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US weighs further trade escalation after Canada sets retaliatory tariffs",
-    "link": "https://investinglive.com/news/us-weighs-further-trade-escalation-after-canada-sets-retaliatory-tariffs/",
-    "datum": "2026-08-25T23:57:47.000Z"
    }
   ]
  },

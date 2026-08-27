@@ -10450,6 +10450,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-29T11:15:00-04:00|All|G20 Meetings": {
+      "datum": "2026-08-29T11:15:00-04:00",
+      "land": "All",
+      "titel": "G20 Meetings",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

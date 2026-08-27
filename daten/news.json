@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-26T18:51:27.127Z",
+  "stand": "2026-08-27T05:05:03.313Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: 160.00 caps bulls as intervention risk lingers",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-16000-caps-bulls-as-intervention-risk-lingers-202608261850",
-      "datum": "2026-08-26T18:50:40.000Z"
+      "titel": "Swiss Franc steadies as US Dollar holds ground following robust economic data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-us-dollar-holds-ground-following-robust-economic-data-202608270502",
+      "datum": "2026-08-27T05:02:30.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Rally stalls against US Dollar as spreads drive trade – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-rally-stalls-against-us-dollar-as-spreads-drive-trade-scotiabank-202608261843",
-      "datum": "2026-08-26T18:43:00.000Z"
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608270435",
+      "datum": "2026-08-27T04:35:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Forex Today: US Dollar firms ahead of Jackson Hole",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-jackson-hole-202608261842",
-      "datum": "2026-08-26T18:42:14.000Z"
+      "titel": "British Pound languishes near weekly low, below 1.3600 as USD bulls await Warsh's speech",
+      "link": "https://www.fxstreet.com/news/british-pound-languishes-near-weekly-low-below-13600-as-usd-bulls-await-warshs-speech-202608270425",
+      "datum": "2026-08-27T04:25:48.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Taiwan Dollar: Consolidation range with upside risks against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-consolidation-range-with-upside-risks-against-us-dollar-commerzbank-202608261828",
-      "datum": "2026-08-26T18:28:00.000Z"
+      "titel": "EUR/JPY Price Forecast: Remains above 185.50 near moving averages",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-remains-above-18550-near-moving-averages-202608270423",
+      "datum": "2026-08-27T04:23:13.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Dollar Index is climbing out of a fiscal hole",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-is-climbing-out-of-a-fiscal-hole-202608261812",
-      "datum": "2026-08-26T18:12:58.000Z"
+      "titel": "AUD/JPY Price Forecast: Gains ground to near 114.50, bullish tone prevails above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-gains-ground-to-near-11450-bullish-tone-prevails-above-100-day-sma-202608270417",
+      "datum": "2026-08-27T04:17:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Further gains toward 6.7000 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-further-gains-toward-67000-against-us-dollar-uob-202608261811",
-      "datum": "2026-08-26T18:11:00.000Z"
+      "titel": "Gold scales higher on softer US yields as traders await Fed Chair Warsh's speech",
+      "link": "https://www.fxstreet.com/news/gold-scales-higher-on-softer-us-yields-as-traders-await-fed-chair-warshs-speech-202608270356",
+      "datum": "2026-08-27T03:56:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Asia marks time ahead of Warsh",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-marks-time-ahead-of-warsh/",
+      "datum": "2026-08-27T03:36:45.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: Bulls eye 1.3900 as RSI recovers",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bulls-eye-13900-as-rsi-recovers-202608261810",
-      "datum": "2026-08-26T18:10:58.000Z"
+      "titel": "South Korean Won gains on back-to-back BoK interest rate hikes",
+      "link": "https://www.fxstreet.com/news/south-korean-won-gains-on-back-to-back-bok-interest-rate-hikes-202608270312",
+      "datum": "2026-08-27T03:12:10.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold tumbles as high US inflation supports Fed hawkish bets",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-as-high-us-inflation-supports-fed-hawkish-bets-202608261809",
-      "datum": "2026-08-26T18:09:42.000Z"
+      "titel": "Silver Price Forecast: XAG/USD holds above $69.00 as traders assess Fed stance",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-6900-as-traders-assess-fed-stance-202608270251",
+      "datum": "2026-08-27T02:51:35.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Crude Oil finds the tollbooth inside the Hormuz corridor",
-      "link": "https://www.fxstreet.com/news/crude-oil-finds-the-tollbooth-inside-the-hormuz-corridor-202608261753",
-      "datum": "2026-08-26T17:53:25.000Z"
+      "titel": "New Zealand Dollar declines to near 0.5950 as US PCE data lift Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-near-05950-as-us-pce-data-lift-fed-rate-hike-bets-202608270222",
+      "datum": "2026-08-27T02:22:30.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Tariff headlines but range intact against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-tariff-headlines-but-range-intact-against-us-dollar-scotiabank-202608261748",
-      "datum": "2026-08-26T17:48:25.000Z"
+      "titel": "UKMTO says tanker hit by unknown projectile in Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/ukmto-says-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-202608270208",
+      "datum": "2026-08-27T02:08:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc falls against US Dollar as headline PCE inflation tops forecasts",
-      "link": "https://www.fxstreet.com/news/swiss-franc-falls-against-us-dollar-as-headline-pce-inflation-tops-forecasts-202608261726",
-      "datum": "2026-08-26T17:26:29.000Z"
+      "titel": "Australian Dollar holds strong due to RBA rate hike bets",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-strong-due-to-rba-rate-hike-bets-202608270203",
+      "datum": "2026-08-27T02:03:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China industrial profit growth slumps to 7-month low of 11.2%",
+      "link": "https://investinglive.com/news/china-industrial-profit-growth-slumps-to-7-month-low-of-11-2/",
+      "datum": "2026-08-27T02:02:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar consolidates near weekly low as USD bulls seem hesitant",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-weekly-low-as-usd-bulls-seem-hesitant-202608270201",
+      "datum": "2026-08-27T02:01:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 26 Aug The USD is mostly higher with higher yields the catalyst",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-aug-the-usd-is-mostly-higher-with-higher-yields-the-catalyst/",
+      "datum": "2026-08-26T20:41:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia 27 August 2026 - Bank of Korea and RBA",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-27-august-2026-bank-of-korea-and-rba/",
+      "datum": "2026-08-26T20:05:49.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -83,36 +113,6 @@
       "titel": "Dallas Fed Trimmed Mean +2.2% versus 1.5% last month",
       "link": "https://investinglive.com/news/dallas-fed-trimmed-mean-2-2-versus-1-5-last-month/",
       "datum": "2026-08-26T16:40:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound retreats as sticky PCE inflation keeps Fed hike bets alive",
-      "link": "https://www.fxstreet.com/news/british-pound-retreats-as-sticky-pce-revives-fed-hike-bets-202608261634",
-      "datum": "2026-08-26T16:34:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Putin said to plan Ukraine escalation after seeing talks as fruitless",
-      "link": "https://investinglive.com/news/putin-said-to-plan-ukraine-escalation-after-seeing-talks-as-fruitless/",
-      "datum": "2026-08-26T15:56:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Meta and US states agree to settle claims that platforms harmed children",
-      "link": "https://investinglive.com/news/meta-and-us-states-agree-to-settle-claims-that-platforms-harmed-children/",
-      "datum": "2026-08-26T13:10:47.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US July durable goods orders +1.1% vs +0.5% expected",
-      "link": "https://investinglive.com/news/us-july-durable-goods-orders-1-1-vs-0-5-expected/",
-      "datum": "2026-08-26T12:45:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US GDP 2nd estimate for Q2 1.5% vs 1.5% preliminary.",
-      "link": "https://investinglive.com/news/us-gdp-2nd-estimate-for-q2-1-5-vs-1-5-preliminary-0/",
-      "datum": "2026-08-26T12:30:43.000Z"
     }
   ]
 }

@@ -10470,6 +10470,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-28T10:30:00-04:00|GBP|MPC Member Mann Speaks": {
+      "datum": "2026-08-28T10:30:00-04:00",
+      "land": "GBP",
+      "titel": "MPC Member Mann Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

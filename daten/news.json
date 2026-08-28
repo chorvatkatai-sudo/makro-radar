@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-28T01:57:38.978Z",
+  "stand": "2026-08-28T05:05:24.002Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,7 +8,55 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Gold edges lower below $4,600, all eyes on Jackson Hole Symposium",
+      "titel": "United States Dollar Index steadies above 99.00 before Fed Chair Warsh speech",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-steadies-above-9900-before-fed-chair-warsh-speech-202608280448",
+      "datum": "2026-08-28T04:48:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608280435",
+      "datum": "2026-08-28T04:35:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD slips below $69.00 ahead of Fed Chair speech",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6900-ahead-of-fed-chair-speech-202608280408",
+      "datum": "2026-08-28T04:08:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Quiet session awaiting Warsh",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-quiet-session-awaiting-warsh/",
+      "datum": "2026-08-28T03:39:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro gains on hawkish ECB policy outlook",
+      "link": "https://www.fxstreet.com/news/euro-gains-on-hawkish-ecb-policy-outlook-202608280326",
+      "datum": "2026-08-28T03:26:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar gains ground above 0.5950, markets eye Jackson Hole Symposium",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-ground-above-05950-markets-eye-jackson-hole-symposium-202608280253",
+      "datum": "2026-08-28T02:53:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China's planner accelerates infrastructure and private investment push",
+      "link": "https://investinglive.com/news/china-s-planner-accelerates-infrastructure-and-private-investment-push/",
+      "datum": "2026-08-28T02:24:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar rises as RBA rate hike odds increase",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-rba-rate-hike-odds-increase-202608280214",
+      "datum": "2026-08-28T02:14:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold tumbles below $4,600 ahead of Jackson Hole Symposium",
       "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-600-all-eyes-on-jackson-hole-symposium-202608280156",
       "datum": "2026-08-28T01:56:23.000Z"
     },
@@ -32,7 +80,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen strengthens as Tokyo core CPI inflatin bolsters BoJ rate hike chance",
+      "titel": "Japanese Yen strengthens as Tokyo core CPI inflation bolsters BoJ rate hike chance",
       "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-tokyo-core-cpi-inflatin-bolsters-boj-rate-hike-chance-202608280053",
       "datum": "2026-08-28T00:53:39.000Z"
     },
@@ -65,54 +113,6 @@
       "titel": "Japan August 2026 Tokyo headline CPI 1.9% (expected 1.9%, prior 2%)",
       "link": "https://investinglive.com/news/japan-august-2026-tokyo-headline-cpi/",
       "datum": "2026-08-27T23:30:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds modest bid above 1.1650 ahead of Jackson Hole Symposium",
-      "link": "https://www.fxstreet.com/news/euro-holds-modest-bid-above-11650-ahead-of-jackson-hole-symposium-202608272329",
-      "datum": "2026-08-27T23:29:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Australian Dollar is inches away from generational highs against the Yen",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-is-inches-away-from-generational-highs-against-the-yen-202608272249",
-      "datum": "2026-08-27T22:49:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar hits three-month peak on risk-on mood, eyes on Warsh",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hits-three-month-peak-on-risk-on-mood-eyes-on-warsh-202608272246",
-      "datum": "2026-08-27T22:46:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Japanese Yen gets its hike whatever Tokyo CPI prints",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-gets-its-hike-whatever-tokyo-cpi-prints-202608272154",
-      "datum": "2026-08-27T21:54:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Beijing balances tariff pushback and dialogue – BNY",
-      "link": "https://www.fxstreet.com/news/china-beijing-balances-tariff-pushback-and-dialogue-bny-202608272139",
-      "datum": "2026-08-27T21:39:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia 28 August 2026 - Japan inflation data (Tokyo)",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-28-august-2026-japan-inflation-data-tokyo/",
-      "datum": "2026-08-27T20:25:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Nvidia boosts tech stocks",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nvidia-boosts-tech-stocks/",
-      "datum": "2026-08-27T20:04:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold holds firm above $4,600 as Warsh speech looms",
-      "link": "https://www.fxstreet.com/news/gold-edges-higher-as-falling-yields-offset-fed-hawkish-talk-202608271743",
-      "datum": "2026-08-27T17:43:12.000Z"
     }
   ]
 }

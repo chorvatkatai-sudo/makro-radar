@@ -1,61 +1,61 @@
 {
-  "stand": "2026-08-28T01:57:38.979Z",
+  "stand": "2026-08-28T05:04:56.551Z",
   "ausBriefing": "2026-08-21",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 4,
+      "baseScore": 3,
       "tiltCot": -1,
       "tiltZins": 0,
       "tiltGesamt": -1,
-      "score": 3,
+      "score": 2,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar + Entwertungs-Wette (Gold/BTC-Rekord), Euro-PMI solide; gebremst durch diese Woche leicht pro-Dollar drehenden Zins-Vergleich + Warsh-Risiko.",
+      "treiber": "Weicher Dollar + Entwertungs-Wette stützen den Euro (2-Mon-Hoch); gedeckelt durch neutralen Dollar vor Warsh.",
       "istCross": false
     },
     {
       "paar": "GBP/USD",
-      "baseScore": 3,
+      "baseScore": 2,
       "tiltCot": -4,
       "tiltZins": -2,
       "tiltGesamt": -6,
-      "score": -3,
+      "score": -4,
       "cotExtrem": null,
-      "treiber": "Pfund profitiert vom weichen Dollar; gedeckelt durch COT-Shorts und Warsh-Risiko.",
+      "treiber": "Pfund vom weichen Dollar getragen, aber flacher UK-2J und COT-Shorts begrenzen.",
       "istCross": false
     },
     {
       "paar": "USD/JPY",
-      "baseScore": -3,
+      "baseScore": -1,
       "tiltCot": 3,
       "tiltZins": 2,
       "tiltGesamt": 5,
-      "score": 2,
+      "score": 4,
       "cotExtrem": null,
-      "treiber": "Weicher Dollar drückt; Yen fundamental aber schwach (Carry), Track-Record des Paares mahnt zur Demut.",
+      "treiber": "Neutraler Dollar leicht drückend; Yen aber fundamental schwach (Carry kehrt zurück) → nur schwach negativ.",
       "istCross": false
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 4,
+      "baseScore": 3,
       "tiltCot": -3,
       "tiltZins": 0,
       "tiltGesamt": -3,
-      "score": 1,
+      "score": 0,
       "cotExtrem": null,
-      "treiber": "Heiße Australien-Inflation + harte RBA + Risk-on gegen weichen Dollar — das am klarsten vom Dollar-Block gelöste Paar.",
+      "treiber": "Heiße Australien-Inflation + harte RBA + höchster 2J-Zins + Risk-on gegen neutralen Dollar.",
       "istCross": false
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 5,
+      "baseScore": 4,
       "tiltCot": 5,
       "tiltZins": 1,
       "tiltGesamt": 6,
-      "score": 11,
+      "score": 10,
       "cotExtrem": null,
-      "treiber": "Öl-Kollaps schwächt den Loonie klar → Dollar-bullisch, trotz eigener Dollar-Schwäche; COT-Extrem-Short beim CAD = Reversal-Risiko.",
+      "treiber": "Öl-Kollaps schwächt den Loonie → dollar-freundlich; heute deckelt das Kanada-BIP + extreme CAD-Shorts (Squeeze-Risiko).",
       "istCross": false
     },
     {
@@ -66,7 +66,7 @@
       "tiltGesamt": 8,
       "score": 6,
       "cotExtrem": null,
-      "treiber": "Weicher Dollar leicht bärisch; Franken-Hafen-Bid bei ruhigem Risk-on begrenzt.",
+      "treiber": "Neutraler bis weicher Dollar + Franken-Hafen-Bid → leicht bärisch.",
       "istCross": false
     },
     {
@@ -77,16 +77,16 @@
       "tiltGesamt": -5,
       "score": -7,
       "cotExtrem": null,
-      "treiber": "Kiwi ohne eigene Story schwächer als der Aussie; COT extrem short = Squeeze-Risiko in beide Richtungen.",
+      "treiber": "Kiwi ohne eigene Story schwächer; COT extrem short, China-Nachfrage schwach.",
       "istCross": false
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": 1,
+      "baseScore": 0,
       "tiltCot": 2,
       "tiltZins": 1,
       "tiltGesamt": 3,
-      "score": 4,
+      "score": 3,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
@@ -115,11 +115,11 @@
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": 1,
+      "baseScore": 0,
       "tiltCot": 3,
       "tiltZins": 2,
       "tiltGesamt": 5,
-      "score": 6,
+      "score": 5,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

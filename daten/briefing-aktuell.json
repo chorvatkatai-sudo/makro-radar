@@ -15,80 +15,80 @@
   "waehrungen": {
     "USD": {
       "stimmung": "neutral",
-      "score": -2,
-      "grund": "Weich unter 99 (Gold/BTC-Rekord, verdoppelte Anleihe-Rückkäufe), ABER: Kern-PCE zäh (3,3 %) statt weich + US-2J diese Woche stärkster Zins-Steiger + Warsh-Falken-Risiko morgen deckeln die Schwäche. Extreme Short-Crowd = Squeeze-Gefahr."
+      "score": 0,
+      "grund": "Flach unter 99 vor Warshs Jackson-Hole-Rede (~16:00 Wien). Klebriger Kern-PCE (3,3 %) + wieder leicht steigender US-2J geben Rückhalt, ABER überfüllte Dollar-Shorts = asymmetrisches Squeeze-Risiko nach oben. Bewusst neutral bis zur Rede."
     },
     "EUR": {
       "stimmung": "bullisch",
-      "score": 4,
-      "grund": "Profitiert vom weichen Dollar und solider Euro-Wirtschaft (Flash-PMI ~51). Gegenwind: der Euro-2-Jahres-Zins fällt diese Woche und die Spekulanten-Longs sind erhöht (Squeeze-Risiko)."
+      "score": 2,
+      "grund": "EUR/USD am 2-Monats-Hoch (~1,165) dank weichem Dollar; solide Euro-Wirtschaft. Klein gehalten, weil ein neutraler Dollar den Vorsprung schmälert und Warsh heute alles drehen kann."
     },
     "GBP": {
-      "stimmung": "bullisch",
-      "score": 3,
-      "grund": "Starker Dienstleistungs-PMI (53,6) stützt; aber der UK-2-Jahres-Zins fällt diese Woche und die Dienstleistungs-Inflation kühlt — daher nur moderat positiv."
+      "stimmung": "neutral",
+      "score": 2,
+      "grund": "Vom weichen Dollar getragen, aber UK-2J flach und COT-Shorts groß (Squeeze-Risiko in beide Richtungen). Klein."
     },
     "JPY": {
       "stimmung": "neutral",
-      "score": 3,
-      "grund": "Einer der wenigen steigenden Zinsen diese Woche + hartnäckige Japan-Inflation (Kern-Kern 3,4 %). Gegengewicht: fundamental schwacher Yen (Carry) und schwacher eigener Kurs-Track-Record → neutral."
+      "score": 1,
+      "grund": "Yen-2J fiel diese Woche leicht, US-2J stieg → Carry-Druck kehrt zurück. Fundamental schwach, mieser Track-Record (2/9) → bewusst nahe null."
     },
     "CHF": {
       "stimmung": "neutral",
       "score": 2,
-      "grund": "Der weiche Dollar und das leicht anziehende Angst-Barometer geben dem Franken einen kleinen Sicherheits-Bid; ansonsten ruhig."
+      "grund": "Hafen-Bid bei ruhigem, aber sehr tiefem Angst-Barometer (VIX 14,5). Neutral."
     },
     "CAD": {
       "stimmung": "bärisch",
-      "score": -5,
-      "grund": "Öl-Kollaps (WTI −6 % Woche) nimmt der Öl-Währung den Rückenwind; dazu extrem crowded short (COT z −1,5) = latentes Squeeze-Risiko, aber fundamental der schwächste G10-Kandidat diese Woche."
+      "score": -4,
+      "grund": "Öl-Kollaps (WTI 83 $, −4,6 % Woche) nimmt der Öl-Währung Rückenwind. Gegengewicht heute: Kanada-BIP (Erholung erwartet) + extreme COT-Shorts (z −1,48) = Squeeze-Gefahr → nur mäßig bärisch."
     },
     "AUD": {
       "stimmung": "bullisch",
-      "score": 4,
-      "grund": "Heiße Inflation (3,5 % y/y, Kern 3,6 %) + RBA diskutierte Zinserhöhung → hartnäckig hoher Zinsvorsprung (2J 4,68 %, höchste). Risk-on (VIX 15,4) hilft zusätzlich."
+      "score": 3,
+      "grund": "Heiße Inflation (3,5 % y/y, Kern 3,6 %) + RBA diskutierte Erhöhung + AUD-2J der höchste (steigt). Risk-on (VIX tief) hilft — moderat positiv."
     },
     "NZD": {
       "stimmung": "bärisch",
       "score": -2,
-      "grund": "Vom weichen Dollar leicht getragen, aber schwache China-Nachfrage und der niedrigere Kiwi-Zins wiegen schwerer."
+      "grund": "Vom weichen Dollar leicht getragen, aber ohne eigene Story, schwache China-Nachfrage und COT-Shorts. Klein bärisch."
     }
   },
   "paare": [
     {
       "paar": "EUR/USD",
-      "score": 4,
-      "treiber": "Weicher Dollar + Entwertungs-Wette (Gold/BTC-Rekord), Euro-PMI solide; gebremst durch diese Woche leicht pro-Dollar drehenden Zins-Vergleich + Warsh-Risiko."
+      "score": 3,
+      "treiber": "Weicher Dollar + Entwertungs-Wette stützen den Euro (2-Mon-Hoch); gedeckelt durch neutralen Dollar vor Warsh."
     },
     {
       "paar": "GBP/USD",
-      "score": 3,
-      "treiber": "Pfund profitiert vom weichen Dollar; gedeckelt durch COT-Shorts und Warsh-Risiko."
+      "score": 2,
+      "treiber": "Pfund vom weichen Dollar getragen, aber flacher UK-2J und COT-Shorts begrenzen."
     },
     {
       "paar": "USD/JPY",
-      "score": -3,
-      "treiber": "Weicher Dollar drückt; Yen fundamental aber schwach (Carry), Track-Record des Paares mahnt zur Demut."
+      "score": -1,
+      "treiber": "Neutraler Dollar leicht drückend; Yen aber fundamental schwach (Carry kehrt zurück) → nur schwach negativ."
     },
     {
       "paar": "AUD/USD",
-      "score": 4,
-      "treiber": "Heiße Australien-Inflation + harte RBA + Risk-on gegen weichen Dollar — das am klarsten vom Dollar-Block gelöste Paar."
+      "score": 3,
+      "treiber": "Heiße Australien-Inflation + harte RBA + höchster 2J-Zins + Risk-on gegen neutralen Dollar."
     },
     {
       "paar": "USD/CAD",
-      "score": 5,
-      "treiber": "Öl-Kollaps schwächt den Loonie klar → Dollar-bullisch, trotz eigener Dollar-Schwäche; COT-Extrem-Short beim CAD = Reversal-Risiko."
+      "score": 4,
+      "treiber": "Öl-Kollaps schwächt den Loonie → dollar-freundlich; heute deckelt das Kanada-BIP + extreme CAD-Shorts (Squeeze-Risiko)."
     },
     {
       "paar": "USD/CHF",
       "score": -2,
-      "treiber": "Weicher Dollar leicht bärisch; Franken-Hafen-Bid bei ruhigem Risk-on begrenzt."
+      "treiber": "Neutraler bis weicher Dollar + Franken-Hafen-Bid → leicht bärisch."
     },
     {
       "paar": "NZD/USD",
       "score": -2,
-      "treiber": "Kiwi ohne eigene Story schwächer als der Aussie; COT extrem short = Squeeze-Risiko in beide Richtungen."
+      "treiber": "Kiwi ohne eigene Story schwächer; COT extrem short, China-Nachfrage schwach."
     }
   ],
   "wochenausblick": {
@@ -184,20 +184,20 @@
     "TRACK-RECORD-DEMUT: Über 9 ausgewertete Wochen liegt die Kurs-Trefferquote bei nur ~35 % (USD/JPY und EUR/USD am schlechtesten, 2/9). Das deckt sich mit der Forschung (Makro schlägt auf Wochensicht kaum den Zufall). Zahlen-Prognosen sind der verlässliche Teil, die Kurs-Richtung die Schwachstelle — darum kleine Scores."
   ],
   "tagesnews": {
-    "stand": "2026-08-27",
-    "wochentag": "Donnerstag",
-    "tenor": "Wartemodus vor Warsh: Der Kern-PCE (Fed-Lieblings-Inflation) kam gestern GENAU wie erwartet (0,2 % im Monat, 3,3 % im Jahr) — zäh, aber keine böse Überraschung, also keine frische Munition für einen falkenhaften Warsh. Der Dollar-Index bleibt weich unter 99, Gold klebt am Rekord (~4.650 $). Heute startet der Notenbank-Gipfel in Jackson Hole; alles wartet auf Warshs Grundsatzrede morgen (Fr ~16:00 Wien).",
+    "stand": "2026-08-28",
+    "wochentag": "Freitag",
+    "tenor": "HEUTE ist der große Tag: Fed-Chef Warshs allererste Grundsatzrede als Chef in Jackson Hole (~16:00 Wien). Der Dollar hängt flach unter 99 und wartet ab. Der Kern-PCE am Mittwoch war zäh-aber-wie-erwartet, der US-2-Jahres-Zins dreht diese Woche leicht nach oben — beides gäbe einem harten Warsh Rückendeckung. Weil fast alle auf einen schwachen Dollar wetten, ist das Risiko heute einseitig: klingt Warsh streng, kann ein kurzer Rückpraller (Short-Squeeze) den Dollar schnell hochschießen lassen.",
     "heute": [
-      "🏔️ HEUTE beginnt der Notenbank-Gipfel in Jackson Hole (27.–29.8.). Das eigentliche Ereignis ist aber MORGEN (Fr ~16:00 Wien): Fed-Chef Warshs erste Grundsatzrede als Chef + die große US-Jobzahlen-Benchmark-Revision — beide zeitgleich. Kinderleicht: Fast alle wetten auf einen schwachen Dollar; falls Warsh hart klingt, kann ein kurzer, heftiger Rückpraller (Short-Squeeze) den Dollar hochschießen lassen. Bis dahin passiert oft wenig.",
-      "🇺🇸 HEUTE 14:30 Wien — US-Erstanträge auf Arbeitslosenhilfe (wöchentlich, erwartet ~208–210k). Kinderleicht: ein schneller Puls-Check des Arbeitsmarktes; deutlich mehr Anträge = Wirtschaft schwächelt = dollar-dämpfend.",
-      "🥇 Gold hält den Rekord (~4.650 $), Bitcoin ~78.400 $. Die 'Flucht aus dem Papiergeld' (Entwertungs-Wette) läuft weiter — gestützt auch durch die ab 9.9. verdoppelten Anleihe-Rückkäufe des US-Finanzministeriums, die die langen Zinsen drücken.",
-      "🛢️ Öl bleibt tief (WTI ~82 $, −6 % Woche) nach dem Kollaps: OPEC & Energieagentur senkten die Nachfrage-Prognose, dazu praller US-Lageraufbau. Kinderleicht: billiges Öl nimmt dem kanadischen Dollar den Rückenwind."
+      "🏔️ HEUTE ~16:00 Wien — Warshs erste Grundsatzrede als Fed-Chef in Jackson Hole = DAS Ereignis, zeitgleich mit der großen US-Jobzahlen-Benchmark-Revision. Kinderleicht: Warsh hat die 'Vorab-Wegweiser' der Fed abgeschafft, deshalb zählt jedes Wort. Der Markt ist beim 16.9.-Zinsentscheid ein Münzwurf (Erhöhen oder Halten) — die Rede kann das Zünglein an der Waage sein.",
+      "🇨🇦 HEUTE 14:30 Wien — Kanada-BIP fürs 2. Quartal. Kinderleicht: erwartet wird eine Erholung (~2 % aufs Jahr gerechnet, getragen von Öl, Industrie, Exporten). Stark = Rückenwind für den kanadischen Dollar, der sonst unter dem billigen Öl leidet.",
+      "🥇 Gold klebt am Rekord (~4.633 $), Bitcoin ~80.500 $ (+3,6 % Woche). Die 'Flucht aus dem Papiergeld' (Entwertungs-Wette) läuft weiter, solange eine Fed-Zinssenkung im Raum steht.",
+      "🛢️ Öl bleibt tief (WTI ~83 $, −4,6 % Woche). Kinderleicht: billiges Öl nimmt dem kanadischen Dollar den Rückenwind — heute steht ihm aber das BIP als Gegengewicht gegenüber."
     ],
     "gestern": [
-      "🇺🇸 US-Kern-PCE (Juli) kam WIE ERWARTET: +0,2 % im Monat (leicht hoch von +0,1 %), +3,3 % im Jahr (unverändert), Gesamt-PCE 3,7 %. Kinderleicht: Die Fed-Lieblings-Inflation ist zäh, aber nicht heißer als befürchtet → kein Grund für Warsh, plötzlich härter zu werden, der Dollar blieb weich.",
-      "🇺🇸 US-BIP Q2 (2. Schätzung): unverändert bei +1,5 %. Kinderleicht: mäßiges Wachstum, keine neue Überraschung.",
-      "🇦🇺 Australien-Inflation HEISS (Di/Mi): +3,5 % y/y (erwartet 3,2–3,3 %), +1,0 % im Monat, Kern (Trimmed Mean) klebt bei ~3,6 %. Dazu RBA-Protokoll: sogar eine ZinsERHÖHUNG wurde diskutiert. Kinderleicht: Preise steigen schneller als gedacht → RBA bleibt hart → Aussie mit Rückenwind.",
-      "📈 Zins-Vergleich diese Woche leicht PRO Dollar: Der US-2-Jahres-Zins ist der stärkste Steiger (+0,05), während GBP/CAD flach bis fallend sind. Kinderleicht: Der Dollar wirft im Vergleich einen Tick mehr ab — ein kleines Gegengewicht zur Dollar-Schwäche, aber kein Trendbruch."
+      "🇺🇸 Mi 26.8: US-Kern-PCE (Fed-Lieblings-Inflation, Juli) +0,2 % im Monat (wie erwartet) / +3,3 % im Jahr = zäh und weiter klar über dem 2-%-Ziel. Kinderleicht: Die Inflation will nicht runter → das hält die Chance auf einen harten Warsh am Leben.",
+      "🌐 Do 27.8: Jackson-Hole-Gipfel gestartet, Märkte ruhig und abwartend. EUR/USD kletterte kurz auf ein 2-Monats-Hoch (~1,165), bevor es leicht zurückkam.",
+      "🇦🇺 Australien-Inflation HEISS (Di/Mi): +3,5 % y/y (über den erwarteten 3,2–3,3 %), Kern klebt bei ~3,6 %, dazu diskutierte die RBA sogar eine Zinserhöhung. Kinderleicht: Preise steigen schneller als gedacht → RBA bleibt hart → Aussie mit Rückenwind.",
+      "📈 Zins-Vergleich diese Woche leicht PRO Dollar: Der US-2-Jahres-Zins ist der stärkste Steiger (+0,05 Pp), während GBP/CHF/JPY flach bis leicht fallend sind. Kinderleicht: Der Dollar wirft im Vergleich einen Tick mehr ab — ein kleines Gegengewicht zur Dollar-Schwäche, kein Trendbruch."
     ]
   }
 }

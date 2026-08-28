@@ -10480,6 +10480,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-08-28T05:09:00-04:00|EUR|Italian 10-y Bond Auction": {
+      "datum": "2026-08-28T05:09:00-04:00",
+      "land": "EUR",
+      "titel": "Italian 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "4.00|1.7",
+      "actual": null,
+      "notiz": null
     }
   }
 }

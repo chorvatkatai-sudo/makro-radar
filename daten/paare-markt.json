@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-28T13:26:40.954Z",
+  "stand": "2026-08-28T13:29:50.017Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": 0,
-      "tiltGesamt": -3,
-      "score": 1,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Heiße Aussie-Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie vom Dollar-Block nach oben.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 3,
       "tiltCot": 5,
-      "tiltZins": 4,
-      "tiltGesamt": 9,
-      "score": 12,
+      "tiltZins": 3,
+      "tiltGesamt": 8,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf) + leicht festerer Dollar.",
       "istCross": false
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 4,
       "tiltCot": 3,
-      "tiltZins": 2,
-      "tiltGesamt": 5,
-      "score": 9,
+      "tiltZins": 0,
+      "tiltGesamt": 3,
+      "score": 7,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

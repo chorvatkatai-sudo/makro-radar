@@ -282,6 +282,16 @@
   {
     "date": "2026-09-01T01:30:00.000Z",
     "country": "AUD",
+    "title": "Private House Approvals MoM Prel",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.4%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-01T01:30:00.000Z",
+    "country": "AUD",
     "title": "Building Permits YoY Prel",
     "impact": "Low",
     "forecast": "",
@@ -296,16 +306,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "-0.8%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-01T01:30:00.000Z",
-    "country": "AUD",
-    "title": "Private House Approvals MoM Prel",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -532,20 +532,20 @@
   {
     "date": "2026-09-01T09:00:00.000Z",
     "country": "EUR",
-    "title": "Inflation Rate MoM Flash",
+    "title": "Unemployment Rate",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.2%",
+    "forecast": "6.3%",
+    "previous": "6.3%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-01T09:00:00.000Z",
     "country": "EUR",
-    "title": "Unemployment Rate",
+    "title": "Inflation Rate MoM Flash",
     "impact": "Medium",
-    "forecast": "6.3%",
-    "previous": "6.3%",
+    "forecast": "",
+    "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -882,16 +882,6 @@
   {
     "date": "2026-09-02T10:10:00.000Z",
     "country": "EUR",
-    "title": "12-Month Bill Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2.704%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-02T10:10:00.000Z",
-    "country": "EUR",
     "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
@@ -906,6 +896,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "2.533%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-02T10:10:00.000Z",
+    "country": "EUR",
+    "title": "12-Month Bill Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2.704%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1022,6 +1022,16 @@
   {
     "date": "2026-09-02T14:30:00.000Z",
     "country": "USD",
+    "title": "EIA Gasoline Production Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.061",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-02T14:30:00.000Z",
+    "country": "USD",
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
@@ -1042,30 +1052,20 @@
   {
     "date": "2026-09-02T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Distillate Fuel Production Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-0.091",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-02T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Gasoline Production Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.061",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-02T14:30:00.000Z",
-    "country": "USD",
     "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
     "previous": "0.027",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-02T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Distillate Fuel Production Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.091",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1412,40 +1412,10 @@
   {
     "date": "2026-09-03T12:30:00.000Z",
     "country": "CAD",
-    "title": "Imports",
+    "title": "Labor Productivity QoQ",
     "impact": "Low",
     "forecast": "",
-    "previous": "73.63 C$",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-03T12:30:00.000Z",
-    "country": "USD",
-    "title": "Imports",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "388 $",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-03T12:30:00.000Z",
-    "country": "USD",
-    "title": "Unit Labour Costs QoQ Final",
-    "impact": "Low",
-    "forecast": "1.3%",
-    "previous": "1.3%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-03T12:30:00.000Z",
-    "country": "USD",
-    "title": "Fed Waller Speech",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
+    "previous": "-0.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1472,10 +1442,30 @@
   {
     "date": "2026-09-03T12:30:00.000Z",
     "country": "USD",
-    "title": "Continuing Jobless Claims",
-    "impact": "Low",
+    "title": "Initial Jobless Claims",
+    "impact": "Medium",
     "forecast": "",
-    "previous": "1778",
+    "previous": "203",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-03T12:30:00.000Z",
+    "country": "USD",
+    "title": "Imports",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "388 $",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-03T12:30:00.000Z",
+    "country": "USD",
+    "title": "Unit Labour Costs QoQ Final",
+    "impact": "Low",
+    "forecast": "1.3%",
+    "previous": "1.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1491,6 +1481,26 @@
   },
   {
     "date": "2026-09-03T12:30:00.000Z",
+    "country": "USD",
+    "title": "Continuing Jobless Claims",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1778",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-03T12:30:00.000Z",
+    "country": "CAD",
+    "title": "Imports",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "73.63 C$",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-03T12:30:00.000Z",
     "country": "CAD",
     "title": "Exports",
     "impact": "Low",
@@ -1501,11 +1511,11 @@
   },
   {
     "date": "2026-09-03T12:30:00.000Z",
-    "country": "CAD",
-    "title": "Labor Productivity QoQ",
-    "impact": "Low",
+    "country": "USD",
+    "title": "Fed Waller Speech",
+    "impact": "Medium",
     "forecast": "",
-    "previous": "-0.5%",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1520,12 +1530,12 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-09-03T12:30:00.000Z",
-    "country": "USD",
-    "title": "Initial Jobless Claims",
-    "impact": "Medium",
+    "date": "2026-09-03T13:30:00.000Z",
+    "country": "CAD",
+    "title": "S&P Global Composite PMI",
+    "impact": "Low",
     "forecast": "",
-    "previous": "203",
+    "previous": "49.7",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1536,16 +1546,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "49.1",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-03T13:30:00.000Z",
-    "country": "CAD",
-    "title": "S&P Global Composite PMI",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "49.7",
     "actual": null,
     "quelle": "tradingview"
   },

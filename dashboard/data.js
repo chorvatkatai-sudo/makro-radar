@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-28T05:05:24.626Z",
+ "erstellt": "2026-08-28T13:26:40.964Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -2614,189 +2614,192 @@ window.MAKRO_DATA = {
   }
  ],
  "briefing": {
-  "datum": "2026-08-21",
+  "datum": "2026-08-28",
   "typ": "freitag",
-  "titel": "DOLLAR BLEIBT SCHWACH, GOLD UND BITCOIN AUF REKORDJAGD — der Dollar-Index rutschte unter 99 (auf ~98,7), Gold steht auf einem neuen Rekord (~4.640 $) und Bitcoin sprang in der Woche um satte +19 %. Wenn Gold UND Bitcoin gleichzeitig steigen, ist das das klassische Zeichen für eine 'Entwertungs'-Sorge: Anleger flüchten aus dem Papiergeld. Neu und wichtig: Auch die Zins-Erwartungen arbeiten jetzt gegen den Dollar (US-Zinsen fallen, die von Europa/Großbritannien/Japan steigen). Diese Woche kamen Inflationszahlen aus Kanada (3,0 %) und Großbritannien (2,9 %) hitzig herein — aber nur wegen teurem Benzin/Gas, der harte Kern blieb zahm. ACHTUNG nächste Woche: Notenbank-Gipfel in Jackson Hole, Fed-Chef Warsh hält Freitag (28.8.) seine mit Spannung erwartete Grundsatzrede — er könnte den einseitig auf einen schwachen Dollar wettenden Markt mit falkenhaften Tönen überraschen.",
+  "titel": "DOLLAR HÄNGT FLACH TROTZ ZÄHER INFLATION — Warsh-Rede erst am Abend, nächste Woche entscheidet der US-Jobbericht (Fr)",
   "lage": [
-   "Der Dollar bleibt schwach: Der Dollar-Index fiel diese Woche um rund 1 % und steht unter der runden Marke von 99 (~98,7). Grund ist die Erwartung, dass die US-Notenbank ihren harten Kurs bald lockert — nach dem Job-Schock und dem Einbruch beim Einzelhandel der Vorwochen.",
-   "Ganz auffällig: Gold steht auf einem neuen Rekord (~4.640 $, +5 % in der Woche) UND Bitcoin sprang um +19 %. Wenn beide zugleich steigen, ist das die 'Entwertungs-Wette' — die Sorge, dass immer mehr Geld gedruckt wird und Papiergeld an Wert verliert. Beides schadet dem Dollar.",
-   "Neu diese Woche: Auch das Zins-Bild dreht gegen den Dollar. Die US-2-Jahres-Zinsen fallen (−0,04 in der Woche), während die von Europa, Großbritannien und vor allem Japan (+0,06) steigen. Damit steht die Dollar-Schwäche auf ZWEI Beinen — schwache Daten UND Zinsen.",
-   "Die Inflation aus dem Ausland kam hitzig, aber nur an der Oberfläche: Kanada 3,0 % und Großbritannien 2,9 % (beide über Erwartung) — getrieben aber fast nur von teurem Benzin/Gas. Der harte KERN blieb in beiden Ländern zahm (Kanada ~2 %, UK-Dienstleistungen sanken sogar auf 3,4 %). Für die Notenbanken ändert das wenig.",
-   "An den Märkten herrscht noch gute Laune (Angst-Barometer VIX bei 15,5, niedrig), aber es zieht leicht an. Solche 'Risk-on'-Phasen helfen normalerweise Australien- und Neuseeland-Dollar — nur wurde der Aussie diese Woche von einem schwachen Arbeitsmarkt ausgebremst (15.800 Stellen verloren, Arbeitslosigkeit auf 5-Jahres-Hoch).",
-   "Öl zieht wieder an (WTI ~87 $, +3 % in der Woche) — das gibt dem Kanada-Dollar Rückenwind und hält eine Rest-Inflationssorge am Leben. Japans Inflation bleibt hartnäckig (Kern-Kern 3,4 %), was der Bank of Japan Argumente für eine Zins-Erhöhung im Herbst liefert.",
-   "GROSSE VORSICHT bei der Positionierung: Die großen Spekulanten sind quer über ALLE Währungen gegen den Dollar aufgestellt (netto short), beim Kanada-Dollar sogar extrem (fast rekord-hoch). Das ist wie eine zusammengedrückte Sprungfeder — kommt aus Jackson Hole ein falkenhaftes Wort von Warsh, kann der Dollar schnell und heftig zurückschnellen (Short-Squeeze).",
-   "Ehrlichkeit zur Trefferquote: Meine ZAHLEN-Prognosen treffen weiter gut (CPI Kanada/UK diese Woche wie erwartet 'nur Benzin, Kern zahm'). Die Übersetzung in konkrete Kurs-Richtungen bleibt aber schwach (~35 % über 9 Wochen). Deshalb halte ich die Wetten bewusst klein und respektiere die Warsh-Gefahr."
+   "Diese Woche kam die Fed-Lieblings-Inflation (Kern-PCE, Juli) genau wie erwartet herein: +0,2 % im Monat, +3,3 % im Jahr. Das ist zäh und klebt weit über dem 2-%-Ziel — die Inflation will einfach nicht runter.",
+   "Weil die Preise so hartnäckig sind, ist die Zinssenkungs-Fantasie wieder verflogen. Der 17.9.-Fed-Entscheid ist jetzt ein MÜNZWURF zwischen Halten und sogar einer ERHÖHUNG (der Markt preist rund ein Drittel Erhöhungs-Chance); eine Senkung ist fast vom Tisch.",
+   "Und trotzdem legt der Dollar nicht los: Der Dollar-Index klebt flach knapp unter 99. Gold steht auf Rekord (~4.630 $) und Bitcoin hält sich hoch — das klassische Zeichen für die 'Flucht aus dem Papiergeld' (Entwertungs-Wette). Diese Wette übertönt sogar die falkenhaften Zins-Nachrichten.",
+   "Der wichtigste Termin des Tages steht noch aus: Fed-Chef Warsh hält am späten Nachmittag (~16:00 Wien) seine allererste Grundsatzrede als Chef in Jackson Hole — NACH diesem Briefing. Warsh gilt als Falke; wenn er streng klingt, kann der einseitig auf einen schwachen Dollar wettende Markt kurz nach oben zurückprallen (Short-Squeeze).",
+   "Andere Länder: Australiens Inflation kam HEISS herein (+3,5 %, Kern klebt bei ~3,6 %), die Notenbank RBA hat sogar über eine Erhöhung gesprochen — Rückenwind für den Aussie. Kanadas Wirtschaft wuchs im 2. Quartal solide (+3,3 % aufs Jahr gerechnet, getragen von Öl und Industrie) — ein kleiner Trost für den Loonie trotz billigem Öl.",
+   "Öl bleibt tief (WTI ~83 $), die Angst-Barometer (VIX ~14,5) ist niedrig = der Markt ist entspannt (Risk-on). Das hilft Rohstoff-Währungen wie dem Aussie und schadet den 'Sicheren Häfen' Franken und Yen.",
+   "Ganz ehrlich: Der Dollar hängt in der Schwebe. Zähe Inflation + falkenhafte Fed sprächen für einen stärkeren Dollar, aber die Rekord-Flucht in Gold und Bitcoin hält ihn unten. Deshalb halte ich meine Einschätzungen diese Woche bewusst klein — die einzelnen Länder-Geschichten (Aussie heiß, Loonie mit BIP-Beat) sind klarer als die Dollar-Richtung."
   ],
   "waehrungen": {
    "USD": {
     "stimmung": "neutral",
-    "score": 0,
-    "grund": "Flach unter 99 vor Warshs Jackson-Hole-Rede (~16:00 Wien). Klebriger Kern-PCE (3,3 %) + wieder leicht steigender US-2J geben Rückhalt, ABER überfüllte Dollar-Shorts = asymmetrisches Squeeze-Risiko nach oben. Bewusst neutral bis zur Rede."
+    "score": 4,
+    "grund": "Zähe Kern-PCE (3,3 %) + falkenhafte Neubewertung (Erhöhung im Sept wieder ein Thema) + US-Zins dreht leicht nach oben — aber der Dollar rallyt trotzdem nicht (Index flach, Gold/Bitcoin auf Rekord). Warsh-Rede heute Abend = einseitiges Aufwärts-Risiko."
    },
    "EUR": {
-    "stimmung": "bullisch",
-    "score": 2,
-    "grund": "EUR/USD am 2-Monats-Hoch (~1,165) dank weichem Dollar; solide Euro-Wirtschaft. Klein gehalten, weil ein neutraler Dollar den Vorsprung schmälert und Warsh heute alles drehen kann."
+    "stimmung": "neutral",
+    "score": 5,
+    "grund": "Der Euro-Inflations-Flash am Di soll STEIGEN (3,1 % erwartet) → das hält die EZB-Erhöhungs-Tür offen. Euro-Zins zieht leicht an, und die Spekulanten sind extrem short (Squeeze-Zünder). Gegengewicht: die zähe US-Inflation."
    },
    "GBP": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Vom weichen Dollar getragen, aber UK-2J flach und COT-Shorts groß (Squeeze-Risiko in beide Richtungen). Klein."
+    "score": 1,
+    "grund": "Kein klarer Treiber: die Dienstleistungs-Inflation kühlt, der Pfund-Zins ist flach. Drei BoE-Mitglieder wollen zwar erhöhen, Chef Bailey bremst aber. Nahe null."
    },
    "JPY": {
-    "stimmung": "neutral",
-    "score": 1,
-    "grund": "Yen-2J fiel diese Woche leicht, US-2J stieg → Carry-Druck kehrt zurück. Fundamental schwach, mieser Track-Record (2/9) → bewusst nahe null."
+    "stimmung": "bärisch",
+    "score": -4,
+    "grund": "Fundamental schwach (Yen ~163, 40-Jahres-Tief), Mini-Zins 1,00 %, festerer Dollar drückt zusätzlich. Das Interventionsrisiko deckelt die Schwäche nach unten — und mein Yen-Trefferrekord ist mies (2/9), daher bewusst moderat."
    },
    "CHF": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Hafen-Bid bei ruhigem, aber sehr tiefem Angst-Barometer (VIX 14,5). Neutral."
+    "score": -2,
+    "grund": "Sicherer Hafen — der entspannte Markt (VIX tief) zieht Geld aus dem Franken ab, und der Schweizer Zins fällt leicht. Leicht schwächer."
    },
    "CAD": {
-    "stimmung": "bärisch",
-    "score": -4,
-    "grund": "Öl-Kollaps (WTI 83 $, −4,6 % Woche) nimmt der Öl-Währung Rückenwind. Gegengewicht heute: Kanada-BIP (Erholung erwartet) + extreme COT-Shorts (z −1,48) = Squeeze-Gefahr → nur mäßig bärisch."
+    "stimmung": "neutral",
+    "score": 4,
+    "grund": "BIP-Beat (+3,3 %) + falkenhafte BoC (drohte bei Öl-Schock mit Erhöhung) + Spekulanten extrem short (Squeeze-Gefahr). Gegengewicht: billiges Öl (WTI ~83 $) nimmt Rückenwind. Paar-eigene Geschichte, nicht Teil des Dollar-Blocks."
    },
    "AUD": {
     "stimmung": "bullisch",
-    "score": 3,
-    "grund": "Heiße Inflation (3,5 % y/y, Kern 3,6 %) + RBA diskutierte Erhöhung + AUD-2J der höchste (steigt). Risk-on (VIX tief) hilft — moderat positiv."
+    "score": 9,
+    "grund": "Klarste Geschichte der Woche: heiße Inflation (+3,5 %, Kern 3,6 %), die RBA diskutierte sogar eine Erhöhung, höchster G10-Zins (4,35 %) und steigender 2-Jahres-Zins, dazu der Risk-on-Rückenwind."
    },
    "NZD": {
-    "stimmung": "bärisch",
-    "score": -2,
-    "grund": "Vom weichen Dollar leicht getragen, aber ohne eigene Story, schwache China-Nachfrage und COT-Shorts. Klein bärisch."
+    "stimmung": "neutral",
+    "score": 0,
+    "grund": "Keine starke eigene Geschichte: der Kiwi-Zins zieht zwar leicht an, aber die RBNZ hält still. Ungefähr neutral."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": 3,
-    "treiber": "Weicher Dollar + Entwertungs-Wette stützen den Euro (2-Mon-Hoch); gedeckelt durch neutralen Dollar vor Warsh."
+    "score": 1,
+    "treiber": "Beide Seiten falkenhaft (steigende Euro-Inflation vs. zähe US-Inflation) → nahe unentschieden, hauchdünner Euro-Vorteil durch den CPI-Termin Di + Short-Squeeze-Gefahr."
    },
    {
     "paar": "GBP/USD",
-    "score": 2,
-    "treiber": "Pfund vom weichen Dollar getragen, aber flacher UK-2J und COT-Shorts begrenzen."
+    "score": -2,
+    "treiber": "Pfund ohne Treiber (Dienstleistungs-Inflation kühlt), Dollar mit leichtem Zins-Vorsprung."
    },
    {
     "paar": "USD/JPY",
-    "score": -1,
-    "treiber": "Neutraler Dollar leicht drückend; Yen aber fundamental schwach (Carry kehrt zurück) → nur schwach negativ."
+    "score": 4,
+    "treiber": "Yen-Schwäche ist der Motor (40-Jahres-Tief, Mini-Zins) — festerer Dollar hilft. Aber Interventionsrisiko deckelt nach oben."
    },
    {
     "paar": "AUD/USD",
-    "score": 3,
-    "treiber": "Heiße Australien-Inflation + harte RBA + höchster 2J-Zins + Risk-on gegen neutralen Dollar."
+    "score": 4,
+    "treiber": "Heiße Aussie-Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie vom Dollar-Block nach oben."
    },
    {
     "paar": "USD/CAD",
-    "score": 4,
-    "treiber": "Öl-Kollaps schwächt den Loonie → dollar-freundlich; heute deckelt das Kanada-BIP + extreme CAD-Shorts (Squeeze-Risiko)."
+    "score": -1,
+    "treiber": "Kanada-BIP-Beat + falkenhafte BoC + extreme Short-Positionierung (Squeeze) geben dem Loonie einen kleinen Vorteil trotz billigem Öl."
    },
    {
     "paar": "USD/CHF",
-    "score": -2,
-    "treiber": "Neutraler bis weicher Dollar + Franken-Hafen-Bid → leicht bärisch."
+    "score": 3,
+    "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf) + leicht festerer Dollar."
    },
    {
     "paar": "NZD/USD",
     "score": -2,
-    "treiber": "Kiwi ohne eigene Story schwächer; COT extrem short, China-Nachfrage schwach."
+    "treiber": "Kiwi ohne eigene Geschichte trifft auf den leichten Dollar-Zinsvorsprung."
    }
   ],
   "wochenausblick": {
    "text": [
-    "Nächste Woche steht ganz im Zeichen von JACKSON HOLE (27.–29.8.) — dem jährlichen Gipfeltreffen der Notenbanker in den Bergen von Wyoming. Der Höhepunkt: Fed-Chef Warsh hält am Freitag (28.8.) seine erste große Grundsatzrede.",
-    "Der rote Faden: Der Markt wettet einseitig auf einen schwachen Dollar (Zinssenkungen, Gold/Bitcoin-Rekorde). Bestätigt Warsh diese Erwartung, läuft die Dollar-Schwäche weiter. Klingt er aber falkenhaft ('Inflation noch zu hoch, keine Eile mit Senkungen'), könnte der Dollar heftig und schnell zurückschnellen — weil so viele auf der anderen Seite stehen. Warsh hat vorab betont, er sei 'nicht an Marktpreise gebunden' — das ist Notenbanker-Sprache für: eine falkenhafte Überraschung ist möglich.",
-    "Vor der Rede kommt am Mittwoch (26.8.) der Kern-PCE — der Lieblings-Inflationswert der Fed (erwartet +0,2 % im Monat, ~2,9 % im Jahr). Kühl = stützt die Lockerungs-Wette; heiß = liefert Warsh Munition für falkenhafte Töne.",
-    "Am Freitag (28.8.) kommt außerdem die jährliche Revision der US-Jobzahlen (Benchmark). Eine große Abwärts-Korrektur würde bestätigen, dass der Arbeitsmarkt schwächer war als gedacht — das wäre Dollar-negativ.",
-    "Wichtig: Weil die Spekulanten so einseitig gegen den Dollar stehen, sind kurze, heftige Gegenbewegungen jederzeit möglich — besonders rund um Warshs Rede. Kleine Positionen, enge Absicherung."
+    "Nächste Woche baut sich zum großen US-Jobbericht am Freitag auf — er ist nach zwei Job-Schocks in Folge DER Test, ob der Arbeitsmarkt wirklich bricht.",
+    "Davor liefert der Dienstag den Euro-Inflations-Flash (soll steigen → EZB-Thema) plus die US-Industrie-Umfrage (ISM), und der Mittwoch bringt den Zinsentscheid der Bank of Canada (Halten erwartet).",
+    "Roter Faden: Kommen die US-Daten schwach herein, gewinnt die 'Arbeitsmarkt bricht'-Geschichte und der Dollar bekommt neuen Druck. Bleiben sie fest, stützt das die falkenhafte Fed und den Dollar. Klein bleiben, bis der Jobbericht spricht."
    ],
    "termine": [
     {
-     "tag": "Montag 25.8.",
+     "tag": "Mo 31.8.",
+     "land": "CNY",
+     "titel": "China Industrie-PMI (NBS)",
+     "warum": "Frühindikator für die Weltkonjunktur — wichtig für Rohstoff-Währungen (AUD/NZD/CAD)."
+    },
+    {
+     "tag": "Di 1.9.",
+     "land": "EUR",
+     "titel": "Eurozone Inflation Flash (August, 11:00 Wien)",
+     "warum": "Soll auf 3,1 % steigen (Kern 2,6 %). Heiß = EZB-Erhöhungs-Chance ↑ = Euro-Rückenwind; kühl = Euro schwächer."
+    },
+    {
+     "tag": "Di 1.9.",
+     "land": "USD",
+     "titel": "US ISM-Industrie + JOLTS-Jobangebote (16:00 Wien)",
+     "warum": "Zeigt, ob die 'Zwei-Geschwindigkeiten'-Wirtschaft (starke Fabriken, schwache Jobs) anhält."
+    },
+    {
+     "tag": "Mi 2.9.",
      "land": "AUD",
-     "titel": "Australien: Protokoll der RBA-Sitzung — 03:30 Wien",
-     "warum": "Das Wortprotokoll der letzten Notenbank-Sitzung (Halten bei 4,35 %). Zeigt, wie nah die RBA nach den schwachen Jobs an einer Zinssenkung ist. Taubenhafte Töne = schwächerer Aussie."
+     "titel": "Australien BIP Q2 (01:30 Wien)",
+     "warum": "Nach der heißen Inflation der zweite Aussie-Check — solides Wachstum stützt die harte RBA-Linie."
     },
     {
-     "tag": "Mittwoch 26.8.",
-     "land": "USD",
-     "titel": "USA: Kern-PCE-Preisindex (Juli) + BIP 2. Schätzung — 14:30 Wien",
-     "warum": "Der Kern-PCE ist der Lieblings-Inflationswert der Fed (erwartet +0,2 % Monat, ~2,9 % Jahr). Kühl = grünes Licht für Lockerung = schwächerer Dollar. Heiß = Warsh bekommt Falken-Munition = Dollar könnte drehen."
-    },
-    {
-     "tag": "Donnerstag 27.8.",
-     "land": "USD",
-     "titel": "Jackson Hole beginnt (Notenbank-Symposium, bis 29.8.)",
-     "warum": "Das wichtigste Notenbanker-Treffen des Jahres. Thema: 'Finanz-Innovation'. Die Märkte positionieren sich schon vorher auf Warshs Rede am Freitag."
-    },
-    {
-     "tag": "Freitag 28.8.",
-     "land": "USD",
-     "titel": "USA: Grundsatzrede von Fed-Chef Warsh (Jackson Hole) — ca. 16:00 Wien",
-     "warum": "DAS Event der Woche. Warshs erste große Rede als Fed-Chef. Falkenhaft ('keine Eile mit Senkungen') → Dollar schnellt hoch (Short-Squeeze). Taubenhaft/neutral → Dollar-Schwäche läuft weiter. Er hat vorab betont, sich nicht an Marktpreise zu binden."
-    },
-    {
-     "tag": "Freitag 28.8.",
-     "land": "USD",
-     "titel": "USA: Jährliche Revision der Jobzahlen (Benchmark, vorläufig) — 16:00 Wien",
-     "warum": "Einmal im Jahr korrigiert die Statistikbehörde alle Jobzahlen rückwirkend. Eine große Abwärts-Korrektur = der Arbeitsmarkt war schwächer als gedacht = mehr Argumente für Zinssenkungen = Dollar-negativ."
-    },
-    {
-     "tag": "Freitag 28.8.",
+     "tag": "Mi 2.9.",
      "land": "CAD",
-     "titel": "Kanada: Bruttoinlandsprodukt (BIP) — 14:30 Wien",
-     "warum": "Zeigt, wie kräftig die kanadische Wirtschaft läuft. Stark = stützt den Loonie und den Halten-Kurs der BoC; schwach = spricht wieder für Zinssenkungen."
+     "titel": "Bank of Canada Zinsentscheid (15:45 Wien)",
+     "warum": "8. Halten bei 2,25 % erwartet — der TON zählt: droht sie wegen Öl weiter mit Erhöhung, hilft das dem Loonie."
+    },
+    {
+     "tag": "Do 3.9.",
+     "land": "USD",
+     "titel": "US ISM-Dienstleistungen (16:00 Wien)",
+     "warum": "Der größere Teil der US-Wirtschaft — schwach wäre ein weiteres Warnsignal vor dem Jobbericht."
+    },
+    {
+     "tag": "Fr 4.9.",
+     "land": "USD",
+     "titel": "US-Jobbericht NFP + Arbeitslosenquote (14:30 Wien)",
+     "warum": "DAS Event. Nach zwei Job-Schocks entscheidet er über die Fed-Richtung und den Dollar. Zeitgleich der kanadische Arbeitsmarkt."
     }
    ]
   },
   "prognosen": [
    {
-    "event": "USA: Kern-PCE-Preisindex (Juli)",
-    "termin": "Mittwoch 26.8., 14:30 Wiener Zeit",
-    "prognoseMarkt": "Monatsrate +0,2 %, Jahresrate ~2,9 % (nach 2,88 % zuletzt) — also weiter zäh knapp unter 3 %, aber kein neuer Sprung nach oben.",
-    "meineEinschaetzung": "Ich rechne mit einer Zahl nahe der Erwartung (rund +0,2–0,3 % im Monat). Die zuletzt kühle Verbraucherpreis-Inflation (Kern 2,5 %) spricht dafür, dass auch der PCE brav bleibt. Wichtig: Selbst ein Wert 'im Rahmen' bestätigt die Lockerungs-Erwartung — bewegen würde vor allem eine echte Überraschung nach oben (dann Falken-Munition für Warsh).",
-    "wennHoeher": "Heißer Kern-PCE → der Dollar könnte kurz Luft holen, Gold/Bitcoin geben etwas nach, Warsh bekommt Rückenwind für falkenhafte Töne.",
-    "wennNiedriger": "Kühler → die Dollar-Schwäche verlängert sich, Gold bleibt fest, Zinssenkungs-Fantasie wächst.",
-    "richtung": "wie_erwartet"
+    "event": "Eurozone Inflation Flash (August)",
+    "termin": "Dienstag 1.9., 11:00 Wiener Zeit",
+    "prognoseMarkt": "Schlagzeile steigt auf 3,1 % y/y (von 2,9 %), Kernrate auf 2,6 % (von 2,5 %) — angetrieben vor allem von Energie.",
+    "meineEinschaetzung": "Ich rechne mit einer Zahl ungefähr auf der Konsens-Linie (~3,1 % Schlagzeile / ~2,6 % Kern). Die letzten Wochen habe ich die Inflations-Klebrigkeit zweimal überschätzt (UK/Kanada kamen kühler) — deshalb spiele ich diesmal nicht auf 'heißer', sondern wie erwartet. Bezug ist der Konsens 3,1 %.",
+    "richtung": "wie_erwartet",
+    "wennHoeher": "Über 3,1 % (bzw. Kern über 2,6 %) → Euro-Rückenwind, EZB-Erhöhung im September wird wahrscheinlicher, EUR/USD nach oben.",
+    "wennNiedriger": "Unter dem Konsens → Euro schwächer, die EZB kann sich Zeit lassen, EUR/USD nach unten."
    },
    {
-    "event": "USA: Grundsatzrede von Fed-Chef Warsh (Jackson Hole)",
-    "termin": "Freitag 28.8., ca. 16:00 Wiener Zeit",
-    "prognoseMarkt": "Der Markt erwartet mehrheitlich, dass Warsh die grundsätzlichen, langfristigen Themen betont (Finanz-Innovation, Neuausrichtung des Geldpolitik-Rahmens) und sich zur September-Entscheidung bedeckt hält.",
-    "meineEinschaetzung": "Hier bin ich ehrlich UNSICHER — es ist die riskanteste Wette der Woche. Warsh ist als Falke bekannt und hat betont, sich 'nicht an Marktpreise' zu binden. Weil der Markt so einseitig auf Dollar-Schwäche und Zinssenkungen wettet, ist das Überraschungs-Risiko ASYMMETRISCH nach oben (Dollar-Sprung wahrscheinlicher als weiterer Absturz auf ein Wort hin). Ich neige daher dazu, die Dollar-Wetten VOR der Rede klein zu halten.",
-    "wennHoeher": "Falkenhaft (Inflation zu hoch, keine Eile mit Senkungen) → Dollar schnellt hoch, Short-Squeeze quer über alle Paare (EUR/USD, GBP/USD runter; USD/JPY, USD/CAD hoch), Gold/Bitcoin fallen.",
-    "wennNiedriger": "Taubenhaft/neutral oder Andeutung von Senkungs-Bereitschaft → die Dollar-Schwäche läuft weiter, Gold/Bitcoin auf Rekordkurs, EUR/USD Richtung 1,16+."
+    "event": "Bank of Canada Zinsentscheid",
+    "termin": "Mittwoch 2.9., 15:45 Wiener Zeit",
+    "prognoseMarkt": "8. Halten in Folge bei 2,25 % — der Markt erwartet klar keine Änderung.",
+    "meineEinschaetzung": "Ich erwarte das Halten wie der Konsens. Spannender ist der Ton: Der letzte Bericht drohte bei einem Öl-Schock mit Erhöhungen. Bleibt sie falkenhaft, ist das loonie-freundlich; wird sie plötzlich weich, kippt der Loonie. Kern-Szenario: Halten mit weiter falkenhaftem Beigeschmack.",
+    "richtung": "wie_erwartet",
+    "wennHoeher": "Überraschende Erhöhung oder deutlich falkenhafterer Ton → kanadischer Dollar stärker, USD/CAD nach unten.",
+    "wennNiedriger": "Plötzlich weicher/taubenhafter Ton (Konjunktursorge) → Loonie schwächer, USD/CAD nach oben."
    },
    {
-    "event": "USA: Jährliche Benchmark-Revision der Jobzahlen (vorläufig)",
-    "termin": "Freitag 28.8., 16:00 Wiener Zeit",
-    "prognoseMarkt": "Erwartet wird eine spürbare ABWÄRTS-Revision der Beschäftigung der letzten 12 Monate (Schätzungen reichen von einigen Hunderttausend bis über eine halbe Million weniger Stellen).",
-    "meineEinschaetzung": "Ich erwarte eine deutliche Abwärts-Korrektur — das passt zum Bild der zwei Job-Schocks der letzten Wochen. Das bestätigt, dass der Arbeitsmarkt schwächer war als offiziell gemeldet, und untermauert die Zinssenkungs-Wette. Kurzfristige Marktwirkung aber begrenzt, weil es bereits erwartet wird und zeitgleich mit Warshs Rede kommt (die überstrahlt alles).",
-    "wennHoeher": "Kleinere Revision als befürchtet → leichte Dollar-Erholung (Arbeitsmarkt doch robuster).",
-    "wennNiedriger": "Große Abwärts-Revision → bestätigt die Schwäche, Dollar-negativ, aber von Warsh überlagert."
+    "event": "US ISM-Industrie (August)",
+    "termin": "Dienstag 1.9., 16:00 Wiener Zeit",
+    "prognoseMarkt": "Rund 52–53 Punkte erwartet (über 50 = Wachstum), nach zuletzt überraschend starken 55,6.",
+    "meineEinschaetzung": "Ich respektiere diesmal die Fabrik-Stärke (letzten Monat habe ich sie unterschätzt und lag daneben) und rechne mit einer Zahl nahe dem Konsens. Die US-Industrie läuft trotz schwachem Arbeitsmarkt erstaunlich robust (Zwei-Geschwindigkeiten-Wirtschaft).",
+    "richtung": "wie_erwartet",
+    "wennHoeher": "Deutlich über 53 → bestätigt die robuste Industrie, stützt Dollar + Renditen.",
+    "wennNiedriger": "Unter 50 (Schrumpfung) → Warnsignal, dass auch die Fabriken kippen, Dollar-belastend vor dem Jobbericht."
    },
    {
-    "event": "Kanada: Bruttoinlandsprodukt (BIP, Juni/Q2)",
-    "termin": "Freitag 28.8., 14:30 Wiener Zeit",
-    "prognoseMarkt": "Ein mäßiges Wachstum wird erwartet; die kanadische Wirtschaft läuft unter Potenzial, aber ohne Rezession.",
-    "meineEinschaetzung": "Ich erwarte ein durchwachsenes Bild. Solange der Kern der Inflation zahm bleibt (~2 %) und das Wachstum lahmt, bleibt die BoC in Wartestellung. Für den Loonie ist aktuell das Öl der wichtigere Treiber als das BIP.",
-    "wennHoeher": "Stärkeres BIP → stützt Loonie und BoC-Halten, USD/CAD tendenziell runter.",
-    "wennNiedriger": "Schwächer → wieder Zinssenkungs-Fantasie für die BoC, Loonie verliert etwas Rückenwind — aber die Dollar-Schwäche deckelt den Anstieg von USD/CAD.",
-    "richtung": "wie_erwartet"
+    "event": "US-Jobbericht (Non-Farm Payrolls, August)",
+    "termin": "Freitag 4.9., 14:30 Wiener Zeit",
+    "prognoseMarkt": "Ein schwacher Zuwachs von rund +50.000 bis +75.000 Stellen wird erwartet, Arbeitslosenquote ~4,3 %.",
+    "meineEinschaetzung": "Ich lehne mich vorsichtig auf die schwächere Seite (unter dem Konsens): Der Trend zeigt zwei Job-Schocks in Folge, dazu die heutige Benchmark-Revision, die auf eine Übererfassung der letzten Monate hindeutet. ABER Vorsicht — der Konsens ist bereits sehr niedrig, und nach zwei Ausreißern nach unten ist ein Gegen-Rückpraller möglich. Echte Unsicherheit, daher kleine Wette.",
+    "richtung": "niedriger",
+    "wennHoeher": "Deutlich über ~75k oder Quote fällt → Arbeitsmarkt hält, die Fed kann falkenhaft bleiben/erhöhen, Dollar stärker.",
+    "wennNiedriger": "Unter ~50k oder Quote steigt Richtung 4,4 % → dritter Job-Schock, Zinssenkungs-Wetten kommen zurück, Dollar unter Druck, Gold weiter hoch."
    }
   ],
   "lehren": [
-   "KANADA-CPI-CALL TRAF ✓: Ich hatte 'leicht höhere Schlagzeile durch Benzin, aber Kern zahm, begrenzte Marktwirkung' geschrieben — genau so kam es (Schlagzeile 3,0 % auf Benzin +25,7 %, Kern nahe 2 %). Die 'nur die Oberfläche ist heiß'-Lesart war richtig.",
-   "UK-CPI HALB GETROFFEN: Ich lag richtig, dass die Schlagzeile heiß kommt (2,9 % statt der erwarteten 2,7–2,8 %) — aber der Treiber war Gas, und die entscheidende DIENSTLEISTUNGS-Inflation KÜHLTE sogar (3,6 → 3,4 %). Lehre: Bei einer heißen Schlagzeile immer den Kern/Dienstleistungswert prüfen, bevor man das Pfund hochschreibt.",
-   "ZINS-MOMENTUM JETZT KLAR ANTI-DOLLAR: Wochenlang trieb nur die Stimmung den Dollar runter, die Zinsen stützten. Jetzt fallen die US-2-Jahres-Zinsen, die von EUR/GBP/JPY steigen (Japan am stärksten). Damit steht die Dollar-Schwäche auf zwei Beinen — das ist ein robusteres Signal als reine Stimmung.",
-   "NEU — DIE ENTWERTUNGS-WETTE: Gold UND Bitcoin gleichzeitig auf Rekord (+5 % bzw. +19 % in der Woche) ist ein starkes Signal für 'Flucht aus dem Papiergeld'. Das ist tiefer als nur 'schwacher Dollar' — es zeigt Misstrauen gegen Fiat-Geld insgesamt und untermauert die Dollar-Schwäche strukturell.",
-   "OVERLAY-WARNUNG BLEIBT (leicht besser): Der interne Vergleich zeigt weiter, dass die COT/Zins-Korrekturen die Trefferquote leicht senken (mit ~38 % vs. ohne ~44 %, n=32) — der Abstand hat sich seit der Halbierung des COT-Faktors in Session 9 aber verkleinert. Konsequenz für eine lokale Session: COT-Tilt eventuell weiter Richtung null. Scores klein halten.",
-   "POSITIONIERUNG + WARSH = DAS RISIKO NÄCHSTE WOCHE: Alle Währungen extrem netto-short gegen den Dollar (Kanada fast rekord). Kombiniert mit Warshs Jackson-Hole-Rede (er ist Falke, 'nicht an Marktpreise gebunden') ist das Risiko einer schnellen Dollar-Gegenbewegung (Short-Squeeze) real. Deshalb: Dollar-bärisch bleiben, aber die Wetten bewusst klein — der überfüllte Trade ist verwundbar.",
-   "TRACK-RECORD-DEMUT: Über 9 ausgewertete Wochen liegt die Kurs-Trefferquote bei nur ~35 % (USD/JPY und EUR/USD am schlechtesten, 2/9). Das deckt sich mit der Forschung (Makro schlägt auf Wochensicht kaum den Zufall). Zahlen-Prognosen sind der verlässliche Teil, die Kurs-Richtung die Schwachstelle — darum kleine Scores."
+   "Kern-PCE-Call TRAF ✓: Ich hatte 'wie erwartet' gesagt — kam genau so (+0,2 % m/m, 3,3 % y/y, zäh). Zahlen-Prognosen bleiben der verlässlichere Teil.",
+   "Kanada-BIP unterschätzt: Ich erwartete 'durchwachsen ~2 %', es kam +3,3 % aufs Jahr — ein solider Rebound (Öl/Industrie). Kanadas Wirtschaft ist robuster als gedacht; das stützt den Loonie zusätzlich.",
+   "Das Kern-Rätsel der Woche: Zähe Inflation UND falkenhafte Neubewertung UND steigender US-Zins — und der Dollar rallyt TROTZDEM nicht. Die Entwertungs-Wette (Gold + Bitcoin auf Rekord) übertönt die Zins-Story. Lehre: In einem 'Flucht aus Papiergeld'-Umfeld reicht eine falkenhafte Fed allein nicht, um den Dollar zu heben.",
+   "Warsh-Rede + Job-Benchmark-Revision (beide Fr 28.8. ~16:00 Wien) passieren NACH diesem Briefing — Auswertung liefert die Tages-News-Routine am Wochenende oder die nächste lokale Session in lehren[] nach.",
+   "Ehrliche Bilanz (unverändert wichtig): Über 10 ausgewertete Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/10 Wochen-Dollar-Wetten richtig). Deshalb Scores klein und bewusst nach paar-eigenen Geschichten diversifiziert (Aussie heiß, Loonie mit BIP-Beat), statt sieben Mal dieselbe Dollar-Wette zu setzen."
   ],
   "tagesnews": {
    "stand": "2026-08-28",
@@ -3204,7 +3207,7 @@ window.MAKRO_DATA = {
  },
  "leitzinsen": {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-08-21",
+  "stand": "2026-08-28",
   "zinsen": [
    {
     "code": "AUD",
@@ -3230,8 +3233,8 @@ window.MAKRO_DATA = {
     "satz": 3.625,
     "anzeige": "3,50–3,75%",
     "naechste": "17.9.2026",
-    "erwartung": "Der Kurs hat sich klar in Richtung Lockerung gedreht (die Erhöhungs-Drohung ist vom Tisch): Dollar-Index unter 99, Gold + Bitcoin auf Rekord, US-Zinsen fallen. ABER die September-Senkung ist NICHT sicher — der FedWatch-Markt neigt eher zu einem HALTEN am 17.9. (~65–68%), mit Senkungen später im Jahr. Das FOMC-Protokoll (19.8.) war falkenhaft (9:3 Halten, 3 wollten erhöhen), wurde aber als 'vor den Job-Schocks' abgehakt. DAS Signal ist Warshs Grundsatzrede in Jackson Hole (Fr 28.8.) — als Falke bekannt, 'nicht an Marktpreise gebunden' → falkenhafte Überraschung möglich",
-    "richtung": "runter"
+    "erwartung": "KEHRTWENDE zurück Richtung falkenhaft: Die zähe Inflation (Kern-PCE Juli 3,3% y/y, hielt sich, +0,2% m/m) hat die Zinssenkungs-Fantasie ausgebremst. Der 17.9.-Entscheid ist jetzt ein MÜNZWURF zwischen Halten und ERHÖHEN — der FedWatch-Markt preist ~33–40% Erhöhung, eine Senkung ist praktisch vom Tisch (Kalshi: nur 8% Chance, dass Warsh 'Zinssenkung' sagt). Der US-2-Jahres-Zins drehte diese Woche wieder leicht nach oben (+0,06 Pp). ABER der Dollar rallyt trotzdem nicht (Index flach unter 99, Gold + Bitcoin auf Rekord = Entwertungs-Wette dominiert). Warshs Grundsatzrede in Jackson Hole (Fr 28.8. ~16:00 Wien) findet NACH diesem Briefing statt — als Falke bekannt, Risiko eines falkenhaften Rückprallers (Short-Squeeze) einseitig nach oben",
+    "richtung": "halten"
    },
    {
     "code": "NZD",
@@ -3247,8 +3250,8 @@ window.MAKRO_DATA = {
     "bank": "EZB",
     "satz": 2.4,
     "anzeige": "2,40%",
-    "naechste": "Anf. Sep 2026",
-    "erwartung": "Am 23.7. bei 2,40% (Einlagensatz 2,25%) GEHALTEN, aber Lagarde klang wegen des teuren Öls FALKENHAFT und ließ die Tür für eine September-Erhöhung offen — Euro-CPI-Flash (31.7.) ist der nächste Test",
+    "naechste": "Mitte Sep 2026",
+    "erwartung": "Am 23.7. bei 2,40% (Einlagensatz 2,25%) GEHALTEN, aber Lagarde klang FALKENHAFT und ließ die Tür für eine September-Erhöhung offen. Der Euro-CPI-Flash am Di 1.9. ist der entscheidende Test: erwartet wird ein ANSTIEG auf 3,1% Schlagzeile (von 2,9%) und Kern 2,6% (von 2,5%) — kommt er so oder höher, steigt die Chance auf eine EZB-Erhöhung",
     "richtung": "halten"
    },
    {
@@ -3821,68 +3824,68 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": 3,
+   "baseScore": 1,
    "tiltCot": -1,
    "tiltZins": -1,
    "tiltGesamt": -2,
-   "score": 1,
+   "score": -1,
    "cotExtrem": "erhoeht",
-   "treiber": "Weicher Dollar + Entwertungs-Wette stützen den Euro (2-Mon-Hoch); gedeckelt durch neutralen Dollar vor Warsh.",
+   "treiber": "Beide Seiten falkenhaft (steigende Euro-Inflation vs. zähe US-Inflation) → nahe unentschieden, hauchdünner Euro-Vorteil durch den CPI-Termin Di + Short-Squeeze-Gefahr.",
    "istCross": false
   },
   {
    "paar": "GBP/USD",
-   "baseScore": 2,
+   "baseScore": -2,
    "tiltCot": -4,
    "tiltZins": -3,
    "tiltGesamt": -7,
-   "score": -5,
+   "score": -9,
    "cotExtrem": null,
-   "treiber": "Pfund vom weichen Dollar getragen, aber flacher UK-2J und COT-Shorts begrenzen.",
+   "treiber": "Pfund ohne Treiber (Dienstleistungs-Inflation kühlt), Dollar mit leichtem Zins-Vorsprung.",
    "istCross": false
   },
   {
    "paar": "USD/JPY",
-   "baseScore": -1,
+   "baseScore": 4,
    "tiltCot": 3,
    "tiltZins": 2,
    "tiltGesamt": 5,
-   "score": 4,
+   "score": 9,
    "cotExtrem": null,
-   "treiber": "Neutraler Dollar leicht drückend; Yen aber fundamental schwach (Carry kehrt zurück) → nur schwach negativ.",
+   "treiber": "Yen-Schwäche ist der Motor (40-Jahres-Tief, Mini-Zins) — festerer Dollar hilft. Aber Interventionsrisiko deckelt nach oben.",
    "istCross": false
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 3,
+   "baseScore": 4,
    "tiltCot": -3,
    "tiltZins": 0,
    "tiltGesamt": -3,
-   "score": 0,
+   "score": 1,
    "cotExtrem": null,
-   "treiber": "Heiße Australien-Inflation + harte RBA + höchster 2J-Zins + Risk-on gegen neutralen Dollar.",
+   "treiber": "Heiße Aussie-Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie vom Dollar-Block nach oben.",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 4,
+   "baseScore": -1,
    "tiltCot": 5,
    "tiltZins": 2,
    "tiltGesamt": 7,
-   "score": 11,
+   "score": 6,
    "cotExtrem": null,
-   "treiber": "Öl-Kollaps schwächt den Loonie → dollar-freundlich; heute deckelt das Kanada-BIP + extreme CAD-Shorts (Squeeze-Risiko).",
+   "treiber": "Kanada-BIP-Beat + falkenhafte BoC + extreme Short-Positionierung (Squeeze) geben dem Loonie einen kleinen Vorteil trotz billigem Öl.",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
-   "baseScore": -2,
+   "baseScore": 3,
    "tiltCot": 5,
    "tiltZins": 4,
    "tiltGesamt": 9,
-   "score": 7,
+   "score": 12,
    "cotExtrem": null,
-   "treiber": "Neutraler bis weicher Dollar + Franken-Hafen-Bid → leicht bärisch.",
+   "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf) + leicht festerer Dollar.",
    "istCross": false
   },
   {
@@ -3893,60 +3896,60 @@ window.MAKRO_DATA = {
    "tiltGesamt": -5,
    "score": -7,
    "cotExtrem": null,
-   "treiber": "Kiwi ohne eigene Story schwächer; COT extrem short, China-Nachfrage schwach.",
+   "treiber": "Kiwi ohne eigene Geschichte trifft auf den leichten Dollar-Zinsvorsprung.",
    "istCross": false
   },
   {
    "paar": "EUR/GBP",
-   "baseScore": 0,
+   "baseScore": 2,
    "tiltCot": 2,
    "tiltZins": 1,
    "tiltGesamt": 3,
-   "score": 3,
+   "score": 5,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": 1,
+   "baseScore": 5,
    "tiltCot": 1,
    "tiltZins": 0,
    "tiltGesamt": 1,
-   "score": 2,
+   "score": 6,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 3,
+   "baseScore": 5,
    "tiltCot": 4,
    "tiltZins": 0,
    "tiltGesamt": 4,
-   "score": 7,
+   "score": 9,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 0,
+   "baseScore": 4,
    "tiltCot": 3,
    "tiltZins": 2,
    "tiltGesamt": 5,
-   "score": 5,
+   "score": 9,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-28T05:05:24.011Z",
+  "stand": "2026-08-28T13:26:40.964Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 46,
+  "gefunden": 50,
   "gewertet": 23,
-  "nichtWertbar": 23,
+  "nichtWertbar": 27,
   "treffer": 13,
   "quote": 57,
   "zinsentscheide": {
@@ -4460,7 +4463,7 @@ window.MAKRO_DATA = {
   "treffer": 28,
   "gesamt": 67,
   "quote": 42,
-  "wochenErfasst": 11,
+  "wochenErfasst": 12,
   "proPaar": {
    "USD/JPY": {
     "treffer": 3,

@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-08-21",
+  "stand": "2026-08-28",
   "zinsen": [
     {
       "code": "AUD",
@@ -26,8 +26,8 @@
       "satz": 3.625,
       "anzeige": "3,50–3,75%",
       "naechste": "17.9.2026",
-      "erwartung": "Der Kurs hat sich klar in Richtung Lockerung gedreht (die Erhöhungs-Drohung ist vom Tisch): Dollar-Index unter 99, Gold + Bitcoin auf Rekord, US-Zinsen fallen. ABER die September-Senkung ist NICHT sicher — der FedWatch-Markt neigt eher zu einem HALTEN am 17.9. (~65–68%), mit Senkungen später im Jahr. Das FOMC-Protokoll (19.8.) war falkenhaft (9:3 Halten, 3 wollten erhöhen), wurde aber als 'vor den Job-Schocks' abgehakt. DAS Signal ist Warshs Grundsatzrede in Jackson Hole (Fr 28.8.) — als Falke bekannt, 'nicht an Marktpreise gebunden' → falkenhafte Überraschung möglich",
-      "richtung": "runter"
+      "erwartung": "KEHRTWENDE zurück Richtung falkenhaft: Die zähe Inflation (Kern-PCE Juli 3,3% y/y, hielt sich, +0,2% m/m) hat die Zinssenkungs-Fantasie ausgebremst. Der 17.9.-Entscheid ist jetzt ein MÜNZWURF zwischen Halten und ERHÖHEN — der FedWatch-Markt preist ~33–40% Erhöhung, eine Senkung ist praktisch vom Tisch (Kalshi: nur 8% Chance, dass Warsh 'Zinssenkung' sagt). Der US-2-Jahres-Zins drehte diese Woche wieder leicht nach oben (+0,06 Pp). ABER der Dollar rallyt trotzdem nicht (Index flach unter 99, Gold + Bitcoin auf Rekord = Entwertungs-Wette dominiert). Warshs Grundsatzrede in Jackson Hole (Fr 28.8. ~16:00 Wien) findet NACH diesem Briefing statt — als Falke bekannt, Risiko eines falkenhaften Rückprallers (Short-Squeeze) einseitig nach oben",
+      "richtung": "halten"
     },
     {
       "code": "NZD",
@@ -43,8 +43,8 @@
       "bank": "EZB",
       "satz": 2.4,
       "anzeige": "2,40%",
-      "naechste": "Anf. Sep 2026",
-      "erwartung": "Am 23.7. bei 2,40% (Einlagensatz 2,25%) GEHALTEN, aber Lagarde klang wegen des teuren Öls FALKENHAFT und ließ die Tür für eine September-Erhöhung offen — Euro-CPI-Flash (31.7.) ist der nächste Test",
+      "naechste": "Mitte Sep 2026",
+      "erwartung": "Am 23.7. bei 2,40% (Einlagensatz 2,25%) GEHALTEN, aber Lagarde klang FALKENHAFT und ließ die Tür für eine September-Erhöhung offen. Der Euro-CPI-Flash am Di 1.9. ist der entscheidende Test: erwartet wird ein ANSTIEG auf 3,1% Schlagzeile (von 2,9%) und Kern 2,6% (von 2,5%) — kommt er so oder höher, steigt die Chance auf eine EZB-Erhöhung",
       "richtung": "halten"
     },
     {

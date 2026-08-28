@@ -1,9 +1,9 @@
 {
-  "stand": "2026-08-28T05:05:24.011Z",
+  "stand": "2026-08-28T13:26:41.027Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 46,
+  "gefunden": 50,
   "gewertet": 23,
-  "nichtWertbar": 23,
+  "nichtWertbar": 27,
   "treffer": 13,
   "quote": 57,
   "zinsentscheide": {

@@ -182,20 +182,20 @@
   {
     "date": "2026-08-31T10:10:00.000Z",
     "country": "EUR",
-    "title": "2036 EU-Bonds Auction",
+    "title": "2040 EU-Bonds Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.392%",
+    "previous": "3.643%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-08-31T10:10:00.000Z",
     "country": "EUR",
-    "title": "2040 EU-Bonds Auction",
+    "title": "2036 EU-Bonds Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.643%",
+    "previous": "3.392%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -632,6 +632,16 @@
   {
     "date": "2026-09-01T14:00:00.000Z",
     "country": "USD",
+    "title": "JOLTs Job Quits",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.232",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-01T14:00:00.000Z",
+    "country": "USD",
     "title": "ISM Manufacturing New Orders",
     "impact": "Low",
     "forecast": "",
@@ -656,16 +666,6 @@
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "-0.1%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-01T14:00:00.000Z",
-    "country": "USD",
-    "title": "JOLTs Job Quits",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.232",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -922,10 +922,10 @@
   {
     "date": "2026-09-02T11:00:00.000Z",
     "country": "USD",
-    "title": "MBA Mortgage Applications",
+    "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "-1",
+    "previous": "154.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -942,16 +942,6 @@
   {
     "date": "2026-09-02T11:00:00.000Z",
     "country": "USD",
-    "title": "MBA Mortgage Market Index",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "245.3",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-02T11:00:00.000Z",
-    "country": "USD",
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
@@ -962,10 +952,20 @@
   {
     "date": "2026-09-02T11:00:00.000Z",
     "country": "USD",
-    "title": "MBA Purchase Index",
+    "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "154.4",
+    "previous": "-1",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-02T11:00:00.000Z",
+    "country": "USD",
+    "title": "MBA Mortgage Market Index",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "245.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1602,20 +1602,20 @@
   {
     "date": "2026-09-03T13:45:00.000Z",
     "country": "USD",
-    "title": "S&P Global Services PMI Final",
+    "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "56.8",
-    "previous": "54.6",
+    "forecast": "56",
+    "previous": "54.5",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-03T13:45:00.000Z",
     "country": "USD",
-    "title": "S&P Global Composite PMI Final",
+    "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "56",
-    "previous": "54.5",
+    "forecast": "56.8",
+    "previous": "54.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1712,20 +1712,20 @@
   {
     "date": "2026-09-03T16:00:00.000Z",
     "country": "USD",
-    "title": "30-Year Mortgage Rate",
+    "title": "15-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "6.66",
+    "previous": "5.98",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-03T16:00:00.000Z",
     "country": "USD",
-    "title": "15-Year Mortgage Rate",
+    "title": "30-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "5.98",
+    "previous": "6.66",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2085,7 +2085,7 @@
     "title": "Baker Hughes Total Rigs Count",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "588",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2095,7 +2095,7 @@
     "title": "Baker Hughes Oil Rig Count",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "447",
     "actual": null,
     "quelle": "tradingview"
   }

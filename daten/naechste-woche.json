@@ -64,7 +64,7 @@
     "country": "CNY",
     "title": "NBS Non Manufacturing PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "49.5",
     "previous": "49",
     "actual": null,
     "quelle": "tradingview"
@@ -804,7 +804,7 @@
     "country": "JPY",
     "title": "Monetary Base YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-13.5%",
     "previous": "-13.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -814,7 +814,7 @@
     "country": "AUD",
     "title": "GDP Growth Rate QoQ",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -974,7 +974,7 @@
     "country": "USD",
     "title": "ADP Employment Change",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "47",
     "previous": "44",
     "actual": null,
     "quelle": "tradingview"
@@ -1004,7 +1004,7 @@
     "country": "USD",
     "title": "Factory Orders MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.6%",
     "previous": "-0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1174,7 +1174,7 @@
     "country": "NZD",
     "title": "Terms of Trade QoQ",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-2.2%",
     "previous": "-2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1274,7 +1274,7 @@
     "country": "AUD",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.39 A$",
     "previous": "1.929 A$",
     "actual": null,
     "quelle": "tradingview"
@@ -1284,7 +1284,7 @@
     "country": "CNY",
     "title": "RatingDog Services PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "50.6",
     "previous": "50.4",
     "actual": null,
     "quelle": "tradingview"
@@ -1334,7 +1334,7 @@
     "country": "CHF",
     "title": "Inflation Rate MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0%",
     "previous": "-0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -1434,7 +1434,7 @@
     "country": "EUR",
     "title": "PPI MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.3%",
     "previous": "-0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1454,7 +1454,7 @@
     "country": "CAD",
     "title": "Balance of Trade",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.2 C$",
     "previous": "3.86 C$",
     "actual": null,
     "quelle": "tradingview"
@@ -1492,10 +1492,10 @@
   {
     "date": "2026-09-03T12:30:00.000Z",
     "country": "USD",
-    "title": "Initial Jobless Claims",
+    "title": "Imports",
     "impact": "Medium",
     "forecast": "",
-    "previous": "203",
+    "previous": "388 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1522,10 +1522,10 @@
   {
     "date": "2026-09-03T12:30:00.000Z",
     "country": "USD",
-    "title": "Imports",
+    "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "388 $",
+    "forecast": "205",
+    "previous": "203",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1542,6 +1542,16 @@
   {
     "date": "2026-09-03T12:30:00.000Z",
     "country": "CAD",
+    "title": "Labor Productivity QoQ",
+    "impact": "Low",
+    "forecast": "0.2%",
+    "previous": "-0.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-03T12:30:00.000Z",
+    "country": "CAD",
     "title": "Exports",
     "impact": "Low",
     "forecast": "",
@@ -1551,11 +1561,11 @@
   },
   {
     "date": "2026-09-03T12:30:00.000Z",
-    "country": "CAD",
-    "title": "Labor Productivity QoQ",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-0.5%",
+    "country": "USD",
+    "title": "Balance of Trade",
+    "impact": "Medium",
+    "forecast": "-86.4 $",
+    "previous": "-73.3 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1566,16 +1576,6 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-03T12:30:00.000Z",
-    "country": "USD",
-    "title": "Balance of Trade",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "-73.3 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1654,7 +1654,7 @@
     "country": "USD",
     "title": "ISM Services PMI",
     "impact": "High",
-    "forecast": "",
+    "forecast": "54.1",
     "previous": "54.1",
     "actual": null,
     "quelle": "tradingview"
@@ -1764,7 +1764,7 @@
     "country": "JPY",
     "title": "Household Spending YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-1.6%",
     "previous": "-3.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1864,7 +1864,7 @@
     "country": "GBP",
     "title": "S&P Global Construction PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "45.9",
     "previous": "44.7",
     "actual": null,
     "quelle": "tradingview"
@@ -1894,7 +1894,7 @@
     "country": "EUR",
     "title": "Retail Sales MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "-0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1924,7 +1924,7 @@
     "country": "CAD",
     "title": "Employment Change",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "15.8",
     "previous": "75.1",
     "actual": null,
     "quelle": "tradingview"
@@ -1964,7 +1964,7 @@
     "country": "CAD",
     "title": "Unemployment Rate",
     "impact": "High",
-    "forecast": "",
+    "forecast": "6.4%",
     "previous": "6.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -2074,7 +2074,7 @@
     "country": "CAD",
     "title": "Ivey PMI s.a",
     "impact": "High",
-    "forecast": "",
+    "forecast": "56.2",
     "previous": "55.1",
     "actual": null,
     "quelle": "tradingview"

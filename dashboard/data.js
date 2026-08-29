@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-29T05:04:43.331Z",
+ "erstellt": "2026-08-29T16:05:51.024Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -717,7 +717,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "title": "NBS Non Manufacturing PMI",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "49.5",
    "previous": "49",
    "actual": null,
    "quelle": "tradingview"
@@ -1457,7 +1457,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Monetary Base YoY",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-13.5%",
    "previous": "-13.8%",
    "actual": null,
    "quelle": "tradingview"
@@ -1467,7 +1467,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "GDP Growth Rate QoQ",
    "impact": "High",
-   "forecast": "",
+   "forecast": "0.3%",
    "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -1627,7 +1627,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "ADP Employment Change",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "47",
    "previous": "44",
    "actual": null,
    "quelle": "tradingview"
@@ -1657,7 +1657,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Factory Orders MoM",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "0.6%",
    "previous": "-0.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -1827,7 +1827,7 @@ window.MAKRO_DATA = {
    "country": "NZD",
    "title": "Terms of Trade QoQ",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-2.2%",
    "previous": "-2%",
    "actual": null,
    "quelle": "tradingview"
@@ -1927,7 +1927,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Balance of Trade",
    "impact": "High",
-   "forecast": "",
+   "forecast": "1.39 A$",
    "previous": "1.929 A$",
    "actual": null,
    "quelle": "tradingview"
@@ -1937,7 +1937,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "title": "RatingDog Services PMI",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "50.6",
    "previous": "50.4",
    "actual": null,
    "quelle": "tradingview"
@@ -1987,7 +1987,7 @@ window.MAKRO_DATA = {
    "country": "CHF",
    "title": "Inflation Rate MoM",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0%",
    "previous": "-0.1%",
    "actual": null,
    "quelle": "tradingview"
@@ -2087,7 +2087,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "PPI MoM",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1.3%",
    "previous": "-0.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -2107,7 +2107,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "title": "Balance of Trade",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "3.2 C$",
    "previous": "3.86 C$",
    "actual": null,
    "quelle": "tradingview"
@@ -2145,10 +2145,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-09-03T12:30:00.000Z",
    "country": "USD",
-   "title": "Initial Jobless Claims",
+   "title": "Imports",
    "impact": "Medium",
    "forecast": "",
-   "previous": "203",
+   "previous": "388 $",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2175,10 +2175,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-09-03T12:30:00.000Z",
    "country": "USD",
-   "title": "Imports",
+   "title": "Initial Jobless Claims",
    "impact": "Medium",
-   "forecast": "",
-   "previous": "388 $",
+   "forecast": "205",
+   "previous": "203",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2195,6 +2195,16 @@ window.MAKRO_DATA = {
   {
    "date": "2026-09-03T12:30:00.000Z",
    "country": "CAD",
+   "title": "Labor Productivity QoQ",
+   "impact": "Low",
+   "forecast": "0.2%",
+   "previous": "-0.5%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-03T12:30:00.000Z",
+   "country": "CAD",
    "title": "Exports",
    "impact": "Low",
    "forecast": "",
@@ -2204,11 +2214,11 @@ window.MAKRO_DATA = {
   },
   {
    "date": "2026-09-03T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Labor Productivity QoQ",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.5%",
+   "country": "USD",
+   "title": "Balance of Trade",
+   "impact": "Medium",
+   "forecast": "-86.4 $",
+   "previous": "-73.3 $",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2219,16 +2229,6 @@ window.MAKRO_DATA = {
    "impact": "Medium",
    "forecast": "",
    "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "USD",
-   "title": "Balance of Trade",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-73.3 $",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2307,7 +2307,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "ISM Services PMI",
    "impact": "High",
-   "forecast": "",
+   "forecast": "54.1",
    "previous": "54.1",
    "actual": null,
    "quelle": "tradingview"
@@ -2417,7 +2417,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Household Spending YoY",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "-1.6%",
    "previous": "-3.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -2517,7 +2517,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "title": "S&P Global Construction PMI",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "45.9",
    "previous": "44.7",
    "actual": null,
    "quelle": "tradingview"
@@ -2547,7 +2547,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "Retail Sales MoM",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "0.3%",
    "previous": "-0.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -2577,7 +2577,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "title": "Employment Change",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "15.8",
    "previous": "75.1",
    "actual": null,
    "quelle": "tradingview"
@@ -2617,7 +2617,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "title": "Unemployment Rate",
    "impact": "High",
-   "forecast": "",
+   "forecast": "6.4%",
    "previous": "6.4%",
    "actual": null,
    "quelle": "tradingview"
@@ -2727,7 +2727,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "title": "Ivey PMI s.a",
    "impact": "High",
-   "forecast": "",
+   "forecast": "56.2",
    "previous": "55.1",
    "actual": null,
    "quelle": "tradingview"
@@ -3423,18 +3423,17 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-29T05:04:42.316Z",
+  "stand": "2026-08-29T16:05:49.713Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
     "wert": 99.68,
-    "tagProzent": 0.52,
-    "wocheProzent": 0.89,
+    "tagProzent": -0.02,
+    "wocheProzent": 0.68,
     "renditeDelta": false,
     "verlauf": [
-     100.01,
      99.8,
      99.96,
      99.89,
@@ -3455,6 +3454,7 @@ window.MAKRO_DATA = {
      98.92,
      99.17,
      99.16,
+     99.7,
      99.68
     ]
    },
@@ -3463,11 +3463,10 @@ window.MAKRO_DATA = {
     "einheit": "",
     "typ": "index",
     "wert": 14.43,
-    "tagProzent": -0.55,
-    "wocheProzent": -4.63,
+    "tagProzent": 0,
+    "wocheProzent": -8.96,
     "renditeDelta": false,
     "verlauf": [
-     17.09,
      15.99,
      15.86,
      16.5,
@@ -3488,6 +3487,7 @@ window.MAKRO_DATA = {
      15.45,
      15.21,
      14.51,
+     14.43,
      14.43
     ]
    },
@@ -3628,11 +3628,10 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 4.72,
-    "tagProzent": 1.03,
-    "wocheProzent": -0.02,
+    "tagProzent": 0,
+    "wocheProzent": 0.02,
     "renditeDelta": true,
     "verlauf": [
-     4.663,
      4.745,
      4.686,
      4.627,
@@ -3653,6 +3652,7 @@ window.MAKRO_DATA = {
      4.639,
      4.664,
      4.672,
+     4.72,
      4.72
     ]
    },
@@ -3661,11 +3661,10 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 5.206,
-    "tagProzent": 0.29,
-    "wocheProzent": -0.07,
+    "tagProzent": 0,
+    "wocheProzent": -0.02,
     "renditeDelta": true,
     "verlauf": [
-     5.208,
      5.275,
      5.231,
      5.19,
@@ -3686,6 +3685,7 @@ window.MAKRO_DATA = {
      5.174,
      5.186,
      5.191,
+     5.206,
      5.206
     ]
    },
@@ -3693,9 +3693,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 77658.7,
+    "wert": 77916.05,
     "tagProzent": 0,
-    "wocheProzent": -1.65,
+    "wocheProzent": -1.33,
     "renditeDelta": false,
     "verlauf": [
      64904.69,
@@ -3718,8 +3718,8 @@ window.MAKRO_DATA = {
      78564.98,
      79027.42,
      80257.54,
-     77658.7,
-     77658.7
+     77916.05,
+     77916.05
     ]
    },
    "FEDFUT": {
@@ -4084,7 +4084,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-29T05:04:42.787Z",
+  "stand": "2026-08-29T16:05:50.491Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 50,
   "gewertet": 23,
@@ -4192,7 +4192,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-08-29T05:04:43.330Z",
+  "stand": "2026-08-29T16:05:51.023Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4422,7 +4422,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-08-29T05:04:42.778Z",
+  "stand": "2026-08-29T16:05:50.483Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

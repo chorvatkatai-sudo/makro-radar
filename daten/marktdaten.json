@@ -1,16 +1,15 @@
 {
-  "stand": "2026-08-29T05:04:42.316Z",
+  "stand": "2026-08-29T16:05:49.713Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
       "wert": 99.68,
-      "tagProzent": 0.52,
-      "wocheProzent": 0.89,
+      "tagProzent": -0.02,
+      "wocheProzent": 0.68,
       "renditeDelta": false,
       "verlauf": [
-        100.01,
         99.8,
         99.96,
         99.89,
@@ -31,6 +30,7 @@
         98.92,
         99.17,
         99.16,
+        99.7,
         99.68
       ]
     },
@@ -39,11 +39,10 @@
       "einheit": "",
       "typ": "index",
       "wert": 14.43,
-      "tagProzent": -0.55,
-      "wocheProzent": -4.63,
+      "tagProzent": 0,
+      "wocheProzent": -8.96,
       "renditeDelta": false,
       "verlauf": [
-        17.09,
         15.99,
         15.86,
         16.5,
@@ -64,6 +63,7 @@
         15.45,
         15.21,
         14.51,
+        14.43,
         14.43
       ]
     },
@@ -204,11 +204,10 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 4.72,
-      "tagProzent": 1.03,
-      "wocheProzent": -0.02,
+      "tagProzent": 0,
+      "wocheProzent": 0.02,
       "renditeDelta": true,
       "verlauf": [
-        4.663,
         4.745,
         4.686,
         4.627,
@@ -229,6 +228,7 @@
         4.639,
         4.664,
         4.672,
+        4.72,
         4.72
       ]
     },
@@ -237,11 +237,10 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 5.206,
-      "tagProzent": 0.29,
-      "wocheProzent": -0.07,
+      "tagProzent": 0,
+      "wocheProzent": -0.02,
       "renditeDelta": true,
       "verlauf": [
-        5.208,
         5.275,
         5.231,
         5.19,
@@ -262,6 +261,7 @@
         5.174,
         5.186,
         5.191,
+        5.206,
         5.206
       ]
     },
@@ -269,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 77658.7,
+      "wert": 77916.05,
       "tagProzent": 0,
-      "wocheProzent": -1.65,
+      "wocheProzent": -1.33,
       "renditeDelta": false,
       "verlauf": [
         64904.69,
@@ -294,8 +294,8 @@
         78564.98,
         79027.42,
         80257.54,
-        77658.7,
-        77658.7
+        77916.05,
+        77916.05
       ]
     },
     "FEDFUT": {

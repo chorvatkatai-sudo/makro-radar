@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-29T05:03:08.837Z",
+ "erstellt": "2026-08-29T05:04:43.331Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -955,16 +955,6 @@ window.MAKRO_DATA = {
   {
    "date": "2026-09-01T01:30:00.000Z",
    "country": "AUD",
-   "title": "Current Account",
-   "impact": "Low",
-   "forecast": "-29.7 A$",
-   "previous": "-27.1 A$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T01:30:00.000Z",
-   "country": "AUD",
    "title": "Net Exports Contribution to GDP",
    "impact": "Low",
    "forecast": "",
@@ -979,6 +969,16 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "",
    "previous": "8.9%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-01T01:30:00.000Z",
+   "country": "AUD",
+   "title": "Current Account",
+   "impact": "Low",
+   "forecast": "-29.7 A$",
+   "previous": "-27.1 A$",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2125,10 +2125,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-09-03T12:30:00.000Z",
    "country": "USD",
-   "title": "Unit Labour Costs QoQ Final",
+   "title": "Jobless Claims 4-week Average",
    "impact": "Low",
-   "forecast": "1.3%",
-   "previous": "1.3%",
+   "forecast": "",
+   "previous": "205.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2155,20 +2155,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-09-03T12:30:00.000Z",
    "country": "USD",
-   "title": "Jobless Claims 4-week Average",
+   "title": "Continuing Jobless Claims",
    "impact": "Low",
    "forecast": "",
-   "previous": "205.5",
+   "previous": "1778",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-09-03T12:30:00.000Z",
    "country": "USD",
-   "title": "Continuing Jobless Claims",
+   "title": "Unit Labour Costs QoQ Final",
    "impact": "Low",
-   "forecast": "",
-   "previous": "1778",
+   "forecast": "1.3%",
+   "previous": "1.3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3423,17 +3423,18 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-29T01:27:20.223Z",
+  "stand": "2026-08-29T05:04:42.316Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
     "wert": 99.68,
-    "tagProzent": 0,
-    "wocheProzent": 0.68,
+    "tagProzent": 0.52,
+    "wocheProzent": 0.89,
     "renditeDelta": false,
     "verlauf": [
+     100.01,
      99.8,
      99.96,
      99.89,
@@ -3454,7 +3455,6 @@ window.MAKRO_DATA = {
      98.92,
      99.17,
      99.16,
-     99.68,
      99.68
     ]
    },
@@ -3463,10 +3463,11 @@ window.MAKRO_DATA = {
     "einheit": "",
     "typ": "index",
     "wert": 14.43,
-    "tagProzent": 0,
-    "wocheProzent": -8.96,
+    "tagProzent": -0.55,
+    "wocheProzent": -4.63,
     "renditeDelta": false,
     "verlauf": [
+     17.09,
      15.99,
      15.86,
      16.5,
@@ -3487,7 +3488,6 @@ window.MAKRO_DATA = {
      15.45,
      15.21,
      14.51,
-     14.43,
      14.43
     ]
    },
@@ -3495,11 +3495,12 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 83.44,
-    "tagProzent": 0,
-    "wocheProzent": -1.85,
+    "wert": 83.4,
+    "tagProzent": -0.16,
+    "wocheProzent": -4.2,
     "renditeDelta": false,
     "verlauf": [
+     83.59,
      84.67,
      80.34,
      75.77,
@@ -3520,19 +3521,19 @@ window.MAKRO_DATA = {
      82.36,
      82.23,
      83.53,
-     83.44,
-     83.44
+     83.4
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 88.29,
-    "tagProzent": 0,
-    "wocheProzent": -4.21,
+    "wert": 88.1,
+    "tagProzent": -1.78,
+    "wocheProzent": -6.66,
     "renditeDelta": false,
     "verlauf": [
+     89.03,
      90.12,
      83.77,
      79.36,
@@ -3553,19 +3554,19 @@ window.MAKRO_DATA = {
      88.58,
      87.84,
      89.7,
-     88.29,
-     88.29
+     88.1
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4504.1,
-    "tagProzent": 0,
-    "wocheProzent": -2.95,
+    "wert": 4529.9,
+    "tagProzent": -1.73,
+    "wocheProzent": -2.04,
     "renditeDelta": false,
     "verlauf": [
+     4100.1,
      4049.1,
      4033.7,
      4095.4,
@@ -3586,8 +3587,7 @@ window.MAKRO_DATA = {
      4638.1,
      4598.2,
      4609.7,
-     4504.1,
-     4504.1
+     4529.9
     ]
    },
    "US02Y": {
@@ -3628,10 +3628,11 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 4.72,
-    "tagProzent": 0,
-    "wocheProzent": 0.02,
+    "tagProzent": 1.03,
+    "wocheProzent": -0.02,
     "renditeDelta": true,
     "verlauf": [
+     4.663,
      4.745,
      4.686,
      4.627,
@@ -3652,7 +3653,6 @@ window.MAKRO_DATA = {
      4.639,
      4.664,
      4.672,
-     4.72,
      4.72
     ]
    },
@@ -3661,10 +3661,11 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 5.206,
-    "tagProzent": 0,
-    "wocheProzent": -0.02,
+    "tagProzent": 0.29,
+    "wocheProzent": -0.07,
     "renditeDelta": true,
     "verlauf": [
+     5.208,
      5.275,
      5.231,
      5.19,
@@ -3685,7 +3686,6 @@ window.MAKRO_DATA = {
      5.174,
      5.186,
      5.191,
-     5.206,
      5.206
     ]
    },
@@ -3693,9 +3693,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 77765.91,
+    "wert": 77658.7,
     "tagProzent": 0,
-    "wocheProzent": -1.52,
+    "wocheProzent": -1.65,
     "renditeDelta": false,
     "verlauf": [
      64904.69,
@@ -3718,8 +3718,8 @@ window.MAKRO_DATA = {
      78564.98,
      79027.42,
      80257.54,
-     77765.91,
-     77765.91
+     77658.7,
+     77658.7
     ]
    },
    "FEDFUT": {
@@ -3727,17 +3727,16 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.78,
-    "tagProzent": -0.01,
+    "tagProzent": 0.15,
     "wocheProzent": 0.15,
     "renditeDelta": true,
     "verlauf": [
      3.63,
-     3.64,
-     3.63,
      3.63,
      3.64,
      3.63,
      3.63,
+     3.64,
      3.63,
      3.63,
      3.63,
@@ -3751,7 +3750,8 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
-     3.79,
+     3.63,
+     3.63,
      3.78
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -4084,7 +4084,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-29T05:03:08.837Z",
+  "stand": "2026-08-29T05:04:42.787Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 50,
   "gewertet": 23,
@@ -4192,7 +4192,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-08-29T01:27:22.104Z",
+  "stand": "2026-08-29T05:04:43.330Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4422,7 +4422,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-08-29T01:27:20.626Z",
+  "stand": "2026-08-29T05:04:42.778Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

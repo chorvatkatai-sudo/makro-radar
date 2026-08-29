@@ -1,15 +1,16 @@
 {
-  "stand": "2026-08-29T01:27:20.223Z",
+  "stand": "2026-08-29T05:04:42.316Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
       "wert": 99.68,
-      "tagProzent": 0,
-      "wocheProzent": 0.68,
+      "tagProzent": 0.52,
+      "wocheProzent": 0.89,
       "renditeDelta": false,
       "verlauf": [
+        100.01,
         99.8,
         99.96,
         99.89,
@@ -30,7 +31,6 @@
         98.92,
         99.17,
         99.16,
-        99.68,
         99.68
       ]
     },
@@ -39,10 +39,11 @@
       "einheit": "",
       "typ": "index",
       "wert": 14.43,
-      "tagProzent": 0,
-      "wocheProzent": -8.96,
+      "tagProzent": -0.55,
+      "wocheProzent": -4.63,
       "renditeDelta": false,
       "verlauf": [
+        17.09,
         15.99,
         15.86,
         16.5,
@@ -63,7 +64,6 @@
         15.45,
         15.21,
         14.51,
-        14.43,
         14.43
       ]
     },
@@ -71,11 +71,12 @@
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 83.44,
-      "tagProzent": 0,
-      "wocheProzent": -1.85,
+      "wert": 83.4,
+      "tagProzent": -0.16,
+      "wocheProzent": -4.2,
       "renditeDelta": false,
       "verlauf": [
+        83.59,
         84.67,
         80.34,
         75.77,
@@ -96,19 +97,19 @@
         82.36,
         82.23,
         83.53,
-        83.44,
-        83.44
+        83.4
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 88.29,
-      "tagProzent": 0,
-      "wocheProzent": -4.21,
+      "wert": 88.1,
+      "tagProzent": -1.78,
+      "wocheProzent": -6.66,
       "renditeDelta": false,
       "verlauf": [
+        89.03,
         90.12,
         83.77,
         79.36,
@@ -129,19 +130,19 @@
         88.58,
         87.84,
         89.7,
-        88.29,
-        88.29
+        88.1
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4504.1,
-      "tagProzent": 0,
-      "wocheProzent": -2.95,
+      "wert": 4529.9,
+      "tagProzent": -1.73,
+      "wocheProzent": -2.04,
       "renditeDelta": false,
       "verlauf": [
+        4100.1,
         4049.1,
         4033.7,
         4095.4,
@@ -162,8 +163,7 @@
         4638.1,
         4598.2,
         4609.7,
-        4504.1,
-        4504.1
+        4529.9
       ]
     },
     "US02Y": {
@@ -204,10 +204,11 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 4.72,
-      "tagProzent": 0,
-      "wocheProzent": 0.02,
+      "tagProzent": 1.03,
+      "wocheProzent": -0.02,
       "renditeDelta": true,
       "verlauf": [
+        4.663,
         4.745,
         4.686,
         4.627,
@@ -228,7 +229,6 @@
         4.639,
         4.664,
         4.672,
-        4.72,
         4.72
       ]
     },
@@ -237,10 +237,11 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 5.206,
-      "tagProzent": 0,
-      "wocheProzent": -0.02,
+      "tagProzent": 0.29,
+      "wocheProzent": -0.07,
       "renditeDelta": true,
       "verlauf": [
+        5.208,
         5.275,
         5.231,
         5.19,
@@ -261,7 +262,6 @@
         5.174,
         5.186,
         5.191,
-        5.206,
         5.206
       ]
     },
@@ -269,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 77765.91,
+      "wert": 77658.7,
       "tagProzent": 0,
-      "wocheProzent": -1.52,
+      "wocheProzent": -1.65,
       "renditeDelta": false,
       "verlauf": [
         64904.69,
@@ -294,8 +294,8 @@
         78564.98,
         79027.42,
         80257.54,
-        77765.91,
-        77765.91
+        77658.7,
+        77658.7
       ]
     },
     "FEDFUT": {
@@ -303,17 +303,16 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 3.78,
-      "tagProzent": -0.01,
+      "tagProzent": 0.15,
       "wocheProzent": 0.15,
       "renditeDelta": true,
       "verlauf": [
         3.63,
-        3.64,
-        3.63,
         3.63,
         3.64,
         3.63,
         3.63,
+        3.64,
         3.63,
         3.63,
         3.63,
@@ -327,7 +326,8 @@
         3.63,
         3.63,
         3.63,
-        3.79,
+        3.63,
+        3.63,
         3.78
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"

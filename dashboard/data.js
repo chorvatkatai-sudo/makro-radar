@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-29T01:27:22.148Z",
+ "erstellt": "2026-08-29T05:03:08.837Z",
  "wochenStart": "2026-08-23",
  "events": [
   {
@@ -2942,20 +2942,19 @@ window.MAKRO_DATA = {
    "Ehrliche Bilanz (unverändert wichtig): Über 10 ausgewertete Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/10 Wochen-Dollar-Wetten richtig). Deshalb Scores klein und bewusst nach paar-eigenen Geschichten diversifiziert (Aussie heiß, Loonie mit BIP-Beat), statt sieben Mal dieselbe Dollar-Wette zu setzen."
   ],
   "tagesnews": {
-   "stand": "2026-08-28",
-   "wochentag": "Freitag",
-   "tenor": "HEUTE ist der große Tag: Fed-Chef Warshs allererste Grundsatzrede als Chef in Jackson Hole (~16:00 Wien). Der Dollar hängt flach unter 99 und wartet ab. Der Kern-PCE am Mittwoch war zäh-aber-wie-erwartet, der US-2-Jahres-Zins dreht diese Woche leicht nach oben — beides gäbe einem harten Warsh Rückendeckung. Weil fast alle auf einen schwachen Dollar wetten, ist das Risiko heute einseitig: klingt Warsh streng, kann ein kurzer Rückpraller (Short-Squeeze) den Dollar schnell hochschießen lassen.",
+   "stand": "2026-08-29",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — die Börsen ruhen. Kurz-Fazit der Woche: Fed-Chef Warsh war in Jackson Hole klar FALKENHAFT („Inflation zu hoch, mehr zu tun“, Erhöhung möglich), der Dollar hat sich dadurch ins Wochenende hinein leicht gefestigt (Index zurück knapp unter 100). Der große Test kommt kommenden Freitag mit dem US-Jobbericht (NFP).",
    "heute": [
-    "🏔️ HEUTE ~16:00 Wien — Warshs erste Grundsatzrede als Fed-Chef in Jackson Hole = DAS Ereignis, zeitgleich mit der großen US-Jobzahlen-Benchmark-Revision. Kinderleicht: Warsh hat die 'Vorab-Wegweiser' der Fed abgeschafft, deshalb zählt jedes Wort. Der Markt ist beim 16.9.-Zinsentscheid ein Münzwurf (Erhöhen oder Halten) — die Rede kann das Zünglein an der Waage sein.",
-    "🇨🇦 HEUTE 14:30 Wien — Kanada-BIP fürs 2. Quartal. Kinderleicht: erwartet wird eine Erholung (~2 % aufs Jahr gerechnet, getragen von Öl, Industrie, Exporten). Stark = Rückenwind für den kanadischen Dollar, der sonst unter dem billigen Öl leidet.",
-    "🥇 Gold klebt am Rekord (~4.633 $), Bitcoin ~80.500 $ (+3,6 % Woche). Die 'Flucht aus dem Papiergeld' (Entwertungs-Wette) läuft weiter, solange eine Fed-Zinssenkung im Raum steht.",
-    "🛢️ Öl bleibt tief (WTI ~83 $, −4,6 % Woche). Kinderleicht: billiges Öl nimmt dem kanadischen Dollar den Rückenwind — heute steht ihm aber das BIP als Gegengewicht gegenüber."
+    "🛌 Samstag — Devisenmarkt geschlossen, keine neuen Kurse oder Zahlen. Der nächste echte Impuls kommt erst mit den Daten ab Dienstag (Euro-Inflation) und dem US-Jobbericht am Freitag.",
+    "🧭 Zwischenstand ins Wochenende: Dollar-Index ~99,7 (+0,7 % Woche, wieder fester), Gold vom Rekord leicht zurück auf ~4.500 $, Öl tief (WTI ~83 $), Angst-Barometer VIX 14,4 (sehr niedrig = entspannter Markt). Der US-2-Jahres-Zins war diese Woche der stärkste Steiger (+0,17 Pp) — das stützt den Dollar."
    ],
    "gestern": [
-    "🇺🇸 Mi 26.8: US-Kern-PCE (Fed-Lieblings-Inflation, Juli) +0,2 % im Monat (wie erwartet) / +3,3 % im Jahr = zäh und weiter klar über dem 2-%-Ziel. Kinderleicht: Die Inflation will nicht runter → das hält die Chance auf einen harten Warsh am Leben.",
-    "🌐 Do 27.8: Jackson-Hole-Gipfel gestartet, Märkte ruhig und abwartend. EUR/USD kletterte kurz auf ein 2-Monats-Hoch (~1,165), bevor es leicht zurückkam.",
-    "🇦🇺 Australien-Inflation HEISS (Di/Mi): +3,5 % y/y (über den erwarteten 3,2–3,3 %), Kern klebt bei ~3,6 %, dazu diskutierte die RBA sogar eine Zinserhöhung. Kinderleicht: Preise steigen schneller als gedacht → RBA bleibt hart → Aussie mit Rückenwind.",
-    "📈 Zins-Vergleich diese Woche leicht PRO Dollar: Der US-2-Jahres-Zins ist der stärkste Steiger (+0,05 Pp), während GBP/CHF/JPY flach bis leicht fallend sind. Kinderleicht: Der Dollar wirft im Vergleich einen Tick mehr ab — ein kleines Gegengewicht zur Dollar-Schwäche, kein Trendbruch."
+    "🏔️ Fr 28.8: Warsh-Grundsatzrede in Jackson Hole = FALKENHAFT. Kinderleicht: Er sagte, die Inflation sei „weiterhin zu hoch“ und die Fed habe „mehr zu tun“ — eine Erhöhung in den kommenden Monaten sei möglich. Er weigert sich weiter, klare Vorab-Wegweiser zu geben. Folge: Der Anleihemarkt preist wieder eine Erhöhung ein, der Dollar festigte sich. Der 16.9.-Entscheid bleibt ein Münzwurf (~34 % Erhöhungs-Chance), eine Senkung ist praktisch vom Tisch.",
+    "🇺🇸 Fr 28.8: Große Jobzahlen-Benchmark-Revision — die US-Beschäftigung wurde nur um −79.000 nach unten korrigiert (viel milder als die befürchteten Hunderttausende). Kinderleicht: Der Arbeitsmarkt war rückblickend nur einen Hauch schwächer als gedacht — kein Schock, das nahm dem Dollar keinen Wind aus den Segeln.",
+    "🇺🇸 Mi 26.8: US-Kern-PCE (Fed-Lieblings-Inflation, Juli) +0,2 % im Monat (wie erwartet) / +3,3 % im Jahr = zäh und klar über dem 2-%-Ziel. Genau das gab Warsh am Freitag die Rückendeckung für den harten Ton.",
+    "🇨🇦 Fr 28.8: Kanada-BIP 2. Quartal +3,3 % aufs Jahr = solider Rebound (Öl, Industrie), knapp unter der Schätzung. Ein kleiner Trost für den Loonie trotz billigem Öl.",
+    "🇦🇺 Australien-Inflation diese Woche HEISS: +3,5 % y/y (über den erwarteten 3,2–3,3 %), Kern klebt bei ~3,6 %, die RBA diskutierte sogar eine Erhöhung → Rückenwind für den Aussie, die klarste Einzel-Geschichte der Woche."
    ]
   }
  },
@@ -4085,7 +4084,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-29T01:27:21.603Z",
+  "stand": "2026-08-29T05:03:08.837Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 50,
   "gewertet": 23,

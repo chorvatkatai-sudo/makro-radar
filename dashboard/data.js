@@ -1,155 +1,461 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-08-30T05:02:35.650Z",
- "wochenStart": "2026-08-23",
+ "erstellt": "2026-08-30T05:02:58.676Z",
+ "wochenStart": "2026-08-30",
  "events": [
   {
-   "title": "Core Retail Sales q/q",
-   "country": "NZD",
-   "date": "2026-08-23T18:45:00-04:00",
+   "title": "G20 Meetings",
+   "country": "All",
+   "date": "2026-08-30T11:15:00-04:00",
    "impact": "Low",
-   "forecast": "0.3%",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "Prelim Industrial Production m/m",
+   "country": "JPY",
+   "date": "2026-08-30T19:50:00-04:00",
+   "impact": "Low",
+   "forecast": "-0.7%",
+   "previous": "1.3%",
+   "actual": null
+  },
+  {
+   "title": "Retail Sales y/y",
+   "country": "JPY",
+   "date": "2026-08-30T19:50:00-04:00",
+   "impact": "Low",
+   "forecast": "3.2%",
+   "previous": "0.5%",
+   "actual": null
+  },
+  {
+   "title": "MI Inflation Gauge m/m",
+   "country": "AUD",
+   "date": "2026-08-30T21:00:00-04:00",
+   "impact": "Low",
+   "forecast": "",
    "previous": "1.0%",
    "actual": null
   },
   {
-   "title": "Retail Sales q/q",
+   "title": "ANZ Business Confidence",
    "country": "NZD",
-   "date": "2026-08-23T18:45:00-04:00",
+   "date": "2026-08-30T21:00:00-04:00",
    "impact": "Low",
-   "forecast": "0.1%",
+   "forecast": "",
+   "previous": "56.1",
+   "actual": null
+  },
+  {
+   "title": "Company Operating Profits q/q",
+   "country": "AUD",
+   "date": "2026-08-30T21:30:00-04:00",
+   "impact": "Low",
+   "forecast": "2.0%",
+   "previous": "-1.3%",
+   "actual": null
+  },
+  {
+   "title": "Private Sector Credit m/m",
+   "country": "AUD",
+   "date": "2026-08-30T21:30:00-04:00",
+   "impact": "Low",
+   "forecast": "0.7%",
+   "previous": "0.8%",
+   "actual": null
+  },
+  {
+   "title": "Manufacturing PMI",
+   "country": "CNY",
+   "date": "2026-08-30T21:30:00-04:00",
+   "impact": "Low",
+   "forecast": "49.5",
+   "previous": "49.2",
+   "actual": null
+  },
+  {
+   "title": "Non-Manufacturing PMI",
+   "country": "CNY",
+   "date": "2026-08-30T21:30:00-04:00",
+   "impact": "Low",
+   "forecast": "49.5",
+   "previous": "49.0",
+   "actual": null
+  },
+  {
+   "title": "Housing Starts y/y",
+   "country": "JPY",
+   "date": "2026-08-31T01:00:00-04:00",
+   "impact": "Low",
+   "forecast": "7.5%",
+   "previous": "18.6%",
+   "actual": null
+  },
+  {
+   "title": "German Prelim CPI m/m",
+   "country": "EUR",
+   "date": "2026-08-31T02:29:00-04:00",
+   "impact": "Medium",
+   "forecast": "0.3%",
+   "previous": "0.8%",
+   "actual": null
+  },
+  {
+   "title": "Bank Holiday",
+   "country": "GBP",
+   "date": "2026-08-31T03:00:00-04:00",
+   "impact": "Holiday",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "G20 Meetings",
+   "country": "All",
+   "date": "2026-08-31T11:15:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "BRC Shop Price Index y/y",
+   "country": "GBP",
+   "date": "2026-08-31T19:01:00-04:00",
+   "impact": "Low",
+   "forecast": "0.9%",
    "previous": "0.9%",
    "actual": null
   },
   {
-   "title": "Corporate Profits q/q",
-   "country": "CAD",
-   "date": "2026-08-24T08:30:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-2.0%",
-   "actual": null
-  },
-  {
-   "title": "Treasury Sec Bessent Speaks",
-   "country": "USD",
-   "date": "2026-08-24T13:00:00-04:00",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null
-  },
-  {
-   "title": "Monetary Policy Meeting Minutes",
-   "country": "AUD",
-   "date": "2026-08-24T21:30:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null
-  },
-  {
-   "title": "BOJ Core CPI y/y",
+   "title": "Capital Spending q/y",
    "country": "JPY",
-   "date": "2026-08-25T01:00:00-04:00",
+   "date": "2026-08-31T19:50:00-04:00",
    "impact": "Low",
-   "forecast": "1.4%",
+   "forecast": "-0.2%",
+   "previous": "0.0%",
+   "actual": null
+  },
+  {
+   "title": "Final Manufacturing PMI",
+   "country": "JPY",
+   "date": "2026-08-31T20:30:00-04:00",
+   "impact": "Low",
+   "forecast": "55.1",
+   "previous": "55.1",
+   "actual": null
+  },
+  {
+   "title": "Building Approvals m/m",
+   "country": "AUD",
+   "date": "2026-08-31T21:30:00-04:00",
+   "impact": "Low",
+   "forecast": "-4.8%",
+   "previous": "7.2%",
+   "actual": null
+  },
+  {
+   "title": "Current Account",
+   "country": "AUD",
+   "date": "2026-08-31T21:30:00-04:00",
+   "impact": "Low",
+   "forecast": "-29.7B",
+   "previous": "-27.1B",
+   "actual": null
+  },
+  {
+   "title": "RatingDog Manufacturing PMI",
+   "country": "CNY",
+   "date": "2026-08-31T21:45:00-04:00",
+   "impact": "Low",
+   "forecast": "51.5",
+   "previous": "50.9",
+   "actual": null
+  },
+  {
+   "title": "10-y Bond Auction",
+   "country": "JPY",
+   "date": "2026-08-31T23:35:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2.84|2.6",
+   "actual": null
+  },
+  {
+   "title": "Consumer Confidence",
+   "country": "JPY",
+   "date": "2026-09-01T01:00:00-04:00",
+   "impact": "Low",
+   "forecast": "35.3",
+   "previous": "34.9",
+   "actual": null
+  },
+  {
+   "title": "German Retail Sales m/m",
+   "country": "EUR",
+   "date": "2026-09-01T02:00:00-04:00",
+   "impact": "Low",
+   "forecast": "0.4%",
+   "previous": "-1.1%",
+   "actual": null
+  },
+  {
+   "title": "Nationwide HPI m/m",
+   "country": "GBP",
+   "date": "2026-09-01T02:00:00-04:00",
+   "impact": "Low",
+   "forecast": "0.1%",
+   "previous": "0.1%",
+   "actual": null
+  },
+  {
+   "title": "Commodity Prices y/y",
+   "country": "AUD",
+   "date": "2026-09-01T02:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "15.4%",
+   "actual": null
+  },
+  {
+   "title": "Retail Sales y/y",
+   "country": "CHF",
+   "date": "2026-09-01T02:30:00-04:00",
+   "impact": "Low",
+   "forecast": "1.3%",
    "previous": "1.5%",
    "actual": null
   },
   {
-   "title": "German Final GDP q/q",
+   "title": "Spanish Manufacturing PMI",
    "country": "EUR",
-   "date": "2026-08-25T02:00:00-04:00",
+   "date": "2026-09-01T03:15:00-04:00",
    "impact": "Low",
-   "forecast": "0.2%",
+   "forecast": "50.4",
+   "previous": "50.2",
+   "actual": null
+  },
+  {
+   "title": "Manufacturing PMI",
+   "country": "CHF",
+   "date": "2026-09-01T03:30:00-04:00",
+   "impact": "Low",
+   "forecast": "54.1",
+   "previous": "53.2",
+   "actual": null
+  },
+  {
+   "title": "Italian Manufacturing PMI",
+   "country": "EUR",
+   "date": "2026-09-01T03:45:00-04:00",
+   "impact": "Low",
+   "forecast": "51.6",
+   "previous": "51.3",
+   "actual": null
+  },
+  {
+   "title": "French Final Manufacturing PMI",
+   "country": "EUR",
+   "date": "2026-09-01T03:50:00-04:00",
+   "impact": "Low",
+   "forecast": "51.5",
+   "previous": "51.5",
+   "actual": null
+  },
+  {
+   "title": "German Final Manufacturing PMI",
+   "country": "EUR",
+   "date": "2026-09-01T03:55:00-04:00",
+   "impact": "Low",
+   "forecast": "54.1",
+   "previous": "54.1",
+   "actual": null
+  },
+  {
+   "title": "Final Manufacturing PMI",
+   "country": "EUR",
+   "date": "2026-09-01T04:00:00-04:00",
+   "impact": "Low",
+   "forecast": "52.8",
+   "previous": "52.8",
+   "actual": null
+  },
+  {
+   "title": "Italian Monthly Unemployment Rate",
+   "country": "EUR",
+   "date": "2026-09-01T04:30:00-04:00",
+   "impact": "Low",
+   "forecast": "5.6%",
+   "previous": "5.7%",
+   "actual": null
+  },
+  {
+   "title": "Final Manufacturing PMI",
+   "country": "GBP",
+   "date": "2026-09-01T04:30:00-04:00",
+   "impact": "Low",
+   "forecast": "51.5",
+   "previous": "51.5",
+   "actual": null
+  },
+  {
+   "title": "M4 Money Supply m/m",
+   "country": "GBP",
+   "date": "2026-09-01T04:30:00-04:00",
+   "impact": "Low",
+   "forecast": "0.9%",
+   "previous": "0.8%",
+   "actual": null
+  },
+  {
+   "title": "Mortgage Approvals",
+   "country": "GBP",
+   "date": "2026-09-01T04:30:00-04:00",
+   "impact": "Low",
+   "forecast": "59K",
+   "previous": "58K",
+   "actual": null
+  },
+  {
+   "title": "Net Lending to Individuals m/m",
+   "country": "GBP",
+   "date": "2026-09-01T04:30:00-04:00",
+   "impact": "Low",
+   "forecast": "9.2B",
+   "previous": "9.5B",
+   "actual": null
+  },
+  {
+   "title": "Core CPI Flash Estimate y/y",
+   "country": "EUR",
+   "date": "2026-09-01T05:00:00-04:00",
+   "impact": "Medium",
+   "forecast": "2.5%",
+   "previous": "2.5%",
+   "actual": null
+  },
+  {
+   "title": "CPI Flash Estimate y/y",
+   "country": "EUR",
+   "date": "2026-09-01T05:00:00-04:00",
+   "impact": "Medium",
+   "forecast": "3.3%",
+   "previous": "2.9%",
+   "actual": null
+  },
+  {
+   "title": "Italian Prelim CPI m/m",
+   "country": "EUR",
+   "date": "2026-09-01T05:00:00-04:00",
+   "impact": "Low",
+   "forecast": "0.4%",
    "previous": "0.2%",
    "actual": null
   },
   {
-   "title": "German ifo Business Climate",
+   "title": "Unemployment Rate",
    "country": "EUR",
-   "date": "2026-08-25T04:00:00-04:00",
+   "date": "2026-09-01T05:00:00-04:00",
    "impact": "Low",
-   "forecast": "87.2",
-   "previous": "86.6",
+   "forecast": "6.3%",
+   "previous": "6.3%",
    "actual": null
   },
   {
-   "title": "ADP Weekly Employment Change",
+   "title": "FOMC Member Barr Speaks",
    "country": "USD",
-   "date": "2026-08-25T08:15:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "9.5K",
-   "actual": null
-  },
-  {
-   "title": "FOMC Member Barkin Speaks",
-   "country": "USD",
-   "date": "2026-08-25T08:30:00-04:00",
+   "date": "2026-09-01T09:05:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": null
   },
   {
-   "title": "Belgian NBB Business Climate",
-   "country": "EUR",
-   "date": "2026-08-25T09:00:00-04:00",
+   "title": "Manufacturing PMI",
+   "country": "CAD",
+   "date": "2026-09-01T09:30:00-04:00",
    "impact": "Low",
-   "forecast": "-11.0",
-   "previous": "-11.9",
+   "forecast": "",
+   "previous": "53.5",
    "actual": null
   },
   {
-   "title": "HPI m/m",
+   "title": "Final Manufacturing PMI",
    "country": "USD",
-   "date": "2026-08-25T09:00:00-04:00",
+   "date": "2026-09-01T09:45:00-04:00",
    "impact": "Low",
-   "forecast": "0.2%",
-   "previous": "0.3%",
+   "forecast": "53.3",
+   "previous": "53.2",
    "actual": null
   },
   {
-   "title": "S&P/CS Composite-20 HPI y/y",
+   "title": "ISM Manufacturing PMI",
    "country": "USD",
-   "date": "2026-08-25T09:00:00-04:00",
-   "impact": "Low",
-   "forecast": "1.8%",
-   "previous": "1.6%",
+   "date": "2026-09-01T10:00:00-04:00",
+   "impact": "High",
+   "forecast": "55.2",
+   "previous": "55.6",
    "actual": null
   },
   {
-   "title": "CB Consumer Confidence",
+   "title": "ISM Manufacturing Prices",
    "country": "USD",
-   "date": "2026-08-25T10:00:00-04:00",
+   "date": "2026-09-01T10:00:00-04:00",
    "impact": "Medium",
-   "forecast": "90.3",
-   "previous": "90.8",
+   "forecast": "71.2",
+   "previous": "71.1",
    "actual": null
   },
   {
-   "title": "New Home Sales",
+   "title": "JOLTS Job Openings",
    "country": "USD",
-   "date": "2026-08-25T10:00:00-04:00",
+   "date": "2026-09-01T10:00:00-04:00",
+   "impact": "Medium",
+   "forecast": "7.33M",
+   "previous": "7.36M",
+   "actual": null
+  },
+  {
+   "title": "Construction Spending m/m",
+   "country": "USD",
+   "date": "2026-09-01T10:00:00-04:00",
    "impact": "Low",
-   "forecast": "620K",
-   "previous": "628K",
+   "forecast": "0.0%",
+   "previous": "-0.1%",
    "actual": null
   },
   {
-   "title": "Richmond Manufacturing Index",
+   "title": "RCM/TIPP Economic Optimism",
    "country": "USD",
-   "date": "2026-08-25T10:00:00-04:00",
+   "date": "2026-09-01T10:10:00-04:00",
    "impact": "Low",
-   "forecast": "6",
-   "previous": "5",
+   "forecast": "46.2",
+   "previous": "45.1",
    "actual": null
   },
   {
-   "title": "FOMC Member Barkin Speaks",
+   "title": "Omdia Total Vehicle Sales",
    "country": "USD",
-   "date": "2026-08-25T16:00:00-04:00",
+   "date": "2026-09-01T10:15:00-04:00",
+   "impact": "Low",
+   "forecast": "16.3M",
+   "previous": "16.3M",
+   "actual": null
+  },
+  {
+   "title": "GDT Price Index",
+   "country": "NZD",
+   "date": "2026-09-01T10:50:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2.3%",
+   "actual": null
+  },
+  {
+   "title": "G20 Meetings",
+   "country": "All",
+   "date": "2026-09-01T11:15:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -158,1814 +464,920 @@ window.MAKRO_DATA = {
   {
    "title": "API Weekly Statistical Bulletin",
    "country": "USD",
-   "date": "2026-08-25T16:30:00-04:00",
+   "date": "2026-09-01T16:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": null
   },
   {
-   "title": "SPPI y/y",
-   "country": "JPY",
-   "date": "2026-08-25T19:50:00-04:00",
-   "impact": "Low",
-   "forecast": "3.2%",
-   "previous": "3.2%",
-   "actual": null
-  },
-  {
-   "title": "MI Leading Index m/m",
-   "country": "AUD",
-   "date": "2026-08-25T20:30:00-04:00",
+   "title": "Building Consents m/m",
+   "country": "NZD",
+   "date": "2026-09-01T18:45:00-04:00",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.0%",
+   "previous": "-3.6%",
    "actual": null
   },
   {
-   "title": "CPI m/m",
-   "country": "AUD",
-   "date": "2026-08-25T21:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.9%",
-   "previous": "-0.1%",
-   "actual": "1.0%"
+   "title": "Monetary Base y/y",
+   "country": "JPY",
+   "date": "2026-09-01T19:50:00-04:00",
+   "impact": "Low",
+   "forecast": "-13.5%",
+   "previous": "-13.8%",
+   "actual": null
   },
   {
-   "title": "CPI y/y",
-   "country": "AUD",
-   "date": "2026-08-25T21:30:00-04:00",
-   "impact": "High",
-   "forecast": "3.3%",
-   "previous": "3.8%",
-   "actual": "3.5%"
+   "title": "German Buba President Nagel Speaks",
+   "country": "EUR",
+   "date": "2026-09-01T20:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null
   },
   {
-   "title": "Trimmed Mean CPI m/m",
+   "title": "GDP q/q",
    "country": "AUD",
-   "date": "2026-08-25T21:30:00-04:00",
+   "date": "2026-09-01T21:30:00-04:00",
    "impact": "High",
-   "forecast": "0.4%",
+   "forecast": "0.3%",
    "previous": "0.3%",
    "actual": null
   },
   {
-   "title": "Construction Work Done q/q",
-   "country": "AUD",
-   "date": "2026-08-25T21:30:00-04:00",
-   "impact": "Low",
-   "forecast": "0.5%",
-   "previous": "3.4%",
+   "title": "Official Cash Rate",
+   "country": "NZD",
+   "date": "2026-09-01T22:00:00-04:00",
+   "impact": "High",
+   "forecast": "2.75%",
+   "previous": "2.50%",
    "actual": null
   },
   {
-   "title": "UBS Economic Expectations",
-   "country": "CHF",
-   "date": "2026-08-26T04:00:00-04:00",
+   "title": "RBNZ Monetary Policy Statement",
+   "country": "NZD",
+   "date": "2026-09-01T22:00:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "RBNZ Rate Statement",
+   "country": "NZD",
+   "date": "2026-09-01T22:00:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "RBNZ Press Conference",
+   "country": "NZD",
+   "date": "2026-09-01T23:00:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "French Gov Budget Balance",
+   "country": "EUR",
+   "date": "2026-09-02T02:45:00-04:00",
    "impact": "Low",
    "forecast": "",
-   "previous": "10.0",
+   "previous": "-106.8B",
    "actual": null
   },
   {
-   "title": "CBI Realized Sales",
-   "country": "GBP",
-   "date": "2026-08-26T06:00:00-04:00",
+   "title": "Spanish Unemployment Change",
+   "country": "EUR",
+   "date": "2026-09-02T03:00:00-04:00",
    "impact": "Low",
-   "forecast": "-35",
-   "previous": "-26",
+   "forecast": "21.5K",
+   "previous": "19.5K",
    "actual": null
   },
   {
-   "title": "Core PCE Price Index m/m",
+   "title": "ADP Non-Farm Employment Change",
    "country": "USD",
-   "date": "2026-08-26T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.2%",
-   "previous": "0.1%",
-   "actual": "0.2%"
-  },
-  {
-   "title": "Prelim GDP q/q",
-   "country": "USD",
-   "date": "2026-08-26T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "1.5%",
-   "previous": "1.5%",
-   "actual": "1.5%"
-  },
-  {
-   "title": "Prelim GDP Price Index q/q",
-   "country": "USD",
-   "date": "2026-08-26T08:30:00-04:00",
+   "date": "2026-09-02T08:15:00-04:00",
    "impact": "Medium",
-   "forecast": "6.2%",
-   "previous": "6.2%",
+   "forecast": "47K",
+   "previous": "44K",
    "actual": null
   },
   {
-   "title": "Core Durable Goods Orders m/m",
+   "title": "BOC Rate Statement",
+   "country": "CAD",
+   "date": "2026-09-02T09:45:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "Overnight Rate",
+   "country": "CAD",
+   "date": "2026-09-02T09:45:00-04:00",
+   "impact": "High",
+   "forecast": "2.25%",
+   "previous": "2.25%",
+   "actual": null
+  },
+  {
+   "title": "Factory Orders m/m",
    "country": "USD",
-   "date": "2026-08-26T08:30:00-04:00",
+   "date": "2026-09-02T10:00:00-04:00",
    "impact": "Low",
    "forecast": "0.6%",
-   "previous": "0.6%",
+   "previous": "-0.3%",
    "actual": null
   },
   {
-   "title": "Durable Goods Orders m/m",
-   "country": "USD",
-   "date": "2026-08-26T08:30:00-04:00",
-   "impact": "Low",
-   "forecast": "0.4%",
-   "previous": "0.3%",
-   "actual": null
-  },
-  {
-   "title": "Personal Income m/m",
-   "country": "USD",
-   "date": "2026-08-26T08:30:00-04:00",
-   "impact": "Low",
-   "forecast": "0.2%",
-   "previous": "0.2%",
-   "actual": null
-  },
-  {
-   "title": "Personal Spending m/m",
-   "country": "USD",
-   "date": "2026-08-26T08:30:00-04:00",
-   "impact": "Low",
-   "forecast": "0.1%",
-   "previous": "0.3%",
+   "title": "BOC Press Conference",
+   "country": "CAD",
+   "date": "2026-09-02T10:30:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": "",
    "actual": null
   },
   {
    "title": "Crude Oil Inventories",
    "country": "USD",
-   "date": "2026-08-26T10:30:00-04:00",
+   "date": "2026-09-02T10:30:00-04:00",
    "impact": "Low",
-   "forecast": "1.6M",
-   "previous": "4.4M",
+   "forecast": "",
+   "previous": "0.1M",
    "actual": null
   },
   {
-   "title": "FOMC Member Barkin Speaks",
+   "title": "Beige Book",
    "country": "USD",
-   "date": "2026-08-26T11:45:00-04:00",
+   "date": "2026-09-02T14:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": null
   },
   {
-   "title": "Gov Board Member Martin Speaks",
+   "title": "Overseas Trade Index q/q",
+   "country": "NZD",
+   "date": "2026-09-02T18:45:00-04:00",
+   "impact": "Low",
+   "forecast": "-2.2%",
+   "previous": "-2.0%",
+   "actual": null
+  },
+  {
+   "title": "ANZ Commodity Prices m/m",
+   "country": "NZD",
+   "date": "2026-09-02T21:00:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-3.9%",
+   "actual": null
+  },
+  {
+   "title": "RBA Assist Gov Jones Speaks",
+   "country": "AUD",
+   "date": "2026-09-02T21:15:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "Goods Trade Balance",
+   "country": "AUD",
+   "date": "2026-09-02T21:30:00-04:00",
+   "impact": "Low",
+   "forecast": "1.39B",
+   "previous": "1.93B",
+   "actual": null
+  },
+  {
+   "title": "RatingDog Services PMI",
+   "country": "CNY",
+   "date": "2026-09-02T21:45:00-04:00",
+   "impact": "Low",
+   "forecast": "50.6",
+   "previous": "50.4",
+   "actual": null
+  },
+  {
+   "title": "30-y Bond Auction",
+   "country": "JPY",
+   "date": "2026-09-02T23:35:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.94|3.9",
+   "actual": null
+  },
+  {
+   "title": "RBA Assist Gov Hunter Speaks",
+   "country": "AUD",
+   "date": "2026-09-03T01:15:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "CPI m/m",
    "country": "CHF",
-   "date": "2026-08-26T12:15:00-04:00",
+   "date": "2026-09-03T02:30:00-04:00",
+   "impact": "Medium",
+   "forecast": "0.0%",
+   "previous": "-0.1%",
+   "actual": null
+  },
+  {
+   "title": "GDP q/q",
+   "country": "CHF",
+   "date": "2026-09-03T03:00:00-04:00",
+   "impact": "Low",
+   "forecast": "1.7%",
+   "previous": "0.7%",
+   "actual": null
+  },
+  {
+   "title": "Spanish Services PMI",
+   "country": "EUR",
+   "date": "2026-09-03T03:15:00-04:00",
+   "impact": "Low",
+   "forecast": "58.8",
+   "previous": "58.3",
+   "actual": null
+  },
+  {
+   "title": "Italian Services PMI",
+   "country": "EUR",
+   "date": "2026-09-03T03:45:00-04:00",
+   "impact": "Low",
+   "forecast": "53.3",
+   "previous": "52.5",
+   "actual": null
+  },
+  {
+   "title": "French Final Services PMI",
+   "country": "EUR",
+   "date": "2026-09-03T03:50:00-04:00",
+   "impact": "Low",
+   "forecast": "48.4",
+   "previous": "48.4",
+   "actual": null
+  },
+  {
+   "title": "German Final Services PMI",
+   "country": "EUR",
+   "date": "2026-09-03T03:55:00-04:00",
+   "impact": "Low",
+   "forecast": "48.5",
+   "previous": "48.5",
+   "actual": null
+  },
+  {
+   "title": "Final Services PMI",
+   "country": "EUR",
+   "date": "2026-09-03T04:00:00-04:00",
+   "impact": "Low",
+   "forecast": "51.7",
+   "previous": "51.7",
+   "actual": null
+  },
+  {
+   "title": "Final Services PMI",
+   "country": "GBP",
+   "date": "2026-09-03T04:30:00-04:00",
+   "impact": "Low",
+   "forecast": "52.8",
+   "previous": "52.8",
+   "actual": null
+  },
+  {
+   "title": "PPI m/m",
+   "country": "EUR",
+   "date": "2026-09-03T05:00:00-04:00",
+   "impact": "Low",
+   "forecast": "1.3%",
+   "previous": "-0.3%",
+   "actual": null
+  },
+  {
+   "title": "Spanish 10-y Bond Auction",
+   "country": "EUR",
+   "date": "2026-09-03T05:03:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": null
   },
   {
-   "title": "Household Spending m/m",
-   "country": "AUD",
-   "date": "2026-08-26T21:30:00-04:00",
-   "impact": "Low",
-   "forecast": "0.3%",
-   "previous": "0.8%",
-   "actual": null
-  },
-  {
-   "title": "Private Capital Expenditure q/q",
-   "country": "AUD",
-   "date": "2026-08-26T21:30:00-04:00",
-   "impact": "Low",
-   "forecast": "0.8%",
-   "previous": "6.5%",
-   "actual": null
-  },
-  {
-   "title": "RBA Bulletin",
-   "country": "AUD",
-   "date": "2026-08-26T21:30:00-04:00",
+   "title": "French 10-y Bond Auction",
+   "country": "EUR",
+   "date": "2026-09-03T05:18:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": null
   },
   {
-   "title": "German GfK Consumer Climate",
-   "country": "EUR",
-   "date": "2026-08-27T02:00:00-04:00",
-   "impact": "Low",
-   "forecast": "-29.5",
-   "previous": "-29.6",
-   "actual": null
-  },
-  {
-   "title": "M3 Money Supply y/y",
-   "country": "EUR",
-   "date": "2026-08-27T04:00:00-04:00",
-   "impact": "Low",
-   "forecast": "3.5%",
-   "previous": "3.3%",
-   "actual": null
-  },
-  {
-   "title": "Private Loans y/y",
-   "country": "EUR",
-   "date": "2026-08-27T04:00:00-04:00",
-   "impact": "Low",
-   "forecast": "2.9%",
-   "previous": "3.0%",
-   "actual": null
-  },
-  {
-   "title": "ECB Monetary Policy Meeting Accounts",
-   "country": "EUR",
-   "date": "2026-08-27T07:30:00-04:00",
+   "title": "Challenger Job Cuts y/y",
+   "country": "USD",
+   "date": "2026-09-03T05:30:00-04:00",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "-46.1%",
    "actual": null
   },
   {
-   "title": "Current Account",
+   "title": "Labor Productivity q/q",
    "country": "CAD",
-   "date": "2026-08-27T08:30:00-04:00",
+   "date": "2026-09-03T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "3.5B",
-   "previous": "-7.2B",
+   "forecast": "0.2%",
+   "previous": "-0.5%",
+   "actual": null
+  },
+  {
+   "title": "Trade Balance",
+   "country": "CAD",
+   "date": "2026-09-03T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "3.2B",
+   "previous": "3.9B",
    "actual": null
   },
   {
    "title": "Unemployment Claims",
    "country": "USD",
-   "date": "2026-08-27T08:30:00-04:00",
+   "date": "2026-09-03T08:30:00-04:00",
    "impact": "Medium",
-   "forecast": "208K",
-   "previous": "206K",
+   "forecast": "205K",
+   "previous": "203K",
    "actual": null
   },
   {
-   "title": "Goods Trade Balance",
+   "title": "FOMC Member Waller Speaks",
    "country": "USD",
-   "date": "2026-08-27T08:30:00-04:00",
-   "impact": "Low",
-   "forecast": "-100.8B",
-   "previous": "-101.5B",
-   "actual": null
-  },
-  {
-   "title": "Prelim Wholesale Inventories m/m",
-   "country": "USD",
-   "date": "2026-08-27T08:30:00-04:00",
-   "impact": "Low",
-   "forecast": "0.2%",
-   "previous": "0.2%",
-   "actual": null
-  },
-  {
-   "title": "CB Leading Index m/m",
-   "country": "CNY",
-   "date": "2026-08-27T09:00:00-04:00",
+   "date": "2026-09-03T08:30:00-04:00",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.1%",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "Revised Nonfarm Productivity q/q",
+   "country": "USD",
+   "date": "2026-09-03T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "1.4%",
+   "previous": "1.4%",
+   "actual": null
+  },
+  {
+   "title": "Revised Unit Labor Costs q/q",
+   "country": "USD",
+   "date": "2026-09-03T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "1.3%",
+   "previous": "1.3%",
+   "actual": null
+  },
+  {
+   "title": "Trade Balance",
+   "country": "USD",
+   "date": "2026-09-03T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "-86.4B",
+   "previous": "-73.3B",
+   "actual": null
+  },
+  {
+   "title": "Final Services PMI",
+   "country": "USD",
+   "date": "2026-09-03T09:45:00-04:00",
+   "impact": "Low",
+   "forecast": "56.8",
+   "previous": "56.8",
+   "actual": null
+  },
+  {
+   "title": "ISM Services PMI",
+   "country": "USD",
+   "date": "2026-09-03T10:00:00-04:00",
+   "impact": "Medium",
+   "forecast": "54.1",
+   "previous": "54.1",
    "actual": null
   },
   {
    "title": "Natural Gas Storage",
    "country": "USD",
-   "date": "2026-08-27T10:30:00-04:00",
+   "date": "2026-09-03T10:30:00-04:00",
    "impact": "Low",
-   "forecast": "19B",
-   "previous": "16B",
-   "actual": null
-  },
-  {
-   "title": "Jackson Hole Symposium",
-   "country": "All",
-   "date": "2026-08-27T12:15:00-04:00",
-   "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "15B",
    "actual": null
   },
   {
-   "title": "Tokyo Core CPI y/y",
+   "title": "Household Spending y/y",
    "country": "JPY",
-   "date": "2026-08-27T19:30:00-04:00",
-   "impact": "Medium",
-   "forecast": "1.8%",
-   "previous": "1.9%",
-   "actual": null
-  },
-  {
-   "title": "Unemployment Rate",
-   "country": "JPY",
-   "date": "2026-08-27T19:30:00-04:00",
+   "date": "2026-09-03T19:30:00-04:00",
    "impact": "Low",
-   "forecast": "2.5%",
-   "previous": "2.5%",
+   "forecast": "-1.6%",
+   "previous": "-3.3%",
    "actual": null
   },
   {
-   "title": "German Import Prices m/m",
+   "title": "German Factory Orders m/m",
    "country": "EUR",
-   "date": "2026-08-28T02:00:00-04:00",
+   "date": "2026-09-04T02:00:00-04:00",
    "impact": "Low",
-   "forecast": "0.3%",
-   "previous": "-0.7%",
+   "forecast": "0.4%",
+   "previous": "3.1%",
    "actual": null
   },
   {
-   "title": "French Consumer Spending m/m",
+   "title": "Italian Retail Sales m/m",
    "country": "EUR",
-   "date": "2026-08-28T02:45:00-04:00",
+   "date": "2026-09-04T04:00:00-04:00",
    "impact": "Low",
-   "forecast": "0.1%",
-   "previous": "0.4%",
-   "actual": null
-  },
-  {
-   "title": "French Final Private Payrolls q/q",
-   "country": "EUR",
-   "date": "2026-08-28T02:45:00-04:00",
-   "impact": "Low",
-   "forecast": "-0.1%",
+   "forecast": "0.2%",
    "previous": "-0.1%",
    "actual": null
   },
   {
-   "title": "French Prelim CPI m/m",
-   "country": "EUR",
-   "date": "2026-08-28T02:45:00-04:00",
-   "impact": "Low",
-   "forecast": "0.7%",
-   "previous": "0.6%",
-   "actual": null
-  },
-  {
-   "title": "French Prelim GDP q/q",
-   "country": "EUR",
-   "date": "2026-08-28T02:45:00-04:00",
-   "impact": "Low",
-   "forecast": "0.2%",
-   "previous": "0.2%",
-   "actual": null
-  },
-  {
-   "title": "KOF Economic Barometer",
-   "country": "CHF",
-   "date": "2026-08-28T03:00:00-04:00",
-   "impact": "Low",
-   "forecast": "103.0",
-   "previous": "103.5",
-   "actual": null
-  },
-  {
-   "title": "Spanish Flash CPI y/y",
-   "country": "EUR",
-   "date": "2026-08-28T03:00:00-04:00",
-   "impact": "Low",
-   "forecast": "4.2%",
-   "previous": "3.6%",
-   "actual": null
-  },
-  {
-   "title": "German Unemployment Change",
-   "country": "EUR",
-   "date": "2026-08-28T03:55:00-04:00",
-   "impact": "Low",
-   "forecast": "4K",
-   "previous": "6K",
-   "actual": null
-  },
-  {
-   "title": "Italian 10-y Bond Auction",
-   "country": "EUR",
-   "date": "2026-08-28T05:09:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.00|1.7",
-   "actual": null
-  },
-  {
-   "title": "GDP m/m",
-   "country": "CAD",
-   "date": "2026-08-28T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.2%",
-   "previous": "0.3%",
-   "actual": null
-  },
-  {
-   "title": "FOMC Member Hammack Speaks",
-   "country": "USD",
-   "date": "2026-08-28T09:00:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null
-  },
-  {
-   "title": "Chicago PMI",
-   "country": "USD",
-   "date": "2026-08-28T09:45:00-04:00",
-   "impact": "Low",
-   "forecast": "57.9",
-   "previous": "57.6",
-   "actual": null
-  },
-  {
-   "title": "Fed Chairman Warsh Speaks",
-   "country": "USD",
-   "date": "2026-08-28T10:00:00-04:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "actual": null
-  },
-  {
-   "title": "Prelim Benchmark Payrolls Revision",
-   "country": "USD",
-   "date": "2026-08-28T10:00:00-04:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": "-911K",
-   "actual": null
-  },
-  {
-   "title": "Revised UoM Consumer Sentiment",
-   "country": "USD",
-   "date": "2026-08-28T10:00:00-04:00",
-   "impact": "Medium",
-   "forecast": "51.0",
-   "previous": "51.0",
-   "actual": null
-  },
-  {
-   "title": "Revised UoM Inflation Expectations",
-   "country": "USD",
-   "date": "2026-08-28T10:00:00-04:00",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "4.3%",
-   "actual": null
-  },
-  {
-   "title": "MPC Member Mann Speaks",
+   "title": "Construction PMI",
    "country": "GBP",
-   "date": "2026-08-28T10:30:00-04:00",
+   "date": "2026-09-04T04:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
-   "previous": "",
+   "forecast": "45.9",
+   "previous": "44.7",
    "actual": null
   },
   {
-   "title": "Jackson Hole Symposium",
-   "country": "All",
-   "date": "2026-08-28T12:15:00-04:00",
+   "title": "BOE Gov Bailey Speaks",
+   "country": "GBP",
+   "date": "2026-09-04T04:50:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "",
    "actual": null
   },
   {
-   "title": "G20 Meetings",
-   "country": "All",
-   "date": "2026-08-29T11:15:00-04:00",
+   "title": "Retail Sales m/m",
+   "country": "EUR",
+   "date": "2026-09-04T05:00:00-04:00",
    "impact": "Low",
-   "forecast": "",
-   "previous": "",
+   "forecast": "0.3%",
+   "previous": "-0.3%",
    "actual": null
   },
   {
-   "title": "Jackson Hole Symposium",
-   "country": "All",
-   "date": "2026-08-29T12:15:00-04:00",
+   "title": "Employment Change",
+   "country": "CAD",
+   "date": "2026-09-04T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "15.8K",
+   "previous": "75.1K",
+   "actual": null
+  },
+  {
+   "title": "Unemployment Rate",
+   "country": "CAD",
+   "date": "2026-09-04T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "6.4%",
+   "previous": "6.4%",
+   "actual": null
+  },
+  {
+   "title": "Average Hourly Earnings m/m",
+   "country": "USD",
+   "date": "2026-09-04T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "0.3%",
+   "previous": "0.1%",
+   "actual": null
+  },
+  {
+   "title": "Non-Farm Employment Change",
+   "country": "USD",
+   "date": "2026-09-04T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "58K",
+   "previous": "-23K",
+   "actual": null
+  },
+  {
+   "title": "Unemployment Rate",
+   "country": "USD",
+   "date": "2026-09-04T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "4.1%",
+   "previous": "4.1%",
+   "actual": null
+  },
+  {
+   "title": "Ivey PMI",
+   "country": "CAD",
+   "date": "2026-09-04T10:00:00-04:00",
    "impact": "Medium",
-   "forecast": "",
-   "previous": "",
+   "forecast": "56.2",
+   "previous": "55.1",
    "actual": null
   }
  ],
  "naechsteWoche": [
   {
-   "date": "2026-08-30T23:50:00.000Z",
+   "date": "2026-09-06T23:50:00.000Z",
    "country": "JPY",
-   "title": "Industrial Production MoM Prel",
-   "impact": "Medium",
-   "forecast": "-0.6%",
-   "previous": "1.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-30T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Retail Sales YoY",
-   "impact": "Medium",
-   "forecast": "3%",
-   "previous": "0.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-30T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Retail Sales MoM",
+   "title": "Foreign Exchange Reserves",
    "impact": "Low",
    "forecast": "",
-   "previous": "-4.1%",
+   "previous": "1287.1 $",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-08-30T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Industrial Production YoY Prel",
+   "date": "2026-09-07T00:00:00.000Z",
+   "country": "CAD",
+   "title": "Labor Day",
    "impact": "Low",
    "forecast": "",
-   "previous": "4.9%",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-08-31T01:00:00.000Z",
+   "date": "2026-09-07T00:00:00.000Z",
+   "country": "USD",
+   "title": "Labor Day",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T01:30:00.000Z",
    "country": "AUD",
-   "title": "TD-MI Inflation Gauge MoM",
+   "title": "ANZ-Indeed Job Ads MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T01:00:00.000Z",
-   "country": "NZD",
-   "title": "ANZ Business Confidence",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "56.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T01:30:00.000Z",
-   "country": "CNY",
-   "title": "NBS Non Manufacturing PMI",
-   "impact": "Medium",
-   "forecast": "49.5",
-   "previous": "49",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Private Sector Credit YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "8.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Business Inventories QoQ",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Company Gross Profits QoQ",
-   "impact": "Medium",
-   "forecast": "2%",
-   "previous": "-1.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T01:30:00.000Z",
-   "country": "CNY",
-   "title": "NBS Manufacturing PMI",
-   "impact": "High",
-   "forecast": "49.7",
-   "previous": "49.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Private Sector Credit MoM",
-   "impact": "Low",
-   "forecast": "0.7%",
    "previous": "0.8%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-08-31T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Housing Credit MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T01:30:00.000Z",
-   "country": "CNY",
-   "title": "NBS General PMI",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "49.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T05:00:00.000Z",
-   "country": "JPY",
-   "title": "Consumer Confidence",
-   "impact": "High",
-   "forecast": "35",
-   "previous": "34.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T05:00:00.000Z",
-   "country": "JPY",
-   "title": "Construction Orders YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T05:00:00.000Z",
-   "country": "JPY",
-   "title": "Housing Starts YoY",
-   "impact": "Medium",
-   "forecast": "7.9%",
-   "previous": "18.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T10:10:00.000Z",
-   "country": "EUR",
-   "title": "2031 EU-Bonds Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.98%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T10:10:00.000Z",
-   "country": "EUR",
-   "title": "2040 EU-Bonds Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.643%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T10:10:00.000Z",
-   "country": "EUR",
-   "title": "2036 EU-Bonds Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.392%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T14:01:00.000Z",
-   "country": "AUD",
-   "title": "Cotality Dwelling Prices MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T14:30:00.000Z",
-   "country": "USD",
-   "title": "Dallas Fed Manufacturing Index",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "1.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T15:30:00.000Z",
-   "country": "USD",
-   "title": "3-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.715%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T15:30:00.000Z",
-   "country": "USD",
-   "title": "6-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.79%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T23:00:00.000Z",
-   "country": "AUD",
-   "title": "S&P Global Manufacturing PMI Final",
-   "impact": "Low",
-   "forecast": "52",
-   "previous": "52",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T23:01:00.000Z",
+   "date": "2026-09-07T06:00:00.000Z",
    "country": "GBP",
-   "title": "BRC Shop Price Inflation",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-08-31T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Capital Spending YoY",
+   "title": "Lloyds House Price Index MoM",
    "impact": "Medium",
-   "forecast": "0.2%",
+   "forecast": "",
    "previous": "0%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-01T00:30:00.000Z",
-   "country": "JPY",
-   "title": "S&P Global Manufacturing PMI Final",
-   "impact": "Low",
-   "forecast": "55.1",
-   "previous": "54.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Private House Approvals MoM Prel",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Building Permits MoM Prel",
-   "impact": "Medium",
-   "forecast": "-4.8%",
-   "previous": "7.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Net Exports Contribution to GDP",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Building Permits YoY Prel",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "8.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Current Account",
-   "impact": "Low",
-   "forecast": "-29.7 A$",
-   "previous": "-27.1 A$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T01:45:00.000Z",
-   "country": "CNY",
-   "title": "RatingDog Manufacturing PMI",
-   "impact": "High",
-   "forecast": "50.9",
-   "previous": "50.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T02:35:00.000Z",
-   "country": "NZD",
-   "title": "6-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.0295%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T02:35:00.000Z",
-   "country": "NZD",
-   "title": "1-Year Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T02:35:00.000Z",
-   "country": "NZD",
-   "title": "3-Month Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.8499%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T03:35:00.000Z",
-   "country": "JPY",
-   "title": "10-Year JGB Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.84%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T06:00:00.000Z",
+   "date": "2026-09-07T06:00:00.000Z",
    "country": "GBP",
-   "title": "Nationwide Housing Prices YoY",
+   "title": "Lloyds House Price Index YoY",
    "impact": "Medium",
-   "forecast": "2%",
-   "previous": "1.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Nationwide Housing Prices MoM",
-   "impact": "Medium",
-   "forecast": "0.1%",
+   "forecast": "",
    "previous": "0.1%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-01T06:30:00.000Z",
+   "date": "2026-09-07T07:00:00.000Z",
    "country": "CHF",
-   "title": "Retail Sales YoY",
-   "impact": "Medium",
-   "forecast": "1.3%",
-   "previous": "1.5%",
+   "title": "Foreign Exchange Reserves",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "768.26",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-01T06:30:00.000Z",
+   "date": "2026-09-07T07:00:00.000Z",
    "country": "CHF",
-   "title": "Retail Sales MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T06:30:00.000Z",
-   "country": "AUD",
-   "title": "Commodity Prices YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "15.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T07:30:00.000Z",
-   "country": "CHF",
-   "title": "procure.ch Manufacturing PMI",
-   "impact": "Medium",
-   "forecast": "53.5",
-   "previous": "53.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T08:00:00.000Z",
-   "country": "EUR",
-   "title": "S&P Global Manufacturing PMI Final",
-   "impact": "Low",
-   "forecast": "52.8",
-   "previous": "51.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T08:30:00.000Z",
-   "country": "GBP",
-   "title": "Mortgage Approvals",
-   "impact": "Medium",
-   "forecast": "60",
-   "previous": "58.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T08:30:00.000Z",
-   "country": "GBP",
-   "title": "Mortgage Lending",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "7.73 £",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T08:30:00.000Z",
-   "country": "GBP",
-   "title": "M4 Money Supply MoM",
-   "impact": "Low",
-   "forecast": "0.9%",
-   "previous": "0.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T08:30:00.000Z",
-   "country": "GBP",
-   "title": "Net Lending to Individuals MoM",
-   "impact": "Low",
-   "forecast": "9.2 £",
-   "previous": "9.5 £",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T08:30:00.000Z",
-   "country": "GBP",
-   "title": "S&P Global Manufacturing PMI Final",
-   "impact": "Low",
-   "forecast": "51.5",
-   "previous": "51.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T08:30:00.000Z",
-   "country": "GBP",
-   "title": "BoE Consumer Credit",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "1.807 £",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Core Inflation Rate YoY Flash",
-   "impact": "Medium",
-   "forecast": "2.5%",
-   "previous": "2.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T09:00:00.000Z",
-   "country": "EUR",
-   "title": "CPI Flash",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "103.24",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T09:00:00.000Z",
-   "country": "EUR",
    "title": "Unemployment Rate",
    "impact": "Medium",
-   "forecast": "6.3%",
-   "previous": "6.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Inflation Rate YoY Flash",
-   "impact": "High",
-   "forecast": "3.2%",
-   "previous": "2.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Inflation Rate MoM Flash",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T10:00:00.000Z",
-   "country": "USD",
-   "title": "LMI Logistics Managers Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "68.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T12:55:00.000Z",
-   "country": "USD",
-   "title": "Redbook YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "9.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T13:00:00.000Z",
-   "country": "NZD",
-   "title": "Global Dairy Trade Price Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T13:05:00.000Z",
-   "country": "USD",
-   "title": "Fed Barr Speech",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T13:30:00.000Z",
-   "country": "CAD",
-   "title": "S&P Global Manufacturing PMI",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "53.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T13:45:00.000Z",
-   "country": "USD",
-   "title": "S&P Global Manufacturing PMI Final",
-   "impact": "Low",
-   "forecast": "53.2",
-   "previous": "53.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:00:00.000Z",
-   "country": "USD",
-   "title": "ISM Manufacturing PMI",
-   "impact": "High",
-   "forecast": "55.3",
-   "previous": "55.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:00:00.000Z",
-   "country": "USD",
-   "title": "JOLTs Job Quits",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.232",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:00:00.000Z",
-   "country": "USD",
-   "title": "ISM Manufacturing New Orders",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "56.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:00:00.000Z",
-   "country": "USD",
-   "title": "RCM/TIPP Economic Optimism Index",
-   "impact": "Low",
-   "forecast": "46.2",
-   "previous": "45.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:00:00.000Z",
-   "country": "USD",
-   "title": "Construction Spending MoM",
-   "impact": "Low",
-   "forecast": "0.2%",
-   "previous": "-0.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:00:00.000Z",
-   "country": "USD",
-   "title": "ISM Manufacturing Prices",
-   "impact": "Low",
-   "forecast": "72",
-   "previous": "71.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:00:00.000Z",
-   "country": "USD",
-   "title": "ISM Manufacturing Employment",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "52.8",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:00:00.000Z",
-   "country": "USD",
-   "title": "JOLTs Job Openings",
-   "impact": "High",
-   "forecast": "7.39",
-   "previous": "7.359",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:30:00.000Z",
-   "country": "USD",
-   "title": "Dallas Fed Services Revenues Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "9.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T14:30:00.000Z",
-   "country": "USD",
-   "title": "Dallas Fed Services Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "6.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T15:30:00.000Z",
-   "country": "USD",
-   "title": "6-Week Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.65%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T15:30:00.000Z",
-   "country": "USD",
-   "title": "52-Week Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.88%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T16:00:00.000Z",
-   "country": "EUR",
-   "title": "ECB Vujčić Speech",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T20:30:00.000Z",
-   "country": "USD",
-   "title": "API Crude Oil Stock Change",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "4.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Building Permits MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-3.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T23:00:00.000Z",
-   "country": "AUD",
-   "title": "Ai Group Industry Index",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-29.9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T23:00:00.000Z",
-   "country": "AUD",
-   "title": "Ai Group Construction Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-40.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T23:00:00.000Z",
-   "country": "AUD",
-   "title": "Ai Group Manufacturing Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-19.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-01T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Monetary Base YoY",
-   "impact": "Low",
-   "forecast": "-13.5%",
-   "previous": "-13.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T01:30:00.000Z",
-   "country": "AUD",
-   "title": "GDP Growth Rate QoQ",
-   "impact": "High",
-   "forecast": "0.3%",
-   "previous": "0.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T01:30:00.000Z",
-   "country": "AUD",
-   "title": "GDP Capital Expenditure QoQ",
-   "impact": "Low",
    "forecast": "",
    "previous": "3%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-02T01:30:00.000Z",
-   "country": "AUD",
-   "title": "GDP Growth Rate YoY",
-   "impact": "Medium",
+   "date": "2026-09-07T08:00:00.000Z",
+   "country": "CNY",
+   "title": "Foreign Exchange Reserves",
+   "impact": "Low",
    "forecast": "",
-   "previous": "2.5%",
+   "previous": "3.419",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-02T01:30:00.000Z",
+   "date": "2026-09-07T09:00:00.000Z",
+   "country": "EUR",
+   "title": "Employment Change YoY Final",
+   "impact": "Low",
+   "forecast": "0.5%",
+   "previous": "0.5%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T09:00:00.000Z",
+   "country": "EUR",
+   "title": "Employment Change QoQ Final",
+   "impact": "Low",
+   "forecast": "0.1%",
+   "previous": "0.1%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T09:00:00.000Z",
+   "country": "EUR",
+   "title": "GDP Growth Rate YoY 3rd Est",
+   "impact": "Low",
+   "forecast": "1%",
+   "previous": "0.5%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T09:00:00.000Z",
+   "country": "EUR",
+   "title": "GDP Growth Rate QoQ 3rd Est",
+   "impact": "Low",
+   "forecast": "0.4%",
+   "previous": "0%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T09:00:00.000Z",
+   "country": "GBP",
+   "title": "BBA Mortgage Rate",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "6.6%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T22:45:00.000Z",
+   "country": "NZD",
+   "title": "Manufacturing Sales YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2.8%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T23:01:00.000Z",
+   "country": "GBP",
+   "title": "BRC Retail Sales Monitor YoY",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "1",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T23:30:00.000Z",
    "country": "JPY",
-   "title": "BoJ Takada Speech",
+   "title": "Average Cash Earnings YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.4%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T23:30:00.000Z",
+   "country": "JPY",
+   "title": "Overtime Pay YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2.8%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T23:50:00.000Z",
+   "country": "JPY",
+   "title": "Current Account",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "923",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-02T01:30:00.000Z",
-   "country": "AUD",
-   "title": "GDP Chain Price Index QoQ",
+   "date": "2026-09-07T23:50:00.000Z",
+   "country": "JPY",
+   "title": "Bank Lending YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.8%",
+   "previous": "5.4%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-02T01:30:00.000Z",
-   "country": "AUD",
-   "title": "GDP Final Consumption QoQ",
+   "date": "2026-09-07T23:50:00.000Z",
+   "country": "JPY",
+   "title": "GDP Growth Annualized Final",
+   "impact": "Medium",
+   "forecast": "1.1%",
+   "previous": "1.8%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T23:50:00.000Z",
+   "country": "JPY",
+   "title": "GDP Growth Rate QoQ Final",
+   "impact": "Medium",
+   "forecast": "0.3%",
+   "previous": "0.5%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-07T23:50:00.000Z",
+   "country": "JPY",
+   "title": "GDP Private Consumption QoQ Final",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0%",
    "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-02T02:00:00.000Z",
-   "country": "NZD",
-   "title": "RBNZ Interest Rate Decision",
-   "impact": "Medium",
-   "forecast": "2.75%",
-   "previous": "2.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T03:00:00.000Z",
-   "country": "NZD",
-   "title": "RBNZ Press Conference",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T10:10:00.000Z",
-   "country": "EUR",
-   "title": "12-Month Bill Auction",
+   "date": "2026-09-07T23:50:00.000Z",
+   "country": "JPY",
+   "title": "GDP External Demand QoQ Final",
    "impact": "Low",
-   "forecast": "",
-   "previous": "2.704%",
+   "forecast": "0.5%",
+   "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-02T10:10:00.000Z",
-   "country": "EUR",
-   "title": "6-Month Bill Auction",
+   "date": "2026-09-07T23:50:00.000Z",
+   "country": "JPY",
+   "title": "GDP Price Index YoY Final",
    "impact": "Low",
-   "forecast": "",
-   "previous": "2.533%",
+   "forecast": "2.6%",
+   "previous": "3.2%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-02T10:10:00.000Z",
-   "country": "EUR",
-   "title": "3-Month Bill Auction",
+   "date": "2026-09-07T23:50:00.000Z",
+   "country": "JPY",
+   "title": "GDP Capital Expenditure QoQ Final",
    "impact": "Low",
-   "forecast": "",
-   "previous": "2.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Purchase Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "154.4",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA 30-Year Mortgage Rate",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "6.78",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Mortgage Refinance Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "740.8",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Mortgage Applications",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Mortgage Market Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "245.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T12:15:00.000Z",
-   "country": "USD",
-   "title": "ADP Employment Change",
-   "impact": "Medium",
-   "forecast": "47",
-   "previous": "44",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T13:30:00.000Z",
-   "country": "EUR",
-   "title": "ECB Buch Speech",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T13:45:00.000Z",
-   "country": "CAD",
-   "title": "BoC Interest Rate Decision",
-   "impact": "High",
-   "forecast": "2.25%",
-   "previous": "2.25%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:00:00.000Z",
-   "country": "USD",
-   "title": "Factory Orders MoM",
-   "impact": "Medium",
-   "forecast": "0.6%",
-   "previous": "-0.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:00:00.000Z",
-   "country": "USD",
-   "title": "Factory Orders ex Transportation",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Crude Oil Imports Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.161",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Distillate Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-2.228",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Gasoline Production Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.061",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Cushing Crude Oil Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.176",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Gasoline Stocks Change",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-2.536",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Crude Oil Stocks Change",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0.095",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "CAD",
-   "title": "BoC Press Conference",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Refinery Crude Runs Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.002",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Heating Oil Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.027",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Distillate Fuel Production Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-0.091",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T15:30:00.000Z",
-   "country": "USD",
-   "title": "17-Week Bill Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.75%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T18:00:00.000Z",
-   "country": "USD",
-   "title": "Fed Beige Book",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T18:00:00.000Z",
-   "country": "USD",
-   "title": "Total Vehicle Sales",
-   "impact": "Low",
-   "forecast": "16.3",
-   "previous": "16.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Import Prices QoQ",
-   "impact": "Low",
-   "forecast": "",
+   "forecast": "-1.2%",
    "previous": "-0.7%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-02T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Export Prices QoQ",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-2.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T22:45:00.000Z",
-   "country": "NZD",
-   "title": "Terms of Trade QoQ",
-   "impact": "Low",
-   "forecast": "-2.2%",
-   "previous": "-2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T23:00:00.000Z",
+   "date": "2026-09-08T00:30:00.000Z",
    "country": "AUD",
-   "title": "S&P Global Composite PMI Final",
-   "impact": "Low",
-   "forecast": "52.5",
-   "previous": "53.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T23:00:00.000Z",
-   "country": "AUD",
-   "title": "S&P Global Services PMI Final",
-   "impact": "Low",
-   "forecast": "52.9",
-   "previous": "53.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Foreign Bond Investment",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-1978.4",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-02T23:50:00.000Z",
-   "country": "JPY",
-   "title": "Stock Investment by Foreigners",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-764.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T00:30:00.000Z",
-   "country": "JPY",
-   "title": "S&P Global Services PMI Final",
-   "impact": "Low",
-   "forecast": "52.3",
-   "previous": "51.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T00:30:00.000Z",
-   "country": "JPY",
-   "title": "S&P Global Composite PMI Final",
-   "impact": "Low",
-   "forecast": "53.4",
-   "previous": "52.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T01:00:00.000Z",
-   "country": "AUD",
-   "title": "RBA Jones Speech",
+   "title": "Westpac Consumer Confidence Index",
    "impact": "Medium",
+   "forecast": "",
+   "previous": "88.9",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T00:30:00.000Z",
+   "country": "AUD",
+   "title": "Westpac Consumer Confidence Change",
+   "impact": "High",
+   "forecast": "",
+   "previous": "6%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T01:30:00.000Z",
+   "country": "AUD",
+   "title": "Building Permits MoM Final",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "7.2",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T01:30:00.000Z",
+   "country": "AUD",
+   "title": "Building Permits YoY Final",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "8.9",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T01:30:00.000Z",
+   "country": "AUD",
+   "title": "NAB Business Confidence",
+   "impact": "High",
+   "forecast": "",
+   "previous": "-6",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T01:30:00.000Z",
+   "country": "AUD",
+   "title": "Private House Approvals MoM Final",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.4",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T02:35:00.000Z",
+   "country": "NZD",
+   "title": "3-Month Bill Auction",
+   "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Exports MoM",
+   "date": "2026-09-08T02:35:00.000Z",
+   "country": "NZD",
+   "title": "1-Year Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "9.6%",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T01:30:00.000Z",
-   "country": "AUD",
-   "title": "Imports MoM",
+   "date": "2026-09-08T02:35:00.000Z",
+   "country": "NZD",
+   "title": "6-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "-0.2%",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T01:30:00.000Z",
-   "country": "AUD",
+   "date": "2026-09-08T03:00:00.000Z",
+   "country": "CNY",
+   "title": "Exports YoY",
+   "impact": "High",
+   "forecast": "",
+   "previous": "23.9",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T03:00:00.000Z",
+   "country": "CNY",
    "title": "Balance of Trade",
    "impact": "High",
-   "forecast": "1.39 A$",
-   "previous": "1.929 A$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T01:45:00.000Z",
-   "country": "CNY",
-   "title": "RatingDog Services PMI",
-   "impact": "Medium",
-   "forecast": "50.6",
-   "previous": "50.4",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T01:45:00.000Z",
-   "country": "CNY",
-   "title": "RatingDog Composite PMI",
-   "impact": "Low",
    "forecast": "",
-   "previous": "50.8",
+   "previous": "112.5 $",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T03:35:00.000Z",
-   "country": "JPY",
-   "title": "30-Year JGB Auction",
-   "impact": "Low",
+   "date": "2026-09-08T03:00:00.000Z",
+   "country": "CNY",
+   "title": "Imports YoY",
+   "impact": "High",
    "forecast": "",
-   "previous": "3.937%",
+   "previous": "27.5",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T05:15:00.000Z",
-   "country": "AUD",
-   "title": "RBA  Brischetto Speech",
+   "date": "2026-09-08T03:00:00.000Z",
+   "country": "CNY",
+   "title": "Balance of Trade Yuan",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1973,7 +1385,7 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T05:15:00.000Z",
+   "date": "2026-09-08T03:20:00.000Z",
    "country": "AUD",
    "title": "RBA Hunter Speech",
    "impact": "Medium",
@@ -1983,409 +1395,559 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T06:30:00.000Z",
-   "country": "CHF",
-   "title": "Inflation Rate MoM",
+   "date": "2026-09-08T03:35:00.000Z",
+   "country": "JPY",
+   "title": "5-Year JGB Auction",
    "impact": "Low",
-   "forecast": "0%",
-   "previous": "-0.1%",
+   "forecast": "",
+   "previous": "2.163%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T06:30:00.000Z",
-   "country": "CHF",
+   "date": "2026-09-08T05:00:00.000Z",
+   "country": "JPY",
+   "title": "Eco Watchers Survey Current",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "45.7",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T05:00:00.000Z",
+   "country": "JPY",
+   "title": "Eco Watchers Survey Outlook",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T09:30:00.000Z",
+   "country": "AUD",
+   "title": "RBA Hauser Speech",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T10:00:00.000Z",
+   "country": "USD",
+   "title": "NFIB Business Optimism Index",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T12:15:00.000Z",
+   "country": "USD",
+   "title": "ADP Employment Change Weekly",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "11.75",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T12:55:00.000Z",
+   "country": "USD",
+   "title": "Redbook YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T13:00:00.000Z",
+   "country": "USD",
+   "title": "Used Car Prices YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "1.3",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T13:00:00.000Z",
+   "country": "USD",
+   "title": "Used Car Prices MoM",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-1.4",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T15:00:00.000Z",
+   "country": "USD",
+   "title": "Consumer Inflation Expectations",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.6%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T15:30:00.000Z",
+   "country": "USD",
+   "title": "3-Month Bill Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T15:30:00.000Z",
+   "country": "USD",
+   "title": "6-Month Bill Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T15:30:00.000Z",
+   "country": "USD",
+   "title": "6-Week Bill Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T17:00:00.000Z",
+   "country": "USD",
+   "title": "3-Year Note Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-08T19:00:00.000Z",
+   "country": "USD",
+   "title": "Consumer Credit Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "14.17",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T01:30:00.000Z",
+   "country": "CNY",
    "title": "Inflation Rate YoY",
+   "impact": "High",
+   "forecast": "",
+   "previous": "0.5",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T01:30:00.000Z",
+   "country": "CNY",
+   "title": "Inflation Rate MoM",
    "impact": "Medium",
    "forecast": "",
-   "previous": "0.4%",
+   "previous": "-0.1",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T07:00:00.000Z",
-   "country": "CHF",
-   "title": "GDP Growth Rate QoQ Final",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T07:00:00.000Z",
-   "country": "CHF",
-   "title": "GDP Growth Rate YoY",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "0.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T08:00:00.000Z",
-   "country": "EUR",
-   "title": "S&P Global Composite PMI Final",
-   "impact": "Low",
-   "forecast": "52.1",
-   "previous": "52",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T08:00:00.000Z",
-   "country": "EUR",
-   "title": "S&P Global Services PMI Final",
-   "impact": "Low",
-   "forecast": "51.7",
-   "previous": "51.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T08:30:00.000Z",
-   "country": "GBP",
-   "title": "S&P Global Composite PMI Final",
-   "impact": "Low",
-   "forecast": "52.5",
-   "previous": "52.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T08:30:00.000Z",
-   "country": "GBP",
-   "title": "S&P Global Services PMI Final",
-   "impact": "Low",
-   "forecast": "52.8",
-   "previous": "52.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T09:00:00.000Z",
-   "country": "GBP",
-   "title": "Index-linked Treasury Gilt 2049 Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.165%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T09:00:00.000Z",
-   "country": "EUR",
+   "date": "2026-09-09T01:30:00.000Z",
+   "country": "CNY",
    "title": "PPI YoY",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "3.5",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T03:35:00.000Z",
+   "country": "JPY",
+   "title": "6-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "4.6%",
+   "previous": "1.1753%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T09:00:00.000Z",
-   "country": "EUR",
-   "title": "PPI MoM",
+   "date": "2026-09-09T06:00:00.000Z",
+   "country": "JPY",
+   "title": "Machine Tool Orders YoY",
    "impact": "Low",
-   "forecast": "1.3%",
-   "previous": "-0.3%",
+   "forecast": "",
+   "previous": "50.4",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T09:30:00.000Z",
+   "date": "2026-09-09T09:00:00.000Z",
+   "country": "CHF",
+   "title": "Bond Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T11:00:00.000Z",
    "country": "USD",
-   "title": "Challenger Job Cuts",
+   "title": "MBA Mortgage Market Index",
    "impact": "Low",
    "forecast": "",
-   "previous": "33.429",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T12:30:00.000Z",
+   "date": "2026-09-09T11:00:00.000Z",
+   "country": "USD",
+   "title": "MBA Purchase Index",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T11:00:00.000Z",
+   "country": "USD",
+   "title": "MBA Mortgage Applications",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T11:00:00.000Z",
+   "country": "USD",
+   "title": "MBA Mortgage Refinance Index",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T11:00:00.000Z",
+   "country": "USD",
+   "title": "MBA 30-Year Mortgage Rate",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T15:30:00.000Z",
+   "country": "USD",
+   "title": "17-Week Bill Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T16:00:00.000Z",
    "country": "CAD",
-   "title": "Balance of Trade",
-   "impact": "Medium",
-   "forecast": "3.2 C$",
-   "previous": "3.86 C$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "USD",
-   "title": "Exports",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "314.7 $",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "USD",
-   "title": "Jobless Claims 4-week Average",
+   "title": "5-Year Bond Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "205.5",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T12:30:00.000Z",
+   "date": "2026-09-09T17:00:00.000Z",
    "country": "USD",
-   "title": "Nonfarm Productivity QoQ Final",
+   "title": "10-Year Note Auction",
    "impact": "Low",
-   "forecast": "1.4%",
-   "previous": "0.8%",
+   "forecast": "",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T12:30:00.000Z",
+   "date": "2026-09-09T20:30:00.000Z",
    "country": "USD",
-   "title": "Imports",
+   "title": "API Crude Oil Stock Change",
    "impact": "Medium",
    "forecast": "",
-   "previous": "388 $",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T12:30:00.000Z",
+   "date": "2026-09-09T23:01:00.000Z",
+   "country": "GBP",
+   "title": "RICS House Price Balance",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "-30",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T23:50:00.000Z",
+   "country": "JPY",
+   "title": "Foreign Bond Investment",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-09T23:50:00.000Z",
+   "country": "JPY",
+   "title": "Stock Investment by Foreigners",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T01:00:00.000Z",
+   "country": "AUD",
+   "title": "Consumer Inflation Expectations",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4.9%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T09:00:00.000Z",
+   "country": "GBP",
+   "title": "New Conventional Gilt 2030",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T12:15:00.000Z",
+   "country": "EUR",
+   "title": "Marginal Lending Rate",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2.65%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T12:15:00.000Z",
+   "country": "EUR",
+   "title": "ECB Interest Rate Decision",
+   "impact": "High",
+   "forecast": "",
+   "previous": "2.4%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T12:15:00.000Z",
+   "country": "EUR",
+   "title": "Deposit Facility Rate",
+   "impact": "High",
+   "forecast": "",
+   "previous": "2.25%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T12:30:00.000Z",
+   "country": "USD",
+   "title": "Initial Jobless Claims",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T12:30:00.000Z",
+   "country": "USD",
+   "title": "Core PPI MoM",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "0.2",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T12:30:00.000Z",
+   "country": "USD",
+   "title": "PPI MoM",
+   "impact": "High",
+   "forecast": "",
+   "previous": "0%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T12:30:00.000Z",
    "country": "USD",
    "title": "Continuing Jobless Claims",
    "impact": "Low",
    "forecast": "",
-   "previous": "1778",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T12:30:00.000Z",
+   "date": "2026-09-10T12:30:00.000Z",
    "country": "USD",
-   "title": "Unit Labour Costs QoQ Final",
+   "title": "Jobless Claims 4-week Average",
    "impact": "Low",
-   "forecast": "1.3%",
-   "previous": "1.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "USD",
-   "title": "Initial Jobless Claims",
-   "impact": "Medium",
-   "forecast": "205",
-   "previous": "203",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Imports",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "73.63 C$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Labor Productivity QoQ",
-   "impact": "Low",
-   "forecast": "0.2%",
-   "previous": "-0.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Exports",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "77.49 C$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "USD",
-   "title": "Balance of Trade",
-   "impact": "Medium",
-   "forecast": "-86.4 $",
-   "previous": "-73.3 $",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T12:30:00.000Z",
-   "country": "USD",
-   "title": "Fed Waller Speech",
-   "impact": "Medium",
    "forecast": "",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T13:30:00.000Z",
-   "country": "CAD",
-   "title": "S&P Global Composite PMI",
+   "date": "2026-09-10T12:30:00.000Z",
+   "country": "USD",
+   "title": "PPI Ex Food, Energy and Trade YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "49.7",
+   "previous": "4.7",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T13:30:00.000Z",
-   "country": "CAD",
-   "title": "S&P Global Services PMI",
+   "date": "2026-09-10T12:30:00.000Z",
+   "country": "USD",
+   "title": "PPI Ex Food, Energy and Trade MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "49.1",
+   "previous": "0.4",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T13:45:00.000Z",
+   "date": "2026-09-10T12:30:00.000Z",
    "country": "USD",
-   "title": "S&P Global Composite PMI Final",
-   "impact": "Low",
-   "forecast": "56",
-   "previous": "54.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T13:45:00.000Z",
-   "country": "USD",
-   "title": "S&P Global Services PMI Final",
-   "impact": "Low",
-   "forecast": "56.8",
-   "previous": "54.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T14:00:00.000Z",
-   "country": "USD",
-   "title": "ISM Services Prices",
+   "title": "PPI",
    "impact": "Low",
    "forecast": "",
-   "previous": "70.3",
+   "previous": "156.563",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T14:00:00.000Z",
+   "date": "2026-09-10T12:30:00.000Z",
    "country": "USD",
-   "title": "ISM Services Employment",
+   "title": "Core PPI YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "47.4",
+   "previous": "4.2",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T14:00:00.000Z",
+   "date": "2026-09-10T12:30:00.000Z",
    "country": "USD",
-   "title": "ISM Services New Orders",
+   "title": "PPI YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "57.2",
+   "previous": "4.7",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T14:00:00.000Z",
-   "country": "USD",
-   "title": "ISM Services PMI",
+   "date": "2026-09-10T12:45:00.000Z",
+   "country": "EUR",
+   "title": "ECB Press Conference",
    "impact": "High",
-   "forecast": "54.1",
-   "previous": "54.1",
+   "forecast": "",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T14:00:00.000Z",
+   "date": "2026-09-10T14:00:00.000Z",
    "country": "USD",
-   "title": "ISM Services Business Activity",
+   "title": "Wholesale Inventories MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "59.1",
+   "previous": "0.2",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T14:30:00.000Z",
+   "date": "2026-09-10T14:00:00.000Z",
+   "country": "USD",
+   "title": "Existing Home Sales MoM",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "-1.7",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T14:00:00.000Z",
+   "country": "USD",
+   "title": "Existing Home Sales",
+   "impact": "High",
+   "forecast": "",
+   "previous": "4.06",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T14:30:00.000Z",
    "country": "USD",
    "title": "EIA Natural Gas Stocks Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "15",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T15:30:00.000Z",
+   "date": "2026-09-10T15:30:00.000Z",
    "country": "USD",
    "title": "4-Week Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "3.65%",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T15:30:00.000Z",
+   "date": "2026-09-10T15:30:00.000Z",
    "country": "USD",
    "title": "8-Week Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "3.67%",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T16:00:00.000Z",
-   "country": "CAD",
-   "title": "2-Year Bond Auction",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.023%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T16:00:00.000Z",
+   "date": "2026-09-10T16:00:00.000Z",
    "country": "USD",
-   "title": "15-Year Mortgage Rate",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "5.98",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T16:00:00.000Z",
-   "country": "USD",
-   "title": "30-Year Mortgage Rate",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "6.66",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T19:00:00.000Z",
-   "country": "USD",
-   "title": "Fed Hammack Speech",
+   "title": "EIA Crude Oil Stocks Change",
    "impact": "Medium",
    "forecast": "",
    "previous": "",
@@ -2393,7 +1955,117 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T20:30:00.000Z",
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "EIA Gasoline Stocks Change",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "EIA Cushing Crude Oil Stocks Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "EIA Crude Oil Imports Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "EIA Gasoline Production Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "EIA Distillate Stocks Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "EIA Distillate Fuel Production Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "30-Year Mortgage Rate",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "EIA Refinery Crude Runs Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "EIA Heating Oil Stocks Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T16:00:00.000Z",
+   "country": "USD",
+   "title": "15-Year Mortgage Rate",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T17:00:00.000Z",
+   "country": "USD",
+   "title": "30-Year Bond Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "5.216%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T20:30:00.000Z",
    "country": "USD",
    "title": "Fed Balance Sheet",
    "impact": "Low",
@@ -2403,352 +2075,392 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T22:00:00.000Z",
+   "date": "2026-09-10T22:30:00.000Z",
    "country": "NZD",
-   "title": "ANZ Roy Morgan Consumer Confidence",
+   "title": "Business NZ PMI",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "54.3",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T23:00:00.000Z",
+   "country": "JPY",
+   "title": "Reuters Tankan Index",
    "impact": "Low",
    "forecast": "",
-   "previous": "99.3",
+   "previous": "18",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-03T23:30:00.000Z",
+   "date": "2026-09-10T23:50:00.000Z",
    "country": "JPY",
-   "title": "Household Spending YoY",
-   "impact": "Medium",
-   "forecast": "-1.6%",
-   "previous": "-3.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-03T23:30:00.000Z",
-   "country": "JPY",
-   "title": "Household Spending MoM",
-   "impact": "Medium",
+   "title": "PPI YoY",
+   "impact": "Low",
    "forecast": "",
-   "previous": "-6.4%",
+   "previous": "7.2",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T03:35:00.000Z",
+   "date": "2026-09-10T23:50:00.000Z",
+   "country": "JPY",
+   "title": "BSI Large Manufacturing QoQ",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-10T23:50:00.000Z",
+   "country": "JPY",
+   "title": "PPI MoM",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.1",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T03:35:00.000Z",
    "country": "JPY",
    "title": "3-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "1.0794%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T05:00:00.000Z",
-   "country": "JPY",
-   "title": "Coincident Index Prel",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "118.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T05:00:00.000Z",
-   "country": "JPY",
-   "title": "Leading Economic Index Prel",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "116.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T07:30:00.000Z",
-   "country": "EUR",
-   "title": "S&P Global Construction PMI",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "44.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T07:30:00.000Z",
-   "country": "CAD",
-   "title": "Early Close Bond Market",
-   "impact": "Low",
-   "forecast": "",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T08:00:00.000Z",
+   "date": "2026-09-11T06:00:00.000Z",
    "country": "GBP",
-   "title": "New Car Sales YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "11.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T08:30:00.000Z",
-   "country": "GBP",
-   "title": "DMP 3M Output Price Expectations",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T08:30:00.000Z",
-   "country": "GBP",
-   "title": "DMP 1Y CPI Expectations",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T08:30:00.000Z",
-   "country": "GBP",
-   "title": "S&P Global Construction PMI",
-   "impact": "Medium",
-   "forecast": "45.9",
-   "previous": "44.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T08:50:00.000Z",
-   "country": "GBP",
-   "title": "BoE Gov Bailey Speech",
+   "title": "Industrial Production MoM",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "-0.2",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T09:00:00.000Z",
-   "country": "EUR",
-   "title": "ECB Lane Speech",
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "GDP MoM",
+   "impact": "High",
+   "forecast": "",
+   "previous": "0.3",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Industrial Production YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "-0.2",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Retail Sales MoM",
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Construction Output YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-2.3",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Balance of Trade",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-5.537",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Manufacturing Production YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.5",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "GDP YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "1.1",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Manufacturing Production MoM",
    "impact": "Medium",
-   "forecast": "0.3%",
+   "forecast": "",
+   "previous": "-0.5",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Goods Trade Balance Non-EU",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "-10.45",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "GDP 3-Month Avg",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "0.4",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Goods Trade Balance",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "-23.01",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T07:00:00.000Z",
+   "country": "CNY",
+   "title": "Vehicle Sales YoY",
+   "impact": "Low",
+   "forecast": "",
    "previous": "-0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T09:00:00.000Z",
-   "country": "EUR",
-   "title": "Retail Sales YoY",
+   "date": "2026-09-11T07:00:00.000Z",
+   "country": "CHF",
+   "title": "Consumer Confidence",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "-35",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T11:00:00.000Z",
+   "country": "GBP",
+   "title": "NIESR Monthly GDP Tracker",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.7%",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Participation Rate",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "65.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Employment Change",
-   "impact": "Medium",
-   "forecast": "15.8",
-   "previous": "75.1",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Part Time Employment Chg",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "36.6",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
+   "date": "2026-09-11T12:30:00.000Z",
    "country": "USD",
-   "title": "Unemployment Rate",
+   "title": "Core Inflation Rate YoY",
    "impact": "High",
-   "forecast": "4.2%",
-   "previous": "4.1%",
+   "forecast": "",
+   "previous": "2.5",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Full Time Employment Chg",
+   "date": "2026-09-11T12:30:00.000Z",
+   "country": "USD",
+   "title": "CPI",
    "impact": "Medium",
    "forecast": "",
-   "previous": "38.6",
+   "previous": "333.92",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Unemployment Rate",
+   "date": "2026-09-11T12:30:00.000Z",
+   "country": "USD",
+   "title": "Core Inflation Rate MoM",
    "impact": "High",
-   "forecast": "6.4%",
-   "previous": "6.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Average Hourly Wages YoY",
-   "impact": "Low",
    "forecast": "",
-   "previous": "3%",
+   "previous": "0.2%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T12:30:00.000Z",
+   "date": "2026-09-11T12:30:00.000Z",
    "country": "USD",
-   "title": "Manufacturing Payrolls",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "USD",
-   "title": "Nonfarm Payrolls Private",
-   "impact": "Low",
-   "forecast": "50",
-   "previous": "30",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "USD",
-   "title": "Government Payrolls",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-53",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "USD",
-   "title": "U-6 Unemployment Rate",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "7.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "USD",
-   "title": "Average Weekly Hours",
-   "impact": "Low",
-   "forecast": "34.4",
-   "previous": "34.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "USD",
-   "title": "Average Hourly Earnings MoM",
-   "impact": "Medium",
-   "forecast": "0.2%",
-   "previous": "0.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "USD",
-   "title": "Average Hourly Earnings YoY",
+   "title": "CPI s.a",
    "impact": "Medium",
    "forecast": "",
-   "previous": "3.2%",
+   "previous": "332.81",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T12:30:00.000Z",
+   "date": "2026-09-11T12:30:00.000Z",
    "country": "USD",
-   "title": "Participation Rate",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "61.4%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-09-04T12:30:00.000Z",
-   "country": "USD",
-   "title": "Non Farm Payrolls",
+   "title": "Inflation Rate YoY",
    "impact": "High",
-   "forecast": "45",
-   "previous": "-23",
+   "forecast": "",
+   "previous": "3.4",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T14:00:00.000Z",
-   "country": "CAD",
-   "title": "Ivey PMI s.a",
+   "date": "2026-09-11T12:30:00.000Z",
+   "country": "USD",
+   "title": "Inflation Rate MoM",
    "impact": "High",
-   "forecast": "56.2",
-   "previous": "55.1",
+   "forecast": "",
+   "previous": "0.1",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T17:00:00.000Z",
+   "date": "2026-09-11T14:00:00.000Z",
+   "country": "USD",
+   "title": "Michigan Current Conditions Prel",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "51.9",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T14:00:00.000Z",
+   "country": "USD",
+   "title": "Michigan 5 Year Inflation Expectations Prel",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.3%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T14:00:00.000Z",
+   "country": "USD",
+   "title": "Michigan Consumer Sentiment Prel",
+   "impact": "High",
+   "forecast": "",
+   "previous": "51.7",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T14:00:00.000Z",
+   "country": "USD",
+   "title": "Michigan Inflation Expectations Prel",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T14:00:00.000Z",
+   "country": "USD",
+   "title": "Michigan Consumer Expectations Prel",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "51.5",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T16:00:00.000Z",
+   "country": "USD",
+   "title": "WASDE Report",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T17:00:00.000Z",
    "country": "USD",
    "title": "Baker Hughes Total Rigs Count",
    "impact": "Low",
    "forecast": "",
-   "previous": "588",
+   "previous": "",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-09-04T17:00:00.000Z",
+   "date": "2026-09-11T17:00:00.000Z",
    "country": "USD",
    "title": "Baker Hughes Oil Rig Count",
    "impact": "Low",
    "forecast": "",
-   "previous": "447",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-11T18:00:00.000Z",
+   "country": "USD",
+   "title": "Monthly Budget Statement",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-12T09:00:00.000Z",
+   "country": "CNY",
+   "title": "New Yuan Loans",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "-340 CNY",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-12T09:00:00.000Z",
+   "country": "CNY",
+   "title": "Total Social Financing",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "1410",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-12T09:00:00.000Z",
+   "country": "CNY",
+   "title": "Outstanding Loan Growth YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "5.1",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-09-12T09:00:00.000Z",
+   "country": "CNY",
+   "title": "M2 Money Supply YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "7.7",
    "actual": null,
    "quelle": "tradingview"
   }
@@ -3424,7 +3136,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-08-29T16:05:49.713Z",
+  "stand": "2026-08-30T05:02:56.899Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3497,11 +3209,10 @@ window.MAKRO_DATA = {
     "einheit": "$",
     "typ": "rohstoff",
     "wert": 83.4,
-    "tagProzent": -0.16,
-    "wocheProzent": -4.2,
+    "tagProzent": 0,
+    "wocheProzent": -1.89,
     "renditeDelta": false,
     "verlauf": [
-     83.59,
      84.67,
      80.34,
      75.77,
@@ -3522,6 +3233,7 @@ window.MAKRO_DATA = {
      82.36,
      82.23,
      83.53,
+     83.4,
      83.4
     ]
    },
@@ -3530,11 +3242,10 @@ window.MAKRO_DATA = {
     "einheit": "$",
     "typ": "rohstoff",
     "wert": 88.1,
-    "tagProzent": -1.78,
-    "wocheProzent": -6.66,
+    "tagProzent": 0,
+    "wocheProzent": -4.42,
     "renditeDelta": false,
     "verlauf": [
-     89.03,
      90.12,
      83.77,
      79.36,
@@ -3555,6 +3266,7 @@ window.MAKRO_DATA = {
      88.58,
      87.84,
      89.7,
+     88.1,
      88.1
     ]
    },
@@ -3563,11 +3275,10 @@ window.MAKRO_DATA = {
     "einheit": "$",
     "typ": "rohstoff",
     "wert": 4529.9,
-    "tagProzent": -1.73,
-    "wocheProzent": -2.04,
+    "tagProzent": 0,
+    "wocheProzent": -2.39,
     "renditeDelta": false,
     "verlauf": [
-     4100.1,
      4049.1,
      4033.7,
      4095.4,
@@ -3588,6 +3299,7 @@ window.MAKRO_DATA = {
      4638.1,
      4598.2,
      4609.7,
+     4529.9,
      4529.9
     ]
    },
@@ -3600,12 +3312,12 @@ window.MAKRO_DATA = {
     "wocheProzent": -0.21,
     "renditeDelta": true,
     "verlauf": [
-     4.13,
      4.288,
      4.15,
      4.15,
      4.15,
      4.15,
+     4.17,
      4.17,
      4.17,
      4.17,
@@ -3694,9 +3406,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 77916.05,
+    "wert": 78150,
     "tagProzent": 0,
-    "wocheProzent": -1.33,
+    "wocheProzent": -1.03,
     "renditeDelta": false,
     "verlauf": [
      64904.69,
@@ -3719,8 +3431,8 @@ window.MAKRO_DATA = {
      78564.98,
      79027.42,
      80257.54,
-     77916.05,
-     77916.05
+     78150,
+     78150
     ]
    },
    "FEDFUT": {
@@ -3728,12 +3440,11 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.78,
-    "tagProzent": 0.15,
+    "tagProzent": 0,
     "wocheProzent": 0.15,
     "renditeDelta": true,
     "verlauf": [
      3.63,
-     3.63,
      3.64,
      3.63,
      3.63,
@@ -3753,43 +3464,10 @@ window.MAKRO_DATA = {
      3.63,
      3.63,
      3.63,
+     3.78,
      3.78
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
-   },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.34,
-    "tagProzent": 0,
-    "wocheProzent": -0.01,
-    "renditeDelta": true,
-    "verlauf": [
-     2.41,
-     2.41,
-     2.47,
-     2.43,
-     2.4,
-     2.41,
-     2.43,
-     2.4,
-     2.43,
-     2.43,
-     2.42,
-     2.39,
-     2.41,
-     2.44,
-     2.41,
-     2.35,
-     2.35,
-     2.4,
-     2.38,
-     2.32,
-     2.34,
-     2.34
-    ],
-    "quelle": "FRED"
    },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
@@ -3822,6 +3500,40 @@ window.MAKRO_DATA = {
      2.32,
      2.33,
      2.31
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.34,
+    "tagProzent": 0,
+    "wocheProzent": -0.01,
+    "renditeDelta": true,
+    "verlauf": [
+     2.41,
+     2.41,
+     2.47,
+     2.43,
+     2.4,
+     2.41,
+     2.43,
+     2.4,
+     2.43,
+     2.43,
+     2.42,
+     2.39,
+     2.41,
+     2.44,
+     2.41,
+     2.35,
+     2.35,
+     2.4,
+     2.38,
+     2.32,
+     2.34,
+     2.34
     ],
     "quelle": "FRED"
    }
@@ -3917,39 +3629,39 @@ window.MAKRO_DATA = {
    }
   },
   "zinsen2j": {
-   "stand": "2026-08-29",
+   "stand": "2026-08-30",
    "werte": {
     "USD": {
      "wert": 4.36,
-     "wocheDelta": 0.172
+     "wocheDelta": 0.17
     },
     "EUR": {
      "wert": 2.892,
-     "wocheDelta": 0.037
+     "wocheDelta": 0.056
     },
     "GBP": {
      "wert": 4.425,
-     "wocheDelta": 0.06
+     "wocheDelta": 0.043
     },
     "JPY": {
      "wert": 1.704,
-     "wocheDelta": 0.032
+     "wocheDelta": 0.028
     },
     "AUD": {
      "wert": 4.718,
-     "wocheDelta": 0.124
+     "wocheDelta": 0.129
     },
     "CAD": {
      "wert": 3.008,
-     "wocheDelta": 0.031
+     "wocheDelta": -0.015
     },
     "CHF": {
      "wert": 0.088,
-     "wocheDelta": -0.009
+     "wocheDelta": -0.017
     },
     "NZD": {
      "wert": 3.63,
-     "wocheDelta": 0.077
+     "wocheDelta": 0.032
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3977,9 +3689,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": -2,
    "tiltCot": -3,
-   "tiltZins": -4,
-   "tiltGesamt": -7,
-   "score": -9,
+   "tiltZins": -5,
+   "tiltGesamt": -8,
+   "score": -10,
    "cotExtrem": null,
    "treiber": "Pfund ohne Treiber (Dienstleistungs-Inflation kühlt), Dollar mit leichtem Zins-Vorsprung.",
    "istCross": false
@@ -4010,9 +3722,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -1,
    "tiltCot": 5,
-   "tiltZins": 6,
-   "tiltGesamt": 11,
-   "score": 10,
+   "tiltZins": 7,
+   "tiltGesamt": 12,
+   "score": 11,
    "cotExtrem": null,
    "treiber": "Kanada-BIP-Beat + falkenhafte BoC + extreme Short-Positionierung (Squeeze) geben dem Loonie einen kleinen Vorteil trotz billigem Öl.",
    "istCross": false
@@ -4032,9 +3744,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -2,
    "tiltCot": -3,
-   "tiltZins": -4,
-   "tiltGesamt": -7,
-   "score": -9,
+   "tiltZins": -6,
+   "tiltGesamt": -9,
+   "score": -11,
    "cotExtrem": null,
    "treiber": "Kiwi ohne eigene Geschichte trifft auf den leichten Dollar-Zinsvorsprung.",
    "istCross": false
@@ -4065,9 +3777,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 5,
    "tiltCot": 1,
-   "tiltZins": 2,
-   "tiltGesamt": 3,
-   "score": 8,
+   "tiltZins": 4,
+   "tiltGesamt": 5,
+   "score": 10,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -4076,16 +3788,16 @@ window.MAKRO_DATA = {
    "paar": "EUR/CHF",
    "baseScore": 4,
    "tiltCot": 3,
-   "tiltZins": 2,
-   "tiltGesamt": 5,
-   "score": 9,
+   "tiltZins": 3,
+   "tiltGesamt": 6,
+   "score": 10,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-08-30T05:02:35.649Z",
+  "stand": "2026-08-30T05:02:57.521Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 50,
   "gewertet": 23,
@@ -4193,7 +3905,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-08-29T16:05:51.023Z",
+  "stand": "2026-08-30T05:02:58.675Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4423,7 +4135,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-08-29T16:05:50.483Z",
+  "stand": "2026-08-30T05:02:57.515Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -5603,5 +5315,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 1049
+ "anzahlGespeichert": 1159
 };

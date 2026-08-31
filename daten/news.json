@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-31T12:17:58.049Z",
+  "stand": "2026-08-31T18:39:18.003Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,15 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve: Warsh’s hawkish shift reshapes rate outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-warshs-hawkish-shift-reshapes-rate-outlook-rabobank-202608311210",
-      "datum": "2026-08-31T12:10:04.000Z"
+      "titel": "Gold slips as Warsh Fed hike bets, Oil rally lift US yields",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-warsh-fed-hike-bets-oil-rally-lift-us-yields-202608311836",
+      "datum": "2026-08-31T18:36:48.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Germany flash HICP growth remains slower than expected at 2.9% in August",
-      "link": "https://www.fxstreet.com/news/germany-flash-hicp-growth-remains-slower-than-expected-at-29-in-august-202608311202",
-      "datum": "2026-08-31T12:02:40.000Z"
+      "titel": "Silver Price Forecast: XAG/USD consolidates below 100-Day SMA as momentum fades",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-below-100-day-sma-as-momentum-fades-202608311821",
+      "datum": "2026-08-31T18:21:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar holds firm amid hawkish Fed and RBA expectations",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-amid-hawkish-fed-and-rba-expectations-202608311753",
+      "datum": "2026-08-31T17:53:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Limited downside, range defined against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-limited-downside-range-defined-against-us-dollar-scotiabank-202608311751",
+      "datum": "2026-08-31T17:51:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Attention shifts to US ISM, JOLTS and inflation in Europe",
+      "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-us-ism-jolts-and-inflation-in-europe-202608311749",
+      "datum": "2026-08-31T17:49:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound edges higher as USD softens ahead US jobs data",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-usd-softens-ahead-us-jobs-data-202608311634",
+      "datum": "2026-08-31T16:34:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dollar Index falls through a war and a hawkish repricing",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-falls-through-a-war-and-a-hawkish-repricing-202608311630",
+      "datum": "2026-08-31T16:30:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Crude Oil prices the mines, not the barrels",
+      "link": "https://www.fxstreet.com/news/crude-oil-prices-the-mines-not-the-barrels-202608311606",
+      "datum": "2026-08-31T16:06:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones Industrial Average is short its own war",
+      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-is-short-its-own-war-202608311552",
+      "datum": "2026-08-31T15:52:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen advances as Bessent expects further strengthening",
+      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-bessent-expects-further-strengthening-202608311548",
+      "datum": "2026-08-31T15:48:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Uneven recovery and property reform support – BNY",
+      "link": "https://www.fxstreet.com/news/china-uneven-recovery-and-property-reform-support-bny-202608311507",
+      "datum": "2026-08-31T15:07:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Treas Sec Bessent: Oil price are going to come down. US 10 year yield is where it was when Pres. Trump took office.",
+      "link": "https://investinglive.com/news/treas-sec-bessent-oil-price-are-going-to-come-down/",
+      "datum": "2026-08-31T14:36:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Treas. Sec Bessent at the G20: Iran taking sanctions seriously",
+      "link": "https://investinglive.com/news/treas-sec-bessent-at-the-g20-iran-taking-sanctions-seriously/",
+      "datum": "2026-08-31T13:14:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Iran has no Navy and Air Force.",
+      "link": "https://investinglive.com/news/trump-iran-has-no-navy-and-air-force/",
+      "datum": "2026-08-31T12:32:50.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -32,87 +104,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: ECB tightening expectations support pair – BBH",
-      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-expectations-support-pair-bbh-202608311147",
-      "datum": "2026-08-31T11:47:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: Faces selling pressure above 160.00",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-faces-selling-pressure-above-16000-202608311143",
-      "datum": "2026-08-31T11:43:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro languishes around 1.1600 amid Fed hiking hopes, fresh tensions in Iran",
-      "link": "https://www.fxstreet.com/news/euro-languages-around-11600-amid-fed-hiking-hopes-fresh-tensions-in-iran-202608311134",
-      "datum": "2026-08-31T11:34:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold holds near $4,450 as Fed rate-hike expectations keep buyers cautious",
+      "titel": "Gold consolidates after sharp decline as higher-for-longer Fed outlook weighs",
       "link": "https://www.fxstreet.com/news/gold-holds-near-4-450-as-fed-rate-hike-expectations-keep-buyers-cautious-202608311131",
       "datum": "2026-08-31T11:31:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: BoC dovish tone and tariff risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-dovish-tone-and-tariff-risks-td-securities-202608311130",
-      "datum": "2026-08-31T11:30:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar holds above 0.5900 as traders await RBNZ decision",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-above-05900-as-traders-await-rbnz-decision-202608311117",
-      "datum": "2026-08-31T11:17:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Jobs data to test hawkish Fed repricing - BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-jobs-data-to-test-hawkish-fed-repricing-bny-202608311115",
-      "datum": "2026-08-31T11:15:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD steadies near $4,400 lows amid rising Fed tightening bets",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-steadies-near-4400-lows-amid-rising-fed-tightening-bets-202608311059",
-      "datum": "2026-08-31T10:59:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Finds ground slightly below 20-day EMA",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-finds-ground-slightly-below-20-day-ema-202608311041",
-      "datum": "2026-08-31T10:41:12.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "German states see higher inflation prints in August",
       "link": "https://investinglive.com/news/german-states-see-higher-inflation-prints-in-august/",
       "datum": "2026-08-31T08:06:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-31/",
-      "datum": "2026-08-31T06:21:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee faces headwinds from Middle East risks, hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525",
-      "datum": "2026-08-31T05:25:47.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "IRGC claims that a supertanker has caught fire after being struck by naval mines in Strait of Hormuz",
-      "link": "https://investinglive.com/news/irgc-claims-that-a-supertanker-has-caught-fire-after-being-struck-by-naval-mines-in-strait-of-hormuz/",
-      "datum": "2026-08-31T04:35:18.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran says US must bear full responsibility for consequences of escalation",
-      "link": "https://investinglive.com/news/iran-says-us-must-bear-full-responsibility-for-consequences-of-escalation/",
-      "datum": "2026-08-31T04:28:09.000Z"
     }
   ]
 }

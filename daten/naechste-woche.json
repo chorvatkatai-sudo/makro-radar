@@ -1222,16 +1222,6 @@
   {
     "date": "2026-09-11T06:00:00.000Z",
     "country": "GBP",
-    "title": "GDP 3-Month Avg",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "0.4",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-11T06:00:00.000Z",
-    "country": "GBP",
     "title": "Manufacturing Production MoM",
     "impact": "Medium",
     "forecast": "",
@@ -1246,6 +1236,16 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "-10.45",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-11T06:00:00.000Z",
+    "country": "GBP",
+    "title": "GDP 3-Month Avg",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "0.4",
     "actual": null,
     "quelle": "tradingview"
   },

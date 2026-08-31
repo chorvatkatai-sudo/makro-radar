@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-31T05:04:31.386Z",
+  "stand": "2026-08-31T10:24:13.681Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,39 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "WTI rises to near $84.50 as IRGC claims supertanker struck by mines in Hormuz",
-      "link": "https://www.fxstreet.com/news/wti-rises-to-near-8450-as-irgc-claims-supertanker-struck-by-mines-in-hormuz-202608310502",
-      "datum": "2026-08-31T05:02:47.000Z"
+      "titel": "WTI Oil appreciates beyond $85.50 as tensions rise in Iran",
+      "link": "https://www.fxstreet.com/news/wti-oil-appreciates-beyond-8550-as-tensions-rise-in-iran-202608311008",
+      "datum": "2026-08-31T10:08:51.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Holds above 0.7150 on soft USD; Fed/Iran risks curb upside",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-above-07150-on-soft-usd-fed-iran-risks-curb-upside-202608310502",
-      "datum": "2026-08-31T05:02:32.000Z"
+      "titel": "US Dollar: Warsh speech keeps rate hike debate open – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-speech-keeps-rate-hike-debate-open-commerzbank-202608311005",
+      "datum": "2026-08-31T10:05:52.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold drops to nearly two-week low as hawkish Fed bets rise amid oil-driven inflation fears",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-nearly-two-week-low-as-hawkish-fed-bets-rise-amid-oil-driven-inflation-fears-202608310440",
-      "datum": "2026-08-31T04:40:55.000Z"
+      "titel": "Australian Dollar edges lower as mixed Chinese PMIs fail to impress",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-mixed-chinese-pmis-fail-to-impress-202608310948",
+      "datum": "2026-08-31T09:48:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608310435",
-      "datum": "2026-08-31T04:35:31.000Z"
+      "titel": "New Zealand Dollar: RBNZ seen hiking in September – UOB",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-seen-hiking-in-september-uob-202608310940",
+      "datum": "2026-08-31T09:40:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asia FX: Fed repricing pressures regional currencies – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-fed-repricing-pressures-regional-currencies-mufg-202608310932",
+      "datum": "2026-08-31T09:32:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608310930",
+      "datum": "2026-08-31T09:30:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Remains below nine-day EMA near 185.50",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-remains-below-nine-day-ema-near-18550-202608310921",
+      "datum": "2026-08-31T09:21:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar : Modest downside on trade risks and yields – HSBC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-modest-downside-on-trade-risks-and-yields-hsbc-202608310919",
+      "datum": "2026-08-31T09:19:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Hawkish Fed pricing supports Dollar into payrolls – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-pricing-supports-dollar-into-payrolls-bbh-202608310904",
+      "datum": "2026-08-31T09:04:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar Index Price Forecast: DXY fails near 100-SMA/38.2% Fibo. confluence around 99.75",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-fails-near-100-sma-382-fibo-confluence-around-9975-202608310900",
+      "datum": "2026-08-31T09:00:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-us-dollar-keeps-crawling-towards-the-key-16000-area-202608310857",
+      "datum": "2026-08-31T08:57:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "German states see higher inflation prints in August",
+      "link": "https://investinglive.com/news/german-states-see-higher-inflation-prints-in-august/",
+      "datum": "2026-08-31T08:06:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-31/",
+      "datum": "2026-08-31T06:21:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee drops amid renewed Middle East tensions, hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525",
+      "datum": "2026-08-31T05:25:47.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "IRGC claims that a supertanker has caught fire after being struck by naval mines in Strait of Hormuz",
       "link": "https://investinglive.com/news/irgc-claims-that-a-supertanker-has-caught-fire-after-being-struck-by-naval-mines-in-strait-of-hormuz/",
       "datum": "2026-08-31T04:35:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Declines to near 114.50, but maintains bullish tone above 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-declines-to-near-11450-but-maintains-bullish-tone-above-100-day-sma-202608310429",
-      "datum": "2026-08-31T04:29:50.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -55,64 +109,10 @@
       "datum": "2026-08-31T04:20:53.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc gains as US Dollar weakens despite Fed Chair Warsh’s hawkish remarks",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-weakens-despite-fed-chair-warshs-hawkish-remarks-202608310411",
-      "datum": "2026-08-31T04:11:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index trades slightly lower at the start of the US NFP week",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-slightly-lower-at-the-start-of-the-us-nfp-week-202608310351",
-      "datum": "2026-08-31T03:51:30.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Oil jumps, renewed Iran - US strikes",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-jumps-renewed-iran-us-strikes/",
       "datum": "2026-08-31T03:47:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Labour market watch – NBC Economics and Strategy",
-      "link": "https://www.fxstreet.com/news/united-states-labour-market-and-pce-inflation-watch-nbc-economics-and-strategy-202608310338",
-      "datum": "2026-08-31T03:38:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar: Rebound needs stronger payrolls data – TD Cowen",
-      "link": "https://www.fxstreet.com/news/dollar-rebound-needs-stronger-data-td-cowen-202608310332",
-      "datum": "2026-08-31T03:32:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD falls to near $66.00 amid Fed Chair Warsh’s hawkish tone",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6600-amid-fed-chair-warshs-hawkish-tone-202608310309",
-      "datum": "2026-08-31T03:09:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar eases from July 9 high vs New Zealand Dollar; awaits Aussie GDP and RBNZ",
-      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-july-9-high-vs-new-zealand-dollar-awaits-aussie-gdp-and-rbnz-202608310247",
-      "datum": "2026-08-31T02:47:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar strengthens despite hawkish Fed rhetoric",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-despite-hawkish-fed-rhetoric-202608310235",
-      "datum": "2026-08-31T02:35:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China factory activity beats forecasts but stays in contraction in August",
-      "link": "https://investinglive.com/news/china-factory-activity-beats-forecasts-but-stays-in-contraction-in-august/",
-      "datum": "2026-08-31T01:56:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australian inventory data for Q2 will be a drag on GDP growth",
-      "link": "https://investinglive.com/news/australian-inventory-data-for-q2-will-be-a-drag-on-gdp-growth/",
-      "datum": "2026-08-31T01:47:11.000Z"
     }
   ]
 }

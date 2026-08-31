@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-31T10:24:13.682Z",
+  "stand": "2026-08-31T12:17:58.051Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 4,
       "tiltCot": 3,
-      "tiltZins": 1,
-      "tiltGesamt": 4,
-      "score": 8,
+      "tiltZins": 2,
+      "tiltGesamt": 5,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Yen-Schwäche ist der Motor (40-Jahres-Tief, Mini-Zins) — festerer Dollar hilft. Aber Interventionsrisiko deckelt nach oben.",
       "istCross": false
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 4,
       "tiltCot": 3,
-      "tiltZins": 1,
-      "tiltGesamt": 4,
-      "score": 8,
+      "tiltZins": 0,
+      "tiltGesamt": 3,
+      "score": 7,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

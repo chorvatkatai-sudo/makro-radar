@@ -822,6 +822,36 @@
   {
     "date": "2026-09-10T12:30:00.000Z",
     "country": "USD",
+    "title": "PPI Ex Food, Energy and Trade MoM",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.4",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-10T12:30:00.000Z",
+    "country": "USD",
+    "title": "PPI",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "156.563",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-10T12:30:00.000Z",
+    "country": "USD",
+    "title": "PPI YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.7",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-10T12:30:00.000Z",
+    "country": "USD",
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
@@ -852,40 +882,10 @@
   {
     "date": "2026-09-10T12:30:00.000Z",
     "country": "USD",
-    "title": "PPI",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "156.563",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-10T12:30:00.000Z",
-    "country": "USD",
-    "title": "PPI Ex Food, Energy and Trade MoM",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.4",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-10T12:30:00.000Z",
-    "country": "USD",
     "title": "Core PPI YoY",
     "impact": "Low",
     "forecast": "",
     "previous": "4.2",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-10T12:30:00.000Z",
-    "country": "USD",
-    "title": "PPI YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.7",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1222,6 +1222,16 @@
   {
     "date": "2026-09-11T06:00:00.000Z",
     "country": "GBP",
+    "title": "GDP 3-Month Avg",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "0.4",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-11T06:00:00.000Z",
+    "country": "GBP",
     "title": "Manufacturing Production MoM",
     "impact": "Medium",
     "forecast": "",
@@ -1236,16 +1246,6 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "-10.45",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-11T06:00:00.000Z",
-    "country": "GBP",
-    "title": "GDP 3-Month Avg",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "0.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1352,10 +1352,10 @@
   {
     "date": "2026-09-11T14:00:00.000Z",
     "country": "USD",
-    "title": "Michigan Current Conditions Prel",
+    "title": "Michigan Inflation Expectations Prel",
     "impact": "Low",
     "forecast": "",
-    "previous": "51.9",
+    "previous": "4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1382,20 +1382,20 @@
   {
     "date": "2026-09-11T14:00:00.000Z",
     "country": "USD",
-    "title": "Michigan Inflation Expectations Prel",
+    "title": "Michigan Consumer Expectations Prel",
     "impact": "Low",
     "forecast": "",
-    "previous": "4%",
+    "previous": "51.5",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-11T14:00:00.000Z",
     "country": "USD",
-    "title": "Michigan Consumer Expectations Prel",
+    "title": "Michigan Current Conditions Prel",
     "impact": "Low",
     "forecast": "",
-    "previous": "51.5",
+    "previous": "51.9",
     "actual": null,
     "quelle": "tradingview"
   },

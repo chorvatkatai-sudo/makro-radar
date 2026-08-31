@@ -11347,7 +11347,7 @@
       "titel": "Spanish 10-y Bond Auction",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "3.54|2.4",
       "actual": null,
       "notiz": null
     },
@@ -11357,7 +11357,7 @@
       "titel": "French 10-y Bond Auction",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "3.86|3.7",
       "actual": null,
       "notiz": null
     },
@@ -11588,6 +11588,26 @@
       "impact": "Medium",
       "prognose": "56.2",
       "vorher": "55.1",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-03T15:00:00-04:00|USD|FOMC Member Hammack Speaks": {
+      "datum": "2026-09-03T15:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Hammack Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-03T15:05:00-04:00|USD|FOMC Member Goolsbee Speaks": {
+      "datum": "2026-09-03T15:05:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

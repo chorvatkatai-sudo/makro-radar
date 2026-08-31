@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-31T18:39:18.005Z",
+  "stand": "2026-08-31T23:31:19.227Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -3,
-      "tiltZins": -3,
-      "tiltGesamt": -6,
-      "score": -8,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Kiwi ohne eigene Geschichte trifft auf den leichten Dollar-Zinsvorsprung.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 5,
       "tiltCot": 1,
-      "tiltZins": 6,
-      "tiltGesamt": 7,
-      "score": 12,
+      "tiltZins": 5,
+      "tiltGesamt": 6,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

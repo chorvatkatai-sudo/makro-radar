@@ -11116,7 +11116,7 @@
       "land": "USD",
       "titel": "ADP Non-Farm Employment Change",
       "impact": "Medium",
-      "prognose": "48K",
+      "prognose": "47K",
       "vorher": "44K",
       "actual": null,
       "notiz": null
@@ -11166,7 +11166,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "0.0M",
+      "prognose": "-0.4M",
       "vorher": "0.1M",
       "actual": null,
       "notiz": null
@@ -11466,7 +11466,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "30B",
       "vorher": "15B",
       "actual": null,
       "notiz": null
@@ -11658,6 +11658,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "2.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-01T08:30:00-04:00|EUR|German Buba President Nagel Speaks": {
+      "datum": "2026-09-01T08:30:00-04:00",
+      "land": "EUR",
+      "titel": "German Buba President Nagel Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

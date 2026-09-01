@@ -11630,6 +11630,26 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-01T10:04:00-04:00|USD|RCM/TIPP Economic Optimism": {
+      "datum": "2026-09-01T10:04:00-04:00",
+      "land": "USD",
+      "titel": "RCM/TIPP Economic Optimism",
+      "impact": "Low",
+      "prognose": "46.2",
+      "vorher": "45.1",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-01T10:51:00-04:00|NZD|GDT Price Index": {
+      "datum": "2026-09-01T10:51:00-04:00",
+      "land": "NZD",
+      "titel": "GDT Price Index",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "2.3%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

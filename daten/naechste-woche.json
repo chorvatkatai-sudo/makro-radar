@@ -284,7 +284,7 @@
     "country": "AUD",
     "title": "Building Permits MoM Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-3.6%",
     "previous": "6.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -294,7 +294,7 @@
     "country": "AUD",
     "title": "Building Permits YoY Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "9%",
     "previous": "9.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -314,8 +314,8 @@
     "country": "AUD",
     "title": "Private House Approvals MoM Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.4",
+    "forecast": "-4.2%",
+    "previous": "0.8%",
     "actual": null,
     "quelle": "tradingview"
   },

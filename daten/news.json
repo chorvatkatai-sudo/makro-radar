@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-01T05:03:55.992Z",
+  "stand": "2026-09-01T09:06:10.990Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Climbs above $86.00 as 100-day SMA breakout comes into play",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-climbs-above-8600-as-100-day-sma-breakout-comes-into-play-202609010457",
-      "datum": "2026-09-01T04:57:36.000Z"
+      "titel": "US Dollar Index Price Forecast: DXY eyes 99.75 confluence hurdle amid Fed bets, Iran risks",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-eyes-9975-confluence-hurdle-amid-fed-bets-iran-risks-202609010904",
+      "datum": "2026-09-01T09:04:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Eurozone flash HICP rises 3.3% YoY in August, as expected",
+      "link": "https://www.fxstreet.com/news/eurozone-flash-hicp-rises-33-yoy-in-august-as-expected-202609010902",
+      "datum": "2026-09-01T09:02:26.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Heads up: Eurozone inflation figures for August due later today",
-      "link": "https://investinglive.com/news/heads-up-eurozone-inflation-figures-for-august-due-later-today/",
-      "datum": "2026-09-01T04:57:01.000Z"
+      "titel": "Italy August preliminary CPI +3.3% vs +3.3% y/y expected",
+      "link": "https://investinglive.com/news/italy-august-preliminary-cpi-xx-vs-3-3-y-y-expected/",
+      "datum": "2026-09-01T09:01:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: RBI tightening path seen shallow – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-tightening-path-seen-shallow-standard-chartered-202609010900",
+      "datum": "2026-09-01T09:00:10.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Bessent remarks show that US intervention comes at a price for Japan",
-      "link": "https://investinglive.com/news/bessent-remarks-show-that-us-intervention-comes-at-a-price-for-japan/",
-      "datum": "2026-09-01T04:40:06.000Z"
+      "titel": "Eurozone August preliminary CPI +3.3% vs +3.3% y/y expected",
+      "link": "https://investinglive.com/news/eurozone-august-preliminary-cpi-3-3-vs-3-3-y-y-expected/",
+      "datum": "2026-09-01T09:00:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609010435",
-      "datum": "2026-09-01T04:35:46.000Z"
+      "titel": "ISM Manufacturing PMI set to signal steady expansion in US factory activity",
+      "link": "https://www.fxstreet.com/news/ism-manufacturing-pmi-set-to-signal-steady-expansion-in-us-factory-activity-202609010900",
+      "datum": "2026-09-01T09:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen weakens as 10-year bond yield hits 3% for first time since 1996",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-10-year-bond-yield-hits-3-for-first-time-since-1996-202609010421",
-      "datum": "2026-09-01T04:21:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro struggles near 1.1600 amid firm USD; looks to Eurozone HICP for some impetus",
-      "link": "https://www.fxstreet.com/news/euro-struggles-near-11600-amid-firm-usd-looks-to-eurozone-hicp-for-some-impetus-202609010418",
-      "datum": "2026-09-01T04:18:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Strengthens above 114.50 as bullish technical setup holds",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11450-as-bullish-technical-setup-holds-202609010358",
-      "datum": "2026-09-01T03:58:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold declines as rising Fed hike bets and US‑Iran tensions support USD",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-rising-fed-hike-bets-and-us-iran-tensions-support-usd-202609010350",
-      "datum": "2026-09-01T03:50:29.000Z"
+      "titel": "US Dollar: Fed restraint supports gains against peers – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-restraint-supports-gains-against-peers-ocbc-202609010851",
+      "datum": "2026-09-01T08:51:52.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil steady near highs, gold flat",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-steady-near-highs-gold-flat/",
-      "datum": "2026-09-01T03:43:06.000Z"
+      "titel": "UK mortgage borrowing slows in July, though consumer borrowing continues to hold up",
+      "link": "https://investinglive.com/news/uk-mortgage-borrowing-slows-in-july-though-consumer-borrowing-continues-to-hold-up/",
+      "datum": "2026-09-01T08:39:32.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Hovers around 185.50 near nine-day EMA support",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-hovers-around-18550-near-nine-day-ema-support-202609010336",
-      "datum": "2026-09-01T03:36:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japan’s MOF official says expects BoJ to steer policy aligned with economy, not influenced by US",
-      "link": "https://www.fxstreet.com/news/japans-mof-official-says-expects-boj-to-steer-policy-aligned-with-economy-not-influenced-by-us-202609010325",
-      "datum": "2026-09-01T03:25:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD trades flat around $66.60 ahead of US data",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-flat-around-6660-ahead-of-us-data-202609010317",
-      "datum": "2026-09-01T03:17:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar remains subdued despite stronger Chinese PMI data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-despite-stronger-chinese-pmi-data-202609010245",
-      "datum": "2026-09-01T02:45:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japan’s Katayama: Confirmed with Bessent that continued, coordinated action on FX is needed",
-      "link": "https://www.fxstreet.com/news/japans-katayama-confirmed-with-bessent-that-continued-coordinated-action-on-fx-is-needed-202609010217",
-      "datum": "2026-09-01T02:17:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar holds gains following stronger Chinese PMI data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-on-stronger-chinese-pmi-data-202609010208",
-      "datum": "2026-09-01T02:08:58.000Z"
+      "titel": "Brent: Uptrend eyes 102 and 110 – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brent-uptrend-eyes-102-and-110-societe-generale-202609010831",
+      "datum": "2026-09-01T08:31:47.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "China private PMI beats forecast, longest upturn in five years. AUD support.",
-      "link": "https://investinglive.com/news/china-private-pmi-beats-forecast-longest-upturn-in-five-years-aud-support/",
-      "datum": "2026-09-01T01:58:58.000Z"
+      "titel": "UK August final manufacturing PMI 51.7 vs 51.5 prelim",
+      "link": "https://investinglive.com/news/uk-august-final-manufacturing-pmi-xx-vs-51-5-prelim/",
+      "datum": "2026-09-01T08:30:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound edges higher as fiscal risks and rate gap weigh on Yen",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-fiscal-risks-and-rate-gap-weigh-on-yen-202609010821",
+      "datum": "2026-09-01T08:21:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro edges down against Japanese Yen ahead of Eurozone HICP data",
+      "link": "https://www.fxstreet.com/news/euro-edges-down-against-japanese-yen-ahead-of-eurozone-hicp-data-202609010814",
+      "datum": "2026-09-01T08:14:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar: RBNZ hike seen with dovish risks – ING",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-hike-seen-with-dovish-risks-ing-202609010807",
+      "datum": "2026-09-01T08:07:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Focus shifts to Eurozone inflation and mid-tier US data releases",
+      "link": "https://www.fxstreet.com/news/forex-today-focus-shifts-to-eurozone-inflation-and-mid-tier-us-data-releases-202609010802",
+      "datum": "2026-09-01T08:02:15.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "China data: RatingDog Manufacturing PMI (August 2026) 51.5 vs. expected 50.9, prior 50.9",
-      "link": "https://investinglive.com/news/china-data-ratingdog-manufacturing-pmi-august-2026-vs-expected-50-9-prior-50-9/",
-      "datum": "2026-09-01T01:45:12.000Z"
+      "titel": "Euro area factory growth continues to expand in August, driven by Germany - PMI data",
+      "link": "https://investinglive.com/news/euro-area-factory-growth-continues-to-expand-in-august-driven-by-germany-pmi-data/",
+      "datum": "2026-09-01T08:00:19.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Japan manufacturing PMI hits 54.9 as new orders surge most since 2018",
-      "link": "https://investinglive.com/news/japan-manufacturing-pmi-hits-54-9-as-new-orders-surge-most-since-2018/",
-      "datum": "2026-09-01T00:40:51.000Z"
+      "titel": "Germany August final manufacturing PMI 54.3 vs 54.1 prelim",
+      "link": "https://investinglive.com/news/germany-august-final-manufacturing-pmi-xx-vs-54-1-prelim/",
+      "datum": "2026-09-01T07:55:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Short-term pullback within broader uptrend against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-pullback-within-broader-uptrend-against-us-dollar-uob-202609010753",
+      "datum": "2026-09-01T07:53:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France manufacturing confirmed to pick up a little in August - PMI data",
+      "link": "https://investinglive.com/news/france-manufacturing-confirmed-to-pick-up-a-little-in-august-pmi-data/",
+      "datum": "2026-09-01T07:50:25.000Z"
     }
   ]
 }

@@ -10707,7 +10707,7 @@
       "titel": "German Retail Sales m/m",
       "impact": "Low",
       "prognose": "0.4%",
-      "vorher": "-1.1%",
+      "vorher": "-0.7%",
       "actual": null,
       "notiz": null
     },
@@ -11606,6 +11606,26 @@
       "land": "USD",
       "titel": "FOMC Member Goolsbee Speaks",
       "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-01T02:33:00-04:00|CHF|Retail Sales y/y": {
+      "datum": "2026-09-01T02:33:00-04:00",
+      "land": "CHF",
+      "titel": "Retail Sales y/y",
+      "impact": "Low",
+      "prognose": "1.6%",
+      "vorher": "1.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-02T16:10:00-04:00|NZD|RBNZ Gov Breman Speaks": {
+      "datum": "2026-09-02T16:10:00-04:00",
+      "land": "NZD",
+      "titel": "RBNZ Gov Breman Speaks",
+      "impact": "Medium",
       "prognose": "",
       "vorher": "",
       "actual": null,

@@ -1,11 +1,35 @@
 {
-  "stand": "2026-09-01T15:20:35.709Z",
+  "stand": "2026-09-01T15:58:06.388Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasury Secretary Bessent backs Japan's steps, presses G20 on Iran",
+      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-japans-steps-presses-g20-on-iran-202609011545",
+      "datum": "2026-09-01T15:45:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar trades cautiously as Fed and RBA rate hike bets clash",
+      "link": "https://www.fxstreet.com/news/australian-dollar-trades-cautiously-as-fed-and-rba-rate-hike-bets-clash-202609011544",
+      "datum": "2026-09-01T15:44:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: Coalition risks and reform hurdles – Commerzbank",
+      "link": "https://www.fxstreet.com/news/germany-coalition-risks-and-reform-hurdles-commerzbank-202609011538",
+      "datum": "2026-09-01T15:38:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound stalls as mixed US data keeps Fed hawkish bets alive",
+      "link": "https://www.fxstreet.com/news/british-pound-stalls-as-mixed-us-data-keeps-fed-hawkish-bets-alive-202609011533",
+      "datum": "2026-09-01T15:33:09.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "United Kingdom: Growth cools as inflation risks build – Deutsche Bank",
@@ -67,34 +91,10 @@
       "datum": "2026-09-01T13:56:54.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen weakens as Japan’s 10-year yield hits 3% for first time since 1996",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-japans-10-year-yield-hits-3-for-first-time-since-1996-202609011347",
-      "datum": "2026-09-01T13:47:50.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "S&P global manufacturing PMI final for August 53.9 versus 53.2 preliminary",
       "link": "https://investinglive.com/news/s-p-global-manufacturing-pmi-final-for-august-53-9-versus-53-2-preliminary/",
       "datum": "2026-09-01T13:47:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro area: Inflation jump supports ECB hike – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-area-inflation-jump-supports-ecb-hike-commerzbank-202609011333",
-      "datum": "2026-09-01T13:33:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Barr keeps rate hike on the table as inflation persists",
-      "link": "https://www.fxstreet.com/news/feds-barr-keeps-rate-hike-on-the-table-as-inflation-persists-202609011324",
-      "datum": "2026-09-01T13:24:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: Pair extends recovery above key moving averages",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-extends-recovery-above-key-moving-averages-202609011321",
-      "datum": "2026-09-01T13:21:59.000Z"
     },
     {
       "quelle": "ForexLive",

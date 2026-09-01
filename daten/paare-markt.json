@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-01T15:20:35.710Z",
+  "stand": "2026-09-01T15:58:06.390Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -3,
-      "tiltZins": 4,
-      "tiltGesamt": 1,
-      "score": -1,
+      "tiltZins": 5,
+      "tiltGesamt": 2,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Pfund ohne Treiber (Dienstleistungs-Inflation kühlt), Dollar mit leichtem Zins-Vorsprung.",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": 3,
-      "tiltGesamt": 0,
-      "score": 4,
+      "tiltZins": 4,
+      "tiltGesamt": 1,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "Heiße Aussie-Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie vom Dollar-Block nach oben.",
       "istCross": false
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 4,
       "tiltCot": 3,
-      "tiltZins": 3,
-      "tiltGesamt": 6,
-      "score": 10,
+      "tiltZins": 4,
+      "tiltGesamt": 7,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

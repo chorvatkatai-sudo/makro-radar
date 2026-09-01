@@ -392,20 +392,20 @@
     "previous": "16.3M"
   },
   {
-    "title": "GDT Price Index",
-    "country": "NZD",
-    "date": "2026-09-01T10:51:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2.3%"
-  },
-  {
     "title": "G20 Meetings",
     "country": "All",
     "date": "2026-09-01T11:15:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "date": "2026-09-01T11:25:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2.3%"
   },
   {
     "title": "API Weekly Statistical Bulletin",
@@ -540,7 +540,7 @@
     "country": "USD",
     "date": "2026-09-02T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.0M",
     "previous": "0.1M"
   },
   {

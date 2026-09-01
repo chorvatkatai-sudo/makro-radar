@@ -1,11 +1,77 @@
 {
-  "stand": "2026-09-01T19:04:15.345Z",
+  "stand": "2026-09-01T22:14:44.413Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-200-day-sma-caps-euro-as-dollar-firms-202609012204",
+      "datum": "2026-09-01T22:04:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "RBNZ set to raise interest rate to 2.75%",
+      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200",
+      "datum": "2026-09-01T22:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India: Growth and inflation forecasts revised higher – UOB",
+      "link": "https://www.fxstreet.com/news/india-growth-and-inflation-forecasts-revised-higher-uob-202609012141",
+      "datum": "2026-09-01T21:41:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 1 Sept: It's a wrap but not for the Iran War. Fighting resumes.",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-1-sept-it-s-a-wrap-but-not-for-the-iran-war-fighting-resumes/",
+      "datum": "2026-09-01T21:12:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asia FX: KRW and MYR lead firmer profile vs USD – OCBC",
+      "link": "https://www.fxstreet.com/news/asia-fx-krw-and-myr-lead-firmer-profile-vs-usd-ocbc-202609012058",
+      "datum": "2026-09-01T20:58:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Volatility widens range-trading band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-volatility-widens-range-trading-band-against-us-dollar-uob-202609012023",
+      "datum": "2026-09-01T20:23:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Wednesday, September 2, 2026 - RBZN rate hike expected",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-2-2026-rbzn-rate-hike-expected/",
+      "datum": "2026-09-01T20:18:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso holds near 17.00 as US-Iran strikes weigh on Peso",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-near-1700-as-us-iran-strikes-hit-peso-202609012012",
+      "datum": "2026-09-01T20:12:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India: Growth outlook revised higher – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/india-growth-outlook-revised-higher-standard-chartered-202609011951",
+      "datum": "2026-09-01T19:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold collapses as US-Iran strikes send Oil, US yields higher",
+      "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930",
+      "datum": "2026-09-01T19:30:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Trade imbalances and weak demand – Rabobank",
+      "link": "https://www.fxstreet.com/news/china-trade-imbalances-and-weak-demand-rabobank-202609011923",
+      "datum": "2026-09-01T19:23:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Equities: Fragile advance under energy and yield risks – NBC",
@@ -31,46 +97,10 @@
       "datum": "2026-09-01T18:21:21.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Hungary: Growth strengthens but structural limits remain - ING",
-      "link": "https://www.fxstreet.com/news/hungary-growth-strengthens-but-structural-limits-remain-ing-202609011806",
-      "datum": "2026-09-01T18:06:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US President Trump says US striking Iranian targets near Hormuz",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-us-striking-iranian-targets-near-hormuz-202609011734",
-      "datum": "2026-09-01T17:34:32.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump confirms US striking Iran.",
       "link": "https://investinglive.com/news/trump-confirms-us-striking-iran/",
       "datum": "2026-09-01T17:34:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: Enter the US labour market",
-      "link": "https://www.fxstreet.com/news/forex-today-enter-the-us-labour-market-202609011705",
-      "datum": "2026-09-01T17:05:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average finds no bid under confirmed strikes",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-finds-no-bid-under-confirmed-strikes-202609011704",
-      "datum": "2026-09-01T17:04:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Crude Oil goes vertical on fresh explosions in southern Iran",
-      "link": "https://www.fxstreet.com/news/crude-oil-goes-vertical-on-fresh-explosions-in-southern-iran-202609011642",
-      "datum": "2026-09-01T16:42:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Explosions in Iran renew Hormuz war fears – Iran International",
-      "link": "https://www.fxstreet.com/news/explosions-in-iran-renew-hormuz-war-fears-iran-international-202609011635",
-      "datum": "2026-09-01T16:35:48.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -79,40 +109,10 @@
       "datum": "2026-09-01T16:27:25.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "US Treasury Secretary Bessent backs Yen support, urges BoJ clarity",
-      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-yen-support-urges-boj-clarity-202609011621",
-      "datum": "2026-09-01T16:21:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar struggles to rebound despite softer US data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-rebound-despite-softer-us-data-202609011602",
-      "datum": "2026-09-01T16:02:58.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US Treas. Sec Bessent: I think Japan is taking right steps for economy",
       "link": "https://investinglive.com/news/us-treas-sec-bessent-i-think-japan-is-taking-right-steps-for-economy/",
       "datum": "2026-09-01T15:03:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada PM Carney: We never thought we had a trade deal with US during talks",
-      "link": "https://investinglive.com/news/canada-pm-carney-we-never-thought-we-had-a-trade-deal-with-us-during-talks/",
-      "datum": "2026-09-01T14:42:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US construction spending for July -0.5% versus 0.0% expected.",
-      "link": "https://investinglive.com/news/us-construction-spending-for-july-0-5-versus-0-0-expected/",
-      "datum": "2026-09-01T14:28:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US manufacturing PMI 54.6 versus 55.2 estimate",
-      "link": "https://investinglive.com/news/us-manufacturing-pmi-54-6-versus-55-2-estimate/",
-      "datum": "2026-09-01T14:15:22.000Z"
     }
   ]
 }

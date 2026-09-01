@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-01T19:04:15.346Z",
+  "stand": "2026-09-01T22:14:44.414Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 4,
       "tiltCot": 3,
-      "tiltZins": 0,
-      "tiltGesamt": 3,
-      "score": 7,
+      "tiltZins": 1,
+      "tiltGesamt": 4,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "Yen-Schwäche ist der Motor (40-Jahres-Tief, Mini-Zins) — festerer Dollar hilft. Aber Interventionsrisiko deckelt nach oben.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -1,
       "tiltCot": 5,
-      "tiltZins": 8,
-      "tiltGesamt": 13,
-      "score": 12,
+      "tiltZins": 7,
+      "tiltGesamt": 12,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "Kanada-BIP-Beat + falkenhafte BoC + extreme Short-Positionierung (Squeeze) geben dem Loonie einen kleinen Vorteil trotz billigem Öl.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 3,
       "tiltCot": 4,
-      "tiltZins": 5,
-      "tiltGesamt": 9,
-      "score": 12,
+      "tiltZins": 6,
+      "tiltGesamt": 10,
+      "score": 13,
       "cotExtrem": null,
       "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf) + leicht festerer Dollar.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 5,
       "tiltCot": 1,
-      "tiltZins": 8,
-      "tiltGesamt": 9,
-      "score": 14,
+      "tiltZins": 7,
+      "tiltGesamt": 8,
+      "score": 13,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

@@ -1,23 +1,23 @@
 {
-  "stand": "2026-09-01T22:14:44.783Z",
+  "stand": "2026-09-02T05:05:25.718Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 23,
+    "faelle": 24,
     "treffer": 15,
-    "quote": 65,
-    "schnittGerichtet": 0.147,
-    "schnittBetrag": 0.329,
-    "pWert": 0.21,
+    "quote": 63,
+    "schnittGerichtet": 0.128,
+    "schnittBetrag": 0.328,
+    "pWert": 0.307,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 46,
+    "faelle": 47,
     "treffer": 29,
-    "quote": 63,
-    "schnittGerichtet": 0.133,
-    "schnittBetrag": 0.36,
-    "pWert": 0.104,
+    "quote": 62,
+    "schnittGerichtet": 0.124,
+    "schnittBetrag": 0.359,
+    "pWert": 0.144,
     "belastbar": false
   },
   "jeWaehrung": {
@@ -40,12 +40,12 @@
       "belastbar": false
     },
     "AUD": {
-      "faelle": 5,
+      "faelle": 6,
       "treffer": 2,
-      "quote": 40,
-      "schnittGerichtet": -0.003,
-      "schnittBetrag": 0.381,
-      "pWert": 1,
+      "quote": 33,
+      "schnittGerichtet": -0.051,
+      "schnittBetrag": 0.366,
+      "pWert": 0.688,
       "belastbar": false
     },
     "GBP": {
@@ -78,11 +78,11 @@
       "belastbar": false
     },
     "Wachstum & Konsum": {
-      "faelle": 4,
+      "faelle": 5,
       "treffer": 2,
-      "quote": 50,
-      "schnittGerichtet": 0.17,
-      "schnittBetrag": 0.466,
+      "quote": 40,
+      "schnittGerichtet": 0.078,
+      "schnittBetrag": 0.431,
       "pWert": 1,
       "belastbar": false
     }
@@ -107,12 +107,12 @@
       "belastbar": false
     },
     "AUD": {
-      "faelle": 11,
+      "faelle": 12,
       "treffer": 5,
-      "quote": 45,
-      "schnittGerichtet": 0.099,
-      "schnittBetrag": 0.537,
-      "pWert": 1,
+      "quote": 42,
+      "schnittGerichtet": 0.066,
+      "schnittBetrag": 0.516,
+      "pWert": 0.774,
       "belastbar": false
     },
     "GBP": {
@@ -135,15 +135,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-07-22",
-      "land": "AUD",
-      "titel": "Employment Change (+1 weitere)",
-      "ueberraschung": "hoeher",
-      "erwartet": "stärker",
-      "bewegung": -0.308,
-      "wieErwartet": false
-    },
     {
       "datum": "2026-07-28",
       "land": "AUD",
@@ -223,6 +214,15 @@
       "ueberraschung": "hoeher",
       "erwartet": "stärker",
       "bewegung": -0.115,
+      "wieErwartet": false
+    },
+    {
+      "datum": "2026-09-01",
+      "land": "AUD",
+      "titel": "GDP q/q",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": -0.292,
       "wieErwartet": false
     }
   ]

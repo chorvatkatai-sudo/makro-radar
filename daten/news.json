@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-01T22:14:44.413Z",
+  "stand": "2026-09-02T05:05:25.331Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,21 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-200-day-sma-caps-euro-as-dollar-firms-202609012204",
-      "datum": "2026-09-01T22:04:15.000Z"
+      "titel": "AUD/USD Price Forecast: Slides to over one-week low; 0.7125 confluence holds the key",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-slides-to-over-one-week-low-07125-confluence-holds-the-key-202609020451",
+      "datum": "2026-09-02T04:51:37.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "RBNZ set to raise interest rate to 2.75%",
+      "titel": "EUR/USD Price Forecast: Weakens below 1.1600, further consolidation cannot be ruled out",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-weakens-below-11600-further-consolidation-cannot-be-ruled-out-202609020449",
+      "datum": "2026-09-02T04:49:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: New Zealand Dollar moves little following RBNZ Breman’s remarks",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-new-zealand-dollar-moves-little-following-rbnz-bremans-remarks-202609020432",
+      "datum": "2026-09-02T04:32:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/JPY Price Forecast: Sits near late July high; bulls retain control above 160.00",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-sits-near-late-july-high-bulls-retain-control-above-16000-202609020418",
+      "datum": "2026-09-02T04:18:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold bounces off four-week low; remains vulnerable near $4,300 amid Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-drops-to-four-week-low-below-4-300-as-usd-firms-amid-fed-hike-bets-and-iran-risks-202609020400",
+      "datum": "2026-09-02T04:00:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound declines to near 1.3500 as US-Iran tensions rise",
+      "link": "https://www.fxstreet.com/news/british-pound-declines-to-near-13500-as-us-iran-tensions-rise-202609020347",
+      "datum": "2026-09-02T03:47:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil hits six week high",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-hits-six-week-high/",
+      "datum": "2026-09-02T03:42:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index hold gains above 99.50 as Treasury yields hit multi-year highs",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hold-gains-above-9950-as-treasury-yields-hit-multi-year-highs-202609020323",
+      "datum": "2026-09-02T03:23:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD slips below $64.00 as inflation fears increase",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6400-as-inflation-fears-increase-202609020236",
+      "datum": "2026-09-02T02:36:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia Q2 GDP beats at 0.4%, keeps September rate hike in play",
+      "link": "https://investinglive.com/news/australia-q2-gdp-beats-at-0-4-keeps-september-rate-hike-in-play/",
+      "datum": "2026-09-02T02:30:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar surges to July 8 high vs New Zealand Dollar after Aussie GDP, RBNZ",
+      "link": "https://www.fxstreet.com/news/australian-dollar-surges-to-july-8-high-vs-new-zealand-dollar-after-aussie-gdp-rbnz-202609020215",
+      "datum": "2026-09-02T02:15:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar plunges after RBNZ raises OCR by 25 bps to 2.75%",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-after-rbnz-raises-ocr-by-25-bps-to-275-202609020214",
+      "datum": "2026-09-02T02:14:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI advances to mid-$90.00s, fresh high since July 24 amid escalating US-Iran tensions",
+      "link": "https://www.fxstreet.com/news/wti-advances-to-mid-9000s-fresh-high-since-july-24-amid-escalating-us-iran-tensions-202609020148",
+      "datum": "2026-09-02T01:48:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australian Q2 GDP 0.4% q/q (expected 0.3%, prior 0.3%)",
+      "link": "https://investinglive.com/news/australian-q2-gdp-0-4-q-q-expected-0-3-prior-0-3/",
+      "datum": "2026-09-02T01:30:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breman Speech: RBNZ Governor sheds light on policy outlook after interest rate hike",
       "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200",
       "datum": "2026-09-01T22:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India: Growth and inflation forecasts revised higher – UOB",
-      "link": "https://www.fxstreet.com/news/india-growth-and-inflation-forecasts-revised-higher-uob-202609012141",
-      "datum": "2026-09-01T21:41:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -31,88 +103,16 @@
       "datum": "2026-09-01T21:12:30.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Asia FX: KRW and MYR lead firmer profile vs USD – OCBC",
-      "link": "https://www.fxstreet.com/news/asia-fx-krw-and-myr-lead-firmer-profile-vs-usd-ocbc-202609012058",
-      "datum": "2026-09-01T20:58:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Volatility widens range-trading band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-volatility-widens-range-trading-band-against-us-dollar-uob-202609012023",
-      "datum": "2026-09-01T20:23:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Economic and event calendar in Asia Wednesday, September 2, 2026 - RBZN rate hike expected",
       "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-2-2026-rbzn-rate-hike-expected/",
       "datum": "2026-09-01T20:18:18.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso holds near 17.00 as US-Iran strikes weigh on Peso",
-      "link": "https://www.fxstreet.com/news/mexican-peso-holds-near-1700-as-us-iran-strikes-hit-peso-202609012012",
-      "datum": "2026-09-01T20:12:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India: Growth outlook revised higher – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/india-growth-outlook-revised-higher-standard-chartered-202609011951",
-      "datum": "2026-09-01T19:51:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold collapses as US-Iran strikes send Oil, US yields higher",
-      "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930",
-      "datum": "2026-09-01T19:30:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Trade imbalances and weak demand – Rabobank",
-      "link": "https://www.fxstreet.com/news/china-trade-imbalances-and-weak-demand-rabobank-202609011923",
-      "datum": "2026-09-01T19:23:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Equities: Fragile advance under energy and yield risks – NBC",
-      "link": "https://www.fxstreet.com/news/equities-fragile-advance-under-energy-and-yield-risks-nbc-202609011843",
-      "datum": "2026-09-01T18:43:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Here we go again. Trump says \"Iran will be totally wiped out as a country\". Crude oil trades at $90.50",
       "link": "https://investinglive.com/news/here-we-go-again-trump-says-iran-will-be-totally-wiped-out-as-a-country-crude-oil-trades-at-90-50/",
       "datum": "2026-09-01T18:39:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Treasury yields read Iran strikes as inflation",
-      "link": "https://www.fxstreet.com/news/united-states-treasury-yields-read-iran-strikes-as-inflation-202609011824",
-      "datum": "2026-09-01T18:24:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar Index gains as US-Iran tensions escalate, Treasury yields rise",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-gains-as-us-iran-tensions-escalate-treasury-yields-rise-202609011821",
-      "datum": "2026-09-01T18:21:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump confirms US striking Iran.",
-      "link": "https://investinglive.com/news/trump-confirms-us-striking-iran/",
-      "datum": "2026-09-01T17:34:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Crude oil moves higher. Stocks move lower as reports of an American attack on Iran",
-      "link": "https://investinglive.com/news/crude-oil-moves-higher-stocks-move-lower-as-reports-of-an-american-attack-on-iran/",
-      "datum": "2026-09-01T16:27:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US Treas. Sec Bessent: I think Japan is taking right steps for economy",
-      "link": "https://investinglive.com/news/us-treas-sec-bessent-i-think-japan-is-taking-right-steps-for-economy/",
-      "datum": "2026-09-01T15:03:08.000Z"
     }
   ]
 }

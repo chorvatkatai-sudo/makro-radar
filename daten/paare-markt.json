@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-02T05:04:50.642Z",
+  "stand": "2026-09-02T05:05:25.332Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 5,
       "tiltCot": 3,
-      "tiltZins": 1,
-      "tiltGesamt": 4,
-      "score": 9,
+      "tiltZins": 0,
+      "tiltGesamt": 3,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "Yen-Schwäche ist der Motor (40-Jahres-Tief, Mini-Zins), fester Dollar hilft. Interventionsrisiko deckelt nach oben.",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -3,
       "tiltCot": -3,
-      "tiltZins": -4,
-      "tiltGesamt": -7,
-      "score": -10,
+      "tiltZins": -7,
+      "tiltGesamt": -10,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "Kiwi ohne eigene Geschichte (RBNZ hält) trifft auf den festen Dollar mit Zinsvorsprung.",
       "istCross": false
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": 3,
       "tiltCot": 2,
-      "tiltZins": 1,
-      "tiltGesamt": 3,
-      "score": 6,
+      "tiltZins": 0,
+      "tiltGesamt": 2,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 5,
       "tiltCot": 1,
-      "tiltZins": 7,
-      "tiltGesamt": 8,
-      "score": 13,
+      "tiltZins": 8,
+      "tiltGesamt": 9,
+      "score": 14,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

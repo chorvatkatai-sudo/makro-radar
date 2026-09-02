@@ -1,11 +1,47 @@
 {
-  "stand": "2026-09-02T14:50:50.785Z",
+  "stand": "2026-09-02T15:51:29.265Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Downside risks build against US Dollar as oil rises – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-build-against-us-dollar-as-oil-rises-scotiabank-202609021539",
+      "datum": "2026-09-02T15:39:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Maybe the Strait of Hormuz should be renamed the Trump Strait?",
+      "link": "https://investinglive.com/news/trump-maybe-it-should-be-renamed-the-trump-strait/",
+      "datum": "2026-09-02T15:30:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Strong GDP and carry support – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strong-gdp-and-carry-support-bbh-202609021520",
+      "datum": "2026-09-02T15:20:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro tumbles against the Yen as intervention fears hit crosses",
+      "link": "https://www.fxstreet.com/news/euro-tumbles-against-the-yen-as-intervention-fears-hit-crosses-202609021518",
+      "datum": "2026-09-02T15:18:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound slides against Japanese Yen as suspected intervention rattles markets",
+      "link": "https://www.fxstreet.com/news/british-pound-slides-against-japanese-yen-as-suspected-intervention-rattles-markets-202609021504",
+      "datum": "2026-09-02T15:04:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Headwinds from Fed and energy – ING",
+      "link": "https://www.fxstreet.com/news/euro-headwinds-from-fed-and-energy-ing-202609021454",
+      "datum": "2026-09-02T14:54:17.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold: Data risks and CTA selling – TD Securities",
@@ -43,36 +79,6 @@
       "datum": "2026-09-02T13:45:46.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fed hike risk and yields back in focus – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-risk-and-yields-back-in-focus-mufg-202609021322",
-      "datum": "2026-09-02T13:22:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver rebounds above $64 as weak US jobs data challenges hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/silver-rebounds-above-64-as-weak-us-jobs-data-challenges-hawkish-fed-bets-202609021313",
-      "datum": "2026-09-02T13:13:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro stays under pressure against US Dollar despite softer ADP data",
-      "link": "https://www.fxstreet.com/news/euro-stays-under-pressure-against-us-dollar-despite-softer-adp-data-202609021313",
-      "datum": "2026-09-02T13:13:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Dovish hike path as energy drives inflation – ING",
-      "link": "https://www.fxstreet.com/news/european-central-bank-dovish-hike-path-as-energy-drives-inflation-ing-202609021310",
-      "datum": "2026-09-02T13:10:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Reserve Bank of Australia: September hike expectations strengthen – TD Securities",
-      "link": "https://www.fxstreet.com/news/reserve-bank-of-australia-september-hike-expectations-strengthen-td-securities-202609021302",
-      "datum": "2026-09-02T13:02:12.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European session wrap: Higher bond yields continue to keep markets on edge",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-higher-bond-yields-continue-to-keep-markets-on-edge/",
@@ -86,7 +92,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "BoC Governor Macklem speaks on outlook after keeping rates unchanged",
+      "titel": "BoC's Macklem: Multiple rate increases should not be ruled out",
       "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-despite-sticky-inflation-202609020945",
       "datum": "2026-09-02T09:45:00.000Z"
     },
@@ -107,12 +113,6 @@
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-33/",
       "datum": "2026-09-02T06:37:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil hits six week high",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-hits-six-week-high/",
-      "datum": "2026-09-02T03:42:58.000Z"
     }
   ]
 }

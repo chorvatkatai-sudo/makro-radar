@@ -445,7 +445,7 @@
     "title": "NFIB Business Optimism Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "99.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -535,7 +535,7 @@
     "title": "3-Year Note Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.291%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -545,7 +545,7 @@
     "title": "Consumer Credit Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "14.17",
+    "previous": "14.17 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -625,7 +625,7 @@
     "title": "MBA Mortgage Market Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "247.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -635,7 +635,7 @@
     "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "157.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -645,7 +645,7 @@
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "732.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -655,7 +655,7 @@
     "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -665,7 +665,7 @@
     "title": "MBA 30-Year Mortgage Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.79",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -695,7 +695,7 @@
     "title": "10-Year Note Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.683%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1295,7 +1295,7 @@
     "title": "Core Inflation Rate YoY",
     "impact": "High",
     "forecast": "",
-    "previous": "2.5",
+    "previous": "2.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1335,7 +1335,7 @@
     "title": "Inflation Rate YoY",
     "impact": "High",
     "forecast": "",
-    "previous": "3.4",
+    "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1345,7 +1345,7 @@
     "title": "Inflation Rate MoM",
     "impact": "High",
     "forecast": "",
-    "previous": "0.1",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1435,7 +1435,7 @@
     "title": "Monthly Budget Statement",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-432 $",
     "actual": null,
     "quelle": "tradingview"
   },

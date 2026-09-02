@@ -10928,7 +10928,7 @@
       "impact": "High",
       "prognose": "55.2",
       "vorher": "55.6",
-      "actual": null,
+      "actual": "54.6",
       "notiz": null
     },
     "2026-09-01T10:00:00-04:00|USD|ISM Manufacturing Prices": {
@@ -11048,7 +11048,7 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "0.3%",
-      "actual": null,
+      "actual": "0.4%",
       "notiz": null
     },
     "2026-09-01T22:00:00-04:00|NZD|Official Cash Rate": {

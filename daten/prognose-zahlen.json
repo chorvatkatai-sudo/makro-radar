@@ -1,20 +1,20 @@
 {
-  "stand": "2026-09-01T22:14:44.422Z",
+  "stand": "2026-09-02T05:04:50.651Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 50,
-  "gewertet": 23,
-  "nichtWertbar": 27,
-  "treffer": 13,
-  "quote": 57,
+  "gewertet": 24,
+  "nichtWertbar": 26,
+  "treffer": 14,
+  "quote": 58,
   "zinsentscheide": {
     "treffer": 7,
     "gesamt": 7,
     "quote": 100
   },
   "datenPrognosen": {
-    "treffer": 6,
-    "gesamt": 16,
-    "quote": 38
+    "treffer": 7,
+    "gesamt": 17,
+    "quote": 41
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
@@ -22,9 +22,9 @@
     "quote": 55
   },
   "exakt": {
-    "treffer": 0,
-    "gesamt": 0,
-    "quote": null
+    "treffer": 1,
+    "gesamt": 1,
+    "quote": 100
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "Kanada-Verbraucherpreise (CPI, Juni)",
-      "datum": "2026-07-20",
-      "richtung": "hoeher",
-      "tatsaechlich": "niedriger",
-      "konsens": "-0.2%",
-      "ist": "-0.3",
-      "treffer": false
-    },
     {
       "event": "Fed-Zinsentscheid + Warsh-Pressekonferenz",
       "datum": "2026-07-29",
@@ -103,6 +94,15 @@
       "konsens": "2.9%",
       "ist": "2.9%",
       "treffer": false
+    },
+    {
+      "event": "US ISM-Industrie (August)",
+      "datum": "2026-09-01",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "55.2",
+      "ist": "54.6",
+      "treffer": true
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-02T15:51:29.266Z",
+  "stand": "2026-09-02T18:16:56.749Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": 4,
-      "tiltGesamt": 9,
-      "score": 5,
+      "tiltZins": 3,
+      "tiltGesamt": 8,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "Öl-Explosion (+10 % Woche) + falkenhafte BoC geben dem Loonie einen Vorteil — der Dollar verliert hier trotz seiner Gesamtstärke.",
       "istCross": false

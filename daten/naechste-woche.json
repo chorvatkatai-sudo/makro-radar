@@ -92,26 +92,6 @@
   {
     "date": "2026-09-07T09:00:00.000Z",
     "country": "EUR",
-    "title": "Employment Change YoY Final",
-    "impact": "Low",
-    "forecast": "0.5%",
-    "previous": "0.5%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-07T09:00:00.000Z",
-    "country": "EUR",
-    "title": "Employment Change QoQ Final",
-    "impact": "Low",
-    "forecast": "0.1%",
-    "previous": "0.1%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-07T09:00:00.000Z",
-    "country": "EUR",
     "title": "GDP Growth Rate YoY 3rd Est",
     "impact": "Low",
     "forecast": "1%",
@@ -131,11 +111,41 @@
   },
   {
     "date": "2026-09-07T09:00:00.000Z",
+    "country": "EUR",
+    "title": "Employment Change YoY Final",
+    "impact": "Low",
+    "forecast": "0.5%",
+    "previous": "0.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-07T09:00:00.000Z",
     "country": "GBP",
     "title": "BBA Mortgage Rate",
     "impact": "Low",
     "forecast": "",
     "previous": "6.6%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-07T09:00:00.000Z",
+    "country": "EUR",
+    "title": "Employment Change QoQ Final",
+    "impact": "Low",
+    "forecast": "0.1%",
+    "previous": "0.1%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-07T12:30:00.000Z",
+    "country": "GBP",
+    "title": "Chancellor John Healey Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -182,10 +192,10 @@
   {
     "date": "2026-09-07T23:50:00.000Z",
     "country": "JPY",
-    "title": "Current Account",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "923",
+    "title": "GDP Capital Expenditure QoQ Final",
+    "impact": "Low",
+    "forecast": "-1.2%",
+    "previous": "-0.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -202,30 +212,10 @@
   {
     "date": "2026-09-07T23:50:00.000Z",
     "country": "JPY",
-    "title": "GDP Growth Annualized Final",
+    "title": "Current Account",
     "impact": "Medium",
-    "forecast": "1.1%",
-    "previous": "1.8%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-07T23:50:00.000Z",
-    "country": "JPY",
-    "title": "GDP Growth Rate QoQ Final",
-    "impact": "Medium",
-    "forecast": "0.3%",
-    "previous": "0.5%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-07T23:50:00.000Z",
-    "country": "JPY",
-    "title": "GDP Capital Expenditure QoQ Final",
-    "impact": "Low",
-    "forecast": "-1.2%",
-    "previous": "-0.7%",
+    "forecast": "",
+    "previous": "923",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -252,10 +242,30 @@
   {
     "date": "2026-09-07T23:50:00.000Z",
     "country": "JPY",
+    "title": "GDP Growth Rate QoQ Final",
+    "impact": "Medium",
+    "forecast": "0.3%",
+    "previous": "0.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-07T23:50:00.000Z",
+    "country": "JPY",
     "title": "GDP Price Index YoY Final",
     "impact": "Low",
     "forecast": "2.6%",
     "previous": "3.2%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-07T23:50:00.000Z",
+    "country": "JPY",
+    "title": "GDP Growth Annualized Final",
+    "impact": "Medium",
+    "forecast": "1.1%",
+    "previous": "1.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -292,16 +302,6 @@
   {
     "date": "2026-09-08T01:30:00.000Z",
     "country": "AUD",
-    "title": "Building Permits YoY Final",
-    "impact": "Low",
-    "forecast": "9%",
-    "previous": "9.5%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-08T01:30:00.000Z",
-    "country": "AUD",
     "title": "NAB Business Confidence",
     "impact": "High",
     "forecast": "",
@@ -312,10 +312,30 @@
   {
     "date": "2026-09-08T01:30:00.000Z",
     "country": "AUD",
+    "title": "Building Permits YoY Final",
+    "impact": "Low",
+    "forecast": "9%",
+    "previous": "9.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-08T01:30:00.000Z",
+    "country": "AUD",
     "title": "Private House Approvals MoM Final",
     "impact": "Low",
     "forecast": "-4.2%",
     "previous": "0.8%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-08T02:35:00.000Z",
+    "country": "NZD",
+    "title": "6-Month Bill Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.0755%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -336,26 +356,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.4%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-08T02:35:00.000Z",
-    "country": "NZD",
-    "title": "6-Month Bill Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.0755%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-08T03:00:00.000Z",
-    "country": "CNY",
-    "title": "Exports YoY",
-    "impact": "High",
-    "forecast": "",
-    "previous": "23.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -386,6 +386,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-08T03:00:00.000Z",
+    "country": "CNY",
+    "title": "Exports YoY",
+    "impact": "High",
+    "forecast": "",
+    "previous": "23.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -502,20 +512,20 @@
   {
     "date": "2026-09-08T15:30:00.000Z",
     "country": "USD",
-    "title": "3-Month Bill Auction",
+    "title": "6-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.77%",
+    "previous": "3.885%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-08T15:30:00.000Z",
     "country": "USD",
-    "title": "6-Month Bill Auction",
+    "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.885%",
+    "previous": "3.77%",
     "actual": null,
     "quelle": "tradingview"
   },

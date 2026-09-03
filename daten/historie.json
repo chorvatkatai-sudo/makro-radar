@@ -11670,6 +11670,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-03T15:55:00-04:00|USD|FOMC Member Goolsbee Speaks": {
+      "datum": "2026-09-03T15:55:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

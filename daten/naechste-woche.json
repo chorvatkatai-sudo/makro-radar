@@ -735,7 +735,7 @@
     "title": "Foreign Bond Investment",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-824",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -745,7 +745,7 @@
     "title": "Stock Investment by Foreigners",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "35.8",
     "actual": null,
     "quelle": "tradingview"
   },

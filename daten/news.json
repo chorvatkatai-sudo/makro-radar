@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-03T05:06:36.854Z",
+  "stand": "2026-09-03T10:27:59.999Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,27 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Consolidates above $89.00; bullish bias remains amid Iran risks",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-consolidates-above-8900-bullish-bias-remains-amid-iran-risks-202609030440",
-      "datum": "2026-09-03T04:40:21.000Z"
+      "titel": "Gold Price Forecast: XAU/USD recovery, likely to be challenged around $4,470",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-likely-to-be-challenged-around-4-470-202609031020",
+      "datum": "2026-09-03T10:20:07.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609030435",
-      "datum": "2026-09-03T04:35:06.000Z"
+      "titel": "Swiss Franc: Swiss data supports dip-buying case – Societe Generale",
+      "link": "https://www.fxstreet.com/news/swiss-franc-swiss-data-supports-dip-buying-case-societe-generale-202609031005",
+      "datum": "2026-09-03T10:05:37.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Falls to near 183.00 near symmetrical triangle bottom",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-falls-to-near-18300-near-symmetrical-triangle-bottom-202609030430",
-      "datum": "2026-09-03T04:30:44.000Z"
+      "titel": "0.8600 under pressure: EUR/GBP at two-month highs following Services PMIs",
+      "link": "https://www.fxstreet.com/news/08600-under-pressure-eur-gbp-at-two-month-highs-following-services-pmis-202609031003",
+      "datum": "2026-09-03T10:03:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound drops to three-week low as hawkish BoJ and suspected intervention boost Yen",
-      "link": "https://www.fxstreet.com/news/british-pound-drops-to-three-week-low-as-hawkish-boj-and-suspected-intervention-boost-yen-202609030407",
-      "datum": "2026-09-03T04:07:25.000Z"
+      "titel": "Canadian Dollar: BoC inflation focus and valuation divergence – MUFG",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-inflation-focus-and-valuation-divergence-mufg-202609030934",
+      "datum": "2026-09-03T09:34:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609030933",
+      "datum": "2026-09-03T09:33:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japan’s Mimura keeps threat of FX intervention alive",
+      "link": "https://www.fxstreet.com/news/japans-mimura-keeps-threat-of-fx-intervention-alive-202609030926",
+      "datum": "2026-09-03T09:26:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Polish Zloty: NBP language turns cautious after FX pressure – Commerzbank",
+      "link": "https://www.fxstreet.com/news/polish-zloty-nbp-language-turns-cautious-after-fx-pressure-commerzbank-202609030918",
+      "datum": "2026-09-03T09:18:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen strengthens following hawkish BoJ comments",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-following-hawkish-boj-comments-202609030906",
+      "datum": "2026-09-03T09:06:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Pullback eases with upside focus on 0.7200 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-pullback-eases-with-upside-focus-on-07200-against-us-dollar-uob-202609030906",
+      "datum": "2026-09-03T09:06:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ISM Services PMI Preview: US service sector expected to expand in August",
+      "link": "https://www.fxstreet.com/news/ism-services-pmi-preview-us-service-sector-expected-to-expand-in-august-202609030900",
+      "datum": "2026-09-03T09:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Intervention jitters linger – ING",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-jitters-linger-ing-202609030851",
+      "datum": "2026-09-03T08:51:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Euro area business activity keeps steadier in August, reaffirms ECB policy pathway",
+      "link": "https://investinglive.com/news/euro-area-business-activity-keeps-steadier-in-august-reaffirms-ecb-policy-pathway/",
+      "datum": "2026-09-03T08:24:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Swiss inflation nudges up in August amid higher energy prices",
+      "link": "https://investinglive.com/news/swiss-inflation-nudges-up-in-august-amid-higher-energy-prices/",
+      "datum": "2026-09-03T06:55:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-34/",
+      "datum": "2026-09-03T06:47:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee gets supercharged by strong inflows through FCNR deposits",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522",
+      "datum": "2026-09-03T05:22:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Bond yields pull back from the highs as focus turns to US jobs report next",
+      "link": "https://investinglive.com/news/bond-yields-pull-back-from-the-highs-as-focus-turns-to-us-jobs-report-next/",
+      "datum": "2026-09-03T05:14:56.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -37,82 +109,10 @@
       "datum": "2026-09-03T03:52:18.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Gold bulls eye $4,450 as sliding bond yields counter Fed hike bets and undermine USD",
-      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351",
-      "datum": "2026-09-03T03:51:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar rises on weaker US Dollar, rising oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-rises-on-weaker-us-dollar-rising-oil-prices-202609030333",
-      "datum": "2026-09-03T03:33:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD extends gains as US Dollar falls further, NFP comes into focus",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-gains-as-us-dollar-falls-further-nfp-comes-into-focus-202609030321",
-      "datum": "2026-09-03T03:21:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen strengthens on BoJ rate hike signals",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-on-boj-rate-hike-signals-202609030314",
-      "datum": "2026-09-03T03:14:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Hegseth extends troop deployments in the Middle East through 2027 — WSJ",
-      "link": "https://www.fxstreet.com/news/hegseth-extends-troop-deployments-in-the-middle-east-through-2027-wsj-202609030301",
-      "datum": "2026-09-03T03:01:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar weakens against Japanese Yen following China’s Services PMI data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-against-japanese-yen-following-chinas-services-pmi-data-202609030231",
-      "datum": "2026-09-03T02:31:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar rebounds above 0.5850 on stronger Chinese services PMI",
-      "link": "https://www.fxstreet.com/news/new-zealand-rebounds-above-05850-on-stronger-chinese-services-pmi-202609030214",
-      "datum": "2026-09-03T02:14:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI holds gains above $89.50 amid renewed Middle East hostilities",
-      "link": "https://www.fxstreet.com/news/wti-holds-gains-above-8950-amid-renewed-middle-east-hostilities-202609030202",
-      "datum": "2026-09-03T02:02:45.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "China's RatingDog services PMI beats strongly as domestic demand offsets soft export growth",
       "link": "https://investinglive.com/news/china-s-ratingdog-services-pmi-beats-strongly-as-domestic-demand-offsets-soft-export-growth/",
       "datum": "2026-09-03T01:58:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Yen support: Japan services PMI hits five-month high as inflation strengthens BOJ hike case",
-      "link": "https://investinglive.com/news/yen-support-japan-services-pmi-hits-five-month-high-as-inflation-strengthens-boj-hike-case/",
-      "datum": "2026-09-03T00:45:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 2 Sept: USD mixed, stocks rise as Iran tensions simmer",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-sept-usd-mixed-stocks-rise-as-iran-tensions-simmer/",
-      "datum": "2026-09-02T20:33:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Thursday, September 3, 2026 - another China PMI",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-september-3-2026-another-china-pmi/",
-      "datum": "2026-09-02T20:28:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The political headlines are fast and furious coming out of Washington",
-      "link": "https://investinglive.com/news/the-political-headlines-are-fast-and-furious-coming-out-of-washington/",
-      "datum": "2026-09-02T18:05:08.000Z"
     }
   ]
 }

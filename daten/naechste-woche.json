@@ -385,7 +385,7 @@
     "title": "Balance of Trade Yuan",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "767.07 CNY",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -435,7 +435,7 @@
     "title": "Eco Watchers Survey Outlook",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "45.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -535,7 +535,7 @@
     "title": "6-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.735%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -565,7 +565,7 @@
     "title": "PPI YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3.5",
+    "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -575,7 +575,7 @@
     "title": "Inflation Rate YoY",
     "impact": "High",
     "forecast": "",
-    "previous": "0.5",
+    "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -585,7 +585,7 @@
     "title": "Inflation Rate MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.1",
+    "previous": "-0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -685,7 +685,7 @@
     "title": "17-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.855%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -695,7 +695,7 @@
     "title": "5-Year Bond Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.344%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1125,7 +1125,7 @@
     "title": "BSI Large Manufacturing QoQ",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1295,7 +1295,7 @@
     "title": "NIESR Monthly GDP Tracker",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1465,7 +1465,7 @@
     "title": "Total Social Financing",
     "impact": "Low",
     "forecast": "",
-    "previous": "1410",
+    "previous": "1410 CNY",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1475,7 +1475,7 @@
     "title": "Outstanding Loan Growth YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "5.1",
+    "previous": "5.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1485,7 +1485,7 @@
     "title": "M2 Money Supply YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "7.7",
+    "previous": "7.7%",
     "actual": null,
     "quelle": "tradingview"
   }

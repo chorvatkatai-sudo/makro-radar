@@ -1,11 +1,59 @@
 {
-  "stand": "2026-09-03T15:40:18.215Z",
+  "stand": "2026-09-03T18:15:30.671Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "European gas: Low storage keeps a floor under prices into winter - ING",
+      "link": "https://www.fxstreet.com/news/european-gas-low-storage-keeps-a-floor-under-prices-into-winter-ing-202609031812",
+      "datum": "2026-09-03T18:12:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Preview: August non-farm payrolls by the numbers",
+      "link": "https://investinglive.com/news/preview-august-non-farm-payrolls-by-the-numbers/",
+      "datum": "2026-09-03T17:52:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Equities: AI-led upside and income focus – HSBC",
+      "link": "https://www.fxstreet.com/news/equities-ai-led-upside-and-income-focus-hsbc-202609031752",
+      "datum": "2026-09-03T17:52:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Nonfarm Payrolls take centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-us-nonfarm-payrolls-take-centre-stage-202609031741",
+      "datum": "2026-09-03T17:41:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Intervention ceiling guides BoJ path – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-ceiling-guides-boj-path-bny-202609031739",
+      "datum": "2026-09-03T17:39:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average rallies on a coin toss",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-coin-toss-202609031609",
+      "datum": "2026-09-03T16:09:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "BoE’s Pill backs rate hike to 4% to limit inflation catch-up effects",
+      "link": "https://www.fxstreet.com/news/boes-pill-backs-rate-hike-to-4-to-limit-inflation-catch-up-effects-202609031544",
+      "datum": "2026-09-03T15:44:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound rises as Fed’s Waller tempers hike bets ahead of NFP",
+      "link": "https://www.fxstreet.com/news/british-pound-rises-as-feds-waller-tempers-fed-hike-bets-before-nfp-202609031541",
+      "datum": "2026-09-03T15:41:36.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Canadian Dollar extends gains on hawkish BoC message, softer US Dollar",
@@ -31,46 +79,10 @@
       "datum": "2026-09-03T14:28:59.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen jumps as BoJ opens door to faster rate hikes",
-      "link": "https://www.fxstreet.com/news/japanese-yen-jumps-as-boj-opens-door-to-faster-rate-hikes-202609031427",
-      "datum": "2026-09-03T14:27:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Support firms with hawkish ECB pricing – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-support-firms-with-hawkish-ecb-pricing-scotiabank-202609031414",
-      "datum": "2026-09-03T14:14:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro gains against US Dollar as Waller tempers Fed rate-hike bets",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-waller-tempers-fed-rate-hike-bets-202609031410",
-      "datum": "2026-09-03T14:10:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Hot inflation and SNB path – BBH",
-      "link": "https://www.fxstreet.com/news/swiss-franc-hot-inflation-and-snb-path-bbh-202609031407",
-      "datum": "2026-09-03T14:07:31.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "ISM non manufacturing PMI for August 55.4 versus 54.2 estimate. Stronger than expectations",
       "link": "https://investinglive.com/news/ism-non-manufacturing-pmi-for-august-55-4-versus-54-2-estimate-stronger-than-expectations/",
       "datum": "2026-09-03T14:00:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Longer-term landscape improves – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-longer-term-landscape-improves-td-securities-202609031358",
-      "datum": "2026-09-03T13:58:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Bullish momentum builds after BoC – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-builds-after-boc-scotiabank-202609031337",
-      "datum": "2026-09-03T13:37:45.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -97,22 +109,10 @@
       "datum": "2026-09-03T11:12:31.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Breaking: US ISM Services PMI improves to 55.4 in August",
-      "link": "https://www.fxstreet.com/news/ism-services-pmi-preview-us-service-sector-expected-to-expand-in-august-202609030900",
-      "datum": "2026-09-03T09:00:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Euro area business activity keeps steadier in August, reaffirms ECB policy pathway",
       "link": "https://investinglive.com/news/euro-area-business-activity-keeps-steadier-in-august-reaffirms-ecb-policy-pathway/",
       "datum": "2026-09-03T08:24:03.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Swiss inflation nudges up in August amid higher energy prices",
-      "link": "https://investinglive.com/news/swiss-inflation-nudges-up-in-august-amid-higher-energy-prices/",
-      "datum": "2026-09-03T06:55:12.000Z"
     }
   ]
 }

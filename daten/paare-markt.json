@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-03T15:40:18.217Z",
+  "stand": "2026-09-03T18:15:30.672Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 5,
       "tiltCot": 3,
-      "tiltZins": -3,
-      "tiltGesamt": 0,
-      "score": 5,
+      "tiltZins": -2,
+      "tiltGesamt": 1,
+      "score": 6,
       "cotExtrem": null,
       "treiber": "Yen-Schwäche ist der Motor (40-Jahres-Tief, Mini-Zins), fester Dollar hilft. Interventionsrisiko deckelt nach oben.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 4,
       "tiltCot": 4,
-      "tiltZins": 0,
-      "tiltGesamt": 4,
-      "score": 8,
+      "tiltZins": 2,
+      "tiltGesamt": 6,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf, Null-Zins) + fester Dollar.",
       "istCross": false
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": 3,
       "tiltCot": 2,
-      "tiltZins": -3,
-      "tiltGesamt": -1,
-      "score": 2,
+      "tiltZins": -2,
+      "tiltGesamt": 0,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 3,
       "tiltCot": 3,
-      "tiltZins": 0,
-      "tiltGesamt": 3,
-      "score": 6,
+      "tiltZins": 2,
+      "tiltGesamt": 5,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

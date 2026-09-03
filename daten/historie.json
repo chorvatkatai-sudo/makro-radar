@@ -11700,6 +11700,16 @@
       "vorher": "3.86|3.7",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-03T11:00:00-04:00|GBP|MPC Member Pill Speaks": {
+      "datum": "2026-09-03T11:00:00-04:00",
+      "land": "GBP",
+      "titel": "MPC Member Pill Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

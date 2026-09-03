@@ -1045,7 +1045,7 @@
     "title": "30-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.71",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1062,20 +1062,20 @@
   {
     "date": "2026-09-10T16:00:00.000Z",
     "country": "USD",
-    "title": "15-Year Mortgage Rate",
+    "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.033",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-10T16:00:00.000Z",
     "country": "USD",
-    "title": "EIA Heating Oil Stocks Change",
+    "title": "15-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "-0.033",
+    "previous": "6.04",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-03T18:15:30.672Z",
+  "stand": "2026-09-03T21:31:43.069Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -3,
       "tiltCot": -3,
-      "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -8,
+      "tiltZins": -3,
+      "tiltGesamt": -6,
+      "score": -9,
       "cotExtrem": null,
       "treiber": "Kiwi ohne eigene Geschichte (RBNZ hält) trifft auf den festen Dollar mit Zinsvorsprung.",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": 1,
       "tiltCot": 2,
-      "tiltZins": -2,
-      "tiltGesamt": 0,
-      "score": 1,
+      "tiltZins": -1,
+      "tiltGesamt": 1,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

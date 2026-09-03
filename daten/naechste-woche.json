@@ -65,7 +65,7 @@
     "title": "Foreign Exchange Reserves",
     "impact": "Low",
     "forecast": "",
-    "previous": "768.26",
+    "previous": "768.26 CHF",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -615,7 +615,7 @@
     "title": "Machine Tool Orders YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "50.4",
+    "previous": "50.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -805,7 +805,7 @@
     "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "206",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -862,20 +862,10 @@
   {
     "date": "2026-09-10T12:30:00.000Z",
     "country": "USD",
-    "title": "PPI Ex Food, Energy and Trade YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.7%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-10T12:30:00.000Z",
-    "country": "USD",
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1779",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -885,7 +875,17 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "207.25",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-10T12:30:00.000Z",
+    "country": "USD",
+    "title": "PPI Ex Food, Energy and Trade YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1135,7 +1135,7 @@
     "title": "PPI YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "7.2",
+    "previous": "7.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1145,7 +1145,7 @@
     "title": "PPI MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.1",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },

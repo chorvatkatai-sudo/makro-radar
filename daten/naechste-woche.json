@@ -774,7 +774,7 @@
     "country": "EUR",
     "title": "Deposit Facility Rate",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.5%",
     "previous": "2.25%",
     "actual": null,
     "quelle": "tradingview"
@@ -794,7 +794,7 @@
     "country": "EUR",
     "title": "ECB Interest Rate Decision",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.65%",
     "previous": "2.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -814,7 +814,7 @@
     "country": "USD",
     "title": "Core PPI MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -824,7 +824,7 @@
     "country": "USD",
     "title": "PPI MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
@@ -924,7 +924,7 @@
     "country": "USD",
     "title": "Existing Home Sales",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4.03",
     "previous": "4.06",
     "actual": null,
     "quelle": "tradingview"
@@ -945,7 +945,7 @@
     "title": "EIA Natural Gas Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "30",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1324,7 +1324,7 @@
     "country": "USD",
     "title": "Core Inflation Rate MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1342,20 +1342,20 @@
   {
     "date": "2026-09-11T12:30:00.000Z",
     "country": "USD",
-    "title": "Inflation Rate YoY",
+    "title": "Inflation Rate MoM",
     "impact": "High",
-    "forecast": "",
-    "previous": "3.4%",
+    "forecast": "0.4%",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-11T12:30:00.000Z",
     "country": "USD",
-    "title": "Inflation Rate MoM",
+    "title": "Inflation Rate YoY",
     "impact": "High",
     "forecast": "",
-    "previous": "0.1%",
+    "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
   },

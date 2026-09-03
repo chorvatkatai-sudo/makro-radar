@@ -1,11 +1,23 @@
 {
-  "stand": "2026-09-03T14:49:46.365Z",
+  "stand": "2026-09-03T15:40:18.215Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar extends gains on hawkish BoC message, softer US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-extends-gains-on-hawkish-boc-message-softer-us-dollar-202609031515",
+      "datum": "2026-09-03T15:15:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Range-bound against US Dollar with muted BoE pricing – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-with-muted-boe-pricing-scotiabank-202609031501",
+      "datum": "2026-09-03T15:01:23.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Eurozone: New growth paths after export peak – ING",
@@ -61,18 +73,6 @@
       "datum": "2026-09-03T13:37:45.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ repricing supports gains against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-repricing-supports-gains-against-us-dollar-mufg-202609031315",
-      "datum": "2026-09-03T13:15:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brent: Updated price paths as Persian Gulf flows shift – ING",
-      "link": "https://www.fxstreet.com/news/brent-updated-price-paths-as-persian-gulf-flows-shift-ing-202609031300",
-      "datum": "2026-09-03T13:00:22.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US trade deficit widens sharply in July as AI-related imports surge",
       "link": "https://investinglive.com/news/us-trade-deficit-widens-sharply-in-july-as-ai-related-imports-surge/",
@@ -92,7 +92,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold rallies 2% as US Dollar and yields retreat, Fed hike bets ease after Waller remarks",
+      "titel": "Gold tests $4,500 as US Dollar and yields retreat, Fed hike bets ease after Waller remarks",
       "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112",
       "datum": "2026-09-03T11:12:31.000Z"
     },

@@ -14,8 +14,8 @@
   "waehrungen": {
     "USD": {
       "stimmung": "neutral",
-      "score": 6,
-      "grund": "Fest, aber gedeckelt: feste US-Zinsen (10J ~4,80 %), starke ISM-Industrie (54,6, heiße Preise 71,1) und der falkenhafte Warsh stützen — doch Gold nahe Rekord und der Job-Bericht am Freitag (Risiko nach unten) deckeln die Rally."
+      "score": 5,
+      "grund": "Fest, aber gedeckelt: feste US-Zinsen (10J ~4,79 %), heiße Fabrik-Preise (ISM 71,1) und der falkenhafte Warsh stützen — doch die schwache ADP-Job-Vorschau (+38k) und der große Jobbericht am Freitag (Risiko nach unten) deckeln die Rally. Etwas gedämpft ggü. Vortag."
     },
     "EUR": {
       "stimmung": "neutral",
@@ -39,13 +39,13 @@
     },
     "CAD": {
       "stimmung": "neutral",
-      "score": 6,
-      "grund": "Öl-Rückenwind kehrt ZURÜCK (WTI +10 % auf ~91 $, Nahost) + falkenhafte BoC (Zinsentscheid heute, Halten erwartet, zwei Banken sehen bald Erhöhung). Gegengewicht: das billige Öl der Vorwoche ist Geschichte. Paar-eigene Story, nicht Teil des Dollar-Blocks."
+      "score": 5,
+      "grund": "Öl-Rückenwind (WTI +9 % auf ~91 $, Nahost) + falkenhafte BoC (Halten 2,25 %, warnt vor Erhöhung wegen Öl/Zöllen). Gegengewicht NEU: die Handelsgespräche USA–Kanada sind geplatzt, neue Zölle beidseits belasten den Loonie. Paar-eigene Story, nicht Teil des Dollar-Blocks."
     },
     "AUD": {
       "stimmung": "bullisch",
-      "score": 9,
-      "grund": "Klarste Geschichte der Woche: BIP-Beat heute (+0,4 %), heiße Inflation (+3,5 %, Kern 3,6 %), RBA diskutierte sogar eine Erhöhung, höchster G10-Zins (4,35 %) und stark steigender 2-Jahres-Zins, dazu Risk-on-Rückenwind."
+      "score": 8,
+      "grund": "Klarste Geschichte der Woche: BIP-Beat (+0,4 %, y/y +2,1 % über Konsens), heiße Inflation (+3,5 %, Kern 3,6 %), RBA diskutierte sogar eine Erhöhung, höchster G10-Zins (4,35 %) und stark steigender 2-Jahres-Zins, dazu Risk-on-Rückenwind. Kleiner Dämpfer: die Binnennachfrage kühlte im BIP etwas ab."
     },
     "NZD": {
       "stimmung": "neutral",
@@ -71,13 +71,13 @@
     },
     {
       "paar": "AUD/USD",
-      "score": 6,
-      "treiber": "BIP-Beat + heiße Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie klar vom Dollar-Block nach oben (bestes Trefferblatt aller Paare)."
+      "score": 5,
+      "treiber": "BIP-Beat + heiße Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie vom Dollar-Block nach oben (bestes Trefferblatt aller Paare); leicht getrimmt wegen weicherer Binnennachfrage."
     },
     {
       "paar": "USD/CAD",
-      "score": -4,
-      "treiber": "Öl-Explosion (+10 % Woche) + falkenhafte BoC geben dem Loonie einen Vorteil — der Dollar verliert hier trotz seiner Gesamtstärke."
+      "score": -3,
+      "treiber": "Öl-Explosion (+9 % Woche) + falkenhafte BoC geben dem Loonie einen Vorteil — aber die geplatzten US-Kanada-Handelsgespräche + neue Zölle dämpfen den Loonie-Vorteil (weniger negativ als Vortag)."
     },
     {
       "paar": "USD/CHF",
@@ -187,21 +187,20 @@
     "Ehrliche Bilanz (unverändert wichtig): Über 10 ausgewertete Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/10 Wochen-Dollar-Wetten richtig). Deshalb Scores klein und bewusst nach paar-eigenen Geschichten diversifiziert (Aussie heiß, Loonie mit BIP-Beat), statt sieben Mal dieselbe Dollar-Wette zu setzen."
   ],
   "tagesnews": {
-    "stand": "2026-09-02",
-    "wochentag": "Mittwoch",
-    "tenor": "Gemischter Datentag: heute Nachmittag der Kanada-Zinsentscheid (Halten 2,25 % erwartet), am Morgen kam schon das australische Wachstum überraschend gut. Der Dollar bleibt fest, aber gedeckelt (Index knapp unter 99,7) — feste US-Zinsen stützen, doch alle warten auf den großen US-Jobbericht am Freitag. Auffällig: Öl ist auf Wochensicht +10 % explodiert (Nahost), Gold vom Rekord etwas zurück.",
+    "stand": "2026-09-03",
+    "wochentag": "Donnerstag",
+    "tenor": "Der Arbeitsmarkt wackelt vor dem großen Jobbericht: gestern kam die private Job-Vorschau (ADP) schwach herein (+38k statt ~48k), heute folgt die US-Dienstleistungs-Stimmung. Gegenspieler bleibt die heiße Inflation (Öl auf Wochensicht +9 % explodiert). Der Dollar hält sich fest knapp unter 99,7 — die eigentliche Entscheidung fällt morgen mit dem US-Jobbericht.",
     "heute": [
-      "🇨🇦 HEUTE ~15:45 Wien — Kanada-Zinsentscheid (Bank of Canada). Erwartet: HALTEN bei 2,25 % (alle 35 befragten Ökonomen). Kinderleicht: Der Leitzins ist der Preis fürs Geld — bleibt er gleich, ist es ein Nicht-Ereignis. Spannend ist der TON: Zwei Banken erwarten wegen des teuren Öls sogar bald eine Erhöhung. Klingt Macklem hart → Rückenwind für den Kanada-Dollar.",
-      "🇦🇺 HEUTE FRÜH schon da — Australien-Wachstum (BIP) 2. Quartal: +0,4 % (besser als die erwarteten +0,3 %), aufs Jahr +2,1 %. Kinderleicht: Die Wirtschaft wächst solider als gedacht → der Aussie legte zu. Passt zur klarsten Geschichte der Woche (heiße Inflation + harte Notenbank).",
-      "🧭 Kurslage Mittwochfrüh: Dollar-Index ~99,6 (fest, aber gedeckelt), Euro um 1,16, Gold ~4.350 $ (vom Rekord ~200 $ zurück, 2-Wochen-Tief), Öl deutlich teurer (WTI ~91 $, +10 % Woche wegen Nahost), Angst-Barometer VIX ~16 (niedrig = entspannt). Feste US-Zinsen (10J ~4,80 %) stützen den Dollar.",
-      "📅 Rest der Woche: Do 3.9. US-Dienstleistungs-Stimmung (ISM Services) · Fr 4.9. US-Jobbericht (NFP, 14:30 Wien) = DAS Event, Konsens schwach (~50–75k) nach zwei Job-Schocks — der eigentliche Test für die Falken-Fed."
+      "🇺🇸 HEUTE 16:00 Wien — US-Dienstleistungs-Stimmung (ISM Services). Kinderleicht: ein Stimmungs-Barometer der Dienstleister (über 50 = die Branche wächst). Wichtig ist auch der Preis-Index darin: bleibt er heiß, bestätigt das den harten Fed-Ton. Dazu 14:30 Wien die wöchentlichen Erstanträge auf Arbeitslosenhilfe — ein schneller Puls des Arbeitsmarkts vor dem morgigen Jobbericht.",
+      "🧭 Kurslage Donnerstagfrüh: Dollar-Index ~99,6 (fest, aber gedeckelt), Euro um 1,159, Gold ~4.330 $ (vom Rekord zurück, 3-Wochen-Tief), Öl teuer (WTI ~91 $, +9 % Woche wegen Nahost), Angst-Barometer VIX ~15 (niedrig = entspannt). Feste US-Zinsen (10J ~4,79 %) stützen den Dollar.",
+      "📅 Morgen der Höhepunkt: Fr — US-Jobbericht (NFP, 14:30 Wien) = DAS Event. Konsens schwach (~70–75k neue Stellen, Quote 4,3 %) nach zwei Job-Schocks. Zeitgleich Kanadas Arbeitsmarkt. Kommt der Bericht ebenfalls schwach → Zinssenkungs-Fantasie zurück, Dollar unter Druck; kommt er stark → die Falken-Fed gewinnt."
     ],
     "gestern": [
-      "🇪🇺 Di 1.9: Euro-Inflation (Flash, August) Schlagzeile 3,3 % (hoch wie erwartet, höchster Stand seit Sept 2023 — getrieben von teurer Energie/Nahost). ABER: die Kern-Inflation (ohne Energie/Essen) KÜHLTE leicht auf 2,4 %. Gemischt für den Euro: Schlagzeile heiß, aber der für die EZB wichtigere Kern gibt nach → das Erhöhungs-Argument wird schwächer.",
-      "🇺🇸 Di 1.9: US-Industrie-Stimmung (ISM) 54,6 — von 55,6 gefallen, aber besser als erwartet und weiter klar im Wachstum. Der Preis-Index blieb heiß (71,1) = Inflationsdruck in den Fabriken → stützt den harten Fed-Ton.",
-      "🇺🇸 Di 1.9: Offene Stellen (JOLTS, Juli) 7,27 Mio. — der Arbeitsmarkt kühlt langsam ab, aber kein Absturz. Frühwarnung vor dem großen Jobbericht am Freitag.",
-      "🏔️ Fr 28.8: Warsh-Grundsatzrede (Jackson Hole) = FALKENHAFT — Inflation „weiterhin zu hoch“, Fed „habe mehr zu tun“. Der Markt preist wieder eine Erhöhung ein (~34 % Chance am 16.9.), eine Senkung ist fast vom Tisch. Trotzdem rallyt der Dollar nicht durch (Gold nahe Rekord).",
-      "🇺🇸 Mi 26.8: US-Kern-PCE (Fed-Lieblings-Inflation, Juli) +0,2 % im Monat / +3,3 % im Jahr = zäh und klar über dem 2-%-Ziel — die Rückendeckung für Warshs harten Ton."
+      "🇨🇦 Mi 2.9: Kanada-Zinsentscheid — HALTEN bei 2,25 % (7. Mal in Folge, wie erwartet), aber falkenhafter Ton: die Notenbank WARNT, dass neue US-Zölle und teures Öl die Inflation über 3 % treiben und sogar eine Erhöhung erzwingen könnten. Kinderleicht: gleicher Zins, aber härtere Worte = leichter Rückenwind für den Loonie. WERMUTSTROPFEN: Die Handelsgespräche USA–Kanada sind GEPLATZT, beide Seiten verhängen neue Zölle — das belastet den Kanada-Dollar von der anderen Seite.",
+      "🇦🇺 Mi 2.9: Australien-Wachstum (BIP) 2. Quartal +0,4 % (besser als die erwarteten +0,3 %), aufs Jahr +2,1 % (über Konsens 1,8 %). Solides Wachstum → stützt den Aussie. Kleiner Haken: die Binnennachfrage kühlte etwas ab.",
+      "🇺🇸 Mi 2.9: Private Job-Vorschau (ADP) August nur +38k (unter den ~48k erwartet, Vormonat +46k). Kinderleicht: die Privatwirtschaft stellt kaum noch ein — der Arbeitsmarkt verliert Schwung. Frühwarnung vor dem großen Jobbericht am Freitag; erhöht das Risiko nach unten. Dazu das Fed-Konjunkturbuch (Beige Book).",
+      "🇪🇺 Di 1.9: Euro-Inflation (Flash, August) Schlagzeile 3,3 % (hoch, höchster Stand seit Sept 2023, getrieben von teurer Energie/Nahost). ABER: die für die EZB wichtigere Kern-Inflation kühlte leicht auf ~2,4 % → das Erhöhungs-Argument wird schwächer, gemischt für den Euro.",
+      "🇺🇸 Di 1.9: US-Industrie-Stimmung (ISM) 54,6 (leicht gefallen, aber weiter klar im Wachstum, Preis-Index heiß 71,1) + Offene Stellen (JOLTS) 7,27 Mio. (Arbeitsmarkt kühlt langsam, kein Absturz)."
     ]
   }
 }

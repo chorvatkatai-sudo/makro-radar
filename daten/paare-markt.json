@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-02T18:16:56.749Z",
+  "stand": "2026-09-03T05:06:13.130Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -38,24 +38,24 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 6,
+      "baseScore": 5,
       "tiltCot": -3,
       "tiltZins": 6,
       "tiltGesamt": 3,
-      "score": 9,
+      "score": 8,
       "cotExtrem": null,
-      "treiber": "BIP-Beat + heiße Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie klar vom Dollar-Block nach oben (bestes Trefferblatt aller Paare).",
+      "treiber": "BIP-Beat + heiße Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie vom Dollar-Block nach oben (bestes Trefferblatt aller Paare); leicht getrimmt wegen weicherer Binnennachfrage.",
       "istCross": false
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -4,
+      "baseScore": -3,
       "tiltCot": 5,
       "tiltZins": 3,
       "tiltGesamt": 8,
-      "score": 4,
+      "score": 5,
       "cotExtrem": null,
-      "treiber": "Öl-Explosion (+10 % Woche) + falkenhafte BoC geben dem Loonie einen Vorteil — der Dollar verliert hier trotz seiner Gesamtstärke.",
+      "treiber": "Öl-Explosion (+9 % Woche) + falkenhafte BoC geben dem Loonie einen Vorteil — aber die geplatzten US-Kanada-Handelsgespräche + neue Zölle dämpfen den Loonie-Vorteil (weniger negativ als Vortag).",
       "istCross": false
     },
     {
@@ -104,11 +104,11 @@
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": 5,
+      "baseScore": 4,
       "tiltCot": 1,
       "tiltZins": 8,
       "tiltGesamt": 9,
-      "score": 14,
+      "score": 13,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

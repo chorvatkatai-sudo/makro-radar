@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-04T14:39:26.059Z",
+  "stand": "2026-09-04T15:38:50.688Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -3,
       "tiltCot": -3,
-      "tiltZins": 0,
-      "tiltGesamt": -3,
-      "score": -6,
+      "tiltZins": 2,
+      "tiltGesamt": -1,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Pfund ohne eigenen Treiber trifft auf den Dollar-Boden aus dem Jobbericht — der steigende Pfund-2J-Zins bremst den Rückgang aber ab.",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 3,
       "tiltCot": -3,
-      "tiltZins": 1,
-      "tiltGesamt": -2,
-      "score": 1,
+      "tiltZins": 2,
+      "tiltGesamt": -1,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "BIP-Beat + Hochzins + Risk-on lösen den Aussie nach oben vom Dollar-Block — trotz des starken US-Jobberichts positiv (bestes Trefferblatt aller Paare).",
       "istCross": false
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 3,
       "tiltCot": 3,
-      "tiltZins": 5,
-      "tiltGesamt": 8,
-      "score": 11,
+      "tiltZins": 4,
+      "tiltGesamt": 7,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

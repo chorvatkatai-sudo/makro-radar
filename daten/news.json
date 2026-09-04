@@ -1,11 +1,47 @@
 {
-  "stand": "2026-09-04T14:39:26.057Z",
+  "stand": "2026-09-04T15:38:50.687Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: Dovish hold may follow September hike - Rabobank",
+      "link": "https://www.fxstreet.com/news/european-central-bank-dovish-hold-may-follow-september-hike-rabobank-202609041524",
+      "datum": "2026-09-04T15:24:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index rises as strong NFP revives Fed hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-strong-nfp-revives-fed-hike-bets-202609041521",
+      "datum": "2026-09-04T15:21:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Hungary: Inflation uptick complicates rate-cut path – ING",
+      "link": "https://www.fxstreet.com/news/hungary-inflation-uptick-complicates-rate-cut-path-ing-202609041514",
+      "datum": "2026-09-04T15:14:09.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "datum": "2026-09-04T15:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
+      "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453",
+      "datum": "2026-09-04T14:53:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Gradual improvement outlook on labour market – RBC",
+      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-outlook-on-labour-market-rbc-202609041452",
+      "datum": "2026-09-04T14:52:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "United States: Solid jobs data support steady Fed – Commerzbank",
@@ -43,40 +79,10 @@
       "datum": "2026-09-04T13:49:38.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound trims losses against US Dollar after NFP-driven volatility",
-      "link": "https://www.fxstreet.com/news/british-pound-trims-losses-against-us-dollar-after-nfp-driven-volatility-202609041346",
-      "datum": "2026-09-04T13:46:26.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump tells Fed: Lower the rate or I'll stop trading with countries with which we have a deficit",
       "link": "https://investinglive.com/news/trump-tells-fed-lower-the-rate-or-i-ll-stop-trading-with-countries-with-which-we-have-a-deficit/",
       "datum": "2026-09-04T13:45:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Central bank buying underpins prices – ING",
-      "link": "https://www.fxstreet.com/news/gold-central-bank-buying-underpins-prices-ing-202609041325",
-      "datum": "2026-09-04T13:25:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro slips against US Dollar as Nonfarm Payrolls crush expectations",
-      "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-nonfarm-payrolls-crush-expectations-202609041319",
-      "datum": "2026-09-04T13:19:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen steadies against US Dollar after strong NFP report",
-      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-against-us-dollar-after-strong-nfp-report-202609041309",
-      "datum": "2026-09-04T13:09:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso: Trade talks support Peso against US Dollar - Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexican-peso-trade-talks-support-peso-against-us-dollar-societe-generale-202609041250",
-      "datum": "2026-09-04T12:50:35.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -104,15 +110,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
+      "titel": "Gold recovers from post-NFP low as US Dollar trims gains",
       "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
       "datum": "2026-09-04T11:03:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "How have interest rate expectations changed after this week's events?",
-      "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-3/",
-      "datum": "2026-09-04T10:54:42.000Z"
     }
   ]
 }

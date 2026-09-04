@@ -582,20 +582,20 @@
   {
     "date": "2026-09-09T01:30:00.000Z",
     "country": "CNY",
-    "title": "PPI YoY",
+    "title": "Inflation Rate MoM",
     "impact": "Medium",
-    "forecast": "3.6%",
-    "previous": "3.5%",
+    "forecast": "",
+    "previous": "-0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-09T01:30:00.000Z",
     "country": "CNY",
-    "title": "Inflation Rate MoM",
+    "title": "PPI YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "-0.1%",
+    "forecast": "3.6%",
+    "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
   },

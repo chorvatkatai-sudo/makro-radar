@@ -1,11 +1,35 @@
 {
-  "stand": "2026-09-04T15:38:50.687Z",
+  "stand": "2026-09-04T17:56:24.627Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average falls on a jobs number the president loves",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-falls-on-a-jobs-number-the-president-loves-202609041736",
+      "datum": "2026-09-04T17:36:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver claws back post-NFP losses after briefly crashing below $65",
+      "link": "https://www.fxstreet.com/news/silver-claws-back-post-nfp-losses-after-briefly-crashing-below-65-202609041551",
+      "datum": "2026-09-04T15:51:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Euro forms potential higher low above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-forms-potential-higher-low-above-100-day-sma-202609041543",
+      "datum": "2026-09-04T15:43:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Brent: Questionable flows, fragile outlook – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-questionable-flows-fragile-outlook-commerzbank-202609041542",
+      "datum": "2026-09-04T15:42:27.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "European Central Bank: Dovish hold may follow September hike - Rabobank",
@@ -53,30 +77,6 @@
       "titel": "European Central Bank: September hike path and oil risks – Nomura",
       "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-path-and-oil-risks-nomura-202609041421",
       "datum": "2026-09-04T14:21:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "\"Lower the rate or I’ll stop trading\": Trump pressures Fed after strong US jobs report",
-      "link": "https://www.fxstreet.com/news/lower-the-rate-or-ill-stop-trading-trump-pressures-fed-after-strong-us-jobs-report-202609041410",
-      "datum": "2026-09-04T14:10:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Jobs weakness caps gains against US Dollar - TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-weakness-caps-gains-against-us-dollar-td-securities-202609041406",
-      "datum": "2026-09-04T14:06:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar slides as Canada sheds 41.7K jobs, US payrolls surge",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-canada-sheds-417k-jobs-us-payrolls-surge-202609041400",
-      "datum": "2026-09-04T14:00:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Jobs strength lifts hike odds – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-jobs-strength-lifts-hike-odds-ing-202609041349",
-      "datum": "2026-09-04T13:49:38.000Z"
     },
     {
       "quelle": "ForexLive",

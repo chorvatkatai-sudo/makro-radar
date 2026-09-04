@@ -83,6 +83,12 @@
     "2026-08-26T08:30:00-04:00|USD|Prelim GDP q/q",
     "2026-09-01T10:00:00-04:00|USD|ISM Manufacturing PMI",
     "2026-09-01T21:30:00-04:00|AUD|GDP q/q",
-    "2026-09-02T09:45:00-04:00|CAD|Overnight Rate"
+    "2026-09-02T09:45:00-04:00|CAD|Overnight Rate",
+    "2026-09-01T22:00:00-04:00|NZD|Official Cash Rate",
+    "2026-09-04T08:30:00-04:00|CAD|Employment Change",
+    "2026-09-04T08:30:00-04:00|CAD|Unemployment Rate",
+    "2026-09-04T08:30:00-04:00|USD|Average Hourly Earnings m/m",
+    "2026-09-04T08:30:00-04:00|USD|Non-Farm Employment Change",
+    "2026-09-04T08:30:00-04:00|USD|Unemployment Rate"
   ]
 }

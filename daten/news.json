@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-04T10:16:02.097Z",
+  "stand": "2026-09-04T13:31:44.473Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,39 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "BoE's Bailey defends central bank flexibility, warns of bond market pressures",
-      "link": "https://www.fxstreet.com/news/boes-bailey-defends-central-bank-flexibility-warns-of-bond-market-pressures-202609040959",
-      "datum": "2026-09-04T09:59:50.000Z"
+      "titel": "Gold: Central bank buying underpins prices – ING",
+      "link": "https://www.fxstreet.com/news/gold-central-bank-buying-underpins-prices-ing-202609041325",
+      "datum": "2026-09-04T13:25:01.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Data volatility guides Bank of Canada – Commerzbank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-data-volatility-guides-bank-of-canada-commerzbank-202609040957",
-      "datum": "2026-09-04T09:57:23.000Z"
+      "titel": "Euro slips against US Dollar as Nonfarm Payrolls crush expectations",
+      "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-nonfarm-payrolls-crush-expectations-202609041319",
+      "datum": "2026-09-04T13:19:01.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-stalls-below-4500-awaiting-us-nonfarm-payrolls-202609040949",
-      "datum": "2026-09-04T09:49:51.000Z"
+      "titel": "Japanese Yen steadies against US Dollar after strong NFP report",
+      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-against-us-dollar-after-strong-nfp-report-202609041309",
+      "datum": "2026-09-04T13:09:07.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar Index: Two-way risks within bearish channel – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-two-way-risks-within-bearish-channel-ocbc-202609040947",
-      "datum": "2026-09-04T09:47:14.000Z"
+      "titel": "Mexican Peso: Trade talks support Peso against US Dollar - Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-trade-talks-support-peso-against-us-dollar-societe-generale-202609041250",
+      "datum": "2026-09-04T12:50:35.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609040930",
-      "datum": "2026-09-04T09:30:04.000Z"
+      "titel": "Euro retreats against Pound Sterling as Eurozone Retail Sales disappoint",
+      "link": "https://www.fxstreet.com/news/euro-retreats-against-pound-sterling-as-eurozone-retail-sales-disappoint-202609041239",
+      "datum": "2026-09-04T12:39:49.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada Employment change for August -41,7K vs 15.0K estimate",
+      "link": "https://investinglive.com/news/canada-employment-change-for-august-41-7k-vs-15-0k-estimate/",
+      "datum": "2026-09-04T12:30:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US August non-farm payrolls +162K vs +56K expected",
+      "link": "https://investinglive.com/news/us-august-non-farm-payrolls-vs-56k-expected/",
+      "datum": "2026-09-04T12:30:06.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee: Rate hike path supports currency – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rate-hike-path-supports-currency-societe-generale-202609040927",
-      "datum": "2026-09-04T09:27:04.000Z"
+      "titel": "European Central Bank: Inflation-driven hike prospects – DBS",
+      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-driven-hike-prospects-dbs-202609041229",
+      "datum": "2026-09-04T12:29:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/wti-oil-retreats-below-89-despite-persistent-tensions-around-the-strait-of-hormuz-202609041224",
+      "datum": "2026-09-04T12:24:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Locked and loaded for the August edition of non-farm payrolls",
+      "link": "https://investinglive.com/news/locked-and-loaded-for-the-august-edition-of-non-farm-payrolls/",
+      "datum": "2026-09-04T12:10:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Close call on further tightening – Commerzbank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-close-call-on-further-tightening-commerzbank-202609041204",
+      "datum": "2026-09-04T12:04:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Sharp rebound and Fed repricing – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-sharp-rebound-and-fed-repricing-mufg-202609041152",
+      "datum": "2026-09-04T11:52:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index edges higher to near 99.00 ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-edges-higher-to-near-9900-ahead-of-us-nfp-data-202609041147",
+      "datum": "2026-09-04T11:47:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Markets consolidate ahead of NFP",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-nfp/",
+      "datum": "2026-09-04T11:30:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
+      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
+      "datum": "2026-09-04T11:03:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "How have interest rate expectations changed after this week's events?",
+      "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-3/",
+      "datum": "2026-09-04T10:54:42.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -50,69 +110,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Experts agree: US-Iran tensions are far from over as Hormuz risks return",
-      "link": "https://www.fxstreet.com/news/experts-agree-us-iran-tensions-are-far-from-over-as-hormuz-risks-return-202609040916",
-      "datum": "2026-09-04T09:16:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Stronger yen driven by fundamentals – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-stronger-yen-driven-by-fundamentals-mufg-202609040915",
-      "datum": "2026-09-04T09:15:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Budget risks weigh on Sterling – Rabobank",
-      "link": "https://www.fxstreet.com/news/british-pound-budget-risks-weigh-on-sterling-rabobank-202609040906",
-      "datum": "2026-09-04T09:06:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Eurozone Retail Sales decline unexpectedly 0.6% MoM in July",
-      "link": "https://www.fxstreet.com/news/eurozone-retail-sales-declines-unexpectedly-06-mom-in-july-202609040902",
-      "datum": "2026-09-04T09:02:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Gradual recovery from Warsh sell-off against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-gradual-recovery-from-warsh-sell-off-against-us-dollar-ing-202609040852",
-      "datum": "2026-09-04T08:52:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What is the distribution of forecasts for the US NFP?",
-      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-0/",
-      "datum": "2026-09-04T08:00:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro remains steady above 1.1600, unfazed by downbeat Eurozone Retail Sales",
-      "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621",
-      "datum": "2026-09-04T06:21:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-35/",
-      "datum": "2026-09-04T05:09:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Markets tread water ahead of US payrolls",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-markets-tread-water-ahead-of-us-payrolls/",
-      "datum": "2026-09-04T03:50:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Household spending in Japan is the worst in more than 18 months",
-      "link": "https://investinglive.com/news/household-spending-in-japan-is-the-worst-in-more-than-18-months/",
-      "datum": "2026-09-04T00:09:57.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Waller tamps down rate hike bets",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-waller-tamps-down-rate-hike-bets/",
-      "datum": "2026-09-03T21:37:30.000Z"
+      "titel": "Breaking: US Nonfarm Payrolls rise by 162K in August vs. 56K forecast",
+      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830",
+      "datum": "2026-09-04T08:30:00.000Z"
     }
   ]
 }

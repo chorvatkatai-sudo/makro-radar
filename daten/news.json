@@ -1,11 +1,59 @@
 {
-  "stand": "2026-09-04T13:31:44.473Z",
+  "stand": "2026-09-04T14:39:26.057Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "United States: Solid jobs data support steady Fed – Commerzbank",
+      "link": "https://www.fxstreet.com/news/united-states-solid-jobs-data-support-steady-fed-commerzbank-202609041436",
+      "datum": "2026-09-04T14:36:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: September hike path and oil risks – Nomura",
+      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-path-and-oil-risks-nomura-202609041421",
+      "datum": "2026-09-04T14:21:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "\"Lower the rate or I’ll stop trading\": Trump pressures Fed after strong US jobs report",
+      "link": "https://www.fxstreet.com/news/lower-the-rate-or-ill-stop-trading-trump-pressures-fed-after-strong-us-jobs-report-202609041410",
+      "datum": "2026-09-04T14:10:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Jobs weakness caps gains against US Dollar - TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-weakness-caps-gains-against-us-dollar-td-securities-202609041406",
+      "datum": "2026-09-04T14:06:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar slides as Canada sheds 41.7K jobs, US payrolls surge",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-canada-sheds-417k-jobs-us-payrolls-surge-202609041400",
+      "datum": "2026-09-04T14:00:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Jobs strength lifts hike odds – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-jobs-strength-lifts-hike-odds-ing-202609041349",
+      "datum": "2026-09-04T13:49:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound trims losses against US Dollar after NFP-driven volatility",
+      "link": "https://www.fxstreet.com/news/british-pound-trims-losses-against-us-dollar-after-nfp-driven-volatility-202609041346",
+      "datum": "2026-09-04T13:46:26.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump tells Fed: Lower the rate or I'll stop trading with countries with which we have a deficit",
+      "link": "https://investinglive.com/news/trump-tells-fed-lower-the-rate-or-i-ll-stop-trading-with-countries-with-which-we-have-a-deficit/",
+      "datum": "2026-09-04T13:45:53.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold: Central bank buying underpins prices – ING",
@@ -31,12 +79,6 @@
       "datum": "2026-09-04T12:50:35.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro retreats against Pound Sterling as Eurozone Retail Sales disappoint",
-      "link": "https://www.fxstreet.com/news/euro-retreats-against-pound-sterling-as-eurozone-retail-sales-disappoint-202609041239",
-      "datum": "2026-09-04T12:39:49.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Canada Employment change for August -41,7K vs 15.0K estimate",
       "link": "https://investinglive.com/news/canada-employment-change-for-august-41-7k-vs-15-0k-estimate/",
@@ -49,40 +91,10 @@
       "datum": "2026-09-04T12:30:06.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Inflation-driven hike prospects – DBS",
-      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-driven-hike-prospects-dbs-202609041229",
-      "datum": "2026-09-04T12:29:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz",
-      "link": "https://www.fxstreet.com/news/wti-oil-retreats-below-89-despite-persistent-tensions-around-the-strait-of-hormuz-202609041224",
-      "datum": "2026-09-04T12:24:38.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Locked and loaded for the August edition of non-farm payrolls",
       "link": "https://investinglive.com/news/locked-and-loaded-for-the-august-edition-of-non-farm-payrolls/",
       "datum": "2026-09-04T12:10:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Close call on further tightening – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-close-call-on-further-tightening-commerzbank-202609041204",
-      "datum": "2026-09-04T12:04:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Sharp rebound and Fed repricing – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-sharp-rebound-and-fed-repricing-mufg-202609041152",
-      "datum": "2026-09-04T11:52:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index edges higher to near 99.00 ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-edges-higher-to-near-9900-ahead-of-us-nfp-data-202609041147",
-      "datum": "2026-09-04T11:47:13.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "How have interest rate expectations changed after this week's events?",
       "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-3/",
       "datum": "2026-09-04T10:54:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone retail sales fall in July as consumer spending softens",
-      "link": "https://investinglive.com/news/eurozone-retail-sales-fall-in-july-as-consumer-spending-softens/",
-      "datum": "2026-09-04T09:19:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: US Nonfarm Payrolls rise by 162K in August vs. 56K forecast",
-      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830",
-      "datum": "2026-09-04T08:30:00.000Z"
     }
   ]
 }

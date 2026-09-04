@@ -15,12 +15,12 @@
     "USD": {
       "stimmung": "neutral",
       "score": 5,
-      "grund": "Fest, aber gedeckelt: feste US-Zinsen (10J ~4,79 %), heiße Fabrik-Preise (ISM 71,1) und der falkenhafte Warsh stützen — doch die schwache ADP-Job-Vorschau (+38k) und der große Jobbericht am Freitag (Risiko nach unten) deckeln die Rally. Etwas gedämpft ggü. Vortag."
+      "grund": "Fest, aber gedeckelt: feste US-Zinsen (10J ~4,76 %), heiße Fabrik-Preise und der SPRUNG der Dienstleistungs-Stimmung (ISM Services 55,4) zeigen eine brummende Wirtschaft und stützen die harte Fed. Gegengewicht: schwache ADP-Vorschau (+38k) und der Jobbericht HEUTE (Risiko nach unten). Dollar-Index weich unter 99 + Gold-Rekordnähe = Entwertungs-Wette bleibt der Deckel."
     },
     "EUR": {
       "stimmung": "neutral",
       "score": 3,
-      "grund": "Gemischt: Schlagzeilen-Inflation heiß (3,3 %, Energie/Nahost), aber der für die EZB wichtigere Kern KÜHLTE auf 2,4 % → das Erhöhungs-Argument wird schwächer. Euro-2J-Zins zieht mit an, Spekulanten extrem short (Squeeze-Zünder)."
+      "grund": "Gemischt, aber mit Rückenwind: der Markt preist zu ~99 % eine EZB-ERHÖHUNG am Mi 10.9. auf 2,50 % ein (heiße Schlagzeilen-Inflation 3,3 %). Dämpfer: der wichtigere Kern kühlte auf 2,4 % und der Schritt ist bereits eingepreist. Euro-2J-Zins zieht mit an, Spekulanten extrem short (Squeeze-Zünder). Knapp positiv."
     },
     "GBP": {
       "stimmung": "neutral",
@@ -187,20 +187,20 @@
     "Ehrliche Bilanz (unverändert wichtig): Über 10 ausgewertete Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/10 Wochen-Dollar-Wetten richtig). Deshalb Scores klein und bewusst nach paar-eigenen Geschichten diversifiziert (Aussie heiß, Loonie mit BIP-Beat), statt sieben Mal dieselbe Dollar-Wette zu setzen."
   ],
   "tagesnews": {
-    "stand": "2026-09-03",
-    "wochentag": "Donnerstag",
-    "tenor": "Der Arbeitsmarkt wackelt vor dem großen Jobbericht: gestern kam die private Job-Vorschau (ADP) schwach herein (+38k statt ~48k), heute folgt die US-Dienstleistungs-Stimmung. Gegenspieler bleibt die heiße Inflation (Öl auf Wochensicht +9 % explodiert). Der Dollar hält sich fest knapp unter 99,7 — die eigentliche Entscheidung fällt morgen mit dem US-Jobbericht.",
+    "stand": "2026-09-04",
+    "wochentag": "Freitag",
+    "tenor": "JOBBERICHT-TAG. Heute um 14:30 Wien kommt der US-Jobbericht (NFP) — DAS Ereignis der Woche und der Schiedsrichter für die Fed. Nach zwei schwachen Monaten in Folge erwartet der Markt nur ~50–55k neue Stellen (Quote 4,1 %). Der Dollar hängt weich unter 99, Gold nahe Rekord und Öl +10 % auf der Woche — die Nervosität ist groß, aber die Richtung entscheidet sich erst am Nachmittag.",
     "heute": [
-      "🇺🇸 HEUTE 16:00 Wien — US-Dienstleistungs-Stimmung (ISM Services). Kinderleicht: ein Stimmungs-Barometer der Dienstleister (über 50 = die Branche wächst). Wichtig ist auch der Preis-Index darin: bleibt er heiß, bestätigt das den harten Fed-Ton. Dazu 14:30 Wien die wöchentlichen Erstanträge auf Arbeitslosenhilfe — ein schneller Puls des Arbeitsmarkts vor dem morgigen Jobbericht.",
-      "🧭 Kurslage Donnerstagfrüh: Dollar-Index ~99,6 (fest, aber gedeckelt), Euro um 1,159, Gold ~4.330 $ (vom Rekord zurück, 3-Wochen-Tief), Öl teuer (WTI ~91 $, +9 % Woche wegen Nahost), Angst-Barometer VIX ~15 (niedrig = entspannt). Feste US-Zinsen (10J ~4,79 %) stützen den Dollar.",
-      "📅 Morgen der Höhepunkt: Fr — US-Jobbericht (NFP, 14:30 Wien) = DAS Event. Konsens schwach (~70–75k neue Stellen, Quote 4,3 %) nach zwei Job-Schocks. Zeitgleich Kanadas Arbeitsmarkt. Kommt der Bericht ebenfalls schwach → Zinssenkungs-Fantasie zurück, Dollar unter Druck; kommt er stark → die Falken-Fed gewinnt."
+      "🇺🇸 HEUTE 14:30 Wien — US-Jobbericht (NFP, August) = DAS Event. Kinderleicht: die wichtigste Zahl des Monats — wie viele neue Stellen die USA geschaffen haben. Konsens nur ~+50–55k (Arbeitslosenquote 4,1 %, Löhne +0,2 % Monat / +3,0 % Jahr). Nach dem Job-Schock im Juli (−23k) ist das Risiko heikel: kommt der Bericht ERNEUT schwach → Zinssenkungs-Hoffnung zurück, Dollar unter Druck, Gold/Aktien hoch; kommt er überraschend stark → die harte Fed gewinnt und der Dollar erholt sich. Zeitgleich der 🇨🇦 Kanada-Arbeitsmarkt.",
+      "🧭 Kurslage Freitagfrüh (harte Marktdaten): Dollar-Index 99,0 (weich, −0,7 % Woche, unter 99), Euro um 1,161, Gold ~4.520 $ (nahe Rekord, +0,9 % Woche), Öl teuer (WTI ~92 $, +10 % Woche wegen Nahost), Angst-Barometer VIX 14,3 (sehr niedrig = entspannter Risk-on-Markt), Bitcoin ~81.600 $ (+5 %). Feste US-Zinsen (10J ~4,76 %) geben dem Dollar einen Boden, aber die Gold-/Bitcoin-Rekordnähe zeigt: die Flucht aus dem Papiergeld läuft weiter.",
+      "📅 Nächste Woche der Paukenschlag: 🇪🇺 EZB-Zinsentscheid Mi 10.9. — der Markt preist zu ~99 % eine ERHÖHUNG um 0,25 auf 2,50 % ein (wegen der heißen Energie-Inflation). Da sie fast sicher ist, zählt danach vor allem der Ton: signalisiert Lagarde ein Ende der Erhöhungen, kann der Euro trotz Zinsschritt abgeben."
     ],
     "gestern": [
-      "🇨🇦 Mi 2.9: Kanada-Zinsentscheid — HALTEN bei 2,25 % (7. Mal in Folge, wie erwartet), aber falkenhafter Ton: die Notenbank WARNT, dass neue US-Zölle und teures Öl die Inflation über 3 % treiben und sogar eine Erhöhung erzwingen könnten. Kinderleicht: gleicher Zins, aber härtere Worte = leichter Rückenwind für den Loonie. WERMUTSTROPFEN: Die Handelsgespräche USA–Kanada sind GEPLATZT, beide Seiten verhängen neue Zölle — das belastet den Kanada-Dollar von der anderen Seite.",
-      "🇦🇺 Mi 2.9: Australien-Wachstum (BIP) 2. Quartal +0,4 % (besser als die erwarteten +0,3 %), aufs Jahr +2,1 % (über Konsens 1,8 %). Solides Wachstum → stützt den Aussie. Kleiner Haken: die Binnennachfrage kühlte etwas ab.",
-      "🇺🇸 Mi 2.9: Private Job-Vorschau (ADP) August nur +38k (unter den ~48k erwartet, Vormonat +46k). Kinderleicht: die Privatwirtschaft stellt kaum noch ein — der Arbeitsmarkt verliert Schwung. Frühwarnung vor dem großen Jobbericht am Freitag; erhöht das Risiko nach unten. Dazu das Fed-Konjunkturbuch (Beige Book).",
-      "🇪🇺 Di 1.9: Euro-Inflation (Flash, August) Schlagzeile 3,3 % (hoch, höchster Stand seit Sept 2023, getrieben von teurer Energie/Nahost). ABER: die für die EZB wichtigere Kern-Inflation kühlte leicht auf ~2,4 % → das Erhöhungs-Argument wird schwächer, gemischt für den Euro.",
-      "🇺🇸 Di 1.9: US-Industrie-Stimmung (ISM) 54,6 (leicht gefallen, aber weiter klar im Wachstum, Preis-Index heiß 71,1) + Offene Stellen (JOLTS) 7,27 Mio. (Arbeitsmarkt kühlt langsam, kein Absturz)."
+      "🇺🇸 Do 3.9: US-Dienstleistungs-Stimmung (ISM Services) August 55,4 — deutlicher SPRUNG nach oben (von 54,1, über die erwarteten ~54,5), 26. Wachstumsmonat in Folge; Geschäftsaktivität 61,7 und Auftragseingang 60,9 sprangen kräftig. Kinderleicht: die große US-Dienstleistungsbranche brummt wieder — ein starkes Zeichen für die Wirtschaft, das die harte Fed stützt und im Kontrast zum schwachen Arbeitsmarkt steht.",
+      "🇺🇸 Do 3.9: Wöchentliche Erstanträge auf Arbeitslosenhilfe 206k (praktisch wie erwartet, 205k) — der schnelle Wochenpuls des Arbeitsmarkts zeigt KEINE Verschlechterung. Beruhigend vor dem großen Jobbericht heute, widerspricht ein Stück weit der schwachen ADP-Vorschau.",
+      "🇨🇦 Mi 2.9: Kanada-Zinsentscheid — HALTEN bei 2,25 % (7. Mal in Folge, wie erwartet), aber falkenhafter Ton: die Notenbank WARNT, dass neue US-Zölle und teures Öl die Inflation über 3 % treiben und sogar eine Erhöhung erzwingen könnten. Gleicher Zins, härtere Worte = leichter Rückenwind für den Loonie. WERMUTSTROPFEN: Die Handelsgespräche USA–Kanada sind GEPLATZT, beide Seiten verhängen neue Zölle — das belastet den Kanada-Dollar von der anderen Seite.",
+      "🇦🇺 Mi 2.9: Australien-Wachstum (BIP) 2. Quartal +0,4 % (besser als die erwarteten +0,3 %), aufs Jahr +2,1 % (über Konsens 1,8 %). Solides Wachstum → stützt den Aussie, die klarste Einzelgeschichte der Woche.",
+      "🇺🇸 Mi 2.9: Private Job-Vorschau (ADP) August nur +38k (unter den ~48k erwartet) → die Privatwirtschaft stellt kaum noch ein, Frühwarnung vor dem heutigen Jobbericht. 🇪🇺 Di 1.9: Euro-Inflation (Flash) Schlagzeile 3,3 % (Höchststand seit Sept 2023, Energie/Nahost) — die für die EZB wichtigere Kern-Inflation kühlte aber leicht auf 2,4 %."
     ]
   }
 }

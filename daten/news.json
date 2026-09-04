@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-03T21:31:43.068Z",
+  "stand": "2026-09-04T05:06:16.414Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,9 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: Depreciation trend persists as oil shock weighs – MUFG",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-depreciation-trend-persists-as-oil-shock-weighs-mufg-202609032113",
-      "datum": "2026-09-03T21:13:49.000Z"
+      "titel": "Swiss Franc weakens ahead of Unemployment Rate data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-ahead-of-unemployment-rate-data-202609040450",
+      "datum": "2026-09-04T04:50:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Bulls await acceptance above $90.00 and 61.8% Fibo. amid Iran risks",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-await-acceptance-above-9000-and-618-fibo-amid-iran-risks-202609040446",
+      "datum": "2026-09-04T04:46:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/JPY Price Forecast: Rebounds above 112.50, while staying constrained below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-rebounds-above-11250-while-staying-constrained-below-100-day-sma-202609040439",
+      "datum": "2026-09-04T04:39:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609040435",
+      "datum": "2026-09-04T04:35:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold consolidates below $4,500 as bulls look to US NFP for Fed rate cues",
+      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418",
+      "datum": "2026-09-04T04:18:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Markets tread water ahead of US payrolls",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-markets-tread-water-ahead-of-us-payrolls/",
+      "datum": "2026-09-04T03:50:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Trades near 181.50 after rebounding from descending channel bottom",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-18150-after-rebounding-from-descending-channel-bottom-202609040338",
+      "datum": "2026-09-04T03:38:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Strong recovery from 100-day MA ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-strong-recovery-from-100-day-ma-ahead-of-us-nfp-data-202609040320",
+      "datum": "2026-09-04T03:20:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar gains momentum to near 0.5900, US NFP data looms",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-momentum-to-near-05900-us-nfp-data-looms-202609040245",
+      "datum": "2026-09-04T02:45:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japan’s Katayama says will closely monitoring bond markets with heightened urgency",
+      "link": "https://www.fxstreet.com/news/japans-katayama-says-will-closely-monitoring-bond-markets-with-heightened-urgency-202609040239",
+      "datum": "2026-09-04T02:39:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index weakens as Fed’s Waller signals rate pause",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-as-feds-waller-signals-rate-pause-202609040225",
+      "datum": "2026-09-04T02:25:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD trades below $67.00 amid mixed setup as US NFP looms",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-below-6700-amid-mixed-setup-as-us-nfp-looms-202609040223",
+      "datum": "2026-09-04T02:23:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar strengthens on RBA hike odds",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-on-rba-hike-odds-202609040207",
+      "datum": "2026-09-04T02:07:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Household spending in Japan is the worst in more than 18 months",
+      "link": "https://investinglive.com/news/household-spending-in-japan-is-the-worst-in-more-than-18-months/",
+      "datum": "2026-09-04T00:09:57.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Waller tamps down rate hike bets",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-waller-tamps-down-rate-hike-bets/",
+      "datum": "2026-09-03T21:37:30.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -19,100 +103,16 @@
       "datum": "2026-09-03T21:07:05.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Malaysian Ringgit: Stable policy underpins growth narrative – BNY",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-stable-policy-underpins-growth-narrative-bny-202609032055",
-      "datum": "2026-09-03T20:55:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG eyes 100-day SMA after Waller-led rally",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-eyes-100-day-sma-after-waller-rally-202609031957",
-      "datum": "2026-09-03T19:57:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Stronger Singapore growth with contained inflation – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-stronger-singapore-growth-with-contained-inflation-commerzbank-202609031938",
-      "datum": "2026-09-03T19:38:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Range trade persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-against-us-dollar-uob-202609031852",
-      "datum": "2026-09-03T18:52:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: Break of 50-day SMA exposes 0.8040",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-50-day-sma-break-exposes-08040-202609031847",
-      "datum": "2026-09-03T18:47:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar extends decline as NFP takes centre stage",
-      "link": "https://www.fxstreet.com/news/us-dollar-extends-decline-as-nfp-takes-centre-stage-202609031822",
-      "datum": "2026-09-03T18:22:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold soars as Waller's dovish tone hurts Fed hike bets ahead of NFP",
-      "link": "https://www.fxstreet.com/news/gold-soars-as-wallers-dovish-tone-hurts-fed-hike-bets-ahead-of-nfp-202609031820",
-      "datum": "2026-09-03T18:20:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European gas: Low storage keeps a floor under prices into winter - ING",
-      "link": "https://www.fxstreet.com/news/european-gas-low-storage-keeps-a-floor-under-prices-into-winter-ing-202609031812",
-      "datum": "2026-09-03T18:12:07.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Preview: August non-farm payrolls by the numbers",
       "link": "https://investinglive.com/news/preview-august-non-farm-payrolls-by-the-numbers/",
       "datum": "2026-09-03T17:52:49.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Equities: AI-led upside and income focus – HSBC",
-      "link": "https://www.fxstreet.com/news/equities-ai-led-upside-and-income-focus-hsbc-202609031752",
-      "datum": "2026-09-03T17:52:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: US Nonfarm Payrolls take centre stage",
-      "link": "https://www.fxstreet.com/news/forex-today-us-nonfarm-payrolls-take-centre-stage-202609031741",
-      "datum": "2026-09-03T17:41:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Intervention ceiling guides BoJ path – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-ceiling-guides-boj-path-bny-202609031739",
-      "datum": "2026-09-03T17:39:08.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "ISM non manufacturing PMI for August 55.4 versus 54.2 estimate. Stronger than expectations",
       "link": "https://investinglive.com/news/ism-non-manufacturing-pmi-for-august-55-4-versus-54-2-estimate-stronger-than-expectations/",
       "datum": "2026-09-03T14:00:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US trade deficit widens sharply in July as AI-related imports surge",
-      "link": "https://investinglive.com/news/us-trade-deficit-widens-sharply-in-july-as-ai-related-imports-surge/",
-      "datum": "2026-09-03T12:40:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US Initial Jobless claims 206K vs 205K estimate",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-206k-vs-205k-estimate/",
-      "datum": "2026-09-03T12:33:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Japanese yen surges higher for second straight day",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-japanese-yen-surges-higher-for-second-straight-day/",
-      "datum": "2026-09-03T12:11:20.000Z"
     }
   ]
 }

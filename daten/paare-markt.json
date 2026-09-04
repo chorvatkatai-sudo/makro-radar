@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-04T05:06:16.416Z",
+  "stand": "2026-09-04T08:24:55.262Z",
   "ausBriefing": "2026-08-28",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -3,
-      "tiltZins": 2,
-      "tiltGesamt": -1,
-      "score": -3,
+      "tiltZins": 4,
+      "tiltGesamt": 1,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Pfund ohne klaren Treiber trifft auf festen Dollar — aber der stark steigende Pfund-2J-Zins wirkt dagegen (Zins-Overlay).",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": 1,
       "tiltCot": 2,
-      "tiltZins": 0,
-      "tiltGesamt": 2,
-      "score": 3,
+      "tiltZins": -2,
+      "tiltGesamt": 0,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": 3,
       "tiltCot": 2,
-      "tiltZins": 3,
-      "tiltGesamt": 5,
-      "score": 8,
+      "tiltZins": 2,
+      "tiltGesamt": 4,
+      "score": 7,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 4,
       "tiltCot": 1,
-      "tiltZins": 7,
-      "tiltGesamt": 8,
-      "score": 12,
+      "tiltZins": 6,
+      "tiltGesamt": 7,
+      "score": 11,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

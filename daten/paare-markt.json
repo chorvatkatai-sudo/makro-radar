@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-04T17:56:24.628Z",
+  "stand": "2026-09-04T20:11:40.860Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -28,10 +28,10 @@
     {
       "paar": "USD/JPY",
       "baseScore": 4,
-      "tiltCot": 3,
+      "tiltCot": 4,
       "tiltZins": 2,
-      "tiltGesamt": 5,
-      "score": 9,
+      "tiltGesamt": 6,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Yen-Schwäche (40-Jahres-Tief, Mini-Zins) + starke US-Daten sind der Motor. Interventionsrisiko der japanischen Regierung deckelt nach oben.",
       "istCross": false
@@ -39,10 +39,10 @@
     {
       "paar": "AUD/USD",
       "baseScore": 3,
-      "tiltCot": -3,
+      "tiltCot": -2,
       "tiltZins": 3,
-      "tiltGesamt": 0,
-      "score": 3,
+      "tiltGesamt": 1,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "BIP-Beat + Hochzins + Risk-on lösen den Aussie nach oben vom Dollar-Block — trotz des starken US-Jobberichts positiv (bestes Trefferblatt aller Paare).",
       "istCross": false
@@ -61,10 +61,10 @@
     {
       "paar": "USD/CHF",
       "baseScore": 4,
-      "tiltCot": 4,
+      "tiltCot": 3,
       "tiltZins": 5,
-      "tiltGesamt": 9,
-      "score": 13,
+      "tiltGesamt": 8,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf, Null-Zins) + Dollar-Boden aus dem Jobbericht.",
       "istCross": false
@@ -72,10 +72,10 @@
     {
       "paar": "NZD/USD",
       "baseScore": 0,
-      "tiltCot": -3,
+      "tiltCot": -1,
       "tiltZins": -5,
-      "tiltGesamt": -8,
-      "score": -8,
+      "tiltGesamt": -6,
+      "score": -6,
       "cotExtrem": null,
       "treiber": "Patt: die RBNZ-Erhöhung (2,75 %, eigene Kiwi-Geschichte) hebt den Kiwi, der starke US-Jobbericht hält dagegen. Bewusst neutral statt Dollar-Block.",
       "istCross": false
@@ -83,10 +83,10 @@
     {
       "paar": "EUR/GBP",
       "baseScore": 1,
-      "tiltCot": 2,
+      "tiltCot": 3,
       "tiltZins": 0,
-      "tiltGesamt": 2,
-      "score": 3,
+      "tiltGesamt": 3,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -94,10 +94,10 @@
     {
       "paar": "EUR/JPY",
       "baseScore": 3,
-      "tiltCot": 2,
+      "tiltCot": 4,
       "tiltZins": 2,
-      "tiltGesamt": 4,
-      "score": 7,
+      "tiltGesamt": 6,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -105,10 +105,10 @@
     {
       "paar": "AUD/NZD",
       "baseScore": 2,
-      "tiltCot": 1,
+      "tiltCot": -1,
       "tiltZins": 8,
-      "tiltGesamt": 9,
-      "score": 11,
+      "tiltGesamt": 7,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

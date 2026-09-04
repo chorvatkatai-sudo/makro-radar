@@ -1,11 +1,77 @@
 {
-  "stand": "2026-09-04T17:56:24.627Z",
+  "stand": "2026-09-04T20:11:40.858Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-services-pmi-rebound-keeps-pboc-cautious-commerzbank-202609042003",
+      "datum": "2026-09-04T20:03:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Sterling’s rally stalls as US jobs data reopens Fed debate",
+      "link": "https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952",
+      "datum": "2026-09-04T19:52:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysia: Hawkish pause keeps options open – DBS",
+      "link": "https://www.fxstreet.com/news/malaysia-hawkish-pause-keeps-options-open-dbs-202609041934",
+      "datum": "2026-09-04T19:34:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: Dollar inflows support INR but impulse may fade – OCBC",
+      "link": "https://www.fxstreet.com/news/indian-rupee-dollar-inflows-support-inr-but-impulse-may-fade-ocbc-202609041932",
+      "datum": "2026-09-04T19:32:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Going to help cattle ranchers by allowing them to process their own beef.",
+      "link": "https://investinglive.com/news/trump-going-to-help-cattle-ranchers-by-allowing-them-to-process-their-own-beef/",
+      "datum": "2026-09-04T19:25:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Eurozone: Inflation above target into 2027 – Nordea",
+      "link": "https://www.fxstreet.com/news/eurozone-inflation-above-target-into-2027-nordea-202609041850",
+      "datum": "2026-09-04T18:50:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Witkoff and Kushner will bring proposal to Putin to end the war",
+      "link": "https://investinglive.com/news/trump-we-may-hit-piackaxe-mountain-very-soon/",
+      "datum": "2026-09-04T18:46:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Hammack says policy is not restrictive enough",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-is-not-restrictive-enough-202609041816",
+      "datum": "2026-09-04T18:16:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Turkey: CBRT likely to hold before two Q4 rate cuts - ING",
+      "link": "https://www.fxstreet.com/news/turkey-cbrt-likely-to-hold-before-two-q4-rate-cuts-ing-202609041810",
+      "datum": "2026-09-04T18:10:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar resumes advance as US Dollar loses post-NFP momentum",
+      "link": "https://www.fxstreet.com/news/australian-dollar-resumes-advance-as-us-dollar-loses-post-nfp-momentum-202609041810",
+      "datum": "2026-09-04T18:10:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold falls as traders increase Fed hawkish bets after stellar NFP",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-traders-increase-fed-hawkish-bets-after-stellar-nfp-202609041808",
+      "datum": "2026-09-04T18:08:17.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Dow Jones Industrial Average falls on a jobs number the president loves",
@@ -25,58 +91,10 @@
       "datum": "2026-09-04T15:43:41.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Brent: Questionable flows, fragile outlook – Commerzbank",
-      "link": "https://www.fxstreet.com/news/brent-questionable-flows-fragile-outlook-commerzbank-202609041542",
-      "datum": "2026-09-04T15:42:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Dovish hold may follow September hike - Rabobank",
-      "link": "https://www.fxstreet.com/news/european-central-bank-dovish-hold-may-follow-september-hike-rabobank-202609041524",
-      "datum": "2026-09-04T15:24:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index rises as strong NFP revives Fed hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-strong-nfp-revives-fed-hike-bets-202609041521",
-      "datum": "2026-09-04T15:21:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Hungary: Inflation uptick complicates rate-cut path – ING",
-      "link": "https://www.fxstreet.com/news/hungary-inflation-uptick-complicates-rate-cut-path-ing-202609041514",
-      "datum": "2026-09-04T15:14:09.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
       "datum": "2026-09-04T15:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
-      "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453",
-      "datum": "2026-09-04T14:53:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Gradual improvement outlook on labour market – RBC",
-      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-outlook-on-labour-market-rbc-202609041452",
-      "datum": "2026-09-04T14:52:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Solid jobs data support steady Fed – Commerzbank",
-      "link": "https://www.fxstreet.com/news/united-states-solid-jobs-data-support-steady-fed-commerzbank-202609041436",
-      "datum": "2026-09-04T14:36:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: September hike path and oil risks – Nomura",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-path-and-oil-risks-nomura-202609041421",
-      "datum": "2026-09-04T14:21:06.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "US August non-farm payrolls +162K vs +56K expected",
       "link": "https://investinglive.com/news/us-august-non-farm-payrolls-vs-56k-expected/",
       "datum": "2026-09-04T12:30:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Locked and loaded for the August edition of non-farm payrolls",
-      "link": "https://investinglive.com/news/locked-and-loaded-for-the-august-edition-of-non-farm-payrolls/",
-      "datum": "2026-09-04T12:10:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Markets consolidate ahead of NFP",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-nfp/",
-      "datum": "2026-09-04T11:30:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold recovers from post-NFP low as US Dollar trims gains",
-      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
-      "datum": "2026-09-04T11:03:54.000Z"
     }
   ]
 }

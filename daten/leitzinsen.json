@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-08-28",
+  "stand": "2026-09-04",
   "zinsen": [
     {
       "code": "AUD",
@@ -26,17 +26,17 @@
       "satz": 3.625,
       "anzeige": "3,50–3,75%",
       "naechste": "17.9.2026",
-      "erwartung": "KEHRTWENDE zurück Richtung falkenhaft: Die zähe Inflation (Kern-PCE Juli 3,3% y/y, hielt sich, +0,2% m/m) hat die Zinssenkungs-Fantasie ausgebremst. Der 17.9.-Entscheid ist jetzt ein MÜNZWURF zwischen Halten und ERHÖHEN — der FedWatch-Markt preist ~33–40% Erhöhung, eine Senkung ist praktisch vom Tisch (Kalshi: nur 8% Chance, dass Warsh 'Zinssenkung' sagt). Der US-2-Jahres-Zins drehte diese Woche wieder leicht nach oben (+0,06 Pp). ABER der Dollar rallyt trotzdem nicht (Index flach unter 99, Gold + Bitcoin auf Rekord = Entwertungs-Wette dominiert). Warshs Grundsatzrede in Jackson Hole (Fr 28.8. ~16:00 Wien) findet NACH diesem Briefing statt — als Falke bekannt, Risiko eines falkenhaften Rückprallers (Short-Squeeze) einseitig nach oben",
+      "erwartung": "Der 17.9.-Entscheid ist ein echter MÜNZWURF und die Fed ist gespalten: Chef Warsh (Falke) sagte in Jackson Hole am 28.8., die Fed müsse 'mehr tun' gegen die Inflation. ABER Fed-Gouverneur Waller signalisierte am Do 3.9. eine PAUSE (Fortschritt bei der Inflation) → der Markt sieht die Sept-Erhöhung jetzt bei nur noch ~50%. Der überraschend STARKE Jobbericht (4.9.: +162k statt +55k erwartet, Quote 4,1%) hält die Erhöhungs-Debatte am Leben und hob die Renditen leicht, aber der Dollar rallyt trotzdem kaum — Waller-Taube + die Entwertungs-Wette (Gold nahe Rekord ~4.520$) deckeln ihn. Eine Zinssenkung ist praktisch vom Tisch",
       "richtung": "halten"
     },
     {
       "code": "NZD",
       "bank": "RBNZ",
-      "satz": 2.5,
-      "anzeige": "2,50%",
-      "naechste": "Ende Aug 2026",
-      "erwartung": "Halten — am 8.7. erstmals seit 2023 um 0,25 auf 2,50% ERHÖHT (einstimmig), signalisierte aber höhere Hürde für weitere Schritte",
-      "richtung": "halten"
+      "satz": 2.75,
+      "anzeige": "2,75%",
+      "naechste": "Ende Okt 2026",
+      "erwartung": "Am Mi 2.9. um 0,25 auf 2,75% ERHÖHT (zweite Erhöhung in Folge) — die Inflation läuft mit 4,1% zu heiß (vor allem Benzin wegen Nahost). Die Bank signalisierte die Chance auf EINE weitere Erhöhung bis Jahresende → eigene falkenhafte Kiwi-Geschichte, unabhängig vom Dollar",
+      "richtung": "rauf"
     },
     {
       "code": "EUR",
@@ -52,8 +52,8 @@
       "bank": "BOC",
       "satz": 2.25,
       "anzeige": "2,25%",
-      "naechste": "Anf. Sep 2026",
-      "erwartung": "Am 15.7. bei 2,25% GEHALTEN (6. Mal in Folge), aber der Bericht (MPR) stellte bei einem Öl-Schock neue Zins-ERHÖHUNGEN in Aussicht — deutlich falkenhafter/loonie-freundlicher als ein reines Halten",
+      "naechste": "Mitte Okt 2026",
+      "erwartung": "Am Mi 2.9. bei 2,25% GEHALTEN (7. Mal in Folge), aber falkenhafter Ton: Die Bank WARNT, dass neue US-Zölle und teures Öl die Inflation über 3% treiben und sogar eine Erhöhung erzwingen könnten. WERMUTSTROPFEN: Die Handelsgespräche USA–Kanada sind GEPLATZT, beide Seiten verhängen neue Zölle. Und die Jobs am 4.9. brachen ein (−41,7k) — der Loonie hat gegensätzliche Treiber (Öl rauf, Jobs runter)",
       "richtung": "halten"
     },
     {

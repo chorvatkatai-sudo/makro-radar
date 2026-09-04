@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-04T10:16:03.170Z",
+ "erstellt": "2026-09-04T13:26:51.671Z",
  "wochenStart": "2026-08-30",
  "events": [
   {
@@ -513,7 +513,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "2.75%",
    "previous": "2.50%",
-   "actual": null
+   "actual": "2.75%"
   },
   {
    "title": "RBNZ Monetary Policy Statement",
@@ -981,7 +981,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "15.1K",
    "previous": "75.1K",
-   "actual": null
+   "actual": "-41.7K"
   },
   {
    "title": "Unemployment Rate",
@@ -990,7 +990,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "6.4%",
    "previous": "6.4%",
-   "actual": null
+   "actual": "6.4%"
   },
   {
    "title": "Average Hourly Earnings m/m",
@@ -999,7 +999,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.3%",
    "previous": "0.1%",
-   "actual": null
+   "actual": "0.3%"
   },
   {
    "title": "Non-Farm Employment Change",
@@ -1008,7 +1008,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "55K",
    "previous": "-23K",
-   "actual": null
+   "actual": "162K"
   },
   {
    "title": "Unemployment Rate",
@@ -1017,7 +1017,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.1%",
    "previous": "4.1%",
-   "actual": null
+   "actual": "4.1%"
   },
   {
    "title": "Ivey PMI",
@@ -2542,208 +2542,209 @@ window.MAKRO_DATA = {
   }
  ],
  "briefing": {
-  "datum": "2026-08-28",
+  "datum": "2026-09-04",
   "typ": "freitag",
-  "titel": "DOLLAR HÄNGT FLACH TROTZ ZÄHER INFLATION — Warsh-Rede erst am Abend, nächste Woche entscheidet der US-Jobbericht (Fr)",
+  "titel": "JOBBERICHT-SCHOCK NACH OBEN: +162k statt 55k — trotzdem rallyt der Dollar kaum (Waller-Taube deckelt). Nächste Woche EZB-Erhöhung (Mi) + US-Inflation (Fr)",
   "lage": [
-   "Diese Woche kam die Fed-Lieblings-Inflation (Kern-PCE, Juli) genau wie erwartet herein: +0,2 % im Monat, +3,3 % im Jahr. Das ist zäh und klebt weit über dem 2-%-Ziel — die Inflation will einfach nicht runter.",
-   "Weil die Preise so hartnäckig sind, ist die Zinssenkungs-Fantasie wieder verflogen. Der 17.9.-Fed-Entscheid ist jetzt ein MÜNZWURF zwischen Halten und sogar einer ERHÖHUNG (der Markt preist rund ein Drittel Erhöhungs-Chance); eine Senkung ist fast vom Tisch.",
-   "Und trotzdem legt der Dollar nicht los: Der Dollar-Index klebt flach knapp unter 99. Gold steht auf Rekord (~4.630 $) und Bitcoin hält sich hoch — das klassische Zeichen für die 'Flucht aus dem Papiergeld' (Entwertungs-Wette). Diese Wette übertönt sogar die falkenhaften Zins-Nachrichten.",
-   "Der wichtigste Termin des Tages steht noch aus: Fed-Chef Warsh hält am späten Nachmittag (~16:00 Wien) seine allererste Grundsatzrede als Chef in Jackson Hole — NACH diesem Briefing. Warsh gilt als Falke; wenn er streng klingt, kann der einseitig auf einen schwachen Dollar wettende Markt kurz nach oben zurückprallen (Short-Squeeze).",
-   "Andere Länder: Australiens Inflation kam HEISS herein (+3,5 %, Kern klebt bei ~3,6 %), die Notenbank RBA hat sogar über eine Erhöhung gesprochen — Rückenwind für den Aussie. Kanadas Wirtschaft wuchs im 2. Quartal solide (+3,3 % aufs Jahr gerechnet, getragen von Öl und Industrie) — ein kleiner Trost für den Loonie trotz billigem Öl.",
-   "Öl bleibt tief (WTI ~83 $), die Angst-Barometer (VIX ~14,5) ist niedrig = der Markt ist entspannt (Risk-on). Das hilft Rohstoff-Währungen wie dem Aussie und schadet den 'Sicheren Häfen' Franken und Yen.",
-   "Ganz ehrlich: Der Dollar hängt in der Schwebe. Zähe Inflation + falkenhafte Fed sprächen für einen stärkeren Dollar, aber die Rekord-Flucht in Gold und Bitcoin hält ihn unten. Deshalb halte ich meine Einschätzungen diese Woche bewusst klein — die einzelnen Länder-Geschichten (Aussie heiß, Loonie mit BIP-Beat) sind klarer als die Dollar-Richtung."
+   "Der große US-Jobbericht heute war eine faustdicke Überraschung — aber nach OBEN: +162.000 neue Stellen statt der erwarteten ~55.000 (also mehr als das Dreifache, der stärkste Monat seit März). Die Arbeitslosenquote blieb bei 4,1 %, die Löhne stiegen +0,3 % im Monat. Die Angst vor einem 'dritten Job-Schock' ist damit vom Tisch — der US-Arbeitsmarkt bricht NICHT.",
+   "Trotzdem legt der Dollar nicht richtig los. Der Grund: Fed-Gouverneur Waller hat schon am Donnerstag eine Zins-PAUSE angedeutet (die Inflation mache Fortschritte). Damit ist der Fed-Entscheid am 17.9. jetzt ein echter MÜNZWURF (~50 % Erhöhungs-Chance) — Chef Warsh (Falke, 'wir müssen mehr tun') gegen Waller (Taube) stehen sich gegenüber. Ein starker Job-Bericht allein hebt den Dollar nicht, wenn ein Notenbanker die Reaktion vorher taubenhaft umdeutet.",
+   "Dazu läuft im Hintergrund weiter die 'Flucht aus dem Papiergeld': Gold steht nahe Rekord (~4.520 $). Bitcoin dagegen knickte auf die starke Zahl hin unter 80.000 $ ein — ein starker Arbeitsmarkt nimmt der Zinssenkungs-Fantasie etwas Luft.",
+   "Neuseeland lieferte eine eigene Geschichte: Die Notenbank RBNZ hat am Mittwoch zum zweiten Mal in Folge erhöht (auf 2,75 %), weil die Inflation mit 4,1 % zu heiß läuft (Benzin). Sie stellt sogar noch eine weitere Erhöhung in Aussicht — Rückenwind für den Kiwi, unabhängig vom Dollar.",
+   "Kanada dagegen enttäuschte: −41.700 Jobs im August (statt +15.000 erwartet), Quote stabil bei 6,4 %. Der Loonie hat gegensätzliche Kräfte — die schwachen Jobs und die GEPLATZTEN US-Kanada-Handelsgespräche (neue Zölle) ziehen runter, das teure Öl (+6 % auf ~91 $) und die falkenhafte Bank of Canada ziehen rauf.",
+   "Australien überzeugte mit solidem Wachstum (BIP Q2 +0,4 %, über Konsens), hat den höchsten G10-Zins (4,35 %) und Rückenwind aus dem entspannten Markt (Angst-Barometer VIX nur 14,2 = klarer Risk-on). Der Aussie ist die klarste Einzelgeschichte der Woche.",
+   "Ganz ehrlich, wie jede Woche: Meine Kurs-Richtungs-Prognosen sind über die letzten Monate NICHT besser als ein Münzwurf (4 von 11 Wochen-Dollar-Wetten richtig). Deshalb halte ich die Einschätzungen bewusst klein und löse einzelne Paare mit eigenen Gründen (Aussie stark, Kiwi-Erhöhung, Öl→Loonie) vom Dollar-Block — statt sieben Mal dieselbe Dollar-Wette zu setzen."
   ],
   "waehrungen": {
    "USD": {
     "stimmung": "neutral",
-    "score": 5,
-    "grund": "Fest, aber gedeckelt: feste US-Zinsen (10J ~4,76 %), heiße Fabrik-Preise und der SPRUNG der Dienstleistungs-Stimmung (ISM Services 55,4) zeigen eine brummende Wirtschaft und stützen die harte Fed. Gegengewicht: schwache ADP-Vorschau (+38k) und der Jobbericht HEUTE (Risiko nach unten). Dollar-Index weich unter 99 + Gold-Rekordnähe = Entwertungs-Wette bleibt der Deckel."
+    "score": 6,
+    "grund": "Der starke Jobbericht (+162k statt 55k) gibt dem Dollar einen Boden und hält die Fed-Erhöhungs-Debatte am Leben (feste Renditen, hoher Realzins ~2,45 %). ABER: Waller-Taube (Pausen-Signal) + die Entwertungs-Wette (Gold nahe Rekord) deckeln ihn — er rallyte trotz Top-Zahl kaum. Netto knapp positiv."
    },
    "EUR": {
     "stimmung": "neutral",
     "score": 3,
-    "grund": "Gemischt, aber mit Rückenwind: der Markt preist zu ~99 % eine EZB-ERHÖHUNG am Mi 10.9. auf 2,50 % ein (heiße Schlagzeilen-Inflation 3,3 %). Dämpfer: der wichtigere Kern kühlte auf 2,4 % und der Schritt ist bereits eingepreist. Euro-2J-Zins zieht mit an, Spekulanten extrem short (Squeeze-Zünder). Knapp positiv."
+    "grund": "Die EZB erhöht am Mi 10.9. mit ~87–99 % Sicherheit um 0,25 auf 2,50 % (Einlagensatz) — die heiße Schlagzeilen-Inflation (3,3 %) zwingt sie. ABER der wichtigere Kern kühlte auf 2,4 % und der Schritt ist eingepreist → Lagarde dürfte 'zweite und letzte' Erhöhung signalisieren. Euro-2J-Zins zieht mit an. Knapp positiv."
    },
    "GBP": {
     "stimmung": "neutral",
     "score": 1,
-    "grund": "Kein klarer Impuls (Dienstleistungs-Inflation kühlt, Bailey bremst), ABER der Pfund-2-Jahres-Zins stieg diese Woche am STÄRKSTEN aller G10 → leichter Zins-Rückenwind. Knapp positiv."
+    "grund": "Kein klarer Impuls diese Woche (BoE-Entscheid erst Mitte Sep, 3:6 wollen erhöhen), aber der Pfund-2-Jahres-Zins stieg kräftig mit (+0,22 Pp). Ungefähr neutral, hauchdünn positiv."
    },
    "JPY": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Fundamental schwach (Yen ~163, 40-Jahres-Tief), Mini-Zins 1,00 %, fester Dollar drückt. Der 2-Jahres-Zins zog zwar leicht an und das Interventionsrisiko deckelt die Schwäche — mein Yen-Trefferrekord ist mies (2/9), daher bewusst moderat."
+    "grund": "Fundamental schwach (Yen ~160, Mini-Zins 1,00 %), der starke US-Jobbericht drückt zusätzlich. Gegengewicht: der 2-Jahres-Zins zog an, das Interventionsrisiko deckelt die Schwäche, und mein Yen-Trefferrekord ist mies (3/11) → bewusst nur moderat bärisch."
    },
    "CHF": {
     "stimmung": "neutral",
-    "score": -2,
-    "grund": "Sicherer Hafen ohne Nachfrage: der entspannte Markt (VIX niedrig) zieht Geld aus dem Franken, der Schweizer Zins bleibt bei null. Leicht schwächer."
+    "score": -3,
+    "grund": "Sicherer Hafen ohne Nachfrage: der entspannte Markt (VIX 14,2 = Risk-on) zieht Geld aus dem Franken, der Schweizer Zins bleibt bei null. Leicht schwächer."
    },
    "CAD": {
     "stimmung": "neutral",
-    "score": 5,
-    "grund": "Öl-Rückenwind (WTI +9 % auf ~91 $, Nahost) + falkenhafte BoC (Halten 2,25 %, warnt vor Erhöhung wegen Öl/Zöllen). Gegengewicht NEU: die Handelsgespräche USA–Kanada sind geplatzt, neue Zölle beidseits belasten den Loonie. Paar-eigene Story, nicht Teil des Dollar-Blocks."
+    "score": 3,
+    "grund": "Gegensätzliche Treiber halten sich fast die Waage: PRO Loonie das teure Öl (+6 %, ~91 $) + falkenhafte BoC (droht bei Öl/Zöllen mit Erhöhung); GEGEN Loonie die schwachen Jobs (−41,7k) + geplatzte US-Kanada-Handelsgespräche + neue Zölle. Knapp positiv, paar-eigene Story."
    },
    "AUD": {
     "stimmung": "bullisch",
     "score": 8,
-    "grund": "Klarste Geschichte der Woche: BIP-Beat (+0,4 %, y/y +2,1 % über Konsens), heiße Inflation (+3,5 %, Kern 3,6 %), RBA diskutierte sogar eine Erhöhung, höchster G10-Zins (4,35 %) und stark steigender 2-Jahres-Zins, dazu Risk-on-Rückenwind. Kleiner Dämpfer: die Binnennachfrage kühlte im BIP etwas ab."
+    "grund": "Klarste Geschichte der Woche: solides Wachstum (BIP Q2 +0,4 %, über Konsens), höchster G10-Zins (4,35 %), stark steigender 2-Jahres-Zins (+0,23 Pp) und Risk-on-Rückenwind (VIX tief). Löst sich nach oben vom Dollar-Block."
    },
    "NZD": {
-    "stimmung": "neutral",
-    "score": 0,
-    "grund": "Keine starke eigene Geschichte: der Kiwi-Zins zieht nur leicht an, die RBNZ hält still. Ungefähr neutral."
+    "stimmung": "bullisch",
+    "score": 5,
+    "grund": "Eigene falkenhafte Geschichte: die RBNZ hat am Mi zum zweiten Mal in Folge auf 2,75 % erhöht (Inflation 4,1 %) und stellt eine weitere Erhöhung in Aussicht. Das gibt dem Kiwi Rückenwind unabhängig vom Dollar — bewusst vom Block gelöst, aber nur mittelstark (Track-Record dünn)."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": -2,
-    "treiber": "Hauchdünn Dollar: Euro-Kern kühlt (weniger EZB-Erhöhungs-Argument), Dollar mit festen Zinsen. Short-Squeeze-Gefahr beim Euro dämpft nach unten."
+    "score": -1,
+    "treiber": "Fast ausgeglichen: der starke US-Jobbericht gibt dem Dollar einen Boden, aber die sichere EZB-Erhöhung am Mi + der steigende Euro-Zins halten dagegen. Hauchdünn Richtung Dollar."
    },
    {
     "paar": "GBP/USD",
-    "score": -2,
-    "treiber": "Pfund ohne klaren Treiber trifft auf festen Dollar — aber der stark steigende Pfund-2J-Zins wirkt dagegen (Zins-Overlay)."
+    "score": -3,
+    "treiber": "Pfund ohne eigenen Treiber trifft auf den Dollar-Boden aus dem Jobbericht — der steigende Pfund-2J-Zins bremst den Rückgang aber ab."
    },
    {
     "paar": "USD/JPY",
-    "score": 5,
-    "treiber": "Yen-Schwäche ist der Motor (40-Jahres-Tief, Mini-Zins), fester Dollar hilft. Interventionsrisiko deckelt nach oben."
+    "score": 4,
+    "treiber": "Yen-Schwäche (40-Jahres-Tief, Mini-Zins) + starke US-Daten sind der Motor. Interventionsrisiko der japanischen Regierung deckelt nach oben."
    },
    {
     "paar": "AUD/USD",
-    "score": 5,
-    "treiber": "BIP-Beat + heiße Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie vom Dollar-Block nach oben (bestes Trefferblatt aller Paare); leicht getrimmt wegen weicherer Binnennachfrage."
+    "score": 3,
+    "treiber": "BIP-Beat + Hochzins + Risk-on lösen den Aussie nach oben vom Dollar-Block — trotz des starken US-Jobberichts positiv (bestes Trefferblatt aller Paare)."
    },
    {
     "paar": "USD/CAD",
-    "score": -3,
-    "treiber": "Öl-Explosion (+9 % Woche) + falkenhafte BoC geben dem Loonie einen Vorteil — aber die geplatzten US-Kanada-Handelsgespräche + neue Zölle dämpfen den Loonie-Vorteil (weniger negativ als Vortag)."
+    "score": 1,
+    "treiber": "Zwei starke Gegenkräfte fast im Gleichgewicht: starke US-Jobs + schwache Kanada-Jobs schieben rauf, teures Öl (+6 %) + falkenhafte BoC schieben runter. Nur ein Hauch pro Dollar."
    },
    {
     "paar": "USD/CHF",
     "score": 4,
-    "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf, Null-Zins) + fester Dollar."
+    "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf, Null-Zins) + Dollar-Boden aus dem Jobbericht."
    },
    {
     "paar": "NZD/USD",
-    "score": -3,
-    "treiber": "Kiwi ohne eigene Geschichte (RBNZ hält) trifft auf den festen Dollar mit Zinsvorsprung."
+    "score": 0,
+    "treiber": "Patt: die RBNZ-Erhöhung (2,75 %, eigene Kiwi-Geschichte) hebt den Kiwi, der starke US-Jobbericht hält dagegen. Bewusst neutral statt Dollar-Block."
    }
   ],
   "wochenausblick": {
    "text": [
-    "Nächste Woche baut sich zum großen US-Jobbericht am Freitag auf — er ist nach zwei Job-Schocks in Folge DER Test, ob der Arbeitsmarkt wirklich bricht.",
-    "Davor liefert der Dienstag den Euro-Inflations-Flash (soll steigen → EZB-Thema) plus die US-Industrie-Umfrage (ISM), und der Mittwoch bringt den Zinsentscheid der Bank of Canada (Halten erwartet).",
-    "Roter Faden: Kommen die US-Daten schwach herein, gewinnt die 'Arbeitsmarkt bricht'-Geschichte und der Dollar bekommt neuen Druck. Bleiben sie fest, stützt das die falkenhafte Fed und den Dollar. Klein bleiben, bis der Jobbericht spricht."
+    "Nächste Woche stehen zwei dicke Termine im Kalender: die EZB-Erhöhung am Mittwoch und die US-Inflation (CPI) am Freitag. Einen Fed-Entscheid gibt es noch NICHT — der ist erst am 17.9. (Woche darauf).",
+    "Am Mittwoch erhöht die EZB fast sicher um 0,25 % — der Schritt ist eingepreist, also zählt vor allem der Ton von Lagarde: Signalisiert sie ein Ende der Erhöhungen, kann der Euro trotz Zinsschritt abgeben. Am selben Tag kommen die US-Erzeugerpreise (PPI, ein Vorbote der Inflation).",
+    "Am Freitag entscheidet die US-Inflation, ob die Fed am 17.9. erhöht oder pausiert: Kommt sie heiß, gewinnt der Falke Warsh und der Dollar bekommt Rückenwind. Kommt sie zahm, gewinnt der Taube Waller und der Dollar bleibt weich. Das teure Öl ist dabei ein Aufwärtsrisiko für die Schlagzeilen-Zahl. Bis dahin klein bleiben."
    ],
    "termine": [
     {
-     "tag": "Mo 31.8.",
+     "tag": "Mo 8.9.",
      "land": "CNY",
-     "titel": "China Industrie-PMI (NBS)",
-     "warum": "Frühindikator für die Weltkonjunktur — wichtig für Rohstoff-Währungen (AUD/NZD/CAD)."
+     "titel": "China Handelsbilanz + Aus-/Einfuhren (August)",
+     "warum": "Puls der Weltkonjunktur — wichtig für die Rohstoff-Währungen (AUD/NZD/CAD)."
     },
     {
-     "tag": "Di 1.9.",
+     "tag": "Di 9.9.",
+     "land": "CNY",
+     "titel": "China Inflation (CPI, August)",
+     "warum": "China kämpft mit sehr niedriger Inflation (zuletzt +0,5 %). Bleibt sie schwach, fehlt der Weltnachfrage Schwung — Gegenwind für den Aussie."
+    },
+    {
+     "tag": "Mi 10.9.",
      "land": "EUR",
-     "titel": "Eurozone Inflation Flash (August, 11:00 Wien)",
-     "warum": "Soll auf 3,1 % steigen (Kern 2,6 %). Heiß = EZB-Erhöhungs-Chance ↑ = Euro-Rückenwind; kühl = Euro schwächer."
+     "titel": "EZB-Zinsentscheid (14:15 Wien) + Pressekonferenz (14:45)",
+     "warum": "Erhöhung um 0,25 auf 2,50 % (Einlagensatz) fast sicher. Der TON danach entscheidet: Deutet Lagarde das Ende an, kann der Euro trotz Erhöhung fallen."
     },
     {
-     "tag": "Di 1.9.",
+     "tag": "Mi 10.9.",
      "land": "USD",
-     "titel": "US ISM-Industrie + JOLTS-Jobangebote (16:00 Wien)",
-     "warum": "Zeigt, ob die 'Zwei-Geschwindigkeiten'-Wirtschaft (starke Fabriken, schwache Jobs) anhält."
+     "titel": "US-Erzeugerpreise PPI (14:30 Wien)",
+     "warum": "Vorbote der Inflation einen Tag vor dem CPI. Das teure Öl könnte die Zahl über den Konsens (+0,3 %) treiben."
     },
     {
-     "tag": "Mi 2.9.",
-     "land": "AUD",
-     "titel": "Australien BIP Q2 (01:30 Wien)",
-     "warum": "Nach der heißen Inflation der zweite Aussie-Check — solides Wachstum stützt die harte RBA-Linie."
+     "tag": "Fr 11.9.",
+     "land": "GBP",
+     "titel": "UK Wirtschaftswachstum BIP m/m (08:00 Wien)",
+     "warum": "Zeigt, ob die britische Wirtschaft nach zuletzt +0,3 % weiter wächst — Pfund-relevant."
     },
     {
-     "tag": "Mi 2.9.",
-     "land": "CAD",
-     "titel": "Bank of Canada Zinsentscheid (15:45 Wien)",
-     "warum": "8. Halten bei 2,25 % erwartet — der TON zählt: droht sie wegen Öl weiter mit Erhöhung, hilft das dem Loonie."
-    },
-    {
-     "tag": "Do 3.9.",
+     "tag": "Fr 11.9.",
      "land": "USD",
-     "titel": "US ISM-Dienstleistungen (16:00 Wien)",
-     "warum": "Der größere Teil der US-Wirtschaft — schwach wäre ein weiteres Warnsignal vor dem Jobbericht."
+     "titel": "US-Inflation CPI (14:30 Wien)",
+     "warum": "DAS Event der Woche und der Schiedsrichter für den Fed-Entscheid am 17.9. Heiß = Falke Warsh gewinnt, Dollar rauf; zahm = Taube Waller gewinnt, Dollar runter."
     },
     {
-     "tag": "Fr 4.9.",
+     "tag": "Fr 11.9.",
      "land": "USD",
-     "titel": "US-Jobbericht NFP + Arbeitslosenquote (14:30 Wien)",
-     "warum": "DAS Event. Nach zwei Job-Schocks entscheidet er über die Fed-Richtung und den Dollar. Zeitgleich der kanadische Arbeitsmarkt."
+     "titel": "Michigan Verbrauchervertrauen (vorläufig, 16:00 Wien)",
+     "warum": "Stimmungs-Check der US-Verbraucher (zuletzt 51,7) plus deren Inflationserwartung."
     }
    ]
   },
   "prognosen": [
    {
-    "event": "Eurozone Inflation Flash (August)",
-    "termin": "Dienstag 1.9., 11:00 Wiener Zeit",
-    "prognoseMarkt": "Schlagzeile steigt auf 3,1 % y/y (von 2,9 %), Kernrate auf 2,6 % (von 2,5 %) — angetrieben vor allem von Energie.",
-    "meineEinschaetzung": "Ich rechne mit einer Zahl ungefähr auf der Konsens-Linie (~3,1 % Schlagzeile / ~2,6 % Kern). Die letzten Wochen habe ich die Inflations-Klebrigkeit zweimal überschätzt (UK/Kanada kamen kühler) — deshalb spiele ich diesmal nicht auf 'heißer', sondern wie erwartet. Bezug ist der Konsens 3,1 %.",
+    "event": "EZB-Zinsentscheid (Einlagensatz)",
+    "termin": "Mittwoch 10.9., 14:15 Wiener Zeit (PK 14:45)",
+    "prognoseMarkt": "Erhöhung um 0,25 auf 2,50 % (Einlagensatz) / 2,65 % (Hauptrefinanzierungssatz) — der Markt preist das zu ~87–99 % ein.",
+    "meineEinschaetzung": "Ich erwarte die Erhöhung genau wie der Konsens — sie ist so gut wie sicher. Spannend ist nur der Ton: Weil der Kern-Preisdruck auf 2,4 % kühlte, dürfte Lagarde diese als 'zweite und letzte' Erhöhung rahmen. Wenn sie die Tür für weitere Schritte ganz zuschlägt, kann der Euro TROTZ der Erhöhung nachgeben ('buy the rumour, sell the fact').",
     "richtung": "wie_erwartet",
-    "wennHoeher": "Über 3,1 % (bzw. Kern über 2,6 %) → Euro-Rückenwind, EZB-Erhöhung im September wird wahrscheinlicher, EUR/USD nach oben.",
-    "wennNiedriger": "Unter dem Konsens → Euro schwächer, die EZB kann sich Zeit lassen, EUR/USD nach unten."
+    "wennHoeher": "Falkenhafter Ton / Tür für weitere Erhöhungen offen → Euro-Rückenwind, EUR/USD nach oben.",
+    "wennNiedriger": "Klares 'jetzt ist Schluss'-Signal → Euro schwächer trotz Erhöhung, EUR/USD nach unten."
    },
    {
-    "event": "Bank of Canada Zinsentscheid",
-    "termin": "Mittwoch 2.9., 15:45 Wiener Zeit",
-    "prognoseMarkt": "8. Halten in Folge bei 2,25 % — der Markt erwartet klar keine Änderung.",
-    "meineEinschaetzung": "Ich erwarte das Halten wie der Konsens. Spannender ist der Ton: Der letzte Bericht drohte bei einem Öl-Schock mit Erhöhungen. Bleibt sie falkenhaft, ist das loonie-freundlich; wird sie plötzlich weich, kippt der Loonie. Kern-Szenario: Halten mit weiter falkenhaftem Beigeschmack.",
+    "event": "US-Inflation CPI (August, Kernrate m/m)",
+    "termin": "Freitag 11.9., 14:30 Wiener Zeit",
+    "prognoseMarkt": "Kernrate +0,2 % m/m (wie im Vormonat), Schlagzeile +0,4 % m/m (angetrieben von Energie); Kern-Jahresrate zuletzt 2,5 %.",
+    "meineEinschaetzung": "Bei der KERN-Rate rechne ich mit dem Konsens (~0,2 %). Ich habe die Inflations-Klebrigkeit zuletzt mehrfach überschätzt (UK/Kanada/Euro-Kern kamen kühler) — deshalb spiele ich nicht auf 'heißer'. WICHTIGE Einschränkung: Die SCHLAGZEILEN-Zahl hat wegen des Öl-Sprungs (+6 %) ein Aufwärtsrisiko; da bezieht sich mein 'wie erwartet' bewusst auf den Kern, den die Fed am meisten beachtet.",
     "richtung": "wie_erwartet",
-    "wennHoeher": "Überraschende Erhöhung oder deutlich falkenhafterer Ton → kanadischer Dollar stärker, USD/CAD nach unten.",
-    "wennNiedriger": "Plötzlich weicher/taubenhafter Ton (Konjunktursorge) → Loonie schwächer, USD/CAD nach oben."
+    "wennHoeher": "Kern über 0,2 % (bzw. Jahresrate über 2,5 %) → Falke Warsh gewinnt, Fed-Erhöhung am 17.9. wird wahrscheinlicher, Dollar stärker.",
+    "wennNiedriger": "Kern unter 0,2 % → Taube Waller gewinnt, Pause/keine Erhöhung, Dollar weicher, Gold weiter hoch."
    },
    {
-    "event": "US ISM-Industrie (August)",
-    "termin": "Dienstag 1.9., 16:00 Wiener Zeit",
-    "prognoseMarkt": "Rund 52–53 Punkte erwartet (über 50 = Wachstum), nach zuletzt überraschend starken 55,6.",
-    "meineEinschaetzung": "Ich respektiere diesmal die Fabrik-Stärke (letzten Monat habe ich sie unterschätzt und lag daneben) und rechne mit einer Zahl nahe dem Konsens. Die US-Industrie läuft trotz schwachem Arbeitsmarkt erstaunlich robust (Zwei-Geschwindigkeiten-Wirtschaft).",
-    "richtung": "wie_erwartet",
-    "wennHoeher": "Deutlich über 53 → bestätigt die robuste Industrie, stützt Dollar + Renditen.",
-    "wennNiedriger": "Unter 50 (Schrumpfung) → Warnsignal, dass auch die Fabriken kippen, Dollar-belastend vor dem Jobbericht."
+    "event": "US-Erzeugerpreise PPI (August, m/m)",
+    "termin": "Mittwoch 10.9., 14:30 Wiener Zeit",
+    "prognoseMarkt": "+0,3 % m/m erwartet (nach 0,0 % im Vormonat).",
+    "meineEinschaetzung": "Ich lehne mich hier vorsichtig auf die höhere Seite (über dem Konsens): Der Öl-Sprung von +6 % auf ~91 $ dürfte über Energie- und Transportkosten in die Erzeugerpreise durchschlagen. Kleine Wette — der PPI ist unberechenbar und Vormonat war 0,0 %.",
+    "richtung": "hoeher",
+    "wennHoeher": "Über +0,3 % → bestätigt Öl-getriebenen Preisdruck, stützt den Falken-Fall und den Dollar vor dem CPI.",
+    "wennNiedriger": "Unter +0,3 % → Preisdruck an der Produktionsseite bleibt zahm, dollar-belastend."
    },
    {
-    "event": "US-Jobbericht (Non-Farm Payrolls, August)",
-    "termin": "Freitag 4.9., 14:30 Wiener Zeit",
-    "prognoseMarkt": "Ein schwacher Zuwachs von rund +50.000 bis +75.000 Stellen wird erwartet, Arbeitslosenquote ~4,3 %.",
-    "meineEinschaetzung": "Ich lehne mich vorsichtig auf die schwächere Seite (unter dem Konsens): Der Trend zeigt zwei Job-Schocks in Folge, dazu die heutige Benchmark-Revision, die auf eine Übererfassung der letzten Monate hindeutet. ABER Vorsicht — der Konsens ist bereits sehr niedrig, und nach zwei Ausreißern nach unten ist ein Gegen-Rückpraller möglich. Echte Unsicherheit, daher kleine Wette.",
-    "richtung": "niedriger",
-    "wennHoeher": "Deutlich über ~75k oder Quote fällt → Arbeitsmarkt hält, die Fed kann falkenhaft bleiben/erhöhen, Dollar stärker.",
-    "wennNiedriger": "Unter ~50k oder Quote steigt Richtung 4,4 % → dritter Job-Schock, Zinssenkungs-Wetten kommen zurück, Dollar unter Druck, Gold weiter hoch."
+    "event": "China-Inflation CPI (August, y/y)",
+    "termin": "Dienstag 9.9., ~03:30 Wiener Zeit",
+    "prognoseMarkt": "Rund +0,6 % y/y erwartet (nach +0,5 %) — China kämpft weiter mit hauchdünner Inflation an der Deflationsgrenze.",
+    "meineEinschaetzung": "Ich rechne mit einer Zahl ungefähr auf Konsens-Linie (~0,6 %): Das teure Öl hebt die Schlagzeile leicht, aber die schwache Binnennachfrage in China deckelt sie. Bleibt sie so niedrig, fehlt der Weltnachfrage Schwung — mittelbarer Gegenwind für Aussie und Kiwi.",
+    "richtung": "wie_erwartet",
+    "wennHoeher": "Deutlich über ~0,6 % → Zeichen anziehender China-Nachfrage, Rückenwind für Rohstoff-Währungen (AUD/NZD).",
+    "wennNiedriger": "Wieder Richtung 0 % / negativ → Deflationssorge, Gegenwind für AUD/NZD und Öl."
    }
   ],
   "lehren": [
-   "Kern-PCE-Call TRAF ✓: Ich hatte 'wie erwartet' gesagt — kam genau so (+0,2 % m/m, 3,3 % y/y, zäh). Zahlen-Prognosen bleiben der verlässlichere Teil.",
-   "Kanada-BIP unterschätzt: Ich erwartete 'durchwachsen ~2 %', es kam +3,3 % aufs Jahr — ein solider Rebound (Öl/Industrie). Kanadas Wirtschaft ist robuster als gedacht; das stützt den Loonie zusätzlich.",
-   "Das Kern-Rätsel der Woche: Zähe Inflation UND falkenhafte Neubewertung UND steigender US-Zins — und der Dollar rallyt TROTZDEM nicht. Die Entwertungs-Wette (Gold + Bitcoin auf Rekord) übertönt die Zins-Story. Lehre: In einem 'Flucht aus Papiergeld'-Umfeld reicht eine falkenhafte Fed allein nicht, um den Dollar zu heben.",
-   "Warsh-Rede + Job-Benchmark-Revision (beide Fr 28.8. ~16:00 Wien) passieren NACH diesem Briefing — Auswertung liefert die Tages-News-Routine am Wochenende oder die nächste lokale Session in lehren[] nach.",
-   "Ehrliche Bilanz (unverändert wichtig): Über 10 ausgewertete Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/10 Wochen-Dollar-Wetten richtig). Deshalb Scores klein und bewusst nach paar-eigenen Geschichten diversifiziert (Aussie heiß, Loonie mit BIP-Beat), statt sieben Mal dieselbe Dollar-Wette zu setzen."
+   "NFP-Call KLAR DANEBEN ✗: Ich hatte auf 'niedriger' gesetzt (dritter Job-Schock), es kam +162k statt ~55k — ein Riesen-Beat nach oben. Lehre: Nach zwei Ausreißern nach unten habe ich den Trend fortgeschrieben, aber Job-Zahlen sind extrem sprunghaft und kehren zum Mittel zurück. Fortschreibungs-Bias nach Ausreißern ist gefährlich — der niedrige Konsens (55k) war schon die Angst der Menge, der Beat also umso überraschender.",
+   "Aber die zweite Lehre ist wichtiger: Der starke Bericht hat den Dollar KAUM gehoben. Weil Waller schon am Donnerstag taubenhaft eine Pause andeutete, war die Fed-Reaktion vorweggenommen. Eine Top-Zahl bewegt die Währung nicht, wenn ein Notenbanker die Reaktionsfunktion vorher umdeutet — die Fed-Aufstellung (Warsh-Falke vs. Waller-Taube) zählt mehr als die einzelne Zahl.",
+   "BoC-Call TRAF ✓ (Halten mit falkenhaftem Ton). Euro-CPI HALB: Schlagzeile 3,3 % kam höher, aber der Kern kühlte auf 2,4 % (nicht vorhergesehen). ISM-Industrie solide (54,6) — meine 'Respekt vor der Fabrik-Stärke'-Korrektur war richtig.",
+   "Kanada zeigt, wie widersprüchlich ein Paar sein kann: schwache Jobs (−41,7k) UND geplatzte Handelsgespräche ziehen den Loonie runter, teures Öl (+6 %) UND eine falkenhafte BoC ziehen ihn rauf. Solche Paare bewusst nahe neutral halten, statt eine Seite zu erzwingen.",
+   "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
    "stand": "2026-09-04",
    "wochentag": "Freitag",
-   "tenor": "JOBBERICHT-TAG. Heute um 14:30 Wien kommt der US-Jobbericht (NFP) — DAS Ereignis der Woche und der Schiedsrichter für die Fed. Nach zwei schwachen Monaten in Folge erwartet der Markt nur ~50–55k neue Stellen (Quote 4,1 %). Der Dollar hängt weich unter 99, Gold nahe Rekord und Öl +10 % auf der Woche — die Nervosität ist groß, aber die Richtung entscheidet sich erst am Nachmittag.",
+   "tenor": "JOBBERICHT-SCHOCK NACH OBEN. Die USA schufen im August +162.000 Stellen statt der erwarteten ~55.000 — mehr als das Dreifache, stärkster Monat seit März, Arbeitslosenquote 4,1 %. Die Angst vor einem 'dritten Job-Schock' ist weg. TROTZDEM rallyt der Dollar kaum: Fed-Gouverneur Waller deutete am Donnerstag eine Pause an, der 17.9.-Entscheid bleibt ein Münzwurf. Gold nahe Rekord, Bitcoin knickte unter 80.000 $.",
    "heute": [
-    "🇺🇸 HEUTE 14:30 Wien — US-Jobbericht (NFP, August) = DAS Event. Kinderleicht: die wichtigste Zahl des Monats — wie viele neue Stellen die USA geschaffen haben. Konsens nur ~+50–55k (Arbeitslosenquote 4,1 %, Löhne +0,2 % Monat / +3,0 % Jahr). Nach dem Job-Schock im Juli (−23k) ist das Risiko heikel: kommt der Bericht ERNEUT schwach → Zinssenkungs-Hoffnung zurück, Dollar unter Druck, Gold/Aktien hoch; kommt er überraschend stark → die harte Fed gewinnt und der Dollar erholt sich. Zeitgleich der 🇨🇦 Kanada-Arbeitsmarkt.",
-    "🧭 Kurslage Freitagfrüh (harte Marktdaten): Dollar-Index 99,0 (weich, −0,7 % Woche, unter 99), Euro um 1,161, Gold ~4.520 $ (nahe Rekord, +0,9 % Woche), Öl teuer (WTI ~92 $, +10 % Woche wegen Nahost), Angst-Barometer VIX 14,3 (sehr niedrig = entspannter Risk-on-Markt), Bitcoin ~81.600 $ (+5 %). Feste US-Zinsen (10J ~4,76 %) geben dem Dollar einen Boden, aber die Gold-/Bitcoin-Rekordnähe zeigt: die Flucht aus dem Papiergeld läuft weiter.",
-    "📅 Nächste Woche der Paukenschlag: 🇪🇺 EZB-Zinsentscheid Mi 10.9. — der Markt preist zu ~99 % eine ERHÖHUNG um 0,25 auf 2,50 % ein (wegen der heißen Energie-Inflation). Da sie fast sicher ist, zählt danach vor allem der Ton: signalisiert Lagarde ein Ende der Erhöhungen, kann der Euro trotz Zinsschritt abgeben."
+    "🇺🇸 HEUTE 14:30 Wien — US-Jobbericht August: +162.000 Stellen (RIESEN-Beat, erwartet waren nur ~55.000), Arbeitslosenquote 4,1 %, Löhne +0,3 % Monat / +3,1 % Jahr. Kinderleicht: Viel mehr neue Jobs als gedacht = der Arbeitsmarkt ist stark, nicht kaputt. Das hält die Fed-Erhöhungs-Debatte am Leben. ABER: weil Fed-Mann Waller gestern eine Pause andeutete, bleibt der 17.9.-Entscheid ein Münzwurf — und der Dollar reagierte nur verhalten.",
+    "🇨🇦 HEUTE 14:30 Wien — Kanada verlor −41.700 Jobs im August (erwartet +15.000), Arbeitslosenquote stabil 6,4 %. Schwache Zahl für den Loonie — aber das teure Öl (+6 % auf ~91 $) und die falkenhafte Bank of Canada stützen ihn von der anderen Seite.",
+    "🧭 Kurslage Freitag (harte Marktdaten, Stand vor dem Jobbericht): Dollar-Index ~99 (weich, −0,3 % Woche, war Do auf tiefstem Stand seit Mai), Gold ~4.520 $ (nahe Rekord), Öl teuer (WTI ~91 $, +6 % Woche wegen Nahost), Angst-Barometer VIX 14,2 (sehr niedrig = entspannter Risk-on-Markt), Bitcoin knickte auf die starke Zahl unter 80.000 $. Feste US-Zinsen (10J ~4,76 %) geben dem Dollar einen Boden.",
+    "📅 Nächste Woche: 🇪🇺 EZB-Zinsentscheid Mi 10.9. (14:15 Wien) — Erhöhung um 0,25 auf 2,50 % fast sicher, der Ton von Lagarde entscheidet. 🇺🇸 US-Inflation Fr 11.9. (14:30 Wien) — der Schiedsrichter für den Fed-Entscheid am 17.9."
    ],
    "gestern": [
-    "🇺🇸 Do 3.9: US-Dienstleistungs-Stimmung (ISM Services) August 55,4 — deutlicher SPRUNG nach oben (von 54,1, über die erwarteten ~54,5), 26. Wachstumsmonat in Folge; Geschäftsaktivität 61,7 und Auftragseingang 60,9 sprangen kräftig. Kinderleicht: die große US-Dienstleistungsbranche brummt wieder — ein starkes Zeichen für die Wirtschaft, das die harte Fed stützt und im Kontrast zum schwachen Arbeitsmarkt steht.",
-    "🇺🇸 Do 3.9: Wöchentliche Erstanträge auf Arbeitslosenhilfe 206k (praktisch wie erwartet, 205k) — der schnelle Wochenpuls des Arbeitsmarkts zeigt KEINE Verschlechterung. Beruhigend vor dem großen Jobbericht heute, widerspricht ein Stück weit der schwachen ADP-Vorschau.",
-    "🇨🇦 Mi 2.9: Kanada-Zinsentscheid — HALTEN bei 2,25 % (7. Mal in Folge, wie erwartet), aber falkenhafter Ton: die Notenbank WARNT, dass neue US-Zölle und teures Öl die Inflation über 3 % treiben und sogar eine Erhöhung erzwingen könnten. Gleicher Zins, härtere Worte = leichter Rückenwind für den Loonie. WERMUTSTROPFEN: Die Handelsgespräche USA–Kanada sind GEPLATZT, beide Seiten verhängen neue Zölle — das belastet den Kanada-Dollar von der anderen Seite.",
-    "🇦🇺 Mi 2.9: Australien-Wachstum (BIP) 2. Quartal +0,4 % (besser als die erwarteten +0,3 %), aufs Jahr +2,1 % (über Konsens 1,8 %). Solides Wachstum → stützt den Aussie, die klarste Einzelgeschichte der Woche.",
-    "🇺🇸 Mi 2.9: Private Job-Vorschau (ADP) August nur +38k (unter den ~48k erwartet) → die Privatwirtschaft stellt kaum noch ein, Frühwarnung vor dem heutigen Jobbericht. 🇪🇺 Di 1.9: Euro-Inflation (Flash) Schlagzeile 3,3 % (Höchststand seit Sept 2023, Energie/Nahost) — die für die EZB wichtigere Kern-Inflation kühlte aber leicht auf 2,4 %."
+    "🇳🇿 Mi 2.9: Neuseeland-Notenbank RBNZ ERHÖHT auf 2,75 % (zweite Erhöhung in Folge) — die Inflation läuft mit 4,1 % zu heiß (Benzin). Sie stellt sogar noch eine weitere Erhöhung in Aussicht → Rückenwind für den Kiwi.",
+    "🇦🇺 Mi 2.9: Australien-Wachstum (BIP) Q2 +0,4 % (über Konsens), aufs Jahr solide → stützt den Aussie, die klarste Einzelgeschichte der Woche.",
+    "🇨🇦 Mi 2.9: Kanada-Notenbank HÄLT bei 2,25 % (7. Mal), aber falkenhafter Ton (droht bei Öl/Zöllen mit Erhöhung). WERMUTSTROPFEN: Die US-Kanada-Handelsgespräche sind geplatzt, beide Seiten verhängen neue Zölle.",
+    "🇺🇸 Do 3.9: US-Dienstleistungs-Stimmung (ISM Services) 55,4 (Sprung nach oben) + Erstanträge 206k (kein Anstieg) — die US-Wirtschaft ist robuster als der Arbeitsmarkt-Frühschreck vermuten ließ; passt zum starken Jobbericht heute.",
+    "🇪🇺 Di 1.9: Euro-Inflation (Flash) Schlagzeile 3,3 % (Höchststand seit Sept 2023, Energie/Nahost), Kern aber kühler auf 2,4 % → EZB erhöht Mi fast sicher, dürfte danach aber das Ende signalisieren."
    ]
   }
  },
@@ -3135,7 +3136,7 @@ window.MAKRO_DATA = {
  },
  "leitzinsen": {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-08-28",
+  "stand": "2026-09-04",
   "zinsen": [
    {
     "code": "AUD",
@@ -3161,17 +3162,17 @@ window.MAKRO_DATA = {
     "satz": 3.625,
     "anzeige": "3,50–3,75%",
     "naechste": "17.9.2026",
-    "erwartung": "KEHRTWENDE zurück Richtung falkenhaft: Die zähe Inflation (Kern-PCE Juli 3,3% y/y, hielt sich, +0,2% m/m) hat die Zinssenkungs-Fantasie ausgebremst. Der 17.9.-Entscheid ist jetzt ein MÜNZWURF zwischen Halten und ERHÖHEN — der FedWatch-Markt preist ~33–40% Erhöhung, eine Senkung ist praktisch vom Tisch (Kalshi: nur 8% Chance, dass Warsh 'Zinssenkung' sagt). Der US-2-Jahres-Zins drehte diese Woche wieder leicht nach oben (+0,06 Pp). ABER der Dollar rallyt trotzdem nicht (Index flach unter 99, Gold + Bitcoin auf Rekord = Entwertungs-Wette dominiert). Warshs Grundsatzrede in Jackson Hole (Fr 28.8. ~16:00 Wien) findet NACH diesem Briefing statt — als Falke bekannt, Risiko eines falkenhaften Rückprallers (Short-Squeeze) einseitig nach oben",
+    "erwartung": "Der 17.9.-Entscheid ist ein echter MÜNZWURF und die Fed ist gespalten: Chef Warsh (Falke) sagte in Jackson Hole am 28.8., die Fed müsse 'mehr tun' gegen die Inflation. ABER Fed-Gouverneur Waller signalisierte am Do 3.9. eine PAUSE (Fortschritt bei der Inflation) → der Markt sieht die Sept-Erhöhung jetzt bei nur noch ~50%. Der überraschend STARKE Jobbericht (4.9.: +162k statt +55k erwartet, Quote 4,1%) hält die Erhöhungs-Debatte am Leben und hob die Renditen leicht, aber der Dollar rallyt trotzdem kaum — Waller-Taube + die Entwertungs-Wette (Gold nahe Rekord ~4.520$) deckeln ihn. Eine Zinssenkung ist praktisch vom Tisch",
     "richtung": "halten"
    },
    {
     "code": "NZD",
     "bank": "RBNZ",
-    "satz": 2.5,
-    "anzeige": "2,50%",
-    "naechste": "Ende Aug 2026",
-    "erwartung": "Halten — am 8.7. erstmals seit 2023 um 0,25 auf 2,50% ERHÖHT (einstimmig), signalisierte aber höhere Hürde für weitere Schritte",
-    "richtung": "halten"
+    "satz": 2.75,
+    "anzeige": "2,75%",
+    "naechste": "Ende Okt 2026",
+    "erwartung": "Am Mi 2.9. um 0,25 auf 2,75% ERHÖHT (zweite Erhöhung in Folge) — die Inflation läuft mit 4,1% zu heiß (vor allem Benzin wegen Nahost). Die Bank signalisierte die Chance auf EINE weitere Erhöhung bis Jahresende → eigene falkenhafte Kiwi-Geschichte, unabhängig vom Dollar",
+    "richtung": "rauf"
    },
    {
     "code": "EUR",
@@ -3187,8 +3188,8 @@ window.MAKRO_DATA = {
     "bank": "BOC",
     "satz": 2.25,
     "anzeige": "2,25%",
-    "naechste": "Anf. Sep 2026",
-    "erwartung": "Am 15.7. bei 2,25% GEHALTEN (6. Mal in Folge), aber der Bericht (MPR) stellte bei einem Öl-Schock neue Zins-ERHÖHUNGEN in Aussicht — deutlich falkenhafter/loonie-freundlicher als ein reines Halten",
+    "naechste": "Mitte Okt 2026",
+    "erwartung": "Am Mi 2.9. bei 2,25% GEHALTEN (7. Mal in Folge), aber falkenhafter Ton: Die Bank WARNT, dass neue US-Zölle und teures Öl die Inflation über 3% treiben und sogar eine Erhöhung erzwingen könnten. WERMUTSTROPFEN: Die Handelsgespräche USA–Kanada sind GEPLATZT, beide Seiten verhängen neue Zölle. Und die Jobs am 4.9. brachen ein (−41,7k) — der Loonie hat gegensätzliche Treiber (Öl rauf, Jobs runter)",
     "richtung": "halten"
    },
    {
@@ -3752,57 +3753,57 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -2,
+   "baseScore": -1,
    "tiltCot": -1,
    "tiltZins": 1,
    "tiltGesamt": 0,
-   "score": -2,
+   "score": -1,
    "cotExtrem": null,
-   "treiber": "Hauchdünn Dollar: Euro-Kern kühlt (weniger EZB-Erhöhungs-Argument), Dollar mit festen Zinsen. Short-Squeeze-Gefahr beim Euro dämpft nach unten.",
+   "treiber": "Fast ausgeglichen: der starke US-Jobbericht gibt dem Dollar einen Boden, aber die sichere EZB-Erhöhung am Mi + der steigende Euro-Zins halten dagegen. Hauchdünn Richtung Dollar.",
    "istCross": false
   },
   {
    "paar": "GBP/USD",
-   "baseScore": -2,
+   "baseScore": -3,
    "tiltCot": -3,
    "tiltZins": 2,
    "tiltGesamt": -1,
-   "score": -3,
+   "score": -4,
    "cotExtrem": null,
-   "treiber": "Pfund ohne klaren Treiber trifft auf festen Dollar — aber der stark steigende Pfund-2J-Zins wirkt dagegen (Zins-Overlay).",
+   "treiber": "Pfund ohne eigenen Treiber trifft auf den Dollar-Boden aus dem Jobbericht — der steigende Pfund-2J-Zins bremst den Rückgang aber ab.",
    "istCross": false
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 5,
+   "baseScore": 4,
    "tiltCot": 3,
    "tiltZins": 0,
    "tiltGesamt": 3,
-   "score": 8,
+   "score": 7,
    "cotExtrem": null,
-   "treiber": "Yen-Schwäche ist der Motor (40-Jahres-Tief, Mini-Zins), fester Dollar hilft. Interventionsrisiko deckelt nach oben.",
+   "treiber": "Yen-Schwäche (40-Jahres-Tief, Mini-Zins) + starke US-Daten sind der Motor. Interventionsrisiko der japanischen Regierung deckelt nach oben.",
    "istCross": false
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 5,
+   "baseScore": 3,
    "tiltCot": -3,
    "tiltZins": 2,
    "tiltGesamt": -1,
-   "score": 4,
+   "score": 2,
    "cotExtrem": null,
-   "treiber": "BIP-Beat + heiße Inflation + RBA-Erhöhungs-Gerede + Risk-on lösen den Aussie vom Dollar-Block nach oben (bestes Trefferblatt aller Paare); leicht getrimmt wegen weicherer Binnennachfrage.",
+   "treiber": "BIP-Beat + Hochzins + Risk-on lösen den Aussie nach oben vom Dollar-Block — trotz des starken US-Jobberichts positiv (bestes Trefferblatt aller Paare).",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -3,
+   "baseScore": 1,
    "tiltCot": 5,
    "tiltZins": -2,
    "tiltGesamt": 3,
-   "score": 0,
+   "score": 4,
    "cotExtrem": null,
-   "treiber": "Öl-Explosion (+9 % Woche) + falkenhafte BoC geben dem Loonie einen Vorteil — aber die geplatzten US-Kanada-Handelsgespräche + neue Zölle dämpfen den Loonie-Vorteil (weniger negativ als Vortag).",
+   "treiber": "Zwei starke Gegenkräfte fast im Gleichgewicht: starke US-Jobs + schwache Kanada-Jobs schieben rauf, teures Öl (+6 %) + falkenhafte BoC schieben runter. Nur ein Hauch pro Dollar.",
    "istCross": false
   },
   {
@@ -3813,18 +3814,18 @@ window.MAKRO_DATA = {
    "tiltGesamt": 7,
    "score": 11,
    "cotExtrem": null,
-   "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf, Null-Zins) + fester Dollar.",
+   "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf, Null-Zins) + Dollar-Boden aus dem Jobbericht.",
    "istCross": false
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -3,
+   "baseScore": 0,
    "tiltCot": -3,
    "tiltZins": -4,
    "tiltGesamt": -7,
-   "score": -10,
+   "score": -7,
    "cotExtrem": null,
-   "treiber": "Kiwi ohne eigene Geschichte (RBNZ hält) trifft auf den festen Dollar mit Zinsvorsprung.",
+   "treiber": "Patt: die RBNZ-Erhöhung (2,75 %, eigene Kiwi-Geschichte) hebt den Kiwi, der starke US-Jobbericht hält dagegen. Bewusst neutral statt Dollar-Block.",
    "istCross": false
   },
   {
@@ -3851,11 +3852,11 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 4,
+   "baseScore": 2,
    "tiltCot": 1,
    "tiltZins": 7,
    "tiltGesamt": 8,
-   "score": 12,
+   "score": 10,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -3873,13 +3874,13 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-04T10:16:02.104Z",
+  "stand": "2026-09-04T13:26:51.670Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 50,
-  "gewertet": 24,
-  "nichtWertbar": 26,
+  "gefunden": 54,
+  "gewertet": 25,
+  "nichtWertbar": 29,
   "treffer": 14,
-  "quote": 58,
+  "quote": 56,
   "zinsentscheide": {
    "treffer": 7,
    "gesamt": 7,
@@ -3887,8 +3888,8 @@ window.MAKRO_DATA = {
   },
   "datenPrognosen": {
    "treffer": 7,
-   "gesamt": 17,
-   "quote": 41
+   "gesamt": 18,
+   "quote": 39
   },
   "richtungBeiAbweichung": {
    "treffer": 6,
@@ -3897,8 +3898,8 @@ window.MAKRO_DATA = {
   },
   "exakt": {
    "treffer": 1,
-   "gesamt": 1,
-   "quote": 100
+   "gesamt": 2,
+   "quote": 50
   },
   "textdeutung": {
    "treffer": 13,
@@ -3906,15 +3907,6 @@ window.MAKRO_DATA = {
    "quote": 57
   },
   "letzte": [
-   {
-    "event": "Fed-Zinsentscheid + Warsh-Pressekonferenz",
-    "datum": "2026-07-29",
-    "richtung": "wie_erwartet",
-    "tatsaechlich": "wie_erwartet",
-    "konsens": "3.75%",
-    "ist": "3.75%",
-    "treffer": true
-   },
    {
     "event": "USA: Jobbericht (Non-Farm Payrolls, Juli)",
     "datum": "2026-08-07",
@@ -3977,6 +3969,15 @@ window.MAKRO_DATA = {
     "konsens": "55.2",
     "ist": "54.6",
     "treffer": true
+   },
+   {
+    "event": "US-Jobbericht (Non-Farm Payrolls, August)",
+    "datum": "2026-09-04",
+    "richtung": "niedriger",
+    "tatsaechlich": "wie_erwartet",
+    "konsens": "0.3%",
+    "ist": "0.3%",
+    "treffer": false
    }
   ]
  },
@@ -4330,18 +4331,18 @@ window.MAKRO_DATA = {
  },
  "momentum": {
   "USD": {
-   "ueber": 5,
+   "ueber": 6,
    "unter": 17,
-   "gleich": 12,
-   "gesamt": 34,
-   "score": -12
+   "gleich": 14,
+   "gesamt": 37,
+   "score": -11
   },
   "CAD": {
    "ueber": 4,
-   "unter": 6,
-   "gleich": 7,
-   "gesamt": 17,
-   "score": -2
+   "unter": 7,
+   "gleich": 8,
+   "gesamt": 19,
+   "score": -3
   },
   "EUR": {
    "ueber": 0,
@@ -4381,8 +4382,8 @@ window.MAKRO_DATA = {
   "NZD": {
    "ueber": 3,
    "unter": 1,
-   "gleich": 0,
-   "gesamt": 4,
+   "gleich": 1,
+   "gesamt": 5,
    "score": 2
   }
  },
@@ -4391,7 +4392,7 @@ window.MAKRO_DATA = {
   "treffer": 29,
   "gesamt": 74,
   "quote": 39,
-  "wochenErfasst": 12,
+  "wochenErfasst": 13,
   "proPaar": {
    "USD/JPY": {
     "treffer": 3,
@@ -4791,6 +4792,56 @@ window.MAKRO_DATA = {
  },
  "historie": [
   {
+   "datum": "2026-09-04T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "Employment Change",
+   "impact": "High",
+   "prognose": "15.1K",
+   "vorher": "75.1K",
+   "actual": "-41.7K",
+   "notiz": null
+  },
+  {
+   "datum": "2026-09-04T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "Unemployment Rate",
+   "impact": "High",
+   "prognose": "6.4%",
+   "vorher": "6.4%",
+   "actual": "6.4%",
+   "notiz": null
+  },
+  {
+   "datum": "2026-09-04T08:30:00-04:00",
+   "land": "USD",
+   "titel": "Average Hourly Earnings m/m",
+   "impact": "High",
+   "prognose": "0.3%",
+   "vorher": "0.1%",
+   "actual": "0.3%",
+   "notiz": null
+  },
+  {
+   "datum": "2026-09-04T08:30:00-04:00",
+   "land": "USD",
+   "titel": "Non-Farm Employment Change",
+   "impact": "High",
+   "prognose": "55K",
+   "vorher": "-23K",
+   "actual": "162K",
+   "notiz": null
+  },
+  {
+   "datum": "2026-09-04T08:30:00-04:00",
+   "land": "USD",
+   "titel": "Unemployment Rate",
+   "impact": "High",
+   "prognose": "4.1%",
+   "vorher": "4.1%",
+   "actual": "4.1%",
+   "notiz": null
+  },
+  {
    "datum": "2026-09-02T09:45:00-04:00",
    "land": "CAD",
    "titel": "Overnight Rate",
@@ -4799,6 +4850,16 @@ window.MAKRO_DATA = {
    "vorher": "2.25%",
    "actual": "2.25%",
    "notiz": "auto:TV rate (2026-09-02)"
+  },
+  {
+   "datum": "2026-09-01T22:00:00-04:00",
+   "land": "NZD",
+   "titel": "Official Cash Rate",
+   "impact": "High",
+   "prognose": "2.75%",
+   "vorher": "2.50%",
+   "actual": "2.75%",
+   "notiz": null
   },
   {
    "datum": "2026-09-01T21:30:00-04:00",
@@ -5329,66 +5390,6 @@ window.MAKRO_DATA = {
    "vorher": "172K",
    "actual": "+57K",
    "notiz": "auto:FRED PAYEMS (Ref 2026-06-01)"
-  },
-  {
-   "datum": "2026-07-02T08:30:00-04:00",
-   "land": "USD",
-   "titel": "Unemployment Rate",
-   "impact": "High",
-   "prognose": "4.3%",
-   "vorher": "4.3%",
-   "actual": "4.2%",
-   "notiz": "auto:FRED UNRATE (Ref 2026-06-01)"
-  },
-  {
-   "datum": "2026-07-01T10:00:00-04:00",
-   "land": "USD",
-   "titel": "ISM Manufacturing PMI",
-   "impact": "High",
-   "prognose": "53.8",
-   "vorher": "54.0",
-   "actual": "53.3",
-   "notiz": null
-  },
-  {
-   "datum": "2026-06-30T08:30:00-04:00",
-   "land": "CAD",
-   "titel": "GDP m/m",
-   "impact": "High",
-   "prognose": "0.4%",
-   "vorher": "-0.1%",
-   "actual": "0.4%",
-   "notiz": null
-  },
-  {
-   "datum": "2026-06-25T08:30:00-04:00",
-   "land": "USD",
-   "titel": "Core PCE Price Index m/m",
-   "impact": "High",
-   "prognose": "0.3%",
-   "vorher": "0.2%",
-   "actual": "0.3",
-   "notiz": null
-  },
-  {
-   "datum": "2026-06-25T08:30:00-04:00",
-   "land": "USD",
-   "titel": "Final GDP q/q",
-   "impact": "High",
-   "prognose": "1.6%",
-   "vorher": "1.6%",
-   "actual": "2.1%",
-   "notiz": "auto:FRED A191RL1Q225SBEA (Ref 2026-01-01)"
-  },
-  {
-   "datum": "2026-06-24T21:30:00-04:00",
-   "land": "AUD",
-   "titel": "Employment Change",
-   "impact": "High",
-   "prognose": "31.2K",
-   "vorher": "-18.6K",
-   "actual": "40.3K",
-   "notiz": null
   }
  ],
  "anzahlGespeichert": 1171

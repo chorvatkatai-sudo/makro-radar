@@ -1,11 +1,11 @@
 {
-  "stand": "2026-09-04T10:16:02.104Z",
+  "stand": "2026-09-04T13:26:51.670Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 50,
-  "gewertet": 24,
-  "nichtWertbar": 26,
+  "gefunden": 54,
+  "gewertet": 25,
+  "nichtWertbar": 29,
   "treffer": 14,
-  "quote": 58,
+  "quote": 56,
   "zinsentscheide": {
     "treffer": 7,
     "gesamt": 7,
@@ -13,8 +13,8 @@
   },
   "datenPrognosen": {
     "treffer": 7,
-    "gesamt": 17,
-    "quote": 41
+    "gesamt": 18,
+    "quote": 39
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
@@ -23,8 +23,8 @@
   },
   "exakt": {
     "treffer": 1,
-    "gesamt": 1,
-    "quote": 100
+    "gesamt": 2,
+    "quote": 50
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "Fed-Zinsentscheid + Warsh-Pressekonferenz",
-      "datum": "2026-07-29",
-      "richtung": "wie_erwartet",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "3.75%",
-      "ist": "3.75%",
-      "treffer": true
-    },
     {
       "event": "USA: Jobbericht (Non-Farm Payrolls, Juli)",
       "datum": "2026-08-07",
@@ -103,6 +94,15 @@
       "konsens": "55.2",
       "ist": "54.6",
       "treffer": true
+    },
+    {
+      "event": "US-Jobbericht (Non-Farm Payrolls, August)",
+      "datum": "2026-09-04",
+      "richtung": "niedriger",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "0.3%",
+      "ist": "0.3%",
+      "treffer": false
     }
   ]
 }

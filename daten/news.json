@@ -1,11 +1,47 @@
 {
-  "stand": "2026-09-04T20:11:40.858Z",
+  "stand": "2026-09-05T05:03:31.960Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysian Ringgit: Range-bound risks and key levels against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-range-bound-risks-and-key-levels-against-us-dollar-ocbc-202609042251",
+      "datum": "2026-09-04T22:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
+      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-peso-rally-targets-april-2024-low-202609042159",
+      "datum": "2026-09-04T21:59:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysian Ringgit: BNM hawkish tilt supports MYR – Commerzbank",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-bnm-hawkish-tilt-supports-myr-commerzbank-202609042128",
+      "datum": "2026-09-04T21:28:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-nfp-rally-stalls-at-08100-retraces-202609042127",
+      "datum": "2026-09-04T21:27:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: Two-way risks around support levels – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-risks-around-support-levels-ocbc-202609042043",
+      "datum": "2026-09-04T20:43:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Big beat for non-farm payrolls",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-big-beat-for-non-farm-payrolls/",
+      "datum": "2026-09-04T20:34:48.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank",
@@ -61,36 +97,6 @@
       "datum": "2026-09-04T18:10:56.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar resumes advance as US Dollar loses post-NFP momentum",
-      "link": "https://www.fxstreet.com/news/australian-dollar-resumes-advance-as-us-dollar-loses-post-nfp-momentum-202609041810",
-      "datum": "2026-09-04T18:10:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold falls as traders increase Fed hawkish bets after stellar NFP",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-traders-increase-fed-hawkish-bets-after-stellar-nfp-202609041808",
-      "datum": "2026-09-04T18:08:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average falls on a jobs number the president loves",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-falls-on-a-jobs-number-the-president-loves-202609041736",
-      "datum": "2026-09-04T17:36:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver claws back post-NFP losses after briefly crashing below $65",
-      "link": "https://www.fxstreet.com/news/silver-claws-back-post-nfp-losses-after-briefly-crashing-below-65-202609041551",
-      "datum": "2026-09-04T15:51:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Euro forms potential higher low above 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-forms-potential-higher-low-above-100-day-sma-202609041543",
-      "datum": "2026-09-04T15:43:41.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
@@ -107,12 +113,6 @@
       "titel": "Canada Employment change for August -41,7K vs 15.0K estimate",
       "link": "https://investinglive.com/news/canada-employment-change-for-august-41-7k-vs-15-0k-estimate/",
       "datum": "2026-09-04T12:30:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US August non-farm payrolls +162K vs +56K expected",
-      "link": "https://investinglive.com/news/us-august-non-farm-payrolls-vs-56k-expected/",
-      "datum": "2026-09-04T12:30:06.000Z"
     }
   ]
 }

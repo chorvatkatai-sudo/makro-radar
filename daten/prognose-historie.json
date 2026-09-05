@@ -961,7 +961,79 @@
         }
       },
       "mitMarktOverlay": true,
-      "auswertung": null
+      "auswertung": {
+        "treffer": 7,
+        "gesamt": 11,
+        "quote": 64,
+        "details": {
+          "EUR/USD": {
+            "score": -1,
+            "moveProzent": 0.22,
+            "treffer": false,
+            "basisTreffer": true
+          },
+          "GBP/USD": {
+            "score": -9,
+            "moveProzent": -0.07,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "USD/JPY": {
+            "score": 9,
+            "moveProzent": -2.18,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "AUD/USD": {
+            "score": 1,
+            "moveProzent": 0.58,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "USD/CAD": {
+            "score": 6,
+            "moveProzent": -0.62,
+            "treffer": false,
+            "basisTreffer": true
+          },
+          "USD/CHF": {
+            "score": 12,
+            "moveProzent": 0.08,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "NZD/USD": {
+            "score": -7,
+            "moveProzent": -0.57,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "EUR/GBP": {
+            "score": 5,
+            "moveProzent": 0.29,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "EUR/JPY": {
+            "score": 6,
+            "moveProzent": -1.96,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "AUD/NZD": {
+            "score": 9,
+            "moveProzent": 1.15,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "EUR/CHF": {
+            "score": 9,
+            "moveProzent": 0.31,
+            "treffer": true,
+            "basisTreffer": true
+          }
+        }
+      }
     },
     {
       "woche": "2026-09-07",

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-05T05:03:33.140Z",
+ "erstellt": "2026-09-06T05:03:01.449Z",
  "wochenStart": "2026-08-30",
  "events": [
   {
@@ -2760,20 +2760,20 @@ window.MAKRO_DATA = {
    "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-   "stand": "2026-09-05",
-   "wochentag": "Samstag",
-   "tenor": "Wochenende — die Börsen ruhen. Rückblick auf eine Notenbank- und Jobwoche: Der US-Jobbericht kam am Freitag als Schock NACH OBEN (+162.000 statt ~55.000), doch der Dollar rallyte kaum — Fed-Mann Waller bremste die Erhöhungs-Fantasie mit einem Pausen-Signal, der 17.9.-Entscheid bleibt Münzwurf. Gold hält sich nahe Rekord (~4.480 $), Öl ist teuer (WTI ~91 $, +6 % Woche). Nächste Woche wird groß: EZB Mi + US-Inflation Fr.",
+   "stand": "2026-09-06",
+   "wochentag": "Sonntag",
+   "tenor": "Wochenende, Tag 2 — die Börsen ruhen. Ausblick auf eine Schlüsselwoche: 🇪🇺 EZB Mi 10.9. (Erhöhung auf 2,50 % fast sicher, der Ton danach zählt) und 🇺🇸 US-Inflation Fr 11.9. (Schiedsrichter für den Fed-Entscheid am 17.9.). Ausgangslage vom Freitag: Dollar weich (Index ~99) trotz starkem Jobbericht, weil Fed-Mann Waller eine Pause andeutete; Gold nahe Rekord (~4.480 $), Öl teuer (WTI ~91 $).",
    "heute": [
-    "🛌 Wochenende — die Devisenmärkte sind geschlossen, es gibt keine neuen Kurse und Zahlen. Ruhe vor einer wichtigen Woche.",
-    "📅 Das kommt (kinderleicht): 🇪🇺 EZB-Zinsentscheid Mi 10.9. (14:15 Wien) — eine Erhöhung um 0,25 auf 2,50 % gilt als fast sicher; entscheidend ist, ob Lagarde danach das Ende der Erhöhungen andeutet. 🇺🇸 US-Inflation (CPI) Fr 11.9. (14:30 Wien) = DER Schiedsrichter für den Fed-Entscheid am 17.9.: kühl → Erhöhung vom Tisch, Dollar schwächer; heiß → Dollar zieht an. Dazu Mi US-Erzeugerpreise (PPI) und Do UK-Wachstum."
+    "🛌 Sonntag — Devisenmärkte geschlossen, keine neuen Kurse oder Zahlen. Ab Montagfrüh (Asien) läuft der Handel wieder an.",
+    "📅 Diese Woche kinderleicht: 🇪🇺 Mi 10.9. EZB-Zins (14:15 Wien) — +0,25 auf 2,50 % gilt als fast sicher; wichtig ist, ob Lagarde danach das Ende der Erhöhungen andeutet (dann eher Euro-Dämpfer). 🇺🇸 Fr 11.9. US-Inflation CPI (14:30 Wien) = DER Schiedsrichter für den Fed-Entscheid 17.9.: kühl → Erhöhung vom Tisch, Dollar schwächer; heiß → Dollar zieht an. Dazu Mi US-Erzeugerpreise (PPI), Do UK-Wachstum, Fr Uni-Michigan-Stimmung.",
+    "⚖️ Ehrlich zum Handeln: Die Wochen-Signale des Radars sind über die bisherige Historie kaum besser als ein Münzwurf — vor EZB/CPI klein bleiben und die Zahlen abwarten, statt vorab groß zu wetten."
    ],
    "gestern": [
-    "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat, erwartet ~55.000), Arbeitslosenquote 4,1 %, Löhne +3,1 % Jahr. Kinderleicht: viel mehr neue Jobs als gedacht = Arbeitsmarkt stark, nicht kaputt → hält die Fed-Erhöhungs-Debatte am Leben. ABER der Dollar reagierte nur verhalten, weil Fed-Mann Waller tags zuvor eine Pause andeutete.",
-    "🇺🇸 Do 3.9: Waller (Fed) deutete eine Zins-PAUSE an → der 17.9.-Entscheid ist jetzt ein Münzwurf (Halten oder Erhöhen). Chef Warsh bleibt Falke. Diese Uneinigkeit im Fed-Rat zählt gerade mehr als einzelne Zahlen.",
-    "🇨🇦 Fr 4.9: Kanada verlor −41.700 Jobs (erwartet +15.000), Quote 6,4 %. Schwach für den Loonie — aber teures Öl (+6 %) und die falkenhafte Bank of Canada stützen von der anderen Seite. Wermutstropfen: US-Kanada-Handelsgespräche geplatzt, neue Zölle.",
-    "🇳🇿 Mi 2.9: Neuseeland-Notenbank RBNZ ERHÖHT auf 2,75 % (zweite Erhöhung in Folge, Inflation 4,1 %) und stellt eine weitere in Aussicht → Rückenwind für den Kiwi. 🇦🇺 Australien-Wachstum Q2 +0,4 % (über Konsens) stützt den Aussie.",
-    "🇪🇺 Di 1.9: Euro-Inflation (Flash) Schlagzeile 3,3 % (Höchststand seit 2023, Energie/Nahost), Kern aber kühler 2,4 % → EZB erhöht Mi fast sicher, dürfte danach das Ende signalisieren.",
-    "🧭 Marktbild zum Wochenschluss: Dollar-Index ~99 (weich, −0,3 % Woche), Gold ~4.480 $ (nahe Rekord), Öl teuer (WTI ~91 $, +6 % Woche, Nahost), Angst-Barometer VIX 14,4 (sehr niedrig = entspannter Risk-on-Markt), Bitcoin ~80.000 $. Feste US-Zinsen (10J ~4,78 %) geben dem Dollar einen Boden."
+    "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat, erwartet ~55.000), Quote 4,1 %, Löhne +3,1 % Jahr → Arbeitsmarkt stark, hält die Fed-Erhöhungs-Debatte am Leben. Trotzdem nur verhaltene Dollar-Reaktion, weil Waller (Fed) am Do zuvor eine Zins-PAUSE andeutete → 17.9.-Entscheid = Münzwurf (Chef Warsh bleibt Falke).",
+    "🇨🇦 Fr 4.9: Kanada verlor −41.700 Jobs (erwartet +15.000), Quote 6,4 % — schwach; teures Öl (+6 %) und die falkenhafte Bank of Canada stützen den Loonie von der anderen Seite.",
+    "🇳🇿 Mi 2.9: RBNZ erhöht auf 2,75 % (zweite Erhöhung, stellt weitere in Aussicht) → Kiwi-Rückenwind. 🇦🇺 Australien-Wachstum Q2 +0,4 % (über Konsens) stützt den Aussie.",
+    "🇪🇺 Di 1.9: Euro-Inflation (Flash) Schlagzeile 3,3 % (Höchststand seit 2023, Energie), Kern kühler 2,4 % → EZB erhöht Mi fast sicher, dürfte danach das Ende signalisieren.",
+    "🧭 Marktbild zum Wochenschluss: Dollar-Index ~99 (weich, −0,3 % Woche), Gold ~4.480 $ (nahe Rekord), Öl teuer (WTI ~91 $, +6,7 % Woche, Nahost), VIX 14,5 (sehr niedrig = entspannter Risk-on-Markt), Bitcoin ~79.500 $. Feste US-Zinsen (10J ~4,78 %) geben dem Dollar einen Boden."
    ]
   }
  },
@@ -3903,7 +3903,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-05T05:03:32.797Z",
+  "stand": "2026-09-06T05:03:01.448Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 54,
   "gewertet": 25,

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-07T16:57:05.655Z",
+  "stand": "2026-09-07T23:12:22.671Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-usd-fades-hormuz-risk-keeps-fed-in-play-202609071651",
-      "datum": "2026-09-07T16:51:57.000Z"
+      "titel": "Citi Survey sees Banxico frozen as Peso holds below 18.00",
+      "link": "https://www.fxstreet.com/news/citi-survey-sees-banxico-frozen-as-peso-holds-below-1800-202609072304",
+      "datum": "2026-09-07T23:04:52.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar struggles to gain traction as cautious RBNZ outlook weighs",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-gain-traction-as-cautious-rbnz-outlook-weighs-202609071609",
-      "datum": "2026-09-07T16:09:39.000Z"
+      "titel": "Thai Baht: Recent THB gains face headwinds – OCBC",
+      "link": "https://www.fxstreet.com/news/thai-baht-recent-thb-gains-face-headwinds-ocbc-202609072256",
+      "datum": "2026-09-07T22:56:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-consolidates-around-the-50-day-sma-202609071602",
-      "datum": "2026-09-07T16:02:54.000Z"
+      "titel": "Australian Dollar rides thin-trading lift as Fed test looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rides-thin-trading-lift-as-fed-test-looms-202609072253",
+      "datum": "2026-09-07T22:53:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United Kingdom: BoE holds but risks later cuts – Societe Generale",
-      "link": "https://www.fxstreet.com/news/united-kingdom-boe-holds-but-risks-later-cuts-societe-generale-202609071552",
-      "datum": "2026-09-07T15:52:00.000Z"
+      "titel": "Chinese Yuan: Hong Kong’s offshore gateway role expands – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-hong-kongs-offshore-gateway-role-expands-commerzbank-202609072217",
+      "datum": "2026-09-07T22:17:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar hits three-month high as RBA rate hike bets intensify",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hits-three-month-high-as-rba-rate-hike-bets-intensify-202609071515",
-      "datum": "2026-09-07T15:15:37.000Z"
+      "titel": "The Canadian Dollar gains as Oil rally offsets jobs gloom",
+      "link": "https://www.fxstreet.com/news/the-canadian-dollar-gains-as-oil-rally-offsets-jobs-gloom-202609072208",
+      "datum": "2026-09-07T22:08:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Oil climbs as Middle East supply risks remain evelated",
-      "link": "https://www.fxstreet.com/news/wti-oil-climbs-as-middle-east-supply-risks-remain-evelated-202609071512",
-      "datum": "2026-09-07T15:12:59.000Z"
+      "titel": "South Korean Won: Authorities signal pause in KRW strength – ING",
+      "link": "https://www.fxstreet.com/news/south-korean-won-authorities-signal-pause-in-krw-strength-ing-202609072139",
+      "datum": "2026-09-07T21:39:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: September BoJ decision shapes path – HSBC",
-      "link": "https://www.fxstreet.com/news/japanese-yen-september-boj-decision-shapes-path-hsbc-202609071503",
-      "datum": "2026-09-07T15:03:17.000Z"
+      "titel": "Tuesday tells the Japanese Yen more than next week will",
+      "link": "https://www.fxstreet.com/news/tonight-tells-the-japanese-yen-more-than-next-week-will-202609072138",
+      "datum": "2026-09-07T21:38:47.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Preview: China trade data due today, a beat could firm up AUD as a demand proxy trade",
+      "link": "https://investinglive.com/news/preview-china-trade-data-due-today-a-beat-could-firm-up-aud-as-a-demand-proxy-trade/",
+      "datum": "2026-09-07T21:03:52.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Bank of Canada: Rates outlook and inflation risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441",
-      "datum": "2026-09-07T14:41:09.000Z"
+      "titel": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101",
+      "datum": "2026-09-07T21:01:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Eurozone: Resilient growth, worrying inflation – ABN AMRO",
-      "link": "https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424",
-      "datum": "2026-09-07T14:24:02.000Z"
+      "titel": "Pound Sterling's rate advantage buys it no say this week",
+      "link": "https://www.fxstreet.com/news/pound-sterlings-rate-advantage-buys-it-no-say-this-week-202609072058",
+      "datum": "2026-09-07T20:58:45.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Tuesday, September 8, 2026: Japan GDP and China trade data",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-september-8-2026-japan-gdp-and-china-trade-data/",
+      "datum": "2026-09-07T20:24:45.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United Kingdom: Growth pace cools after hot start – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-growth-pace-cools-after-hot-start-deutsche-bank-202609071411",
-      "datum": "2026-09-07T14:11:37.000Z"
+      "titel": "Vietnam: Inflation and trade trends shape VND – Commerzbank",
+      "link": "https://www.fxstreet.com/news/vietnam-inflation-and-trade-trends-shape-vnd-commerzbank-202609072018",
+      "datum": "2026-09-07T20:18:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: CPI outcome to steer Fed path – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357",
-      "datum": "2026-09-07T13:57:14.000Z"
+      "titel": "Mexican Peso stumbles as traders brace for US inflation week",
+      "link": "https://www.fxstreet.com/news/mexican-peso-stumbles-as-traders-brace-for-us-inflation-week-202609072012",
+      "datum": "2026-09-07T20:12:29.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-7-sept-usd-falls-as-the-yen-surges-on-boj-rate-hike-expectations/",
+      "datum": "2026-09-07T19:28:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "A German landslide moved the Euro by nothing at all",
+      "link": "https://www.fxstreet.com/news/the-euro-waits-for-the-sentence-after-the-rate-hike-202609071741",
+      "datum": "2026-09-07T17:41:38.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -85,34 +109,10 @@
       "datum": "2026-09-07T11:24:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
-      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
-      "datum": "2026-09-07T11:13:47.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Eurozone Q2 GDP gets a trade boost as growth accelerates to 0.6%",
       "link": "https://investinglive.com/news/eurozone-q2-gdp-gets-a-trade-boost-as-growth-accelerates-to-0-6/",
       "datum": "2026-09-07T09:00:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone investor confidence jumps to four-year high",
-      "link": "https://investinglive.com/news/eurozone-investor-confidence-jumps-to-four-year-high/",
-      "datum": "2026-09-07T08:30:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-36/",
-      "datum": "2026-09-07T06:34:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany factory output slumps in July as autos hit the brakes",
-      "link": "https://investinglive.com/news/germany-factory-output-slumps-in-july-as-autos-hit-the-brakes/",
-      "datum": "2026-09-07T06:02:17.000Z"
     }
   ]
 }

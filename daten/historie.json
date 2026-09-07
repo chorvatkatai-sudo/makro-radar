@@ -11866,7 +11866,7 @@
       "land": "JPY",
       "titel": "Average Cash Earnings y/y",
       "impact": "Low",
-      "prognose": "3.9%",
+      "prognose": "3.8%",
       "vorher": "3.4%",
       "actual": null,
       "notiz": null
@@ -11886,7 +11886,7 @@
       "land": "JPY",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "2.46T",
+      "prognose": "2.48T",
       "vorher": "1.40T",
       "actual": null,
       "notiz": null
@@ -11936,7 +11936,7 @@
       "land": "CNY",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "795B",
+      "prognose": "805B",
       "vorher": "767B",
       "actual": null,
       "notiz": null
@@ -11946,7 +11946,7 @@
       "land": "CNY",
       "titel": "USD-Denominated Trade Balance",
       "impact": "Low",
-      "prognose": "120.1B",
+      "prognose": "118.6B",
       "vorher": "112.5B",
       "actual": null,
       "notiz": null
@@ -11976,7 +11976,7 @@
       "land": "EUR",
       "titel": "German Trade Balance",
       "impact": "Low",
-      "prognose": "16.5B",
+      "prognose": "16.0B",
       "vorher": "15.4B",
       "actual": null,
       "notiz": null
@@ -12006,7 +12006,7 @@
       "land": "USD",
       "titel": "NFIB Small Business Index",
       "impact": "Low",
-      "prognose": "99.2",
+      "prognose": "99.4",
       "vorher": "99.8",
       "actual": null,
       "notiz": null
@@ -12016,7 +12016,7 @@
       "land": "USD",
       "titel": "Consumer Credit m/m",
       "impact": "Low",
-      "prognose": "13.2B",
+      "prognose": "11.9B",
       "vorher": "14.2B",
       "actual": null,
       "notiz": null
@@ -12066,7 +12066,7 @@
       "land": "EUR",
       "titel": "French Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.2%",
       "vorher": "0.1%",
       "actual": null,
       "notiz": null
@@ -12136,7 +12136,7 @@
       "land": "GBP",
       "titel": "RICS House Price Balance",
       "impact": "Low",
-      "prognose": "-31%",
+      "prognose": "-30%",
       "vorher": "-30%",
       "actual": null,
       "notiz": null
@@ -12246,7 +12246,7 @@
       "land": "USD",
       "titel": "Final Wholesale Inventories m/m",
       "impact": "Low",
-      "prognose": "1.3%",
+      "prognose": "1.2%",
       "vorher": "1.3%",
       "actual": null,
       "notiz": null
@@ -12336,7 +12336,7 @@
       "land": "GBP",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-22.4B",
+      "prognose": "-22.6B",
       "vorher": "-23.0B",
       "actual": null,
       "notiz": null
@@ -12356,7 +12356,7 @@
       "land": "GBP",
       "titel": "Industrial Production m/m",
       "impact": "Low",
-      "prognose": "-0.1%",
+      "prognose": "-0.2%",
       "vorher": "-0.2%",
       "actual": null,
       "notiz": null
@@ -12376,7 +12376,7 @@
       "land": "CHF",
       "titel": "SECO Consumer Climate",
       "impact": "Low",
-      "prognose": "-32",
+      "prognose": "-33",
       "vorher": "-35",
       "actual": null,
       "notiz": null
@@ -12386,7 +12386,7 @@
       "land": "EUR",
       "titel": "Italian Quarterly Unemployment Rate",
       "impact": "Low",
-      "prognose": "5.3%",
+      "prognose": "5.4%",
       "vorher": "5.3%",
       "actual": null,
       "notiz": null
@@ -12486,7 +12486,7 @@
       "land": "USD",
       "titel": "Federal Budget Balance",
       "impact": "Low",
-      "prognose": "-202.4B",
+      "prognose": "-221.1B",
       "vorher": "-432.3B",
       "actual": null,
       "notiz": null

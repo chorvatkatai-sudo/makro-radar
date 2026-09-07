@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-06T05:03:27.995Z",
+  "stand": "2026-09-07T05:04:48.828Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,33 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Malaysian Ringgit: Range-bound risks and key levels against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-range-bound-risks-and-key-levels-against-us-dollar-ocbc-202609042251",
-      "datum": "2026-09-04T22:51:00.000Z"
+      "titel": "GBP/USD Price Forecast: Struggles near 1.3500 amid modest USD uptick; bears seem hesitant",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-struggles-near-13500-amid-modest-usd-uptick-bears-seem-hesitant-202609070451",
+      "datum": "2026-09-07T04:51:06.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
-      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-peso-rally-targets-april-2024-low-202609042159",
-      "datum": "2026-09-04T21:59:40.000Z"
+      "titel": "Indonesian Rupiah weakens as Fed rate hike odds lift US Dollar",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-fed-rate-hike-odds-lift-us-dollar-202609070443",
+      "datum": "2026-09-07T04:43:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Malaysian Ringgit: BNM hawkish tilt supports MYR – Commerzbank",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-bnm-hawkish-tilt-supports-myr-commerzbank-202609042128",
-      "datum": "2026-09-04T21:28:00.000Z"
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609070441",
+      "datum": "2026-09-07T04:41:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Reminder: US markets are closed for Labor Day - what traders need to know",
+      "link": "https://investinglive.com/news/reminder-us-markets-are-closed-for-labor-day-what-traders-need-to-know/",
+      "datum": "2026-09-07T04:23:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-nfp-rally-stalls-at-08100-retraces-202609042127",
-      "datum": "2026-09-04T21:27:24.000Z"
+      "titel": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-declines-below-18150-with-emerging-oversold-rsi-202609070420",
+      "datum": "2026-09-07T04:20:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: Two-way risks around support levels – OCBC",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-risks-around-support-levels-ocbc-202609042043",
-      "datum": "2026-09-04T20:43:00.000Z"
+      "titel": "Gold remains depressed as reviving Fed rate hike bets and Iran risks underpin USD",
+      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419",
+      "datum": "2026-09-07T04:19:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc weakens as US Dollar strengthens on Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-strengthens-on-fed-rate-hike-bets-202609070337",
+      "datum": "2026-09-07T03:37:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil firm on Hormuz strikes",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-firm-on-hormuz-strikes/",
+      "datum": "2026-09-07T03:34:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Holds key 100-day SMA at start of the US CPI week",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-key-100-day-sma-at-start-of-the-us-cpi-week-202609070321",
+      "datum": "2026-09-07T03:21:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD holds losses near $66.00 due to Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-losses-near-6600-due-to-fed-rate-hike-bets-202609070244",
+      "datum": "2026-09-07T02:44:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-consolidates-around-07200-bullish-potential-seems-intact-202609070226",
+      "datum": "2026-09-07T02:26:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index strengthens above 99.00 as robust US jobs data boosts Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-above-9900-as-robust-us-jobs-data-boosts-fed-rate-hike-bets-202609070225",
+      "datum": "2026-09-07T02:25:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-as-fed-rate-hike-bets-and-iran-tensions-underpin-usd-202609070145",
+      "datum": "2026-09-07T01:45:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar moves little despite weaker US Dollar, higher oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-moves-little-despite-weaker-us-dollar-higher-oil-prices-202609070136",
+      "datum": "2026-09-07T01:36:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran warns of tougher response: Oil, gold and stocks to watch over the holiday weekend",
+      "link": "https://investinglive.com/news/iran-warns-of-tougher-response-oil-gold-and-stocks-to-watch-over-the-holiday-weekend/",
+      "datum": "2026-09-06T12:49:21.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -43,76 +103,16 @@
       "datum": "2026-09-04T20:34:48.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-services-pmi-rebound-keeps-pboc-cautious-commerzbank-202609042003",
-      "datum": "2026-09-04T20:03:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Sterling’s rally stalls as US jobs data reopens Fed debate",
-      "link": "https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952",
-      "datum": "2026-09-04T19:52:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Malaysia: Hawkish pause keeps options open – DBS",
-      "link": "https://www.fxstreet.com/news/malaysia-hawkish-pause-keeps-options-open-dbs-202609041934",
-      "datum": "2026-09-04T19:34:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: Dollar inflows support INR but impulse may fade – OCBC",
-      "link": "https://www.fxstreet.com/news/indian-rupee-dollar-inflows-support-inr-but-impulse-may-fade-ocbc-202609041932",
-      "datum": "2026-09-04T19:32:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump: Going to help cattle ranchers by allowing them to process their own beef.",
       "link": "https://investinglive.com/news/trump-going-to-help-cattle-ranchers-by-allowing-them-to-process-their-own-beef/",
       "datum": "2026-09-04T19:25:11.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Eurozone: Inflation above target into 2027 – Nordea",
-      "link": "https://www.fxstreet.com/news/eurozone-inflation-above-target-into-2027-nordea-202609041850",
-      "datum": "2026-09-04T18:50:36.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump: Witkoff and Kushner will bring proposal to Putin to end the war",
       "link": "https://investinglive.com/news/trump-we-may-hit-piackaxe-mountain-very-soon/",
       "datum": "2026-09-04T18:46:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Hammack says policy is not restrictive enough",
-      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-is-not-restrictive-enough-202609041816",
-      "datum": "2026-09-04T18:16:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Turkey: CBRT likely to hold before two Q4 rate cuts - ING",
-      "link": "https://www.fxstreet.com/news/turkey-cbrt-likely-to-hold-before-two-q4-rate-cuts-ing-202609041810",
-      "datum": "2026-09-04T18:10:56.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-      "datum": "2026-09-04T15:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump tells Fed: Lower the rate or I'll stop trading with countries with which we have a deficit",
-      "link": "https://investinglive.com/news/trump-tells-fed-lower-the-rate-or-i-ll-stop-trading-with-countries-with-which-we-have-a-deficit/",
-      "datum": "2026-09-04T13:45:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada Employment change for August -41,7K vs 15.0K estimate",
-      "link": "https://investinglive.com/news/canada-employment-change-for-august-41-7k-vs-15-0k-estimate/",
-      "datum": "2026-09-04T12:30:14.000Z"
     }
   ]
 }

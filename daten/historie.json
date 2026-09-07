@@ -12036,7 +12036,7 @@
       "land": "CNY",
       "titel": "CPI y/y",
       "impact": "Low",
-      "prognose": "0.9%",
+      "prognose": "0.8%",
       "vorher": "0.5%",
       "actual": null,
       "notiz": null
@@ -12506,6 +12506,36 @@
       "land": "All",
       "titel": "BRICS Summit",
       "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-08T09:15:00-04:00|GBP|Monetary Policy Report Hearings": {
+      "datum": "2026-09-08T09:15:00-04:00",
+      "land": "GBP",
+      "titel": "Monetary Policy Report Hearings",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-09T13:00:00-04:00|EUR|ECB President Lagarde Speaks": {
+      "datum": "2026-09-09T13:00:00-04:00",
+      "land": "EUR",
+      "titel": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-11T10:00:00-04:00|EUR|ECB President Lagarde Speaks": {
+      "datum": "2026-09-11T10:00:00-04:00",
+      "land": "EUR",
+      "titel": "ECB President Lagarde Speaks",
+      "impact": "Medium",
       "prognose": "",
       "vorher": "",
       "actual": null,

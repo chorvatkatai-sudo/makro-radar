@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-07T05:04:48.828Z",
+  "stand": "2026-09-07T11:11:07.822Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,21 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Struggles near 1.3500 amid modest USD uptick; bears seem hesitant",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-struggles-near-13500-amid-modest-usd-uptick-bears-seem-hesitant-202609070451",
-      "datum": "2026-09-07T04:51:06.000Z"
+      "titel": "Saudi Oil facilities hit in fresh strikes, WTI surges above $90",
+      "link": "https://www.fxstreet.com/news/saudi-oil-facilities-hit-in-fresh-strikes-wti-surges-above-90-202609071109",
+      "datum": "2026-09-07T11:09:53.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah weakens as Fed rate hike odds lift US Dollar",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-fed-rate-hike-odds-lift-us-dollar-202609070443",
-      "datum": "2026-09-07T04:43:42.000Z"
+      "titel": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609071109",
+      "datum": "2026-09-07T11:09:21.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609070441",
-      "datum": "2026-09-07T04:41:07.000Z"
+      "titel": "Silver slips below $66 as strong NFP report revives Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/silver-slips-below-66-as-strong-nfp-report-revives-fed-rate-hike-bets-202609071056",
+      "datum": "2026-09-07T10:56:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/GBP Price Forecast: Testing support at previous highs in the 0.8585 area",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-testing-support-at-previous-highs-at-the-08585-area-202609071049",
+      "datum": "2026-09-07T10:49:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "154.06: Japanese Yen hits fresh six-month highs amid hopes of steeper BoJ hikes",
+      "link": "https://www.fxstreet.com/news/15406-japanese-yen-hits-fresh-six-month-highs-amid-hopes-of-steeper-boj-hikes-202609071005",
+      "datum": "2026-09-07T10:05:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro tumbles as Japanese Yen benefits from BoJ rate hike bets",
+      "link": "https://www.fxstreet.com/news/euro-tumbles-as-japanese-yen-benefits-from-boj-rate-hike-bets-202609070955",
+      "datum": "2026-09-07T09:55:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EM FX: Policy holds shape CLP, PLN, PEN, TRY – BBH",
+      "link": "https://www.fxstreet.com/news/em-fx-policy-holds-shape-clp-pln-pen-try-bbh-202609070954",
+      "datum": "2026-09-07T09:54:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Czech Koruna: CPI keeps CNB on hold but risks build – Commerzbank",
+      "link": "https://www.fxstreet.com/news/czech-koruna-cpi-keeps-cnb-on-hold-but-risks-build-commerzbank-202609070942",
+      "datum": "2026-09-07T09:42:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609070932",
+      "datum": "2026-09-07T09:32:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB: Political strains test policy shield – Rabobank",
+      "link": "https://www.fxstreet.com/news/ecb-political-strains-test-policy-shield-rabobank-202609070932",
+      "datum": "2026-09-07T09:32:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Inflation data steer policy path – TD Securities",
+      "link": "https://www.fxstreet.com/news/federal-reserve-inflation-data-steer-policy-path-td-securities-202609070918",
+      "datum": "2026-09-07T09:18:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "UK Chancellor Healey: I will build on Reeves' move to recover fiscal discipline",
+      "link": "https://www.fxstreet.com/news/uk-chancellor-healey-i-will-build-on-reeves-move-to-recover-fiscal-discipline-202609070918",
+      "datum": "2026-09-07T09:18:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone Q2 GDP gets a trade boost as growth accelerates to 0.6%",
+      "link": "https://investinglive.com/news/eurozone-q2-gdp-gets-a-trade-boost-as-growth-accelerates-to-0-6/",
+      "datum": "2026-09-07T09:00:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone investor confidence jumps to four-year high",
+      "link": "https://investinglive.com/news/eurozone-investor-confidence-jumps-to-four-year-high/",
+      "datum": "2026-09-07T08:30:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-36/",
+      "datum": "2026-09-07T06:34:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany factory output slumps in July as autos hit the brakes",
+      "link": "https://investinglive.com/news/germany-factory-output-slumps-in-july-as-autos-hit-the-brakes/",
+      "datum": "2026-09-07T06:02:17.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -31,88 +109,10 @@
       "datum": "2026-09-07T04:23:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-declines-below-18150-with-emerging-oversold-rsi-202609070420",
-      "datum": "2026-09-07T04:20:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold remains depressed as reviving Fed rate hike bets and Iran risks underpin USD",
-      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419",
-      "datum": "2026-09-07T04:19:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc weakens as US Dollar strengthens on Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-strengthens-on-fed-rate-hike-bets-202609070337",
-      "datum": "2026-09-07T03:37:23.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Oil firm on Hormuz strikes",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-firm-on-hormuz-strikes/",
       "datum": "2026-09-07T03:34:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Holds key 100-day SMA at start of the US CPI week",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-key-100-day-sma-at-start-of-the-us-cpi-week-202609070321",
-      "datum": "2026-09-07T03:21:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD holds losses near $66.00 due to Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-losses-near-6600-due-to-fed-rate-hike-bets-202609070244",
-      "datum": "2026-09-07T02:44:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Consolidates around 0.7200; bullish potential seems intact",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-consolidates-around-07200-bullish-potential-seems-intact-202609070226",
-      "datum": "2026-09-07T02:26:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index strengthens above 99.00 as robust US jobs data boosts Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-above-9900-as-robust-us-jobs-data-boosts-fed-rate-hike-bets-202609070225",
-      "datum": "2026-09-07T02:25:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-as-fed-rate-hike-bets-and-iran-tensions-underpin-usd-202609070145",
-      "datum": "2026-09-07T01:45:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar moves little despite weaker US Dollar, higher oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-moves-little-despite-weaker-us-dollar-higher-oil-prices-202609070136",
-      "datum": "2026-09-07T01:36:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran warns of tougher response: Oil, gold and stocks to watch over the holiday weekend",
-      "link": "https://investinglive.com/news/iran-warns-of-tougher-response-oil-gold-and-stocks-to-watch-over-the-holiday-weekend/",
-      "datum": "2026-09-06T12:49:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Big beat for non-farm payrolls",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-big-beat-for-non-farm-payrolls/",
-      "datum": "2026-09-04T20:34:48.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: Going to help cattle ranchers by allowing them to process their own beef.",
-      "link": "https://investinglive.com/news/trump-going-to-help-cattle-ranchers-by-allowing-them-to-process-their-own-beef/",
-      "datum": "2026-09-04T19:25:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: Witkoff and Kushner will bring proposal to Putin to end the war",
-      "link": "https://investinglive.com/news/trump-we-may-hit-piackaxe-mountain-very-soon/",
-      "datum": "2026-09-04T18:46:49.000Z"
     }
   ]
 }

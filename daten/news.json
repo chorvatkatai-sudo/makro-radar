@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-07T11:11:07.822Z",
+  "stand": "2026-09-07T16:57:05.655Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Saudi Oil facilities hit in fresh strikes, WTI surges above $90",
-      "link": "https://www.fxstreet.com/news/saudi-oil-facilities-hit-in-fresh-strikes-wti-surges-above-90-202609071109",
-      "datum": "2026-09-07T11:09:53.000Z"
+      "titel": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-usd-fades-hormuz-risk-keeps-fed-in-play-202609071651",
+      "datum": "2026-09-07T16:51:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609071109",
-      "datum": "2026-09-07T11:09:21.000Z"
+      "titel": "New Zealand Dollar struggles to gain traction as cautious RBNZ outlook weighs",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-gain-traction-as-cautious-rbnz-outlook-weighs-202609071609",
+      "datum": "2026-09-07T16:09:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver slips below $66 as strong NFP report revives Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/silver-slips-below-66-as-strong-nfp-report-revives-fed-rate-hike-bets-202609071056",
-      "datum": "2026-09-07T10:56:38.000Z"
+      "titel": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-consolidates-around-the-50-day-sma-202609071602",
+      "datum": "2026-09-07T16:02:54.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: Testing support at previous highs in the 0.8585 area",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-testing-support-at-previous-highs-at-the-08585-area-202609071049",
-      "datum": "2026-09-07T10:49:57.000Z"
+      "titel": "United Kingdom: BoE holds but risks later cuts – Societe Generale",
+      "link": "https://www.fxstreet.com/news/united-kingdom-boe-holds-but-risks-later-cuts-societe-generale-202609071552",
+      "datum": "2026-09-07T15:52:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "154.06: Japanese Yen hits fresh six-month highs amid hopes of steeper BoJ hikes",
-      "link": "https://www.fxstreet.com/news/15406-japanese-yen-hits-fresh-six-month-highs-amid-hopes-of-steeper-boj-hikes-202609071005",
-      "datum": "2026-09-07T10:05:50.000Z"
+      "titel": "Australian Dollar hits three-month high as RBA rate hike bets intensify",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hits-three-month-high-as-rba-rate-hike-bets-intensify-202609071515",
+      "datum": "2026-09-07T15:15:37.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro tumbles as Japanese Yen benefits from BoJ rate hike bets",
-      "link": "https://www.fxstreet.com/news/euro-tumbles-as-japanese-yen-benefits-from-boj-rate-hike-bets-202609070955",
-      "datum": "2026-09-07T09:55:36.000Z"
+      "titel": "WTI Oil climbs as Middle East supply risks remain evelated",
+      "link": "https://www.fxstreet.com/news/wti-oil-climbs-as-middle-east-supply-risks-remain-evelated-202609071512",
+      "datum": "2026-09-07T15:12:59.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EM FX: Policy holds shape CLP, PLN, PEN, TRY – BBH",
-      "link": "https://www.fxstreet.com/news/em-fx-policy-holds-shape-clp-pln-pen-try-bbh-202609070954",
-      "datum": "2026-09-07T09:54:08.000Z"
+      "titel": "Japanese Yen: September BoJ decision shapes path – HSBC",
+      "link": "https://www.fxstreet.com/news/japanese-yen-september-boj-decision-shapes-path-hsbc-202609071503",
+      "datum": "2026-09-07T15:03:17.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Czech Koruna: CPI keeps CNB on hold but risks build – Commerzbank",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cpi-keeps-cnb-on-hold-but-risks-build-commerzbank-202609070942",
-      "datum": "2026-09-07T09:42:11.000Z"
+      "titel": "Bank of Canada: Rates outlook and inflation risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441",
+      "datum": "2026-09-07T14:41:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609070932",
-      "datum": "2026-09-07T09:32:06.000Z"
+      "titel": "Eurozone: Resilient growth, worrying inflation – ABN AMRO",
+      "link": "https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424",
+      "datum": "2026-09-07T14:24:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "ECB: Political strains test policy shield – Rabobank",
-      "link": "https://www.fxstreet.com/news/ecb-political-strains-test-policy-shield-rabobank-202609070932",
-      "datum": "2026-09-07T09:32:03.000Z"
+      "titel": "United Kingdom: Growth pace cools after hot start – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-growth-pace-cools-after-hot-start-deutsche-bank-202609071411",
+      "datum": "2026-09-07T14:11:37.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve: Inflation data steer policy path – TD Securities",
-      "link": "https://www.fxstreet.com/news/federal-reserve-inflation-data-steer-policy-path-td-securities-202609070918",
-      "datum": "2026-09-07T09:18:55.000Z"
+      "titel": "US Dollar: CPI outcome to steer Fed path – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357",
+      "datum": "2026-09-07T13:57:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Oil climbs, yen surges amid US holiday",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-climbs-yen-surges-amid-us-holiday/",
+      "datum": "2026-09-07T12:00:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Saudi Aramco facility attacked again; extent of the damage still being assessed",
+      "link": "https://investinglive.com/news/saudi-aramco-facility-attacked-again-extent-of-the-damage-still-being-assessed/",
+      "datum": "2026-09-07T11:24:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "UK Chancellor Healey: I will build on Reeves' move to recover fiscal discipline",
-      "link": "https://www.fxstreet.com/news/uk-chancellor-healey-i-will-build-on-reeves-move-to-recover-fiscal-discipline-202609070918",
-      "datum": "2026-09-07T09:18:15.000Z"
+      "titel": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
+      "datum": "2026-09-07T11:13:47.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Germany factory output slumps in July as autos hit the brakes",
       "link": "https://investinglive.com/news/germany-factory-output-slumps-in-july-as-autos-hit-the-brakes/",
       "datum": "2026-09-07T06:02:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Reminder: US markets are closed for Labor Day - what traders need to know",
-      "link": "https://investinglive.com/news/reminder-us-markets-are-closed-for-labor-day-what-traders-need-to-know/",
-      "datum": "2026-09-07T04:23:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil firm on Hormuz strikes",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-firm-on-hormuz-strikes/",
-      "datum": "2026-09-07T03:34:06.000Z"
     }
   ]
 }

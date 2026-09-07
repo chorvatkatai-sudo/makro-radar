@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-06T05:03:28.510Z",
+ "erstellt": "2026-09-07T05:04:21.309Z",
  "wochenStart": "2026-09-06",
  "events": [
   {
@@ -2703,80 +2703,80 @@ window.MAKRO_DATA = {
   "waehrungen": {
    "USD": {
     "stimmung": "neutral",
-    "score": 6,
-    "grund": "Der starke Jobbericht (+162k statt 55k) gibt dem Dollar einen Boden und hält die Fed-Erhöhungs-Debatte am Leben (feste Renditen, hoher Realzins ~2,45 %). ABER: Waller-Taube (Pausen-Signal) + die Entwertungs-Wette (Gold nahe Rekord) deckeln ihn — er rallyte trotz Top-Zahl kaum. Netto knapp positiv."
+    "score": 7,
+    "grund": "Fester, aber ohne Rally: starker Jobbericht (+162k) + Erhöhungs-Wette ~58 % + teures Öl (Inflationssorge) + Zins-Momentum drehte pro-Dollar geben Boden — der Gold-Rekord (Entwertungs-Wette) deckelt aber. CPI Fr entscheidet."
    },
    "EUR": {
     "stimmung": "neutral",
-    "score": 3,
-    "grund": "Die EZB erhöht am Mi 10.9. mit ~87–99 % Sicherheit um 0,25 auf 2,50 % (Einlagensatz) — die heiße Schlagzeilen-Inflation (3,3 %) zwingt sie. ABER der wichtigere Kern kühlte auf 2,4 % und der Schritt ist eingepreist → Lagarde dürfte 'zweite und letzte' Erhöhung signalisieren. Euro-2J-Zins zieht mit an. Knapp positiv."
+    "score": 1,
+    "grund": "EZB erhöht Mi 10.9. fast sicher auf 2,50 %, aber weitgehend eingepreist (Dovish-Guidance-Risiko); teures Öl belastet den Energie-Importeur Euro zusätzlich."
    },
    "GBP": {
     "stimmung": "neutral",
     "score": 1,
-    "grund": "Kein klarer Impuls diese Woche (BoE-Entscheid erst Mitte Sep, 3:6 wollen erhöhen), aber der Pfund-2-Jahres-Zins stieg kräftig mit (+0,22 Pp). Ungefähr neutral, hauchdünn positiv."
+    "grund": "Kein eigener Impuls diese Woche (BoE erst Mitte September), trifft auf den festen Dollar-Block; UK-Wachstum Do."
    },
    "JPY": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Fundamental schwach (Yen ~160, Mini-Zins 1,00 %), der starke US-Jobbericht drückt zusätzlich. Gegengewicht: der 2-Jahres-Zins zog an, das Interventionsrisiko deckelt die Schwäche, und mein Yen-Trefferrekord ist mies (3/11) → bewusst nur moderat bärisch."
+    "grund": "Fundamental schwach (Yen ~156, Mini-Zins 1,00 %); teures Öl trifft Japan als Energie-Importeur hart. Track-Record des Radars für USD/JPY am schwächsten (25 %) → bewusst nahe null."
    },
    "CHF": {
-    "stimmung": "neutral",
+    "stimmung": "bärisch",
     "score": -3,
-    "grund": "Sicherer Hafen ohne Nachfrage: der entspannte Markt (VIX 14,2 = Risk-on) zieht Geld aus dem Franken, der Schweizer Zins bleibt bei null. Leicht schwächer."
+    "grund": "Sicherer Hafen ohne Nachfrage (VIX 14,5, Risk-on) + teures Öl belastet auch die Schweiz als Importeur."
    },
    "CAD": {
-    "stimmung": "neutral",
-    "score": 3,
-    "grund": "Gegensätzliche Treiber halten sich fast die Waage: PRO Loonie das teure Öl (+6 %, ~91 $) + falkenhafte BoC (droht bei Öl/Zöllen mit Erhöhung); GEGEN Loonie die schwachen Jobs (−41,7k) + geplatzte US-Kanada-Handelsgespräche + neue Zölle. Knapp positiv, paar-eigene Story."
+    "stimmung": "bullisch",
+    "score": 7,
+    "grund": "Klarer Öl-Gewinner: Brent ~97 $ nach Nahost-Eskalation + falkenhafte Bank of Canada stützen den Loonie stark — das überwiegt jetzt die schwachen Jobs (−41,7k) und löst CAD vom Dollar-Block."
    },
    "AUD": {
     "stimmung": "bullisch",
-    "score": 8,
-    "grund": "Klarste Geschichte der Woche: solides Wachstum (BIP Q2 +0,4 %, über Konsens), höchster G10-Zins (4,35 %), stark steigender 2-Jahres-Zins (+0,23 Pp) und Risk-on-Rückenwind (VIX tief). Löst sich nach oben vom Dollar-Block."
+    "score": 7,
+    "grund": "Beste eigene Geschichte: solides Wachstum (BIP Q2 +0,4 %), Hochzins 4,35 % und Risk-on (VIX 14,5) — aber China-Inflation Di als Risiko."
    },
    "NZD": {
     "stimmung": "bullisch",
-    "score": 5,
-    "grund": "Eigene falkenhafte Geschichte: die RBNZ hat am Mi zum zweiten Mal in Folge auf 2,75 % erhöht (Inflation 4,1 %) und stellt eine weitere Erhöhung in Aussicht. Das gibt dem Kiwi Rückenwind unabhängig vom Dollar — bewusst vom Block gelöst, aber nur mittelstark (Track-Record dünn)."
+    "score": 4,
+    "grund": "Eigene falkenhafte Geschichte (RBNZ 2,75 %, weitere Erhöhung in Aussicht), aber NZD-Zins-Momentum zuletzt am schwächsten → moderat."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": -1,
-    "treiber": "Fast ausgeglichen: der starke US-Jobbericht gibt dem Dollar einen Boden, aber die sichere EZB-Erhöhung am Mi + der steigende Euro-Zins halten dagegen. Hauchdünn Richtung Dollar."
+    "score": -4,
+    "treiber": "EZB-Erhöhung Mi weitgehend eingepreist + teures Öl belastet den Euro; fester Dollar nach starkem Jobbericht — CPI Fr ist der Schiedsrichter."
    },
    {
     "paar": "GBP/USD",
     "score": -3,
-    "treiber": "Pfund ohne eigenen Treiber trifft auf den Dollar-Boden aus dem Jobbericht — der steigende Pfund-2J-Zins bremst den Rückgang aber ab."
+    "treiber": "Pfund ohne eigenen Treiber trifft auf den festen Dollar-Block."
    },
    {
     "paar": "USD/JPY",
     "score": 4,
-    "treiber": "Yen-Schwäche (40-Jahres-Tief, Mini-Zins) + starke US-Daten sind der Motor. Interventionsrisiko der japanischen Regierung deckelt nach oben."
+    "treiber": "Yen-Schwäche (~156, Mini-Zins) + teures Öl trifft Japan + feste US-Zinsen; Track-Record dieses Paars schwach → Score bewusst moderat."
    },
    {
     "paar": "AUD/USD",
-    "score": 3,
-    "treiber": "BIP-Beat + Hochzins + Risk-on lösen den Aussie nach oben vom Dollar-Block — trotz des starken US-Jobberichts positiv (bestes Trefferblatt aller Paare)."
+    "score": 1,
+    "treiber": "Risk-on + Hochzins lösen den Aussie leicht vom Dollar-Block, aber der feste Dollar hält dagegen — fast Patt, China-Inflation Di als Risiko."
    },
    {
     "paar": "USD/CAD",
-    "score": 1,
-    "treiber": "Zwei starke Gegenkräfte fast im Gleichgewicht: starke US-Jobs + schwache Kanada-Jobs schieben rauf, teures Öl (+6 %) + falkenhafte BoC schieben runter. Nur ein Hauch pro Dollar."
+    "score": -3,
+    "treiber": "Öl-Schub (Brent ~97 $) + falkenhafte BoC geben dem Loonie die Oberhand trotz schwacher Jobs — Öl löst CAD vom Dollar-Block (paar-eigener Grund)."
    },
    {
     "paar": "USD/CHF",
-    "score": 4,
-    "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf, Null-Zins) + Dollar-Boden aus dem Jobbericht."
+    "score": 5,
+    "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf) + teures Öl belastet die Schweiz + fester Dollar."
    },
    {
     "paar": "NZD/USD",
-    "score": 0,
-    "treiber": "Patt: die RBNZ-Erhöhung (2,75 %, eigene Kiwi-Geschichte) hebt den Kiwi, der starke US-Jobbericht hält dagegen. Bewusst neutral statt Dollar-Block."
+    "score": -2,
+    "treiber": "RBNZ-Erhöhung ist die eigene Kiwi-Geschichte, aber fester Dollar + schwächstes NZD-Zins-Momentum ziehen leicht nach unten."
    }
   ],
   "wochenausblick": {
@@ -2876,20 +2876,20 @@ window.MAKRO_DATA = {
    "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-   "stand": "2026-09-06",
-   "wochentag": "Sonntag",
-   "tenor": "Wochenende, Tag 2 — die Börsen ruhen. Ausblick auf eine Schlüsselwoche: 🇪🇺 EZB Mi 10.9. (Erhöhung auf 2,50 % fast sicher, der Ton danach zählt) und 🇺🇸 US-Inflation Fr 11.9. (Schiedsrichter für den Fed-Entscheid am 17.9.). Ausgangslage vom Freitag: Dollar weich (Index ~99) trotz starkem Jobbericht, weil Fed-Mann Waller eine Pause andeutete; Gold nahe Rekord (~4.480 $), Öl teuer (WTI ~91 $).",
+   "stand": "2026-09-07",
+   "wochentag": "Montag",
+   "tenor": "Ruhiger, dünner Wochenstart — in den USA ist Feiertag (Labor Day), keine US-Daten. Das große Thema ist das ÖL: nach US-Iran-Schlägen am Wochenende springt Brent Richtung 97 $ / WTI ~92 $ → neue Inflationssorge stützt den Dollar (feste Zinsen, Erhöhungs-Wette ~58 %) und schadet den Energie-Importeuren Euro und Yen. Der Loonie (CAD) profitiert vom teuren Öl. Blick nach vorn: EZB Mi, US-Inflation Fr = die Schiedsrichter.",
    "heute": [
-    "🛌 Sonntag — Devisenmärkte geschlossen, keine neuen Kurse oder Zahlen. Ab Montagfrüh (Asien) läuft der Handel wieder an.",
-    "📅 Diese Woche kinderleicht: 🇪🇺 Mi 10.9. EZB-Zins (14:15 Wien) — +0,25 auf 2,50 % gilt als fast sicher; wichtig ist, ob Lagarde danach das Ende der Erhöhungen andeutet (dann eher Euro-Dämpfer). 🇺🇸 Fr 11.9. US-Inflation CPI (14:30 Wien) = DER Schiedsrichter für den Fed-Entscheid 17.9.: kühl → Erhöhung vom Tisch, Dollar schwächer; heiß → Dollar zieht an. Dazu Mi US-Erzeugerpreise (PPI), Do UK-Wachstum, Fr Uni-Michigan-Stimmung.",
-    "⚖️ Ehrlich zum Handeln: Die Wochen-Signale des Radars sind über die bisherige Historie kaum besser als ein Münzwurf — vor EZB/CPI klein bleiben und die Zahlen abwarten, statt vorab groß zu wetten."
+    "🇺🇸 Feiertag Labor Day → Wall Street & US-Anleihen geschlossen, Handel dünn und träge, keine US-Zahlen. Kursbewegungen heute bitte nicht überbewerten (wenig Volumen).",
+    "🛢️ Öl regiert: Brent ~97 $ (+1 %), WTI ~92 $ — die USA beschossen am Wochenende drei iranische Öltanker, Teheran droht mit einer Sperrzone jenseits der Straße von Hormuz. Teures Öl = frische Inflationssorge → stützt feste US-Zinsen/Dollar, hilft dem Öl-Land Kanada (CAD), belastet Euro & Yen (Energie-Importeure).",
+    "💵 Dollar fest, aber ohne Rally: Index ~99,2; USD/JPY hält über 156 (Yen schwach); Gold rutscht vom Rekord zurück Richtung 4.400 $ (teures Öl + fester Dollar), bleibt aber hoch. VIX ~14,5 = entspannter Risk-on-Markt.",
+    "📅 Diese Woche: 🇪🇺 Mi 10.9. EZB (Erhöhung auf 2,50 % fast sicher, Lagardes Ton zählt) + US-PPI · 🇺🇸 Fr 11.9. US-Inflation CPI (14:30 Wien) = DER Schiedsrichter für den Fed-Entscheid 17.9. · Di China-Inflation, Do UK-Wachstum, Fr Uni-Michigan."
    ],
    "gestern": [
-    "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat, erwartet ~55.000), Quote 4,1 %, Löhne +3,1 % Jahr → Arbeitsmarkt stark, hält die Fed-Erhöhungs-Debatte am Leben. Trotzdem nur verhaltene Dollar-Reaktion, weil Waller (Fed) am Do zuvor eine Zins-PAUSE andeutete → 17.9.-Entscheid = Münzwurf (Chef Warsh bleibt Falke).",
-    "🇨🇦 Fr 4.9: Kanada verlor −41.700 Jobs (erwartet +15.000), Quote 6,4 % — schwach; teures Öl (+6 %) und die falkenhafte Bank of Canada stützen den Loonie von der anderen Seite.",
-    "🇳🇿 Mi 2.9: RBNZ erhöht auf 2,75 % (zweite Erhöhung, stellt weitere in Aussicht) → Kiwi-Rückenwind. 🇦🇺 Australien-Wachstum Q2 +0,4 % (über Konsens) stützt den Aussie.",
-    "🇪🇺 Di 1.9: Euro-Inflation (Flash) Schlagzeile 3,3 % (Höchststand seit 2023, Energie), Kern kühler 2,4 % → EZB erhöht Mi fast sicher, dürfte danach das Ende signalisieren.",
-    "🧭 Marktbild zum Wochenschluss: Dollar-Index ~99 (weich, −0,3 % Woche), Gold ~4.480 $ (nahe Rekord), Öl teuer (WTI ~91 $, +6,7 % Woche, Nahost), VIX 14,5 (sehr niedrig = entspannter Risk-on-Markt), Bitcoin ~79.500 $. Feste US-Zinsen (10J ~4,78 %) geben dem Dollar einen Boden."
+    "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat, erwartet ~55.000), Quote 4,1 %, Löhne +3,1 % Jahr → starker Arbeitsmarkt, Erhöhungs-Wette für 17.9. stieg auf ~58 %; die 2-Jahres-Rendite erreichte das höchste Niveau seit Jan 2025. Trotzdem verhaltene Dollar-Reaktion, weil Fed-Mann Waller zuvor eine PAUSE andeutete (Chef Warsh bleibt Falke).",
+    "🇨🇦 Fr 4.9: Kanada verlor −41.700 Jobs (erwartet +15.000), Quote 6,4 % — schwach; ABER teures Öl + falkenhafte Bank of Canada stützen den Loonie von der anderen Seite (gegensätzliche Kräfte).",
+    "🇳🇿 Mi 2.9: RBNZ erhöhte auf 2,75 % (zweite Erhöhung, weitere in Aussicht) → Kiwi-Rückenwind. 🇦🇺 Australien-Wachstum Q2 +0,4 % (über Konsens) stützt den Aussie.",
+    "🧭 Woche-über-Woche: Öl +7 % (Nahost-Eskalation) ist die große Bewegung; Dollar-Index seitwärts unter 99,5; Gold nahe Rekord; Zins-Momentum (2-Jahres-Differenzen) drehte zuletzt leicht PRO-Dollar (US-2J stieg am stärksten)."
    ]
   }
  },
@@ -3898,13 +3898,13 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -1,
+   "baseScore": -4,
    "tiltCot": -1,
    "tiltZins": -2,
    "tiltGesamt": -3,
-   "score": -4,
+   "score": -7,
    "cotExtrem": null,
-   "treiber": "Fast ausgeglichen: der starke US-Jobbericht gibt dem Dollar einen Boden, aber die sichere EZB-Erhöhung am Mi + der steigende Euro-Zins halten dagegen. Hauchdünn Richtung Dollar.",
+   "treiber": "EZB-Erhöhung Mi weitgehend eingepreist + teures Öl belastet den Euro; fester Dollar nach starkem Jobbericht — CPI Fr ist der Schiedsrichter.",
    "istCross": false
   },
   {
@@ -3915,7 +3915,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -3,
    "score": -6,
    "cotExtrem": null,
-   "treiber": "Pfund ohne eigenen Treiber trifft auf den Dollar-Boden aus dem Jobbericht — der steigende Pfund-2J-Zins bremst den Rückgang aber ab.",
+   "treiber": "Pfund ohne eigenen Treiber trifft auf den festen Dollar-Block.",
    "istCross": false
   },
   {
@@ -3926,71 +3926,71 @@ window.MAKRO_DATA = {
    "tiltGesamt": 6,
    "score": 10,
    "cotExtrem": null,
-   "treiber": "Yen-Schwäche (40-Jahres-Tief, Mini-Zins) + starke US-Daten sind der Motor. Interventionsrisiko der japanischen Regierung deckelt nach oben.",
+   "treiber": "Yen-Schwäche (~156, Mini-Zins) + teures Öl trifft Japan + feste US-Zinsen; Track-Record dieses Paars schwach → Score bewusst moderat.",
    "istCross": false
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 3,
+   "baseScore": 1,
    "tiltCot": -2,
    "tiltZins": -1,
    "tiltGesamt": -3,
-   "score": 0,
+   "score": -2,
    "cotExtrem": null,
-   "treiber": "BIP-Beat + Hochzins + Risk-on lösen den Aussie nach oben vom Dollar-Block — trotz des starken US-Jobberichts positiv (bestes Trefferblatt aller Paare).",
+   "treiber": "Risk-on + Hochzins lösen den Aussie leicht vom Dollar-Block, aber der feste Dollar hält dagegen — fast Patt, China-Inflation Di als Risiko.",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 1,
+   "baseScore": -3,
    "tiltCot": 5,
    "tiltZins": 0,
    "tiltGesamt": 5,
-   "score": 6,
+   "score": 2,
    "cotExtrem": null,
-   "treiber": "Zwei starke Gegenkräfte fast im Gleichgewicht: starke US-Jobs + schwache Kanada-Jobs schieben rauf, teures Öl (+6 %) + falkenhafte BoC schieben runter. Nur ein Hauch pro Dollar.",
+   "treiber": "Öl-Schub (Brent ~97 $) + falkenhafte BoC geben dem Loonie die Oberhand trotz schwacher Jobs — Öl löst CAD vom Dollar-Block (paar-eigener Grund).",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 4,
+   "baseScore": 5,
    "tiltCot": 3,
    "tiltZins": 4,
    "tiltGesamt": 7,
-   "score": 11,
+   "score": 12,
    "cotExtrem": null,
-   "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf, Null-Zins) + Dollar-Boden aus dem Jobbericht.",
+   "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf) + teures Öl belastet die Schweiz + fester Dollar.",
    "istCross": false
   },
   {
    "paar": "NZD/USD",
-   "baseScore": 0,
+   "baseScore": -2,
    "tiltCot": -1,
    "tiltZins": -5,
    "tiltGesamt": -6,
-   "score": -6,
+   "score": -8,
    "cotExtrem": null,
-   "treiber": "Patt: die RBNZ-Erhöhung (2,75 %, eigene Kiwi-Geschichte) hebt den Kiwi, der starke US-Jobbericht hält dagegen. Bewusst neutral statt Dollar-Block.",
+   "treiber": "RBNZ-Erhöhung ist die eigene Kiwi-Geschichte, aber fester Dollar + schwächstes NZD-Zins-Momentum ziehen leicht nach unten.",
    "istCross": false
   },
   {
    "paar": "EUR/GBP",
-   "baseScore": 1,
+   "baseScore": 0,
    "tiltCot": 3,
    "tiltZins": -2,
    "tiltGesamt": 1,
-   "score": 2,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": 3,
+   "baseScore": 2,
    "tiltCot": 4,
    "tiltZins": 0,
    "tiltGesamt": 4,
-   "score": 7,
+   "score": 6,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -4008,18 +4008,18 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 3,
+   "baseScore": 2,
    "tiltCot": 3,
    "tiltZins": 2,
    "tiltGesamt": 5,
-   "score": 8,
+   "score": 7,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-06T05:03:28.003Z",
+  "stand": "2026-09-07T05:04:21.309Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 54,
   "gewertet": 25,

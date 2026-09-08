@@ -28,9 +28,9 @@
       "grund": "Kein eigener Impuls diese Woche (BoE erst Mitte September), trifft auf den festen Dollar-Block; UK-Wachstum Do."
     },
     "JPY": {
-      "stimmung": "bärisch",
-      "score": -3,
-      "grund": "Fundamental schwach (Yen ~156, Mini-Zins 1,00 %); teures Öl trifft Japan als Energie-Importeur hart. Track-Record des Radars für USD/JPY am schwächsten (25 %) → bewusst nahe null."
+      "stimmung": "neutral",
+      "score": -1,
+      "grund": "Fundamental schwach (Mini-Zins 1,00 %) + teures Öl belastet Japan; ZULETZT aber fester wegen BoJ-Zinswende-/Interventions-Spekulation → ausgeglichen. Track-Record des Paars schwach (25 %) → bewusst nahe null."
     },
     "CHF": {
       "stimmung": "bärisch",
@@ -40,7 +40,7 @@
     "CAD": {
       "stimmung": "bullisch",
       "score": 7,
-      "grund": "Klarer Öl-Gewinner: Brent ~97 $ nach Nahost-Eskalation + falkenhafte Bank of Canada stützen den Loonie stark — das überwiegt jetzt die schwachen Jobs (−41,7k) und löst CAD vom Dollar-Block."
+      "grund": "Klarer Öl-Gewinner: Brent ~97 $ (3. Tag hoch) + falkenhafte Bank of Canada — trotz schwacher Jobs (−41,7k) hält der Öl-Rückenwind."
     },
     "AUD": {
       "stimmung": "bullisch",
@@ -66,8 +66,8 @@
     },
     {
       "paar": "USD/JPY",
-      "score": 4,
-      "treiber": "Yen-Schwäche (~156, Mini-Zins) + teures Öl trifft Japan + feste US-Zinsen; Track-Record dieses Paars schwach → Score bewusst moderat."
+      "score": 2,
+      "treiber": "Yen zuletzt fester (BoJ/Interventions-Spekulation) gegen teures Öl + Mini-Zins — ausgeglichen, Paar-Track schwach → nahe null"
     },
     {
       "paar": "AUD/USD",
@@ -187,20 +187,21 @@
     "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-    "stand": "2026-09-07",
-    "wochentag": "Montag",
-    "tenor": "Ruhiger, dünner Wochenstart — in den USA ist Feiertag (Labor Day), keine US-Daten. Das große Thema ist das ÖL: nach US-Iran-Schlägen am Wochenende springt Brent Richtung 97 $ / WTI ~92 $ → neue Inflationssorge stützt den Dollar (feste Zinsen, Erhöhungs-Wette ~58 %) und schadet den Energie-Importeuren Euro und Yen. Der Loonie (CAD) profitiert vom teuren Öl. Blick nach vorn: EZB Mi, US-Inflation Fr = die Schiedsrichter.",
+    "stand": "2026-09-08",
+    "wochentag": "Dienstag",
+    "tenor": "Öl regiert den Wochenstart: Brent klettert den DRITTEN Tag in Folge auf 6-Wochen-Hoch (~97 $, WTI ~92 $), weil die USA und der Iran am Wochenende Schläge tauschten und der Markt zunehmend einen LÄNGEREN Nahost-Krieg einpreist. Teures Öl = frische Inflationssorge → hält die US-Zinsen fest und den Dollar solide (Erhöhungs-Wette für 16./17.9. rund 52–58 %, praktisch Münzwurf), hilft dem Öl-Land Kanada, belastet die Energie-Importeure Euro und Yen. Ruhiger Datentag — die Schiedsrichter kommen erst Mi (EZB) und Fr (US-Inflation).",
     "heute": [
-      "🇺🇸 Feiertag Labor Day → Wall Street & US-Anleihen geschlossen, Handel dünn und träge, keine US-Zahlen. Kursbewegungen heute bitte nicht überbewerten (wenig Volumen).",
-      "🛢️ Öl regiert: Brent ~97 $ (+1 %), WTI ~92 $ — die USA beschossen am Wochenende drei iranische Öltanker, Teheran droht mit einer Sperrzone jenseits der Straße von Hormuz. Teures Öl = frische Inflationssorge → stützt feste US-Zinsen/Dollar, hilft dem Öl-Land Kanada (CAD), belastet Euro & Yen (Energie-Importeure).",
-      "💵 Dollar fest, aber ohne Rally: Index ~99,2; USD/JPY hält über 156 (Yen schwach); Gold rutscht vom Rekord zurück Richtung 4.400 $ (teures Öl + fester Dollar), bleibt aber hoch. VIX ~14,5 = entspannter Risk-on-Markt.",
-      "📅 Diese Woche: 🇪🇺 Mi 10.9. EZB (Erhöhung auf 2,50 % fast sicher, Lagardes Ton zählt) + US-PPI · 🇺🇸 Fr 11.9. US-Inflation CPI (14:30 Wien) = DER Schiedsrichter für den Fed-Entscheid 17.9. · Di China-Inflation, Do UK-Wachstum, Fr Uni-Michigan."
+      "🛢️ Öl steigt den dritten Tag: Brent ~97,20 $ (+0,2 %), WTI ~92,56 $ (+1,1 %) — 6-Wochen-Hoch. Auslöser: US-Militär beschoss Sa drei iranische Öltanker, Iran feuerte davor Raketen auf zwei US-Kriegsschiffe. Teheran droht weiter mit Störungen rund um die Straße von Hormuz; der Markt preist einen länger anhaltenden Konflikt ein (Goldman hob die Öl-Prognosen an). Teures Öl = Rückenwind für CAD, Gegenwind für EUR & JPY.",
+      "💵 Dollar solide, aber ohne Rally: Index ~99,2 (nahe 1-Wochen-Tief); Fed-Erhöhungs-Wette für 16./17.9. rund 52–58 % (Münzwurf, seit Wallers Tauben-Ton). US-2-Jahres-Rendite nahe höchstem Stand seit Anfang 2025, 10-Jahres ~4,78 %. Gold rutschte vom Rekord etwas zurück (~4.450 $), bleibt aber hoch. VIX ~15 = entspannter Risk-on-Markt.",
+      "🇺🇸 Kein High-Impact-Datum heute (gestern war US-Feiertag Labor Day) — der Handel bleibt bis zur EZB dünn. Kleine Kursbewegungen heute nicht überbewerten.",
+      "📅 Der Rest der Woche: 🇪🇺 Mi 10.9. EZB (Erhöhung auf 2,50 % Einlagensatz fast sicher, Lagardes Ton = alles) + US-Erzeugerpreise PPI · 🇺🇸 Fr 11.9. US-Verbraucherpreise CPI (14:30 Wien) = DER Schiedsrichter für den Fed-Entscheid nächste Woche (Kern +0,3 % m/m, Gesamt −0,1 % m/m erwartet) · Di China-Inflation, Do UK-Wachstum, Fr Uni-Michigan."
     ],
     "gestern": [
-      "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat, erwartet ~55.000), Quote 4,1 %, Löhne +3,1 % Jahr → starker Arbeitsmarkt, Erhöhungs-Wette für 17.9. stieg auf ~58 %; die 2-Jahres-Rendite erreichte das höchste Niveau seit Jan 2025. Trotzdem verhaltene Dollar-Reaktion, weil Fed-Mann Waller zuvor eine PAUSE andeutete (Chef Warsh bleibt Falke).",
-      "🇨🇦 Fr 4.9: Kanada verlor −41.700 Jobs (erwartet +15.000), Quote 6,4 % — schwach; ABER teures Öl + falkenhafte Bank of Canada stützen den Loonie von der anderen Seite (gegensätzliche Kräfte).",
+      "🇺🇸 Mo 7.9: US-Feiertag Labor Day → Wall Street & Anleihen geschlossen, Handel dünn und träge, keine Impulse aus den USA.",
+      "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat vs. ~55.000 erwartet), Quote 4,1 %, Löhne +3,1 % Jahr → starker Arbeitsmarkt, Angst vor drittem Job-Schock vom Tisch. Trotzdem verhaltene Dollar-Reaktion, weil Fed-Mann Waller zuvor eine PAUSE andeutete (Chef Warsh bleibt Falke) → Hike-Wette rutschte auf Münzwurf.",
+      "🇨🇦 Fr 4.9: Kanada verlor −41.700 Jobs (erwartet +15.000), Quote 6,4 % — schwach; ABER teures Öl + falkenhafte Bank of Canada stützen den Loonie von der Gegenseite (widerstreitende Kräfte).",
       "🇳🇿 Mi 2.9: RBNZ erhöhte auf 2,75 % (zweite Erhöhung, weitere in Aussicht) → Kiwi-Rückenwind. 🇦🇺 Australien-Wachstum Q2 +0,4 % (über Konsens) stützt den Aussie.",
-      "🧭 Woche-über-Woche: Öl +7 % (Nahost-Eskalation) ist die große Bewegung; Dollar-Index seitwärts unter 99,5; Gold nahe Rekord; Zins-Momentum (2-Jahres-Differenzen) drehte zuletzt leicht PRO-Dollar (US-2J stieg am stärksten)."
+      "🧭 Woche-über-Woche: Öl +7 % (Nahost-Eskalation) ist die dominierende Bewegung; Dollar-Index seitwärts unter 99,5; Gold nahe Rekord; Zins-Momentum (2-Jahres-Differenzen) zuletzt leicht PRO-Dollar (US-2J stieg, aber EUR/GBP/JPY-2J holen auf)."
     ]
   }
 }

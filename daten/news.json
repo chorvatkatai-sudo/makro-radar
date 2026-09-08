@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-07T23:12:22.671Z",
+  "stand": "2026-09-08T05:04:27.173Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Citi Survey sees Banxico frozen as Peso holds below 18.00",
-      "link": "https://www.fxstreet.com/news/citi-survey-sees-banxico-frozen-as-peso-holds-below-1800-202609072304",
-      "datum": "2026-09-07T23:04:52.000Z"
+      "titel": "GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-consolidates-below-mid-13500s-bullish-potential-seems-intact-202609080457",
+      "datum": "2026-09-08T04:57:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Thai Baht: Recent THB gains face headwinds – OCBC",
-      "link": "https://www.fxstreet.com/news/thai-baht-recent-thb-gains-face-headwinds-ocbc-202609072256",
-      "datum": "2026-09-07T22:56:00.000Z"
+      "titel": "New Zealand Dollar struggles after China’s Trade Balance data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-after-chinas-trade-balance-data-202609080455",
+      "datum": "2026-09-08T04:55:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar rides thin-trading lift as Fed test looms",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rides-thin-trading-lift-as-fed-test-looms-202609072253",
-      "datum": "2026-09-07T22:53:16.000Z"
+      "titel": "Euro holds steady above 1.1600 as markets brace for US inflation data and ECB rate decision",
+      "link": "https://www.fxstreet.com/news/euro-holds-steady-above-11600-as-markets-brace-for-us-inflation-data-and-ecb-rate-decision-202609080449",
+      "datum": "2026-09-08T04:49:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Hong Kong’s offshore gateway role expands – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-hong-kongs-offshore-gateway-role-expands-commerzbank-202609072217",
-      "datum": "2026-09-07T22:17:00.000Z"
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609080435",
+      "datum": "2026-09-08T04:35:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Canadian Dollar gains as Oil rally offsets jobs gloom",
-      "link": "https://www.fxstreet.com/news/the-canadian-dollar-gains-as-oil-rally-offsets-jobs-gloom-202609072208",
-      "datum": "2026-09-07T22:08:39.000Z"
+      "titel": "Silver Price Forecast: XAG/USD jumps to near $67 amid drop in US Dollar, bond yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-37-amid-drop-in-us-dollar-bond-yields-202609080430",
+      "datum": "2026-09-08T04:30:41.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "South Korean Won: Authorities signal pause in KRW strength – ING",
-      "link": "https://www.fxstreet.com/news/south-korean-won-authorities-signal-pause-in-krw-strength-ing-202609072139",
-      "datum": "2026-09-07T21:39:00.000Z"
+      "titel": "Gold benefits from weak USD; eyes $4,450 as focus remains on US CPI data",
+      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430",
+      "datum": "2026-09-08T04:30:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Tuesday tells the Japanese Yen more than next week will",
-      "link": "https://www.fxstreet.com/news/tonight-tells-the-japanese-yen-more-than-next-week-will-202609072138",
-      "datum": "2026-09-07T21:38:47.000Z"
+      "titel": "RBA’s Hunter: Housing market crucial transition channel for monetary policy",
+      "link": "https://www.fxstreet.com/news/rbas-hunter-housing-market-crucial-transition-channel-for-monetary-policy-202609080358",
+      "datum": "2026-09-08T03:58:44.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Preview: China trade data due today, a beat could firm up AUD as a demand proxy trade",
-      "link": "https://investinglive.com/news/preview-china-trade-data-due-today-a-beat-could-firm-up-aud-as-a-demand-proxy-trade/",
-      "datum": "2026-09-07T21:03:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101",
-      "datum": "2026-09-07T21:01:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Pound Sterling's rate advantage buys it no say this week",
-      "link": "https://www.fxstreet.com/news/pound-sterlings-rate-advantage-buys-it-no-say-this-week-202609072058",
-      "datum": "2026-09-07T20:58:45.000Z"
+      "titel": "investingLive Asia-Pacific market news: Yen surges to six-month high",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-yen-surges-to-six-month-high/",
+      "datum": "2026-09-08T03:50:43.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Tuesday, September 8, 2026: Japan GDP and China trade data",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-september-8-2026-japan-gdp-and-china-trade-data/",
-      "datum": "2026-09-07T20:24:45.000Z"
+      "titel": "China exports match forecast in August, imports fall short as domestic demand stays soft",
+      "link": "https://investinglive.com/news/china-exports-match-forecast-in-august-imports-fall-short-as-domestic-demand-stays-soft/",
+      "datum": "2026-09-08T03:18:31.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Vietnam: Inflation and trade trends shape VND – Commerzbank",
-      "link": "https://www.fxstreet.com/news/vietnam-inflation-and-trade-trends-shape-vnd-commerzbank-202609072018",
-      "datum": "2026-09-07T20:18:00.000Z"
+      "titel": "Iran's warns economic warfare will be met by maritime exclusion zone",
+      "link": "https://www.fxstreet.com/news/irans-warns-economic-warfare-will-be-met-by-maritime-exclusion-zone-202609080254",
+      "datum": "2026-09-08T02:54:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Mexican Peso stumbles as traders brace for US inflation week",
-      "link": "https://www.fxstreet.com/news/mexican-peso-stumbles-as-traders-brace-for-us-inflation-week-202609072012",
-      "datum": "2026-09-07T20:12:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-7-sept-usd-falls-as-the-yen-surges-on-boj-rate-hike-expectations/",
-      "datum": "2026-09-07T19:28:20.000Z"
+      "titel": "Australian Dollar remains steady following China’s Trade Balance data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-chinas-trade-balance-data-202609080252",
+      "datum": "2026-09-08T02:52:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "A German landslide moved the Euro by nothing at all",
-      "link": "https://www.fxstreet.com/news/the-euro-waits-for-the-sentence-after-the-rate-hike-202609071741",
-      "datum": "2026-09-07T17:41:38.000Z"
+      "titel": "China’s August Trade Balance: Surplus widens to $119.09 billion as expected",
+      "link": "https://www.fxstreet.com/news/chinas-august-trade-balance-surplus-widens-to-11909-billion-as-expected-202609080242",
+      "datum": "2026-09-08T02:42:26.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Oil climbs, yen surges amid US holiday",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-climbs-yen-surges-amid-us-holiday/",
-      "datum": "2026-09-07T12:00:15.000Z"
+      "titel": "China August trade balance shows imports below expectations",
+      "link": "https://investinglive.com/news/china-august-trade-balance-shows-exports-and-imports-below-expectations/",
+      "datum": "2026-09-08T02:39:08.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Saudi Aramco facility attacked again; extent of the damage still being assessed",
-      "link": "https://investinglive.com/news/saudi-aramco-facility-attacked-again-extent-of-the-damage-still-being-assessed/",
-      "datum": "2026-09-07T11:24:00.000Z"
+      "titel": "China's Rio Tinto ore purchasing halt appears set to take effect. AUD down.",
+      "link": "https://investinglive.com/news/china-s-rio-tinto-ore-purchasing-halt-appears-set-to-take-effect-aud-down/",
+      "datum": "2026-09-08T02:34:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar Index (DXY) struggles below 99.00, two-week low as traders eye US inflation data",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-dxy-struggles-below-9900-two-week-low-as-traders-eye-us-inflation-data-202609080157",
+      "datum": "2026-09-08T01:57:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar gains as US Dollar struggles despite rising Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-dollar-struggles-despite-rising-fed-rate-hike-bets-202609080157",
+      "datum": "2026-09-08T01:57:37.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Eurozone Q2 GDP gets a trade boost as growth accelerates to 0.6%",
-      "link": "https://investinglive.com/news/eurozone-q2-gdp-gets-a-trade-boost-as-growth-accelerates-to-0-6/",
-      "datum": "2026-09-07T09:00:16.000Z"
+      "titel": "Japan wage growth strongest since 1997, cementing BOJ hike case",
+      "link": "https://investinglive.com/news/japan-wage-growth-strongest-since-1997-cementing-boj-hike-case/",
+      "datum": "2026-09-07T23:57:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan revised Q2 GDP: +1.4% y/y (preliminary 1.1%)",
+      "link": "https://investinglive.com/news/japan-revised-q2-gdp-1-4-y-y-preliminary-1-1/",
+      "datum": "2026-09-07T23:50:17.000Z"
     }
   ]
 }

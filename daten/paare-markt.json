@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-08T14:50:02.607Z",
+  "stand": "2026-09-08T15:52:45.739Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -4,
       "tiltCot": -1,
-      "tiltZins": 3,
-      "tiltGesamt": 2,
-      "score": -2,
+      "tiltZins": 2,
+      "tiltGesamt": 1,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "EZB-Erhöhung Mi weitgehend eingepreist + teures Öl belastet den Euro; fester Dollar nach starkem Jobbericht — CPI Fr ist der Schiedsrichter.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -4,
-      "tiltGesamt": 1,
-      "score": -2,
+      "tiltZins": -3,
+      "tiltGesamt": 2,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Öl-Schub (Brent ~97 $) + falkenhafte BoC geben dem Loonie die Oberhand trotz schwacher Jobs — Öl löst CAD vom Dollar-Block (paar-eigener Grund).",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": -1,
-      "tiltZins": -1,
-      "tiltGesamt": -2,
-      "score": -4,
+      "tiltZins": -2,
+      "tiltGesamt": -3,
+      "score": -5,
       "cotExtrem": null,
       "treiber": "RBNZ-Erhöhung ist die eigene Kiwi-Geschichte, aber fester Dollar + schwächstes NZD-Zins-Momentum ziehen leicht nach unten.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 2,
       "tiltCot": -1,
-      "tiltZins": 5,
-      "tiltGesamt": 4,
-      "score": 6,
+      "tiltZins": 4,
+      "tiltGesamt": 3,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

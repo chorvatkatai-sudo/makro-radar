@@ -1,11 +1,47 @@
 {
-  "stand": "2026-09-08T14:50:02.605Z",
+  "stand": "2026-09-08T15:52:45.737Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound edges higher as Bailey calms recession fears",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-bailey-calms-recession-fears-202609081543",
+      "datum": "2026-09-08T15:43:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar holds firm on hawkish RBA stance, softer US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-on-hawkish-rba-stance-softer-us-dollar-202609081543",
+      "datum": "2026-09-08T15:43:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Fed hold tempers dollar rebound – NBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-hold-tempers-dollar-rebound-nbc-202609081511",
+      "datum": "2026-09-08T15:11:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "NY Fed survey: Expectations for rising unemployment rise to highest since April 2020",
+      "link": "https://investinglive.com/news/ny-fed-survey-expectations-for-rising-unemployment-rise-to-highest-since-april-2020/",
+      "datum": "2026-09-08T15:04:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Uptrend resumes with fair value focus against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-uptrend-resumes-with-fair-value-focus-against-us-dollar-scotiabank-202609081502",
+      "datum": "2026-09-08T15:02:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Bullish momentum extends against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bullish-momentum-extends-against-us-dollar-societe-generale-202609081454",
+      "datum": "2026-09-08T14:54:34.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "\"Risks to inflation are to upside\": BoE's Bailey sounds a cautious note",
@@ -55,40 +91,10 @@
       "datum": "2026-09-08T14:04:53.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Copper: Record prices and Chile supply issues – Commerzbank",
-      "link": "https://www.fxstreet.com/news/copper-record-prices-and-chile-supply-issues-commerzbank-202609081357",
-      "datum": "2026-09-08T13:57:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brazilian Real: Election risks keep pressure on BRL against US Dollar – TD Securities",
-      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-keep-pressure-on-brl-against-us-dollar-td-securities-202609081349",
-      "datum": "2026-09-08T13:49:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Federal Reserve: Strong jobs and CPI risks – BNY",
-      "link": "https://www.fxstreet.com/news/federal-reserve-strong-jobs-and-cpi-risks-bny-202609081333",
-      "datum": "2026-09-08T13:33:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds steady as US Dollar struggles for traction",
-      "link": "https://www.fxstreet.com/news/euro-holds-steady-as-us-dollar-struggles-for-traction-202609081330",
-      "datum": "2026-09-08T13:30:55.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European news wrap: Oil prices rise as Houthis escalate attacks on Saudi targets",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-oil-prices-rise-as-houthis-escalate-attacks-on-saudi-targets/",
       "datum": "2026-09-08T11:30:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold trades lower despite weaker US Dollar as Fed hike bets weigh",
-      "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126",
-      "datum": "2026-09-08T11:26:33.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "French trade deficit grows larger in July on higher imports again",
       "link": "https://investinglive.com/news/french-trade-deficit-grows-larger-in-july-on-higher-imports-again/",
       "datum": "2026-09-08T06:55:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-37/",
-      "datum": "2026-09-08T06:33:36.000Z"
     }
   ]
 }

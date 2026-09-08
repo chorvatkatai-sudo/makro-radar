@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-08T15:52:45.739Z",
+  "stand": "2026-09-08T18:12:34.070Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -4,
       "tiltCot": -1,
-      "tiltZins": 2,
-      "tiltGesamt": 1,
-      "score": -3,
+      "tiltZins": 3,
+      "tiltGesamt": 2,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "EZB-Erhöhung Mi weitgehend eingepreist + teures Öl belastet den Euro; fester Dollar nach starkem Jobbericht — CPI Fr ist der Schiedsrichter.",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 1,
       "tiltCot": -2,
-      "tiltZins": 3,
-      "tiltGesamt": 1,
-      "score": 2,
+      "tiltZins": 4,
+      "tiltGesamt": 2,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "Risk-on + Hochzins lösen den Aussie leicht vom Dollar-Block, aber der feste Dollar hält dagegen — fast Patt, China-Inflation Di als Risiko.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 2,
       "tiltCot": -1,
-      "tiltZins": 4,
-      "tiltGesamt": 3,
-      "score": 5,
+      "tiltZins": 6,
+      "tiltGesamt": 5,
+      "score": 7,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

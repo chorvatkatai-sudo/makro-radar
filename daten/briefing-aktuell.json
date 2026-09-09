@@ -20,7 +20,7 @@
     "EUR": {
       "stimmung": "neutral",
       "score": 1,
-      "grund": "EZB erhöht Mi 10.9. fast sicher auf 2,50 %, aber weitgehend eingepreist (Dovish-Guidance-Risiko); teures Öl belastet den Energie-Importeur Euro zusätzlich."
+      "grund": "EZB erhöht Do 10.9. fast sicher auf 2,50 %, aber weitgehend eingepreist (Dovish-Guidance-Risiko, Lagardes Ton = alles); teures Öl belastet den Energie-Importeur Euro zusätzlich."
     },
     "GBP": {
       "stimmung": "neutral",
@@ -45,7 +45,7 @@
     "AUD": {
       "stimmung": "bullisch",
       "score": 7,
-      "grund": "Beste eigene Geschichte: solides Wachstum (BIP Q2 +0,4 %), Hochzins 4,35 % und Risk-on (VIX 14,5) — aber China-Inflation Di als Risiko."
+      "grund": "Beste eigene Geschichte: solides Wachstum (BIP Q2 +0,4 %), Hochzins 4,35 % und Risk-on (VIX ~15) — China-Inflation heute wie erwartet (+0,8 %) statt schwach, damit Risiko entschärft."
     },
     "NZD": {
       "stimmung": "bullisch",
@@ -187,21 +187,21 @@
     "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-    "stand": "2026-09-08",
-    "wochentag": "Dienstag",
-    "tenor": "Öl regiert den Wochenstart: Brent klettert den DRITTEN Tag in Folge auf 6-Wochen-Hoch (~97 $, WTI ~92 $), weil die USA und der Iran am Wochenende Schläge tauschten und der Markt zunehmend einen LÄNGEREN Nahost-Krieg einpreist. Teures Öl = frische Inflationssorge → hält die US-Zinsen fest und den Dollar solide (Erhöhungs-Wette für 16./17.9. rund 52–58 %, praktisch Münzwurf), hilft dem Öl-Land Kanada, belastet die Energie-Importeure Euro und Yen. Ruhiger Datentag — die Schiedsrichter kommen erst Mi (EZB) und Fr (US-Inflation).",
+    "stand": "2026-09-09",
+    "wochentag": "Mittwoch",
+    "tenor": "Ruhiger Zwischentag vor den zwei großen Terminen: MORGEN (Do) entscheidet die EZB, am FREITAG kommt die US-Inflation. Der Dollar hängt weich unter 99 (Index ~98,8, unentschlossen), der Euro drückt über die Marke von 1,16. Öl bleibt der laute Treiber im Hintergrund (Brent ~97 $, WTI ~92 $, Nahost) = Rückenwind für Kanada, Gegenwind für Euro und Yen. Aus China kam heute früh die Inflation wie erwartet leicht anziehend (+0,8 %) — kein Störfeuer für den Aussie.",
     "heute": [
-      "🛢️ Öl steigt den dritten Tag: Brent ~97,20 $ (+0,2 %), WTI ~92,56 $ (+1,1 %) — 6-Wochen-Hoch. Auslöser: US-Militär beschoss Sa drei iranische Öltanker, Iran feuerte davor Raketen auf zwei US-Kriegsschiffe. Teheran droht weiter mit Störungen rund um die Straße von Hormuz; der Markt preist einen länger anhaltenden Konflikt ein (Goldman hob die Öl-Prognosen an). Teures Öl = Rückenwind für CAD, Gegenwind für EUR & JPY.",
-      "💵 Dollar solide, aber ohne Rally: Index ~99,2 (nahe 1-Wochen-Tief); Fed-Erhöhungs-Wette für 16./17.9. rund 52–58 % (Münzwurf, seit Wallers Tauben-Ton). US-2-Jahres-Rendite nahe höchstem Stand seit Anfang 2025, 10-Jahres ~4,78 %. Gold rutschte vom Rekord etwas zurück (~4.450 $), bleibt aber hoch. VIX ~15 = entspannter Risk-on-Markt.",
-      "🇺🇸 Kein High-Impact-Datum heute (gestern war US-Feiertag Labor Day) — der Handel bleibt bis zur EZB dünn. Kleine Kursbewegungen heute nicht überbewerten.",
-      "📅 Der Rest der Woche: 🇪🇺 Mi 10.9. EZB (Erhöhung auf 2,50 % Einlagensatz fast sicher, Lagardes Ton = alles) + US-Erzeugerpreise PPI · 🇺🇸 Fr 11.9. US-Verbraucherpreise CPI (14:30 Wien) = DER Schiedsrichter für den Fed-Entscheid nächste Woche (Kern +0,3 % m/m, Gesamt −0,1 % m/m erwartet) · Di China-Inflation, Do UK-Wachstum, Fr Uni-Michigan."
+      "🇨🇳 China-Inflation August (heute früh veröffentlicht): Verbraucherpreise +0,8 % zum Vorjahr (wie erwartet, von +0,5 % im Juli), Kernrate +1,0 %. Die Erzeugerpreise überraschten mit +3,8 % nach oben (erwartet +3,6 %). Heißt: Chinas Deflations-Gefahr lässt etwas nach — ein kleiner Rückenwind für die rohstoffnahen Währungen Aussie & Kiwi, das 'China-Risiko' vom Wochenanfang ist damit entschärft.",
+      "💵 Dollar weich, unentschlossen: Index ~98,8 (unter 99, 'Doji'-Kerze = Markt kann sich nicht entscheiden); Fed-Erhöhungs-Wette für 16./17.9. rund 58 % (Münzwurf mit leichtem Ja-Übergewicht seit dem starken Jobbericht). US-2-Jahres-Rendite ~3,96 %, 10-Jahres ~4,79 %. Gold hält sich nahe Rekord (~4.430 $), VIX ~15 = entspannter Risk-on-Markt. EUR/USD über 1,16.",
+      "🛢️ Öl bleibt teuer: Brent ~97 $, WTI ~92 $ — nahe 6-Wochen-Hoch nach den US-Iran-Schlägen am Wochenende und anhaltenden Hormus-Drohungen. Das ist die frische Inflationssorge, die die US-Zinsen oben und den Dollar am Boden hält; gleichzeitig Rückenwind fürs Öl-Land Kanada.",
+      "📅 Die zwei Schiedsrichter stehen jetzt an: 🇪🇺 MORGEN Do 10.9. EZB-Zinsentscheid (14:15 Wien, +0,25 auf 2,50 % Einlagensatz fast voll eingepreist → Lagardes TON in der Pressekonferenz 14:45 entscheidet, nicht der Schritt selbst) + US-Erzeugerpreise PPI (14:30). 🇬🇧 Fr 8:00 UK-Wachstum. 🇺🇸 Fr 11.9. US-Verbraucherpreise CPI (14:30 Wien) = DER Schiedsrichter für den Fed-Entscheid (Kern +0,2 % m/m / 2,4 % Jahr, Gesamt +0,4 % m/m öl-getrieben erwartet) + Uni-Michigan-Stimmung."
     ],
     "gestern": [
-      "🇺🇸 Mo 7.9: US-Feiertag Labor Day → Wall Street & Anleihen geschlossen, Handel dünn und träge, keine Impulse aus den USA.",
-      "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat vs. ~55.000 erwartet), Quote 4,1 %, Löhne +3,1 % Jahr → starker Arbeitsmarkt, Angst vor drittem Job-Schock vom Tisch. Trotzdem verhaltene Dollar-Reaktion, weil Fed-Mann Waller zuvor eine PAUSE andeutete (Chef Warsh bleibt Falke) → Hike-Wette rutschte auf Münzwurf.",
+      "🇩🇪🇪🇺 Di 8.9: Ruhiger Datentag ohne große Zahlen — der Handel blieb dünn, alle Augen schon auf EZB und US-Inflation. EZB-Ratsmitglieder (Nagel u.a.) sprachen, ohne den erwarteten Erhöhungs-Kurs für Donnerstag infrage zu stellen.",
+      "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat vs. ~55.000 erwartet), Quote 4,1 %, Löhne +3,1 % Jahr → starker Arbeitsmarkt, Angst vor drittem Job-Schock vom Tisch. Trotzdem verhaltene Dollar-Reaktion, weil Fed-Mann Waller zuvor eine PAUSE andeutete (Chef Warsh bleibt Falke) → Hike-Wette blieb Münzwurf.",
       "🇨🇦 Fr 4.9: Kanada verlor −41.700 Jobs (erwartet +15.000), Quote 6,4 % — schwach; ABER teures Öl + falkenhafte Bank of Canada stützen den Loonie von der Gegenseite (widerstreitende Kräfte).",
       "🇳🇿 Mi 2.9: RBNZ erhöhte auf 2,75 % (zweite Erhöhung, weitere in Aussicht) → Kiwi-Rückenwind. 🇦🇺 Australien-Wachstum Q2 +0,4 % (über Konsens) stützt den Aussie.",
-      "🧭 Woche-über-Woche: Öl +7 % (Nahost-Eskalation) ist die dominierende Bewegung; Dollar-Index seitwärts unter 99,5; Gold nahe Rekord; Zins-Momentum (2-Jahres-Differenzen) zuletzt leicht PRO-Dollar (US-2J stieg, aber EUR/GBP/JPY-2J holen auf)."
+      "🧭 Woche-über-Woche: Öl (+2 bis +3 % auf Wochensicht, Nahost) und der Gold-Rekord dominieren; Dollar-Index seitwärts unter 99; Zins-Momentum (2-Jahres-Differenzen) zuletzt leicht pro-Dollar, aber EUR/GBP/JPY holen auf."
     ]
   }
 }

@@ -1,11 +1,65 @@
 {
-  "stand": "2026-09-09T15:48:29.498Z",
+  "stand": "2026-09-09T18:16:41.373Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Rally puts head-and-shoulders pattern on ice",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-rally-puts-head-and-shoulders-pattern-on-ice-202609091756",
+      "datum": "2026-09-09T17:56:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Buyers seek a decisive break above the 200-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-seek-a-decisive-break-above-the-200-day-sma-202609091746",
+      "datum": "2026-09-09T17:46:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Attention shifts to the ECB and US PPI",
+      "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-the-ecb-and-us-ppi-202609091712",
+      "datum": "2026-09-09T17:12:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold bulls defy US yield spike as Treasury buyback nears",
+      "link": "https://www.fxstreet.com/news/gold-bulls-defy-us-yield-spike-as-treasury-buyback-nears-202609091702",
+      "datum": "2026-09-09T17:02:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: Profit squeeze tempers price risks – ING",
+      "link": "https://www.fxstreet.com/news/germany-profit-squeeze-tempers-price-risks-ing-202609091622",
+      "datum": "2026-09-09T16:22:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average slides all session as the Treasury bid falls short",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-slides-all-session-as-the-treasury-bid-falls-short-202609091616",
+      "datum": "2026-09-09T16:16:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar stabilizes as rebound in US yields supports USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-stabilizes-as-rebound-in-us-yields-supports-the-usd-202609091606",
+      "datum": "2026-09-09T16:06:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen pauses advance as Treasury announcement supports US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-pauses-advance-as-treasury-announcement-supports-us-dollar-202609091550",
+      "datum": "2026-09-09T15:50:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Strength builds against US Dollar ahead of BoJ decision – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strength-builds-against-us-dollar-ahead-of-boj-decision-scotiabank-202609091549",
+      "datum": "2026-09-09T15:49:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "US Treasury yields rise after buyback announcement, 30-year yield reaches 5.30%",
@@ -17,60 +71,6 @@
       "titel": "WTI: Upside path persists – TD Securities",
       "link": "https://www.fxstreet.com/news/wti-upside-path-persists-td-securities-202609091520",
       "datum": "2026-09-09T15:20:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound catches bid as Oil-USD link breaks ahead US CPI",
-      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-oil-usd-link-breaks-ahead-us-cpi-202609091515",
-      "datum": "2026-09-09T15:15:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brazilian Real: Rate gap points to weakness against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/brazilian-real-rate-gap-points-to-weakness-against-us-dollar-rabobank-202609091512",
-      "datum": "2026-09-09T15:12:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil rises as Middle East escalation threatens global supply",
-      "link": "https://www.fxstreet.com/news/wti-oil-rises-as-middle-east-escalation-threatens-global-supply-202609091501",
-      "datum": "2026-09-09T15:01:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: BoE tightening expectations lend support against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-tightening-expectations-lend-support-against-us-dollar-scotiabank-202609091453",
-      "datum": "2026-09-09T14:53:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc gains ground as Japanese Yen-led weakness grips US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-ground-as-japanese-yen-led-weakness-grips-us-dollar-202609091443",
-      "datum": "2026-09-09T14:43:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Turkish Lira: Disinflation supports gradual TRY repricing – ING",
-      "link": "https://www.fxstreet.com/news/turkish-lira-disinflation-supports-gradual-try-repricing-ing-202609091443",
-      "datum": "2026-09-09T14:43:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Inflation data key catalyst – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-inflation-data-key-catalyst-td-securities-202609091430",
-      "datum": "2026-09-09T14:30:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Hawkish ECB hike expected to support EUR against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-hike-expected-to-support-eur-against-us-dollar-scotiabank-202609091414",
-      "datum": "2026-09-09T14:14:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Japan: Outsized hike risks carry shock – DBS",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-outsized-hike-risks-carry-shock-dbs-202609091402",
-      "datum": "2026-09-09T14:02:29.000Z"
     },
     {
       "quelle": "FXStreet",

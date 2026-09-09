@@ -672,20 +672,20 @@
   {
     "date": "2026-09-16T06:00:00.000Z",
     "country": "GBP",
-    "title": "Retail Price Index MoM",
+    "title": "PPI Output YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.6%",
+    "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-16T06:00:00.000Z",
     "country": "GBP",
-    "title": "PPI Output YoY",
+    "title": "Retail Price Index MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.1%",
+    "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -745,7 +745,7 @@
     "title": "PPI Core Output MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.6",
+    "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -755,7 +755,7 @@
     "title": "PPI Core Output YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "2.8",
+    "previous": "2.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1472,16 +1472,6 @@
   {
     "date": "2026-09-17T12:30:00.000Z",
     "country": "CAD",
-    "title": "PPI YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "12.4",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-17T12:30:00.000Z",
-    "country": "CAD",
     "title": "Foreign Securities Purchases by Canadians",
     "impact": "Low",
     "forecast": "",
@@ -1492,10 +1482,20 @@
   {
     "date": "2026-09-17T12:30:00.000Z",
     "country": "CAD",
+    "title": "PPI YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "12.4%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-17T12:30:00.000Z",
+    "country": "CAD",
     "title": "PPI MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.6",
+    "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
   },

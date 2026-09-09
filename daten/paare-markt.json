@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-09T15:48:29.499Z",
+  "stand": "2026-09-09T18:16:41.374Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": 0,
       "tiltCot": 3,
-      "tiltZins": -5,
-      "tiltGesamt": -2,
-      "score": -2,
+      "tiltZins": -4,
+      "tiltGesamt": -1,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": 1,
       "tiltCot": 4,
-      "tiltZins": 0,
-      "tiltGesamt": 4,
-      "score": 5,
+      "tiltZins": 2,
+      "tiltGesamt": 6,
+      "score": 7,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

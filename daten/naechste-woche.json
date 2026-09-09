@@ -44,7 +44,7 @@
     "country": "JPY",
     "title": "Industrial Production MoM Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -94,7 +94,7 @@
     "country": "CNY",
     "title": "Total Social Financing",
     "impact": "Low",
-    "forecast": "2095 CNY",
+    "forecast": "2040 CNY",
     "previous": "1410 CNY",
     "actual": null,
     "quelle": "tradingview"
@@ -104,7 +104,7 @@
     "country": "CNY",
     "title": "New Yuan Loans",
     "impact": "Medium",
-    "forecast": "480 CNY",
+    "forecast": "400 CNY",
     "previous": "-340 CNY",
     "actual": null,
     "quelle": "tradingview"
@@ -114,7 +114,7 @@
     "country": "CNY",
     "title": "M2 Money Supply YoY",
     "impact": "Low",
-    "forecast": "7.7%",
+    "forecast": "7.6%",
     "previous": "7.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -1014,7 +1014,7 @@
     "country": "USD",
     "title": "Retail Inventories Ex Autos MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.7%",
     "previous": "-0.5%",
     "actual": null,
     "quelle": "tradingview"

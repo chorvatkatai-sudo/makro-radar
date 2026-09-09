@@ -1512,20 +1512,20 @@
   {
     "date": "2026-09-17T12:30:00.000Z",
     "country": "CAD",
-    "title": "Raw Materials Prices YoY",
+    "title": "Raw Materials Prices MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "18.1",
+    "previous": "-2.2%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-17T12:30:00.000Z",
     "country": "CAD",
-    "title": "Raw Materials Prices MoM",
+    "title": "Raw Materials Prices YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "-2.2%",
+    "previous": "18.1%",
     "actual": null,
     "quelle": "tradingview"
   },

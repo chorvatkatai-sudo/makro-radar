@@ -12087,7 +12087,7 @@
       "titel": "ADP Weekly Employment Change",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "10.0K",
       "actual": null,
       "notiz": null
     },
@@ -12565,6 +12565,36 @@
       "datum": "2026-09-12T04:00:00-04:00",
       "land": "EUR",
       "titel": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-09T05:33:00-04:00|EUR|German 10-y Bond Auction": {
+      "datum": "2026-09-09T05:33:00-04:00",
+      "land": "EUR",
+      "titel": "German 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.26|1.1",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-09T08:14:00-04:00|USD|ADP Weekly Employment Change": {
+      "datum": "2026-09-09T08:14:00-04:00",
+      "land": "USD",
+      "titel": "ADP Weekly Employment Change",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "11.8K",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-09T21:15:00-04:00|USD|President Trump Speaks": {
+      "datum": "2026-09-09T21:15:00-04:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
       "impact": "Medium",
       "prognose": "",
       "vorher": "",

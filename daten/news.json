@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-09T08:33:20.921Z",
+  "stand": "2026-09-09T10:30:27.041Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,69 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Mid-range trading with capped upside against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-mid-range-trading-with-capped-upside-against-us-dollar-ing-202609090832",
-      "datum": "2026-09-09T08:32:26.000Z"
+      "titel": "Japanese Yen: Supported by policy shift expectations – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-supported-by-policy-shift-expectations-mufg-202609090959",
+      "datum": "2026-09-09T09:59:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Changing fundamentals challenge carry – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-changing-fundamentals-challenge-carry-rabobank-202609090819",
-      "datum": "2026-09-09T08:19:13.000Z"
+      "titel": "Australian Dollar slips against Japanese Yen as BoJ rate hike bets grow",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-against-japanese-yen-as-boj-rate-hike-bets-grow-202609090946",
+      "datum": "2026-09-09T09:46:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve: Market mispricing risk into blackout – TD Securities",
-      "link": "https://www.fxstreet.com/news/federal-reserve-market-mispricing-risk-into-blackout-td-securities-202609090800",
-      "datum": "2026-09-09T08:00:19.000Z"
+      "titel": "Gold Price Forecast: XAU/USD bounces up to $4,400 with the bearish trend intact",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-up-to-4-400-with-the-bearish-trend-intact-202609090944",
+      "datum": "2026-09-09T09:44:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Forex Today: US Dollar retreats as markets gear up for key events",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-as-markets-gear-up-for-key-events-202609090758",
-      "datum": "2026-09-09T07:58:03.000Z"
+      "titel": "Polish Zloty: Policy on hold keeps PLN supported against Euro – Societe Generale",
+      "link": "https://www.fxstreet.com/news/polish-zloty-policy-on-hold-keeps-pln-supported-against-euro-societe-generale-202609090941",
+      "datum": "2026-09-09T09:41:45.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "NZD/USD Price Forecast: Rises in limited range with US CPI in focus",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-rises-in-limited-range-with-us-cpi-in-focus-202609090757",
-      "datum": "2026-09-09T07:57:16.000Z"
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609090931",
+      "datum": "2026-09-09T09:31:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "European Central Bank: Further hikes risk skewed to upside – Nomura",
-      "link": "https://www.fxstreet.com/news/european-central-bank-further-hikes-risk-skewed-to-upside-nomura-202609090749",
-      "datum": "2026-09-09T07:49:52.000Z"
+      "titel": "USD/CAD Price Forecast: Remains below 1.3800 as bearish bias prevails",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-remains-below-13800-as-bearish-bias-prevails-202609090925",
+      "datum": "2026-09-09T09:25:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro remains steady against British Pound Gains due to ECB rate hike bets",
-      "link": "https://www.fxstreet.com/news/euro-remains-steady-against-british-pound-gains-due-to-ecb-rate-hike-bets-202609090749",
-      "datum": "2026-09-09T07:49:12.000Z"
+      "titel": "Copper: Record highs driven by tariff uncertainty – ING",
+      "link": "https://www.fxstreet.com/news/copper-record-highs-driven-by-tariff-uncertainty-ing-202609090923",
+      "datum": "2026-09-09T09:23:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Oil erases losses and returns above $92.00 as hostilities in the Gulf escalate",
-      "link": "https://www.fxstreet.com/news/wti-oil-erases-losses-and-returns-above-9200-as-hostilities-in-the-gulf-escalate-202609090748",
-      "datum": "2026-09-09T07:48:09.000Z"
+      "titel": "Riksbank: Limited hiking cycle versus ECB – Nomura",
+      "link": "https://www.fxstreet.com/news/riksbank-limited-hiking-cycle-versus-ecb-nomura-202609090902",
+      "datum": "2026-09-09T09:02:25.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD approaches $67.00 as bulls await trading range breakout",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-approaches-6700-as-bulls-await-trading-range-breakout-202609090744",
-      "datum": "2026-09-09T07:44:59.000Z"
+      "titel": "USD/CHF Price Forecast: Flat lines near 0.8100 as bulls await US inflation data",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-flat-lines-near-08100-as-bulls-await-us-inflation-data-202609090857",
+      "datum": "2026-09-09T08:57:49.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Polish Zloty: Rate cuts seen off table through year-end – Commerzbank",
-      "link": "https://www.fxstreet.com/news/polish-zloty-rate-cuts-seen-off-table-through-year-end-commerzbank-202609090736",
-      "datum": "2026-09-09T07:36:52.000Z"
+      "titel": "Euro advances against Canadian Dollar due to hawkish ECB sentiment",
+      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-due-to-hawkish-ecb-sentiment-202609090857",
+      "datum": "2026-09-09T08:57:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Equities: Broad US pullback as tech limits losses - Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-broad-us-pullback-as-tech-limits-losses-deutsche-bank-202609090717",
-      "datum": "2026-09-09T07:17:53.000Z"
+      "titel": "US Dollar: CPI outcome guides Fed path – DBS",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-guides-fed-path-dbs-202609090848",
+      "datum": "2026-09-09T08:48:12.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -79,16 +79,16 @@
       "datum": "2026-09-09T06:24:25.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee declines further as oil prices extend rally",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536",
+      "datum": "2026-09-09T05:36:40.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: War escalation supports oil",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-war-escalation-supports-oil/",
       "datum": "2026-09-09T03:34:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold clings to intraday gains above $4,400 as bearish USD counters Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334",
-      "datum": "2026-09-09T03:34:11.000Z"
     },
     {
       "quelle": "ForexLive",

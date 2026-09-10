@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-10T15:43:43.082Z",
+  "stand": "2026-09-10T17:58:31.987Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,7 +8,61 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "British Pound feels the heat as hot PPI puts Fed hike in play",
+      "titel": "ECB sources say further tightening remains likely – Reuters",
+      "link": "https://www.fxstreet.com/news/ecb-sources-say-further-tightening-remains-likely-reuters-202609101738",
+      "datum": "2026-09-10T17:38:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold bulls blink as hot US PPI, $100 Oil send yields flying",
+      "link": "https://www.fxstreet.com/news/gold-bulls-blink-as-hot-us-ppi-100-oil-send-yields-flying-202609101729",
+      "datum": "2026-09-10T17:29:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro steadies against the Yen after ECB lifts rates",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-the-yen-after-ecb-lifts-rates-202609101727",
+      "datum": "2026-09-10T17:27:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB recap: A hawkish hike despite downside growth risks",
+      "link": "https://www.fxstreet.com/news/ecb-recap-a-hawkish-hike-despite-downside-growth-risks-202609101721",
+      "datum": "2026-09-10T17:21:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.308%",
+      "link": "https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-308/",
+      "datum": "2026-09-10T17:03:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Defensive Yen as BoJ turns hawkish – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-defensive-yen-as-boj-turns-hawkish-scotiabank-202609101637",
+      "datum": "2026-09-10T16:37:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar firms as US Dollar loses momentum, Oil prices extend rally",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trades-under-pressure-as-us-ppi-data-supports-fed-hike-bets-202609101551",
+      "datum": "2026-09-10T15:51:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Copper: Tariff uncertainty and max CTA length – TD Securities",
+      "link": "https://www.fxstreet.com/news/copper-tariff-uncertainty-and-max-cta-length-td-securities-202609101551",
+      "datum": "2026-09-10T15:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver slides below $65 as US PPI reinforces Fed rate-hike bets",
+      "link": "https://www.fxstreet.com/news/silver-slides-below-65-as-us-ppi-revives-fed-rate-hike-bets-202609101543",
+      "datum": "2026-09-10T15:43:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound under pressure as hot PPI puts Fed hike in play",
       "link": "https://www.fxstreet.com/news/british-pound-feels-the-heat-as-hot-ppi-puts-fed-hike-in-play-202609101527",
       "datum": "2026-09-10T15:27:46.000Z"
     },
@@ -31,30 +85,6 @@
       "datum": "2026-09-10T14:47:46.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Two more hikes remain the baseline – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440",
-      "datum": "2026-09-10T14:40:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro gains modestly against British Pound after ECB delivers widely expected hike",
-      "link": "https://www.fxstreet.com/news/uro-gains-modestly-against-british-pound-after-ecb-delivers-widely-expected-hike-202609101426",
-      "datum": "2026-09-10T14:26:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Range trade with upside bias against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-trade-with-upside-bias-against-us-dollar-scotiabank-202609101421",
-      "datum": "2026-09-10T14:21:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ risks skewed to stronger Yen – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-risks-skewed-to-stronger-yen-bbh-202609101405",
-      "datum": "2026-09-10T14:05:13.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US wholesale inventories +1.3% in line with expectations",
       "link": "https://investinglive.com/news/us-wholesale-inventories-1-3-in-line-with-expectations/",
@@ -65,18 +95,6 @@
       "titel": "US August existing home sales 3.98m vs 3.98m expected",
       "link": "https://investinglive.com/news/us-august-existing-home-sales-3-98m-vs-3-98m-expected/",
       "datum": "2026-09-10T14:00:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen comes under pressure as US PPI data boost US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-us-ppi-data-boost-us-dollar-202609101358",
-      "datum": "2026-09-10T13:58:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Copper: Record prices with real constraints – NBC",
-      "link": "https://www.fxstreet.com/news/copper-record-prices-with-real-constraints-nbc-202609101343",
-      "datum": "2026-09-10T13:43:37.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "investingLive European markets wrap: Oil and bond yields push higher as ECB decision looms",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-and-bond-yields-push-higher-as-ecb-decision-looms/",
       "datum": "2026-09-10T12:05:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
-      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107",
-      "datum": "2026-09-10T11:07:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Oil is driving the rise in long-term yields; Everything else is just noise",
-      "link": "https://investinglive.com/news/oil-is-driving-the-rise-in-long-term-yields-everything-else-is-just-noise/",
-      "datum": "2026-09-10T11:01:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB Press Conference: Lagarde comments on policy outlook after raising key rates by 25 bps",
-      "link": "https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800",
-      "datum": "2026-09-10T08:00:00.000Z"
     }
   ]
 }

@@ -90,6 +90,8 @@
     "2026-09-04T08:30:00-04:00|USD|Average Hourly Earnings m/m",
     "2026-09-04T08:30:00-04:00|USD|Non-Farm Employment Change",
     "2026-09-04T08:30:00-04:00|USD|Unemployment Rate",
-    "2026-09-10T08:15:00-04:00|EUR|Main Refinancing Rate"
+    "2026-09-10T08:15:00-04:00|EUR|Main Refinancing Rate",
+    "2026-09-10T08:30:00-04:00|USD|Core PPI m/m",
+    "2026-09-10T08:30:00-04:00|USD|PPI m/m"
   ]
 }

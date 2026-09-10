@@ -1,11 +1,65 @@
 {
-  "stand": "2026-09-10T17:58:31.987Z",
+  "stand": "2026-09-10T20:31:11.451Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Oil climbs 7%",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-climbs-7/",
+      "datum": "2026-09-10T20:14:16.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+      "datum": "2026-09-10T20:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar rebounds on hot PPI ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rebounds-on-hot-ppi-ahead-of-us-cpi-202609101955",
+      "datum": "2026-09-10T19:55:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Head-and-shoulders break puts $60 back in play",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-break-puts-60-back-in-play-202609101943",
+      "datum": "2026-09-10T19:43:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Uptrend eyes breakout 6.7000 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-uptrend-eyes-breakout-67000-against-us-dollar-uob-202609101913",
+      "datum": "2026-09-10T19:13:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Kiwi breaks below 0.5800 as bears take control",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-breaks-05800-as-bears-take-control-202609101844",
+      "datum": "2026-09-10T18:44:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysia Ringgit: BNM hawkish tilt limits downside – Commerzbank",
+      "link": "https://www.fxstreet.com/news/malaysia-ringgit-bnm-hawkish-tilt-limits-downside-commerzbank-202609101842",
+      "datum": "2026-09-10T18:42:17.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The US Treasury bought $5.187 billion in 10-20 year notes",
+      "link": "https://investinglive.com/news/the-us-treasury-bought-5-187-billion-in-10-20-year-notes/",
+      "datum": "2026-09-10T18:13:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil nears $100 as Middle East tensions keep supply concerns elevated",
+      "link": "https://www.fxstreet.com/news/wti-oil-nears-100-as-middle-east-tensions-keep-supply-concerns-elevated-202609101806",
+      "datum": "2026-09-10T18:06:36.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "ECB sources say further tightening remains likely – Reuters",
@@ -49,42 +103,6 @@
       "datum": "2026-09-10T15:51:03.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Copper: Tariff uncertainty and max CTA length – TD Securities",
-      "link": "https://www.fxstreet.com/news/copper-tariff-uncertainty-and-max-cta-length-td-securities-202609101551",
-      "datum": "2026-09-10T15:51:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver slides below $65 as US PPI reinforces Fed rate-hike bets",
-      "link": "https://www.fxstreet.com/news/silver-slides-below-65-as-us-ppi-revives-fed-rate-hike-bets-202609101543",
-      "datum": "2026-09-10T15:43:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound under pressure as hot PPI puts Fed hike in play",
-      "link": "https://www.fxstreet.com/news/british-pound-feels-the-heat-as-hot-ppi-puts-fed-hike-in-play-202609101527",
-      "datum": "2026-09-10T15:27:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Consolidation against US Dollar before UK data and BoE – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidation-against-us-dollar-before-uk-data-and-boe-scotiabank-202609101508",
-      "datum": "2026-09-10T15:08:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Higher August forecast with methodology shift – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-higher-august-forecast-with-methodology-shift-td-securities-202609101450",
-      "datum": "2026-09-10T14:50:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar eases from four-month high",
-      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-four-month-high-202609101447",
-      "datum": "2026-09-10T14:47:46.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US wholesale inventories +1.3% in line with expectations",
       "link": "https://investinglive.com/news/us-wholesale-inventories-1-3-in-line-with-expectations/",
@@ -95,24 +113,6 @@
       "titel": "US August existing home sales 3.98m vs 3.98m expected",
       "link": "https://investinglive.com/news/us-august-existing-home-sales-3-98m-vs-3-98m-expected/",
       "datum": "2026-09-10T14:00:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Jobless claims show steady US employment picture. Initial claims 206K vs 205k estimate",
-      "link": "https://investinglive.com/news/jobless-claims-show-steady-us-employment-picture-initial-claims-206k-vs-205k-estimate/",
-      "datum": "2026-09-10T12:30:58.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US August PPI 5.4% vs 5.3% expected",
-      "link": "https://investinglive.com/news/us-august-ppi-5-4-vs-5-3-expected/",
-      "datum": "2026-09-10T12:30:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil and bond yields push higher as ECB decision looms",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-and-bond-yields-push-higher-as-ecb-decision-looms/",
-      "datum": "2026-09-10T12:05:13.000Z"
     }
   ]
 }

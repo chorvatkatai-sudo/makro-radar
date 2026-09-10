@@ -1,11 +1,11 @@
 {
-  "stand": "2026-09-10T17:58:31.995Z",
+  "stand": "2026-09-10T20:31:11.459Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 54,
-  "gewertet": 26,
-  "nichtWertbar": 28,
+  "gewertet": 27,
+  "nichtWertbar": 27,
   "treffer": 15,
-  "quote": 58,
+  "quote": 56,
   "zinsentscheide": {
     "treffer": 8,
     "gesamt": 8,
@@ -13,8 +13,8 @@
   },
   "datenPrognosen": {
     "treffer": 7,
-    "gesamt": 18,
-    "quote": 39
+    "gesamt": 19,
+    "quote": 37
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
@@ -23,8 +23,8 @@
   },
   "exakt": {
     "treffer": 2,
-    "gesamt": 3,
-    "quote": 67
+    "gesamt": 4,
+    "quote": 50
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "USA: Verbraucherpreise (CPI, Juli)",
-      "datum": "2026-08-12",
-      "richtung": "niedriger",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "0.2%",
-      "ist": "0.2%",
-      "treffer": false
-    },
     {
       "event": "Australien: RBA-Zinsentscheid",
       "datum": "2026-08-11",
@@ -103,6 +94,15 @@
       "konsens": "2.65%",
       "ist": "2.65%",
       "treffer": true
+    },
+    {
+      "event": "US-Erzeugerpreise PPI (August, m/m)",
+      "datum": "2026-09-10",
+      "richtung": "hoeher",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "0.3%",
+      "ist": "0.3%",
+      "treffer": false
     }
   ]
 }

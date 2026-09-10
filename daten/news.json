@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-10T10:19:59.386Z",
+  "stand": "2026-09-10T14:42:41.209Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: Gradual upside within capped range against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gradual-upside-within-capped-range-against-us-dollar-uob-202609101002",
-      "datum": "2026-09-10T10:02:32.000Z"
+      "titel": "European Central Bank: Two more hikes remain the baseline – Nordea",
+      "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440",
+      "datum": "2026-09-10T14:40:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD holds below $4,400 with Oil, yields surging",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-below-4-400-with-oil-yields-surging-202609100956",
-      "datum": "2026-09-10T09:56:43.000Z"
+      "titel": "Euro gains modestly against British Pound after ECB delivers widely expected hike",
+      "link": "https://www.fxstreet.com/news/uro-gains-modestly-against-british-pound-after-ecb-delivers-widely-expected-hike-202609101426",
+      "datum": "2026-09-10T14:26:40.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Turkish Lira: Liquidity stance key for TRY – Commerzbank",
-      "link": "https://www.fxstreet.com/news/turkish-lira-liquidity-stance-key-for-try-commerzbank-202609100952",
-      "datum": "2026-09-10T09:52:12.000Z"
+      "titel": "Canadian Dollar: Range trade with upside bias against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-range-trade-with-upside-bias-against-us-dollar-scotiabank-202609101421",
+      "datum": "2026-09-10T14:21:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Czech Koruna: CNB stance leaves room for weakness against Euro – ING",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-stance-leaves-room-for-weakness-against-euro-ing-202609100942",
-      "datum": "2026-09-10T09:42:24.000Z"
+      "titel": "Japanese Yen: BoJ risks skewed to stronger Yen – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-risks-skewed-to-stronger-yen-bbh-202609101405",
+      "datum": "2026-09-10T14:05:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US wholesale inventories +1.3% in line with expectations",
+      "link": "https://investinglive.com/news/us-wholesale-inventories-1-3-in-line-with-expectations/",
+      "datum": "2026-09-10T14:02:59.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US August existing home sales 3.98m vs 3.98m expected",
+      "link": "https://investinglive.com/news/us-august-existing-home-sales-3-98m-vs-3-98m-expected/",
+      "datum": "2026-09-10T14:00:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Bond buybacks reshape yield dynamics – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-bond-buybacks-reshape-yield-dynamics-mufg-202609100932",
-      "datum": "2026-09-10T09:32:43.000Z"
+      "titel": "Japanese Yen comes under pressure as US PPI data boost US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-us-ppi-data-boost-us-dollar-202609101358",
+      "datum": "2026-09-10T13:58:08.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609100930",
-      "datum": "2026-09-10T09:30:42.000Z"
+      "titel": "Copper: Record prices with real constraints – NBC",
+      "link": "https://www.fxstreet.com/news/copper-record-prices-with-real-constraints-nbc-202609101343",
+      "datum": "2026-09-10T13:43:37.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Brent: Geopolitical risk drives price surge – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-geopolitical-risk-drives-price-surge-deutsche-bank-202609100918",
-      "datum": "2026-09-10T09:18:02.000Z"
+      "titel": "Lagarde speech: Surprised by economic resilience",
+      "link": "https://www.fxstreet.com/news/lagarde-speech-surprised-by-economic-resilience-202609101324",
+      "datum": "2026-09-10T13:24:07.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Second hike seen as energy clouds outlook – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-second-hike-seen-as-energy-clouds-outlook-societe-generale-202609100909",
-      "datum": "2026-09-10T09:09:14.000Z"
+      "titel": "Gold: Near-term selling may only delay next leg higher - TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-near-term-selling-may-only-delay-next-leg-higher-td-securities-202609101317",
+      "datum": "2026-09-10T13:17:08.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro remains steady vs Canadian Dollar ahead of key ECB decision",
-      "link": "https://www.fxstreet.com/news/euro-remains-steady-vs-canadian-dollar-ahead-of-key-ecb-decision-202609100905",
-      "datum": "2026-09-10T09:05:18.000Z"
+      "titel": "Lagarde speech: Can't anticipate what will be the next move",
+      "link": "https://www.fxstreet.com/news/lagarde-speech-cant-anticipate-what-will-be-the-next-move-202609101314",
+      "datum": "2026-09-10T13:14:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Positions above 1.3550, nine-day EMA support",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-positions-above-13550-nine-day-ema-support-202609100904",
-      "datum": "2026-09-10T09:04:17.000Z"
+      "titel": "WTI US Oil rebounds toward $97 as US-Iran conflict escalates",
+      "link": "https://www.fxstreet.com/news/wti-us-oil-rebounds-toward-97-as-us-iran-conflict-escalates-202609101306",
+      "datum": "2026-09-10T13:06:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Jobless claims show steady US employment picture. Initial claims 206K vs 205k estimate",
+      "link": "https://investinglive.com/news/jobless-claims-show-steady-us-employment-picture-initial-claims-206k-vs-205k-estimate/",
+      "datum": "2026-09-10T12:30:58.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US August PPI 5.4% vs 5.3% expected",
+      "link": "https://investinglive.com/news/us-august-ppi-5-4-vs-5-3-expected/",
+      "datum": "2026-09-10T12:30:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Oil and bond yields push higher as ECB decision looms",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-and-bond-yields-push-higher-as-ecb-decision-looms/",
+      "datum": "2026-09-10T12:05:13.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "European Central Bank set to hike interest rates in September amid inflation, energy risks",
+      "titel": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
+      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107",
+      "datum": "2026-09-10T11:07:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Oil is driving the rise in long-term yields; Everything else is just noise",
+      "link": "https://investinglive.com/news/oil-is-driving-the-rise-in-long-term-yields-everything-else-is-just-noise/",
+      "datum": "2026-09-10T11:01:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB Press Conference: Lagarde comments on policy outlook after raising key rates by 25 bps",
       "link": "https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800",
       "datum": "2026-09-10T08:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-39/",
-      "datum": "2026-09-10T06:43:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany August CPI: Energy shock keeps inflation pressures elevated",
-      "link": "https://investinglive.com/news/germany-august-cpi-energy-shock-keeps-inflation-pressures-elevated/",
-      "datum": "2026-09-10T06:10:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US Treasury bond buyback: Why yields are still rising",
-      "link": "https://investinglive.com/news/us-treasury-bond-buyback-why-yields-are-still-rising/",
-      "datum": "2026-09-10T05:25:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee continues its underperformance amid surging oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524",
-      "datum": "2026-09-10T05:24:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Gold steady around $4400",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-steady-around-4400/",
-      "datum": "2026-09-10T03:48:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump ties $5,000 payment promise to a full Republican midterm sweep",
-      "link": "https://investinglive.com/news/trump-ties-5-000-payment-promise-to-a-full-republican-midterm-sweep/",
-      "datum": "2026-09-10T02:49:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 9 Sept: Oil is a problem as war likely to continue",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-9-sept-oil-is-a-problem-as-war-likely-to-continue/",
-      "datum": "2026-09-09T21:08:55.000Z"
     }
   ]
 }

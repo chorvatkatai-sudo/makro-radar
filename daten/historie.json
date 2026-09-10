@@ -12178,8 +12178,8 @@
       "impact": "High",
       "prognose": "2.65%",
       "vorher": "2.40%",
-      "actual": null,
-      "notiz": null
+      "actual": "2.65%",
+      "notiz": "auto:TV rate (2026-09-10)"
     },
     "2026-09-10T08:15:00-04:00|EUR|Monetary Policy Statement": {
       "datum": "2026-09-10T08:15:00-04:00",

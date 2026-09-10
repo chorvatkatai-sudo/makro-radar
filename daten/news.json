@@ -1,11 +1,35 @@
 {
-  "stand": "2026-09-10T14:42:41.209Z",
+  "stand": "2026-09-10T15:43:43.082Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound feels the heat as hot PPI puts Fed hike in play",
+      "link": "https://www.fxstreet.com/news/british-pound-feels-the-heat-as-hot-ppi-puts-fed-hike-in-play-202609101527",
+      "datum": "2026-09-10T15:27:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Consolidation against US Dollar before UK data and BoE – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidation-against-us-dollar-before-uk-data-and-boe-scotiabank-202609101508",
+      "datum": "2026-09-10T15:08:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States: Higher August forecast with methodology shift – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-higher-august-forecast-with-methodology-shift-td-securities-202609101450",
+      "datum": "2026-09-10T14:50:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar eases from four-month high",
+      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-four-month-high-202609101447",
+      "datum": "2026-09-10T14:47:46.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "European Central Bank: Two more hikes remain the baseline – Nordea",
@@ -53,30 +77,6 @@
       "titel": "Copper: Record prices with real constraints – NBC",
       "link": "https://www.fxstreet.com/news/copper-record-prices-with-real-constraints-nbc-202609101343",
       "datum": "2026-09-10T13:43:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Lagarde speech: Surprised by economic resilience",
-      "link": "https://www.fxstreet.com/news/lagarde-speech-surprised-by-economic-resilience-202609101324",
-      "datum": "2026-09-10T13:24:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Near-term selling may only delay next leg higher - TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-near-term-selling-may-only-delay-next-leg-higher-td-securities-202609101317",
-      "datum": "2026-09-10T13:17:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Lagarde speech: Can't anticipate what will be the next move",
-      "link": "https://www.fxstreet.com/news/lagarde-speech-cant-anticipate-what-will-be-the-next-move-202609101314",
-      "datum": "2026-09-10T13:14:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI US Oil rebounds toward $97 as US-Iran conflict escalates",
-      "link": "https://www.fxstreet.com/news/wti-us-oil-rebounds-toward-97-as-us-iran-conflict-escalates-202609101306",
-      "datum": "2026-09-10T13:06:46.000Z"
     },
     {
       "quelle": "ForexLive",

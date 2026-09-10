@@ -1522,16 +1522,6 @@
   {
     "date": "2026-09-17T12:30:00.000Z",
     "country": "USD",
-    "title": "Jobless Claims 4-week Average",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "206",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-17T12:30:00.000Z",
-    "country": "USD",
     "title": "Philly Fed Employment",
     "impact": "Low",
     "forecast": "",
@@ -1546,6 +1536,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "48.2",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-17T12:30:00.000Z",
+    "country": "USD",
+    "title": "Jobless Claims 4-week Average",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "206",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1625,7 +1625,7 @@
     "title": "EIA Natural Gas Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "40",
     "actual": null,
     "quelle": "tradingview"
   },

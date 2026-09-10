@@ -1,14 +1,14 @@
 {
-  "stand": "2026-09-10T14:42:41.217Z",
+  "stand": "2026-09-10T15:43:43.090Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 54,
-  "gewertet": 25,
-  "nichtWertbar": 29,
-  "treffer": 14,
-  "quote": 56,
+  "gewertet": 26,
+  "nichtWertbar": 28,
+  "treffer": 15,
+  "quote": 58,
   "zinsentscheide": {
-    "treffer": 7,
-    "gesamt": 7,
+    "treffer": 8,
+    "gesamt": 8,
     "quote": 100
   },
   "datenPrognosen": {
@@ -22,9 +22,9 @@
     "quote": 55
   },
   "exakt": {
-    "treffer": 1,
-    "gesamt": 2,
-    "quote": 50
+    "treffer": 2,
+    "gesamt": 3,
+    "quote": 67
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "USA: Jobbericht (Non-Farm Payrolls, Juli)",
-      "datum": "2026-08-07",
-      "richtung": "niedriger",
-      "tatsaechlich": "niedriger",
-      "konsens": "85K",
-      "ist": "-23K",
-      "treffer": true
-    },
     {
       "event": "USA: Verbraucherpreise (CPI, Juli)",
       "datum": "2026-08-12",
@@ -103,6 +94,15 @@
       "konsens": "0.3%",
       "ist": "0.3%",
       "treffer": false
+    },
+    {
+      "event": "EZB-Zinsentscheid (Einlagensatz)",
+      "datum": "2026-09-10",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "2.65%",
+      "ist": "2.65%",
+      "treffer": true
     }
   ]
 }

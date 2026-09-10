@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-10T05:05:38.861Z",
+  "stand": "2026-09-10T08:35:29.506Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,31 +8,91 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Sits near May 14 high, above 0.7200 as US inflation data looms",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-sits-near-may-14-high-above-07200-as-us-inflation-data-looms-202609100438",
-      "datum": "2026-09-10T04:38:45.000Z"
+      "titel": "Australian Dollar slips against Japanese Yen due to increased risk aversion",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-against-japanese-yen-due-to-increased-risk-aversion-202609100834",
+      "datum": "2026-09-10T08:34:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609100435",
-      "datum": "2026-09-10T04:35:09.000Z"
+      "titel": "Euro sticks to modest recovery gains vs Yen; remains close to YTD low ahead of ECB",
+      "link": "https://www.fxstreet.com/news/euro-sticks-to-modest-recovery-gains-vs-yen-remains-close-to-ytd-low-ahead-of-ecb-202609100830",
+      "datum": "2026-09-10T08:30:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc gains as US Dollar weakens on Fed uncertainty",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-weakens-on-fed-uncertainty-202609100417",
-      "datum": "2026-09-10T04:17:38.000Z"
+      "titel": "Swiss Franc: Range trading with limited momentum against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-range-trading-with-limited-momentum-against-us-dollar-uob-202609100827",
+      "datum": "2026-09-10T08:27:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Sticks to gains above 1.1600 as bulls await ECB, US PPI",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-sticks-to-gains-above-11600-as-bulls-await-ecb-us-ppi-202609100407",
-      "datum": "2026-09-10T04:07:11.000Z"
+      "titel": "Euro: Difficult path for gains against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-difficult-path-for-gains-against-us-dollar-commerzbank-202609100823",
+      "datum": "2026-09-10T08:23:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold holds steady above $4,400 as traders seem hesitant ahead of US inflation data",
+      "titel": "Forex Today: ECB rate decision, US producer inflation data to lift volatility",
+      "link": "https://www.fxstreet.com/news/forex-today-ecb-rate-decision-us-producer-inflation-data-to-lift-volatility-202609100812",
+      "datum": "2026-09-10T08:12:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones futures gain ahead of US PPI data",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-ahead-of-us-ppi-data-202609100811",
+      "datum": "2026-09-10T08:11:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Bears remain in control with 0.5800 support eyed",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-remain-in-control-with-05800-support-eyed-202609100801",
+      "datum": "2026-09-10T08:01:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank to resume interest rate hikes in September as inflation, energy risks rise",
+      "link": "https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800",
+      "datum": "2026-09-10T08:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Structural support from regional flows – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-structural-support-from-regional-flows-bny-202609100758",
+      "datum": "2026-09-10T07:58:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar struggles for direction against US Dollar with US PPI in focus",
+      "link": "https://www.fxstreet.com/news/australian-dollar-struggles-for-direction-against-us-dollar-with-us-ppi-in-focus-202609100758",
+      "datum": "2026-09-10T07:58:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar Index Price Forecast: Holds losses below 99.00 as bearish bias prevails",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-holds-losses-below-9900-as-bearish-bias-prevails-202609100753",
+      "datum": "2026-09-10T07:53:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-39/",
+      "datum": "2026-09-10T06:43:45.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany August CPI: Energy shock keeps inflation pressures elevated",
+      "link": "https://investinglive.com/news/germany-august-cpi-energy-shock-keeps-inflation-pressures-elevated/",
+      "datum": "2026-09-10T06:10:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treasury bond buyback: Why yields are still rising",
+      "link": "https://investinglive.com/news/us-treasury-bond-buyback-why-yields-are-still-rising/",
+      "datum": "2026-09-10T05:25:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold holds steady above $4,400 as traders await US inflation data for Fed rate cues",
       "link": "https://www.fxstreet.com/news/gold-holds-steady-above-4-400-as-traders-seem-hesitant-ahead-of-us-inflation-data-202609100351",
       "datum": "2026-09-10T03:51:09.000Z"
     },
@@ -43,76 +103,16 @@
       "datum": "2026-09-10T03:48:12.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index weakens ahead of critical US inflation reports",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-ahead-of-critical-us-inflation-reports-202609100330",
-      "datum": "2026-09-10T03:30:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD trades firmly near $67.60 ahead of US PPI, CPI data",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-firmly-near-6760-ahead-of-us-ppi-cpi-data-202609100319",
-      "datum": "2026-09-10T03:19:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar edges higher to near 0.5850 ahead of US PPI inflation data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-higher-to-near-05850-ahead-of-us-ppi-inflation-data-202609100257",
-      "datum": "2026-09-10T02:57:42.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump ties $5,000 payment promise to a full Republican midterm sweep",
       "link": "https://investinglive.com/news/trump-ties-5-000-payment-promise-to-a-full-republican-midterm-sweep/",
       "datum": "2026-09-10T02:49:13.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound rises as US Dollar weaken ahead of PPI data",
-      "link": "https://www.fxstreet.com/news/british-pound-rises-as-us-dollar-weaken-ahead-of-ppi-data-202609100235",
-      "datum": "2026-09-10T02:35:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar consolidates as higher oil prices offset USD uptick ahead of US PPI",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-as-higher-oil-prices-offset-usd-uptick-ahead-of-us-ppi-202609100152",
-      "datum": "2026-09-10T01:52:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoJ’s Masu says expect to continue raising rates given current accommodative financial conditions",
-      "link": "https://www.fxstreet.com/news/bojs-masu-says-expect-to-continue-raising-rates-given-current-accommodative-financial-conditions-202609100139",
-      "datum": "2026-09-10T01:39:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar weakens to near 0.7200 as traders await US PPI inflation data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-to-near-07200-as-traders-await-us-ppi-inflation-data-202609100132",
-      "datum": "2026-09-10T01:32:21.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 9 Sept: Oil is a problem as war likely to continue",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-9-sept-oil-is-a-problem-as-war-likely-to-continue/",
       "datum": "2026-09-09T21:08:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Thursday, September 10, 2026 ... m'eh",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-september-10-2026-m-eh/",
-      "datum": "2026-09-09T20:25:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Brent crude hits $100, equities fall",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-brent-crude-hits-100-equities-fall/",
-      "datum": "2026-09-09T11:33:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-38/",
-      "datum": "2026-09-09T06:24:25.000Z"
     }
   ]
 }

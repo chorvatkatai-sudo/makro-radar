@@ -1,17 +1,17 @@
 {
-  "stand": "2026-09-10T20:31:11.453Z",
+  "stand": "2026-09-11T05:04:59.908Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -2,
+      "baseScore": -3,
       "tiltCot": -1,
       "tiltZins": 3,
       "tiltGesamt": 2,
-      "score": 0,
+      "score": -1,
       "cotExtrem": null,
-      "treiber": "EZB-Erhöhung heute weitgehend eingepreist + teures Öl belastet den Euro; der Dollar ist aber weich (vierter Verlusttag) und die Zins-Differenz spricht für den Euro → nur leicht negativ. (Track-Record des Paars schwach, 25 % → bewusst nahe null.)",
+      "treiber": "EZB-Erhoehung gestern eingepreist + teures Oel belastet den Euro, waehrend der Dollar Freitagfrueh vor dem CPI fester dreht → leicht negativ. (Track-Record des Paars schwach → bewusst nahe null.)",
       "istCross": false
     },
     {
@@ -22,29 +22,29 @@
       "tiltGesamt": 5,
       "score": 3,
       "cotExtrem": null,
-      "treiber": "Pfund ohne eigenen Notenbank-Treiber trifft auf den festen Dollar-Block; die stark gestiegene 2-Jahres-Rendite federt aber ab.",
+      "treiber": "Pfund ohne eigenen Notenbank-Treiber trifft auf den festeren Dollar; die stark gestiegene 2-Jahres-Rendite (+0,45) federt ab.",
       "istCross": false
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 2,
+      "baseScore": 4,
       "tiltCot": 4,
       "tiltZins": 6,
       "tiltGesamt": 10,
-      "score": 12,
+      "score": 14,
       "cotExtrem": null,
-      "treiber": "Yen zuletzt fester (BoJ-/Interventions-Spekulation) gegen teures Öl + Mini-Zins — ausgeglichen; Track-Record des Paars schwach (25 %) → bewusst nahe null.",
+      "treiber": "Teures Oel + Mini-Zins belasten den Yen, der festere Dollar hebt das Paar; das zurueckkehrende Risk-off gibt dem Yen aber etwas Hafen-Gegenwehr. Track-Record schwach → modest.",
       "istCross": false
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 2,
+      "baseScore": -1,
       "tiltCot": -2,
       "tiltZins": 3,
       "tiltGesamt": 1,
-      "score": 3,
+      "score": 0,
       "cotExtrem": null,
-      "treiber": "Risk-on + Hochzins + entschärftes China-Risiko lösen den Aussie leicht vom weichen Dollar-Block nach oben.",
+      "treiber": "Risk-off (VIX +23 %) trimmt den Aussie, gegen den festeren Dollar bleibt nur noch wenig uebrig → nahe null.",
       "istCross": false
     },
     {
@@ -55,38 +55,38 @@
       "tiltGesamt": 2,
       "score": -2,
       "cotExtrem": null,
-      "treiber": "Öl-Sprung (Brent über 100 $) + falkenhafte Bank of Canada geben dem Loonie klar die Oberhand — trotz der schwachen Jobs bleibt der Öl-Rückenwind der Treiber.",
+      "treiber": "Oel-Sprung (WTI ueber 103 $) + falkenhafte Bank of Canada geben dem Loonie klar die Oberhand — der Oel-Rueckenwind bleibt der Treiber trotz schwacher Jobs und crowded-short-Positionierung.",
       "istCross": false
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 4,
+      "baseScore": 3,
       "tiltCot": 3,
       "tiltZins": 5,
       "tiltGesamt": 8,
-      "score": 12,
+      "score": 11,
       "cotExtrem": null,
-      "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf) + teures Öl belastet die Schweiz als Importeur → Dollar-Seite leicht vorn.",
+      "treiber": "Franken als Energie-Importeur belastet + festerer Dollar → Dollar-Seite vorn; das Risk-off gibt dem Franken aber etwas Hafen-Gegenwehr → nur leicht positiv.",
       "istCross": false
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -1,
+      "baseScore": -2,
       "tiltCot": -1,
       "tiltZins": -7,
       "tiltGesamt": -8,
-      "score": -9,
+      "score": -10,
       "cotExtrem": null,
-      "treiber": "RBNZ-Erhöhung ist die eigene Kiwi-Geschichte, aber der Dollar ist weich und die NZD-Zins-Differenz am schwächsten → nahe null.",
+      "treiber": "RBNZ-Erhoehung ist die eigene Kiwi-Geschichte, aber die schwaechste Zins-Differenz + Risk-off + festerer Dollar druecken → leicht negativ.",
       "istCross": false
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": 1,
+      "baseScore": 0,
       "tiltCot": 3,
       "tiltZins": -6,
       "tiltGesamt": -3,
-      "score": -2,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -104,22 +104,22 @@
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": 2,
+      "baseScore": 1,
       "tiltCot": -1,
       "tiltZins": 8,
       "tiltGesamt": 7,
-      "score": 9,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": 3,
+      "baseScore": 1,
       "tiltCot": 3,
       "tiltZins": 8,
       "tiltGesamt": 11,
-      "score": 14,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

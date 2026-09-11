@@ -14,80 +14,80 @@
   "waehrungen": {
     "USD": {
       "stimmung": "neutral",
-      "score": 4,
-      "grund": "Weich (vierter Verlusttag, Index ~98,7) + Zins-Momentum drehte diese Woche gegen den Dollar → Boden bröckelt; die Erhöhungs-Wette ~58 % + teures Öl (Inflationssorge) verhindern aber einen echten Absturz. PPI heute, CPI Fr = der eigentliche Schiedsrichter."
+      "score": 5,
+      "grund": "Findet Boden: heisse Erzeugerpreise (PPI +0,4 %) + US-Zinsen nahe 5 % + teures Oel drehen die Zins- und Sicherheits-Wette pro Dollar. Aber es ist CPI-Tag (14:30) und die Fed-Erhoehung bleibt ein Muenzwurf → kein Durchmarsch, Score klein."
     },
     "EUR": {
       "stimmung": "neutral",
-      "score": 3,
-      "grund": "EZB erhöht heute fast sicher auf 2,50 %, hält sich fest über 1,16, Euro-Zins-Differenz stieg diese Woche stärker als die des Dollars + Euro-Spekulanten stark short (Squeeze-Risiko). Gegen: teures Öl belastet den Energie-Importeur + Dovish-Guidance-Risiko (Lagardes Ton)."
+      "score": 1,
+      "grund": "EZB erhoehte gestern falkenhaft auf 2,50 % (\"No-Brainer\", weitere Schritte offen) — trotzdem kaum Rueckenwind, weil das teure Oel die Euro-Zone als Energie-Importeur belastet (\"sell the fact\"). Die gestiegene Zins-Differenz stuetzt gegen, Spekulanten stark short (z −1,3)."
     },
     "GBP": {
       "stimmung": "neutral",
       "score": 2,
-      "grund": "Kein eigener Zins-Impuls (BoE erst Mitte September), aber die 2-Jahres-Rendite stieg diese Woche am stärksten von allen → leichter Rückenwind; UK-Wachstum morgen früh."
+      "grund": "Kein eigener Notenbank-Impuls (BoE Mitte September), aber die 2-Jahres-Rendite stieg diese Woche am staerksten von allen (+0,45) → leichter Rueckenwind. UK-Wachstum heute frueh."
     },
     "JPY": {
       "stimmung": "neutral",
-      "score": -1,
-      "grund": "Fundamental schwach (Mini-Zins 1,00 %) + teures Öl belastet Japan; dagegen BoJ-Zinswende-/Interventions-Spekulation → ausgeglichen. Track-Record des Paars schwach (25 %) → bewusst nahe null."
+      "score": -2,
+      "grund": "Doppelter Gegenwind: Mini-Zins 1,00 % + teures Oel belastet den Energie-Importeur Japan. Dagegen gibt das zurueckkehrende Risk-off (VIX +23 %) etwas Hafen-Nachfrage + BoJ-/Interventions-Spekulation. Track-Record des Paars schwach → bewusst nahe null."
     },
     "CHF": {
-      "stimmung": "bärisch",
-      "score": -3,
-      "grund": "Sicherer Hafen ohne Nachfrage (VIX ~16, weiter risikofreudig) + teures Öl belastet auch die Schweiz als Energie-Importeur."
+      "stimmung": "neutral",
+      "score": -1,
+      "grund": "Zwiespaeltig: als Energie-Importeur vom teuren Oel belastet, aber das zurueckkehrende Risk-off (VIX +23 %) bringt dem sicheren Hafen wieder etwas Nachfrage → nahe null statt klar negativ."
     },
     "CAD": {
       "stimmung": "bullisch",
-      "score": 8,
-      "grund": "Klarster Öl-Gewinner: Brent über 100 $ (Wochen-Sprung) + falkenhafte Bank of Canada — der Öl-Rückenwind trägt trotz der schwachen Jobs (−41,7k). Spekulanten aber netto-short (leichtes Rückschlag-Risiko)."
+      "score": 9,
+      "grund": "Klarster Gewinner: Oel-Sprung WTI ueber 103 $ / Brent ueber 108 $ (+13 % Woche) + falkenhafte Bank of Canada tragen trotz der schwachen Jobs (−41,7k). Spekulanten aber netto-short (−32 %) = leichtes Rueckschlag-Risiko."
     },
     "AUD": {
       "stimmung": "bullisch",
-      "score": 7,
-      "grund": "Starke eigene Geschichte: solides Wachstum (BIP Q2 +0,4 %), Hochzins 4,35 % und Risk-on — China-Inflation gestern wie erwartet (+0,8 %) statt schwach, damit das China-Risiko entschärft."
+      "score": 4,
+      "grund": "Eigene solide Geschichte (BIP Q2 +0,4 %, Hochzins 4,35 %, China-Inflation entschaerft), aber das zurueckkehrende Risk-off (VIX +23 %) bremst die Rohstoff-Waehrung → von zuletzt +7 getrimmt."
     },
     "NZD": {
-      "stimmung": "bullisch",
-      "score": 4,
-      "grund": "Eigene falkenhafte Geschichte (RBNZ 2,75 %, weitere Erhöhung in Aussicht), aber die NZD-Zins-Differenz stieg diese Woche am schwächsten → moderat."
+      "stimmung": "neutral",
+      "score": 2,
+      "grund": "Eigene falkenhafte RBNZ-Geschichte (2,75 %, weitere Erhoehung in Aussicht), aber die NZD-Zins-Differenz stieg am schwaechsten (+0,06) und das Risk-off bremst → moderat."
     }
   },
   "paare": [
     {
       "paar": "EUR/USD",
-      "score": -2,
-      "treiber": "EZB-Erhöhung heute weitgehend eingepreist + teures Öl belastet den Euro; der Dollar ist aber weich (vierter Verlusttag) und die Zins-Differenz spricht für den Euro → nur leicht negativ. (Track-Record des Paars schwach, 25 % → bewusst nahe null.)"
+      "score": -3,
+      "treiber": "EZB-Erhoehung gestern eingepreist + teures Oel belastet den Euro, waehrend der Dollar Freitagfrueh vor dem CPI fester dreht → leicht negativ. (Track-Record des Paars schwach → bewusst nahe null.)"
     },
     {
       "paar": "GBP/USD",
       "score": -2,
-      "treiber": "Pfund ohne eigenen Notenbank-Treiber trifft auf den festen Dollar-Block; die stark gestiegene 2-Jahres-Rendite federt aber ab."
+      "treiber": "Pfund ohne eigenen Notenbank-Treiber trifft auf den festeren Dollar; die stark gestiegene 2-Jahres-Rendite (+0,45) federt ab."
     },
     {
       "paar": "USD/JPY",
-      "score": 2,
-      "treiber": "Yen zuletzt fester (BoJ-/Interventions-Spekulation) gegen teures Öl + Mini-Zins — ausgeglichen; Track-Record des Paars schwach (25 %) → bewusst nahe null."
+      "score": 4,
+      "treiber": "Teures Oel + Mini-Zins belasten den Yen, der festere Dollar hebt das Paar; das zurueckkehrende Risk-off gibt dem Yen aber etwas Hafen-Gegenwehr. Track-Record schwach → modest."
     },
     {
       "paar": "AUD/USD",
-      "score": 2,
-      "treiber": "Risk-on + Hochzins + entschärftes China-Risiko lösen den Aussie leicht vom weichen Dollar-Block nach oben."
+      "score": -1,
+      "treiber": "Risk-off (VIX +23 %) trimmt den Aussie, gegen den festeren Dollar bleibt nur noch wenig uebrig → nahe null."
     },
     {
       "paar": "USD/CAD",
       "score": -4,
-      "treiber": "Öl-Sprung (Brent über 100 $) + falkenhafte Bank of Canada geben dem Loonie klar die Oberhand — trotz der schwachen Jobs bleibt der Öl-Rückenwind der Treiber."
+      "treiber": "Oel-Sprung (WTI ueber 103 $) + falkenhafte Bank of Canada geben dem Loonie klar die Oberhand — der Oel-Rueckenwind bleibt der Treiber trotz schwacher Jobs und crowded-short-Positionierung."
     },
     {
       "paar": "USD/CHF",
-      "score": 4,
-      "treiber": "Franken-Abfluss (Risk-on, kein Sicherheits-Bedarf) + teures Öl belastet die Schweiz als Importeur → Dollar-Seite leicht vorn."
+      "score": 3,
+      "treiber": "Franken als Energie-Importeur belastet + festerer Dollar → Dollar-Seite vorn; das Risk-off gibt dem Franken aber etwas Hafen-Gegenwehr → nur leicht positiv."
     },
     {
       "paar": "NZD/USD",
-      "score": -1,
-      "treiber": "RBNZ-Erhöhung ist die eigene Kiwi-Geschichte, aber der Dollar ist weich und die NZD-Zins-Differenz am schwächsten → nahe null."
+      "score": -2,
+      "treiber": "RBNZ-Erhoehung ist die eigene Kiwi-Geschichte, aber die schwaechste Zins-Differenz + Risk-off + festerer Dollar druecken → leicht negativ."
     }
   ],
   "wochenausblick": {
@@ -187,21 +187,19 @@
     "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-    "stand": "2026-09-10",
-    "wochentag": "Donnerstag",
-    "tenor": "Der große Tag ist da: HEUTE entscheidet die EZB (14:15 Wien), gleichzeitig kommen die US-Erzeugerpreise (14:30) — MORGEN folgt die US-Verbraucher-Inflation als eigentlicher Schiedsrichter. Der Dollar bleibt weich (Index ~98,7, vierter Verlusttag in Folge), der Euro hält sich fest über 1,16. Neu und laut: Öl ist übers Wochenende weiter gestiegen — Brent über 100 $, WTI ~96 $ (+6 % auf Wochensicht, Nahost) = kräftiger Rückenwind für Kanada, Gegenwind für Euro und Yen. Gold notiert auf Rekord (~4.460 $).",
+    "stand": "2026-09-11",
+    "wochentag": "Freitag",
+    "tenor": "HEUTE ist Zahltag: Die US-Verbraucher-Inflation (CPI) um 14:30 Wien ist der Schiedsrichter direkt vor der Fed-Sitzung naechste Woche (15./16.9.). Der grosse Treiber bleibt das Oel: WTI ueber 103 $, Brent ueber 108 $ (+13 % auf Wochensicht) — das schuert die Inflationssorge, drueckt die US-Zinsen fast auf 5 % (10 Jahre 4,94 %) und laesst das Angst-Barometer VIX um 23 % auf 17,8 hochschnellen. Der Dollar findet dadurch wieder etwas Boden, der Euro tut sich trotz gestriger EZB-Erhoehung schwer (Oel belastet die Energie-Importeure Europa und Japan). Klarer Gewinner bleibt das Oel-Land Kanada.",
     "heute": [
-      "🇪🇺 EZB-Zinsentscheid HEUTE 14:15 Wien: Eine Erhöhung um 0,25 auf 2,50 % (Einlagensatz) ist zu ~99 % eingepreist — der Schritt selbst bewegt also kaum etwas. Entscheidend ist der TON von Chefin Lagarde in der Pressekonferenz um 14:45: Klingt sie zufrieden/vorsichtig (taubenhaft), kann der Euro trotz der Erhöhung nachgeben; deutet sie weitere Schritte an (falkenhaft), stützt das den Euro. 'Kaufe das Gerücht, verkaufe die Tatsache' ist hier das Risiko.",
-      "🇺🇸 US-Erzeugerpreise (PPI) HEUTE 14:30 Wien: die Preise auf Großhandels-/Fabrikebene — der Vorbote für die wichtigere Verbraucher-Inflation morgen. Erwartet wird eine milde Rate; ein heißer Wert würde die Sorge vor zäher Inflation (und damit den Dollar) neu befeuern.",
-      "💵 Dollar weich, aber mit Boden: Index ~98,7 (vierter Verlusttag), EUR/USD über 1,16. Die Fed-Erhöhungs-Wette für den 16./17.9. liegt bei rund 58–60 % (Münzwurf mit Ja-Übergewicht nach dem starken Jobbericht) — eine Reuters-Umfrage unter Ökonomen sieht die Fed dieses Jahr dagegen eher STILLHALTEN. Gold nahe Rekord (~4.460 $), VIX ~16 (moderat). Die Zins-Differenzen (2 Jahre) stiegen diese Woche bei Euro, Pfund und Loonie stärker als beim Dollar = leichter Gegenwind für den Greenback.",
-      "🛢️ Öl-Sprung geht weiter: Brent über die runde 100-$-Marke, WTI ~96 $ (+6 % auf Wochensicht) nach den US-Iran-Schlägen und Hormus-Drohungen. Das ist die frische Inflationssorge, die die US-Zinsen oben und den Dollar am Boden hält — und gleichzeitig klarer Rückenwind fürs Öl-Land Kanada, Gegenwind für die Energie-Importeure Euro und Japan."
+      "🇺🇸 US-Verbraucher-Inflation (CPI) HEUTE 14:30 Wien = DAS Event: Erwartet werden 3,4 % zum Vorjahr und eine Kernrate von +0,2 % zum Vormonat. Nach den heissen Erzeugerpreisen gestern (Energie treibt) ist das Risiko eines hoeheren Werts real. Kommt sie heiss → Angst vor einer Fed-Erhoehung + fester Dollar; kommt sie mild → Erleichterung. Direkt vor der Fed-Sitzung naechste Woche (15./16.9.) zaehlt jede Nachkommastelle.",
+      "🛢️ Oel-Sprung eskaliert weiter: WTI ueber 103 $, Brent ueber 108 $ (+13 % auf Wochensicht) nach neuer US-Iran-Eskalation und Hormus-Drohungen. Das ist der Motor hinter allem: Inflationssorge → US-Zinsen fast 5 % → Nachfrage nach Sicherheit (VIX +23 % auf 17,8). Rueckenwind fuer das Oel-Land Kanada, Gegenwind fuer die Energie-Importeure Euro, Yen und Franken.",
+      "💵 Dollar findet Boden: Index ~99, Freitagfrueh aber fester Richtung Jahreshoch, weil das teure Oel die Zins- und Sicherheits-Wette pro Dollar dreht. Gold gab vom Rekord etwas nach (~4.360 $, −3 % auf Wochensicht) — hoehere Realzinsen + Gewinnmitnahmen. 🇬🇧 Nebenbei kommt heute frueh das UK-Wachstum."
     ],
     "gestern": [
-      "🇨🇳 Mi 9.9: China-Inflation August +0,8 % zum Vorjahr (wie erwartet, von +0,5 %), Kernrate +1,0 %; die Erzeugerpreise überraschten mit +3,8 % nach oben. Heißt: Chinas Deflations-Gefahr lässt nach — ein kleiner Rückenwind für die rohstoffnahen Währungen Aussie & Kiwi, das 'China-Risiko' vom Wochenanfang ist entschärft.",
-      "🇺🇸 Fr 4.9: US-Jobbericht August +162.000 Stellen (RIESEN-Beat vs. ~55.000 erwartet), Quote 4,1 %, Löhne +3,1 % Jahr → starker Arbeitsmarkt. Trotzdem verhaltene Dollar-Reaktion, weil Fed-Mann Waller zuvor eine Zins-PAUSE andeutete (Chef Warsh bleibt Falke) → Erhöhungs-Wette blieb ein Münzwurf.",
-      "🇨🇦 Fr 4.9: Kanada verlor −41.700 Jobs (erwartet +15.000), Quote 6,4 % — schwach; ABER das teure Öl + die falkenhafte Bank of Canada stützen den Loonie von der Gegenseite (widerstreitende Kräfte).",
-      "🇳🇿🇦🇺 Anfang der Woche: RBNZ erhöhte auf 2,75 % (zweite Erhöhung in Folge, weitere in Aussicht) → Kiwi-Rückenwind; Australien-Wachstum Q2 +0,4 % (über Konsens) stützt den Aussie.",
-      "🧭 Woche-über-Woche: Öl dominiert (+6 %, Brent über 100 $), Gold auf Rekord (~4.460 $); Dollar-Index unter 99 (vierter Verlusttag); die 2-Jahres-Zins-Differenzen drehten diese Woche leicht GEGEN den Dollar (Euro/Pfund/Loonie holen auf)."
+      "🇪🇺 Do 10.9: Die EZB ERHOEHTE zum zweiten Mal auf 2,50 % (Einlagensatz). Chefin Lagarde nannte den Schritt einen einstimmigen \"No-Brainer\" und liess die Tuer fuer weitere Erhoehungen weit offen (falkenhaft — der Markt preist bis Herbst 2027 rund 0,88 % zusaetzliche Straffung). Trotzdem konnte der Euro kaum zulegen: das teure Oel belastet die Euro-Zone als Energie-Importeur (\"kaufe das Geruecht, verkaufe die Tatsache\").",
+      "🇺🇸 Do 10.9: Die US-Erzeugerpreise (PPI) kamen HEISS mit +0,4 % zum Vormonat (ueber der milden Erwartung), getrieben von Energie (+4,2 %) und Diesel (+24 %); Kernrate +0,3 %. Das befeuerte die Inflationssorge → die US-10-Jahres-Rendite schoss Richtung 5 % (4,94 %).",
+      "🇨🇳 Mi 9.9: China-Inflation +0,8 % zum Vorjahr (wie erwartet, von +0,5 %), Erzeugerpreise ueberraschend +3,8 % → Chinas Deflations-Gefahr laesst nach = kleiner Rueckenwind fuer die Rohstoff-Waehrungen Aussie und Kiwi.",
+      "🧭 Woche-ueber-Woche: Das Oel dominiert alles (+13 %, Brent ueber 108 $), der VIX sprang +23 % (Risk-off kehrt zurueck), die US-Zinsen liegen nahe 5 %, Gold gab vom Rekord nach (−3 %). Der Dollar drehte von weich auf fest — das teure Oel kippt die Zins- und Sicherheits-Wette zu seinen Gunsten."
     ]
   }
 }

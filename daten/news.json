@@ -1,11 +1,35 @@
 {
-  "stand": "2026-09-11T14:44:41.054Z",
+  "stand": "2026-09-11T15:45:18.265Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
+      "link": "https://www.fxstreet.com/news/british-pound-shakes-off-us-cpi-jolt-as-uk-growth-steals-spotlight-202609111531",
+      "datum": "2026-09-11T15:31:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar holds firm as hotter US inflation fails to cement Greenback's advantage",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-as-hotter-us-inflation-fails-to-cement-greenbacks-advantage-202609111519",
+      "datum": "2026-09-11T15:19:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Exports support output as property drags – DBS",
+      "link": "https://www.fxstreet.com/news/china-exports-support-output-as-property-drags-dbs-202609111502",
+      "datum": "2026-09-11T15:02:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Taiwan: AI boom sustains trade surplus – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-ai-boom-sustains-trade-surplus-commerzbank-202609111449",
+      "datum": "2026-09-11T14:49:06.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Japan: BoJ tightening path in focus – ING",
@@ -73,30 +97,6 @@
       "datum": "2026-09-11T13:35:56.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "European Central Bank: Hawkish rate path supports Euro – UOB",
-      "link": "https://www.fxstreet.com/news/european-central-bank-hawkish-rate-path-supports-euro-uob-202609111326",
-      "datum": "2026-09-11T13:26:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Japan: Hawkish hike prospects grow – DBS",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-hike-prospects-grow-dbs-202609111316",
-      "datum": "2026-09-11T13:16:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen strengthens as US inflation fails to sustain Dollar rebound",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-us-inflation-fails-to-sustain-dollar-rebound-202609111304",
-      "datum": "2026-09-11T13:04:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro steadies against US Dollar after volatile reaction to US CPI",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-us-dollar-after-volatile-reaction-to-us-cpi-202609111302",
-      "datum": "2026-09-11T13:02:26.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US August CPI 3.4% vs 3.4% expected",
       "link": "https://investinglive.com/news/us-august-cpi-vs-3-4-expected/",
@@ -110,7 +110,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold rallies despite stronger Fed rate-hike expectations following US CPI",
+      "titel": "Gold rebounds but Fed rate hike bets risks remain a headwind",
       "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059",
       "datum": "2026-09-11T10:59:22.000Z"
     }

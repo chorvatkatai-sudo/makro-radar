@@ -1,11 +1,11 @@
 {
-  "stand": "2026-09-11T14:44:41.060Z",
+  "stand": "2026-09-11T15:45:18.273Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 54,
-  "gewertet": 27,
-  "nichtWertbar": 27,
+  "gewertet": 28,
+  "nichtWertbar": 26,
   "treffer": 15,
-  "quote": 56,
+  "quote": 54,
   "zinsentscheide": {
     "treffer": 8,
     "gesamt": 8,
@@ -13,18 +13,18 @@
   },
   "datenPrognosen": {
     "treffer": 7,
-    "gesamt": 19,
-    "quote": 37
+    "gesamt": 20,
+    "quote": 35
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
-    "gesamt": 11,
-    "quote": 55
+    "gesamt": 12,
+    "quote": 50
   },
   "exakt": {
     "treffer": 2,
-    "gesamt": 4,
-    "quote": 50
+    "gesamt": 5,
+    "quote": 40
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "Australien: RBA-Zinsentscheid",
-      "datum": "2026-08-11",
-      "richtung": "wie_erwartet",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "4.35%",
-      "ist": "4.35%",
-      "treffer": true
-    },
     {
       "event": "Großbritannien: BIP (Vorabschätzung Q2)",
       "datum": "2026-08-13",
@@ -94,6 +85,15 @@
       "konsens": "2.65%",
       "ist": "2.65%",
       "treffer": true
+    },
+    {
+      "event": "US-Inflation CPI (August, Kernrate m/m)",
+      "datum": "2026-09-11",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "hoeher",
+      "konsens": "0.2%",
+      "ist": "0.3%",
+      "treffer": false
     },
     {
       "event": "US-Erzeugerpreise PPI (August, m/m)",

@@ -1,11 +1,41 @@
 {
-  "stand": "2026-09-11T15:45:18.265Z",
+  "stand": "2026-09-11T18:03:14.898Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold price dodges CPI shock as US yields hand bulls lifeline",
+      "link": "https://www.fxstreet.com/news/gold-price-dodges-cpi-shock-as-us-yields-hand-bulls-lifeline-202609111731",
+      "datum": "2026-09-11T17:31:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB rate hike gives Euro little to work with as Pound holds firm",
+      "link": "https://www.fxstreet.com/news/ecb-rate-hike-gives-euro-little-to-work-with-as-pound-holds-firm-202609111642",
+      "datum": "2026-09-11T16:42:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver erases post-CPI slump, rebounds from three-week low",
+      "link": "https://www.fxstreet.com/news/silver-erases-post-cpi-slump-rebounds-from-three-week-low-202609111622",
+      "datum": "2026-09-11T16:22:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average rallies all session as long yields back off",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-all-session-as-long-yields-back-off-202609111614",
+      "datum": "2026-09-11T16:14:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil Price Forecast: corrects lower after reaching overbought levels",
+      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-corrects-lower-after-reaching-overbought-levels-202609111602",
+      "datum": "2026-09-11T16:02:34.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
@@ -43,34 +73,10 @@
       "datum": "2026-09-11T14:35:32.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "India: Inflation pressures point to tighter bias – DBS",
-      "link": "https://www.fxstreet.com/news/india-inflation-pressures-point-to-tighter-bias-dbs-202609111421",
-      "datum": "2026-09-11T14:21:52.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "UMich September consumer sentiment 47.8 vs 51.0 expected",
       "link": "https://investinglive.com/news/umich-september-consumer-sentiment-47-8-vs-51-0-expected/",
       "datum": "2026-09-11T14:12:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
-      "datum": "2026-09-11T14:09:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Growth outlook strengthens with AI-driven services – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-growth-outlook-strengthens-with-ai-driven-services-deutsche-bank-202609111408",
-      "datum": "2026-09-11T14:08:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US UoM Consumer Sentiment Index is seen at 47.8 in September",
-      "link": "https://www.fxstreet.com/news/us-uom-consumer-sentiment-index-is-seen-at-478-in-september-202609111405",
-      "datum": "2026-09-11T14:05:04.000Z"
     },
     {
       "quelle": "Fed",
@@ -83,12 +89,6 @@
       "titel": "Some anniversaries aren’t meant to be celebrated. They are simply remembered and never forgotten.",
       "link": "https://investinglive.com/news/some-anniversaries-aren-t-meant-to-be-celebrated-they-are-simply-remembered-and-never-forgotten/",
       "datum": "2026-09-11T13:56:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Polish Zloty: Dovish stance leaves PLN vulnerable against Euro – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-stance-leaves-pln-vulnerable-against-euro-ing-202609111343",
-      "datum": "2026-09-11T13:43:02.000Z"
     },
     {
       "quelle": "ForexLive",

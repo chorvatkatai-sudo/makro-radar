@@ -1125,7 +1125,7 @@
     "title": "17-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.895%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1154,7 +1154,7 @@
     "country": "USD",
     "title": "Fed Interest Rate Decision",
     "impact": "High",
-    "forecast": "",
+    "forecast": "4%",
     "previous": "3.75%",
     "actual": null,
     "quelle": "tradingview"
@@ -1774,7 +1774,7 @@
     "country": "JPY",
     "title": "Core Inflation Rate YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.8%",
     "previous": "1.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -1892,6 +1892,16 @@
   {
     "date": "2026-09-18T13:15:00.000Z",
     "country": "USD",
+    "title": "Industrial Production YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.1%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-18T13:15:00.000Z",
+    "country": "USD",
     "title": "Manufacturing Production MoM",
     "impact": "Low",
     "forecast": "",
@@ -1912,16 +1922,6 @@
   {
     "date": "2026-09-18T13:15:00.000Z",
     "country": "USD",
-    "title": "Industrial Production YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.1%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-18T13:15:00.000Z",
-    "country": "USD",
     "title": "Capacity Utilization",
     "impact": "Low",
     "forecast": "",
@@ -1936,6 +1936,16 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "0.2%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-18T13:30:00.000Z",
+    "country": "USD",
+    "title": "Fed Bowman Speech",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },

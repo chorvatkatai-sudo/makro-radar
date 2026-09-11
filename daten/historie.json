@@ -12600,6 +12600,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-11T13:58:00-04:00|USD|Federal Budget Balance": {
+      "datum": "2026-09-11T13:58:00-04:00",
+      "land": "USD",
+      "titel": "Federal Budget Balance",
+      "impact": "Low",
+      "prognose": "-221.1B",
+      "vorher": "-432.3B",
+      "actual": null,
+      "notiz": null
     }
   }
 }

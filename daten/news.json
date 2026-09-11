@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-11T10:19:59.957Z",
+  "stand": "2026-09-11T14:44:41.054Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: Support at 1.3495 under pressure against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-support-at-13495-under-pressure-against-us-dollar-uob-202609110958",
-      "datum": "2026-09-11T09:58:34.000Z"
+      "titel": "Japan: BoJ tightening path in focus – ING",
+      "link": "https://www.fxstreet.com/news/japan-boj-tightening-path-in-focus-ing-202609111436",
+      "datum": "2026-09-11T14:36:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar steadies vs Japanese Yen as hawkish RBA signals offset JPY strength",
-      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-vs-japanese-yen-as-hawkish-rba-signals-offset-jpy-strength-202609110945",
-      "datum": "2026-09-11T09:45:29.000Z"
+      "titel": "Swiss Franc struggles even as US Dollar gives back CPI-led gains",
+      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-even-as-us-dollar-gives-back-cpi-led-gains-202609111435",
+      "datum": "2026-09-11T14:35:32.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Czech Koruna: CZK faces downside risks against Euro into CNB – ING",
-      "link": "https://www.fxstreet.com/news/czech-koruna-czk-faces-downside-risks-against-euro-into-cnb-ing-202609110943",
-      "datum": "2026-09-11T09:43:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD clings to a key support area around $4,300",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-clings-to-a-key-support-area-around-4-300-202609110939",
-      "datum": "2026-09-11T09:39:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609110932",
-      "datum": "2026-09-11T09:32:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Hawkish ECB fails to lift Euro – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-fails-to-lift-euro-commerzbank-202609110930",
-      "datum": "2026-09-11T09:30:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar underperforms as Oil prices correct significantly",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-underperforms-as-oil-prices-correct-significantly-202609110923",
-      "datum": "2026-09-11T09:23:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swedish Krona: Higher Oil and ECB stance pressure currency – Danske Bank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-higher-oil-and-ecb-stance-pressure-currency-danske-bank-202609110916",
-      "datum": "2026-09-11T09:16:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: CPI outcome to steer rate expectations – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-rate-expectations-mufg-202609110902",
-      "datum": "2026-09-11T09:02:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Flat lines near 1.3500 as bulls shrug off UK GDP ahead of US CPI",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-flat-lines-near-13500-as-bulls-shrug-off-uk-gdp-ahead-of-us-cpi-202609110859",
-      "datum": "2026-09-11T08:59:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US core CPI set to show a small decline, testing odds of a September Fed rate hike",
-      "link": "https://www.fxstreet.com/news/us-core-cpi-data-set-to-ease-in-august-as-markets-reprice-fed-september-rate-decision-202609110830",
-      "datum": "2026-09-11T08:30:00.000Z"
+      "titel": "India: Inflation pressures point to tighter bias – DBS",
+      "link": "https://www.fxstreet.com/news/india-inflation-pressures-point-to-tighter-bias-dbs-202609111421",
+      "datum": "2026-09-11T14:21:52.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Yemen's Iran-backed Houthis have completed the takeover of Bab el-Mandeb Strait",
-      "link": "https://investinglive.com/news/yemen-s-iran-backed-houthis-have-completed-the-takeover-of-bab-el-mandeb-strait/",
-      "datum": "2026-09-11T08:25:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What is the distribution of forecasts for the US CPI?",
-      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-1/",
-      "datum": "2026-09-11T07:18:57.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran gains stronger leverage as oil surges above $100, forcing urgent diplomatic solutions",
-      "link": "https://investinglive.com/news/iran-gains-stronger-leverage-as-oil-surges-above-100-forcing-urgent-diplomatic-solutions/",
-      "datum": "2026-09-11T06:57:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK July monthly GDP +0.4% vs 0.0% m/m expected",
-      "link": "https://investinglive.com/news/uk-july-monthly-gdp-xx-vs-0-0-m-m-expected/",
-      "datum": "2026-09-11T06:00:10.000Z"
+      "titel": "UMich September consumer sentiment 47.8 vs 51.0 expected",
+      "link": "https://investinglive.com/news/umich-september-consumer-sentiment-47-8-vs-51-0-expected/",
+      "datum": "2026-09-11T14:12:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee extends downtrend ahead of US CPI data",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-decline-on-fresh-escalation-in-hawkish-fed-bets-202609110534",
-      "datum": "2026-09-11T05:34:21.000Z"
+      "titel": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
+      "datum": "2026-09-11T14:09:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: Growth outlook strengthens with AI-driven services – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-growth-outlook-strengthens-with-ai-driven-services-deutsche-bank-202609111408",
+      "datum": "2026-09-11T14:08:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US UoM Consumer Sentiment Index is seen at 47.8 in September",
+      "link": "https://www.fxstreet.com/news/us-uom-consumer-sentiment-index-is-seen-at-478-in-september-202609111405",
+      "datum": "2026-09-11T14:05:04.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+      "datum": "2026-09-11T14:00:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-40/",
-      "datum": "2026-09-11T04:40:09.000Z"
+      "titel": "Some anniversaries aren’t meant to be celebrated. They are simply remembered and never forgotten.",
+      "link": "https://investinglive.com/news/some-anniversaries-aren-t-meant-to-be-celebrated-they-are-simply-remembered-and-never-forgotten/",
+      "datum": "2026-09-11T13:56:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Polish Zloty: Dovish stance leaves PLN vulnerable against Euro – ING",
+      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-stance-leaves-pln-vulnerable-against-euro-ing-202609111343",
+      "datum": "2026-09-11T13:43:02.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil holds near highs",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-highs/",
-      "datum": "2026-09-11T03:45:12.000Z"
+      "titel": "Back up the garbage truck: A look at how AI will impact margins in AI",
+      "link": "https://investinglive.com/news/back-of-the-garbage-truck-a-look-at-how-ai-will-impact-margins-in-ai/",
+      "datum": "2026-09-11T13:35:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: Hawkish rate path supports Euro – UOB",
+      "link": "https://www.fxstreet.com/news/european-central-bank-hawkish-rate-path-supports-euro-uob-202609111326",
+      "datum": "2026-09-11T13:26:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Japan: Hawkish hike prospects grow – DBS",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-hike-prospects-grow-dbs-202609111316",
+      "datum": "2026-09-11T13:16:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen strengthens as US inflation fails to sustain Dollar rebound",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-us-inflation-fails-to-sustain-dollar-rebound-202609111304",
+      "datum": "2026-09-11T13:04:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro steadies against US Dollar after volatile reaction to US CPI",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-us-dollar-after-volatile-reaction-to-us-cpi-202609111302",
+      "datum": "2026-09-11T13:02:26.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US August CPI 3.4% vs 3.4% expected",
+      "link": "https://investinglive.com/news/us-august-cpi-vs-3-4-expected/",
+      "datum": "2026-09-11T12:30:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: The calm before the storm?",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-the-calm-before-the-storm/",
+      "datum": "2026-09-11T11:40:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold rallies despite stronger Fed rate-hike expectations following US CPI",
+      "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059",
+      "datum": "2026-09-11T10:59:22.000Z"
     }
   ]
 }

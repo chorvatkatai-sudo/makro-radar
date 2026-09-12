@@ -1,20 +1,14 @@
 {
-  "wochenAusgewertet": 12,
-  "treffer": 36,
-  "gesamt": 85,
-  "quote": 42,
+  "wochenAusgewertet": 13,
+  "treffer": 43,
+  "gesamt": 96,
+  "quote": 45,
   "wochenErfasst": 13,
   "proPaar": {
     "USD/JPY": {
       "treffer": 3,
-      "gesamt": 12,
+      "gesamt": 13,
       "letzte": [
-        {
-          "woche": "2026-07-27",
-          "treffer": false,
-          "score": 13,
-          "move": -2.08
-        },
         {
           "woche": "2026-08-03",
           "treffer": false,
@@ -44,21 +38,21 @@
           "treffer": false,
           "score": 9,
           "move": -2.18
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": false,
+          "score": 7,
+          "move": -0.46
         }
       ],
-      "quote": 25,
+      "quote": 23,
       "konfidenz": "niedrig"
     },
     "EUR/USD": {
-      "treffer": 3,
-      "gesamt": 12,
+      "treffer": 4,
+      "gesamt": 13,
       "letzte": [
-        {
-          "woche": "2026-07-27",
-          "treffer": false,
-          "score": -6,
-          "move": 0.84
-        },
         {
           "woche": "2026-08-03",
           "treffer": false,
@@ -88,21 +82,21 @@
           "treffer": false,
           "score": -1,
           "move": 0.22
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": true,
+          "score": -1,
+          "move": -0.26
         }
       ],
-      "quote": 25,
+      "quote": 31,
       "konfidenz": "niedrig"
     },
     "GBP/USD": {
-      "treffer": 6,
-      "gesamt": 12,
+      "treffer": 7,
+      "gesamt": 13,
       "letzte": [
-        {
-          "woche": "2026-07-27",
-          "treffer": false,
-          "score": -10,
-          "move": 0.79
-        },
         {
           "woche": "2026-08-03",
           "treffer": false,
@@ -132,21 +126,21 @@
           "treffer": true,
           "score": -9,
           "move": -0.07
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": true,
+          "score": -4,
+          "move": -0.17
         }
       ],
-      "quote": 50,
+      "quote": 54,
       "konfidenz": "mittel"
     },
     "AUD/USD": {
       "treffer": 6,
-      "gesamt": 11,
+      "gesamt": 12,
       "letzte": [
-        {
-          "woche": "2026-07-20",
-          "treffer": true,
-          "score": -3,
-          "move": -0.27
-        },
         {
           "woche": "2026-08-03",
           "treffer": false,
@@ -176,21 +170,21 @@
           "treffer": true,
           "score": 1,
           "move": 0.58
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": false,
+          "score": 2,
+          "move": -0.58
         }
       ],
-      "quote": 55,
+      "quote": 50,
       "konfidenz": "mittel"
     },
     "NZD/USD": {
-      "treffer": 6,
-      "gesamt": 11,
+      "treffer": 7,
+      "gesamt": 12,
       "letzte": [
-        {
-          "woche": "2026-07-27",
-          "treffer": false,
-          "score": -4,
-          "move": 1.22
-        },
         {
           "woche": "2026-08-03",
           "treffer": true,
@@ -220,21 +214,21 @@
           "treffer": true,
           "score": -7,
           "move": -0.57
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": true,
+          "score": -7,
+          "move": -0.93
         }
       ],
-      "quote": 55,
+      "quote": 58,
       "konfidenz": "mittel"
     },
     "USD/CAD": {
-      "treffer": 4,
-      "gesamt": 12,
+      "treffer": 5,
+      "gesamt": 13,
       "letzte": [
-        {
-          "woche": "2026-07-27",
-          "treffer": false,
-          "score": 2,
-          "move": -0.45
-        },
         {
           "woche": "2026-08-03",
           "treffer": true,
@@ -264,21 +258,21 @@
           "treffer": false,
           "score": 6,
           "move": -0.62
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": true,
+          "score": 4,
+          "move": 0.27
         }
       ],
-      "quote": 33,
+      "quote": 38,
       "konfidenz": "niedrig"
     },
     "USD/CHF": {
-      "treffer": 5,
-      "gesamt": 11,
+      "treffer": 6,
+      "gesamt": 12,
       "letzte": [
-        {
-          "woche": "2026-07-20",
-          "treffer": true,
-          "score": 9,
-          "move": 1.15
-        },
         {
           "woche": "2026-07-27",
           "treffer": false,
@@ -308,62 +302,92 @@
           "treffer": true,
           "score": 12,
           "move": 0.08
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": true,
+          "score": 11,
+          "move": 0.75
         }
       ],
-      "quote": 45,
+      "quote": 50,
       "konfidenz": "mittel"
     },
     "EUR/GBP": {
       "treffer": 1,
-      "gesamt": 1,
+      "gesamt": 2,
       "letzte": [
         {
           "woche": "2026-08-31",
           "treffer": true,
           "score": 5,
           "move": 0.29
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": false,
+          "score": 3,
+          "move": -0.09
         }
       ],
-      "quote": 100,
+      "quote": 50,
       "konfidenz": "duenn"
     },
     "EUR/JPY": {
       "treffer": 0,
-      "gesamt": 1,
+      "gesamt": 2,
       "letzte": [
         {
           "woche": "2026-08-31",
           "treffer": false,
           "score": 6,
           "move": -1.96
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": false,
+          "score": 7,
+          "move": -0.72
         }
       ],
       "quote": 0,
       "konfidenz": "duenn"
     },
     "AUD/NZD": {
-      "treffer": 1,
-      "gesamt": 1,
+      "treffer": 2,
+      "gesamt": 2,
       "letzte": [
         {
           "woche": "2026-08-31",
           "treffer": true,
           "score": 9,
           "move": 1.15
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": true,
+          "score": 10,
+          "move": 0.35
         }
       ],
       "quote": 100,
       "konfidenz": "duenn"
     },
     "EUR/CHF": {
-      "treffer": 1,
-      "gesamt": 1,
+      "treffer": 2,
+      "gesamt": 2,
       "letzte": [
         {
           "woche": "2026-08-31",
           "treffer": true,
           "score": 9,
           "move": 0.31
+        },
+        {
+          "woche": "2026-09-07",
+          "treffer": true,
+          "score": 11,
+          "move": 0.49
         }
       ],
       "quote": 100,
@@ -374,9 +398,9 @@
     "schwach": {
       "min": 1,
       "max": 25,
-      "treffer": 33,
-      "gesamt": 78,
-      "quote": 42
+      "treffer": 40,
+      "gesamt": 89,
+      "quote": 45
     },
     "mittel": {
       "min": 26,
@@ -394,37 +418,31 @@
     }
   },
   "wochenWette": {
-    "treffer": 4,
-    "gesamt": 12,
-    "quote": 33,
+    "treffer": 5,
+    "gesamt": 13,
+    "quote": 38,
     "konzentration": 87,
-    "usdWertungen": 81,
+    "usdWertungen": 88,
     "zufallsband": [
       3,
-      9
+      10
     ],
     "vomZufallUnterscheidbar": false
   },
   "overlayVergleich": {
     "seit": "2026-07-22",
     "mitOverlay": {
-      "treffer": 22,
-      "gesamt": 44,
-      "quote": 50
+      "treffer": 28,
+      "gesamt": 54,
+      "quote": 52
     },
     "nurBase": {
-      "treffer": 23,
-      "gesamt": 44,
-      "quote": 52
+      "treffer": 29,
+      "gesamt": 54,
+      "quote": 54
     }
   },
   "letzte": [
-    {
-      "woche": "2026-07-27",
-      "quote": 0,
-      "treffer": 0,
-      "gesamt": 6
-    },
     {
       "woche": "2026-08-03",
       "quote": 33,
@@ -451,6 +469,12 @@
     },
     {
       "woche": "2026-08-31",
+      "quote": 64,
+      "treffer": 7,
+      "gesamt": 11
+    },
+    {
+      "woche": "2026-09-07",
       "quote": 64,
       "treffer": 7,
       "gesamt": 11

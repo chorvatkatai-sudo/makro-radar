@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-11T21:28:40.069Z",
+  "stand": "2026-09-12T05:05:25.159Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,13 +8,19 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-202609112201",
+      "datum": "2026-09-11T22:01:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121",
       "datum": "2026-09-11T21:21:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 11 Sept: US CPI keeps Fed raises odds for Fed rate hike",
+      "titel": "investingLive Americas FX news wrap 11 Sept: US CPI raises odds for Fed rate hike",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-sept-us-cpi-keeps-fed-raises-odds-for-fed-rate-hike/",
       "datum": "2026-09-11T21:18:48.000Z"
     },
@@ -77,12 +83,6 @@
       "titel": "Japanese Yen rises as the Greenback's inflation bounce fades",
       "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-the-greenbacks-inflation-bounce-fades-202609111837",
       "datum": "2026-09-11T18:37:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index retreats from post-CPI high, all eyes on Fed",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-post-cpi-high-all-eyes-on-fed-202609111808",
-      "datum": "2026-09-11T18:08:27.000Z"
     },
     {
       "quelle": "ForexLive",

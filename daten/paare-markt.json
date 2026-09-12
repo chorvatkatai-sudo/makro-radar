@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-11T21:28:40.070Z",
+  "stand": "2026-09-12T05:04:10.873Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -27,13 +27,13 @@
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 4,
+      "baseScore": 3,
       "tiltCot": 0,
       "tiltZins": 8,
       "tiltGesamt": 8,
-      "score": 12,
+      "score": 11,
       "cotExtrem": null,
-      "treiber": "Teures Oel + Mini-Zins belasten den Yen, der festere Dollar hebt das Paar; das zurueckkehrende Risk-off gibt dem Yen aber etwas Hafen-Gegenwehr. Track-Record schwach → modest.",
+      "treiber": "Teures Oel + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; dagegen drehte die Spekulanten-Positionierung (COT) wieder netto-long auf den Yen + Risk-off-Hafen-Nachfrage. Schlechtester Track-Record → bewusst modest.",
       "istCross": false
     },
     {
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -4,
+      "baseScore": -3,
       "tiltCot": 4,
       "tiltZins": -4,
       "tiltGesamt": 0,
-      "score": -4,
+      "score": -3,
       "cotExtrem": null,
-      "treiber": "Oel-Sprung (WTI ueber 103 $) + falkenhafte Bank of Canada geben dem Loonie klar die Oberhand — der Oel-Rueckenwind bleibt der Treiber trotz schwacher Jobs und crowded-short-Positionierung.",
+      "treiber": "Oel (+8 % Woche) + falkenhafte Bank of Canada geben dem Loonie die Oberhand; der Freitags-Ruecksetzer beim Oel (von 110 $ auf 100 $) und die schwachen Jobs trimmen aber die Ueberzeugung.",
       "istCross": false
     },
     {
@@ -93,11 +93,11 @@
     },
     {
       "paar": "EUR/JPY",
-      "baseScore": 2,
+      "baseScore": 1,
       "tiltCot": -1,
       "tiltZins": 6,
       "tiltGesamt": 5,
-      "score": 7,
+      "score": 6,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

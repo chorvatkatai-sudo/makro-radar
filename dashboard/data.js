@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-11T21:28:40.887Z",
+ "erstellt": "2026-09-12T05:04:10.884Z",
  "wochenStart": "2026-09-06",
  "events": [
   {
@@ -2925,8 +2925,8 @@ window.MAKRO_DATA = {
    },
    "JPY": {
     "stimmung": "neutral",
-    "score": -2,
-    "grund": "Doppelter Gegenwind: Mini-Zins 1,00 % + teures Oel belastet den Energie-Importeur Japan. Dagegen gibt das zurueckkehrende Risk-off (VIX +23 %) etwas Hafen-Nachfrage + BoJ-/Interventions-Spekulation. Track-Record des Paars schwach → bewusst nahe null."
+    "score": -1,
+    "grund": "Doppelter Gegenwind: Mini-Zins 1,00 % + teures Oel belastet den Energie-Importeur Japan. Dagegen: Grossspekulanten drehten laut COT erstmals wieder NETTO-LONG (Short-Eindeckung, yen-stuetzend) + Risk-off gibt etwas Hafen-Nachfrage. Track-Record des Paars am schwaechsten → bewusst nahe null."
    },
    "CHF": {
     "stimmung": "neutral",
@@ -2935,8 +2935,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "bullisch",
-    "score": 9,
-    "grund": "Klarster Gewinner: Oel-Sprung WTI ueber 103 $ / Brent ueber 108 $ (+13 % Woche) + falkenhafte Bank of Canada tragen trotz der schwachen Jobs (−41,7k). Spekulanten aber netto-short (−32 %) = leichtes Rueckschlag-Risiko."
+    "score": 7,
+    "grund": "Klarster Wochen-Gewinner: Oel +8 % auf Wochensicht (WTI ~100 $ / Brent ~105 $) + falkenhafte Bank of Canada. Leicht getrimmt (von +9), weil Oel Freitag von fast 110 $ auf 100 $ zurueckfiel (−2,4 % am Tag) und die schwachen Jobs (−41,7k) nachwirken."
    },
    "AUD": {
     "stimmung": "bullisch",
@@ -2962,8 +2962,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/JPY",
-    "score": 4,
-    "treiber": "Teures Oel + Mini-Zins belasten den Yen, der festere Dollar hebt das Paar; das zurueckkehrende Risk-off gibt dem Yen aber etwas Hafen-Gegenwehr. Track-Record schwach → modest."
+    "score": 3,
+    "treiber": "Teures Oel + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; dagegen drehte die Spekulanten-Positionierung (COT) wieder netto-long auf den Yen + Risk-off-Hafen-Nachfrage. Schlechtester Track-Record → bewusst modest."
    },
    {
     "paar": "AUD/USD",
@@ -2972,8 +2972,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": -4,
-    "treiber": "Oel-Sprung (WTI ueber 103 $) + falkenhafte Bank of Canada geben dem Loonie klar die Oberhand — der Oel-Rueckenwind bleibt der Treiber trotz schwacher Jobs und crowded-short-Positionierung."
+    "score": -3,
+    "treiber": "Oel (+8 % Woche) + falkenhafte Bank of Canada geben dem Loonie die Oberhand; der Freitags-Ruecksetzer beim Oel (von 110 $ auf 100 $) und die schwachen Jobs trimmen aber die Ueberzeugung."
    },
    {
     "paar": "USD/CHF",
@@ -3083,19 +3083,18 @@ window.MAKRO_DATA = {
    "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-   "stand": "2026-09-11",
-   "wochentag": "Freitag",
-   "tenor": "HEUTE ist Zahltag: Die US-Verbraucher-Inflation (CPI) um 14:30 Wien ist der Schiedsrichter direkt vor der Fed-Sitzung naechste Woche (15./16.9.). Der grosse Treiber bleibt das Oel: WTI ueber 103 $, Brent ueber 108 $ (+13 % auf Wochensicht) — das schuert die Inflationssorge, drueckt die US-Zinsen fast auf 5 % (10 Jahre 4,94 %) und laesst das Angst-Barometer VIX um 23 % auf 17,8 hochschnellen. Der Dollar findet dadurch wieder etwas Boden, der Euro tut sich trotz gestriger EZB-Erhoehung schwer (Oel belastet die Energie-Importeure Europa und Japan). Klarer Gewinner bleibt das Oel-Land Kanada.",
+   "stand": "2026-09-12",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — der Markt ruht. Rueckblick: Gestern kam die US-Verbraucher-Inflation. Die Jahresrate blieb bei 3,4 %, aber die Kernrate stieg zum Vormonat mit +0,3 % heisser als die erwarteten +0,2 %. Das hob die Wette auf eine Fed-Erhoehung naechste Woche auf rund 89 %. TROTZDEM: Dollar, Zinsen und Oel schossen erst hoch und gaben ihre Gewinne bis zum Handelsschluss wieder ab (\"nichts entschieden\" — die Fed am Di/Mi ist der eigentliche Schiedsrichter). Oel fiel Freitag von fast 110 $ auf rund 100 $ zurueck, bleibt aber +8 % auf Wochensicht = Kanada der Gewinner der Woche.",
    "heute": [
-    "🇺🇸 US-Verbraucher-Inflation (CPI) HEUTE 14:30 Wien = DAS Event: Erwartet werden 3,4 % zum Vorjahr und eine Kernrate von +0,2 % zum Vormonat. Nach den heissen Erzeugerpreisen gestern (Energie treibt) ist das Risiko eines hoeheren Werts real. Kommt sie heiss → Angst vor einer Fed-Erhoehung + fester Dollar; kommt sie mild → Erleichterung. Direkt vor der Fed-Sitzung naechste Woche (15./16.9.) zaehlt jede Nachkommastelle.",
-    "🛢️ Oel-Sprung eskaliert weiter: WTI ueber 103 $, Brent ueber 108 $ (+13 % auf Wochensicht) nach neuer US-Iran-Eskalation und Hormus-Drohungen. Das ist der Motor hinter allem: Inflationssorge → US-Zinsen fast 5 % → Nachfrage nach Sicherheit (VIX +23 % auf 17,8). Rueckenwind fuer das Oel-Land Kanada, Gegenwind fuer die Energie-Importeure Euro, Yen und Franken.",
-    "💵 Dollar findet Boden: Index ~99, Freitagfrueh aber fester Richtung Jahreshoch, weil das teure Oel die Zins- und Sicherheits-Wette pro Dollar dreht. Gold gab vom Rekord etwas nach (~4.360 $, −3 % auf Wochensicht) — hoehere Realzinsen + Gewinnmitnahmen. 🇬🇧 Nebenbei kommt heute frueh das UK-Wachstum."
+    "🛌 Samstag — Forex-Markt geschlossen, keine neuen Zahlen. Die grosse Wegmarke ist die US-Notenbank-Sitzung am Dienstag/Mittwoch (15./16.9.): Nach der heissen Kern-Inflation preist der Markt ~89 % Wahrscheinlichkeit fuer eine Zins-ERHOEHUNG. Wird sie bestaetigt → Rueckenwind Dollar; ueberrascht die Fed taubenhaft → Rueckschlag.",
+    "🛢️ Im Blick bleibt das Oel: WTI rund 100 $, Brent 105 $ — am Donnerstag kurz bei 110 $ (Houthi-Vormarsch nahe der Meerenge Bab el-Mandeb). Teures Oel = Inflationssorge (stuetzt Dollar-Zinsen + Oel-Land Kanada), Gegenwind fuer die Energie-Importeure Euro, Yen und Franken."
    ],
    "gestern": [
-    "🇪🇺 Do 10.9: Die EZB ERHOEHTE zum zweiten Mal auf 2,50 % (Einlagensatz). Chefin Lagarde nannte den Schritt einen einstimmigen \"No-Brainer\" und liess die Tuer fuer weitere Erhoehungen weit offen (falkenhaft — der Markt preist bis Herbst 2027 rund 0,88 % zusaetzliche Straffung). Trotzdem konnte der Euro kaum zulegen: das teure Oel belastet die Euro-Zone als Energie-Importeur (\"kaufe das Geruecht, verkaufe die Tatsache\").",
-    "🇺🇸 Do 10.9: Die US-Erzeugerpreise (PPI) kamen HEISS mit +0,4 % zum Vormonat (ueber der milden Erwartung), getrieben von Energie (+4,2 %) und Diesel (+24 %); Kernrate +0,3 %. Das befeuerte die Inflationssorge → die US-10-Jahres-Rendite schoss Richtung 5 % (4,94 %).",
-    "🇨🇳 Mi 9.9: China-Inflation +0,8 % zum Vorjahr (wie erwartet, von +0,5 %), Erzeugerpreise ueberraschend +3,8 % → Chinas Deflations-Gefahr laesst nach = kleiner Rueckenwind fuer die Rohstoff-Waehrungen Aussie und Kiwi.",
-    "🧭 Woche-ueber-Woche: Das Oel dominiert alles (+13 %, Brent ueber 108 $), der VIX sprang +23 % (Risk-off kehrt zurueck), die US-Zinsen liegen nahe 5 %, Gold gab vom Rekord nach (−3 %). Der Dollar drehte von weich auf fest — das teure Oel kippt die Zins- und Sicherheits-Wette zu seinen Gunsten."
+    "🇺🇸 Fr 11.9: US-Inflation (August) — Schlagzeile 3,4 % zum Vorjahr (wie erwartet, unveraendert), Kernrate +0,3 % zum Vormonat (HEISS, ueber den erwarteten +0,2 %). Die Jahres-Kernrate fiel aber auf 2,4 % (niedrigste seit 2021). Folge: Fed-Erhoehungs-Wette fuer naechste Woche sprang auf ~89 %, die 10-Jahres-Rendite kratzte an 5 %.",
+    "💵 Fr 11.9: \"Kaufe das Geruecht, verkaufe die Tatsache\" — Dollar, Zinsen und Oel legten nach der Zahl erst zu und gaben die Gewinne bis Handelsschluss wieder ab. Der Dollar-Index schloss die Woche rund unveraendert bei ~99. Gold gab vom Rekord etwas nach (~4.390 $).",
+    "🇪🇺 Do 10.9: Die EZB erhoehte zum zweiten Mal auf 2,50 % (Einlagensatz), Chefin Lagarde nannte es einen einstimmigen \"No-Brainer\" und liess die Tuer fuer mehr offen (falkenhaft). Trotzdem kaum Euro-Rueckenwind — teures Oel belastet die Euro-Zone als Energie-Importeur.",
+    "🛢️ Fr 11.9: Oel drehte intraday — WTI schloss bei 100,05 $ (−2,4 % am Tag), Brent 104,61 $ (−2,8 %); beide auf Wochensicht aber +8 %. Brent touchierte Do-Nacht 110 $ (Houthis kontrollieren Haefen nahe Bab el-Mandeb)."
    ]
   }
  },
@@ -4126,13 +4125,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 4,
+   "baseScore": 3,
    "tiltCot": 0,
    "tiltZins": 8,
    "tiltGesamt": 8,
-   "score": 12,
+   "score": 11,
    "cotExtrem": null,
-   "treiber": "Teures Oel + Mini-Zins belasten den Yen, der festere Dollar hebt das Paar; das zurueckkehrende Risk-off gibt dem Yen aber etwas Hafen-Gegenwehr. Track-Record schwach → modest.",
+   "treiber": "Teures Oel + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; dagegen drehte die Spekulanten-Positionierung (COT) wieder netto-long auf den Yen + Risk-off-Hafen-Nachfrage. Schlechtester Track-Record → bewusst modest.",
    "istCross": false
   },
   {
@@ -4148,13 +4147,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -4,
+   "baseScore": -3,
    "tiltCot": 4,
    "tiltZins": -4,
    "tiltGesamt": 0,
-   "score": -4,
+   "score": -3,
    "cotExtrem": null,
-   "treiber": "Oel-Sprung (WTI ueber 103 $) + falkenhafte Bank of Canada geben dem Loonie klar die Oberhand — der Oel-Rueckenwind bleibt der Treiber trotz schwacher Jobs und crowded-short-Positionierung.",
+   "treiber": "Oel (+8 % Woche) + falkenhafte Bank of Canada geben dem Loonie die Oberhand; der Freitags-Ruecksetzer beim Oel (von 110 $ auf 100 $) und die schwachen Jobs trimmen aber die Ueberzeugung.",
    "istCross": false
   },
   {
@@ -4192,11 +4191,11 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": 2,
+   "baseScore": 1,
    "tiltCot": -1,
    "tiltZins": 6,
    "tiltGesamt": 5,
-   "score": 7,
+   "score": 6,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
@@ -4225,7 +4224,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-11T21:28:40.075Z",
+  "stand": "2026-09-12T05:04:10.884Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 54,
   "gewertet": 28,

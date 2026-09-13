@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-12T05:05:25.989Z",
+ "erstellt": "2026-09-13T05:03:30.742Z",
  "wochenStart": "2026-09-06",
  "events": [
   {
@@ -3083,18 +3083,19 @@ window.MAKRO_DATA = {
    "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-   "stand": "2026-09-12",
-   "wochentag": "Samstag",
-   "tenor": "Wochenende — der Markt ruht. Rueckblick: Gestern kam die US-Verbraucher-Inflation. Die Jahresrate blieb bei 3,4 %, aber die Kernrate stieg zum Vormonat mit +0,3 % heisser als die erwarteten +0,2 %. Das hob die Wette auf eine Fed-Erhoehung naechste Woche auf rund 89 %. TROTZDEM: Dollar, Zinsen und Oel schossen erst hoch und gaben ihre Gewinne bis zum Handelsschluss wieder ab (\"nichts entschieden\" — die Fed am Di/Mi ist der eigentliche Schiedsrichter). Oel fiel Freitag von fast 110 $ auf rund 100 $ zurueck, bleibt aber +8 % auf Wochensicht = Kanada der Gewinner der Woche.",
+   "stand": "2026-09-13",
+   "wochentag": "Sonntag",
+   "tenor": "Wochenende — der Markt ruht. Die kommende Woche ist eine NOTENBANK-SUPERWOCHE: Fed am Mittwoch (der Schiedsrichter nach der heissen Kern-Inflation vom Freitag), BoE am Donnerstag, BoJ am Freitag. Dazu UK-Inflation (Mi) und Kanada-Inflation (Mo). Stand der Lage unveraendert zu gestern: Dollar-Index flach bei ~99, Oel teuer (WTI ~100 $) = Kanada vorn, Gold nahe Rekord.",
    "heute": [
-    "🛌 Samstag — Forex-Markt geschlossen, keine neuen Zahlen. Die grosse Wegmarke ist die US-Notenbank-Sitzung am Dienstag/Mittwoch (15./16.9.): Nach der heissen Kern-Inflation preist der Markt ~89 % Wahrscheinlichkeit fuer eine Zins-ERHOEHUNG. Wird sie bestaetigt → Rueckenwind Dollar; ueberrascht die Fed taubenhaft → Rueckschlag.",
-    "🛢️ Im Blick bleibt das Oel: WTI rund 100 $, Brent 105 $ — am Donnerstag kurz bei 110 $ (Houthi-Vormarsch nahe der Meerenge Bab el-Mandeb). Teures Oel = Inflationssorge (stuetzt Dollar-Zinsen + Oel-Land Kanada), Gegenwind fuer die Energie-Importeure Euro, Yen und Franken."
+    "🛌 Sonntag — Forex-Markt geschlossen, keine neuen Zahlen. Alles wartet auf die US-Notenbank am Mittwoch (16.9., 20:00 Wien): Nach der heissen Kern-Inflation (Freitag) preist der Markt rund 89 % Wahrscheinlichkeit fuer eine Zins-ERHOEHUNG. Bestaetigt → Rueckenwind Dollar; taubenhafte Ueberraschung → Rueckschlag. Es ist ein echter Muenzwurf, weil die Fed gespalten ist (Chef Warsh Falke vs. Gouverneur Waller Taube).",
+    "📅 Die ganze Woche im Blick: Mo 14.9. Kanada-Inflation · Mi 16.9. UK-Inflation frueh + US-Einzelhandel + FED-ENTSCHEID abends · Do 17.9. Bank of England (3 Mitglieder wollen schon erhoehen) · Fr 18.9. Bank of Japan (Yen bei ~163 = 40-Jahres-Tief, Interventionsrisiko). Drei Notenbanken in drei Tagen = viel Bewegung moeglich.",
+    "🛢️ Oel bleibt der Joker: WTI ~100 $, Brent ~105 $, am Donnerstag kurz bei 110 $ (Houthi-Vormarsch nahe der Meerenge Bab el-Mandeb). Teures Oel = Inflationssorge (stuetzt Dollar-Zinsen + das Oel-Land Kanada), Gegenwind fuer die Energie-Importeure Euro, Yen und Franken. Ein Wochenend-Eskalations-Schlagzeile koennte Montagfrueh bewegen."
    ],
    "gestern": [
-    "🇺🇸 Fr 11.9: US-Inflation (August) — Schlagzeile 3,4 % zum Vorjahr (wie erwartet, unveraendert), Kernrate +0,3 % zum Vormonat (HEISS, ueber den erwarteten +0,2 %). Die Jahres-Kernrate fiel aber auf 2,4 % (niedrigste seit 2021). Folge: Fed-Erhoehungs-Wette fuer naechste Woche sprang auf ~89 %, die 10-Jahres-Rendite kratzte an 5 %.",
-    "💵 Fr 11.9: \"Kaufe das Geruecht, verkaufe die Tatsache\" — Dollar, Zinsen und Oel legten nach der Zahl erst zu und gaben die Gewinne bis Handelsschluss wieder ab. Der Dollar-Index schloss die Woche rund unveraendert bei ~99. Gold gab vom Rekord etwas nach (~4.390 $).",
-    "🇪🇺 Do 10.9: Die EZB erhoehte zum zweiten Mal auf 2,50 % (Einlagensatz), Chefin Lagarde nannte es einen einstimmigen \"No-Brainer\" und liess die Tuer fuer mehr offen (falkenhaft). Trotzdem kaum Euro-Rueckenwind — teures Oel belastet die Euro-Zone als Energie-Importeur.",
-    "🛢️ Fr 11.9: Oel drehte intraday — WTI schloss bei 100,05 $ (−2,4 % am Tag), Brent 104,61 $ (−2,8 %); beide auf Wochensicht aber +8 %. Brent touchierte Do-Nacht 110 $ (Houthis kontrollieren Haefen nahe Bab el-Mandeb)."
+    "🇺🇸 Fr 11.9: US-Inflation (August) — Schlagzeile 3,4 % zum Vorjahr (wie erwartet), Kernrate +0,3 % zum Vormonat (HEISS, ueber den erwarteten +0,2 %); die Jahres-Kernrate fiel aber auf 2,4 % (niedrigste seit 2021). Folge: Fed-Erhoehungs-Wette sprang auf ~89 %, die 10-Jahres-Rendite kratzte an 5 %.",
+    "💵 Fr 11.9: „Kaufe das Geruecht, verkaufe die Tatsache“ — Dollar, Zinsen und Oel legten nach der Zahl erst zu und gaben die Gewinne bis Handelsschluss wieder ab. Der Dollar-Index schloss die Woche rund unveraendert bei ~99, Gold gab vom Rekord leicht nach (~4.390–4.410 $).",
+    "🇪🇺 Do 10.9: Die EZB erhoehte zum zweiten Mal auf 2,50 % (Einlagensatz), Chefin Lagarde nannte es einen einstimmigen „No-Brainer“ und liess die Tuer fuer mehr offen (falkenhaft). Trotzdem kaum Euro-Rueckenwind — teures Oel belastet die Euro-Zone als Energie-Importeur.",
+    "🛢️ Fr 11.9: Oel drehte intraday — WTI schloss bei 100 $ (−2,4 % am Tag), Brent ~105 $; beide auf Wochensicht aber +8 %. Brent touchierte Do-Nacht 110 $ (Houthis kontrollieren Haefen nahe Bab el-Mandeb). Kanada war damit der Waehrungs-Gewinner der Woche."
    ]
   }
  },
@@ -4224,7 +4225,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-12T05:05:25.692Z",
+  "stand": "2026-09-13T05:03:30.742Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 54,
   "gewertet": 28,

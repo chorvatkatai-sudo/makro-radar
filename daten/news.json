@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-14T05:06:02.612Z",
+  "stand": "2026-09-14T09:29:36.324Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,33 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Holds steady near 110.00, bearish technicals persist",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-steady-near-11000-bearish-technicals-persist-202609140458",
-      "datum": "2026-09-14T04:58:34.000Z"
+      "titel": "Euro advances against Japanese Yen despite BoJ rate hike expectations",
+      "link": "https://www.fxstreet.com/news/euro-advances-against-japanese-yen-despite-boj-rate-hike-expectations-202609140915",
+      "datum": "2026-09-14T09:15:40.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold flat lines above $4,300 as firmer USD caps upside amid hawkish central bank bets",
+      "titel": "Japanese Yen weakens as rising risk aversion lifts US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-rising-risk-aversion-lifts-us-dollar-202609140910",
+      "datum": "2026-09-14T09:10:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Further downside favoured against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/euro-further-downside-favoured-against-us-dollar-ing-202609140910",
+      "datum": "2026-09-14T09:10:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/USD Price Forecast: Bears flirt with monthly low, near 1.3480-1.3470 confluence",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bears-flirt-with-monthly-low-near-13480-13470-confluence-202609140901",
+      "datum": "2026-09-14T09:01:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar: Growth check and scope for dovish repricing – BBH",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-growth-check-and-scope-for-dovish-repricing-bbh-202609140853",
+      "datum": "2026-09-14T08:53:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: Downtrend capped with 0.8185 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-downtrend-capped-with-08185-against-us-dollar-uob-202609140846",
+      "datum": "2026-09-14T08:46:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro drops against Canadian Dollar amid energy shocks, growing Fed rate hike pressures",
+      "link": "https://www.fxstreet.com/news/euro-drops-against-canadian-dollar-amid-energy-shocks-growing-fed-rate-hike-pressures-202609140843",
+      "datum": "2026-09-14T08:43:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB’s Kazimir: Will consider all options for next policy decision",
+      "link": "https://www.fxstreet.com/news/ecbs-kazimir-will-consider-all-options-for-next-policy-decision-202609140837",
+      "datum": "2026-09-14T08:37:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Inflation-driven rate risks and premium – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-inflation-driven-rate-risks-and-premium-commerzbank-202609140833",
+      "datum": "2026-09-14T08:33:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/JPY Price Forecast: Clings to gains above 208.00; bearish bias intact ahead of BoE/BoJ",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-clings-to-gains-above-20800-bearish-bias-intact-ahead-of-boe-boj-202609140827",
+      "datum": "2026-09-14T08:27:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB Simkus: Can't exclude action at any meeting",
+      "link": "https://www.fxstreet.com/news/ecb-simkus-cant-exclude-action-at-any-meeting-202609140824",
+      "datum": "2026-09-14T08:24:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-41/",
+      "datum": "2026-09-14T06:26:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold remains depressed above $4,300 as USD sticks to gains amid Fed hike bets, Iran risks",
       "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-300-as-firmer-usd-caps-upside-amid-hawkish-central-bank-bets-202609140452",
       "datum": "2026-09-14T04:52:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Slides to four-week low as hawkish Fed bets accelerate",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-slides-to-four-week-low-as-hawkish-fed-bets-accelerate-202609140446",
-      "datum": "2026-09-14T04:46:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609140435",
-      "datum": "2026-09-14T04:35:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Trades near 178.50 after rebounding from descending channel bottom",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-17850-after-rebounding-from-descending-channel-bottom-202609140409",
-      "datum": "2026-09-14T04:09:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -43,52 +91,10 @@
       "datum": "2026-09-14T03:56:12.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index rises to near 99.50 as Fed rate hike bets increase",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-9950-as-fed-rate-hike-bets-increase-202609140309",
-      "datum": "2026-09-14T03:09:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Shows resilience below 38.2% Fibo. near mid-0.7100s",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-shows-resilience-below-382-fibo-near-mid-07100s-202609140306",
-      "datum": "2026-09-14T03:06:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar weakens below 0.5800 on RBNZ dovish signals",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-below-05800-on-rbnz-dovish-signals-202609140257",
-      "datum": "2026-09-14T02:57:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD bears have the upper hand below $64.75-$64.85 confluence",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bears-have-the-upper-hand-below-6475-6485-confluence-202609140231",
-      "datum": "2026-09-14T02:31:50.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Anthropic, OpenAI and Google held talks on AI safety body, report says",
       "link": "https://investinglive.com/news/anthropic-openai-and-google-held-talks-on-ai-safety-body-report-says/",
       "datum": "2026-09-14T02:21:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar gains support from higher oil prices amid Saudi pipeline disruptions",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-support-from-higher-oil-prices-amid-saudi-pipeline-disruptions-202609140210",
-      "datum": "2026-09-14T02:10:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen edges lower vs USD amid Middle East jitters as Fed, BoJ meetings loom",
-      "link": "https://www.fxstreet.com/news/japanese-yen-edges-lower-vs-usd-amid-middle-east-jitters-as-fed-boj-meetings-loom-202609140204",
-      "datum": "2026-09-14T02:04:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold edges lower below $4,350 on imminent Fed rate hike",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-350-on-imminent-fed-rate-hike-202609140200",
-      "datum": "2026-09-14T02:00:32.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "investingLive Americas FX news wrap 11 Sept: US CPI raises odds for Fed rate hike",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-sept-us-cpi-keeps-fed-raises-odds-for-fed-rate-hike/",
       "datum": "2026-09-11T21:18:48.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US August Federal budget deficit $167 billion vs $404 billion expected",
-      "link": "https://investinglive.com/news/us-august-federal-budget-deficit-167-billion-vs-404-billion-expected/",
-      "datum": "2026-09-11T18:03:50.000Z"
     }
   ]
 }

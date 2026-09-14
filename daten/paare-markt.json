@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-13T05:03:54.369Z",
+  "stand": "2026-09-14T05:05:34.743Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -33,7 +33,7 @@
       "tiltGesamt": 8,
       "score": 11,
       "cotExtrem": null,
-      "treiber": "Teures Oel + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; dagegen drehte die Spekulanten-Positionierung (COT) wieder netto-long auf den Yen + Risk-off-Hafen-Nachfrage. Schlechtester Track-Record → bewusst modest.",
+      "treiber": "Teures Oel + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; dagegen drehte die COT-Positionierung wieder netto-long auf den Yen. Schlechtester Track-Record (23 %) → bewusst modest.",
       "istCross": false
     },
     {
@@ -44,7 +44,7 @@
       "tiltGesamt": -4,
       "score": -5,
       "cotExtrem": null,
-      "treiber": "Risk-off (VIX +23 %) trimmt den Aussie, gegen den festeren Dollar bleibt nur noch wenig uebrig → nahe null.",
+      "treiber": "Ruhiger Markt (VIX ~16) stuetzt den Aussie leicht, gegen den festeren Dollar bleibt aber wenig uebrig → nahe null.",
       "istCross": false
     },
     {
@@ -55,7 +55,7 @@
       "tiltGesamt": 6,
       "score": 3,
       "cotExtrem": null,
-      "treiber": "Oel (+8 % Woche) + falkenhafte Bank of Canada geben dem Loonie die Oberhand; der Freitags-Ruecksetzer beim Oel (von 110 $ auf 100 $) und die schwachen Jobs trimmen aber die Ueberzeugung.",
+      "treiber": "Oel teuer (WTI ~100 $, Brent ~105 $, Jemen-Eskalation) + falkenhafte Bank of Canada geben dem Loonie die Oberhand → negativ; heute Nachmittag Kanada-Inflation als Test.",
       "istCross": false
     },
     {
@@ -66,7 +66,7 @@
       "tiltGesamt": 10,
       "score": 13,
       "cotExtrem": null,
-      "treiber": "Franken als Energie-Importeur belastet + festerer Dollar → Dollar-Seite vorn; das Risk-off gibt dem Franken aber etwas Hafen-Gegenwehr → nur leicht positiv.",
+      "treiber": "Franken als Energie-Importeur belastet + festerer Dollar → Dollar-Seite vorn; ruhiger Markt gibt dem Franken keinen Hafen-Rueckenwind → leicht positiv.",
       "istCross": false
     },
     {
@@ -77,7 +77,7 @@
       "tiltGesamt": 3,
       "score": 1,
       "cotExtrem": null,
-      "treiber": "RBNZ-Erhoehung ist die eigene Kiwi-Geschichte, aber die schwaechste Zins-Differenz + Risk-off + festerer Dollar druecken → leicht negativ.",
+      "treiber": "RBNZ-Erhoehung ist die eigene Kiwi-Geschichte, aber schwache Zins-Differenz + festerer Dollar druecken → leicht negativ. (Bester Paar-Track-Record der Gruppe.)",
       "istCross": false
     },
     {

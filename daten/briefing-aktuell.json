@@ -15,7 +15,7 @@
     "USD": {
       "stimmung": "neutral",
       "score": 5,
-      "grund": "Findet Boden: heisse Erzeugerpreise (PPI +0,4 %) + US-Zinsen nahe 5 % + teures Oel drehen die Zins- und Sicherheits-Wette pro Dollar. Aber es ist CPI-Tag (14:30) und die Fed-Erhoehung bleibt ein Muenzwurf → kein Durchmarsch, Score klein."
+      "grund": "Findet Boden: heisse Kern-Inflation vom Freitag (+0,3 % m/m) + US-Zinsen nahe 5 % + teures Oel drehen die Zins- und Sicherheits-Wette pro Dollar. Aber die Fed-Erhoehung am Mittwoch bleibt ein Muenzwurf (Warsh-Falke vs. Waller-Taube) → kein Durchmarsch, Score klein."
     },
     "EUR": {
       "stimmung": "neutral",
@@ -30,12 +30,12 @@
     "JPY": {
       "stimmung": "neutral",
       "score": -1,
-      "grund": "Doppelter Gegenwind: Mini-Zins 1,00 % + teures Oel belastet den Energie-Importeur Japan. Dagegen: Grossspekulanten drehten laut COT erstmals wieder NETTO-LONG (Short-Eindeckung, yen-stuetzend) + Risk-off gibt etwas Hafen-Nachfrage. Track-Record des Paars am schwaechsten → bewusst nahe null."
+      "grund": "Doppelter Gegenwind: Mini-Zins 1,00 % + teures Oel belastet den Energie-Importeur Japan. Dagegen drehten Grossspekulanten laut COT erstmals wieder NETTO-LONG (Short-Eindeckung, yen-stuetzend). Track-Record des Paars am schwaechsten (23 %) → bewusst nahe null."
     },
     "CHF": {
       "stimmung": "neutral",
       "score": -1,
-      "grund": "Zwiespaeltig: als Energie-Importeur vom teuren Oel belastet, aber das zurueckkehrende Risk-off (VIX +23 %) bringt dem sicheren Hafen wieder etwas Nachfrage → nahe null statt klar negativ."
+      "grund": "Zwiespaeltig: als Energie-Importeur vom teuren Oel belastet, aber der Markt ist ruhig (VIX niedrig ~16) → kaum Hafen-Nachfrage, die den Franken stuetzen wuerde. Per Saldo nahe null."
     },
     "CAD": {
       "stimmung": "bullisch",
@@ -45,12 +45,12 @@
     "AUD": {
       "stimmung": "bullisch",
       "score": 4,
-      "grund": "Eigene solide Geschichte (BIP Q2 +0,4 %, Hochzins 4,35 %, China-Inflation entschaerft), aber das zurueckkehrende Risk-off (VIX +23 %) bremst die Rohstoff-Waehrung → von zuletzt +7 getrimmt."
+      "grund": "Eigene solide Geschichte (BIP Q2 +0,4 %, Hochzins 4,35 %, China-Inflation entschaerft) + ruhiger Markt (VIX ~16) stuetzt die Rohstoff-Waehrung leicht; der feste Dollar und Chinas Schwaeche deckeln → moderat positiv."
     },
     "NZD": {
       "stimmung": "neutral",
       "score": 2,
-      "grund": "Eigene falkenhafte RBNZ-Geschichte (2,75 %, weitere Erhoehung in Aussicht), aber die NZD-Zins-Differenz stieg am schwaechsten (+0,06) und das Risk-off bremst → moderat."
+      "grund": "Eigene falkenhafte RBNZ-Geschichte (2,75 %, weitere Erhoehung in Aussicht), aber die NZD-Zins-Differenz stieg zuletzt eher schwach und der feste Dollar bremst → moderat. Bestes Paar-Track-Record der Gruppe, daher etwas mehr Zutrauen."
     }
   },
   "paare": [
@@ -67,27 +67,27 @@
     {
       "paar": "USD/JPY",
       "score": 3,
-      "treiber": "Teures Oel + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; dagegen drehte die Spekulanten-Positionierung (COT) wieder netto-long auf den Yen + Risk-off-Hafen-Nachfrage. Schlechtester Track-Record → bewusst modest."
+      "treiber": "Teures Oel + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; dagegen drehte die COT-Positionierung wieder netto-long auf den Yen. Schlechtester Track-Record (23 %) → bewusst modest."
     },
     {
       "paar": "AUD/USD",
       "score": -1,
-      "treiber": "Risk-off (VIX +23 %) trimmt den Aussie, gegen den festeren Dollar bleibt nur noch wenig uebrig → nahe null."
+      "treiber": "Ruhiger Markt (VIX ~16) stuetzt den Aussie leicht, gegen den festeren Dollar bleibt aber wenig uebrig → nahe null."
     },
     {
       "paar": "USD/CAD",
       "score": -3,
-      "treiber": "Oel (+8 % Woche) + falkenhafte Bank of Canada geben dem Loonie die Oberhand; der Freitags-Ruecksetzer beim Oel (von 110 $ auf 100 $) und die schwachen Jobs trimmen aber die Ueberzeugung."
+      "treiber": "Oel teuer (WTI ~100 $, Brent ~105 $, Jemen-Eskalation) + falkenhafte Bank of Canada geben dem Loonie die Oberhand → negativ; heute Nachmittag Kanada-Inflation als Test."
     },
     {
       "paar": "USD/CHF",
       "score": 3,
-      "treiber": "Franken als Energie-Importeur belastet + festerer Dollar → Dollar-Seite vorn; das Risk-off gibt dem Franken aber etwas Hafen-Gegenwehr → nur leicht positiv."
+      "treiber": "Franken als Energie-Importeur belastet + festerer Dollar → Dollar-Seite vorn; ruhiger Markt gibt dem Franken keinen Hafen-Rueckenwind → leicht positiv."
     },
     {
       "paar": "NZD/USD",
       "score": -2,
-      "treiber": "RBNZ-Erhoehung ist die eigene Kiwi-Geschichte, aber die schwaechste Zins-Differenz + Risk-off + festerer Dollar druecken → leicht negativ."
+      "treiber": "RBNZ-Erhoehung ist die eigene Kiwi-Geschichte, aber schwache Zins-Differenz + festerer Dollar druecken → leicht negativ. (Bester Paar-Track-Record der Gruppe.)"
     }
   ],
   "wochenausblick": {
@@ -187,19 +187,20 @@
     "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-    "stand": "2026-09-13",
-    "wochentag": "Sonntag",
-    "tenor": "Wochenende — der Markt ruht. Die kommende Woche ist eine NOTENBANK-SUPERWOCHE: Fed am Mittwoch (der Schiedsrichter nach der heissen Kern-Inflation vom Freitag), BoE am Donnerstag, BoJ am Freitag. Dazu UK-Inflation (Mi) und Kanada-Inflation (Mo). Stand der Lage unveraendert zu gestern: Dollar-Index flach bei ~99, Oel teuer (WTI ~100 $) = Kanada vorn, Gold nahe Rekord.",
+    "stand": "2026-09-14",
+    "wochentag": "Montag",
+    "tenor": "Ruhiger Wochenauftakt vor dem grossen Notenbank-Dreikampf: Mi Fed, Do BoE, Fr BoJ. Heute Nachmittag zuerst die Kanada-Inflation (14:30 Wien). Am Wochenende eskalierte der Jemen-Konflikt weiter (Huthis nahmen eine Insel im Roten Meer) → Oel bleibt teuer und der Joker der Woche. Dollar-Index flach bei ~99, Gold nahe Rekord (~4.350–4.410 $), Markt insgesamt ruhig (Angst-Barometer VIX niedrig bei ~16).",
     "heute": [
-      "🛌 Sonntag — Forex-Markt geschlossen, keine neuen Zahlen. Alles wartet auf die US-Notenbank am Mittwoch (16.9., 20:00 Wien): Nach der heissen Kern-Inflation (Freitag) preist der Markt rund 89 % Wahrscheinlichkeit fuer eine Zins-ERHOEHUNG. Bestaetigt → Rueckenwind Dollar; taubenhafte Ueberraschung → Rueckschlag. Es ist ein echter Muenzwurf, weil die Fed gespalten ist (Chef Warsh Falke vs. Gouverneur Waller Taube).",
-      "📅 Die ganze Woche im Blick: Mo 14.9. Kanada-Inflation · Mi 16.9. UK-Inflation frueh + US-Einzelhandel + FED-ENTSCHEID abends · Do 17.9. Bank of England (3 Mitglieder wollen schon erhoehen) · Fr 18.9. Bank of Japan (Yen bei ~163 = 40-Jahres-Tief, Interventionsrisiko). Drei Notenbanken in drei Tagen = viel Bewegung moeglich.",
-      "🛢️ Oel bleibt der Joker: WTI ~100 $, Brent ~105 $, am Donnerstag kurz bei 110 $ (Houthi-Vormarsch nahe der Meerenge Bab el-Mandeb). Teures Oel = Inflationssorge (stuetzt Dollar-Zinsen + das Oel-Land Kanada), Gegenwind fuer die Energie-Importeure Euro, Yen und Franken. Ein Wochenend-Eskalations-Schlagzeile koennte Montagfrueh bewegen."
+      "🇨🇦 Mo 14.9. 14:30 Wien: Kanada-Inflation (August). Im Juli waren es 3,0 % zum Vorjahr — fast alles Benzin, der Kern liegt nahe dem 2-%-Ziel. Kommt sie heiss, hilft das dem ohnehin starken Kanada-Dollar zusaetzlich; kommt sie zahm, aendert es wenig, weil die Bank of Canada ohnehin abwartet.",
+      "🏦 Der ganze Fokus liegt auf Mittwoch (16.9., 20:00 Wien): Nach der heissen Kern-Inflation vom Freitag preist der Markt rund 80–90 % fuer eine Zins-ERHOEHUNG der US-Notenbank. Es bleibt ein Muenzwurf, weil die Fed gespalten ist (Chef Warsh Falke, Gouverneur Waller Taube). Bis dahin duerfte der Dollar in enger Spanne pendeln.",
+      "🛢️ Oel bleibt der Joker: WTI ~100 $, Brent ~105 $. Teures Oel = Rueckenwind fuers Oel-Land Kanada, Gegenwind fuer die Energie-Importeure Euro, Yen und Franken. Eine neue Eskalations-Schlagzeile am Roten Meer koennte jederzeit bewegen.",
+      "📅 Danach: Do 17.9. Bank of England (3 Mitglieder wollen schon erhoehen — Pfund-Risiko), Fr 18.9. Bank of Japan (Yen bei ~163 = 40-Jahres-Tief, Interventionsrisiko). Drei Notenbanken in drei Tagen = viel Bewegung moeglich."
     ],
     "gestern": [
-      "🇺🇸 Fr 11.9: US-Inflation (August) — Schlagzeile 3,4 % zum Vorjahr (wie erwartet), Kernrate +0,3 % zum Vormonat (HEISS, ueber den erwarteten +0,2 %); die Jahres-Kernrate fiel aber auf 2,4 % (niedrigste seit 2021). Folge: Fed-Erhoehungs-Wette sprang auf ~89 %, die 10-Jahres-Rendite kratzte an 5 %.",
-      "💵 Fr 11.9: „Kaufe das Geruecht, verkaufe die Tatsache“ — Dollar, Zinsen und Oel legten nach der Zahl erst zu und gaben die Gewinne bis Handelsschluss wieder ab. Der Dollar-Index schloss die Woche rund unveraendert bei ~99, Gold gab vom Rekord leicht nach (~4.390–4.410 $).",
-      "🇪🇺 Do 10.9: Die EZB erhoehte zum zweiten Mal auf 2,50 % (Einlagensatz), Chefin Lagarde nannte es einen einstimmigen „No-Brainer“ und liess die Tuer fuer mehr offen (falkenhaft). Trotzdem kaum Euro-Rueckenwind — teures Oel belastet die Euro-Zone als Energie-Importeur.",
-      "🛢️ Fr 11.9: Oel drehte intraday — WTI schloss bei 100 $ (−2,4 % am Tag), Brent ~105 $; beide auf Wochensicht aber +8 %. Brent touchierte Do-Nacht 110 $ (Houthis kontrollieren Haefen nahe Bab el-Mandeb). Kanada war damit der Waehrungs-Gewinner der Woche."
+      "🛌 Wochenende (Sa/So): Der Devisenmarkt ruhte. Die wichtigste Schlagzeile war die Jemen-Eskalation — die Huthis nahmen eine Insel im Roten Meer nahe der Oel-Route Bab el-Mandeb ein. Deshalb startet Oel teuer in die neue Woche.",
+      "🇺🇸 Fr 11.9.: US-Inflation (August) — Schlagzeile 3,4 % zum Vorjahr (wie erwartet), Kernrate +0,3 % zum Vormonat (HEISS, ueber den erwarteten +0,2 %); die Jahres-Kernrate fiel aber auf 2,4 % (niedrigste seit 2021). Folge: Fed-Erhoehungs-Wette sprang auf ~80–90 %, die 10-Jahres-Rendite kratzt an 5 %.",
+      "💵 Fr 11.9.: „Kaufe das Geruecht, verkaufe die Tatsache“ — Dollar, Zinsen und Oel legten nach der Zahl erst zu und gaben die Gewinne bis Handelsschluss wieder ab. Der Dollar-Index schloss die Woche rund unveraendert bei ~99, Gold leicht unter dem Rekord (~4.350–4.410 $).",
+      "🇪🇺 Do 10.9.: Die EZB erhoehte zum zweiten Mal auf 2,50 % (Einlagensatz), Chefin Lagarde nannte es einen einstimmigen „No-Brainer“ und liess die Tuer fuer mehr offen (falkenhaft). Trotzdem kaum Euro-Rueckenwind, weil das teure Oel die Euro-Zone als Energie-Importeur belastet."
     ]
   }
 }

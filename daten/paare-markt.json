@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-14T09:29:36.325Z",
+  "stand": "2026-09-14T11:21:41.886Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -3,
       "tiltCot": -1,
-      "tiltZins": 2,
-      "tiltGesamt": 1,
-      "score": -2,
+      "tiltZins": 0,
+      "tiltGesamt": -1,
+      "score": -4,
       "cotExtrem": "erhoeht",
       "treiber": "EZB-Erhoehung gestern eingepreist + teures Oel belastet den Euro, waehrend der Dollar Freitagfrueh vor dem CPI fester dreht → leicht negativ. (Track-Record des Paars schwach → bewusst nahe null.)",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": 1,
-      "tiltZins": 1,
-      "tiltGesamt": 2,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": 1,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "RBNZ-Erhoehung ist die eigene Kiwi-Geschichte, aber schwache Zins-Differenz + festerer Dollar druecken → leicht negativ. (Bester Paar-Track-Record der Gruppe.)",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": 0,
       "tiltCot": 3,
-      "tiltZins": -2,
-      "tiltGesamt": 1,
-      "score": 1,
+      "tiltZins": -3,
+      "tiltGesamt": 0,
+      "score": 0,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 3,
-      "tiltZins": 4,
-      "tiltGesamt": 7,
-      "score": 8,
+      "tiltZins": 3,
+      "tiltGesamt": 6,
+      "score": 7,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

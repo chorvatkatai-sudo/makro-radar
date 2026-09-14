@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-14T09:29:36.324Z",
+  "stand": "2026-09-14T11:21:41.884Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,81 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro advances against Japanese Yen despite BoJ rate hike expectations",
-      "link": "https://www.fxstreet.com/news/euro-advances-against-japanese-yen-despite-boj-rate-hike-expectations-202609140915",
-      "datum": "2026-09-14T09:15:40.000Z"
+      "titel": "US Dollar: Fed hike expectations and limited gains – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-expectations-and-limited-gains-mufg-202609141113",
+      "datum": "2026-09-14T11:13:33.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen weakens as rising risk aversion lifts US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-rising-risk-aversion-lifts-us-dollar-202609140910",
-      "datum": "2026-09-14T09:10:52.000Z"
+      "titel": "ECB’s Schnabel: Recent energy-price developments have been quite concerning",
+      "link": "https://www.fxstreet.com/news/ecbs-schnabel-recent-energy-price-developments-have-been-quite-concerning-202609141111",
+      "datum": "2026-09-14T11:11:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Further downside favoured against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/euro-further-downside-favoured-against-us-dollar-ing-202609140910",
-      "datum": "2026-09-14T09:10:21.000Z"
+      "titel": "AUD/USD Price Forecast: Aussie bears aim for a key support area around 0.7110",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-aussie-bears-aim-for-a-key-support-area-around-07110-202609141106",
+      "datum": "2026-09-14T11:06:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Bears flirt with monthly low, near 1.3480-1.3470 confluence",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bears-flirt-with-monthly-low-near-13480-13470-confluence-202609140901",
-      "datum": "2026-09-14T09:01:21.000Z"
+      "titel": "Brent jumps above $104 as fresh supply threats rattle Oil markets",
+      "link": "https://www.fxstreet.com/news/brent-jumps-above-104-as-fresh-supply-threats-rattle-oil-markets-202609141105",
+      "datum": "2026-09-14T11:05:22.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "India's inflation rises further to 4.82% in August, reinforcing rate hike expectations",
+      "link": "https://investinglive.com/news/india-s-inflation-rises-further-to-4-82-in-august-reinforcing-rate-hike-expectations/",
+      "datum": "2026-09-14T10:53:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar: Growth check and scope for dovish repricing – BBH",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-growth-check-and-scope-for-dovish-repricing-bbh-202609140853",
-      "datum": "2026-09-14T08:53:44.000Z"
+      "titel": "Fed to raise interest rates to 3.75%-4.00% on September 16 – Reuters poll",
+      "link": "https://www.fxstreet.com/news/fed-to-raise-interest-rates-to-375-400-on-september-16-reuters-poll-202609141051",
+      "datum": "2026-09-14T10:51:18.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc: Downtrend capped with 0.8185 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-downtrend-capped-with-08185-against-us-dollar-uob-202609140846",
-      "datum": "2026-09-14T08:46:03.000Z"
+      "titel": "USD/CAD Price Forecast: US Dollar gains momentum and targets 1.3940 area",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-us-dollar-gains-momentum-and-targets-13940-area-202609141010",
+      "datum": "2026-09-14T10:10:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro drops against Canadian Dollar amid energy shocks, growing Fed rate hike pressures",
-      "link": "https://www.fxstreet.com/news/euro-drops-against-canadian-dollar-amid-energy-shocks-growing-fed-rate-hike-pressures-202609140843",
-      "datum": "2026-09-14T08:43:02.000Z"
+      "titel": "British Pound: Downside pressure persists against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-pressure-persists-against-us-dollar-uob-202609141005",
+      "datum": "2026-09-14T10:05:40.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "ECB’s Kazimir: Will consider all options for next policy decision",
-      "link": "https://www.fxstreet.com/news/ecbs-kazimir-will-consider-all-options-for-next-policy-decision-202609140837",
-      "datum": "2026-09-14T08:37:59.000Z"
+      "titel": "Japanese Yen: BoJ guidance crucial for further gains against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-crucial-for-further-gains-against-us-dollar-ocbc-202609140943",
+      "datum": "2026-09-14T09:43:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Inflation-driven rate risks and premium – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-inflation-driven-rate-risks-and-premium-commerzbank-202609140833",
-      "datum": "2026-09-14T08:33:03.000Z"
+      "titel": "WTI extend opening gains amid fears of further energy supply risks",
+      "link": "https://www.fxstreet.com/news/wti-extend-opening-gains-amid-fears-of-further-energy-supply-risks-202609140932",
+      "datum": "2026-09-14T09:32:05.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "GBP/JPY Price Forecast: Clings to gains above 208.00; bearish bias intact ahead of BoE/BoJ",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-clings-to-gains-above-20800-bearish-bias-intact-ahead-of-boe-boj-202609140827",
-      "datum": "2026-09-14T08:27:01.000Z"
+      "titel": "Swiss Franc nears yearly lows as Fed rate hike bets boost US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-nears-yearly-lows-as-fed-rate-hike-bets-boost-us-dollar-202609140932",
+      "datum": "2026-09-14T09:32:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "ECB Simkus: Can't exclude action at any meeting",
-      "link": "https://www.fxstreet.com/news/ecb-simkus-cant-exclude-action-at-any-meeting-202609140824",
-      "datum": "2026-09-14T08:24:39.000Z"
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609140930",
+      "datum": "2026-09-14T09:30:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada CPI Preview: Inflation forecast to remain stable in August",
+      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730",
+      "datum": "2026-09-14T07:30:00.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-41/",
       "datum": "2026-09-14T06:26:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold remains depressed above $4,300 as USD sticks to gains amid Fed hike bets, Iran risks",
-      "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-300-as-firmer-usd-caps-upside-amid-hawkish-central-bank-bets-202609140452",
-      "datum": "2026-09-14T04:52:16.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "NZ services sector expands for third month as PSI rises to 51.2",
       "link": "https://investinglive.com/news/nz-services-sector-expands-for-third-month-as-psi-rises-to-51-2/",
       "datum": "2026-09-13T22:43:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 11 Sept: US CPI raises odds for Fed rate hike",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-sept-us-cpi-keeps-fed-raises-odds-for-fed-rate-hike/",
-      "datum": "2026-09-11T21:18:48.000Z"
     }
   ]
 }

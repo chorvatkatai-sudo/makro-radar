@@ -13206,7 +13206,7 @@
       "land": "USD",
       "titel": "Federal Funds Rate",
       "impact": "High",
-      "prognose": "",
+      "prognose": "4.00%",
       "vorher": "3.75%",
       "actual": null,
       "notiz": null
@@ -13578,6 +13578,76 @@
       "impact": "Low",
       "prognose": "0.2%",
       "vorher": "0.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-14T11:15:00-04:00|EUR|ECB President Lagarde Speaks": {
+      "datum": "2026-09-14T11:15:00-04:00",
+      "land": "EUR",
+      "titel": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-15T02:02:00-04:00|CNY|Foreign Direct Investment ytd/y": {
+      "datum": "2026-09-15T02:02:00-04:00",
+      "land": "CNY",
+      "titel": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-6.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-18T06:15:00-04:00|EUR|Eurogroup Meetings": {
+      "datum": "2026-09-18T06:15:00-04:00",
+      "land": "EUR",
+      "titel": "Eurogroup Meetings",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-18T06:15:00-04:00|EUR|ECOFIN Meetings": {
+      "datum": "2026-09-18T06:15:00-04:00",
+      "land": "EUR",
+      "titel": "ECOFIN Meetings",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-18T06:30:00-04:00|EUR|ECB President Lagarde Speaks": {
+      "datum": "2026-09-18T06:30:00-04:00",
+      "land": "EUR",
+      "titel": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-18T11:45:00-04:00|USD|FOMC Member Schmid Speaks": {
+      "datum": "2026-09-18T11:45:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Schmid Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-19T06:15:00-04:00|EUR|ECOFIN Meetings": {
+      "datum": "2026-09-19T06:15:00-04:00",
+      "land": "EUR",
+      "titel": "ECOFIN Meetings",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

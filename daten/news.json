@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-13T05:03:54.367Z",
+  "stand": "2026-09-14T05:06:02.612Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,15 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-202609112201",
-      "datum": "2026-09-11T22:01:02.000Z"
+      "titel": "AUD/JPY Price Forecast: Holds steady near 110.00, bearish technicals persist",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-steady-near-11000-bearish-technicals-persist-202609140458",
+      "datum": "2026-09-14T04:58:34.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121",
-      "datum": "2026-09-11T21:21:00.000Z"
+      "titel": "Gold flat lines above $4,300 as firmer USD caps upside amid hawkish central bank bets",
+      "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-300-as-firmer-usd-caps-upside-amid-hawkish-central-bank-bets-202609140452",
+      "datum": "2026-09-14T04:52:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Slides to four-week low as hawkish Fed bets accelerate",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-slides-to-four-week-low-as-hawkish-fed-bets-accelerate-202609140446",
+      "datum": "2026-09-14T04:46:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609140435",
+      "datum": "2026-09-14T04:35:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Trades near 178.50 after rebounding from descending channel bottom",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-17850-after-rebounding-from-descending-channel-bottom-202609140409",
+      "datum": "2026-09-14T04:09:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil holds gap higher",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-gap-higher/",
+      "datum": "2026-09-14T03:56:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index rises to near 99.50 as Fed rate hike bets increase",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-9950-as-fed-rate-hike-bets-increase-202609140309",
+      "datum": "2026-09-14T03:09:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Shows resilience below 38.2% Fibo. near mid-0.7100s",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-shows-resilience-below-382-fibo-near-mid-07100s-202609140306",
+      "datum": "2026-09-14T03:06:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar weakens below 0.5800 on RBNZ dovish signals",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-below-05800-on-rbnz-dovish-signals-202609140257",
+      "datum": "2026-09-14T02:57:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD bears have the upper hand below $64.75-$64.85 confluence",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bears-have-the-upper-hand-below-6475-6485-confluence-202609140231",
+      "datum": "2026-09-14T02:31:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Anthropic, OpenAI and Google held talks on AI safety body, report says",
+      "link": "https://investinglive.com/news/anthropic-openai-and-google-held-talks-on-ai-safety-body-report-says/",
+      "datum": "2026-09-14T02:21:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar gains support from higher oil prices amid Saudi pipeline disruptions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-support-from-higher-oil-prices-amid-saudi-pipeline-disruptions-202609140210",
+      "datum": "2026-09-14T02:10:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen edges lower vs USD amid Middle East jitters as Fed, BoJ meetings loom",
+      "link": "https://www.fxstreet.com/news/japanese-yen-edges-lower-vs-usd-amid-middle-east-jitters-as-fed-boj-meetings-loom-202609140204",
+      "datum": "2026-09-14T02:04:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold edges lower below $4,350 on imminent Fed rate hike",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-350-on-imminent-fed-rate-hike-202609140200",
+      "datum": "2026-09-14T02:00:32.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Carney explores Canada as EU associate member, WSJ reports",
+      "link": "https://investinglive.com/news/carney-explores-canada-as-eu-associate-member-wsj-reports/",
+      "datum": "2026-09-13T23:40:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "NZ services sector expands for third month as PSI rises to 51.2",
+      "link": "https://investinglive.com/news/nz-services-sector-expands-for-third-month-as-psi-rises-to-51-2/",
+      "datum": "2026-09-13T22:43:37.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -25,94 +109,10 @@
       "datum": "2026-09-11T21:18:48.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-202609112101",
-      "datum": "2026-09-11T21:01:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Taiwan Dollar: CBC seen on hold before December hike – DBS",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-seen-on-hold-before-december-hike-dbs-202609112041",
-      "datum": "2026-09-11T20:41:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Crude Oil buckles early and grinds back on talk of a Hormuz arrangement",
-      "link": "https://www.fxstreet.com/news/crude-oil-buckles-early-and-grinds-back-on-talk-of-a-hormuz-arrangement-202609112019",
-      "datum": "2026-09-11T20:19:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Bullish bias fades against dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956",
-      "datum": "2026-09-11T19:56:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: Neckline failure keeps bears in control",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-failure-keeps-bears-in-control-202609111953",
-      "datum": "2026-09-11T19:53:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forecasting the upcoming week: Fed, BoE and BoJ headline a central bank triple-header",
-      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-headline-a-central-bank-triple-header-202609111952",
-      "datum": "2026-09-11T19:52:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Japan: Gradual path toward neutral rate – ING",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-gradual-path-toward-neutral-rate-ing-202609111924",
-      "datum": "2026-09-11T19:24:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Treasury yields ease after CPI as Fed hike risks linger",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852",
-      "datum": "2026-09-11T18:52:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Asia FX: Resilience at risk as US yields climb – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-resilience-at-risk-as-us-yields-climb-mufg-202609111840",
-      "datum": "2026-09-11T18:40:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen rises as the Greenback's inflation bounce fades",
-      "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-the-greenbacks-inflation-bounce-fades-202609111837",
-      "datum": "2026-09-11T18:37:47.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US August Federal budget deficit $167 billion vs $404 billion expected",
       "link": "https://investinglive.com/news/us-august-federal-budget-deficit-167-billion-vs-404-billion-expected/",
       "datum": "2026-09-11T18:03:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UMich September consumer sentiment 47.8 vs 51.0 expected",
-      "link": "https://investinglive.com/news/umich-september-consumer-sentiment-47-8-vs-51-0-expected/",
-      "datum": "2026-09-11T14:12:23.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-      "datum": "2026-09-11T14:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Some anniversaries aren’t meant to be celebrated. They are simply remembered and never forgotten.",
-      "link": "https://investinglive.com/news/some-anniversaries-aren-t-meant-to-be-celebrated-they-are-simply-remembered-and-never-forgotten/",
-      "datum": "2026-09-11T13:56:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Back up the garbage truck: A look at how AI will impact margins in AI",
-      "link": "https://investinglive.com/news/back-of-the-garbage-truck-a-look-at-how-ai-will-impact-margins-in-ai/",
-      "datum": "2026-09-11T13:35:56.000Z"
     }
   ]
 }

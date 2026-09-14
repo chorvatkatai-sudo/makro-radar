@@ -12786,7 +12786,7 @@
       "land": "CNY",
       "titel": "Fixed Asset Investment ytd/y",
       "impact": "Low",
-      "prognose": "-7.0%",
+      "prognose": "-7.1%",
       "vorher": "-6.7%",
       "actual": null,
       "notiz": null
@@ -12816,7 +12816,7 @@
       "land": "CNY",
       "titel": "Retail Sales y/y",
       "impact": "Low",
-      "prognose": "0.8%",
+      "prognose": "0.7%",
       "vorher": "0.6%",
       "actual": null,
       "notiz": null
@@ -12876,7 +12876,7 @@
       "land": "GBP",
       "titel": "Unemployment Rate",
       "impact": "Low",
-      "prognose": "4.9%",
+      "prognose": "5.0%",
       "vorher": "4.9%",
       "actual": null,
       "notiz": null
@@ -12916,7 +12916,7 @@
       "land": "EUR",
       "titel": "German ZEW Economic Sentiment",
       "impact": "Low",
-      "prognose": "42.7",
+      "prognose": "39.8",
       "vorher": "34.2",
       "actual": null,
       "notiz": null
@@ -12926,7 +12926,7 @@
       "land": "EUR",
       "titel": "ZEW Economic Sentiment",
       "impact": "Low",
-      "prognose": "39.9",
+      "prognose": "39.2",
       "vorher": "31.4",
       "actual": null,
       "notiz": null
@@ -12956,7 +12956,7 @@
       "land": "USD",
       "titel": "Empire State Manufacturing Index",
       "impact": "Low",
-      "prognose": "14.1",
+      "prognose": "14.8",
       "vorher": "20.6",
       "actual": null,
       "notiz": null
@@ -12996,7 +12996,7 @@
       "land": "NZD",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "-2.37B",
+      "prognose": "-2.57B",
       "vorher": "-1.01B",
       "actual": null,
       "notiz": null
@@ -13006,7 +13006,7 @@
       "land": "JPY",
       "titel": "Core Machinery Orders m/m",
       "impact": "Low",
-      "prognose": "-1.1%",
+      "prognose": "-1.2%",
       "vorher": "9.7%",
       "actual": null,
       "notiz": null
@@ -13016,7 +13016,7 @@
       "land": "JPY",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "-0.98T",
+      "prognose": "-1.00T",
       "vorher": "-0.69T",
       "actual": null,
       "notiz": null
@@ -13056,7 +13056,7 @@
       "land": "GBP",
       "titel": "PPI Input m/m",
       "impact": "Low",
-      "prognose": "-0.6%",
+      "prognose": "0.6%",
       "vorher": "-1.7%",
       "actual": null,
       "notiz": null
@@ -13066,7 +13066,7 @@
       "land": "GBP",
       "titel": "PPI Output m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.5%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -13096,7 +13096,7 @@
       "land": "EUR",
       "titel": "Industrial Production m/m",
       "impact": "Low",
-      "prognose": "-0.5%",
+      "prognose": "-0.2%",
       "vorher": "0.0%",
       "actual": null,
       "notiz": null
@@ -13116,7 +13116,7 @@
       "land": "CAD",
       "titel": "Housing Starts",
       "impact": "Low",
-      "prognose": "239K",
+      "prognose": "243K",
       "vorher": "229K",
       "actual": null,
       "notiz": null
@@ -13126,7 +13126,7 @@
       "land": "CAD",
       "titel": "Building Permits m/m",
       "impact": "Low",
-      "prognose": "-5.8%",
+      "prognose": "-4.5%",
       "vorher": "18.5%",
       "actual": null,
       "notiz": null
@@ -13156,7 +13156,7 @@
       "land": "USD",
       "titel": "Import Prices m/m",
       "impact": "Low",
-      "prognose": "0.0%",
+      "prognose": "0.4%",
       "vorher": "-0.4%",
       "actual": null,
       "notiz": null
@@ -13166,7 +13166,7 @@
       "land": "USD",
       "titel": "Business Inventories m/m",
       "impact": "Low",
-      "prognose": "0.3%",
+      "prognose": "0.6%",
       "vorher": "0.0%",
       "actual": null,
       "notiz": null
@@ -13346,7 +13346,7 @@
       "land": "CAD",
       "titel": "IPPI m/m",
       "impact": "Low",
-      "prognose": "0.3%",
+      "prognose": "0.0%",
       "vorher": "0.6%",
       "actual": null,
       "notiz": null
@@ -13356,7 +13356,7 @@
       "land": "CAD",
       "titel": "RMPI m/m",
       "impact": "Low",
-      "prognose": "-0.8%",
+      "prognose": "0.7%",
       "vorher": "-2.2%",
       "actual": null,
       "notiz": null
@@ -13366,7 +13366,7 @@
       "land": "USD",
       "titel": "Philly Fed Manufacturing Index",
       "impact": "Medium",
-      "prognose": "28.9",
+      "prognose": "31.3",
       "vorher": "47.4",
       "actual": null,
       "notiz": null
@@ -13376,7 +13376,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "209K",
+      "prognose": "208K",
       "vorher": "206K",
       "actual": null,
       "notiz": null
@@ -13396,7 +13396,7 @@
       "land": "USD",
       "titel": "Housing Starts",
       "impact": "Low",
-      "prognose": "1.32M",
+      "prognose": "1.31M",
       "vorher": "1.24M",
       "actual": null,
       "notiz": null
@@ -13406,7 +13406,7 @@
       "land": "USD",
       "titel": "Pending Home Sales m/m",
       "impact": "Low",
-      "prognose": "0.3%",
+      "prognose": "-0.2%",
       "vorher": "-2.3%",
       "actual": null,
       "notiz": null
@@ -13446,7 +13446,7 @@
       "land": "NZD",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "-1275M",
+      "prognose": "-1775M",
       "vorher": "-1949M",
       "actual": null,
       "notiz": null
@@ -13556,7 +13556,7 @@
       "land": "USD",
       "titel": "Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.3%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -13576,7 +13576,7 @@
       "land": "USD",
       "titel": "CB Leading Index m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.1%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -13688,6 +13688,16 @@
       "impact": "Low",
       "prognose": "480B",
       "vorher": "-340B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-16T12:00:00-04:00|EUR|German Buba President Nagel Speaks": {
+      "datum": "2026-09-16T12:00:00-04:00",
+      "land": "EUR",
+      "titel": "German Buba President Nagel Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

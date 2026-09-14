@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-14T11:21:41.884Z",
+  "stand": "2026-09-14T17:19:45.776Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Fed hike expectations and limited gains – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-expectations-and-limited-gains-mufg-202609141113",
-      "datum": "2026-09-14T11:13:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Schnabel: Recent energy-price developments have been quite concerning",
-      "link": "https://www.fxstreet.com/news/ecbs-schnabel-recent-energy-price-developments-have-been-quite-concerning-202609141111",
-      "datum": "2026-09-14T11:11:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Aussie bears aim for a key support area around 0.7110",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-aussie-bears-aim-for-a-key-support-area-around-07110-202609141106",
-      "datum": "2026-09-14T11:06:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brent jumps above $104 as fresh supply threats rattle Oil markets",
-      "link": "https://www.fxstreet.com/news/brent-jumps-above-104-as-fresh-supply-threats-rattle-oil-markets-202609141105",
-      "datum": "2026-09-14T11:05:22.000Z"
+      "titel": "Euro slides against the Pound as a UK jobs test looms",
+      "link": "https://www.fxstreet.com/news/euro-slides-against-the-pound-as-a-uk-jobs-test-looms-202609141702",
+      "datum": "2026-09-14T17:02:49.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "India's inflation rises further to 4.82% in August, reinforcing rate hike expectations",
-      "link": "https://investinglive.com/news/india-s-inflation-rises-further-to-4-82-in-august-reinforcing-rate-hike-expectations/",
-      "datum": "2026-09-14T10:53:24.000Z"
+      "titel": "US seeks “step-by-step” agreement with Iran citing Pakistani sources",
+      "link": "https://investinglive.com/news/us-seeks-step-by-step-agreement-with-iran-citing-pakistani-sources/",
+      "datum": "2026-09-14T16:56:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed to raise interest rates to 3.75%-4.00% on September 16 – Reuters poll",
-      "link": "https://www.fxstreet.com/news/fed-to-raise-interest-rates-to-375-400-on-september-16-reuters-poll-202609141051",
-      "datum": "2026-09-14T10:51:18.000Z"
+      "titel": "British Pound buckles as the US yields rise puts Fed in command",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-the-us-yields-rise-puts-fed-in-command-202609141655",
+      "datum": "2026-09-14T16:55:47.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: US Dollar gains momentum and targets 1.3940 area",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-us-dollar-gains-momentum-and-targets-13940-area-202609141010",
-      "datum": "2026-09-14T10:10:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Downside pressure persists against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-downside-pressure-persists-against-us-dollar-uob-202609141005",
-      "datum": "2026-09-14T10:05:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ guidance crucial for further gains against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-crucial-for-further-gains-against-us-dollar-ocbc-202609140943",
-      "datum": "2026-09-14T09:43:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI extend opening gains amid fears of further energy supply risks",
-      "link": "https://www.fxstreet.com/news/wti-extend-opening-gains-amid-fears-of-further-energy-supply-risks-202609140932",
-      "datum": "2026-09-14T09:32:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc nears yearly lows as Fed rate hike bets boost US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-nears-yearly-lows-as-fed-rate-hike-bets-boost-us-dollar-202609140932",
-      "datum": "2026-09-14T09:32:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609140930",
-      "datum": "2026-09-14T09:30:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada CPI Preview: Inflation forecast to remain stable in August",
-      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730",
-      "datum": "2026-09-14T07:30:00.000Z"
+      "titel": "Euro falls as higher Oil prices support Canadian Dollar amid mixed inflation data",
+      "link": "https://www.fxstreet.com/news/euro-falls-as-higher-oil-prices-support-canadian-dollar-amid-mixed-inflation-data-202609141637",
+      "datum": "2026-09-14T16:37:20.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-41/",
-      "datum": "2026-09-14T06:26:33.000Z"
+      "titel": "Trump: Military conflict with Iran \"will not be long\"",
+      "link": "https://investinglive.com/news/trump-military-conflict-with-iran-will-not-be-long/",
+      "datum": "2026-09-14T16:36:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dollar Index climbs on Fed hike bets and stalls at its usual ceiling",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-climbs-on-fed-hike-bets-and-stalls-at-its-usual-ceiling-202609141622",
+      "datum": "2026-09-14T16:22:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen weakens at the start of a central bank-heavy week",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-us-dollar-at-the-start-of-a-central-bank-heavy-week-202609141607",
+      "datum": "2026-09-14T16:07:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average loses another round to rising bond yields",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-loses-another-round-to-rising-bond-yields-202609141557",
+      "datum": "2026-09-14T15:57:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro area: Supply chain risks and core goods outlook – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-area-supply-chain-risks-and-core-goods-outlook-societe-generale-202609141547",
+      "datum": "2026-09-14T15:47:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar slides to monthly low as Fed hike odds firm",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-monthly-low-as-fed-hike-odds-firm-202609141528",
+      "datum": "2026-09-14T15:28:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: JPY underperforms into BoJ – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-jpy-underperforms-into-boj-scotiabank-202609141524",
+      "datum": "2026-09-14T15:24:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Forward guidance impact – Commerzbank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-forward-guidance-impact-commerzbank-202609141515",
+      "datum": "2026-09-14T15:15:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Crude Oil: Elevated upside risk with CTAs max long – TD Securities",
+      "link": "https://www.fxstreet.com/news/crude-oil-elevated-upside-risk-with-ctas-max-long-td-securities-202609141507",
+      "datum": "2026-09-14T15:07:09.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil holds gap higher",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-gap-higher/",
-      "datum": "2026-09-14T03:56:12.000Z"
+      "titel": "Trump: The only guradrail that AI needs is a high IQ President",
+      "link": "https://investinglive.com/news/trump-the-only-guradrail-that-ai-needs-is-a-high-iq-president/",
+      "datum": "2026-09-14T14:01:39.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Anthropic, OpenAI and Google held talks on AI safety body, report says",
-      "link": "https://investinglive.com/news/anthropic-openai-and-google-held-talks-on-ai-safety-body-report-says/",
-      "datum": "2026-09-14T02:21:11.000Z"
+      "titel": "Saudi east-west pipeline will be out of service for 3-5 weeks - report",
+      "link": "https://investinglive.com/news/saudi-east-west-pipeline-will-be-out-of-service-for-3-5-weeks-report/",
+      "datum": "2026-09-14T12:58:06.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Carney explores Canada as EU associate member, WSJ reports",
-      "link": "https://investinglive.com/news/carney-explores-canada-as-eu-associate-member-wsj-reports/",
-      "datum": "2026-09-13T23:40:53.000Z"
+      "titel": "Canada August CPI 3.0% y/y vs 3.0% expected",
+      "link": "https://investinglive.com/news/canada-august-cpi-y-y-vs-3-0-expected/",
+      "datum": "2026-09-14T12:30:48.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "NZ services sector expands for third month as PSI rises to 51.2",
-      "link": "https://investinglive.com/news/nz-services-sector-expands-for-third-month-as-psi-rises-to-51-2/",
-      "datum": "2026-09-13T22:43:37.000Z"
+      "titel": "investingLive European markets wrap: Oil surges, Fed rate hike bets rise as AI fears hit stocks",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-surges-fed-rate-hike-bets-rise-as-ai-fears-hit-stocks/",
+      "datum": "2026-09-14T11:55:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold falls as Fed rate hike bets, rising Oil push Treasury yields to 5%",
+      "link": "https://www.fxstreet.com/news/gold-starts-the-week-lower-as-traders-await-fed-verdict-202609141130",
+      "datum": "2026-09-14T11:30:18.000Z"
     }
   ]
 }

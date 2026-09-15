@@ -642,20 +642,20 @@
   {
     "date": "2026-09-24T01:30:00.000Z",
     "country": "AUD",
-    "title": "Part Time Employment Chg",
+    "title": "Participation Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "-32.2",
+    "previous": "66.9%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-24T01:30:00.000Z",
     "country": "AUD",
-    "title": "Participation Rate",
+    "title": "Part Time Employment Chg",
     "impact": "Low",
     "forecast": "",
-    "previous": "66.9%",
+    "previous": "-32.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -862,20 +862,20 @@
   {
     "date": "2026-09-24T14:00:00.000Z",
     "country": "USD",
-    "title": "New Home Sales",
+    "title": "New Home Sales MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.607",
+    "previous": "-10.5",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-24T14:00:00.000Z",
     "country": "USD",
-    "title": "New Home Sales MoM",
+    "title": "New Home Sales",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-10.5",
+    "previous": "0.607",
     "actual": null,
     "quelle": "tradingview"
   },

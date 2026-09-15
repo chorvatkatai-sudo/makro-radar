@@ -1,11 +1,23 @@
 {
-  "stand": "2026-09-15T15:22:12.562Z",
+  "stand": "2026-09-15T16:06:22.133Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound wilts as Oil shock sends US yields past 5%",
+      "link": "https://www.fxstreet.com/news/british-pound-wilts-as-oil-shock-sends-us-yields-past-5-202609151604",
+      "datum": "2026-09-15T16:04:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro stays neutral against Pound ahead of UK inflation data",
+      "link": "https://www.fxstreet.com/news/euro-stays-neutral-against-pound-ahead-of-uk-inflation-data-202609151531",
+      "datum": "2026-09-15T15:31:29.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Japanese Yen: Weak as markets price BoJ hike against US Dollar – Scotiabank",
@@ -59,18 +71,6 @@
       "titel": "Japanese Yen loses ground as Fed tightening bets boost US Dollar",
       "link": "https://www.fxstreet.com/news/japanese-yen-loses-ground-as-fed-tightening-bets-boost-us-dollar-202609151405",
       "datum": "2026-09-15T14:05:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Bearish bias within 153.30–156.30 against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-15330-15630-against-us-dollar-uob-202609151403",
-      "datum": "2026-09-15T14:03:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Remains slightly softer against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-slightly-softer-against-us-dollar-scotiabank-202609151350",
-      "datum": "2026-09-15T13:50:11.000Z"
     },
     {
       "quelle": "ForexLive",

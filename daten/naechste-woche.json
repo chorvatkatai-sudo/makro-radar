@@ -12,20 +12,20 @@
   {
     "date": "2026-09-21T01:15:00.000Z",
     "country": "CNY",
-    "title": "Loan Prime Rate 5Y",
+    "title": "Loan Prime Rate 1Y",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3.5%",
+    "previous": "3%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-21T01:15:00.000Z",
     "country": "CNY",
-    "title": "Loan Prime Rate 1Y",
+    "title": "Loan Prime Rate 5Y",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3%",
+    "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
   },

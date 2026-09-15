@@ -1,11 +1,89 @@
 {
-  "stand": "2026-09-15T19:23:22.678Z",
+  "stand": "2026-09-15T22:34:49.584Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "The Euro edges lower as Frankfurt's hike takes effect the day Washington votes",
+      "link": "https://www.fxstreet.com/news/the-euro-edges-lower-as-frankfurts-hike-takes-effect-the-day-washington-votes-202609152226",
+      "datum": "2026-09-15T22:26:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebounds-above-20700-as-oversold-risk-eases-202609152222",
+      "datum": "2026-09-15T22:22:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Pound drifts lower as the Fed lines up a rate above the Bank of England's",
+      "link": "https://www.fxstreet.com/news/the-pound-drifts-lower-as-the-fed-lines-up-a-rate-above-the-bank-of-englands-202609152209",
+      "datum": "2026-09-15T22:09:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar slides ahead of Fed’s decision",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-ahead-of-feds-decision-202609152129",
+      "datum": "2026-09-15T21:29:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Range-bound with slight downside bias against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-bound-with-slight-downside-bias-against-us-dollar-uob-202609152121",
+      "datum": "2026-09-15T21:21:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Washington seeks cap on foreign parts in AI chips and servers",
+      "link": "https://investinglive.com/news/washington-seeks-cap-on-foreign-parts-in-ai-chips-and-servers/",
+      "datum": "2026-09-15T21:00:48.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Wednesday, September 16, 2026. Busy, bit non-impactful.",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-16-2026-busy-bit-non-impactful/",
+      "datum": "2026-09-15T20:42:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso retreats as USD/MXN bounces from near YTD low",
+      "link": "https://www.fxstreet.com/news/mexican-peso-retreats-as-usd-mxn-bounces-from-near-ytd-low-202609152036",
+      "datum": "2026-09-15T20:36:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah: Market tests Indonesia policy credibility – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-market-tests-indonesia-policy-credibility-commerzbank-202609152027",
+      "datum": "2026-09-15T20:27:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Rising oil overshadows the Fed decision",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-rising-oil-overshadows-the-fed-decision/",
+      "datum": "2026-09-15T20:24:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Crude Oil rallies again as Saudi Arabia's route around Hormuz shuts",
+      "link": "https://www.fxstreet.com/news/crude-oil-rallies-again-as-saudi-arabias-route-around-hormuz-shuts-202609151958",
+      "datum": "2026-09-15T19:58:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Slow appreciation with weak demand – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-slow-appreciation-with-weak-demand-commerzbank-202609151949",
+      "datum": "2026-09-15T19:49:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: US Dollar firms as markets brace for Fed rate decision",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-as-markets-brace-for-fed-rate-decision-202609151939",
+      "datum": "2026-09-15T19:39:36.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Singapore Dollar: Downtrend seen limited against US Dollar – UOB",
@@ -17,66 +95,6 @@
       "titel": "EUR/USD Price Forecast: Bears crack 100-day SMA, eye 1.1500",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-crack-100-day-sma-eye-11500-202609151850",
       "datum": "2026-09-15T18:50:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen slips as Oil lifts yields ahead of the Fed",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-oil-lifts-yields-ahead-of-the-fed-202609151849",
-      "datum": "2026-09-15T18:49:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Growth risks rise with softer demand – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/china-growth-risks-rise-with-softer-demand-standard-chartered-202609151837",
-      "datum": "2026-09-15T18:37:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "NZD/USD Price Forecast: Bears break 0.5800 as Kiwi slide deepens",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-break-05800-as-kiwi-slide-deepens-202609151825",
-      "datum": "2026-09-15T18:25:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "100 threshold: United States Dollar Index faces make-or-break Fed decision",
-      "link": "https://www.fxstreet.com/news/100-threshold-united-states-dollar-index-faces-make-or-break-fed-decision-202609151814",
-      "datum": "2026-09-15T18:14:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold bulls hit 100-day SMA wall as US yields bite",
-      "link": "https://www.fxstreet.com/news/gold-bulls-hit-100-day-sma-wall-as-us-yields-bite-202609151812",
-      "datum": "2026-09-15T18:12:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Supportive fundamentals, slower gains – Commerzbank",
-      "link": "https://www.fxstreet.com/news/south-korean-won-supportive-fundamentals-slower-gains-commerzbank-202609151751",
-      "datum": "2026-09-15T17:51:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar remains vulnerable aas Fed takes centre stage",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-vulnerable-aas-fed-takes-centre-stage-202609151714",
-      "datum": "2026-09-15T17:14:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver attempts cautious rebound ahead of closely watched Fed decision",
-      "link": "https://www.fxstreet.com/news/silver-attempts-cautious-rebound-ahead-of-closely-watched-fed-decision-202609151659",
-      "datum": "2026-09-15T16:59:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average slides as yields beat the Fed to tomorrow's hike",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-slides-as-yields-beat-the-fed-to-tomorrows-hike-202609151624",
-      "datum": "2026-09-15T16:24:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound wilts as Oil shock sends US yields past 5%",
-      "link": "https://www.fxstreet.com/news/british-pound-wilts-as-oil-shock-sends-us-yields-past-5-202609151604",
-      "datum": "2026-09-15T16:04:53.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "September US Empire Fed manufacturing +7.6 vs +15.0 expected",
       "link": "https://investinglive.com/news/september-us-empire-fed-manufacturing-7-6-vs-15-0-expected/",
       "datum": "2026-09-15T12:31:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US ADP weekly employment estimate rises to 16,250 vs 12,000 expected",
-      "link": "https://investinglive.com/news/us-adp-weekly-employment-estimate-rises-to-16-250-vs-12-000-expected/",
-      "datum": "2026-09-15T12:28:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Crypto markets sink ahead of Clarity Act vote",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-crypto-markets-sink-ahead-of-clarity-act-vote/",
-      "datum": "2026-09-15T11:35:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German investor morale continues to rise in September but less than expected - ZEW survey",
-      "link": "https://investinglive.com/news/german-investor-morale-continues-to-rise-in-september-but-less-than-expected-zew-survey/",
-      "datum": "2026-09-15T09:08:56.000Z"
     }
   ]
 }

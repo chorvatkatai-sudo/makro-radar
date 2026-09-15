@@ -285,7 +285,7 @@
     "title": "API Crude Oil Stock Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "7.14",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1022,6 +1022,16 @@
   {
     "date": "2026-09-25T08:00:00.000Z",
     "country": "EUR",
+    "title": "M3 Money Supply YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.4%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-25T08:00:00.000Z",
+    "country": "EUR",
     "title": "Loans to Companies YoY",
     "impact": "Low",
     "forecast": "",
@@ -1036,16 +1046,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.1%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-25T08:00:00.000Z",
-    "country": "EUR",
-    "title": "M3 Money Supply YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
   },

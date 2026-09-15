@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-15T19:23:22.679Z",
+  "stand": "2026-09-15T22:34:49.586Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": -1,
       "tiltCot": -2,
-      "tiltZins": -2,
-      "tiltGesamt": -4,
-      "score": -5,
+      "tiltZins": -3,
+      "tiltGesamt": -5,
+      "score": -6,
       "cotExtrem": null,
       "treiber": "Ruhiger Markt (VIX ~17) stützt den Aussie leicht, gegen den festen Dollar bleibt aber wenig übrig → nahe null.",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -2,
       "tiltCot": 1,
-      "tiltZins": 1,
-      "tiltGesamt": 2,
-      "score": 0,
+      "tiltZins": 0,
+      "tiltGesamt": 1,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "RBNZ-Falken-Geschichte + netto-long Spekulanten stützen den Kiwi, aber der feste Dollar drückt → leicht negativ. (Bester Paar-Track-Record der Gruppe.)",
       "istCross": false

@@ -13126,7 +13126,7 @@
       "land": "CAD",
       "titel": "Building Permits m/m",
       "impact": "Low",
-      "prognose": "-4.5%",
+      "prognose": "-4.7%",
       "vorher": "18.5%",
       "actual": null,
       "notiz": null
@@ -13708,6 +13708,26 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "-6.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-15T10:00:00-04:00|USD|Treasury Sec Bessent Speaks": {
+      "datum": "2026-09-15T10:00:00-04:00",
+      "land": "USD",
+      "titel": "Treasury Sec Bessent Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-15T10:55:00-04:00|NZD|GDT Price Index": {
+      "datum": "2026-09-15T10:55:00-04:00",
+      "land": "NZD",
+      "titel": "GDT Price Index",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "0.9%",
       "actual": null,
       "notiz": null
     }

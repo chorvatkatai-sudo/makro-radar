@@ -102,10 +102,20 @@
   {
     "date": "2026-09-22T02:35:00.000Z",
     "country": "NZD",
+    "title": "1-Year Bill Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.57%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-22T02:35:00.000Z",
+    "country": "NZD",
     "title": "6-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.1612%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -115,17 +125,7 @@
     "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-22T02:35:00.000Z",
-    "country": "NZD",
-    "title": "1-Year Bill Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
+    "previous": "2.9025%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -782,20 +782,20 @@
   {
     "date": "2026-09-24T12:30:00.000Z",
     "country": "CAD",
-    "title": "Retail Sales YoY",
+    "title": "Manufacturing Sales MoM Prel",
     "impact": "Low",
     "forecast": "",
-    "previous": "5.2%",
+    "previous": "-0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-24T12:30:00.000Z",
     "country": "CAD",
-    "title": "Manufacturing Sales MoM Prel",
+    "title": "Retail Sales YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "-0.4%",
+    "previous": "5.2%",
     "actual": null,
     "quelle": "tradingview"
   },

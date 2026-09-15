@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-14T21:13:44.110Z",
+  "stand": "2026-09-15T05:05:39.425Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,9 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen recedes as Fed and BoJ decisions loom",
-      "link": "https://www.fxstreet.com/news/japanese-yen-recedes-as-fed-and-boj-decisions-loom-202609142100",
-      "datum": "2026-09-14T21:00:42.000Z"
+      "titel": "Indonesian Rupiah weakens amid stronger US Dollar, higher oil prices",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-amid-stronger-us-dollar-higher-oil-prices-202609150453",
+      "datum": "2026-09-15T04:53:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen sticks to losses against bullish USD as traders await Fed, BoJ meetings loom",
+      "link": "https://www.fxstreet.com/news/japanese-yen-sticks-to-losses-against-bullish-usd-as-traders-await-fed-boj-meetings-loom-202609150440",
+      "datum": "2026-09-15T04:40:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold steadies, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609150435",
+      "datum": "2026-09-15T04:35:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asian stocks trade mixed, AI stocks and oil prices in focus",
+      "link": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-ai-stocks-and-oil-prices-in-focus-202609150433",
+      "datum": "2026-09-15T04:33:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold bounces off 50-SMA support; bearish bias remains amid Fed hike bets and firmer USD",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-50-sma-support-bearish-bias-remains-amid-fed-hike-bets-and-firmer-usd-202609150412",
+      "datum": "2026-09-15T04:12:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil holds near highs",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-highs-0/",
+      "datum": "2026-09-15T03:43:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Hovers around 178.50 within oversold territory",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-hovers-around-17850-within-oversold-territory-202609150331",
+      "datum": "2026-09-15T03:31:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc remains under pressure against US Dollar, Fed’s policy in focus",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-against-us-dollar-feds-policy-in-focus-202609150315",
+      "datum": "2026-09-15T03:15:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China's factories outperform as consumption and investment lag behind",
+      "link": "https://investinglive.com/news/china-s-factories-outperform-as-consumption-and-investment-lag-behind/",
+      "datum": "2026-09-15T02:54:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index strengthens above 99.50 as Fed rate hike bets rise",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-above-9950-as-fed-rate-hike-bets-rise-202609150240",
+      "datum": "2026-09-15T02:40:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar remains subdued following release of China’s economic data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-following-release-of-chinas-economic-data-202609150236",
+      "datum": "2026-09-15T02:36:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar remains depressed below mid-0.7100s vs bullish USD after Chinese data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-depressed-below-mid-07100s-vs-bullish-usd-after-chinese-data-202609150227",
+      "datum": "2026-09-15T02:27:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China’s Retail Sales rise 0.4% in August, Industrial Production up 5.2%",
+      "link": "https://www.fxstreet.com/news/chinas-retail-sales-rise-04-in-august-industrial-production-up-52-202609150207",
+      "datum": "2026-09-15T02:07:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China August retail sales +0.4% y/y (expected +0.6%)",
+      "link": "https://investinglive.com/news/china-august-retail-sales-0-4-y-y-expected-0-6/",
+      "datum": "2026-09-15T02:02:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound drifts lower below 1.3500 as Fed hike bets rise, UK jobs data loom",
+      "link": "https://www.fxstreet.com/news/british-pound-drifts-lower-below-13500-as-fed-hike-bets-rise-uk-jobs-data-loom-202609150156",
+      "datum": "2026-09-15T01:56:17.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China home prices keep falling in August as property slump drags on",
+      "link": "https://investinglive.com/news/china-home-prices-keep-falling-in-august-as-property-slump-drags-on/",
+      "datum": "2026-09-15T01:38:16.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -19,100 +109,10 @@
       "datum": "2026-09-14T20:59:59.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: Shooting star warns bulls below 0.8200",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-shooting-star-warns-bulls-below-08200-202609142048",
-      "datum": "2026-09-14T20:48:23.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity",
       "link": "https://investinglive.com/news/economic-event-calendar-asia-tuesday-september-15-2026-china-set-to-report-august-activity/",
       "datum": "2026-09-14T20:19:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts",
-      "link": "https://www.fxstreet.com/news/crude-oil-spikes-on-a-shut-saudi-pipeline-and-unwinds-on-trumps-posts-202609142014",
-      "datum": "2026-09-14T20:14:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: US Dollar firms ahead of UK jobs and a midweek Fed decision",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-uk-jobs-and-a-midweek-fed-decision-202609141929",
-      "datum": "2026-09-14T19:29:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: Neckline rejection keeps $60 in sight",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-rejection-keeps-60-in-sight-202609141925",
-      "datum": "2026-09-14T19:25:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold gets squeezed by 5% Treasury yields as FOMC week begins",
-      "link": "https://www.fxstreet.com/news/gold-gets-squeezed-by-5-treasury-yields-as-fomc-week-begins-202609141909",
-      "datum": "2026-09-14T19:09:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar Index: Fed pricing supports gains – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-fed-pricing-supports-gains-scotiabank-202609141858",
-      "datum": "2026-09-14T18:58:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Hawkish Fed may offer only limited gains - BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-may-offer-only-limited-gains-bbh-202609141851",
-      "datum": "2026-09-14T18:51:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CAD Price Forecast: Buyers challenge 100-day SMA after double-bottom formation",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-buyers-challenge-100-day-sma-after-double-bottom-formation-202609141818",
-      "datum": "2026-09-14T18:18:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: AI will be the greatest economic development engine in history",
-      "link": "https://investinglive.com/news/trump-ai-will-be-the-greatest-economic-development-engine-in-history/",
-      "datum": "2026-09-14T17:53:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Risk trades steadily rebound on Trump's talk about AI and energy",
-      "link": "https://investinglive.com/news/risk-trades-steadily-rebound-on-trump-s-talk-about-ai-and-energy/",
-      "datum": "2026-09-14T17:43:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro slides against the Pound as a UK jobs test looms",
-      "link": "https://www.fxstreet.com/news/euro-slides-against-the-pound-as-a-uk-jobs-test-looms-202609141702",
-      "datum": "2026-09-14T17:02:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US seeks “step-by-step” agreement with Iran citing Pakistani sources",
-      "link": "https://investinglive.com/news/us-seeks-step-by-step-agreement-with-iran-citing-pakistani-sources/",
-      "datum": "2026-09-14T16:56:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound buckles as US yields rise puts Fed in command",
-      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-the-us-yields-rise-puts-fed-in-command-202609141655",
-      "datum": "2026-09-14T16:55:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro falls as higher Oil prices support Canadian Dollar amid mixed inflation data",
-      "link": "https://www.fxstreet.com/news/euro-falls-as-higher-oil-prices-support-canadian-dollar-amid-mixed-inflation-data-202609141637",
-      "datum": "2026-09-14T16:37:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: Military conflict with Iran \"will not be long\"",
-      "link": "https://investinglive.com/news/trump-military-conflict-with-iran-will-not-be-long/",
-      "datum": "2026-09-14T16:36:35.000Z"
     }
   ]
 }

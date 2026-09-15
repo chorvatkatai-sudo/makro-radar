@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-15T05:04:32.792Z",
+  "stand": "2026-09-15T05:05:39.427Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": -1,
       "tiltCot": -2,
-      "tiltZins": -5,
-      "tiltGesamt": -7,
-      "score": -8,
+      "tiltZins": -3,
+      "tiltGesamt": -5,
+      "score": -6,
       "cotExtrem": null,
       "treiber": "Ruhiger Markt (VIX ~17) stützt den Aussie leicht, gegen den festen Dollar bleibt aber wenig übrig → nahe null.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 1,
       "tiltCot": -3,
-      "tiltZins": -5,
-      "tiltGesamt": -8,
-      "score": -7,
+      "tiltZins": -3,
+      "tiltGesamt": -6,
+      "score": -5,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-15T16:06:22.133Z",
+  "stand": "2026-09-15T19:23:22.678Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Downtrend seen limited against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-downtrend-seen-limited-against-us-dollar-uob-202609151912",
+      "datum": "2026-09-15T19:12:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Bears crack 100-day SMA, eye 1.1500",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-crack-100-day-sma-eye-11500-202609151850",
+      "datum": "2026-09-15T18:50:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen slips as Oil lifts yields ahead of the Fed",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-oil-lifts-yields-ahead-of-the-fed-202609151849",
+      "datum": "2026-09-15T18:49:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "China: Growth risks rise with softer demand – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/china-growth-risks-rise-with-softer-demand-standard-chartered-202609151837",
+      "datum": "2026-09-15T18:37:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Bears break 0.5800 as Kiwi slide deepens",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-break-05800-as-kiwi-slide-deepens-202609151825",
+      "datum": "2026-09-15T18:25:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "100 threshold: United States Dollar Index faces make-or-break Fed decision",
+      "link": "https://www.fxstreet.com/news/100-threshold-united-states-dollar-index-faces-make-or-break-fed-decision-202609151814",
+      "datum": "2026-09-15T18:14:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold bulls hit 100-day SMA wall as US yields bite",
+      "link": "https://www.fxstreet.com/news/gold-bulls-hit-100-day-sma-wall-as-us-yields-bite-202609151812",
+      "datum": "2026-09-15T18:12:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Supportive fundamentals, slower gains – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-supportive-fundamentals-slower-gains-commerzbank-202609151751",
+      "datum": "2026-09-15T17:51:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar remains vulnerable aas Fed takes centre stage",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-vulnerable-aas-fed-takes-centre-stage-202609151714",
+      "datum": "2026-09-15T17:14:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver attempts cautious rebound ahead of closely watched Fed decision",
+      "link": "https://www.fxstreet.com/news/silver-attempts-cautious-rebound-ahead-of-closely-watched-fed-decision-202609151659",
+      "datum": "2026-09-15T16:59:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average slides as yields beat the Fed to tomorrow's hike",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-slides-as-yields-beat-the-fed-to-tomorrows-hike-202609151624",
+      "datum": "2026-09-15T16:24:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
       "titel": "British Pound wilts as Oil shock sends US yields past 5%",
       "link": "https://www.fxstreet.com/news/british-pound-wilts-as-oil-shock-sends-us-yields-past-5-202609151604",
       "datum": "2026-09-15T16:04:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro stays neutral against Pound ahead of UK inflation data",
-      "link": "https://www.fxstreet.com/news/euro-stays-neutral-against-pound-ahead-of-uk-inflation-data-202609151531",
-      "datum": "2026-09-15T15:31:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Weak as markets price BoJ hike against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weak-as-markets-price-boj-hike-against-us-dollar-scotiabank-202609151506",
-      "datum": "2026-09-15T15:06:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: Wage momentum complicates the BoE outlook - Nomura",
-      "link": "https://www.fxstreet.com/news/united-kingdom-wage-momentum-complicates-the-boe-outlook-nomura-202609151457",
-      "datum": "2026-09-15T14:57:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Further weakness eyed toward 1.3410 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-further-weakness-eyed-toward-13410-against-us-dollar-uob-202609151450",
-      "datum": "2026-09-15T14:50:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar continues recent slide ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-continues-recent-slide-ahead-of-fed-decision-202609151450",
-      "datum": "2026-09-15T14:50:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Natural gas: European prices stay elevated – ING",
-      "link": "https://www.fxstreet.com/news/natural-gas-european-prices-stay-elevated-ing-202609151441",
-      "datum": "2026-09-15T14:41:28.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/CHF Price Forecast: RSI and MACD signal firm upside momentum",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-and-macd-signal-firm-upside-momentum-202609151433",
-      "datum": "2026-09-15T14:33:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Support holds near 1.15 against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-support-holds-near-115-against-us-dollar-scotiabank-202609151425",
-      "datum": "2026-09-15T14:25:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: CTA selling intensifies ahead of Fed decision - TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-cta-selling-intensifies-ahead-of-fed-decision-td-securities-202609151417",
-      "datum": "2026-09-15T14:17:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen loses ground as Fed tightening bets boost US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-loses-ground-as-fed-tightening-bets-boost-us-dollar-202609151405",
-      "datum": "2026-09-15T14:05:07.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,12 +107,6 @@
       "titel": "investingLive European news wrap: Crypto markets sink ahead of Clarity Act vote",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-crypto-markets-sink-ahead-of-clarity-act-vote/",
       "datum": "2026-09-15T11:35:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold finds support near one-month low ahead of Fed interest rate decision",
-      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-markets-brace-for-fed-rate-hike-202609151131",
-      "datum": "2026-09-15T11:31:53.000Z"
     },
     {
       "quelle": "ForexLive",

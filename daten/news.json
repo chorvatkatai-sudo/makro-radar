@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-16T09:00:34.672Z",
+  "stand": "2026-09-16T15:13:53.197Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "WTI falls near $100 as Saudi adds Oman route, US stocks surge",
-      "link": "https://www.fxstreet.com/news/wti-falls-near-100-as-saudi-adds-oman-route-us-stocks-surge-202609160900",
-      "datum": "2026-09-16T09:00:11.000Z"
+      "titel": "Euro: Consolidation with downside risks against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-consolidation-with-downside-risks-against-us-dollar-scotiabank-202609161509",
+      "datum": "2026-09-16T15:09:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: Retreats from 155.50 with Fed’s policy in focus",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-retreats-from-15550-with-feds-policy-in-focus-202609160848",
-      "datum": "2026-09-16T08:48:20.000Z"
+      "titel": "US Dollar: Fed repricing risk caps downside – Rabobank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-caps-downside-rabobank-202609161501",
+      "datum": "2026-09-16T15:01:18.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Equities: Fed focus and energy shock – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-fed-focus-and-energy-shock-deutsche-bank-202609160847",
-      "datum": "2026-09-16T08:47:25.000Z"
+      "titel": "British Pound: BoE repricing risk grows – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-grows-bbh-202609161453",
+      "datum": "2026-09-16T14:53:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar holds ground as Fed decision looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453",
+      "datum": "2026-09-16T14:53:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441",
+      "datum": "2026-09-16T14:41:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United Kingdom: BoE hold view reinforced – Nomura",
+      "link": "https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418",
+      "datum": "2026-09-16T14:18:59.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Canada could become the first 'associate member' of the EU, says EU chief von der Leyen",
-      "link": "https://investinglive.com/news/canada-could-become-the-first-associate-member-of-the-eu-says-eu-chief-von-der-leyen/",
-      "datum": "2026-09-16T08:45:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro gains against Canadian Dollar as oil prices retreat on rising US crude inventories",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-as-oil-prices-retreat-on-rising-us-crude-inventories-202609160839",
-      "datum": "2026-09-16T08:39:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Supply risks and central bank pressures – Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-pressures-rabobank-202609160837",
-      "datum": "2026-09-16T08:37:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Norwegian Krone: Norges Bank weighs inflation and growth – Commerzbank",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-norges-bank-weighs-inflation-and-growth-commerzbank-202609160816",
-      "datum": "2026-09-16T08:16:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones futures tick higher ahead of Fed interest rate decision",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-tick-higher-ahead-of-fed-interest-rate-decision-202609160806",
-      "datum": "2026-09-16T08:06:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "NZD/USD Price Forecast: Bounces off two-month low; seems vulnerable near mid-0.5700s",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bounces-off-two-month-low-seems-vulnerable-near-mid-05700s-202609160806",
-      "datum": "2026-09-16T08:06:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD jumps to near $65 ahead of Fed’s interest rate decision",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-65-ahead-of-feds-interest-rate-decision-202609160801",
-      "datum": "2026-09-16T08:01:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Watching break of 0.8205 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-watching-break-of-08205-against-us-dollar-uob-202609160759",
-      "datum": "2026-09-16T07:59:28.000Z"
+      "titel": "US July business inventories +0.8% vs +0.3% expected",
+      "link": "https://investinglive.com/news/us-july-business-inventories-0-8-vs-0-3-expected/",
+      "datum": "2026-09-16T14:00:54.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-43/",
-      "datum": "2026-09-16T06:30:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK headline inflation tops 3% again in August, but core prices remain steady",
-      "link": "https://investinglive.com/news/uk-headline-inflation-tops-3-again-in-august-but-core-prices-remain-steady/",
-      "datum": "2026-09-16T06:00:12.000Z"
+      "titel": "NAHB Housing market index for September 32 vs 34 estimate",
+      "link": "https://investinglive.com/news/nahb-housing-market-index-for-september-32-vs-34-estimate/",
+      "datum": "2026-09-16T14:00:08.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee remains near seven-week low ahead of Fed's decision",
-      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
-      "datum": "2026-09-16T05:31:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK CPI preview: Inflation test lands just before the BOE rate decision",
-      "link": "https://investinglive.com/news/uk-cpi-preview-inflation-test-lands-just-before-the-boe-rate-decision/",
-      "datum": "2026-09-16T04:12:38.000Z"
+      "titel": "Federal Reserve set to raise interest rate after five meetings on hold",
+      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400",
+      "datum": "2026-09-16T14:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold traders seem noncommittal below $4,350; eyes Fed rate decision for fresh impetus",
-      "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409",
-      "datum": "2026-09-16T04:09:49.000Z"
+      "titel": "Eurozone: Manufacturing outlook steadies as year-end hopes build – ING",
+      "link": "https://www.fxstreet.com/news/eurozone-manufacturing-outlook-steadies-as-year-end-hopes-build-ing-202609161357",
+      "datum": "2026-09-16T13:57:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro trades cautiously against US Dollar ahead of expected Fed rate hike",
+      "link": "https://www.fxstreet.com/news/euro-trades-cautiously-against-us-dollar-ahead-of-expected-fed-rate-hike-202609161345",
+      "datum": "2026-09-16T13:45:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price rebounds ahead of expected Fed rate hike, Warsh press conference",
+      "link": "https://www.fxstreet.com/news/silver-price-rebounds-ahead-of-expected-fed-rate-hike-warsh-press-conference-202609161341",
+      "datum": "2026-09-16T13:41:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Fed pricing creates asymmetric risks – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-creates-asymmetric-risks-bbh-202609161338",
+      "datum": "2026-09-16T13:38:14.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil steady, crypto weighed",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-steady-crypto-weighed/",
-      "datum": "2026-09-16T03:27:16.000Z"
+      "titel": "Canada Building permits for the month of July -17.3 vs -6.4% estimate",
+      "link": "https://investinglive.com/news/canada-building-permits-for-the-month-of-july-17-3-vs-6-4-estimate/",
+      "datum": "2026-09-16T12:30:35.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Australia: Westpac leading index signals softer but improving growth as RBA holds firm",
-      "link": "https://investinglive.com/news/australia-westpac-leading-index-signals-softer-but-improving-growth-as-rba-holds-firm/",
-      "datum": "2026-09-16T00:52:18.000Z"
+      "titel": "US import and export prices are August 0.7% vs 0.4%. Export prices 0.6% vs 0.5% est.",
+      "link": "https://investinglive.com/news/us-import-and-export-prices-are-august-0-7-vs-0-4-export-prices-0-6-vs-0-5-est/",
+      "datum": "2026-09-16T12:30:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US August advance retail sales +1.2% vs +0.8% expected",
+      "link": "https://investinglive.com/news/us-august-advance-retail-sales-vs-0-8-expected/",
+      "datum": "2026-09-16T12:30:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European markets wrap: Oil prices, bond yields ease slightly ahead of Fed decision",
+      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-bond-yields-ease-slightly-ahead-of-fed-decision/",
+      "datum": "2026-09-16T11:40:51.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US and Houthis held secret Oman talks over the weekend as Yemen conflict escalates",
+      "link": "https://investinglive.com/news/us-and-houthis-held-secret-oman-talks-over-the-weekend-as-yemen-conflict-escalates/",
+      "datum": "2026-09-16T11:36:06.000Z"
     }
   ]
 }

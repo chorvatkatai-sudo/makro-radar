@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-16T05:05:26.416Z",
+  "stand": "2026-09-16T09:00:34.673Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -4,
-      "tiltZins": 3,
-      "tiltGesamt": -1,
-      "score": -3,
+      "tiltZins": 2,
+      "tiltGesamt": -2,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Löhne über Prognose + kräftig gestiegene UK-2-Jahres-Rendite stützen das Pfund, gegen den festen Dollar bleibt aber wenig übrig → leicht negativ. BoE am Do als Test.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -3,
       "tiltCot": 4,
-      "tiltZins": 1,
-      "tiltGesamt": 5,
-      "score": 2,
+      "tiltZins": 0,
+      "tiltGesamt": 4,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Öl auf 4-Monats-Hoch (WTI ~105 $ nach Saudi-Pipeline-Angriffen) gibt dem Loonie klar die Oberhand → negativ. Nur leicht getrimmt, weil die Kanada-Inflation am Mo nur wie erwartet kam und der Bank of Canada keinen neuen Erhöhungs-Grund liefert.",
       "istCross": false

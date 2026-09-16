@@ -48,9 +48,9 @@
       "grund": "Eigene solide Geschichte (BIP Q2 +0,4 %, Hochzins 4,35 %) + ruhiger Markt (VIX ~17) stützt die Rohstoff-Währung; der feste Dollar und Chinas Schwäche deckeln → moderat positiv."
     },
     "NZD": {
-      "stimmung": "neutral",
-      "score": 2,
-      "grund": "Eigene falkenhafte RBNZ-Geschichte (2,75 %), Spekulanten sogar netto-long (z +1,1) — aber der feste Dollar bremst. Bestes Paar-Track-Record der Gruppe (58 %), daher etwas mehr Zutrauen."
+      "stimmung": "bärisch",
+      "score": -4,
+      "grund": "BIP-Schock über Nacht: Neuseelands Wirtschaft schrumpfte im Q2 um −0,9 % (erwartet +0,1 %) → der Markt wettet auf eine taubenhaftere RBNZ, die bisherige Falken-Geschichte bröckelt. Dämpfend wirkt nur, dass Spekulanten laut COT netto-long auf den Kiwi sind (z +1,1, Squeeze-Risiko) und das Paar den besten Track-Record der Gruppe hat (58 %) → Score bewusst moderat."
     }
   },
   "paare": [
@@ -76,8 +76,8 @@
     },
     {
       "paar": "USD/CAD",
-      "score": -2,
-      "treiber": "Öl teuer (WTI ~102 $) gibt dem Loonie die Oberhand → negativ; leicht getrimmt, weil die Kanada-Inflation gestern nur wie erwartet kam und der Bank of Canada keinen neuen Erhöhungs-Grund liefert."
+      "score": -3,
+      "treiber": "Öl auf 4-Monats-Hoch (WTI ~105 $ nach Saudi-Pipeline-Angriffen) gibt dem Loonie klar die Oberhand → negativ. Nur leicht getrimmt, weil die Kanada-Inflation am Mo nur wie erwartet kam und der Bank of Canada keinen neuen Erhöhungs-Grund liefert."
     },
     {
       "paar": "USD/CHF",
@@ -86,8 +86,8 @@
     },
     {
       "paar": "NZD/USD",
-      "score": -2,
-      "treiber": "RBNZ-Falken-Geschichte + netto-long Spekulanten stützen den Kiwi, aber der feste Dollar drückt → leicht negativ. (Bester Paar-Track-Record der Gruppe.)"
+      "score": -5,
+      "treiber": "Neuseeland-BIP-Schock (−0,9 % statt +0,1 %) drückt den Kiwi und untergräbt die RBNZ-Falken-Story; dazu der feste Dollar vor der Fed → klar negativ. Getrimmt, weil Spekulanten netto-long sind (Squeeze-Risiko) und das Paar den besten Track-Record der Gruppe hat."
     }
   ],
   "wochenausblick": {
@@ -187,19 +187,20 @@
     "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-    "stand": "2026-09-15",
-    "wochentag": "Dienstag",
-    "tenor": "Ruhiges Abwarten am Tag 1 des Notenbank-Dreikampfs: Heute Abend beginnt die zweitägige Fed-Sitzung, morgen (Mi) fällt der Zins-Entscheid, Do folgt die Bank of England, Fr die Bank of Japan. Der Dollar bleibt fest bei ~99,4, gestützt von Zinsen nahe 5 % und teurem Öl (>100 $). Weil die Fed-Erhöhung aber zu ~90 % schon eingepreist ist, ist die eigentliche Gefahr die Enttäuschung („kaufe das Gerücht, verkaufe die Tatsache“).",
+    "stand": "2026-09-16",
+    "wochentag": "Mittwoch",
+    "tenor": "FOMC-Tag: Heute Abend (20:00 Wien) entscheidet die US-Notenbank — rund 90 % Erhöhung auf 3,75–4,00 % sind eingepreist, die echte Gefahr ist der Ausblick (taubenhafter Dot-Plot / vorsichtiger Warsh → \"kaufe das Gerücht, verkaufe die Tatsache\"). Der Dollar bleibt fest bei ~99,6, Öl klettert auf ein 4-Monats-Hoch (WTI ~105 $). Über Nacht drückt ein Neuseeland-BIP-Schock (−0,9 %) den Kiwi.",
     "heute": [
-      "🇬🇧 UK-Arbeitsmarkt (heute früh): Arbeitslosenquote 4,9 % (einen Tick über den erwarteten 4,8 %), ABER die Löhne schlugen die Prognose. Gemischt, per Saldo leicht Pfund-stützend zwei Tage vor der Bank of England (Do) — 3 Mitglieder wollen dort schon erhöhen.",
-      "🇩🇪 Deutschland ZEW-Konjunkturerwartung (11:00 Wien): Stimmungs-Umfrage der Finanzprofis (zuletzt 34,2). Ein besserer Wert würde dem Euro leicht helfen — im Öl-Gegenwind der Euro-Zone aber nur ein Nebenschauplatz.",
-      "🏦 Der ganze Markt starrt auf MORGEN (Mi 16.9., 20:00 Wien): Nach der heißen Kern-Inflation vom Freitag preist der Markt rund 90 % für eine US-Zins-ERHÖHUNG auf 3,75–4,00 % (CME). Andere Wett-Börsen sind vorsichtiger (~50 %). Weil so viel eingepreist ist, kann eine vorsichtige Fed oder ein taubenhafter Zins-Ausblick (Dot-Plot) den Dollar trotz Erhöhung fallen lassen.",
-      "🛢️ Öl bleibt der Joker: WTI ~102 $, Brent ~106 $ (+9 % auf Wochensicht) wegen Lieferstörungen (Rotes Meer / Jemen + Russland-Ukraine). Teures Öl = Rückenwind fürs Öl-Land Kanada, Gegenwind für die Energie-Importeure Euro, Yen und Franken."
+      "🏦 US-Notenbank-Entscheid HEUTE 20:00 Wien = DAS Event: ~90 % für eine Erhöhung auf 3,75–4,00 % eingepreist (CME), andere Wettbörsen vorsichtiger (~50 %). Weil so viel schon drin steckt, liegt die Gefahr im AUSBLICK — ein taubenhafter Zins-Plan (Dot-Plot) oder ein vorsichtiger Warsh (Pressekonferenz ~20:30) kann den Dollar TROTZ Erhöhung fallen lassen.",
+      "🇬🇧 UK-Inflation (08:00 Wien): erwartet ein Anstieg auf 3,1 % zum Vorjahr (von 2,9 %). Ein heißer Wert wäre Rückenwind fürs Pfund — genau einen Tag vor der Bank of England (Do), wo bereits 3 Mitglieder erhöhen wollen. Kern-Rate und Dienstleistungspreise besonders im Blick.",
+      "🇳🇿 Über Nacht: Neuseelands Wirtschaft SCHRUMPFTE im 2. Quartal um −0,9 % (erwartet war +0,1 %) — ein herber Fehlschlag. Der Kiwi fiel, der Markt wettet jetzt auf eine taubenhaftere Notenbank. Das untergräbt die bisherige Falken-Geschichte hinter dem Neuseeland-Dollar.",
+      "🛢️ Öl klettert weiter: WTI ~105 $, Brent ~106–108 $ (4-Monats-Hoch, +10 % auf Wochensicht) nach Angriffen auf eine saudische Export-Pipeline (7 Mio. Fass/Tag betroffen) plus Rotes-Meer/Iran-Blockade. Teures Öl = kräftiger Rückenwind fürs Öl-Land Kanada, Gegenwind für die Energie-Importeure Euro, Yen und Franken."
     ],
     "gestern": [
-      "🇨🇦 Mo 14.9.: Kanada-Inflation (August) hielt bei 3,0 % zum Vorjahr — GENAU WIE ERWARTET, kein Ausreißer. Fast alles ist Benzin (+22,8 %); ohne Benzin nur 2,4 %, und die von der Notenbank beachteten Kern-Maße lagen mit 1,9 %/2,0 % am Ziel. Heißt: kein zusätzlicher Schub für den Kanada-Dollar aus der Zahl — der Rückenwind kommt allein vom teuren Öl.",
-      "💵 Mo 14.9.: Der Dollar startete fest in die Woche (Index über 99, ~99,4), getragen von Zinsen nahe 5 % und dem Öl-Preis. Gold blieb knapp unter dem Rekord (~4.340 $), das Angst-Barometer VIX niedrig bei ~17 (ruhiger Markt).",
-      "🇺🇸 Fr 11.9. (Nachwirkung): US-Kern-Inflation kam mit +0,3 % zum Vormonat HEISS (über den erwarteten +0,2 %); die Jahres-Kernrate fiel aber auf 2,4 % (niedrigste seit 2021). Genau diese heiße Zahl trieb die Fed-Erhöhungs-Wette auf ~90 % und die 10-Jahres-Rendite an die 5-%-Marke."
+      "🇬🇧 Di 15.9.: UK-Arbeitsmarkt gemischt — Arbeitslosenquote 4,9 % (einen Tick über den erwarteten 4,8 %), aber die Löhne schlugen die Prognose. Per Saldo leicht Pfund-stützend zwei Tage vor der Bank of England.",
+      "💵 Di 15.9.: Der Dollar hielt sich fest (Index ~99,6), getragen von Zinsen nahe 5 % (US-10-Jahres-Rendite an der 5-%-Marke) und dem teuren Öl. Gold rutschte auf Wochensicht −2,9 % auf ~4.334 $ (weg vom Rekord), das Angst-Barometer VIX blieb ruhig bei ~17.",
+      "🇨🇦 Mo 14.9.: Kanada-Inflation hielt bei 3,0 % zum Vorjahr — genau wie erwartet. Fast alles ist Benzin (+22,8 %), die Kern-Maße lagen mit 1,9–2,0 % am Ziel. Heißt: kein neuer Erhöhungs-Grund für die Bank of Canada — der Loonie-Rückenwind kommt allein vom Öl.",
+      "🇺🇸 Fr 11.9. (Nachwirkung): US-Kern-Inflation kam mit +0,3 % zum Vormonat HEISS (über den erwarteten +0,2 %); die Jahres-Kernrate fiel aber auf 2,4 % (niedrigste seit 2021). Diese heiße Zahl trieb die Fed-Erhöhungs-Wette auf ~90 % und die 10-Jahres-Rendite an die 5-%-Marke."
     ]
   }
 }

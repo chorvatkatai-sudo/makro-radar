@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-15T22:34:49.586Z",
+  "stand": "2026-09-16T05:04:57.986Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -2,
+      "baseScore": -3,
       "tiltCot": 4,
       "tiltZins": 2,
       "tiltGesamt": 6,
-      "score": 4,
+      "score": 3,
       "cotExtrem": null,
-      "treiber": "Öl teuer (WTI ~102 $) gibt dem Loonie die Oberhand → negativ; leicht getrimmt, weil die Kanada-Inflation gestern nur wie erwartet kam und der Bank of Canada keinen neuen Erhöhungs-Grund liefert.",
+      "treiber": "Öl auf 4-Monats-Hoch (WTI ~105 $ nach Saudi-Pipeline-Angriffen) gibt dem Loonie klar die Oberhand → negativ. Nur leicht getrimmt, weil die Kanada-Inflation am Mo nur wie erwartet kam und der Bank of Canada keinen neuen Erhöhungs-Grund liefert.",
       "istCross": false
     },
     {
@@ -71,13 +71,13 @@
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -2,
+      "baseScore": -5,
       "tiltCot": 1,
       "tiltZins": 0,
       "tiltGesamt": 1,
-      "score": -1,
+      "score": -4,
       "cotExtrem": null,
-      "treiber": "RBNZ-Falken-Geschichte + netto-long Spekulanten stützen den Kiwi, aber der feste Dollar drückt → leicht negativ. (Bester Paar-Track-Record der Gruppe.)",
+      "treiber": "Neuseeland-BIP-Schock (−0,9 % statt +0,1 %) drückt den Kiwi und untergräbt die RBNZ-Falken-Story; dazu der feste Dollar vor der Fed → klar negativ. Getrimmt, weil Spekulanten netto-long sind (Squeeze-Risiko) und das Paar den besten Track-Record der Gruppe hat.",
       "istCross": false
     },
     {
@@ -104,11 +104,11 @@
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": 1,
+      "baseScore": 4,
       "tiltCot": -3,
       "tiltZins": -3,
       "tiltGesamt": -6,
-      "score": -5,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-16T15:13:53.197Z",
+  "stand": "2026-09-16T19:14:25.736Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,39 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Consolidation with downside risks against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-consolidation-with-downside-risks-against-us-dollar-scotiabank-202609161509",
-      "datum": "2026-09-16T15:09:02.000Z"
+      "titel": "Forex Today: Investors now look at the BoE",
+      "link": "https://www.fxstreet.com/news/forex-today-investors-now-look-at-the-boe-202609161909",
+      "datum": "2026-09-16T19:09:53.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Fed repricing risk caps downside – Rabobank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-caps-downside-rabobank-202609161501",
-      "datum": "2026-09-16T15:01:18.000Z"
+      "titel": "Federal Reserve Chair Warsh: Inflation trends were not passing the test",
+      "link": "https://www.fxstreet.com/news/federal-reserve-chair-warsh-inflation-trends-were-not-passing-the-test-202609161900",
+      "datum": "2026-09-16T19:00:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: BoE repricing risk grows – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-grows-bbh-202609161453",
-      "datum": "2026-09-16T14:53:22.000Z"
+      "titel": "Fed raises 2026 interest rate forecast to 4.1%, lifts PCE inflation projections",
+      "link": "https://www.fxstreet.com/news/fed-raises-2026-interest-rate-forecast-to-41-lifts-pce-inflation-projections-202609161858",
+      "datum": "2026-09-16T18:58:33.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar holds ground as Fed decision looms",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453",
-      "datum": "2026-09-16T14:53:14.000Z"
+      "titel": "A Fed rate hike sends the Loonie to a six-week low",
+      "link": "https://www.fxstreet.com/news/fed-hike-sends-the-loonie-to-a-six-week-low-202609161841",
+      "datum": "2026-09-16T18:41:40.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441",
-      "datum": "2026-09-16T14:41:17.000Z"
+      "titel": "WTI holds near daily low as Fed decision draws muted reaction",
+      "link": "https://www.fxstreet.com/news/wti-holds-near-daily-low-as-fed-decision-draws-muted-reaction-202609161837",
+      "datum": "2026-09-16T18:37:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United Kingdom: BoE hold view reinforced – Nomura",
-      "link": "https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418",
-      "datum": "2026-09-16T14:18:59.000Z"
+      "titel": "Japanese Yen falls as US Federal Reserve delivers",
+      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-us-federal-reserve-delivers-202609161832",
+      "datum": "2026-09-16T18:32:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar slides below 0.7100 as Warsh strikes hawkish tone",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-against-us-dollar-after-hawkish-fed-rate-hike-202609161823",
+      "datum": "2026-09-16T18:23:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dollar Index Cracks 100 as Fed delivers hawkish hike",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815",
+      "datum": "2026-09-16T18:15:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Dow Jones' 30 corporate borrowers eat a Fed rate hike",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815",
+      "datum": "2026-09-16T18:15:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Federal Reserve hikes back above Britain's cash rate",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809",
+      "datum": "2026-09-16T18:09:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Fed hikes six days after the ECB, weighing on the Euro",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-six-days-after-the-ecb-202609161808",
+      "datum": "2026-09-16T18:08:49.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "datum": "2026-09-16T18:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+      "datum": "2026-09-16T18:00:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -56,33 +98,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve set to raise interest rate after five meetings on hold",
+      "titel": "Fed’s Warsh: Decision today was the right decision",
       "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400",
       "datum": "2026-09-16T14:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Eurozone: Manufacturing outlook steadies as year-end hopes build – ING",
-      "link": "https://www.fxstreet.com/news/eurozone-manufacturing-outlook-steadies-as-year-end-hopes-build-ing-202609161357",
-      "datum": "2026-09-16T13:57:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro trades cautiously against US Dollar ahead of expected Fed rate hike",
-      "link": "https://www.fxstreet.com/news/euro-trades-cautiously-against-us-dollar-ahead-of-expected-fed-rate-hike-202609161345",
-      "datum": "2026-09-16T13:45:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price rebounds ahead of expected Fed rate hike, Warsh press conference",
-      "link": "https://www.fxstreet.com/news/silver-price-rebounds-ahead-of-expected-fed-rate-hike-warsh-press-conference-202609161341",
-      "datum": "2026-09-16T13:41:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fed pricing creates asymmetric risks – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-creates-asymmetric-risks-bbh-202609161338",
-      "datum": "2026-09-16T13:38:14.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "US import and export prices are August 0.7% vs 0.4%. Export prices 0.6% vs 0.5% est.",
       "link": "https://investinglive.com/news/us-import-and-export-prices-are-august-0-7-vs-0-4-export-prices-0-6-vs-0-5-est/",
       "datum": "2026-09-16T12:30:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US August advance retail sales +1.2% vs +0.8% expected",
-      "link": "https://investinglive.com/news/us-august-advance-retail-sales-vs-0-8-expected/",
-      "datum": "2026-09-16T12:30:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European markets wrap: Oil prices, bond yields ease slightly ahead of Fed decision",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-bond-yields-ease-slightly-ahead-of-fed-decision/",
-      "datum": "2026-09-16T11:40:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US and Houthis held secret Oman talks over the weekend as Yemen conflict escalates",
-      "link": "https://investinglive.com/news/us-and-houthis-held-secret-oman-talks-over-the-weekend-as-yemen-conflict-escalates/",
-      "datum": "2026-09-16T11:36:06.000Z"
     }
   ]
 }

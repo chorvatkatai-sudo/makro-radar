@@ -13208,8 +13208,8 @@
       "impact": "High",
       "prognose": "4.00%",
       "vorher": "3.75%",
-      "actual": null,
-      "notiz": null
+      "actual": "4%",
+      "notiz": "auto:TV rate (2026-09-16)"
     },
     "2026-09-16T14:00:00-04:00|USD|FOMC Economic Projections": {
       "datum": "2026-09-16T14:00:00-04:00",
@@ -13758,6 +13758,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "3.65|1.3",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-18T02:02:00-04:00|CNY|Foreign Direct Investment ytd/y": {
+      "datum": "2026-09-18T02:02:00-04:00",
+      "land": "CNY",
+      "titel": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-6.2%",
       "actual": null,
       "notiz": null
     }

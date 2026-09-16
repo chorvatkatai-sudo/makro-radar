@@ -732,20 +732,20 @@
   {
     "date": "2026-09-24T11:50:00.000Z",
     "country": "USD",
-    "title": "Building Permits Final",
+    "title": "Building Permits MoM Final",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.433",
+    "previous": "4.3",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-24T11:50:00.000Z",
     "country": "USD",
-    "title": "Building Permits MoM Final",
+    "title": "Building Permits Final",
     "impact": "Low",
     "forecast": "",
-    "previous": "4.3",
+    "previous": "1.433",
     "actual": null,
     "quelle": "tradingview"
   },

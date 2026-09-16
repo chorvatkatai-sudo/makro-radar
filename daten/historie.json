@@ -13136,7 +13136,7 @@
       "land": "USD",
       "titel": "Core Retail Sales m/m",
       "impact": "Medium",
-      "prognose": "0.5%",
+      "prognose": "0.6%",
       "vorher": "-0.3%",
       "actual": null,
       "notiz": null
@@ -13186,7 +13186,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-1.6M",
       "vorher": "-0.4M",
       "actual": null,
       "notiz": null
@@ -13376,7 +13376,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "208K",
+      "prognose": "207K",
       "vorher": "206K",
       "actual": null,
       "notiz": null
@@ -13396,7 +13396,7 @@
       "land": "USD",
       "titel": "Housing Starts",
       "impact": "Low",
-      "prognose": "1.31M",
+      "prognose": "1.32M",
       "vorher": "1.24M",
       "actual": null,
       "notiz": null
@@ -13426,7 +13426,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "49B",
       "vorher": "40B",
       "actual": null,
       "notiz": null

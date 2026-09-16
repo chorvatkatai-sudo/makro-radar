@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-16T05:04:57.986Z",
+  "stand": "2026-09-16T05:05:26.416Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -3,
       "tiltCot": 4,
-      "tiltZins": 2,
-      "tiltGesamt": 6,
-      "score": 3,
+      "tiltZins": 1,
+      "tiltGesamt": 5,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "Öl auf 4-Monats-Hoch (WTI ~105 $ nach Saudi-Pipeline-Angriffen) gibt dem Loonie klar die Oberhand → negativ. Nur leicht getrimmt, weil die Kanada-Inflation am Mo nur wie erwartet kam und der Bank of Canada keinen neuen Erhöhungs-Grund liefert.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": -3,
-      "tiltGesamt": -6,
-      "score": -2,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

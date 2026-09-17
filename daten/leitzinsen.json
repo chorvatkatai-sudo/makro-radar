@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-09-04",
+  "stand": "2026-09-17",
   "zinsen": [
     {
       "code": "AUD",
@@ -16,18 +16,18 @@
       "bank": "BOE",
       "satz": 3.75,
       "anzeige": "3,75%",
-      "naechste": "Mitte Sep 2026",
-      "erwartung": "Am 30.7. bei 3,75% GEHALTEN, aber Abstimmung 6:3 — jetzt wollen DREI Mitglieder ERHÖHEN (einer mehr als zuvor). Chef Bailey bremste die Erhöhungs-Fantasie aber. Falken-Fraktion wächst wegen des teuren Öls",
+      "naechste": "17.9.2026 (HEUTE)",
+      "erwartung": "Entscheid HEUTE 13:00 Wien. Erwartet wird ein HALTEN bei 3,75%, aber der Markt sieht ~30% Chance auf eine falkenhafte Überraschung mit Erhöhung auf 4,00% (höchste Wette seit Anfang 2024). Beim letzten Mal (30.7.) stimmten 6:3, drei Mitglieder wollten schon erhöhen. Das teure Öl (Energie-Inflation) ist die Schlüsselfrage — reicht es für eine Fünf-Stimmen-Mehrheit? Heiße Löhne stützen die Falken",
       "richtung": "halten"
     },
     {
       "code": "USD",
       "bank": "Fed",
-      "satz": 3.625,
-      "anzeige": "3,50–3,75%",
-      "naechste": "17.9.2026",
-      "erwartung": "Der 17.9.-Entscheid ist ein echter MÜNZWURF und die Fed ist gespalten: Chef Warsh (Falke) sagte in Jackson Hole am 28.8., die Fed müsse 'mehr tun' gegen die Inflation. ABER Fed-Gouverneur Waller signalisierte am Do 3.9. eine PAUSE (Fortschritt bei der Inflation) → der Markt sieht die Sept-Erhöhung jetzt bei nur noch ~50%. Der überraschend STARKE Jobbericht (4.9.: +162k statt +55k erwartet, Quote 4,1%) hält die Erhöhungs-Debatte am Leben und hob die Renditen leicht, aber der Dollar rallyt trotzdem kaum — Waller-Taube + die Entwertungs-Wette (Gold nahe Rekord ~4.520$) deckeln ihn. Eine Zinssenkung ist praktisch vom Tisch",
-      "richtung": "halten"
+      "satz": 3.875,
+      "anzeige": "3,75–4,00%",
+      "naechste": "28.10.2026",
+      "erwartung": "Am Mi 16.9. um 0,25 auf 3,75–4,00% ERHÖHT — die ERSTE Zinserhöhung seit 2023, einstimmig 12:0. Chef Warsh gab sich in der Pressekonferenz betont FALKENHAFT. Der Zins-Ausblick (Dot-Plot) sieht die Zinsen bis Ende 2026 bei 4,1% (von 3,8% im Juni), 16 von 18 Mitgliedern rechnen mit einer WEITEREN Erhöhung dieses Jahr, 4 sogar mit zweien. Reaktion: Der Dollar SPRANG (Index über 100), die 10-Jahres-Rendite an die 5-%-Marke, USD/JPY auf ~156. Eine Zinssenkung ist auf Jahre vom Tisch",
+      "richtung": "rauf"
     },
     {
       "code": "NZD",
@@ -41,11 +41,11 @@
     {
       "code": "EUR",
       "bank": "EZB",
-      "satz": 2.4,
-      "anzeige": "2,40%",
-      "naechste": "10.9.2026",
-      "erwartung": "Der Euro-CPI-Flash kam am Di 1.9. mit 3,3% Schlagzeile HÖHER als erwartet (Höchststand seit Sept 2023, Energie/Nahost) — der Markt preist jetzt zu ~99% eine ERHÖHUNG um 0,25 auf 2,50% (Einlagensatz 2,25%→2,50%) am Mi 10.9. ein. Weil der Schritt fast sicher ist, zählt danach der Ton: der Kern kühlte auf 2,4%, daher dürfte Lagarde ein Ende der Erhöhungen signalisieren",
-      "richtung": "rauf"
+      "satz": 2.5,
+      "anzeige": "2,50%",
+      "naechste": "Ende Okt 2026",
+      "erwartung": "Am Mi 10.9. um 0,25 auf 2,50% ERHÖHT (Einlagensatz 2,25%→2,50%) wegen der hohen Schlagzeilen-Inflation (Energie/Nahost). Weil der Kern auf 2,4% kühlte, signalisierte Lagarde aber ein voraussichtliches ENDE der Erhöhungen. Gegen den frisch erhöhten, falkenhaften Dollar bleibt der Euro im Hintertreffen; teures Öl belastet den Energie-Importeur zusätzlich",
+      "richtung": "halten"
     },
     {
       "code": "CAD",
@@ -61,9 +61,9 @@
       "bank": "BOJ",
       "satz": 1,
       "anzeige": "1,00%",
-      "naechste": "Mitte Sep 2026",
-      "erwartung": "Am 31.7. bei 1,00% GEHALTEN (8:1 — ein Falke wollte erhöhen) + Wachstumsprognose angehoben; nächste Erhöhung laut Umfragen eher Q4. Yen ~163 = 40-Jahres-Tief — Regierung hat am 30.7. mutmaßlich INTERVENIERT (~2% Sprung), Interventionsrisiko bleibt extrem",
-      "richtung": "halten"
+      "naechste": "17.–18.9.2026 (Ergebnis über Nacht)",
+      "erwartung": "Entscheid HEUTE Nacht (Ergebnis ~Fr früh Wien). Die Wettbörsen sehen ~61% Chance auf eine ERHÖHUNG von 1,00% — die Inflation nähert sich dem 2%-Ziel, Board-Mitglied Takata warnte vor Überhitzung. Ein Zinsschritt wäre YEN-STÄRKEND und könnte den Yen aus dem 40-Jahres-Tief (USD/JPY ~156) hieven; ein Halten würde ihn weiter schwächen. Interventionsrisiko bleibt hoch. Positionierung (CFTC) frisch auf netto-LONG gedreht — der Markt setzt zunehmend auf einen stärkeren Yen",
+      "richtung": "rauf"
     },
     {
       "code": "CHF",

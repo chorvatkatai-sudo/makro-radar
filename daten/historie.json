@@ -12718,7 +12718,7 @@
       "impact": "High",
       "prognose": "2.0%",
       "vorher": "2.0%",
-      "actual": null,
+      "actual": "2.0%",
       "notiz": null
     },
     "2026-09-14T08:30:00-04:00|CAD|Trimmed CPI y/y": {
@@ -12728,7 +12728,7 @@
       "impact": "High",
       "prognose": "1.9%",
       "vorher": "1.9%",
-      "actual": null,
+      "actual": "1.9%",
       "notiz": null
     },
     "2026-09-14T08:30:00-04:00|CAD|Common CPI y/y": {

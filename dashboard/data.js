@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-16T19:14:26.169Z",
+ "erstellt": "2026-09-17T05:07:24.797Z",
  "wochenStart": "2026-09-13",
  "events": [
   {
@@ -90,7 +90,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "2.0%",
    "previous": "2.0%",
-   "actual": null
+   "actual": "2.0%"
   },
   {
    "title": "Trimmed CPI y/y",
@@ -99,7 +99,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "1.9%",
    "previous": "1.9%",
-   "actual": null
+   "actual": "1.9%"
   },
   {
    "title": "Common CPI y/y",
@@ -2165,81 +2165,81 @@ window.MAKRO_DATA = {
   ],
   "waehrungen": {
    "USD": {
-    "stimmung": "neutral",
-    "score": 5,
-    "grund": "Fest, aber ohne Durchmarsch: Zinsen nahe 5 % + teures Öl + ~90 % eingepreiste Fed-Erhöhung geben Boden. Genau weil so viel eingepreist ist, ist das Risiko am Mittwoch asymmetrisch nach UNTEN (taubenhafter Ausblick/Dot-Plot → \"sell the fact\"). Score bewusst klein."
+    "stimmung": "bullisch",
+    "score": 12,
+    "grund": "Die Fed hat am 16.9. erstmals seit 2023 erhöht (3,75–4,00 %) UND falkenhaft signalisiert: 16 von 18 sehen weitere Erhöhungen, Renditen an der 5-%-Marke, Index über 100. Aber 100 ist harte Widerstandsmarke und die Kursrichtungs-Prognose trägt keine Übertreibung"
    },
    "EUR": {
-    "stimmung": "neutral",
-    "score": 1,
-    "grund": "EZB erhöhte letzte Woche falkenhaft auf 2,50 %, aber das teure Öl belastet die Euro-Zone als Energie-Importeur → kaum Rückenwind. Die stark gestiegene 2-Jahres-Rendite (+0,31) stützt gegen, Spekulanten bleiben stark short (z −1,5, Squeeze-Risiko)."
+    "stimmung": "bärisch",
+    "score": -8,
+    "grund": "EZB erhöhte am 10.9. auf 2,50 %, signalisierte aber ein Erhöhungs-Ende. Gegen den frisch-falkenhaften Dollar + teures Öl (Energie-Importeur) im Hintertreffen, EUR/USD nahe 1-Monats-Tief ~1,154"
    },
    "GBP": {
     "stimmung": "neutral",
     "score": 2,
-    "grund": "Arbeitsmarkt heute gemischt (Quote 4,9 % weich, aber Löhne über Prognose) + die 2-Jahres-Rendite stieg diese Woche kräftig (+0,35) → leichter Rückenwind zwei Tage vor der Bank of England (Do, 3 wollen erhöhen). Track-Record des Paars solide (54 %)."
+    "grund": "BoE HEUTE 13:00 (Halten 3,75 % erwartet, ~30 % Chance auf Falken-Erhöhung wegen des teuren Öls) → zweiseitiges Risiko. Heiße Löhne stützen, gegen den starken Dollar aber begrenzt"
    },
    "JPY": {
     "stimmung": "neutral",
-    "score": 0,
-    "grund": "Doppelter Gegenwind (Mini-Zins 1,00 % + teures Öl belastet den Energie-Importeur), ABER Großspekulanten drehten laut COT erstmals wieder NETTO-LONG auf den Yen (starke Short-Eindeckung, dNet +103k, yen-stützend). Track-Record des Paars am schwächsten (23 %) → bewusst auf null."
+    "score": -2,
+    "grund": "Falkenhafter Fed + teures Öl + Mini-Zins belasten, ABER die BoJ entscheidet über Nacht mit ~61 % Erhöhungs-Chance (yen-stärkend) + USD/JPY ~156 (Interventionszone) + CFTC frisch netto-long → starkes Gegengewicht, daher nur leicht schwach"
    },
    "CHF": {
-    "stimmung": "neutral",
-    "score": -1,
-    "grund": "Als Energie-Importeur vom teuren Öl belastet, und der ruhige Markt (VIX ~17) gibt kaum Hafen-Nachfrage, die den Franken stützen würde. Per Saldo leicht negativ."
+    "stimmung": "bärisch",
+    "score": -6,
+    "grund": "Als Energie-Importeur vom teuren Öl belastet, kein Hafen-Bedarf (VIX ruhig ~18), und der starke Dollar drückt zusätzlich"
    },
    "CAD": {
     "stimmung": "bullisch",
-    "score": 5,
-    "grund": "Wochen-Gewinner dank Öl (WTI ~102 $ / Brent ~106 $, +9 % Wo). ABER von +7 getrimmt: Die Inflation kam gestern nur wie erwartet (Kern 1,9–2,0 % am Ziel) → die Bank of Canada bekommt KEINEN neuen Erhöhungs-Grund, der Rückenwind ruht jetzt allein auf dem Öl. Spekulanten decken sich ein (COT-z jetzt ~0)."
+    "score": 6,
+    "grund": "Öl auf 4-Monats-Hoch (WTI ~102 $) = kräftiger Rückenwind, CFTC-Short-Squeeze deckt sich ein (Netto-Position halbiert). Aber BoC neutral + US-Zollstreit bremsen, und der starke Dollar hält dagegen"
    },
    "AUD": {
-    "stimmung": "bullisch",
-    "score": 4,
-    "grund": "Eigene solide Geschichte (BIP Q2 +0,4 %, Hochzins 4,35 %) + ruhiger Markt (VIX ~17) stützt die Rohstoff-Währung; der feste Dollar und Chinas Schwäche deckeln → moderat positiv."
+    "stimmung": "neutral",
+    "score": 2,
+    "grund": "Höchster G10-Zins (4,35 %) + ruhiges Risk-on-Umfeld stützen, aber der frisch-falkenhafte Dollar überstrahlt die eigene Geschichte"
    },
    "NZD": {
     "stimmung": "bärisch",
-    "score": -4,
-    "grund": "BIP-Schock über Nacht: Neuseelands Wirtschaft schrumpfte im Q2 um −0,9 % (erwartet +0,1 %) → der Markt wettet auf eine taubenhaftere RBNZ, die bisherige Falken-Geschichte bröckelt. Dämpfend wirkt nur, dass Spekulanten laut COT netto-long auf den Kiwi sind (z +1,1, Squeeze-Risiko) und das Paar den besten Track-Record der Gruppe hat (58 %) → Score bewusst moderat."
+    "score": -8,
+    "grund": "BIP-Schock über Nacht (−0,9 % statt +0,1 %) → der Markt wettet jetzt auf eine taubenhaftere RBNZ; die bisherige Falken-Kiwi-Story bröckelt. Trifft auf den starken Dollar = klarstes Bär-Signal"
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": -3,
-    "treiber": "Fester Dollar vor der Fed + teures Öl belastet den Euro; die stark gestiegene EUR-2-Jahres-Rendite federt ab → leicht negativ. (Track-Record des Paars schwach → bewusst nahe null.)"
+    "score": -8,
+    "treiber": "Falkenhafter Fed + starker Dollar (Index >100) gegen EU-Erhöhungs-Ende; nahe 1-Monats-Tief ~1,154 (Paar-Track-Record aber nur 31 % → gedämpft)"
    },
    {
     "paar": "GBP/USD",
-    "score": -2,
-    "treiber": "Löhne über Prognose + kräftig gestiegene UK-2-Jahres-Rendite stützen das Pfund, gegen den festen Dollar bleibt aber wenig übrig → leicht negativ. BoE am Do als Test."
+    "score": -4,
+    "treiber": "Starker Dollar, aber BoE HEUTE mit ~30 % Falken-Erhöhungs-Risiko begrenzt das Abwärts — bewusst zweiseitig"
    },
    {
     "paar": "USD/JPY",
-    "score": 2,
-    "treiber": "Teures Öl + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; DAGEGEN drehte die COT-Positionierung wieder netto-long auf den Yen (Short-Eindeckung). Schlechtester Track-Record (23 %) → bewusst modest."
+    "score": 4,
+    "treiber": "Öl + Carry + starker Dollar belasten den Yen (~156), ABER BoJ könnte über Nacht erhöhen (~61 %, yen-stärkend) + Interventionszone → bewusst nur leicht positiv (Paar-Track-Record 23 %, schlechtestes)"
    },
    {
     "paar": "AUD/USD",
-    "score": -1,
-    "treiber": "Ruhiger Markt (VIX ~17) stützt den Aussie leicht, gegen den festen Dollar bleibt aber wenig übrig → nahe null."
+    "score": -6,
+    "treiber": "Der frisch-falkenhafte Dollar überstrahlt das ruhige Risk-on-Umfeld und den Hochzins-Aussie"
    },
    {
     "paar": "USD/CAD",
-    "score": -3,
-    "treiber": "Öl auf 4-Monats-Hoch (WTI ~105 $ nach Saudi-Pipeline-Angriffen) gibt dem Loonie klar die Oberhand → negativ. Nur leicht getrimmt, weil die Kanada-Inflation am Mo nur wie erwartet kam und der Bank of Canada keinen neuen Erhöhungs-Grund liefert."
+    "score": 0,
+    "treiber": "Standoff: starker Dollar gegen den Öl-Rückenwind des Loonie (WTI ~102 $) — beide stark, bewusst neutral (Paar-Track-Record 38 %)"
    },
    {
     "paar": "USD/CHF",
-    "score": 3,
-    "treiber": "Franken als Energie-Importeur belastet + fester Dollar vor der Fed → Dollar-Seite vorn; ruhiger Markt gibt dem Franken keinen Hafen-Rückenwind → leicht positiv."
+    "score": 8,
+    "treiber": "Sauberster Ausdruck der Dollar-Stärke: starker Dollar + schwacher Franken (Energie-Importeur, kein Hafen-Bedarf)"
    },
    {
     "paar": "NZD/USD",
-    "score": -5,
-    "treiber": "Neuseeland-BIP-Schock (−0,9 % statt +0,1 %) drückt den Kiwi und untergräbt die RBNZ-Falken-Story; dazu der feste Dollar vor der Fed → klar negativ. Getrimmt, weil Spekulanten netto-long sind (Squeeze-Risiko) und das Paar den besten Track-Record der Gruppe hat."
+    "score": -12,
+    "treiber": "Doppelt bärisch: NZ-BIP-Schock (−0,9 %) drückt den Kiwi UND der frisch-falkenhafte Dollar zieht an — beide Treiber ziehen gleich (Paar-Track-Record 58 %, bestes)"
    }
   ],
   "wochenausblick": {
@@ -2339,20 +2339,21 @@ window.MAKRO_DATA = {
    "Ehrliche Bilanz (Session 10, unverändert wichtig): Über die ausgewerteten Wochen sind die Kurs-Richtungs-Prognosen NICHT von einem Münzwurf zu unterscheiden (4/11 Wochen-Dollar-Wetten, liegt im Zufallsband). Die 7 Major-Paare sind fast alle dieselbe Dollar-Wette — deshalb bewusst mit eigenen Geschichten diversifiziert (Aussie-BIP, Kiwi-Erhöhung, Öl→Loonie) und die Scores klein gehalten."
   ],
   "tagesnews": {
-   "stand": "2026-09-16",
-   "wochentag": "Mittwoch",
-   "tenor": "FOMC-Tag: Heute Abend (20:00 Wien) entscheidet die US-Notenbank — rund 90 % Erhöhung auf 3,75–4,00 % sind eingepreist, die echte Gefahr ist der Ausblick (taubenhafter Dot-Plot / vorsichtiger Warsh → \"kaufe das Gerücht, verkaufe die Tatsache\"). Der Dollar bleibt fest bei ~99,6, Öl klettert auf ein 4-Monats-Hoch (WTI ~105 $). Über Nacht drückt ein Neuseeland-BIP-Schock (−0,9 %) den Kiwi.",
+   "stand": "2026-09-17",
+   "wochentag": "Donnerstag",
+   "tenor": "Die Fed hat gestern Abend geliefert — die ERSTE Zinserhöhung seit 2023 (auf 3,75–4,00 %) plus einen betont falkenhaften Ausblick — und der Dollar sprang über die 100er-Marke, USD/JPY auf ~156, die 10-Jahres-Rendite an die 5-%-Marke. Heute folgt die Bank of England (13:00 Wien, Halten erwartet), über Nacht die Bank of Japan mit ~61 % Erhöhungs-Chance.",
    "heute": [
-    "🏦 US-Notenbank-Entscheid HEUTE 20:00 Wien = DAS Event: ~90 % für eine Erhöhung auf 3,75–4,00 % eingepreist (CME), andere Wettbörsen vorsichtiger (~50 %). Weil so viel schon drin steckt, liegt die Gefahr im AUSBLICK — ein taubenhafter Zins-Plan (Dot-Plot) oder ein vorsichtiger Warsh (Pressekonferenz ~20:30) kann den Dollar TROTZ Erhöhung fallen lassen.",
-    "🇬🇧 UK-Inflation (08:00 Wien): erwartet ein Anstieg auf 3,1 % zum Vorjahr (von 2,9 %). Ein heißer Wert wäre Rückenwind fürs Pfund — genau einen Tag vor der Bank of England (Do), wo bereits 3 Mitglieder erhöhen wollen. Kern-Rate und Dienstleistungspreise besonders im Blick.",
-    "🇳🇿 Über Nacht: Neuseelands Wirtschaft SCHRUMPFTE im 2. Quartal um −0,9 % (erwartet war +0,1 %) — ein herber Fehlschlag. Der Kiwi fiel, der Markt wettet jetzt auf eine taubenhaftere Notenbank. Das untergräbt die bisherige Falken-Geschichte hinter dem Neuseeland-Dollar.",
-    "🛢️ Öl klettert weiter: WTI ~105 $, Brent ~106–108 $ (4-Monats-Hoch, +10 % auf Wochensicht) nach Angriffen auf eine saudische Export-Pipeline (7 Mio. Fass/Tag betroffen) plus Rotes-Meer/Iran-Blockade. Teures Öl = kräftiger Rückenwind fürs Öl-Land Kanada, Gegenwind für die Energie-Importeure Euro, Yen und Franken."
+    "🇬🇧 Bank of England HEUTE 13:00 Wien: Erwartet wird ein HALTEN bei 3,75 %, aber der Markt sieht ~30 % Chance auf eine falkenhafte Überraschung mit Erhöhung auf 4,00 % (höchste Wette seit Anfang 2024). Grund ist das teure Öl — reicht die Energie-Inflation für eine Mehrheit? Beim letzten Mal stimmten schon 3 von 9 für eine Erhöhung. Zweiseitiges Risiko fürs Pfund.",
+    "🇯🇵 Bank of Japan über Nacht (Ergebnis ~Fr früh Wien): ~61 % Chance auf eine ERHÖHUNG von 1,00 %. Ein Zinsschritt wäre YEN-STÄRKEND und könnte USD/JPY vom ~156er-Niveau (Interventionszone!) drücken; ein Halten schwächt den Yen weiter. Die Terminspekulanten (CFTC) sind frisch auf Yen-LONG gedreht = sie setzen auf einen stärkeren Yen.",
+    "💵 Dollar-Nachwirkung: Der Index brach über 100 (erstmals wieder), USD/JPY auf Wochenhoch ~156, EUR/USD nahe 1-Monats-Tief ~1,154. Der Zins-Ausblick der Fed (Dot-Plot) sieht die Zinsen Ende 2026 bei 4,1 % — der Markt preist bereits die nächste Erhöhung ein. Höher-für-länger regiert.",
+    "🛢️ Öl bleibt teuer: WTI ~102 $, Brent ~106 $ (nahe 4-Monats-Hoch) nach Angriffen auf saudische Export-Infrastruktur plus Nahost-Blockaden. Rückenwind fürs Öl-Land Kanada, Gegenwind für die Energie-Importeure Euro, Yen und Franken — und ein Inflations-Argument, das auch die Bank of England heute im Nacken sitzt."
    ],
    "gestern": [
-    "🇬🇧 Di 15.9.: UK-Arbeitsmarkt gemischt — Arbeitslosenquote 4,9 % (einen Tick über den erwarteten 4,8 %), aber die Löhne schlugen die Prognose. Per Saldo leicht Pfund-stützend zwei Tage vor der Bank of England.",
-    "💵 Di 15.9.: Der Dollar hielt sich fest (Index ~99,6), getragen von Zinsen nahe 5 % (US-10-Jahres-Rendite an der 5-%-Marke) und dem teuren Öl. Gold rutschte auf Wochensicht −2,9 % auf ~4.334 $ (weg vom Rekord), das Angst-Barometer VIX blieb ruhig bei ~17.",
-    "🇨🇦 Mo 14.9.: Kanada-Inflation hielt bei 3,0 % zum Vorjahr — genau wie erwartet. Fast alles ist Benzin (+22,8 %), die Kern-Maße lagen mit 1,9–2,0 % am Ziel. Heißt: kein neuer Erhöhungs-Grund für die Bank of Canada — der Loonie-Rückenwind kommt allein vom Öl.",
-    "🇺🇸 Fr 11.9. (Nachwirkung): US-Kern-Inflation kam mit +0,3 % zum Vormonat HEISS (über den erwarteten +0,2 %); die Jahres-Kernrate fiel aber auf 2,4 % (niedrigste seit 2021). Diese heiße Zahl trieb die Fed-Erhöhungs-Wette auf ~90 % und die 10-Jahres-Rendite an die 5-%-Marke."
+    "🏦 Mi 16.9.: Die Fed ERHÖHTE um 0,25 auf 3,75–4,00 % — die erste Zinserhöhung seit 2023, einstimmig 12:0. Chef Warsh gab sich in der Pressekonferenz betont falkenhaft. Der Zins-Ausblick (Dot-Plot): 16 von 18 Mitgliedern rechnen mit einer WEITEREN Erhöhung dieses Jahr, 4 sogar mit zweien. Eine Zinssenkung ist auf lange Sicht vom Tisch.",
+    "💵 Mi 16.9.: Reaktion auf den Falken-Fed — der Dollar-Index sprang über 100 (von ~99,6), die 10-Jahres-Rendite an die 5-%-Marke, USD/JPY auf ~156. Aktien stiegen trotzdem, Gold rutschte auf Wochensicht auf ~4.321 $ (weg vom Rekord), Bitcoin fiel auf ~75.800 $.",
+    "🇳🇿 Über Nacht: Neuseelands Wirtschaft SCHRUMPFTE im 2. Quartal um −0,9 % (erwartet war +0,1 %) — ein herber Fehlschlag. Der Kiwi fiel, der Markt wettet jetzt auf eine taubenhaftere Notenbank. Das untergräbt die bisherige Falken-Geschichte hinter dem Neuseeland-Dollar.",
+    "🇬🇧 Di 15.–Mi 16.9.: UK-Arbeitsmarkt leicht pfund-stützend (Löhne über Prognose, Quote 4,9 %), UK-Inflation dann mit 3,1 % zum Vorjahr genau wie erwartet — ein sauberer Übergang in die BoE-Entscheidung heute.",
+    "🇨🇦 Mo 14.9.: Kanada-Inflation hielt bei 3,0 % zum Vorjahr — fast alles Benzin (+22,8 %), die Kern-Maße mit 1,9–2,0 % am Ziel. Kein neuer Erhöhungs-Grund für die Bank of Canada; der Loonie-Rückenwind kommt allein vom Öl."
    ]
   }
  },
@@ -2744,7 +2745,7 @@ window.MAKRO_DATA = {
  },
  "leitzinsen": {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-09-04",
+  "stand": "2026-09-17",
   "zinsen": [
    {
     "code": "AUD",
@@ -2760,18 +2761,18 @@ window.MAKRO_DATA = {
     "bank": "BOE",
     "satz": 3.75,
     "anzeige": "3,75%",
-    "naechste": "Mitte Sep 2026",
-    "erwartung": "Am 30.7. bei 3,75% GEHALTEN, aber Abstimmung 6:3 — jetzt wollen DREI Mitglieder ERHÖHEN (einer mehr als zuvor). Chef Bailey bremste die Erhöhungs-Fantasie aber. Falken-Fraktion wächst wegen des teuren Öls",
+    "naechste": "17.9.2026 (HEUTE)",
+    "erwartung": "Entscheid HEUTE 13:00 Wien. Erwartet wird ein HALTEN bei 3,75%, aber der Markt sieht ~30% Chance auf eine falkenhafte Überraschung mit Erhöhung auf 4,00% (höchste Wette seit Anfang 2024). Beim letzten Mal (30.7.) stimmten 6:3, drei Mitglieder wollten schon erhöhen. Das teure Öl (Energie-Inflation) ist die Schlüsselfrage — reicht es für eine Fünf-Stimmen-Mehrheit? Heiße Löhne stützen die Falken",
     "richtung": "halten"
    },
    {
     "code": "USD",
     "bank": "Fed",
-    "satz": 3.625,
-    "anzeige": "3,50–3,75%",
-    "naechste": "17.9.2026",
-    "erwartung": "Der 17.9.-Entscheid ist ein echter MÜNZWURF und die Fed ist gespalten: Chef Warsh (Falke) sagte in Jackson Hole am 28.8., die Fed müsse 'mehr tun' gegen die Inflation. ABER Fed-Gouverneur Waller signalisierte am Do 3.9. eine PAUSE (Fortschritt bei der Inflation) → der Markt sieht die Sept-Erhöhung jetzt bei nur noch ~50%. Der überraschend STARKE Jobbericht (4.9.: +162k statt +55k erwartet, Quote 4,1%) hält die Erhöhungs-Debatte am Leben und hob die Renditen leicht, aber der Dollar rallyt trotzdem kaum — Waller-Taube + die Entwertungs-Wette (Gold nahe Rekord ~4.520$) deckeln ihn. Eine Zinssenkung ist praktisch vom Tisch",
-    "richtung": "halten"
+    "satz": 3.875,
+    "anzeige": "3,75–4,00%",
+    "naechste": "28.10.2026",
+    "erwartung": "Am Mi 16.9. um 0,25 auf 3,75–4,00% ERHÖHT — die ERSTE Zinserhöhung seit 2023, einstimmig 12:0. Chef Warsh gab sich in der Pressekonferenz betont FALKENHAFT. Der Zins-Ausblick (Dot-Plot) sieht die Zinsen bis Ende 2026 bei 4,1% (von 3,8% im Juni), 16 von 18 Mitgliedern rechnen mit einer WEITEREN Erhöhung dieses Jahr, 4 sogar mit zweien. Reaktion: Der Dollar SPRANG (Index über 100), die 10-Jahres-Rendite an die 5-%-Marke, USD/JPY auf ~156. Eine Zinssenkung ist auf Jahre vom Tisch",
+    "richtung": "rauf"
    },
    {
     "code": "NZD",
@@ -2785,11 +2786,11 @@ window.MAKRO_DATA = {
    {
     "code": "EUR",
     "bank": "EZB",
-    "satz": 2.4,
-    "anzeige": "2,40%",
-    "naechste": "10.9.2026",
-    "erwartung": "Der Euro-CPI-Flash kam am Di 1.9. mit 3,3% Schlagzeile HÖHER als erwartet (Höchststand seit Sept 2023, Energie/Nahost) — der Markt preist jetzt zu ~99% eine ERHÖHUNG um 0,25 auf 2,50% (Einlagensatz 2,25%→2,50%) am Mi 10.9. ein. Weil der Schritt fast sicher ist, zählt danach der Ton: der Kern kühlte auf 2,4%, daher dürfte Lagarde ein Ende der Erhöhungen signalisieren",
-    "richtung": "rauf"
+    "satz": 2.5,
+    "anzeige": "2,50%",
+    "naechste": "Ende Okt 2026",
+    "erwartung": "Am Mi 10.9. um 0,25 auf 2,50% ERHÖHT (Einlagensatz 2,25%→2,50%) wegen der hohen Schlagzeilen-Inflation (Energie/Nahost). Weil der Kern auf 2,4% kühlte, signalisierte Lagarde aber ein voraussichtliches ENDE der Erhöhungen. Gegen den frisch erhöhten, falkenhaften Dollar bleibt der Euro im Hintertreffen; teures Öl belastet den Energie-Importeur zusätzlich",
+    "richtung": "halten"
    },
    {
     "code": "CAD",
@@ -2805,9 +2806,9 @@ window.MAKRO_DATA = {
     "bank": "BOJ",
     "satz": 1,
     "anzeige": "1,00%",
-    "naechste": "Mitte Sep 2026",
-    "erwartung": "Am 31.7. bei 1,00% GEHALTEN (8:1 — ein Falke wollte erhöhen) + Wachstumsprognose angehoben; nächste Erhöhung laut Umfragen eher Q4. Yen ~163 = 40-Jahres-Tief — Regierung hat am 30.7. mutmaßlich INTERVENIERT (~2% Sprung), Interventionsrisiko bleibt extrem",
-    "richtung": "halten"
+    "naechste": "17.–18.9.2026 (Ergebnis über Nacht)",
+    "erwartung": "Entscheid HEUTE Nacht (Ergebnis ~Fr früh Wien). Die Wettbörsen sehen ~61% Chance auf eine ERHÖHUNG von 1,00% — die Inflation nähert sich dem 2%-Ziel, Board-Mitglied Takata warnte vor Überhitzung. Ein Zinsschritt wäre YEN-STÄRKEND und könnte den Yen aus dem 40-Jahres-Tief (USD/JPY ~156) hieven; ein Halten würde ihn weiter schwächen. Interventionsrisiko bleibt hoch. Positionierung (CFTC) frisch auf netto-LONG gedreht — der Markt setzt zunehmend auf einen stärkeren Yen",
+    "richtung": "rauf"
    },
    {
     "code": "CHF",
@@ -3361,128 +3362,128 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -3,
+   "baseScore": -8,
    "tiltCot": -1,
    "tiltZins": 0,
    "tiltGesamt": -1,
-   "score": -4,
+   "score": -9,
    "cotExtrem": "erhoeht",
-   "treiber": "Fester Dollar vor der Fed + teures Öl belastet den Euro; die stark gestiegene EUR-2-Jahres-Rendite federt ab → leicht negativ. (Track-Record des Paars schwach → bewusst nahe null.)",
+   "treiber": "Falkenhafter Fed + starker Dollar (Index >100) gegen EU-Erhöhungs-Ende; nahe 1-Monats-Tief ~1,154 (Paar-Track-Record aber nur 31 % → gedämpft)",
    "istCross": false
   },
   {
    "paar": "GBP/USD",
-   "baseScore": -2,
+   "baseScore": -4,
    "tiltCot": -4,
    "tiltZins": -5,
    "tiltGesamt": -9,
-   "score": -11,
+   "score": -13,
    "cotExtrem": null,
-   "treiber": "Löhne über Prognose + kräftig gestiegene UK-2-Jahres-Rendite stützen das Pfund, gegen den festen Dollar bleibt aber wenig übrig → leicht negativ. BoE am Do als Test.",
+   "treiber": "Starker Dollar, aber BoE HEUTE mit ~30 % Falken-Erhöhungs-Risiko begrenzt das Abwärts — bewusst zweiseitig",
    "istCross": false
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 2,
+   "baseScore": 4,
    "tiltCot": 0,
    "tiltZins": 8,
    "tiltGesamt": 8,
-   "score": 10,
+   "score": 12,
    "cotExtrem": null,
-   "treiber": "Teures Öl + Mini-Zins belasten den Yen, der feste Dollar hebt das Paar; DAGEGEN drehte die COT-Positionierung wieder netto-long auf den Yen (Short-Eindeckung). Schlechtester Track-Record (23 %) → bewusst modest.",
+   "treiber": "Öl + Carry + starker Dollar belasten den Yen (~156), ABER BoJ könnte über Nacht erhöhen (~61 %, yen-stärkend) + Interventionszone → bewusst nur leicht positiv (Paar-Track-Record 23 %, schlechtestes)",
    "istCross": false
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -1,
+   "baseScore": -6,
    "tiltCot": -2,
    "tiltZins": -8,
    "tiltGesamt": -10,
-   "score": -11,
+   "score": -16,
    "cotExtrem": null,
-   "treiber": "Ruhiger Markt (VIX ~17) stützt den Aussie leicht, gegen den festen Dollar bleibt aber wenig übrig → nahe null.",
+   "treiber": "Der frisch-falkenhafte Dollar überstrahlt das ruhige Risk-on-Umfeld und den Hochzins-Aussie",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -3,
+   "baseScore": 0,
    "tiltCot": 4,
    "tiltZins": 4,
    "tiltGesamt": 8,
-   "score": 5,
+   "score": 8,
    "cotExtrem": null,
-   "treiber": "Öl auf 4-Monats-Hoch (WTI ~105 $ nach Saudi-Pipeline-Angriffen) gibt dem Loonie klar die Oberhand → negativ. Nur leicht getrimmt, weil die Kanada-Inflation am Mo nur wie erwartet kam und der Bank of Canada keinen neuen Erhöhungs-Grund liefert.",
+   "treiber": "Standoff: starker Dollar gegen den Öl-Rückenwind des Loonie (WTI ~102 $) — beide stark, bewusst neutral (Paar-Track-Record 38 %)",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 3,
+   "baseScore": 8,
    "tiltCot": 4,
    "tiltZins": 8,
    "tiltGesamt": 12,
-   "score": 15,
+   "score": 20,
    "cotExtrem": null,
-   "treiber": "Franken als Energie-Importeur belastet + fester Dollar vor der Fed → Dollar-Seite vorn; ruhiger Markt gibt dem Franken keinen Hafen-Rückenwind → leicht positiv.",
+   "treiber": "Sauberster Ausdruck der Dollar-Stärke: starker Dollar + schwacher Franken (Energie-Importeur, kein Hafen-Bedarf)",
    "istCross": false
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -5,
+   "baseScore": -12,
    "tiltCot": 1,
    "tiltZins": -4,
    "tiltGesamt": -3,
-   "score": -8,
+   "score": -15,
    "cotExtrem": null,
-   "treiber": "Neuseeland-BIP-Schock (−0,9 % statt +0,1 %) drückt den Kiwi und untergräbt die RBNZ-Falken-Story; dazu der feste Dollar vor der Fed → klar negativ. Getrimmt, weil Spekulanten netto-long sind (Squeeze-Risiko) und das Paar den besten Track-Record der Gruppe hat.",
+   "treiber": "Doppelt bärisch: NZ-BIP-Schock (−0,9 %) drückt den Kiwi UND der frisch-falkenhafte Dollar zieht an — beide Treiber ziehen gleich (Paar-Track-Record 58 %, bestes)",
    "istCross": false
   },
   {
    "paar": "EUR/GBP",
-   "baseScore": 0,
+   "baseScore": -5,
    "tiltCot": 3,
    "tiltZins": 4,
    "tiltGesamt": 7,
-   "score": 7,
+   "score": 2,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": 1,
+   "baseScore": -3,
    "tiltCot": -1,
    "tiltZins": 8,
    "tiltGesamt": 7,
-   "score": 8,
+   "score": 4,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 4,
+   "baseScore": 5,
    "tiltCot": -3,
    "tiltZins": -6,
    "tiltGesamt": -9,
-   "score": -5,
+   "score": -4,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 1,
+   "baseScore": -1,
    "tiltCot": 3,
    "tiltZins": 8,
    "tiltGesamt": 11,
-   "score": 12,
+   "score": 10,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-16T19:14:25.746Z",
+  "stand": "2026-09-17T05:07:24.796Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 54,
   "gewertet": 28,
@@ -3948,8 +3949,8 @@ window.MAKRO_DATA = {
   "CAD": {
    "ueber": 4,
    "unter": 7,
-   "gleich": 8,
-   "gesamt": 19,
+   "gleich": 10,
+   "gesamt": 21,
    "score": -3
   },
   "EUR": {
@@ -4510,6 +4511,26 @@ window.MAKRO_DATA = {
    "notiz": "auto:TV cpiYoY (2026-09-16)"
   },
   {
+   "datum": "2026-09-14T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "Median CPI y/y",
+   "impact": "High",
+   "prognose": "2.0%",
+   "vorher": "2.0%",
+   "actual": "2.0%",
+   "notiz": null
+  },
+  {
+   "datum": "2026-09-14T08:30:00-04:00",
+   "land": "CAD",
+   "titel": "Trimmed CPI y/y",
+   "impact": "High",
+   "prognose": "1.9%",
+   "vorher": "1.9%",
+   "actual": "1.9%",
+   "notiz": null
+  },
+  {
    "datum": "2026-09-11T08:30:00-04:00",
    "land": "USD",
    "titel": "Core CPI m/m",
@@ -5058,26 +5079,6 @@ window.MAKRO_DATA = {
    "vorher": "2.1%",
    "actual": "1.9",
    "notiz": null
-  },
-  {
-   "datum": "2026-07-20T08:30:00-04:00",
-   "land": "CAD",
-   "titel": "Trimmed CPI y/y",
-   "impact": "High",
-   "prognose": "2.0%",
-   "vorher": "2.0%",
-   "actual": "1.8",
-   "notiz": null
-  },
-  {
-   "datum": "2026-07-15T09:45:00-04:00",
-   "land": "CAD",
-   "titel": "Overnight Rate",
-   "impact": "High",
-   "prognose": "2.25%",
-   "vorher": "2.25%",
-   "actual": "2.25%",
-   "notiz": "auto:TV rate (2026-07-15)"
   }
  ],
  "anzahlGespeichert": 1377

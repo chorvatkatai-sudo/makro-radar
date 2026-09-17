@@ -13318,8 +13318,8 @@
       "impact": "High",
       "prognose": "3-0-6",
       "vorher": "3-0-6",
-      "actual": null,
-      "notiz": null
+      "actual": "3.75%",
+      "notiz": "auto:TV rate (2026-09-17)"
     },
     "2026-09-17T07:00:00-04:00|GBP|Official Bank Rate": {
       "datum": "2026-09-17T07:00:00-04:00",
@@ -13328,8 +13328,8 @@
       "impact": "High",
       "prognose": "3.75%",
       "vorher": "3.75%",
-      "actual": null,
-      "notiz": null
+      "actual": "3.75%",
+      "notiz": "auto:TV rate (2026-09-17)"
     },
     "2026-09-17T08:30:00-04:00|CAD|Foreign Securities Purchases": {
       "datum": "2026-09-17T08:30:00-04:00",

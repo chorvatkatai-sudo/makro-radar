@@ -1,23 +1,23 @@
 {
-  "stand": "2026-09-17T10:43:57.398Z",
+  "stand": "2026-09-17T15:22:39.917Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 28,
+    "faelle": 29,
     "treffer": 17,
-    "quote": 61,
-    "schnittGerichtet": 0.121,
-    "schnittBetrag": 0.307,
-    "pWert": 0.345,
+    "quote": 59,
+    "schnittGerichtet": 0.097,
+    "schnittBetrag": 0.317,
+    "pWert": 0.458,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 51,
+    "faelle": 52,
     "treffer": 31,
-    "quote": 61,
-    "schnittGerichtet": 0.121,
-    "schnittBetrag": 0.345,
-    "pWert": 0.161,
+    "quote": 60,
+    "schnittGerichtet": 0.107,
+    "schnittBetrag": 0.35,
+    "pWert": 0.212,
     "belastbar": false
   },
   "jeWaehrung": {
@@ -49,12 +49,12 @@
       "belastbar": false
     },
     "GBP": {
-      "faelle": 4,
+      "faelle": 5,
       "treffer": 3,
-      "quote": 75,
-      "schnittGerichtet": 0.191,
-      "schnittBetrag": 0.316,
-      "pWert": 0.625,
+      "quote": 60,
+      "schnittGerichtet": 0.034,
+      "schnittBetrag": 0.37,
+      "pWert": 1,
       "belastbar": false
     }
   },
@@ -116,12 +116,12 @@
       "belastbar": false
     },
     "GBP": {
-      "faelle": 4,
+      "faelle": 5,
       "treffer": 3,
-      "quote": 75,
-      "schnittGerichtet": 0.191,
-      "schnittBetrag": 0.316,
-      "pWert": 0.625,
+      "quote": 60,
+      "schnittGerichtet": 0.034,
+      "schnittBetrag": 0.37,
+      "pWert": 1,
       "belastbar": false
     },
     "NZD": {
@@ -135,15 +135,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-08-07",
-      "land": "CAD",
-      "titel": "Employment Change",
-      "ueberraschung": "hoeher",
-      "erwartet": "stärker",
-      "bewegung": 0.497,
-      "wieErwartet": true
-    },
     {
       "datum": "2026-08-13",
       "land": "GBP",
@@ -223,6 +214,15 @@
       "ueberraschung": "niedriger",
       "erwartet": "schwächer",
       "bewegung": 0.088,
+      "wieErwartet": false
+    },
+    {
+      "datum": "2026-09-17",
+      "land": "GBP",
+      "titel": "MPC Official Bank Rate Votes",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": -0.59,
       "wieErwartet": false
     }
   ]

@@ -1,11 +1,23 @@
 {
-  "stand": "2026-09-17T15:22:38.702Z",
+  "stand": "2026-09-17T16:06:22.849Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar gains ground as GDP growth beats expectations",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-ground-as-gdp-growth-beats-expectations-202609171555",
+      "datum": "2026-09-17T15:55:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound loses its footing as BoE hold meets Fed hike",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-its-footing-as-boe-holds-meet-fed-tightening-202609171543",
+      "datum": "2026-09-17T15:43:17.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Japanese Yen: Further weakness could target 157.30 against US Dollar - UOB",
@@ -61,22 +73,10 @@
       "datum": "2026-09-17T14:08:55.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar remains under pressure as USD/CAD flirts with 1.4000",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-as-usd-cad-flirts-with-14000-202609171407",
-      "datum": "2026-09-17T14:07:28.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US August pending home sales +0.3% vs -0.6% expected",
       "link": "https://investinglive.com/news/us-august-pending-home-sales-0-3-vs-0-6-expected/",
       "datum": "2026-09-17T14:01:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: BoJ tightening expectations lift JPY against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-expectations-lift-jpy-against-us-dollar-scotiabank-202609171400",
-      "datum": "2026-09-17T14:00:16.000Z"
     },
     {
       "quelle": "ForexLive",

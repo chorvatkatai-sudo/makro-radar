@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-16T19:14:25.736Z",
+  "stand": "2026-09-17T05:07:58.766Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Forex Today: Investors now look at the BoE",
-      "link": "https://www.fxstreet.com/news/forex-today-investors-now-look-at-the-boe-202609161909",
-      "datum": "2026-09-16T19:09:53.000Z"
+      "titel": "US 10-Year Treasury Yield nears 5% after Fed rate hike, Middle East tensions raise inflation fears",
+      "link": "https://www.fxstreet.com/news/us-10-year-treasury-yield-nears-5-after-fed-rate-hike-middle-east-tensions-raise-inflation-fears-202609170501",
+      "datum": "2026-09-17T05:01:10.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Federal Reserve Chair Warsh: Inflation trends were not passing the test",
-      "link": "https://www.fxstreet.com/news/federal-reserve-chair-warsh-inflation-trends-were-not-passing-the-test-202609161900",
-      "datum": "2026-09-16T19:00:22.000Z"
+      "titel": "Asian stocks edge higher as hawkish Fed, elevated yields and geopolitical cap upside",
+      "link": "https://www.fxstreet.com/news/asian-stocks-edge-higher-as-hawkish-fed-elevated-yields-and-geopolitical-cap-upside-202609170451",
+      "datum": "2026-09-17T04:51:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed raises 2026 interest rate forecast to 4.1%, lifts PCE inflation projections",
-      "link": "https://www.fxstreet.com/news/fed-raises-2026-interest-rate-forecast-to-41-lifts-pce-inflation-projections-202609161858",
-      "datum": "2026-09-16T18:58:33.000Z"
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609170435",
+      "datum": "2026-09-17T04:35:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "A Fed rate hike sends the Loonie to a six-week low",
-      "link": "https://www.fxstreet.com/news/fed-hike-sends-the-loonie-to-a-six-week-low-202609161841",
-      "datum": "2026-09-16T18:41:40.000Z"
+      "titel": "AUD/JPY Price Forecast: Gains ground to near 111.00, but retains a bearish bias below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-gains-ground-to-near-11100-but-retains-a-bearish-bias-below-100-day-sma-202609170424",
+      "datum": "2026-09-17T04:24:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI holds near daily low as Fed decision draws muted reaction",
-      "link": "https://www.fxstreet.com/news/wti-holds-near-daily-low-as-fed-decision-draws-muted-reaction-202609161837",
-      "datum": "2026-09-16T18:37:24.000Z"
+      "titel": "NZD/USD Price Forecast: Sticks to GDP-led recovery gains above 0.5700; bearish bias intact",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-sticks-to-gdp-led-recovery-gains-above-05700-bearish-bias-intact-202609170413",
+      "datum": "2026-09-17T04:13:38.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen falls as US Federal Reserve delivers",
-      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-us-federal-reserve-delivers-202609161832",
-      "datum": "2026-09-16T18:32:44.000Z"
+      "titel": "Japan’s Katayama says expect BoJ to conduct appropriate monetary policy to achieve 2% price target",
+      "link": "https://www.fxstreet.com/news/japans-katayama-says-expect-boj-to-conduct-appropriate-monetary-policy-to-achieve-2-price-target-202609170357",
+      "datum": "2026-09-17T03:57:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar slides below 0.7100 as Warsh strikes hawkish tone",
-      "link": "https://www.fxstreet.com/news/australian-dollar-falls-against-us-dollar-after-hawkish-fed-rate-hike-202609161823",
-      "datum": "2026-09-16T18:23:34.000Z"
+      "titel": "Gold struggles to build on recovery gains as hawkish Fed and Iran risks underpin USD",
+      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348",
+      "datum": "2026-09-17T03:48:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Dollar Index Cracks 100 as Fed delivers hawkish hike",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815",
-      "datum": "2026-09-16T18:15:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Dow Jones' 30 corporate borrowers eat a Fed rate hike",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815",
-      "datum": "2026-09-16T18:15:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Federal Reserve hikes back above Britain's cash rate",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809",
-      "datum": "2026-09-16T18:09:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Fed hikes six days after the ECB, weighing on the Euro",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-six-days-after-the-ecb-202609161808",
-      "datum": "2026-09-16T18:08:49.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "datum": "2026-09-16T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "datum": "2026-09-16T18:00:00.000Z"
+      "titel": "EUR/JPY Price Forecast: Slips below 179.00 as bearish bias prevails",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17900-as-bearish-bias-prevails-202609170343",
+      "datum": "2026-09-17T03:43:35.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US July business inventories +0.8% vs +0.3% expected",
-      "link": "https://investinglive.com/news/us-july-business-inventories-0-8-vs-0-3-expected/",
-      "datum": "2026-09-16T14:00:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NAHB Housing market index for September 32 vs 34 estimate",
-      "link": "https://investinglive.com/news/nahb-housing-market-index-for-september-32-vs-34-estimate/",
-      "datum": "2026-09-16T14:00:08.000Z"
+      "titel": "investingLive Asia-Pacific market news: Fed hike fallout dominates",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-fallout-dominates/",
+      "datum": "2026-09-17T03:36:34.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed’s Warsh: Decision today was the right decision",
-      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400",
-      "datum": "2026-09-16T14:00:00.000Z"
+      "titel": "Fed Policy Monitor: Hiking bias and curve reaction – NBC Economics and Strategy",
+      "link": "https://www.fxstreet.com/news/fed-policy-monitor-hiking-bias-and-curve-reaction-nbc-economics-and-strategy-202609170322",
+      "datum": "2026-09-17T03:22:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States rates: Yields seen contained, steepeners favoured – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-rates-yields-seen-contained-steepeners-favoured-td-securities-202609170320",
+      "datum": "2026-09-17T03:20:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar slides to five-week low after Fed’s hawkish decision",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-to-five-week-low-after-feds-hawkish-decision-202609170320",
+      "datum": "2026-09-17T03:20:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Federal Reserve: Policy path reshaped – Rabobank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-policy-path-reshaped-rabobank-202609170317",
+      "datum": "2026-09-17T03:17:40.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Canada Building permits for the month of July -17.3 vs -6.4% estimate",
-      "link": "https://investinglive.com/news/canada-building-permits-for-the-month-of-july-17-3-vs-6-4-estimate/",
-      "datum": "2026-09-16T12:30:35.000Z"
+      "titel": "New Zealand dollar pops a little on better than expected GDP data",
+      "link": "https://investinglive.com/news/new-zealand-dollar-pops-a-little-on-better-than-expected-gdp-data/",
+      "datum": "2026-09-16T22:49:14.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US import and export prices are August 0.7% vs 0.4%. Export prices 0.6% vs 0.5% est.",
-      "link": "https://investinglive.com/news/us-import-and-export-prices-are-august-0-7-vs-0-4-export-prices-0-6-vs-0-5-est/",
-      "datum": "2026-09-16T12:30:16.000Z"
+      "titel": "Xi-Trump summit set for September 24, but Taiwan arms sale threat looms over it",
+      "link": "https://investinglive.com/news/xi-trump-summit-set-for-september-24-but-taiwan-arms-sale-threat-looms-over-it/",
+      "datum": "2026-09-16T22:41:47.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand Q2 GDP preview as RBNZ weighs timing of its next rate hike",
+      "link": "https://investinglive.com/news/new-zealand-q2-gdp-preview-as-rbnz-weighs-timing-of-its-next-rate-hike/",
+      "datum": "2026-09-16T20:20:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Thursday, September 17, 2026. FOMC done, moving on!",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-september-17-2026-fomc-done-moving-on/",
+      "datum": "2026-09-16T20:12:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Fed hikes rates for the first time in three years",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-fed-hikes-rates-for-the-first-time-in-three-years/",
+      "datum": "2026-09-16T19:37:34.000Z"
     }
   ]
 }

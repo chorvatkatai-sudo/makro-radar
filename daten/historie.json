@@ -13770,6 +13770,16 @@
       "vorher": "-6.2%",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-17T04:37:00-04:00|EUR|Spanish 10-y Bond Auction": {
+      "datum": "2026-09-17T04:37:00-04:00",
+      "land": "EUR",
+      "titel": "Spanish 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.74|2.3",
+      "actual": null,
+      "notiz": null
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-17T09:06:52.158Z",
+  "stand": "2026-09-17T10:43:55.825Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -4,
       "tiltCot": -4,
-      "tiltZins": -4,
-      "tiltGesamt": -8,
-      "score": -12,
+      "tiltZins": -5,
+      "tiltGesamt": -9,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "Starker Dollar, aber BoE HEUTE mit ~30 % Falken-Erhöhungs-Risiko begrenzt das Abwärts — bewusst zweiseitig",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 0,
       "tiltCot": 4,
-      "tiltZins": 3,
-      "tiltGesamt": 7,
-      "score": 7,
+      "tiltZins": 5,
+      "tiltGesamt": 9,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Standoff: starker Dollar gegen den Öl-Rückenwind des Loonie (WTI ~102 $) — beide stark, bewusst neutral (Paar-Track-Record 38 %)",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": -5,
       "tiltCot": 3,
-      "tiltZins": 1,
-      "tiltGesamt": 4,
-      "score": -1,
+      "tiltZins": 2,
+      "tiltGesamt": 5,
+      "score": 0,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

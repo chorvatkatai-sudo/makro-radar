@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-17T09:06:52.156Z",
+  "stand": "2026-09-17T10:43:55.824Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,9 +7,69 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Gold Price Forecast: XAU/USD gains as oil rally eases, upside seems limited amid hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-gains-as-oil-rally-eases-upside-seems-limited-amid-hawkish-fed-bets-202609171030",
+      "datum": "2026-09-17T10:30:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada’s Carney puts economic sovereignty at heart of strategic alliances",
+      "link": "https://www.fxstreet.com/news/canadas-carney-puts-economic-sovereignty-at-heart-of-strategic-alliances-202609171012",
+      "datum": "2026-09-17T10:12:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro falls below 179.00 as Japanese Yen strengthens ahead of BoJ",
+      "link": "https://www.fxstreet.com/news/euro-falls-below-17900-as-japanese-yen-strengthens-ahead-of-boj-202609171004",
+      "datum": "2026-09-17T10:04:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro languishes below 1.1500 in the aftermath of Fed’s hawkish hike",
+      "link": "https://www.fxstreet.com/news/euro-languishes-below-11500-in-the-aftermath-of-feds-hawkish-hike-202609171004",
+      "datum": "2026-09-17T10:04:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Warsh message supports limited upside – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-message-supports-limited-upside-mufg-202609170959",
+      "datum": "2026-09-17T09:59:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Sterling seen outperforming peers – Societe Generale",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-seen-outperforming-peers-societe-generale-202609170948",
+      "datum": "2026-09-17T09:48:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro remains stronger against Canadian Dollar following Eurozone HICP inflation data",
+      "link": "https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-following-eurozone-hicp-inflation-data-202609170942",
+      "datum": "2026-09-17T09:42:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609170937",
+      "datum": "2026-09-17T09:37:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Medium-term downside remains in focus against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/euro-medium-term-downside-remains-in-focus-against-us-dollar-uob-202609170933",
+      "datum": "2026-09-17T09:33:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Czech Koruna: Hawkish CNB pause may support CZK – Commerzbank",
+      "link": "https://www.fxstreet.com/news/czech-koruna-hawkish-cnb-pause-may-support-czk-commerzbank-202609170911",
+      "datum": "2026-09-17T09:11:19.000Z"
+    },
+    {
       "quelle": "ForexLive",
-      "titel": "Eurozone August final CPI +3.2% vs +3.3% y/y expected",
-      "link": "https://investinglive.com/news/eurozone-august-final-cpi-3-2-vs-3-3-y-y-expected/",
+      "titel": "Euro area inflation nudges up in August to 3.2% as energy prices jump",
+      "link": "https://investinglive.com/news/euro-area-inflation-nudges-up-in-august-to-3-2-as-energy-prices-jump/",
       "datum": "2026-09-17T09:00:16.000Z"
     },
     {
@@ -17,66 +77,6 @@
       "titel": "Japanese Yen: BoJ guidance key after Fed move – OCBC",
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-key-after-fed-move-ocbc-202609170859",
       "datum": "2026-09-17T08:59:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil holds near weekly lows as Saudi Oil exports find an alternative route",
-      "link": "https://www.fxstreet.com/news/wti-oil-holds-near-weekly-lows-as-saudi-oil-exports-find-an-alternative-route-202609170857",
-      "datum": "2026-09-17T08:57:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Holds above 0.7100 amid retreating USD; 100-SMA holds the key",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-above-07100-amid-retreating-usd-100-sma-holds-the-key-202609170856",
-      "datum": "2026-09-17T08:56:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: BoE decision keeps November hike risk alive – MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-decision-keeps-november-hike-risk-alive-mufg-202609170850",
-      "datum": "2026-09-17T08:50:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen strengthens due to BoJ rate hike bets, weaker US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-due-to-boj-rate-hike-bets-weaker-us-dollar-202609170849",
-      "datum": "2026-09-17T08:49:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Structurally stronger after Fed hike – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-structurally-stronger-after-fed-hike-ing-202609170838",
-      "datum": "2026-09-17T08:38:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound underperforms against Japanese Yen ahead of BoE-BoJ policy outcome",
-      "link": "https://www.fxstreet.com/news/british-pound-underperforms-against-japanese-yen-ahead-of-boe-boj-policy-outcome-202609170835",
-      "datum": "2026-09-17T08:35:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Remains near recent lows against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-near-recent-lows-against-us-dollar-uob-202609170828",
-      "datum": "2026-09-17T08:28:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Makhlouf: Can't rule out anything at future meetings",
-      "link": "https://www.fxstreet.com/news/ecbs-makhlouf-cant-rule-out-anything-at-future-meetings-202609170813",
-      "datum": "2026-09-17T08:13:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones futures gain as oil slide offsets Fed rate hike jitters",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-oil-slide-offsets-fed-rate-hike-jitters-202609170813",
-      "datum": "2026-09-17T08:13:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI liquidity withdrawal tempers risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-liquidity-withdrawal-tempers-risks-commerzbank-202609170810",
-      "datum": "2026-09-17T08:10:38.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -98,9 +98,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee draws support from RBI's intervention near seven-week low",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519",
-      "datum": "2026-09-17T05:19:51.000Z"
+      "titel": "BoE set to hold interest rates at 3.75% for sixth meeting in a row",
+      "link": "https://www.fxstreet.com/news/boe-expected-to-hold-interest-rate-at-375-202609170600",
+      "datum": "2026-09-17T06:00:00.000Z"
     },
     {
       "quelle": "ForexLive",

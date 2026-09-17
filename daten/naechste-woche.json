@@ -152,10 +152,10 @@
   {
     "date": "2026-09-22T09:00:00.000Z",
     "country": "GBP",
-    "title": "New Conventional Gilt 2032",
+    "title": "Treasury Gilt 2032 Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.613%",
     "actual": null,
     "quelle": "tradingview"
   },

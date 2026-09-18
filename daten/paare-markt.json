@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-18T14:42:52.913Z",
+  "stand": "2026-09-18T15:42:22.283Z",
   "ausBriefing": "2026-09-18",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -4,
       "tiltCot": -4,
-      "tiltZins": -3,
-      "tiltGesamt": -7,
-      "score": -11,
+      "tiltZins": -4,
+      "tiltGesamt": -8,
+      "score": -12,
       "cotExtrem": null,
       "treiber": "Der starke Dollar drückt, aber die falkenhafte Bank of England (Erhöhung im Nov/Dez möglich) federt ab — deshalb nur ein kleiner Minus-Score.",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -8,
       "tiltCot": 1,
-      "tiltZins": -4,
-      "tiltGesamt": -3,
-      "score": -11,
+      "tiltZins": -5,
+      "tiltGesamt": -4,
+      "score": -12,
       "cotExtrem": null,
       "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands Wirtschaft schrumpfte (−0,9%), die Notenbank wird taubenhafter, dazu der starke Dollar. Doppelter Gegenwind.",
       "istCross": false

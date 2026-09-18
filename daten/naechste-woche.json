@@ -852,10 +852,10 @@
   {
     "date": "2026-09-24T12:30:00.000Z",
     "country": "USD",
-    "title": "Building Permits MoM Final",
+    "title": "Building Permits Final",
     "impact": "Low",
-    "forecast": "-2.7%",
-    "previous": "4.3%",
+    "forecast": "1.394",
+    "previous": "1.433",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -912,10 +912,20 @@
   {
     "date": "2026-09-24T12:30:00.000Z",
     "country": "USD",
-    "title": "Building Permits Final",
+    "title": "Building Permits MoM Final",
     "impact": "Low",
-    "forecast": "1.394",
-    "previous": "1.433",
+    "forecast": "-2.7%",
+    "previous": "4.3%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-24T12:30:00.000Z",
+    "country": "USD",
+    "title": "Jobless Claims 4-week Average",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "203.25",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -951,16 +961,6 @@
   },
   {
     "date": "2026-09-24T12:30:00.000Z",
-    "country": "USD",
-    "title": "Jobless Claims 4-week Average",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "203.25",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-24T12:30:00.000Z",
     "country": "CAD",
     "title": "Retail Sales Ex Autos MoM",
     "impact": "Medium",
@@ -975,6 +975,16 @@
     "title": "Fed Hammack Speech",
     "impact": "Medium",
     "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-24T13:20:00.000Z",
+    "country": "USD",
+    "title": "NY Fed Bill Purchases 4 to 12 months",
+    "impact": "Low",
+    "forecast": "1.946",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"

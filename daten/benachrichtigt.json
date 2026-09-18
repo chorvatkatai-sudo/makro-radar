@@ -103,6 +103,8 @@
     "2026-09-14T08:30:00-04:00|CAD|Median CPI y/y",
     "2026-09-14T08:30:00-04:00|CAD|Trimmed CPI y/y",
     "2026-09-17T07:00:00-04:00|GBP|MPC Official Bank Rate Votes",
-    "2026-09-17T07:00:00-04:00|GBP|Official Bank Rate"
+    "2026-09-17T07:00:00-04:00|GBP|Official Bank Rate",
+    "2026-09-17T22:30:00-04:00|JPY|BOJ Policy Rate",
+    "2026-09-17T22:54:00-04:00|JPY|BOJ Policy Rate"
   ]
 }

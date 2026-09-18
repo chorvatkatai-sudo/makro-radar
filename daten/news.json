@@ -1,11 +1,53 @@
 {
-  "stand": "2026-09-18T17:58:44.280Z",
+  "stand": "2026-09-18T20:34:22.413Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Bonds slump again, yen rate check adds intrigue after BOJ",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-bonds-slump-again-yen-rate-check-adds-intrigue-after-boj/",
+      "datum": "2026-09-18T20:29:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Malaysian Ringgit: External pressure but scope for reversal – OCBC",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-external-pressure-but-scope-for-reversal-ocbc-202609181954",
+      "datum": "2026-09-18T19:54:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Limited upside after hawkish BoE hold – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-limited-upside-after-hawkish-boe-hold-scotiabank-202609181919",
+      "datum": "2026-09-18T19:19:58.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Oil finishes lower as the market sniffs out a TACO",
+      "link": "https://investinglive.com/news/oil-finishes-lower-as-the-market-sniffs-out-a-taco/",
+      "datum": "2026-09-18T19:05:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "10-year Treasury yield rises back to 5% as global tightening wave pushes",
+      "link": "https://www.fxstreet.com/news/us-10-year-back-at-5-as-global-tightening-wave-pushes-202609181903",
+      "datum": "2026-09-18T19:03:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Eurozone: Energy shock reshapes outlook – Rabobank",
+      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-reshapes-outlook-rabobank-202609181858",
+      "datum": "2026-09-18T18:58:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Stabilization after FOMC volatility – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-stabilization-after-fomc-volatility-scotiabank-202609181844",
+      "datum": "2026-09-18T18:44:35.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Silver Price Forecast: Mild bullish bias holds, but trend strength stays weak",
@@ -49,24 +91,6 @@
       "datum": "2026-09-18T15:41:15.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound gives back UK sales pop as Oil shock returns",
-      "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
-      "datum": "2026-09-18T15:27:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar Index Price Forecast: Technical setup favours further gains above 100",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-technical-setup-favours-further-gains-above-100-202609181516",
-      "datum": "2026-09-18T15:16:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Policy rate seen on hold – ING",
-      "link": "https://www.fxstreet.com/news/swiss-franc-policy-rate-seen-on-hold-ing-202609181504",
-      "datum": "2026-09-18T15:04:01.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
@@ -79,12 +103,6 @@
       "datum": "2026-09-18T15:00:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Retail rebound but BoE risks – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-retail-rebound-but-boe-risks-bbh-202609181443",
-      "datum": "2026-09-18T14:43:30.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US industrial production 0.0% versus 0.3% expected",
       "link": "https://investinglive.com/news/us-industrial-production-0-0-versus-0-3-expected/",
@@ -95,24 +113,6 @@
       "titel": "investingLive European session wrap: Yen slides after BOJ hike as markets stay on edge",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-yen-slides-after-boj-hike-as-markets-stay-on-edge/",
       "datum": "2026-09-18T12:07:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold outlook hinges on Oil prices and shifting Fed expectations",
-      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
-      "datum": "2026-09-18T11:32:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-45/",
-      "datum": "2026-09-18T06:33:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK retail sales unexpectedly rise in August, backed by recovery in department stores, non-store retailers",
-      "link": "https://investinglive.com/news/uk-retail-sales-unexpectedly-rise-in-august-backed-by-recovery-in-department-stores-non-store-retailers/",
-      "datum": "2026-09-18T06:00:41.000Z"
     }
   ]
 }

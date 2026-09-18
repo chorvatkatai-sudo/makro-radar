@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-18T05:06:49.484Z",
+  "stand": "2026-09-18T08:41:19.432Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,51 +8,81 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc gains ground as easing US Yields pressures Greenback",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-ground-as-easing-us-yields-pressures-greenback-202609180459",
-      "datum": "2026-09-18T04:59:14.000Z"
+      "titel": "Swiss Franc: Consolidation holds below 0.8300 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-consolidation-holds-below-08300-against-us-dollar-uob-202609180826",
+      "datum": "2026-09-18T08:26:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Strengthens to near 1.1500, while bearish bias persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-strengthens-to-near-11500-while-bearish-bias-persists-below-100-day-sma-202609180447",
-      "datum": "2026-09-18T04:47:33.000Z"
+      "titel": "ECB’s Lagarde: We'll decide on rates meeting by meeting",
+      "link": "https://www.fxstreet.com/news/ecbs-lagarde-well-decide-on-rates-meeting-by-meeting-202609180821",
+      "datum": "2026-09-18T08:21:10.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Consolidates below mid-$96.00s as Mideast jitters favor bulls",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-consolidates-below-mid-9600s-as-mideast-jitters-favor-bulls-202609180445",
-      "datum": "2026-09-18T04:45:44.000Z"
+      "titel": "Euro flattens against US Dollar as traders look beyond ECB-Fed hawkish decisions",
+      "link": "https://www.fxstreet.com/news/euro-flattens-against-us-dollar-as-traders-look-beyond-ecb-fed-hawkish-decisions-202609180812",
+      "datum": "2026-09-18T08:12:36.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609180437",
-      "datum": "2026-09-18T04:37:19.000Z"
+      "titel": "Czech Koruna: CNB pause before potential November hike – ING",
+      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-pause-before-potential-november-hike-ing-202609180756",
+      "datum": "2026-09-18T07:56:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar steadies as softer US bond yields keep USD on the defensive",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-as-softer-us-bond-yields-keep-usd-on-the-defensive-202609180402",
-      "datum": "2026-09-18T04:02:49.000Z"
+      "titel": "Euro extends gains, nearing 181.00 against Japanese Yen despite Ueda's hawkish comments",
+      "link": "https://www.fxstreet.com/news/euro-extends-gains-nearing-18100-despite-bojs-uedas-hawkish-comments-202609180751",
+      "datum": "2026-09-18T07:51:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar rises against Japanese Yen as BOJ raises policy rate to the highest since 1995",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-against-japanese-yen-as-boj-raises-policy-rate-to-the-highest-since-1995-202609180352",
-      "datum": "2026-09-18T03:52:34.000Z"
+      "titel": "GBP/JPY Price Forecast: Rallies to two-week top, above 210.50 amid post-BoJ JPY selloff",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rallies-to-two-week-top-above-21050-amid-post-boj-jpy-selloff-202609180744",
+      "datum": "2026-09-18T07:44:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United States Dollar Index trades firmly above 100.00 while approaching to weekend",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-firmly-above-10000-while-approaching-to-weekend-202609180344",
-      "datum": "2026-09-18T03:44:05.000Z"
+      "titel": "Dow Jones futures rise as 10-year US yield slides, tech rally resumes",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-10-year-us-yield-slides-tech-rally-resumes-202609180743",
+      "datum": "2026-09-18T07:43:54.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro gains momentum against Japanese Yen as BoJ aligns on rate hikes",
-      "link": "https://www.fxstreet.com/news/euro-gains-momentum-against-japanese-yen-as-boj-aligns-on-rate-hikes-202609180340",
-      "datum": "2026-09-18T03:40:26.000Z"
+      "titel": "Equities: Global rally extends with tech leadership – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-global-rally-extends-with-tech-leadership-deutsche-bank-202609180742",
+      "datum": "2026-09-18T07:42:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar declines as US Dollar gains on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-gains-on-hawkish-fed-outlook-202609180730",
+      "datum": "2026-09-18T07:30:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Dollar weakness delayed as Fed stays hawkish – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-dollar-weakness-delayed-as-fed-stays-hawkish-commerzbank-202609180726",
+      "datum": "2026-09-18T07:26:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Dovish BoJ hike keeps Yen vulnerable – ING",
+      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-keeps-yen-vulnerable-ing-202609180711",
+      "datum": "2026-09-18T07:11:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-45/",
+      "datum": "2026-09-18T06:33:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK retail sales unexpectedly rise in August, backed by recovery in department stores, non-store retailers",
+      "link": "https://investinglive.com/news/uk-retail-sales-unexpectedly-rise-in-august-backed-by-recovery-in-department-stores-non-store-retailers/",
+      "datum": "2026-09-18T06:00:41.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -62,21 +92,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold sticks to gains on softer bond yields and subdued USD; hawkish Fed caps upside",
+      "titel": "Gold flirts with $$4,400 as softer US bond yields offset hawkish Fed and bullish USD",
       "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321",
       "datum": "2026-09-18T03:21:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound jumps to two-week top as JPY declines after BoJ's rate-hike to 31-year high",
-      "link": "https://www.fxstreet.com/news/british-pound-jumps-to-two-week-top-as-jpy-declines-after-bojs-rate-hike-to-31-year-high-202609180320",
-      "datum": "2026-09-18T03:20:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen falls like house of cards as BoJ hike interest rates by 25 bps to 1.25%",
-      "link": "https://www.fxstreet.com/news/japanese-yen-falls-like-house-of-cards-as-boj-hike-interest-rates-by-25-bps-to-125-202609180317",
-      "datum": "2026-09-18T03:17:19.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -91,28 +109,10 @@
       "datum": "2026-09-17T22:56:07.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Bank of Japan raises interest rate by 25 bps to 1.25%, as expected",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
-      "datum": "2026-09-17T22:00:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 17 Sept",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-17-sept/",
       "datum": "2026-09-17T20:31:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "A view on inflation is increasingly important",
-      "link": "https://investinglive.com/news/a-view-on-inflation-is-increasingly-important/",
-      "datum": "2026-09-17T19:11:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump says he faces a “big decision” on whether to launch new attacks on Iran",
-      "link": "https://investinglive.com/news/trump-says-he-faces-a-big-decision-on-whether-to-launch-new-attacks-on-iran/",
-      "datum": "2026-09-17T17:15:23.000Z"
     }
   ]
 }

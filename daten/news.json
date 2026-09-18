@@ -1,11 +1,41 @@
 {
-  "stand": "2026-09-18T20:34:22.413Z",
+  "stand": "2026-09-18T22:55:46.606Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-nodx-but-usd-still-drives-usd-sgd-ocbc-202609182149",
+      "datum": "2026-09-18T21:49:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-after-07100-break-202609182116",
+      "datum": "2026-09-18T21:16:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Pre-summit support and firmer bias – DBS",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112",
+      "datum": "2026-09-18T21:12:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
+      "datum": "2026-09-18T20:44:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Range trade persists against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038",
+      "datum": "2026-09-18T20:38:00.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas market news wrap: Bonds slump again, yen rate check adds intrigue after BOJ",
@@ -59,36 +89,6 @@
       "titel": "Gold reclaims its footing as Oil retreat blunts Fed shock",
       "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
       "datum": "2026-09-18T17:44:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc gains against US Dollar, but Fed-SNB divergence weighs",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-but-fed-snb-divergence-weighs-202609181736",
-      "datum": "2026-09-18T17:36:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dollar Index nudges to a fresh high and slips back as Japan raises rates",
-      "link": "https://www.fxstreet.com/news/dollar-index-nudges-to-a-fresh-high-and-slips-back-as-japan-raises-rates-202609181725",
-      "datum": "2026-09-18T17:25:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average gives back its bounce as factory output stalls",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-its-bounce-as-factory-output-stalls-202609181656",
-      "datum": "2026-09-18T16:56:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen weakens despite BoJ hike as US Dollar remains firm",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-despite-boj-hike-as-us-dollar-remains-firm-202609181554",
-      "datum": "2026-09-18T15:54:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Schmid supports rate hike as inflation broadens beyond 3%",
-      "link": "https://www.fxstreet.com/news/feds-schmid-supports-rate-hike-as-inflation-broadens-beyond-3-202609181541",
-      "datum": "2026-09-18T15:41:15.000Z"
     },
     {
       "quelle": "Fed",

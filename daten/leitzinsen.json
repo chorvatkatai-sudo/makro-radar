@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-09-17",
+  "stand": "2026-09-18",
   "zinsen": [
     {
       "code": "AUD",
@@ -16,9 +16,9 @@
       "bank": "BOE",
       "satz": 3.75,
       "anzeige": "3,75%",
-      "naechste": "17.9.2026 (HEUTE)",
-      "erwartung": "Entscheid HEUTE 13:00 Wien. Erwartet wird ein HALTEN bei 3,75%, aber der Markt sieht ~30% Chance auf eine falkenhafte Überraschung mit Erhöhung auf 4,00% (höchste Wette seit Anfang 2024). Beim letzten Mal (30.7.) stimmten 6:3, drei Mitglieder wollten schon erhöhen. Das teure Öl (Energie-Inflation) ist die Schlüsselfrage — reicht es für eine Fünf-Stimmen-Mehrheit? Heiße Löhne stützen die Falken",
-      "richtung": "halten"
+      "naechste": "Anfang Nov 2026",
+      "erwartung": "Am Do 17.9. bei 3,75% GEHALTEN — der sechste Halt in Folge, Abstimmung 6:3 (drei Mitglieder wollten schon auf 4,00% erhöhen). Der Ausblick ist FALKENHAFT: Wegen der Öl-/Iran-Kriegs-Inflation gilt eine Erhöhung im November oder Dezember als wahrscheinlich. Für das Pfund ein 'harter Halt' — kein Absturz, eher stützend",
+      "richtung": "rauf"
     },
     {
       "code": "USD",
@@ -35,8 +35,8 @@
       "satz": 2.75,
       "anzeige": "2,75%",
       "naechste": "Ende Okt 2026",
-      "erwartung": "Am Mi 2.9. um 0,25 auf 2,75% ERHÖHT (zweite Erhöhung in Folge) — die Inflation läuft mit 4,1% zu heiß (vor allem Benzin wegen Nahost). Die Bank signalisierte die Chance auf EINE weitere Erhöhung bis Jahresende → eigene falkenhafte Kiwi-Geschichte, unabhängig vom Dollar",
-      "richtung": "rauf"
+      "erwartung": "Am Mi 2.9. um 0,25 auf 2,75% ERHÖHT (zweite Erhöhung in Folge, Inflation 4,1%). ABER: Die Wirtschaft SCHRUMPFTE im 2. Quartal um −0,9% (erwartet +0,1%) — ein herber Fehlschlag (16.9.). Der Markt wettet jetzt auf eine taubenhaftere Notenbank; die falkenhafte Kiwi-Story bröckelt. Eine weitere Erhöhung ist damit fraglich geworden",
+      "richtung": "halten"
     },
     {
       "code": "EUR",
@@ -59,10 +59,10 @@
     {
       "code": "JPY",
       "bank": "BOJ",
-      "satz": 1,
-      "anzeige": "1,00%",
-      "naechste": "17.–18.9.2026 (Ergebnis über Nacht)",
-      "erwartung": "Entscheid HEUTE Nacht (Ergebnis ~Fr früh Wien). Die Wettbörsen sehen ~61% Chance auf eine ERHÖHUNG von 1,00% — die Inflation nähert sich dem 2%-Ziel, Board-Mitglied Takata warnte vor Überhitzung. Ein Zinsschritt wäre YEN-STÄRKEND und könnte den Yen aus dem 40-Jahres-Tief (USD/JPY ~156) hieven; ein Halten würde ihn weiter schwächen. Interventionsrisiko bleibt hoch. Positionierung (CFTC) frisch auf netto-LONG gedreht — der Markt setzt zunehmend auf einen stärkeren Yen",
+      "satz": 1.25,
+      "anzeige": "1,25%",
+      "naechste": "Ende Okt 2026",
+      "erwartung": "Am Fr 18.9. um 0,25 auf 1,25% ERHÖHT — der höchste Leitzins seit 1995 (31 Jahre). Abstimmung 7:2 (zwei Tauben dagegen), Begründung: Die Inflation droht dauerhaft über 2% zu klettern; starke Konjunktur + US-Druck auf den schwachen Yen. Der Markt preist bis März 2027 rund 2,7 weitere Erhöhungen ein = klar falkenhafter Pfad. Reaktion: Nach anfänglicher Yen-Schwäche (USD/JPY ~157) drehte der Yen kräftig nach oben Richtung ~150 — die stärkste Yen-Aufwertung seit März. Interventionszone bleibt aber im Nacken",
       "richtung": "rauf"
     },
     {
@@ -70,8 +70,8 @@
       "bank": "SNB",
       "satz": 0,
       "anzeige": "0,00%",
-      "naechste": "24.9.2026",
-      "erwartung": "Halten bei 0% — am 18.6. bestätigt",
+      "naechste": "24.9.2026 (nächsten Do)",
+      "erwartung": "Entscheid Do 24.9. Der Markt preist zu ~97% ein HALTEN bei 0,00% ein (Nomura + Bankenumfrage bestätigen). Interessant ist der Ton: stärkeres BIP-Wachstum, zuletzt leicht steigende Inflation und ein schwächerer Franken könnten die SNB zu Andeutungen über eine Rückkehr zu Devisen-Interventionen bewegen. Zinserhöhungen werden frühestens 2028 erwartet",
       "richtung": "halten"
     }
   ]

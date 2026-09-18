@@ -1,11 +1,71 @@
 {
-  "stand": "2026-09-18T15:42:22.281Z",
+  "stand": "2026-09-18T17:58:44.280Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Mild bullish bias holds, but trend strength stays weak",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-mild-bullish-bias-holds-but-trend-strength-stays-weak-202609181757",
+      "datum": "2026-09-18T17:57:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold reclaims its footing as Oil retreat blunts Fed shock",
+      "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
+      "datum": "2026-09-18T17:44:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc gains against US Dollar, but Fed-SNB divergence weighs",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-but-fed-snb-divergence-weighs-202609181736",
+      "datum": "2026-09-18T17:36:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dollar Index nudges to a fresh high and slips back as Japan raises rates",
+      "link": "https://www.fxstreet.com/news/dollar-index-nudges-to-a-fresh-high-and-slips-back-as-japan-raises-rates-202609181725",
+      "datum": "2026-09-18T17:25:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average gives back its bounce as factory output stalls",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-its-bounce-as-factory-output-stalls-202609181656",
+      "datum": "2026-09-18T16:56:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen weakens despite BoJ hike as US Dollar remains firm",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-despite-boj-hike-as-us-dollar-remains-firm-202609181554",
+      "datum": "2026-09-18T15:54:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Schmid supports rate hike as inflation broadens beyond 3%",
+      "link": "https://www.fxstreet.com/news/feds-schmid-supports-rate-hike-as-inflation-broadens-beyond-3-202609181541",
+      "datum": "2026-09-18T15:41:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound gives back UK sales pop as Oil shock returns",
+      "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
+      "datum": "2026-09-18T15:27:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar Index Price Forecast: Technical setup favours further gains above 100",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-technical-setup-favours-further-gains-above-100-202609181516",
+      "datum": "2026-09-18T15:16:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: Policy rate seen on hold – ING",
+      "link": "https://www.fxstreet.com/news/swiss-franc-policy-rate-seen-on-hold-ing-202609181504",
+      "datum": "2026-09-18T15:04:01.000Z"
+    },
     {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
@@ -17,6 +77,12 @@
       "titel": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
       "datum": "2026-09-18T15:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Retail rebound but BoE risks – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-retail-rebound-but-boe-risks-bbh-202609181443",
+      "datum": "2026-09-18T14:43:30.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -31,6 +97,12 @@
       "datum": "2026-09-18T12:07:07.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "Gold outlook hinges on Oil prices and shifting Fed expectations",
+      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
+      "datum": "2026-09-18T11:32:13.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-45/",
@@ -41,78 +113,6 @@
       "titel": "UK retail sales unexpectedly rise in August, backed by recovery in department stores, non-store retailers",
       "link": "https://investinglive.com/news/uk-retail-sales-unexpectedly-rise-in-august-backed-by-recovery-in-department-stores-non-store-retailers/",
       "datum": "2026-09-18T06:00:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: BoJ hike and RBA hawkish tilt",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-boj-hike-and-rba-hawkish-tilt/",
-      "datum": "2026-09-18T03:37:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan August inflation: Headline CPI 1.9% y/y (expected 2%)",
-      "link": "https://investinglive.com/news/japan-august-inflation-headline-cpi-y-y-expected-2/",
-      "datum": "2026-09-17T23:30:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "New Zealand data, food price inflation in August same as in July",
-      "link": "https://investinglive.com/news/new-zealand-data-food-price-inflation-in-august-same-as-in-july/",
-      "datum": "2026-09-17T22:56:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 17 Sept",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-17-sept/",
-      "datum": "2026-09-17T20:31:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "A view on inflation is increasingly important",
-      "link": "https://investinglive.com/news/a-view-on-inflation-is-increasingly-important/",
-      "datum": "2026-09-17T19:11:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump says he faces a “big decision” on whether to launch new attacks on Iran",
-      "link": "https://investinglive.com/news/trump-says-he-faces-a-big-decision-on-whether-to-launch-new-attacks-on-iran/",
-      "datum": "2026-09-17T17:15:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US August pending home sales +0.3% vs -0.6% expected",
-      "link": "https://investinglive.com/news/us-august-pending-home-sales-0-3-vs-0-6-expected/",
-      "datum": "2026-09-17T14:01:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada August producer price index +1.3% m/m vs +0.6% prior",
-      "link": "https://investinglive.com/news/canada-august-producer-price-index-vs-0-6-prior/",
-      "datum": "2026-09-17T12:30:12.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "datum": "2026-09-16T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "datum": "2026-09-16T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-      "datum": "2026-09-11T14:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
-      "datum": "2026-09-10T20:00:00.000Z"
     }
   ]
 }

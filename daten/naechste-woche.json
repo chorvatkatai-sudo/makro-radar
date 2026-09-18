@@ -964,8 +964,8 @@
     "country": "CAD",
     "title": "Retail Sales Ex Autos MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.5",
+    "forecast": "-0.5%",
+    "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
   },

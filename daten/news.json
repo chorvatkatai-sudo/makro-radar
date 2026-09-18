@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-18T08:41:19.432Z",
+  "stand": "2026-09-18T10:19:07.199Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,69 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc: Consolidation holds below 0.8300 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-consolidation-holds-below-08300-against-us-dollar-uob-202609180826",
-      "datum": "2026-09-18T08:26:12.000Z"
+      "titel": "Bank of Japan: Hawkish path with FX doubts – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-path-with-fx-doubts-td-securities-202609181002",
+      "datum": "2026-09-18T10:02:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "ECB’s Lagarde: We'll decide on rates meeting by meeting",
-      "link": "https://www.fxstreet.com/news/ecbs-lagarde-well-decide-on-rates-meeting-by-meeting-202609180821",
-      "datum": "2026-09-18T08:21:10.000Z"
+      "titel": "Australian Dollar soars against Japanese Yen as BoJ rate hike disappoints hawks",
+      "link": "https://www.fxstreet.com/news/australian-dollar-soars-against-japanese-yen-as-boj-rate-hike-disappoints-hawks-202609180955",
+      "datum": "2026-09-18T09:55:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro flattens against US Dollar as traders look beyond ECB-Fed hawkish decisions",
-      "link": "https://www.fxstreet.com/news/euro-flattens-against-us-dollar-as-traders-look-beyond-ecb-fed-hawkish-decisions-202609180812",
-      "datum": "2026-09-18T08:12:36.000Z"
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609180945",
+      "datum": "2026-09-18T09:45:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Czech Koruna: CNB pause before potential November hike – ING",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-pause-before-potential-november-hike-ing-202609180756",
-      "datum": "2026-09-18T07:56:02.000Z"
+      "titel": "Gold Price Forecast: XAU/USD appreciates to $4,400 as yields retreat",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-appreciates-to-4-400-as-yields-retreat-202609180941",
+      "datum": "2026-09-18T09:41:40.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro extends gains, nearing 181.00 against Japanese Yen despite Ueda's hawkish comments",
-      "link": "https://www.fxstreet.com/news/euro-extends-gains-nearing-18100-despite-bojs-uedas-hawkish-comments-202609180751",
-      "datum": "2026-09-18T07:51:00.000Z"
+      "titel": "Australian Dollar: Short-term range but path still lower against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-range-but-path-still-lower-against-us-dollar-uob-202609180938",
+      "datum": "2026-09-18T09:38:27.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "GBP/JPY Price Forecast: Rallies to two-week top, above 210.50 amid post-BoJ JPY selloff",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rallies-to-two-week-top-above-21050-amid-post-boj-jpy-selloff-202609180744",
-      "datum": "2026-09-18T07:44:29.000Z"
+      "titel": "US Dollar: Post-FOMC consolidation and data focus – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-post-fomc-consolidation-and-data-focus-ocbc-202609180923",
+      "datum": "2026-09-18T09:23:40.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Dow Jones futures rise as 10-year US yield slides, tech rally resumes",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-10-year-us-yield-slides-tech-rally-resumes-202609180743",
-      "datum": "2026-09-18T07:43:54.000Z"
+      "titel": "Euro: Hawkish ECB offers limited support against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-offers-limited-support-against-us-dollar-ing-202609180907",
+      "datum": "2026-09-18T09:07:53.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Equities: Global rally extends with tech leadership – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-global-rally-extends-with-tech-leadership-deutsche-bank-202609180742",
-      "datum": "2026-09-18T07:42:49.000Z"
+      "titel": "British Pound: BoE on hold sparks Sterling softness – Danske Bank",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-on-hold-sparks-sterling-softness-danske-bank-202609180857",
+      "datum": "2026-09-18T08:57:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar declines as US Dollar gains on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-gains-on-hawkish-fed-outlook-202609180730",
-      "datum": "2026-09-18T07:30:15.000Z"
+      "titel": "United States Dollar Index tests late July high, near 100.35 on hawkish Fed stance",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-tests-late-july-high-near-10035-on-hawkish-fed-stance-202609180854",
+      "datum": "2026-09-18T08:54:53.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Dollar weakness delayed as Fed stays hawkish – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-dollar-weakness-delayed-as-fed-stays-hawkish-commerzbank-202609180726",
-      "datum": "2026-09-18T07:26:38.000Z"
+      "titel": "GBP/USD Price Forecast: Attracts slight bids below trendline near 1.3360",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-attracts-slight-bids-below-trendline-near-13360-202609180852",
+      "datum": "2026-09-18T08:52:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Dovish BoJ hike keeps Yen vulnerable – ING",
-      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-keeps-yen-vulnerable-ing-202609180711",
-      "datum": "2026-09-18T07:11:38.000Z"
+      "titel": "WTI Oil eases to levels near $95 on hopes of higher supply of Saudi Crude",
+      "link": "https://www.fxstreet.com/news/wti-oil-eases-to-levels-near-95-on-hopes-of-higher-supply-of-saudi-crude-202609180843",
+      "datum": "2026-09-18T08:43:19.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -85,16 +85,16 @@
       "datum": "2026-09-18T06:00:41.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
+      "datum": "2026-09-18T05:35:20.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: BoJ hike and RBA hawkish tilt",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-boj-hike-and-rba-hawkish-tilt/",
       "datum": "2026-09-18T03:37:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold flirts with $$4,400 as softer US bond yields offset hawkish Fed and bullish USD",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321",
-      "datum": "2026-09-18T03:21:07.000Z"
     },
     {
       "quelle": "ForexLive",

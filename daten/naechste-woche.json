@@ -204,7 +204,7 @@
     "country": "EUR",
     "title": "Consumer Confidence Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-16.5",
     "previous": "-15.5",
     "actual": null,
     "quelle": "tradingview"
@@ -262,20 +262,20 @@
   {
     "date": "2026-09-22T17:00:00.000Z",
     "country": "USD",
-    "title": "2-Year Note Auction",
+    "title": "Money Supply",
     "impact": "Low",
     "forecast": "",
-    "previous": "4.204%",
+    "previous": "23.22",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-22T17:00:00.000Z",
     "country": "USD",
-    "title": "Money Supply",
+    "title": "2-Year Note Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "23.22",
+    "previous": "4.204%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -292,10 +292,10 @@
   {
     "date": "2026-09-22T23:00:00.000Z",
     "country": "AUD",
-    "title": "S&P Global Services PMI Flash",
+    "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
     "forecast": "",
-    "previous": "53.2",
+    "previous": "52",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -312,10 +312,10 @@
   {
     "date": "2026-09-22T23:00:00.000Z",
     "country": "AUD",
-    "title": "S&P Global Manufacturing PMI Flash",
+    "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
     "forecast": "",
-    "previous": "52",
+    "previous": "53.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -332,19 +332,9 @@
   {
     "date": "2026-09-23T08:00:00.000Z",
     "country": "EUR",
-    "title": "S&P Global Manufacturing PMI Flash",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "52.7",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T08:00:00.000Z",
-    "country": "EUR",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "51.7",
     "previous": "51.6",
     "actual": null,
     "quelle": "tradingview"
@@ -360,12 +350,12 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-09-23T08:30:00.000Z",
-    "country": "GBP",
+    "date": "2026-09-23T08:00:00.000Z",
+    "country": "EUR",
     "title": "S&P Global Manufacturing PMI Flash",
-    "impact": "High",
-    "forecast": "",
-    "previous": "51.7",
+    "impact": "Medium",
+    "forecast": "52.9",
+    "previous": "52.7",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -390,12 +380,22 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-09-23T08:30:00.000Z",
+    "country": "GBP",
+    "title": "S&P Global Manufacturing PMI Flash",
+    "impact": "High",
+    "forecast": "",
+    "previous": "51.7",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-09-23T11:00:00.000Z",
     "country": "USD",
-    "title": "MBA Purchase Index",
+    "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "156.2",
+    "previous": "627.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -412,10 +412,10 @@
   {
     "date": "2026-09-23T11:00:00.000Z",
     "country": "USD",
-    "title": "MBA Mortgage Refinance Index",
+    "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "627.1",
+    "previous": "156.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -440,12 +440,12 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-09-23T12:30:00.000Z",
-    "country": "CAD",
-    "title": "New Housing Price Index MoM",
+    "date": "2026-09-23T13:45:00.000Z",
+    "country": "USD",
+    "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.1%",
+    "previous": "53.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -462,16 +462,6 @@
   {
     "date": "2026-09-23T13:45:00.000Z",
     "country": "USD",
-    "title": "S&P Global Manufacturing PMI Flash",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "53.9",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T13:45:00.000Z",
-    "country": "USD",
     "title": "S&P Global Composite PMI Flash",
     "impact": "Medium",
     "forecast": "",
@@ -482,20 +472,10 @@
   {
     "date": "2026-09-23T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Gasoline Stocks Change",
+    "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.794",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Gasoline Production Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.336",
+    "previous": "-0.64",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -512,10 +492,40 @@
   {
     "date": "2026-09-23T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Heating Oil Stocks Change",
+    "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.684",
+    "previous": "1.585",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-23T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Gasoline Production Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.336",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-23T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Refinery Crude Runs Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.256",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-23T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Gasoline Stocks Change",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "0.794",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -542,30 +552,10 @@
   {
     "date": "2026-09-23T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Refinery Crude Runs Change",
+    "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "-0.256",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Crude Oil Stocks Change",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "-0.64",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Distillate Stocks Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.585",
+    "previous": "0.684",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -622,16 +612,6 @@
   {
     "date": "2026-09-24T00:30:00.000Z",
     "country": "JPY",
-    "title": "S&P Global Composite PMI Flash",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "53.5",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-24T00:30:00.000Z",
-    "country": "JPY",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
     "forecast": "",
@@ -650,12 +630,12 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-09-24T01:30:00.000Z",
-    "country": "AUD",
-    "title": "Part Time Employment Chg",
+    "date": "2026-09-24T00:30:00.000Z",
+    "country": "JPY",
+    "title": "S&P Global Composite PMI Flash",
     "impact": "Low",
     "forecast": "",
-    "previous": "-32.2",
+    "previous": "53.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -672,20 +652,20 @@
   {
     "date": "2026-09-24T01:30:00.000Z",
     "country": "AUD",
-    "title": "Employment Change",
+    "title": "Full Time Employment Chg",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-15.8",
+    "previous": "16.3",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-24T01:30:00.000Z",
     "country": "AUD",
-    "title": "Full Time Employment Chg",
-    "impact": "Medium",
+    "title": "Part Time Employment Chg",
+    "impact": "Low",
     "forecast": "",
-    "previous": "16.3",
+    "previous": "-32.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -700,12 +680,12 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-09-24T04:00:00.000Z",
-    "country": "EUR",
-    "title": "New Car Registrations YoY",
+    "date": "2026-09-24T01:30:00.000Z",
+    "country": "AUD",
+    "title": "Employment Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-15.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -716,6 +696,16 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "13.6%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-24T04:00:00.000Z",
+    "country": "EUR",
+    "title": "New Car Registrations YoY",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },

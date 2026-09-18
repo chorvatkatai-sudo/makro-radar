@@ -14,7 +14,7 @@
     "country": "CNY",
     "title": "Loan Prime Rate 5Y",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.5%",
     "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -24,7 +24,7 @@
     "country": "CNY",
     "title": "Loan Prime Rate 1Y",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3%",
     "previous": "3%",
     "actual": null,
     "quelle": "tradingview"
@@ -46,16 +46,6 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-21T11:00:00.000Z",
-    "country": "CAD",
-    "title": "CFIB Business Barometer",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "57.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -112,20 +102,20 @@
   {
     "date": "2026-09-22T02:35:00.000Z",
     "country": "NZD",
-    "title": "6-Month Bill Auction",
+    "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.1612%",
+    "previous": "2.9025%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-22T02:35:00.000Z",
     "country": "NZD",
-    "title": "3-Month Bill Auction",
+    "title": "6-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "2.9025%",
+    "previous": "3.1612%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -144,7 +134,7 @@
     "country": "GBP",
     "title": "Public Sector Net Borrowing Ex Banks",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-15.7 £",
     "previous": "-1.8 £",
     "actual": null,
     "quelle": "tradingview"
@@ -174,7 +164,7 @@
     "country": "GBP",
     "title": "CBI Industrial Trends Orders",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-35",
     "previous": "-25",
     "actual": null,
     "quelle": "tradingview"
@@ -202,20 +192,20 @@
   {
     "date": "2026-09-22T14:00:00.000Z",
     "country": "USD",
-    "title": "Richmond Fed Manufacturing Index",
+    "title": "Richmond Fed Services Revenues Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "4",
+    "previous": "-8",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-22T14:00:00.000Z",
     "country": "USD",
-    "title": "Richmond Fed Services Revenues Index",
+    "title": "Richmond Fed Manufacturing Index",
     "impact": "Low",
-    "forecast": "",
-    "previous": "-8",
+    "forecast": "5",
+    "previous": "4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -292,20 +282,20 @@
   {
     "date": "2026-09-22T17:00:00.000Z",
     "country": "USD",
-    "title": "Fed Barkin Speech",
-    "impact": "Medium",
+    "title": "Money Supply",
+    "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "23.22",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-22T17:00:00.000Z",
     "country": "USD",
-    "title": "Money Supply",
-    "impact": "Low",
+    "title": "Fed Barkin Speech",
+    "impact": "Medium",
     "forecast": "",
-    "previous": "23.22",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -322,20 +312,20 @@
   {
     "date": "2026-09-22T23:00:00.000Z",
     "country": "AUD",
-    "title": "S&P Global Manufacturing PMI Flash",
-    "impact": "Medium",
+    "title": "S&P Global Composite PMI Flash",
+    "impact": "Low",
     "forecast": "",
-    "previous": "52",
+    "previous": "52.7",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-22T23:00:00.000Z",
     "country": "AUD",
-    "title": "S&P Global Composite PMI Flash",
-    "impact": "Low",
+    "title": "S&P Global Manufacturing PMI Flash",
+    "impact": "Medium",
     "forecast": "",
-    "previous": "52.7",
+    "previous": "52",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -372,20 +362,20 @@
   {
     "date": "2026-09-23T08:00:00.000Z",
     "country": "EUR",
-    "title": "S&P Global Composite PMI Flash",
+    "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "52",
+    "forecast": "52.9",
+    "previous": "52.7",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-23T08:00:00.000Z",
     "country": "EUR",
-    "title": "S&P Global Manufacturing PMI Flash",
+    "title": "S&P Global Composite PMI Flash",
     "impact": "Medium",
-    "forecast": "52.9",
-    "previous": "52.7",
+    "forecast": "",
+    "previous": "52",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -402,9 +392,9 @@
   {
     "date": "2026-09-23T08:30:00.000Z",
     "country": "GBP",
-    "title": "S&P Global Composite PMI Flash",
-    "impact": "Low",
-    "forecast": "",
+    "title": "S&P Global Services PMI Flash",
+    "impact": "High",
+    "forecast": "52.1",
     "previous": "52.5",
     "actual": null,
     "quelle": "tradingview"
@@ -414,7 +404,7 @@
     "country": "GBP",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "High",
-    "forecast": "",
+    "forecast": "52.7",
     "previous": "51.7",
     "actual": null,
     "quelle": "tradingview"
@@ -422,20 +412,10 @@
   {
     "date": "2026-09-23T08:30:00.000Z",
     "country": "GBP",
-    "title": "S&P Global Services PMI Flash",
-    "impact": "High",
-    "forecast": "",
-    "previous": "52.5",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T11:00:00.000Z",
-    "country": "USD",
-    "title": "MBA Purchase Index",
+    "title": "S&P Global Composite PMI Flash",
     "impact": "Low",
     "forecast": "",
-    "previous": "156.2",
+    "previous": "52.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -446,6 +426,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "-4.1",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-23T11:00:00.000Z",
+    "country": "USD",
+    "title": "MBA 30-Year Mortgage Rate",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "6.97",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -472,10 +462,20 @@
   {
     "date": "2026-09-23T11:00:00.000Z",
     "country": "USD",
-    "title": "MBA 30-Year Mortgage Rate",
-    "impact": "Medium",
+    "title": "MBA Purchase Index",
+    "impact": "Low",
     "forecast": "",
-    "previous": "6.97",
+    "previous": "156.2",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-23T13:45:00.000Z",
+    "country": "USD",
+    "title": "S&P Global Services PMI Flash",
+    "impact": "Medium",
+    "forecast": "56",
+    "previous": "56.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -494,18 +494,8 @@
     "country": "USD",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "53.6",
     "previous": "53.9",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T13:45:00.000Z",
-    "country": "USD",
-    "title": "S&P Global Services PMI Flash",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "56.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -522,20 +512,30 @@
   {
     "date": "2026-09-23T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Cushing Crude Oil Stocks Change",
+    "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "-0.342",
+    "previous": "0.684",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-23T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Distillate Fuel Production Change",
+    "title": "EIA Gasoline Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "-0.121",
+    "previous": "0.336",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-23T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Distillate Stocks Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.585",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -552,10 +552,20 @@
   {
     "date": "2026-09-23T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Heating Oil Stocks Change",
+    "title": "EIA Distillate Fuel Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.684",
+    "previous": "-0.121",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-23T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Cushing Crude Oil Stocks Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.342",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -586,26 +596,6 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "0.794",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Gasoline Production Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.336",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-23T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Distillate Stocks Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.585",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -682,20 +672,30 @@
   {
     "date": "2026-09-24T00:30:00.000Z",
     "country": "JPY",
-    "title": "S&P Global Manufacturing PMI Flash",
+    "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
     "forecast": "",
-    "previous": "54.9",
+    "previous": "52.5",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-24T00:30:00.000Z",
     "country": "JPY",
-    "title": "S&P Global Services PMI Flash",
+    "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "52.5",
+    "forecast": "55",
+    "previous": "54.9",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-24T01:30:00.000Z",
+    "country": "AUD",
+    "title": "Employment Change",
+    "impact": "Medium",
+    "forecast": "20",
+    "previous": "-15.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -712,20 +712,10 @@
   {
     "date": "2026-09-24T01:30:00.000Z",
     "country": "AUD",
-    "title": "Employment Change",
-    "impact": "Medium",
+    "title": "Part Time Employment Chg",
+    "impact": "Low",
     "forecast": "",
-    "previous": "-15.8",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-24T01:30:00.000Z",
-    "country": "AUD",
-    "title": "Unemployment Rate",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "4.5%",
+    "previous": "-32.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -742,10 +732,10 @@
   {
     "date": "2026-09-24T01:30:00.000Z",
     "country": "AUD",
-    "title": "Part Time Employment Chg",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-32.2",
+    "title": "Unemployment Rate",
+    "impact": "Medium",
+    "forecast": "4.5%",
+    "previous": "4.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -784,7 +774,7 @@
     "country": "CHF",
     "title": "SNB Interest Rate Decision",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0%",
     "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
@@ -834,8 +824,18 @@
     "country": "GBP",
     "title": "CBI Distributive Trades",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-50",
     "previous": "-48",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-24T11:00:00.000Z",
+    "country": "CAD",
+    "title": "CFIB Business Barometer",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "57.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -924,7 +924,7 @@
     "country": "USD",
     "title": "Current Account",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-221 $",
     "previous": "-226.8 $",
     "actual": null,
     "quelle": "tradingview"
@@ -934,7 +934,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "202",
     "previous": "196",
     "actual": null,
     "quelle": "tradingview"
@@ -1152,16 +1152,6 @@
   {
     "date": "2026-09-25T08:00:00.000Z",
     "country": "EUR",
-    "title": "Loans to Households YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.1%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-09-25T08:00:00.000Z",
-    "country": "EUR",
     "title": "Loans to Companies YoY",
     "impact": "Low",
     "forecast": "",
@@ -1172,9 +1162,19 @@
   {
     "date": "2026-09-25T08:00:00.000Z",
     "country": "EUR",
+    "title": "Loans to Households YoY",
+    "impact": "Low",
+    "forecast": "3.2%",
+    "previous": "3.1%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-09-25T08:00:00.000Z",
+    "country": "EUR",
     "title": "M3 Money Supply YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3.5%",
     "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -1194,7 +1194,7 @@
     "country": "USD",
     "title": "Durable Goods Orders Ex Transp MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.5%",
     "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"

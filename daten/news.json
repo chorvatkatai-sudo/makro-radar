@@ -1,11 +1,41 @@
 {
-  "stand": "2026-09-18T13:23:47.768Z",
+  "stand": "2026-09-18T14:42:52.910Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Pressure builds near 1.40 against US Dollar - Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-pressure-builds-near-140-against-us-dollar-scotiabank-202609181426",
+      "datum": "2026-09-18T14:26:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Canada: Rate path risks tilt earlier – RBC",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-rate-path-risks-tilt-earlier-rbc-202609181404",
+      "datum": "2026-09-18T14:04:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "European Central Bank: Quarterly hikes still baseline – Nordea",
+      "link": "https://www.fxstreet.com/news/european-central-bank-quarterly-hikes-still-baseline-nordea-202609181350",
+      "datum": "2026-09-18T13:50:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro heads for weekly loss against US Dollar on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/euro-heads-for-weekly-loss-against-us-dollar-on-hawkish-fed-outlook-202609181344",
+      "datum": "2026-09-18T13:44:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: BoJ hike fails to lift JPY against US Dollar – Danske Bank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-fails-to-lift-jpy-against-us-dollar-danske-bank-202609181329",
+      "datum": "2026-09-18T13:29:01.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US industrial production 0.0% versus 0.3% expected",
@@ -56,33 +86,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD extends recovery above $67.00 as yields fall",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-recovery-above-6700-as-yields-fall-202609181201",
-      "datum": "2026-09-18T12:01:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Fresh downside likely if sustain below 1.1455",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fresh-downside-likely-if-sustain-below-11455-202609181152",
-      "datum": "2026-09-18T11:52:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Oil drives Dollar upside risks – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-oil-drives-dollar-upside-risks-ing-202609181142",
-      "datum": "2026-09-18T11:42:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold eyes weekly gain, but hawkish Fed outlook limits upside",
+      "titel": "Gold rebound stalls as Treasury yields return toward multi-year highs",
       "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
       "datum": "2026-09-18T11:32:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: BoE holds but inflation risks linger – OCBC",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-holds-but-inflation-risks-linger-ocbc-202609181125",
-      "datum": "2026-09-18T11:25:43.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,12 +101,6 @@
       "titel": "UK retail sales unexpectedly rise in August, backed by recovery in department stores, non-store retailers",
       "link": "https://investinglive.com/news/uk-retail-sales-unexpectedly-rise-in-august-backed-by-recovery-in-department-stores-non-store-retailers/",
       "datum": "2026-09-18T06:00:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
-      "datum": "2026-09-18T05:35:20.000Z"
     },
     {
       "quelle": "ForexLive",

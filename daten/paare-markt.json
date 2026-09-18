@@ -1,50 +1,50 @@
 {
-  "stand": "2026-09-17T22:34:43.184Z",
+  "stand": "2026-09-18T05:05:13.875Z",
   "ausBriefing": "2026-09-04",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -8,
+      "baseScore": -6,
       "tiltCot": -1,
       "tiltZins": -2,
       "tiltGesamt": -3,
-      "score": -11,
+      "score": -9,
       "cotExtrem": "erhoeht",
-      "treiber": "Falkenhafter Fed + starker Dollar (Index >100) gegen EU-Erhöhungs-Ende; nahe 1-Monats-Tief ~1,154 (Paar-Track-Record aber nur 31 % → gedämpft)",
+      "treiber": "Falken-Fed + starker Dollar (Index >100) gegen EU-Erhöhungs-Ende; EUR-Short aber extrem (Squeeze-Risiko) → gedämpft (Paar-Track-Record 31 %).",
       "istCross": false
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -4,
+      "baseScore": -3,
       "tiltCot": -4,
       "tiltZins": -5,
       "tiltGesamt": -9,
-      "score": -13,
+      "score": -12,
       "cotExtrem": null,
-      "treiber": "Starker Dollar, aber BoE HEUTE mit ~30 % Falken-Erhöhungs-Risiko begrenzt das Abwärts — bewusst zweiseitig",
+      "treiber": "Starker Dollar, aber BoE-„harter Halt\" (6:3, Erhöhung Nov/Dez möglich) stützt das Pfund von unten → bewusst nur leicht bärisch.",
       "istCross": false
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 4,
+      "baseScore": -2,
       "tiltCot": 0,
       "tiltZins": 8,
       "tiltGesamt": 8,
-      "score": 12,
+      "score": 6,
       "cotExtrem": null,
-      "treiber": "Öl + Carry + starker Dollar belasten den Yen (~156), ABER BoJ könnte über Nacht erhöhen (~61 %, yen-stärkend) + Interventionszone → bewusst nur leicht positiv (Paar-Track-Record 23 %, schlechtestes)",
+      "treiber": "BoJ-Erhöhung heute (1,25 %, falkenhafter Pfad) zieht den Yen an, Interventionszone ~156 deckelt oben — löst das Paar vom Dollar-Block. Bewusst KLEIN, weil das USD/JPY-Scoring das schlechteste ist (23 %).",
       "istCross": false
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -6,
+      "baseScore": -4,
       "tiltCot": -2,
       "tiltZins": -7,
       "tiltGesamt": -9,
-      "score": -15,
+      "score": -13,
       "cotExtrem": null,
-      "treiber": "Der frisch-falkenhafte Dollar überstrahlt das ruhige Risk-on-Umfeld und den Hochzins-Aussie",
+      "treiber": "Der Falken-Dollar überstrahlt das ruhige Risk-on-Umfeld und den Hochzins-Aussie.",
       "istCross": false
     },
     {
@@ -55,7 +55,7 @@
       "tiltGesamt": 9,
       "score": 9,
       "cotExtrem": null,
-      "treiber": "Standoff: starker Dollar gegen den Öl-Rückenwind des Loonie (WTI ~102 $) — beide stark, bewusst neutral (Paar-Track-Record 38 %)",
+      "treiber": "Standoff: starker Dollar gegen den Öl-Rückenwind des Loonie (WTI ~101 $) — beide Treiber stark, bewusst neutral (Paar-Track-Record 38 %).",
       "istCross": false
     },
     {
@@ -66,7 +66,7 @@
       "tiltGesamt": 10,
       "score": 18,
       "cotExtrem": null,
-      "treiber": "Sauberster Ausdruck der Dollar-Stärke: starker Dollar + schwacher Franken (Energie-Importeur, kein Hafen-Bedarf)",
+      "treiber": "Sauberster Ausdruck der Dollar-Stärke: starker Dollar + schwacher Franken (Energie-Importeur, kein Hafen-Bedarf).",
       "istCross": false
     },
     {
@@ -77,27 +77,27 @@
       "tiltGesamt": -2,
       "score": -14,
       "cotExtrem": null,
-      "treiber": "Doppelt bärisch: NZ-BIP-Schock (−0,9 %) drückt den Kiwi UND der frisch-falkenhafte Dollar zieht an — beide Treiber ziehen gleich (Paar-Track-Record 58 %, bestes)",
+      "treiber": "Doppelt bärisch: NZ-BIP-Schock (−0,9 %) drückt den Kiwi UND der Falken-Dollar zieht an — beide Treiber ziehen gleich (Paar-Track-Record 58 %, bestes).",
       "istCross": false
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": -5,
+      "baseScore": -4,
       "tiltCot": 3,
       "tiltZins": 2,
       "tiltGesamt": 5,
-      "score": 0,
+      "score": 1,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
     },
     {
       "paar": "EUR/JPY",
-      "baseScore": -3,
+      "baseScore": -4,
       "tiltCot": -1,
       "tiltZins": 8,
       "tiltGesamt": 7,
-      "score": 4,
+      "score": 3,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
@@ -115,11 +115,11 @@
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": -1,
+      "baseScore": 0,
       "tiltCot": 3,
       "tiltZins": 3,
       "tiltGesamt": 6,
-      "score": 5,
+      "score": 6,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

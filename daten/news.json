@@ -1,11 +1,35 @@
 {
-  "stand": "2026-09-18T22:55:46.606Z",
+  "stand": "2026-09-19T05:04:27.383Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355",
+      "datum": "2026-09-18T23:55:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-202609182332",
+      "datum": "2026-09-18T23:32:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
+      "datum": "2026-09-18T23:27:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
+      "datum": "2026-09-18T23:07:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
@@ -65,30 +89,6 @@
       "titel": "10-year Treasury yield rises back to 5% as global tightening wave pushes",
       "link": "https://www.fxstreet.com/news/us-10-year-back-at-5-as-global-tightening-wave-pushes-202609181903",
       "datum": "2026-09-18T19:03:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Eurozone: Energy shock reshapes outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-reshapes-outlook-rabobank-202609181858",
-      "datum": "2026-09-18T18:58:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Stabilization after FOMC volatility – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-stabilization-after-fomc-volatility-scotiabank-202609181844",
-      "datum": "2026-09-18T18:44:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: Mild bullish bias holds, but trend strength stays weak",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-mild-bullish-bias-holds-but-trend-strength-stays-weak-202609181757",
-      "datum": "2026-09-18T17:57:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold reclaims its footing as Oil retreat blunts Fed shock",
-      "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
-      "datum": "2026-09-18T17:44:21.000Z"
     },
     {
       "quelle": "Fed",

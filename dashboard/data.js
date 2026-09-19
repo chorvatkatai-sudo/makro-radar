@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-18T22:55:47.045Z",
+ "erstellt": "2026-09-19T05:02:53.590Z",
  "wochenStart": "2026-09-13",
  "events": [
   {
@@ -2480,22 +2480,20 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung beachtet: Die Fed-Erhöhung ist ein echter breiter Dollar-Treiber, deshalb zeigen 6 von 7 Paaren dollar-stark — das ist im Kern EINE Wette. Bewusst gelöst: USD/JPY (BoJ-Erhöhung + Interventionsrisiko → gegen den Dollar). Und die Größe je Paar spiegelt eigene Gründe: Öl deckelt USD/CAD, die falkenhafte BoE deckelt GBP/USD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-09-18",
-   "wochentag": "Freitag",
-   "tenor": "Notenbank-Woche zu Ende: Die Fed hat ERHÖHT (erste Erhöhung seit 2023, auf 3,75–4,00%) und für dieses Jahr eine weitere in Aussicht gestellt — 'höher für länger'. Auch Japan hob den Zins (auf 1,25%, höchster seit 1995), die Bank of England hielt falkenhaft. Der Dollar bleibt fest über 100, gestützt von Renditen nahe 5% und teurem Öl. Gold trotzdem nahe Rekord.",
+   "stand": "2026-09-19",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — die Märkte ruhen. Rückblick auf die Notenbank-Superwoche: Die Fed hat erstmals seit 2023 ERHÖHT (3,75–4,00%) und weitere Schritte angedeutet, Japan hob auf 1,25% (höchster seit 31 Jahren), die Bank of England hielt falkenhaft. „Höher für länger“ regiert, der Dollar bleibt fest über 100. Nächste Woche ist ruhig — Haupttermine: Flash-Einkaufsmanager Mi, Australien-Jobs + SNB Do.",
    "heute": [
-    "🇯🇵 Bank of Japan hat HEUTE FRÜH erhöht: +0,25 auf 1,25% — der höchste Leitzins seit 31 Jahren. Abstimmung 7:2 (zwei Tauben dagegen). Weil die Abstimmung gespalten war, blieb der Yen wackelig statt klar stärker (USD/JPY schwankt um 155–158). Der signalisierte Straffungspfad ist aber falkenhaft.",
-    "💵 Dollar hält die 100er-Marke: Nach der Fed-Erhöhung (Mi) + falkenhaftem Dot-Plot + 10-Jahres-Renditen nahe 5% + frischem Zinsanstieg (2-Jahres +0,32 Punkte auf der Woche) regiert 'höher für länger'.",
-    "🥇 Gold nahe Rekord (~4.400$) trotz starkem Dollar — die 'Flucht-aus-Papiergeld'-Wette läuft weiter und deckelt die Dollar-Rally.",
-    "🛢️ Öl kommt leicht zurück: WTI ~96$, Brent ~103$ (heute −1%), weil Saudi-Arabien seine Pipeline-Kapazität wieder hochfährt — bleibt aber teuer (+20% im Monat). Rückenwind für Kanada, Gegenwind für Euro/Franken.",
-    "📅 Ruhiger Datenkalender heute nach dem Notenbank-Feuerwerk — am Nachmittag folgt das große Wochen-Ausblicks-Briefing."
+    "🛌 Samstag — Devisenmärkte geschlossen, keine neuen Kurse. Die Live-Kurse im Dashboard springen erst Montag früh wieder an.",
+    "🧭 Stand nach Wochenschluss (18.9.): Dollar-Index 100,2 · Gold ~4.416$ (nahe Rekord) · Öl WTI ~95$ · US-10-Jahres-Rendite ~5,0% · VIX 14,8 (tief = ruhiger Markt). „Höher für länger“ ist das Wochen-Fazit.",
+    "📅 Vorschau: Nach dem Notenbank-Feuerwerk kommt eine ruhige Woche. Erst Mittwoch (Flash-PMIs EU/UK/US) und Donnerstag (Australien-Jobs + SNB-Zinsentscheid) liefern wieder Bewegung."
    ],
    "gestern": [
-    "🇬🇧 Do 17.9.: Die Bank of England HIELT bei 3,75% — sechster Halt in Folge, Abstimmung 6:3 (drei wollten schon auf 4,00%). Ausblick falkenhaft: wegen der Öl-Inflation gilt eine Erhöhung im Nov/Dez als möglich. Für das Pfund ein 'harter Halt', eher stützend.",
-    "🏦 Mi 16.9.: Die Fed ERHÖHTE um 0,25 auf 3,75–4,00% — die erste Erhöhung seit 2023, einstimmig 12:0, Chef Warsh falkenhaft. Dot-Plot: 16 von 18 sehen eine WEITERE Erhöhung dieses Jahr (Median-Zins Ende 2026: 4,1%).",
-    "🇳🇿 Mi 16.9. über Nacht: Neuseelands Wirtschaft SCHRUMPFTE im 2. Quartal um −0,9% (erwartet +0,1%) — herber Fehlschlag. Der Kiwi fiel, der Markt wettet jetzt auf eine taubenhaftere Notenbank.",
-    "🇺🇸 Do 11.9.: Die US-Kern-Inflation kam mit 0,3% zum Vormonat HEISSER als erwartet (2,4% zum Vorjahr) — ein wichtiger Auslöser der Fed-Erhöhung.",
-    "🇨🇦 Mo 14.9.: Kanada-Inflation hielt bei 3,0% zum Vorjahr — fast alles Benzin, Kern-Maße 1,9–2,0% am Ziel. Kein neuer Erhöhungs-Grund für die Bank of Canada; der Loonie-Rückenwind kommt allein vom Öl."
+    "🇺🇸 Mi 16.9.: Die Fed ERHÖHTE um 0,25 auf 3,75–4,00% — erste Erhöhung seit 2023, einstimmig 12:0, Chef Warsh falkenhaft. Der Markt preist jetzt für Oktober rund 53% Chance auf eine WEITERE Erhöhung (vorher ~44%).",
+    "🇯🇵 Fr 18.9.: Die Bank of Japan hob auf 1,25% (höchster Leitzins seit 31 Jahren), aber gespalten 7:2 — deshalb blieb der Yen wackelig (USD/JPY ~156) statt klar stärker.",
+    "🇬🇧 Do 17.9.: Die Bank of England HIELT bei 3,75% (6:3, drei wollten hoch), Ausblick falkenhaft — Nov/Dez-Erhöhung möglich. Für das Pfund eher stützend.",
+    "🇳🇿 Mi 16.9.: Neuseelands Wirtschaft SCHRUMPFTE im 2. Quartal um −0,9% (erwartet +0,1%) — herber Fehlschlag, Kiwi der Wochenverlierer.",
+    "💵 Wochen-Fazit: Der Dollar ist fest über 100, gestützt von Renditen nahe 5% und dem stärksten pro-Dollar-Zinsmomentum der Woche. Gold hält sich trotzdem nahe Rekord — die „Flucht-aus-Papiergeld“-Wette deckelt die Rally."
    ]
   }
  },
@@ -3625,7 +3623,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-18T22:55:46.614Z",
+  "stand": "2026-09-19T05:02:53.589Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 58,
   "gewertet": 28,

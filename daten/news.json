@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-20T05:16:32.079Z",
+  "stand": "2026-09-21T05:18:20.924Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,57 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355",
-      "datum": "2026-09-18T23:55:00.000Z"
+      "titel": "US President Donald Trump says was ready to strike Houthis in Yemen, then pulled back",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-was-ready-to-strike-houthis-in-yemen-then-pulled-back-202609210508",
+      "datum": "2026-09-21T05:08:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-202609182332",
-      "datum": "2026-09-18T23:32:00.000Z"
+      "titel": "Indonesian Rupiah declines as US Dollar remains stronger amid hawkish Fed tone",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-remains-stronger-amid-hawkish-fed-tone-202609210504",
+      "datum": "2026-09-21T05:04:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China holds its ground as markets eye trade truce ahead of Trump-Xi summit",
+      "link": "https://investinglive.com/news/china-holds-its-ground-as-markets-eye-trade-truce-ahead-of-trump-xi-summit/",
+      "datum": "2026-09-21T05:04:35.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
-      "datum": "2026-09-18T23:27:00.000Z"
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609210444",
+      "datum": "2026-09-21T04:44:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
-      "datum": "2026-09-18T23:07:00.000Z"
+      "titel": "Euro flatlines against Japanese Yen as intervention risks rise",
+      "link": "https://www.fxstreet.com/news/euro-flatlines-against-japanese-yen-as-intervention-risks-rise-202609210428",
+      "datum": "2026-09-21T04:28:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-nodx-but-usd-still-drives-usd-sgd-ocbc-202609182149",
-      "datum": "2026-09-18T21:49:00.000Z"
+      "titel": "Euro stays defensive vs USD amid geopolitical risks as traders await Lagarde's speech",
+      "link": "https://www.fxstreet.com/news/euro-stays-defensive-vs-usd-amid-geopolitical-risks-as-traders-await-lagardes-speech-202609210355",
+      "datum": "2026-09-21T03:55:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil gapped higher at open but soon fell",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-gapped-higher-at-open-but-soon-fell/",
+      "datum": "2026-09-21T03:48:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-after-07100-break-202609182116",
-      "datum": "2026-09-18T21:16:51.000Z"
+      "titel": "Swiss Franc weakens as US Dollar gain support on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gain-support-on-hawkish-fed-outlook-202609210346",
+      "datum": "2026-09-21T03:46:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Pre-summit support and firmer bias – DBS",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112",
-      "datum": "2026-09-18T21:12:00.000Z"
+      "titel": "Silver Price Forecast: XAG/USD consolidates near $66.35 at the start of the week",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-near-6635-at-the-start-of-the-week-202609210328",
+      "datum": "2026-09-21T03:28:31.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
-      "datum": "2026-09-18T20:44:54.000Z"
+      "titel": "United States Dollar Index holds firm on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-firm-on-hawkish-fed-outlook-202609210317",
+      "datum": "2026-09-21T03:17:52.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Range trade persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038",
-      "datum": "2026-09-18T20:38:00.000Z"
+      "titel": "AUD/USD Price Forecast: Holds comfortably above 0.7100 as bulls await Trump-Xi meeting",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-comfortably-above-07100-as-bulls-await-trump-xi-meeting-202609210309",
+      "datum": "2026-09-21T03:09:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold edges lower to near $4,350 on Fed hawkish stance, Middle East tensions",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-to-near-4-350-on-fed-hawkish-stance-middle-east-tensions-202609210238",
+      "datum": "2026-09-21T02:38:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar seems vulnerable near August 7 low amid sliding oil prices, trade tensions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-august-7-low-amid-sliding-oil-prices-trade-tensions-202609210231",
+      "datum": "2026-09-21T02:31:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Ukraine attacks on Moscow oil refinery in massive drone and missile attack",
+      "link": "https://www.fxstreet.com/news/ukraine-attacks-on-moscow-oil-refinery-in-massive-drone-and-missile-attack-202609210227",
+      "datum": "2026-09-21T02:27:48.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Bessent calls US-China talks very successful, Board of Trade operational ahead of summit",
+      "link": "https://investinglive.com/news/bessent-calls-us-china-talks-very-successful-board-of-trade-operational-ahead-of-summit/",
+      "datum": "2026-09-21T00:01:35.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -67,52 +103,16 @@
       "datum": "2026-09-18T20:29:40.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Malaysian Ringgit: External pressure but scope for reversal – OCBC",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-external-pressure-but-scope-for-reversal-ocbc-202609181954",
-      "datum": "2026-09-18T19:54:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Limited upside after hawkish BoE hold – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-limited-upside-after-hawkish-boe-hold-scotiabank-202609181919",
-      "datum": "2026-09-18T19:19:58.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Oil finishes lower as the market sniffs out a TACO",
       "link": "https://investinglive.com/news/oil-finishes-lower-as-the-market-sniffs-out-a-taco/",
       "datum": "2026-09-18T19:05:21.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "10-year Treasury yield rises back to 5% as global tightening wave pushes",
-      "link": "https://www.fxstreet.com/news/us-10-year-back-at-5-as-global-tightening-wave-pushes-202609181903",
-      "datum": "2026-09-18T19:03:12.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
       "datum": "2026-09-18T15:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-      "datum": "2026-09-18T15:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US industrial production 0.0% versus 0.3% expected",
-      "link": "https://investinglive.com/news/us-industrial-production-0-0-versus-0-3-expected/",
-      "datum": "2026-09-18T13:15:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Yen slides after BOJ hike as markets stay on edge",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-yen-slides-after-boj-hike-as-markets-stay-on-edge/",
-      "datum": "2026-09-18T12:07:07.000Z"
     }
   ]
 }

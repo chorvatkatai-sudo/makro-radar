@@ -14580,6 +14580,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-25T01:00:00-04:00|JPY|BOJ Core CPI y/y": {
+      "datum": "2026-09-25T01:00:00-04:00",
+      "land": "JPY",
+      "titel": "BOJ Core CPI y/y",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "1.6%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

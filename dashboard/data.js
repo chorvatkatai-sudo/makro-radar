@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-20T05:16:32.495Z",
+ "erstellt": "2026-09-21T05:17:47.843Z",
  "wochenStart": "2026-09-20",
  "events": [
   {
@@ -2920,20 +2920,20 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung beachtet: Die Fed-Erhöhung ist ein echter breiter Dollar-Treiber, deshalb zeigen 6 von 7 Paaren dollar-stark — das ist im Kern EINE Wette. Bewusst gelöst: USD/JPY (BoJ-Erhöhung + Interventionsrisiko → gegen den Dollar). Und die Größe je Paar spiegelt eigene Gründe: Öl deckelt USD/CAD, die falkenhafte BoE deckelt GBP/USD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-09-20",
-   "wochentag": "Sonntag",
-   "tenor": "Wochenende — die Devisenmärkte ruhen. Fazit der Notenbank-Superwoche: Die Fed hat erstmals seit 2023 ERHÖHT (3,75–4,00%) und weitere Schritte angedeutet, Japan hob auf 1,25% (höchster seit 31 Jahren), die Bank of England hielt falkenhaft. „Höher für länger“ regiert, der Dollar bleibt fest über 100. Die neue Woche startet ruhig — die ersten Impulse kommen erst Mittwoch (Flash-Einkaufsmanager) und Donnerstag (Australien-Jobs + SNB-Zinsentscheid).",
+   "stand": "2026-09-21",
+   "wochentag": "Montag",
+   "tenor": "Ruhiger Wochenstart: keine großen Zahlen heute, der Dollar bleibt nach der Fed-Erhöhung fest über 100. Die ersten echten Impulse kommen Mittwoch (Flash-Einkaufsmanager EU/UK/US + deutscher Ifo) und Donnerstag (Australien-Jobs + SNB-Zinsentscheid). Wildcard der Woche: der Trump-Xi-Gipfel in Washington (Xi reist Mittwoch an) — Thema Zölle/Handel, wichtig für Risiko-Stimmung und Öl.",
    "heute": [
-    "🛌 Sonntag — Devisenmärkte geschlossen, keine neuen Kurse. Die Live-Kurse im Dashboard springen erst Montag früh wieder an.",
-    "🧭 Stand nach Wochenschluss (18.9.): Dollar-Index 100,3 · Gold ~4.416$ (nahe Rekord) · Öl WTI ~95$ · US-10-Jahres-Rendite ~5,0% · VIX ~15 (tief = ruhiger Markt). „Höher für länger“ bleibt das Fazit — der Markt preist für Oktober rund 53% Chance auf eine WEITERE Fed-Erhöhung.",
-    "📅 Ausblick Woche 21.–25.9. (ruhig): Erst Mittwoch (Flash-PMIs EU/UK/US) und Donnerstag (Australien-Jobs + SNB-Zinsentscheid, plus US-Erstanträge) liefern Bewegung. Keine großen US-Zahlen → Dollar-Trend und Öl bleiben die Haupttreiber."
+    "🗓️ Ruhiger Montag: nur Kleinigkeiten — Chinas Kredit-Leitzins (LPR) unverändert, US-„Chicago-Fed\"-Aktivitätsindex (August). Nichts, was den Markt allein bewegt. Fed-Vertreter Goolsbee spricht — man hört hin, ob der Erhöhungs-Kurs bestätigt wird.",
+    "💵 Dollar zum Wochenstart fest: Dollar-Index ~100,3 (leicht im Plus). EUR/USD eröffnete bei ~1,149, USD/JPY bei ~156,8 — der Yen bleibt schwach, TROTZ der Zins-Erhöhung der Bank of Japan. „Höher für länger\" nach der Fed-Erhöhung trägt weiter.",
+    "🇨🇳🇺🇸 Trump-Xi-Gipfel wirft Schatten voraus: Arbeitsgruppen tagen schon heute, Xi reist Mittwoch nach Washington. Es geht um Zölle und Handel — die Wildcard der Woche für Stimmung und Ölpreis.",
+    "📅 Fahrplan der Woche: Mi Flash-PMIs (EU/UK/US) + deutscher Ifo · Do Australien-Jobs + SNB-Zinsentscheid (Halten so gut wie sicher) + US-Erstanträge. Keine großen US-Zahlen → Dollar-Trend und Öl bleiben die Haupttreiber."
    ],
    "gestern": [
-    "🇺🇸 Mi 16.9.: Die Fed ERHÖHTE um 0,25 auf 3,75–4,00% — erste Erhöhung seit 2023, einstimmig 12:0, Chef Warsh falkenhaft. Der Markt sieht für Oktober rund 53% Chance auf eine WEITERE Erhöhung (vorher ~44%).",
-    "🇯🇵 Fr 18.9.: Die Bank of Japan hob auf 1,25% (höchster Leitzins seit 31 Jahren), aber gespalten 7:2 — deshalb blieb der Yen wackelig (USD/JPY ~156) statt klar stärker.",
-    "🇬🇧 Do 17.9.: Die Bank of England HIELT bei 3,75% (6:3, drei wollten hoch), Ausblick falkenhaft — Nov/Dez-Erhöhung möglich. Für das Pfund eher stützend.",
-    "🇳🇿 Mi 16.9.: Neuseelands Wirtschaft SCHRUMPFTE im 2. Quartal um −0,9% (erwartet +0,1%) — herber Fehlschlag, Kiwi der Wochenverlierer.",
-    "💵 Wochen-Fazit: Der Dollar ist fest über 100, gestützt von Renditen nahe 5% und dem stärksten pro-Dollar-Zinsmomentum der Woche. Gold hält sich trotzdem nahe Rekord — die „Flucht-aus-Papiergeld“-Wette deckelt die Rally."
+    "🛌 Wochenende: Devisenmärkte geschlossen. Zum Wochenschluss (Fr 18.9.) legte die Wall Street leicht zu (S&P 500 +0,2%), Europa war schwächer (DAX −1,6%).",
+    "🧭 Stand nach Wochenschluss: Dollar-Index ~100,2 · Gold ~4.400$ (nahe Rekord) · Öl WTI ~96$ (Woche −5%, Saudi fährt Pipeline hoch) · US-10-Jahres-Rendite ~5,0% · VIX ~15 (tief = ruhiger Markt). Der Markt preist für die nächste Fed-Sitzung (28.10.) mehr als 50% Chance auf eine WEITERE Erhöhung.",
+    "📊 Neue Positionierungs-Daten (COT, Stand 15.9.): Große Spekulanten sind beim Yen jetzt kräftig NETTO-LONG (erhöht) — viele wetten also auf einen stärkeren Yen. Das ist ein Rückschlag-Risiko: lösen sie die Wetten auf, kann es ruckeln. Beim kanadischen Dollar wurden Short-Wetten abgebaut.",
+    "💶 Notenbank-Nachhall der Superwoche: Fed +0,25 auf 3,75–4,00% (16.9., erste Erhöhung seit 2023, Chef Warsh falkenhaft), BoJ auf 1,25% (31-Jahres-Hoch, aber gespalten 7:2 → Yen wackelig), BoE hielt falkenhaft. Neuseeland-Wirtschaft schrumpfte −0,9% → Kiwi bleibt der Wochenverlierer."
    ]
   }
  },
@@ -4063,7 +4063,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-20T05:16:32.087Z",
+  "stand": "2026-09-21T05:17:47.843Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 58,
   "gewertet": 28,

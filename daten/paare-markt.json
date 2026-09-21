@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-21T17:32:57.153Z",
+  "stand": "2026-09-21T21:29:31.410Z",
   "ausBriefing": "2026-09-18",
   "overlayAktiv": true,
   "paare": [
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 5,
       "tiltCot": 3,
-      "tiltZins": 3,
-      "tiltGesamt": 6,
-      "score": 11,
+      "tiltZins": 4,
+      "tiltGesamt": 7,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "Der sauberste Dollar-Long dieser Woche: fester Dollar trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt), plus Öl-Gegenwind und mögliche SNB-Schwächungs-Andeutung am Donnerstag.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 6,
       "tiltCot": -3,
-      "tiltZins": 1,
-      "tiltGesamt": -2,
-      "score": 4,
+      "tiltZins": 0,
+      "tiltGesamt": -3,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

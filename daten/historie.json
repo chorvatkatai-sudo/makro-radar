@@ -13936,7 +13936,7 @@
       "land": "GBP",
       "titel": "Public Sector Net Borrowing",
       "impact": "Low",
-      "prognose": "15.4B",
+      "prognose": "15.2B",
       "vorher": "1.8B",
       "actual": null,
       "notiz": null
@@ -13956,7 +13956,7 @@
       "land": "GBP",
       "titel": "CBI Industrial Order Expectations",
       "impact": "Low",
-      "prognose": "-34",
+      "prognose": "-33",
       "vorher": "-25",
       "actual": null,
       "notiz": null
@@ -13996,7 +13996,7 @@
       "land": "USD",
       "titel": "Richmond Manufacturing Index",
       "impact": "Low",
-      "prognose": "5",
+      "prognose": "2",
       "vorher": "4",
       "actual": null,
       "notiz": null
@@ -14096,7 +14096,7 @@
       "land": "EUR",
       "titel": "French Flash Services PMI",
       "impact": "Medium",
-      "prognose": "48.4",
+      "prognose": "48.3",
       "vorher": "48.4",
       "actual": null,
       "notiz": null
@@ -14106,7 +14106,7 @@
       "land": "EUR",
       "titel": "German Flash Manufacturing PMI",
       "impact": "Medium",
-      "prognose": "54.0",
+      "prognose": "54.1",
       "vorher": "54.1",
       "actual": null,
       "notiz": null
@@ -14146,7 +14146,7 @@
       "land": "GBP",
       "titel": "Flash Manufacturing PMI",
       "impact": "Medium",
-      "prognose": "51.4",
+      "prognose": "51.5",
       "vorher": "51.5",
       "actual": null,
       "notiz": null
@@ -14176,7 +14176,7 @@
       "land": "USD",
       "titel": "Flash Manufacturing PMI",
       "impact": "Low",
-      "prognose": "53.4",
+      "prognose": "53.6",
       "vorher": "53.2",
       "actual": null,
       "notiz": null
@@ -14186,7 +14186,7 @@
       "land": "USD",
       "titel": "Flash Services PMI",
       "impact": "Low",
-      "prognose": "56.0",
+      "prognose": "55.8",
       "vorher": "56.8",
       "actual": null,
       "notiz": null
@@ -14206,7 +14206,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-0.6M",
       "vorher": "-0.6M",
       "actual": null,
       "notiz": null
@@ -14236,7 +14236,7 @@
       "land": "AUD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "20.9K",
+      "prognose": "22.5K",
       "vorher": "-15.8K",
       "actual": null,
       "notiz": null
@@ -14296,7 +14296,7 @@
       "land": "EUR",
       "titel": "German ifo Business Climate",
       "impact": "Low",
-      "prognose": "89.0",
+      "prognose": "89.1",
       "vorher": "88.8",
       "actual": null,
       "notiz": null
@@ -14326,7 +14326,7 @@
       "land": "GBP",
       "titel": "CBI Realized Sales",
       "impact": "Low",
-      "prognose": "-50",
+      "prognose": "-42",
       "vorher": "-48",
       "actual": null,
       "notiz": null
@@ -14366,7 +14366,7 @@
       "land": "USD",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "-259B",
+      "prognose": "-258B",
       "vorher": "-227B",
       "actual": null,
       "notiz": null
@@ -14426,7 +14426,7 @@
       "land": "USD",
       "titel": "New Home Sales",
       "impact": "Low",
-      "prognose": "619K",
+      "prognose": "615K",
       "vorher": "607K",
       "actual": null,
       "notiz": null
@@ -14446,7 +14446,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "52B",
       "vorher": "44B",
       "actual": null,
       "notiz": null
@@ -14526,7 +14526,7 @@
       "land": "USD",
       "titel": "Core Durable Goods Orders m/m",
       "impact": "Low",
-      "prognose": "0.5%",
+      "prognose": "0.6%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -14546,7 +14546,7 @@
       "land": "USD",
       "titel": "Revised UoM Consumer Sentiment",
       "impact": "Medium",
-      "prognose": "47.5",
+      "prognose": "47.4",
       "vorher": "47.8",
       "actual": null,
       "notiz": null
@@ -14586,8 +14586,18 @@
       "land": "JPY",
       "titel": "BOJ Core CPI y/y",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "1.5%",
       "vorher": "1.6%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-24T08:30:00-04:00|USD|FOMC Member Barkin Speaks": {
+      "datum": "2026-09-24T08:30:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Barkin Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

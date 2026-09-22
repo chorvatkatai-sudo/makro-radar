@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-22T16:08:41.881Z",
+  "stand": "2026-09-22T19:26:16.023Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD strength",
+      "titel": "Asia FX: AI-driven support for regional currencies – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
+      "datum": "2026-09-22T19:17:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Advanced PMIs in the limelight, but what about the UN General Assembly?",
+      "link": "https://www.fxstreet.com/news/forex-today-advanced-pmis-in-the-limelight-but-what-about-the-un-general-assembly-202609221854",
+      "datum": "2026-09-22T18:54:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Gradual decline within tight bands – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-decline-within-tight-bands-uob-202609221839",
+      "datum": "2026-09-22T18:39:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI extends decline as Trump signals progress in talks with Iran",
+      "link": "https://www.fxstreet.com/news/wti-extends-decline-as-trump-signals-progress-in-talks-with-iran-202609221825",
+      "datum": "2026-09-22T18:25:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Trump signals diplomatic push on Ukraine and Iran as diesel ban looms",
+      "link": "https://www.fxstreet.com/news/trump-signals-diplomatic-push-on-ukraine-and-iran-as-diesel-ban-looms-202609221809",
+      "datum": "2026-09-22T18:09:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Export surge supports KRW recovery – OCBC",
+      "link": "https://www.fxstreet.com/news/south-korean-won-export-surge-supports-krw-recovery-ocbc-202609221759",
+      "datum": "2026-09-22T17:59:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar Index pushes higher on the case for another Fed increase",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-pushes-higher-on-the-case-for-another-fed-increase-202609221759",
+      "datum": "2026-09-22T17:59:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Barkin backs rate hike, stays unsure on more increases",
+      "link": "https://www.fxstreet.com/news/feds-barkin-backs-rate-hike-stays-unsure-on-more-increases-202609221715",
+      "datum": "2026-09-22T17:15:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $69 billion of two-year notes at a high yield of 4.787%",
+      "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-two-year-notes-at-a-high-yield-of-4-787/",
+      "datum": "2026-09-22T17:03:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound sinks as USD shrugs off Hormuz reopening hopes",
+      "link": "https://www.fxstreet.com/news/british-pound-sinks-as-usd-shrugs-off-hormuz-reopening-hopes-202609221639",
+      "datum": "2026-09-22T16:39:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average drops from a weekly high as bank shares slide",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-drops-from-a-weekly-high-as-bank-shares-slide-202609221609",
+      "datum": "2026-09-22T16:09:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
       "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
       "datum": "2026-09-22T15:57:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Headlines drive vulnerability – TD Securities",
-      "link": "https://www.fxstreet.com/news/oil-headlines-drive-vulnerability-td-securities-202609221543",
-      "datum": "2026-09-22T15:43:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538",
-      "datum": "2026-09-22T15:38:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506",
-      "datum": "2026-09-22T15:06:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Trump sees post-election Iran deal, calls for pressure to stay",
-      "link": "https://www.fxstreet.com/news/trump-sees-post-election-iran-deal-calls-for-pressure-to-stay-202609221502",
-      "datum": "2026-09-22T15:02:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: September inflation profile – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-september-inflation-profile-td-securities-202609221456",
-      "datum": "2026-09-22T14:56:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Natural gas: Price downside limited – Commerzbank",
-      "link": "https://www.fxstreet.com/news/natural-gas-price-downside-limited-commerzbank-202609221442",
-      "datum": "2026-09-22T14:42:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: USD strength keeps CAD weakness in focus - Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-usd-strength-keeps-cad-weakness-in-focus-scotiabank-202609221427",
-      "datum": "2026-09-22T14:27:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Collins: More restrictive policy should help inflation return to 2%",
-      "link": "https://www.fxstreet.com/news/feds-collins-more-restrictive-policy-should-help-inflation-return-to-2-202609221422",
-      "datum": "2026-09-22T14:22:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Risk sentiment improved and Oil prices fell: Why the US Dollar is still holding firm",
-      "link": "https://www.fxstreet.com/news/risk-sentiment-improved-and-oil-prices-fell-why-the-us-dollar-is-still-holding-firm-202609221420",
-      "datum": "2026-09-22T14:20:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro remains cautious as Middle East headlines, Fed outlook drive sentiment",
-      "link": "https://www.fxstreet.com/news/euro-remains-cautious-as-middle-east-headlines-fed-outlook-drive-sentiment-202609221411",
-      "datum": "2026-09-22T14:11:27.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Gold consolidates as Iran diplomacy hopes clash with hawkish Fed expectations",
       "link": "https://www.fxstreet.com/news/gold-steadies-on-iran-diplomacy-hopes-fed-outlook-caps-upside-202609221120",
       "datum": "2026-09-22T11:20:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Oil prices extend decline as Saudi Arabia restarts East-West pipeline, prepares to resume crude exports",
-      "link": "https://investinglive.com/news/oil-prices-extend-decline-as-saudi-arabia-restarts-east-west-pipeline-prepares-to-resume-crude-exports/",
-      "datum": "2026-09-22T10:07:52.000Z"
     }
   ]
 }

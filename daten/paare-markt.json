@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-22T05:17:10.377Z",
+  "stand": "2026-09-22T05:17:36.112Z",
   "ausBriefing": "2026-09-18",
   "overlayAktiv": true,
   "paare": [
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -8,
       "tiltCot": 2,
-      "tiltZins": -8,
-      "tiltGesamt": -6,
-      "score": -14,
+      "tiltZins": -7,
+      "tiltGesamt": -5,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands Wirtschaft schrumpfte (−0,9%), die Notenbank wird taubenhafter, dazu der starke Dollar. Doppelter Gegenwind.",
       "istCross": false

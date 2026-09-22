@@ -355,7 +355,7 @@
     "title": "House Price Index YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "2.3",
+    "previous": "2.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -375,7 +375,7 @@
     "title": "House Price Index MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0",
+    "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -385,7 +385,7 @@
     "title": "S&P/Case-Shiller Home Price MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.4",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -395,7 +395,7 @@
     "title": "S&P/Case-Shiller Home Price YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "2.1",
+    "previous": "2.1%",
     "actual": null,
     "quelle": "tradingview"
   },

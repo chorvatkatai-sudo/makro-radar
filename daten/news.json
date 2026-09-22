@@ -1,11 +1,29 @@
 {
-  "stand": "2026-09-22T15:18:11.078Z",
+  "stand": "2026-09-22T16:08:41.881Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD strength",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
+      "datum": "2026-09-22T15:57:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Headlines drive vulnerability – TD Securities",
+      "link": "https://www.fxstreet.com/news/oil-headlines-drive-vulnerability-td-securities-202609221543",
+      "datum": "2026-09-22T15:43:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538",
+      "datum": "2026-09-22T15:38:53.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
@@ -55,18 +73,6 @@
       "datum": "2026-09-22T14:11:27.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Silver edges lower as demand-led inflation keeps Fed tightening risks in focus",
-      "link": "https://www.fxstreet.com/news/silver-edges-lower-as-demand-led-inflation-keeps-fed-tightening-risks-in-focus-202609221407",
-      "datum": "2026-09-22T14:07:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Supply shock keeps prices elevated – NBC",
-      "link": "https://www.fxstreet.com/news/oil-supply-shock-keeps-prices-elevated-nbc-202609221401",
-      "datum": "2026-09-22T14:01:50.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US September Richmond composite index -2 vs +4 prior",
       "link": "https://investinglive.com/news/us-september-richmond-composite-index-2-vs-4-prior/",
@@ -77,12 +83,6 @@
       "titel": "EU Consumer Confidence (flash) for September -16.5 vs -16.0 estimate",
       "link": "https://investinglive.com/news/eu-consumer-confidence-flash-for-september-16-5-vs-16-0-estimate/",
       "datum": "2026-09-22T14:00:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India: Growth, liquidity and policy response – DBS",
-      "link": "https://www.fxstreet.com/news/india-growth-liquidity-and-policy-response-dbs-202609221335",
-      "datum": "2026-09-22T13:35:11.000Z"
     },
     {
       "quelle": "ForexLive",

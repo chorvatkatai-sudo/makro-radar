@@ -304,7 +304,7 @@
     "country": "EUR",
     "title": "Consumer Confidence Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-16.5",
     "previous": "-15.5",
     "actual": null,
     "quelle": "tradingview"
@@ -345,7 +345,7 @@
     "title": "Redbook YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "7.6",
     "actual": null,
     "quelle": "tradingview"
   },

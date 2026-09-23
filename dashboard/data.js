@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-22T22:34:49.829Z",
+ "erstellt": "2026-09-23T05:14:53.762Z",
  "wochenStart": "2026-09-20",
  "events": [
   {
@@ -2788,8 +2788,8 @@ window.MAKRO_DATA = {
    },
    "EUR": {
     "stimmung": "bärisch",
-    "score": -6,
-    "grund": "Die EZB hat wohl das Ende ihrer Erhöhungen signalisiert (Kern kühlte auf 2,4%) und das teure Öl belastet den Energie-Importeur — gegen die falkenhafte Fed bleibt der Euro im Hintertreffen."
+    "score": -4,
+    "grund": "Die Flash-PMIs überraschten positiv (Dienstleistungen 51,4, Gesamt-Index auf 16-Monats-Hoch) — ein echter Konjunktur-Lichtblick, deshalb etwas weniger bärisch. Aber die EZB hat wohl das Ende ihrer Erhöhungen signalisiert (Kern 2,4%); gegen die falkenhafte Fed bleibt der Euro im Hintertreffen."
    },
    "GBP": {
     "stimmung": "neutral",
@@ -2808,8 +2808,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "neutral",
-    "score": 4,
-    "grund": "Das teure Öl gibt dem Loonie Rückenwind und die Bank of Canada warnt falkenhaft — aber der US-Kanada-Zollstreit und die zuletzt kühlere Kern-Inflation ziehen dagegen."
+    "score": 2,
+    "grund": "Der Öl-Rückenwind bröckelt (WTI −12% auf Wochensicht) — das war der Haupttreiber für den Loonie, deshalb runter auf einen Hauch. Die falkenhafte Bank of Canada stützt noch, aber Zollstreit und kühlere Kern-Inflation ziehen dagegen."
    },
    "AUD": {
     "stimmung": "neutral",
@@ -2825,8 +2825,8 @@ window.MAKRO_DATA = {
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": -6,
-    "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB, die das Ende ihrer Erhöhungen signalisiert hat; teures Öl belastet den Euro zusätzlich. Klar dollar-freundlich."
+    "score": -4,
+    "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB am Ende ihres Erhöhungspfads — klar dollar-freundlich. Die positiven Euro-PMIs (Gesamt-Index 16-Monats-Hoch) mildern das Minus aber etwas ab. Track-Record hier schwach (31%) → bewusst klein."
    },
    {
     "paar": "GBP/USD",
@@ -2845,8 +2845,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": 3,
-    "treiber": "Der starke Dollar hebt das Paar, aber das teure Öl stützt den Loonie und begrenzt den Anstieg — bewusst klein gehalten."
+    "score": 4,
+    "treiber": "Der starke Dollar hebt das Paar, und der fallende Ölpreis (WTI −12% Wo) nimmt dem Loonie seinen bisherigen Rückenwind — leicht höher als zuletzt. Die falkenhafte BoC deckelt den Anstieg."
    },
    {
     "paar": "USD/CHF",
@@ -2947,20 +2947,20 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung beachtet: Die Fed-Erhöhung ist ein echter breiter Dollar-Treiber, deshalb zeigen 6 von 7 Paaren dollar-stark — das ist im Kern EINE Wette. Bewusst gelöst: USD/JPY (BoJ-Erhöhung + Interventionsrisiko → gegen den Dollar). Und die Größe je Paar spiegelt eigene Gründe: Öl deckelt USD/CAD, die falkenhafte BoE deckelt GBP/USD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-09-22",
-   "wochentag": "Dienstag",
-   "tenor": "Ruhiger Dienstag ohne große Zahlen: Der Dollar bleibt nach der Fed-Erhöhung fest über 100, die 10-Jahres-Rendite klebt nahe 5%. Viele Fed-Vertreter reden diese Woche (rund 10 Auftritte) — der Markt hört genau hin, ob der Erhöhungs-Kurs (nächste Sitzung 28.10., >50% Chance auf noch eine Erhöhung) bestätigt wird. Die ersten echten Daten-Impulse kommen erst MORGEN (Flash-Einkaufsmanager EU/UK/US + deutscher Ifo).",
+   "stand": "2026-09-23",
+   "wochentag": "Mittwoch",
+   "tenor": "PMI-Tag: Die Frühindikatoren zeigen, wie schnell die Wirtschaft läuft. Der Euroraum überraschte POSITIV (Dienstleistungen 51,4 statt 50,5 erwartet, Gesamt-Index 51,2 = 16-Monats-Hoch), die USA kühlten leicht ab (Gesamt 53,6 nach 54,6 — aber immer noch klar über 50). Trotz der besseren Euro-Zahlen bleibt der Dollar fest: die falkenhafte Fed (Rendite nahe 5%) übertönt alles, EUR/USD klebt am Mehr-Wochen-Tief ~1,143.",
    "heute": [
-    "🗓️ Ruhiger Dienstag: keine großen Wirtschaftszahlen. Der Tag lebt von Notenbank-Reden — diese Woche treten rund 10 Fed-Vertreter auf. Wichtig ist nur, ob sie den falkenhaften Erhöhungs-Kurs bestätigen.",
-    "💵 Dollar bleibt fest: Dollar-Index ~100,4 (+0,8% auf Wochensicht). EUR/USD hängt nahe dem Mehr-Wochen-Tief bei ~1,145, USD/JPY ~157 — der Yen bleibt schwach, TROTZ der BoJ-Erhöhung. US-10-Jahres-Rendite klebt nahe 5% = „höher für länger\".",
-    "🥇🛢️ Gold weiter nahe Rekord (~4.300–4.380$, Entwertungs-Wette läuft), Öl teuer (WTI ~92$ / Brent ~96$, Saudi-Pipeline + Nahost). Teures Öl = neue Inflations-Sorge, stützt die Renditen.",
-    "🇨🇳🇺🇸 Trump-Xi-Gipfel wirft Schatten voraus: Arbeitsgruppen tagen, Xi reist morgen nach Washington. Thema Zölle/Handel — die Wildcard der Woche für Risiko-Stimmung und Ölpreis."
+    "📊 PMI-Tag (Frühindikatoren, ab 10:00 Wien): 🇪🇺 Euroraum ÜBERRASCHT positiv — Dienstleistungen 51,4 (statt 50,5 erwartet), Gesamt-Index 51,2 = 16-Monats-Hoch, Industrie 50,7. Über 50 = Wachstum. Das ist ein kleiner Euro-Lichtblick.",
+    "🇺🇸 US-Frühindikator kühlt LEICHT ab: Gesamt-PMI 53,6 (nach 54,6 im August) — die US-Wirtschaft wächst weiter solide, verliert aber etwas Tempo. Reicht (noch) nicht, um den Dollar zu bremsen.",
+    "💵 Dollar bleibt fest TROTZ guter Euro-Zahlen: Dollar-Index ~100,5 (+0,2% Wo). EUR/USD am Mehr-Wochen-Tief ~1,143, USD/JPY ~157,5. Die 10-Jahres-Rendite klebt nahe 5% („höher für länger\") — Zins-Argument schlägt die Konjunktur-Zahlen. Fed-Reden im Fokus (bestätigen sie den Erhöhungs-Kurs?).",
+    "🥇🛢️ Gold nahe Rekord (~4.400$, Entwertungs-Wette). ÖL FÄLLT deutlich: WTI ~90$ (−12% auf Wochensicht) — die neue Inflations-Sorge lässt etwas nach, und der Öl-Rückenwind für den Kanada-Dollar bröckelt. VIX sehr tief (14,2) = sorgloser, risikofreudiger Markt."
    ],
    "gestern": [
-    "🗓️ Montag lief wie erwartet ruhig: Chinas Kredit-Leitzins (LPR) blieb unverändert, US-Aktivitätsindex nebensächlich. Fed-Vertreter Goolsbee sprach — kein Kurswechsel.",
-    "💵 Dollar hielt den Wochenstart fest über 100; der starke Dollar nach der Fed-Erhöhung trägt weiter.",
-    "📊 Positionierung (COT, Stand 15.9.): Große Spekulanten sind beim Yen kräftig NETTO-LONG (viele wetten auf einen stärkeren Yen). Das ist ein Rückschlag-Risiko — lösen sie die Wetten auf, kann der Yen ruckeln. Beim Kanada-Dollar wurden Short-Wetten abgebaut.",
-    "💶 Notenbank-Nachhall: Fed +0,25 auf 3,75–4,00% (16.9., erste Erhöhung seit 2023, Chef Warsh falkenhaft), BoJ auf 1,25% (31-Jahres-Hoch, aber gespalten 7:2 → Yen wackelig), BoE hielt falkenhaft. Neuseeland-Wirtschaft schrumpfte −0,9% → Kiwi bleibt Wochenverlierer."
+    "🗓️ Dienstag lief ruhig ohne große Zahlen; der Tag lebte von Fed-Reden (Williams, Jefferson, Barkin) — kein Kurswechsel, der falkenhafte Ton hielt.",
+    "💵 Dollar legte weiter zu: EUR/USD rutschte auf frische Mehr-Wochen-Tiefs nahe ~1,143 (zweiter Verlusttag in Folge), Dollar-Index ~100,5. Der starke Dollar nach der Fed-Erhöhung trägt weiter.",
+    "🛢️ Öl gab auf Wochensicht kräftig nach (WTI ~90$, −12% Wo) — die Inflations-Angst durch teures Öl lässt nach; das nimmt dem Kanada-Dollar etwas Rückenwind.",
+    "📊 Positionierung (COT, Stand 15.9.): Große Spekulanten sind beim Yen kräftig NETTO-LONG (Rückschlag-Risiko: lösen sie die Wetten auf, kann der Yen ruckeln). Nachhall der Notenbank-Woche: Fed +0,25 auf 3,75–4,00%, BoJ auf 1,25% (Yen bleibt trotzdem weich), BoE falkenhafter Halt."
    ]
   }
  },
@@ -3969,13 +3969,13 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -6,
+   "baseScore": -4,
    "tiltCot": -1,
    "tiltZins": -5,
    "tiltGesamt": -6,
-   "score": -12,
+   "score": -10,
    "cotExtrem": null,
-   "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB, die das Ende ihrer Erhöhungen signalisiert hat; teures Öl belastet den Euro zusätzlich. Klar dollar-freundlich.",
+   "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB am Ende ihres Erhöhungspfads — klar dollar-freundlich. Die positiven Euro-PMIs (Gesamt-Index 16-Monats-Hoch) mildern das Minus aber etwas ab. Track-Record hier schwach (31%) → bewusst klein.",
    "istCross": false
   },
   {
@@ -4013,13 +4013,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 3,
+   "baseScore": 4,
    "tiltCot": 2,
    "tiltZins": 8,
    "tiltGesamt": 10,
-   "score": 13,
+   "score": 14,
    "cotExtrem": null,
-   "treiber": "Der starke Dollar hebt das Paar, aber das teure Öl stützt den Loonie und begrenzt den Anstieg — bewusst klein gehalten.",
+   "treiber": "Der starke Dollar hebt das Paar, und der fallende Ölpreis (WTI −12% Wo) nimmt dem Loonie seinen bisherigen Rückenwind — leicht höher als zuletzt. Die falkenhafte BoC deckelt den Anstieg.",
    "istCross": false
   },
   {
@@ -4046,22 +4046,22 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/GBP",
-   "baseScore": -4,
+   "baseScore": -3,
    "tiltCot": 3,
    "tiltZins": 1,
    "tiltGesamt": 4,
-   "score": 0,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": -4,
+   "baseScore": -3,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": -9,
+   "score": -8,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
@@ -4079,18 +4079,18 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 0,
+   "baseScore": 1,
    "tiltCot": 3,
    "tiltZins": -2,
    "tiltGesamt": 1,
-   "score": 1,
+   "score": 2,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-22T22:34:49.021Z",
+  "stand": "2026-09-23T05:14:53.761Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 58,
   "gewertet": 28,

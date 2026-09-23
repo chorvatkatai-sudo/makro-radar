@@ -1,17 +1,17 @@
 {
-  "stand": "2026-09-22T22:34:49.015Z",
+  "stand": "2026-09-23T05:14:53.746Z",
   "ausBriefing": "2026-09-18",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -6,
+      "baseScore": -4,
       "tiltCot": -1,
       "tiltZins": -5,
       "tiltGesamt": -6,
-      "score": -12,
+      "score": -10,
       "cotExtrem": null,
-      "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB, die das Ende ihrer Erhöhungen signalisiert hat; teures Öl belastet den Euro zusätzlich. Klar dollar-freundlich.",
+      "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB am Ende ihres Erhöhungspfads — klar dollar-freundlich. Die positiven Euro-PMIs (Gesamt-Index 16-Monats-Hoch) mildern das Minus aber etwas ab. Track-Record hier schwach (31%) → bewusst klein.",
       "istCross": false
     },
     {
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 3,
+      "baseScore": 4,
       "tiltCot": 2,
       "tiltZins": 8,
       "tiltGesamt": 10,
-      "score": 13,
+      "score": 14,
       "cotExtrem": null,
-      "treiber": "Der starke Dollar hebt das Paar, aber das teure Öl stützt den Loonie und begrenzt den Anstieg — bewusst klein gehalten.",
+      "treiber": "Der starke Dollar hebt das Paar, und der fallende Ölpreis (WTI −12% Wo) nimmt dem Loonie seinen bisherigen Rückenwind — leicht höher als zuletzt. Die falkenhafte BoC deckelt den Anstieg.",
       "istCross": false
     },
     {
@@ -82,22 +82,22 @@
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": -4,
+      "baseScore": -3,
       "tiltCot": 3,
       "tiltZins": 1,
       "tiltGesamt": 4,
-      "score": 0,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
     },
     {
       "paar": "EUR/JPY",
-      "baseScore": -4,
+      "baseScore": -3,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": -9,
+      "score": -8,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
@@ -115,11 +115,11 @@
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": 0,
+      "baseScore": 1,
       "tiltCot": 3,
       "tiltZins": -2,
       "tiltGesamt": 1,
-      "score": 1,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-23T09:01:15.360Z",
+  "stand": "2026-09-23T10:33:13.408Z",
   "ausBriefing": "2026-09-18",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -4,
       "tiltCot": -4,
-      "tiltZins": -8,
-      "tiltGesamt": -12,
-      "score": -16,
+      "tiltZins": -7,
+      "tiltGesamt": -11,
+      "score": -15,
       "cotExtrem": null,
       "treiber": "Der starke Dollar drückt, aber die falkenhafte Bank of England (Erhöhung im Nov/Dez möglich) federt ab — deshalb nur ein kleiner Minus-Score.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 5,
       "tiltCot": 3,
-      "tiltZins": 3,
-      "tiltGesamt": 6,
-      "score": 11,
+      "tiltZins": 4,
+      "tiltGesamt": 7,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "Der sauberste Dollar-Long dieser Woche: fester Dollar trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt), plus Öl-Gegenwind und mögliche SNB-Schwächungs-Andeutung am Donnerstag.",
       "istCross": false
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": -3,
       "tiltCot": -5,
-      "tiltZins": 1,
-      "tiltGesamt": -4,
-      "score": -7,
+      "tiltZins": 2,
+      "tiltGesamt": -3,
+      "score": -6,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

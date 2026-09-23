@@ -1524,7 +1524,7 @@
     "country": "EUR",
     "title": "S&P Global Manufacturing PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52.7",
     "previous": "52.7",
     "actual": null,
     "quelle": "tradingview"
@@ -1534,7 +1534,7 @@
     "country": "GBP",
     "title": "S&P Global Manufacturing PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52",
     "previous": "51.7",
     "actual": null,
     "quelle": "tradingview"

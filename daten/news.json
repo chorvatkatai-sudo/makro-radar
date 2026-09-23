@@ -1,11 +1,65 @@
 {
-  "stand": "2026-09-23T09:01:15.358Z",
+  "stand": "2026-09-23T10:33:13.406Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound tests 12-week lows amid mixed UK PMIs and US Dollar strength",
+      "link": "https://www.fxstreet.com/news/british-pound-tests-12-week-lows-amid-mixed-uk-pmis-and-us-dollar-strength-202609231028",
+      "datum": "2026-09-23T10:28:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: PMI strength limits downside against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/euro-pmi-strength-limits-downside-against-us-dollar-bbh-202609230958",
+      "datum": "2026-09-23T09:58:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold Price Forecast: XAU/USD drifts toward $4.300 with bears gaining traction",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-drifts-toward-4300-with-bears-gaining-traction-202609230954",
+      "datum": "2026-09-23T09:54:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: Bearish outlook retained below 0.7140 - UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-bearish-outlook-retained-below-07140-uob-202609230938",
+      "datum": "2026-09-23T09:38:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609230930",
+      "datum": "2026-09-23T09:30:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Staying strong as Fed expectations hold – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-staying-strong-as-fed-expectations-hold-ing-202609230926",
+      "datum": "2026-09-23T09:26:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds steady against Japanese Yen after mixed UK PMIs",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-against-japanese-yen-after-mixed-uk-pmis-202609230921",
+      "datum": "2026-09-23T09:21:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Hungarian Forint: Cautious MNB stance supports HUF – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-cautious-mnb-stance-supports-huf-commerzbank-202609230911",
+      "datum": "2026-09-23T09:11:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro dips against Canadian Dollar following HCOB PMI data release",
+      "link": "https://www.fxstreet.com/news/euro-dips-against-canadian-dollar-following-hcob-pmi-data-release-202609230911",
+      "datum": "2026-09-23T09:11:39.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro remains depressed as German politics, France's debt offset strong PMI figures",
@@ -19,58 +73,10 @@
       "datum": "2026-09-23T08:57:26.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: SNB preview signals steady policy – DBS",
-      "link": "https://www.fxstreet.com/news/swiss-franc-snb-preview-signals-steady-policy-dbs-202609230852",
-      "datum": "2026-09-23T08:52:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "S&P Global PMIs expected to show resilient US economic growth in September",
-      "link": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
-      "datum": "2026-09-23T08:45:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones futures rise ahead of US PMI data",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-ahead-of-us-pmi-data-202609230834",
-      "datum": "2026-09-23T08:34:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom flash Services PMI expands slower-than-expected to 51.7 in September",
-      "link": "https://www.fxstreet.com/news/united-kingdom-flash-services-pmi-expands-slower-than-expected-to-517-in-september-202609230834",
-      "datum": "2026-09-23T08:34:27.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "UK September flash services PMI 51.7 vs 52.0 expected",
       "link": "https://investinglive.com/news/uk-september-flash-services-pmi-xx-vs-52-0-expected/",
       "datum": "2026-09-23T08:30:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Geopolitics drive volatile price path – Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-geopolitics-drive-volatile-price-path-rabobank-202609230824",
-      "datum": "2026-09-23T08:24:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar slides to one-week low, below 0.7100 ahead of jobs data on Thursday",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-one-week-low-below-07100-ahead-of-jobs-data-on-thursday-202609230821",
-      "datum": "2026-09-23T08:21:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Downside still favoured toward 158.40 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-downside-still-favoured-toward-15840-against-us-dollar-uob-202609230809",
-      "datum": "2026-09-23T08:09:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Eurozone flash Manufacturing PMI remains steady at 52.7 in September",
-      "link": "https://www.fxstreet.com/news/eurozone-flash-manufacturing-pmi-remains-steady-at-527-in-september-202609230804",
-      "datum": "2026-09-23T08:04:05.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Indian Rupee declines after two-day gain as hawkish Fed narrative dominates",
       "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
       "datum": "2026-09-23T05:26:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "ADB holds China growth forecast at 4.6%, cuts inflation view as demand softens",
-      "link": "https://investinglive.com/news/adb-holds-china-growth-forecast-at-4-6-cuts-inflation-view-as-demand-softens/",
-      "datum": "2026-09-23T03:54:52.000Z"
     }
   ]
 }

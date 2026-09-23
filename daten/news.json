@@ -1,11 +1,77 @@
 {
-  "stand": "2026-09-23T15:14:16.641Z",
+  "stand": "2026-09-23T19:21:39.064Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold buckles as 5% yields and Fed hawks take control",
+      "link": "https://www.fxstreet.com/news/gold-buckles-as-5-yields-and-fed-hawks-take-control-202609231837",
+      "datum": "2026-09-23T18:37:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-fed-hawks-knock-xag-usd-toward-64-support-202609231823",
+      "datum": "2026-09-23T18:23:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Australia’s jobs report comes to the fore",
+      "link": "https://www.fxstreet.com/news/forex-today-australias-jobs-report-comes-to-the-fore-202609231809",
+      "datum": "2026-09-23T18:09:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen declines as upbeat US PMI lifts the US Dollar and yields",
+      "link": "https://www.fxstreet.com/news/japanese-yen-declines-as-upbeat-us-pmi-lifts-the-us-dollar-yields-202609231808",
+      "datum": "2026-09-23T18:08:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $70 billion of 5 year notes at a high yield of 5.033%",
+      "link": "https://investinglive.com/news/us-treasury-sells-70-billion-of-5-year-notes-at-a-high-yield-of-5-033/",
+      "datum": "2026-09-23T17:07:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US yields move to multi year highs as the wall of worry is growing.",
+      "link": "https://investinglive.com/news/us-yields-move-to-multi-year-highs-as-the-wall-of-worry-is-growing/",
+      "datum": "2026-09-23T17:01:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US 10-year yield hits a 19-year high as Fed Governor Barr backs hikes",
+      "link": "https://www.fxstreet.com/news/us-10-year-yield-hits-a-19-year-high-as-fed-governor-barr-backs-hikes-202609231619",
+      "datum": "2026-09-23T16:19:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average keeps sliding as yields climb on a strong PMI",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-keeps-sliding-as-yields-climb-on-a-strong-pmi-202609231606",
+      "datum": "2026-09-23T16:06:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar tumbles as strong US PMI data lifts USD",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-tumbles-as-strong-us-pmi-data-lifts-usd-202609231604",
+      "datum": "2026-09-23T16:04:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound cracks as US growth burst boosts USD",
+      "link": "https://www.fxstreet.com/news/british-pound-cracks-as-us-growth-burst-sends-us-dollar-higher-202609231600",
+      "datum": "2026-09-23T16:00:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI snaps five-day losing streak as US-Iran talks fall short of breakthrough",
+      "link": "https://www.fxstreet.com/news/wti-snaps-five-day-losing-streak-as-us-iran-talks-fall-short-of-breakthrough-202609231551",
+      "datum": "2026-09-23T15:51:35.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Iran reviews US response to proposal aimed at ending hostilities – Reuters",
@@ -25,64 +91,16 @@
       "datum": "2026-09-23T14:59:10.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Brazil: Growth outlook and inflation risks – Societe Generale",
-      "link": "https://www.fxstreet.com/news/brazil-growth-outlook-and-inflation-risks-societe-generale-202609231454",
-      "datum": "2026-09-23T14:54:25.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Iranian president says Iran is open to diplomacy but will defend its interests in Hormuz",
       "link": "https://investinglive.com/news/iranian-president-says-iran-is-open-to-diplomacy-but-will-defend-its-interests-in-hormuz/",
       "datum": "2026-09-23T14:53:16.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Fed's Barr: Further rate hikes needed for timely return to 2% inflation",
-      "link": "https://www.fxstreet.com/news/feds-barr-further-rate-hikes-needed-for-timely-return-to-2-inflation-202609231443",
-      "datum": "2026-09-23T14:43:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar tumbles amid stronger US PMIs, softer Australian data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-stronger-us-pmis-softer-australian-data-202609231440",
-      "datum": "2026-09-23T14:40:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI: Headline risk rises as positioning stays elevated - TD Securities",
-      "link": "https://www.fxstreet.com/news/wti-headline-risk-rises-as-positioning-stays-elevated-td-securities-202609231432",
-      "datum": "2026-09-23T14:32:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India: Russian dependence and security focus – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/india-russian-dependence-and-security-focus-standard-chartered-202609231409",
-      "datum": "2026-09-23T14:09:10.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US September S&P Global flash services PMI 58.7 vs 56.0 expected",
       "link": "https://investinglive.com/news/us-september-s-p-global-flash-services-pmi-58-7-vs-56-0-expected/",
       "datum": "2026-09-23T13:51:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Bearish trend targets 1.4125 – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bearish-trend-targets-14125-scotiabank-202609231346",
-      "datum": "2026-09-23T13:46:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc weakens ahead of SNB rate decision",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-ahead-of-snb-rate-decision-202609231335",
-      "datum": "2026-09-23T13:35:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: BoE repricing risk keeps Pound vulnerable – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-keeps-pound-vulnerable-bbh-202609231324",
-      "datum": "2026-09-23T13:24:36.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -92,27 +110,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold falls as strong US PMI data gives Fed room to raise rates again",
+      "titel": "Gold slides as strong US PMI data gives Fed room to raise rates again",
       "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
       "datum": "2026-09-23T11:00:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: US S&P Global Composite PMI came in at 58.4 in September",
-      "link": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
-      "datum": "2026-09-23T08:45:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK September flash services PMI 51.7 vs 52.0 expected",
-      "link": "https://investinglive.com/news/uk-september-flash-services-pmi-xx-vs-52-0-expected/",
-      "datum": "2026-09-23T08:30:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone PMI jumps as services surge, price pressures keep ECB October rate hike in play",
-      "link": "https://investinglive.com/news/eurozone-pmi-jumps-as-services-surge-price-pressures-keep-ecb-october-rate-hike-in-play/",
-      "datum": "2026-09-23T08:01:00.000Z"
     }
   ]
 }

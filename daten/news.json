@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-22T22:34:49.013Z",
+  "stand": "2026-09-23T05:15:25.056Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "The Euro drops to its lowest since July as the Dollar keeps climbing",
-      "link": "https://www.fxstreet.com/news/the-euro-drops-to-its-lowest-since-july-as-the-dollar-keeps-climbing-202609222219",
-      "datum": "2026-09-22T22:19:16.000Z"
+      "titel": "AUD/JPY Price Forecast: Holds losses below 112.00, retaining bearish outlook beneath 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-losses-below-11200-retaining-bearish-outlook-beneath-100-day-sma-202609230513",
+      "datum": "2026-09-23T05:13:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The British Pound sets a new September low as Fed officials argue for more",
-      "link": "https://www.fxstreet.com/news/the-british-pound-sets-a-new-september-low-as-fed-officials-argue-for-more-202609222204",
-      "datum": "2026-09-22T22:04:34.000Z"
+      "titel": "Swiss Franc weakens as US Dollar rises on hawkish Fed sentiment",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-rises-on-hawkish-fed-sentiment-202609230504",
+      "datum": "2026-09-23T05:04:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Chinese Yuan: RMB gains hinge on PBoC fix – OCBC",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-rmb-gains-hinge-on-pboc-fix-ocbc-202609222154",
-      "datum": "2026-09-22T21:54:00.000Z"
+      "titel": "India's HSBC Manufacturing PMI climbs to 55.7 in September",
+      "link": "https://www.fxstreet.com/news/indias-hsbc-manufacturing-pmi-climbs-to-557-in-september-202609230501",
+      "datum": "2026-09-23T05:01:35.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Sideways bias holds above support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-sideways-bias-holds-above-support-against-us-dollar-uob-202609222112",
-      "datum": "2026-09-22T21:12:00.000Z"
+      "titel": "EUR/USD Price Forecast: Hits fresh low since July 29, around 1.1425 as USD stays firm",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-hits-fresh-low-since-july-29-around-11425-as-usd-stays-firm-202609230459",
+      "datum": "2026-09-23T04:59:25.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Banxico expected to stay put as inflation risks block easing – Reuters",
-      "link": "https://www.fxstreet.com/news/banxico-expected-to-stay-put-as-inflation-risks-block-easing-reuters-202609222051",
-      "datum": "2026-09-22T20:51:36.000Z"
+      "titel": "Japan’s Takaichi and US President Donald Trump discuss cooperation in New York",
+      "link": "https://www.fxstreet.com/news/japans-takaichi-and-us-president-donald-trump-discuss-cooperation-in-new-york-202609230452",
+      "datum": "2026-09-23T04:52:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "ECB’s Nagel says restrictive policy cannot be ruled out",
-      "link": "https://www.fxstreet.com/news/ecbs-nagel-says-restrictive-policy-cannot-be-ruled-out-202609222037",
-      "datum": "2026-09-22T20:37:39.000Z"
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609230434",
+      "datum": "2026-09-23T04:34:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Eyes further losses near $88.50, two-week low amid easing supply risk",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-eyes-further-losses-near-8850-two-week-low-amid-easing-supply-risk-202609230419",
+      "datum": "2026-09-23T04:19:31.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Wednesday, September 23, 2026: Australian flash PMIs",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-23-2026-australian-flash-pmis/",
-      "datum": "2026-09-22T20:33:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-      "datum": "2026-09-22T20:30:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Export surge supports BoK stance – Commerzbank",
-      "link": "https://www.fxstreet.com/news/south-korean-won-export-surge-supports-bok-stance-commerzbank-202609222026",
-      "datum": "2026-09-22T20:26:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso carry cushion thins as USD/MXN breaks 100-day SMA",
-      "link": "https://www.fxstreet.com/news/mexican-peso-carry-cushion-thins-as-usd-mxn-breaks-100-day-sma-202609222024",
-      "datum": "2026-09-22T20:24:47.000Z"
+      "titel": "ADB holds China growth forecast at 4.6%, cuts inflation view as demand softens",
+      "link": "https://investinglive.com/news/adb-holds-china-growth-forecast-at-4-6-cuts-inflation-view-as-demand-softens/",
+      "datum": "2026-09-23T03:54:52.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: US and Iran officials meet at UN",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-and-iran-officials-meet-at-un/",
-      "datum": "2026-09-22T20:07:02.000Z"
+      "titel": "investingLive Asia-Pacific market news: Oil slips as US and Iran hold Qatar-mediated talks",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-slips-as-us-and-iran-hold-qatar-mediated-talks/",
+      "datum": "2026-09-23T03:44:41.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Taiwan Dollar: Equity inflows support TWD againt US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-equity-inflows-support-twd-againt-us-dollar-ocbc-202609221951",
-      "datum": "2026-09-22T19:51:00.000Z"
+      "titel": "USD/IDR Price Forecast: Falls toward moving averages near 17,800 ahead of BI decision",
+      "link": "https://www.fxstreet.com/news/usd-idr-price-forecast-falls-toward-moving-averages-near-17-800-ahead-of-bi-decision-202609230344",
+      "datum": "2026-09-23T03:44:38.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold losses altitude as peace hopes meet hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/gold-losses-altitude-as-peace-hopes-meet-hawkish-fed-bets-202609221936",
-      "datum": "2026-09-22T19:36:49.000Z"
+      "titel": "Gold edges lower on Fed-driven USD strength as markets await Trump-Xi meeting",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343",
+      "datum": "2026-09-23T03:43:06.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Asia FX: AI-driven support for regional currencies – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
-      "datum": "2026-09-22T19:17:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: Advanced PMIs in the limelight, but what about the UN General Assembly?",
-      "link": "https://www.fxstreet.com/news/forex-today-advanced-pmis-in-the-limelight-but-what-about-the-un-general-assembly-202609221854",
-      "datum": "2026-09-22T18:54:38.000Z"
+      "titel": "United States Dollar Index jumps to near 100.70 as Fed maintains hawkish rhetoric",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-jumps-to-near-10070-as-fed-maintains-hawkish-rhetoric-202609230323",
+      "datum": "2026-09-23T03:23:53.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US treasury sells $69 billion of two-year notes at a high yield of 4.787%",
-      "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-two-year-notes-at-a-high-yield-of-4-787/",
-      "datum": "2026-09-22T17:03:56.000Z"
+      "titel": "Australia jobs preview: CBA sees 15,000 gain, unemployment steady at 4.5%",
+      "link": "https://investinglive.com/news/australia-jobs-preview-cba-sees-15-000-gain-unemployment-steady-at-4-5/",
+      "datum": "2026-09-23T03:05:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asian stocks trade mixed, Taiwan’s Taiex leads on tech boost",
+      "link": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-taiwans-taiex-leads-on-tech-boost-202609230258",
+      "datum": "2026-09-23T02:58:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD falls to near $66.50 as Fed signals further rate hikes",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6650-as-fed-signals-further-rate-hikes-202609230239",
+      "datum": "2026-09-23T02:39:43.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US September Richmond composite index -2 vs +4 prior",
-      "link": "https://investinglive.com/news/us-september-richmond-composite-index-2-vs-4-prior/",
-      "datum": "2026-09-22T14:01:45.000Z"
+      "titel": "Australia jobs preview: employment seen rebounding in August, jobless rate at 4.5%",
+      "link": "https://investinglive.com/news/australia-jobs-preview-employment-seen-rebounding-in-august-jobless-rate-at-4-5/",
+      "datum": "2026-09-23T02:08:07.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "EU Consumer Confidence (flash) for September -16.5 vs -16.0 estimate",
-      "link": "https://investinglive.com/news/eu-consumer-confidence-flash-for-september-16-5-vs-16-0-estimate/",
-      "datum": "2026-09-22T14:00:53.000Z"
+      "titel": "Australia flash PMI: growth slows to Q3 low as factories contract and firms cut jobs",
+      "link": "https://investinglive.com/news/australia-flash-pmi-growth-slows-to-q3-low-as-factories-contract-and-firms-cut-jobs/",
+      "datum": "2026-09-22T23:07:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "ECB says China's industrial rise is squeezing German manufacturers out of global markets",
+      "link": "https://investinglive.com/news/ecb-says-china-s-industrial-rise-is-squeezing-german-manufacturers-out-of-global-markets/",
+      "datum": "2026-09-22T22:35:33.000Z"
     }
   ]
 }

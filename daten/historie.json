@@ -14206,7 +14206,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "-0.6M",
+      "prognose": "-0.7M",
       "vorher": "-0.6M",
       "actual": null,
       "notiz": null
@@ -14446,7 +14446,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "52B",
+      "prognose": "50B",
       "vorher": "44B",
       "actual": null,
       "notiz": null
@@ -14606,6 +14606,26 @@
       "land": "USD",
       "titel": "President Trump Speaks",
       "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-23T12:00:00-04:00|USD|FOMC Member Goolsbee Speaks": {
+      "datum": "2026-09-23T12:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-25T09:20:00-04:00|USD|FOMC Member Schmid Speaks": {
+      "datum": "2026-09-25T09:20:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Schmid Speaks",
+      "impact": "Low",
       "prognose": "",
       "vorher": "",
       "actual": null,

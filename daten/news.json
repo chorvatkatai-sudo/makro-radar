@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-23T05:15:25.056Z",
+  "stand": "2026-09-23T09:01:15.358Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Holds losses below 112.00, retaining bearish outlook beneath 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-holds-losses-below-11200-retaining-bearish-outlook-beneath-100-day-sma-202609230513",
-      "datum": "2026-09-23T05:13:04.000Z"
+      "titel": "Euro remains depressed as German politics, France's debt offset strong PMI figures",
+      "link": "https://www.fxstreet.com/news/euro-remains-depressed-as-german-politics-frances-debt-offset-strong-pmi-figures-202609230857",
+      "datum": "2026-09-23T08:57:48.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc weakens as US Dollar rises on hawkish Fed sentiment",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-rises-on-hawkish-fed-sentiment-202609230504",
-      "datum": "2026-09-23T05:04:09.000Z"
+      "titel": "Euro flat lines above 180.00 vs weak Yen as German political turmoil offsets upbeat PMIs",
+      "link": "https://www.fxstreet.com/news/euro-flat-lines-above-18000-vs-weak-yen-as-german-political-turmoil-offsets-upbeat-pmis-202609230857",
+      "datum": "2026-09-23T08:57:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India's HSBC Manufacturing PMI climbs to 55.7 in September",
-      "link": "https://www.fxstreet.com/news/indias-hsbc-manufacturing-pmi-climbs-to-557-in-september-202609230501",
-      "datum": "2026-09-23T05:01:35.000Z"
+      "titel": "Swiss Franc: SNB preview signals steady policy – DBS",
+      "link": "https://www.fxstreet.com/news/swiss-franc-snb-preview-signals-steady-policy-dbs-202609230852",
+      "datum": "2026-09-23T08:52:04.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Hits fresh low since July 29, around 1.1425 as USD stays firm",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-hits-fresh-low-since-july-29-around-11425-as-usd-stays-firm-202609230459",
-      "datum": "2026-09-23T04:59:25.000Z"
+      "titel": "S&P Global PMIs expected to show resilient US economic growth in September",
+      "link": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
+      "datum": "2026-09-23T08:45:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japan’s Takaichi and US President Donald Trump discuss cooperation in New York",
-      "link": "https://www.fxstreet.com/news/japans-takaichi-and-us-president-donald-trump-discuss-cooperation-in-new-york-202609230452",
-      "datum": "2026-09-23T04:52:23.000Z"
+      "titel": "Dow Jones futures rise ahead of US PMI data",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-ahead-of-us-pmi-data-202609230834",
+      "datum": "2026-09-23T08:34:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609230434",
-      "datum": "2026-09-23T04:34:58.000Z"
+      "titel": "United Kingdom flash Services PMI expands slower-than-expected to 51.7 in September",
+      "link": "https://www.fxstreet.com/news/united-kingdom-flash-services-pmi-expands-slower-than-expected-to-517-in-september-202609230834",
+      "datum": "2026-09-23T08:34:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK September flash services PMI 51.7 vs 52.0 expected",
+      "link": "https://investinglive.com/news/uk-september-flash-services-pmi-xx-vs-52-0-expected/",
+      "datum": "2026-09-23T08:30:11.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Eyes further losses near $88.50, two-week low amid easing supply risk",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-eyes-further-losses-near-8850-two-week-low-amid-easing-supply-risk-202609230419",
-      "datum": "2026-09-23T04:19:31.000Z"
+      "titel": "Oil: Geopolitics drive volatile price path – Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-geopolitics-drive-volatile-price-path-rabobank-202609230824",
+      "datum": "2026-09-23T08:24:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar slides to one-week low, below 0.7100 ahead of jobs data on Thursday",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-one-week-low-below-07100-ahead-of-jobs-data-on-thursday-202609230821",
+      "datum": "2026-09-23T08:21:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Downside still favoured toward 158.40 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-downside-still-favoured-toward-15840-against-us-dollar-uob-202609230809",
+      "datum": "2026-09-23T08:09:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Eurozone flash Manufacturing PMI remains steady at 52.7 in September",
+      "link": "https://www.fxstreet.com/news/eurozone-flash-manufacturing-pmi-remains-steady-at-527-in-september-202609230804",
+      "datum": "2026-09-23T08:04:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone PMI jumps as services surge, price pressures keep ECB October rate hike in play",
+      "link": "https://investinglive.com/news/eurozone-pmi-jumps-as-services-surge-price-pressures-keep-ecb-october-rate-hike-in-play/",
+      "datum": "2026-09-23T08:01:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany September flash manufacturing PMI 53.8 vs 54.0 expected",
+      "link": "https://investinglive.com/news/germany-september-flash-manufacturing-pmi-xx-vs-54-0-expected/",
+      "datum": "2026-09-23T07:30:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France PMI jumps back into expansion in September but inflation pressures complicate the ECB outlook",
+      "link": "https://investinglive.com/news/france-pmi-jumps-back-into-expansion-in-september-but-inflation-pressures-complicate-the-ecb-outlook/",
+      "datum": "2026-09-23T07:16:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-48/",
+      "datum": "2026-09-23T06:36:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Euro area PMIs put inflation pressures and the ECB rate path in focus",
+      "link": "https://investinglive.com/news/euro-area-pmis-put-inflation-pressures-and-the-ecb-rate-path-in-focus/",
+      "datum": "2026-09-23T06:06:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee declines after two-day gain as hawkish Fed narrative dominates",
+      "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
+      "datum": "2026-09-23T05:26:13.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "ADB holds China growth forecast at 4.6%, cuts inflation view as demand softens",
       "link": "https://investinglive.com/news/adb-holds-china-growth-forecast-at-4-6-cuts-inflation-view-as-demand-softens/",
       "datum": "2026-09-23T03:54:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil slips as US and Iran hold Qatar-mediated talks",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-slips-as-us-and-iran-hold-qatar-mediated-talks/",
-      "datum": "2026-09-23T03:44:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "USD/IDR Price Forecast: Falls toward moving averages near 17,800 ahead of BI decision",
-      "link": "https://www.fxstreet.com/news/usd-idr-price-forecast-falls-toward-moving-averages-near-17-800-ahead-of-bi-decision-202609230344",
-      "datum": "2026-09-23T03:44:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold edges lower on Fed-driven USD strength as markets await Trump-Xi meeting",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343",
-      "datum": "2026-09-23T03:43:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index jumps to near 100.70 as Fed maintains hawkish rhetoric",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-jumps-to-near-10070-as-fed-maintains-hawkish-rhetoric-202609230323",
-      "datum": "2026-09-23T03:23:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia jobs preview: CBA sees 15,000 gain, unemployment steady at 4.5%",
-      "link": "https://investinglive.com/news/australia-jobs-preview-cba-sees-15-000-gain-unemployment-steady-at-4-5/",
-      "datum": "2026-09-23T03:05:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Asian stocks trade mixed, Taiwan’s Taiex leads on tech boost",
-      "link": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-taiwans-taiex-leads-on-tech-boost-202609230258",
-      "datum": "2026-09-23T02:58:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD falls to near $66.50 as Fed signals further rate hikes",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6650-as-fed-signals-further-rate-hikes-202609230239",
-      "datum": "2026-09-23T02:39:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia jobs preview: employment seen rebounding in August, jobless rate at 4.5%",
-      "link": "https://investinglive.com/news/australia-jobs-preview-employment-seen-rebounding-in-august-jobless-rate-at-4-5/",
-      "datum": "2026-09-23T02:08:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia flash PMI: growth slows to Q3 low as factories contract and firms cut jobs",
-      "link": "https://investinglive.com/news/australia-flash-pmi-growth-slows-to-q3-low-as-factories-contract-and-firms-cut-jobs/",
-      "datum": "2026-09-22T23:07:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "ECB says China's industrial rise is squeezing German manufacturers out of global markets",
-      "link": "https://investinglive.com/news/ecb-says-china-s-industrial-rise-is-squeezing-german-manufacturers-out-of-global-markets/",
-      "datum": "2026-09-22T22:35:33.000Z"
     }
   ]
 }

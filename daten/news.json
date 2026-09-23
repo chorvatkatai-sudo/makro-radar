@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-23T10:33:13.406Z",
+  "stand": "2026-09-23T15:14:16.641Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "British Pound tests 12-week lows amid mixed UK PMIs and US Dollar strength",
-      "link": "https://www.fxstreet.com/news/british-pound-tests-12-week-lows-amid-mixed-uk-pmis-and-us-dollar-strength-202609231028",
-      "datum": "2026-09-23T10:28:52.000Z"
+      "titel": "Iran reviews US response to proposal aimed at ending hostilities – Reuters",
+      "link": "https://www.fxstreet.com/news/iran-reviews-us-response-to-proposal-aimed-at-ending-hostilities-202609231508",
+      "datum": "2026-09-23T15:08:17.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: PMI strength limits downside against US Dollar – BBH",
-      "link": "https://www.fxstreet.com/news/euro-pmi-strength-limits-downside-against-us-dollar-bbh-202609230958",
-      "datum": "2026-09-23T09:58:03.000Z"
+      "titel": "Euro slides as strong US PMI data lifts Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/euro-slides-as-strong-us-pmi-data-lifts-fed-rate-hike-bets-202609231500",
+      "datum": "2026-09-23T15:00:57.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iranian official says reopening the Strait of Hormuz was discussed in U.S. talks",
+      "link": "https://investinglive.com/news/iranian-official-says-reopening-the-strait-of-hormuz-was-discussed-in-u-s-talks/",
+      "datum": "2026-09-23T14:59:10.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD drifts toward $4.300 with bears gaining traction",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-drifts-toward-4300-with-bears-gaining-traction-202609230954",
-      "datum": "2026-09-23T09:54:16.000Z"
+      "titel": "Brazil: Growth outlook and inflation risks – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brazil-growth-outlook-and-inflation-risks-societe-generale-202609231454",
+      "datum": "2026-09-23T14:54:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iranian president says Iran is open to diplomacy but will defend its interests in Hormuz",
+      "link": "https://investinglive.com/news/iranian-president-says-iran-is-open-to-diplomacy-but-will-defend-its-interests-in-hormuz/",
+      "datum": "2026-09-23T14:53:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: Bearish outlook retained below 0.7140 - UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-bearish-outlook-retained-below-07140-uob-202609230938",
-      "datum": "2026-09-23T09:38:38.000Z"
+      "titel": "Fed's Barr: Further rate hikes needed for timely return to 2% inflation",
+      "link": "https://www.fxstreet.com/news/feds-barr-further-rate-hikes-needed-for-timely-return-to-2-inflation-202609231443",
+      "datum": "2026-09-23T14:43:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609230930",
-      "datum": "2026-09-23T09:30:16.000Z"
+      "titel": "Australian Dollar tumbles amid stronger US PMIs, softer Australian data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-stronger-us-pmis-softer-australian-data-202609231440",
+      "datum": "2026-09-23T14:40:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Staying strong as Fed expectations hold – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-staying-strong-as-fed-expectations-hold-ing-202609230926",
-      "datum": "2026-09-23T09:26:16.000Z"
+      "titel": "WTI: Headline risk rises as positioning stays elevated - TD Securities",
+      "link": "https://www.fxstreet.com/news/wti-headline-risk-rises-as-positioning-stays-elevated-td-securities-202609231432",
+      "datum": "2026-09-23T14:32:26.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound holds steady against Japanese Yen after mixed UK PMIs",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-against-japanese-yen-after-mixed-uk-pmis-202609230921",
-      "datum": "2026-09-23T09:21:18.000Z"
+      "titel": "India: Russian dependence and security focus – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/india-russian-dependence-and-security-focus-standard-chartered-202609231409",
+      "datum": "2026-09-23T14:09:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US September S&P Global flash services PMI 58.7 vs 56.0 expected",
+      "link": "https://investinglive.com/news/us-september-s-p-global-flash-services-pmi-58-7-vs-56-0-expected/",
+      "datum": "2026-09-23T13:51:27.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Hungarian Forint: Cautious MNB stance supports HUF – Commerzbank",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-cautious-mnb-stance-supports-huf-commerzbank-202609230911",
-      "datum": "2026-09-23T09:11:42.000Z"
+      "titel": "Canadian Dollar: Bearish trend targets 1.4125 – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bearish-trend-targets-14125-scotiabank-202609231346",
+      "datum": "2026-09-23T13:46:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro dips against Canadian Dollar following HCOB PMI data release",
-      "link": "https://www.fxstreet.com/news/euro-dips-against-canadian-dollar-following-hcob-pmi-data-release-202609230911",
-      "datum": "2026-09-23T09:11:39.000Z"
+      "titel": "Swiss Franc weakens ahead of SNB rate decision",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-ahead-of-snb-rate-decision-202609231335",
+      "datum": "2026-09-23T13:35:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro remains depressed as German politics, France's debt offset strong PMI figures",
-      "link": "https://www.fxstreet.com/news/euro-remains-depressed-as-german-politics-frances-debt-offset-strong-pmi-figures-202609230857",
-      "datum": "2026-09-23T08:57:48.000Z"
+      "titel": "British Pound: BoE repricing risk keeps Pound vulnerable – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-keeps-pound-vulnerable-bbh-202609231324",
+      "datum": "2026-09-23T13:24:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Brent crude retakes $100 as dollar rises, yields climb and stocks slip",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-brent-crude-retakes-100-as-dollar-rises-yields-climb-and-stocks-slip/",
+      "datum": "2026-09-23T11:58:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro flat lines above 180.00 vs weak Yen as German political turmoil offsets upbeat PMIs",
-      "link": "https://www.fxstreet.com/news/euro-flat-lines-above-18000-vs-weak-yen-as-german-political-turmoil-offsets-upbeat-pmis-202609230857",
-      "datum": "2026-09-23T08:57:26.000Z"
+      "titel": "Gold falls as strong US PMI data gives Fed room to raise rates again",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
+      "datum": "2026-09-23T11:00:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Breaking: US S&P Global Composite PMI came in at 58.4 in September",
+      "link": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
+      "datum": "2026-09-23T08:45:00.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -83,36 +113,6 @@
       "titel": "Eurozone PMI jumps as services surge, price pressures keep ECB October rate hike in play",
       "link": "https://investinglive.com/news/eurozone-pmi-jumps-as-services-surge-price-pressures-keep-ecb-october-rate-hike-in-play/",
       "datum": "2026-09-23T08:01:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany September flash manufacturing PMI 53.8 vs 54.0 expected",
-      "link": "https://investinglive.com/news/germany-september-flash-manufacturing-pmi-xx-vs-54-0-expected/",
-      "datum": "2026-09-23T07:30:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France PMI jumps back into expansion in September but inflation pressures complicate the ECB outlook",
-      "link": "https://investinglive.com/news/france-pmi-jumps-back-into-expansion-in-september-but-inflation-pressures-complicate-the-ecb-outlook/",
-      "datum": "2026-09-23T07:16:03.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-48/",
-      "datum": "2026-09-23T06:36:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Euro area PMIs put inflation pressures and the ECB rate path in focus",
-      "link": "https://investinglive.com/news/euro-area-pmis-put-inflation-pressures-and-the-ecb-rate-path-in-focus/",
-      "datum": "2026-09-23T06:06:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee declines after two-day gain as hawkish Fed narrative dominates",
-      "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526",
-      "datum": "2026-09-23T05:26:13.000Z"
     }
   ]
 }

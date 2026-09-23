@@ -875,7 +875,7 @@
     "title": "MBA 30-Year Mortgage Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "7.12",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -885,7 +885,7 @@
     "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "154.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -895,7 +895,7 @@
     "title": "MBA Mortgage Market Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "227.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -905,7 +905,7 @@
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "611",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -915,7 +915,7 @@
     "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1135,7 +1135,7 @@
     "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "2.969",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1145,7 +1145,7 @@
     "title": "EIA Cushing Crude Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "2.266",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1155,7 +1155,7 @@
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.428",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1165,7 +1165,7 @@
     "title": "EIA Crude Oil Imports Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.369",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1175,7 +1175,7 @@
     "title": "EIA Distillate Fuel Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.068",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1185,7 +1185,7 @@
     "title": "EIA Gasoline Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.686",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1195,7 +1195,7 @@
     "title": "EIA Refinery Crude Runs Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.519",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1205,7 +1205,7 @@
     "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.346",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1215,7 +1215,7 @@
     "title": "EIA Gasoline Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.054",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -1455,7 +1455,7 @@
     "title": "Retail Sales MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.1",
+    "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1485,7 +1485,7 @@
     "title": "Retail Sales YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "2.3",
+    "previous": "2.3%",
     "actual": null,
     "quelle": "tradingview"
   },

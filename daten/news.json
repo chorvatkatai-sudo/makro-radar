@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-24T08:56:53.754Z",
+  "stand": "2026-09-24T10:51:03.380Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,69 +8,69 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro gains against Canadian Dollar on upbeat German IFO Business Index",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-on-upbeat-german-ifo-business-index-202609240846",
-      "datum": "2026-09-24T08:46:59.000Z"
+      "titel": "US yields jump to multi-year highs on Fed tightening bets, bond market turmoil",
+      "link": "https://www.fxstreet.com/news/us-yields-jump-to-multi-year-highs-on-fed-tightening-bets-bond-market-turmoil-202609241037",
+      "datum": "2026-09-24T10:37:49.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD plummets to near $63.60 after Fed Williams’ hawkish remarks",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-to-near-6360-after-fed-williams-hawkish-remarks-202609240846",
-      "datum": "2026-09-24T08:46:56.000Z"
+      "titel": "BoE’s Dhingra says financial conditions have already done much of the tightening",
+      "link": "https://www.fxstreet.com/news/boes-dhingra-says-financial-conditions-have-already-done-much-of-the-tightening-202609241005",
+      "datum": "2026-09-24T10:05:56.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "South African Rand: SARB hikes again but environment stays tough – Commerzbank",
-      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-hikes-again-but-environment-stays-tough-commerzbank-202609240844",
-      "datum": "2026-09-24T08:44:34.000Z"
+      "titel": "Mexican Peso: Downward momentum returns after 200-DMA break – Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-downward-momentum-returns-after-200-dma-break-societe-generale-202609240957",
+      "datum": "2026-09-24T09:57:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Fiscal risks point lower against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/euro-fiscal-risks-point-lower-against-us-dollar-mufg-202609240833",
-      "datum": "2026-09-24T08:33:59.000Z"
+      "titel": "PBoC vows to maintain loose monetary policy, keep Chinese Yuan stable",
+      "link": "https://www.fxstreet.com/news/pboc-vows-to-maintain-loose-monetary-policy-keep-chinese-yuan-stable-202609240946",
+      "datum": "2026-09-24T09:46:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed’s Williams: Big challenge is on inflation",
-      "link": "https://www.fxstreet.com/news/feds-williams-big-challenge-is-on-inflation-202609240821",
-      "datum": "2026-09-24T08:21:19.000Z"
+      "titel": "Euro: Downside risks start to shrink against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-start-to-shrink-against-us-dollar-ing-202609240942",
+      "datum": "2026-09-24T09:42:21.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Rally starting to look stretched – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-rally-starting-to-look-stretched-ing-202609240819",
-      "datum": "2026-09-24T08:19:33.000Z"
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609240930",
+      "datum": "2026-09-24T09:30:18.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc dips to fresh four-month lows as SNB leaves interest rates at 0%",
-      "link": "https://www.fxstreet.com/news/swiss-franc-dips-to-fresh-four-month-lows-as-snb-leaves-interest-rates-at-0-202609240818",
-      "datum": "2026-09-24T08:18:55.000Z"
+      "titel": "US Dollar: Higher yields support currency – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-support-currency-mufg-202609240928",
+      "datum": "2026-09-24T09:28:33.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss National Bank's Martin: Inflation likely to remain elevated for some time",
-      "link": "https://www.fxstreet.com/news/swiss-national-banks-martin-inflation-likely-to-remain-elevated-for-some-time-202609240816",
-      "datum": "2026-09-24T08:16:27.000Z"
+      "titel": "Euro jumps vs Swiss Franc after SNB decision, German IFO data supports",
+      "link": "https://www.fxstreet.com/news/euro-jumps-vs-swiss-franc-after-snb-decision-german-ifo-data-supports-202609240928",
+      "datum": "2026-09-24T09:28:01.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss National Bank's Tschudin: GDP growth exceptionally strong in Q2",
-      "link": "https://www.fxstreet.com/news/swiss-national-banks-tschudin-gdp-growth-exceptionally-strong-in-q2-202609240814",
-      "datum": "2026-09-24T08:14:17.000Z"
+      "titel": "United States Dollar Index gains ahead of weekly Initial Jobless Claims data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ahead-of-weekly-initial-jobless-claims-data-202609240919",
+      "datum": "2026-09-24T09:19:07.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss National Bank's Schlegel: Will continue to monitor situation and adjust policy if necessary",
-      "link": "https://www.fxstreet.com/news/swiss-national-banks-schlegel-will-continue-to-monitor-situation-and-adjust-policy-if-necessary-202609240811",
-      "datum": "2026-09-24T08:11:08.000Z"
+      "titel": "Brazilian Real: Exchange rate seen weaker into year-end – Rabobank",
+      "link": "https://www.fxstreet.com/news/brazilian-real-exchange-rate-seen-weaker-into-year-end-rabobank-202609240915",
+      "datum": "2026-09-24T09:15:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Dow Jones futures drop as Fed rate hike expectations surge",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-fed-rate-hike-expectations-surge-202609240809",
-      "datum": "2026-09-24T08:09:18.000Z"
+      "titel": "Euro holds form against British Pound amid strong Eurozone data, hawkish BoE comments",
+      "link": "https://www.fxstreet.com/news/euro-holds-form-against-british-pound-amid-strong-eurozone-data-hawkish-boe-comments-202609240909",
+      "datum": "2026-09-24T09:09:05.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -91,16 +91,16 @@
       "datum": "2026-09-24T06:37:06.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
+      "datum": "2026-09-24T05:38:45.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "Brent crude above $100 and 10-year Treasury yields above 5% give markets a double test",
       "link": "https://investinglive.com/news/brent-crude-above-100-and-10-year-treasury-yields-above-5-give-markets-a-double-test/",
       "datum": "2026-09-24T04:38:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold struggles near one-week low as traders await Trump-Xi meeting amid Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
-      "datum": "2026-09-24T03:51:01.000Z"
     },
     {
       "quelle": "ForexLive",

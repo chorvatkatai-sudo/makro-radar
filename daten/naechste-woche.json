@@ -322,20 +322,20 @@
   {
     "date": "2026-09-29T12:30:00.000Z",
     "country": "CAD",
-    "title": "GDP MoM",
+    "title": "GDP MoM Prel",
     "impact": "Medium",
-    "forecast": "0%",
-    "previous": "0.3%",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-29T12:30:00.000Z",
     "country": "CAD",
-    "title": "GDP MoM Prel",
+    "title": "GDP MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "",
+    "forecast": "0%",
+    "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1414,7 +1414,7 @@
     "country": "JPY",
     "title": "S&P Global Manufacturing PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "54.1",
     "previous": "54.9",
     "actual": null,
     "quelle": "tradingview"
@@ -1614,7 +1614,7 @@
     "country": "USD",
     "title": "S&P Global Manufacturing PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "57",
     "previous": "53.9",
     "actual": null,
     "quelle": "tradingview"

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-24T05:15:28.997Z",
+  "stand": "2026-09-24T08:56:53.754Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,15 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Trades below 1.1400, near two-month low ahead of Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-trades-below-11400-near-two-month-low-ahead-of-trump-xi-summit-202609240453",
-      "datum": "2026-09-24T04:53:19.000Z"
+      "titel": "Euro gains against Canadian Dollar on upbeat German IFO Business Index",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-on-upbeat-german-ifo-business-index-202609240846",
+      "datum": "2026-09-24T08:46:59.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc strengthens ahead of SNB policy decision",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-ahead-of-snb-policy-decision-202609240446",
-      "datum": "2026-09-24T04:46:39.000Z"
+      "titel": "Silver Price Forecast: XAG/USD plummets to near $63.60 after Fed Williams’ hawkish remarks",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-to-near-6360-after-fed-williams-hawkish-remarks-202609240846",
+      "datum": "2026-09-24T08:46:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South African Rand: SARB hikes again but environment stays tough – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-hikes-again-but-environment-stays-tough-commerzbank-202609240844",
+      "datum": "2026-09-24T08:44:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Fiscal risks point lower against US Dollar - MUFG",
+      "link": "https://www.fxstreet.com/news/euro-fiscal-risks-point-lower-against-us-dollar-mufg-202609240833",
+      "datum": "2026-09-24T08:33:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Williams: Big challenge is on inflation",
+      "link": "https://www.fxstreet.com/news/feds-williams-big-challenge-is-on-inflation-202609240821",
+      "datum": "2026-09-24T08:21:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Rally starting to look stretched – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-rally-starting-to-look-stretched-ing-202609240819",
+      "datum": "2026-09-24T08:19:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc dips to fresh four-month lows as SNB leaves interest rates at 0%",
+      "link": "https://www.fxstreet.com/news/swiss-franc-dips-to-fresh-four-month-lows-as-snb-leaves-interest-rates-at-0-202609240818",
+      "datum": "2026-09-24T08:18:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss National Bank's Martin: Inflation likely to remain elevated for some time",
+      "link": "https://www.fxstreet.com/news/swiss-national-banks-martin-inflation-likely-to-remain-elevated-for-some-time-202609240816",
+      "datum": "2026-09-24T08:16:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss National Bank's Tschudin: GDP growth exceptionally strong in Q2",
+      "link": "https://www.fxstreet.com/news/swiss-national-banks-tschudin-gdp-growth-exceptionally-strong-in-q2-202609240814",
+      "datum": "2026-09-24T08:14:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss National Bank's Schlegel: Will continue to monitor situation and adjust policy if necessary",
+      "link": "https://www.fxstreet.com/news/swiss-national-banks-schlegel-will-continue-to-monitor-situation-and-adjust-policy-if-necessary-202609240811",
+      "datum": "2026-09-24T08:11:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones futures drop as Fed rate hike expectations surge",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-fed-rate-hike-expectations-surge-202609240809",
+      "datum": "2026-09-24T08:09:18.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany business sentiment improves further in September despite price concerns - Ifo",
+      "link": "https://investinglive.com/news/germany-business-sentiment-improves-further-in-september-despite-price-concerns-ifo/",
+      "datum": "2026-09-24T08:01:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France confidence stays weak in September as inflation pressures cloud the outlook",
+      "link": "https://investinglive.com/news/france-confidence-stays-weak-in-september-as-inflation-pressures-cloud-the-outlook/",
+      "datum": "2026-09-24T06:45:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-49/",
+      "datum": "2026-09-24T06:37:06.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -26,25 +98,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold steadies, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609240435",
-      "datum": "2026-09-24T04:35:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar consolidates around 0.5675 vs USD as bears await Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-consolidates-around-05675-vs-usd-as-bears-await-trump-xi-summit-202609240408",
-      "datum": "2026-09-24T04:08:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Softens below 180.00, bearish bias persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-below-18000-bearish-bias-persists-below-100-day-sma-202609240407",
-      "datum": "2026-09-24T04:07:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold struggles below $4,300, one-week low as Fed hike bets and Iran risks underpin USD",
+      "titel": "Gold struggles near one-week low as traders await Trump-Xi meeting amid Fed hike bets",
       "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
       "datum": "2026-09-24T03:51:01.000Z"
     },
@@ -55,64 +109,10 @@
       "datum": "2026-09-24T03:33:32.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar holds steady amid oil uncertainties, hawkish Fed sentiment",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-amid-oil-uncertainties-hawkish-fed-sentiment-202609240324",
-      "datum": "2026-09-24T03:24:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index holds gains slightly above 101 amid strong US growth prospects",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-slightly-above-101-amid-strong-us-growth-prospects-202609240324",
-      "datum": "2026-09-24T03:24:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD falls to near $64.00 amid rising Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6400-amid-rising-fed-rate-hike-odds-202609240305",
-      "datum": "2026-09-24T03:05:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen gathers strength amid surging 10-year JGB yields",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-amid-surging-10-year-jgb-yields-202609240216",
-      "datum": "2026-09-24T02:16:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar declines against Japanese Yen following mixed jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-against-japanese-yen-following-mixed-jobs-data-202609240204",
-      "datum": "2026-09-24T02:04:41.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "AUD little changed: Australia jobless rate hits 4.6%, highest since 2021, participation outpaces jobs beat",
       "link": "https://investinglive.com/news/aud-little-changed-australia-jobless-rate-hits-4-6-highest-since-2021-participation-outpaces-jobs-beat/",
       "datum": "2026-09-24T01:53:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Heads up: China markets shut Friday for Mid-Autumn Festival, with week-long Golden Week break ahead",
-      "link": "https://investinglive.com/news/heads-up-china-markets-shut-friday-for-mid-autumn-festival-with-week-long-golden-week-break-ahead/",
-      "datum": "2026-09-24T01:35:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australian jobs data for August 2026. Unemployment rate 4.6% (expected 4.5%, prior 4.5%)",
-      "link": "https://investinglive.com/news/australian-jobs-data-for-august-2026-unemployment-rate-4-6-expected-4-5-prior-4-5/",
-      "datum": "2026-09-24T01:30:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan flash PMI: growth slows to four-month low as price pressures stay intense",
-      "link": "https://investinglive.com/news/japan-flash-pmi-growth-slows-to-four-month-low-as-price-pressures-stay-intense/",
-      "datum": "2026-09-24T00:48:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US and China extend Busan trade truce to January 10 as Xi arrives for Trump summit",
-      "link": "https://investinglive.com/news/us-and-china-extend-busan-trade-truce-to-january-10-as-xi-arrives-for-trump-summit/",
-      "datum": "2026-09-23T22:28:20.000Z"
     }
   ]
 }

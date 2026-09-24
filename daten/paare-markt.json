@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-24T05:15:28.999Z",
+  "stand": "2026-09-24T08:56:53.756Z",
   "ausBriefing": "2026-09-18",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -4,
       "tiltCot": -1,
-      "tiltZins": -6,
-      "tiltGesamt": -7,
-      "score": -11,
+      "tiltZins": -8,
+      "tiltGesamt": -9,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB am Ende ihres Erhöhungspfads — klar dollar-freundlich. Die positiven Euro-PMIs (Gesamt-Index 16-Monats-Hoch) mildern das Minus aber etwas ab. Track-Record hier schwach (31%) → bewusst klein.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 5,
       "tiltCot": -3,
-      "tiltZins": 0,
-      "tiltGesamt": -3,
-      "score": 2,
+      "tiltZins": 1,
+      "tiltGesamt": -2,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 3,
-      "tiltZins": 3,
-      "tiltGesamt": 6,
-      "score": 7,
+      "tiltZins": 2,
+      "tiltGesamt": 5,
+      "score": 6,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

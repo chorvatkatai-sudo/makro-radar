@@ -1,11 +1,17 @@
 {
-  "stand": "2026-09-24T15:37:47.717Z",
+  "stand": "2026-09-24T16:22:03.824Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar remains under pressure, RBNZ rate hike bets cushion losses",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-rbnz-rate-hike-bets-cushion-losses-202609241608",
+      "datum": "2026-09-24T16:08:29.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Europe: Rightward risks build – Standard Chartered",
@@ -79,12 +85,6 @@
       "datum": "2026-09-24T14:18:01.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro: Weak as Fed credibility supports Dollar near term – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-weak-as-fed-credibility-supports-dollar-near-term-commerzbank-202609241415",
-      "datum": "2026-09-24T14:15:02.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US new-home sales for the month of August 0.684 million versus 0.615 million estimate",
       "link": "https://investinglive.com/news/us-new-home-sales-for-the-month-of-august-0-684-million-versus-0-615-million-estimate/",
@@ -110,7 +110,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold bears tighten their grip as Fed rate hike bets rise",
+      "titel": "Gold hits one-week low as hawkish Fed outlook drives yields to multi-year highs",
       "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
       "datum": "2026-09-24T10:54:28.000Z"
     }

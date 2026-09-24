@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-23T19:21:39.765Z",
+  "stand": "2026-09-24T05:15:29.499Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -12,12 +12,12 @@
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 52,
-    "treffer": 31,
-    "quote": 60,
-    "schnittGerichtet": 0.107,
-    "schnittBetrag": 0.35,
-    "pWert": 0.212,
+    "faelle": 54,
+    "treffer": 32,
+    "quote": 59,
+    "schnittGerichtet": 0.103,
+    "schnittBetrag": 0.359,
+    "pWert": 0.22,
     "belastbar": false
   },
   "jeWaehrung": {
@@ -107,12 +107,12 @@
       "belastbar": false
     },
     "AUD": {
-      "faelle": 12,
-      "treffer": 5,
-      "quote": 42,
-      "schnittGerichtet": 0.066,
-      "schnittBetrag": 0.516,
-      "pWert": 0.774,
+      "faelle": 14,
+      "treffer": 6,
+      "quote": 43,
+      "schnittGerichtet": 0.057,
+      "schnittBetrag": 0.528,
+      "pWert": 0.791,
       "belastbar": false
     },
     "GBP": {

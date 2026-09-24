@@ -14640,6 +14640,16 @@
       "vorher": "3.90|2.4",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-24T21:30:00-04:00|AUD|NAB Quarterly Business Confidence": {
+      "datum": "2026-09-24T21:30:00-04:00",
+      "land": "AUD",
+      "titel": "NAB Quarterly Business Confidence",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-19",
+      "actual": null,
+      "notiz": null
     }
   }
 }

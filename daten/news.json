@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-24T10:51:03.380Z",
+  "stand": "2026-09-24T15:37:47.717Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "US yields jump to multi-year highs on Fed tightening bets, bond market turmoil",
-      "link": "https://www.fxstreet.com/news/us-yields-jump-to-multi-year-highs-on-fed-tightening-bets-bond-market-turmoil-202609241037",
-      "datum": "2026-09-24T10:37:49.000Z"
+      "titel": "Europe: Rightward risks build – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/europe-rightward-risks-build-standard-chartered-202609241528",
+      "datum": "2026-09-24T15:28:44.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "BoE’s Dhingra says financial conditions have already done much of the tightening",
-      "link": "https://www.fxstreet.com/news/boes-dhingra-says-financial-conditions-have-already-done-much-of-the-tightening-202609241005",
-      "datum": "2026-09-24T10:05:56.000Z"
+      "titel": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528",
+      "datum": "2026-09-24T15:28:16.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Mexican Peso: Downward momentum returns after 200-DMA break – Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexican-peso-downward-momentum-returns-after-200-dma-break-societe-generale-202609240957",
-      "datum": "2026-09-24T09:57:14.000Z"
+      "titel": "Germany: Resilient but modest recovery – Commerzbank",
+      "link": "https://www.fxstreet.com/news/germany-resilient-but-modest-recovery-commerzbank-202609241519",
+      "datum": "2026-09-24T15:19:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "PBoC vows to maintain loose monetary policy, keep Chinese Yuan stable",
-      "link": "https://www.fxstreet.com/news/pboc-vows-to-maintain-loose-monetary-policy-keep-chinese-yuan-stable-202609240946",
-      "datum": "2026-09-24T09:46:20.000Z"
+      "titel": "Xi pitches cooperation, friendship, and fairness amid overhanging trade war truce",
+      "link": "https://www.fxstreet.com/news/xi-pitches-cooperation-friendship-and-fairness-amid-overhanging-trade-war-truce-202609241516",
+      "datum": "2026-09-24T15:16:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Downside risks start to shrink against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-start-to-shrink-against-us-dollar-ing-202609240942",
-      "datum": "2026-09-24T09:42:21.000Z"
+      "titel": "United States: Bifurcated revival with advanced sectors – ING",
+      "link": "https://www.fxstreet.com/news/united-states-bifurcated-revival-with-advanced-sectors-ing-202609241505",
+      "datum": "2026-09-24T15:05:31.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+      "datum": "2026-09-24T15:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609240930",
-      "datum": "2026-09-24T09:30:18.000Z"
+      "titel": "US Dollar: Fed resilience supports gains – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-resilience-supports-gains-bbh-202609241448",
+      "datum": "2026-09-24T14:48:02.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Higher yields support currency – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-support-currency-mufg-202609240928",
-      "datum": "2026-09-24T09:28:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro jumps vs Swiss Franc after SNB decision, German IFO data supports",
-      "link": "https://www.fxstreet.com/news/euro-jumps-vs-swiss-franc-after-snb-decision-german-ifo-data-supports-202609240928",
-      "datum": "2026-09-24T09:28:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index gains ahead of weekly Initial Jobless Claims data",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ahead-of-weekly-initial-jobless-claims-data-202609240919",
-      "datum": "2026-09-24T09:19:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Brazilian Real: Exchange rate seen weaker into year-end – Rabobank",
-      "link": "https://www.fxstreet.com/news/brazilian-real-exchange-rate-seen-weaker-into-year-end-rabobank-202609240915",
-      "datum": "2026-09-24T09:15:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds form against British Pound amid strong Eurozone data, hawkish BoE comments",
-      "link": "https://www.fxstreet.com/news/euro-holds-form-against-british-pound-amid-strong-eurozone-data-hawkish-boe-comments-202609240909",
-      "datum": "2026-09-24T09:09:05.000Z"
+      "titel": "Fed's Paulson warns more hikes possible as inflation fight hardens",
+      "link": "https://www.fxstreet.com/news/feds-paulson-warns-more-hikes-possible-as-inflation-fight-hardens-202609241447",
+      "datum": "2026-09-24T14:47:10.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Germany business sentiment improves further in September despite price concerns - Ifo",
-      "link": "https://investinglive.com/news/germany-business-sentiment-improves-further-in-september-despite-price-concerns-ifo/",
-      "datum": "2026-09-24T08:01:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France confidence stays weak in September as inflation pressures cloud the outlook",
-      "link": "https://investinglive.com/news/france-confidence-stays-weak-in-september-as-inflation-pressures-cloud-the-outlook/",
-      "datum": "2026-09-24T06:45:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-49/",
-      "datum": "2026-09-24T06:37:06.000Z"
+      "titel": "Trump and Xi meet at the White House: What traders should watch",
+      "link": "https://investinglive.com/news/trump-and-xi-meet-at-the-white-house-what-traders-should-watch/",
+      "datum": "2026-09-24T14:38:30.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
-      "datum": "2026-09-24T05:38:45.000Z"
+      "titel": "Euro hovers near two-month low as hawkish Fed outlook weighs",
+      "link": "https://www.fxstreet.com/news/euro-hovers-near-two-month-low-as-hawkish-fed-outlook-weighs-202609241424",
+      "datum": "2026-09-24T14:24:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar remains under pressure despite stronger-than-expected jobs data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-despite-stronger-than-expected-jobs-data-202609241422",
+      "datum": "2026-09-24T14:22:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "“You can’t wait too long”: BoE’s Breeden warns on rate hikes amid energy shock",
+      "link": "https://www.fxstreet.com/news/you-cant-wait-too-long-boes-breeden-warns-on-rate-hikes-amid-energy-shock-202609241418",
+      "datum": "2026-09-24T14:18:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Weak as Fed credibility supports Dollar near term – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-weak-as-fed-credibility-supports-dollar-near-term-commerzbank-202609241415",
+      "datum": "2026-09-24T14:15:02.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Brent crude above $100 and 10-year Treasury yields above 5% give markets a double test",
-      "link": "https://investinglive.com/news/brent-crude-above-100-and-10-year-treasury-yields-above-5-give-markets-a-double-test/",
-      "datum": "2026-09-24T04:38:11.000Z"
+      "titel": "US new-home sales for the month of August 0.684 million versus 0.615 million estimate",
+      "link": "https://investinglive.com/news/us-new-home-sales-for-the-month-of-august-0-684-million-versus-0-615-million-estimate/",
+      "datum": "2026-09-24T14:01:24.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Xi lands for Trump summit",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-xi-lands-for-trump-summit/",
-      "datum": "2026-09-24T03:33:32.000Z"
+      "titel": "Canada retail sales for the month of July -0.7% vs -0.8% estimate",
+      "link": "https://investinglive.com/news/canada-retail-sales-for-the-month-of-july-0-7-vs-0-8-estimate/",
+      "datum": "2026-09-24T12:30:14.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "AUD little changed: Australia jobless rate hits 4.6%, highest since 2021, participation outpaces jobs beat",
-      "link": "https://investinglive.com/news/aud-little-changed-australia-jobless-rate-hits-4-6-highest-since-2021-participation-outpaces-jobs-beat/",
-      "datum": "2026-09-24T01:53:44.000Z"
+      "titel": "US initial jobless claims 197K vs 201K expected",
+      "link": "https://investinglive.com/news/us-initial-jobless-claims-197k-vs-201k-expected/",
+      "datum": "2026-09-24T12:29:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Higher oil prices, bond yields continue to pressure markets",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-higher-oil-prices-bond-yields-continue-to-pressure-markets/",
+      "datum": "2026-09-24T11:52:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold bears tighten their grip as Fed rate hike bets rise",
+      "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
+      "datum": "2026-09-24T10:54:28.000Z"
     }
   ]
 }

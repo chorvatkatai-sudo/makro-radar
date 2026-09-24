@@ -14660,6 +14660,16 @@
       "vorher": "-19",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-24T10:15:00-04:00|USD|President Trump Speaks": {
+      "datum": "2026-09-24T10:15:00-04:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

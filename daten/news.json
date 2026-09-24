@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-24T16:22:03.824Z",
+  "stand": "2026-09-24T19:39:48.690Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,40 +7,94 @@
   ],
   "eintraege": [
     {
+      "quelle": "ForexLive",
+      "titel": "Iran’s Pezeshkian wants a deal with the US before the midterm elections, NBC reports",
+      "link": "https://investinglive.com/news/iran-s-pezeshkian-wants-a-deal-with-the-us-before-the-midterm-elections-nbc-reports-4/",
+      "datum": "2026-09-24T19:11:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar Index extends its winning streak as Fed speakers line up behind hikes",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904",
+      "datum": "2026-09-24T19:04:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Banxico unanimously holds benchmark rate at 6.50%",
+      "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901",
+      "datum": "2026-09-24T19:01:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838",
+      "datum": "2026-09-24T18:38:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Fedspeak takes centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832",
+      "datum": "2026-09-24T18:32:36.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "datum": "2026-09-24T18:30:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen struggles as Fed rate hike bets drive US yields higher",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-fed-rate-hike-bets-drive-us-yields-higher-202609241803",
+      "datum": "2026-09-24T18:03:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: SNB on hold keeps upside in crosses – BBH",
+      "link": "https://www.fxstreet.com/news/swiss-franc-snb-on-hold-keeps-upside-in-crosses-bbh-202609241758",
+      "datum": "2026-09-24T17:58:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Decline nears support zone against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-decline-nears-support-zone-against-us-dollar-scotiabank-202609241721",
+      "datum": "2026-09-24T17:21:48.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $44 billion of 7 year notes at a high yield of 5.085%",
+      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-7-year-notes-at-a-high-yield-of-5-085/",
+      "datum": "2026-09-24T17:05:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US-Iran talks eye phased Hormuz deal, but leverage stalls progress – Reuters",
+      "link": "https://www.fxstreet.com/news/us-iran-talks-eye-phased-hormuz-deal-but-leverage-stalls-progress-202609241651",
+      "datum": "2026-09-24T16:51:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound four-day slide deepens as US yields fuel US Dollar rally",
+      "link": "https://www.fxstreet.com/news/british-pound-four-day-slide-deepens-as-us-yields-fuel-us-dollar-rally-202609241639",
+      "datum": "2026-09-24T16:39:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average tests fresh lows as long bond yields climb",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tests-fresh-lows-as-long-bond-yields-climb-202609241638",
+      "datum": "2026-09-24T16:38:17.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US/Iran discussed phasing in a deal to reopen Hormuz and end the US blockade",
+      "link": "https://investinglive.com/news/us-iran-discussed-phasing-in-a-deal-to-reopen-hormuz-and-end-the-us-blockade/",
+      "datum": "2026-09-24T16:27:27.000Z"
+    },
+    {
       "quelle": "FXStreet",
       "titel": "New Zealand Dollar remains under pressure, RBNZ rate hike bets cushion losses",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-rbnz-rate-hike-bets-cushion-losses-202609241608",
       "datum": "2026-09-24T16:08:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Europe: Rightward risks build – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/europe-rightward-risks-build-standard-chartered-202609241528",
-      "datum": "2026-09-24T15:28:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528",
-      "datum": "2026-09-24T15:28:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Germany: Resilient but modest recovery – Commerzbank",
-      "link": "https://www.fxstreet.com/news/germany-resilient-but-modest-recovery-commerzbank-202609241519",
-      "datum": "2026-09-24T15:19:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Xi pitches cooperation, friendship, and fairness amid overhanging trade war truce",
-      "link": "https://www.fxstreet.com/news/xi-pitches-cooperation-friendship-and-fairness-amid-overhanging-trade-war-truce-202609241516",
-      "datum": "2026-09-24T15:16:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States: Bifurcated revival with advanced sectors – ING",
-      "link": "https://www.fxstreet.com/news/united-states-bifurcated-revival-with-advanced-sectors-ing-202609241505",
-      "datum": "2026-09-24T15:05:31.000Z"
     },
     {
       "quelle": "Fed",
@@ -49,70 +103,16 @@
       "datum": "2026-09-24T15:00:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fed resilience supports gains – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-resilience-supports-gains-bbh-202609241448",
-      "datum": "2026-09-24T14:48:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed's Paulson warns more hikes possible as inflation fight hardens",
-      "link": "https://www.fxstreet.com/news/feds-paulson-warns-more-hikes-possible-as-inflation-fight-hardens-202609241447",
-      "datum": "2026-09-24T14:47:10.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump and Xi meet at the White House: What traders should watch",
       "link": "https://investinglive.com/news/trump-and-xi-meet-at-the-white-house-what-traders-should-watch/",
       "datum": "2026-09-24T14:38:30.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Euro hovers near two-month low as hawkish Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-hovers-near-two-month-low-as-hawkish-fed-outlook-weighs-202609241424",
-      "datum": "2026-09-24T14:24:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar remains under pressure despite stronger-than-expected jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-despite-stronger-than-expected-jobs-data-202609241422",
-      "datum": "2026-09-24T14:22:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "“You can’t wait too long”: BoE’s Breeden warns on rate hikes amid energy shock",
-      "link": "https://www.fxstreet.com/news/you-cant-wait-too-long-boes-breeden-warns-on-rate-hikes-amid-energy-shock-202609241418",
-      "datum": "2026-09-24T14:18:01.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US new-home sales for the month of August 0.684 million versus 0.615 million estimate",
       "link": "https://investinglive.com/news/us-new-home-sales-for-the-month-of-august-0-684-million-versus-0-615-million-estimate/",
       "datum": "2026-09-24T14:01:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada retail sales for the month of July -0.7% vs -0.8% estimate",
-      "link": "https://investinglive.com/news/canada-retail-sales-for-the-month-of-july-0-7-vs-0-8-estimate/",
-      "datum": "2026-09-24T12:30:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US initial jobless claims 197K vs 201K expected",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-197k-vs-201k-expected/",
-      "datum": "2026-09-24T12:29:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Higher oil prices, bond yields continue to pressure markets",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-higher-oil-prices-bond-yields-continue-to-pressure-markets/",
-      "datum": "2026-09-24T11:52:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold hits one-week low as hawkish Fed outlook drives yields to multi-year highs",
-      "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
-      "datum": "2026-09-24T10:54:28.000Z"
     }
   ]
 }

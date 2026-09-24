@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-23T19:21:39.766Z",
+ "erstellt": "2026-09-24T05:15:05.035Z",
  "wochenStart": "2026-09-20",
  "events": [
   {
@@ -387,7 +387,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "21.5K",
    "previous": "-15.8K",
-   "actual": null
+   "actual": "39.5K"
   },
   {
    "title": "Unemployment Rate",
@@ -396,7 +396,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.5%",
    "previous": "4.5%",
-   "actual": null
+   "actual": "4.6%"
   },
   {
    "title": "SNB Monetary Policy Assessment",
@@ -2831,8 +2831,8 @@ window.MAKRO_DATA = {
    },
    "AUD": {
     "stimmung": "neutral",
-    "score": 3,
-    "grund": "Der ruhige, risikofreudige Markt und der höchste G10-Zins (4,35%) helfen dem Aussie — er kann sich etwas vom Dollar-Block lösen; die Jobzahlen nächste Woche sind der Test."
+    "score": 2,
+    "grund": "Gemischte Jobs (Stellen-Beat, aber Arbeitslosenquote 4,6% = fast 4-Jahres-Hoch); Risk-on und Hochzins (4,35%) stützen — unterm Strich neutral."
    },
    "NZD": {
     "stimmung": "bärisch",
@@ -2965,20 +2965,19 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung beachtet: Die Fed-Erhöhung ist ein echter breiter Dollar-Treiber, deshalb zeigen 6 von 7 Paaren dollar-stark — das ist im Kern EINE Wette. Bewusst gelöst: USD/JPY (BoJ-Erhöhung + Interventionsrisiko → gegen den Dollar). Und die Größe je Paar spiegelt eigene Gründe: Öl deckelt USD/CAD, die falkenhafte BoE deckelt GBP/USD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-09-23",
-   "wochentag": "Mittwoch",
-   "tenor": "PMI-Tag: Die Frühindikatoren zeigen, wie schnell die Wirtschaft läuft. Der Euroraum überraschte POSITIV (Dienstleistungen 51,4 statt 50,5 erwartet, Gesamt-Index 51,2 = 16-Monats-Hoch), die USA kühlten leicht ab (Gesamt 53,6 nach 54,6 — aber immer noch klar über 50). Trotz der besseren Euro-Zahlen bleibt der Dollar fest: die falkenhafte Fed (Rendite nahe 5%) übertönt alles, EUR/USD klebt am Mehr-Wochen-Tief ~1,143.",
+   "stand": "2026-09-24",
+   "wochentag": "Donnerstag",
+   "tenor": "Notenbank-Tag im Kleinformat: Heute früh kamen die 🇦🇺 Australien-Jobs GEMISCHT (mehr neue Stellen als erwartet, ABER die Arbeitslosenquote stieg auf 4,6% = fast 4-Jahres-Hoch), am Vormittag entscheidet die 🇨🇭 Schweizer Notenbank (fast sicher HALTEN bei 0%). Darüber thront weiter der feste Dollar: Index über 101, die US-10-Jahres-Rendite über 5% — „höher für länger\" regiert, EUR/USD am 2-Monats-Tief ~1,138.",
    "heute": [
-    "📊 PMI-Tag (Frühindikatoren, ab 10:00 Wien): 🇪🇺 Euroraum ÜBERRASCHT positiv — Dienstleistungen 51,4 (statt 50,5 erwartet), Gesamt-Index 51,2 = 16-Monats-Hoch, Industrie 50,7. Über 50 = Wachstum. Das ist ein kleiner Euro-Lichtblick.",
-    "🇺🇸 US-Frühindikator kühlt LEICHT ab: Gesamt-PMI 53,6 (nach 54,6 im August) — die US-Wirtschaft wächst weiter solide, verliert aber etwas Tempo. Reicht (noch) nicht, um den Dollar zu bremsen.",
-    "💵 Dollar bleibt fest TROTZ guter Euro-Zahlen: Dollar-Index ~100,5 (+0,2% Wo). EUR/USD am Mehr-Wochen-Tief ~1,143, USD/JPY ~157,5. Die 10-Jahres-Rendite klebt nahe 5% („höher für länger\") — Zins-Argument schlägt die Konjunktur-Zahlen. Fed-Reden im Fokus (bestätigen sie den Erhöhungs-Kurs?).",
-    "🥇🛢️ Gold nahe Rekord (~4.400$, Entwertungs-Wette). ÖL FÄLLT deutlich: WTI ~90$ (−12% auf Wochensicht) — die neue Inflations-Sorge lässt etwas nach, und der Öl-Rückenwind für den Kanada-Dollar bröckelt. VIX sehr tief (14,2) = sorgloser, risikofreudiger Markt."
+    "🇨🇭 SNB-Zinsentscheid (~9:30 Wien) = Haupttermin: Die Schweizer Notenbank hält ihren Leitzins mit ~97% Wahrscheinlichkeit bei 0%. Spannend ist NICHT das Ergebnis, sondern der TON — deutet Chef Schlegel an, dass er den zu starken Franken schwächen (am Devisenmarkt eingreifen) will? Ein solcher Hinweis würde den Franken drücken.",
+    "🇦🇺 Australien-Jobs (schon draußen, ~3:30 Wien) GEMISCHT: +39.500 neue Stellen (klarer Beat vs. ~20.000 erwartet), ABER die Arbeitslosenquote stieg 4,5%→4,6% (fast 4-Jahres-Hoch), weil mehr Menschen Arbeit suchen (Erwerbsquote 67,1%). Unterm Strich ein Wäsche-Ergebnis — der Aussie gab leicht nach.",
+    "💵 Dollar bleibt fest: Dollar-Index 101,1 (+0,8% Wo), EUR/USD am 2-Monats-Tief ~1,138, US-10-Jahres-Rendite über 5% (5,11%). Das Zins-Argument („höher für länger\" nach der Fed-Erhöhung) übertönt alles. Später heute: US-Erstanträge Arbeitslosenhilfe + Trump-Xi-Gipfel.",
+    "🥇🛢️ Gold hat vom Rekord etwas abgegeben (~4.326$, −1,7% Wo), ÖL fiel weiter (WTI ~92$, −9,5% Wo) — die Öl-Inflations-Sorge lässt nach, dem Kanada-Dollar fehlt der Rückenwind. VIX tief bei 15 = ruhiger, risikofreudiger Markt."
    ],
    "gestern": [
-    "🗓️ Dienstag lief ruhig ohne große Zahlen; der Tag lebte von Fed-Reden (Williams, Jefferson, Barkin) — kein Kurswechsel, der falkenhafte Ton hielt.",
-    "💵 Dollar legte weiter zu: EUR/USD rutschte auf frische Mehr-Wochen-Tiefs nahe ~1,143 (zweiter Verlusttag in Folge), Dollar-Index ~100,5. Der starke Dollar nach der Fed-Erhöhung trägt weiter.",
-    "🛢️ Öl gab auf Wochensicht kräftig nach (WTI ~90$, −12% Wo) — die Inflations-Angst durch teures Öl lässt nach; das nimmt dem Kanada-Dollar etwas Rückenwind.",
-    "📊 Positionierung (COT, Stand 15.9.): Große Spekulanten sind beim Yen kräftig NETTO-LONG (Rückschlag-Risiko: lösen sie die Wetten auf, kann der Yen ruckeln). Nachhall der Notenbank-Woche: Fed +0,25 auf 3,75–4,00%, BoJ auf 1,25% (Yen bleibt trotzdem weich), BoE falkenhafter Halt."
+    "📊 Mittwoch war PMI-Tag (Frühindikatoren): 🇪🇺 Euroraum überraschte POSITIV — Dienstleistungen 51,4 (statt 50,5 erwartet), Gesamt-Index 51,2 = 16-Monats-Hoch. 🇺🇸 USA kühlten leicht ab (Gesamt 53,6 nach 54,6), wachsen aber weiter solide. Über 50 = Wachstum.",
+    "💵 Trotz der besseren Euro-Zahlen blieb der Dollar fest und EUR/USD rutschte weiter auf frische Mehr-Wochen-Tiefs — das Zins-Argument schlägt die Konjunktur-Zahlen.",
+    "📊 Positionierung (COT, Stand 15.9.): Große Spekulanten wetten beim Yen jetzt kräftig auf STÄRKE (netto-long, z+1,8) — Rückschlag-Risiko, falls sie diese Wetten auflösen. Nachhall der Notenbank-Woche: Fed 3,75–4,00%, BoJ 1,25%, BoE falkenhafter Halt."
    ]
   }
  },
@@ -4086,11 +4085,11 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 6,
+   "baseScore": 5,
    "tiltCot": -3,
    "tiltZins": 6,
    "tiltGesamt": 3,
-   "score": 9,
+   "score": 8,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -4108,7 +4107,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-23T19:21:39.070Z",
+  "stand": "2026-09-24T05:15:05.034Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 58,
   "gewertet": 28,
@@ -4593,11 +4592,11 @@ window.MAKRO_DATA = {
    "score": 1
   },
   "AUD": {
-   "ueber": 7,
+   "ueber": 9,
    "unter": 5,
    "gleich": 3,
-   "gesamt": 15,
-   "score": 2
+   "gesamt": 17,
+   "score": 4
   },
   "JPY": {
    "ueber": 0,
@@ -5105,6 +5104,26 @@ window.MAKRO_DATA = {
   ]
  },
  "historie": [
+  {
+   "datum": "2026-09-23T21:30:00-04:00",
+   "land": "AUD",
+   "titel": "Employment Change",
+   "impact": "High",
+   "prognose": "21.5K",
+   "vorher": "-15.8K",
+   "actual": "39.5K",
+   "notiz": null
+  },
+  {
+   "datum": "2026-09-23T21:30:00-04:00",
+   "land": "AUD",
+   "titel": "Unemployment Rate",
+   "impact": "High",
+   "prognose": "4.5%",
+   "vorher": "4.5%",
+   "actual": "4.6%",
+   "notiz": null
+  },
   {
    "datum": "2026-09-17T22:54:00-04:00",
    "land": "JPY",
@@ -5684,26 +5703,6 @@ window.MAKRO_DATA = {
    "vorher": "2.40%",
    "actual": "2.4%",
    "notiz": "auto:TV rate (2026-07-23)"
-  },
-  {
-   "datum": "2026-07-22T21:30:00-04:00",
-   "land": "AUD",
-   "titel": "Employment Change",
-   "impact": "High",
-   "prognose": "16.4K",
-   "vorher": "40.3K",
-   "actual": "24.5",
-   "notiz": null
-  },
-  {
-   "datum": "2026-07-22T21:30:00-04:00",
-   "land": "AUD",
-   "titel": "Unemployment Rate",
-   "impact": "High",
-   "prognose": "4.4%",
-   "vorher": "4.4%",
-   "actual": "4.2",
-   "notiz": null
   }
  ],
  "anzahlGespeichert": 1464

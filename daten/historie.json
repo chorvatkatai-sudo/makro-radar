@@ -14238,7 +14238,7 @@
       "impact": "High",
       "prognose": "21.5K",
       "vorher": "-15.8K",
-      "actual": null,
+      "actual": "39.5K",
       "notiz": null
     },
     "2026-09-23T21:30:00-04:00|AUD|Unemployment Rate": {
@@ -14248,7 +14248,7 @@
       "impact": "High",
       "prognose": "4.5%",
       "vorher": "4.5%",
-      "actual": null,
+      "actual": "4.6%",
       "notiz": null
     },
     "2026-09-24T03:30:00-04:00|CHF|SNB Monetary Policy Assessment": {

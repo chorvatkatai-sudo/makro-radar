@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-23T19:21:39.065Z",
+  "stand": "2026-09-24T05:15:05.017Z",
   "ausBriefing": "2026-09-18",
   "overlayAktiv": true,
   "paare": [
@@ -104,11 +104,11 @@
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": 6,
+      "baseScore": 5,
       "tiltCot": -3,
       "tiltZins": 6,
       "tiltGesamt": 3,
-      "score": 9,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

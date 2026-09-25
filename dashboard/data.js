@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-25T10:54:14.276Z",
+ "erstellt": "2026-09-25T13:19:12.581Z",
  "wochenStart": "2026-09-20",
  "events": [
   {
@@ -2924,183 +2924,176 @@ window.MAKRO_DATA = {
   }
  ],
  "briefing": {
-  "datum": "2026-09-18",
+  "datum": "2026-09-25",
   "typ": "freitag",
-  "titel": "NOTENBANK-FEUERWERK: Die Fed hat ERHÖHT (erste Erhöhung seit 2023) und will noch mehr — 'höher für länger' ist zurück, der Dollar fest über 100. Auch Japan hob den Zins (höchster seit 31 Jahren). Nächste Woche ruhig: Flash-PMIs (Mi), AUD-Jobs + SNB (Do)",
+  "titel": "Dollar am 7-Wochen-Hoch: Die Fed-Erhöhung wirkt nach — Renditen über 5%, Markt preist Oktober-Erhöhung zu ~73%. Euro-Konjunktur überrascht positiv (PMIs auf 3-Jahres-Hoch). Nächste Woche = MONSTER: US-Kern-PCE (Mi), ISM (Do), Jobbericht + Euro-Inflation (Fr).",
   "lage": [
-   "Diese Woche war ein Notenbank-Feuerwerk. Die US-Notenbank (Fed) hat am Mittwoch zum ERSTEN MAL seit 2023 die Zinsen ERHÖHT — um 0,25 auf 3,75–4,00%, einstimmig (12:0). Ihr Ausblick zeigt: dieses Jahr kommt wahrscheinlich noch eine Erhöhung. 'Höher für länger' ist zurück.",
-   "Auslöser war die zähe Inflation: Die US-Kern-Teuerung kam mit 0,3% zum Vormonat heißer als erwartet, dazu teures Öl. Chef Warsh betonte, die Inflation sei 'weiter erhöht'.",
-   "Auch Japan hat erhöht: Die Bank of Japan hob den Zins auf 1,25% — so hoch wie seit 31 Jahren nicht mehr. Weil aber zwei Mitglieder dagegen stimmten (7:2), blieb der Yen wackelig statt klar stärker (USD/JPY schwankt um 155–158).",
-   "Die Bank of England HIELT bei 3,75% (sechster Halt), klang aber falkenhaft — eine Erhöhung im November oder Dezember gilt wegen der Öl-Inflation als möglich. Ein 'harter Halt', eher stützend fürs Pfund.",
-   "Der Dollar bleibt fest über der 100er-Marke, gestützt von der Zinserhöhung, US-Renditen nahe 5% und dem frischen Zinsanstieg (2-Jahres-Rendite +0,32 Punkte auf der Woche).",
-   "ABER: Gold steht weiter nahe Rekord (~4.400$) — die 'Flucht-aus-Papiergeld'-Wette läuft trotz des starken Dollars und deckelt seine Rally. Öl ist teuer geblieben (~96$ WTI, +20% im Monat wegen der Iran-Spannungen), kommt aber leicht zurück, weil Saudi-Arabien seine Pipeline-Kapazität wieder hochfährt.",
-   "Neuseeland war der klare Verlierer: Die Wirtschaft schrumpfte im 2. Quartal um −0,9% (erwartet +0,1%) — der Kiwi fiel, die Notenbank wird jetzt taubenhafter erwartet."
+   "Der Dollar ist der Chef der Woche: Er stieg vier Tage in Folge auf ein 7-Wochen-Hoch (Index ~101,0, +0,8% auf der Woche). Der Grund ist die Fed-Erhöhung von letzter Woche, die weiter nachwirkt — die US-Notenbank hat erhöht und deutet weitere Schritte an ('höher für länger').",
+   "Die US-Zinsen sind das entscheidende Argument: Die 10-Jahres-Rendite steht über 5% (5,16%, +0,21 Punkte auf der Woche), und der Markt preist inzwischen zu ~73% eine WEITERE Fed-Erhöhung im Oktober ein. Der 2-Jahres-Zinsvorsprung der USA legte diese Woche am stärksten von allen zu (+0,22 Punkte) — das Zins-Momentum zeigt klar pro-Dollar.",
+   "Falkenhafte Fed-Redner (Barr, Barkin) halten das 'wir müssen mehr tun'-Argument am Leben, und die US-Erstanträge auf Arbeitslosenhilfe fielen auf 197.000 = kaum Entlassungen = robuster Arbeitsmarkt. Alles stützt den Dollar.",
+   "Lichtblick beim Euro: Die Flash-Einkaufsmanager-Indizes überraschten deutlich positiv — der Gesamt-Index (Composite) sprang auf 53,1 (erwartet nur 51,7), das stärkste Wachstum seit über 3 Jahren; Dienstleistungen 53,0 (statt 51,5). Die Euro-Wirtschaft läuft besser als gedacht. In Großbritannien enttäuschten die Dienstleistungen dagegen leicht (51,7 statt 52,0).",
+   "Die Schweizer Notenbank (SNB) hielt am Donnerstag bei 0% (wie erwartet). Die Überraschung war der Ton: Chef Schlegel STRICH die Bereitschaft, den starken Franken zu bekämpfen, aus dem Text — weil der Franken seit Juni ohnehin nachgegeben hat. Dieser künstliche Abwärtsdruck fällt vorerst weg (leicht Franken-positiv).",
+   "Australiens Arbeitsmarkt war gemischt: +39.500 Stellen (klarer Beat), aber die Arbeitslosenquote stieg auf 4,6% (fast 4-Jahres-Hoch) — ein Wäsche-Ergebnis, der Aussie gab leicht nach. Neuseeland bleibt der Sorgenfall nach dem BIP-Schock (−0,9%), die Notenbank wird taubenhafter erwartet.",
+   "ABER als Warnschild: Gold steht mit ~4.340$ weiter nahe seinem Rekord (nur leicht zurück, −1% Wo) — die 'Flucht-aus-Papiergeld'-Wette läuft trotz des starken Dollars und deckelt seine Rally. Öl kam etwas zurück (WTI ~93$, −3% Wo), bleibt aber teuer — das nimmt dem Kanada-Dollar ein Stück Rückenwind."
   ],
   "waehrungen": {
    "USD": {
     "stimmung": "bullisch",
-    "score": 12,
-    "grund": "Die Fed hat erhöht und will noch mehr — mit steigenden Zinsen, Renditen über 5% und starken Arbeitsmarktzahlen (Erstanträge nur 197k) steht der Dollar am 7-Wochen-Hoch; nur der (zuletzt etwas gefallene) Gold-Preis und das schon große Long-Übergewicht bremsen die Euphorie."
+    "score": 14,
+    "grund": "Die Fed-Erhöhung wirkt nach: Renditen über 5%, der Markt preist eine weitere Erhöhung im Oktober zu ~73% ein, und der US-Zinsvorsprung stieg diese Woche am stärksten von allen. Dazu ein robuster Arbeitsmarkt (Erstanträge nur 197k). Nur der Gold-Rekord (Entwertungs-Wette) und vier Gewinn-Tage in Folge (überkauft) bremsen die Euphorie."
    },
    "EUR": {
-    "stimmung": "bärisch",
-    "score": -4,
-    "grund": "Die Flash-PMIs überraschten positiv (Dienstleistungen 51,4, Gesamt-Index auf 16-Monats-Hoch) — ein echter Konjunktur-Lichtblick, deshalb etwas weniger bärisch. Aber die EZB hat wohl das Ende ihrer Erhöhungen signalisiert (Kern 2,4%); gegen die falkenhafte Fed bleibt der Euro im Hintertreffen."
+    "stimmung": "neutral",
+    "score": -2,
+    "grund": "Echter Lichtblick: Die Flash-PMIs sprangen auf ein 3-Jahres-Hoch (Composite 53,1 statt 51,7) — die Euro-Konjunktur zieht überraschend an. Deshalb nur ein Hauch bärisch. Gegen die falkenhafte Fed (Renditen über 5%) bleibt der Euro trotzdem im Hintertreffen, denn die EZB ist mit 2,50% wohl am Ende ihres Erhöhungspfads."
    },
    "GBP": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Die Bank of England hielt zwar, klingt aber falkenhaft (Erhöhung im Nov/Dez möglich, drei Mitglieder wollten schon jetzt hoch) — das stützt das Pfund und federt den Dollar-Druck ab."
+    "score": -3,
+    "grund": "Gemischt: Die Bank of England klingt falkenhaft (Erhöhung im Nov/Dez möglich) — das stützt. Aber die Dienstleistungs-PMI enttäuschte (51,7, 3-Monats-Tief), und der starke Dollar drückt. Unterm Strich leicht negativ."
    },
    "JPY": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Die Bank of Japan hat auf den höchsten Zins seit 31 Jahren erhöht — ein langfristig Yen-stützender Straffungspfad. Kurzfristig blieb der Yen aber weich (gespaltene 7:2-Abstimmung, Carry), und unser Track-Record bei USD/JPY ist der schwächste — deshalb nahe null."
+    "score": -2,
+    "grund": "Die BoJ-Erhöhung (höchster Zins seit 31 Jahren) stützt den Yen langfristig, und das Interventionsrisiko deckelt USD/JPY nach oben. ABER: Die Großspekulanten wetten jetzt KRÄFTIG auf einen starken Yen (netto-long, z+1,8 = 'erhöht') — wenn diese überfüllte Wette platzt, fällt der Yen. Dazu unser schwächster Track-Record (USD/JPY 3/13). Deshalb bewusst nahe null."
    },
    "CHF": {
     "stimmung": "bärisch",
     "score": -4,
-    "grund": "Bei ruhigem Markt (niedriger VIX) braucht niemand den sicheren Hafen Franken. ABER neu: Die SNB hat am Donnerstag ihre Drohung, den Franken zu schwächen, ZURÜCKGENOMMEN (der Franken hat seit Juni ohnehin nachgegeben) — dieser künstliche Abwärtsdruck fällt weg, deshalb nur noch leicht bärisch."
+    "grund": "Bei ruhigem Markt (VIX tief 15,3 = Risk-on) braucht niemand den sicheren Hafen Franken. Die gestrichene SNB-Interventionsdrohung ist zwar leicht Franken-positiv (weniger künstlicher Gegenwind), reicht aber gegen den festen Dollar nicht — netto bärisch."
    },
    "CAD": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Der Öl-Rückenwind bröckelt (WTI −12% auf Wochensicht) — das war der Haupttreiber für den Loonie, deshalb runter auf einen Hauch. Die falkenhafte Bank of Canada stützt noch, aber Zollstreit und kühlere Kern-Inflation ziehen dagegen."
+    "score": -3,
+    "grund": "Dem Loonie fehlt Rückenwind: Öl kam auf der Woche zurück (WTI −3%), das war sein Haupttreiber. Die falkenhafte Bank of Canada und eine Short-Eindeckung (COT) stützen zwar, aber gegen den starken Dollar reicht es nur zu leicht negativ."
    },
    "AUD": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Gemischte Jobs (Stellen-Beat, aber Arbeitslosenquote 4,6% = fast 4-Jahres-Hoch); Risk-on und Hochzins (4,35%) stützen — unterm Strich neutral."
+    "score": 1,
+    "grund": "Wäsche-Woche: Stellen-Beat (+39.500), aber die Arbeitslosenquote stieg auf 4,6% (fast 4-Jahres-Hoch). Risk-on-Stimmung und der Hochzins (4,35%) stützen — unterm Strich fast neutral."
    },
    "NZD": {
     "stimmung": "bärisch",
-    "score": -8,
-    "grund": "Die neuseeländische Wirtschaft ist geschrumpft (−0,9%), die Notenbank wird jetzt taubenhafter erwartet — der Kiwi ist der klare Verlierer der Woche."
+    "score": -7,
+    "grund": "Der klare Verlierer bleibt Neuseeland: BIP-Schock (−0,9%), die Notenbank wird taubenhafter erwartet, dazu der starke Dollar. Dass Spekulanten (COT) leicht auf Kiwi-Stärke wetten, mildert es kaum — der fundamentale Gegenwind überwiegt."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
     "score": -4,
-    "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB am Ende ihres Erhöhungspfads — klar dollar-freundlich. Die positiven Euro-PMIs (Gesamt-Index 16-Monats-Hoch) mildern das Minus aber etwas ab. Track-Record hier schwach (31%) → bewusst klein."
+    "treiber": "Der feste Dollar (Fed-Erhöhung, Renditen über 5%) drückt das Paar. Die starken Euro-PMIs (Composite 3-Jahres-Hoch) mildern das Minus aber deutlich ab — deshalb kein großer Score. Track-Record hier schwach (31%) → bewusst klein."
    },
    {
     "paar": "GBP/USD",
-    "score": -4,
-    "treiber": "Der starke Dollar drückt, aber die falkenhafte Bank of England (Erhöhung im Nov/Dez möglich) federt ab — deshalb nur ein kleiner Minus-Score."
+    "score": -5,
+    "treiber": "Doppelter Gegenwind: fester Dollar plus enttäuschende britische Dienstleistungs-PMI (51,7, 3-Monats-Tief). Die falkenhafte BoE federt nur einen Teil ab."
    },
    {
     "paar": "USD/JPY",
-    "score": -1,
-    "treiber": "Bewusst gegen den Dollar-Block gelöst: Die Bank of Japan hat erhöht (höchster Zins seit 31 Jahren) und das Interventionsrisiko deckelt das Paar nach oben. Kurzfristig ist der Yen zwar weich (gespaltene Abstimmung), deshalb nur ein Hauch ins Minus — und weil unser Track-Record hier der schwächste ist (3/13)."
+    "score": 1,
+    "treiber": "BEWUSST winzig gehalten und gegen den Dollar-Block gestellt: Zwar spricht der US-Zinsvorsprung für ein höheres Paar, aber die BoJ-Erhöhung, das Interventionsrisiko UND die überfüllte Yen-Long-Wette (COT z+1,8 = Rückschlag-Risiko) ziehen dagegen. Dazu ist USD/JPY unser schwächstes Paar (3/13). Die Markt-Korrektur unten macht die Spannung sichtbar."
    },
    {
     "paar": "AUD/USD",
     "score": -3,
-    "treiber": "Der Dollar dominiert, aber Risk-on-Stimmung und Australiens Hochzins (4,35%) deckeln den Rückgang — moderater Minus-Score."
+    "treiber": "Der Dollar dominiert; Australiens gemischte Jobs (Beat, aber Quote 4,6%) und Risk-on halten den Rückgang in Grenzen — moderater Minus-Score."
    },
    {
     "paar": "USD/CAD",
-    "score": 4,
-    "treiber": "Der starke Dollar hebt das Paar, und der fallende Ölpreis (WTI −12% Wo) nimmt dem Loonie seinen bisherigen Rückenwind — leicht höher als zuletzt. Die falkenhafte BoC deckelt den Anstieg."
+    "score": 3,
+    "treiber": "Der starke Dollar hebt das Paar. Aber der fallende Ölpreis (WTI −3% Wo) hat dem Loonie zwar Rückenwind genommen, gleichzeitig ist Öl noch teuer und die BoC falkenhaft — deshalb nur moderat, nicht groß."
    },
    {
     "paar": "USD/CHF",
-    "score": 4,
-    "treiber": "Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Etwas zurückgenommen, weil die SNB am Donnerstag ihre Franken-Schwächungs-Drohung gestrichen hat — dem Franken fehlt jetzt dieser Gegenwind."
+    "score": 5,
+    "treiber": "Der sauberste Dollar-Long: Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Die gestrichene SNB-Drohung ist leicht Franken-stützend, deckelt den Anstieg minimal."
    },
    {
     "paar": "NZD/USD",
     "score": -8,
-    "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands Wirtschaft schrumpfte (−0,9%), die Notenbank wird taubenhafter, dazu der starke Dollar. Doppelter Gegenwind."
+    "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) und die taubenhaftere Notenbank treffen auf den starken Dollar. Doppelter Gegenwind."
    }
   ],
   "wochenausblick": {
    "text": [
-    "Nächste Woche ist RUHIG nach dem Notenbank-Feuerwerk — der Markt verdaut Fed, Bank of Japan und Bank of England.",
-    "Der wichtigste Datentag ist Mittwoch 23.9. mit den Flash-Einkaufsmanager-Indizes (PMIs) für Euroraum, UK und USA — sie zeigen als Frühindikator, wie schnell die Wirtschaft gerade läuft.",
-    "Über Nacht zum Donnerstag kommen die australischen Arbeitsmarktzahlen — der wichtigste Aussie-Treiber der Woche.",
-    "Am Donnerstag 24.9. entscheidet die Schweizer Notenbank (SNB) — fast sicher ein Halten bei 0%; spannend ist nur, ob sie über eine Franken-Schwächung (Devisen-Intervention) spricht.",
-    "Ebenfalls Donnerstag: ein Trump-Xi-Gipfel (Handels-/Geopolitik-Thema); am Freitag die US-Auftragseingänge langlebiger Güter.",
-    "Ohne große US-Zahlen bleiben der Dollar-Trend (nach der Fed-Erhöhung) und der Ölpreis (Iran) die Haupttreiber. Achtung: Bei so vielen Dollar-stark-Signalen ist die Woche im Kern EINE Dollar-Wette — der Track-Record trägt das (noch) nicht sicher, deshalb kleine Positionen."
+    "Nächste Woche wird ein MONSTER für den Dollar — die harten US-Daten entscheiden, ob die Oktober-Erhöhung (aktuell ~73%) bestätigt wird oder wackelt.",
+    "Mittwoch 30.9. kommt der US-Kern-PCE (14:30 Wien) — das ist der Lieblings-Inflationswert der Fed. Bleibt er zäh, ist die Oktober-Erhöhung fast sicher. Am selben Tag: ADP-Job-Vorschau + finales BIP.",
+    "Donnerstag 1.10. folgt der US-ISM-Industrie-Index (16:00 Wien) — zeigt, wie es der US-Fabrik geht.",
+    "Freitag 2.10. ist der große Tag: der US-Arbeitsmarktbericht (Jobbericht/NFP, 14:30 Wien) — der wichtigste Einzeltermin des Monats — und zeitgleich die Euro-Inflation (Flash-CPI, 11:00 Wien).",
+    "EHRLICHE WARNUNG: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Dollar-Wette, siebenfach gezählt. Der Track-Record trägt das (noch) nicht sicher (Wochen-Wette 5/13 = 38%, statistisch nicht von einem Münzwurf zu unterscheiden). Deshalb: kleine Positionen. Bewusst vom Block gelöst ist nur USD/JPY (BoJ + Intervention + überfüllte Yen-Wette)."
    ],
    "termine": [
     {
-     "tag": "Mittwoch 23.9.",
-     "land": "EUR/GBP/USD",
-     "titel": "Flash-Einkaufsmanager-Indizes (PMIs), ab 10:00 Wien",
-     "warum": "Frühindikator: Laufen die Volkswirtschaften noch? Über 50 = Wachstum, darunter = Schrumpfen. Schwache Zahlen wecken Konjunktursorgen."
-    },
-    {
-     "tag": "Donnerstag 24.9. (über Nacht, ~03:30 Wien)",
-     "land": "AUD",
-     "titel": "Australische Arbeitsmarktzahlen (Beschäftigung + Arbeitslosenquote)",
-     "warum": "Wichtigster Aussie-Treiber der Woche: Starke Jobs stützen die hohe Zinserwartung der RBA, schwache belasten den Aussie."
-    },
-    {
-     "tag": "Donnerstag 24.9. (~09:30 Wien)",
-     "land": "CHF",
-     "titel": "SNB-Zinsentscheid",
-     "warum": "Fast sicher Halten bei 0%. Der Ton entscheidet: Redet die SNB über eine Franken-Schwächung, ist das negativ für den Franken."
-    },
-    {
-     "tag": "Donnerstag 24.9.",
+     "tag": "Mittwoch 30.9.",
      "land": "USD",
-     "titel": "Trump-Xi-Gipfel + Erstanträge Arbeitslosenhilfe (14:30 Wien)",
-     "warum": "Handels-/Geopolitik-Risiko (China-Zölle) plus ein Puls-Check des US-Arbeitsmarkts."
+     "titel": "US-Kern-PCE (Kern-Konsumausgaben-Preise), 14:30 Wien + ADP-Job-Vorschau + finales BIP Q2",
+     "warum": "Der Lieblings-Inflationswert der Fed. Bleibt er zäh (heiß), ist die Oktober-Erhöhung fast sicher → Dollar stark. Kühlt er ab, gerät die Erhöhungs-Wette ins Wanken → Dollar-Delle."
     },
     {
-     "tag": "Freitag 25.9. (14:30 Wien)",
+     "tag": "Donnerstag 1.10.",
      "land": "USD",
-     "titel": "Auftragseingänge langlebiger Güter (August)",
-     "warum": "Zeigt die Investitionslaune der US-Industrie (Konsens −0,5%). Schwankt stark wegen Flugzeugbestellungen."
+     "titel": "US-ISM-Industrie-Index (September), 16:00 Wien",
+     "warum": "Frühindikator für die US-Fabrik. Über 50 = Wachstum. Ein starker Wert stützt die 'robuste Wirtschaft rechtfertigt höhere Zinsen'-Erzählung."
+    },
+    {
+     "tag": "Freitag 2.10.",
+     "land": "USD",
+     "titel": "US-Arbeitsmarktbericht / Jobbericht (NFP + Arbeitslosenquote), 14:30 Wien",
+     "warum": "Das wichtigste Einzel-Event des Monats. Nach dem +162k-Beat im Vormonat und niedrigen Erstanträgen (197k) ist die Frage: hält der Arbeitsmarkt? Starke Zahl → Dollar-Rally geht weiter; schwache Zahl → erster Riss."
+    },
+    {
+     "tag": "Freitag 2.10.",
+     "land": "EUR",
+     "titel": "Euroraum-Inflation (Flash-CPI, September), 11:00 Wien",
+     "warum": "Zeigt, ob die EZB wirklich fertig ist. Steigt die Inflation (Öl teuer, PMIs stark), wächst der Druck auf die EZB — das würde den Euro stützen."
     }
    ]
   },
   "prognosen": [
    {
-    "event": "SNB-Zinsentscheid (Schweizer Notenbank)",
-    "termin": "Donnerstag 24.9., ~09:30 Wiener Zeit",
-    "prognoseMarkt": "Halten bei 0,00% — der Markt preist das zu ~97% ein (Nomura + Bankenumfrage bestätigen; erste Änderung frühestens 2027).",
-    "meineEinschaetzung": "Ich erwarte das Halten genau wie der Konsens — es ist so gut wie sicher. Der eigentliche Punkt ist der Ton: Wegen des schwächeren Frankens und leicht steigender Inflation könnte die SNB die Sprache über Devisen-Interventionen wieder aufnehmen. Das wäre Franken-negativ, obwohl der Zins gleich bleibt.",
-    "richtung": "wie_erwartet",
-    "wennHoeher": "Falls die SNB überraschend erhöht oder klar falkenhaft klingt (sehr unwahrscheinlich): Franken STÄRKER, USD/CHF und EUR/CHF fallen.",
-    "wennNiedriger": "Falls sie deutlich über eine Franken-Schwächung / Interventionen spricht: Franken SCHWÄCHER, USD/CHF und EUR/CHF steigen."
+    "event": "US-Kern-PCE (Kern-Konsumausgaben-Preise, m/m)",
+    "termin": "Mittwoch 30.9., 14:30 Wiener Zeit",
+    "prognoseMarkt": "Konsens rund +0,2% zum Vormonat (Jahresrate ~3,3%).",
+    "meineEinschaetzung": "Ich neige zur HEISSEREN Seite (über Konsens, also ~0,3%). Grund: Die Kern-Inflation der Vorwoche kam bereits heiß (Kern-CPI +0,3%), das Öl ist teuer, und die Fed selbst nennt die Inflation 'weiter erhöht'. Das Inflations-Bild klebt oben — ich erwarte keine plötzliche Abkühlung.",
+    "richtung": "hoeher",
+    "wennHoeher": "Kern-PCE heiß (0,3% oder mehr): Die Oktober-Erhöhung ist fast sicher → Dollar STÄRKER, EUR/USD und GBP/USD fallen, USD/CHF steigt.",
+    "wennNiedriger": "Kern-PCE kühl (0,1% oder darunter): Die Erhöhungs-Wette wackelt → Dollar-Delle, EUR/USD und Gold steigen."
    },
    {
-    "event": "Euroraum Flash-Einkaufsmanager-Index Dienstleistungen (September)",
-    "termin": "Mittwoch 23.9., 10:00 Wiener Zeit",
-    "prognoseMarkt": "Rund 51,7 Punkte erwartet (über 50 = leichtes Wachstum); Industrie ~52,9.",
-    "meineEinschaetzung": "Ich rechne grob auf Konsens-Linie (~51,7). Die Euro-Konjunktur zieht zwar langsam an, aber das teure Öl dämpft und ein Über-Konsens-Sprung ist selten sauber vorhersagbar. Bleibe deshalb neutral.",
-    "richtung": "wie_erwartet",
-    "wennHoeher": "Deutlich über 52 wäre euro-stützend (Konjunktur besser) — federt EUR/USD etwas ab.",
-    "wennNiedriger": "Unter 50 (Schrumpfen) wäre euro-belastend und würde die dollar-freundliche Woche verstärken."
+    "event": "US-Arbeitsmarktbericht (Jobbericht / Non-Farm Payrolls)",
+    "termin": "Freitag 2.10., 14:30 Wiener Zeit",
+    "prognoseMarkt": "Konsens rund +50.000 neue Stellen, Arbeitslosenquote um 4,3%.",
+    "meineEinschaetzung": "Knappe Sache — ich neige leicht zur HÖHEREN Seite (über den 50k Konsens). Die Erstanträge sind sehr niedrig (197k = kaum Entlassungen), und die Konsens-Latte liegt tief. WICHTIG: Genau hier lag ich letzten Monat daneben (ich tippte 'schwächer', es kam +162k Beat) — Job-Zahlen sind sprunghaft. Deshalb nur kleine Überzeugung; ein erneuter Schwächeanfall ist gut möglich.",
+    "richtung": "hoeher",
+    "wennHoeher": "Starke Zahl (deutlich über 50k): bestätigt den robusten Arbeitsmarkt → Dollar-Rally geht weiter, Renditen steigen.",
+    "wennNiedriger": "Schwache Zahl (unter 50k oder negativ): erster echter Riss in der Dollar-Story → Dollar fällt, Gold und EUR/USD steigen, die Oktober-Erhöhung gerät ins Wanken."
    },
    {
-    "event": "Australische Beschäftigungsänderung (August)",
-    "termin": "Donnerstag 24.9., ~03:30 Wiener Zeit",
-    "prognoseMarkt": "Konsens: leicht positive Beschäftigungsänderung (rund +15.000 bis +25.000), Arbeitslosenquote um 4,5%.",
-    "meineEinschaetzung": "Ich neige leicht zur SCHWÄCHEREN Seite (unter Konsens): Der australische Arbeitsmarkt kühlt seit Monaten ab, die Quote steht bereits auf einem 5-Jahres-Hoch. Vorsicht aber — Jobzahlen sind sprunghaft, deshalb nur eine kleine Wette.",
-    "richtung": "niedriger",
-    "wennHoeher": "Starke Jobs (deutlich über Konsens): Aussie STÄRKER, AUD/USD steigt, stützt die hohe RBA-Zinserwartung.",
-    "wennNiedriger": "Schwache Jobs / steigende Quote: Aussie SCHWÄCHER, AUD/USD fällt, Zinssenkungs-Fantasie kommt zurück."
+    "event": "Euroraum-Inflation (Flash-CPI, y/y)",
+    "termin": "Freitag 2.10., 11:00 Wiener Zeit",
+    "prognoseMarkt": "Konsens rund 3,0% zum Vorjahr (Kern ähnlich).",
+    "meineEinschaetzung": "Ich neige leicht zur HÖHEREN Seite. Das Öl ist teuer geblieben, und die überraschend starken PMIs (Composite 3-Jahres-Hoch) sprechen für anziehende Nachfrage — beides drückt die Inflation eher nach oben. Aber die Bewegung dürfte klein sein.",
+    "richtung": "hoeher",
+    "wennHoeher": "Inflation höher als 3,0%: Druck auf die EZB, doch nicht ganz fertig zu sein → Euro leicht STÄRKER, EUR/USD stabilisiert sich.",
+    "wennNiedriger": "Inflation unter 3,0%: bestätigt 'EZB fertig' → Euro schwächer, EUR/USD fällt weiter."
    },
    {
-    "event": "US-Auftragseingänge langlebiger Güter (August, m/m)",
-    "termin": "Freitag 25.9., 14:30 Wiener Zeit",
-    "prognoseMarkt": "−0,5% zum Vormonat erwartet (nach einem starken Vormonat).",
-    "meineEinschaetzung": "Ich rechne grob auf Konsens. Diese Zahl schwankt extrem stark wegen der Flugzeugbestellungen (Boeing) — deshalb keine klare Richtungswette; im Zweifel eher auf oder leicht unter Konsens.",
+    "event": "US-ISM-Industrie-Index (September)",
+    "termin": "Donnerstag 1.10., 16:00 Wiener Zeit",
+    "prognoseMarkt": "Konsens rund 49–50 Punkte (an der Wachstums-/Schrumpf-Grenze).",
+    "meineEinschaetzung": "Ich rechne grob auf Konsens-Linie. Die US-Industrie zeigte zuletzt zwei Geschwindigkeiten — mal überraschend stark, mal an der 50er-Grenze. Ohne klaren Trend bleibe ich neutral; die Zahl ist eher Nebenschauplatz neben PCE und Jobbericht.",
     "richtung": "wie_erwartet",
-    "wennHoeher": "Deutlich besser als −0,5% (z.B. positiv): Zeichen einer robusten US-Industrie, dollar-stützend.",
-    "wennNiedriger": "Deutlich schwächer: erste Risse in der US-Investitionslaune, leicht dollar-dämpfend."
+    "wennHoeher": "Über 50 (Wachstum): stützt die 'robuste Wirtschaft'-Erzählung → Dollar-freundlich.",
+    "wennNiedriger": "Deutlich unter 50 (Schrumpfen): Konjunktursorge → leicht Dollar-dämpfend, aber die Zins-Story bleibt dominant."
    }
   ],
   "lehren": [
-   "Prognose-Bilanz Vorwoche (8.–12.9.): Die EZB-Erhöhung auf 2,50% kam genau wie erwartet ✓. Die US-Erzeugerpreise (PPI +0,4%) trafen meine 'höher als Konsens'-Prognose ✓. ABER die US-Kern-Inflation kam mit 0,3% HEISSER als mein 'wie erwartet' (0,2%) ✗ — ich hatte nach mehreren kühlen Monaten zu früh Entwarnung gegeben; genau diese heiße Zahl half, die Fed-Erhöhung auszulösen.",
-   "GROSSE LEHRE — Regimewechsel: Noch im August preiste der Markt Fed-SENKUNGEN ein; jetzt hat die Fed ERHÖHT und kündigt weitere an. Auslöser: heiße Kern-Inflation (0,3%), teures Öl und ein robuster Arbeitsmarkt. 'Höher für länger' ist zurück — meine wochenlange Dollar-Skepsis war überholt. Lehre: Ein einzelner heißer Inflations-Print kann eine ganze Notenbank-Erwartung drehen.",
-   "Yen-Lehre mit Fußnote: Die BoJ-Erhöhung (höchster Zins seit 1995) ist fundamental Yen-stützend — ABER weil zwei Mitglieder dagegen stimmten (7:2), las der Markt es als 'weniger falkenhaft als gedacht', und der Yen blieb kurzfristig weich (USD/JPY ~155–158). Lehre: Nicht nur DIE Erhöhung zählt, sondern die Geschlossenheit und der signalisierte Pfad — eine gespaltene Abstimmung nimmt einer Erhöhung die Wucht.",
-   "Ehrlicher Track-Record: Über 13 ausgewertete Wochen ist die Kursrichtungs-Prognose weiter NICHT von einem Münzwurf zu unterscheiden (Wochen-Dollar-Wette 5/13 = 38%, Zufallsband 3–10; Overlay neutral: 52% mit vs. 54% ohne). Deshalb halte ich die Scores klein. USD/JPY (3/13) und EUR/USD (4/13) sind die schwächsten Paare — dort bin ich am vorsichtigsten.",
-   "Klumpen-Warnung beachtet: Die Fed-Erhöhung ist ein echter breiter Dollar-Treiber, deshalb zeigen 6 von 7 Paaren dollar-stark — das ist im Kern EINE Wette. Bewusst gelöst: USD/JPY (BoJ-Erhöhung + Interventionsrisiko → gegen den Dollar). Und die Größe je Paar spiegelt eigene Gründe: Öl deckelt USD/CAD, die falkenhafte BoE deckelt GBP/USD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
+   "Prognose-Bilanz Vorwoche (20.–25.9.): Der SNB-Halt-Call TRAF ✓ — aber der Ton drehte ANDERS als von mir erwartet: Ich tippte, die SNB nimmt die Franken-Schwächungs-Drohung WIEDER AUF; sie STRICH sie stattdessen (weil der Franken ohnehin nachgab). Also franc-positive Nuance statt negativ. Lehre: Auch bei einem 'sicheren' Halten kann der Ton in beide Richtungen überraschen.",
+   "Euro-PMI-Call DANEBEN ✗: Ich tippte 'wie erwartet' (~51,7), es kam 53,0 (Composite 53,1 = 3-Jahres-Hoch, klarer Beat). Zusammen mit den AUD-Jobs (+39,5k Beat statt meiner 'schwächer'-Erwartung) heißt das: ZWEI Wochen in Folge habe ich Wachstumsdaten unterschätzt. Ich habe einen Pessimismus-Bias bei Aktivitätsdaten — die Euro-Konjunktur erholt sich robuster als gedacht.",
+   "Rate-Regime-Lehre bestätigt: Die Fed-Erhöhung wirkt kräftig nach — 10J-Rendite über 5%, Oktober-Erhöhung zu ~73% eingepreist, US-2J-Zinsvorsprung stieg am stärksten von allen. Die Dollar-Zins-Story schlägt derzeit alles. ABER Gold nahe Rekord (~4.340$) bleibt das Warnschild: die 'Flucht-aus-Papiergeld'-Wette deckelt die Dollar-Rally.",
+   "Ehrlicher Track-Record: Über 13 ausgewertete Wochen ist die Kursrichtungs-Prognose weiter NICHT von einem Münzwurf zu unterscheiden (Wochen-Dollar-Wette 5/13 = 38%, Zufallsband 3–10; Markt-Korrektur neutral: 52% mit vs. 54% ohne). USD/JPY (3/13) und EUR/USD (4/13) sind die schwächsten Paare — dort bin ich am vorsichtigsten. Deshalb halte ich die Scores klein.",
+   "Klumpen-Warnung: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Wette. Die Fed-Erhöhung ist ein echter breiter Treiber, deshalb ist die Konzentration ehrlich; aber bewusst gelöst ist USD/JPY (winzig +1: BoJ-Erhöhung + Interventionsrisiko + überfüllte Yen-Long-Wette). Und die Größe je Paar spiegelt eigene Gründe: Euro-PMI-Stärke deckelt EUR/USD, Öl-Rückgang deckelt USD/CAD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
    "stand": "2026-09-25",
@@ -3508,7 +3501,7 @@ window.MAKRO_DATA = {
  },
  "leitzinsen": {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-09-18",
+  "stand": "2026-09-25",
   "zinsen": [
    {
     "code": "AUD",
@@ -3533,8 +3526,8 @@ window.MAKRO_DATA = {
     "bank": "Fed",
     "satz": 3.875,
     "anzeige": "3,75–4,00%",
-    "naechste": "28.10.2026",
-    "erwartung": "Am Mi 16.9. um 0,25 auf 3,75–4,00% ERHÖHT — die ERSTE Zinserhöhung seit 2023, einstimmig 12:0. Chef Warsh gab sich in der Pressekonferenz betont FALKENHAFT. Der Zins-Ausblick (Dot-Plot) sieht die Zinsen bis Ende 2026 bei 4,1% (von 3,8% im Juni), 16 von 18 Mitgliedern rechnen mit einer WEITEREN Erhöhung dieses Jahr, 4 sogar mit zweien. Reaktion: Der Dollar SPRANG (Index über 100), die 10-Jahres-Rendite an die 5-%-Marke, USD/JPY auf ~156. Eine Zinssenkung ist auf Jahre vom Tisch",
+    "naechste": "28.10.2026 (~73% weitere Erhöhung erwartet)",
+    "erwartung": "Am Mi 16.9. um 0,25 auf 3,75–4,00% ERHÖHT — die ERSTE Zinserhöhung seit 2023, einstimmig 12:0. Chef Warsh gab sich in der Pressekonferenz betont FALKENHAFT. Der Zins-Ausblick (Dot-Plot) sieht die Zinsen bis Ende 2026 bei 4,1% (von 3,8% im Juni), 16 von 18 Mitgliedern rechnen mit einer WEITEREN Erhöhung dieses Jahr, 4 sogar mit zweien. Reaktion: Der Dollar SPRANG (Index über 100), die 10-Jahres-Rendite an die 5-%-Marke, USD/JPY auf ~156. Eine Zinssenkung ist auf Jahre vom Tisch | Stand 25.9.: Markt preist eine WEITERE Erhöhung am 28.10. inzwischen zu ~73% ein (CME FedWatch), gestützt von falkenhaften Rednern (Barr, Barkin) und Renditen über 5%.",
     "richtung": "rauf"
    },
    {
@@ -4131,29 +4124,29 @@ window.MAKRO_DATA = {
    "tiltGesamt": -8,
    "score": -12,
    "cotExtrem": null,
-   "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB am Ende ihres Erhöhungspfads — klar dollar-freundlich. Die positiven Euro-PMIs (Gesamt-Index 16-Monats-Hoch) mildern das Minus aber etwas ab. Track-Record hier schwach (31%) → bewusst klein.",
+   "treiber": "Der feste Dollar (Fed-Erhöhung, Renditen über 5%) drückt das Paar. Die starken Euro-PMIs (Composite 3-Jahres-Hoch) mildern das Minus aber deutlich ab — deshalb kein großer Score. Track-Record hier schwach (31%) → bewusst klein.",
    "istCross": false
   },
   {
    "paar": "GBP/USD",
-   "baseScore": -4,
+   "baseScore": -5,
    "tiltCot": -4,
    "tiltZins": -8,
    "tiltGesamt": -12,
-   "score": -16,
+   "score": -17,
    "cotExtrem": null,
-   "treiber": "Der starke Dollar drückt, aber die falkenhafte Bank of England (Erhöhung im Nov/Dez möglich) federt ab — deshalb nur ein kleiner Minus-Score.",
+   "treiber": "Doppelter Gegenwind: fester Dollar plus enttäuschende britische Dienstleistungs-PMI (51,7, 3-Monats-Tief). Die falkenhafte BoE federt nur einen Teil ab.",
    "istCross": false
   },
   {
    "paar": "USD/JPY",
-   "baseScore": -1,
+   "baseScore": 1,
    "tiltCot": -4,
    "tiltZins": 6,
    "tiltGesamt": 2,
-   "score": 1,
+   "score": 3,
    "cotExtrem": "erhoeht",
-   "treiber": "Bewusst gegen den Dollar-Block gelöst: Die Bank of Japan hat erhöht (höchster Zins seit 31 Jahren) und das Interventionsrisiko deckelt das Paar nach oben. Kurzfristig ist der Yen zwar weich (gespaltene Abstimmung), deshalb nur ein Hauch ins Minus — und weil unser Track-Record hier der schwächste ist (3/13).",
+   "treiber": "BEWUSST winzig gehalten und gegen den Dollar-Block gestellt: Zwar spricht der US-Zinsvorsprung für ein höheres Paar, aber die BoJ-Erhöhung, das Interventionsrisiko UND die überfüllte Yen-Long-Wette (COT z+1,8 = Rückschlag-Risiko) ziehen dagegen. Dazu ist USD/JPY unser schwächstes Paar (3/13). Die Markt-Korrektur unten macht die Spannung sichtbar.",
    "istCross": false
   },
   {
@@ -4164,29 +4157,29 @@ window.MAKRO_DATA = {
    "tiltGesamt": -10,
    "score": -13,
    "cotExtrem": null,
-   "treiber": "Der Dollar dominiert, aber Risk-on-Stimmung und Australiens Hochzins (4,35%) deckeln den Rückgang — moderater Minus-Score.",
+   "treiber": "Der Dollar dominiert; Australiens gemischte Jobs (Beat, aber Quote 4,6%) und Risk-on halten den Rückgang in Grenzen — moderater Minus-Score.",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 4,
+   "baseScore": 3,
    "tiltCot": 2,
    "tiltZins": 7,
    "tiltGesamt": 9,
-   "score": 13,
+   "score": 12,
    "cotExtrem": null,
-   "treiber": "Der starke Dollar hebt das Paar, und der fallende Ölpreis (WTI −12% Wo) nimmt dem Loonie seinen bisherigen Rückenwind — leicht höher als zuletzt. Die falkenhafte BoC deckelt den Anstieg.",
+   "treiber": "Der starke Dollar hebt das Paar. Aber der fallende Ölpreis (WTI −3% Wo) hat dem Loonie zwar Rückenwind genommen, gleichzeitig ist Öl noch teuer und die BoC falkenhaft — deshalb nur moderat, nicht groß.",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 4,
+   "baseScore": 5,
    "tiltCot": 3,
    "tiltZins": 7,
    "tiltGesamt": 10,
-   "score": 14,
+   "score": 15,
    "cotExtrem": null,
-   "treiber": "Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Etwas zurückgenommen, weil die SNB am Donnerstag ihre Franken-Schwächungs-Drohung gestrichen hat — dem Franken fehlt jetzt dieser Gegenwind.",
+   "treiber": "Der sauberste Dollar-Long: Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Die gestrichene SNB-Drohung ist leicht Franken-stützend, deckelt den Anstieg minimal.",
    "istCross": false
   },
   {
@@ -4197,60 +4190,60 @@ window.MAKRO_DATA = {
    "tiltGesamt": -6,
    "score": -14,
    "cotExtrem": null,
-   "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands Wirtschaft schrumpfte (−0,9%), die Notenbank wird taubenhafter, dazu der starke Dollar. Doppelter Gegenwind.",
+   "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) und die taubenhaftere Notenbank treffen auf den starken Dollar. Doppelter Gegenwind.",
    "istCross": false
   },
   {
    "paar": "EUR/GBP",
-   "baseScore": -3,
+   "baseScore": 1,
    "tiltCot": 3,
    "tiltZins": 2,
    "tiltGesamt": 5,
-   "score": 2,
+   "score": 6,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": -3,
+   "baseScore": 0,
    "tiltCot": -5,
    "tiltZins": -2,
    "tiltGesamt": -7,
-   "score": -10,
+   "score": -7,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 5,
+   "baseScore": 4,
    "tiltCot": -3,
    "tiltZins": 0,
    "tiltGesamt": -3,
-   "score": 2,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 0,
+   "baseScore": 1,
    "tiltCot": 3,
    "tiltZins": 0,
    "tiltGesamt": 3,
-   "score": 3,
+   "score": 4,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-25T10:54:13.971Z",
+  "stand": "2026-09-25T13:19:12.580Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 58,
+  "gefunden": 62,
   "gewertet": 29,
-  "nichtWertbar": 29,
+  "nichtWertbar": 33,
   "treffer": 16,
   "quote": 55,
   "zinsentscheide": {
@@ -4764,7 +4757,7 @@ window.MAKRO_DATA = {
   "treffer": 43,
   "gesamt": 96,
   "quote": 45,
-  "wochenErfasst": 14,
+  "wochenErfasst": 15,
   "proPaar": {
    "USD/JPY": {
     "treffer": 3,

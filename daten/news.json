@@ -1,11 +1,65 @@
 {
-  "stand": "2026-09-25T09:18:08.676Z",
+  "stand": "2026-09-25T10:54:13.964Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Williams: Persistent supply shocks cannot be ignored",
+      "link": "https://www.fxstreet.com/news/feds-williams-persistent-supply-shocks-cannot-be-ignored-202609251051",
+      "datum": "2026-09-25T10:51:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil reversal stalls above $91.00 as Middle East tensions outweigh supply increases",
+      "link": "https://www.fxstreet.com/news/wti-oil-reversal-stalls-above-9100-as-middle-east-tensions-outweigh-supply-increases-202609251049",
+      "datum": "2026-09-25T10:49:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japan’s Katayama: Takaichi very much respects the independence of the BoJ",
+      "link": "https://www.fxstreet.com/news/japans-katayama-takaichi-very-much-respects-the-independence-of-the-boj-202609251035",
+      "datum": "2026-09-25T10:35:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "BoE’s Bailey warns persistent high energy prices could challenge rate stance",
+      "link": "https://www.fxstreet.com/news/boes-bailey-warns-persistent-high-energy-prices-could-challenge-rate-stance-202609251005",
+      "datum": "2026-09-25T10:05:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: PMIs show growth and inflation risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-pmis-show-growth-and-inflation-risks-commerzbank-202609251003",
+      "datum": "2026-09-25T10:03:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold Price Forecast: XAU/USD struggles below $4,300 level with bears still in control",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-struggles-below-4-300-level-with-bears-still-in-control-202609250952",
+      "datum": "2026-09-25T09:52:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Brent: conflict-driven gains face deal hopes – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-conflict-driven-gains-face-deal-hopes-deutsche-bank-202609250942",
+      "datum": "2026-09-25T09:42:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609250930",
+      "datum": "2026-09-25T09:30:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: Still a low-yield funding currency – OCBC",
+      "link": "https://www.fxstreet.com/news/swiss-franc-still-a-low-yield-funding-currency-ocbc-202609250929",
+      "datum": "2026-09-25T09:29:29.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Euro: Downside scope seen limited against US Dollar – UOB",
@@ -17,54 +71,6 @@
       "titel": "British Pound trades lower against Japanese Yen amid intervention fears",
       "link": "https://www.fxstreet.com/news/british-pound-trades-lower-against-japanese-yen-amid-intervention-fears-202609250904",
       "datum": "2026-09-25T09:04:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "CEE FX: Energy shock lifts tightening bets – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-energy-shock-lifts-tightening-bets-ing-202609250856",
-      "datum": "2026-09-25T08:56:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar hovers just above 0.7000 with no news from the Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hovers-just-above-07000-with-no-news-from-the-trump-xi-summit-202609250849",
-      "datum": "2026-09-25T08:49:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Hungarian Forint: New inflation target demands hawkish MNB – Commerzbank",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-new-inflation-target-demands-hawkish-mnb-commerzbank-202609250839",
-      "datum": "2026-09-25T08:39:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of England: Policy convergence questions after Fed hike – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/bank-of-england-policy-convergence-questions-after-fed-hike-standard-chartered-202609250818",
-      "datum": "2026-09-25T08:18:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound underperforms this week as experts doubt BoE tightening prospects",
-      "link": "https://www.fxstreet.com/news/british-pound-underperforms-this-week-as-experts-doubt-boe-tightening-prospects-202609250806",
-      "datum": "2026-09-25T08:06:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro consolidates near three-month lows amid high Oil prices, Fed hiking bets",
-      "link": "https://www.fxstreet.com/news/euro-consolidates-near-three-month-lows-amid-high-oil-prices-fed-hiking-bets-202609250802",
-      "datum": "2026-09-25T08:02:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar inches higher as US Dollar declines on easing bond yields",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-inches-higher-as-us-dollar-declines-on-easing-bond-yields-202609250751",
-      "datum": "2026-09-25T07:51:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold: Bearish bias holds below 4300 resistance - OCBC",
-      "link": "https://www.fxstreet.com/news/gold-bearish-bias-holds-below-4300-resistance-ocbc-202609250741",
-      "datum": "2026-09-25T07:41:43.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,12 +107,6 @@
       "titel": "US Treasury yields continue to break higher - is 6% now in play?",
       "link": "https://investinglive.com/news/us-treasury-yields-continue-to-break-higher-is-6-now-in-play/",
       "datum": "2026-09-25T04:28:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold extends the range play below $4,300 as Fed hike bets counter modest USD pullback",
-      "link": "https://www.fxstreet.com/news/gold-remains-capped-as-hawkish-fed-higher-bond-yields-and-iran-risks-support-usd-202609250419",
-      "datum": "2026-09-25T04:19:54.000Z"
     },
     {
       "quelle": "ForexLive",

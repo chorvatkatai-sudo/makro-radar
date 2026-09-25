@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-25T16:22:45.037Z",
+  "stand": "2026-09-25T19:43:57.548Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -10,18 +10,18 @@
       "tiltZins": -8,
       "tiltGesamt": -9,
       "score": -13,
-      "cotExtrem": null,
+      "cotExtrem": "erhoeht",
       "treiber": "Der feste Dollar (Fed-Erhöhung, Renditen über 5%) drückt das Paar. Die starken Euro-PMIs (Composite 3-Jahres-Hoch) mildern das Minus aber deutlich ab — deshalb kein großer Score. Track-Record hier schwach (31%) → bewusst klein.",
       "istCross": false
     },
     {
       "paar": "GBP/USD",
       "baseScore": -5,
-      "tiltCot": -4,
+      "tiltCot": -5,
       "tiltZins": -8,
-      "tiltGesamt": -12,
-      "score": -17,
-      "cotExtrem": null,
+      "tiltGesamt": -13,
+      "score": -18,
+      "cotExtrem": "erhoeht",
       "treiber": "Doppelter Gegenwind: fester Dollar plus enttäuschende britische Dienstleistungs-PMI (51,7, 3-Monats-Tief). Die falkenhafte BoE federt nur einen Teil ab.",
       "istCross": false
     },
@@ -32,17 +32,17 @@
       "tiltZins": 5,
       "tiltGesamt": 1,
       "score": 2,
-      "cotExtrem": "erhoeht",
+      "cotExtrem": null,
       "treiber": "BEWUSST winzig gehalten und gegen den Dollar-Block gestellt: Zwar spricht der US-Zinsvorsprung für ein höheres Paar, aber die BoJ-Erhöhung, das Interventionsrisiko UND die überfüllte Yen-Long-Wette (COT z+1,8 = Rückschlag-Risiko) ziehen dagegen. Dazu ist USD/JPY unser schwächstes Paar (3/13). Die Markt-Korrektur unten macht die Spannung sichtbar.",
       "istCross": false
     },
     {
       "paar": "AUD/USD",
       "baseScore": -3,
-      "tiltCot": -2,
+      "tiltCot": -3,
       "tiltZins": -8,
-      "tiltGesamt": -10,
-      "score": -13,
+      "tiltGesamt": -11,
+      "score": -14,
       "cotExtrem": null,
       "treiber": "Der Dollar dominiert; Australiens gemischte Jobs (Beat, aber Quote 4,6%) und Risk-on halten den Rückgang in Grenzen — moderater Minus-Score.",
       "istCross": false
@@ -50,10 +50,10 @@
     {
       "paar": "USD/CAD",
       "baseScore": 3,
-      "tiltCot": 2,
+      "tiltCot": 3,
       "tiltZins": 8,
-      "tiltGesamt": 10,
-      "score": 13,
+      "tiltGesamt": 11,
+      "score": 14,
       "cotExtrem": null,
       "treiber": "Der starke Dollar hebt das Paar. Aber der fallende Ölpreis (WTI −3% Wo) hat dem Loonie zwar Rückenwind genommen, gleichzeitig ist Öl noch teuer und die BoC falkenhaft — deshalb nur moderat, nicht groß.",
       "istCross": false
@@ -61,10 +61,10 @@
     {
       "paar": "USD/CHF",
       "baseScore": 5,
-      "tiltCot": 3,
+      "tiltCot": 4,
       "tiltZins": 6,
-      "tiltGesamt": 9,
-      "score": 14,
+      "tiltGesamt": 10,
+      "score": 15,
       "cotExtrem": null,
       "treiber": "Der sauberste Dollar-Long: Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Die gestrichene SNB-Drohung ist leicht Franken-stützend, deckelt den Anstieg minimal.",
       "istCross": false
@@ -72,10 +72,10 @@
     {
       "paar": "NZD/USD",
       "baseScore": -8,
-      "tiltCot": 2,
-      "tiltZins": -7,
-      "tiltGesamt": -5,
-      "score": -13,
+      "tiltCot": -2,
+      "tiltZins": -6,
+      "tiltGesamt": -8,
+      "score": -16,
       "cotExtrem": null,
       "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) und die taubenhaftere Notenbank treffen auf den starken Dollar. Doppelter Gegenwind.",
       "istCross": false
@@ -83,11 +83,11 @@
     {
       "paar": "EUR/GBP",
       "baseScore": 1,
-      "tiltCot": 3,
+      "tiltCot": 5,
       "tiltZins": 2,
-      "tiltGesamt": 5,
-      "score": 6,
-      "cotExtrem": null,
+      "tiltGesamt": 7,
+      "score": 8,
+      "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
     },
@@ -105,8 +105,8 @@
     {
       "paar": "AUD/NZD",
       "baseScore": 4,
-      "tiltCot": -3,
-      "tiltZins": 0,
+      "tiltCot": -1,
+      "tiltZins": -2,
       "tiltGesamt": -3,
       "score": 1,
       "cotExtrem": null,
@@ -120,7 +120,7 @@
       "tiltZins": -2,
       "tiltGesamt": 1,
       "score": 2,
-      "cotExtrem": null,
+      "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
     }

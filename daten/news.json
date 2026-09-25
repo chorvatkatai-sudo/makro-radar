@@ -1,11 +1,89 @@
 {
-  "stand": "2026-09-25T16:22:45.036Z",
+  "stand": "2026-09-25T19:43:57.547Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-keeps-yuan-broadly-stable-societe-generale-202609251931",
+      "datum": "2026-09-25T19:31:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
+      "datum": "2026-09-25T19:00:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
+      "datum": "2026-09-25T18:54:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "ECB’s Vujcic warns energy shock could keep inflation hot",
+      "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
+      "datum": "2026-09-25T18:34:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Asian FX: Higher yields and Oil weigh – OCBC",
+      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
+      "datum": "2026-09-25T18:22:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Hammack warns inflation mindset is the biggest risk",
+      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
+      "datum": "2026-09-25T18:15:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
+      "datum": "2026-09-25T18:05:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758",
+      "datum": "2026-09-25T17:58:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump will meet with Xi again in November",
+      "link": "https://investinglive.com/news/trump-will-meet-with-xi-again-in-november/",
+      "datum": "2026-09-25T17:44:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
+      "datum": "2026-09-25T17:43:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
+      "datum": "2026-09-25T17:38:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar holds steady as US Dollar retreats",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
+      "datum": "2026-09-25T16:58:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average bounces on Iran's latest Hormuz offer",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-bounces-on-irans-latest-hormuz-offer-202609251628",
+      "datum": "2026-09-25T16:28:49.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Tehran describes talks atmosphere as increasingly positive - report",
@@ -19,76 +97,10 @@
       "datum": "2026-09-25T15:58:50.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound finds relief as USD pauses, but inflation risks linger",
-      "link": "https://www.fxstreet.com/news/british-pound-finds-relief-as-usd-pauses-but-inflation-risks-linger-202609251536",
-      "datum": "2026-09-25T15:36:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Undervalued near 1.41 against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-undervalued-near-141-against-us-dollar-scotiabank-202609251514",
-      "datum": "2026-09-25T15:14:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501",
-      "datum": "2026-09-25T15:01:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro set for third weekly decline as hawkish Federal Reserve outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-set-for-third-weekly-decline-as-hawkish-federal-reserve-outlook-weighs-202609251451",
-      "datum": "2026-09-25T14:51:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: RBA hike expectations shape outlook – ING",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433",
-      "datum": "2026-09-25T14:33:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Yields support Greenback strength – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-yields-support-greenback-strength-ocbc-202609251417",
-      "datum": "2026-09-25T14:17:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar rebounds from 0.7000 as US Dollar eases after strong week",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rebounds-from-07000-as-us-dollar-eases-after-strong-week-202609251417",
-      "datum": "2026-09-25T14:17:02.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "September final UMich consumer sentiment 48.1 vs 47.6 expected",
       "link": "https://investinglive.com/news/september-final-umich-consumer-sentiment-48-1-vs-47-6-expected/",
       "datum": "2026-09-25T14:00:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso: Banxico stance keeps bar high for hikes – BBH",
-      "link": "https://www.fxstreet.com/news/mexican-peso-banxico-stance-keeps-bar-high-for-hikes-bbh-202609251356",
-      "datum": "2026-09-25T13:56:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Pressure persists toward 159.60 against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pressure-persists-toward-15960-against-us-dollar-uob-202609251347",
-      "datum": "2026-09-25T13:47:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Credibility restored supports Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-credibility-restored-supports-dollar-commerzbank-202609251336",
-      "datum": "2026-09-25T13:36:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar set for third weekly decline despite pullback in US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-set-for-second-weekly-decline-despite-pullback-in-us-dollar-202609251331",
-      "datum": "2026-09-25T13:31:17.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "US August durable goods orders 0.0% vs -0.4% expected",
       "link": "https://investinglive.com/news/us-august-durable-goods-orders-0-0-vs-0-4-expected/",
       "datum": "2026-09-25T12:30:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Yen jumps, oil slides as bond risks linger",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-yen-jumps-oil-slides-as-bond-risks-linger/",
-      "datum": "2026-09-25T11:52:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
-      "datum": "2026-09-25T11:06:53.000Z"
     }
   ]
 }

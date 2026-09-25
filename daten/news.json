@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-24T22:52:37.824Z",
+  "stand": "2026-09-25T05:22:09.893Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,15 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Mexican Peso : Range view with downside risks against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-range-view-with-downside-risks-against-us-dollar-rabobank-202609242239",
-      "datum": "2026-09-24T22:39:00.000Z"
+      "titel": "GBP/USD Price Forecast: Softens to near 1.3200, staying bearish under 100-day SMA",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-softens-to-near-13200-staying-bearish-under-100-day-sma-202609250513",
+      "datum": "2026-09-25T05:13:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump-Xi summit extends the trade truce but leaves the biggest market questions unresolved",
+      "link": "https://investinglive.com/news/trump-xi-summit-extends-the-trade-truce-but-leaves-the-biggest-market-questions-unresolved/",
+      "datum": "2026-09-25T05:00:36.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar grinds lower as US bond yields climb to new highs",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-grinds-lower-as-us-bond-yields-climb-to-new-highs-202609242230",
-      "datum": "2026-09-24T22:30:00.000Z"
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609250451",
+      "datum": "2026-09-25T04:51:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Slips below $92.00 amid Iran diplomacy hopes; bullish potential intact",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-slips-below-9200-amid-iran-diplomacy-hopes-bullish-potential-intact-202609250442",
+      "datum": "2026-09-25T04:42:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treasury yields continue to break higher - is 6% now in play?",
+      "link": "https://investinglive.com/news/us-treasury-yields-continue-to-break-higher-is-6-now-in-play/",
+      "datum": "2026-09-25T04:28:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold remains capped as hawkish Fed, higher bond yields and Iran risks support USD",
+      "link": "https://www.fxstreet.com/news/gold-remains-capped-as-hawkish-fed-higher-bond-yields-and-iran-risks-support-usd-202609250419",
+      "datum": "2026-09-25T04:19:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/JPY Price Forecast: Weakens to near 111.00 as bearish technical bias holds below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-to-near-11100-as-bearish-technical-bias-holds-below-100-day-sma-202609250419",
+      "datum": "2026-09-25T04:19:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Tests nine-day EMA support near 180.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-support-near-18000-202609250343",
+      "datum": "2026-09-25T03:43:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Iran offers seven-day Hormuz dea",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-iran-offers-seven-day-hormuz-dea/",
+      "datum": "2026-09-25T03:38:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index approaches 101.80 as bond yields keep rallying",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-10180-as-bond-yields-keep-rallying-202609250322",
+      "datum": "2026-09-25T03:22:23.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD remains steady near $94.00 as oil prices ease",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-steady-near-9400-as-oil-prices-ease-202609250300",
+      "datum": "2026-09-25T03:00:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen recovers from three-week low vs USD amid looming intervention risk",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-from-three-week-low-vs-usd-amid-looming-intervention-risk-202609250226",
+      "datum": "2026-09-25T02:26:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Recession signal flashes on Oxford Economics' US indicator, but spending shows no sign of cracking",
+      "link": "https://investinglive.com/news/recession-signal-flashes-on-oxford-economics-us-indicator-but-spending-shows-no-sign-of-cracking/",
+      "datum": "2026-09-25T02:25:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar flatlines near 0.7000 as traders assess Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flatlines-near-07000-as-traders-assess-trump-xi-summit-202609250224",
+      "datum": "2026-09-25T02:24:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japan’s Katayama says BoJ's latest rate hike was done to achieve inflation target",
+      "link": "https://www.fxstreet.com/news/japans-katayama-says-bojs-latest-rate-hike-was-done-to-achieve-inflation-target-202609250217",
+      "datum": "2026-09-25T02:17:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar weakens amid falling oil prices, stronger US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-stronger-us-dollar-202609250200",
+      "datum": "2026-09-25T02:00:45.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -25,94 +109,10 @@
       "datum": "2026-09-24T22:14:42.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average falls a third day as bond yields climb",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-falls-a-third-day-as-bond-yields-climb-202609242211",
-      "datum": "2026-09-24T22:11:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Pound Sterling slides again as Fed speakers go full hawkish",
-      "link": "https://www.fxstreet.com/news/pound-sterling-slides-again-as-fed-speakers-line-up-behind-another-hike-202609242209",
-      "datum": "2026-09-24T22:09:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah: BI prioritizes IDR stability – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-prioritizes-idr-stability-commerzbank-202609242151",
-      "datum": "2026-09-24T21:51:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Banxico: Flexible stance with upside risks – Rabobank",
-      "link": "https://www.fxstreet.com/news/banxico-flexible-stance-with-upside-risks-rabobank-202609242108",
-      "datum": "2026-09-24T21:08:11.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump and Xi buy two more months of trade truce, leaving tariffs and rare earths in limbo",
       "link": "https://investinglive.com/news/trump-and-xi-buy-two-more-months-of-trade-truce-leaving-tariffs-and-rare-earths-in-limbo/",
       "datum": "2026-09-24T20:56:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 24 Sept: USD and Treasury yields climb as Iran headlines lift stocks off their lows",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-sept-usd-and-treasury-yields-climb-as-iran-headlines-lift-stocks-off-their-lows/",
-      "datum": "2026-09-24T20:39:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Norwegian Krone: Norges Bank hike supports currency – BBH",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-norges-bank-hike-supports-currency-bbh-202609242016",
-      "datum": "2026-09-24T20:16:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso slides to April lows as Banxico shrugs off Fed gap",
-      "link": "https://www.fxstreet.com/news/mexican-peso-slides-to-april-lows-as-banxico-shrugs-off-fed-gap-202609242012",
-      "datum": "2026-09-24T20:12:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran’s Pezeshkian wants a deal with the US before the midterm elections, NBC reports",
-      "link": "https://investinglive.com/news/iran-s-pezeshkian-wants-a-deal-with-the-us-before-the-midterm-elections-nbc-reports-4/",
-      "datum": "2026-09-24T19:11:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar Index extends its winning streak as Fed speakers line up behind hikes",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904",
-      "datum": "2026-09-24T19:04:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Banxico unanimously holds benchmark rate at 6.50%",
-      "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901",
-      "datum": "2026-09-24T19:01:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838",
-      "datum": "2026-09-24T18:38:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: Fedspeak takes centre stage",
-      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832",
-      "datum": "2026-09-24T18:32:36.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-      "datum": "2026-09-24T18:30:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US treasury sells $44 billion of 7 year notes at a high yield of 5.085%",
-      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-7-year-notes-at-a-high-yield-of-5-085/",
-      "datum": "2026-09-24T17:05:43.000Z"
     }
   ]
 }

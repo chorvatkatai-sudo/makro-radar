@@ -1,6 +1,6 @@
 {
-  "stand": "2026-09-25T10:54:13.966Z",
-  "ausBriefing": "2026-09-18",
+  "stand": "2026-09-25T13:19:12.563Z",
+  "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
     {
@@ -11,29 +11,29 @@
       "tiltGesamt": -8,
       "score": -12,
       "cotExtrem": null,
-      "treiber": "Falkenhafte Fed (Erhöhung + weitere in Aussicht) gegen eine EZB am Ende ihres Erhöhungspfads — klar dollar-freundlich. Die positiven Euro-PMIs (Gesamt-Index 16-Monats-Hoch) mildern das Minus aber etwas ab. Track-Record hier schwach (31%) → bewusst klein.",
+      "treiber": "Der feste Dollar (Fed-Erhöhung, Renditen über 5%) drückt das Paar. Die starken Euro-PMIs (Composite 3-Jahres-Hoch) mildern das Minus aber deutlich ab — deshalb kein großer Score. Track-Record hier schwach (31%) → bewusst klein.",
       "istCross": false
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -4,
+      "baseScore": -5,
       "tiltCot": -4,
       "tiltZins": -8,
       "tiltGesamt": -12,
-      "score": -16,
+      "score": -17,
       "cotExtrem": null,
-      "treiber": "Der starke Dollar drückt, aber die falkenhafte Bank of England (Erhöhung im Nov/Dez möglich) federt ab — deshalb nur ein kleiner Minus-Score.",
+      "treiber": "Doppelter Gegenwind: fester Dollar plus enttäuschende britische Dienstleistungs-PMI (51,7, 3-Monats-Tief). Die falkenhafte BoE federt nur einen Teil ab.",
       "istCross": false
     },
     {
       "paar": "USD/JPY",
-      "baseScore": -1,
+      "baseScore": 1,
       "tiltCot": -4,
       "tiltZins": 6,
       "tiltGesamt": 2,
-      "score": 1,
+      "score": 3,
       "cotExtrem": "erhoeht",
-      "treiber": "Bewusst gegen den Dollar-Block gelöst: Die Bank of Japan hat erhöht (höchster Zins seit 31 Jahren) und das Interventionsrisiko deckelt das Paar nach oben. Kurzfristig ist der Yen zwar weich (gespaltene Abstimmung), deshalb nur ein Hauch ins Minus — und weil unser Track-Record hier der schwächste ist (3/13).",
+      "treiber": "BEWUSST winzig gehalten und gegen den Dollar-Block gestellt: Zwar spricht der US-Zinsvorsprung für ein höheres Paar, aber die BoJ-Erhöhung, das Interventionsrisiko UND die überfüllte Yen-Long-Wette (COT z+1,8 = Rückschlag-Risiko) ziehen dagegen. Dazu ist USD/JPY unser schwächstes Paar (3/13). Die Markt-Korrektur unten macht die Spannung sichtbar.",
       "istCross": false
     },
     {
@@ -44,29 +44,29 @@
       "tiltGesamt": -10,
       "score": -13,
       "cotExtrem": null,
-      "treiber": "Der Dollar dominiert, aber Risk-on-Stimmung und Australiens Hochzins (4,35%) deckeln den Rückgang — moderater Minus-Score.",
+      "treiber": "Der Dollar dominiert; Australiens gemischte Jobs (Beat, aber Quote 4,6%) und Risk-on halten den Rückgang in Grenzen — moderater Minus-Score.",
       "istCross": false
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 4,
+      "baseScore": 3,
       "tiltCot": 2,
       "tiltZins": 7,
       "tiltGesamt": 9,
-      "score": 13,
+      "score": 12,
       "cotExtrem": null,
-      "treiber": "Der starke Dollar hebt das Paar, und der fallende Ölpreis (WTI −12% Wo) nimmt dem Loonie seinen bisherigen Rückenwind — leicht höher als zuletzt. Die falkenhafte BoC deckelt den Anstieg.",
+      "treiber": "Der starke Dollar hebt das Paar. Aber der fallende Ölpreis (WTI −3% Wo) hat dem Loonie zwar Rückenwind genommen, gleichzeitig ist Öl noch teuer und die BoC falkenhaft — deshalb nur moderat, nicht groß.",
       "istCross": false
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 4,
+      "baseScore": 5,
       "tiltCot": 3,
       "tiltZins": 7,
       "tiltGesamt": 10,
-      "score": 14,
+      "score": 15,
       "cotExtrem": null,
-      "treiber": "Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Etwas zurückgenommen, weil die SNB am Donnerstag ihre Franken-Schwächungs-Drohung gestrichen hat — dem Franken fehlt jetzt dieser Gegenwind.",
+      "treiber": "Der sauberste Dollar-Long: Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Die gestrichene SNB-Drohung ist leicht Franken-stützend, deckelt den Anstieg minimal.",
       "istCross": false
     },
     {
@@ -77,49 +77,49 @@
       "tiltGesamt": -6,
       "score": -14,
       "cotExtrem": null,
-      "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands Wirtschaft schrumpfte (−0,9%), die Notenbank wird taubenhafter, dazu der starke Dollar. Doppelter Gegenwind.",
+      "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) und die taubenhaftere Notenbank treffen auf den starken Dollar. Doppelter Gegenwind.",
       "istCross": false
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": -3,
+      "baseScore": 1,
       "tiltCot": 3,
       "tiltZins": 2,
       "tiltGesamt": 5,
-      "score": 2,
+      "score": 6,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
     },
     {
       "paar": "EUR/JPY",
-      "baseScore": -3,
+      "baseScore": 0,
       "tiltCot": -5,
       "tiltZins": -2,
       "tiltGesamt": -7,
-      "score": -10,
+      "score": -7,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": 5,
+      "baseScore": 4,
       "tiltCot": -3,
       "tiltZins": 0,
       "tiltGesamt": -3,
-      "score": 2,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": 0,
+      "baseScore": 1,
       "tiltCot": 3,
       "tiltZins": 0,
       "tiltGesamt": 3,
-      "score": 3,
+      "score": 4,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

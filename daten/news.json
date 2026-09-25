@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-25T13:28:44.615Z",
+  "stand": "2026-09-25T15:41:33.137Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,21 +8,75 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI interventions cap losses against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-interventions-cap-losses-against-us-dollar-societe-generale-202609251316",
-      "datum": "2026-09-25T13:16:17.000Z"
+      "titel": "British Pound finds relief as USD pauses, but inflation risks linger",
+      "link": "https://www.fxstreet.com/news/british-pound-finds-relief-as-usd-pauses-but-inflation-risks-linger-202609251536",
+      "datum": "2026-09-25T15:36:30.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Back-end yields support USD consolidation – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-back-end-yields-support-usd-consolidation-ing-202609251305",
-      "datum": "2026-09-25T13:05:35.000Z"
+      "titel": "Canadian Dollar: Undervalued near 1.41 against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-undervalued-near-141-against-us-dollar-scotiabank-202609251514",
+      "datum": "2026-09-25T15:14:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Range-bound against US Dollar as intervention risk looms – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-against-us-dollar-as-intervention-risk-looms-bbh-202609251252",
-      "datum": "2026-09-25T12:52:46.000Z"
+      "titel": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501",
+      "datum": "2026-09-25T15:01:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro set for third weekly decline as hawkish Federal Reserve outlook weighs",
+      "link": "https://www.fxstreet.com/news/euro-set-for-third-weekly-decline-as-hawkish-federal-reserve-outlook-weighs-202609251451",
+      "datum": "2026-09-25T14:51:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar: RBA hike expectations shape outlook – ING",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433",
+      "datum": "2026-09-25T14:33:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Yields support Greenback strength – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-yields-support-greenback-strength-ocbc-202609251417",
+      "datum": "2026-09-25T14:17:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar rebounds from 0.7000 as US Dollar eases after strong week",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rebounds-from-07000-as-us-dollar-eases-after-strong-week-202609251417",
+      "datum": "2026-09-25T14:17:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "September final UMich consumer sentiment 48.1 vs 47.6 expected",
+      "link": "https://investinglive.com/news/september-final-umich-consumer-sentiment-48-1-vs-47-6-expected/",
+      "datum": "2026-09-25T14:00:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso: Banxico stance keeps bar high for hikes – BBH",
+      "link": "https://www.fxstreet.com/news/mexican-peso-banxico-stance-keeps-bar-high-for-hikes-bbh-202609251356",
+      "datum": "2026-09-25T13:56:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Pressure persists toward 159.60 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-pressure-persists-toward-15960-against-us-dollar-uob-202609251347",
+      "datum": "2026-09-25T13:47:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Credibility restored supports Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-credibility-restored-supports-dollar-commerzbank-202609251336",
+      "datum": "2026-09-25T13:36:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar set for third weekly decline despite pullback in US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-set-for-second-weekly-decline-despite-pullback-in-us-dollar-202609251331",
+      "datum": "2026-09-25T13:31:17.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -31,40 +85,10 @@
       "datum": "2026-09-25T12:47:20.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Weakness may extend toward 0.6970 against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakness-may-extend-toward-06970-against-us-dollar-uob-202609251234",
-      "datum": "2026-09-25T12:34:05.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US August durable goods orders 0.0% vs -0.4% expected",
       "link": "https://investinglive.com/news/us-august-durable-goods-orders-0-0-vs-0-4-expected/",
       "datum": "2026-09-25T12:30:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swedish Krona: Riksbank facing delayed inflation rebound – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-facing-delayed-inflation-rebound-commerzbank-202609251223",
-      "datum": "2026-09-25T12:23:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: Bulls challenge 0.8600 resistance after weeks of consolidation",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bulls-challenge-08600-resistance-after-weeks-of-consolidation-202609251216",
-      "datum": "2026-09-25T12:16:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "CEE FX: Regional currencies weaken against Euro on policy risks - Societe Generale",
-      "link": "https://www.fxstreet.com/news/cee-fx-regional-currencies-weaken-against-euro-on-policy-risks-societe-generale-202609251207",
-      "datum": "2026-09-25T12:07:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen extends recovery as Tokyo officials defend BoJ independence",
-      "link": "https://www.fxstreet.com/news/japanese-yen-extends-recovery-as-tokyo-officials-defend-boj-independence-202609251157",
-      "datum": "2026-09-25T11:57:13.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -74,19 +98,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro: France spreads weigh on EUR – ING",
-      "link": "https://www.fxstreet.com/news/euro-france-spreads-weigh-on-eur-ing-202609251149",
-      "datum": "2026-09-25T11:49:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Rate differentials support but upside constrained – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-rate-differentials-support-but-upside-constrained-bbh-202609251139",
-      "datum": "2026-09-25T11:39:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold finds support as US Dollar and yields ease, weekly loss still in sight",
+      "titel": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
       "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
       "datum": "2026-09-25T11:06:53.000Z"
     },
@@ -101,18 +113,6 @@
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-50/",
       "datum": "2026-09-25T06:28:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German consumer climate darkens ahead of October as higher energy costs bite",
-      "link": "https://investinglive.com/news/german-consumer-climate-darkens-ahead-of-october-as-higher-energy-costs-bite/",
-      "datum": "2026-09-25T06:00:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee gets cushioned by RBI’s likely intervention on Friday",
-      "link": "https://www.fxstreet.com/news/indian-rupee-cushioned-by-rbis-likely-intervention-outlook-remain-fragile-202609250528",
-      "datum": "2026-09-25T05:28:55.000Z"
     }
   ]
 }

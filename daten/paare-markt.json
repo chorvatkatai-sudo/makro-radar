@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-25T13:28:44.617Z",
+  "stand": "2026-09-25T15:41:33.139Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 1,
       "tiltCot": -4,
-      "tiltZins": 6,
-      "tiltGesamt": 2,
-      "score": 3,
+      "tiltZins": 5,
+      "tiltGesamt": 1,
+      "score": 2,
       "cotExtrem": "erhoeht",
       "treiber": "BEWUSST winzig gehalten und gegen den Dollar-Block gestellt: Zwar spricht der US-Zinsvorsprung für ein höheres Paar, aber die BoJ-Erhöhung, das Interventionsrisiko UND die überfüllte Yen-Long-Wette (COT z+1,8 = Rückschlag-Risiko) ziehen dagegen. Dazu ist USD/JPY unser schwächstes Paar (3/13). Die Markt-Korrektur unten macht die Spannung sichtbar.",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": -3,
       "tiltCot": -2,
-      "tiltZins": -8,
-      "tiltGesamt": -10,
-      "score": -13,
+      "tiltZins": -7,
+      "tiltGesamt": -9,
+      "score": -12,
       "cotExtrem": null,
       "treiber": "Der Dollar dominiert; Australiens gemischte Jobs (Beat, aber Quote 4,6%) und Risk-on halten den Rückgang in Grenzen — moderater Minus-Score.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 5,
       "tiltCot": 3,
-      "tiltZins": 6,
-      "tiltGesamt": 9,
-      "score": 14,
+      "tiltZins": 7,
+      "tiltGesamt": 10,
+      "score": 15,
       "cotExtrem": null,
       "treiber": "Der sauberste Dollar-Long: Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Die gestrichene SNB-Drohung ist leicht Franken-stützend, deckelt den Anstieg minimal.",
       "istCross": false

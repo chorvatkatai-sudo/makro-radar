@@ -912,20 +912,20 @@
   {
     "date": "2026-09-30T06:00:00.000Z",
     "country": "GBP",
-    "title": "Business Investment YoY Final",
+    "title": "GDP Growth Rate QoQ Final",
     "impact": "Low",
-    "forecast": "0.8%",
-    "previous": "-1.3%",
+    "forecast": "0.4%",
+    "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-09-30T06:00:00.000Z",
     "country": "GBP",
-    "title": "GDP Growth Rate QoQ Final",
+    "title": "Business Investment YoY Final",
     "impact": "Low",
-    "forecast": "0.4%",
-    "previous": "0.6%",
+    "forecast": "0.8%",
+    "previous": "-1.3%",
     "actual": null,
     "quelle": "tradingview"
   },

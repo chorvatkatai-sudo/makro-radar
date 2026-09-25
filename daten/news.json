@@ -1,11 +1,23 @@
 {
-  "stand": "2026-09-25T15:41:33.137Z",
+  "stand": "2026-09-25T16:22:45.036Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Tehran describes talks atmosphere as increasingly positive - report",
+      "link": "https://investinglive.com/news/tehran-describes-talks-atmosphere-as-increasingly-positive-report/",
+      "datum": "2026-09-25T16:02:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Xi: US-China relationship will be one of strategic stability based on respect, fairness and reciprocity",
+      "link": "https://investinglive.com/news/xi-us-china-relationship-will-be-one-of-strategic-stability-based-on-respect-fairness-and-reciprocity/",
+      "datum": "2026-09-25T15:58:50.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "British Pound finds relief as USD pauses, but inflation risks linger",
@@ -101,18 +113,6 @@
       "titel": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
       "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
       "datum": "2026-09-25T11:06:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Spain Q2 GDP confirmed at 0.7% as domestic demand keeps growth resilient",
-      "link": "https://investinglive.com/news/spain-q2-gdp-confirmed-at-0-7-as-domestic-demand-keeps-growth-resilient/",
-      "datum": "2026-09-25T07:00:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-50/",
-      "datum": "2026-09-25T06:28:41.000Z"
     }
   ]
 }

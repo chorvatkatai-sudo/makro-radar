@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-24T22:52:37.826Z",
+  "stand": "2026-09-25T05:21:23.062Z",
   "ausBriefing": "2026-09-18",
   "overlayAktiv": true,
   "paare": [
@@ -60,13 +60,13 @@
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 5,
+      "baseScore": 4,
       "tiltCot": 3,
       "tiltZins": 8,
       "tiltGesamt": 11,
-      "score": 16,
+      "score": 15,
       "cotExtrem": null,
-      "treiber": "Der sauberste Dollar-Long dieser Woche: fester Dollar trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt), plus Öl-Gegenwind und mögliche SNB-Schwächungs-Andeutung am Donnerstag.",
+      "treiber": "Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Etwas zurückgenommen, weil die SNB am Donnerstag ihre Franken-Schwächungs-Drohung gestrichen hat — dem Franken fehlt jetzt dieser Gegenwind.",
       "istCross": false
     },
     {
@@ -115,11 +115,11 @@
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": 1,
+      "baseScore": 0,
       "tiltCot": 3,
       "tiltZins": 2,
       "tiltGesamt": 5,
-      "score": 6,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

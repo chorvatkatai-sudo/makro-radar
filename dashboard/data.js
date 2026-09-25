@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-24T22:52:38.180Z",
+ "erstellt": "2026-09-25T05:21:23.077Z",
  "wochenStart": "2026-09-20",
  "events": [
   {
@@ -414,7 +414,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.00%",
    "previous": "0.00%",
-   "actual": null
+   "actual": "0.00%"
   },
   {
    "title": "SNB Press Conference",
@@ -2920,7 +2920,7 @@ window.MAKRO_DATA = {
    "USD": {
     "stimmung": "bullisch",
     "score": 12,
-    "grund": "Die Fed hat erhöht und will noch mehr — mit steigenden Zinsen und Renditen nahe 5% hat der Dollar echten Rückenwind; nur der Gold-Rekord (Papiergeld-Skepsis) deckelt ihn, deshalb kein Euphorie-Score."
+    "grund": "Die Fed hat erhöht und will noch mehr — mit steigenden Zinsen, Renditen über 5% und starken Arbeitsmarktzahlen (Erstanträge nur 197k) steht der Dollar am 7-Wochen-Hoch; nur der (zuletzt etwas gefallene) Gold-Preis und das schon große Long-Übergewicht bremsen die Euphorie."
    },
    "EUR": {
     "stimmung": "bärisch",
@@ -2939,8 +2939,8 @@ window.MAKRO_DATA = {
    },
    "CHF": {
     "stimmung": "bärisch",
-    "score": -5,
-    "grund": "Bei ruhigem Markt (niedriger VIX) braucht niemand den sicheren Hafen Franken, teures Öl belastet den Energie-Importeur zusätzlich, und die SNB könnte nächste Woche über eine Franken-Schwächung reden."
+    "score": -4,
+    "grund": "Bei ruhigem Markt (niedriger VIX) braucht niemand den sicheren Hafen Franken. ABER neu: Die SNB hat am Donnerstag ihre Drohung, den Franken zu schwächen, ZURÜCKGENOMMEN (der Franken hat seit Juni ohnehin nachgegeben) — dieser künstliche Abwärtsdruck fällt weg, deshalb nur noch leicht bärisch."
    },
    "CAD": {
     "stimmung": "neutral",
@@ -2986,8 +2986,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CHF",
-    "score": 5,
-    "treiber": "Der sauberste Dollar-Long dieser Woche: fester Dollar trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt), plus Öl-Gegenwind und mögliche SNB-Schwächungs-Andeutung am Donnerstag."
+    "score": 4,
+    "treiber": "Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Etwas zurückgenommen, weil die SNB am Donnerstag ihre Franken-Schwächungs-Drohung gestrichen hat — dem Franken fehlt jetzt dieser Gegenwind."
    },
    {
     "paar": "NZD/USD",
@@ -3083,19 +3083,20 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung beachtet: Die Fed-Erhöhung ist ein echter breiter Dollar-Treiber, deshalb zeigen 6 von 7 Paaren dollar-stark — das ist im Kern EINE Wette. Bewusst gelöst: USD/JPY (BoJ-Erhöhung + Interventionsrisiko → gegen den Dollar). Und die Größe je Paar spiegelt eigene Gründe: Öl deckelt USD/CAD, die falkenhafte BoE deckelt GBP/USD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-09-24",
-   "wochentag": "Donnerstag",
-   "tenor": "Notenbank-Tag im Kleinformat: Heute früh kamen die 🇦🇺 Australien-Jobs GEMISCHT (mehr neue Stellen als erwartet, ABER die Arbeitslosenquote stieg auf 4,6% = fast 4-Jahres-Hoch), am Vormittag entscheidet die 🇨🇭 Schweizer Notenbank (fast sicher HALTEN bei 0%). Darüber thront weiter der feste Dollar: Index über 101, die US-10-Jahres-Rendite über 5% — „höher für länger\" regiert, EUR/USD am 2-Monats-Tief ~1,138.",
+   "stand": "2026-09-25",
+   "wochentag": "Freitag",
+   "tenor": "Ruhiger Wochenausklang unter festem Dollar: Der Greenback steht am 7-Wochen-Hoch (Index ~101,3, +1% Wo), gestützt von der Fed-Erhöhung, Renditen über 5% und starken US-Arbeitsmarktzahlen. Gestern hielt die Schweizer Notenbank bei 0% und nahm überraschend den Fuß von der Franken-Schwächung. Heute nur eine kleine US-Zahl (Auftragseingänge langlebiger Güter).",
    "heute": [
-    "🇨🇭 SNB-Zinsentscheid (~9:30 Wien) = Haupttermin: Die Schweizer Notenbank hält ihren Leitzins mit ~97% Wahrscheinlichkeit bei 0%. Spannend ist NICHT das Ergebnis, sondern der TON — deutet Chef Schlegel an, dass er den zu starken Franken schwächen (am Devisenmarkt eingreifen) will? Ein solcher Hinweis würde den Franken drücken.",
-    "🇦🇺 Australien-Jobs (schon draußen, ~3:30 Wien) GEMISCHT: +39.500 neue Stellen (klarer Beat vs. ~20.000 erwartet), ABER die Arbeitslosenquote stieg 4,5%→4,6% (fast 4-Jahres-Hoch), weil mehr Menschen Arbeit suchen (Erwerbsquote 67,1%). Unterm Strich ein Wäsche-Ergebnis — der Aussie gab leicht nach.",
-    "💵 Dollar bleibt fest: Dollar-Index 101,1 (+0,8% Wo), EUR/USD am 2-Monats-Tief ~1,138, US-10-Jahres-Rendite über 5% (5,11%). Das Zins-Argument („höher für länger\" nach der Fed-Erhöhung) übertönt alles. Später heute: US-Erstanträge Arbeitslosenhilfe + Trump-Xi-Gipfel.",
-    "🥇🛢️ Gold hat vom Rekord etwas abgegeben (~4.326$, −1,7% Wo), ÖL fiel weiter (WTI ~92$, −9,5% Wo) — die Öl-Inflations-Sorge lässt nach, dem Kanada-Dollar fehlt der Rückenwind. VIX tief bei 15 = ruhiger, risikofreudiger Markt."
+    "🇺🇸 US-Auftragseingänge langlebige Güter (August, ~14:30 Wien) = einzige Zahl heute: erwartet etwa −0,5% zum Vormonat (nach starkem +1,1% im Juli). Eine schwankungsanfällige Zahl (Flugzeug-Bestellungen verzerren) — ein Miss würde den Dollar kaum bremsen, solange die Zins-Story steht.",
+    "💵 Dollar am 7-Wochen-Hoch, aber heute früh etwas Luft geholt: nach 4 Gewinn-Tagen in Folge erholte sich EUR/USD vom 2-Monats-Tief 1,138 leicht auf ~1,144. Der Wochentrend bleibt aber klar dollarstark (Index ~101,3).",
+    "🗣️ Weiter falkenhafte Fed-Redner halten das „höher-für-länger\"-Argument am Leben (Barkin: eine einzelne Erhöhung reicht vielleicht nicht, um die Inflation zu bändigen). Dazu fielen gestern die US-Erstanträge auf 197k = kaum Entlassungen = robuster Arbeitsmarkt.",
+    "🇨🇳🇺🇸 Nachklang des Trump-Xi-Gipfels (gestern): Der Markt schaut auf Fortschritte bei Seltenen Erden, Tech-Beschränkungen und einer Verlängerung des Zoll-Waffenstillstands."
    ],
    "gestern": [
-    "📊 Mittwoch war PMI-Tag (Frühindikatoren): 🇪🇺 Euroraum überraschte POSITIV — Dienstleistungen 51,4 (statt 50,5 erwartet), Gesamt-Index 51,2 = 16-Monats-Hoch. 🇺🇸 USA kühlten leicht ab (Gesamt 53,6 nach 54,6), wachsen aber weiter solide. Über 50 = Wachstum.",
-    "💵 Trotz der besseren Euro-Zahlen blieb der Dollar fest und EUR/USD rutschte weiter auf frische Mehr-Wochen-Tiefs — das Zins-Argument schlägt die Konjunktur-Zahlen.",
-    "📊 Positionierung (COT, Stand 15.9.): Große Spekulanten wetten beim Yen jetzt kräftig auf STÄRKE (netto-long, z+1,8) — Rückschlag-Risiko, falls sie diese Wetten auflösen. Nachhall der Notenbank-Woche: Fed 3,75–4,00%, BoJ 1,25%, BoE falkenhafter Halt."
+    "🇨🇭 SNB hielt den Leitzins bei 0% (wie erwartet) — ÜBERRASCHUNG war der Ton: Chef Schlegel strich die „erhöhte Bereitschaft\", den starken Franken zu bekämpfen, aus dem Text (zurück zur alten Formulierung). Grund: Der Franken hat seit Juni ohnehin nachgegeben. Inflationsprognose leicht angehoben (0,7% für 2026). Heißt: Der künstliche Abwärtsdruck auf den Franken fällt vorerst weg.",
+    "🇦🇺 Australien-Jobs GEMISCHT (Do früh): +39.500 Stellen (klarer Beat vs. ~20.000 erwartet), ABER die Arbeitslosenquote stieg 4,5%→4,6% (fast 4-Jahres-Hoch), weil mehr Menschen Arbeit suchen. Wäsche-Ergebnis — der Aussie gab leicht nach.",
+    "💵 Dollar zog den vierten Tag in Folge an und markierte ein 7-Wochen-Hoch; EUR/USD rutschte kurz auf 1,138 (2-Monats-Tief). US-10-Jahres-Rendite über 5% — das Zins-Argument schlägt weiter alles.",
+    "🥇🛢️ Gold hat vom Rekord abgegeben (~4.307$, −2,7% Wo), auch WTI-Öl fiel (~94$, −6% Wo) — dem Kanada-Dollar fehlt der Rückenwind. Positionierung (COT 15.9.): Große Spekulanten wetten beim Yen jetzt kräftig auf STÄRKE (netto-long, z+1,8, „erhöht\") = Rückschlag-Risiko, falls diese Wetten platzen."
    ]
   }
  },
@@ -3557,8 +3558,8 @@ window.MAKRO_DATA = {
     "bank": "SNB",
     "satz": 0,
     "anzeige": "0,00%",
-    "naechste": "24.9.2026 (nächsten Do)",
-    "erwartung": "Entscheid Do 24.9. Der Markt preist zu ~97% ein HALTEN bei 0,00% ein (Nomura + Bankenumfrage bestätigen). Interessant ist der Ton: stärkeres BIP-Wachstum, zuletzt leicht steigende Inflation und ein schwächerer Franken könnten die SNB zu Andeutungen über eine Rückkehr zu Devisen-Interventionen bewegen. Zinserhöhungen werden frühestens 2028 erwartet",
+    "naechste": "Dez. 2026",
+    "erwartung": "HALTEN bei 0,00% am 24.9. bestätigt (wie erwartet). Überraschung war der Ton: Die SNB nahm ihre 'erhöhte Bereitschaft', den Franken zu bekämpfen, ZURÜCK (der Franken hat seit Juni ohnehin nachgegeben) und hob ihre Inflationsprognose leicht an (0,7% 2026). Der künstliche Abwärtsdruck auf den Franken fällt damit vorerst weg. Zinserhöhungen weiter frühestens 2028 erwartet",
     "richtung": "halten"
    }
   ]
@@ -4159,13 +4160,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 5,
+   "baseScore": 4,
    "tiltCot": 3,
    "tiltZins": 8,
    "tiltGesamt": 11,
-   "score": 16,
+   "score": 15,
    "cotExtrem": null,
-   "treiber": "Der sauberste Dollar-Long dieser Woche: fester Dollar trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt), plus Öl-Gegenwind und mögliche SNB-Schwächungs-Andeutung am Donnerstag.",
+   "treiber": "Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Etwas zurückgenommen, weil die SNB am Donnerstag ihre Franken-Schwächungs-Drohung gestrichen hat — dem Franken fehlt jetzt dieser Gegenwind.",
    "istCross": false
   },
   {
@@ -4214,27 +4215,27 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 1,
+   "baseScore": 0,
    "tiltCot": 3,
    "tiltZins": 2,
    "tiltGesamt": 5,
-   "score": 6,
+   "score": 5,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-24T22:52:37.833Z",
+  "stand": "2026-09-25T05:21:23.076Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 58,
-  "gewertet": 28,
-  "nichtWertbar": 30,
-  "treffer": 15,
-  "quote": 54,
+  "gewertet": 29,
+  "nichtWertbar": 29,
+  "treffer": 16,
+  "quote": 55,
   "zinsentscheide": {
-   "treffer": 8,
-   "gesamt": 8,
+   "treffer": 9,
+   "gesamt": 9,
    "quote": 100
   },
   "datenPrognosen": {
@@ -4248,9 +4249,9 @@ window.MAKRO_DATA = {
    "quote": 50
   },
   "exakt": {
-   "treffer": 2,
-   "gesamt": 5,
-   "quote": 40
+   "treffer": 3,
+   "gesamt": 6,
+   "quote": 50
   },
   "textdeutung": {
    "treffer": 13,
@@ -4258,15 +4259,6 @@ window.MAKRO_DATA = {
    "quote": 57
   },
   "letzte": [
-   {
-    "event": "Großbritannien: BIP (Vorabschätzung Q2)",
-    "datum": "2026-08-13",
-    "richtung": "niedriger",
-    "tatsaechlich": "hoeher",
-    "konsens": "0.0%",
-    "ist": "0.3%",
-    "treffer": false
-   },
    {
     "event": "Kanada: Verbraucherpreise (CPI, Juli)",
     "datum": "2026-08-17",
@@ -4329,6 +4321,15 @@ window.MAKRO_DATA = {
     "konsens": "0.3%",
     "ist": "0.3%",
     "treffer": false
+   },
+   {
+    "event": "SNB-Zinsentscheid (Schweizer Notenbank)",
+    "datum": "2026-09-24",
+    "richtung": "wie_erwartet",
+    "tatsaechlich": "wie_erwartet",
+    "konsens": "0.00%",
+    "ist": "0.00%",
+    "treffer": true
    }
   ]
  },
@@ -4726,8 +4727,8 @@ window.MAKRO_DATA = {
   "CHF": {
    "ueber": 0,
    "unter": 0,
-   "gleich": 1,
-   "gesamt": 1,
+   "gleich": 2,
+   "gesamt": 2,
    "score": 0
   },
   "NZD": {
@@ -5222,6 +5223,16 @@ window.MAKRO_DATA = {
   ]
  },
  "historie": [
+  {
+   "datum": "2026-09-24T03:30:00-04:00",
+   "land": "CHF",
+   "titel": "SNB Policy Rate",
+   "impact": "High",
+   "prognose": "0.00%",
+   "vorher": "0.00%",
+   "actual": "0.00%",
+   "notiz": null
+  },
   {
    "datum": "2026-09-23T21:30:00-04:00",
    "land": "AUD",
@@ -5811,16 +5822,6 @@ window.MAKRO_DATA = {
    "vorher": "4.0%",
    "actual": "3.9%",
    "notiz": null
-  },
-  {
-   "datum": "2026-07-23T08:15:00-04:00",
-   "land": "EUR",
-   "titel": "Main Refinancing Rate",
-   "impact": "High",
-   "prognose": "2.40%",
-   "vorher": "2.40%",
-   "actual": "2.4%",
-   "notiz": "auto:TV rate (2026-07-23)"
   }
  ],
  "anzahlGespeichert": 1468

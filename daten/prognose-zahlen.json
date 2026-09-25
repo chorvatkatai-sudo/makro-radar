@@ -1,14 +1,14 @@
 {
-  "stand": "2026-09-24T22:52:37.833Z",
+  "stand": "2026-09-25T05:21:23.076Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 58,
-  "gewertet": 28,
-  "nichtWertbar": 30,
-  "treffer": 15,
-  "quote": 54,
+  "gewertet": 29,
+  "nichtWertbar": 29,
+  "treffer": 16,
+  "quote": 55,
   "zinsentscheide": {
-    "treffer": 8,
-    "gesamt": 8,
+    "treffer": 9,
+    "gesamt": 9,
     "quote": 100
   },
   "datenPrognosen": {
@@ -22,9 +22,9 @@
     "quote": 50
   },
   "exakt": {
-    "treffer": 2,
-    "gesamt": 5,
-    "quote": 40
+    "treffer": 3,
+    "gesamt": 6,
+    "quote": 50
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "Großbritannien: BIP (Vorabschätzung Q2)",
-      "datum": "2026-08-13",
-      "richtung": "niedriger",
-      "tatsaechlich": "hoeher",
-      "konsens": "0.0%",
-      "ist": "0.3%",
-      "treffer": false
-    },
     {
       "event": "Kanada: Verbraucherpreise (CPI, Juli)",
       "datum": "2026-08-17",
@@ -103,6 +94,15 @@
       "konsens": "0.3%",
       "ist": "0.3%",
       "treffer": false
+    },
+    {
+      "event": "SNB-Zinsentscheid (Schweizer Notenbank)",
+      "datum": "2026-09-24",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "0.00%",
+      "ist": "0.00%",
+      "treffer": true
     }
   ]
 }

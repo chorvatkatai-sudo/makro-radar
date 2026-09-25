@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-25T13:19:12.563Z",
+  "stand": "2026-09-25T13:28:44.617Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -4,
       "tiltCot": -1,
-      "tiltZins": -7,
-      "tiltGesamt": -8,
-      "score": -12,
+      "tiltZins": -8,
+      "tiltGesamt": -9,
+      "score": -13,
       "cotExtrem": null,
       "treiber": "Der feste Dollar (Fed-Erhöhung, Renditen über 5%) drückt das Paar. Die starken Euro-PMIs (Composite 3-Jahres-Hoch) mildern das Minus aber deutlich ab — deshalb kein großer Score. Track-Record hier schwach (31%) → bewusst klein.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 3,
       "tiltCot": 2,
-      "tiltZins": 7,
-      "tiltGesamt": 9,
-      "score": 12,
+      "tiltZins": 8,
+      "tiltGesamt": 10,
+      "score": 13,
       "cotExtrem": null,
       "treiber": "Der starke Dollar hebt das Paar. Aber der fallende Ölpreis (WTI −3% Wo) hat dem Loonie zwar Rückenwind genommen, gleichzeitig ist Öl noch teuer und die BoC falkenhaft — deshalb nur moderat, nicht groß.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 5,
       "tiltCot": 3,
-      "tiltZins": 7,
-      "tiltGesamt": 10,
-      "score": 15,
+      "tiltZins": 6,
+      "tiltGesamt": 9,
+      "score": 14,
       "cotExtrem": null,
       "treiber": "Der sauberste Dollar-Long: Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Die gestrichene SNB-Drohung ist leicht Franken-stützend, deckelt den Anstieg minimal.",
       "istCross": false

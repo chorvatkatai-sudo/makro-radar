@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-26T05:19:44.845Z",
+ "erstellt": "2026-09-26T15:37:11.165Z",
  "wochenStart": "2026-09-20",
  "events": [
   {
@@ -1527,7 +1527,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Inflation Rate YoY",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "4.1%",
    "previous": "3.5%",
    "actual": null,
    "quelle": "tradingview"
@@ -1655,20 +1655,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-09-30T06:00:00.000Z",
    "country": "GBP",
-   "title": "GDP Growth Rate QoQ Final",
+   "title": "Business Investment YoY Final",
    "impact": "Low",
-   "forecast": "0.4%",
-   "previous": "0.6%",
+   "forecast": "0.8%",
+   "previous": "-1.3%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-09-30T06:00:00.000Z",
    "country": "GBP",
-   "title": "Business Investment YoY Final",
+   "title": "GDP Growth Rate QoQ Final",
    "impact": "Low",
-   "forecast": "0.8%",
-   "previous": "-1.3%",
+   "forecast": "0.4%",
+   "previous": "0.6%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1687,8 +1687,8 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "title": "Nationwide Housing Prices MoM",
    "impact": "Medium",
-   "forecast": "",
-   "previous": "0.2",
+   "forecast": "0.2%",
+   "previous": "0.2%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3707,7 +3707,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-09-26T05:19:42.821Z",
+  "stand": "2026-09-26T15:37:08.577Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3977,12 +3977,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 83913.71,
+    "wert": 84166.82,
     "tagProzent": 0,
-    "wocheProzent": -3.11,
+    "wocheProzent": -2.33,
     "renditeDelta": false,
     "verlauf": [
-     79823.87,
      80350.05,
      79115.85,
      78438.58,
@@ -4002,8 +4001,9 @@ window.MAKRO_DATA = {
      86172.28,
      84383.01,
      84379.06,
-     83913.71,
-     83913.71
+     84034.92,
+     84166.82,
+     84166.82
     ]
    },
    "FEDFUT": {
@@ -4040,40 +4040,6 @@ window.MAKRO_DATA = {
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    },
-   "REAL10": {
-    "name": "US-Realzins 10J (TIPS)",
-    "einheit": "%",
-    "typ": "rendite",
-    "wert": 2.85,
-    "tagProzent": 0.09,
-    "wocheProzent": 0.24,
-    "renditeDelta": true,
-    "verlauf": [
-     2.32,
-     2.34,
-     2.34,
-     2.42,
-     2.44,
-     2.44,
-     2.45,
-     2.42,
-     2.43,
-     2.43,
-     2.46,
-     2.55,
-     2.6,
-     2.6,
-     2.62,
-     2.68,
-     2.61,
-     2.68,
-     2.62,
-     2.63,
-     2.76,
-     2.85
-    ],
-    "quelle": "FRED"
-   },
    "INFL10": {
     "name": "Inflationserwartung 10J (Breakeven)",
     "einheit": "%",
@@ -4105,6 +4071,40 @@ window.MAKRO_DATA = {
      2.35,
      2.33,
      2.34
+    ],
+    "quelle": "FRED"
+   },
+   "REAL10": {
+    "name": "US-Realzins 10J (TIPS)",
+    "einheit": "%",
+    "typ": "rendite",
+    "wert": 2.85,
+    "tagProzent": 0.09,
+    "wocheProzent": 0.24,
+    "renditeDelta": true,
+    "verlauf": [
+     2.32,
+     2.34,
+     2.34,
+     2.42,
+     2.44,
+     2.44,
+     2.45,
+     2.42,
+     2.43,
+     2.43,
+     2.46,
+     2.55,
+     2.6,
+     2.6,
+     2.62,
+     2.68,
+     2.61,
+     2.68,
+     2.62,
+     2.63,
+     2.76,
+     2.85
     ],
     "quelle": "FRED"
    }
@@ -4368,7 +4368,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-26T05:19:44.162Z",
+  "stand": "2026-09-26T15:37:10.663Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 29,
@@ -4476,7 +4476,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-09-26T05:19:44.844Z",
+  "stand": "2026-09-26T15:37:11.163Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4706,7 +4706,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-09-26T05:19:43.340Z",
+  "stand": "2026-09-26T15:37:10.655Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

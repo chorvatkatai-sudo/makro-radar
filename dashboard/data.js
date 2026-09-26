@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-25T19:43:57.893Z",
+ "erstellt": "2026-09-26T05:18:32.883Z",
  "wochenStart": "2026-09-20",
  "events": [
   {
@@ -3226,20 +3226,19 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Wette. Die Fed-Erhöhung ist ein echter breiter Treiber, deshalb ist die Konzentration ehrlich; aber bewusst gelöst ist USD/JPY (winzig +1: BoJ-Erhöhung + Interventionsrisiko + überfüllte Yen-Long-Wette). Und die Größe je Paar spiegelt eigene Gründe: Euro-PMI-Stärke deckelt EUR/USD, Öl-Rückgang deckelt USD/CAD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-09-25",
-   "wochentag": "Freitag",
-   "tenor": "Ruhiger Wochenausklang unter festem Dollar: Der Greenback steht am 7-Wochen-Hoch (Index ~101,3, +1% Wo), gestützt von der Fed-Erhöhung, Renditen über 5% und starken US-Arbeitsmarktzahlen. Gestern hielt die Schweizer Notenbank bei 0% und nahm überraschend den Fuß von der Franken-Schwächung. Heute nur eine kleine US-Zahl (Auftragseingänge langlebiger Güter).",
+   "stand": "2026-09-26",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende, die Börsen ruhen. Rückblick: Der Dollar beendete die Woche als klarer Chef am 7-Wochen-Hoch (Index ~101,0, +1% Wo) — die Fed-Erhöhung wirkt nach, die 10-Jahres-Rendite steht über 5%. Voraus liegt eine MONSTER-Woche mit Kern-PCE (Mi), ISM (Do) und dem US-Jobbericht + Euro-Inflation (Fr).",
    "heute": [
-    "🇺🇸 US-Auftragseingänge langlebige Güter (August, ~14:30 Wien) = einzige Zahl heute: erwartet etwa −0,5% zum Vormonat (nach starkem +1,1% im Juli). Eine schwankungsanfällige Zahl (Flugzeug-Bestellungen verzerren) — ein Miss würde den Dollar kaum bremsen, solange die Zins-Story steht.",
-    "💵 Dollar am 7-Wochen-Hoch, aber heute früh etwas Luft geholt: nach 4 Gewinn-Tagen in Folge erholte sich EUR/USD vom 2-Monats-Tief 1,138 leicht auf ~1,144. Der Wochentrend bleibt aber klar dollarstark (Index ~101,3).",
-    "🗣️ Weiter falkenhafte Fed-Redner halten das „höher-für-länger\"-Argument am Leben (Barkin: eine einzelne Erhöhung reicht vielleicht nicht, um die Inflation zu bändigen). Dazu fielen gestern die US-Erstanträge auf 197k = kaum Entlassungen = robuster Arbeitsmarkt.",
-    "🇨🇳🇺🇸 Nachklang des Trump-Xi-Gipfels (gestern): Der Markt schaut auf Fortschritte bei Seltenen Erden, Tech-Beschränkungen und einer Verlängerung des Zoll-Waffenstillstands."
+    "🛌 Samstag — Devisenmärkte geschlossen, keine neuen Zahlen. Zeit für den Blick nach vorn.",
+    "📅 Nächste Woche ist ein Schwergewicht: 🇺🇸 Mi 30.9. Kern-PCE (14:30 Wien, der Lieblings-Inflationswert der Fed) + ADP + finales BIP · 🇺🇸 Do 1.10. ISM-Industrie (16:00) · 🇺🇸🇪🇺 Fr 2.10. US-Jobbericht (NFP, 14:30) + Euro-Inflation-Flash (11:00). Diese Zahlen entscheiden, ob die Fed im Oktober wirklich nochmal erhöht (aktuell ~73% eingepreist).",
+    "🧭 Die Lage bleibt bis dahin: Dollar-Zins-Story regiert (Rendite >5%, Oktober-Erhöhung wahrscheinlich), gedeckelt nur vom Gold nahe Rekord (~4.320$, Entwertungs-Wette). Fällt der Kern-PCE heiß aus → Dollar-Rückenwind; ein schwacher Jobbericht wäre der erste echte Gegentest."
    ],
    "gestern": [
-    "🇨🇭 SNB hielt den Leitzins bei 0% (wie erwartet) — ÜBERRASCHUNG war der Ton: Chef Schlegel strich die „erhöhte Bereitschaft\", den starken Franken zu bekämpfen, aus dem Text (zurück zur alten Formulierung). Grund: Der Franken hat seit Juni ohnehin nachgegeben. Inflationsprognose leicht angehoben (0,7% für 2026). Heißt: Der künstliche Abwärtsdruck auf den Franken fällt vorerst weg.",
-    "🇦🇺 Australien-Jobs GEMISCHT (Do früh): +39.500 Stellen (klarer Beat vs. ~20.000 erwartet), ABER die Arbeitslosenquote stieg 4,5%→4,6% (fast 4-Jahres-Hoch), weil mehr Menschen Arbeit suchen. Wäsche-Ergebnis — der Aussie gab leicht nach.",
-    "💵 Dollar zog den vierten Tag in Folge an und markierte ein 7-Wochen-Hoch; EUR/USD rutschte kurz auf 1,138 (2-Monats-Tief). US-10-Jahres-Rendite über 5% — das Zins-Argument schlägt weiter alles.",
-    "🥇🛢️ Gold hat vom Rekord abgegeben (~4.307$, −2,7% Wo), auch WTI-Öl fiel (~94$, −6% Wo) — dem Kanada-Dollar fehlt der Rückenwind. Positionierung (COT 15.9.): Große Spekulanten wetten beim Yen jetzt kräftig auf STÄRKE (netto-long, z+1,8, „erhöht\") = Rückschlag-Risiko, falls diese Wetten platzen."
+    "🇺🇸 Freitag: US-Auftragseingänge langlebige Güter (August) kamen praktisch unverändert (~0%) — ein kleiner Beat gegenüber den erwarteten −0,5%. Ohne Transport +0,3%. Eine schwankungsanfällige Zahl, kein Markt-Beweger; der Dollar blieb fest.",
+    "💵 Der Dollar schloss die Woche am 7-Wochen-Hoch (Index ~101,0), auch wenn er am Freitag nach vier Gewinn-Tagen leicht Luft holte (−0,2% am Tag). EUR/USD erholte sich vom 2-Monats-Tief 1,138 auf ~1,144. Wochentrend klar dollarstark.",
+    "🇨🇭 Donnerstag: Die SNB hielt bei 0% und strich überraschend die Bereitschaft, den starken Franken zu bekämpfen (leicht Franken-positiv). 🇦🇺 Australien-Jobs gemischt (+39.500 Stellen, aber Quote auf 4,6% = fast 4-Jahres-Hoch).",
+    "📊 Positionierung frisch (COT Stand 22.9.): Große Spekulanten wetten beim Yen weiter kräftig auf Stärke (netto-long) — eine überfüllte Wette = Rückschlag-Risiko, falls sie platzt (dann Yen schwächer, USD/JPY höher)."
    ]
   }
  },
@@ -4369,7 +4368,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-25T19:43:57.555Z",
+  "stand": "2026-09-26T05:18:32.882Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 29,

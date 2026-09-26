@@ -1,11 +1,47 @@
 {
-  "stand": "2026-09-25T19:43:57.547Z",
+  "stand": "2026-09-26T05:19:43.340Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Export strength supports KRW – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141",
+      "datum": "2026-09-25T21:41:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Iran hopes spring eternal",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-iran-hopes-spring-eternal/",
+      "datum": "2026-09-25T21:15:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-202609252056",
+      "datum": "2026-09-25T20:56:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "datum": "2026-09-25T20:30:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasury yields rise as 30-year bond hits 22-year high",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
+      "datum": "2026-09-25T20:22:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Trade surplus seen widening – ING",
+      "link": "https://www.fxstreet.com/news/south-korean-won-trade-surplus-seen-widening-ing-202609252012",
+      "datum": "2026-09-25T20:12:00.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
@@ -61,30 +97,6 @@
       "datum": "2026-09-25T17:44:13.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
-      "datum": "2026-09-25T17:43:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
-      "datum": "2026-09-25T17:38:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar holds steady as US Dollar retreats",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
-      "datum": "2026-09-25T16:58:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dow Jones Industrial Average bounces on Iran's latest Hormuz offer",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-bounces-on-irans-latest-hormuz-offer-202609251628",
-      "datum": "2026-09-25T16:28:49.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Tehran describes talks atmosphere as increasingly positive - report",
       "link": "https://investinglive.com/news/tehran-describes-talks-atmosphere-as-increasingly-positive-report/",
@@ -101,18 +113,6 @@
       "titel": "September final UMich consumer sentiment 48.1 vs 47.6 expected",
       "link": "https://investinglive.com/news/september-final-umich-consumer-sentiment-48-1-vs-47-6-expected/",
       "datum": "2026-09-25T14:00:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "USTR's Greer: We have reached agreements with China on a sub-set of goods we can trade",
-      "link": "https://investinglive.com/news/ustr-s-greer-we-have-reached-agreements-with-china-on-a-sub-set-of-goods-we-can-trade/",
-      "datum": "2026-09-25T12:47:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US August durable goods orders 0.0% vs -0.4% expected",
-      "link": "https://investinglive.com/news/us-august-durable-goods-orders-0-0-vs-0-4-expected/",
-      "datum": "2026-09-25T12:30:12.000Z"
     }
   ]
 }

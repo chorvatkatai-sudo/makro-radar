@@ -1,11 +1,11 @@
 {
-  "stand": "2026-09-27T05:17:19.836Z",
+  "stand": "2026-09-28T05:23:03.647Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
-  "gewertet": 29,
-  "nichtWertbar": 33,
+  "gewertet": 30,
+  "nichtWertbar": 32,
   "treffer": 16,
-  "quote": 55,
+  "quote": 53,
   "zinsentscheide": {
     "treffer": 9,
     "gesamt": 9,
@@ -13,8 +13,8 @@
   },
   "datenPrognosen": {
     "treffer": 7,
-    "gesamt": 20,
-    "quote": 35
+    "gesamt": 21,
+    "quote": 33
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
@@ -23,8 +23,8 @@
   },
   "exakt": {
     "treffer": 3,
-    "gesamt": 6,
-    "quote": 50
+    "gesamt": 7,
+    "quote": 43
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "Kanada: Verbraucherpreise (CPI, Juli)",
-      "datum": "2026-08-17",
-      "richtung": "hoeher",
-      "tatsaechlich": "hoeher",
-      "konsens": "0.4%",
-      "ist": "0.5",
-      "treffer": true
-    },
     {
       "event": "Großbritannien: Verbraucherpreise (CPI, Juli)",
       "datum": "2026-08-19",
@@ -103,6 +94,15 @@
       "konsens": "0.00%",
       "ist": "0.00%",
       "treffer": true
+    },
+    {
+      "event": "US-Kern-PCE (Kern-Konsumausgaben-Preise, m/m)",
+      "datum": "2026-09-30",
+      "richtung": "hoeher",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "1.5%",
+      "ist": "1.5%",
+      "treffer": false
     }
   ]
 }

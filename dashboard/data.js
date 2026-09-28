@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-27T05:17:20.525Z",
+ "erstellt": "2026-09-28T05:23:03.647Z",
  "wochenStart": "2026-09-27",
  "events": [
   {
@@ -2789,9 +2789,9 @@ window.MAKRO_DATA = {
     "grund": "Dem Loonie fehlt Rückenwind: Öl kam auf der Woche zurück (WTI −3%), das war sein Haupttreiber. Die falkenhafte Bank of Canada und eine Short-Eindeckung (COT) stützen zwar, aber gegen den starken Dollar reicht es nur zu leicht negativ."
    },
    "AUD": {
-    "stimmung": "neutral",
-    "score": 1,
-    "grund": "Wäsche-Woche: Stellen-Beat (+39.500), aber die Arbeitslosenquote stieg auf 4,6% (fast 4-Jahres-Hoch). Risk-on-Stimmung und der Hochzins (4,35%) stützen — unterm Strich fast neutral."
+    "stimmung": "bullisch",
+    "score": 7,
+    "grund": "Eigene, dollar-unabhängige Story: Die Notenbank RBA erhöht MORGEN (Di 29.9., 06:30 Wien) mit ~93% Wahrscheinlichkeit auf 4,60% — alle 29 befragten Ökonomen erwarten es, eine zweite Erhöhung im November ist im Gespräch. Australien hat damit den höchsten G10-Zins (2J-Rendite 5,00% = die höchste im Feld). Der Stellen-Beat (+39.500) und Risk-on stützen zusätzlich. Wichtig: Die Erhöhung ist fast voll eingepreist (bestätigt ≠ überrascht) — der Schub kommt eher aus dem Ausblick als aus der Zahl selbst; deshalb bullisch, aber nicht euphorisch."
    },
    "NZD": {
     "stimmung": "bärisch",
@@ -2817,8 +2817,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": -3,
-    "treiber": "Der Dollar dominiert; Australiens gemischte Jobs (Beat, aber Quote 4,6%) und Risk-on halten den Rückgang in Grenzen — moderater Minus-Score."
+    "score": 0,
+    "treiber": "BEWUSST vom Dollar-Block gelöst: Der feste Dollar drückt zwar, aber Australien hat einen echten eigenen Rückenwind — die RBA erhöht morgen (Di) fast sicher auf 4,60% (höchster G10-Zins, höchste 2J-Rendite). Zwei falkenhafte Notenbanken heben sich weitgehend auf → nahe null statt klar minus. Track-Record dieses Paars ordentlich (54%)."
    },
    {
     "paar": "USD/CAD",
@@ -2917,19 +2917,19 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Wette. Die Fed-Erhöhung ist ein echter breiter Treiber, deshalb ist die Konzentration ehrlich; aber bewusst gelöst ist USD/JPY (winzig +1: BoJ-Erhöhung + Interventionsrisiko + überfüllte Yen-Long-Wette). Und die Größe je Paar spiegelt eigene Gründe: Euro-PMI-Stärke deckelt EUR/USD, Öl-Rückgang deckelt USD/CAD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-09-27",
-   "wochentag": "Sonntag",
-   "tenor": "Wochenende, die Börsen ruhen noch — ab Montagfrüh (Asien) geht es wieder los. Rückblick: Der Dollar beendete die Woche als klarer Chef am 7-Wochen-Hoch (Index ~101,0, +1% Wo) — die Fed-Erhöhung wirkt nach, die 10-Jahres-Rendite steht über 5%. Voraus liegt eine MONSTER-Woche mit Kern-PCE (Mi), ISM (Do) und dem US-Jobbericht + Euro-Inflation (Fr).",
+   "stand": "2026-09-28",
+   "wochentag": "Montag",
+   "tenor": "Ruhiger Wochenauftakt ohne große Zahlen — der Dollar sammelt sich am 7-Wochen-Hoch (Index ~101,1) vor einer MONSTER-Datenwoche. Naher Höhepunkt schon morgen: Die australische Notenbank RBA dürfte den Zins erhöhen. Danach entscheiden Kern-PCE (Mi), ISM (Do) und der US-Jobbericht + Euro-Inflation (Fr) über den Fed-Kurs.",
    "heute": [
-    "🛌 Sonntag — Devisenmärkte weiter geschlossen, keine neuen Zahlen. Ab Montagfrüh im Asien-Handel läuft der Markt wieder an.",
-    "📅 Diese Woche ist ein Schwergewicht: 🇺🇸 Mi 30.9. Kern-PCE (14:30 Wien, der Lieblings-Inflationswert der Fed) + ADP + finales BIP · 🇺🇸 Do 1.10. ISM-Industrie (16:00) · 🇺🇸🇪🇺 Fr 2.10. US-Jobbericht (NFP, 14:30) + Euro-Inflation-Flash (11:00). Diese Zahlen entscheiden, ob die Fed im Oktober wirklich nochmal erhöht (aktuell ~73% eingepreist).",
-    "🧭 Die Lage bleibt bis dahin: Dollar-Zins-Story regiert (Rendite >5%, Oktober-Erhöhung wahrscheinlich), gedeckelt nur vom Gold nahe Rekord (~4.320$, Entwertungs-Wette). Fällt der Kern-PCE heiß aus → Dollar-Rückenwind; ein schwacher Jobbericht wäre der erste echte Gegentest."
+    "🗓️ Montag ist ein leiser Auftakt: keine High-Impact-Zahlen. Der Markt positioniert sich für die schwere Woche. Der Dollar hält sein 7-Wochen-Hoch (Index ~101,1), nachdem er am Freitag nach fünf Gewinn-Tagen kurz Luft geholt hatte.",
+    "🇦🇺 MORGEN früh der nächste Paukenschlag: Die RBA entscheidet (Di 29.9., 06:30 Wien) — der Markt preist zu ~93% eine Zins-ERHÖHUNG auf 4,60% ein (alle 29 befragten Ökonomen erwarten sie, eine zweite im November ist im Gespräch). Grund: zäh hohe Kern-Inflation (3,6%) + starkes Wachstum. Direkt danach (Mi 03:30 Wien) die australische Inflation selbst. Deshalb haben wir den Aussie heute vom Dollar-Block gelöst (AUD/USD von leicht minus auf ~neutral gehoben).",
+    "📅 Der Rest der Woche ist ein Schwergewicht: 🇺🇸 Mi 30.9. Kern-PCE (14:30 Wien, Lieblings-Inflationswert der Fed) + ADP + finales BIP · 🇺🇸 Do 1.10. ISM-Industrie (16:00) · 🇺🇸🇪🇺 Fr 2.10. US-Jobbericht (NFP, 14:30, Konsens nur ~98–100k) + Euro-Inflation-Flash (11:00). Diese Zahlen entscheiden, ob die Fed im Oktober wirklich nochmal erhöht (aktuell ~73% eingepreist)."
    ],
    "gestern": [
-    "🇺🇸 Freitag: US-Auftragseingänge langlebige Güter (August) kamen praktisch unverändert (~0%) — ein kleiner Beat gegenüber den erwarteten −0,5%. Ohne Transport +0,3%. Eine schwankungsanfällige Zahl, kein Markt-Beweger; der Dollar blieb fest.",
-    "💵 Der Dollar schloss die Woche am 7-Wochen-Hoch (Index ~101,0), auch wenn er am Freitag nach vier Gewinn-Tagen leicht Luft holte (−0,2% am Tag). EUR/USD erholte sich vom 2-Monats-Tief 1,138 auf ~1,144. Wochentrend klar dollarstark.",
-    "🇨🇭 Donnerstag: Die SNB hielt bei 0% und strich überraschend die Bereitschaft, den starken Franken zu bekämpfen (leicht Franken-positiv). 🇦🇺 Australien-Jobs gemischt (+39.500 Stellen, aber Quote auf 4,6% = fast 4-Jahres-Hoch).",
-    "📊 Positionierung (COT Stand 22.9.): Große Spekulanten wetten beim Yen weiter kräftig auf Stärke (netto-long) — eine überfüllte Wette = Rückschlag-Risiko, falls sie platzt (dann Yen schwächer, USD/JPY höher)."
+    "💵 Freitag/Wochenende: Der Dollar beendete die Woche als klarer Chef am 7-Wochen-Hoch (Index ~101,0, +0,8% Wo), holte am Freitag aber nach fünf Gewinn-Tagen leicht Luft (Index unter 101 gerutscht). Treiber bleibt die Zins-Story: 10-Jahres-Rendite fest über 5%, US-Zinsvorsprung am stärksten gestiegen.",
+    "🇺🇸 Freitag: US-Auftragseingänge langlebige Güter (August) kamen praktisch unverändert (~0%) — ein kleiner Beat gegenüber den erwarteten −0,5%. Ohne Transport +0,3%. Solide, aber kein Markt-Beweger; der Dollar blieb fest.",
+    "🛢️ Öl kam auf der Woche zurück (WTI ~92$, −3,5% Wo) — Berichte über eine mögliche schrittweise Iran-Einigung zur Wiederöffnung der Straße von Hormus dämpfen die Inflations-Angst. Weniger Rückenwind für den Kanada-Dollar. 🥇 Gold hält sich mit ~4.320$ nahe seinem Rekord (Entwertungs-Wette deckelt die Dollar-Rally).",
+    "📊 Positionierung (COT Stand 22.9., frisch): Die überfüllte Yen-Stärke-Wette baut sich etwas ab (noch netto-long, aber deutlich reduziert = weniger Rückschlag-Risiko als vorige Woche). Neuseeland-Wetten sind von long auf short gedreht, Euro- und Pfund-Short-Wetten wurden ausgebaut (bei starkem Gegen-Impuls = Squeeze-Risiko)."
    ]
   }
  },
@@ -3321,16 +3321,16 @@ window.MAKRO_DATA = {
  },
  "leitzinsen": {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-09-25",
+  "stand": "2026-09-28",
   "zinsen": [
    {
     "code": "AUD",
     "bank": "RBA",
     "satz": 4.35,
     "anzeige": "4,35%",
-    "naechste": "Ende Sep 2026",
-    "erwartung": "Am 11.8. bei 4,35% GEHALTEN (wie erwartet, einstimmig). Nach kühlerer Q2-Inflation (Kern-Trimmed 3,6%) ist der Fall für eine Erhöhung vom Tisch; Gouverneurin Bullock blieb geduldig-neutral. Höchster G10-Zins → Aussie-Rückenwind im Risk-on",
-    "richtung": "halten"
+    "naechste": "Di 29.9.2026",
+    "erwartung": "ERHÖHUNG morgen (Di 29.9.) fast sicher: Markt preist ~93% auf 4,60% ein, alle 29 von Bloomberg befragten Ökonomen (inkl. aller vier Großbanken) erwarten +25bp. Grund: zäh hohe Kern-Trimmed-Inflation (3,6%, Abwärtstrend gestoppt) + starkes Q2-BIP + höhere Ölpreise. ANZ sieht eine zweite Erhöhung im November (→ 4,85% zum Jahresende). Höchster G10-Zins",
+    "richtung": "rauf"
    },
    {
     "code": "GBP",
@@ -3971,13 +3971,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -3,
+   "baseScore": 0,
    "tiltCot": -3,
    "tiltZins": -5,
    "tiltGesamt": -8,
-   "score": -11,
+   "score": -8,
    "cotExtrem": null,
-   "treiber": "Der Dollar dominiert; Australiens gemischte Jobs (Beat, aber Quote 4,6%) und Risk-on halten den Rückgang in Grenzen — moderater Minus-Score.",
+   "treiber": "BEWUSST vom Dollar-Block gelöst: Der feste Dollar drückt zwar, aber Australien hat einen echten eigenen Rückenwind — die RBA erhöht morgen (Di) fast sicher auf 4,60% (höchster G10-Zins, höchste 2J-Rendite). Zwei falkenhafte Notenbanken heben sich weitgehend auf → nahe null statt klar minus. Track-Record dieses Paars ordentlich (54%).",
    "istCross": false
   },
   {
@@ -4037,11 +4037,11 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 4,
+   "baseScore": 7,
    "tiltCot": -1,
    "tiltZins": -1,
    "tiltGesamt": -2,
-   "score": 2,
+   "score": 5,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -4059,13 +4059,13 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-27T05:17:19.836Z",
+  "stand": "2026-09-28T05:23:03.647Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
-  "gewertet": 29,
-  "nichtWertbar": 33,
+  "gewertet": 30,
+  "nichtWertbar": 32,
   "treffer": 16,
-  "quote": 55,
+  "quote": 53,
   "zinsentscheide": {
    "treffer": 9,
    "gesamt": 9,
@@ -4073,8 +4073,8 @@ window.MAKRO_DATA = {
   },
   "datenPrognosen": {
    "treffer": 7,
-   "gesamt": 20,
-   "quote": 35
+   "gesamt": 21,
+   "quote": 33
   },
   "richtungBeiAbweichung": {
    "treffer": 6,
@@ -4083,8 +4083,8 @@ window.MAKRO_DATA = {
   },
   "exakt": {
    "treffer": 3,
-   "gesamt": 6,
-   "quote": 50
+   "gesamt": 7,
+   "quote": 43
   },
   "textdeutung": {
    "treffer": 13,
@@ -4092,15 +4092,6 @@ window.MAKRO_DATA = {
    "quote": 57
   },
   "letzte": [
-   {
-    "event": "Kanada: Verbraucherpreise (CPI, Juli)",
-    "datum": "2026-08-17",
-    "richtung": "hoeher",
-    "tatsaechlich": "hoeher",
-    "konsens": "0.4%",
-    "ist": "0.5",
-    "treffer": true
-   },
    {
     "event": "Großbritannien: Verbraucherpreise (CPI, Juli)",
     "datum": "2026-08-19",
@@ -4163,6 +4154,15 @@ window.MAKRO_DATA = {
     "konsens": "0.00%",
     "ist": "0.00%",
     "treffer": true
+   },
+   {
+    "event": "US-Kern-PCE (Kern-Konsumausgaben-Preise, m/m)",
+    "datum": "2026-09-30",
+    "richtung": "hoeher",
+    "tatsaechlich": "wie_erwartet",
+    "konsens": "1.5%",
+    "ist": "1.5%",
+    "treffer": false
    }
   ]
  },

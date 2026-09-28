@@ -1,15 +1,15 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-09-25",
+  "stand": "2026-09-28",
   "zinsen": [
     {
       "code": "AUD",
       "bank": "RBA",
       "satz": 4.35,
       "anzeige": "4,35%",
-      "naechste": "Ende Sep 2026",
-      "erwartung": "Am 11.8. bei 4,35% GEHALTEN (wie erwartet, einstimmig). Nach kühlerer Q2-Inflation (Kern-Trimmed 3,6%) ist der Fall für eine Erhöhung vom Tisch; Gouverneurin Bullock blieb geduldig-neutral. Höchster G10-Zins → Aussie-Rückenwind im Risk-on",
-      "richtung": "halten"
+      "naechste": "Di 29.9.2026",
+      "erwartung": "ERHÖHUNG morgen (Di 29.9.) fast sicher: Markt preist ~93% auf 4,60% ein, alle 29 von Bloomberg befragten Ökonomen (inkl. aller vier Großbanken) erwarten +25bp. Grund: zäh hohe Kern-Trimmed-Inflation (3,6%, Abwärtstrend gestoppt) + starkes Q2-BIP + höhere Ölpreise. ANZ sieht eine zweite Erhöhung im November (→ 4,85% zum Jahresende). Höchster G10-Zins",
+      "richtung": "rauf"
     },
     {
       "code": "GBP",

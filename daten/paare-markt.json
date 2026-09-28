@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-28T19:08:31.388Z",
+  "stand": "2026-09-28T19:55:24.659Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 5,
       "tiltCot": 4,
-      "tiltZins": 7,
-      "tiltGesamt": 11,
-      "score": 16,
+      "tiltZins": 6,
+      "tiltGesamt": 10,
+      "score": 15,
       "cotExtrem": null,
       "treiber": "Der sauberste Dollar-Long: Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Die gestrichene SNB-Drohung ist leicht Franken-stützend, deckelt den Anstieg minimal.",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -8,
       "tiltCot": -2,
-      "tiltZins": -2,
-      "tiltGesamt": -4,
-      "score": -12,
+      "tiltZins": -1,
+      "tiltGesamt": -3,
+      "score": -11,
       "cotExtrem": null,
       "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) und die taubenhaftere Notenbank treffen auf den starken Dollar. Doppelter Gegenwind.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 7,
       "tiltCot": -1,
-      "tiltZins": -2,
-      "tiltGesamt": -3,
-      "score": 4,
+      "tiltZins": -3,
+      "tiltGesamt": -4,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

@@ -15546,7 +15546,7 @@
       "land": "AUD",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "2.10B",
+      "prognose": "2.00B",
       "vorher": "1.92B",
       "actual": null,
       "notiz": null
@@ -15566,7 +15566,7 @@
       "land": "GBP",
       "titel": "Nationwide HPI m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.0%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -15596,7 +15596,7 @@
       "land": "CHF",
       "titel": "Retail Sales y/y",
       "impact": "Low",
-      "prognose": "2.2%",
+      "prognose": "2.1%",
       "vorher": "2.3%",
       "actual": null,
       "notiz": null
@@ -15616,7 +15616,7 @@
       "land": "CHF",
       "titel": "Manufacturing PMI",
       "impact": "Low",
-      "prognose": "56.0",
+      "prognose": "56.4",
       "vorher": "57.1",
       "actual": null,
       "notiz": null
@@ -15626,7 +15626,7 @@
       "land": "EUR",
       "titel": "Italian Manufacturing PMI",
       "impact": "Low",
-      "prognose": "49.9",
+      "prognose": "50.1",
       "vorher": "49.6",
       "actual": null,
       "notiz": null
@@ -15666,7 +15666,7 @@
       "land": "EUR",
       "titel": "Italian Monthly Unemployment Rate",
       "impact": "Low",
-      "prognose": "5.7%",
+      "prognose": "5.8%",
       "vorher": "5.8%",
       "actual": null,
       "notiz": null
@@ -15756,7 +15756,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "199K",
+      "prognose": "201K",
       "vorher": "197K",
       "actual": null,
       "notiz": null
@@ -15816,7 +15816,7 @@
       "land": "USD",
       "titel": "Final Manufacturing PMI",
       "impact": "Low",
-      "prognose": "57.0",
+      "prognose": "56.9",
       "vorher": "57.0",
       "actual": null,
       "notiz": null
@@ -15836,7 +15836,7 @@
       "land": "USD",
       "titel": "ISM Manufacturing PMI",
       "impact": "Medium",
-      "prognose": "55.0",
+      "prognose": "54.8",
       "vorher": "54.6",
       "actual": null,
       "notiz": null
@@ -15846,7 +15846,7 @@
       "land": "USD",
       "titel": "Construction Spending m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.0%",
       "vorher": "-0.5%",
       "actual": null,
       "notiz": null
@@ -15856,7 +15856,7 @@
       "land": "USD",
       "titel": "ISM Manufacturing Prices",
       "impact": "Low",
-      "prognose": "72.0",
+      "prognose": "72.9",
       "vorher": "71.1",
       "actual": null,
       "notiz": null
@@ -15866,7 +15866,7 @@
       "land": "USD",
       "titel": "Omdia Total Vehicle Sales",
       "impact": "Low",
-      "prognose": "16.5M",
+      "prognose": "16.3M",
       "vorher": "16.8M",
       "actual": null,
       "notiz": null
@@ -16036,7 +16036,7 @@
       "land": "USD",
       "titel": "Non-Farm Employment Change",
       "impact": "High",
-      "prognose": "89K",
+      "prognose": "90K",
       "vorher": "162K",
       "actual": null,
       "notiz": null

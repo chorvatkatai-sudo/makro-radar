@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-27T05:17:19.826Z",
+  "stand": "2026-09-28T05:24:02.247Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,9 +8,93 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "South Korean Won: Export strength supports KRW – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141",
-      "datum": "2026-09-25T21:41:00.000Z"
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609280444",
+      "datum": "2026-09-28T04:44:17.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/JPY Price Forecast: Recovers above 110.50, but technical outlook stays bearish",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-recovers-above-11050-but-technical-outlook-stays-bearish-202609280436",
+      "datum": "2026-09-28T04:36:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Eyes nine-day EMA barrier near 180.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-eyes-nine-day-ema-barrier-near-18000-202609280422",
+      "datum": "2026-09-28T04:22:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Gold hit hard, under $4200 again",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-hit-hard-under-4200-again/",
+      "datum": "2026-09-28T03:44:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc hits fresh low since May 2025, near 0.8300 vs USD amid Fed-SNB divergence",
+      "link": "https://www.fxstreet.com/news/swiss-franc-hits-fresh-low-since-may-2025-near-08300-vs-usd-amid-fed-snb-divergence-202609280329",
+      "datum": "2026-09-28T03:29:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD falls to near $62.00 amid Fed rate hike odds",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6200-amid-fed-rate-hike-odds-202609280322",
+      "datum": "2026-09-28T03:22:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index trades flat at the start of the US NFP week",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-flat-at-the-start-of-the-us-nfp-week-202609280321",
+      "datum": "2026-09-28T03:21:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold seems vulnerable below $4,200, lowest since August 5 as Fed hike bets rise",
+      "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
+      "datum": "2026-09-28T03:10:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar strengthens above 0.5650 on US-China truce extension",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-above-05650-on-us-china-truce-extension-202609280243",
+      "datum": "2026-09-28T02:43:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/USD Price Forecast: Bears await break below 0.7000 ahead of RBA on Tuesday",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bears-await-break-below-07000-ahead-of-rba-on-tuesday-202609280234",
+      "datum": "2026-09-28T02:34:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar falls as US-Canada rate gap seen widening further",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-us-canada-rate-gap-seen-widening-further-202609280216",
+      "datum": "2026-09-28T02:16:57.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China industrial profits rise 4.2% in August, weakest monthly gain this year",
+      "link": "https://investinglive.com/news/china-industrial-profits-rise-4-2-in-august-weakest-monthly-gain-this-year/",
+      "datum": "2026-09-28T01:59:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI sticks to modest gains above $92.00 amid Middle East jitters",
+      "link": "https://www.fxstreet.com/news/wti-sticks-to-modest-gains-above-9200-amid-middle-east-jitters-202609280156",
+      "datum": "2026-09-28T01:56:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold tumbles to near $4,200 as hawkish Fed signals and stronger US Dollar pressure bullion",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-to-near-4-200-as-hawkish-fed-signals-and-stronger-us-dollar-pressure-bullion-202609280148",
+      "datum": "2026-09-28T01:48:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China and U.S. to set up Trade Council and extend trade truce to January 2027",
+      "link": "https://investinglive.com/news/china-and-u-s-to-set-up-trade-council-and-extend-trade-truce-to-january-2027/",
+      "datum": "2026-09-28T01:30:28.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -19,100 +103,16 @@
       "datum": "2026-09-25T21:15:22.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-202609252056",
-      "datum": "2026-09-25T20:56:00.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
       "datum": "2026-09-25T20:30:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "US Treasury yields rise as 30-year bond hits 22-year high",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
-      "datum": "2026-09-25T20:22:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Trade surplus seen widening – ING",
-      "link": "https://www.fxstreet.com/news/south-korean-won-trade-surplus-seen-widening-ing-202609252012",
-      "datum": "2026-09-25T20:12:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-keeps-yuan-broadly-stable-societe-generale-202609251931",
-      "datum": "2026-09-25T19:31:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
-      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
-      "datum": "2026-09-25T19:00:32.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
-      "datum": "2026-09-25T18:54:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Vujcic warns energy shock could keep inflation hot",
-      "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
-      "datum": "2026-09-25T18:34:02.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Asian FX: Higher yields and Oil weigh – OCBC",
-      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
-      "datum": "2026-09-25T18:22:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Hammack warns inflation mindset is the biggest risk",
-      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
-      "datum": "2026-09-25T18:15:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
-      "datum": "2026-09-25T18:05:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758",
-      "datum": "2026-09-25T17:58:33.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Trump will meet with Xi again in November",
       "link": "https://investinglive.com/news/trump-will-meet-with-xi-again-in-november/",
       "datum": "2026-09-25T17:44:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Tehran describes talks atmosphere as increasingly positive - report",
-      "link": "https://investinglive.com/news/tehran-describes-talks-atmosphere-as-increasingly-positive-report/",
-      "datum": "2026-09-25T16:02:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Xi: US-China relationship will be one of strategic stability based on respect, fairness and reciprocity",
-      "link": "https://investinglive.com/news/xi-us-china-relationship-will-be-one-of-strategic-stability-based-on-respect-fairness-and-reciprocity/",
-      "datum": "2026-09-25T15:58:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "September final UMich consumer sentiment 48.1 vs 47.6 expected",
-      "link": "https://investinglive.com/news/september-final-umich-consumer-sentiment-48-1-vs-47-6-expected/",
-      "datum": "2026-09-25T14:00:09.000Z"
     }
   ]
 }

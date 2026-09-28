@@ -14766,7 +14766,7 @@
       "land": "AUD",
       "titel": "Household Spending m/m",
       "impact": "Low",
-      "prognose": "0.4%",
+      "prognose": "0.3%",
       "vorher": "1.1%",
       "actual": null,
       "notiz": null
@@ -14816,7 +14816,7 @@
       "land": "EUR",
       "titel": "Spanish Flash CPI y/y",
       "impact": "Low",
-      "prognose": "4.7%",
+      "prognose": "4.6%",
       "vorher": "4.3%",
       "actual": null,
       "notiz": null
@@ -14836,7 +14836,7 @@
       "land": "GBP",
       "titel": "Mortgage Approvals",
       "impact": "Low",
-      "prognose": "57K",
+      "prognose": "56K",
       "vorher": "56K",
       "actual": null,
       "notiz": null
@@ -14896,7 +14896,7 @@
       "land": "CAD",
       "titel": "GDP m/m",
       "impact": "Medium",
-      "prognose": "0.1%",
+      "prognose": "0.0%",
       "vorher": "0.3%",
       "actual": null,
       "notiz": null
@@ -14926,7 +14926,7 @@
       "land": "USD",
       "titel": "CB Consumer Confidence",
       "impact": "Medium",
-      "prognose": "90.1",
+      "prognose": "89.2",
       "vorher": "89.4",
       "actual": null,
       "notiz": null
@@ -15046,7 +15046,7 @@
       "land": "JPY",
       "titel": "Prelim Industrial Production m/m",
       "impact": "Low",
-      "prognose": "1.2%",
+      "prognose": "1.4%",
       "vorher": "0.1%",
       "actual": null,
       "notiz": null
@@ -15056,7 +15056,7 @@
       "land": "JPY",
       "titel": "Retail Sales y/y",
       "impact": "Low",
-      "prognose": "3.2%",
+      "prognose": "3.3%",
       "vorher": "4.0%",
       "actual": null,
       "notiz": null
@@ -15106,7 +15106,7 @@
       "land": "AUD",
       "titel": "Building Approvals m/m",
       "impact": "Low",
-      "prognose": "-0.9%",
+      "prognose": "-1.6%",
       "vorher": "-3.6%",
       "actual": null,
       "notiz": null
@@ -15136,7 +15136,7 @@
       "land": "CNY",
       "titel": "Non-Manufacturing PMI",
       "impact": "Low",
-      "prognose": "49.3",
+      "prognose": "49.2",
       "vorher": "49.0",
       "actual": null,
       "notiz": null
@@ -15156,7 +15156,7 @@
       "land": "CNY",
       "titel": "RatingDog Services PMI",
       "impact": "Low",
-      "prognose": "51.2",
+      "prognose": "51.3",
       "vorher": "51.4",
       "actual": null,
       "notiz": null
@@ -15166,7 +15166,7 @@
       "land": "JPY",
       "titel": "Housing Starts y/y",
       "impact": "Low",
-      "prognose": "6.8%",
+      "prognose": "6.9%",
       "vorher": "8.2%",
       "actual": null,
       "notiz": null
@@ -15176,7 +15176,7 @@
       "land": "EUR",
       "titel": "German Import Prices m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.6%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -15186,7 +15186,7 @@
       "land": "EUR",
       "titel": "German Retail Sales m/m",
       "impact": "Low",
-      "prognose": "1.4%",
+      "prognose": "1.6%",
       "vorher": "-3.4%",
       "actual": null,
       "notiz": null
@@ -15256,7 +15256,7 @@
       "land": "EUR",
       "titel": "German Unemployment Change",
       "impact": "Low",
-      "prognose": "2K",
+      "prognose": "0K",
       "vorher": "4K",
       "actual": null,
       "notiz": null
@@ -15276,7 +15276,7 @@
       "land": "EUR",
       "titel": "Italian Prelim CPI m/m",
       "impact": "Low",
-      "prognose": "0.0%",
+      "prognose": "0.2%",
       "vorher": "0.5%",
       "actual": null,
       "notiz": null
@@ -15326,7 +15326,7 @@
       "land": "USD",
       "titel": "ADP Non-Farm Employment Change",
       "impact": "Medium",
-      "prognose": "70K",
+      "prognose": "73K",
       "vorher": "38K",
       "actual": null,
       "notiz": null
@@ -15366,7 +15366,7 @@
       "land": "USD",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-113.8B",
+      "prognose": "-116.3B",
       "vorher": "-118.8B",
       "actual": null,
       "notiz": null
@@ -15386,7 +15386,7 @@
       "land": "USD",
       "titel": "Personal Spending m/m",
       "impact": "Low",
-      "prognose": "1.0%",
+      "prognose": "0.8%",
       "vorher": "0.2%",
       "actual": null,
       "notiz": null
@@ -15396,7 +15396,7 @@
       "land": "USD",
       "titel": "Prelim Wholesale Inventories m/m",
       "impact": "Low",
-      "prognose": "1.1%",
+      "prognose": "0.5%",
       "vorher": "1.3%",
       "actual": null,
       "notiz": null
@@ -15416,7 +15416,7 @@
       "land": "USD",
       "titel": "Chicago PMI",
       "impact": "Low",
-      "prognose": "51.3",
+      "prognose": "51.2",
       "vorher": "47.1",
       "actual": null,
       "notiz": null
@@ -16036,7 +16036,7 @@
       "land": "USD",
       "titel": "Non-Farm Employment Change",
       "impact": "High",
-      "prognose": "98K",
+      "prognose": "89K",
       "vorher": "162K",
       "actual": null,
       "notiz": null
@@ -16056,7 +16056,7 @@
       "land": "USD",
       "titel": "Factory Orders m/m",
       "impact": "Low",
-      "prognose": "-0.1%",
+      "prognose": "0.1%",
       "vorher": "0.9%",
       "actual": null,
       "notiz": null
@@ -16086,6 +16086,16 @@
       "land": "AUD",
       "titel": "Daylight Saving Time Shift",
       "impact": "Holiday",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-30T10:30:00-04:00|CHF|Gov Board Member Tschudin Speaks": {
+      "datum": "2026-09-30T10:30:00-04:00",
+      "land": "CHF",
+      "titel": "Gov Board Member Tschudin Speaks",
+      "impact": "Low",
       "prognose": "",
       "vorher": "",
       "actual": null,

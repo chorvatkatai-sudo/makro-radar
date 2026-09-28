@@ -12,20 +12,20 @@
   {
     "date": "2026-10-04T22:00:00.000Z",
     "country": "AUD",
-    "title": "S&P Global Services PMI Final",
+    "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "51.4",
-    "previous": "53.2",
+    "forecast": "50.8",
+    "previous": "52.7",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-04T22:00:00.000Z",
     "country": "AUD",
-    "title": "S&P Global Composite PMI Final",
+    "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "50.8",
-    "previous": "52.7",
+    "forecast": "51.4",
+    "previous": "53.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -255,7 +255,7 @@
     "title": "6-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.285%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -265,17 +265,7 @@
     "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-05T21:00:00.000Z",
-    "country": "NZD",
-    "title": "NZIER Business Confidence",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "8%",
+    "previous": "4.11%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -286,6 +276,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "90.8",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-05T21:00:00.000Z",
+    "country": "NZD",
+    "title": "NZIER Business Confidence",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -405,7 +405,7 @@
     "title": "Retail Sales YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.6",
+    "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -415,7 +415,7 @@
     "title": "Retail Sales MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.6",
+    "previous": "-0.6%",
     "actual": null,
     "quelle": "tradingview"
   },

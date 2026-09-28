@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-28T12:30:39.405Z",
+  "stand": "2026-09-28T19:08:31.387Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
-      "titel": "Oil falls on reports of renewed US-Iran talks focused on amended version of Iran's seven-day proposal",
-      "link": "https://investinglive.com/news/oil-falls-on-reports-of-renewed-us-iran-talks-focused-on-amended-version-of-iran-s-seven-day-proposal/",
-      "datum": "2026-09-28T12:27:27.000Z"
+      "titel": "Trump: We will win the Iran war very soon and gas prices will come tumbling down",
+      "link": "https://investinglive.com/news/trump-we-will-win-the-iran-war-very-soon-and-gas-prices-will-come-tumbling-down/",
+      "datum": "2026-09-28T18:51:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/NZD Price Forecast: Aussie rally shows signs of exhaustion ahead of RBA decision",
-      "link": "https://www.fxstreet.com/news/aud-nzd-price-forecast-aussie-rally-shows-signs-of-exhaustion-ahead-of-rba-decision-202609281205",
-      "datum": "2026-09-28T12:05:59.000Z"
+      "titel": "Japanese Yen trades cautiously as intervention risk clashes with Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-trades-cautiously-as-intervention-risk-clashes-with-fed-rate-hike-bets-202609281816",
+      "datum": "2026-09-28T18:16:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: The RBA and Fedspeak grab all the attention",
+      "link": "https://www.fxstreet.com/news/forex-today-the-rba-and-fedspeak-grab-all-the-attention-202609281808",
+      "datum": "2026-09-28T18:08:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US 10-year yield revisits 2007 heights as curve flirts with inversion",
+      "link": "https://www.fxstreet.com/news/us-10-year-yield-revisits-2007-heights-as-curve-flirts-with-inversion-202609281803",
+      "datum": "2026-09-28T18:03:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump set to speak in the Oval Office",
+      "link": "https://investinglive.com/news/trump-set-to-speak-in-the-oval-office/",
+      "datum": "2026-09-28T17:51:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer",
+      "link": "https://www.fxstreet.com/news/crude-oil-round-trips-between-a-rejected-iran-plan-and-a-sanctions-offer-202609281737",
+      "datum": "2026-09-28T17:37:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Cook: AI, Iran risks could keep inflation pressures high",
+      "link": "https://www.fxstreet.com/news/feds-cook-says-ai-iran-risks-could-keep-inflation-pressures-high-202609281733",
+      "datum": "2026-09-28T17:33:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US President Trump to ease sanctions on Iran over nuclear progress",
+      "link": "https://www.fxstreet.com/news/us-president-trump-to-ease-sanctions-on-iran-over-nuclear-progress-202609281640",
+      "datum": "2026-09-28T16:40:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD: Speculative longs steady as Fed hikes – Rabobank",
+      "link": "https://www.fxstreet.com/news/usd-speculative-longs-steady-as-fed-hikes-rabobank-202609281627",
+      "datum": "2026-09-28T16:27:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump prepared to ease sanctions and release frozen funds for nuclear progress - report",
+      "link": "https://investinglive.com/news/trump-prepared-to-ease-sanctions-and-release-frozen-funds-for-nuclear-progress-report/",
+      "datum": "2026-09-28T16:18:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound defies US yields surge as BoE hike bets build",
+      "link": "https://www.fxstreet.com/news/british-pound-defies-us-yields-surge-as-boe-hike-bets-build-202609281551",
+      "datum": "2026-09-28T15:51:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD plunges 5% as momentum indicators turn bearish",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plunges-5-as-momentum-indicators-turn-bearish-202609281539",
+      "datum": "2026-09-28T15:39:09.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP: Shorts at highs as Pound tracks Oil-led USD rally – Rabobank",
+      "link": "https://www.fxstreet.com/news/gbp-shorts-at-highs-as-pound-tracks-oil-led-usd-rally-rabobank-202609281530",
+      "datum": "2026-09-28T15:30:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro struggles as Fed rate-hike bets overshadow ECB tightening expectations",
+      "link": "https://www.fxstreet.com/news/euro-struggles-as-fed-rate-hike-bets-overshadow-ecb-tightening-expectations-202609281522",
+      "datum": "2026-09-28T15:22:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran foreign minister's stay in NY has not been extended",
+      "link": "https://investinglive.com/news/iran-foreign-minister-s-stay-in-ny-has-not-been-extended/",
+      "datum": "2026-09-28T15:02:47.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "September Dallas Fed manufacturing business index 9.8 vs 11.6 prior",
+      "link": "https://investinglive.com/news/september-dallas-fed-manufacturing-business-index-9-8-vs-11-6-prior/",
+      "datum": "2026-09-28T14:32:19.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Oil falls on reports of renewed US-Iran talks focused on amended version of Iran's seven-day proposal",
+      "link": "https://investinglive.com/news/oil-falls-on-reports-of-renewed-us-iran-talks-focused-on-amended-version-of-iran-s-seven-day-proposal/",
+      "datum": "2026-09-28T12:27:27.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "investingLive European session wrap: Higher yields hit gold as oil rallies and tech futures fall",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-higher-yields-hit-gold-as-oil-rallies-and-tech-futures-fall/",
       "datum": "2026-09-28T11:55:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "UK Chancellor Healey: We will maintain control of Britain's finances",
-      "link": "https://www.fxstreet.com/news/uk-chancellor-healey-we-will-maintain-control-of-britains-finances-202609281135",
-      "datum": "2026-09-28T11:35:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound gains as several BoE members warn of upside inflation risks",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-as-several-boe-members-warn-of-upside-inflation-risks-202609281120",
-      "datum": "2026-09-28T11:20:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Higher prices drive yields and Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/oil-higher-prices-drive-yields-and-dollar-mufg-202609281117",
-      "datum": "2026-09-28T11:17:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: Euro tests support at 0.8570 as Oil prices rally",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-tests-support-at-08570-hurt-by-rallying-oil-prices-202609281113",
-      "datum": "2026-09-28T11:13:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Treasuries: Yields hit multi-year highs – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/us-treasuries-yields-hit-multi-year-highs-deutsche-bank-202609281113",
-      "datum": "2026-09-28T11:13:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold slides 3% as Fed rate hike bets, rising Treasury yields weigh",
-      "link": "https://www.fxstreet.com/news/gold-slides-nearly-3-as-fed-hike-bets-rising-treasury-yields-weigh-202609281103",
-      "datum": "2026-09-28T11:03:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price plunges as elevated US yields, firm Dollar pressure XAG/USD",
-      "link": "https://www.fxstreet.com/news/silver-price-plunges-as-elevated-us-yields-firm-dollar-pressure-xag-usd-202609281103",
-      "datum": "2026-09-28T11:03:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Support from yields and growth – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-support-from-yields-and-growth-bbh-202609281032",
-      "datum": "2026-09-28T10:32:13.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI Oil extends gains nearing $95.00 as Trump rejects Hormuz reopening plan",
-      "link": "https://www.fxstreet.com/news/wti-oil-extends-gains-above-9450-as-trump-rejects-hormuz-reopening-plan-202609281032",
-      "datum": "2026-09-28T10:32:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoE’s Ramsden warns upside inflation risks may spur rate hikes",
-      "link": "https://www.fxstreet.com/news/boes-ramsden-warns-upside-inflation-risks-may-spur-rate-hikes-202609281019",
-      "datum": "2026-09-28T10:19:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Best Broker or Prop Firm? Vote in the Finance Magnates Awards 2026",
-      "link": "https://investinglive.com/news/best-broker-or-prop-firm-vote-in-the-finance-magnates-awards-2026/",
-      "datum": "2026-09-28T10:14:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japanese yen jumps as top currency diplomat Mimura reiterates strong currency alliance with the US",
-      "link": "https://investinglive.com/news/japanese-yen-jumps-as-top-currency-diplomat-mimura-reiterates-strong-currency-alliance-with-the-us/",
-      "datum": "2026-09-28T08:17:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US jobs report could decide how much higher Treasury yields can go",
-      "link": "https://investinglive.com/news/us-jobs-report-could-decide-how-much-higher-treasury-yields-can-go/",
-      "datum": "2026-09-28T06:27:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-51/",
-      "datum": "2026-09-28T06:22:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee falls sharply as oil prices rally",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
-      "datum": "2026-09-28T05:40:03.000Z"
     }
   ]
 }

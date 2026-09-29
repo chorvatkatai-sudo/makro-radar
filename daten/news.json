@@ -1,11 +1,95 @@
 {
-  "stand": "2026-09-29T17:22:45.326Z",
+  "stand": "2026-09-29T21:42:29.261Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia CPI preview: headline inflation seen at 4.0% after RBA hike",
+      "link": "https://investinglive.com/news/australia-cpi-preview-headline-inflation-seen-at-4-0-after-rba-hike/",
+      "datum": "2026-09-29T20:44:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China PMIs preview: official manufacturing seen back above 50 before holiday",
+      "link": "https://investinglive.com/news/china-pmis-preview-official-manufacturing-seen-back-above-50-before-holiday/",
+      "datum": "2026-09-29T20:34:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Wednesday, September 30, 2026: 6 PMIs from China and CPI from Australia.",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-30-2026-6-pmis-from-china-and-cpi-from-australia/",
+      "datum": "2026-09-29T20:32:47.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: US 30-year yields hit the highest since 2002",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-30-year-yields-hit-the-highest-since-2002/",
+      "datum": "2026-09-29T20:14:53.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+      "datum": "2026-09-29T20:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold springs from $4,110 as Oil rout eases inflation heat",
+      "link": "https://www.fxstreet.com/news/gold-springs-from-4-110-as-oil-rout-eases-inflation-heat-202609291957",
+      "datum": "2026-09-29T19:57:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "The Canadian Dollar round-trips as Fed officials differ on hike timing",
+      "link": "https://www.fxstreet.com/news/the-canadian-dollar-round-trips-as-fed-officials-differ-on-hike-timing-202609291943",
+      "datum": "2026-09-29T19:43:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Williams says worst inflation shocks have passed",
+      "link": "https://www.fxstreet.com/news/feds-williams-says-worst-inflation-shocks-have-passed-202609291918",
+      "datum": "2026-09-29T19:18:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index approaches yearly peak on hawkish Fed outlook",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-peak-on-hawkish-fed-outlook-202609291831",
+      "datum": "2026-09-29T18:31:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Williams says no rush after September hike",
+      "link": "https://www.fxstreet.com/news/feds-williams-says-no-rush-after-september-hike-202609291822",
+      "datum": "2026-09-29T18:22:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Goolsbee: Persistent inflation is like “playing with fire”",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-persistent-inflation-is-like-playing-with-fire-202609291812",
+      "datum": "2026-09-29T18:12:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs",
+      "link": "https://www.fxstreet.com/news/forex-today-focus-shifts-to-us-pce-adp-inflation-in-oz-and-chinese-pmis-202609291806",
+      "datum": "2026-09-29T18:06:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
+      "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
+      "datum": "2026-09-29T17:48:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
+      "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
+      "datum": "2026-09-29T17:35:35.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Silver price retreats as rising US yields, Hormuz tensions bolster US Dollar",
@@ -25,94 +109,10 @@
       "datum": "2026-09-29T16:22:02.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "British Pound slips as 2004-era US yields lift the US Dollar",
-      "link": "https://www.fxstreet.com/news/british-pound-slips-to-132-as-2004-era-us-yields-lift-the-us-dollar-202609291611",
-      "datum": "2026-09-29T16:11:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "BoE’s Taylor says prolonged energy shock could cement case for hikes",
-      "link": "https://www.fxstreet.com/news/boes-taylor-says-prolonged-energy-shock-could-cement-case-for-hikes-202609291556",
-      "datum": "2026-09-29T15:56:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro falls to three-month low as hawkish Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-falls-to-three-month-low-as-hawkish-fed-outlook-weighs-202609291543",
-      "datum": "2026-09-29T15:43:53.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: GDP growth moderates in July but stays on track for solid quarter – NBC",
-      "link": "https://www.fxstreet.com/news/canada-gdp-growth-moderates-in-july-but-stays-on-track-for-solid-quarter-nbc-202609291513",
-      "datum": "2026-09-29T15:13:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Rates reaction follows GDP – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-rates-reaction-follows-gdp-td-securities-202609291506",
-      "datum": "2026-09-29T15:06:18.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "India rates: Gradual hiking path – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/india-rates-gradual-hiking-path-standard-chartered-202609291502",
-      "datum": "2026-09-29T15:02:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar falls below 0.7000 as RBA hike fails to convince bulls",
-      "link": "https://www.fxstreet.com/news/australian-dollar-falls-below-07000-as-rba-hike-fails-to-convince-bulls-202609291449",
-      "datum": "2026-09-29T14:49:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar remains under pressure after flat GDP reading",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-after-flat-gdp-reading-202609291434",
-      "datum": "2026-09-29T14:34:24.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "JOLTS job openings 7.079M vs 7.225M estimate",
       "link": "https://investinglive.com/news/jolts-job-openings-7-079m-vs-7-225m-estimate/",
       "datum": "2026-09-29T14:09:35.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Sept US consumer confidence 81.9 vs 89.2 expected",
-      "link": "https://investinglive.com/news/sept-us-consumer-confidence-81-9-vs-89-2-expected/",
-      "datum": "2026-09-29T14:00:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US July CaseShiller 20-city house price index +2.5% vs 2.2% expected",
-      "link": "https://investinglive.com/news/us-july-caseshiller-20-city-house-price-index-2-5-vs-2-2-expected/",
-      "datum": "2026-09-29T13:00:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada July GDP 0.0% vs 0.0% expected",
-      "link": "https://investinglive.com/news/canada-july-gdp-0-0-vs-0-0-expected/",
-      "datum": "2026-09-29T12:30:04.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Oil prices dip as Trump backs potential Russia sanctions relief",
-      "link": "https://investinglive.com/news/oil-prices-dip-as-trump-backs-potential-russia-sanctions-relief/",
-      "datum": "2026-09-29T12:04:56.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: US-Iran talks keep markets tentatively optimistic",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-us-iran-talks-keep-markets-tentatively-optimistic/",
-      "datum": "2026-09-29T11:40:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold steadies after sharp drop as traders assess Fed outlook, Middle East risks",
-      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-assess-fed-outlook-middle-east-risks-202609291058",
-      "datum": "2026-09-29T10:58:18.000Z"
     }
   ]
 }

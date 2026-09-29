@@ -14778,8 +14778,8 @@
       "impact": "High",
       "prognose": "4.60%",
       "vorher": "4.35%",
-      "actual": null,
-      "notiz": null
+      "actual": "4.6%",
+      "notiz": "auto:TV rate (2026-09-29)"
     },
     "2026-09-29T00:30:00-04:00|AUD|RBA Rate Statement": {
       "datum": "2026-09-29T00:30:00-04:00",

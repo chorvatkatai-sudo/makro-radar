@@ -515,7 +515,7 @@
     "title": "Redbook YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "8.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -555,7 +555,7 @@
     "title": "6-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.97%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -675,7 +675,7 @@
     "title": "Private House Approvals MoM Final",
     "impact": "Low",
     "forecast": "",
-    "previous": "-4.2",
+    "previous": "-4.2%",
     "actual": null,
     "quelle": "tradingview"
   },

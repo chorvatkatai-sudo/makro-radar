@@ -16100,6 +16100,26 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-29T05:02:00-04:00|GBP|10-y Bond Auction": {
+      "datum": "2026-09-29T05:02:00-04:00",
+      "land": "GBP",
+      "titel": "10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "5.16|3.6",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-29T05:04:00-04:00|EUR|Italian 10-y Bond Auction": {
+      "datum": "2026-09-29T05:04:00-04:00",
+      "land": "EUR",
+      "titel": "Italian 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "4.10|1.6",
+      "actual": null,
+      "notiz": null
     }
   }
 }

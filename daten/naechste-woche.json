@@ -12,20 +12,20 @@
   {
     "date": "2026-10-04T22:00:00.000Z",
     "country": "AUD",
-    "title": "S&P Global Composite PMI Final",
+    "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "50.8",
-    "previous": "52.7",
+    "forecast": "51.4",
+    "previous": "53.2",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-04T22:00:00.000Z",
     "country": "AUD",
-    "title": "S&P Global Services PMI Final",
+    "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "51.4",
-    "previous": "53.2",
+    "forecast": "50.8",
+    "previous": "52.7",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -715,7 +715,7 @@
     "title": "Leading Economic Index Prel",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "117.7",
     "actual": null,
     "quelle": "tradingview"
   },

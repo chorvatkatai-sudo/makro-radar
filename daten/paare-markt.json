@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-28T19:55:24.659Z",
+  "stand": "2026-09-29T05:19:59.649Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -44,18 +44,18 @@
       "tiltGesamt": -7,
       "score": -7,
       "cotExtrem": null,
-      "treiber": "BEWUSST vom Dollar-Block gelöst: Der feste Dollar drückt zwar, aber Australien hat einen echten eigenen Rückenwind — die RBA erhöht morgen (Di) fast sicher auf 4,60% (höchster G10-Zins, höchste 2J-Rendite). Zwei falkenhafte Notenbanken heben sich weitgehend auf → nahe null statt klar minus. Track-Record dieses Paars ordentlich (54%).",
+      "treiber": "BEWUSST vom Dollar-Block gelöst: Die RBA hat heute erhöht (falkenhaft, höchster Zins seit 15 J) + steigendes Öl stützt den Aussie — gegen den festen Dollar am 2-Monats-Hoch. Echte Spannung, daher ~neutral.",
       "istCross": false
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 3,
+      "baseScore": 2,
       "tiltCot": 3,
       "tiltZins": 5,
       "tiltGesamt": 8,
-      "score": 11,
+      "score": 10,
       "cotExtrem": null,
-      "treiber": "Der starke Dollar hebt das Paar. Aber der fallende Ölpreis (WTI −3% Wo) hat dem Loonie zwar Rückenwind genommen, gleichzeitig ist Öl noch teuer und die BoC falkenhaft — deshalb nur moderat, nicht groß.",
+      "treiber": "Der starke Dollar hebt das Paar, aber Öl dreht wieder hoch (Nahost) = frischer Loonie-Rückenwind bremst — deshalb kleiner als die reinen Dollar-Longs.",
       "istCross": false
     },
     {

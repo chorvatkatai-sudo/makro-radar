@@ -39,13 +39,13 @@
     },
     "CAD": {
       "stimmung": "neutral",
-      "score": -3,
-      "grund": "Dem Loonie fehlt Rückenwind: Öl kam auf der Woche zurück (WTI −3%), das war sein Haupttreiber. Die falkenhafte Bank of Canada und eine Short-Eindeckung (COT) stützen zwar, aber gegen den starken Dollar reicht es nur zu leicht negativ."
+      "score": -2,
+      "grund": "Öl dreht wieder nach oben (WTI ~92–93$, Nahost) = frischer Rückenwind für den Loonie. Aber der feste Dollar deckelt, und die BoC bleibt neutral."
     },
     "AUD": {
       "stimmung": "bullisch",
       "score": 7,
-      "grund": "Eigene, dollar-unabhängige Story: Die Notenbank RBA erhöht MORGEN (Di 29.9., 06:30 Wien) mit ~93% Wahrscheinlichkeit auf 4,60% — alle 29 befragten Ökonomen erwarten es, eine zweite Erhöhung im November ist im Gespräch. Australien hat damit den höchsten G10-Zins (2J-Rendite 5,00% = die höchste im Feld). Der Stellen-Beat (+39.500) und Risk-on stützen zusätzlich. Wichtig: Die Erhöhung ist fast voll eingepreist (bestätigt ≠ überrascht) — der Schub kommt eher aus dem Ausblick als aus der Zahl selbst; deshalb bullisch, aber nicht euphorisch."
+      "grund": "Eigene, dollar-unabhängige Story BESTÄTIGT: Die RBA hat heute erhöht (4,60% = höchster Zins seit 15 Jahren, 4. Erhöhung 2026, falkenhaft wegen zäher Inflation 3,5% + Öl/Nahost). Höchste 2J-Rendite im G10. Aussie hält sich trotz starkem Dollar."
     },
     "NZD": {
       "stimmung": "bärisch",
@@ -72,12 +72,12 @@
     {
       "paar": "AUD/USD",
       "score": 0,
-      "treiber": "BEWUSST vom Dollar-Block gelöst: Der feste Dollar drückt zwar, aber Australien hat einen echten eigenen Rückenwind — die RBA erhöht morgen (Di) fast sicher auf 4,60% (höchster G10-Zins, höchste 2J-Rendite). Zwei falkenhafte Notenbanken heben sich weitgehend auf → nahe null statt klar minus. Track-Record dieses Paars ordentlich (54%)."
+      "treiber": "BEWUSST vom Dollar-Block gelöst: Die RBA hat heute erhöht (falkenhaft, höchster Zins seit 15 J) + steigendes Öl stützt den Aussie — gegen den festen Dollar am 2-Monats-Hoch. Echte Spannung, daher ~neutral."
     },
     {
       "paar": "USD/CAD",
-      "score": 3,
-      "treiber": "Der starke Dollar hebt das Paar. Aber der fallende Ölpreis (WTI −3% Wo) hat dem Loonie zwar Rückenwind genommen, gleichzeitig ist Öl noch teuer und die BoC falkenhaft — deshalb nur moderat, nicht groß."
+      "score": 2,
+      "treiber": "Der starke Dollar hebt das Paar, aber Öl dreht wieder hoch (Nahost) = frischer Loonie-Rückenwind bremst — deshalb kleiner als die reinen Dollar-Longs."
     },
     {
       "paar": "USD/CHF",
@@ -171,19 +171,20 @@
     "Klumpen-Warnung: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Wette. Die Fed-Erhöhung ist ein echter breiter Treiber, deshalb ist die Konzentration ehrlich; aber bewusst gelöst ist USD/JPY (winzig +1: BoJ-Erhöhung + Interventionsrisiko + überfüllte Yen-Long-Wette). Und die Größe je Paar spiegelt eigene Gründe: Euro-PMI-Stärke deckelt EUR/USD, Öl-Rückgang deckelt USD/CAD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-    "stand": "2026-09-28",
-    "wochentag": "Montag",
-    "tenor": "Ruhiger Wochenauftakt ohne große Zahlen — der Dollar sammelt sich am 7-Wochen-Hoch (Index ~101,1) vor einer MONSTER-Datenwoche. Naher Höhepunkt schon morgen: Die australische Notenbank RBA dürfte den Zins erhöhen. Danach entscheiden Kern-PCE (Mi), ISM (Do) und der US-Jobbericht + Euro-Inflation (Fr) über den Fed-Kurs.",
+    "stand": "2026-09-29",
+    "wochentag": "Dienstag",
+    "tenor": "Doppel-Paukenschlag zum Auftakt der MONSTER-Woche: Die australische Notenbank RBA hat den Zins ERHÖHT (auf 4,60% = höchster Stand seit 15 Jahren), und der Dollar klettert auf ein 2-Monats-Hoch (Index ~101,2, 2. Gewinn-Tag) — angetrieben von wieder steigendem Öl (Nahost) und Wetten auf eine Fed-Erhöhung im Oktober. Der starke Dollar überstrahlt sogar den Aussie-Rückenwind. Nächster Test: Kern-PCE morgen.",
     "heute": [
-      "🗓️ Montag ist ein leiser Auftakt: keine High-Impact-Zahlen. Der Markt positioniert sich für die schwere Woche. Der Dollar hält sein 7-Wochen-Hoch (Index ~101,1), nachdem er am Freitag nach fünf Gewinn-Tagen kurz Luft geholt hatte.",
-      "🇦🇺 MORGEN früh der nächste Paukenschlag: Die RBA entscheidet (Di 29.9., 06:30 Wien) — der Markt preist zu ~93% eine Zins-ERHÖHUNG auf 4,60% ein (alle 29 befragten Ökonomen erwarten sie, eine zweite im November ist im Gespräch). Grund: zäh hohe Kern-Inflation (3,6%) + starkes Wachstum. Direkt danach (Mi 03:30 Wien) die australische Inflation selbst. Deshalb haben wir den Aussie heute vom Dollar-Block gelöst (AUD/USD von leicht minus auf ~neutral gehoben).",
-      "📅 Der Rest der Woche ist ein Schwergewicht: 🇺🇸 Mi 30.9. Kern-PCE (14:30 Wien, Lieblings-Inflationswert der Fed) + ADP + finales BIP · 🇺🇸 Do 1.10. ISM-Industrie (16:00) · 🇺🇸🇪🇺 Fr 2.10. US-Jobbericht (NFP, 14:30, Konsens nur ~98–100k) + Euro-Inflation-Flash (11:00). Diese Zahlen entscheiden, ob die Fed im Oktober wirklich nochmal erhöht (aktuell ~73% eingepreist)."
+      "🇦🇺 PAUKENSCHLAG: Die RBA hat wie erwartet den Zins um 0,25 auf 4,60% ERHÖHT (Di 29.9.) — der höchste Stand seit 15 Jahren und die 4. Erhöhung des Jahres (zusammen +1,0 Prozentpunkt in 2026). Grund: Die Inflation bleibt mit 3,5% zu hoch, und der breitere Nahost-Konflikt treibt die Energiepreise. Klar falkenhaft. Der Aussie stieg im Asien-Handel kurz über 0,71 — wurde dann aber vom starken Dollar gedeckelt.",
+      "🇦🇺 HEUTE Abend die Probe aufs Exempel: die australische Inflation selbst (Mi 03:30 Wien, Konsens Kern/Trimmed +0,3% Quartal, y/y ~4,1%). Zeigt sie sich weiter zäh, untermauert das die RBA-Linie und den Aussie.",
+      "💵 Der Dollar steht auf einem 2-Monats-Hoch (Index ~101,2): Öl dreht wieder nach oben (WTI ~92–93$, 2. Anstiegstag, Nahost-Sorgen überwiegen die Entspannungs-Gerüchte) → das schürt Inflations-Angst und damit die Wette auf eine Fed-Erhöhung im Oktober (~70% eingepreist). 10-Jahres-Rendite fest über 5%.",
+      "📅 MORGEN der große Test: 🇺🇸 Mi 30.9. US-Kern-PCE (14:30 Wien, Lieblings-Inflationswert der Fed, Konsens ~3,3% y/y / +0,3% m/m) + finales BIP + ADP. Danach ISM (Do) und der US-Jobbericht + Euro-Inflation (Fr)."
     ],
     "gestern": [
-      "💵 Freitag/Wochenende: Der Dollar beendete die Woche als klarer Chef am 7-Wochen-Hoch (Index ~101,0, +0,8% Wo), holte am Freitag aber nach fünf Gewinn-Tagen leicht Luft (Index unter 101 gerutscht). Treiber bleibt die Zins-Story: 10-Jahres-Rendite fest über 5%, US-Zinsvorsprung am stärksten gestiegen.",
-      "🇺🇸 Freitag: US-Auftragseingänge langlebige Güter (August) kamen praktisch unverändert (~0%) — ein kleiner Beat gegenüber den erwarteten −0,5%. Ohne Transport +0,3%. Solide, aber kein Markt-Beweger; der Dollar blieb fest.",
-      "🛢️ Öl kam auf der Woche zurück (WTI ~92$, −3,5% Wo) — Berichte über eine mögliche schrittweise Iran-Einigung zur Wiederöffnung der Straße von Hormus dämpfen die Inflations-Angst. Weniger Rückenwind für den Kanada-Dollar. 🥇 Gold hält sich mit ~4.320$ nahe seinem Rekord (Entwertungs-Wette deckelt die Dollar-Rally).",
-      "📊 Positionierung (COT Stand 22.9., frisch): Die überfüllte Yen-Stärke-Wette baut sich etwas ab (noch netto-long, aber deutlich reduziert = weniger Rückschlag-Risiko als vorige Woche). Neuseeland-Wetten sind von long auf short gedreht, Euro- und Pfund-Short-Wetten wurden ausgebaut (bei starkem Gegen-Impuls = Squeeze-Risiko)."
+      "🗓️ Montag war der leise Auftakt vor dem Sturm: keine großen Zahlen, der Markt positionierte sich. Der Dollar hielt sein Hoch und legte weiter zu (2. Gewinn-Tag).",
+      "🛢️ Öl-Wende: Nachdem die Vorwoche noch auf eine mögliche Iran/Hormuz-Entspannung setzte (WTI war zurückgekommen), STEIGT Öl jetzt wieder — Nahost-Sorgen überwiegen. WTI ~92–93$, Brent klar drüber. Das gibt dem Kanada-Dollar wieder etwas Rückenwind (und dem Dollar über die Inflations-Angst).",
+      "🥇 Gold hält sich nahe dem Rekord (~4.160$) — die Entwertungs-Wette deckelt weiter, wie fest der Dollar auch steht. Bitcoin ~83.400$.",
+      "📊 Positionierung (COT Stand 22.9.): Die überfüllte Yen-Stärke-Wette baut sich weiter ab (noch netto-long z+1,24, aber reduziert). Euro (z−1,64) und Pfund (z−1,65) sind jetzt deutlich netto-SHORT (erhöht) — bei einem starken Gegen-Impuls Squeeze-Risiko."
     ]
   }
 }

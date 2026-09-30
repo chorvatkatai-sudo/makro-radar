@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-29T21:42:29.908Z",
+ "erstellt": "2026-09-30T05:20:36.558Z",
  "wochenStart": "2026-09-27",
  "events": [
   {
@@ -369,7 +369,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.1%",
    "previous": "3.5%",
-   "actual": null
+   "actual": "4.0%"
   },
   {
    "title": "Trimmed Mean CPI m/m",
@@ -2784,14 +2784,14 @@ window.MAKRO_DATA = {
     "grund": "Bei ruhigem Markt (VIX tief 15,3 = Risk-on) braucht niemand den sicheren Hafen Franken. Die gestrichene SNB-Interventionsdrohung ist zwar leicht Franken-positiv (weniger künstlicher Gegenwind), reicht aber gegen den festen Dollar nicht — netto bärisch."
    },
    "CAD": {
-    "stimmung": "neutral",
-    "score": -2,
-    "grund": "Öl dreht wieder nach oben (WTI ~92–93$, Nahost) = frischer Rückenwind für den Loonie. Aber der feste Dollar deckelt, und die BoC bleibt neutral."
+    "stimmung": "bärisch",
+    "score": -4,
+    "grund": "Öl-Kehrtwende: WTI fiel auf ein 1-Monats-Tief (~89$), kein frischer Rückenwind mehr für den Loonie. Dazu der feste Dollar (Renditen hoch) und eine neutrale BoC → netto bärisch."
    },
    "AUD": {
     "stimmung": "bullisch",
-    "score": 7,
-    "grund": "Eigene, dollar-unabhängige Story BESTÄTIGT: Die RBA hat heute erhöht (4,60% = höchster Zins seit 15 Jahren, 4. Erhöhung 2026, falkenhaft wegen zäher Inflation 3,5% + Öl/Nahost). Höchste 2J-Rendite im G10. Aussie hält sich trotz starkem Dollar."
+    "score": 4,
+    "grund": "Eigene Story, aber heute etwas gedämpft: Die RBA hat gestern erhöht (4,60% = höchster Zins seit 15 J, falkenhaft), ABER die heutige Inflation kam kühler (4,0% statt 4,1%, Kern stabil 3,6%) → Wetten auf eine weitere RBA-Erhöhung im Nov. fielen. Höchste 2J-Rendite im G10 stützt noch, aber der Rückenwind ist kleiner als gestern."
    },
    "NZD": {
     "stimmung": "bärisch",
@@ -2817,13 +2817,13 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": 0,
-    "treiber": "BEWUSST vom Dollar-Block gelöst: Die RBA hat heute erhöht (falkenhaft, höchster Zins seit 15 J) + steigendes Öl stützt den Aussie — gegen den festen Dollar am 2-Monats-Hoch. Echte Spannung, daher ~neutral."
+    "score": -2,
+    "treiber": "Die RBA-Erhöhung von gestern gibt Boden, aber die heute KÜHLERE Inflation (4,0%<4,1%) nimmt Schwung und der Dollar steht fest am 2-Monats-Hoch → leicht ins Minus. Track-Record hier mittel (54%), daher klein."
    },
    {
     "paar": "USD/CAD",
-    "score": 2,
-    "treiber": "Der starke Dollar hebt das Paar, aber Öl dreht wieder hoch (Nahost) = frischer Loonie-Rückenwind bremst — deshalb kleiner als die reinen Dollar-Longs."
+    "score": 4,
+    "treiber": "Doppel-Rückenwind fürs Paar: fester Dollar (US-Renditen auf Mehrjahres-Hoch) UND Öl fiel auf ein 1-Monats-Tief (~89$) = Loonie verliert seinen Stützpfeiler."
    },
    {
     "paar": "USD/CHF",
@@ -2917,20 +2917,20 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Wette. Die Fed-Erhöhung ist ein echter breiter Treiber, deshalb ist die Konzentration ehrlich; aber bewusst gelöst ist USD/JPY (winzig +1: BoJ-Erhöhung + Interventionsrisiko + überfüllte Yen-Long-Wette). Und die Größe je Paar spiegelt eigene Gründe: Euro-PMI-Stärke deckelt EUR/USD, Öl-Rückgang deckelt USD/CAD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-09-29",
-   "wochentag": "Dienstag",
-   "tenor": "Doppel-Paukenschlag zum Auftakt der MONSTER-Woche: Die australische Notenbank RBA hat den Zins ERHÖHT (auf 4,60% = höchster Stand seit 15 Jahren), und der Dollar klettert auf ein 2-Monats-Hoch (Index ~101,2, 2. Gewinn-Tag) — angetrieben von wieder steigendem Öl (Nahost) und Wetten auf eine Fed-Erhöhung im Oktober. Der starke Dollar überstrahlt sogar den Aussie-Rückenwind. Nächster Test: Kern-PCE morgen.",
+   "stand": "2026-09-30",
+   "wochentag": "Mittwoch",
+   "tenor": "Der Dollar bleibt fest am 2-Monats-Hoch (Index ~101,3) — getragen jetzt vor allem von steigenden US-Renditen (10J nahe 5,3%, 30J auf dem höchsten Stand seit 2002) und falkenhaften Fed-Rednern, NICHT mehr vom Öl (das fiel auf ein Monats-Tief). Heute Nachmittag der große Test: US-Kern-PCE. Die australische Inflation kam heute früh eine Spur kühler als erwartet und nimmt der RBA-Erhöhung von gestern etwas Schwung.",
    "heute": [
-    "🇦🇺 PAUKENSCHLAG: Die RBA hat wie erwartet den Zins um 0,25 auf 4,60% ERHÖHT (Di 29.9.) — der höchste Stand seit 15 Jahren und die 4. Erhöhung des Jahres (zusammen +1,0 Prozentpunkt in 2026). Grund: Die Inflation bleibt mit 3,5% zu hoch, und der breitere Nahost-Konflikt treibt die Energiepreise. Klar falkenhaft. Der Aussie stieg im Asien-Handel kurz über 0,71 — wurde dann aber vom starken Dollar gedeckelt.",
-    "🇦🇺 HEUTE Abend die Probe aufs Exempel: die australische Inflation selbst (Mi 03:30 Wien, Konsens Kern/Trimmed +0,3% Quartal, y/y ~4,1%). Zeigt sie sich weiter zäh, untermauert das die RBA-Linie und den Aussie.",
-    "💵 Der Dollar steht auf einem 2-Monats-Hoch (Index ~101,2): Öl dreht wieder nach oben (WTI ~92–93$, 2. Anstiegstag, Nahost-Sorgen überwiegen die Entspannungs-Gerüchte) → das schürt Inflations-Angst und damit die Wette auf eine Fed-Erhöhung im Oktober (~70% eingepreist). 10-Jahres-Rendite fest über 5%.",
-    "📅 MORGEN der große Test: 🇺🇸 Mi 30.9. US-Kern-PCE (14:30 Wien, Lieblings-Inflationswert der Fed, Konsens ~3,3% y/y / +0,3% m/m) + finales BIP + ADP. Danach ISM (Do) und der US-Jobbericht + Euro-Inflation (Fr)."
+    "🇺🇸 DER TEST HEUTE: Kern-PCE (14:30 Wien, Lieblings-Inflationswert der Fed, Konsens ~3,3% y/y / +0,3% m/m) — dazu finales US-BIP Q2 (1,5%) + ADP-Beschäftigung. Heiß = Fed-Erhöhung im Oktober (~70% eingepreist) wird noch wahrscheinlicher, Dollar-fest; kühl = erste Delle in der Falken-Story.",
+    "🇦🇺 Die australische Inflation (August-Wert) kam heute früh eine Spur KÜHLER: 4,0% y/y statt 4,1% erwartet (von 3,5% hochgesprungen wegen Benzin), der Kern (Trimmed Mean) blieb den 3. Monat in Folge bei 3,6%. Folge: Die Wetten auf eine WEITERE RBA-Erhöhung im November sind deutlich gefallen — das nimmt dem Aussie etwas Rückenwind, obwohl die RBA gestern erhöht hat.",
+    "🛢️ Öl-Korrektur zur gestrigen Lage: WTI ist auf ein 1-Monats-Tief gefallen (~89$, −3,5% Woche), Brent hält sich höher (~100$). Der Dollar-Antrieb kommt damit klar von den RENDITEN und der Fed, nicht mehr vom Öl — und der Loonie verliert seinen Öl-Rückenwind.",
+    "💵 US-Renditen ziehen weiter an: 10J nahe 5,3%, 30J bei ~5,62% = höchster Stand seit 2002. Fed-Gouverneur Barr sagte, weitere Erhöhungen seien wohl nötig — er sehe noch keinen klaren Trend zu 2% Inflation. Das hält den Dollar-Zinsvorsprung oben."
    ],
    "gestern": [
-    "🗓️ Montag war der leise Auftakt vor dem Sturm: keine großen Zahlen, der Markt positionierte sich. Der Dollar hielt sein Hoch und legte weiter zu (2. Gewinn-Tag).",
-    "🛢️ Öl-Wende: Nachdem die Vorwoche noch auf eine mögliche Iran/Hormuz-Entspannung setzte (WTI war zurückgekommen), STEIGT Öl jetzt wieder — Nahost-Sorgen überwiegen. WTI ~92–93$, Brent klar drüber. Das gibt dem Kanada-Dollar wieder etwas Rückenwind (und dem Dollar über die Inflations-Angst).",
-    "🥇 Gold hält sich nahe dem Rekord (~4.160$) — die Entwertungs-Wette deckelt weiter, wie fest der Dollar auch steht. Bitcoin ~83.400$.",
-    "📊 Positionierung (COT Stand 22.9.): Die überfüllte Yen-Stärke-Wette baut sich weiter ab (noch netto-long z+1,24, aber reduziert). Euro (z−1,64) und Pfund (z−1,65) sind jetzt deutlich netto-SHORT (erhöht) — bei einem starken Gegen-Impuls Squeeze-Risiko."
+    "🇦🇺 PAUKENSCHLAG Dienstag: Die RBA hat den Zins um 0,25 auf 4,60% ERHÖHT — höchster Stand seit 15 Jahren, 4. Erhöhung 2026 (zusammen +1,0 Pp). Falkenhaft wegen zäher Inflation. Der Aussie stieg kurz über 0,71, wurde aber vom starken Dollar gedeckelt — und die heute kühlere Inflation dämpft den Nachklang.",
+    "🇺🇸 Warnsignal aus der US-Konjunktur: Das Verbrauchervertrauen (Conference Board) fiel im September auf 81,9 (von 88,6) = tiefster Stand seit April 2014. Ein erster Riss in der ansonsten robusten US-Story — der Kern-PCE heute muss zeigen, ob die Fed-Falken recht behalten.",
+    "🥇 Gold ~4.215$ (−2,4% Woche), leicht vom Rekord zurück — die Entwertungs-Wette deckelt den Dollar weiter. Bitcoin ~83.500$. USD/JPY ~157,4 (Yen war gestern der einzige Verlierer; Japans Finanzministerin Katayama warnt erneut vor dem zu schwachen Yen = Interventionsrisiko bleibt).",
+    "📊 Positionierung (COT Stand 22.9.): Die überfüllte Yen-Long-Wette baut sich weiter ab (noch netto-long, aber z+1,24 statt zuvor z+1,8). Euro (z−1,64) und Pfund (z−1,65) sind deutlich netto-SHORT (erhöht) → bei einem starken Gegen-Impuls Squeeze-Risiko."
    ]
   }
  },
@@ -3903,24 +3903,24 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 0,
+   "baseScore": -2,
    "tiltCot": -3,
    "tiltZins": -6,
    "tiltGesamt": -9,
-   "score": -9,
+   "score": -11,
    "cotExtrem": null,
-   "treiber": "BEWUSST vom Dollar-Block gelöst: Die RBA hat heute erhöht (falkenhaft, höchster Zins seit 15 J) + steigendes Öl stützt den Aussie — gegen den festen Dollar am 2-Monats-Hoch. Echte Spannung, daher ~neutral.",
+   "treiber": "Die RBA-Erhöhung von gestern gibt Boden, aber die heute KÜHLERE Inflation (4,0%<4,1%) nimmt Schwung und der Dollar steht fest am 2-Monats-Hoch → leicht ins Minus. Track-Record hier mittel (54%), daher klein.",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 2,
+   "baseScore": 4,
    "tiltCot": 3,
    "tiltZins": 3,
    "tiltGesamt": 6,
-   "score": 8,
+   "score": 10,
    "cotExtrem": null,
-   "treiber": "Der starke Dollar hebt das Paar, aber Öl dreht wieder hoch (Nahost) = frischer Loonie-Rückenwind bremst — deshalb kleiner als die reinen Dollar-Longs.",
+   "treiber": "Doppel-Rückenwind fürs Paar: fester Dollar (US-Renditen auf Mehrjahres-Hoch) UND Öl fiel auf ein 1-Monats-Tief (~89$) = Loonie verliert seinen Stützpfeiler.",
    "istCross": false
   },
   {
@@ -3969,11 +3969,11 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 7,
+   "baseScore": 6,
    "tiltCot": -1,
    "tiltZins": -4,
    "tiltGesamt": -5,
-   "score": 2,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -3991,7 +3991,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-29T21:42:29.270Z",
+  "stand": "2026-09-30T05:20:36.557Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 30,
@@ -4477,10 +4477,10 @@ window.MAKRO_DATA = {
   },
   "AUD": {
    "ueber": 9,
-   "unter": 5,
+   "unter": 6,
    "gleich": 4,
-   "gesamt": 18,
-   "score": 4
+   "gesamt": 19,
+   "score": 3
   },
   "JPY": {
    "ueber": 0,
@@ -5021,6 +5021,16 @@ window.MAKRO_DATA = {
    "vorher": "1.5%",
    "actual": "1.5%",
    "notiz": "auto:FRED A191RL1Q225SBEA (Ref 2026-04-01)"
+  },
+  {
+   "datum": "2026-09-29T21:30:00-04:00",
+   "land": "AUD",
+   "titel": "CPI y/y",
+   "impact": "High",
+   "prognose": "4.1%",
+   "vorher": "3.5%",
+   "actual": "4.0%",
+   "notiz": null
   },
   {
    "datum": "2026-09-29T00:30:00-04:00",
@@ -5599,16 +5609,6 @@ window.MAKRO_DATA = {
    "impact": "High",
    "prognose": "2-0-7",
    "vorher": "2-0-7",
-   "actual": "3.75%",
-   "notiz": "auto:TV rate (2026-07-30)"
-  },
-  {
-   "datum": "2026-07-30T07:00:00-04:00",
-   "land": "GBP",
-   "titel": "Official Bank Rate",
-   "impact": "High",
-   "prognose": "3.75%",
-   "vorher": "3.75%",
    "actual": "3.75%",
    "notiz": "auto:TV rate (2026-07-30)"
   }

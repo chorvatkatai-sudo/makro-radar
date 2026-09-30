@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-29T21:42:29.263Z",
+  "stand": "2026-09-30T05:20:36.543Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -38,24 +38,24 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": 0,
+      "baseScore": -2,
       "tiltCot": -3,
       "tiltZins": -6,
       "tiltGesamt": -9,
-      "score": -9,
+      "score": -11,
       "cotExtrem": null,
-      "treiber": "BEWUSST vom Dollar-Block gelöst: Die RBA hat heute erhöht (falkenhaft, höchster Zins seit 15 J) + steigendes Öl stützt den Aussie — gegen den festen Dollar am 2-Monats-Hoch. Echte Spannung, daher ~neutral.",
+      "treiber": "Die RBA-Erhöhung von gestern gibt Boden, aber die heute KÜHLERE Inflation (4,0%<4,1%) nimmt Schwung und der Dollar steht fest am 2-Monats-Hoch → leicht ins Minus. Track-Record hier mittel (54%), daher klein.",
       "istCross": false
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 2,
+      "baseScore": 4,
       "tiltCot": 3,
       "tiltZins": 3,
       "tiltGesamt": 6,
-      "score": 8,
+      "score": 10,
       "cotExtrem": null,
-      "treiber": "Der starke Dollar hebt das Paar, aber Öl dreht wieder hoch (Nahost) = frischer Loonie-Rückenwind bremst — deshalb kleiner als die reinen Dollar-Longs.",
+      "treiber": "Doppel-Rückenwind fürs Paar: fester Dollar (US-Renditen auf Mehrjahres-Hoch) UND Öl fiel auf ein 1-Monats-Tief (~89$) = Loonie verliert seinen Stützpfeiler.",
       "istCross": false
     },
     {
@@ -104,11 +104,11 @@
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": 7,
+      "baseScore": 6,
       "tiltCot": -1,
       "tiltZins": -4,
       "tiltGesamt": -5,
-      "score": 2,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

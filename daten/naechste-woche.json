@@ -112,7 +112,7 @@
   {
     "date": "2026-10-05T08:30:00.000Z",
     "country": "GBP",
-    "title": "S&P Global Composite PMI Final",
+    "title": "S&P Global Services PMI Final",
     "impact": "Low",
     "forecast": "51.7",
     "previous": "52.5",
@@ -122,7 +122,7 @@
   {
     "date": "2026-10-05T08:30:00.000Z",
     "country": "GBP",
-    "title": "S&P Global Services PMI Final",
+    "title": "S&P Global Composite PMI Final",
     "impact": "Low",
     "forecast": "51.7",
     "previous": "52.5",
@@ -182,20 +182,20 @@
   {
     "date": "2026-10-05T13:45:00.000Z",
     "country": "USD",
-    "title": "S&P Global Services PMI Final",
+    "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "58.7",
-    "previous": "56.5",
+    "forecast": "58.4",
+    "previous": "56",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-05T13:45:00.000Z",
     "country": "USD",
-    "title": "S&P Global Composite PMI Final",
+    "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "58.4",
-    "previous": "56",
+    "forecast": "58.7",
+    "previous": "56.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -892,10 +892,10 @@
   {
     "date": "2026-10-07T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Distillate Fuel Production Change",
+    "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.62",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -905,7 +905,7 @@
     "title": "EIA Gasoline Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.684",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -915,7 +915,7 @@
     "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "0.922",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -925,27 +925,17 @@
     "title": "EIA Gasoline Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.124",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-07T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Crude Oil Imports Change",
+    "title": "EIA Distillate Fuel Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-07T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Heating Oil Stocks Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
+    "previous": "-0.156",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -955,7 +945,7 @@
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-2.251",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -965,7 +955,7 @@
     "title": "EIA Cushing Crude Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.553",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -975,7 +965,17 @@
     "title": "EIA Refinery Crude Runs Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.554",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-07T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Crude Oil Imports Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.468",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -995,7 +995,7 @@
     "title": "17-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.115%",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-09-30T17:20:37.860Z",
+ "erstellt": "2026-09-30T21:43:08.761Z",
  "wochenStart": "2026-09-27",
  "events": [
   {
@@ -1395,7 +1395,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-05T08:30:00.000Z",
    "country": "GBP",
-   "title": "S&P Global Services PMI Final",
+   "title": "S&P Global Composite PMI Final",
    "impact": "Low",
    "forecast": "51.7",
    "previous": "52.5",
@@ -1405,20 +1405,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-05T08:30:00.000Z",
    "country": "GBP",
-   "title": "S&P Global Composite PMI Final",
+   "title": "S&P Global Services PMI Final",
    "impact": "Low",
    "forecast": "51.7",
    "previous": "52.5",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-05T09:00:00.000Z",
-   "country": "EUR",
-   "title": "PPI YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "5.8%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1429,6 +1419,16 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "",
    "previous": "1.6%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-05T09:00:00.000Z",
+   "country": "EUR",
+   "title": "PPI YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "5.8%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3418,15 +3418,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-09-30T17:20:36.554Z",
+  "stand": "2026-09-30T21:43:07.216Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.39,
+    "wert": 101.45,
     "tagProzent": 0,
-    "wocheProzent": 0.1,
+    "wocheProzent": 0.16,
     "renditeDelta": false,
     "verlauf": [
      99.67,
@@ -3449,17 +3449,17 @@ window.MAKRO_DATA = {
      100.97,
      101.2,
      101.37,
-     101.39,
-     101.39
+     101.45,
+     101.45
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.83,
+    "wert": 16.34,
     "tagProzent": 0,
-    "wocheProzent": 1.02,
+    "wocheProzent": 4.28,
     "renditeDelta": false,
     "verlauf": [
      15.2,
@@ -3482,17 +3482,17 @@ window.MAKRO_DATA = {
      14.87,
      16.07,
      16.04,
-     15.83,
-     15.83
+     16.34,
+     16.34
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 90.83,
+    "wert": 90.34,
     "tagProzent": 0,
-    "wocheProzent": -4,
+    "wocheProzent": -4.51,
     "renditeDelta": false,
     "verlauf": [
      90.22,
@@ -3515,17 +3515,17 @@ window.MAKRO_DATA = {
      92.41,
      92.6,
      89.38,
-     90.83,
-     90.83
+     90.34,
+     90.34
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 98.26,
+    "wert": 97.92,
     "tagProzent": 0,
-    "wocheProzent": -7.82,
+    "wocheProzent": -8.14,
     "renditeDelta": false,
     "verlauf": [
      94.65,
@@ -3548,17 +3548,17 @@ window.MAKRO_DATA = {
      104.32,
      105.28,
      102.59,
-     98.26,
-     98.26
+     97.92,
+     97.92
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4183,
+    "wert": 4189.1,
     "tagProzent": 0,
-    "wocheProzent": -2.68,
+    "wocheProzent": -2.53,
     "renditeDelta": false,
     "verlauf": [
      4396.4,
@@ -3581,8 +3581,8 @@ window.MAKRO_DATA = {
      4321.2,
      4168.4,
      4179.7,
-     4183,
-     4183
+     4189.1,
+     4189.1
     ]
    },
    "US02Y": {
@@ -3622,7 +3622,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.291,
+    "wert": 5.293,
     "tagProzent": 0,
     "wocheProzent": 0.13,
     "renditeDelta": true,
@@ -3647,15 +3647,15 @@ window.MAKRO_DATA = {
      5.184,
      5.24,
      5.255,
-     5.291,
-     5.291
+     5.293,
+     5.293
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.637,
+    "wert": 5.638,
     "tagProzent": 0,
     "wocheProzent": 0.18,
     "renditeDelta": true,
@@ -3680,17 +3680,17 @@ window.MAKRO_DATA = {
      5.504,
      5.561,
      5.594,
-     5.637,
-     5.637
+     5.638,
+     5.638
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 84108.64,
+    "wert": 83689.33,
     "tagProzent": 0,
-    "wocheProzent": -0.35,
+    "wocheProzent": -0.85,
     "renditeDelta": false,
     "verlauf": [
      76568.13,
@@ -3713,17 +3713,17 @@ window.MAKRO_DATA = {
      84458.09,
      83502.61,
      83622.43,
-     84108.64,
-     84108.64
+     83689.33,
+     83689.33
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.98,
+    "wert": 3.97,
     "tagProzent": 0,
-    "wocheProzent": 0.23,
+    "wocheProzent": 0.22,
     "renditeDelta": true,
     "verlauf": [
      3.71,
@@ -3746,8 +3746,8 @@ window.MAKRO_DATA = {
      3.75,
      3.75,
      3.75,
-     3.98,
-     3.98
+     3.97,
+     3.97
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
@@ -3850,8 +3850,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.137
     },
     "EUR": {
-     "wert": 3.199,
-     "wocheDelta": -0.062
+     "wert": 3.192,
+     "wocheDelta": -0.069
     },
     "GBP": {
      "wert": 4.903,
@@ -3862,20 +3862,20 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.083
     },
     "AUD": {
-     "wert": 4.993,
-     "wocheDelta": -0.017
+     "wert": 4.989,
+     "wocheDelta": -0.021
     },
     "CAD": {
      "wert": 3.374,
      "wocheDelta": 0.052
     },
     "CHF": {
-     "wert": 0.264,
-     "wocheDelta": -0.067
+     "wert": 0.253,
+     "wocheDelta": -0.078
     },
     "NZD": {
-     "wert": 3.88,
-     "wocheDelta": 0.017
+     "wert": 3.893,
+     "wocheDelta": 0.03
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3958,9 +3958,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -8,
    "tiltCot": -2,
-   "tiltZins": -5,
-   "tiltGesamt": -7,
-   "score": -15,
+   "tiltZins": -4,
+   "tiltGesamt": -6,
+   "score": -14,
    "cotExtrem": null,
    "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) und die taubenhaftere Notenbank treffen auf den starken Dollar. Doppelter Gegenwind.",
    "istCross": false
@@ -3991,9 +3991,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 6,
    "tiltCot": -1,
-   "tiltZins": -1,
-   "tiltGesamt": -2,
-   "score": 4,
+   "tiltZins": -2,
+   "tiltGesamt": -3,
+   "score": 3,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -4011,7 +4011,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-09-30T17:20:37.366Z",
+  "stand": "2026-09-30T21:43:07.651Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 30,
@@ -4119,7 +4119,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-09-30T17:20:37.859Z",
+  "stand": "2026-09-30T21:43:08.760Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4349,13 +4349,73 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-09-30T17:20:37.358Z",
+  "stand": "2026-09-30T21:43:07.639Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas FX news wrap 30 Sept: Softer PCE fails to hold yields down; Dow ends September at June lows",
+    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-sept-softer-pce-fails-to-hold-yields-down-dow-ends-september-at-june-lows/",
+    "datum": "2026-09-30T21:09:42.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "What China's Golden Week closures mean for the yuan, futures and Asian liquidity",
+    "link": "https://investinglive.com/news/what-china-s-golden-week-closures-mean-for-the-yuan-futures-and-asian-liquidity/",
+    "datum": "2026-09-30T21:06:56.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Fed’s Cook says inflation has stayed too high for too long",
+    "link": "https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020",
+    "datum": "2026-09-30T20:20:14.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Trump calls for Powell to resign over Fed renovation, asks attorney general to review report",
+    "link": "https://investinglive.com/news/trump-calls-for-powell-to-resign-over-fed-renovation-asks-attorney-general-to-review-report/",
+    "datum": "2026-09-30T20:00:08.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Mexican Peso pain deepens above 18.00 as carry appeal fades",
+    "link": "https://www.fxstreet.com/news/mexican-peso-pain-deepens-above-1800-as-carry-appeal-fades-202609301919",
+    "datum": "2026-09-30T19:19:34.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
+    "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830",
+    "datum": "2026-09-30T18:30:22.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Trump: US has almost total control of the Strait of Hormuz",
+    "link": "https://investinglive.com/news/trump-us-has-almost-total-control-of-the-strait-of-hormuz/",
+    "datum": "2026-09-30T18:23:51.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
+    "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810",
+    "datum": "2026-09-30T18:10:12.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "Gold can’t catch a PCE break as long US yields keep climbing",
+    "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802",
+    "datum": "2026-09-30T18:02:43.000Z"
+   },
+   {
+    "quelle": "FXStreet",
+    "titel": "WTI set for monthly gain amid US-Iran stalemate",
+    "link": "https://www.fxstreet.com/news/wti-set-for-monthly-gain-amid-us-iran-stalemate-202609301730",
+    "datum": "2026-09-30T17:30:36.000Z"
+   },
    {
     "quelle": "FXStreet",
     "titel": "ECB’s Lagarde warns France needs a credible path to rein in debt",
@@ -4364,7 +4424,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "ECB’s Schnabel says yield surge could cool inflation pressures",
+    "titel": "ECB’s Schnabel says yields surge could cool inflation pressures",
     "link": "https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619",
     "datum": "2026-09-30T16:19:05.000Z"
    },
@@ -4387,42 +4447,6 @@ window.MAKRO_DATA = {
     "datum": "2026-09-30T15:21:24.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "China: Targeted support and cautious stabilization signs – Societe Generale",
-    "link": "https://www.fxstreet.com/news/china-targeted-support-and-cautious-stabilization-signs-societe-generale-202609301423",
-    "datum": "2026-09-30T14:23:19.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "EUR/USD: Measured ECB tightening to support Euro – TD Securities",
-    "link": "https://www.fxstreet.com/news/eur-usd-measured-ecb-tightening-to-support-euro-td-securities-202609301419",
-    "datum": "2026-09-30T14:19:25.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
-    "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-us-pce-shifts-fed-rate-hike-bets-toward-december-202609301410",
-    "datum": "2026-09-30T14:10:24.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro finds support as softer US PCE data prompts traders to trim Fed rate-hike bets",
-    "link": "https://www.fxstreet.com/news/euro-finds-support-as-softer-us-pce-data-prompts-traders-to-trim-fed-rate-hike-bets-202609301408",
-    "datum": "2026-09-30T14:08:17.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "China: PMIs point to manufacturing and services improvement – Deutsche Bank",
-    "link": "https://www.fxstreet.com/news/china-pmis-point-to-manufacturing-and-services-improvement-deutsche-bank-202609301321",
-    "datum": "2026-09-30T13:21:39.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Canadian Dollar gains as US inflation cools Fed October rate hike bets",
-    "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-inflation-cools-fed-october-rate-hike-bets-202609301316",
-    "datum": "2026-09-30T13:16:04.000Z"
-   },
-   {
     "quelle": "Fed",
     "titel": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
@@ -4439,30 +4463,6 @@ window.MAKRO_DATA = {
     "titel": "US July core PCE 3.0% y/y vs 3.3% expected",
     "link": "https://investinglive.com/news/us-july-core-pce-3-0-y-y-vs-3-3-expected/",
     "datum": "2026-09-30T12:30:20.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US advance goods trade balance for August -$132.6 billion vs -$115.00 billion expected",
-    "link": "https://investinglive.com/news/us-advance-goods-trade-balance-for-august-132-6-billion-vs-115-00-billion-expected/",
-    "datum": "2026-09-30T12:30:14.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US ADP national employment +90K vs +70K expected",
-    "link": "https://investinglive.com/news/us-adp-national-employment-vs-70k-expected/",
-    "datum": "2026-09-30T12:15:08.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Germany September preliminary CPI +3.3% vs +3.1% y/y expected",
-    "link": "https://investinglive.com/news/germany-september-preliminary-cpi-3-3-vs-3-1-y-y-expected/",
-    "datum": "2026-09-30T12:00:07.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European session wrap: Equities retreat as oil rebounds and bond yields stay elevated",
-    "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-retreat-as-oil-rebounds-and-bond-yields-stay-elevated/",
-    "datum": "2026-09-30T11:30:27.000Z"
    }
   ]
  },

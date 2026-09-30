@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-30T17:20:37.360Z",
+  "stand": "2026-09-30T21:43:07.641Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -8,
       "tiltCot": -2,
-      "tiltZins": -5,
-      "tiltGesamt": -7,
-      "score": -15,
+      "tiltZins": -4,
+      "tiltGesamt": -6,
+      "score": -14,
       "cotExtrem": null,
       "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) und die taubenhaftere Notenbank treffen auf den starken Dollar. Doppelter Gegenwind.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 6,
       "tiltCot": -1,
-      "tiltZins": -1,
-      "tiltGesamt": -2,
-      "score": 4,
+      "tiltZins": -2,
+      "tiltGesamt": -3,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

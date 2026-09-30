@@ -112,7 +112,7 @@
   {
     "date": "2026-10-05T08:30:00.000Z",
     "country": "GBP",
-    "title": "S&P Global Services PMI Final",
+    "title": "S&P Global Composite PMI Final",
     "impact": "Low",
     "forecast": "51.7",
     "previous": "52.5",
@@ -122,20 +122,10 @@
   {
     "date": "2026-10-05T08:30:00.000Z",
     "country": "GBP",
-    "title": "S&P Global Composite PMI Final",
+    "title": "S&P Global Services PMI Final",
     "impact": "Low",
     "forecast": "51.7",
     "previous": "52.5",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-05T09:00:00.000Z",
-    "country": "EUR",
-    "title": "PPI YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "5.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -146,6 +136,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "1.6%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-05T09:00:00.000Z",
+    "country": "EUR",
+    "title": "PPI YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "5.8%",
     "actual": null,
     "quelle": "tradingview"
   },

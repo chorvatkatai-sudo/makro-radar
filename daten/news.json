@@ -1,11 +1,71 @@
 {
-  "stand": "2026-09-30T17:20:37.358Z",
+  "stand": "2026-09-30T21:43:07.639Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 30 Sept: Softer PCE fails to hold yields down; Dow ends September at June lows",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-sept-softer-pce-fails-to-hold-yields-down-dow-ends-september-at-june-lows/",
+      "datum": "2026-09-30T21:09:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What China's Golden Week closures mean for the yuan, futures and Asian liquidity",
+      "link": "https://investinglive.com/news/what-china-s-golden-week-closures-mean-for-the-yuan-futures-and-asian-liquidity/",
+      "datum": "2026-09-30T21:06:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Cook says inflation has stayed too high for too long",
+      "link": "https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020",
+      "datum": "2026-09-30T20:20:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump calls for Powell to resign over Fed renovation, asks attorney general to review report",
+      "link": "https://investinglive.com/news/trump-calls-for-powell-to-resign-over-fed-renovation-asks-attorney-general-to-review-report/",
+      "datum": "2026-09-30T20:00:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso pain deepens above 18.00 as carry appeal fades",
+      "link": "https://www.fxstreet.com/news/mexican-peso-pain-deepens-above-1800-as-carry-appeal-fades-202609301919",
+      "datum": "2026-09-30T19:19:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830",
+      "datum": "2026-09-30T18:30:22.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: US has almost total control of the Strait of Hormuz",
+      "link": "https://investinglive.com/news/trump-us-has-almost-total-control-of-the-strait-of-hormuz/",
+      "datum": "2026-09-30T18:23:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810",
+      "datum": "2026-09-30T18:10:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold can’t catch a PCE break as long US yields keep climbing",
+      "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802",
+      "datum": "2026-09-30T18:02:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI set for monthly gain amid US-Iran stalemate",
+      "link": "https://www.fxstreet.com/news/wti-set-for-monthly-gain-amid-us-iran-stalemate-202609301730",
+      "datum": "2026-09-30T17:30:36.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "ECB’s Lagarde warns France needs a credible path to rein in debt",
@@ -14,7 +74,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "ECB’s Schnabel says yield surge could cool inflation pressures",
+      "titel": "ECB’s Schnabel says yields surge could cool inflation pressures",
       "link": "https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619",
       "datum": "2026-09-30T16:19:05.000Z"
     },
@@ -37,42 +97,6 @@
       "datum": "2026-09-30T15:21:24.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "China: Targeted support and cautious stabilization signs – Societe Generale",
-      "link": "https://www.fxstreet.com/news/china-targeted-support-and-cautious-stabilization-signs-societe-generale-202609301423",
-      "datum": "2026-09-30T14:23:19.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD: Measured ECB tightening to support Euro – TD Securities",
-      "link": "https://www.fxstreet.com/news/eur-usd-measured-ecb-tightening-to-support-euro-td-securities-202609301419",
-      "datum": "2026-09-30T14:19:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
-      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-us-pce-shifts-fed-rate-hike-bets-toward-december-202609301410",
-      "datum": "2026-09-30T14:10:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro finds support as softer US PCE data prompts traders to trim Fed rate-hike bets",
-      "link": "https://www.fxstreet.com/news/euro-finds-support-as-softer-us-pce-data-prompts-traders-to-trim-fed-rate-hike-bets-202609301408",
-      "datum": "2026-09-30T14:08:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: PMIs point to manufacturing and services improvement – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/china-pmis-point-to-manufacturing-and-services-improvement-deutsche-bank-202609301321",
-      "datum": "2026-09-30T13:21:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar gains as US inflation cools Fed October rate hike bets",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-inflation-cools-fed-october-rate-hike-bets-202609301316",
-      "datum": "2026-09-30T13:16:04.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
@@ -89,30 +113,6 @@
       "titel": "US July core PCE 3.0% y/y vs 3.3% expected",
       "link": "https://investinglive.com/news/us-july-core-pce-3-0-y-y-vs-3-3-expected/",
       "datum": "2026-09-30T12:30:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US advance goods trade balance for August -$132.6 billion vs -$115.00 billion expected",
-      "link": "https://investinglive.com/news/us-advance-goods-trade-balance-for-august-132-6-billion-vs-115-00-billion-expected/",
-      "datum": "2026-09-30T12:30:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US ADP national employment +90K vs +70K expected",
-      "link": "https://investinglive.com/news/us-adp-national-employment-vs-70k-expected/",
-      "datum": "2026-09-30T12:15:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany September preliminary CPI +3.3% vs +3.1% y/y expected",
-      "link": "https://investinglive.com/news/germany-september-preliminary-cpi-3-3-vs-3-1-y-y-expected/",
-      "datum": "2026-09-30T12:00:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Equities retreat as oil rebounds and bond yields stay elevated",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-retreat-as-oil-rebounds-and-bond-yields-stay-elevated/",
-      "datum": "2026-09-30T11:30:27.000Z"
     }
   ]
 }

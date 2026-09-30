@@ -15256,7 +15256,7 @@
       "land": "EUR",
       "titel": "German Unemployment Change",
       "impact": "Low",
-      "prognose": "0K",
+      "prognose": "1K",
       "vorher": "4K",
       "actual": null,
       "notiz": null
@@ -15426,7 +15426,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "-1.9M",
+      "prognose": "-0.7M",
       "vorher": "3.0M",
       "actual": null,
       "notiz": null
@@ -15616,7 +15616,7 @@
       "land": "CHF",
       "titel": "Manufacturing PMI",
       "impact": "Low",
-      "prognose": "56.4",
+      "prognose": "56.3",
       "vorher": "57.1",
       "actual": null,
       "notiz": null
@@ -15876,7 +15876,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "63B",
       "vorher": "53B",
       "actual": null,
       "notiz": null
@@ -16118,6 +16118,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "4.10|1.6",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-30T15:30:00-04:00|USD|President Trump Speaks": {
+      "datum": "2026-09-30T15:30:00-04:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

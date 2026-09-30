@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-29T21:42:29.261Z",
+  "stand": "2026-09-30T05:21:06.780Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,112 +7,112 @@
   ],
   "eintraege": [
     {
-      "quelle": "ForexLive",
-      "titel": "Australia CPI preview: headline inflation seen at 4.0% after RBA hike",
-      "link": "https://investinglive.com/news/australia-cpi-preview-headline-inflation-seen-at-4-0-after-rba-hike/",
-      "datum": "2026-09-29T20:44:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China PMIs preview: official manufacturing seen back above 50 before holiday",
-      "link": "https://investinglive.com/news/china-pmis-preview-official-manufacturing-seen-back-above-50-before-holiday/",
-      "datum": "2026-09-29T20:34:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Wednesday, September 30, 2026: 6 PMIs from China and CPI from Australia.",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-30-2026-6-pmis-from-china-and-cpi-from-australia/",
-      "datum": "2026-09-29T20:32:47.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: US 30-year yields hit the highest since 2002",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-30-year-yields-hit-the-highest-since-2002/",
-      "datum": "2026-09-29T20:14:53.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-      "datum": "2026-09-29T20:00:00.000Z"
+      "quelle": "FXStreet",
+      "titel": "GBP/USD Price Forecast: Weakens below 1.3250, technical barriers sustain bearish bias",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-weakens-below-13250-technical-barriers-sustain-bearish-bias-202609300513",
+      "datum": "2026-09-30T05:13:40.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold springs from $4,110 as Oil rout eases inflation heat",
-      "link": "https://www.fxstreet.com/news/gold-springs-from-4-110-as-oil-rout-eases-inflation-heat-202609291957",
-      "datum": "2026-09-29T19:57:41.000Z"
+      "titel": "Euro stays pressured below 1.1350, near YTD low vs bullish USD ahead of US PCE, Q2 GDP",
+      "link": "https://www.fxstreet.com/news/euro-stays-pressured-below-11350-near-ytd-low-vs-bullish-usd-ahead-of-us-pce-q2-gdp-202609300501",
+      "datum": "2026-09-30T05:01:21.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Canadian Dollar round-trips as Fed officials differ on hike timing",
-      "link": "https://www.fxstreet.com/news/the-canadian-dollar-round-trips-as-fed-officials-differ-on-hike-timing-202609291943",
-      "datum": "2026-09-29T19:43:32.000Z"
+      "titel": "Indonesian Rupiah gains on robust Chinese PMI data, budget assurance",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-on-robust-chinese-pmi-data-budget-assurance-202609300443",
+      "datum": "2026-09-30T04:43:36.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed’s Williams says worst inflation shocks have passed",
-      "link": "https://www.fxstreet.com/news/feds-williams-says-worst-inflation-shocks-have-passed-202609291918",
-      "datum": "2026-09-29T19:18:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index approaches yearly peak on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-peak-on-hawkish-fed-outlook-202609291831",
-      "datum": "2026-09-29T18:31:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Williams says no rush after September hike",
-      "link": "https://www.fxstreet.com/news/feds-williams-says-no-rush-after-september-hike-202609291822",
-      "datum": "2026-09-29T18:22:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Goolsbee: Persistent inflation is like “playing with fire”",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-persistent-inflation-is-like-playing-with-fire-202609291812",
-      "datum": "2026-09-29T18:12:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs",
-      "link": "https://www.fxstreet.com/news/forex-today-focus-shifts-to-us-pce-adp-inflation-in-oz-and-chinese-pmis-202609291806",
-      "datum": "2026-09-29T18:06:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
-      "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
-      "datum": "2026-09-29T17:48:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
-      "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
-      "datum": "2026-09-29T17:35:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price retreats as rising US yields, Hormuz tensions bolster US Dollar",
-      "link": "https://www.fxstreet.com/news/silver-price-retreats-as-rising-us-yields-hormuz-tensions-bolster-us-dollar-202609291719",
-      "datum": "2026-09-29T17:19:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Barr says policy needs recalibration, more adjustments likely",
-      "link": "https://www.fxstreet.com/news/feds-barr-says-policy-needs-recalibration-more-adjustments-likely-202609291652",
-      "datum": "2026-09-29T16:52:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s DeMarco backs October hike as core inflation stays firm",
-      "link": "https://www.fxstreet.com/news/ecbs-demarco-backs-october-hike-as-core-inflation-stays-firm-202609291622",
-      "datum": "2026-09-29T16:22:02.000Z"
+      "titel": "India Gold price today: Gold steadies, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609300440",
+      "datum": "2026-09-30T04:40:51.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "JOLTS job openings 7.079M vs 7.225M estimate",
-      "link": "https://investinglive.com/news/jolts-job-openings-7-079m-vs-7-225m-estimate/",
-      "datum": "2026-09-29T14:09:35.000Z"
+      "titel": "Heads up: Germany September CPI expected to show inflation back above 3%",
+      "link": "https://investinglive.com/news/heads-up-germany-september-cpi-expected-to-show-inflation-back-above-3/",
+      "datum": "2026-09-30T04:38:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc remains near 16-month lows as rate hike odds lift US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-near-16-month-lows-as-rate-hike-odds-lift-us-dollar-202609300430",
+      "datum": "2026-09-30T04:30:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index strengthens to near 101.50, US ADP and PCE data loom",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-to-near-10150-us-adp-and-pce-data-loom-202609300425",
+      "datum": "2026-09-30T04:25:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD hangs near eight-week low; bears retain control near $61.00",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-hangs-near-eight-week-low-bears-retain-control-near-6100-202609300409",
+      "datum": "2026-09-30T04:09:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Slips below 178.00 as bearish bias strengthens",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17800-as-bearish-bias-strengthens-202609300408",
+      "datum": "2026-09-30T04:08:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold holds steady below $4,200 as retreating bond yields and softer USD lend support",
+      "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349",
+      "datum": "2026-09-30T03:49:35.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Yen, Nikkei firmer",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-yen-nikkei-firmer/",
+      "datum": "2026-09-30T03:40:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar holds immediate support near 0.5625, outlook remains uncertain",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-immediate-support-near-05625-outlook-remains-uncertain-202609300318",
+      "datum": "2026-09-30T03:18:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar remains subdued near two-month lows as falling oil prices weigh",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-subdued-near-two-month-lows-as-falling-oil-prices-weigh-202609300238",
+      "datum": "2026-09-30T02:38:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US-Iran talks deadlocked as Qatar mediation yields little",
+      "link": "https://www.fxstreet.com/news/us-iran-talks-deadlocked-as-qatar-mediation-yields-little-202609300222",
+      "datum": "2026-09-30T02:22:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China official manufacturing PMI returns to growth at 50.1, non-manufacturing 50.2",
+      "link": "https://investinglive.com/news/china-official-manufacturing-pmi-returns-to-growth-at-50-1-non-manufacturing-50-2/",
+      "datum": "2026-09-30T02:19:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "RatingDog China manufacturing PMI 52.1 tops forecast, services 51.6 also beats",
+      "link": "https://investinglive.com/news/ratingdog-china-manufacturing-pmi-52-1-tops-forecast-services-51-6-also-beats/",
+      "datum": "2026-09-30T02:02:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia August CPI 4.0% as fuel jumps, trimmed mean below forecast at 0.2% m/m",
+      "link": "https://investinglive.com/news/australia-august-cpi-4-0-as-fuel-jumps-trimmed-mean-below-forecast-at-0-2-m-m/",
+      "datum": "2026-09-30T01:50:56.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China private survey manufacturing PMI (September) 52.1 (vs. expected 51.6, prior 51.5)",
+      "link": "https://investinglive.com/news/china-private-survey-manufacturing-pmi-september-vs-expected-51-6-prior-51-5/",
+      "datum": "2026-09-30T01:45:09.000Z"
     }
   ]
 }

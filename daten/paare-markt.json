@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-30T10:14:12.053Z",
+  "stand": "2026-09-30T11:40:24.934Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": -2,
       "tiltCot": -3,
-      "tiltZins": -7,
-      "tiltGesamt": -10,
-      "score": -12,
+      "tiltZins": -6,
+      "tiltGesamt": -9,
+      "score": -11,
       "cotExtrem": null,
       "treiber": "Die RBA-Erhöhung von gestern gibt Boden, aber die heute KÜHLERE Inflation (4,0%<4,1%) nimmt Schwung und der Dollar steht fest am 2-Monats-Hoch → leicht ins Minus. Track-Record hier mittel (54%), daher klein.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 4,
       "tiltCot": 3,
-      "tiltZins": 3,
-      "tiltGesamt": 6,
-      "score": 10,
+      "tiltZins": 2,
+      "tiltGesamt": 5,
+      "score": 9,
       "cotExtrem": null,
       "treiber": "Doppel-Rückenwind fürs Paar: fester Dollar (US-Renditen auf Mehrjahres-Hoch) UND Öl fiel auf ein 1-Monats-Tief (~89$) = Loonie verliert seinen Stützpfeiler.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 6,
       "tiltCot": -1,
-      "tiltZins": -3,
-      "tiltGesamt": -4,
-      "score": 2,
+      "tiltZins": -2,
+      "tiltGesamt": -3,
+      "score": 3,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 3,
-      "tiltZins": 1,
-      "tiltGesamt": 4,
-      "score": 5,
+      "tiltZins": 0,
+      "tiltGesamt": 3,
+      "score": 4,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

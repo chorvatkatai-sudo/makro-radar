@@ -82,10 +82,10 @@
   {
     "date": "2026-10-05T08:00:00.000Z",
     "country": "EUR",
-    "title": "S&P Global Services PMI Final",
+    "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "53",
-    "previous": "51.6",
+    "forecast": "53.1",
+    "previous": "52",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -102,10 +102,10 @@
   {
     "date": "2026-10-05T08:00:00.000Z",
     "country": "EUR",
-    "title": "S&P Global Composite PMI Final",
+    "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "53.1",
-    "previous": "52",
+    "forecast": "53",
+    "previous": "51.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -401,6 +401,16 @@
   },
   {
     "date": "2026-10-06T09:00:00.000Z",
+    "country": "GBP",
+    "title": "Index-linked Treasury Gilt 2035 Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.725%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-06T09:00:00.000Z",
     "country": "EUR",
     "title": "Retail Sales YoY",
     "impact": "Low",
@@ -416,16 +426,6 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "-0.6%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-06T09:00:00.000Z",
-    "country": "GBP",
-    "title": "Index-linked Treasury Gilt 2035 Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.725%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -452,20 +452,10 @@
   {
     "date": "2026-10-06T12:30:00.000Z",
     "country": "CAD",
-    "title": "Balance of Trade",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "0.77 C$",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-06T12:30:00.000Z",
-    "country": "USD",
     "title": "Imports",
-    "impact": "Medium",
+    "impact": "Low",
     "forecast": "",
-    "previous": "399.3",
+    "previous": "75.37 C$",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -482,6 +472,16 @@
   {
     "date": "2026-10-06T12:30:00.000Z",
     "country": "USD",
+    "title": "Imports",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "399.3",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-06T12:30:00.000Z",
+    "country": "USD",
     "title": "Balance of Trade",
     "impact": "Medium",
     "forecast": "",
@@ -492,10 +492,10 @@
   {
     "date": "2026-10-06T12:30:00.000Z",
     "country": "CAD",
-    "title": "Imports",
-    "impact": "Low",
+    "title": "Balance of Trade",
+    "impact": "Medium",
     "forecast": "",
-    "previous": "75.37 C$",
+    "previous": "0.77 C$",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -582,16 +582,6 @@
   {
     "date": "2026-10-06T22:00:00.000Z",
     "country": "AUD",
-    "title": "Ai Group Construction Index",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-6.9",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-06T22:00:00.000Z",
-    "country": "AUD",
     "title": "Ai Group Industry Index",
     "impact": "Medium",
     "forecast": "",
@@ -610,12 +600,12 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-10-06T23:00:00.000Z",
-    "country": "USD",
-    "title": "Fed Logan Speech",
-    "impact": "Medium",
+    "date": "2026-10-06T22:00:00.000Z",
+    "country": "AUD",
+    "title": "Ai Group Construction Index",
+    "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-6.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -630,12 +620,12 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-10-06T23:30:00.000Z",
-    "country": "JPY",
-    "title": "Overtime Pay YoY",
-    "impact": "Low",
+    "date": "2026-10-06T23:00:00.000Z",
+    "country": "USD",
+    "title": "Fed Logan Speech",
+    "impact": "Medium",
     "forecast": "",
-    "previous": "3.1%",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -646,6 +636,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "4.7%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-06T23:30:00.000Z",
+    "country": "JPY",
+    "title": "Overtime Pay YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -700,6 +700,16 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-10-07T03:35:00.000Z",
+    "country": "JPY",
+    "title": "BoJ JGB Purchase",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-10-07T05:00:00.000Z",
     "country": "JPY",
     "title": "Leading Economic Index Prel",
@@ -722,20 +732,20 @@
   {
     "date": "2026-10-07T06:00:00.000Z",
     "country": "GBP",
-    "title": "Lloyds House Price Index MoM",
+    "title": "Lloyds House Price Index YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.2",
+    "previous": "-0.4",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-07T06:00:00.000Z",
     "country": "GBP",
-    "title": "Lloyds House Price Index YoY",
+    "title": "Lloyds House Price Index MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.4",
+    "previous": "-0.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -762,20 +772,20 @@
   {
     "date": "2026-10-07T09:00:00.000Z",
     "country": "GBP",
-    "title": "BBA Mortgage Rate",
+    "title": "Conventional Gilt Tender",
     "impact": "Low",
     "forecast": "",
-    "previous": "6.58%",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-07T09:00:00.000Z",
     "country": "GBP",
-    "title": "Conventional Gilt Tender",
+    "title": "BBA Mortgage Rate",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.58%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -815,7 +825,7 @@
     "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "148.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -825,7 +835,7 @@
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "557.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -835,7 +845,7 @@
     "title": "MBA Mortgage Market Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "213.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -845,7 +855,7 @@
     "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -855,7 +865,7 @@
     "title": "MBA 30-Year Mortgage Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "7.3",
     "actual": null,
     "quelle": "tradingview"
   },

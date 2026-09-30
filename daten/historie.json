@@ -16130,6 +16130,26 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-09-30T02:04:00-04:00|EUR|German Retail Sales m/m": {
+      "datum": "2026-09-30T02:04:00-04:00",
+      "land": "EUR",
+      "titel": "German Retail Sales m/m",
+      "impact": "Low",
+      "prognose": "1.6%",
+      "vorher": "-3.4%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-09-30T05:32:00-04:00|EUR|German 10-y Bond Auction": {
+      "datum": "2026-09-30T05:32:00-04:00",
+      "land": "EUR",
+      "titel": "German 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.39|1.5",
+      "actual": null,
+      "notiz": null
     }
   }
 }

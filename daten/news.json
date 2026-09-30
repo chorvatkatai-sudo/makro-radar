@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-30T05:21:06.780Z",
+  "stand": "2026-09-30T10:14:12.051Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Weakens below 1.3250, technical barriers sustain bearish bias",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-weakens-below-13250-technical-barriers-sustain-bearish-bias-202609300513",
-      "datum": "2026-09-30T05:13:40.000Z"
+      "titel": "EUR/USD: Dollar correction faces resistance – Societe Generale",
+      "link": "https://www.fxstreet.com/news/eur-usd-dollar-correction-faces-resistance-societe-generale-202609300955",
+      "datum": "2026-09-30T09:55:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro stays pressured below 1.1350, near YTD low vs bullish USD ahead of US PCE, Q2 GDP",
-      "link": "https://www.fxstreet.com/news/euro-stays-pressured-below-11350-near-ytd-low-vs-bullish-usd-ahead-of-us-pce-q2-gdp-202609300501",
-      "datum": "2026-09-30T05:01:21.000Z"
+      "titel": "Brent Oil: Prices reverse on supply headlines – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-oil-prices-reverse-on-supply-headlines-deutsche-bank-202609300952",
+      "datum": "2026-09-30T09:52:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indonesian Rupiah gains on robust Chinese PMI data, budget assurance",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-on-robust-chinese-pmi-data-budget-assurance-202609300443",
-      "datum": "2026-09-30T04:43:36.000Z"
+      "titel": "US Dollar: Coin flip for October rate hike – DBS",
+      "link": "https://www.fxstreet.com/news/us-dollar-coin-flip-for-october-rate-hike-dbs-202609300947",
+      "datum": "2026-09-30T09:47:32.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold steadies, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202609300440",
-      "datum": "2026-09-30T04:40:51.000Z"
+      "titel": "USD/JPY: Offered tone with key 155–158.20 range – Societe Generale",
+      "link": "https://www.fxstreet.com/news/usd-jpy-offered-tone-with-key-155-15820-range-societe-generale-202609300945",
+      "datum": "2026-09-30T09:45:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Pound: Stronger UK growth and reverse-Brexit risk – MUFG",
+      "link": "https://www.fxstreet.com/news/pound-stronger-uk-growth-and-reverse-brexit-risk-mufg-202609300943",
+      "datum": "2026-09-30T09:43:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Treasuries: Curve steepens with long yields at cycle highs – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-treasuries-curve-steepens-with-long-yields-at-cycle-highs-deutsche-bank-202609300940",
+      "datum": "2026-09-30T09:40:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso: Carry trade unwind risks into Q4 – Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-carry-trade-unwind-risks-into-q4-societe-generale-202609300938",
+      "datum": "2026-09-30T09:38:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD: Range view holds as Dollar doubts grow – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/eur-usd-range-view-holds-as-dollar-doubts-grow-deutsche-bank-202609300936",
+      "datum": "2026-09-30T09:36:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609300931",
+      "datum": "2026-09-30T09:31:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Softer Australia CPI but RBA still hawkish – Rabobank",
+      "link": "https://www.fxstreet.com/news/softer-australia-cpi-but-rba-still-hawkish-rabobank-202609300930",
+      "datum": "2026-09-30T09:30:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Rally seen stretched into year-end – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-rally-seen-stretched-into-year-end-td-securities-202609300928",
+      "datum": "2026-09-30T09:28:28.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Heads up: Germany September CPI expected to show inflation back above 3%",
-      "link": "https://investinglive.com/news/heads-up-germany-september-cpi-expected-to-show-inflation-back-above-3/",
-      "datum": "2026-09-30T04:38:00.000Z"
+      "titel": "Italy September preliminary CPI +4.2% vs +3.8% y/y expected",
+      "link": "https://investinglive.com/news/italy-september-preliminary-cpi-4-2-vs-3-8-y-y-expected/",
+      "datum": "2026-09-30T09:00:55.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc remains near 16-month lows as rate hike odds lift US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-near-16-month-lows-as-rate-hike-odds-lift-us-dollar-202609300430",
-      "datum": "2026-09-30T04:30:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index strengthens to near 101.50, US ADP and PCE data loom",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-to-near-10150-us-adp-and-pce-data-loom-202609300425",
-      "datum": "2026-09-30T04:25:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD hangs near eight-week low; bears retain control near $61.00",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-hangs-near-eight-week-low-bears-retain-control-near-6100-202609300409",
-      "datum": "2026-09-30T04:09:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Slips below 178.00 as bearish bias strengthens",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17800-as-bearish-bias-strengthens-202609300408",
-      "datum": "2026-09-30T04:08:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold holds steady below $4,200 as retreating bond yields and softer USD lend support",
-      "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349",
-      "datum": "2026-09-30T03:49:35.000Z"
+      "titel": "US core PCE inflation expected to rise in August, testing Federal Reserve’s rate path",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
+      "datum": "2026-09-30T08:30:00.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Yen, Nikkei firmer",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-yen-nikkei-firmer/",
-      "datum": "2026-09-30T03:40:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar holds immediate support near 0.5625, outlook remains uncertain",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-immediate-support-near-05625-outlook-remains-uncertain-202609300318",
-      "datum": "2026-09-30T03:18:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar remains subdued near two-month lows as falling oil prices weigh",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-subdued-near-two-month-lows-as-falling-oil-prices-weigh-202609300238",
-      "datum": "2026-09-30T02:38:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US-Iran talks deadlocked as Qatar mediation yields little",
-      "link": "https://www.fxstreet.com/news/us-iran-talks-deadlocked-as-qatar-mediation-yields-little-202609300222",
-      "datum": "2026-09-30T02:22:06.000Z"
+      "titel": "German state CPI readings point to inflation climbing back above 3% in September",
+      "link": "https://investinglive.com/news/german-state-cpi-readings-point-to-inflation-climbing-back-above-3-in-september/",
+      "datum": "2026-09-30T08:08:45.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "China official manufacturing PMI returns to growth at 50.1, non-manufacturing 50.2",
-      "link": "https://investinglive.com/news/china-official-manufacturing-pmi-returns-to-growth-at-50-1-non-manufacturing-50-2/",
-      "datum": "2026-09-30T02:19:15.000Z"
+      "titel": "German labour market softens in September as autumn pickup fails to kick into gear",
+      "link": "https://investinglive.com/news/german-labour-market-softens-in-september-as-autumn-pickup-fails-to-kick-into-gear/",
+      "datum": "2026-09-30T07:55:16.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "RatingDog China manufacturing PMI 52.1 tops forecast, services 51.6 also beats",
-      "link": "https://investinglive.com/news/ratingdog-china-manufacturing-pmi-52-1-tops-forecast-services-51-6-also-beats/",
-      "datum": "2026-09-30T02:02:20.000Z"
+      "titel": "French inflation jumps in September as HICP rises to 3.4%",
+      "link": "https://investinglive.com/news/french-inflation-jumps-in-september-as-hicp-rises-to-3-4/",
+      "datum": "2026-09-30T06:46:39.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Australia August CPI 4.0% as fuel jumps, trimmed mean below forecast at 0.2% m/m",
-      "link": "https://investinglive.com/news/australia-august-cpi-4-0-as-fuel-jumps-trimmed-mean-below-forecast-at-0-2-m-m/",
-      "datum": "2026-09-30T01:50:56.000Z"
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-53/",
+      "datum": "2026-09-30T06:33:44.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "China private survey manufacturing PMI (September) 52.1 (vs. expected 51.6, prior 51.5)",
-      "link": "https://investinglive.com/news/china-private-survey-manufacturing-pmi-september-vs-expected-51-6-prior-51-5/",
-      "datum": "2026-09-30T01:45:09.000Z"
+      "titel": "Germany retail sales rebound 1.3% in August after July slump",
+      "link": "https://investinglive.com/news/germany-retail-sales-rebound-1-3-in-august-after-july-slump/",
+      "datum": "2026-09-30T06:05:05.000Z"
     }
   ]
 }

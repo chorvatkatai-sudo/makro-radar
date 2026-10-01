@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-30T21:43:07.639Z",
+  "stand": "2026-10-01T05:22:11.688Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,112 +7,112 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Bears await acceptance below $88.00, 50% Fibo. support breakdown",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bears-await-acceptance-below-8800-50-fibo-support-breakdown-202610010515",
+      "datum": "2026-10-01T05:15:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/JPY Price Forecast: Recovers from six-month low, but retains bearish bias below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-recovers-from-six-month-low-but-retains-bearish-bias-below-100-day-sma-202610010455",
+      "datum": "2026-10-01T04:55:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold bulls seem hesitant as resilient US Dollar and yields cap upside",
+      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
+      "datum": "2026-10-01T04:54:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Tests nine-day EMA barrier after rebounding above 179.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-barrier-after-rebounding-above-17900-202610010444",
+      "datum": "2026-10-01T04:44:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610010431",
+      "datum": "2026-10-01T04:31:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Yen weakens,Nikkei jumps",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-yen-weakens-nikkei-jumps/",
+      "datum": "2026-10-01T03:43:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index approaches yearly high near 101.80, US ISM PMI in focus",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-high-near-10180-us-ism-pmi-in-focus-202610010324",
+      "datum": "2026-10-01T03:24:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD holds above $61.00 amid easing Fed rate hike expectations",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-6100-amid-easing-fed-rate-hike-expectations-202610010319",
+      "datum": "2026-10-01T03:19:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen drops to weekly low as elevated US bond yields lift USD to two-month high",
+      "link": "https://www.fxstreet.com/news/japanese-yen-drops-to-weekly-low-as-elevated-us-bond-yields-lift-usd-to-two-month-high-202610010256",
+      "datum": "2026-10-01T02:56:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro weakens below 1.1350 on higher US Treasury yields, Lagarde's dovish tilt",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11350-on-higher-us-treasury-yields-lagardes-dovish-tilt-202610010252",
+      "datum": "2026-10-01T02:52:45.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed path shaped by firm inflation – Societe Generale",
+      "link": "https://www.fxstreet.com/news/fed-path-shaped-by-firm-inflation-societe-generale-202610010225",
+      "datum": "2026-10-01T02:25:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Fed outlook supported by robust data – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-outlook-supported-by-robust-data-td-securities-202610010222",
+      "datum": "2026-10-01T02:22:41.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar remains stronger against Japanese Yen following Trade Balance data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-against-japanese-yen-following-trade-balance-data-202610010217",
+      "datum": "2026-10-01T02:17:49.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia's August trade surplus shrinks to A$495M as data center equipment imports surge",
+      "link": "https://investinglive.com/news/australia-s-august-trade-surplus-shrinks-to-a-495m-as-data-center-equipment-imports-surge/",
+      "datum": "2026-10-01T01:58:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump announces $200 billion South Korean investment in US nuclear, LNG and gas power",
+      "link": "https://investinglive.com/news/trump-announces-200-billion-south-korean-investment-in-us-nuclear-lng-and-gas-power/",
+      "datum": "2026-10-01T00:55:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan manufacturing PMI slips to 54.1, a six-month low, as new order growth slows",
+      "link": "https://investinglive.com/news/japan-manufacturing-pmi-slips-to-54-1-a-six-month-low-as-new-order-growth-slows/",
+      "datum": "2026-10-01T00:36:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia manufacturing PMI falls to 49.6 as new orders drop for first time since June",
+      "link": "https://investinglive.com/news/australia-manufacturing-pmi-falls-to-49-6-as-new-orders-drop-for-first-time-since-june/",
+      "datum": "2026-09-30T23:07:27.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 30 Sept: Softer PCE fails to hold yields down; Dow ends September at June lows",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-sept-softer-pce-fails-to-hold-yields-down-dow-ends-september-at-june-lows/",
       "datum": "2026-09-30T21:09:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What China's Golden Week closures mean for the yuan, futures and Asian liquidity",
-      "link": "https://investinglive.com/news/what-china-s-golden-week-closures-mean-for-the-yuan-futures-and-asian-liquidity/",
-      "datum": "2026-09-30T21:06:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Cook says inflation has stayed too high for too long",
-      "link": "https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020",
-      "datum": "2026-09-30T20:20:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump calls for Powell to resign over Fed renovation, asks attorney general to review report",
-      "link": "https://investinglive.com/news/trump-calls-for-powell-to-resign-over-fed-renovation-asks-attorney-general-to-review-report/",
-      "datum": "2026-09-30T20:00:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso pain deepens above 18.00 as carry appeal fades",
-      "link": "https://www.fxstreet.com/news/mexican-peso-pain-deepens-above-1800-as-carry-appeal-fades-202609301919",
-      "datum": "2026-09-30T19:19:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
-      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830",
-      "datum": "2026-09-30T18:30:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: US has almost total control of the Strait of Hormuz",
-      "link": "https://investinglive.com/news/trump-us-has-almost-total-control-of-the-strait-of-hormuz/",
-      "datum": "2026-09-30T18:23:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810",
-      "datum": "2026-09-30T18:10:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold can’t catch a PCE break as long US yields keep climbing",
-      "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802",
-      "datum": "2026-09-30T18:02:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI set for monthly gain amid US-Iran stalemate",
-      "link": "https://www.fxstreet.com/news/wti-set-for-monthly-gain-amid-us-iran-stalemate-202609301730",
-      "datum": "2026-09-30T17:30:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Lagarde warns France needs a credible path to rein in debt",
-      "link": "https://www.fxstreet.com/news/ecbs-lagarde-warns-france-needs-a-credible-path-to-rein-in-debt-202609301625",
-      "datum": "2026-09-30T16:25:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB’s Schnabel says yields surge could cool inflation pressures",
-      "link": "https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619",
-      "datum": "2026-09-30T16:19:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar reverses post-PCE rebound as US Dollar recovers",
-      "link": "https://www.fxstreet.com/news/australian-dollar-reverses-post-pce-rebound-as-us-dollar-recovers-202609301545",
-      "datum": "2026-09-30T15:45:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD remains vulnerable near $60",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-vulnerable-near-60-202609301526",
-      "datum": "2026-09-30T15:26:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound catches second wind as soft PCE knocks Fed hike bets",
-      "link": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521",
-      "datum": "2026-09-30T15:21:24.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-      "datum": "2026-09-30T13:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US GDP Final for Q2 2.2% vs 1.5% estimate",
-      "link": "https://investinglive.com/news/us-gdp-final-for-q2-2-2-vs-1-5-estimate/",
-      "datum": "2026-09-30T12:30:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US July core PCE 3.0% y/y vs 3.3% expected",
-      "link": "https://investinglive.com/news/us-july-core-pce-3-0-y-y-vs-3-3-expected/",
-      "datum": "2026-09-30T12:30:20.000Z"
     }
   ]
 }

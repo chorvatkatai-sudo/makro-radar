@@ -1,28 +1,28 @@
 {
-  "stand": "2026-09-30T21:43:07.641Z",
+  "stand": "2026-10-01T05:21:42.270Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": -4,
+      "baseScore": -2,
       "tiltCot": -1,
       "tiltZins": -8,
       "tiltGesamt": -9,
-      "score": -13,
+      "score": -11,
       "cotExtrem": "erhoeht",
-      "treiber": "Der feste Dollar (Fed-Erhöhung, Renditen über 5%) drückt das Paar. Die starken Euro-PMIs (Composite 3-Jahres-Hoch) mildern das Minus aber deutlich ab — deshalb kein großer Score. Track-Record hier schwach (31%) → bewusst klein.",
+      "treiber": "Der feste Dollar (Renditen >5%) drückt, aber gestern kam die US-Kern-PCE kühler UND die Euro-PMIs stehen auf 3-Jahres-Hoch → Minus deutlich abgefedert, bewusst klein (Track-Record 36%). Morgen Euro-CPI-Flash.",
       "istCross": false
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -5,
+      "baseScore": -4,
       "tiltCot": -5,
       "tiltZins": -2,
       "tiltGesamt": -7,
-      "score": -12,
+      "score": -11,
       "cotExtrem": "erhoeht",
-      "treiber": "Doppelter Gegenwind: fester Dollar plus enttäuschende britische Dienstleistungs-PMI (51,7, 3-Monats-Tief). Die falkenhafte BoE federt nur einen Teil ab.",
+      "treiber": "Doppelter Gegenwind: fester Dollar plus enttäuschende britische Dienstleistungs-PMI (51,7). Die falkenhafte BoE federt nur einen Teil ab. GBP-COT extrem short (z−1,65) = Squeeze-Risiko bei Gegen-Impuls.",
       "istCross": false
     },
     {
@@ -55,29 +55,29 @@
       "tiltGesamt": 6,
       "score": 10,
       "cotExtrem": null,
-      "treiber": "Doppel-Rückenwind fürs Paar: fester Dollar (US-Renditen auf Mehrjahres-Hoch) UND Öl fiel auf ein 1-Monats-Tief (~89$) = Loonie verliert seinen Stützpfeiler.",
+      "treiber": "Doppel-Rückenwind fürs Paar: fester Dollar (US-Renditen Mehrjahres-Hoch) UND Öl fiel weiter (WTI ~90$, −4,5% Woche) = Loonie ohne Stützpfeiler.",
       "istCross": false
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 5,
+      "baseScore": 4,
       "tiltCot": 4,
       "tiltZins": 8,
       "tiltGesamt": 12,
-      "score": 17,
+      "score": 16,
       "cotExtrem": null,
-      "treiber": "Der sauberste Dollar-Long: Fester Dollar (7-Wochen-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (ruhiger Markt). Die gestrichene SNB-Drohung ist leicht Franken-stützend, deckelt den Anstieg minimal.",
+      "treiber": "Sauberer Dollar-Long, aber leicht gekappt nach der kühleren Kern-PCE: Fester Dollar (2-Monats-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (Markt ruhig). Die gestrichene SNB-Drohung deckelt minimal.",
       "istCross": false
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -8,
+      "baseScore": -7,
       "tiltCot": -2,
       "tiltZins": -4,
       "tiltGesamt": -6,
-      "score": -14,
+      "score": -13,
       "cotExtrem": null,
-      "treiber": "Der größte Minus-Score — aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) und die taubenhaftere Notenbank treffen auf den starken Dollar. Doppelter Gegenwind.",
+      "treiber": "Größter Minus-Score aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) + taubenhaftere Notenbank treffen auf den festen Dollar. Doppelter Gegenwind.",
       "istCross": false
     },
     {
@@ -93,11 +93,11 @@
     },
     {
       "paar": "EUR/JPY",
-      "baseScore": 0,
+      "baseScore": 1,
       "tiltCot": -5,
       "tiltZins": -6,
       "tiltGesamt": -11,
-      "score": -11,
+      "score": -10,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

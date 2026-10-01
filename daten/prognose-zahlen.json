@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-30T21:43:07.651Z",
+  "stand": "2026-10-01T05:21:42.287Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 30,
@@ -18,8 +18,8 @@
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
-    "gesamt": 12,
-    "quote": 50
+    "gesamt": 13,
+    "quote": 46
   },
   "exakt": {
     "treffer": 3,
@@ -99,9 +99,9 @@
       "event": "US-Kern-PCE (Kern-Konsumausgaben-Preise, m/m)",
       "datum": "2026-09-30",
       "richtung": "hoeher",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "1.5%",
-      "ist": "1.5%",
+      "tatsaechlich": "niedriger",
+      "konsens": "0.3%",
+      "ist": "0.2",
       "treffer": false
     }
   ]

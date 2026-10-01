@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-01T05:22:11.688Z",
+  "stand": "2026-10-01T10:40:04.762Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Bears await acceptance below $88.00, 50% Fibo. support breakdown",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-bears-await-acceptance-below-8800-50-fibo-support-breakdown-202610010515",
-      "datum": "2026-10-01T05:15:59.000Z"
+      "titel": "Oil: Prices hold near multi‑year highs – UOB",
+      "link": "https://www.fxstreet.com/news/oil-prices-hold-near-multi-year-highs-uob-202610011032",
+      "datum": "2026-10-01T10:32:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Recovers from six-month low, but retains bearish bias below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-recovers-from-six-month-low-but-retains-bearish-bias-below-100-day-sma-202610010455",
-      "datum": "2026-10-01T04:55:19.000Z"
+      "titel": "US Dollar: Stronger profile as policy supports flows – Societe Generale",
+      "link": "https://www.fxstreet.com/news/us-dollar-stronger-profile-as-policy-supports-flows-societe-generale-202610011026",
+      "datum": "2026-10-01T10:26:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold bulls seem hesitant as resilient US Dollar and yields cap upside",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
-      "datum": "2026-10-01T04:54:51.000Z"
+      "titel": "USD/JPY: Yen soft as intervention absent – UOB",
+      "link": "https://www.fxstreet.com/news/usd-jpy-yen-soft-as-intervention-absent-uob-202610011021",
+      "datum": "2026-10-01T10:21:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Tests nine-day EMA barrier after rebounding above 179.00",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-nine-day-ema-barrier-after-rebounding-above-17900-202610010444",
-      "datum": "2026-10-01T04:44:30.000Z"
+      "titel": "1.1265: Euro hits yearly lows amid high Oil prices, rising US yields and debt woes",
+      "link": "https://www.fxstreet.com/news/11265-euro-hits-yearly-lows-amid-high-oil-prices-rising-us-yields-and-debt-woes-202610011019",
+      "datum": "2026-10-01T10:19:49.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610010431",
-      "datum": "2026-10-01T04:31:02.000Z"
+      "titel": "US Treasuries: Long-end selloff extends to multi-decade highs – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-treasuries-long-end-selloff-extends-to-multi-decade-highs-deutsche-bank-202610011019",
+      "datum": "2026-10-01T10:19:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold: Upside capped by real yields – UOB",
+      "link": "https://www.fxstreet.com/news/gold-upside-capped-by-real-yields-uob-202610011015",
+      "datum": "2026-10-01T10:15:15.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Yen weakens,Nikkei jumps",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-yen-weakens-nikkei-jumps/",
-      "datum": "2026-10-01T03:43:21.000Z"
+      "titel": "US layoffs ease in September, but weak hiring keeps NFP in focus",
+      "link": "https://investinglive.com/news/us-layoffs-ease-in-september-but-weak-hiring-keeps-nfp-in-focus/",
+      "datum": "2026-10-01T10:05:31.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United States Dollar Index approaches yearly high near 101.80, US ISM PMI in focus",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-high-near-10180-us-ism-pmi-in-focus-202610010324",
-      "datum": "2026-10-01T03:24:04.000Z"
+      "titel": "EU trade: Strategic linkages and rare earths – Rabobank",
+      "link": "https://www.fxstreet.com/news/eu-trade-strategic-linkages-and-rare-earths-rabobank-202610010957",
+      "datum": "2026-10-01T09:57:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD holds above $61.00 amid easing Fed rate hike expectations",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-6100-amid-easing-fed-rate-hike-expectations-202610010319",
-      "datum": "2026-10-01T03:19:59.000Z"
+      "titel": "US Dollar: Fed repricing and inflation data steer path – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-and-inflation-data-steer-path-deutsche-bank-202610010955",
+      "datum": "2026-10-01T09:55:09.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen drops to weekly low as elevated US bond yields lift USD to two-month high",
-      "link": "https://www.fxstreet.com/news/japanese-yen-drops-to-weekly-low-as-elevated-us-bond-yields-lift-usd-to-two-month-high-202610010256",
-      "datum": "2026-10-01T02:56:03.000Z"
+      "titel": "Dow Jones futures decline as markets weigh on rising US yields",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-decline-as-markets-weigh-on-rising-us-yields-202610010935",
+      "datum": "2026-10-01T09:35:03.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Euro weakens below 1.1350 on higher US Treasury yields, Lagarde's dovish tilt",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11350-on-higher-us-treasury-yields-lagardes-dovish-tilt-202610010252",
-      "datum": "2026-10-01T02:52:45.000Z"
+      "titel": "Central banks: Political economy pressures build – Rabobank",
+      "link": "https://www.fxstreet.com/news/central-banks-political-economy-pressures-build-rabobank-202610010933",
+      "datum": "2026-10-01T09:33:36.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed path shaped by firm inflation – Societe Generale",
-      "link": "https://www.fxstreet.com/news/fed-path-shaped-by-firm-inflation-societe-generale-202610010225",
-      "datum": "2026-10-01T02:25:34.000Z"
+      "titel": "Silver price today: Silver broadly unchanged, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202610010931",
+      "datum": "2026-10-01T09:31:57.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Fed outlook supported by robust data – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-outlook-supported-by-robust-data-td-securities-202610010222",
-      "datum": "2026-10-01T02:22:41.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar remains stronger against Japanese Yen following Trade Balance data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-against-japanese-yen-following-trade-balance-data-202610010217",
-      "datum": "2026-10-01T02:17:49.000Z"
+      "titel": "US Dollar: Fed-backed strength holds near yearly highs – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-backed-strength-holds-near-yearly-highs-ing-202610010928",
+      "datum": "2026-10-01T09:28:50.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Australia's August trade surplus shrinks to A$495M as data center equipment imports surge",
-      "link": "https://investinglive.com/news/australia-s-august-trade-surplus-shrinks-to-a-495m-as-data-center-equipment-imports-surge/",
-      "datum": "2026-10-01T01:58:05.000Z"
+      "titel": "UK September final manufacturing PMI 51.9 vs 52.0 preliminary",
+      "link": "https://investinglive.com/news/uk-september-final-manufacturing-pmi-51-9-vs-52-0-preliminary/",
+      "datum": "2026-10-01T08:30:04.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Trump announces $200 billion South Korean investment in US nuclear, LNG and gas power",
-      "link": "https://investinglive.com/news/trump-announces-200-billion-south-korean-investment-in-us-nuclear-lng-and-gas-power/",
-      "datum": "2026-10-01T00:55:12.000Z"
+      "titel": "Eurozone manufacturing hits 52-month high as input and output prices accelerate",
+      "link": "https://investinglive.com/news/eurozone-manufacturing-hits-52-month-high-as-input-and-output-prices-accelerate/",
+      "datum": "2026-10-01T08:01:03.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Japan manufacturing PMI slips to 54.1, a six-month low, as new order growth slows",
-      "link": "https://investinglive.com/news/japan-manufacturing-pmi-slips-to-54-1-a-six-month-low-as-new-order-growth-slows/",
-      "datum": "2026-10-01T00:36:05.000Z"
+      "titel": "France manufacturing growth slows in September as price pressures build",
+      "link": "https://investinglive.com/news/france-manufacturing-growth-slows-in-september-as-price-pressures-build/",
+      "datum": "2026-10-01T07:51:52.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Australia manufacturing PMI falls to 49.6 as new orders drop for first time since June",
-      "link": "https://investinglive.com/news/australia-manufacturing-pmi-falls-to-49-6-as-new-orders-drop-for-first-time-since-june/",
-      "datum": "2026-09-30T23:07:27.000Z"
+      "titel": "Italy September manufacturing PMI 50.4 vs 50.0 expected",
+      "link": "https://investinglive.com/news/italy-september-manufacturing-pmi-50-4-vs-50-0-expected/",
+      "datum": "2026-10-01T07:45:23.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 30 Sept: Softer PCE fails to hold yields down; Dow ends September at June lows",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-sept-softer-pce-fails-to-hold-yields-down-dow-ends-september-at-june-lows/",
-      "datum": "2026-09-30T21:09:42.000Z"
+      "titel": "Spain manufacturing returns to growth in September but price pressures build",
+      "link": "https://investinglive.com/news/spain-manufacturing-returns-to-growth-in-september-but-price-pressures-build/",
+      "datum": "2026-10-01T07:15:08.000Z"
     }
   ]
 }

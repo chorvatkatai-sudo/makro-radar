@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-01T12:09:14.992Z",
+  "stand": "2026-10-01T17:54:08.640Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Euro: Vulnerable as US diesel policy bites – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-vulnerable-as-us-diesel-policy-bites-societe-generale-202610011204",
-      "datum": "2026-10-01T12:04:34.000Z"
+      "titel": "Banxico survey sees lower inflation, stronger growth and 6.50% hold",
+      "link": "https://www.fxstreet.com/news/banxico-survey-sees-lower-inflation-stronger-growth-and-650-hold-202610011734",
+      "datum": "2026-10-01T17:34:21.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/JPY: Range-bound view on BOJ caution – BBH",
-      "link": "https://www.fxstreet.com/news/usd-jpy-range-bound-view-on-boj-caution-bbh-202610011151",
-      "datum": "2026-10-01T11:51:29.000Z"
+      "titel": "Mexican Peso rout deepens as USD/MXN blasts through 18.30",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rout-deepens-as-usd-mxn-blasts-through-1830-202610011707",
+      "datum": "2026-10-01T17:07:53.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Fed's Kashkari: Will put pressure on different parts of economy if we keep raising rates",
-      "link": "https://www.fxstreet.com/news/feds-kashkari-will-put-pressure-on-different-parts-of-economy-if-we-keep-raising-rates-202610011150",
-      "datum": "2026-10-01T11:50:19.000Z"
+      "titel": "Forex Today: US NFP takes centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-us-nfp-takes-centre-stage-202610011704",
+      "datum": "2026-10-01T17:04:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: Jumps to near 158.40 as traders reassess hawkish BoJ bets",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-jumps-to-near-15840-as-traders-reassess-hawkish-boj-bets-202610011149",
-      "datum": "2026-10-01T11:49:13.000Z"
+      "titel": "Japanese Yen recovers as intervention risk offsets US Dollar strength",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-as-intervention-risk-offsets-us-dollar-strength-202610011609",
+      "datum": "2026-10-01T16:09:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "NZD/USD Price Forecast: At fresh yearly lows with bears pushing against 0.5600",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-at-fresh-yearly-lows-with-bears-pushing-against-05600-202610011148",
-      "datum": "2026-10-01T11:48:34.000Z"
+      "titel": "Australian Dollar weakens as robust US data, rising US yields overshadow RBA rate hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-robust-us-data-rising-us-yields-overshadow-rba-rate-hike-202610011609",
+      "datum": "2026-10-01T16:09:06.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Resilient growth supports upside risks – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-resilient-growth-supports-upside-risks-bbh-202610011136",
-      "datum": "2026-10-01T11:36:53.000Z"
+      "titel": "Crude Oil turns a loss into a rally as Chinese refiners stop exporting fuel",
+      "link": "https://www.fxstreet.com/news/crude-oil-turns-a-loss-into-a-rally-as-chinese-refiners-stop-exporting-fuel-202610011550",
+      "datum": "2026-10-01T15:50:58.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold struggles as rising US Treasury yields outweigh dovish Fed repricing",
+      "titel": "British Pound buckles as DXY nears 102 on US jobs, factory strength",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-dxy-nears-102-on-us-jobs-factory-strength-202610011545",
+      "datum": "2026-10-01T15:45:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro hits fresh yearly low as strong US data keeps Fed tightening in play",
+      "link": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-as-strong-us-data-keeps-fed-tightening-in-play-202610011508",
+      "datum": "2026-10-01T15:08:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar steadies as Fed pause bets clash with resilient US economy",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-fed-pause-bets-clash-with-resilient-us-economy-202610011417",
+      "datum": "2026-10-01T14:17:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US ISM Manufacturing PMI fell to 54.5 in September",
+      "link": "https://www.fxstreet.com/news/us-ism-manufacturing-pmi-fell-to-545-in-september-202610011406",
+      "datum": "2026-10-01T14:06:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US construction spending for the month of August 0.9% versus 0.0% expected",
+      "link": "https://investinglive.com/news/us-construction-spending-for-the-month-of-august-0-9-versus-0-0-expected/",
+      "datum": "2026-10-01T14:01:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US September ISM manufacturing 54.5 vs 55.0 expected",
+      "link": "https://investinglive.com/news/us-september-ism-manufacturing-54-5-vs-55-0-expected/",
+      "datum": "2026-10-01T14:00:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc steadies as stronger inflation offsets broad US Dollar demand",
+      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-stronger-inflation-offsets-broad-us-dollar-demand-202610011354",
+      "datum": "2026-10-01T13:54:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada Sept S&P Global manufacturing PMI 51.5 vs 53.0 prior",
+      "link": "https://investinglive.com/news/canada-sept-s-p-global-manufacturing-pmi-51-5-vs-53-0-prior/",
+      "datum": "2026-10-01T13:30:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US weekly initial jobless claims 197K vs 200K expected",
+      "link": "https://investinglive.com/news/us-weekly-initial-jobless-claims-197k-vs-200k-expected/",
+      "datum": "2026-10-01T12:30:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Dollar firms as Treasury yields threaten fresh 2002 highs",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-firms-as-treasury-yields-threaten-fresh-2002-highs/",
+      "datum": "2026-10-01T12:08:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold struggles as elevated US Treasury yields outweigh dovish Fed repricing",
       "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
       "datum": "2026-10-01T11:25:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Trump sees ramping up bombing Iran after midterms possible – Time Magazine",
-      "link": "https://www.fxstreet.com/news/trump-sees-ramping-up-bombing-iran-after-midterms-possible-time-magazine-202610011122",
-      "datum": "2026-10-01T11:22:40.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "Trump tells TIME the U.S. could resume or intensify attacks against Iran after the midterm elections",
       "link": "https://investinglive.com/news/trump-tells-time-the-u-s-could-resume-or-intensify-attacks-against-iran-after-the-midterm-elections/",
       "datum": "2026-10-01T11:18:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound tests 1.3200 as higher US yields and risk-off markets boost US Dollar",
-      "link": "https://www.fxstreet.com/news/british-pound-tests-13200-as-higher-us-yields-and-risk-off-markets-boost-us-dollar-202610011055",
-      "datum": "2026-10-01T10:55:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar outperforms risky peers despite weak Trade Balance data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-outperforms-risky-peers-despite-weak-trade-balance-data-202610011053",
-      "datum": "2026-10-01T10:53:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Global Bonds: Selloff deepens with rising term premia – BBH",
-      "link": "https://www.fxstreet.com/news/global-bonds-selloff-deepens-with-rising-term-premia-bbh-202610011042",
-      "datum": "2026-10-01T10:42:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US layoffs ease in September, but weak hiring keeps NFP in focus",
-      "link": "https://investinglive.com/news/us-layoffs-ease-in-september-but-weak-hiring-keeps-nfp-in-focus/",
-      "datum": "2026-10-01T10:05:31.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK September final manufacturing PMI 51.9 vs 52.0 preliminary",
-      "link": "https://investinglive.com/news/uk-september-final-manufacturing-pmi-51-9-vs-52-0-preliminary/",
-      "datum": "2026-10-01T08:30:04.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone manufacturing hits 52-month high as input and output prices accelerate",
-      "link": "https://investinglive.com/news/eurozone-manufacturing-hits-52-month-high-as-input-and-output-prices-accelerate/",
-      "datum": "2026-10-01T08:01:03.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France manufacturing growth slows in September as price pressures build",
-      "link": "https://investinglive.com/news/france-manufacturing-growth-slows-in-september-as-price-pressures-build/",
-      "datum": "2026-10-01T07:51:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Italy September manufacturing PMI 50.4 vs 50.0 expected",
-      "link": "https://investinglive.com/news/italy-september-manufacturing-pmi-50-4-vs-50-0-expected/",
-      "datum": "2026-10-01T07:45:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Spain manufacturing returns to growth in September but price pressures build",
-      "link": "https://investinglive.com/news/spain-manufacturing-returns-to-growth-in-september-but-price-pressures-build/",
-      "datum": "2026-10-01T07:15:08.000Z"
     }
   ]
 }

@@ -1,11 +1,47 @@
 {
-  "stand": "2026-10-02T10:15:32.786Z",
+  "stand": "2026-10-02T11:39:19.827Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar trades higher against US Dollar ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-trades-higher-against-us-dollar-ahead-of-us-nfp-data-202610021139",
+      "datum": "2026-10-02T11:39:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc emerges as a safe-haven as global bonds sell off",
+      "link": "https://www.fxstreet.com/news/swiss-franc-emerges-as-a-safe-haven-as-global-bonds-sell-off-202610021124",
+      "datum": "2026-10-02T11:24:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Downside risks despite ECB scope – BBH",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-despite-ecb-scope-bbh-202610021107",
+      "datum": "2026-10-02T11:07:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro underperforms as France fiscal risks mount",
+      "link": "https://www.fxstreet.com/news/euro-underperforms-as-france-fiscal-risks-mount-202610021107",
+      "datum": "2026-10-02T11:07:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "France: Budget strains weigh on outlook – BBH",
+      "link": "https://www.fxstreet.com/news/france-budget-strains-weigh-on-outlook-bbh-202610021017",
+      "datum": "2026-10-02T10:17:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro-area Inflation: Headline pressures rise – Nordea",
+      "link": "https://www.fxstreet.com/news/euro-area-inflation-headline-pressures-rise-nordea-202610021016",
+      "datum": "2026-10-02T10:16:05.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "US Dollar: Uptrend intact as NFP looms – BBH",
@@ -37,12 +73,6 @@
       "datum": "2026-10-02T09:12:44.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Eurozone flash HICP rises faster by 3.8% YoY in September, beats 3.6% estimates",
-      "link": "https://www.fxstreet.com/news/eurozone-flash-hicp-rises-faster-by-38-yoy-in-september-beats-36-estimates-202610020904",
-      "datum": "2026-10-02T09:04:36.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Eurozone inflation jumps to 3.8% in September as energy prices surge",
       "link": "https://investinglive.com/news/eurozone-inflation-jumps-to-3-8-in-september-as-energy-prices-surge/",
@@ -50,31 +80,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "USD/JPY Price Forecast: Remains supported by 20-day EMA ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-remains-supported-by-20-day-ema-ahead-of-us-nfp-202610020857",
-      "datum": "2026-10-02T08:57:56.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "S&P 500: Resilient as Fed tone turns dovish – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/sp-500-resilient-as-fed-tone-turns-dovish-deutsche-bank-202610020831",
-      "datum": "2026-10-02T08:31:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound holds near three-month lows, US Dollar shines as global yields surge",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-near-three-month-lows-us-dollar-shines-as-global-yields-surge-202610020830",
-      "datum": "2026-10-02T08:30:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Fed pricing supports Dollar resilience – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-supports-dollar-resilience-ing-202610020830",
-      "datum": "2026-10-02T08:30:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Nonfarm Payrolls expected to show softer growth in September",
+      "titel": "US September Nonfarm Payrolls expected to moderate after strong August print",
       "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-soften-in-september-202610020830",
       "datum": "2026-10-02T08:30:00.000Z"
     },
@@ -95,12 +101,6 @@
       "titel": "US jobs report faces a higher bar as bond market tensions raise the stakes",
       "link": "https://investinglive.com/news/us-jobs-report-faces-a-higher-bar-as-bond-market-tensions-raise-the-stakes/",
       "datum": "2026-10-02T04:41:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold extends range play below $4,200; looks to US NFP for fresh impetus",
-      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-bullish-usd-eye-us-nfp-for-fed-rate-cues-202610020355",
-      "datum": "2026-10-02T03:55:15.000Z"
     },
     {
       "quelle": "ForexLive",

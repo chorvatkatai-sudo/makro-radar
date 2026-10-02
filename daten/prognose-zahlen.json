@@ -1,30 +1,30 @@
 {
-  "stand": "2026-10-02T17:09:05.768Z",
+  "stand": "2026-10-02T21:38:54.970Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
-  "gewertet": 30,
-  "nichtWertbar": 32,
-  "treffer": 16,
-  "quote": 53,
+  "gewertet": 31,
+  "nichtWertbar": 31,
+  "treffer": 17,
+  "quote": 55,
   "zinsentscheide": {
     "treffer": 9,
     "gesamt": 9,
     "quote": 100
   },
   "datenPrognosen": {
-    "treffer": 7,
-    "gesamt": 21,
-    "quote": 33
+    "treffer": 8,
+    "gesamt": 22,
+    "quote": 36
   },
   "richtungBeiAbweichung": {
-    "treffer": 6,
-    "gesamt": 13,
-    "quote": 46
+    "treffer": 7,
+    "gesamt": 14,
+    "quote": 50
   },
   "exakt": {
-    "treffer": 3,
-    "gesamt": 7,
-    "quote": 43
+    "treffer": 4,
+    "gesamt": 8,
+    "quote": 50
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "Großbritannien: Verbraucherpreise (CPI, Juli)",
-      "datum": "2026-08-19",
-      "richtung": "hoeher",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "2.9%",
-      "ist": "2.9%",
-      "treffer": false
-    },
     {
       "event": "US ISM-Industrie (August)",
       "datum": "2026-09-01",
@@ -103,6 +94,15 @@
       "konsens": "0.3%",
       "ist": "0.2",
       "treffer": false
+    },
+    {
+      "event": "US-Arbeitsmarktbericht (Jobbericht / Non-Farm Payrolls)",
+      "datum": "2026-10-02",
+      "richtung": "hoeher",
+      "tatsaechlich": "hoeher",
+      "konsens": "4.1%",
+      "ist": "4.2%",
+      "treffer": true
     }
   ]
 }

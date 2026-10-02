@@ -1642,20 +1642,20 @@
   {
     "date": "2026-10-09T17:00:00.000Z",
     "country": "USD",
-    "title": "Baker Hughes Oil Rig Count",
+    "title": "Baker Hughes Total Rigs Count",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "598",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-09T17:00:00.000Z",
     "country": "USD",
-    "title": "Baker Hughes Total Rigs Count",
+    "title": "Baker Hughes Oil Rig Count",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "456",
     "actual": null,
     "quelle": "tradingview"
   },

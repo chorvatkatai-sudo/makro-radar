@@ -1,11 +1,53 @@
 {
-  "stand": "2026-10-02T17:09:05.760Z",
+  "stand": "2026-10-02T21:38:54.962Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 2 Oct: Nasdaq 100 closes at a record after soft US jobs; Treasury yields reverse higher",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-oct-nasdaq-100-closes-at-a-record-after-soft-us-jobs-treasury-yields-reverse-higher/",
+      "datum": "2026-10-02T20:57:56.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "datum": "2026-10-02T20:45:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso rebounds but carry trade exodus still bites",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rebounds-but-carry-trade-exodus-still-bites-202610022008",
+      "datum": "2026-10-02T20:08:43.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+      "datum": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold fails at $4,200 despite NFP miss as US yields climb",
+      "link": "https://www.fxstreet.com/news/gold-fails-at-4-200-despite-nfp-miss-as-us-yields-climb-202610021803",
+      "datum": "2026-10-02T18:03:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Week ahead: ISM services, Fed minutes and Canadian jobs lead the economic calendar. Be aware.",
+      "link": "https://investinglive.com/news/week-ahead-ism-services-fed-minutes-and-canadian-jobs-lead-the-economic-calendar-be-aware/",
+      "datum": "2026-10-02T17:51:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Goolsbee says inflation now outweighs labor concerns",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-inflation-now-outweighs-labor-concerns-202610021748",
+      "datum": "2026-10-02T17:48:07.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "New Zealand Dollar rebounds after sharp US employment disappointment",
@@ -71,48 +113,6 @@
       "titel": "US factory orders for the month of August 0.1% versus 0.1% estimate",
       "link": "https://investinglive.com/news/us-factory-orders-for-the-month-of-august-0-1-versus-0-1-estimate/",
       "datum": "2026-10-02T14:00:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NEC Director Kevin Hassett: US jobs report says the US consumer is very strong",
-      "link": "https://investinglive.com/news/nec-director-kevin-hassett-us-jobs-report-says-the-us-consumer-is-very-strong/",
-      "datum": "2026-10-02T13:59:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro rebounds above 1.1250 after weak US jobs data weighs on US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-above-11250-after-weak-us-jobs-data-weighs-on-us-dollar-202610021318",
-      "datum": "2026-10-02T13:18:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: October ECB hike odds seen limited – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/euro-october-ecb-hike-odds-seen-limited-standard-chartered-202610021302",
-      "datum": "2026-10-02T13:02:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US September non-farm payrolls +29K vs +90K expected",
-      "link": "https://investinglive.com/news/us-september-non-farm-payrolls-29k-vs-90k-expected/",
-      "datum": "2026-10-02T12:30:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Stocks advance as bond yields ease ahead of NFP",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-advance-as-bond-yields-ease-ahead-of-nfp/",
-      "datum": "2026-10-02T12:18:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Locked and loaded for the September non-farm payrolls report",
-      "link": "https://investinglive.com/news/locked-and-loaded-for-the-september-non-farm-payrolls-report/",
-      "datum": "2026-10-02T12:16:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone inflation jumps to 3.8% in September as energy prices surge",
-      "link": "https://investinglive.com/news/eurozone-inflation-jumps-to-3-8-in-september-as-energy-prices-surge/",
-      "datum": "2026-10-02T09:00:23.000Z"
     }
   ]
 }

@@ -14,80 +14,80 @@
   "waehrungen": {
     "USD": {
       "stimmung": "bullisch",
-      "score": 11,
-      "grund": "Die Fed-Erhöhung wirkt nach: Renditen über 5% (10J 5,29%, 30J höchster seit 2002), der Markt preist eine weitere Erhöhung im Oktober zu ~70% ein, und der US-2J-Zinsvorsprung stieg diese Woche am stärksten von allen (+0,137). Gestern kam die Kern-PCE zwar KÜHLER (+0,2%/3,0% statt 0,3%/3,3%) = eine Delle, aber der Dollar fiel nicht — deshalb nur leicht gekappt, nicht gedreht. Gold-Rekordnähe (Entwertungs-Wette) + überkaufter Trend deckeln."
+      "score": 9,
+      "grund": "Der Dollar steht am 5-Monats-Hoch (Index über 102, 6. Quartalsgewinn in Folge) auf dem Rücken der Renditen (10J ~5,24% = 24-J-Hoch, US-2J-Vorsprung diese Woche am stärksten gestiegen). Gedämpft: Nach der kühleren Kern-PCE ist die Oktober-Erhöhungs-Wette abgekühlt (Markt jetzt ~63% Halten, Erhöhung unter 40%), und heute kommt der Jobbericht = Risiko in beide Richtungen. Gold-Rekordnähe (Entwertungs-Wette) deckelt. Deshalb bullisch, aber kleiner als zuletzt."
     },
     "EUR": {
       "stimmung": "neutral",
-      "score": -1,
-      "grund": "Lichtblick: Flash-PMIs auf 3-Jahres-Hoch (Composite 53,1) — die Euro-Konjunktur zieht an, und die gestern kühlere US-Inflation nimmt dem Dollar einen Hauch Druck. Deshalb nur minimal bärisch. Morgen Euro-CPI-Flash als Test. Gegen die falkenhafte Fed (Renditen >5%) bleibt der Euro aber im Hintertreffen (EZB bei 2,50% wohl am Ende)."
+      "score": 0,
+      "grund": "Heute der Euro-CPI-Flash als Test: Deutschland lag schon bei 3,3%, Spanien 5,0% → die Eurozone-Inflation dürfte zäh bleiben, das stützt den Euro ein wenig (die EZB bei 2,50% kann dann nicht leicht senken). Dazu Euro-PMIs auf 3-Jahres-Hoch. Gegen die festen US-Renditen bleibt der Euro aber im Hintertreffen → unterm Strich neutral. Schwacher Track-Record (36%) → bewusst nahe null."
     },
     "GBP": {
       "stimmung": "neutral",
       "score": -3,
-      "grund": "Gemischt: Die Bank of England klingt falkenhaft (Erhöhung im Nov/Dez möglich) — das stützt. Aber die Dienstleistungs-PMI enttäuschte (51,7, 3-Monats-Tief), und der starke Dollar drückt. Unterm Strich leicht negativ."
+      "grund": "Gemischt: Die Bank of England klingt falkenhaft (Erhöhung Nov/Dez möglich) — das stützt. Aber die Dienstleistungs-PMI enttäuschte (51,7, 3-Monats-Tief), und der feste Dollar drückt. GBP-COT extrem short (z−1,65) = Squeeze-Risiko bei schwachem US-Jobbericht. Unterm Strich leicht negativ."
     },
     "JPY": {
       "stimmung": "neutral",
       "score": -2,
-      "grund": "Die BoJ-Erhöhung (höchster Zins seit 31 Jahren) stützt den Yen langfristig, und das Interventionsrisiko deckelt USD/JPY nach oben. ABER: Die Großspekulanten wetten jetzt KRÄFTIG auf einen starken Yen (netto-long, z+1,8 = 'erhöht') — wenn diese überfüllte Wette platzt, fällt der Yen. Dazu unser schwächster Track-Record (USD/JPY 3/13). Deshalb bewusst nahe null."
+      "grund": "Die BoJ-Erhöhung (höchster Zins seit 31 Jahren) stützt den Yen langfristig, das Interventionsrisiko deckelt USD/JPY, und der leicht steigende VIX (16,4, Risk-off kehrt zurück) bringt dem Hafen etwas Nachfrage. ABER: Großspekulanten sind noch kräftig net-long Yen (z+1,24, Wette baut sich ab) = Rückschlag-Risiko, dazu der schwächste Track-Record (USD/JPY 4/14). Deshalb bewusst nahe null."
     },
     "CHF": {
       "stimmung": "bärisch",
-      "score": -3,
-      "grund": "Bei ruhigem Markt (VIX tief 15,3 = Risk-on) braucht niemand den sicheren Hafen Franken. Die gestrichene SNB-Interventionsdrohung ist zwar leicht Franken-positiv (weniger künstlicher Gegenwind), reicht aber gegen den festen Dollar nicht — netto bärisch."
+      "score": -2,
+      "grund": "Der VIX kriecht wieder hoch (16,4, +10% Woche) → etwas Hafen-Nachfrage kehrt zurück, deshalb weniger bärisch als zuletzt. Gegen den festen Dollar reicht es aber nicht; die gestrichene SNB-Interventionsdrohung ist nur leicht Franken-positiv → netto noch leicht bärisch."
     },
     "CAD": {
-      "stimmung": "bärisch",
-      "score": -4,
-      "grund": "Öl-Kehrtwende verschärft sich: WTI fiel auf ~90$ (−4,5% Woche), Brent −8% — kein Rückenwind mehr für den Loonie. Dazu der feste Dollar (Renditen hoch) und eine neutrale BoC → netto bärisch."
+      "stimmung": "neutral",
+      "score": -1,
+      "grund": "Kehrtwende gegenüber Donnerstag: Öl hat sich wieder auf WTI ~93$ erholt (+0,7% Woche statt des Absturzes) → der Loonie bekommt seinen Rückenwind teilweise zurück, der große Bären-Treiber ist weg. Gegen den festen Dollar (Renditen hoch) + neutrale BoC bleibt nur ein Hauch Minus → jetzt neutral statt bärisch."
     },
     "AUD": {
       "stimmung": "bullisch",
-      "score": 4,
-      "grund": "Eigene Story, aber heute etwas gedämpft: Die RBA hat gestern erhöht (4,60% = höchster Zins seit 15 J, falkenhaft), ABER die heutige Inflation kam kühler (4,0% statt 4,1%, Kern stabil 3,6%) → Wetten auf eine weitere RBA-Erhöhung im Nov. fielen. Höchste 2J-Rendite im G10 stützt noch, aber der Rückenwind ist kleiner als gestern."
+      "score": 3,
+      "grund": "Eigene Story: Die RBA hat auf 4,60% erhöht (höchster Zins seit 15 J, falkenhaft) und hält die höchste 2J-Rendite im G10 — das stützt. Aber die kühlere Inflation (4,0% statt 4,1%) nahm der Wette auf eine weitere Erhöhung im November Schwung, und der leicht steigende VIX (Risk-off) trimmt den Rohstoff-Rückenwind. Deshalb bullisch, aber kleiner."
     },
     "NZD": {
       "stimmung": "bärisch",
-      "score": -7,
-      "grund": "Der klare Verlierer bleibt Neuseeland: BIP-Schock (−0,9%), die Notenbank wird taubenhafter erwartet, dazu der starke Dollar. Dass Spekulanten (COT) leicht auf Kiwi-Stärke wetten, mildert es kaum — der fundamentale Gegenwind überwiegt."
+      "score": -6,
+      "grund": "Der klare Verlierer bleibt Neuseeland: BIP-Schock (−0,9%), die Notenbank wird taubenhafter erwartet, dazu der feste Dollar und der Risk-off-Anflug. Bestes Paar im Track-Record (NZD/USD 62%) → Score darf meinungsstark bleiben."
     }
   },
   "paare": [
     {
       "paar": "EUR/USD",
-      "score": -2,
-      "treiber": "Der feste Dollar (Renditen >5%) drückt, aber gestern kam die US-Kern-PCE kühler UND die Euro-PMIs stehen auf 3-Jahres-Hoch → Minus deutlich abgefedert, bewusst klein (Track-Record 36%). Morgen Euro-CPI-Flash."
+      "score": 0,
+      "treiber": "Heute der Euro-CPI-Flash (Deutschland 3,3%, Spanien 5,0% → zäh, EUR-stützend) + Euro-PMIs auf 3-J-Hoch gegen den festen Dollar → unterm Strich neutral. Track-Record schwach (36%) + EUR-COT extrem short (z−1,65 → Squeeze-Risiko bei schwachem NFP) → bewusst auf null."
     },
     {
       "paar": "GBP/USD",
       "score": -4,
-      "treiber": "Doppelter Gegenwind: fester Dollar plus enttäuschende britische Dienstleistungs-PMI (51,7). Die falkenhafte BoE federt nur einen Teil ab. GBP-COT extrem short (z−1,65) = Squeeze-Risiko bei Gegen-Impuls."
+      "treiber": "Doppelter Gegenwind: fester Dollar plus enttäuschende britische Dienstleistungs-PMI (51,7). Die falkenhafte BoE federt nur einen Teil ab. GBP-COT extrem short (z−1,65) = Squeeze-Risiko nach oben bei schwachem US-Jobbericht."
     },
     {
       "paar": "USD/JPY",
       "score": 1,
-      "treiber": "BEWUSST winzig gehalten und gegen den Dollar-Block gestellt: Zwar spricht der US-Zinsvorsprung für ein höheres Paar, aber die BoJ-Erhöhung, das Interventionsrisiko UND die überfüllte Yen-Long-Wette (COT z+1,8 = Rückschlag-Risiko) ziehen dagegen. Dazu ist USD/JPY unser schwächstes Paar (3/13). Die Markt-Korrektur unten macht die Spannung sichtbar."
+      "treiber": "BEWUSST winzig und gegen den Dollar-Block gestellt: Zwar spricht der US-Zinsvorsprung für ein höheres Paar, aber BoJ-Erhöhung, Interventionsrisiko, der Risk-off-Anflug (VIX hoch) UND die noch überfüllte Yen-Long-Wette (COT z+1,24) ziehen dagegen. Schwächstes Paar im Track-Record (4/14)."
     },
     {
       "paar": "AUD/USD",
       "score": -2,
-      "treiber": "Die RBA-Erhöhung von gestern gibt Boden, aber die heute KÜHLERE Inflation (4,0%<4,1%) nimmt Schwung und der Dollar steht fest am 2-Monats-Hoch → leicht ins Minus. Track-Record hier mittel (54%), daher klein."
+      "treiber": "Die RBA-Erhöhung (4,60%) + höchste G10-2J-Rendite geben Boden, aber die kühlere Inflation nahm Schwung und der feste Dollar + Risk-off-Anflug drücken → leicht ins Minus. Track-Record mittel (54%), daher klein."
     },
     {
       "paar": "USD/CAD",
-      "score": 4,
-      "treiber": "Doppel-Rückenwind fürs Paar: fester Dollar (US-Renditen Mehrjahres-Hoch) UND Öl fiel weiter (WTI ~90$, −4,5% Woche) = Loonie ohne Stützpfeiler."
+      "score": 1,
+      "treiber": "Deutlich zurückgenommen: Öl hat sich auf WTI ~93$ erholt (+0,7% Woche) → der Loonie steht nicht mehr ohne Stützpfeiler da. Bleibt nur der feste Dollar als leichter Rückenwind fürs Paar → knapp positiv statt klar long."
     },
     {
       "paar": "USD/CHF",
-      "score": 4,
-      "treiber": "Sauberer Dollar-Long, aber leicht gekappt nach der kühleren Kern-PCE: Fester Dollar (2-Monats-Hoch) trifft auf einen Franken ohne Hafen-Nachfrage (Markt ruhig). Die gestrichene SNB-Drohung deckelt minimal."
+      "score": 3,
+      "treiber": "Sauberer Dollar-Long, leicht gekappt: Fester Dollar am 5-Monats-Hoch trifft auf einen Franken, der durch den steigenden VIX wieder etwas Hafen-Nachfrage bekommt. Die gestrichene SNB-Drohung deckelt minimal."
     },
     {
       "paar": "NZD/USD",
-      "score": -7,
-      "treiber": "Größter Minus-Score aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) + taubenhaftere Notenbank treffen auf den festen Dollar. Doppelter Gegenwind."
+      "score": -6,
+      "treiber": "Größter Minus-Score aus eigenem Grund: Neuseelands BIP-Schock (−0,9%) + taubenhaftere Notenbank treffen auf den festen Dollar. Bestes Paar im Track-Record (62%) → darf meinungsstark bleiben."
     }
   ],
   "wochenausblick": {
@@ -171,20 +171,20 @@
     "Klumpen-Warnung: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Wette. Die Fed-Erhöhung ist ein echter breiter Treiber, deshalb ist die Konzentration ehrlich; aber bewusst gelöst ist USD/JPY (winzig +1: BoJ-Erhöhung + Interventionsrisiko + überfüllte Yen-Long-Wette). Und die Größe je Paar spiegelt eigene Gründe: Euro-PMI-Stärke deckelt EUR/USD, Öl-Rückgang deckelt USD/CAD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-    "stand": "2026-10-01",
-    "wochentag": "Donnerstag",
-    "tenor": "Der Dollar hält sein 2-Monats-Hoch (Index ~101,5), obwohl die Fed-Lieblingsinflation gestern KÜHLER kam als erwartet — die steigenden US-Renditen (10J 5,29%, 30J höchster Stand seit 2002) und falkenhafte Fed-Redner übertönen die Daten-Delle. Entwarnung an der Haushaltsfront: der Shutdown zum 1. Oktober ist abgewendet. Heute Zwischentest (ISM-Industrie), morgen das Hauptereignis: US-Jobbericht + Euro-Inflation.",
+    "stand": "2026-10-02",
+    "wochentag": "Freitag",
+    "tenor": "Der Dollar steht am 5-Monats-Hoch (Index über 102, 6. Quartalsgewinn in Folge) und die US-Renditen auf einem 24-Jahres-Hoch (10J ~5,24%, 30J 5,60%). ABER die Wette auf eine Fed-Erhöhung im Oktober ist nach der kühleren Kern-PCE diese Woche abgekühlt — der Markt sieht jetzt ~63% Halten (Erhöhung unter 40%). Heute fällt die Entscheidung: um 11:00 Wien die Euro-Inflation, um 14:30 der US-Jobbericht = das Hauptereignis der Woche.",
     "heute": [
-      "🇺🇸 Heute Nachmittag ISM-Industrie (16:00 Wien) + wöchentliche Erstanträge — ein Zwischentest vor dem großen Jobbericht morgen. Zeigt, ob die US-Fabriken trotz hoher Zinsen weiter laufen.",
-      "🇺🇸 Haushalts-ENTWARNUNG: Der drohende Regierungs-Shutdown zum 1. Oktober ist ABGEWENDET — der Kongress hat die Finanzierung schon Anfang September bis zum 11. Dezember verlängert. Heißt für uns: Der morgige Jobbericht kommt planmäßig (bei einem Shutdown wäre er ausgefallen), und ein Nervositäts-Risiko fällt weg.",
-      "💵 US-Renditen bleiben der Motor: 10J bei 5,29% (+0,13pp Woche), 30J ~5,64% = höchster seit 2002, US-2J-Zinsvorsprung stieg diese Woche mit +0,137 am stärksten von allen. Trotz der kühleren Inflation preist der Markt die Fed-Erhöhung im Oktober weiter zu ~70% ein (Fed-Futures sogar +0,22pp höher auf der Woche).",
-      "🥇🛢️ Gold ~4.189$ (−2,5% Woche) weiter leicht vom Rekord zurück, Öl deutlich schwächer (WTI 90$, −4,5% Woche, Brent −8%) → der Loonie verliert seinen Öl-Rückenwind. Der Dollar-Antrieb kommt klar von Zinsen + Fed, nicht mehr vom Öl."
+      "🇺🇸 HEUTE 14:30 Wien der US-Jobbericht (NFP) = DAS Event der Woche. Erwartet werden nur ~84–90k neue Stellen (Vormonat +162k), Arbeitslosenquote 4,1%. Ein schwacher Wert zementiert die Fed-Pause im Oktober, ein starker würde die Erhöhungs-Wette wiederbeleben. Nach den tiefen Erstanträgen (197k) und soliden Fabrikdaten ist das Abwärtsrisiko diesmal weniger einseitig als in den Vormonaten.",
+      "🇪🇺 HEUTE 11:00 Wien die Euro-Inflation (Flash September). Deutschland lag schon bei 3,3%, Spanien sogar 5,0% → die Eurozone-Zahl dürfte zäh bleiben (Vormonat 3,3%). Hält sie sich oder steigt sie, stützt das den Euro ein wenig — die EZB kann dann nicht so leicht senken.",
+      "💵 Der Motor bleibt der Zinsvorsprung: 10J-Rendite auf 24-Jahres-Hoch ~5,24%, 30J 5,60%, Dollar-Index über 102 (höchster seit Mitte Mai). ABER das Tempo der Fed-Wette hat gedreht: Nach der kühleren Kern-PCE sehen die Futures jetzt ~63% Halten im Oktober statt der zuvor ~70% Erhöhung — der Jobbericht heute ist der Schiedsrichter.",
+      "🛢️ Öl-Kehrtwende zurück: WTI erholte sich wieder auf ~93$ (+0,7% Woche, nicht mehr der Absturz von Donnerstag) → der Loonie bekommt seinen Öl-Rückenwind teilweise zurück. Deshalb habe ich CAD heute deutlich weniger bärisch gestellt."
     ],
     "gestern": [
-      "🇺🇸 KÜHLER als erwartet: Die Fed-Lieblingsinflation Kern-PCE (August) kam gestern mit +0,2% m/m / 3,0% y/y statt der erwarteten +0,3% / 3,3% herein = erste echte Delle in der Falken-Story. ABER der Dollar FIEL NICHT — Renditen stiegen sogar weiter. Projekt-Lehre wieder bestätigt: Eine kühle Zahl allein kippt den Dollar nicht, wenn Fed-Redner + Zinsen dagegenhalten. (Finales BIP Q2 bestätigt bei +1,5%.)",
-      "🇦🇺 PAUKENSCHLAG Dienstag: Die RBA hat auf 4,60% ERHÖHT (höchster Stand seit 15 J, 4. Erhöhung 2026). ABER die Inflation am Mittwoch kam eine Spur kühler (4,0% statt 4,1% y/y, Kern-Trimmed stabil 3,6%) → die Wetten auf eine WEITERE Erhöhung im November sind gefallen = weniger Aussie-Rückenwind als der Zins-Schritt vermuten ließe.",
-      "🇺🇸 Warnsignal: Das US-Verbrauchervertrauen (Conference Board) fiel im September auf 81,9 (von 88,6) = tiefster Stand seit April 2014 — ein erster Riss in der robusten Konsum-Story. Fed-Gouverneur Barr blieb dennoch falkenhaft (weitere Erhöhungen wohl nötig).",
-      "📊 Positionierung (COT Stand 22.9.): Die überfüllte Yen-Long-Wette baut sich weiter ab (noch netto-long, z+1,24 statt zuvor ~z+1,8). Euro (z−1,64) UND Pfund (z−1,65) sind deutlich netto-SHORT (\"erhöht\") → bei einem starken Gegen-Impuls (z. B. schwacher US-Jobbericht morgen) Squeeze-Risiko nach oben."
+      "🇺🇸 ISM-Industrie (September) kam mit 54,5 eine Spur unter Erwartung (55,0), aber 9. Expansionsmonat in Folge — die Fabriken laufen. WICHTIG: Der Preis-Index SPRANG auf 77,9 (+6,8 Punkte) = frischer Inflationsdruck in der Industrie. Das hält die Fed vorsichtig, auch wenn die Erhöhungs-Wette abgekühlt ist.",
+      "🇺🇸 Arbeitsmarkt robust: Die Erstanträge auf Arbeitslosenhilfe fielen auf 197k (tiefster seit Juli, unter den erwarteten 200k), die Folgeanträge auf ein 3-Jahres-Tief → gesunder Jobmarkt. Deshalb ist das Abwärtsrisiko beim heutigen Jobbericht kleiner als zuletzt.",
+      "🇺🇸 Die Fed-Lieblingsinflation Kern-PCE (Mittwoch) kam KÜHLER (+0,2% m/m / 3,0% y/y statt 0,3%/3,3%) — doch der Dollar fiel NICHT, die Renditen stiegen weiter. Projekt-Lehre erneut bestätigt: Eine kühle Zahl allein kippt den Dollar nicht, solange Zinsen + Fed-Redner dagegenhalten. (Finales BIP Q2 bestätigt bei +1,5%.)",
+      "📊 Positionierung (COT Stand 22.9.): Euro (z−1,64) UND Pfund (z−1,65) sind deutlich netto-SHORT (\"erhöht\") → bei einem schwachen US-Jobbericht heute Squeeze-Risiko nach oben bei EUR/USD und GBP/USD. Die überfüllte Yen-Long-Wette baut sich weiter ab (noch netto-long, z+1,24)."
     ]
   }
 }

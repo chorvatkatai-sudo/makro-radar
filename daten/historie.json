@@ -16048,8 +16048,8 @@
       "impact": "High",
       "prognose": "4.1%",
       "vorher": "4.1%",
-      "actual": null,
-      "notiz": null
+      "actual": "4.2%",
+      "notiz": "auto:TV unemployment (2026-10-02)"
     },
     "2026-10-02T10:00:00-04:00|USD|Factory Orders m/m": {
       "datum": "2026-10-02T10:00:00-04:00",
@@ -16175,6 +16175,16 @@
       "datum": "2026-10-01T19:20:00-04:00",
       "land": "USD",
       "titel": "FOMC Member Logan Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-02T13:00:00-04:00|USD|FOMC Member Goolsbee Speaks": {
+      "datum": "2026-10-02T13:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Goolsbee Speaks",
       "impact": "Low",
       "prognose": "",
       "vorher": "",

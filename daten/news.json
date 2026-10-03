@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-02T21:38:54.962Z",
+  "stand": "2026-10-03T09:36:33.505Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: Bears crowd $60 after six-percent weekly rout",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout-202610022152",
+      "datum": "2026-10-02T21:52:11.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 2 Oct: Nasdaq 100 closes at a record after soft US jobs; Treasury yields reverse higher",
@@ -101,12 +107,6 @@
       "titel": "RBI to keep tightening risks alive – MUFG",
       "link": "https://www.fxstreet.com/news/rbi-to-keep-tightening-risks-alive-mufg-202610021428",
       "datum": "2026-10-02T14:28:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US labour market: Softer jobs ease Fed hike risk – ABN Amro",
-      "link": "https://www.fxstreet.com/news/us-labour-market-softer-jobs-ease-fed-hike-risk-abn-amro-202610021423",
-      "datum": "2026-10-02T14:23:14.000Z"
     },
     {
       "quelle": "ForexLive",

@@ -782,20 +782,20 @@
   {
     "date": "2026-10-07T00:30:00.000Z",
     "country": "AUD",
-    "title": "Private House Approvals MoM Final",
+    "title": "Building Permits YoY Final",
     "impact": "Low",
-    "forecast": "3.7%",
-    "previous": "-1.9%",
+    "forecast": "10.3%",
+    "previous": "10.9%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-07T00:30:00.000Z",
     "country": "AUD",
-    "title": "Building Permits YoY Final",
+    "title": "Private House Approvals MoM Final",
     "impact": "Low",
-    "forecast": "10.3%",
-    "previous": "10.9%",
+    "forecast": "3.7%",
+    "previous": "-1.9%",
     "actual": null,
     "quelle": "tradingview"
   },

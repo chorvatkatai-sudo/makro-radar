@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-03T09:36:35.676Z",
+ "erstellt": "2026-10-03T15:36:26.082Z",
  "wochenStart": "2026-09-27",
  "events": [
   {
@@ -1304,20 +1304,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-04T22:00:00.000Z",
    "country": "AUD",
-   "title": "S&P Global Services PMI Final",
+   "title": "S&P Global Composite PMI Final",
    "impact": "Low",
-   "forecast": "51.4",
-   "previous": "53.2",
+   "forecast": "50.8",
+   "previous": "52.7",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-10-04T22:00:00.000Z",
    "country": "AUD",
-   "title": "S&P Global Composite PMI Final",
+   "title": "S&P Global Services PMI Final",
    "impact": "Low",
-   "forecast": "50.8",
-   "previous": "52.7",
+   "forecast": "51.4",
+   "previous": "53.2",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3617,7 +3617,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-03T09:36:32.872Z",
+  "stand": "2026-10-03T15:36:24.915Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3887,9 +3887,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 84565,
+    "wert": 84792.41,
     "tagProzent": 0,
-    "wocheProzent": 1.13,
+    "wocheProzent": 1.4,
     "renditeDelta": false,
     "verlauf": [
      76838.16,
@@ -3912,8 +3912,8 @@ window.MAKRO_DATA = {
      83553.85,
      84853.1,
      84497.21,
-     84565,
-     84565
+     84792.41,
+     84792.41
     ]
    },
    "FEDFUT": {
@@ -4210,7 +4210,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-03T09:36:34.426Z",
+  "stand": "2026-10-03T15:36:25.457Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 31,
@@ -4318,7 +4318,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-03T09:36:35.675Z",
+  "stand": "2026-10-03T15:36:26.081Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4548,7 +4548,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-03T09:36:33.505Z",
+  "stand": "2026-10-03T15:36:25.448Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

@@ -1,30 +1,30 @@
 {
-  "stand": "2026-10-04T10:22:14.974Z",
+  "stand": "2026-10-05T05:23:22.372Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 31,
   "nichtWertbar": 31,
-  "treffer": 17,
-  "quote": 55,
+  "treffer": 16,
+  "quote": 52,
   "zinsentscheide": {
     "treffer": 9,
     "gesamt": 9,
     "quote": 100
   },
   "datenPrognosen": {
-    "treffer": 8,
+    "treffer": 7,
     "gesamt": 22,
-    "quote": 36
+    "quote": 32
   },
   "richtungBeiAbweichung": {
-    "treffer": 7,
+    "treffer": 6,
     "gesamt": 14,
-    "quote": 50
+    "quote": 43
   },
   "exakt": {
-    "treffer": 4,
+    "treffer": 3,
     "gesamt": 8,
-    "quote": 50
+    "quote": 38
   },
   "textdeutung": {
     "treffer": 13,
@@ -99,10 +99,10 @@
       "event": "US-Arbeitsmarktbericht (Jobbericht / Non-Farm Payrolls)",
       "datum": "2026-10-02",
       "richtung": "hoeher",
-      "tatsaechlich": "hoeher",
-      "konsens": "4.1%",
-      "ist": "4.2%",
-      "treffer": true
+      "tatsaechlich": "niedriger",
+      "konsens": "0.3%",
+      "ist": "0.1%",
+      "treffer": false
     }
   ]
 }

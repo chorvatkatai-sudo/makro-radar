@@ -1,32 +1,32 @@
 {
-  "stand": "2026-10-05T05:29:02.664Z",
+  "stand": "2026-10-05T21:18:18.353Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 31,
+    "faelle": 32,
     "treffer": 18,
-    "quote": 58,
-    "schnittGerichtet": 0.086,
-    "schnittBetrag": 0.318,
-    "pWert": 0.473,
+    "quote": 56,
+    "schnittGerichtet": 0.079,
+    "schnittBetrag": 0.313,
+    "pWert": 0.597,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 56,
+    "faelle": 59,
     "treffer": 33,
-    "quote": 59,
-    "schnittGerichtet": 0.097,
-    "schnittBetrag": 0.358,
-    "pWert": 0.229,
+    "quote": 56,
+    "schnittGerichtet": 0.085,
+    "schnittBetrag": 0.348,
+    "pWert": 0.435,
     "belastbar": false
   },
   "jeWaehrung": {
     "USD": {
-      "faelle": 10,
+      "faelle": 11,
       "treffer": 5,
-      "quote": 50,
-      "schnittGerichtet": 0.028,
-      "schnittBetrag": 0.291,
+      "quote": 45,
+      "schnittGerichtet": 0.012,
+      "schnittBetrag": 0.278,
       "pWert": 1,
       "belastbar": false
     },
@@ -89,12 +89,12 @@
   },
   "jeWaehrungRoh": {
     "USD": {
-      "faelle": 22,
+      "faelle": 25,
       "treffer": 13,
-      "quote": 59,
-      "schnittGerichtet": 0.066,
-      "schnittBetrag": 0.311,
-      "pWert": 0.523,
+      "quote": 52,
+      "schnittGerichtet": 0.04,
+      "schnittBetrag": 0.292,
+      "pWert": 1,
       "belastbar": false
     },
     "CAD": {
@@ -135,15 +135,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-08-19",
-      "land": "AUD",
-      "titel": "Employment Change (+1 weitere)",
-      "ueberraschung": "niedriger",
-      "erwartet": "schwächer",
-      "bewegung": -0.501,
-      "wieErwartet": true
-    },
     {
       "datum": "2026-08-25",
       "land": "AUD",
@@ -223,6 +214,15 @@
       "ueberraschung": "niedriger",
       "erwartet": "schwächer",
       "bewegung": 0.401,
+      "wieErwartet": false
+    },
+    {
+      "datum": "2026-10-02",
+      "land": "USD",
+      "titel": "Average Hourly Earnings m/m (+2 weitere)",
+      "ueberraschung": "niedriger",
+      "erwartet": "schwächer",
+      "bewegung": 0.149,
       "wieErwartet": false
     }
   ]

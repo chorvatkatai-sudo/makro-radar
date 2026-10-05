@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-05T05:29:02.132Z",
+  "stand": "2026-10-05T21:18:17.962Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 2,
       "tiltCot": -1,
-      "tiltZins": -5,
-      "tiltGesamt": -6,
-      "score": -4,
+      "tiltZins": -6,
+      "tiltGesamt": -7,
+      "score": -5,
       "cotExtrem": "erhoeht",
       "treiber": "Heiße Euro-Inflation (3,8%) + erhöhte Euro-Shorts (Squeeze) treffen auf einen vom Jobbericht geschwächten Dollar. Score bewusst klein (Paar-Trefferquote nur 40%).",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 0,
       "tiltCot": 5,
-      "tiltZins": 0,
-      "tiltGesamt": 5,
-      "score": 5,
+      "tiltZins": 1,
+      "tiltGesamt": 6,
+      "score": 6,
       "cotExtrem": null,
       "treiber": "Neutral: festes Öl stützt den Loonie, der Dollar ist angeknackst. Arbeitsmarkt Fr der Test.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 2,
       "tiltCot": 4,
-      "tiltZins": 5,
-      "tiltGesamt": 9,
-      "score": 11,
+      "tiltZins": 6,
+      "tiltGesamt": 10,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "Leichter Dollar-Long trotz Jobbericht: Zinsvorsprung + Risk-on (CHF kein Hafen-Bid). Gekappt wegen weichem Dollar.",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": 3,
       "tiltCot": 5,
-      "tiltZins": -7,
-      "tiltGesamt": -2,
-      "score": 1,
+      "tiltZins": -8,
+      "tiltGesamt": -3,
+      "score": 0,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

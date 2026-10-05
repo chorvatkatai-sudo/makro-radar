@@ -16416,7 +16416,7 @@
       "land": "EUR",
       "titel": "German Factory Orders m/m",
       "impact": "Low",
-      "prognose": "-1.0%",
+      "prognose": "-0.9%",
       "vorher": "2.5%",
       "actual": null,
       "notiz": null
@@ -16496,7 +16496,7 @@
       "land": "EUR",
       "titel": "Retail Sales m/m",
       "impact": "Low",
-      "prognose": "0.3%",
+      "prognose": "0.2%",
       "vorher": "-0.6%",
       "actual": null,
       "notiz": null
@@ -16526,7 +16526,7 @@
       "land": "CAD",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "1.3B",
+      "prognose": "1.5B",
       "vorher": "0.8B",
       "actual": null,
       "notiz": null
@@ -16536,7 +16536,7 @@
       "land": "USD",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "-95.2B",
+      "prognose": "-100.8B",
       "vorher": "-88.6B",
       "actual": null,
       "notiz": null
@@ -16976,6 +16976,36 @@
       "land": "USD",
       "titel": "FOMC Member Collins Speaks",
       "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-06T13:15:00-04:00|USD|FOMC Member Schmid Speaks": {
+      "datum": "2026-10-06T13:15:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Schmid Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-08T04:30:00-04:00|USD|FOMC Member Waller Speaks": {
+      "datum": "2026-10-08T04:30:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Waller Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-08T08:15:00-04:00|GBP|BOE Gov Bailey Speaks": {
+      "datum": "2026-10-08T08:15:00-04:00",
+      "land": "GBP",
+      "titel": "BOE Gov Bailey Speaks",
+      "impact": "High",
       "prognose": "",
       "vorher": "",
       "actual": null,

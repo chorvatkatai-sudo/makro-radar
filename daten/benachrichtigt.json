@@ -113,6 +113,8 @@
     "2026-09-29T00:30:00-04:00|AUD|Cash Rate",
     "2026-09-29T21:30:00-04:00|AUD|CPI y/y",
     "2026-09-30T08:30:00-04:00|USD|Core PCE Price Index m/m",
-    "2026-10-02T08:30:00-04:00|USD|Unemployment Rate"
+    "2026-10-02T08:30:00-04:00|USD|Unemployment Rate",
+    "2026-10-02T08:30:00-04:00|USD|Average Hourly Earnings m/m",
+    "2026-10-02T08:30:00-04:00|USD|Non-Farm Employment Change"
   ]
 }

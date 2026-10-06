@@ -16616,7 +16616,7 @@
       "land": "JPY",
       "titel": "Leading Indicators",
       "impact": "Low",
-      "prognose": "118.1%",
+      "prognose": "118.3%",
       "vorher": "117.9%",
       "actual": null,
       "notiz": null
@@ -16696,7 +16696,7 @@
       "land": "USD",
       "titel": "Consumer Credit m/m",
       "impact": "Low",
-      "prognose": "15.4B",
+      "prognose": "14.4B",
       "vorher": "18.1B",
       "actual": null,
       "notiz": null
@@ -16716,7 +16716,7 @@
       "land": "JPY",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "2.10T",
+      "prognose": "2.13T",
       "vorher": "2.52T",
       "actual": null,
       "notiz": null
@@ -16746,7 +16746,7 @@
       "land": "JPY",
       "titel": "Economy Watchers Sentiment",
       "impact": "Low",
-      "prognose": "46.6",
+      "prognose": "46.7",
       "vorher": "46.4",
       "actual": null,
       "notiz": null
@@ -16936,7 +16936,7 @@
       "land": "CAD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "9.0K",
+      "prognose": "6.2K",
       "vorher": "-41.7K",
       "actual": null,
       "notiz": null

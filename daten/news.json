@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-06T05:19:51.909Z",
+  "stand": "2026-10-06T12:31:01.724Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,81 +8,99 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Gold hits two-month low as bears await break below $4,100 amid sustained USD strength",
-      "link": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506",
-      "datum": "2026-10-06T05:06:43.000Z"
+      "titel": "Brazilian Real: Bolsonaro runoff risks and fiscal hopes – OCBC",
+      "link": "https://www.fxstreet.com/news/brazilian-real-bolsonaro-runoff-risks-and-fiscal-hopes-ocbc-202610061220",
+      "datum": "2026-10-06T12:20:20.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "AUD/JPY Price Forecast: Strengthens above 110.00, while bearish technical bias persists",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11000-while-bearish-technical-bias-persists-202610060458",
-      "datum": "2026-10-06T04:58:19.000Z"
+      "titel": "EUR/GBP Price Forecast: Bears retain control as RSI turns oversold",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bears-retain-control-as-rsi-turns-oversold-202610061214",
+      "datum": "2026-10-06T12:14:39.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Tests 177.50 after rebounding from descending channel bottom",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-17750-after-rebounding-from-descending-channel-bottom-202610060456",
-      "datum": "2026-10-06T04:56:36.000Z"
+      "titel": "Romanian Leu: S&P reprieve leaves downgrade risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/romanian-leu-sp-reprieve-leaves-downgrade-risks-commerzbank-202610061211",
+      "datum": "2026-10-06T12:11:45.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "BoJ may indicate underlying inflation is near the 2% target, sources say",
-      "link": "https://www.fxstreet.com/news/boj-may-indicate-underlying-inflation-is-near-the-2-target-sources-say-202610060437",
-      "datum": "2026-10-06T04:37:26.000Z"
+      "titel": "Czech Koruna: Hawkish CNB keeps CZK supported against Euro - Societe Generale",
+      "link": "https://www.fxstreet.com/news/czech-koruna-hawkish-cnb-keeps-czk-supported-against-euro-societe-generale-202610061153",
+      "datum": "2026-10-06T11:53:12.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202610060436",
-      "datum": "2026-10-06T04:36:11.000Z"
+      "titel": "Euro: Balancing pressures as Fed path repriced – OCBC",
+      "link": "https://www.fxstreet.com/news/euro-balancing-pressures-as-fed-path-repriced-ocbc-202610061135",
+      "datum": "2026-10-06T11:35:19.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "United States Dollar Index holds above 102, remains supported by firm bond yields",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-above-102-remains-supported-by-firm-bond-yields-202610060410",
-      "datum": "2026-10-06T04:10:40.000Z"
+      "titel": "1.1111: Why the Euro's next key support is in view as France's budget crisis deepens",
+      "link": "https://www.fxstreet.com/news/11111-why-the-euros-next-key-support-is-in-view-as-frances-budget-crisis-deepens-202610061133",
+      "datum": "2026-10-06T11:33:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Downside bias points to 1.3140 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-bias-points-to-13140-against-us-dollar-uob-202610061124",
+      "datum": "2026-10-06T11:24:33.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD rebounds to near $61.00 as US Dollar comes under pressure",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rebounds-to-near-6100-as-us-dollar-comes-under-pressure-202610061124",
+      "datum": "2026-10-06T11:24:03.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Supported by ISM and Fed pricing – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-supported-by-ism-and-fed-pricing-bbh-202610061115",
+      "datum": "2026-10-06T11:15:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold recovers from two-month lows as bond selloff takes a breather",
+      "link": "https://www.fxstreet.com/news/gold-recovers-from-two-month-lows-as-bond-selloff-takes-a-breather-202610061109",
+      "datum": "2026-10-06T11:09:22.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France is having its Liz Truss moment as the bond market forces a policy rethink. Why it's a good thing.",
+      "link": "https://investinglive.com/news/france-is-having-its-liz-truss-moment-as-the-bond-market-forces-a-policy-rethink-why-it-s-a-good-thing/",
+      "datum": "2026-10-06T08:48:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Macro pulse: France-Germany yield spread breakout puts euro area contagion risk in focus",
+      "link": "https://investinglive.com/news/macro-pulse-france-germany-yield-spread-breakout-puts-euro-area-contagion-risk-in-focus/",
+      "datum": "2026-10-06T07:57:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro trims some losses as the decline in Oil prices offsets weak Eurozone releases",
+      "link": "https://www.fxstreet.com/news/euro-dips-further-as-grim-german-data-adds-to-political-uncertainty-and-debt-issues-202610060645",
+      "datum": "2026-10-06T06:45:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-57/",
+      "datum": "2026-10-06T06:38:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee declines further, RBI's policy awaited",
+      "link": "https://www.fxstreet.com/news/indian-rupee-faces-pressure-from-higher-bond-yields-fiis-outflow-202610060620",
+      "datum": "2026-10-06T06:20:54.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Tuesday, October 6, 2026",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news/",
       "datum": "2026-10-06T03:48:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen steadies amid expansionary fiscal plans, rate hike uncertainty",
-      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-amid-expansionary-fiscal-plans-rate-hike-uncertainty-202610060243",
-      "datum": "2026-10-06T02:43:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar consolidates around 0.5600, near YTD low as USD stays bullish",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-consolidates-around-05600-near-ytd-low-as-usd-stays-bullish-202610060228",
-      "datum": "2026-10-06T02:28:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD falls to near $60.50 as US Treasury yields rise",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6050-as-us-treasury-yields-rise-202610060225",
-      "datum": "2026-10-06T02:25:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro weakens below 1.1250 on France debt concerns",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11250-on-france-debt-concerns-202610060159",
-      "datum": "2026-10-06T01:59:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound extends range play; holds above 1.3200 as bullish USD caps upside",
-      "link": "https://www.fxstreet.com/news/british-pound-extends-range-play-holds-above-13200-as-bullish-usd-caps-upside-202610060145",
-      "datum": "2026-10-06T01:45:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar holds steady amid soft consumer sentiment",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-steady-amid-soft-consumer-sentiment-202610060123",
-      "datum": "2026-10-06T01:23:21.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -95,24 +113,6 @@
       "titel": "Australian consumer sentiment slumps after RBA hike as Westpac tips another in November",
       "link": "https://investinglive.com/news/australian-consumer-sentiment-slumps-after-rba-hike-as-westpac-tips-another-in-november/",
       "datum": "2026-10-05T23:54:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NZ business confidence jumps to a net 40% in September quarter despite oil price headwinds",
-      "link": "https://investinglive.com/news/nz-business-confidence-jumps-to-a-net-40-in-september-quarter-despite-oil-price-headwinds/",
-      "datum": "2026-10-05T21:07:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 5 Oct: Nasdaq close at record as the dollar firms/yields higher",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-oct-nasdaq-close-at-record-as-the-dollar-firms-oil-falls/",
-      "datum": "2026-10-05T20:53:44.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-      "datum": "2026-10-05T20:30:00.000Z"
     }
   ]
 }

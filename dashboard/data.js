@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-05T21:18:18.355Z",
+ "erstellt": "2026-10-06T05:19:26.557Z",
  "wochenStart": "2026-10-04",
  "events": [
   {
@@ -2506,21 +2506,22 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Wette. Die Fed-Erhöhung ist ein echter breiter Treiber, deshalb ist die Konzentration ehrlich; aber bewusst gelöst ist USD/JPY (winzig +1: BoJ-Erhöhung + Interventionsrisiko + überfüllte Yen-Long-Wette). Und die Größe je Paar spiegelt eigene Gründe: Euro-PMI-Stärke deckelt EUR/USD, Öl-Rückgang deckelt USD/CAD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-10-05",
-   "wochentag": "Montag",
-   "tenor": "Der schwache US-Jobbericht vom Freitag (nur +29k Stellen, Quote 4,2%) hat die Wette auf eine Fed-Erhöhung im Oktober erledigt (~84% Halten) und gab dem Dollar den schlechtesten Tag seit einem Monat — doch der Index hält sich nahe dem 5-Monats-Hoch (~102) und die 10J-Rendite fest über 5%: angeknackst, nicht gebrochen. Gleichzeitig stützt die heiße Euro-Inflation (3,8%) den Euro.",
+   "stand": "2026-10-06",
+   "wochentag": "Dienstag",
+   "tenor": "Der Dollar hält sich dem Jobschock zum Trotz hartnäckig nahe seinem Jahreshoch (~102,2) — getragen von Anleiherenditen über 5% und Euro-Schwäche: „angeknackst, nicht gebrochen\". Heute spricht BoJ-Chef Ueda (Rückschlag-Risiko für die überfüllte Yen-Long-Wette), morgen Mi 7.10. ist das FOMC-Protokoll der Wochen-Höhepunkt.",
    "heute": [
-    "🇺🇸 Ruhiger Wochenstart ohne große US-Zahlen. Der Höhepunkt kommt Mi 7.10.: das FOMC-Protokoll der September-Sitzung (als die Fed erhöhte). Der Markt liest es auf Hinweise, ob der Oktober wirklich eine Pause bringt — nach dem Jobschock vom Freitag wird genau das erwartet.",
-    "🇯🇵 Di 6.10. spricht BoJ-Chef Ueda. Wichtig: Großspekulanten sind weiter netto-LONG Yen (überfüllte Wette, COT z+1,04) → klingt Ueda zu zögerlich, droht ein Rückschlag (Yen schwächer = USD/JPY höher).",
-    "🇨🇦 Fr 9.10. der kanadische Arbeitsmarkt (erwartet nur +9k Stellen, Quote 6,5%). Mit festem Öl (WTI ~91$) der nächste Loonie-Test der Woche.",
-    "💵🥇 Markt-Stand (Sa 4.10.): Dollar-Index 101,9 (noch fest, +0,7% Woche), Gold auf 4.162$ zurückgefallen (hohe Realzinsen drücken, weit weg vom Rekord), VIX tief 15,3 = Risk-on. US 10J 5,28% / 30J 5,63%."
+    "🇯🇵 BoJ-Chef Ueda spricht HEUTE (Di 6.10.). Der Markt preist nur ~24% für eine BoJ-Erhöhung im Oktober. Risiko: Ueda klang zuletzt oft weniger falkig als erhofft — bei der überfüllten Yen-Long-Wette (COT z+1,04) kann schon ein zögerlicher Ton einen Rückschlag auslösen (Yen schwächer = USD/JPY höher).",
+    "🇺🇸 MORGEN Mi 7.10. = Höhepunkt: das FOMC-Protokoll der September-Sitzung (als die Fed erhöhte). Der Markt sucht Hinweise, ob der Oktober wirklich eine Pause bringt — nach dem Jobschock vom Freitag sind ~78–80% Halten eingepreist, eine Dezember-Erhöhung aber noch ~69%.",
+    "💵 Dollar bleibt fest: Der Index testet nahe dem Jahreshoch (~102,2, heute kaum verändert) — getragen von Euro-Schwäche und festen bis steigenden Anleiherenditen (globaler Bond-Ausverkauf, Fiskal- und Inflations-Sorgen). Trotz verpuffter Oktober-Erhöhungs-Wette gibt der Zinsvorsprung dem Dollar Boden.",
+    "🇨🇦 Fr 9.10. der kanadische Arbeitsmarkt (nur +9k Stellen erwartet, Quote 6,5%). Mit festem Öl (WTI ~89$) der nächste Loonie-Test der Woche.",
+    "💵🥇 Markt-Stand (Stand 5.10. abends, Runner): Dollar-Index 102,1 (+0,7% Woche), Gold 4.168$ (hohe Realzinsen drücken, weit vom Rekord), VIX tief 15,5 = Risk-on, WTI 89$/Brent 100$. US 10J 5,31% / 2J 4,42% / 30J 5,67%, Fed-Futures impl. 3,94%."
    ],
    "gestern": [
-    "🇺🇸 US-JOBBERICHT = SCHOCK NACH UNTEN (Fr): nur +29k neue Stellen statt erwarteter ~89k, Arbeitslosenquote stieg auf 4,2% (von 4,1%), dazu Juli/August um rund 60k nach unten revidiert. Löhne nur +0,1% m/m (+3,0% y/y). → Der Arbeitsmarkt kühlt klar ab.",
-    "💵 Reaktion: Der Dollar hatte seinen schlechtesten Tag seit einem Monat (−0,3%), die Renditen fielen (10J auf ~5,18%, 2J auf ~4,73%). Die Oktober-Erhöhungs-Wette der Fed ist faktisch tot — die Futures sehen jetzt ~84% HALTEN.",
-    "🇪🇺 Euro-Inflation HEISS (Fr): Flash September sprang auf 3,8% y/y (erwartet 3,7%, Vormonat 3,2%) — getrieben von Energie (+18,8%). Kern 2,5% (wie erwartet). → Die EZB kann nicht so leicht senken, das stützt den Euro.",
-    "🧮 Projekt-Lehre erneut bestätigt: Trotz schwacher Jobs UND kühler Kern-PCE (0,2%) diese Woche hält sich der Dollar nahe dem 5-Monats-Hoch, 10J fest über 5% → „angeknackst, nicht gebrochen\". Der hohe Zinsvorsprung deckelt den Schaden, eine schwache Zahl allein kippt ihn nicht.",
-    "📊 Positionierung (COT Stand 29.9.): Euro (z−1,78) und Pfund (z−1,81) bleiben deutlich netto-SHORT = Squeeze-Potenzial nach oben bei schwachem Dollar; der Yen ist weiter netto-LONG (z+1,04) = Rückschlag-Risiko."
+    "🇺🇸 Ruhiger Wochenstart (Mo 5.10.) ohne große US-Zahlen — und trotzdem zog der Dollar wieder Richtung Jahreshoch (~102), obwohl die Oktober-Erhöhungs-Wette der Fed verpufft ist. Grund: feste Anleiherenditen (10J über 5%) + ein Sicherheits-Bid halten ihn oben.",
+    "🇺🇸 Rückblick Jobbericht (Fr 2.10.): nur +29k Stellen statt ~89k erwartet, Arbeitslosenquote 4,2% (von 4,1%), Juli/August rund 60k nach unten revidiert, Löhne nur +0,1% m/m (+3,0% y/y). → Der Arbeitsmarkt kühlt klar ab, die Oktober-Pause ist so gut wie sicher; die Dezember-Erhöhung bleibt mit ~69% im Spiel.",
+    "🇪🇺 Euro-Inflation HEISS (Fr): Flash September 3,8% y/y (erwartet 3,7%, Vormonat 3,2%) — getrieben von Energie (+18,8%). Kern 2,5% (wie erwartet). → Die EZB kann nicht leicht senken (stützt den Euro fundamental), im Dollar-Index überwiegt aber aktuell die relative Euro-Schwäche.",
+    "🧮 Projekt-Lehre erneut bestätigt: Trotz schwacher Jobs UND kühler Kern-PCE (0,2%) hält sich der Dollar nahe dem Jahreshoch, 10J fest über 5% → „angeknackst, nicht gebrochen\". Der hohe Zinsvorsprung deckelt den Schaden, eine schwache Zahl allein kippt ihn nicht.",
+    "📊 Positionierung (COT Stand 29.9.): Euro (z−1,78) und Pfund (z−1,81) bleiben deutlich netto-SHORT = Squeeze-Potenzial nach oben bei schwachem Dollar; der Yen ist weiter netto-LONG (z+1,04) = Rückschlag-Risiko (heute mit der Ueda-Rede besonders relevant)."
    ]
   }
  },
@@ -3573,7 +3574,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-05T21:18:17.969Z",
+  "stand": "2026-10-06T05:19:26.556Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 31,

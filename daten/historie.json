@@ -16616,7 +16616,7 @@
       "land": "JPY",
       "titel": "Leading Indicators",
       "impact": "Low",
-      "prognose": "118.3%",
+      "prognose": "118.1%",
       "vorher": "117.9%",
       "actual": null,
       "notiz": null
@@ -16636,7 +16636,7 @@
       "land": "GBP",
       "titel": "Lloyds HPI m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.0%",
       "vorher": "-0.2%",
       "actual": null,
       "notiz": null
@@ -16666,7 +16666,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "2.1M",
+      "prognose": "1.9M",
       "vorher": "0.9M",
       "actual": null,
       "notiz": null
@@ -16696,7 +16696,7 @@
       "land": "USD",
       "titel": "Consumer Credit m/m",
       "impact": "Low",
-      "prognose": "14.4B",
+      "prognose": "14.5B",
       "vorher": "18.1B",
       "actual": null,
       "notiz": null
@@ -16716,7 +16716,7 @@
       "land": "JPY",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "2.13T",
+      "prognose": "2.14T",
       "vorher": "2.52T",
       "actual": null,
       "notiz": null
@@ -16756,7 +16756,7 @@
       "land": "EUR",
       "titel": "German Trade Balance",
       "impact": "Low",
-      "prognose": "18.9B",
+      "prognose": "19.0B",
       "vorher": "21.3B",
       "actual": null,
       "notiz": null
@@ -16856,7 +16856,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "79B",
       "vorher": "64B",
       "actual": null,
       "notiz": null
@@ -16936,7 +16936,7 @@
       "land": "CAD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "6.2K",
+      "prognose": "6.3K",
       "vorher": "-41.7K",
       "actual": null,
       "notiz": null
@@ -16956,7 +16956,7 @@
       "land": "USD",
       "titel": "Prelim UoM Consumer Sentiment",
       "impact": "Medium",
-      "prognose": "47.6",
+      "prognose": "47.5",
       "vorher": "47.8",
       "actual": null,
       "notiz": null

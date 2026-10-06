@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-06T17:48:26.741Z",
+  "stand": "2026-10-06T22:50:52.331Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 2,
       "tiltCot": -1,
-      "tiltZins": -3,
-      "tiltGesamt": -4,
-      "score": -2,
+      "tiltZins": -4,
+      "tiltGesamt": -5,
+      "score": -3,
       "cotExtrem": "erhoeht",
       "treiber": "Heiße Euro-Inflation (3,8%) + erhöhte Euro-Shorts (Squeeze) treffen auf einen vom Jobbericht geschwächten Dollar. Score bewusst klein (Paar-Trefferquote nur 40%).",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 0,
       "tiltCot": 5,
-      "tiltZins": 2,
-      "tiltGesamt": 7,
-      "score": 7,
+      "tiltZins": 1,
+      "tiltGesamt": 6,
+      "score": 6,
       "cotExtrem": null,
       "treiber": "Neutral: festes Öl stützt den Loonie, der Dollar ist angeknackst. Arbeitsmarkt Fr der Test.",
       "istCross": false

@@ -1,28 +1,28 @@
 {
-  "stand": "2026-10-06T22:50:52.331Z",
+  "stand": "2026-10-07T05:19:35.526Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 2,
+      "baseScore": 3,
       "tiltCot": -1,
       "tiltZins": -4,
       "tiltGesamt": -5,
-      "score": -3,
+      "score": -2,
       "cotExtrem": "erhoeht",
-      "treiber": "Heiße Euro-Inflation (3,8%) + erhöhte Euro-Shorts (Squeeze) treffen auf einen vom Jobbericht geschwächten Dollar. Score bewusst klein (Paar-Trefferquote nur 40%).",
+      "treiber": "Euro erholte sich (~1,128) mit der nachlassenden Frankreich-Panik + heißer Inflation (3,8%) + Euro-Short-Squeeze, der Dollar bröckelte. ABER Frankreich bleibt Wildcard; Score klein (Paar-Trefferquote nur 40%).",
       "istCross": false
     },
     {
       "paar": "GBP/USD",
-      "baseScore": -2,
+      "baseScore": 1,
       "tiltCot": -5,
       "tiltZins": 3,
       "tiltGesamt": -2,
-      "score": -4,
+      "score": -1,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicherer Dollar vs. fehlender UK-Impuls; die stark erhöhten Pfund-Shorts (Squeeze-Gefahr) halten den Minus-Score klein.",
+      "treiber": "Pfund kletterte mit dem weichen Dollar Richtung 1,33; stark erhöhte Pfund-Shorts (Squeeze) + gutes Paar-Track (60%) heben von Minus auf leicht positiv. Kein frischer UK-Impuls → klein.",
       "istCross": false
     },
     {
@@ -33,7 +33,7 @@
       "tiltGesamt": -6,
       "score": -5,
       "cotExtrem": null,
-      "treiber": "Bewusst winzig: überfüllte Yen-Long-Wette (Rückschlag-Risiko, pro USD/JPY) vs. gefallene US-Renditen + BoJ-Ueda Di (pro Yen). Schlechtester Track-Record (33%) → nahe null.",
+      "treiber": "Bewusst winzig: Ueda (Di) nicht falkig genug → Yen weich, USD/JPY über 158; überfüllte Yen-Long-Wette (COT z+1,04) = Rückschlag-Risiko pro USD/JPY. Schlechtester Track-Record (33%) → nahe null.",
       "istCross": false
     },
     {
@@ -82,11 +82,11 @@
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": 3,
+      "baseScore": 2,
       "tiltCot": 5,
       "tiltZins": -6,
       "tiltGesamt": -1,
-      "score": 2,
+      "score": 1,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

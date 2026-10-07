@@ -1172,8 +1172,8 @@
   {
     "date": "2026-10-15T14:00:00.000Z",
     "country": "USD",
-    "title": "Retail Inventories Ex Autos MoM",
-    "impact": "Low",
+    "title": "Business Inventories MoM",
+    "impact": "Medium",
     "forecast": "",
     "previous": "0.8%",
     "actual": null,
@@ -1182,8 +1182,8 @@
   {
     "date": "2026-10-15T14:00:00.000Z",
     "country": "USD",
-    "title": "Business Inventories MoM",
-    "impact": "Medium",
+    "title": "Retail Inventories Ex Autos MoM",
+    "impact": "Low",
     "forecast": "",
     "previous": "0.8%",
     "actual": null,
@@ -1212,7 +1212,7 @@
   {
     "date": "2026-10-15T15:30:00.000Z",
     "country": "USD",
-    "title": "8-Week Bill Auction",
+    "title": "4-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1222,20 +1222,10 @@
   {
     "date": "2026-10-15T15:30:00.000Z",
     "country": "USD",
-    "title": "4-Week Bill Auction",
+    "title": "8-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
     "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-15T16:00:00.000Z",
-    "country": "USD",
-    "title": "EIA Gasoline Production Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-0.117",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1262,6 +1252,16 @@
   {
     "date": "2026-10-15T16:00:00.000Z",
     "country": "USD",
+    "title": "EIA Refinery Crude Runs Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.223",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-15T16:00:00.000Z",
+    "country": "USD",
     "title": "EIA Cushing Crude Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
@@ -1273,16 +1273,6 @@
     "date": "2026-10-15T16:00:00.000Z",
     "country": "USD",
     "title": "30-Year Mortgage Rate",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-15T16:00:00.000Z",
-    "country": "USD",
-    "title": "NOPA Crush Report",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1332,10 +1322,20 @@
   {
     "date": "2026-10-15T16:00:00.000Z",
     "country": "USD",
-    "title": "EIA Refinery Crude Runs Change",
+    "title": "EIA Gasoline Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.223",
+    "previous": "-0.117",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-15T16:00:00.000Z",
+    "country": "CAD",
+    "title": "5-Year Bond Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.517%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1351,11 +1351,11 @@
   },
   {
     "date": "2026-10-15T16:00:00.000Z",
-    "country": "CAD",
-    "title": "5-Year Bond Auction",
+    "country": "USD",
+    "title": "NOPA Crush Report",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.517%",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1363,6 +1363,16 @@
     "date": "2026-10-15T20:30:00.000Z",
     "country": "USD",
     "title": "Fed Balance Sheet",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-15T20:30:00.000Z",
+    "country": "USD",
+    "title": "Reserve Balances with Fed Banks",
     "impact": "Low",
     "forecast": "",
     "previous": "",

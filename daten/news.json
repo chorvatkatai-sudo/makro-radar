@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-06T22:50:52.329Z",
+  "stand": "2026-10-07T05:20:26.120Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Mexican Peso post gains as lower US yields revive the carry trade",
-      "link": "https://www.fxstreet.com/news/mexican-peso-post-gains-as-lower-us-yields-revive-the-carry-trade-202610062235",
-      "datum": "2026-10-06T22:35:10.000Z"
+      "titel": "Swiss Franc declines ahead of release of Foreign Currency Reserves data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-declines-ahead-of-release-of-foreign-currency-reserves-data-202610070516",
+      "datum": "2026-10-07T05:16:59.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Japanese Yen flatlines through a BoJ speech that changed nothing",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-flatlines-through-a-boj-speech-that-changed-nothing-202610062233",
-      "datum": "2026-10-06T22:33:32.000Z"
+      "titel": "WTI Price Forecast: Sticks to gains near $89.50; bulls seem hesitant below 200-SMA on H4",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-sticks-to-gains-near-8950-bulls-seem-hesitant-below-200-sma-on-h4-202610070450",
+      "datum": "2026-10-07T04:50:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic data spotlight: US jobless claims to test whether weak payrolls are turning into layoffs",
+      "link": "https://investinglive.com/news/economic-data-spotlight-us-jobless-claims-to-test-whether-weak-payrolls-are-turning-into-layoffs/",
+      "datum": "2026-10-07T04:50:07.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The New Zealand Dollar edges off its low as the US Dollar slips",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-edges-off-its-low-as-the-us-dollar-slips-202610062216",
-      "datum": "2026-10-06T22:16:46.000Z"
+      "titel": "USD/INR remains broadly muted after RBI’s 25 bps hike in Repo Rates to 5.5%",
+      "link": "https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441",
+      "datum": "2026-10-07T04:41:23.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Euro wins back its slide to a fresh low as France files its budget",
-      "link": "https://www.fxstreet.com/news/the-euro-wins-back-its-slide-to-a-fresh-low-as-france-files-its-budget-202610062201",
-      "datum": "2026-10-06T22:01:40.000Z"
+      "titel": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202610070435",
+      "datum": "2026-10-07T04:35:31.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "The Pound climbs back to the top of its range as bond yields ease",
-      "link": "https://www.fxstreet.com/news/the-pound-climbs-back-to-the-top-of-its-range-as-bond-yields-ease-202610062126",
-      "datum": "2026-10-06T21:26:23.000Z"
+      "titel": "Gold weakens amid renewed USD strength and higher bond yields, ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/gold-weakens-amid-renewed-usd-strength-and-higher-bond-yields-ahead-of-fomc-minutes-202610070432",
+      "datum": "2026-10-07T04:32:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Slips below 178.00 after pulling back from nine-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-slips-below-17800-after-pulling-back-from-nine-day-ema-202610070430",
+      "datum": "2026-10-07T04:30:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: More downside likely below 1.1160",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-more-downside-likely-below-11160-202610070408",
+      "datum": "2026-10-07T04:08:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD remains below $61.00 as oil prices surge",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-below-6100-as-oil-prices-surge-202610070404",
+      "datum": "2026-10-07T04:04:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Saudi-Houthi attacks and Gulf storm lift oil",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-saudi-houthi-attacks-and-gulf-storm-lift-oil/",
+      "datum": "2026-10-07T03:40:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar resumes decline against US Dollar ahead of FOMC minutes",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-resumes-decline-against-us-dollar-ahead-of-fomc-minutes-202610070323",
+      "datum": "2026-10-07T03:23:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar holds losses below 0.7000 ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-losses-below-07000-ahead-of-fomc-minutes-202610070306",
+      "datum": "2026-10-07T03:06:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Households weather RBA hikes as debt-to-asset ratio hits 1997 low, Deutsche Bank says",
+      "link": "https://investinglive.com/news/households-weather-rba-hikes-as-debt-to-asset-ratio-hits-1997-low-deutsche-bank-says/",
+      "datum": "2026-10-07T03:02:44.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index retakes 102.00 as bulls eye YTD peak ahead of FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retakes-10200-as-bulls-eye-ytd-peak-ahead-of-fomc-minutes-202610070234",
+      "datum": "2026-10-07T02:34:32.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "RBI raises the Repo Rate by 25 bps to 5.5% in October, as expected",
+      "link": "https://www.fxstreet.com/news/rbi-looks-set-to-step-up-repo-rate-by-25-bps-to-55-202610070030",
+      "datum": "2026-10-07T00:30:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan real wages rise for eighth straight month, backing case for BOJ hikes",
+      "link": "https://investinglive.com/news/japan-real-wages-rise-for-eighth-straight-month-backing-case-for-boj-hikes/",
+      "datum": "2026-10-06T23:44:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan factory mood hits near five-year high as services sentiment drops six points",
+      "link": "https://investinglive.com/news/japan-factory-mood-hits-near-five-year-high-as-services-sentiment-drops-six-points/",
+      "datum": "2026-10-06T23:07:20.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 6 Oct: S&P/Nasdaq set records as oil rebounds and the U.S. trade deficit widens",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-6-oct-s-p-nasdaq-set-records-as-oil-rebounds-and-the-u-s-trade-deficit-widens/",
       "datum": "2026-10-06T21:17:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Gradual upside within defined bands – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-upside-within-defined-bands-uob-202610062026",
-      "datum": "2026-10-06T20:26:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Wednesday, October 7, 2026 - ECB speaker",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-7-2026-ecb-speaker/",
-      "datum": "2026-10-06T20:18:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-against-us-dollar-with-mas-in-focus-ocbc-202610061909",
-      "datum": "2026-10-06T19:09:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Philippines: One more BSP hike expected in October - Standard Chartered",
-      "link": "https://www.fxstreet.com/news/philippines-one-more-bsp-hike-expected-in-october-standard-chartered-202610061832",
-      "datum": "2026-10-06T18:32:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: FOMC Minutes should shed further detail on latest Fed decision",
-      "link": "https://www.fxstreet.com/news/forex-today-the-fomc-minutes-should-shed-further-detail-on-the-latest-fed-decision-202610061829",
-      "datum": "2026-10-06T18:29:59.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed's Schmid warns inflation fight has a “way to go”",
-      "link": "https://www.fxstreet.com/news/feds-schmid-warns-inflation-fight-has-a-way-to-go-202610061822",
-      "datum": "2026-10-06T18:22:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD remains range-bound below daily SMAs",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-range-bound-below-daily-smas-202610061809",
-      "datum": "2026-10-06T18:09:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed's Daly says more hikes may be needed if shocks persist",
-      "link": "https://www.fxstreet.com/news/feds-daly-says-more-hikes-may-be-needed-if-shocks-persist-202610061755",
-      "datum": "2026-10-06T17:55:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US treasury sells $58 billion of 3 year notes at a high yield of 4.932%",
-      "link": "https://investinglive.com/news/us-treasury-sells-58-billion-of-3-or-notes-at-a-high-yield-of-4-932/",
-      "datum": "2026-10-06T17:03:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Risk sentiment improves as oil falls and bonds rise",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-as-oil-falls-and-bonds-rise/",
-      "datum": "2026-10-06T12:50:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US International Trade balance for August -105.6B vs -102.0B.",
-      "link": "https://investinglive.com/news/us-international-trade-balance-for-august-105-6b-vs-102-0b/",
-      "datum": "2026-10-06T12:30:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada August trade balance $4.20 billion vs $1.55 billion expected",
-      "link": "https://investinglive.com/news/canada-august-trade-balance-4-20-billion-vs-1-55-billion-expected/",
-      "datum": "2026-10-06T12:30:28.000Z"
     }
   ]
 }

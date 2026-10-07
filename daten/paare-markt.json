@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-07T05:19:35.526Z",
+  "stand": "2026-10-07T05:20:26.122Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": 1,
       "tiltCot": -5,
-      "tiltZins": 3,
-      "tiltGesamt": -2,
-      "score": -1,
+      "tiltZins": 2,
+      "tiltGesamt": -3,
+      "score": -2,
       "cotExtrem": "erhoeht",
       "treiber": "Pfund kletterte mit dem weichen Dollar Richtung 1,33; stark erhöhte Pfund-Shorts (Squeeze) + gutes Paar-Track (60%) heben von Minus auf leicht positiv. Kein frischer UK-Impuls → klein.",
       "istCross": false
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 1,
       "tiltCot": -3,
-      "tiltZins": -3,
-      "tiltGesamt": -6,
-      "score": -5,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Bewusst winzig: Ueda (Di) nicht falkig genug → Yen weich, USD/JPY über 158; überfüllte Yen-Long-Wette (COT z+1,04) = Rückschlag-Risiko pro USD/JPY. Schlechtester Track-Record (33%) → nahe null.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 0,
       "tiltCot": 5,
-      "tiltZins": 1,
-      "tiltGesamt": 6,
-      "score": 6,
+      "tiltZins": 2,
+      "tiltGesamt": 7,
+      "score": 7,
       "cotExtrem": null,
       "treiber": "Neutral: festes Öl stützt den Loonie, der Dollar ist angeknackst. Arbeitsmarkt Fr der Test.",
       "istCross": false
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": 3,
       "tiltCot": -5,
-      "tiltZins": -6,
-      "tiltGesamt": -11,
-      "score": -8,
+      "tiltZins": -7,
+      "tiltGesamt": -12,
+      "score": -9,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true

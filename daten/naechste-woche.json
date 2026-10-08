@@ -674,7 +674,7 @@
     "country": "JPY",
     "title": "Industrial Production MoM Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-1.7%",
     "previous": "-0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -695,7 +695,7 @@
     "title": "Goods Trade Balance Non-EU",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-9.66",
+    "previous": "-9.66 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -705,7 +705,7 @@
     "title": "Industrial Production MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.2",
+    "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -715,7 +715,7 @@
     "title": "Manufacturing Production MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.9",
+    "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -755,7 +755,7 @@
     "title": "Balance of Trade",
     "impact": "Low",
     "forecast": "",
-    "previous": "-3.45",
+    "previous": "-3.45 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -765,7 +765,7 @@
     "title": "Goods Trade Balance",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-20.97",
+    "previous": "-20.97 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -795,7 +795,7 @@
     "title": "Industrial Production YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.6",
+    "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1102,20 +1102,20 @@
   {
     "date": "2026-10-15T12:30:00.000Z",
     "country": "CAD",
-    "title": "New Motor Vehicle Sales",
+    "title": "Manufacturing Sales MoM Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "176.2",
+    "forecast": "1.1%",
+    "previous": "-0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-15T12:30:00.000Z",
     "country": "CAD",
-    "title": "Manufacturing Sales MoM Final",
+    "title": "New Motor Vehicle Sales",
     "impact": "Low",
-    "forecast": "1.1%",
-    "previous": "-0.4%",
+    "forecast": "",
+    "previous": "176.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1184,7 +1184,7 @@
     "country": "USD",
     "title": "Retail Inventories Ex Autos MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -1452,10 +1452,10 @@
   {
     "date": "2026-10-16T09:00:00.000Z",
     "country": "EUR",
-    "title": "Inflation Rate YoY Final",
+    "title": "Inflation Rate MoM Final",
     "impact": "Low",
-    "forecast": "3.8%",
-    "previous": "3.2%",
+    "forecast": "0.6%",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1464,7 +1464,7 @@
     "country": "EUR",
     "title": "CPI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "104.3",
     "previous": "103.69",
     "actual": null,
     "quelle": "tradingview"
@@ -1482,10 +1482,10 @@
   {
     "date": "2026-10-16T09:00:00.000Z",
     "country": "EUR",
-    "title": "Inflation Rate MoM Final",
+    "title": "Inflation Rate YoY Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.4%",
+    "forecast": "3.8%",
+    "previous": "3.2%",
     "actual": null,
     "quelle": "tradingview"
   },

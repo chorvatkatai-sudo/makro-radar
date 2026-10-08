@@ -1,11 +1,101 @@
 {
-  "stand": "2026-10-08T12:33:24.499Z",
+  "stand": "2026-10-08T18:19:58.902Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Further weakness possible against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-further-weakness-possible-against-us-dollar-uob-202610081710",
+      "datum": "2026-10-08T17:10:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.618%",
+      "link": "https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-618/",
+      "datum": "2026-10-08T17:06:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Arab sources: Several severe explosions have occurred in the Strait of Hormuz",
+      "link": "https://investinglive.com/news/arab-sources-several-severe-explosions-have-occurred-in-the-strait-of-hormuz/",
+      "datum": "2026-10-08T16:58:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US President Trump rules out Iran strike before midterms, talks resume",
+      "link": "https://www.fxstreet.com/news/us-president-trump-rules-out-iran-strike-before-midterms-talks-resume-202610081642",
+      "datum": "2026-10-08T16:42:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dollar Index flatlines as Fed Governor Waller puts no date on more hikes",
+      "link": "https://www.fxstreet.com/news/dollar-index-flatlines-as-fed-governor-waller-puts-no-date-on-more-hikes-202610081618",
+      "datum": "2026-10-08T16:18:39.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Crude Oil grinds higher on record tanker attacks and Houthi missiles",
+      "link": "https://www.fxstreet.com/news/crude-oil-grinds-higher-on-record-tanker-attacks-and-houthi-missiles-202610081614",
+      "datum": "2026-10-08T16:14:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Banxico minutes flag upside inflation risks despite 6.50% rate hold",
+      "link": "https://www.fxstreet.com/news/banxico-minutes-flags-upside-inflation-risks-despite-650-rate-hold-202610081602",
+      "datum": "2026-10-08T16:02:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar slips as hawkish Fed, elevated US yields sustain USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-hawkish-fed-elevated-us-yields-sustain-usd-202610081551",
+      "datum": "2026-10-08T15:51:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound catches bid as Fed’s Waller eyes a pause in October",
+      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-feds-waller-eyes-a-pause-in-october-202610081550",
+      "datum": "2026-10-08T15:50:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Atlanta Fed GDPNow Q3 tracker 3.6% vs 3.7% prior",
+      "link": "https://investinglive.com/news/atlanta-fed-gdpnow-q3-tracker-3-6-vs-3-7-prior/",
+      "datum": "2026-10-08T15:19:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD slides below $60 as sellers retain control",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-below-60-as-sellers-retain-control-202610081518",
+      "datum": "2026-10-08T15:18:58.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso: Watching support for reversal signal against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-watching-support-for-reversal-signal-against-us-dollar-societe-generale-202610081442",
+      "datum": "2026-10-08T14:42:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro steadies as US yields retreat, traders assess Fed and ECB signals",
+      "link": "https://www.fxstreet.com/news/euro-steadies-as-us-yields-retreat-traders-assess-fed-and-ecb-signals-202610081419",
+      "datum": "2026-10-08T14:19:40.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Germany: Gradual recovery with energy risks – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/germany-gradual-recovery-with-energy-risks-deutsche-bank-202610081409",
+      "datum": "2026-10-08T14:09:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US August wholesale inventories +0.5% vs +0.7% expected",
+      "link": "https://investinglive.com/news/us-august-wholesale-inventories-0-5-vs-0-7-expected/",
+      "datum": "2026-10-08T14:00:40.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US weekly initial jobless claims 197K vs 200K expected",
@@ -19,100 +109,10 @@
       "datum": "2026-10-08T12:30:14.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Europe: Sovereign stress and China trade tensions – Rabobank",
-      "link": "https://www.fxstreet.com/news/europe-sovereign-stress-and-china-trade-tensions-rabobank-202610081221",
-      "datum": "2026-10-08T12:21:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro slips against British Pound on France’s fiscal concerns, central bank signals",
-      "link": "https://www.fxstreet.com/news/euro-slips-against-british-pound-on-frances-fiscal-concerns-central-bank-signals-202610081216",
-      "datum": "2026-10-08T12:16:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar nears 18-month lows as risk aversion buoys the US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-nears-18-month-lows-as-risk-aversion-buoys-the-us-dollar-202610081202",
-      "datum": "2026-10-08T12:02:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United Kingdom: GDP momentum seen slowing – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-gdp-momentum-seen-slowing-deutsche-bank-202610081200",
-      "datum": "2026-10-08T12:00:53.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European session wrap: Yields continue to soar as oil surges and stocks tumble",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-yields-continue-to-soar-as-oil-surges-and-stocks-tumble/",
       "datum": "2026-10-08T11:49:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB Accounts: Upside risks surrounding inflation outlook",
-      "link": "https://www.fxstreet.com/news/ecb-accounts-upside-risks-surrounding-inflation-outlook-202610081142",
-      "datum": "2026-10-08T11:42:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "ECB officials agree: Eurozone is still saved from second-round inflation effects",
-      "link": "https://www.fxstreet.com/news/ecb-officials-agree-eurozone-is-still-saved-from-second-round-inflation-effects-202610081142",
-      "datum": "2026-10-08T11:42:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Romanian Leu: Policy on hold as politics weigh – Societe Generale",
-      "link": "https://www.fxstreet.com/news/romanian-leu-policy-on-hold-as-politics-weigh-societe-generale-202610081138",
-      "datum": "2026-10-08T11:38:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Polish Zloty: Dovish hold with limited tightening – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-hold-with-limited-tightening-ing-202610081134",
-      "datum": "2026-10-08T11:34:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound: Euro weakness drives Sterling gains - MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-euro-weakness-drives-sterling-gains-mufg-202610081125",
-      "datum": "2026-10-08T11:25:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: ECB Account seen reinforcing hike case – BBH",
-      "link": "https://www.fxstreet.com/news/euro-ecb-account-seen-reinforcing-hike-case-bbh-202610081115",
-      "datum": "2026-10-08T11:15:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold struggles as rising yields and hawkish Fed signals weigh",
-      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
-      "datum": "2026-10-08T10:55:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The big picture: The era of cheap money is over and investors must adapt",
-      "link": "https://investinglive.com/news/the-big-picture-the-era-of-cheap-money-is-over-and-investors-must-adapt/",
-      "datum": "2026-10-08T09:30:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Ethereum sinks by 6% in just a day as increasingly negative macro backdrop and key technical break triggers liquidation",
-      "link": "https://investinglive.com/news/ethereum-sinks-by-6-in-just-a-day-as-increasingly-negative-macro-backdrop-and-key-technical-break-triggers-liquidation/",
-      "datum": "2026-10-08T08:20:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-59/",
-      "datum": "2026-10-08T06:35:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee remains on track to revisit all-time low",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
-      "datum": "2026-10-08T05:54:27.000Z"
     }
   ]
 }

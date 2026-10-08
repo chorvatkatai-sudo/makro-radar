@@ -912,10 +912,10 @@
   {
     "date": "2026-10-15T12:30:00.000Z",
     "country": "USD",
-    "title": "Philly Fed New Orders",
+    "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "29.2",
+    "previous": "1716",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -975,7 +975,7 @@
     "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "197",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1065,17 +1065,17 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "198",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-15T12:30:00.000Z",
     "country": "USD",
-    "title": "Continuing Jobless Claims",
+    "title": "Philly Fed New Orders",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "29.2",
     "actual": null,
     "quelle": "tradingview"
   },

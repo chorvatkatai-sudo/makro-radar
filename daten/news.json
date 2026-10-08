@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-07T23:57:00.090Z",
+  "stand": "2026-10-08T05:20:31.377Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,15 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "The Yen round-trips after Japanese pay beats its forecast",
-      "link": "https://www.fxstreet.com/news/the-yen-round-trips-after-japanese-pay-beats-its-forecast-202610072308",
-      "datum": "2026-10-07T23:08:50.000Z"
+      "titel": "BoJ holds steady assessment for 7 of Japan's 9 regions",
+      "link": "https://www.fxstreet.com/news/boj-holds-steady-assessment-for-7-of-japans-9-regions-202610080517",
+      "datum": "2026-10-08T05:17:27.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar slips as Fed hike bets meet Middle East Oil risk",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-fed-hike-bets-meet-middle-east-oil-risk-202610072307",
-      "datum": "2026-10-07T23:07:37.000Z"
+      "titel": "Swiss Franc gains despite stable US Dollar amid ongoing inflation risks",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-despite-stable-us-dollar-amid-ongoing-inflation-risks-202610080501",
+      "datum": "2026-10-08T05:01:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Price Forecast: Bulls seem hesitant below $89.50 amid Middle East risks",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-below-8950-amid-middle-east-risks-202610080455",
+      "datum": "2026-10-08T04:55:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japan’s Takaichi says does not require reflationary policy now",
+      "link": "https://www.fxstreet.com/news/japans-takaichi-says-does-not-require-reflationary-policy-now-202610080454",
+      "datum": "2026-10-08T04:54:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/JPY Price Forecast: Steadies near 100.00, bearish technical bias persists below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-steadies-near-10000-bearish-technical-bias-persists-below-100-day-sma-202610080447",
+      "datum": "2026-10-08T04:47:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610080435",
+      "datum": "2026-10-08T04:35:18.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold moves away from two-month low; not out of the woods yet amid hawkish Fed, bullish USD",
+      "link": "https://www.fxstreet.com/news/gold-moves-away-from-two-month-low-not-out-of-the-woods-yet-amid-hawkish-fed-bullish-usd-202610080432",
+      "datum": "2026-10-08T04:32:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil climbs on three Middle East risks",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-climbs-on-three-middle-east-risks/",
+      "datum": "2026-10-08T03:41:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar moves sideways as US Dollar stabilizes amid rising bond yields",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-moves-sideways-as-us-dollar-stabilizes-amid-rising-bond-yields-202610080335",
+      "datum": "2026-10-08T03:35:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro rebounds as Japanese Yen underperforms despite upbeat trade data",
+      "link": "https://www.fxstreet.com/news/euro-rebounds-as-japanese-yen-underperforms-despite-upbeat-trade-data-202610080334",
+      "datum": "2026-10-08T03:34:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar declines to near 0.6950 on hawkish Fed Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-to-near-06950-on-hawkish-fed-minutes-202610080250",
+      "datum": "2026-10-08T02:50:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD rebounds to near $60.50 despite soaring bond yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rebounds-to-near-6050-despite-soaring-bond-yields-202610080246",
+      "datum": "2026-10-08T02:46:15.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index retreats from YTD top; eyes 102.00 as bullish bias persists",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-ytd-top-eyes-10200-as-bullish-bias-persists-202610080240",
+      "datum": "2026-10-08T02:40:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China bucks global bond rout as 10-year yield touches 1.7%",
+      "link": "https://investinglive.com/news/china-bucks-global-bond-rout-as-10-year-yield-touches-1-7/",
+      "datum": "2026-10-08T01:51:07.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -25,58 +97,10 @@
       "datum": "2026-10-07T23:06:37.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "The Euro gives back its bounce as French bonds sell off again",
-      "link": "https://www.fxstreet.com/news/the-euro-gives-back-its-bounce-as-french-bonds-sell-off-again-202610072228",
-      "datum": "2026-10-07T22:28:09.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso holds firm as FOMC Minutes signal further rate hikes",
-      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-fomc-minutes-signal-further-rate-hikes-202610072203",
-      "datum": "2026-10-07T22:03:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "The Pound slides back to the bottom of its range as the bond selloff resumes",
-      "link": "https://www.fxstreet.com/news/the-pound-slides-back-to-the-bottom-of-its-range-as-the-bond-selloff-resumes-202610072155",
-      "datum": "2026-10-07T21:55:46.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: Tight ranges persist against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-tight-ranges-persist-against-us-dollar-uob-202610072117",
-      "datum": "2026-10-07T21:17:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Vietnamese Dong: Constructive but upside constrained – Commerzbank",
-      "link": "https://www.fxstreet.com/news/vietnamese-dong-constructive-but-upside-constrained-commerzbank-202610072033",
-      "datum": "2026-10-07T20:33:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD cracks $60 as bears eye $56",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-cracks-60-as-bears-eye-56-202610072011",
-      "datum": "2026-10-07T20:11:09.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Economic and event calendar in Asia Thursday, October 8, 2026 - Chinese markets reopen",
       "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-october-8-2026-chinese-markets-reopen/",
       "datum": "2026-10-07T20:04:17.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "South Korean Won: Upside risks with key levels in focus against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/south-korean-won-upside-risks-with-key-levels-in-focus-against-us-dollar-ocbc-202610071951",
-      "datum": "2026-10-07T19:51:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold slides below $4,100 as FOMC Minutes signal further Fed hikes",
-      "link": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
-      "datum": "2026-10-07T19:29:05.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -85,34 +109,10 @@
       "datum": "2026-10-07T19:26:46.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Thai Baht: Inflation rise and THB downside risks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/thai-baht-inflation-rise-and-thb-downside-risks-commerzbank-202610071912",
-      "datum": "2026-10-07T19:12:00.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
       "datum": "2026-10-07T18:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The US treasury sells $39 billion of 10 year notes at a high yield of 5.300% versus WI level of 5.317%",
-      "link": "https://investinglive.com/news/the-us-treasury-sells-39-billion-of-10-year-notes-at-a-high-yield-of-5-300-versus-wi-level-of-5-317/",
-      "datum": "2026-10-07T17:03:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "New York Fed inflation expectations: One year inflation expectations hit the highest since 2023",
-      "link": "https://investinglive.com/news/new-york-fed-inflation-expectations-one-year-inflation-expectations-hit-the-highest-since-2023/",
-      "datum": "2026-10-07T15:02:08.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed Minutes: Officials saw inflation risks worsening before September hike",
-      "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
-      "datum": "2026-10-07T14:00:00.000Z"
     }
   ]
 }

@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-09T17:53:18.658Z",
+  "stand": "2026-10-09T18:35:49.556Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
+      "link": "https://www.fxstreet.com/news/gold-reclaims-4-200-as-weak-us-sentiment-revives-bullion-demand-202610091804",
+      "datum": "2026-10-09T18:04:49.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen struggles as wide US-Japan yield gap weighs",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-wide-us-japan-yield-gap-weighs-202610091752",
+      "datum": "2026-10-09T17:52:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: PBoC stance and valuation debate guide currency path – MUFG",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-stance-and-valuation-debate-guide-currency-path-mufg-202610091738",
+      "datum": "2026-10-09T17:38:45.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
@@ -53,24 +71,6 @@
       "titel": "Japan: Bond outflows reshape global yields - Commerzbank",
       "link": "https://www.fxstreet.com/news/japan-bond-outflows-reshape-global-yields-commerzbank-202610091459",
       "datum": "2026-10-09T14:59:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Poland: Inflation outlook stabilises – ING",
-      "link": "https://www.fxstreet.com/news/poland-inflation-outlook-stabilises-ing-202610091440",
-      "datum": "2026-10-09T14:40:31.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI holds steady as traders weigh US-Iran tensions and supply risks",
-      "link": "https://www.fxstreet.com/news/wti-holds-steady-as-traders-weigh-us-iran-tensions-and-supply-risks-202610091425",
-      "datum": "2026-10-09T14:25:05.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canada: Gradual improvement expected – RBC",
-      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-expected-rbc-202610091419",
-      "datum": "2026-10-09T14:19:43.000Z"
     },
     {
       "quelle": "ForexLive",

@@ -1,11 +1,65 @@
 {
-  "stand": "2026-10-09T11:05:15.774Z",
+  "stand": "2026-10-09T12:21:18.011Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Oil: Iran tensions keep crude prices elevated - Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-iran-tensions-keep-crude-prices-elevated-rabobank-202610091201",
+      "datum": "2026-10-09T12:01:34.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Rallies fail above 1.1200 amid high Oil prices, debt woes",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-rallies-fail-above-11200-amid-high-oil-prices-debt-woes-202610091156",
+      "datum": "2026-10-09T11:56:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen underperforms against its peers into the weekend",
+      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-against-its-peers-into-the-weekend-202610091149",
+      "datum": "2026-10-09T11:49:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Labor data may trigger dovish repricing – BBH",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-labor-data-may-trigger-dovish-repricing-bbh-202610091146",
+      "datum": "2026-10-09T11:46:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Elusive recovery prospects against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-elusive-recovery-prospects-against-us-dollar-ing-202610091136",
+      "datum": "2026-10-09T11:36:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso: Banxico cautious on cuts as Peso risks linger – Commerzbank",
+      "link": "https://www.fxstreet.com/news/mexican-peso-banxico-cautious-on-cuts-as-peso-risks-linger-commerzbank-202610091127",
+      "datum": "2026-10-09T11:27:06.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Upside risks persist with strong demand – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-with-strong-demand-bbh-202610091118",
+      "datum": "2026-10-09T11:18:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Stocks rebound as bond market nerves ease, for now",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-as-bond-market-nerves-ease-for-now/",
+      "datum": "2026-10-09T11:14:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Policy divergence weighs on CAD against US Dollar – Rabobank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-policy-divergence-weighs-on-cad-against-us-dollar-rabobank-202610091110",
+      "datum": "2026-10-09T11:10:30.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold recovery stalls near $4,200 as US Dollar, Treasury yields stabilise",
@@ -17,54 +71,6 @@
       "titel": "Australian Dollar struggles to extend gains to near 0.7000, US CPI comes into focus",
       "link": "https://www.fxstreet.com/news/australian-dollar-struggles-to-extend-gains-to-near-07000-us-cpi-comes-into-focus-202610091057",
       "datum": "2026-10-09T10:57:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-to-4-200-as-us-yields-retreat-202610091009",
-      "datum": "2026-10-09T10:09:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Range trade bias holds against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-trade-bias-holds-against-us-dollar-uob-202610091000",
-      "datum": "2026-10-09T10:00:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "UoM Consumer Sentiment Index expected to decline in October amid high Oil prices",
-      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
-      "datum": "2026-10-09T10:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: China trade tensions and CNY strength pose downside risks - MUFG",
-      "link": "https://www.fxstreet.com/news/euro-china-trade-tensions-and-cny-strength-pose-downside-risks-mufg-202610090951",
-      "datum": "2026-10-09T09:51:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Romanian Leu: Coalition hopes support RON assets – Societe Generale",
-      "link": "https://www.fxstreet.com/news/romanian-leu-coalition-hopes-support-ron-assets-societe-generale-202610090937",
-      "datum": "2026-10-09T09:37:54.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610090931",
-      "datum": "2026-10-09T09:31:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Polish Zloty: Dovish NBP signals weigh on PLN – Commerzbank",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-nbp-signals-weigh-on-pln-commerzbank-202610090925",
-      "datum": "2026-10-09T09:25:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Jobs data and BoC path – ING",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-data-and-boc-path-ing-202610090909",
-      "datum": "2026-10-09T09:09:38.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -86,7 +92,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee regains ground as rally in US bond yields hits pause",
+      "titel": "Indian Rupee attracts bids as US bond yields cool down",
       "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538",
       "datum": "2026-10-09T05:38:09.000Z"
     },
@@ -107,12 +113,6 @@
       "titel": "Oracle trucks in natural gas to keep AI data centres on schedule as pipelines lag",
       "link": "https://investinglive.com/news/oracle-trucks-in-natural-gas-to-keep-ai-data-centres-on-schedule-as-pipelines-lag/",
       "datum": "2026-10-09T00:29:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan household spending falls for ninth straight month, but drop smaller than expected",
-      "link": "https://investinglive.com/news/japan-household-spending-falls-for-ninth-straight-month-but-drop-smaller-than-expected/",
-      "datum": "2026-10-09T00:11:56.000Z"
     }
   ]
 }

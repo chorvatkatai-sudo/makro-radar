@@ -292,10 +292,10 @@
   {
     "date": "2026-10-14T03:00:00.000Z",
     "country": "CNY",
-    "title": "Exports YoY",
+    "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "25.3%",
-    "previous": "25%",
+    "forecast": "114.5 $",
+    "previous": "119.1 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -312,20 +312,20 @@
   {
     "date": "2026-10-14T03:00:00.000Z",
     "country": "CNY",
-    "title": "Balance of Trade",
+    "title": "Imports YoY",
     "impact": "High",
-    "forecast": "114.5 $",
-    "previous": "119.1 $",
+    "forecast": "23.5%",
+    "previous": "28.2%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-14T03:00:00.000Z",
     "country": "CNY",
-    "title": "Imports YoY",
+    "title": "Exports YoY",
     "impact": "High",
-    "forecast": "23.5%",
-    "previous": "28.2%",
+    "forecast": "25.3%",
+    "previous": "25%",
     "actual": null,
     "quelle": "tradingview"
   },

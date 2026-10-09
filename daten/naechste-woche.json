@@ -662,16 +662,6 @@
   {
     "date": "2026-10-15T04:30:00.000Z",
     "country": "JPY",
-    "title": "Industrial Production YoY Final",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.9%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-15T04:30:00.000Z",
-    "country": "JPY",
     "title": "Industrial Production MoM Final",
     "impact": "Low",
     "forecast": "-1.7%",
@@ -686,6 +676,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "0.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-15T04:30:00.000Z",
+    "country": "JPY",
+    "title": "Industrial Production YoY Final",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1365,7 +1365,7 @@
     "title": "Fed Balance Sheet",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.748 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1375,7 +1375,7 @@
     "title": "Reserve Balances with Fed Banks",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.022",
     "actual": null,
     "quelle": "tradingview"
   },

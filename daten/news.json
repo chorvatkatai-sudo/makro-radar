@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-09T13:32:02.684Z",
+  "stand": "2026-10-09T17:53:18.658Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,64 +7,94 @@
   ],
   "eintraege": [
     {
+      "quelle": "FXStreet",
+      "titel": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-trade-negotiations-and-resilient-macro-backdrop-mufg-202610091702",
+      "datum": "2026-10-09T17:02:10.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore: Policy slope tightening view – DBS",
+      "link": "https://www.fxstreet.com/news/singapore-policy-slope-tightening-view-dbs-202610091636",
+      "datum": "2026-10-09T16:36:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
+      "link": "https://www.fxstreet.com/news/canada-loses-683k-jobs-and-the-loonie-falls-to-an-18-month-low-202610091617",
+      "datum": "2026-10-09T16:17:14.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound holds ground as US Consumer Sentiment deteriorates",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-its-ground-as-us-consumer-sentiment-deteriorates-202610091612",
+      "datum": "2026-10-09T16:12:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "France: Budget politics and market testing – Rabobank",
+      "link": "https://www.fxstreet.com/news/france-budget-politics-and-market-testing-rabobank-202610091612",
+      "datum": "2026-10-09T16:12:43.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro struggles as French fiscal concerns and firm US Dollar dominate",
+      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-concerns-and-firm-us-dollar-dominate-202610091544",
+      "datum": "2026-10-09T15:44:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-higher-on-softer-us-yields-fed-hike-bets-cap-recovery-202610091525",
+      "datum": "2026-10-09T15:25:01.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japan: Bond outflows reshape global yields - Commerzbank",
+      "link": "https://www.fxstreet.com/news/japan-bond-outflows-reshape-global-yields-commerzbank-202610091459",
+      "datum": "2026-10-09T14:59:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Poland: Inflation outlook stabilises – ING",
+      "link": "https://www.fxstreet.com/news/poland-inflation-outlook-stabilises-ing-202610091440",
+      "datum": "2026-10-09T14:40:31.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI holds steady as traders weigh US-Iran tensions and supply risks",
+      "link": "https://www.fxstreet.com/news/wti-holds-steady-as-traders-weigh-us-iran-tensions-and-supply-risks-202610091425",
+      "datum": "2026-10-09T14:25:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada: Gradual improvement expected – RBC",
+      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-expected-rbc-202610091419",
+      "datum": "2026-10-09T14:19:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected",
+      "link": "https://investinglive.com/news/us-october-umich-prelim-consumer-sentiment-vs-47-8-expected/",
+      "datum": "2026-10-09T14:00:04.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "datum": "2026-10-09T14:00:00.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "How have interest rate expectations changed after this week's events?",
       "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-2/",
       "datum": "2026-10-09T12:43:37.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Norwegian Krone: Rate hike risks support currency – BBH",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-rate-hike-risks-support-currency-bbh-202610091240",
-      "datum": "2026-10-09T12:40:15.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as adviser",
       "link": "https://investinglive.com/news/bessent-hires-former-fed-board-nominee-and-investinglive-reader-judy-shelton-as-adviser/",
       "datum": "2026-10-09T12:21:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound gains ground as Japanese Yen underperforms",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-ground-as-japanese-yen-underperforms-202610091220",
-      "datum": "2026-10-09T12:20:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Choppy trade inside defined range – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-choppy-trade-inside-defined-range-uob-202610091220",
-      "datum": "2026-10-09T12:20:01.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Oil: Iran tensions keep crude prices elevated - Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-iran-tensions-keep-crude-prices-elevated-rabobank-202610091201",
-      "datum": "2026-10-09T12:01:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Rallies fail above 1.1200 amid high Oil prices, debt woes",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-rallies-fail-above-11200-amid-high-oil-prices-debt-woes-202610091156",
-      "datum": "2026-10-09T11:56:52.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen underperforms against its peers into the weekend",
-      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-against-its-peers-into-the-weekend-202610091149",
-      "datum": "2026-10-09T11:49:07.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Labor data may trigger dovish repricing – BBH",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-labor-data-may-trigger-dovish-repricing-bbh-202610091146",
-      "datum": "2026-10-09T11:46:30.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Elusive recovery prospects against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-elusive-recovery-prospects-against-us-dollar-ing-202610091136",
-      "datum": "2026-10-09T11:36:43.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -74,45 +104,15 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold recovery stalls near $4,200 as US Dollar, Treasury yields stabilise",
+      "titel": "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
       "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100",
       "datum": "2026-10-09T11:00:03.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "UoM Consumer Sentiment Index forecast to retreat in October amid rising Oil prices",
-      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
-      "datum": "2026-10-09T10:00:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Breaking: Canada Unemployment Rate rises to 6.5% in September as expected",
-      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-rise-to-65-as-us-tariffs-test-labor-market-202610090830",
-      "datum": "2026-10-09T08:30:00.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-60/",
       "datum": "2026-10-09T06:37:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic data spotlight: US inflation expectations in focus in today's Michigan consumer survey",
-      "link": "https://investinglive.com/news/economic-data-spotlight-us-inflation-expectations-in-focus-in-today-s-michigan-consumer-survey/",
-      "datum": "2026-10-09T06:06:04.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee attracts bids as US bond yields cool down",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538",
-      "datum": "2026-10-09T05:38:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil eases on Trump’s Iran pledge",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-trump-s-iran-pledge/",
-      "datum": "2026-10-09T03:22:40.000Z"
     }
   ]
 }

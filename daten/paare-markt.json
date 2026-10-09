@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-09T13:32:02.686Z",
+  "stand": "2026-10-09T17:53:18.660Z",
   "ausBriefing": "2026-10-09",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -4,
       "tiltCot": -1,
-      "tiltZins": -4,
-      "tiltGesamt": -5,
-      "score": -9,
+      "tiltZins": -3,
+      "tiltGesamt": -4,
+      "score": -8,
       "cotExtrem": "erhoeht",
       "treiber": "Fester Dollar drückt, aber die heiße Euro-Inflation (EZB-Anker) bremst das Minus — kein großer Short. Track-Record hier schwach (~40%) → bewusst klein. Frankreich bleibt Wildcard.",
       "istCross": false
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": 1,
-      "tiltGesamt": -4,
-      "score": -6,
+      "tiltZins": 2,
+      "tiltGesamt": -3,
+      "score": -5,
       "cotExtrem": "erhoeht",
       "treiber": "Dollar stark, aber die extreme Short-Positionierung im Pfund (Squeeze-Gefahr) begrenzt die Short-Seite bewusst — deshalb nur ein kleines Minus.",
       "istCross": false

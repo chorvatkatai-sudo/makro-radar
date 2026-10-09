@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-09T00:04:23.681Z",
+ "erstellt": "2026-10-09T05:20:07.421Z",
  "wochenStart": "2026-10-04",
  "events": [
   {
@@ -2483,8 +2483,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "neutral",
-    "score": 0,
-    "grund": "Öl etwas weicher (WTI ~89$, −4% Wo), COT nicht extrem. Fr 9.10. Arbeitsmarkt (~+9k erw.) ist der Test — bis dahin neutral."
+    "score": -2,
+    "grund": "Schwacher Jobs-Konsens heute (~+9k nach −41,7k) + Öl diese Woche flach statt Rückenwind; COT nicht crowded (z−0,16)."
    },
    "AUD": {
     "stimmung": "bullisch",
@@ -2520,8 +2520,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": 0,
-    "treiber": "Neutral: fester Dollar gegen festes Öl-Umfeld, aber Öl diese Woche −4%. Arbeitsmarkt Fr 9.10. ist der eigentliche Test."
+    "score": 3,
+    "treiber": "Loonie-Gegenwind: schwacher Jobs-Konsens heute + kein Öl-Schub, Dollar fest am 18-Monats-Hoch."
    },
    {
     "paar": "USD/CHF",
@@ -2615,22 +2615,21 @@ window.MAKRO_DATA = {
    "Klumpen-Warnung: Diese Woche zeigen alle 7 Paare dollar-stark — das ist im Kern EINE Wette. Die Fed-Erhöhung ist ein echter breiter Treiber, deshalb ist die Konzentration ehrlich; aber bewusst gelöst ist USD/JPY (winzig +1: BoJ-Erhöhung + Interventionsrisiko + überfüllte Yen-Long-Wette). Und die Größe je Paar spiegelt eigene Gründe: Euro-PMI-Stärke deckelt EUR/USD, Öl-Rückgang deckelt USD/CAD, der NZ-BIP-Schock treibt NZD/USD am stärksten."
   ],
   "tagesnews": {
-   "stand": "2026-10-08",
-   "wochentag": "Donnerstag",
-   "tenor": "Das FOMC-Protokoll (gestern Abend) kam falkig genug: Der Dollar drehte wieder nach oben und steht heute Früh zurück am Jahreshoch (Index ~102,2). Der kurze Euro-Erholungsschub aus der Frankreich-Entspannung ist damit erstmal gestoppt — die 'noch eine Erhöhung 2026'-Wette lebt.",
+   "stand": "2026-10-09",
+   "wochentag": "Freitag",
+   "tenor": "Der Dollar hält sein 18-Monats-Hoch (Index ~102,1), der falkische FOMC-Protokoll-Schub wirkt nach. Heute entscheidet der kanadische Arbeitsmarkt (nur ~+9k erwartet) über den Loonie; der Euro bleibt zwischen heißer Inflation (Anker) und Frankreichs Haushaltskrise (Deckel) eingeklemmt.",
    "heute": [
-    "🇺🇸 Der Dollar ist nach dem FOMC-Protokoll zurück am Jahreshoch (Index ~102,2, +0,1% Wo). Das Protokoll zeigte: Die meisten Mitglieder hielten im September an 'noch einer Erhöhung dieses Jahr' fest (8 sahen ≥2, 6 sahen eine weitere), Inflationswachsamkeit vor Arbeitsmarkt-Sorge → die Dezember-Erhöhung (~69%) bleibt klar im Spiel, auch wenn die Oktober-Pause (~80%) steht. Falkig = Dollar-Rückenwind.",
-    "🇺🇸 HEUTE Do: US-Erstanträge Arbeitslosenhilfe (~14:30 Wien) = der Daten-Punkt des Tages. Gesucht wird, ob der Arbeitsmarkt nach dem Jobschock (Fr +29k) weiter abkühlt — höhere Anträge würden die 'Pause'-Story stützen.",
-    "🇫🇷🇪🇺 Euro-Erholung gestoppt: Mit dem wieder festen Dollar rutschte EUR/USD vom Wochenhoch (~1,128) zurück. Frankreich bleibt der Wildcard — Lecornus Spar-Haushalt 2027 (~43–54 Mrd.€) hat keine Mehrheit, 10J-OAT-Rendite ~4,9%, Spread zu Deutschland ~150 Bp. Einziger Euro-Anker: die heiße Inflation (3,8%).",
-    "🇨🇦 MORGEN Fr 9.10. der kanadische Arbeitsmarkt (nur ~+9k Stellen erwartet, Quote 6,5%). Öl etwas weicher diese Woche (WTI ~89$, −4%) = der nächste Loonie-Test.",
-    "💵🥇 Markt-Stand (Runner, 7.10. abends, nach dem Protokoll): Dollar-Index 102,2 · Gold 4.136$ (−1,6% Wo, hohe Realzinsen deckeln) · VIX tief 15,1 (−8% Wo) = Risk-on · WTI 88,9$/Brent 101$ · US 10J 5,28% / 2J 4,42% / 30J 5,66% · Fed-Futures impl. 3,92%."
+    "🇨🇦 HEUTE Fr (14:30 Wien): Kanadischer Arbeitsmarkt = Hauptevent des Tages. Konsens nur ~+9k Stellen, Quote 6,5%. Nach dem August-Minus (−41,7k) der nächste Loonie-Test — schwach = USD/CAD höher. Öl diese Woche nur flach (WTI ~91$) nimmt dem CAD den klaren Rückenwind.",
+    "🇺🇸 Dollar fest am 18-Monats-Hoch (Index ~102,1, +0,2% Wo). Das falkische FOMC-Protokoll (Mi) wirkt nach: Dezember-Erhöhung ~74% eingepreist, Oktober-Pause ~80%. ABER Vorsicht: die US-2J-Rendite FÄLLT diese Woche (−0,12pp) = das Zins-Momentum stützt den Dollar gerade NICHT, er lebt allein vom Falken-Ton.",
+    "🇪🇺 Euro eingeklemmt ~1,12: die heiße Inflation (3,8%) hält die EZB von Senkungen ab (fundamentaler Anker), aber Frankreichs Haushaltskrise deckelt — Lecornus Spar-Budget 2027 (54 Mrd.€, Defizit 5,4%→5,0% Ziel) hat keine Mehrheit, OAT-Bund-Spread ~130 Bp. Am 5.10. stand EUR/USD auf dem 17-Monats-Tief 1,1162.",
+    "🇯🇵 Yen weiter weich (USD/JPY ~158, Interventionszone): Neu-Premierministerin Takaichi dämpfte Reflations-Hoffnungen und will BoJ-Erhöhungen NICHT blockieren = am Rand yen-stützend, reicht aber gegen den Carry nicht. COT-Großspekulanten extrem net-long Yen (z+1,04) = Rückschlag-Risiko, falls die Wette platzt."
    ],
    "gestern": [
-    "🇺🇸 Mi 7.10. Abend: FOMC-Protokoll der September-Erhöhung. Lesart falkig — der Dollar drehte von ~101,8 zurück über 102. Kern: die Mehrheit stand zur projizierten weiteren Erhöhung 2026; die weiche Jobzahl (Fr) ließ das Protokoll zwar teils überholt wirken, kippte den Falken-Grundton aber nicht.",
-    "🇫🇷 Frankreich: Premier Lecornu (Mo nach 27 Tagen zurückgetreten, dann von Macron WIEDER ernannt) legte den Spar-Haushalt 2027 vor (~5% Defizit-Ziel) — ohne Mehrheit, Durchkommen offen. Der Euro hatte sich zur Wochenmitte auf ~1,128 erholt.",
-    "🇯🇵 Ueda-Rede (Di) nicht falkig genug → Yen blieb WEICH, USD/JPY über 158. Die überfüllte Yen-Long-Positionierung (COT z+1,04) bleibt ein Rückschlag-Risiko.",
-    "🇺🇸 Jobbericht (Fr 2.10.): nur +29k statt ~89k erwartet, Quote 4,2% (von 4,1%), Juli/Aug ~60k nach unten revidiert, Löhne +0,1% m/m. → Arbeitsmarkt kühlt, Oktober-Pause so gut wie sicher.",
-    "🇪🇺 Euro-Inflation HEISS (Fr): Flash Sep 3,8% y/y (Energie +18,8%), Kern 2,5%. → Die EZB kann nicht leicht senken = fundamentaler Euro-Anker gegen das Frankreich-Risiko."
+    "🇺🇸 Do 8.10.: US-Erstanträge Arbeitslosenhilfe war der Daten-Punkt des Tages (Test, ob der Arbeitsmarkt nach dem Jobschock Fr +29k weiter abkühlt). Der Dollar blieb davon unbeeindruckt fest.",
+    "🇺🇸 Mi 7.10. Abend: FOMC-Protokoll der September-Erhöhung — falkisch gelesen, der Dollar drehte von ~101,8 zurück über 102. Die Mehrheit stand zur projizierten weiteren Erhöhung 2026, Inflationswachsamkeit vor Jobsorge → die Wette auf noch eine Erhöhung 2026 lebt.",
+    "🇫🇷 Frankreich bleibt Wildcard: Premier Lecornu (nach Rücktritt von Macron wieder ernannt) legte den Spar-Haushalt 2027 vor (~5% Defizit-Ziel) ohne Mehrheit — Durchkommen evtl. nur über Artikel 49.3. Die französische Risikoprämie bleibt bis zur 2027-Wahl.",
+    "🇯🇵 Takaichi-Nuance: Japans neue Premierministerin sagte, man werde Wechselkurs- und Preisentwicklung weiter genau beobachten — und werde sich weiteren BoJ-Zinserhöhungen nicht in den Weg stellen. Leicht yen-stützend, Yen bleibt aber über 158.",
+    "🇪🇺 Euro-Inflation HEISS (Fr 2.10.): Flash Sep 3,8% y/y (Energie +18,8%), Kern 2,5% → die EZB kann nicht leicht senken = der fundamentale Euro-Anker gegen das Frankreich-Risiko."
    ]
   }
  },
@@ -3615,13 +3614,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 0,
+   "baseScore": 3,
    "tiltCot": 5,
    "tiltZins": 0,
    "tiltGesamt": 5,
-   "score": 5,
+   "score": 8,
    "cotExtrem": null,
-   "treiber": "Neutral: fester Dollar gegen festes Öl-Umfeld, aber Öl diese Woche −4%. Arbeitsmarkt Fr 9.10. ist der eigentliche Test.",
+   "treiber": "Loonie-Gegenwind: schwacher Jobs-Konsens heute + kein Öl-Schub, Dollar fest am 18-Monats-Hoch.",
    "istCross": false
   },
   {
@@ -3692,7 +3691,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-09T00:04:22.684Z",
+  "stand": "2026-10-09T05:20:07.420Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 62,
   "gewertet": 31,

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-09T00:04:22.678Z",
+  "stand": "2026-10-09T05:20:07.409Z",
   "ausBriefing": "2026-09-25",
   "overlayAktiv": true,
   "paare": [
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 0,
+      "baseScore": 3,
       "tiltCot": 5,
       "tiltZins": 0,
       "tiltGesamt": 5,
-      "score": 5,
+      "score": 8,
       "cotExtrem": null,
-      "treiber": "Neutral: fester Dollar gegen festes Öl-Umfeld, aber Öl diese Woche −4%. Arbeitsmarkt Fr 9.10. ist der eigentliche Test.",
+      "treiber": "Loonie-Gegenwind: schwacher Jobs-Konsens heute + kein Öl-Schub, Dollar fest am 18-Monats-Hoch.",
       "istCross": false
     },
     {

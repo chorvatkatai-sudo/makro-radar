@@ -1,14 +1,14 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-09-28",
+  "stand": "2026-10-09",
   "zinsen": [
     {
       "code": "AUD",
       "bank": "RBA",
-      "satz": 4.35,
-      "anzeige": "4,35%",
-      "naechste": "Di 29.9.2026",
-      "erwartung": "ERHÖHUNG morgen (Di 29.9.) fast sicher: Markt preist ~93% auf 4,60% ein, alle 29 von Bloomberg befragten Ökonomen (inkl. aller vier Großbanken) erwarten +25bp. Grund: zäh hohe Kern-Trimmed-Inflation (3,6%, Abwärtstrend gestoppt) + starkes Q2-BIP + höhere Ölpreise. ANZ sieht eine zweite Erhöhung im November (→ 4,85% zum Jahresende). Höchster G10-Zins",
+      "satz": 4.60,
+      "anzeige": "4,60%",
+      "naechste": "Anfang Nov 2026",
+      "erwartung": "Am Di 29.9. um 0,25 auf 4,60% ERHÖHT — ein 15-Jahres-Hoch und die 4. Erhöhung dieses Jahr, einstimmig. Die Gouverneurin sagte, ein Halten sei diskutiert worden, am Ende aber weitere Straffung für nötig befunden. Markt las die Pressekonferenz als etwas weniger falkenhaft; eine Bank sieht dennoch eine weitere Erhöhung im November (→ 4,85%). Höchster Zins + höchster 2-Jahres-Marktzins aller großen Währungen = der einzige echte Dollar-Gegenspieler. Das RBA-Protokoll kommt Di 13.10.",
       "richtung": "rauf"
     },
     {
@@ -25,8 +25,8 @@
       "bank": "Fed",
       "satz": 3.875,
       "anzeige": "3,75–4,00%",
-      "naechste": "28.10.2026 (~73% weitere Erhöhung erwartet)",
-      "erwartung": "Am Mi 16.9. um 0,25 auf 3,75–4,00% ERHÖHT — die ERSTE Zinserhöhung seit 2023, einstimmig 12:0. Chef Warsh gab sich in der Pressekonferenz betont FALKENHAFT. Der Zins-Ausblick (Dot-Plot) sieht die Zinsen bis Ende 2026 bei 4,1% (von 3,8% im Juni), 16 von 18 Mitgliedern rechnen mit einer WEITEREN Erhöhung dieses Jahr, 4 sogar mit zweien. Reaktion: Der Dollar SPRANG (Index über 100), die 10-Jahres-Rendite an die 5-%-Marke, USD/JPY auf ~156. Eine Zinssenkung ist auf Jahre vom Tisch | Stand 25.9.: Markt preist eine WEITERE Erhöhung am 28.10. inzwischen zu ~73% ein (CME FedWatch), gestützt von falkenhaften Rednern (Barr, Barkin) und Renditen über 5%.",
+      "naechste": "28.10.2026 (Oktober ~82% HALTEN, Dezember-Erhöhung ~75% erwartet)",
+      "erwartung": "Erhöhte am 16.9. erstmals seit 2023 auf 3,75–4,00% (falkenhafter Chef Warsh). Stand 9.10.: Das FOMC-Protokoll vom Mi 7.10. wurde falkenhaft gelesen — die Mehrheit stand zur projizierten weiteren Erhöhung 2026, Inflationswachsamkeit vor Jobsorge. Am 28.10. erwartet der Markt aber eher eine PAUSE (~82% Halten, nachdem die Jobs am 2.10. mit nur +29k enttäuschten), die Erhöhung dann im DEZEMBER (~75% eingepreist, CME FedWatch; Kalshi ~65%). WICHTIG: Die 2-Jahres-Rendite FÄLLT diese Woche — der Dollar (18-Monats-Hoch) lebt gerade vom falkenhaften TON, nicht vom Zinsvorsprung.",
       "richtung": "rauf"
     },
     {
@@ -44,7 +44,7 @@
       "satz": 2.5,
       "anzeige": "2,50%",
       "naechste": "Ende Okt 2026",
-      "erwartung": "Am Mi 10.9. um 0,25 auf 2,50% ERHÖHT (Einlagensatz 2,25%→2,50%) wegen der hohen Schlagzeilen-Inflation (Energie/Nahost). Weil der Kern auf 2,4% kühlte, signalisierte Lagarde aber ein voraussichtliches ENDE der Erhöhungen. Gegen den frisch erhöhten, falkenhaften Dollar bleibt der Euro im Hintertreffen; teures Öl belastet den Energie-Importeur zusätzlich",
+      "erwartung": "Zuletzt auf 2,50% erhöht (Einlagensatz 2,25%). Stand 9.10.: Die September-Inflation kam HEISS (3,8% y/y, Energie +18,8%, Kern 2,5%) — das verbietet der EZB Zinssenkungen und ist der fundamentale Anker des Euro. Gegendruck kommt aber aus Frankreich: Premier Lecornus Sparbudget 2027 hat keine Mehrheit (Durchkommen evtl. nur über Verfassungsartikel 49.3), der Risikoaufschlag französischer Anleihen bleibt hoch (~130 Basispunkte). Der Euro klemmt deshalb bei ~1,12, am 5.10. 17-Monats-Tief 1,1162.",
       "richtung": "halten"
     },
     {
@@ -52,8 +52,8 @@
       "bank": "BOC",
       "satz": 2.25,
       "anzeige": "2,25%",
-      "naechste": "Mitte Okt 2026",
-      "erwartung": "Am Mi 2.9. bei 2,25% GEHALTEN (7. Mal in Folge), aber falkenhafter Ton: Die Bank WARNT, dass neue US-Zölle und teures Öl die Inflation über 3% treiben und sogar eine Erhöhung erzwingen könnten. WERMUTSTROPFEN: Die Handelsgespräche USA–Kanada sind GEPLATZT, beide Seiten verhängen neue Zölle. Und die Jobs am 4.9. brachen ein (−41,7k) — der Loonie hat gegensätzliche Treiber (Öl rauf, Jobs runter)",
+      "naechste": "28.10.2026",
+      "erwartung": "Zuletzt bei 2,25% gehalten mit falkenhaftem Ton (US-Zölle + teures Öl könnten die Inflation über 3% treiben). ABER: Der Arbeitsmarkt kollabiert — nach −41,7k im August heute (9.10.) ein Job-Schock von −68.300 Stellen (erwartet +9k), Quote hoch auf 6,5%, der Handelskrieg mit den USA drückt. Der Loonie hat gegensätzliche Treiber (Öl rauf stützt, Jobs runter belasten) — nach dem heutigen Schock überwiegt die Schwäche. Die Oktober-Entscheidung (28.10.) wird zwischen Halten und sogar Senken debattiert.",
       "richtung": "halten"
     },
     {
@@ -62,7 +62,7 @@
       "satz": 1.25,
       "anzeige": "1,25%",
       "naechste": "Ende Okt 2026",
-      "erwartung": "Am Fr 18.9. um 0,25 auf 1,25% ERHÖHT — der höchste Leitzins seit 1995 (31 Jahre). Abstimmung 7:2 (zwei Tauben dagegen), Begründung: Die Inflation droht dauerhaft über 2% zu klettern; starke Konjunktur + US-Druck auf den schwachen Yen. Der Markt preist bis März 2027 rund 2,7 weitere Erhöhungen ein = klar falkenhafter Pfad. Reaktion: Nach anfänglicher Yen-Schwäche (USD/JPY ~157) drehte der Yen kräftig nach oben Richtung ~150 — die stärkste Yen-Aufwertung seit März. Interventionszone bleibt aber im Nacken",
+      "erwartung": "Zuletzt auf 1,25% erhöht — der höchste Leitzins seit 1995. Stand 9.10.: Die neue Premierministerin Takaichi dämpfte Reflations-Hoffnungen, sagte aber, sie werde weiteren BoJ-Erhöhungen NICHT im Weg stehen (am Rand yen-stützend). Trotzdem bleibt der Yen schwach (USD/JPY ~158, Interventionszone), weil der Zinsnachteil (Carry) dominiert. HEIKEL: Die Großspekulanten sind extrem net-LONG Yen (z +1,04) = überfüllte Wette; platzt sie, fällt der Yen weiter.",
       "richtung": "rauf"
     },
     {

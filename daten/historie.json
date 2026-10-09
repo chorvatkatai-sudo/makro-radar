@@ -15838,7 +15838,7 @@
       "impact": "Medium",
       "prognose": "54.8",
       "vorher": "54.6",
-      "actual": null,
+      "actual": "54.5",
       "notiz": null
     },
     "2026-10-01T10:00:00-04:00|USD|Construction Spending m/m": {
@@ -15858,7 +15858,7 @@
       "impact": "Low",
       "prognose": "72.9",
       "vorher": "71.1",
-      "actual": null,
+      "actual": "77.9",
       "notiz": null
     },
     "2026-10-01T10:15:00-04:00|USD|Omdia Total Vehicle Sales": {
@@ -16938,7 +16938,7 @@
       "impact": "High",
       "prognose": "6.1K",
       "vorher": "-41.7K",
-      "actual": null,
+      "actual": "-68.3K",
       "notiz": null
     },
     "2026-10-09T08:30:00-04:00|CAD|Unemployment Rate": {
@@ -16948,7 +16948,7 @@
       "impact": "High",
       "prognose": "6.5%",
       "vorher": "6.4%",
-      "actual": null,
+      "actual": "6.5%",
       "notiz": null
     },
     "2026-10-09T10:00:00-04:00|USD|Prelim UoM Consumer Sentiment": {

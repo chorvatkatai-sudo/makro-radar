@@ -184,7 +184,7 @@
     "country": "USD",
     "title": "Existing Home Sales",
     "impact": "High",
-    "forecast": "",
+    "forecast": "3.97",
     "previous": "3.98",
     "actual": null,
     "quelle": "tradingview"
@@ -264,7 +264,7 @@
     "country": "CNY",
     "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.1%",
     "previous": "0.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -284,8 +284,8 @@
     "country": "CNY",
     "title": "PPI YoY",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "3.8",
+    "forecast": "4.4%",
+    "previous": "3.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -294,8 +294,8 @@
     "country": "CNY",
     "title": "Exports YoY",
     "impact": "High",
-    "forecast": "",
-    "previous": "25",
+    "forecast": "25.3%",
+    "previous": "25%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -314,7 +314,7 @@
     "country": "CNY",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "",
+    "forecast": "114.5 $",
     "previous": "119.1 $",
     "actual": null,
     "quelle": "tradingview"
@@ -324,8 +324,8 @@
     "country": "CNY",
     "title": "Imports YoY",
     "impact": "High",
-    "forecast": "",
-    "previous": "28.2",
+    "forecast": "23.5%",
+    "previous": "28.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -442,10 +442,10 @@
   {
     "date": "2026-10-14T12:30:00.000Z",
     "country": "USD",
-    "title": "Inflation Rate YoY",
+    "title": "Inflation Rate MoM",
     "impact": "High",
-    "forecast": "",
-    "previous": "3.4%",
+    "forecast": "0.6%",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -474,7 +474,7 @@
     "country": "USD",
     "title": "Core Inflation Rate MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -482,10 +482,10 @@
   {
     "date": "2026-10-14T12:30:00.000Z",
     "country": "USD",
-    "title": "Inflation Rate MoM",
+    "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
-    "previous": "0.4",
+    "forecast": "3.6%",
+    "previous": "3.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -494,7 +494,7 @@
     "country": "USD",
     "title": "Core Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "2.5%",
     "previous": "2.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -854,7 +854,7 @@
     "country": "CNY",
     "title": "Total Social Financing",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3270 CNY",
     "previous": "1660 CNY",
     "actual": null,
     "quelle": "tradingview"
@@ -864,7 +864,7 @@
     "country": "CNY",
     "title": "New Yuan Loans",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "975 CNY",
     "previous": "60 CNY",
     "actual": null,
     "quelle": "tradingview"
@@ -874,7 +874,7 @@
     "country": "CNY",
     "title": "M2 Money Supply YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "7.4%",
     "previous": "7.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -884,7 +884,7 @@
     "country": "CNY",
     "title": "Outstanding Loan Growth YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "4.8%",
     "previous": "4.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -974,7 +974,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "197",
     "previous": "197",
     "actual": null,
     "quelle": "tradingview"
@@ -1204,7 +1204,7 @@
     "country": "USD",
     "title": "Atlanta Fed GDPNow",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.6%",
     "previous": "3.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -1452,10 +1452,10 @@
   {
     "date": "2026-10-16T09:00:00.000Z",
     "country": "EUR",
-    "title": "Inflation Rate MoM Final",
+    "title": "Inflation Rate YoY Final",
     "impact": "Low",
-    "forecast": "0.6%",
-    "previous": "0.4%",
+    "forecast": "3.8%",
+    "previous": "3.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1482,10 +1482,10 @@
   {
     "date": "2026-10-16T09:00:00.000Z",
     "country": "EUR",
-    "title": "Inflation Rate YoY Final",
+    "title": "Inflation Rate MoM Final",
     "impact": "Low",
-    "forecast": "3.8%",
-    "previous": "3.2%",
+    "forecast": "0.6%",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1634,7 +1634,7 @@
     "country": "USD",
     "title": "Industrial Production MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0%",
     "actual": null,
     "quelle": "tradingview"

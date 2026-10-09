@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-09T05:21:04.741Z",
+  "stand": "2026-10-09T11:05:15.774Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,21 +8,87 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Holds gains near 1.1230 on softer USD; bearish bias persists",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-near-11230-on-softer-usd-bearish-bias-persists-202610090419",
-      "datum": "2026-10-09T04:19:31.000Z"
+      "titel": "Gold recovery stalls near $4,200 as US Dollar, Treasury yields stabilise",
+      "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100",
+      "datum": "2026-10-09T11:00:03.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Tests 177.50 barrier near nine-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-tests-17750-barrier-near-nine-day-ema-202610090412",
-      "datum": "2026-10-09T04:12:18.000Z"
+      "titel": "Australian Dollar struggles to extend gains to near 0.7000, US CPI comes into focus",
+      "link": "https://www.fxstreet.com/news/australian-dollar-struggles-to-extend-gains-to-near-07000-us-cpi-comes-into-focus-202610091057",
+      "datum": "2026-10-09T10:57:47.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold advances to weekly high amid modest USD weakness; not out of the woods yet",
-      "link": "https://www.fxstreet.com/news/gold-advances-to-weekly-high-amid-modest-usd-weakness-not-out-of-the-woods-yet-202610090355",
-      "datum": "2026-10-09T03:55:55.000Z"
+      "titel": "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-to-4-200-as-us-yields-retreat-202610091009",
+      "datum": "2026-10-09T10:09:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swiss Franc: Range trade bias holds against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-range-trade-bias-holds-against-us-dollar-uob-202610091000",
+      "datum": "2026-10-09T10:00:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "UoM Consumer Sentiment Index expected to decline in October amid high Oil prices",
+      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
+      "datum": "2026-10-09T10:00:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: China trade tensions and CNY strength pose downside risks - MUFG",
+      "link": "https://www.fxstreet.com/news/euro-china-trade-tensions-and-cny-strength-pose-downside-risks-mufg-202610090951",
+      "datum": "2026-10-09T09:51:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Romanian Leu: Coalition hopes support RON assets – Societe Generale",
+      "link": "https://www.fxstreet.com/news/romanian-leu-coalition-hopes-support-ron-assets-societe-generale-202610090937",
+      "datum": "2026-10-09T09:37:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver price today: Silver rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610090931",
+      "datum": "2026-10-09T09:31:07.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Polish Zloty: Dovish NBP signals weigh on PLN – Commerzbank",
+      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-nbp-signals-weigh-on-pln-commerzbank-202610090925",
+      "datum": "2026-10-09T09:25:27.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar: Jobs data and BoC path – ING",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-data-and-boc-path-ing-202610090909",
+      "datum": "2026-10-09T09:09:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canada Unemployment Rate expected to rise to 6.5% as labour market faces first major US tariff test",
+      "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-rise-to-65-as-us-tariffs-test-labor-market-202610090830",
+      "datum": "2026-10-09T08:30:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-60/",
+      "datum": "2026-10-09T06:37:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic data spotlight: US inflation expectations in focus in today's Michigan consumer survey",
+      "link": "https://investinglive.com/news/economic-data-spotlight-us-inflation-expectations-in-focus-in-today-s-michigan-consumer-survey/",
+      "datum": "2026-10-09T06:06:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee regains ground as rally in US bond yields hits pause",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538",
+      "datum": "2026-10-09T05:38:09.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -31,64 +97,10 @@
       "datum": "2026-10-09T03:22:40.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index weakens further amid correction in US bond yields",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-further-amid-correction-in-us-bond-yields-202610090318",
-      "datum": "2026-10-09T03:18:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD rises above $60.00 as inflation fears ease",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-6000-as-inflation-fears-ease-202610090318",
-      "datum": "2026-10-09T03:18:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar strengthens above 0.5600 amid softer US Dollar, easing yields",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-above-05600-amid-softer-us-dollar-easing-yields-202610090243",
-      "datum": "2026-10-09T02:43:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar strengthens as risk-on mood weighs on US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-as-risk-on-mood-weighs-on-us-dollar-202610090220",
-      "datum": "2026-10-09T02:20:27.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen struggles for firm direction as softer USD limits intraday slide",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-for-firm-direction-as-softer-usd-limits-intraday-slide-202610090205",
-      "datum": "2026-10-09T02:05:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound edges higher to near 1.3250, renewed UK fiscal concerns in focus",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13250-renewed-uk-fiscal-concerns-in-focus-202610090136",
-      "datum": "2026-10-09T01:36:23.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japan’s Katayama says DOGE Initiative to drive growth and fiscal sustainability under Takaichi",
-      "link": "https://www.fxstreet.com/news/japans-katayama-says-doge-initiative-to-drive-growth-and-fiscal-sustainability-under-takaichi-202610090118",
-      "datum": "2026-10-09T01:18:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar edges higher amid modest USD weakness; upside potential seem limited",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-amid-modest-usd-weakness-upside-potential-seem-limited-202610090117",
-      "datum": "2026-10-09T01:17:01.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "Japan reboots DOGE-style spending review to fund Takaichi pledges as JGB yields climb",
       "link": "https://investinglive.com/news/japan-reboots-doge-style-spending-review-to-fund-takaichi-pledges-as-jgb-yields-climb/",
       "datum": "2026-10-09T01:16:42.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "WTI slips below $90.50 as Trump signals no pre-election strike on Iran",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-9050-as-trump-signals-no-pre-election-strike-on-iran-202610090116",
-      "datum": "2026-10-09T01:16:07.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -101,18 +113,6 @@
       "titel": "Japan household spending falls for ninth straight month, but drop smaller than expected",
       "link": "https://investinglive.com/news/japan-household-spending-falls-for-ninth-straight-month-but-drop-smaller-than-expected/",
       "datum": "2026-10-09T00:11:56.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Is AI giving the US economy a case of Dutch disease? From Dutch gas to American chips.",
-      "link": "https://investinglive.com/news/is-ai-giving-the-us-economy-a-case-of-dutch-disease-from-dutch-gas-to-american-chips/",
-      "datum": "2026-10-08T23:26:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Capitalist conditions have weakened worldwide since 2009, University of Virginia index shows",
-      "link": "https://investinglive.com/news/capitalist-conditions-have-weakened-worldwide-since-2009-university-of-virginia-index-shows/",
-      "datum": "2026-10-08T22:26:03.000Z"
     }
   ]
 }

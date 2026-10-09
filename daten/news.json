@@ -1,11 +1,41 @@
 {
-  "stand": "2026-10-09T12:21:18.011Z",
+  "stand": "2026-10-09T13:32:02.684Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "How have interest rate expectations changed after this week's events?",
+      "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-2/",
+      "datum": "2026-10-09T12:43:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Norwegian Krone: Rate hike risks support currency – BBH",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-rate-hike-risks-support-currency-bbh-202610091240",
+      "datum": "2026-10-09T12:40:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as adviser",
+      "link": "https://investinglive.com/news/bessent-hires-former-fed-board-nominee-and-investinglive-reader-judy-shelton-as-adviser/",
+      "datum": "2026-10-09T12:21:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound gains ground as Japanese Yen underperforms",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-ground-as-japanese-yen-underperforms-202610091220",
+      "datum": "2026-10-09T12:20:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Choppy trade inside defined range – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-choppy-trade-inside-defined-range-uob-202610091220",
+      "datum": "2026-10-09T12:20:01.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Oil: Iran tensions keep crude prices elevated - Rabobank",
@@ -37,28 +67,10 @@
       "datum": "2026-10-09T11:36:43.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso: Banxico cautious on cuts as Peso risks linger – Commerzbank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-banxico-cautious-on-cuts-as-peso-risks-linger-commerzbank-202610091127",
-      "datum": "2026-10-09T11:27:06.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Upside risks persist with strong demand – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-with-strong-demand-bbh-202610091118",
-      "datum": "2026-10-09T11:18:43.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European session wrap: Stocks rebound as bond market nerves ease, for now",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-as-bond-market-nerves-ease-for-now/",
       "datum": "2026-10-09T11:14:11.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar: Policy divergence weighs on CAD against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-policy-divergence-weighs-on-cad-against-us-dollar-rabobank-202610091110",
-      "datum": "2026-10-09T11:10:30.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -68,13 +80,13 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar struggles to extend gains to near 0.7000, US CPI comes into focus",
-      "link": "https://www.fxstreet.com/news/australian-dollar-struggles-to-extend-gains-to-near-07000-us-cpi-comes-into-focus-202610091057",
-      "datum": "2026-10-09T10:57:47.000Z"
+      "titel": "UoM Consumer Sentiment Index forecast to retreat in October amid rising Oil prices",
+      "link": "https://www.fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
+      "datum": "2026-10-09T10:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canada Unemployment Rate expected to rise to 6.5% as labour market faces first major US tariff test",
+      "titel": "Breaking: Canada Unemployment Rate rises to 6.5% in September as expected",
       "link": "https://www.fxstreet.com/news/canada-unemployment-rate-expected-to-rise-to-65-as-us-tariffs-test-labor-market-202610090830",
       "datum": "2026-10-09T08:30:00.000Z"
     },
@@ -101,18 +113,6 @@
       "titel": "investingLive Asia-Pacific market news: Oil eases on Trump’s Iran pledge",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-trump-s-iran-pledge/",
       "datum": "2026-10-09T03:22:40.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan reboots DOGE-style spending review to fund Takaichi pledges as JGB yields climb",
-      "link": "https://investinglive.com/news/japan-reboots-doge-style-spending-review-to-fund-takaichi-pledges-as-jgb-yields-climb/",
-      "datum": "2026-10-09T01:16:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Oracle trucks in natural gas to keep AI data centres on schedule as pipelines lag",
-      "link": "https://investinglive.com/news/oracle-trucks-in-natural-gas-to-keep-ai-data-centres-on-schedule-as-pipelines-lag/",
-      "datum": "2026-10-09T00:29:34.000Z"
     }
   ]
 }

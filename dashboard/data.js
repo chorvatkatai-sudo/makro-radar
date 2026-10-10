@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-10T05:18:37.420Z",
+ "erstellt": "2026-10-10T16:50:39.180Z",
  "wochenStart": "2026-10-04",
  "events": [
   {
@@ -1406,7 +1406,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "title": "Building Permits MoM",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "3.1%",
    "previous": "-17.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -1634,16 +1634,6 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-15T04:30:00.000Z",
    "country": "JPY",
-   "title": "Industrial Production MoM Final",
-   "impact": "Low",
-   "forecast": "-1.7%",
-   "previous": "-0.2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-15T04:30:00.000Z",
-   "country": "JPY",
    "title": "Capacity Utilization MoM",
    "impact": "Low",
    "forecast": "",
@@ -1658,6 +1648,16 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "",
    "previous": "3.9%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-15T04:30:00.000Z",
+   "country": "JPY",
+   "title": "Industrial Production MoM Final",
+   "impact": "Low",
+   "forecast": "-1.7%",
+   "previous": "-0.2%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2676,8 +2676,8 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Net Long-term TIC Flows",
    "impact": "Medium",
-   "forecast": "",
-   "previous": "-27.9",
+   "forecast": "125.7 $",
+   "previous": "-27.9 $",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3372,7 +3372,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-10T05:18:36.256Z",
+  "stand": "2026-10-10T16:50:38.293Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3642,12 +3642,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 82613.44,
+    "wert": 82972.14,
     "tagProzent": 0,
-    "wocheProzent": -3.7,
+    "wocheProzent": -3.02,
     "renditeDelta": false,
     "verlauf": [
-     81233.68,
      81142.61,
      86602.91,
      86172.28,
@@ -3667,8 +3666,9 @@ window.MAKRO_DATA = {
      85557.56,
      83275.93,
      81676.34,
-     82613.44,
-     82613.44
+     82546.32,
+     82972.14,
+     82972.14
     ]
    },
    "FEDFUT": {
@@ -3965,7 +3965,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-10T05:18:36.745Z",
+  "stand": "2026-10-10T16:50:38.833Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
   "gewertet": 31,
@@ -4073,7 +4073,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-10T05:18:37.419Z",
+  "stand": "2026-10-10T16:50:39.179Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4303,7 +4303,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-10T05:18:36.740Z",
+  "stand": "2026-10-10T16:50:38.827Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

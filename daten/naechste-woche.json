@@ -882,6 +882,16 @@
   {
     "date": "2026-10-15T04:30:00.000Z",
     "country": "JPY",
+    "title": "Industrial Production MoM Final",
+    "impact": "Low",
+    "forecast": "-1.7%",
+    "previous": "-0.2%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-15T04:30:00.000Z",
+    "country": "JPY",
     "title": "Capacity Utilization MoM",
     "impact": "Low",
     "forecast": "",
@@ -896,16 +906,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.9%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-15T04:30:00.000Z",
-    "country": "JPY",
-    "title": "Industrial Production MoM Final",
-    "impact": "Low",
-    "forecast": "-1.7%",
-    "previous": "-0.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1722,10 +1722,10 @@
   {
     "date": "2026-10-16T09:00:00.000Z",
     "country": "EUR",
-    "title": "Inflation Rate YoY Final",
+    "title": "Inflation Rate MoM Final",
     "impact": "Low",
-    "forecast": "3.8%",
-    "previous": "3.2%",
+    "forecast": "0.6%",
+    "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1752,10 +1752,10 @@
   {
     "date": "2026-10-16T09:00:00.000Z",
     "country": "EUR",
-    "title": "Inflation Rate MoM Final",
+    "title": "Inflation Rate YoY Final",
     "impact": "Low",
-    "forecast": "0.6%",
-    "previous": "0.4%",
+    "forecast": "3.8%",
+    "previous": "3.2%",
     "actual": null,
     "quelle": "tradingview"
   },

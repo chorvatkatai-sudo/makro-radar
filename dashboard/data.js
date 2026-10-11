@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-10T16:50:39.180Z",
+ "erstellt": "2026-10-11T05:17:25.992Z",
  "wochenStart": "2026-10-04",
  "events": [
   {
@@ -2891,17 +2891,18 @@ window.MAKRO_DATA = {
    "Track-Record ehrlich: Über ~15 ausgewertete Wochen ist die Wochen-Dollar-Wette 7/15 = 47% (Zufallsband 4–11) — weiter NICHT von einem Münzwurf unterscheidbar. Die COT/Zins-Korrektur ist seit dem Tilt-Cutoff 22.7. neutral (58% mit vs. 57% ohne). Konsequenz: Scores bewusst klein, kein Aktionismus. Diese Woche bewusst AUD vom Dollar-Block gelöst (RBA-Hike) und die Short-Größen paar-spezifisch gewichtet (CAD am stärksten wegen Job-Schock, GBP am kleinsten wegen Squeeze-Risiko)."
   ],
   "tagesnews": {
-   "stand": "2026-10-10",
-   "wochentag": "Samstag",
-   "tenor": "Wochenende, Markt ruht. Die Woche endete mit einem kanadischen Job-SCHOCK (−68k) — der Loonie fiel auf ein 18-Monats-Tief, USD/CAD sprang Richtung 1,43. Der Dollar hält insgesamt sein 18-Monats-Hoch (Index ~102), lebt aber vom Falken-Ton, nicht vom Zinsvorsprung. Nächste Woche ist der US-CPI (Mi 14.10.) der Schiedsrichter.",
+   "stand": "2026-10-11",
+   "wochentag": "Sonntag",
+   "tenor": "Wochenende, Markt ruht (Eröffnung heute Abend in Asien). Die Woche hinterließ einen starken Dollar auf 18-Monats-Hoch (Index ~102) und einen abgestürzten Loonie (Kanada-Job-Schock −68k). Entscheidend wird jetzt Mittwoch: Der US-CPI (14.10.) ist der Schiedsrichter — er sagt, ob der Dollar sein Hoch halten darf. Montag ist der US-Anleihemarkt wegen Columbus Day zu, also erst dünn.",
    "heute": [
-    "🛌 Samstag — Devisenmarkt geschlossen, keine neuen Kurse bis zur Eröffnung Sonntagabend. Unten die Wochenbilanz (gestern) und der Ausblick.",
-    "🇺🇸 AUSBLICK nächste Woche = Inflations-Woche: Mo 12.10. US-Anleihemarkt zu (Columbus Day, dünner Handel). DAS EVENT ist Mi 14.10. 14:30 Wien: US-CPI September (Kern +0,2% m/m erw./~2,4%, Gesamt energiegetrieben ~3,6%) — Schiedsrichter vor der Fed-Sitzung 28.10. Dazu Do 15.10. UK-BIP + US-PPI + US-Einzelhandel.",
-    "⚠️ Positionierung als Risiko: Großspekulanten sind extrem net-SHORT im Pfund (Squeeze-Gefahr, falls GBP anzieht) und extrem net-LONG im Yen (Rückschlag-Risiko, falls die Wette platzt = Yen schwächer / USD/JPY höher). Beides sind überfüllte Wetten, die schnell drehen können."
+    "🛌 Sonntag — Devisenmarkt noch geschlossen; die Eröffnung kommt heute Abend mit Asien. Unten die Wochenbilanz (gestern) und der Ausblick auf die Inflations-Woche.",
+    "🇺🇸 AUSBLICK nächste Woche = Inflations-Woche: Mo 12.10. US-Anleihemarkt zu (Columbus Day, dünner Handel). DAS EVENT ist Mi 14.10. 14:30 Wien: US-CPI September (Kern +0,2% m/m erw./~2,4%, Gesamt energiegetrieben ~3,6–3,7%) — letzter großer Test vor der Fed-Sitzung 28.10. Dazu Do 15.10. UK-BIP (08:00) + US-PPI + US-Einzelhandel.",
+    "⚠️ Positionierung als Risiko (frischer COT-Stand 6.10.): Großspekulanten sind jetzt EXTREM net-SHORT im Euro (z −2,2) UND im Pfund (z −1,9), neu auch stärker short im Aussie (z −1,4) — bei all diesen drei droht ein Squeeze, falls die Währung anzieht. Gleichzeitig extrem net-LONG im Yen (z +1,1) = Rückschlag-Risiko (platzt die Wette → Yen schwächer / USD/JPY höher). Überfüllte Wetten drehen schnell."
    ],
    "gestern": [
-    "🇨🇦 Fr 9.10. — JOB-SCHOCK: Kanada verlor im September 68.000 Stellen (erwartet war ein PLUS von ~+9k), Quote stieg auf 6,5%, Erwerbsquote 64,8% (tiefster Stand seit 1997 ex-2020). Zweiter Monats-Rückgang in Folge (Aug −42k). Der Loonie fiel auf ein 18-Monats-Tief, USD/CAD sprang Richtung 1,4300. Teures Öl (WTI ~91$) konnte das nicht ausgleichen → CAD klarer Wochenverlierer.",
-    "🇺🇸 Dollar hielt sein 18-Monats-Hoch (Index ~102): Treiber bleibt das falkische FOMC-Protokoll (Mi 7.10.) — Dezember-Erhöhung ~74% eingepreist, Oktober-Pause ~80%. WICHTIG: Die US-2J-Rendite FIEL diese Woche (−0,12pp) → der Dollar lebt gerade vom Ton, nicht vom Zinsvorsprung = wackliges Fundament.",
+    "🇨🇦 Fr 9.10. — JOB-SCHOCK: Kanada verlor im September 68.000 Stellen (erwartet war ein PLUS von ~+9k), Quote stieg auf 6,5%, Erwerbsquote 64,8% (tiefster Stand seit 1997 ex-2020). Zweiter Monats-Rückgang in Folge (Aug −42k). Der Loonie fiel auf ein 18-Monats-Tief, USD/CAD sprang Richtung 1,4300. Teures Öl (WTI ~92$) konnte das nicht ausgleichen → CAD klarer Wochenverlierer.",
+    "🇺🇸 Dollar hielt sein 18-Monats-Hoch (Index 102,2): Treiber bleibt das falkische FOMC-Protokoll (Mi 7.10.) — Dezember-Erhöhung ~74% eingepreist, Oktober-Pause ~80%. WICHTIG: Die US-2J-Rendite FIEL diese Woche (−0,22pp auf 4,42%) → der Dollar lebt gerade vom Ton, nicht vom Zinsvorsprung = wackliges Fundament.",
+    "🛢️ Öl zog über die Woche an (WTI +2,7% auf ~92$, Brent +4,4% auf ~105$) — bleibt Inflations-Thema vor dem CPI; Gold fest (~4.216$, +1,4% Wo), VIX tief 14,8 (−4,4% Wo = Risk-on, sorgloser Markt).",
     "🇪🇺 Euro weiter eingeklemmt ~1,12: heiße Inflation (3,8% y/y, Energie +18,8%) hält die EZB von Senkungen ab (Anker), aber Frankreichs Haushaltskrise deckelt (Lecornus Spar-Budget 2027 ohne Mehrheit, evtl. nur über Art. 49.3). Am 5.10. stand EUR/USD auf dem 17-Monats-Tief 1,1162.",
     "🇯🇵 Yen weiter weich (USD/JPY ~158, Interventionszone): Premierministerin Takaichi dämpfte Reflations-Hoffnungen und will BoJ-Erhöhungen nicht blockieren = am Rand yen-stützend, reicht aber gegen den Carry nicht."
    ]
@@ -3965,7 +3966,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-10T16:50:38.833Z",
+  "stand": "2026-10-11T05:17:25.992Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
   "gewertet": 31,

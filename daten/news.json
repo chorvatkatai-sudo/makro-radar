@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-11T05:17:50.242Z",
+  "stand": "2026-10-12T05:19:08.411Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,111 +8,111 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
-      "link": "https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218",
-      "datum": "2026-10-09T22:18:12.000Z"
+      "titel": "Australian Dollar fails ahead of 0.7000 as hawkish Fed and Iran risks limit USD losses",
+      "link": "https://www.fxstreet.com/news/australian-dollar-fails-ahead-of-07000-as-hawkish-fed-and-iran-risks-limit-usd-losses-202610120513",
+      "datum": "2026-10-12T05:13:13.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/USD Price Forecast: Gets some relief from Russia-Ukraine energy ceasefire",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gets-some-relief-from-russia-ukraine-energy-ceasefire-202610120457",
+      "datum": "2026-10-12T04:57:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold holds near one-week top, around $4,200 on softer USD; hawkish Fed caps gains",
+      "link": "https://www.fxstreet.com/news/gold-holds-near-one-week-top-around-4-200-on-softer-usd-hawkish-fed-caps-gains-202610120452",
+      "datum": "2026-10-12T04:52:36.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610120430",
+      "datum": "2026-10-12T04:30:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "AUD/JPY Price Forecast: Weakens to near 110.50, maintaining negative bias under 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-weakens-to-near-11050-maintaining-negative-bias-under-100-day-sma-202610120426",
+      "datum": "2026-10-12T04:26:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/JPY Price Forecast: Rises to near 177.50 barrier near nine-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rises-to-near-17750-barrier-near-nine-day-ema-202610120409",
+      "datum": "2026-10-12T04:09:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "USD/INR drops 1% at open as RBI steps up measures to support Indian Rupee",
+      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
+      "datum": "2026-10-12T04:04:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "IMF’s Georgieva says already seeing first wave of impact from AI",
+      "link": "https://www.fxstreet.com/news/imfs-georgieva-says-already-seeing-first-wave-of-impact-from-ai-202610120351",
+      "datum": "2026-10-12T03:51:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Heads up: US bond market closed Monday but stocks remain open as liquidity risks loom",
+      "link": "https://investinglive.com/news/heads-up-us-bond-market-closed-monday-but-stocks-remain-open-as-liquidity-risks-loom/",
+      "datum": "2026-10-12T03:49:25.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Silver Price Forecast: XAG/USD holds gains near $61 amid Russia-Ukraine ceasefire",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-near-61-amid-russia-ukraine-ceasefire-202610120326",
+      "datum": "2026-10-12T03:26:11.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar weakens as Middle East conflict elevates inflation risks",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-middle-east-conflict-elevates-inflation-risks-202610120308",
+      "datum": "2026-10-12T03:08:50.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "United States Dollar Index drifts lower amid softer bond yields; bullish bias intact",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-drifts-lower-amid-softer-bond-yields-bullish-bias-intact-202610120256",
+      "datum": "2026-10-12T02:56:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Gulf strikes, truce doubts,",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gulf-strikes-truce-doubts/",
+      "datum": "2026-10-12T02:51:30.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "India steps up currency defense with tougher US Dollar curbs — Reuters",
+      "link": "https://www.fxstreet.com/news/india-steps-up-currency-defense-with-tougher-us-dollar-curbs-reuters-202610120230",
+      "datum": "2026-10-12T02:30:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
+      "link": "https://investinglive.com/news/mufg-us-cpi-seen-at-3-6-core-must-surprise-to-revive-an-october-fed-hike/",
+      "datum": "2026-10-12T00:30:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-point deal",
+      "link": "https://investinglive.com/news/weeeknd-eu-plans-350-000-annual-cap-on-chinese-hybrids-after-beijing-agrees-16-point-deal/",
+      "datum": "2026-10-11T23:30:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Preview: RBA minutes and jobs data headline Australia’s week ahead, with unemployment seen at 4.6%",
+      "link": "https://investinglive.com/news/preview-rba-minutes-and-jobs-data-headline-australia-s-week-ahead-with-unemployment-seen-at-4-6/",
+      "datum": "2026-10-11T22:36:43.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 9 Oct: It’s a Wrap: Stocks rebound despite weak sentiment; Canadian dollar falls on jobs miss",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-9-oct-it-s-a-wrap-stocks-rebound-despite-weak-sentiment-canadian-dollar-falls-on-jobs-miss/",
       "datum": "2026-10-09T21:21:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Chinese Yuan: PBoC defends yuan narrative – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-defends-yuan-narrative-commerzbank-202610092121",
-      "datum": "2026-10-09T21:21:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: Range trading persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trading-persists-against-us-dollar-uob-202610092031",
-      "datum": "2026-10-09T20:31:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Week ahead: US inflation and retail sales lead a busy economic calendar. Be aware.",
-      "link": "https://investinglive.com/news/week-ahead-us-inflation-and-retail-sales-lead-a-busy-economic-calendar-be-aware/",
-      "datum": "2026-10-09T20:05:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-202610091949",
-      "datum": "2026-10-09T19:49:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Crude Oil drops on Trump's Russian diesel plan",
-      "link": "https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923",
-      "datum": "2026-10-09T19:23:58.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China: Robust trade and rising prices – DBS",
-      "link": "https://www.fxstreet.com/news/china-robust-trade-and-rising-prices-dbs-202610091912",
-      "datum": "2026-10-09T19:12:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
-      "link": "https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910",
-      "datum": "2026-10-09T19:10:33.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US President Trump says Putin agrees to supply millions of tons of diesel",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-putin-agrees-to-supply-millions-of-tons-of-diesel-202610091908",
-      "datum": "2026-10-09T19:08:45.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: Bullish engulfing pattern puts $64 in sight",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-bullish-engulfing-pattern-puts-64-in-sight-202610091840",
-      "datum": "2026-10-09T18:40:37.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Singapore Dollar: MAS tightening but gains constrained – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-but-gains-constrained-ocbc-202610091827",
-      "datum": "2026-10-09T18:27:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
-      "link": "https://www.fxstreet.com/news/gold-reclaims-4-200-as-weak-us-sentiment-revives-bullion-demand-202610091804",
-      "datum": "2026-10-09T18:04:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen struggles as wide US-Japan yield gap weighs",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-wide-us-japan-yield-gap-weighs-202610091752",
-      "datum": "2026-10-09T17:52:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected",
-      "link": "https://investinglive.com/news/us-october-umich-prelim-consumer-sentiment-vs-47-8-expected/",
-      "datum": "2026-10-09T14:00:04.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "datum": "2026-10-09T14:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "How have interest rate expectations changed after this week's events?",
-      "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-2/",
-      "datum": "2026-10-09T12:43:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as adviser",
-      "link": "https://investinglive.com/news/bessent-hires-former-fed-board-nominee-and-investinglive-reader-judy-shelton-as-adviser/",
-      "datum": "2026-10-09T12:21:48.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-12T05:19:08.413Z",
+  "stand": "2026-10-12T11:36:12.717Z",
   "ausBriefing": "2026-10-09",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 1,
       "tiltCot": -5,
-      "tiltZins": 5,
-      "tiltGesamt": 0,
-      "score": 1,
+      "tiltZins": 6,
+      "tiltGesamt": 1,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "Bewusst vom Dollar-Block gelöst: Die RBA-Erhöhung (4,60%, 15-J-Hoch) + höchster Zins + Risk-on geben dem Aussie eigenen Rückenwind, der die Dollar-Stärke fast ausgleicht → nahe neutral.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 6,
       "tiltCot": 3,
-      "tiltZins": -3,
-      "tiltGesamt": 0,
-      "score": 6,
+      "tiltZins": -4,
+      "tiltGesamt": -1,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "Saubere Dollar-Stärke: Risk-on nimmt dem Franken den Hafen-Bonus, SNB bei 0%.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 4,
       "tiltCot": -1,
-      "tiltZins": 4,
-      "tiltGesamt": 3,
-      "score": 7,
+      "tiltZins": 5,
+      "tiltGesamt": 4,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 1,
-      "tiltZins": -2,
-      "tiltGesamt": -1,
-      "score": 0,
+      "tiltZins": -1,
+      "tiltGesamt": 0,
+      "score": 1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

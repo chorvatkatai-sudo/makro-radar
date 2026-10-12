@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-12T20:48:41.522Z",
+ "erstellt": "2026-10-12T22:19:54.047Z",
  "wochenStart": "2026-10-11",
  "events": [
   {
@@ -178,7 +178,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-13T10:00:00-04:00",
    "impact": "Low",
-   "forecast": "3.96M",
+   "forecast": "3.95M",
    "previous": "3.98M",
    "actual": null
   },
@@ -259,7 +259,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "date": "2026-10-13T21:30:00-04:00",
    "impact": "Low",
-   "forecast": "4.5%",
+   "forecast": "4.4%",
    "previous": "3.8%",
    "actual": null
   },
@@ -268,7 +268,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "date": "2026-10-13T22:03:00-04:00",
    "impact": "Low",
-   "forecast": "805B",
+   "forecast": "790B",
    "previous": "809B",
    "actual": null
   },
@@ -277,7 +277,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "date": "2026-10-13T22:04:00-04:00",
    "impact": "Low",
-   "forecast": "118.1B",
+   "forecast": "116.8B",
    "previous": "119.1B",
    "actual": null
   },
@@ -313,7 +313,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "date": "2026-10-14T02:00:00-04:00",
    "impact": "Low",
-   "forecast": "0.7%",
+   "forecast": "0.6%",
    "previous": "0.9%",
    "actual": null
   },
@@ -367,7 +367,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "date": "2026-10-14T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "3.1%",
+   "forecast": "2.9%",
    "previous": "-17.3%",
    "actual": null
   },
@@ -457,7 +457,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "date": "2026-10-14T19:50:00-04:00",
    "impact": "Low",
-   "forecast": "2.5%",
+   "forecast": "2.2%",
    "previous": "-3.7%",
    "actual": null
   },
@@ -466,7 +466,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "date": "2026-10-14T20:30:00-04:00",
    "impact": "High",
-   "forecast": "20.0K",
+   "forecast": "19.6K",
    "previous": "39.5K",
    "actual": null
   },
@@ -547,7 +547,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "date": "2026-10-15T02:00:00-04:00",
    "impact": "Low",
-   "forecast": "-21.8B",
+   "forecast": "-21.9B",
    "previous": "-21.0B",
    "actual": null
   },
@@ -556,7 +556,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "date": "2026-10-15T02:00:00-04:00",
    "impact": "Low",
-   "forecast": "0.7%",
+   "forecast": "0.8%",
    "previous": "0.6%",
    "actual": null
   },
@@ -574,7 +574,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "date": "2026-10-15T02:00:00-04:00",
    "impact": "Low",
-   "forecast": "0.1%",
+   "forecast": "-0.1%",
    "previous": "0.9%",
    "actual": null
   },
@@ -583,7 +583,7 @@ window.MAKRO_DATA = {
    "country": "CHF",
    "date": "2026-10-15T02:30:00-04:00",
    "impact": "Low",
-   "forecast": "0.5%",
+   "forecast": "0.6%",
    "previous": "0.7%",
    "actual": null
   },
@@ -637,7 +637,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "date": "2026-10-15T05:00:00-04:00",
    "impact": "Low",
-   "forecast": "0.1%",
+   "forecast": "0.0%",
    "previous": "-0.1%",
    "actual": null
   },
@@ -655,7 +655,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "-1.4%",
+   "forecast": "-1.5%",
    "previous": "0.3%",
    "actual": null
   },
@@ -673,7 +673,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "High",
-   "forecast": "0.5%",
+   "forecast": "0.6%",
    "previous": "1.4%",
    "actual": null
   },
@@ -682,7 +682,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "High",
-   "forecast": "0.5%",
+   "forecast": "0.6%",
    "previous": "0.4%",
    "actual": null
   },
@@ -700,7 +700,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "Medium",
-   "forecast": "26.5",
+   "forecast": "28.2",
    "previous": "37.8",
    "actual": null
   },
@@ -709,7 +709,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "Medium",
-   "forecast": "195K",
+   "forecast": "199K",
    "previous": "197K",
    "actual": null
   },
@@ -718,7 +718,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "3.2",
+   "forecast": "12.1",
    "previous": "7.6",
    "actual": null
   },
@@ -871,7 +871,7 @@ window.MAKRO_DATA = {
    "country": "CAD",
    "date": "2026-10-16T08:15:00-04:00",
    "impact": "Low",
-   "forecast": "230K",
+   "forecast": "234K",
    "previous": "229K",
    "actual": null
   },
@@ -889,7 +889,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-16T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "0.6%",
+   "forecast": "0.9%",
    "previous": "0.7%",
    "actual": null
   },
@@ -925,7 +925,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-16T14:00:00-04:00",
    "impact": "Low",
-   "forecast": "75.3B",
+   "forecast": "-34.7B",
    "previous": "-166.8B",
    "actual": null
   },
@@ -934,7 +934,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-10-16T16:00:00-04:00",
    "impact": "Low",
-   "forecast": "125.7B",
+   "forecast": "75.2B",
    "previous": "-27.9B",
    "actual": null
   },
@@ -3269,15 +3269,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-12T20:48:40.256Z",
+  "stand": "2026-10-12T22:19:53.033Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 102.59,
+    "wert": 102.57,
     "tagProzent": 0,
-    "wocheProzent": 0.74,
+    "wocheProzent": 0.73,
     "renditeDelta": false,
     "verlauf": [
      99.46,
@@ -3300,8 +3300,8 @@ window.MAKRO_DATA = {
      102.24,
      102.14,
      102.21,
-     102.59,
-     102.59
+     102.57,
+     102.57
     ]
    },
    "VIX": {
@@ -3341,9 +3341,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 93.21,
+    "wert": 93.29,
     "tagProzent": 0,
-    "wocheProzent": 4.22,
+    "wocheProzent": 4.3,
     "renditeDelta": false,
     "verlauf": [
      101.39,
@@ -3366,17 +3366,17 @@ window.MAKRO_DATA = {
      88.28,
      91.49,
      91.85,
-     93.21,
-     93.21
+     93.29,
+     93.29
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 106.02,
+    "wert": 106.07,
     "tagProzent": 0,
-    "wocheProzent": 5.41,
+    "wocheProzent": 5.46,
     "renditeDelta": false,
     "verlauf": [
      105.68,
@@ -3399,17 +3399,17 @@ window.MAKRO_DATA = {
      100.2,
      104.28,
      104.72,
-     106.02,
-     106.02
+     106.07,
+     106.07
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4194.3,
+    "wert": 4197,
     "tagProzent": 0,
-    "wocheProzent": 0.17,
+    "wocheProzent": 0.24,
     "renditeDelta": false,
     "verlauf": [
      4351.9,
@@ -3432,8 +3432,8 @@ window.MAKRO_DATA = {
      4140.7,
      4157,
      4216.3,
-     4194.3,
-     4194.3
+     4197,
+     4197
     ]
    },
    "US02Y": {
@@ -3459,7 +3459,6 @@ window.MAKRO_DATA = {
      4.548,
      4.885,
      4.61,
-     4.635,
      4.638,
      4.647,
      4.647,
@@ -3538,9 +3537,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 82998.18,
+    "wert": 82536.2,
     "tagProzent": 0,
-    "wocheProzent": 1.62,
+    "wocheProzent": 1.05,
     "renditeDelta": false,
     "verlauf": [
      86172.28,
@@ -3563,17 +3562,17 @@ window.MAKRO_DATA = {
      82546.32,
      82912.23,
      83679.47,
-     82998.18,
-     82998.18
+     82536.2,
+     82536.2
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.94,
-    "tagProzent": 0.01,
-    "wocheProzent": 0.05,
+    "wert": 3.93,
+    "tagProzent": 0,
+    "wocheProzent": 0.04,
     "renditeDelta": true,
     "verlauf": [
      3.74,
@@ -3597,7 +3596,7 @@ window.MAKRO_DATA = {
      3.89,
      3.89,
      3.93,
-     3.94
+     3.93
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
@@ -3861,7 +3860,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-12T20:48:40.956Z",
+  "stand": "2026-10-12T22:19:53.454Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
   "gewertet": 31,
@@ -3969,7 +3968,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-12T20:48:41.521Z",
+  "stand": "2026-10-12T22:19:54.046Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4199,13 +4198,25 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-12T20:48:40.947Z",
+  "stand": "2026-10-12T22:19:53.445Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "FXStreet",
+    "titel": "Fed’s Hammack sees thriving economy, backs further rate hikes",
+    "link": "https://www.fxstreet.com/news/feds-hammack-sees-thriving-economy-backs-further-rate-hikes-202610122150",
+    "datum": "2026-10-12T21:50:29.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low as oil rises and stocks finish mixed",
+    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-12-oct-usd-climbs-eurusd-hits-a-2026-low-as-oil-rises-and-stocks-finish-mixed/",
+    "datum": "2026-10-12T20:48:16.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due",
@@ -4226,7 +4237,7 @@ window.MAKRO_DATA = {
    },
    {
     "quelle": "FXStreet",
-    "titel": "FX Today: US Dollar hits 17-month high, RBA minutes and Fed speaking, up next",
+    "titel": "Forex Today: US Dollar hits 17-month high, RBA minutes and Fed speaking up next",
     "link": "https://www.fxstreet.com/news/fx-today-us-dollar-hits-17-month-high-rba-minutes-and-fed-speaking-up-next-202610121934",
     "datum": "2026-10-12T19:34:42.000Z"
    },
@@ -4279,12 +4290,6 @@ window.MAKRO_DATA = {
     "datum": "2026-10-12T16:49:28.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen struggles amid Oil rally, fiscal concerns",
-    "link": "https://www.fxstreet.com/news/japanese-yen-struggles-amid-oil-rally-fiscal-concerns-202610121614",
-    "datum": "2026-10-12T16:14:50.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "investingLive European session wrap: Oil rebounds, dollar firms as US bond market holiday keeps traders cautious",
     "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-rebounds-dollar-firms-as-us-bond-market-holiday-keeps-traders-cautious/",
@@ -4307,12 +4312,6 @@ window.MAKRO_DATA = {
     "titel": "investingLive Asia-Pacific market news: Gulf strikes, truce doubts,",
     "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gulf-strikes-truce-doubts/",
     "datum": "2026-10-12T02:51:30.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
-    "link": "https://investinglive.com/news/mufg-us-cpi-seen-at-3-6-core-must-surprise-to-revive-an-october-fed-hike/",
-    "datum": "2026-10-12T00:30:21.000Z"
    }
   ]
  },

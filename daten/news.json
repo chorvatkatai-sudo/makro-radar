@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-12T20:48:40.947Z",
+  "stand": "2026-10-12T22:19:53.445Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Hammack sees thriving economy, backs further rate hikes",
+      "link": "https://www.fxstreet.com/news/feds-hammack-sees-thriving-economy-backs-further-rate-hikes-202610122150",
+      "datum": "2026-10-12T21:50:29.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 12 Oct: USD climbs, EURUSD hits a 2026 low as oil rises and stocks finish mixed",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-12-oct-usd-climbs-eurusd-hits-a-2026-low-as-oil-rises-and-stocks-finish-mixed/",
+      "datum": "2026-10-12T20:48:16.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due",
@@ -26,7 +38,7 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "FX Today: US Dollar hits 17-month high, RBA minutes and Fed speaking, up next",
+      "titel": "Forex Today: US Dollar hits 17-month high, RBA minutes and Fed speaking up next",
       "link": "https://www.fxstreet.com/news/fx-today-us-dollar-hits-17-month-high-rba-minutes-and-fed-speaking-up-next-202610121934",
       "datum": "2026-10-12T19:34:42.000Z"
     },
@@ -79,12 +91,6 @@
       "datum": "2026-10-12T16:49:28.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen struggles amid Oil rally, fiscal concerns",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-amid-oil-rally-fiscal-concerns-202610121614",
-      "datum": "2026-10-12T16:14:50.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "investingLive European session wrap: Oil rebounds, dollar firms as US bond market holiday keeps traders cautious",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-rebounds-dollar-firms-as-us-bond-market-holiday-keeps-traders-cautious/",
@@ -107,12 +113,6 @@
       "titel": "investingLive Asia-Pacific market news: Gulf strikes, truce doubts,",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gulf-strikes-truce-doubts/",
       "datum": "2026-10-12T02:51:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
-      "link": "https://investinglive.com/news/mufg-us-cpi-seen-at-3-6-core-must-surprise-to-revive-an-october-fed-hike/",
-      "datum": "2026-10-12T00:30:21.000Z"
     }
   ]
 }

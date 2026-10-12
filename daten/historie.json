@@ -17256,7 +17256,7 @@
       "land": "USD",
       "titel": "Existing Home Sales",
       "impact": "Low",
-      "prognose": "3.96M",
+      "prognose": "3.95M",
       "vorher": "3.98M",
       "actual": null,
       "notiz": null
@@ -17356,7 +17356,7 @@
       "land": "CNY",
       "titel": "PPI y/y",
       "impact": "Low",
-      "prognose": "4.5%",
+      "prognose": "4.4%",
       "vorher": "3.8%",
       "actual": null,
       "notiz": null
@@ -17366,7 +17366,7 @@
       "land": "CNY",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "805B",
+      "prognose": "790B",
       "vorher": "809B",
       "actual": null,
       "notiz": null
@@ -17376,7 +17376,7 @@
       "land": "CNY",
       "titel": "USD-Denominated Trade Balance",
       "impact": "Low",
-      "prognose": "118.1B",
+      "prognose": "116.8B",
       "vorher": "119.1B",
       "actual": null,
       "notiz": null
@@ -17416,7 +17416,7 @@
       "land": "EUR",
       "titel": "German WPI m/m",
       "impact": "Low",
-      "prognose": "0.7%",
+      "prognose": "0.6%",
       "vorher": "0.9%",
       "actual": null,
       "notiz": null
@@ -17476,7 +17476,7 @@
       "land": "CAD",
       "titel": "Building Permits m/m",
       "impact": "Low",
-      "prognose": "3.1%",
+      "prognose": "2.9%",
       "vorher": "-17.3%",
       "actual": null,
       "notiz": null
@@ -17576,7 +17576,7 @@
       "land": "JPY",
       "titel": "Core Machinery Orders m/m",
       "impact": "Low",
-      "prognose": "2.5%",
+      "prognose": "2.2%",
       "vorher": "-3.7%",
       "actual": null,
       "notiz": null
@@ -17586,7 +17586,7 @@
       "land": "AUD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "20.0K",
+      "prognose": "19.6K",
       "vorher": "39.5K",
       "actual": null,
       "notiz": null
@@ -17676,7 +17676,7 @@
       "land": "GBP",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-21.8B",
+      "prognose": "-21.9B",
       "vorher": "-21.0B",
       "actual": null,
       "notiz": null
@@ -17686,7 +17686,7 @@
       "land": "GBP",
       "titel": "Index of Services 3m/3m",
       "impact": "Low",
-      "prognose": "0.7%",
+      "prognose": "0.8%",
       "vorher": "0.6%",
       "actual": null,
       "notiz": null
@@ -17706,7 +17706,7 @@
       "land": "GBP",
       "titel": "Manufacturing Production m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "-0.1%",
       "vorher": "0.9%",
       "actual": null,
       "notiz": null
@@ -17716,7 +17716,7 @@
       "land": "CHF",
       "titel": "PPI m/m",
       "impact": "Low",
-      "prognose": "0.5%",
+      "prognose": "0.6%",
       "vorher": "0.7%",
       "actual": null,
       "notiz": null
@@ -17776,7 +17776,7 @@
       "land": "EUR",
       "titel": "Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.0%",
       "vorher": "-0.1%",
       "actual": null,
       "notiz": null
@@ -17796,7 +17796,7 @@
       "land": "CAD",
       "titel": "Wholesale Sales m/m",
       "impact": "Low",
-      "prognose": "-1.4%",
+      "prognose": "-1.5%",
       "vorher": "0.3%",
       "actual": null,
       "notiz": null
@@ -17816,7 +17816,7 @@
       "land": "USD",
       "titel": "Core Retail Sales m/m",
       "impact": "High",
-      "prognose": "0.5%",
+      "prognose": "0.6%",
       "vorher": "1.4%",
       "actual": null,
       "notiz": null
@@ -17826,7 +17826,7 @@
       "land": "USD",
       "titel": "PPI m/m",
       "impact": "High",
-      "prognose": "0.5%",
+      "prognose": "0.6%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -17846,7 +17846,7 @@
       "land": "USD",
       "titel": "Philly Fed Manufacturing Index",
       "impact": "Medium",
-      "prognose": "26.5",
+      "prognose": "28.2",
       "vorher": "37.8",
       "actual": null,
       "notiz": null
@@ -17856,7 +17856,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "195K",
+      "prognose": "199K",
       "vorher": "197K",
       "actual": null,
       "notiz": null
@@ -17866,7 +17866,7 @@
       "land": "USD",
       "titel": "Empire State Manufacturing Index",
       "impact": "Low",
-      "prognose": "3.2",
+      "prognose": "12.1",
       "vorher": "7.6",
       "actual": null,
       "notiz": null
@@ -18036,7 +18036,7 @@
       "land": "CAD",
       "titel": "Housing Starts",
       "impact": "Low",
-      "prognose": "230K",
+      "prognose": "234K",
       "vorher": "229K",
       "actual": null,
       "notiz": null
@@ -18056,7 +18056,7 @@
       "land": "USD",
       "titel": "Import Prices m/m",
       "impact": "Low",
-      "prognose": "0.6%",
+      "prognose": "0.9%",
       "vorher": "0.7%",
       "actual": null,
       "notiz": null
@@ -18096,7 +18096,7 @@
       "land": "USD",
       "titel": "Federal Budget Balance",
       "impact": "Low",
-      "prognose": "75.3B",
+      "prognose": "-34.7B",
       "vorher": "-166.8B",
       "actual": null,
       "notiz": null
@@ -18106,7 +18106,7 @@
       "land": "USD",
       "titel": "TIC Long-Term Purchases",
       "impact": "Low",
-      "prognose": "125.7B",
+      "prognose": "75.2B",
       "vorher": "-27.9B",
       "actual": null,
       "notiz": null

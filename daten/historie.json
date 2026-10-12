@@ -17216,7 +17216,7 @@
       "land": "CNY",
       "titel": "M2 Money Supply y/y",
       "impact": "Low",
-      "prognose": "7.5%",
+      "prognose": "7.4%",
       "vorher": "7.5%",
       "actual": null,
       "notiz": null
@@ -17226,7 +17226,7 @@
       "land": "CNY",
       "titel": "New Loans",
       "impact": "Low",
-      "prognose": "300B",
+      "prognose": "1025B",
       "vorher": "60B",
       "actual": null,
       "notiz": null
@@ -17236,7 +17236,7 @@
       "land": "USD",
       "titel": "NFIB Small Business Index",
       "impact": "Low",
-      "prognose": "98.0",
+      "prognose": "98.1",
       "vorher": "98.7",
       "actual": null,
       "notiz": null

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-12T14:01:47.266Z",
+  "stand": "2026-10-12T20:48:40.947Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,28 +7,82 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "Mexican Peso: Steepening curve and carry risks – Rabobank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-steepening-curve-and-carry-risks-rabobank-202610121312",
-      "datum": "2026-10-12T13:12:48.000Z"
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Tuesday, October 13, 2026 - RBA minutes due",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-october-13-2026-rba-minutes-due/",
+      "datum": "2026-10-12T20:29:08.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-toward-17-month-low-on-oil-driven-risk-aversion-202610121244",
-      "datum": "2026-10-12T12:44:29.000Z"
+      "titel": "Dow Jones Industrial Average edges higher with no memory chips to sell",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-edges-higher-with-no-memory-chips-to-sell-202610122000",
+      "datum": "2026-10-12T20:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Geopolitics support extends gains – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-support-extends-gains-ing-202610121238",
-      "datum": "2026-10-12T12:38:54.000Z"
+      "titel": "Chinese Yuan: Building upside momentum toward 6.6800 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-building-upside-momentum-toward-66800-against-us-dollar-uob-202610121945",
+      "datum": "2026-10-12T19:45:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Canadian Dollar struggles as Fed and BoC policy outlooks diverge",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-fed-and-boc-policy-outlooks-diverge-202610121235",
-      "datum": "2026-10-12T12:35:17.000Z"
+      "titel": "FX Today: US Dollar hits 17-month high, RBA minutes and Fed speaking, up next",
+      "link": "https://www.fxstreet.com/news/fx-today-us-dollar-hits-17-month-high-rba-minutes-and-fed-speaking-up-next-202610121934",
+      "datum": "2026-10-12T19:34:42.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold tumbles as Oil shock fuels US Dollar rally and Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-as-oil-shock-fuels-us-dollar-rally-and-fed-hike-bets-202610121908",
+      "datum": "2026-10-12T19:08:04.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "South Korean Won: Uptrend seen resuming against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-uptrend-seen-resuming-against-us-dollar-societe-generale-202610121851",
+      "datum": "2026-10-12T18:51:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI hits two-week high Middle East tensions overshadow Russian diesel supplies",
+      "link": "https://www.fxstreet.com/news/wti-reverses-losses-as-middle-east-tensions-overshadow-russian-diesel-supplies-202610121822",
+      "datum": "2026-10-12T18:22:53.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Gradual appreciation with trade pressures – MUFG",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-with-trade-pressures-mufg-202610121812",
+      "datum": "2026-10-12T18:12:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Hammack sees higher neutral rate, urges more policy restraint",
+      "link": "https://www.fxstreet.com/news/feds-hammack-sees-higher-neutral-rate-urges-more-policy-restraint-202610121753",
+      "datum": "2026-10-12T17:53:52.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Range bias holds near 1.2835 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bias-holds-near-12835-against-us-dollar-uob-202610121738",
+      "datum": "2026-10-12T17:38:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed’s Hammack calls for higher rates as inflation pressures broaden",
+      "link": "https://www.fxstreet.com/news/feds-hammack-calls-for-higher-rates-as-inflation-pressures-broaden-202610121702",
+      "datum": "2026-10-12T17:02:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Swedish Krona: Riksbank outlook supports SEK against Euro – Rabobank",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-outlook-supports-sek-against-euro-rabobank-202610121649",
+      "datum": "2026-10-12T16:49:28.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen struggles amid Oil rally, fiscal concerns",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-amid-oil-rally-fiscal-concerns-202610121614",
+      "datum": "2026-10-12T16:14:50.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -37,58 +91,10 @@
       "datum": "2026-10-12T12:04:08.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "0.8447 under pressure: EUR/GBP tests 16-month lows with France in the spotlight",
-      "link": "https://www.fxstreet.com/news/08447-under-pressure-eur-gbp-tests-16-month-lows-with-france-in-the-spotlight-202610121157",
-      "datum": "2026-10-12T11:57:51.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Bank of Canada: Policy path steady with cautious inflation stance – TD Securities",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-policy-path-steady-with-cautious-inflation-stance-td-securities-202610121157",
-      "datum": "2026-10-12T11:57:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar approaches YTD lows amid a subdued risk appetite",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-approaches-ytd-lows-amid-a-subdued-risk-appetite-202610121144",
-      "datum": "2026-10-12T11:44:10.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold fails to sustain a break above $4,200, US CPI in focus",
-      "link": "https://www.fxstreet.com/news/gold-fails-to-sustain-a-break-above-4-200-us-cpi-in-focus-202610121129",
-      "datum": "2026-10-12T11:29:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Mixed outlook against Euro around French spread moves – ING",
-      "link": "https://www.fxstreet.com/news/swiss-franc-mixed-outlook-against-euro-around-french-spread-moves-ing-202610121122",
-      "datum": "2026-10-12T11:22:29.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Consolidation at higher levels before CPI – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-at-higher-levels-before-cpi-mufg-202610121108",
-      "datum": "2026-10-12T11:08:47.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "British Pound erases early gains against US Dollar, US CPI in focus",
-      "link": "https://www.fxstreet.com/news/british-pound-erases-early-gains-against-us-dollar-us-cpi-in-focus-202610121106",
-      "datum": "2026-10-12T11:06:00.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-61/",
       "datum": "2026-10-12T06:28:00.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee gains significantly on fresh RBI measures",
-      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
-      "datum": "2026-10-12T04:04:59.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
       "link": "https://investinglive.com/news/mufg-us-cpi-seen-at-3-6-core-must-surprise-to-revive-an-october-fed-hike/",
       "datum": "2026-10-12T00:30:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-point deal",
-      "link": "https://investinglive.com/news/weeeknd-eu-plans-350-000-annual-cap-on-chinese-hybrids-after-beijing-agrees-16-point-deal/",
-      "datum": "2026-10-11T23:30:39.000Z"
     }
   ]
 }

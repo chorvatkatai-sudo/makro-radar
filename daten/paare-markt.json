@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-12T14:01:47.268Z",
+  "stand": "2026-10-12T20:48:40.949Z",
   "ausBriefing": "2026-10-09",
   "overlayAktiv": true,
   "paare": [
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -3,
       "tiltCot": -5,
-      "tiltZins": 0,
-      "tiltGesamt": -5,
-      "score": -8,
+      "tiltZins": 1,
+      "tiltGesamt": -4,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Dollar stark, Kiwi ohne eigene Story (RBNZ steady, COT neutral) → läuft mit dem Dollar-Trend.",
       "istCross": false
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 1,
-      "tiltZins": -1,
-      "tiltGesamt": 0,
-      "score": 1,
+      "tiltZins": 0,
+      "tiltGesamt": 1,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

@@ -1475,17 +1475,17 @@
     "title": "Retail Sales Ex Autos MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-0.7",
+    "previous": "-0.7%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-23T12:30:00.000Z",
     "country": "CAD",
-    "title": "Manufacturing Sales MoM Prel",
+    "title": "Retail Sales YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "5.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1512,10 +1512,10 @@
   {
     "date": "2026-10-23T12:30:00.000Z",
     "country": "CAD",
-    "title": "Retail Sales YoY",
+    "title": "Manufacturing Sales MoM Prel",
     "impact": "Low",
     "forecast": "",
-    "previous": "5.1",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },

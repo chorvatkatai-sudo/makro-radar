@@ -1,11 +1,59 @@
 {
-  "stand": "2026-10-12T11:36:12.716Z",
+  "stand": "2026-10-12T14:01:47.266Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso: Steepening curve and carry risks – Rabobank",
+      "link": "https://www.fxstreet.com/news/mexican-peso-steepening-curve-and-carry-risks-rabobank-202610121312",
+      "datum": "2026-10-12T13:12:48.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar retreats toward 17-month low on Oil-driven risk aversion",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-toward-17-month-low-on-oil-driven-risk-aversion-202610121244",
+      "datum": "2026-10-12T12:44:29.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar: Geopolitics support extends gains – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-geopolitics-support-extends-gains-ing-202610121238",
+      "datum": "2026-10-12T12:38:54.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Canadian Dollar struggles as Fed and BoC policy outlooks diverge",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-fed-and-boc-policy-outlooks-diverge-202610121235",
+      "datum": "2026-10-12T12:35:17.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Oil rebounds, dollar firms as US bond market holiday keeps traders cautious",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-rebounds-dollar-firms-as-us-bond-market-holiday-keeps-traders-cautious/",
+      "datum": "2026-10-12T12:04:08.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "0.8447 under pressure: EUR/GBP tests 16-month lows with France in the spotlight",
+      "link": "https://www.fxstreet.com/news/08447-under-pressure-eur-gbp-tests-16-month-lows-with-france-in-the-spotlight-202610121157",
+      "datum": "2026-10-12T11:57:51.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Bank of Canada: Policy path steady with cautious inflation stance – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-policy-path-steady-with-cautious-inflation-stance-td-securities-202610121157",
+      "datum": "2026-10-12T11:57:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "New Zealand Dollar approaches YTD lows amid a subdued risk appetite",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-approaches-ytd-lows-amid-a-subdued-risk-appetite-202610121144",
+      "datum": "2026-10-12T11:44:10.000Z"
+    },
     {
       "quelle": "FXStreet",
       "titel": "Gold fails to sustain a break above $4,200, US CPI in focus",
@@ -31,58 +79,16 @@
       "datum": "2026-10-12T11:06:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "WTI rebounds as Middle East tensions clash with Russia-Ukraine peace hopes",
-      "link": "https://www.fxstreet.com/news/wti-rebounds-as-middle-east-tensions-clash-with-russia-ukraine-peace-hopes-202610121056",
-      "datum": "2026-10-12T10:56:26.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "GBP/JPY Price Forecast: Pound extends gains, nearing 210.00 amid Yen weakness",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-pound-extends-gains-nearing-21000-amid-yen-weakness-202610121037",
-      "datum": "2026-10-12T10:37:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar: Firmer tone but capped at 0.7000 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-firmer-tone-but-capped-at-07000-against-us-dollar-uob-202610121002",
-      "datum": "2026-10-12T10:02:21.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI measures support INR against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-measures-support-inr-against-us-dollar-societe-generale-202610120946",
-      "datum": "2026-10-12T09:46:57.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc dips as geopolitical tensions and Oil prices boost the US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-dips-as-geopolitical-tensions-and-oil-prices-boost-the-us-dollar-202610120939",
-      "datum": "2026-10-12T09:39:20.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "CEE FX: Inflation data versus global Dollar strength – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-inflation-data-versus-global-dollar-strength-ing-202610120933",
-      "datum": "2026-10-12T09:33:39.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202610120930",
-      "datum": "2026-10-12T09:30:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro holds range vs Yen as French strains, Japan’s loose policy offset",
-      "link": "https://www.fxstreet.com/news/euro-holds-range-vs-yen-as-french-strains-japans-loose-policy-offset-202610120923",
-      "datum": "2026-10-12T09:23:55.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-61/",
       "datum": "2026-10-12T06:28:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee gains significantly on fresh RBI measures",
+      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
+      "datum": "2026-10-12T04:04:59.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -107,12 +113,6 @@
       "titel": "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-point deal",
       "link": "https://investinglive.com/news/weeeknd-eu-plans-350-000-annual-cap-on-chinese-hybrids-after-beijing-agrees-16-point-deal/",
       "datum": "2026-10-11T23:30:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Preview: RBA minutes and jobs data headline Australia’s week ahead, with unemployment seen at 4.6%",
-      "link": "https://investinglive.com/news/preview-rba-minutes-and-jobs-data-headline-australia-s-week-ahead-with-unemployment-seen-at-4-6/",
-      "datum": "2026-10-11T22:36:43.000Z"
     }
   ]
 }

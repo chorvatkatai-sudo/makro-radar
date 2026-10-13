@@ -1332,20 +1332,20 @@
   {
     "date": "2026-10-23T00:30:00.000Z",
     "country": "JPY",
-    "title": "S&P Global Manufacturing PMI Flash",
+    "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "51.3",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-23T00:30:00.000Z",
     "country": "JPY",
-    "title": "S&P Global Services PMI Flash",
+    "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
     "forecast": "",
-    "previous": "51.3",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },

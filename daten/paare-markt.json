@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-13T18:47:11.537Z",
+  "stand": "2026-10-13T20:00:31.352Z",
   "ausBriefing": "2026-10-09",
   "overlayAktiv": true,
   "paare": [
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 5,
       "tiltCot": -3,
-      "tiltZins": -1,
-      "tiltGesamt": -4,
-      "score": 1,
+      "tiltZins": -2,
+      "tiltGesamt": -5,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Schwacher Yen + Carry + Rückschlag-Risiko der überfüllten Yen-Long-Wette sprechen für ein steigendes Paar. Die Interventionszone (~158) deckelt aber — deshalb bewusst moderat.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 9,
       "tiltCot": 5,
-      "tiltZins": 2,
-      "tiltGesamt": 7,
-      "score": 16,
+      "tiltZins": 1,
+      "tiltGesamt": 6,
+      "score": 15,
       "cotExtrem": null,
       "treiber": "Klarste Wette der Woche: Kanadas Job-Schock (−68k) trifft auf starken Dollar. Teures Öl gleicht nur schwach aus. Paar-eigener CAD-Grund, nicht nur Dollar.",
       "istCross": false

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-12T22:19:54.047Z",
+ "erstellt": "2026-10-13T05:18:50.006Z",
  "wochenStart": "2026-10-11",
  "events": [
   {
@@ -2786,21 +2786,21 @@ window.MAKRO_DATA = {
    "Track-Record ehrlich: Über ~15 ausgewertete Wochen ist die Wochen-Dollar-Wette 7/15 = 47% (Zufallsband 4–11) — weiter NICHT von einem Münzwurf unterscheidbar. Die COT/Zins-Korrektur ist seit dem Tilt-Cutoff 22.7. neutral (58% mit vs. 57% ohne). Konsequenz: Scores bewusst klein, kein Aktionismus. Diese Woche bewusst AUD vom Dollar-Block gelöst (RBA-Hike) und die Short-Größen paar-spezifisch gewichtet (CAD am stärksten wegen Job-Schock, GBP am kleinsten wegen Squeeze-Risiko)."
   ],
   "tagesnews": {
-   "stand": "2026-10-12",
-   "wochentag": "Montag",
-   "tenor": "Ruhiger Wochenstart: Montag ist der US-Anleihemarkt wegen Columbus Day zu (dünner Handel, keine US-Zahlen). Der Dollar hält sein 18-Monats-Hoch (Index ~102,2), EUR/USD ~1,12, USD/JPY ~158 — alles wenig verändert ggü. Freitag. Die Woche dreht sich um ZWEI Risiken: den US-Inflationsbericht am Mittwoch (Schiedsrichter fürs Dollar-Hoch) und Frankreichs Haushaltsdebatte, die schon MORGEN startet.",
+   "stand": "2026-10-13",
+   "wochentag": "Dienstag",
+   "tenor": "Spannung vor dem großen US-Inflationsbericht MORGEN: Der Dollar hält sein 18-Monats-Hoch (Index ~102,6), EUR/USD fiel auf ein 17-Monats-Tief (~1,1154) — getrieben von Frankreichs Haushaltskrise (Debatte startet heute) und teurem Öl. Heute früh bestätigten die RBA-Protokolle den Falken-Kurs → der Aussie bleibt der einzige eigene Dollar-Gegenspieler.",
    "heute": [
-    "🇺🇸 Montag = dünn: Der US-Anleihe- und Terminmarkt bleibt wegen Columbus Day geschlossen (die Börse handelt, aber ohne Anleihen). Keine US-Zahlen heute → der Devisenmarkt tritt vor dem Inflationsbericht am Mittwoch auf der Stelle. Dollar hält 18-Monats-Hoch (DXY ~102,2), EUR/USD ~1,1206, USD/JPY ~158,3.",
-    "🇫🇷 ACHTUNG Euro-Risiko ab MORGEN: Die französische Nationalversammlung beginnt am Di 13.10. die Debatte über den 2027er-Haushalt (Entwurf: Defizit ~5% statt 5,4%, ~54 Mrd. € Sparen/Mehreinnahmen) — die Minderheitsregierung Lecornu hat keine Mehrheit, Schluss-Abstimmung erst 17.11. Frankreichs 10-Jahres-Zins steht bei 4,94% (höchster seit 2002, ÜBER Italien und Griechenland); die EZB signalisiert, dass sie NICHT einspringt. Das deckelt den Euro, selbst wenn die Inflation hoch bleibt.",
-    "📅 Der Fahrplan der Woche: Di 13.10. RBA-Protokoll (~02:30 Wien) + Frankreich-Budgetdebatte · Mi 14.10. 14:30 = DAS EVENT US-CPI September (Kern +0,2% m/m erw./~2,4%, Gesamt energiegetrieben ~3,6–3,7%) + China-CPI/Handel · Do 15.10. UK-BIP (08:00) + US-PPI + US-Einzelhandel.",
-    "⚠️ Positionierung bleibt das Pulverfass (COT-Stand 6.10.): Großspekulanten extrem net-SHORT in Euro (z −2,2) UND Pfund (z −1,9), stärker short im Aussie (z −1,4) → Squeeze-Gefahr, falls diese Währungen anziehen. Gleichzeitig extrem net-LONG im Yen (z +1,1) = Rückschlag-Risiko. Überfüllte Wetten drehen schnell."
+    "🇦🇺 RBA-Protokoll (heute früh): Die australische Notenbank begründete ihre September-Erhöhung auf 4,60% (15-Jahres-Hoch) damit, sie müsse „zügig handeln\", um die Inflationserwartungen zu verankern — klar falkenhaft. Das stützt den Aussie als einzige G10-Währung mit eigenem Zins-Rückenwind gegen den starken Dollar.",
+    "🇫🇷 Euro-Risiko wird JETZT konkret: Die französische Nationalversammlung startet heute die Haushaltsdebatte (Teil 1 vom 13.–19.10., Abstimmung Teil 1 am 20.10., Schluss-Abstimmung erst 17.11.). Die Minderheitsregierung Lecornu hat keine Mehrheit — Sozialisten und Rassemblement National drohen mit Nein. Frankreichs 10-Jahres-Zins steht auf dem höchsten Stand seit 2008 (~4,8–5%, ÜBER Italien/Griechenland). Das deckelt den Euro → EUR/USD auf 17-Monats-Tief (~1,1154).",
+    "🛢️ Öl treibt mit: WTI sprang auf ~93$ (+4,3% Wo), Brent ~106$ (+5,5%) — nachdem die Hoffnung auf eine russisch-ukrainische Energie-Waffenruhe platzte. Teures Öl heizt die Inflations-Angst vor dem CPI an und gibt dem Dollar einen zusätzlichen Sicherheits-Bid (VIX tief ~15,2 = sorgloser Markt).",
+    "📅 MORGEN = DAS EVENT: US-CPI September (Mi 14.10. 14:30 Wien; Kern +0,2% m/m erw./~2,4% y/y, Gesamt ~3,6–3,7% energiegetrieben) = Schiedsrichter fürs Dollar-Hoch und die Fed-Dezember-Erhöhung (~74% eingepreist). Dazu früh China-CPI/Handel."
    ],
    "gestern": [
-    "🗓️ Wochenende — Markt ruhte, keine neuen Zahlen. Unten die Bilanz der Vorwoche, die das Bild in diese Woche trägt.",
-    "🇨🇦 Fr 9.10. JOB-SCHOCK: Kanada verlor im September 68.000 Stellen (erwartet +9k), Quote 6,5%, Erwerbsquote 64,8% (tiefster Stand seit 1997 ex-2020), zweiter Rückgang in Folge. USD/CAD sprang Richtung 1,4300; teures Öl (WTI ~92$) konnte das nicht ausgleichen → CAD klarer Wochenverlierer.",
-    "🇺🇸 Dollar hielt sein 18-Monats-Hoch (Index 102,2): Treiber ist das falkische FOMC-Protokoll (Mi 7.10.) — Dezember-Erhöhung ~74% eingepreist, Oktober-Pause ~80%. WICHTIG: Die US-2J-Rendite FIEL die Woche (−0,22pp auf 4,42%) → der Dollar lebt gerade vom TON, nicht vom Zinsvorsprung = wackliges Fundament.",
-    "🛢️ Öl zog die Woche an (WTI +2,7% ~92$, Brent +4,4% ~105$) — bleibt Inflations-Thema vor dem CPI; Gold fest (~4.216$, +1,4% Wo), VIX tief 14,8 (Risk-on, sorgloser Markt).",
-    "🇯🇵 Yen weiter weich (USD/JPY ~158, Interventionszone): Premierministerin Takaichi dämpfte Reflations-Hoffnungen und will BoJ-Erhöhungen nicht blockieren = am Rand yen-stützend, reicht aber gegen den Carry nicht."
+    "🇺🇸 Montag war dünn: US-Anleihemarkt wegen Columbus Day geschlossen. Trotzdem kletterte der Dollar-Index auf ein 18-Monats-Hoch (~102,6) und EUR/USD rutschte auf ein 17-Monats-Tief — reine Dollar-Stärke/Euro-Schwäche ganz ohne US-Daten.",
+    "🇷🇺 Energie-Waffenruhe geplatzt: Eine kurze Hoffnung auf eine Feuerpause im Energie-Krieg Russland–Ukraine (hätte Öl verbilligt) zerschlug sich am Montag → Öl drehte nach oben, Dollar zog an.",
+    "🇨🇦 Nachklang Job-Schock (Fr 9.10.): Kanada verlor im September 68.000 Stellen (erwartet +9k), Quote 6,5% → USD/CAD Richtung 1,43, CAD klarer Wochenverlierer. Teures Öl gleicht das nicht aus.",
+    "🇺🇸 Fundament-Warnung: Der Dollar lebt vom falkischen FOMC-Protokoll (7.10.), NICHT vom Zinsvorsprung — die US-2J-Rendite FIEL die Woche (−0,22pp auf 4,42%). Wackliges Fundament vor dem CPI.",
+    "⚠️ Positionierung = Pulverfass (COT 6.10.): Großspekulanten extrem net-SHORT in Euro (z −2,2) und Pfund (z −1,9), stark short im Aussie (z −1,4) → Squeeze-Gefahr bei jeder Gegenbewegung; extrem net-LONG im Yen (z +1,1) = Rückschlag-Risiko."
    ]
   }
  },
@@ -3860,7 +3860,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-12T22:19:53.454Z",
+  "stand": "2026-10-13T05:18:50.005Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
   "gewertet": 31,

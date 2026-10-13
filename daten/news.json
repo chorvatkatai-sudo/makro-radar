@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-13T13:16:13.236Z",
+  "stand": "2026-10-13T18:47:11.536Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -7,70 +7,88 @@
   ],
   "eintraege": [
     {
-      "quelle": "FXStreet",
-      "titel": "Euro: Lower year-end target at 1.13 against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-lower-year-end-target-at-113-against-us-dollar-ing-202610131304",
-      "datum": "2026-10-13T13:04:42.000Z"
+      "quelle": "Fed",
+      "titel": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "datum": "2026-10-13T18:00:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Australian Dollar: RBA inflation focus shapes outlook – Commerzbank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-inflation-focus-shapes-outlook-commerzbank-202610131251",
-      "datum": "2026-10-13T12:51:41.000Z"
+      "titel": "Forex Today: US inflation comes to the fore",
+      "link": "https://www.fxstreet.com/news/forex-today-us-inflation-comes-to-the-fore-202610131757",
+      "datum": "2026-10-13T17:57:14.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Japanese Yen: Weakness may deepen toward 159.05 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-may-deepen-toward-15905-against-us-dollar-uob-202610131241",
-      "datum": "2026-10-13T12:41:01.000Z"
+      "titel": "Gold slides on US yields surge ahead of CPI",
+      "link": "https://www.fxstreet.com/news/gold-slides-on-us-yields-surge-ahead-of-cpi-202610131742",
+      "datum": "2026-10-13T17:42:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "US ADP Employment Change 4-week average drops to 24.75K",
-      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-2475k-202610131237",
-      "datum": "2026-10-13T12:37:35.000Z"
+      "titel": "Silver Price Forecast: XAG/USD struggles near two-month lows ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-near-two-month-lows-ahead-of-us-cpi-202610131737",
+      "datum": "2026-10-13T17:37:38.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Copper: El Niño risks cap African supply growth – Societe Generale",
-      "link": "https://www.fxstreet.com/news/copper-el-nino-risks-cap-african-supply-growth-societe-generale-202610131231",
-      "datum": "2026-10-13T12:31:59.000Z"
+      "titel": "New Zealand Dollar recovers on weaker US Dollar, softer Oil ahead key US CPI",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-recovers-on-weaker-us-dollar-softer-oil-ahead-key-us-cpi-202610131712",
+      "datum": "2026-10-13T17:12:50.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/GBP Price Forecast: Downtrend remains firm despite deeply oversold RSI",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-downtrend-remains-firm-despite-deeply-oversold-rsi-202610131217",
-      "datum": "2026-10-13T12:17:00.000Z"
+      "titel": "Canadian Dollar recovers as softer US Dollar offers relief ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-recovers-as-softer-us-dollar-offers-relief-ahead-of-us-cpi-202610131708",
+      "datum": "2026-10-13T17:08:24.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI measures support near term – MUFG",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-measures-support-near-term-mufg-202610131214",
-      "datum": "2026-10-13T12:14:26.000Z"
+      "titel": "Dollar Index slips from its 18-month high before US CPI",
+      "link": "https://www.fxstreet.com/news/dollar-index-slips-from-its-18-month-high-before-us-cpi-202610131604",
+      "datum": "2026-10-13T16:04:22.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "British Pound: Firmer ground with BoE hike risk – ING",
-      "link": "https://www.fxstreet.com/news/british-pound-firmer-ground-with-boe-hike-risk-ing-202610131201",
-      "datum": "2026-10-13T12:01:46.000Z"
+      "titel": "British Pound finds fresh momentum as BoE hawks set stage for US CPI",
+      "link": "https://www.fxstreet.com/news/british-pound-finds-fresh-momentum-as-boe-hawks-set-stage-for-us-cpi-202610131539",
+      "datum": "2026-10-13T15:39:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "WTI Oil extends its pullback to $91.00 amid US imports of Russian Diesel",
-      "link": "https://www.fxstreet.com/news/wti-oil-extends-its-pullback-to-9100-amid-us-imports-of-russian-diesel-202610131157",
-      "datum": "2026-10-13T11:57:00.000Z"
+      "titel": "Neither a breakout nor a reversal: What OCBC, Commerzbank and ING expect from the US Dollar",
+      "link": "https://www.fxstreet.com/news/neither-a-breakout-nor-a-reversal-what-ocbc-commerzbank-and-ing-expect-from-the-us-dollar-202610131532",
+      "datum": "2026-10-13T15:32:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Taiwan Dollar: Monetary tightening and housing recovery – DBS",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-monetary-tightening-and-housing-recovery-dbs-202610131516",
+      "datum": "2026-10-13T15:16:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro finds support from softer US Dollar, French fiscal risks linger",
+      "link": "https://www.fxstreet.com/news/euro-finds-support-from-softer-us-dollar-french-fiscal-risks-linger-202610131509",
+      "datum": "2026-10-13T15:09:19.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Upside momentum builds against Euro – Societe Generale",
+      "link": "https://www.fxstreet.com/news/british-pound-upside-momentum-builds-against-euro-societe-generale-202610131459",
+      "datum": "2026-10-13T14:59:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US existing home sales for September 3.99 million versus 3.95 million estimate",
+      "link": "https://investinglive.com/news/us-existing-home-sales-for-september-3-99-million-versus-3-95-million-estimate/",
+      "datum": "2026-10-13T14:02:24.000Z"
     },
     {
       "quelle": "ForexLive",
       "titel": "investingLive European news wrap: Risk sentiment improves as oil prices ease",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-as-oil-prices-ease/",
       "datum": "2026-10-13T11:46:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Australian Dollar remains weak despite hawkish RBA minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-weak-despite-hawkish-rba-minutes-202610131137",
-      "datum": "2026-10-13T11:37:20.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -95,24 +113,6 @@
       "titel": "Germany September final CPI +3.3% vs +3.3% y/y prelim",
       "link": "https://investinglive.com/news/germany-september-final-cpi-3-3-vs-3-3-y-y-prelim/",
       "datum": "2026-10-13T06:00:16.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee extends gains on RBI's fresh measures",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-on-rbis-fresh-measures-to-lower-us-dollars-demand-202610130508",
-      "datum": "2026-10-13T05:08:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Asian equities sold heavily, Kospi down 7%",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-equities-sold-heavily-kospi-down-7/",
-      "datum": "2026-10-13T03:38:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australian business confidence slides to -13 as oil shock and rate hikes bite, NAB says",
-      "link": "https://investinglive.com/news/australian-business-confidence-slides-to-13-as-oil-shock-and-rate-hikes-bite-nab-says/",
-      "datum": "2026-10-13T02:56:38.000Z"
     }
   ]
 }

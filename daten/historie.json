@@ -18150,6 +18150,46 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-10-14T04:03:00-04:00|CNY|M2 Money Supply y/y": {
+      "datum": "2026-10-14T04:03:00-04:00",
+      "land": "CNY",
+      "titel": "M2 Money Supply y/y",
+      "impact": "Low",
+      "prognose": "7.4%",
+      "vorher": "7.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-14T04:03:00-04:00|CNY|New Loans": {
+      "datum": "2026-10-14T04:03:00-04:00",
+      "land": "CNY",
+      "titel": "New Loans",
+      "impact": "Low",
+      "prognose": "1025B",
+      "vorher": "60B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-14T06:15:00-04:00|EUR|EU Economic Summit": {
+      "datum": "2026-10-14T06:15:00-04:00",
+      "land": "EUR",
+      "titel": "EU Economic Summit",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-15T06:15:00-04:00|EUR|EU Economic Summit": {
+      "datum": "2026-10-15T06:15:00-04:00",
+      "land": "EUR",
+      "titel": "EU Economic Summit",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

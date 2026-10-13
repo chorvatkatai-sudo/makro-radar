@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-13T11:21:09.883Z",
+  "stand": "2026-10-13T13:16:13.236Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,25 +8,73 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "US Dollar: Higher rate expectations support gains - Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-rate-expectations-support-gains-commerzbank-202610131109",
-      "datum": "2026-10-13T11:09:31.000Z"
+      "titel": "Euro: Lower year-end target at 1.13 against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-lower-year-end-target-at-113-against-us-dollar-ing-202610131304",
+      "datum": "2026-10-13T13:04:42.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "GBP/JPY Price Forecast: looking for direction between 209.00 and 210.00",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-looking-for-direction-between-20900-and-21000-202610131103",
-      "datum": "2026-10-13T11:03:41.000Z"
+      "titel": "Australian Dollar: RBA inflation focus shapes outlook – Commerzbank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-inflation-focus-shapes-outlook-commerzbank-202610131251",
+      "datum": "2026-10-13T12:51:41.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD wobbles near $60.30, US CPI takes centre stage",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-wobbles-near-6030-us-cpi-takes-centre-stage-202610131059",
-      "datum": "2026-10-13T10:59:43.000Z"
+      "titel": "Japanese Yen: Weakness may deepen toward 159.05 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-may-deepen-toward-15905-against-us-dollar-uob-202610131241",
+      "datum": "2026-10-13T12:41:01.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold struggles below $4,200 despite retreat in US Dollar, Treasury yields",
+      "titel": "US ADP Employment Change 4-week average drops to 24.75K",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-2475k-202610131237",
+      "datum": "2026-10-13T12:37:35.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Copper: El Niño risks cap African supply growth – Societe Generale",
+      "link": "https://www.fxstreet.com/news/copper-el-nino-risks-cap-african-supply-growth-societe-generale-202610131231",
+      "datum": "2026-10-13T12:31:59.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "EUR/GBP Price Forecast: Downtrend remains firm despite deeply oversold RSI",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-downtrend-remains-firm-despite-deeply-oversold-rsi-202610131217",
+      "datum": "2026-10-13T12:17:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee: RBI measures support near term – MUFG",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-measures-support-near-term-mufg-202610131214",
+      "datum": "2026-10-13T12:14:26.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "British Pound: Firmer ground with BoE hike risk – ING",
+      "link": "https://www.fxstreet.com/news/british-pound-firmer-ground-with-boe-hike-risk-ing-202610131201",
+      "datum": "2026-10-13T12:01:46.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "WTI Oil extends its pullback to $91.00 amid US imports of Russian Diesel",
+      "link": "https://www.fxstreet.com/news/wti-oil-extends-its-pullback-to-9100-amid-us-imports-of-russian-diesel-202610131157",
+      "datum": "2026-10-13T11:57:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Risk sentiment improves as oil prices ease",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-as-oil-prices-ease/",
+      "datum": "2026-10-13T11:46:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Australian Dollar remains weak despite hawkish RBA minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-weak-despite-hawkish-rba-minutes-202610131137",
+      "datum": "2026-10-13T11:37:20.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI looms",
       "link": "https://www.fxstreet.com/news/gold-struggles-below-4-200-despite-retreat-in-us-dollar-treasury-yields-202610131056",
       "datum": "2026-10-13T10:56:48.000Z"
     },
@@ -35,54 +83,6 @@
       "titel": "Long global semiconductors remains the most crowded trade followed by short US Treasuries, according to Bank of America",
       "link": "https://investinglive.com/news/long-global-semiconductors-remains-the-most-crowded-trade-followed-by-short-us-treasuries-according-to-bank-of-america/",
       "datum": "2026-10-13T10:53:35.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Japanese Yen: Stronger footing with intervention risk – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-stronger-footing-with-intervention-risk-mufg-202610131052",
-      "datum": "2026-10-13T10:52:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc: Range consolidation persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-consolidation-persists-against-us-dollar-uob-202610131036",
-      "datum": "2026-10-13T10:36:15.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Indian Rupee: RBI measures support but do not reverse trend – OCBC",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-measures-support-but-do-not-reverse-trend-ocbc-202610131029",
-      "datum": "2026-10-13T10:29:12.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Swiss Franc's recovery stalls despite broad-based US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/swiss-francs-recovery-stalls-despite-broad-based-us-dollar-weakness-202610131009",
-      "datum": "2026-10-13T10:09:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Equities: Earnings beats seen versus consensus – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-earnings-beats-seen-versus-consensus-deutsche-bank-202610131000",
-      "datum": "2026-10-13T10:00:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "US Dollar: Overbought signals but no clear catalyst – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-overbought-signals-but-no-clear-catalyst-ing-202610130943",
-      "datum": "2026-10-13T09:43:43.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro declines as BoJ tightening bets, Eurozone stagflation risks bolster Japanese Yen",
-      "link": "https://www.fxstreet.com/news/euro-declines-as-boj-tightening-bets-eurozone-stagflation-risks-bolster-japanese-yen-202610130932",
-      "datum": "2026-10-13T09:32:25.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610130930",
-      "datum": "2026-10-13T09:30:38.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -97,6 +97,12 @@
       "datum": "2026-10-13T06:00:16.000Z"
     },
     {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee extends gains on RBI's fresh measures",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-on-rbis-fresh-measures-to-lower-us-dollars-demand-202610130508",
+      "datum": "2026-10-13T05:08:30.000Z"
+    },
+    {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Asian equities sold heavily, Kospi down 7%",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-equities-sold-heavily-kospi-down-7/",
@@ -107,12 +113,6 @@
       "titel": "Australian business confidence slides to -13 as oil shock and rate hikes bite, NAB says",
       "link": "https://investinglive.com/news/australian-business-confidence-slides-to-13-as-oil-shock-and-rate-hikes-bite-nab-says/",
       "datum": "2026-10-13T02:56:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
-      "link": "https://investinglive.com/news/just-32-countries-now-drive-95-of-global-growth-as-ai-widens-the-gap-imf-warns/",
-      "datum": "2026-10-13T02:10:19.000Z"
     }
   ]
 }

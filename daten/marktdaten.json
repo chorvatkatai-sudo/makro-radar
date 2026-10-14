@@ -1,16 +1,15 @@
 {
-  "stand": "2026-10-14T00:02:32.284Z",
+  "stand": "2026-10-14T05:21:37.056Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 102.19,
+      "wert": 102.11,
       "tagProzent": 0,
-      "wocheProzent": -0.05,
+      "wocheProzent": -0.03,
       "renditeDelta": false,
       "verlauf": [
-        99.65,
         100.31,
         100.22,
         100.22,
@@ -30,8 +29,9 @@
         102.14,
         102.21,
         102.58,
-        102.19,
-        102.19
+        102.18,
+        102.11,
+        102.11
       ]
     },
     "VIX": {
@@ -71,12 +71,11 @@
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 94.85,
+      "wert": 94.83,
       "tagProzent": 0,
-      "wocheProzent": 7.44,
+      "wocheProzent": 3.65,
       "renditeDelta": false,
       "verlauf": [
-        105.83,
         102.43,
         101.91,
         100.3,
@@ -96,20 +95,20 @@
         91.49,
         91.85,
         93.74,
-        94.85,
-        94.85
+        94.14,
+        94.83,
+        94.83
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 106.39,
+      "wert": 106.43,
       "tagProzent": 0,
-      "wocheProzent": 6.18,
+      "wocheProzent": 2.06,
       "renditeDelta": false,
       "verlauf": [
-        108.75,
         105.83,
         104.82,
         103.87,
@@ -129,20 +128,20 @@
         104.28,
         104.72,
         106.65,
-        106.39,
-        106.39
+        105.69,
+        106.43,
+        106.43
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 4179.9,
+      "wert": 4183.8,
       "tagProzent": 0,
-      "wocheProzent": 0.95,
+      "wocheProzent": 0.64,
       "renditeDelta": false,
       "verlauf": [
-        4332.8,
         4387.5,
         4399.7,
         4424.9,
@@ -162,8 +161,9 @@
         4157,
         4216.3,
         4190.6,
-        4179.9,
-        4179.9
+        4177.3,
+        4183.8,
+        4183.8
       ]
     },
     "US02Y": {
@@ -172,29 +172,9 @@
       "typ": "rendite",
       "wert": 4.75,
       "tagProzent": 0,
-      "wocheProzent": 0.1,
+      "wocheProzent": 0,
       "renditeDelta": true,
       "verlauf": [
-        4.382,
-        4.385,
-        4.395,
-        4.404,
-        4.416,
-        4.422,
-        4.422,
-        4.448,
-        4.472,
-        4.5,
-        4.5,
-        4.885,
-        4.61,
-        4.635,
-        4.638,
-        4.647,
-        4.647,
-        4.647,
-        4.647,
-        4.647,
         4.75,
         4.75
       ]
@@ -269,9 +249,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 83139.01,
+      "wert": 83441.55,
       "tagProzent": 0,
-      "wocheProzent": 0.72,
+      "wocheProzent": 1.08,
       "renditeDelta": false,
       "verlauf": [
         84383.01,
@@ -294,20 +274,19 @@
         82912.23,
         83679.47,
         81762.56,
-        83139.01,
-        83139.01
+        83441.55,
+        83441.55
       ]
     },
     "FEDFUT": {
       "name": "Fed-Erwartung (FF-Futures)",
       "einheit": "%",
       "typ": "rendite",
-      "wert": 3.94,
-      "tagProzent": 0.01,
-      "wocheProzent": 0.05,
+      "wert": 3.93,
+      "tagProzent": 0,
+      "wocheProzent": 0.04,
       "renditeDelta": true,
       "verlauf": [
-        3.74,
         3.75,
         3.75,
         3.75,
@@ -327,8 +306,9 @@
         3.89,
         3.89,
         3.88,
+        3.89,
         3.93,
-        3.94
+        3.93
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
     }
@@ -427,8 +407,8 @@
     "stand": "2026-10-14",
     "werte": {
       "USD": {
-        "wert": 4.797,
-        "wocheDelta": -0.03
+        "wert": 4.785,
+        "wocheDelta": -0.042
       },
       "EUR": {
         "wert": 3.11,
@@ -439,12 +419,12 @@
         "wocheDelta": 0.105
       },
       "JPY": {
-        "wert": 1.918,
-        "wocheDelta": 0.01
+        "wert": 1.917,
+        "wocheDelta": 0.009
       },
       "AUD": {
-        "wert": 4.929,
-        "wocheDelta": 0.097
+        "wert": 4.93,
+        "wocheDelta": 0.098
       },
       "CAD": {
         "wert": 3.202,
@@ -455,8 +435,8 @@
         "wocheDelta": 0.062
       },
       "NZD": {
-        "wert": 3.845,
-        "wocheDelta": -0.02
+        "wert": 3.855,
+        "wocheDelta": -0.01
       }
     },
     "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"

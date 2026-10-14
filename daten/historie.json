@@ -18046,7 +18046,7 @@
       "land": "CAD",
       "titel": "Foreign Securities Purchases",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "23.59B",
       "vorher": "20.65B",
       "actual": null,
       "notiz": null
@@ -18186,6 +18186,36 @@
       "land": "EUR",
       "titel": "EU Economic Summit",
       "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-13T22:31:00-04:00|CNY|Trade Balance": {
+      "datum": "2026-10-13T22:31:00-04:00",
+      "land": "CNY",
+      "titel": "Trade Balance",
+      "impact": "Low",
+      "prognose": "790B",
+      "vorher": "809B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-13T22:31:00-04:00|CNY|USD-Denominated Trade Balance": {
+      "datum": "2026-10-13T22:31:00-04:00",
+      "land": "CNY",
+      "titel": "USD-Denominated Trade Balance",
+      "impact": "Low",
+      "prognose": "116.8B",
+      "vorher": "119.1B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-14T15:00:00-04:00|USD|FOMC Member Goolsbee Speaks": {
+      "datum": "2026-10-14T15:00:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
       "prognose": "",
       "vorher": "",
       "actual": null,

@@ -162,6 +162,16 @@
   {
     "date": "2026-10-19T12:30:00.000Z",
     "country": "CAD",
+    "title": "CPI Trimmed-Mean YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.9%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-19T12:30:00.000Z",
+    "country": "CAD",
     "title": "CPI Common YoY",
     "impact": "Low",
     "forecast": "",
@@ -186,16 +196,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "0.1",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-19T12:30:00.000Z",
-    "country": "CAD",
-    "title": "CPI Trimmed-Mean YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -842,6 +842,16 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
+    "title": "EIA Cushing Crude Oil Stocks Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-21T14:30:00.000Z",
+    "country": "USD",
     "title": "EIA Refinery Crude Runs Change",
     "impact": "Low",
     "forecast": "",
@@ -852,17 +862,7 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Heating Oil Stocks Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-21T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Gasoline Stocks Change",
+    "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -892,6 +892,16 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
+    "title": "EIA Heating Oil Stocks Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-21T14:30:00.000Z",
+    "country": "USD",
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
@@ -902,17 +912,7 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Distillate Fuel Production Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-21T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Crude Oil Stocks Change",
+    "title": "EIA Gasoline Stocks Change",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -922,7 +922,7 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Cushing Crude Oil Stocks Change",
+    "title": "EIA Distillate Fuel Production Change",
     "impact": "Low",
     "forecast": "",
     "previous": "",

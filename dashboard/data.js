@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-14T09:13:49.488Z",
+ "erstellt": "2026-10-14T10:56:11.187Z",
  "wochenStart": "2026-10-11",
  "events": [
   {
@@ -329,7 +329,7 @@ window.MAKRO_DATA = {
   {
    "title": "M2 Money Supply y/y",
    "country": "CNY",
-   "date": "2026-10-14T05:03:00-04:00",
+   "date": "2026-10-14T05:00:00-04:00",
    "impact": "Low",
    "forecast": "7.4%",
    "previous": "7.5%",
@@ -338,7 +338,7 @@ window.MAKRO_DATA = {
   {
    "title": "New Loans",
    "country": "CNY",
-   "date": "2026-10-14T05:03:00-04:00",
+   "date": "2026-10-14T05:01:00-04:00",
    "impact": "Low",
    "forecast": "1025B",
    "previous": "60B",
@@ -347,7 +347,7 @@ window.MAKRO_DATA = {
   {
    "title": "German 30-y Bond Auction",
    "country": "EUR",
-   "date": "2026-10-14T05:34:00-04:00",
+   "date": "2026-10-14T05:38:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "3.80|1.6",
@@ -3296,15 +3296,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-14T09:13:48.308Z",
+  "stand": "2026-10-14T10:56:09.910Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 102.22,
+    "wert": 102.23,
     "tagProzent": 0,
-    "wocheProzent": 0.08,
+    "wocheProzent": 0.09,
     "renditeDelta": false,
     "verlauf": [
      100.31,
@@ -3327,17 +3327,17 @@ window.MAKRO_DATA = {
      102.21,
      102.58,
      102.18,
-     102.22,
-     102.22
+     102.23,
+     102.23
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 15.21,
+    "wert": 15.29,
     "tagProzent": 0,
-    "wocheProzent": -1.3,
+    "wocheProzent": -0.78,
     "renditeDelta": false,
     "verlauf": [
      17.71,
@@ -3360,17 +3360,17 @@ window.MAKRO_DATA = {
      14.84,
      15.21,
      15.27,
-     15.21,
-     15.21
+     15.29,
+     15.29
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 94.25,
+    "wert": 95.28,
     "tagProzent": 0,
-    "wocheProzent": 3.02,
+    "wocheProzent": 4.14,
     "renditeDelta": false,
     "verlauf": [
      102.43,
@@ -3393,17 +3393,17 @@ window.MAKRO_DATA = {
      91.85,
      93.74,
      94.14,
-     94.25,
-     94.25
+     95.28,
+     95.28
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 105.45,
+    "wert": 106.47,
     "tagProzent": 0,
-    "wocheProzent": 1.12,
+    "wocheProzent": 2.1,
     "renditeDelta": false,
     "verlauf": [
      105.83,
@@ -3426,17 +3426,17 @@ window.MAKRO_DATA = {
      104.72,
      106.65,
      105.69,
-     105.45,
-     105.45
+     106.47,
+     106.47
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4166.2,
+    "wert": 4167.9,
     "tagProzent": 0,
-    "wocheProzent": 0.22,
+    "wocheProzent": 0.26,
     "renditeDelta": false,
     "verlauf": [
      4387.5,
@@ -3459,8 +3459,8 @@ window.MAKRO_DATA = {
      4216.3,
      4190.6,
      4177.3,
-     4166.2,
-     4166.2
+     4167.9,
+     4167.9
     ]
    },
    "US02Y": {
@@ -3546,9 +3546,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 83394.89,
+    "wert": 83344.22,
     "tagProzent": 0,
-    "wocheProzent": 0.58,
+    "wocheProzent": 0.52,
     "renditeDelta": false,
     "verlauf": [
      84379.06,
@@ -3571,17 +3571,17 @@ window.MAKRO_DATA = {
      83679.47,
      81762.56,
      83095.13,
-     83394.89,
-     83394.89
+     83344.22,
+     83344.22
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 3.94,
-    "tagProzent": 0.01,
-    "wocheProzent": 0.05,
+    "wert": 3.93,
+    "tagProzent": 0,
+    "wocheProzent": 0.04,
     "renditeDelta": true,
     "verlauf": [
      3.75,
@@ -3605,7 +3605,7 @@ window.MAKRO_DATA = {
      3.88,
      3.89,
      3.93,
-     3.94
+     3.93
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
@@ -3708,28 +3708,28 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.049
     },
     "EUR": {
-     "wert": 3.102,
-     "wocheDelta": 0.035
+     "wert": 3.103,
+     "wocheDelta": 0.036
     },
     "GBP": {
-     "wert": 4.879,
-     "wocheDelta": 0.054
+     "wert": 4.891,
+     "wocheDelta": 0.066
     },
     "JPY": {
      "wert": 1.918,
      "wocheDelta": 0.01
     },
     "AUD": {
-     "wert": 4.933,
-     "wocheDelta": 0.101
+     "wert": 4.936,
+     "wocheDelta": 0.104
     },
     "CAD": {
-     "wert": 3.202,
-     "wocheDelta": -0.07
+     "wert": 3.206,
+     "wocheDelta": -0.066
     },
     "CHF": {
-     "wert": 0.233,
-     "wocheDelta": 0.048
+     "wert": 0.227,
+     "wocheDelta": 0.042
     },
     "NZD": {
      "wert": 3.855,
@@ -3761,9 +3761,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": -2,
    "tiltCot": -5,
-   "tiltZins": 4,
-   "tiltGesamt": -1,
-   "score": -3,
+   "tiltZins": 5,
+   "tiltGesamt": 0,
+   "score": -2,
    "cotExtrem": "erhoeht",
    "treiber": "Dollar stark, aber die extreme Short-Positionierung im Pfund (Squeeze-Gefahr) begrenzt die Short-Seite bewusst — deshalb nur ein kleines Minus.",
    "istCross": false
@@ -3827,9 +3827,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/GBP",
    "baseScore": -1,
    "tiltCot": 3,
-   "tiltZins": 0,
-   "tiltGesamt": 3,
-   "score": 2,
+   "tiltZins": -1,
+   "tiltGesamt": 2,
+   "score": 1,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3849,9 +3849,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 4,
    "tiltCot": -1,
-   "tiltZins": 4,
-   "tiltGesamt": 3,
-   "score": 7,
+   "tiltZins": 5,
+   "tiltGesamt": 4,
+   "score": 8,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
@@ -3869,7 +3869,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-14T09:13:48.695Z",
+  "stand": "2026-10-14T10:56:10.432Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
   "gewertet": 31,
@@ -3977,7 +3977,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-14T09:13:49.487Z",
+  "stand": "2026-10-14T10:56:11.186Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4207,7 +4207,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-14T09:13:48.686Z",
+  "stand": "2026-10-14T10:56:10.426Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -4215,64 +4215,10 @@ window.MAKRO_DATA = {
   ],
   "eintraege": [
    {
-    "quelle": "FXStreet",
-    "titel": "US CPI data expected to rise in September as markets reassess Fed rate outlook",
-    "link": "https://www.fxstreet.com/news/us-cpi-data-expected-to-rise-in-september-as-markets-reassess-fed-rate-outlook-202610140830",
-    "datum": "2026-10-14T08:30:00.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen extends range play vs USD; looks to US CPI report for some impetus",
-    "link": "https://www.fxstreet.com/news/japanese-yen-extends-range-play-vs-usd-looks-to-us-cpi-report-for-some-impetus-202610140827",
-    "datum": "2026-10-14T08:27:43.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "New Zealand Dollar gains as US Dollar weakens on falling yields",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-weakens-on-falling-yields-202610140817",
-    "datum": "2026-10-14T08:17:29.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound: Upside extension capped by 1.3280 against US Dollar – UOB",
-    "link": "https://www.fxstreet.com/news/british-pound-upside-extension-capped-by-13280-against-us-dollar-uob-202610140814",
-    "datum": "2026-10-14T08:14:54.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Equities: Chip-led drag as semiconductors slide – Deutsche Bank",
-    "link": "https://www.fxstreet.com/news/equities-chip-led-drag-as-semiconductors-slide-deutsche-bank-202610140805",
-    "datum": "2026-10-14T08:05:01.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "AUD/USD Price Forecast: Extends recovery to near 20-day EMA",
-    "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-extends-recovery-to-near-20-day-ema-202610140801",
-    "datum": "2026-10-14T08:01:56.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Indonesian Rupiah remains steady as Bank Indonesia interventions limit USD/IDR upside",
-    "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-steady-as-bank-indonesia-interventions-limit-usd-idr-upside-202610140754",
-    "datum": "2026-10-14T07:54:12.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro holds mild gains above 1.1200 as US Dollar drifts with US CPI on tap",
-    "link": "https://www.fxstreet.com/news/euro-holds-mild-gains-above-11200-as-the-us-dollar-drifts-with-us-cpi-on-tap-202610140732",
-    "datum": "2026-10-14T07:32:21.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Euro: Inflation data guides near term – Commerzbank",
-    "link": "https://www.fxstreet.com/news/euro-inflation-data-guides-near-term-commerzbank-202610140731",
-    "datum": "2026-10-14T07:31:37.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Dollar Index Price Forecast: DXY holds above 101.70 pivotal support ahead of US CPI",
-    "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-holds-above-10170-pivotal-support-ahead-of-us-cpi-202610140725",
-    "datum": "2026-10-14T07:25:54.000Z"
+    "quelle": "ForexLive",
+    "titel": "China's September lending surprise masks a much deeper slump in credit demand",
+    "link": "https://investinglive.com/news/china-s-september-lending-surprise-masks-a-much-deeper-slump-in-credit-demand/",
+    "datum": "2026-10-14T09:29:26.000Z"
    },
    {
     "quelle": "ForexLive",
@@ -4299,28 +4245,82 @@ window.MAKRO_DATA = {
     "datum": "2026-10-14T06:13:47.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Indian Rupee rallies further on RBI's forceful measures to curb USD's demand",
-    "link": "https://www.fxstreet.com/news/indian-rupee-extends-winning-streak-for-third-trading-day-on-wednesday-202610140540",
-    "datum": "2026-10-14T05:40:24.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans?",
     "link": "https://investinglive.com/news/economic-data-spotlight-will-the-us-cpi-report-change-the-fed-s-rate-hike-plans/",
     "datum": "2026-10-14T05:25:02.000Z"
    },
    {
-    "quelle": "FXStreet",
-    "titel": "Gold refreshes weekly low, below $4,150 as traders look to US CPI for Fed rate cuts",
-    "link": "https://www.fxstreet.com/news/gold-draws-support-from-retreating-usd-holds-above-4-150-as-traders-await-us-cpi-report-202610140409",
-    "datum": "2026-10-14T04:09:37.000Z"
-   },
-   {
     "quelle": "ForexLive",
     "titel": "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
     "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-dollar-softer-ahead-of-us-cpi/",
     "datum": "2026-10-14T03:44:48.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China factory inflation hits 5%, fastest in over four years, as CPI lags at 0.9%",
+    "link": "https://investinglive.com/news/china-factory-inflation-hits-5-fastest-in-over-four-years-as-cpi-lags-at-0-9/",
+    "datum": "2026-10-14T02:59:44.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China September CPI 0.9% y/y (expected 1%, prior 0.8%)",
+    "link": "https://investinglive.com/news/china-september-cpi-0-9-y-y-expected-1-prior-0-8/",
+    "datum": "2026-10-14T01:30:24.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.6%, core held near 0.2%",
+    "link": "https://investinglive.com/news/us-cpi-preview-14-investment-bank-forecasters-see-energy-lifting-headline-to-3-6-core-held-near-0-2/",
+    "datum": "2026-10-13T22:45:55.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas FX news wrap 13 Oct: Dollar retreats as traders await CPI; oil rises and stocks slip",
+    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-13-oct-dollar-retreats-as-traders-await-cpi-oil-rises-and-stocks-slip/",
+    "datum": "2026-10-13T21:19:22.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflation data",
+    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-14-2026-china-inflation-data/",
+    "datum": "2026-10-13T20:22:38.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+    "datum": "2026-10-13T18:00:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+    "datum": "2026-10-09T14:00:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+    "datum": "2026-10-08T20:30:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "datum": "2026-10-07T18:00:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+    "datum": "2026-10-05T20:30:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+    "datum": "2026-10-02T20:45:00.000Z"
    }
   ]
  },
@@ -5515,5 +5515,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 1824
+ "anzahlGespeichert": 1827
 };

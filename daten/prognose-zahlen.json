@@ -1,11 +1,11 @@
 {
-  "stand": "2026-10-14T15:40:02.364Z",
+  "stand": "2026-10-14T19:53:08.344Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
-  "gewertet": 31,
-  "nichtWertbar": 35,
+  "gewertet": 32,
+  "nichtWertbar": 34,
   "treffer": 16,
-  "quote": 52,
+  "quote": 50,
   "zinsentscheide": {
     "treffer": 9,
     "gesamt": 9,
@@ -13,18 +13,18 @@
   },
   "datenPrognosen": {
     "treffer": 7,
-    "gesamt": 22,
-    "quote": 32
+    "gesamt": 23,
+    "quote": 30
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
-    "gesamt": 14,
-    "quote": 43
+    "gesamt": 15,
+    "quote": 40
   },
   "exakt": {
     "treffer": 3,
-    "gesamt": 8,
-    "quote": 38
+    "gesamt": 9,
+    "quote": 33
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "US ISM-Industrie (August)",
-      "datum": "2026-09-01",
-      "richtung": "wie_erwartet",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "55.2",
-      "ist": "54.6",
-      "treffer": true
-    },
     {
       "event": "US-Jobbericht (Non-Farm Payrolls, August)",
       "datum": "2026-09-04",
@@ -102,6 +93,15 @@
       "tatsaechlich": "niedriger",
       "konsens": "0.3%",
       "ist": "0.1%",
+      "treffer": false
+    },
+    {
+      "event": "US-Verbraucherinflation (CPI September) — Kernrate m/m",
+      "datum": "2026-10-14",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "hoeher",
+      "konsens": "3.6%",
+      "ist": "3.7%",
       "treffer": false
     }
   ]

@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-14T15:40:02.355Z",
+  "stand": "2026-10-14T19:53:08.336Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Hot CPI upends markets",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-hot-cpi-upends-markets/",
+      "datum": "2026-10-14T19:43:34.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Canada August building permits rise 8.8% vs 2.0% expected",
@@ -71,12 +77,6 @@
       "titel": "China factory inflation hits 5%, fastest in over four years, as CPI lags at 0.9%",
       "link": "https://investinglive.com/news/china-factory-inflation-hits-5-fastest-in-over-four-years-as-cpi-lags-at-0-9/",
       "datum": "2026-10-14T02:59:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China September CPI 0.9% y/y (expected 1%, prior 0.8%)",
-      "link": "https://investinglive.com/news/china-september-cpi-0-9-y-y-expected-1-prior-0-8/",
-      "datum": "2026-10-14T01:30:24.000Z"
     },
     {
       "quelle": "Fed",

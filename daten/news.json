@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-14T10:56:10.426Z",
+  "stand": "2026-10-14T15:40:02.355Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada August building permits rise 8.8% vs 2.0% expected",
+      "link": "https://investinglive.com/news/canada-august-building-permits-rise-8-8-vs-2-0-expected/",
+      "datum": "2026-10-14T12:45:04.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US September CPI 3.7% vs 3.6% expected",
+      "link": "https://investinglive.com/news/us-september-cpi-vs-3-6-expected-0/",
+      "datum": "2026-10-14T12:41:32.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Markets trim gains as oil prices rise ahead of US CPI",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-trim-gains-as-oil-prices-rise-ahead-of-us-cpi/",
+      "datum": "2026-10-14T11:24:44.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "China's September lending surprise masks a much deeper slump in credit demand",
@@ -59,24 +77,6 @@
       "titel": "China September CPI 0.9% y/y (expected 1%, prior 0.8%)",
       "link": "https://investinglive.com/news/china-september-cpi-0-9-y-y-expected-1-prior-0-8/",
       "datum": "2026-10-14T01:30:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.6%, core held near 0.2%",
-      "link": "https://investinglive.com/news/us-cpi-preview-14-investment-bank-forecasters-see-energy-lifting-headline-to-3-6-core-held-near-0-2/",
-      "datum": "2026-10-13T22:45:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 13 Oct: Dollar retreats as traders await CPI; oil rises and stocks slip",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-13-oct-dollar-retreats-as-traders-await-cpi-oil-rises-and-stocks-slip/",
-      "datum": "2026-10-13T21:19:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflation data",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-14-2026-china-inflation-data/",
-      "datum": "2026-10-13T20:22:38.000Z"
     },
     {
       "quelle": "Fed",

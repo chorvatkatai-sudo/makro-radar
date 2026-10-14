@@ -17518,8 +17518,8 @@
       "impact": "High",
       "prognose": "3.6%",
       "vorher": "3.4%",
-      "actual": null,
-      "notiz": null
+      "actual": "3.7%",
+      "notiz": "auto:TV cpiYoY (2026-10-14)"
     },
     "2026-10-14T09:30:00-04:00|GBP|CB Leading Index m/m": {
       "datum": "2026-10-14T09:30:00-04:00",
@@ -17896,7 +17896,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "76B",
       "vorher": "85B",
       "actual": null,
       "notiz": null
@@ -17906,7 +17906,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-0.2M",
       "vorher": "-3.2M",
       "actual": null,
       "notiz": null

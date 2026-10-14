@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-14T19:53:08.338Z",
+  "stand": "2026-10-14T22:53:45.726Z",
   "ausBriefing": "2026-10-09",
   "overlayAktiv": true,
   "paare": [
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 5,
       "tiltCot": -3,
-      "tiltZins": 0,
-      "tiltGesamt": -3,
-      "score": 2,
+      "tiltZins": -1,
+      "tiltGesamt": -4,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Schwacher Yen + Carry + Rückschlag-Risiko der überfüllten Yen-Long-Wette sprechen für ein steigendes Paar. Die Interventionszone (~158) deckelt aber — deshalb bewusst moderat.",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 1,
       "tiltCot": -5,
-      "tiltZins": 6,
-      "tiltGesamt": 1,
-      "score": 2,
+      "tiltZins": 5,
+      "tiltGesamt": 0,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Bewusst vom Dollar-Block gelöst: Die RBA-Erhöhung (4,60%, 15-J-Hoch) + höchster Zins + Risk-on geben dem Aussie eigenen Rückenwind, der die Dollar-Stärke fast ausgleicht → nahe neutral.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 4,
       "tiltCot": -1,
-      "tiltZins": 5,
-      "tiltGesamt": 4,
-      "score": 8,
+      "tiltZins": 4,
+      "tiltGesamt": 3,
+      "score": 7,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

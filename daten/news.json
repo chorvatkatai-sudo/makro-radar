@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-14T19:53:08.336Z",
+  "stand": "2026-10-14T22:53:45.724Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia jobs preview: NAB sees 20,000 gain, unemployment steady at 4.6%",
+      "link": "https://investinglive.com/news/australia-jobs-preview-nab-sees-20-000-gain-unemployment-steady-at-4-6/",
+      "datum": "2026-10-14T20:19:19.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas market news wrap: Hot CPI upends markets",
@@ -71,12 +77,6 @@
       "titel": "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-dollar-softer-ahead-of-us-cpi/",
       "datum": "2026-10-14T03:44:48.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China factory inflation hits 5%, fastest in over four years, as CPI lags at 0.9%",
-      "link": "https://investinglive.com/news/china-factory-inflation-hits-5-fastest-in-over-four-years-as-cpi-lags-at-0-9/",
-      "datum": "2026-10-14T02:59:44.000Z"
     },
     {
       "quelle": "Fed",

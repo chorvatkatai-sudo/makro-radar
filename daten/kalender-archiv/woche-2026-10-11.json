@@ -280,9 +280,17 @@
     "previous": ""
   },
   {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-10-14T04:30:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "M2 Money Supply y/y",
     "country": "CNY",
-    "date": "2026-10-14T04:03:00-04:00",
+    "date": "2026-10-14T05:03:00-04:00",
     "impact": "Low",
     "forecast": "7.4%",
     "previous": "7.5%"
@@ -290,18 +298,10 @@
   {
     "title": "New Loans",
     "country": "CNY",
-    "date": "2026-10-14T04:03:00-04:00",
+    "date": "2026-10-14T05:03:00-04:00",
     "impact": "Low",
     "forecast": "1025B",
     "previous": "60B"
-  },
-  {
-    "title": "ECB President Lagarde Speaks",
-    "country": "EUR",
-    "date": "2026-10-14T04:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "German 30-y Bond Auction",

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-14T05:21:37.487Z",
+  "stand": "2026-10-14T09:13:48.686Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,37 +8,103 @@
   "eintraege": [
     {
       "quelle": "FXStreet",
-      "titel": "WTI Price Forecast: Eases from two-week high; trades below $94.00 amid bullish setup",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-eases-from-two-week-high-trades-below-9400-amid-bullish-setup-202610140513",
-      "datum": "2026-10-14T05:13:31.000Z"
+      "titel": "US CPI data expected to rise in September as markets reassess Fed rate outlook",
+      "link": "https://www.fxstreet.com/news/us-cpi-data-expected-to-rise-in-september-as-markets-reassess-fed-rate-outlook-202610140830",
+      "datum": "2026-10-14T08:30:00.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "EUR/JPY Price Forecast: Gains ground below 177.50, but stays bearish below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-gains-ground-below-17750-but-stays-bearish-below-100-day-sma-202610140451",
-      "datum": "2026-10-14T04:51:56.000Z"
+      "titel": "Japanese Yen extends range play vs USD; looks to US CPI report for some impetus",
+      "link": "https://www.fxstreet.com/news/japanese-yen-extends-range-play-vs-usd-looks-to-us-cpi-report-for-some-impetus-202610140827",
+      "datum": "2026-10-14T08:27:43.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "India Gold price today: Gold steadies, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202610140435",
-      "datum": "2026-10-14T04:35:13.000Z"
+      "titel": "New Zealand Dollar gains as US Dollar weakens on falling yields",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-weakens-on-falling-yields-202610140817",
+      "datum": "2026-10-14T08:17:29.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "UK Finance Minister Healey to fund budget giveaways without extra borrowing — FT",
-      "link": "https://www.fxstreet.com/news/uk-finance-minister-healey-to-fund-budget-giveaways-without-extra-borrowing-ft-202610140428",
-      "datum": "2026-10-14T04:28:54.000Z"
+      "titel": "British Pound: Upside extension capped by 1.3280 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-upside-extension-capped-by-13280-against-us-dollar-uob-202610140814",
+      "datum": "2026-10-14T08:14:54.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "GBP/USD Price Forecast: Hits one-week top as bulls eye range breakout above 1.3300",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-hits-one-week-top-as-bulls-eye-range-breakout-above-13300-202610140427",
-      "datum": "2026-10-14T04:27:10.000Z"
+      "titel": "Equities: Chip-led drag as semiconductors slide – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-chip-led-drag-as-semiconductors-slide-deutsche-bank-202610140805",
+      "datum": "2026-10-14T08:05:01.000Z"
     },
     {
       "quelle": "FXStreet",
-      "titel": "Gold draws support from retreating USD; holds above $4,150 as traders await US CPI report",
+      "titel": "AUD/USD Price Forecast: Extends recovery to near 20-day EMA",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-extends-recovery-to-near-20-day-ema-202610140801",
+      "datum": "2026-10-14T08:01:56.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indonesian Rupiah remains steady as Bank Indonesia interventions limit USD/IDR upside",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-steady-as-bank-indonesia-interventions-limit-usd-idr-upside-202610140754",
+      "datum": "2026-10-14T07:54:12.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro holds mild gains above 1.1200 as US Dollar drifts with US CPI on tap",
+      "link": "https://www.fxstreet.com/news/euro-holds-mild-gains-above-11200-as-the-us-dollar-drifts-with-us-cpi-on-tap-202610140732",
+      "datum": "2026-10-14T07:32:21.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Euro: Inflation data guides near term – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-inflation-data-guides-near-term-commerzbank-202610140731",
+      "datum": "2026-10-14T07:31:37.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "US Dollar Index Price Forecast: DXY holds above 101.70 pivotal support ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-holds-above-10170-pivotal-support-ahead-of-us-cpi-202610140725",
+      "datum": "2026-10-14T07:25:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate hike pressure",
+      "link": "https://investinglive.com/news/spain-september-cpi-confirmed-at-4-9-as-rising-core-inflation-adds-to-ecb-rate-hike-pressure/",
+      "datum": "2026-10-14T07:15:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What is the distribution of forecasts for the US CPI?",
+      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-2/",
+      "datum": "2026-10-14T07:06:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-63/",
+      "datum": "2026-10-14T06:34:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "German wholesale prices continue to push higher in September, keeping inflation risks in focus",
+      "link": "https://investinglive.com/news/german-wholesale-prices-continue-to-push-higher-in-september-keeping-inflation-risks-in-focus/",
+      "datum": "2026-10-14T06:13:47.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Indian Rupee rallies further on RBI's forceful measures to curb USD's demand",
+      "link": "https://www.fxstreet.com/news/indian-rupee-extends-winning-streak-for-third-trading-day-on-wednesday-202610140540",
+      "datum": "2026-10-14T05:40:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans?",
+      "link": "https://investinglive.com/news/economic-data-spotlight-will-the-us-cpi-report-change-the-fed-s-rate-hike-plans/",
+      "datum": "2026-10-14T05:25:02.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Gold refreshes weekly low, below $4,150 as traders look to US CPI for Fed rate cuts",
       "link": "https://www.fxstreet.com/news/gold-draws-support-from-retreating-usd-holds-above-4-150-as-traders-await-us-cpi-report-202610140409",
       "datum": "2026-10-14T04:09:37.000Z"
     },
@@ -47,72 +113,6 @@
       "titel": "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-dollar-softer-ahead-of-us-cpi/",
       "datum": "2026-10-14T03:44:48.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: Gains ground near 1.1150, US CPI awaited",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gains-ground-near-11150-us-cpi-awaited-202610140335",
-      "datum": "2026-10-14T03:35:55.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-above-5900-amid-dovish-fed-remarks-202610140333",
-      "datum": "2026-10-14T03:33:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar edges up against US Dollar ahead of US CPI data",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-up-against-us-dollar-ahead-of-us-cpi-data-202610140307",
-      "datum": "2026-10-14T03:07:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China factory inflation hits 5%, fastest in over four years, as CPI lags at 0.9%",
-      "link": "https://investinglive.com/news/china-factory-inflation-hits-5-fastest-in-over-four-years-as-cpi-lags-at-0-9/",
-      "datum": "2026-10-14T02:59:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "United States Dollar Index weakens to near 102.00 ahead of US CPI release",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-10200-ahead-of-us-cpi-release-202610140243",
-      "datum": "2026-10-14T02:43:40.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Lagarde speech: We're not seeing any second round effects yet",
-      "link": "https://www.fxstreet.com/news/lagarde-speech-were-not-seeing-any-second-round-effects-yet-202610140236",
-      "datum": "2026-10-14T02:36:44.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "China’s Trade Balance: Surplus unexpectedly expands in September",
-      "link": "https://www.fxstreet.com/news/chinas-september-trade-balance-exports-and-imports-beat-estimates-202610140227",
-      "datum": "2026-10-14T02:27:40.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China September CPI 0.9% y/y (expected 1%, prior 0.8%)",
-      "link": "https://investinglive.com/news/china-september-cpi-0-9-y-y-expected-1-prior-0-8/",
-      "datum": "2026-10-14T01:30:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.6%, core held near 0.2%",
-      "link": "https://investinglive.com/news/us-cpi-preview-14-investment-bank-forecasters-see-energy-lifting-headline-to-3-6-core-held-near-0-2/",
-      "datum": "2026-10-13T22:45:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 13 Oct: Dollar retreats as traders await CPI; oil rises and stocks slip",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-13-oct-dollar-retreats-as-traders-await-cpi-oil-rises-and-stocks-slip/",
-      "datum": "2026-10-13T21:19:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflation data",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-14-2026-china-inflation-data/",
-      "datum": "2026-10-13T20:22:38.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-13T20:00:31.352Z",
+  "stand": "2026-10-14T00:02:33.330Z",
   "ausBriefing": "2026-10-09",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 1,
       "tiltCot": -5,
-      "tiltZins": 6,
-      "tiltGesamt": 1,
-      "score": 2,
+      "tiltZins": 5,
+      "tiltGesamt": 0,
+      "score": 1,
       "cotExtrem": null,
       "treiber": "Bewusst vom Dollar-Block gelöst: Die RBA-Erhöhung (4,60%, 15-J-Hoch) + höchster Zins + Risk-on geben dem Aussie eigenen Rückenwind, der die Dollar-Stärke fast ausgleicht → nahe neutral.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 9,
       "tiltCot": 5,
-      "tiltZins": 1,
-      "tiltGesamt": 6,
-      "score": 15,
+      "tiltZins": 2,
+      "tiltGesamt": 7,
+      "score": 16,
       "cotExtrem": null,
       "treiber": "Klarste Wette der Woche: Kanadas Job-Schock (−68k) trifft auf starken Dollar. Teures Öl gleicht nur schwach aus. Paar-eigener CAD-Grund, nicht nur Dollar.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 4,
       "tiltCot": -1,
-      "tiltZins": 6,
-      "tiltGesamt": 5,
-      "score": 9,
+      "tiltZins": 5,
+      "tiltGesamt": 4,
+      "score": 8,
       "cotExtrem": null,
       "treiber": "",
       "istCross": true

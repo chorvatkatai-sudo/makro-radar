@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-13T20:00:31.349Z",
+  "stand": "2026-10-14T00:02:33.328Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,9 +8,87 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
+      "titel": "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.6%, core held near 0.2%",
+      "link": "https://investinglive.com/news/us-cpi-preview-14-investment-bank-forecasters-see-energy-lifting-headline-to-3-6-core-held-near-0-2/",
+      "datum": "2026-10-13T22:45:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Yen trails the majors as the BoJ is said to lean against a hike",
+      "link": "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241",
+      "datum": "2026-10-13T22:41:05.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
+      "link": "https://www.fxstreet.com/news/mexican-peso-buckles-as-fed-inflation-fears-overshadow-dovish-williams-202610132217",
+      "datum": "2026-10-13T22:17:16.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Pound gains as Fed's Williams sees no 2027 hike",
+      "link": "https://www.fxstreet.com/news/pound-gains-and-stays-inside-its-range-for-a-third-week-202610132134",
+      "datum": "2026-10-13T21:34:48.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 13 Oct: Dollar retreats as traders await CPI; oil rises and stocks slip",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-13-oct-dollar-retreats-as-traders-await-cpi-oil-rises-and-stocks-slip/",
+      "datum": "2026-10-13T21:19:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Dow Jones Industrial Average gives back a 500-point earnings jump",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-a-500-point-earnings-jump-202610132112",
+      "datum": "2026-10-13T21:12:57.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Taiwan: AI-driven growth and inflation outlook – DBS",
+      "link": "https://www.fxstreet.com/news/taiwan-ai-driven-growth-and-inflation-outlook-dbs-202610132112",
+      "datum": "2026-10-13T21:12:00.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Chinese Yuan: Outlook stays mildly positive against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-outlook-stays-mildly-positive-against-us-dollar-uob-202610132033",
+      "datum": "2026-10-13T20:33:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflation data",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-14-2026-china-inflation-data/",
+      "datum": "2026-10-13T20:22:38.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Fed's Collins backs September hike, sees Oil and AI driving inflation",
+      "link": "https://www.fxstreet.com/news/feds-collins-backs-september-hike-sees-oil-and-ai-driving-inflation-202610132016",
+      "datum": "2026-10-13T20:16:22.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-challenge-21000-as-breakout-looms-202610132007",
+      "datum": "2026-10-13T20:07:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
       "titel": "US CPI: Energy prices expected to lift headline inflation. Will core stay contained?",
       "link": "https://investinglive.com/news/us-cpi-energy-prices-expected-to-lift-headline-inflation-will-core-stay-contained/",
       "datum": "2026-10-13T19:57:55.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Japanese Yen: Choppy trade after JPY-supportive comments – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-choppy-trade-after-jpy-supportive-comments-scotiabank-202610131951",
+      "datum": "2026-10-13T19:51:24.000Z"
+    },
+    {
+      "quelle": "FXStreet",
+      "titel": "Singapore Dollar: Priced-in MAS move limits gains against US Dollar - OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-priced-in-mas-move-limits-gains-against-us-dollar-ocbc-202610131923",
+      "datum": "2026-10-13T19:23:03.000Z"
     },
     {
       "quelle": "FXStreet",
@@ -20,33 +98,9 @@
     },
     {
       "quelle": "FXStreet",
-      "titel": "Swiss Franc strengthens on dovish Fed's rhetoric, US CPI looms",
+      "titel": "Swiss Franc strengthens on dovish Fed rhetoric as US CPI looms",
       "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-dovish-feds-rhetoric-us-cpi-looms-202610131856",
       "datum": "2026-10-13T18:56:34.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Euro: Soft undertone but fair value higher against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-soft-undertone-but-fair-value-higher-against-us-dollar-scotiabank-202610131836",
-      "datum": "2026-10-13T18:36:36.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Barkin says persistent inflation warrants policy action",
-      "link": "https://www.fxstreet.com/news/feds-barkin-says-persistent-inflation-warrants-policy-action-202610131831",
-      "datum": "2026-10-13T18:31:49.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Fed’s Williams sees one final 2026 rate hike, none in 2027",
-      "link": "https://www.fxstreet.com/news/feds-williams-sees-one-final-2026-rate-hike-none-in-2027-202610131821",
-      "datum": "2026-10-13T18:21:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "EUR/USD Price Forecast: RSI signals stretched selling pressure",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-rsi-signals-stretched-selling-pressure-202610131812",
-      "datum": "2026-10-13T18:12:34.000Z"
     },
     {
       "quelle": "Fed",
@@ -55,64 +109,10 @@
       "datum": "2026-10-13T18:00:00.000Z"
     },
     {
-      "quelle": "FXStreet",
-      "titel": "Forex Today: US inflation comes to the fore",
-      "link": "https://www.fxstreet.com/news/forex-today-us-inflation-comes-to-the-fore-202610131757",
-      "datum": "2026-10-13T17:57:14.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Gold slides on US yields surge ahead of CPI",
-      "link": "https://www.fxstreet.com/news/gold-slides-on-us-yields-surge-ahead-of-cpi-202610131742",
-      "datum": "2026-10-13T17:42:22.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Silver Price Forecast: XAG/USD struggles near two-month lows ahead of US CPI",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-near-two-month-lows-ahead-of-us-cpi-202610131737",
-      "datum": "2026-10-13T17:37:38.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "New Zealand Dollar recovers on weaker US Dollar, softer Oil ahead key US CPI",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-recovers-on-weaker-us-dollar-softer-oil-ahead-key-us-cpi-202610131712",
-      "datum": "2026-10-13T17:12:50.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Canadian Dollar recovers as softer US Dollar offers relief ahead of US CPI",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-recovers-as-softer-us-dollar-offers-relief-ahead-of-us-cpi-202610131708",
-      "datum": "2026-10-13T17:08:24.000Z"
-    },
-    {
-      "quelle": "FXStreet",
-      "titel": "Dollar Index slips from its 18-month high before US CPI",
-      "link": "https://www.fxstreet.com/news/dollar-index-slips-from-its-18-month-high-before-us-cpi-202610131604",
-      "datum": "2026-10-13T16:04:22.000Z"
-    },
-    {
       "quelle": "ForexLive",
       "titel": "US existing home sales for September 3.99 million versus 3.95 million estimate",
       "link": "https://investinglive.com/news/us-existing-home-sales-for-september-3-99-million-versus-3-95-million-estimate/",
       "datum": "2026-10-13T14:02:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Risk sentiment improves as oil prices ease",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-as-oil-prices-ease/",
-      "datum": "2026-10-13T11:46:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Long global semiconductors remains the most crowded trade followed by short US Treasuries, according to Bank of America",
-      "link": "https://investinglive.com/news/long-global-semiconductors-remains-the-most-crowded-trade-followed-by-short-us-treasuries-according-to-bank-of-america/",
-      "datum": "2026-10-13T10:53:35.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-62/",
-      "datum": "2026-10-13T06:38:40.000Z"
     }
   ]
 }

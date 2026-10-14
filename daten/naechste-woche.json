@@ -162,10 +162,10 @@
   {
     "date": "2026-10-19T12:30:00.000Z",
     "country": "CAD",
-    "title": "CPI Trimmed-Mean YoY",
+    "title": "CPI Common YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.9%",
+    "previous": "2.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -182,20 +182,20 @@
   {
     "date": "2026-10-19T12:30:00.000Z",
     "country": "CAD",
-    "title": "CPI Common YoY",
+    "title": "Core Inflation Rate MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "2.6%",
+    "previous": "0.1",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-19T12:30:00.000Z",
     "country": "CAD",
-    "title": "Core Inflation Rate MoM",
+    "title": "CPI Trimmed-Mean YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.1",
+    "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -642,10 +642,30 @@
   {
     "date": "2026-10-21T06:00:00.000Z",
     "country": "GBP",
-    "title": "Retail Price Index MoM",
+    "title": "PPI Core Output YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.6",
+    "previous": "2.7%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-21T06:00:00.000Z",
+    "country": "GBP",
+    "title": "Core Inflation Rate MoM",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "0.3",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-21T06:00:00.000Z",
+    "country": "GBP",
+    "title": "Retail Price Index YoY",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -692,16 +712,6 @@
   {
     "date": "2026-10-21T06:00:00.000Z",
     "country": "GBP",
-    "title": "PPI Core Output YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2.7%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-21T06:00:00.000Z",
-    "country": "GBP",
     "title": "PPI Input MoM",
     "impact": "Low",
     "forecast": "",
@@ -712,20 +722,10 @@
   {
     "date": "2026-10-21T06:00:00.000Z",
     "country": "GBP",
-    "title": "Core Inflation Rate MoM",
+    "title": "Retail Price Index MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.3",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-21T06:00:00.000Z",
-    "country": "GBP",
-    "title": "Retail Price Index YoY",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.4",
+    "previous": "0.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -742,20 +742,20 @@
   {
     "date": "2026-10-21T06:00:00.000Z",
     "country": "GBP",
-    "title": "Inflation Rate MoM",
+    "title": "Core Inflation Rate YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.5%",
+    "previous": "2.6",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-21T06:00:00.000Z",
     "country": "GBP",
-    "title": "Core Inflation Rate YoY",
+    "title": "Inflation Rate MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "2.6",
+    "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -802,7 +802,17 @@
   {
     "date": "2026-10-21T11:00:00.000Z",
     "country": "USD",
-    "title": "MBA Purchase Index",
+    "title": "MBA Mortgage Market Index",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-21T11:00:00.000Z",
+    "country": "USD",
+    "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -822,27 +832,7 @@
   {
     "date": "2026-10-21T11:00:00.000Z",
     "country": "USD",
-    "title": "MBA Mortgage Market Index",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-21T11:00:00.000Z",
-    "country": "USD",
-    "title": "MBA Mortgage Refinance Index",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-21T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Cushing Crude Oil Stocks Change",
+    "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -862,7 +852,17 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Crude Oil Stocks Change",
+    "title": "EIA Heating Oil Stocks Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-21T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Gasoline Stocks Change",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -892,16 +892,6 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Heating Oil Stocks Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-21T14:30:00.000Z",
-    "country": "USD",
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
@@ -912,7 +902,17 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Gasoline Stocks Change",
+    "title": "EIA Distillate Fuel Production Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-21T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -922,7 +922,7 @@
   {
     "date": "2026-10-21T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Distillate Fuel Production Change",
+    "title": "EIA Cushing Crude Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1062,10 +1062,10 @@
   {
     "date": "2026-10-22T12:30:00.000Z",
     "country": "CAD",
-    "title": "Raw Materials Prices MoM",
+    "title": "PPI YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.1%",
+    "previous": "13.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1082,10 +1082,10 @@
   {
     "date": "2026-10-22T12:30:00.000Z",
     "country": "CAD",
-    "title": "PPI YoY",
+    "title": "Raw Materials Prices MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "13.5%",
+    "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1472,36 +1472,6 @@
   {
     "date": "2026-10-23T12:30:00.000Z",
     "country": "CAD",
-    "title": "New Housing Price Index MoM",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "-0.1",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-23T12:30:00.000Z",
-    "country": "CAD",
-    "title": "Manufacturing Sales MoM Prel",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-23T12:30:00.000Z",
-    "country": "CAD",
-    "title": "Retail Sales MoM Prel",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "1.3",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-23T12:30:00.000Z",
-    "country": "CAD",
     "title": "Retail Sales MoM Final",
     "impact": "Medium",
     "forecast": "",
@@ -1530,6 +1500,46 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-10-23T12:30:00.000Z",
+    "country": "CAD",
+    "title": "Retail Sales MoM Prel",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "1.3",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-23T12:30:00.000Z",
+    "country": "CAD",
+    "title": "Manufacturing Sales MoM Prel",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-23T12:30:00.000Z",
+    "country": "CAD",
+    "title": "New Housing Price Index MoM",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "-0.1",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-23T13:45:00.000Z",
+    "country": "USD",
+    "title": "S&P Global Manufacturing PMI Flash",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "55.9",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-10-23T13:45:00.000Z",
     "country": "USD",
     "title": "S&P Global Composite PMI Flash",
@@ -1546,26 +1556,6 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "58.8",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-23T13:45:00.000Z",
-    "country": "USD",
-    "title": "S&P Global Manufacturing PMI Flash",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "55.9",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-23T14:00:00.000Z",
-    "country": "USD",
-    "title": "Michigan Current Conditions Final",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "50.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1602,6 +1592,16 @@
   {
     "date": "2026-10-23T14:00:00.000Z",
     "country": "USD",
+    "title": "Michigan Current Conditions Final",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "50.9",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-23T14:00:00.000Z",
+    "country": "USD",
     "title": "Michigan Consumer Sentiment Final",
     "impact": "Medium",
     "forecast": "",
@@ -1612,7 +1612,7 @@
   {
     "date": "2026-10-23T17:00:00.000Z",
     "country": "USD",
-    "title": "Baker Hughes Oil Rig Count",
+    "title": "Baker Hughes Total Rigs Count",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1622,7 +1622,7 @@
   {
     "date": "2026-10-23T17:00:00.000Z",
     "country": "USD",
-    "title": "Baker Hughes Total Rigs Count",
+    "title": "Baker Hughes Oil Rig Count",
     "impact": "Low",
     "forecast": "",
     "previous": "",

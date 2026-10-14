@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-14T00:02:33.677Z",
+ "erstellt": "2026-10-14T05:20:52.977Z",
  "wochenStart": "2026-10-11",
  "events": [
   {
@@ -2804,21 +2804,21 @@ window.MAKRO_DATA = {
    "Track-Record ehrlich: Über ~15 ausgewertete Wochen ist die Wochen-Dollar-Wette 7/15 = 47% (Zufallsband 4–11) — weiter NICHT von einem Münzwurf unterscheidbar. Die COT/Zins-Korrektur ist seit dem Tilt-Cutoff 22.7. neutral (58% mit vs. 57% ohne). Konsequenz: Scores bewusst klein, kein Aktionismus. Diese Woche bewusst AUD vom Dollar-Block gelöst (RBA-Hike) und die Short-Größen paar-spezifisch gewichtet (CAD am stärksten wegen Job-Schock, GBP am kleinsten wegen Squeeze-Risiko)."
   ],
   "tagesnews": {
-   "stand": "2026-10-13",
-   "wochentag": "Dienstag",
-   "tenor": "Spannung vor dem großen US-Inflationsbericht MORGEN: Der Dollar hält sein 18-Monats-Hoch (Index ~102,6), EUR/USD fiel auf ein 17-Monats-Tief (~1,1154) — getrieben von Frankreichs Haushaltskrise (Debatte startet heute) und teurem Öl. Heute früh bestätigten die RBA-Protokolle den Falken-Kurs → der Aussie bleibt der einzige eigene Dollar-Gegenspieler.",
+   "stand": "2026-10-14",
+   "wochentag": "Mittwoch",
+   "tenor": "Alles wartet auf den großen US-Inflationsbericht HEUTE Nachmittag (14:30 Wien): Bis dahin hält der Dollar sein 18-Monats-Hoch (Index ~102,2) und EUR/USD klebt am 17-Monats-Tief (~1,1154). Öl steigt weiter (WTI ~95$, +7% Wo) wegen neuer Angriffe im Nahen Osten — das schürt Inflations-Angst genau vor der Zahl. Risk-on bleibt (VIX ~15,3).",
    "heute": [
-    "🇦🇺 RBA-Protokoll (heute früh): Die australische Notenbank begründete ihre September-Erhöhung auf 4,60% (15-Jahres-Hoch) damit, sie müsse „zügig handeln\", um die Inflationserwartungen zu verankern — klar falkenhaft. Das stützt den Aussie als einzige G10-Währung mit eigenem Zins-Rückenwind gegen den starken Dollar.",
-    "🇫🇷 Euro-Risiko wird JETZT konkret: Die französische Nationalversammlung startet heute die Haushaltsdebatte (Teil 1 vom 13.–19.10., Abstimmung Teil 1 am 20.10., Schluss-Abstimmung erst 17.11.). Die Minderheitsregierung Lecornu hat keine Mehrheit — Sozialisten und Rassemblement National drohen mit Nein. Frankreichs 10-Jahres-Zins steht auf dem höchsten Stand seit 2008 (~4,8–5%, ÜBER Italien/Griechenland). Das deckelt den Euro → EUR/USD auf 17-Monats-Tief (~1,1154).",
-    "🛢️ Öl treibt mit: WTI sprang auf ~93$ (+4,3% Wo), Brent ~106$ (+5,5%) — nachdem die Hoffnung auf eine russisch-ukrainische Energie-Waffenruhe platzte. Teures Öl heizt die Inflations-Angst vor dem CPI an und gibt dem Dollar einen zusätzlichen Sicherheits-Bid (VIX tief ~15,2 = sorgloser Markt).",
-    "📅 MORGEN = DAS EVENT: US-CPI September (Mi 14.10. 14:30 Wien; Kern +0,2% m/m erw./~2,4% y/y, Gesamt ~3,6–3,7% energiegetrieben) = Schiedsrichter fürs Dollar-Hoch und die Fed-Dezember-Erhöhung (~74% eingepreist). Dazu früh China-CPI/Handel."
+    "📅 HEUTE 14:30 Wien = DAS EVENT: US-CPI September. Erwartet Kern +0,2% m/m (~2,5% y/y), Gesamt +0,6% m/m / ~3,6% y/y (energiegetrieben durch teures Öl). Das ist der Schiedsrichter fürs Dollar-18-Monats-Hoch und die Fed-Dezember-Erhöhung (~74% eingepreist). HEISS = Falken-Dollar bestätigt; KÜHL = das wacklige Fundament bekommt einen Riss (der Dollar lebt gerade vom falkischen Ton, NICHT vom Zinsvorsprung — die US-2J-Rendite stieg diese Woche kaum).",
+    "🛢️ Öl klettert weiter: WTI ~94,9$ (+7,4% Wo), Brent ~106,4$ (+6,2%) — neue Angriffe im Nahen Osten (Saudi-Arabien, Tanker nahe der Straße von Hormus) schüren die Versorgungs-Angst. Teures Öl = frische Inflations-Sorge direkt vor dem CPI + Sicherheits-Bid für den Dollar; Rückenwind für den CAD, der aber den Job-Schock (−68k) nur teilweise ausgleicht.",
+    "🇪🇺 Reden-Marathon rund um den CPI: EZB-Chefin Lagarde spricht (10:30 Wien), dazu die Fed-Vertreter Bowman und Barkin + das Fed-Beige-Book (20:00 Wien). Töne zur Inflation können die Dezember-Erhöhungswette bewegen. Der Euro bleibt von Frankreichs Haushaltskrise gedeckelt (10-J-Zins auf Höchststand seit 2008).",
+    "🇦🇺 Heute Nacht (früh Do, ~02:30 Wien): Australische Arbeitsmarktdaten — Beschäftigung +19,6k erwartet, Quote 4,6%. Der Aussie ist der einzige G10-Dollar-Gegenspieler (RBA-Hochzins 4,60%); starke Zahlen würden das untermauern, schwache die einzige eigene Story dämpfen."
    ],
    "gestern": [
-    "🇺🇸 Montag war dünn: US-Anleihemarkt wegen Columbus Day geschlossen. Trotzdem kletterte der Dollar-Index auf ein 18-Monats-Hoch (~102,6) und EUR/USD rutschte auf ein 17-Monats-Tief — reine Dollar-Stärke/Euro-Schwäche ganz ohne US-Daten.",
-    "🇷🇺 Energie-Waffenruhe geplatzt: Eine kurze Hoffnung auf eine Feuerpause im Energie-Krieg Russland–Ukraine (hätte Öl verbilligt) zerschlug sich am Montag → Öl drehte nach oben, Dollar zog an.",
-    "🇨🇦 Nachklang Job-Schock (Fr 9.10.): Kanada verlor im September 68.000 Stellen (erwartet +9k), Quote 6,5% → USD/CAD Richtung 1,43, CAD klarer Wochenverlierer. Teures Öl gleicht das nicht aus.",
-    "🇺🇸 Fundament-Warnung: Der Dollar lebt vom falkischen FOMC-Protokoll (7.10.), NICHT vom Zinsvorsprung — die US-2J-Rendite FIEL die Woche (−0,22pp auf 4,42%). Wackliges Fundament vor dem CPI.",
-    "⚠️ Positionierung = Pulverfass (COT 6.10.): Großspekulanten extrem net-SHORT in Euro (z −2,2) und Pfund (z −1,9), stark short im Aussie (z −1,4) → Squeeze-Gefahr bei jeder Gegenbewegung; extrem net-LONG im Yen (z +1,1) = Rückschlag-Risiko."
+    "🇦🇺 RBA-Protokoll (Di 13.10.): Die Notenbank begründete ihre September-Erhöhung auf 4,60% (15-Jahres-Hoch) falkenhaft — sie müsse „zügig handeln\", um die Inflationserwartungen zu verankern. Stützt den Aussie als eigenen Dollar-Gegenspieler.",
+    "🇫🇷 Frankreichs Haushaltsdebatte gestartet (Di, Teil 1 vom 13.–19.10., Abstimmung Teil 1 am 20.10., Schluss-Abstimmung 17.11.): Die Minderheitsregierung Lecornu hat keine Mehrheit, Frankreichs 10-Jahres-Zins steht auf dem höchsten Stand seit 2008 (über Italien/Griechenland) → deckelt den Euro, EUR/USD auf 17-Monats-Tief (~1,1154).",
+    "🇷🇺 Energie-Waffenruhe geplatzt (Mo): Die kurze Hoffnung auf eine Feuerpause im Energie-Krieg Russland–Ukraine zerschlug sich → Öl drehte nach oben und zieht seither weiter an.",
+    "🇨🇦 Nachklang Job-Schock (Fr 9.10.): Kanada verlor im September 68.000 Stellen (erwartet +9k), Quote 6,5% → USD/CAD Richtung 1,43, CAD klarer Wochenverlierer. Teures Öl gleicht das nur teilweise aus.",
+    "⚠️ Positionierung = Pulverfass (COT 6.10.): Großspekulanten extrem net-SHORT im Euro (z −2,2) und Pfund (z −1,9), stark short im Aussie (z −1,4) → Squeeze-Gefahr bei jeder Gegenbewegung; extrem net-LONG im Yen (z +1,1) = Rückschlag-Risiko."
    ]
   }
  },
@@ -3880,7 +3880,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-14T00:02:33.337Z",
+  "stand": "2026-10-14T05:20:52.975Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
   "gewertet": 31,

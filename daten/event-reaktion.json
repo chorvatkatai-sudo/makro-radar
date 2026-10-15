@@ -1,32 +1,32 @@
 {
-  "stand": "2026-10-15T10:37:52.661Z",
+  "stand": "2026-10-15T15:24:56.407Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 34,
-    "treffer": 19,
-    "quote": 56,
-    "schnittGerichtet": 0.068,
-    "schnittBetrag": 0.315,
-    "pWert": 0.608,
+    "faelle": 35,
+    "treffer": 20,
+    "quote": 57,
+    "schnittGerichtet": 0.07,
+    "schnittBetrag": 0.31,
+    "pWert": 0.5,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 62,
-    "treffer": 34,
-    "quote": 55,
-    "schnittGerichtet": 0.07,
-    "schnittBetrag": 0.349,
-    "pWert": 0.526,
+    "faelle": 63,
+    "treffer": 35,
+    "quote": 56,
+    "schnittGerichtet": 0.071,
+    "schnittBetrag": 0.346,
+    "pWert": 0.45,
     "belastbar": false
   },
   "jeWaehrung": {
     "USD": {
-      "faelle": 11,
-      "treffer": 5,
-      "quote": 45,
-      "schnittGerichtet": 0.012,
-      "schnittBetrag": 0.278,
+      "faelle": 12,
+      "treffer": 6,
+      "quote": 50,
+      "schnittGerichtet": 0.022,
+      "schnittBetrag": 0.266,
       "pWert": 1,
       "belastbar": false
     },
@@ -60,12 +60,12 @@
   },
   "jeKategorie": {
     "Inflation": {
-      "faelle": 15,
-      "treffer": 10,
-      "quote": 67,
+      "faelle": 16,
+      "treffer": 11,
+      "quote": 69,
       "schnittGerichtet": 0.121,
-      "schnittBetrag": 0.263,
-      "pWert": 0.302,
+      "schnittBetrag": 0.255,
+      "pWert": 0.21,
       "belastbar": false
     },
     "Arbeitsmarkt": {
@@ -89,12 +89,12 @@
   },
   "jeWaehrungRoh": {
     "USD": {
-      "faelle": 25,
-      "treffer": 13,
-      "quote": 52,
-      "schnittGerichtet": 0.04,
-      "schnittBetrag": 0.292,
-      "pWert": 1,
+      "faelle": 26,
+      "treffer": 14,
+      "quote": 54,
+      "schnittGerichtet": 0.043,
+      "schnittBetrag": 0.286,
+      "pWert": 0.845,
       "belastbar": false
     },
     "CAD": {
@@ -135,15 +135,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-09-04",
-      "land": "CAD",
-      "titel": "Employment Change",
-      "ueberraschung": "niedriger",
-      "erwartet": "schwächer",
-      "bewegung": -0.149,
-      "wieErwartet": true
-    },
     {
       "datum": "2026-09-04",
       "land": "USD",
@@ -214,6 +205,15 @@
       "ueberraschung": "niedriger",
       "erwartet": "schwächer",
       "bewegung": -0.248,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-10-14",
+      "land": "USD",
+      "titel": "CPI y/y",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": 0.13,
       "wieErwartet": true
     },
     {

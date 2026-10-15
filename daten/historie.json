@@ -17838,8 +17838,8 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "1.2%",
-      "actual": null,
-      "notiz": null
+      "actual": "0.8%",
+      "notiz": "auto:TV retailMoM (2026-10-15)"
     },
     "2026-10-15T08:30:00-04:00|USD|Philly Fed Manufacturing Index": {
       "datum": "2026-10-15T08:30:00-04:00",

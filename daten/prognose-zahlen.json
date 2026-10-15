@@ -1,11 +1,11 @@
 {
-  "stand": "2026-10-15T15:24:55.854Z",
+  "stand": "2026-10-15T16:11:15.976Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
-  "gewertet": 32,
-  "nichtWertbar": 34,
+  "gewertet": 34,
+  "nichtWertbar": 32,
   "treffer": 16,
-  "quote": 50,
+  "quote": 47,
   "zinsentscheide": {
     "treffer": 9,
     "gesamt": 9,
@@ -13,18 +13,18 @@
   },
   "datenPrognosen": {
     "treffer": 7,
-    "gesamt": 23,
-    "quote": 30
+    "gesamt": 25,
+    "quote": 28
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
-    "gesamt": 15,
-    "quote": 40
+    "gesamt": 17,
+    "quote": 35
   },
   "exakt": {
     "treffer": 3,
-    "gesamt": 9,
-    "quote": 33
+    "gesamt": 11,
+    "quote": 27
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,24 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "US-Jobbericht (Non-Farm Payrolls, August)",
-      "datum": "2026-09-04",
-      "richtung": "niedriger",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "0.3%",
-      "ist": "0.3%",
-      "treffer": false
-    },
-    {
-      "event": "EZB-Zinsentscheid (Einlagensatz)",
-      "datum": "2026-09-10",
-      "richtung": "wie_erwartet",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "2.65%",
-      "ist": "2.65%",
-      "treffer": true
-    },
     {
       "event": "US-Inflation CPI (August, Kernrate m/m)",
       "datum": "2026-09-11",
@@ -102,6 +84,24 @@
       "tatsaechlich": "hoeher",
       "konsens": "3.6%",
       "ist": "3.7%",
+      "treffer": false
+    },
+    {
+      "event": "US-Einzelhandel (September) — m/m",
+      "datum": "2026-10-15",
+      "richtung": "niedriger",
+      "tatsaechlich": "hoeher",
+      "konsens": "0.3%",
+      "ist": "0.8%",
+      "treffer": false
+    },
+    {
+      "event": "US-Erzeugerpreise (PPI September) — m/m",
+      "datum": "2026-10-15",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "hoeher",
+      "konsens": "0.3%",
+      "ist": "0.8%",
       "treffer": false
     }
   ]

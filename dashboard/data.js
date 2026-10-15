@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-15T15:24:56.408Z",
+ "erstellt": "2026-10-15T16:11:16.790Z",
  "wochenStart": "2026-10-11",
  "events": [
   {
@@ -1026,6 +1026,16 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-18T21:45:00.000Z",
    "country": "NZD",
+   "title": "Exports",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "6.66 NZ$",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-18T21:45:00.000Z",
+   "country": "NZD",
    "title": "Imports",
    "impact": "Low",
    "forecast": "",
@@ -1044,22 +1054,32 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-10-18T21:45:00.000Z",
-   "country": "NZD",
-   "title": "Exports",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "6.66 NZ$",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
    "date": "2026-10-19T01:30:00.000Z",
    "country": "CNY",
    "title": "House Price Index YoY",
    "impact": "Medium",
    "forecast": "",
    "previous": "-3",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-19T02:00:00.000Z",
+   "country": "CNY",
+   "title": "Retail Sales YoY",
+   "impact": "High",
+   "forecast": "",
+   "previous": "0.4",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-19T02:00:00.000Z",
+   "country": "CNY",
+   "title": "Fixed Asset Investment (YTD) YoY",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "-7.2",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1096,40 +1116,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-19T02:00:00.000Z",
    "country": "CNY",
-   "title": "GDP Growth Rate QoQ",
-   "impact": "Medium",
-   "forecast": "1.1%",
-   "previous": "0.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-19T02:00:00.000Z",
-   "country": "CNY",
-   "title": "Fixed Asset Investment (YTD) YoY",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-7.2",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-19T02:00:00.000Z",
-   "country": "CNY",
-   "title": "Retail Sales YoY",
-   "impact": "High",
-   "forecast": "",
-   "previous": "0.4",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-19T02:00:00.000Z",
-   "country": "CNY",
    "title": "GDP Growth Rate YoY",
    "impact": "High",
    "forecast": "4.4%",
    "previous": "4.3%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-19T02:00:00.000Z",
+   "country": "CNY",
+   "title": "GDP Growth Rate QoQ",
+   "impact": "Medium",
+   "forecast": "1.1%",
+   "previous": "0.9%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1166,40 +1166,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-19T12:30:00.000Z",
    "country": "CAD",
-   "title": "CPI Trimmed-Mean YoY",
-   "impact": "Low",
+   "title": "Core Inflation Rate YoY",
+   "impact": "Medium",
    "forecast": "",
-   "previous": "1.9%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-19T12:30:00.000Z",
-   "country": "CAD",
-   "title": "CPI Common YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-19T12:30:00.000Z",
-   "country": "CAD",
-   "title": "CPI Median YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-19T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Core Inflation Rate MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.1",
+   "previous": "2.4%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1216,20 +1186,50 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-19T12:30:00.000Z",
    "country": "CAD",
-   "title": "Inflation Rate YoY",
-   "impact": "High",
+   "title": "CPI Trimmed-Mean YoY",
+   "impact": "Low",
    "forecast": "",
-   "previous": "3%",
+   "previous": "1.9%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-10-19T12:30:00.000Z",
    "country": "CAD",
-   "title": "Core Inflation Rate YoY",
-   "impact": "Medium",
+   "title": "Core Inflation Rate MoM",
+   "impact": "Low",
    "forecast": "",
-   "previous": "2.4%",
+   "previous": "0.1",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-19T12:30:00.000Z",
+   "country": "CAD",
+   "title": "CPI Median YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-19T12:30:00.000Z",
+   "country": "CAD",
+   "title": "CPI Common YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2.6%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-19T12:30:00.000Z",
+   "country": "CAD",
+   "title": "Inflation Rate YoY",
+   "impact": "High",
+   "forecast": "",
+   "previous": "3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1246,7 +1246,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-19T14:30:00.000Z",
    "country": "CAD",
-   "title": "BoC Business Outlook Survey",
+   "title": "BoC Survey of Consumer Expectations",
    "impact": "Medium",
    "forecast": "",
    "previous": "",
@@ -1256,7 +1256,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-19T14:30:00.000Z",
    "country": "CAD",
-   "title": "BoC Survey of Consumer Expectations",
+   "title": "BoC Business Outlook Survey",
    "impact": "Medium",
    "forecast": "",
    "previous": "",
@@ -1306,10 +1306,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-20T01:35:00.000Z",
    "country": "NZD",
-   "title": "6-Month Bill Auction",
+   "title": "1-Year Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "3.2105%",
+   "previous": "3.6%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1326,10 +1326,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-20T01:35:00.000Z",
    "country": "NZD",
-   "title": "1-Year Bill Auction",
+   "title": "6-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "3.6%",
+   "previous": "3.2105%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1345,21 +1345,21 @@ window.MAKRO_DATA = {
   },
   {
    "date": "2026-10-20T06:00:00.000Z",
-   "country": "GBP",
-   "title": "Average Earnings excl. Bonus (3Mo/Yr)",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.5%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-20T06:00:00.000Z",
    "country": "CHF",
    "title": "Balance of Trade",
    "impact": "Medium",
    "forecast": "",
    "previous": "5.6 CHF",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-20T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Average Earnings excl. Bonus (3Mo/Yr)",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.5%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1476,20 +1476,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-20T12:30:00.000Z",
    "country": "USD",
-   "title": "Building Permits Prel",
+   "title": "Housing Starts",
    "impact": "High",
    "forecast": "",
-   "previous": "1.403",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-20T12:30:00.000Z",
-   "country": "USD",
-   "title": "Building Permits MoM Prel",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-2.1%",
+   "previous": "1.275",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1506,10 +1496,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-20T12:30:00.000Z",
    "country": "USD",
-   "title": "Housing Starts",
+   "title": "Building Permits Prel",
    "impact": "High",
    "forecast": "",
-   "previous": "1.275",
+   "previous": "1.403",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-20T12:30:00.000Z",
+   "country": "USD",
+   "title": "Building Permits MoM Prel",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "-2.1%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1636,20 +1636,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T06:00:00.000Z",
    "country": "GBP",
-   "title": "Inflation Rate YoY",
-   "impact": "High",
-   "forecast": "",
-   "previous": "3.1%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-21T06:00:00.000Z",
-   "country": "GBP",
-   "title": "PPI Core Output YoY",
+   "title": "Retail Price Index MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "2.7%",
+   "previous": "0.6",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1716,20 +1706,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T06:00:00.000Z",
    "country": "GBP",
-   "title": "PPI Input MoM",
+   "title": "PPI Core Output YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.3%",
+   "previous": "2.7%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-10-21T06:00:00.000Z",
    "country": "GBP",
-   "title": "Retail Price Index MoM",
+   "title": "PPI Input MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.6",
+   "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1764,12 +1754,12 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-10-21T10:10:00.000Z",
-   "country": "EUR",
-   "title": "6-Month Bill Auction",
-   "impact": "Low",
+   "date": "2026-10-21T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Inflation Rate YoY",
+   "impact": "High",
    "forecast": "",
-   "previous": "2.827%",
+   "previous": "3.1%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1786,6 +1776,16 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T10:10:00.000Z",
    "country": "EUR",
+   "title": "6-Month Bill Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2.827%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-21T10:10:00.000Z",
+   "country": "EUR",
    "title": "3-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
@@ -1796,10 +1796,30 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T11:00:00.000Z",
    "country": "USD",
+   "title": "MBA Mortgage Applications",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-2.7",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-21T11:00:00.000Z",
+   "country": "USD",
    "title": "MBA 30-Year Mortgage Rate",
    "impact": "Medium",
    "forecast": "",
    "previous": "7.5",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-21T11:00:00.000Z",
+   "country": "USD",
+   "title": "MBA Purchase Index",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "139.3",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1824,26 +1844,6 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-10-21T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Mortgage Applications",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-2.7",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-21T11:00:00.000Z",
-   "country": "USD",
-   "title": "MBA Purchase Index",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "139.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
    "date": "2026-10-21T14:30:00.000Z",
    "country": "USD",
    "title": "EIA Cushing Crude Oil Stocks Change",
@@ -1856,7 +1856,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T14:30:00.000Z",
    "country": "USD",
-   "title": "EIA Refinery Crude Runs Change",
+   "title": "EIA Distillate Stocks Change",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1866,8 +1866,8 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T14:30:00.000Z",
    "country": "USD",
-   "title": "EIA Crude Oil Stocks Change",
-   "impact": "Medium",
+   "title": "EIA Distillate Fuel Production Change",
+   "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": null,
@@ -1896,18 +1896,8 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T14:30:00.000Z",
    "country": "USD",
-   "title": "EIA Heating Oil Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-21T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Distillate Stocks Change",
-   "impact": "Low",
+   "title": "EIA Crude Oil Stocks Change",
+   "impact": "Medium",
    "forecast": "",
    "previous": "",
    "actual": null,
@@ -1926,7 +1916,17 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T14:30:00.000Z",
    "country": "USD",
-   "title": "EIA Distillate Fuel Production Change",
+   "title": "EIA Refinery Crude Runs Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-21T14:30:00.000Z",
+   "country": "USD",
+   "title": "EIA Heating Oil Stocks Change",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1976,7 +1976,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T23:50:00.000Z",
    "country": "JPY",
-   "title": "Foreign Bond Investment",
+   "title": "Stock Investment by Foreigners",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1986,7 +1986,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-21T23:50:00.000Z",
    "country": "JPY",
-   "title": "Stock Investment by Foreigners",
+   "title": "Foreign Bond Investment",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -2026,16 +2026,6 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-22T10:00:00.000Z",
    "country": "GBP",
-   "title": "CBI Industrial Trends Orders",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "-9",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-22T10:00:00.000Z",
-   "country": "GBP",
    "title": "CBI Business Optimism Index",
    "impact": "Medium",
    "forecast": "",
@@ -2044,32 +2034,12 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-10-22T12:30:00.000Z",
-   "country": "CAD",
-   "title": "Raw Materials Prices YoY",
-   "impact": "Low",
+   "date": "2026-10-22T10:00:00.000Z",
+   "country": "GBP",
+   "title": "CBI Industrial Trends Orders",
+   "impact": "Medium",
    "forecast": "",
-   "previous": "22.8%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-22T12:30:00.000Z",
-   "country": "CAD",
-   "title": "PPI MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "1.3%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-22T12:30:00.000Z",
-   "country": "CAD",
-   "title": "PPI YoY",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "13.5%",
+   "previous": "-9",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2086,10 +2056,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-22T12:30:00.000Z",
    "country": "CAD",
-   "title": "Raw Materials Prices MoM",
+   "title": "Raw Materials Prices YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "3.1%",
+   "previous": "22.8%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2100,6 +2070,36 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "",
    "previous": "198.5",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-22T12:30:00.000Z",
+   "country": "CAD",
+   "title": "Raw Materials Prices MoM",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "3.1%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-22T12:30:00.000Z",
+   "country": "CAD",
+   "title": "PPI YoY",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "13.5%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-22T12:30:00.000Z",
+   "country": "CAD",
+   "title": "PPI MoM",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "1.3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2146,6 +2146,16 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-22T15:00:00.000Z",
    "country": "USD",
+   "title": "Kansas Fed Manufacturing Index",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "20",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-22T15:00:00.000Z",
+   "country": "USD",
    "title": "Kansas Fed Composite Index",
    "impact": "Low",
    "forecast": "",
@@ -2154,12 +2164,12 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-10-22T15:00:00.000Z",
+   "date": "2026-10-22T15:30:00.000Z",
    "country": "USD",
-   "title": "Kansas Fed Manufacturing Index",
+   "title": "8-Week Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "20",
+   "previous": "4.05%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2169,14 +2179,14 @@ window.MAKRO_DATA = {
    "title": "4-Week Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "4%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
-   "date": "2026-10-22T15:30:00.000Z",
+   "date": "2026-10-22T16:00:00.000Z",
    "country": "USD",
-   "title": "8-Week Bill Auction",
+   "title": "30-Year Mortgage Rate",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -2187,16 +2197,6 @@ window.MAKRO_DATA = {
    "date": "2026-10-22T16:00:00.000Z",
    "country": "USD",
    "title": "15-Year Mortgage Rate",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-22T16:00:00.000Z",
-   "country": "USD",
-   "title": "30-Year Mortgage Rate",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -2296,6 +2296,16 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-22T23:30:00.000Z",
    "country": "JPY",
+   "title": "Core Inflation Rate YoY",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "1.7%",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-10-22T23:30:00.000Z",
+   "country": "JPY",
    "title": "Inflation Rate MoM",
    "impact": "Low",
    "forecast": "",
@@ -2314,32 +2324,12 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-10-22T23:30:00.000Z",
-   "country": "JPY",
-   "title": "Core Inflation Rate YoY",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "1.7%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
    "date": "2026-10-23T00:30:00.000Z",
    "country": "JPY",
    "title": "S&P Global Composite PMI Flash",
    "impact": "Low",
    "forecast": "",
    "previous": "52.3",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-23T00:30:00.000Z",
-   "country": "JPY",
-   "title": "S&P Global Services PMI Flash",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "51.3",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2354,6 +2344,16 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
+   "date": "2026-10-23T00:30:00.000Z",
+   "country": "JPY",
+   "title": "S&P Global Services PMI Flash",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "51.3",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
    "date": "2026-10-23T03:35:00.000Z",
    "country": "JPY",
    "title": "3-Month Bill Auction",
@@ -2364,12 +2364,12 @@ window.MAKRO_DATA = {
    "quelle": "tradingview"
   },
   {
-   "date": "2026-10-23T05:00:00.000Z",
-   "country": "JPY",
-   "title": "Coincident Index Final",
+   "date": "2026-10-23T06:00:00.000Z",
+   "country": "GBP",
+   "title": "Retail Sales ex Fuel YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "120.6",
+   "previous": "2.7%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2386,16 +2386,6 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-23T06:00:00.000Z",
    "country": "GBP",
-   "title": "Retail Sales ex Fuel MoM",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "0.6%",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-10-23T06:00:00.000Z",
-   "country": "GBP",
    "title": "Retail Sales MoM",
    "impact": "High",
    "forecast": "",
@@ -2406,10 +2396,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-23T06:00:00.000Z",
    "country": "GBP",
-   "title": "Retail Sales ex Fuel YoY",
+   "title": "Retail Sales ex Fuel MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "2.7%",
+   "previous": "0.6%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3296,15 +3286,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-15T15:24:55.505Z",
+  "stand": "2026-10-15T16:11:14.953Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 102.14,
+    "wert": 102.15,
     "tagProzent": 0,
-    "wocheProzent": -0.07,
+    "wocheProzent": -0.06,
     "renditeDelta": false,
     "verlauf": [
      100.22,
@@ -3327,17 +3317,17 @@ window.MAKRO_DATA = {
      102.58,
      102.18,
      102.55,
-     102.14,
-     102.14
+     102.15,
+     102.15
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.82,
+    "wert": 16.89,
     "tagProzent": 0,
-    "wocheProzent": 13.34,
+    "wocheProzent": 13.81,
     "renditeDelta": false,
     "verlauf": [
      15.44,
@@ -3360,17 +3350,17 @@ window.MAKRO_DATA = {
      15.21,
      15.27,
      16.87,
-     16.82,
-     16.82
+     16.89,
+     16.89
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 95.51,
+    "wert": 96.29,
     "tagProzent": 0,
-    "wocheProzent": 3.98,
+    "wocheProzent": 4.83,
     "renditeDelta": false,
     "verlauf": [
      101.91,
@@ -3393,17 +3383,17 @@ window.MAKRO_DATA = {
      93.74,
      94.14,
      95.09,
-     95.51,
-     95.51
+     96.29,
+     96.29
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 105.78,
+    "wert": 106.04,
     "tagProzent": 0,
-    "wocheProzent": 1.01,
+    "wocheProzent": 1.26,
     "renditeDelta": false,
     "verlauf": [
      104.82,
@@ -3426,17 +3416,17 @@ window.MAKRO_DATA = {
      106.65,
      105.69,
      106.06,
-     105.78,
-     105.78
+     106.04,
+     106.04
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4175.2,
+    "wert": 4170,
     "tagProzent": 0,
-    "wocheProzent": -0.97,
+    "wocheProzent": -1.1,
     "renditeDelta": false,
     "verlauf": [
      4399.7,
@@ -3459,8 +3449,8 @@ window.MAKRO_DATA = {
      4190.6,
      4177.3,
      4107.9,
-     4175.2,
-     4175.2
+     4170,
+     4170
     ]
    },
    "US02Y": {
@@ -3480,7 +3470,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.091,
+    "wert": 5.093,
     "tagProzent": 0,
     "wocheProzent": -0.15,
     "renditeDelta": true,
@@ -3505,15 +3495,15 @@ window.MAKRO_DATA = {
      5.24,
      5.217,
      5.19,
-     5.091,
-     5.091
+     5.093,
+     5.093
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.423,
+    "wert": 5.424,
     "tagProzent": 0,
     "wocheProzent": -0.18,
     "renditeDelta": true,
@@ -3538,17 +3528,17 @@ window.MAKRO_DATA = {
      5.598,
      5.563,
      5.525,
-     5.423,
-     5.423
+     5.424,
+     5.424
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 82250.28,
+    "wert": 82405.23,
     "tagProzent": 0,
-    "wocheProzent": -1.71,
+    "wocheProzent": -1.52,
     "renditeDelta": false,
     "verlauf": [
      84034.92,
@@ -3571,8 +3561,8 @@ window.MAKRO_DATA = {
      81762.56,
      83095.13,
      81562.49,
-     82250.28,
-     82250.28
+     82405.23,
+     82405.23
     ]
    },
    "FEDFUT": {
@@ -3580,7 +3570,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.95,
-    "tagProzent": -0.01,
+    "tagProzent": 0,
     "wocheProzent": 0.06,
     "renditeDelta": true,
     "verlauf": [
@@ -3604,7 +3594,7 @@ window.MAKRO_DATA = {
      3.88,
      3.89,
      3.89,
-     3.96,
+     3.95,
      3.95
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -3704,32 +3694,32 @@ window.MAKRO_DATA = {
    "stand": "2026-10-15",
    "werte": {
     "USD": {
-     "wert": 4.761,
-     "wocheDelta": -0.051
+     "wert": 4.759,
+     "wocheDelta": -0.053
     },
     "EUR": {
-     "wert": 3.075,
-     "wocheDelta": 0.012
+     "wert": 3.083,
+     "wocheDelta": 0.02
     },
     "GBP": {
-     "wert": 4.88,
-     "wocheDelta": 0.027
+     "wert": 4.886,
+     "wocheDelta": 0.033
     },
     "JPY": {
-     "wert": 1.903,
-     "wocheDelta": -0.012
+     "wert": 1.913,
+     "wocheDelta": -0.002
     },
     "AUD": {
-     "wert": 4.857,
-     "wocheDelta": -0.092
+     "wert": 4.855,
+     "wocheDelta": -0.094
     },
     "CAD": {
-     "wert": 3.205,
-     "wocheDelta": -0.048
+     "wert": 3.216,
+     "wocheDelta": -0.037
     },
     "CHF": {
-     "wert": 0.218,
-     "wocheDelta": 0.044
+     "wert": 0.221,
+     "wocheDelta": 0.047
     },
     "NZD": {
      "wert": 3.833,
@@ -3860,22 +3850,22 @@ window.MAKRO_DATA = {
    "paar": "EUR/CHF",
    "baseScore": 0,
    "tiltCot": 1,
-   "tiltZins": -1,
-   "tiltGesamt": 0,
-   "score": 0,
+   "tiltZins": 0,
+   "tiltGesamt": 1,
+   "score": 1,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-15T15:24:55.854Z",
+  "stand": "2026-10-15T16:11:15.976Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
-  "gewertet": 32,
-  "nichtWertbar": 34,
+  "gewertet": 34,
+  "nichtWertbar": 32,
   "treffer": 16,
-  "quote": 50,
+  "quote": 47,
   "zinsentscheide": {
    "treffer": 9,
    "gesamt": 9,
@@ -3883,18 +3873,18 @@ window.MAKRO_DATA = {
   },
   "datenPrognosen": {
    "treffer": 7,
-   "gesamt": 23,
-   "quote": 30
+   "gesamt": 25,
+   "quote": 28
   },
   "richtungBeiAbweichung": {
    "treffer": 6,
-   "gesamt": 15,
-   "quote": 40
+   "gesamt": 17,
+   "quote": 35
   },
   "exakt": {
    "treffer": 3,
-   "gesamt": 9,
-   "quote": 33
+   "gesamt": 11,
+   "quote": 27
   },
   "textdeutung": {
    "treffer": 13,
@@ -3902,24 +3892,6 @@ window.MAKRO_DATA = {
    "quote": 57
   },
   "letzte": [
-   {
-    "event": "US-Jobbericht (Non-Farm Payrolls, August)",
-    "datum": "2026-09-04",
-    "richtung": "niedriger",
-    "tatsaechlich": "wie_erwartet",
-    "konsens": "0.3%",
-    "ist": "0.3%",
-    "treffer": false
-   },
-   {
-    "event": "EZB-Zinsentscheid (Einlagensatz)",
-    "datum": "2026-09-10",
-    "richtung": "wie_erwartet",
-    "tatsaechlich": "wie_erwartet",
-    "konsens": "2.65%",
-    "ist": "2.65%",
-    "treffer": true
-   },
    {
     "event": "US-Inflation CPI (August, Kernrate m/m)",
     "datum": "2026-09-11",
@@ -3973,11 +3945,29 @@ window.MAKRO_DATA = {
     "konsens": "3.6%",
     "ist": "3.7%",
     "treffer": false
+   },
+   {
+    "event": "US-Einzelhandel (September) — m/m",
+    "datum": "2026-10-15",
+    "richtung": "niedriger",
+    "tatsaechlich": "hoeher",
+    "konsens": "0.3%",
+    "ist": "0.8%",
+    "treffer": false
+   },
+   {
+    "event": "US-Erzeugerpreise (PPI September) — m/m",
+    "datum": "2026-10-15",
+    "richtung": "wie_erwartet",
+    "tatsaechlich": "hoeher",
+    "konsens": "0.3%",
+    "ist": "0.8%",
+    "treffer": false
    }
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-15T15:24:56.407Z",
+  "stand": "2026-10-15T16:11:16.789Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4207,7 +4197,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-15T15:24:55.847Z",
+  "stand": "2026-10-15T16:11:15.969Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

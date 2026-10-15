@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-15T19:35:16.328Z",
+  "stand": "2026-10-15T22:48:07.342Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
+      "link": "https://investinglive.com/news/new-zealand-manufacturing-pmi-jumps-to-56-5-15th-straight-month-of-expansion/",
+      "datum": "2026-10-15T21:39:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Yields continue to fall even after hot PPI data",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-yields-continue-to-fall-even-after-hot-ppi-data/",
+      "datum": "2026-10-15T19:50:41.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US August business inventories +0.4% vs +0.4% expected",
@@ -65,18 +77,6 @@
       "titel": "France inflation rises sharply in September as price pressures add to ECB rate hike dilemma",
       "link": "https://investinglive.com/news/france-inflation-rises-sharply-in-september-as-price-pressures-add-to-ecb-rate-hike-dilemma/",
       "datum": "2026-10-15T07:16:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-64/",
-      "datum": "2026-10-15T06:36:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
-      "datum": "2026-10-15T03:22:36.000Z"
     },
     {
       "quelle": "Fed",

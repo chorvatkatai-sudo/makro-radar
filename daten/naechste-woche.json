@@ -25,7 +25,7 @@
     "title": "Imports",
     "impact": "Low",
     "forecast": "",
-    "previous": "8",
+    "previous": "8 NZ$",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -35,7 +35,7 @@
     "title": "Balance of Trade",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-1.349",
+    "previous": "-1.349 NZ$",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -45,7 +45,7 @@
     "title": "Exports",
     "impact": "Low",
     "forecast": "",
-    "previous": "6.66",
+    "previous": "6.66 NZ$",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -94,8 +94,8 @@
     "country": "CNY",
     "title": "GDP Growth Rate QoQ",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "0.9",
+    "forecast": "1.1%",
+    "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -124,8 +124,8 @@
     "country": "CNY",
     "title": "GDP Growth Rate YoY",
     "impact": "High",
-    "forecast": "",
-    "previous": "4.3",
+    "forecast": "4.4%",
+    "previous": "4.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -355,7 +355,7 @@
     "title": "Balance of Trade",
     "impact": "Medium",
     "forecast": "",
-    "previous": "5.6",
+    "previous": "5.6 CHF",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -565,7 +565,7 @@
     "title": "6-Week Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.98%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1455,7 +1455,7 @@
     "title": "S&P Global Services PMI Flash",
     "impact": "High",
     "forecast": "",
-    "previous": "",
+    "previous": "52.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1465,7 +1465,7 @@
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "High",
     "forecast": "",
-    "previous": "",
+    "previous": "51.9",
     "actual": null,
     "quelle": "tradingview"
   },

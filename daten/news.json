@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-15T08:46:34.038Z",
+  "stand": "2026-10-15T10:37:51.985Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US inflation worries aren't over yet as PPI and retail sales pose fresh risks for markets",
+      "link": "https://investinglive.com/news/us-inflation-worries-aren-t-over-yet-as-ppi-and-retail-sales-pose-fresh-risks-for-markets/",
+      "datum": "2026-10-15T08:44:16.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "France inflation rises sharply in September as price pressures add to ECB rate hike dilemma",
@@ -71,12 +77,6 @@
       "titel": "investingLive European news wrap: Markets trim gains as oil prices rise ahead of US CPI",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-trim-gains-as-oil-prices-rise-ahead-of-us-cpi/",
       "datum": "2026-10-14T11:24:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China's September lending surprise masks a much deeper slump in credit demand",
-      "link": "https://investinglive.com/news/china-s-september-lending-surprise-masks-a-much-deeper-slump-in-credit-demand/",
-      "datum": "2026-10-14T09:29:26.000Z"
     },
     {
       "quelle": "Fed",

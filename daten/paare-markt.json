@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-15T08:46:34.040Z",
+  "stand": "2026-10-15T10:37:51.987Z",
   "ausBriefing": "2026-10-09",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -4,
       "tiltCot": -1,
-      "tiltZins": 3,
-      "tiltGesamt": 2,
-      "score": -2,
+      "tiltZins": 2,
+      "tiltGesamt": 1,
+      "score": -3,
       "cotExtrem": "extrem",
       "treiber": "Fester Dollar drückt, aber die heiße Euro-Inflation (EZB-Anker) bremst das Minus — kein großer Short. Track-Record hier schwach (~40%) → bewusst klein. Frankreich bleibt Wildcard.",
       "istCross": false
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 4,
       "tiltCot": -3,
-      "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -1,
+      "tiltZins": -3,
+      "tiltGesamt": -6,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Schwacher Yen + Carry + Rückschlag-Risiko der überfüllten Yen-Long-Wette sprechen für ein steigendes Paar; der VIX-Anstieg gibt dem Yen aber einen kleinen Hafen-Bid + Interventionszone (~158) deckelt → bewusst moderat.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 5,
       "tiltCot": 5,
-      "tiltZins": -2,
-      "tiltGesamt": 3,
-      "score": 8,
+      "tiltZins": 0,
+      "tiltGesamt": 5,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Kanadas Job-Schock (−68k) trifft starken Dollar, ABER das teure Öl (WTI ~95$) stützt den Loonie spürbar → bewusst kleiner als die +9 der Vorwoche, paar-eigener Öl-Grund löst CAD vom Dollar-Block.",
       "istCross": false

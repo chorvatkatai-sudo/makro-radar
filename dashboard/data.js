@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-14T22:53:46.060Z",
+ "erstellt": "2026-10-15T05:21:19.018Z",
  "wochenStart": "2026-10-11",
  "events": [
   {
@@ -486,7 +486,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "19.6K",
    "previous": "39.5K",
-   "actual": null
+   "actual": "-39.3K"
   },
   {
    "title": "Unemployment Rate",
@@ -495,7 +495,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.6%",
    "previous": "4.6%",
-   "actual": null
+   "actual": "4.7%"
   },
   {
    "title": "FOMC Member Bowman Speaks",
@@ -2650,13 +2650,13 @@ window.MAKRO_DATA = {
   "waehrungen": {
    "USD": {
     "stimmung": "bullisch",
-    "score": 8,
-    "grund": "18-Monats-Hoch, weil das Fed-Protokoll falkenhaft war (Dezember-Erhöhung ~75% eingepreist). ABER die 2-Jahres-Rendite FIEL diese Woche und die Jobzahlen enttäuschten (+29k) — der Dollar lebt vom Ton, nicht vom Zinsvorsprung. Deshalb bullisch, aber mit kleinem Score (Track-Record ~Münzwurf)."
+    "score": 9,
+    "grund": "18-Monats-Hoch, jetzt mit FUNDAMENT: Die heiße US-Inflation (Kern +0,3% m/m) belebte die Fed-Erhöhungswette (Okt ~37–47%, Dez wieder im Spiel) und stützt erstmals wieder über den Zinsvorsprung (US-2J steigt), nicht nur über den Ton. Score trotzdem klein (Track-Record ~Münzwurf), zumal die Rally spät leicht bröckelte."
    },
    "EUR": {
     "stimmung": "neutral",
-    "score": -2,
-    "grund": "Zwei Kräfte heben sich fast auf: Die heiße Inflation (3,8%) verbietet der EZB Senkungen (stützt), aber Frankreichs Haushaltskrise ohne Mehrheit deckelt. Steht nahe dem 17-Monats-Tief."
+    "score": -3,
+    "grund": "Frisches 17-Monats-Tief (~1,1135) nach der heißen US-Inflation + Frankreichs Haushaltskrise (10-J-Zins auf 2008er-Hoch) deckeln. Gegengewicht: Großspekulanten extrem net-SHORT (z −2,2) = größte Squeeze-Gefahr aller Majors → kein großer Short."
    },
    "GBP": {
     "stimmung": "neutral",
@@ -2665,23 +2665,23 @@ window.MAKRO_DATA = {
    },
    "JPY": {
     "stimmung": "bärisch",
-    "score": -6,
-    "grund": "Yen schwach (~158, Interventionszone), der Zinsnachteil (Carry) dominiert; Premierministerin Takaichi stützt nur am Rand. ABER: Großspekulanten extrem net-LONG Yen (z +1,04) = überfüllte Wette, Rückschlag-Risiko. Track-Record hier am schlechtesten (5/15) → demütig, kleiner Score."
+    "score": -5,
+    "grund": "Yen schwach (~158, Interventionszone), Carry-Nachteil dominiert. Der leichte VIX-Anstieg (Risk-off) gibt dem Hafen einen kleinen Bid. ABER: COT extrem net-LONG (z +1,1) = überfüllte Wette, Rückschlag-Risiko; schlechtester Track-Record (5/15) → demütig."
    },
    "CHF": {
     "stimmung": "bärisch",
-    "score": -4,
-    "grund": "Risk-on (VIX tief ~15) → kein Bedarf am sicheren Hafen. SNB bei 0%, keine eigene Story."
+    "score": -3,
+    "grund": "SNB bei 0%, keine eigene Story. Der steigende VIX gibt dem Franken einen kleinen Hafen-Bid, deshalb nur noch leicht bärisch statt klar."
    },
    "CAD": {
     "stimmung": "bärisch",
-    "score": -9,
-    "grund": "Job-Schock heute: −68.300 Stellen, Quote 6,5%. Der US-Handelskrieg drückt. Teures Öl (WTI ~91$) gleicht das nur schwach aus."
+    "score": -6,
+    "grund": "Job-Schock der Vorwoche (−68k, Quote 6,5%) wirkt nach. ABER: Das teure Öl (WTI ~95$, +3,9% Wo) gibt dem Loonie jetzt deutlich mehr Gegengewicht → bewusst weniger negativ als letzte Woche, vom Dollar-Block gelöst."
    },
    "AUD": {
-    "stimmung": "bullisch",
-    "score": 6,
-    "grund": "Einziger eigener Rückenwind gegen den Dollar: Die RBA erhöhte Ende Sep zum 4. Mal auf 4,60% (15-Jahres-Hoch), höchster 2-Jahres-Zins aller Majors, Risk-on hilft."
+    "stimmung": "neutral",
+    "score": 1,
+    "grund": "Eigene Story angeschlagen: Schwache Jobs (−39,3k, Quote 4,7% = 5-J-Hoch) nehmen der RBA den Erhöhungsdruck. Der hohe Leitzins (4,60%) + höchster 2-J-Zins geben noch einen Boden, der leichte Risk-off (VIX↑) trimmt den Rohstoff-Rückenwind → nur noch knapp positiv."
    },
    "NZD": {
     "stimmung": "neutral",
@@ -2702,23 +2702,23 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/JPY",
-    "score": 5,
-    "treiber": "Schwacher Yen + Carry + Rückschlag-Risiko der überfüllten Yen-Long-Wette sprechen für ein steigendes Paar. Die Interventionszone (~158) deckelt aber — deshalb bewusst moderat."
+    "score": 4,
+    "treiber": "Schwacher Yen + Carry + Rückschlag-Risiko der überfüllten Yen-Long-Wette sprechen für ein steigendes Paar; der VIX-Anstieg gibt dem Yen aber einen kleinen Hafen-Bid + Interventionszone (~158) deckelt → bewusst moderat."
    },
    {
     "paar": "AUD/USD",
-    "score": 1,
-    "treiber": "Bewusst vom Dollar-Block gelöst: Die RBA-Erhöhung (4,60%, 15-J-Hoch) + höchster Zins + Risk-on geben dem Aussie eigenen Rückenwind, der die Dollar-Stärke fast ausgleicht → nahe neutral."
+    "score": -1,
+    "treiber": "Schwache Aussie-Jobs (−39,3k) + leichter Risk-off kippen das Paar ins kleine Minus; der RBA-Hochzins (4,60%) + extreme Short-Positionierung (Squeeze) begrenzen es nach unten → nahe neutral."
    },
    {
     "paar": "USD/CAD",
-    "score": 9,
-    "treiber": "Klarste Wette der Woche: Kanadas Job-Schock (−68k) trifft auf starken Dollar. Teures Öl gleicht nur schwach aus. Paar-eigener CAD-Grund, nicht nur Dollar."
+    "score": 5,
+    "treiber": "Kanadas Job-Schock (−68k) trifft starken Dollar, ABER das teure Öl (WTI ~95$) stützt den Loonie spürbar → bewusst kleiner als die +9 der Vorwoche, paar-eigener Öl-Grund löst CAD vom Dollar-Block."
    },
    {
     "paar": "USD/CHF",
-    "score": 6,
-    "treiber": "Saubere Dollar-Stärke: Risk-on nimmt dem Franken den Hafen-Bonus, SNB bei 0%."
+    "score": 5,
+    "treiber": "Dollar-Stärke nach der heißen Inflation; dem Franken gibt der steigende VIX aber einen kleinen Hafen-Bid → etwas kleiner."
    },
    {
     "paar": "NZD/USD",
@@ -2813,21 +2813,21 @@ window.MAKRO_DATA = {
    "Track-Record ehrlich: Über ~15 ausgewertete Wochen ist die Wochen-Dollar-Wette 7/15 = 47% (Zufallsband 4–11) — weiter NICHT von einem Münzwurf unterscheidbar. Die COT/Zins-Korrektur ist seit dem Tilt-Cutoff 22.7. neutral (58% mit vs. 57% ohne). Konsequenz: Scores bewusst klein, kein Aktionismus. Diese Woche bewusst AUD vom Dollar-Block gelöst (RBA-Hike) und die Short-Größen paar-spezifisch gewichtet (CAD am stärksten wegen Job-Schock, GBP am kleinsten wegen Squeeze-Risiko)."
   ],
   "tagesnews": {
-   "stand": "2026-10-14",
-   "wochentag": "Mittwoch",
-   "tenor": "Alles wartet auf den großen US-Inflationsbericht HEUTE Nachmittag (14:30 Wien): Bis dahin hält der Dollar sein 18-Monats-Hoch (Index ~102,2) und EUR/USD klebt am 17-Monats-Tief (~1,1154). Öl steigt weiter (WTI ~95$, +7% Wo) wegen neuer Angriffe im Nahen Osten — das schürt Inflations-Angst genau vor der Zahl. Risk-on bleibt (VIX ~15,3).",
+   "stand": "2026-10-15",
+   "wochentag": "Donnerstag",
+   "tenor": "US-Inflation kam gestern HEISS — der Dollar klettert auf ein 18-Monats-Hoch (Index ~102,5) und EUR/USD rutscht aufs 17-Monats-Tief (~1,1135). Die Dezember-Erhöhungswette der Fed lebt wieder. Heute: UK-BIP früh (08:00), US-Erzeugerpreise + US-Einzelhandel am Nachmittag (14:30/15:30). Angst-Barometer VIX steigt (16,9, +9% Wo) = etwas mehr Nervosität, Öl bleibt teuer (WTI ~95$).",
    "heute": [
-    "📅 HEUTE 14:30 Wien = DAS EVENT: US-CPI September. Erwartet Kern +0,2% m/m (~2,5% y/y), Gesamt +0,6% m/m / ~3,6% y/y (energiegetrieben durch teures Öl). Das ist der Schiedsrichter fürs Dollar-18-Monats-Hoch und die Fed-Dezember-Erhöhung (~74% eingepreist). HEISS = Falken-Dollar bestätigt; KÜHL = das wacklige Fundament bekommt einen Riss (der Dollar lebt gerade vom falkischen Ton, NICHT vom Zinsvorsprung — die US-2J-Rendite stieg diese Woche kaum).",
-    "🛢️ Öl klettert weiter: WTI ~94,9$ (+7,4% Wo), Brent ~106,4$ (+6,2%) — neue Angriffe im Nahen Osten (Saudi-Arabien, Tanker nahe der Straße von Hormus) schüren die Versorgungs-Angst. Teures Öl = frische Inflations-Sorge direkt vor dem CPI + Sicherheits-Bid für den Dollar; Rückenwind für den CAD, der aber den Job-Schock (−68k) nur teilweise ausgleicht.",
-    "🇪🇺 Reden-Marathon rund um den CPI: EZB-Chefin Lagarde spricht (10:30 Wien), dazu die Fed-Vertreter Bowman und Barkin + das Fed-Beige-Book (20:00 Wien). Töne zur Inflation können die Dezember-Erhöhungswette bewegen. Der Euro bleibt von Frankreichs Haushaltskrise gedeckelt (10-J-Zins auf Höchststand seit 2008).",
-    "🇦🇺 Heute Nacht (früh Do, ~02:30 Wien): Australische Arbeitsmarktdaten — Beschäftigung +19,6k erwartet, Quote 4,6%. Der Aussie ist der einzige G10-Dollar-Gegenspieler (RBA-Hochzins 4,60%); starke Zahlen würden das untermauern, schwache die einzige eigene Story dämpfen."
+    "📅 HEUTE Nachmittag die US-Doppel-Zahl: Erzeugerpreise PPI (14:30 Wien, Kern erw. +0,3% m/m) + Einzelhandel September (15:30 Wien, erw. +0,3% m/m). Nach der heißen Inflation gestern sind das die Bestätigungs-Tests: Heißer PPI + starker Konsum = der Falken-Dollar bekommt noch mehr Rückenwind; schwacher Konsum = erster Dämpfer für die Dezember-Erhöhungswette.",
+    "🇬🇧 Früh (08:00 Wien): Britisches BIP (August, erw. −0,1% m/m). Frühindikatoren deuteten auf einen schwachen Monat (Konsum/Einzelhandel). Schwach = Druck auf das Pfund, das aber durch die extreme Short-Positionierung (Squeeze-Gefahr) am Boden gestützt wird.",
+    "🛢️ Öl bleibt der Inflations-Treiber: WTI ~95$ (+3,9% Wo), Brent ~106$ — Angriffe im Nahen Osten + geplatzte Energie-Waffenruhe (Russland/Ukraine). Teures Öl stützt den CAD spürbar und mildert so den Dollar-Block (USD/CAD bewusst kleiner als zuletzt).",
+    "⚠️ Positionierung = Pulverfass (COT 6.10.): Euro extrem net-SHORT (z −2,2, am crowded-sten) und Pfund stark short (z −1,9) → jede Dollar-Gegenbewegung kann einen Squeeze auslösen; Yen extrem net-LONG (z +1,1) = Rückschlag-Risiko."
    ],
    "gestern": [
-    "🇦🇺 RBA-Protokoll (Di 13.10.): Die Notenbank begründete ihre September-Erhöhung auf 4,60% (15-Jahres-Hoch) falkenhaft — sie müsse „zügig handeln\", um die Inflationserwartungen zu verankern. Stützt den Aussie als eigenen Dollar-Gegenspieler.",
-    "🇫🇷 Frankreichs Haushaltsdebatte gestartet (Di, Teil 1 vom 13.–19.10., Abstimmung Teil 1 am 20.10., Schluss-Abstimmung 17.11.): Die Minderheitsregierung Lecornu hat keine Mehrheit, Frankreichs 10-Jahres-Zins steht auf dem höchsten Stand seit 2008 (über Italien/Griechenland) → deckelt den Euro, EUR/USD auf 17-Monats-Tief (~1,1154).",
-    "🇷🇺 Energie-Waffenruhe geplatzt (Mo): Die kurze Hoffnung auf eine Feuerpause im Energie-Krieg Russland–Ukraine zerschlug sich → Öl drehte nach oben und zieht seither weiter an.",
-    "🇨🇦 Nachklang Job-Schock (Fr 9.10.): Kanada verlor im September 68.000 Stellen (erwartet +9k), Quote 6,5% → USD/CAD Richtung 1,43, CAD klarer Wochenverlierer. Teures Öl gleicht das nur teilweise aus.",
-    "⚠️ Positionierung = Pulverfass (COT 6.10.): Großspekulanten extrem net-SHORT im Euro (z −2,2) und Pfund (z −1,9), stark short im Aussie (z −1,4) → Squeeze-Gefahr bei jeder Gegenbewegung; extrem net-LONG im Yen (z +1,1) = Rückschlag-Risiko."
+    "🇺🇸 US-CPI September HEISS (Mi 14.10.): Gesamt +0,6% m/m / 3,7% y/y (von 3,4%), Kern +0,3% m/m / 2,6% y/y — beide ÜBER Erwartung (Konsens 0,2% / 2,5%). Treiber: Benzin +9,1% m/m (über die Hälfte des Anstiegs). Meine Prognose „wie erwartet (0,2%)“ ging DANEBEN — die Inflation blieb zäh/heiß statt zu kühlen.",
+    "💵 Markt-Reaktion: Dollar-Index Richtung 103 (18-Monats-/April-2025-Hoch), EUR/USD auf ~1,1135 (17-Monats-/Mai-2025-Tief), Oktober-Erhöhungswette sprang von ~22% auf ~37–47%, Dezember-Erhöhung wieder klar im Spiel. WICHTIG: Erstmals stützt auch der Zinsvorsprung wieder (US-2J stieg, FedFut repreist nach oben) — das Dollar-Fundament wurde fester, nicht mehr nur „Ton“. Spät am Tag bröckelte die Rally leicht.",
+    "🇦🇺 Australische Jobs SCHWACH (früh Do, ~02:30 Wien): Beschäftigung −39.300 (erwartet +20k, größter Rückgang seit Feb 2025), Quote 4,7% (5-Jahres-Hoch), Erwerbsquote fiel auf 66,8%. Das nimmt der RBA den Erhöhungsdruck → die eigene Aussie-Story (Hochzins-Rückenwind) ist angeschlagen.",
+    "🇫🇷 Frankreichs Haushaltskrise läuft weiter (Debatte 13.–19.10., Teil-Abstimmung 20.10.): Minderheitsregierung Lecornu ohne Mehrheit, Frankreichs 10-Jahres-Zins auf höchstem Stand seit 2008 → deckelt den Euro zusätzlich zur Dollar-Stärke.",
+    "🇨🇦 Nachklang Job-Schock (Fr 9.10.): Kanada verlor −68.000 Stellen, Quote 6,5% → CAD bleibt angeschlagen, aber das teure Öl (WTI ~95$) gibt dem Loonie jetzt mehr Gegengewicht als letzte Woche."
    ]
   }
  },
@@ -3790,46 +3790,46 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 5,
+   "baseScore": 4,
    "tiltCot": -3,
    "tiltZins": -1,
    "tiltGesamt": -4,
-   "score": 1,
+   "score": 0,
    "cotExtrem": null,
-   "treiber": "Schwacher Yen + Carry + Rückschlag-Risiko der überfüllten Yen-Long-Wette sprechen für ein steigendes Paar. Die Interventionszone (~158) deckelt aber — deshalb bewusst moderat.",
+   "treiber": "Schwacher Yen + Carry + Rückschlag-Risiko der überfüllten Yen-Long-Wette sprechen für ein steigendes Paar; der VIX-Anstieg gibt dem Yen aber einen kleinen Hafen-Bid + Interventionszone (~158) deckelt → bewusst moderat.",
    "istCross": false
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 1,
+   "baseScore": -1,
    "tiltCot": -5,
    "tiltZins": 5,
    "tiltGesamt": 0,
-   "score": 1,
+   "score": -1,
    "cotExtrem": null,
-   "treiber": "Bewusst vom Dollar-Block gelöst: Die RBA-Erhöhung (4,60%, 15-J-Hoch) + höchster Zins + Risk-on geben dem Aussie eigenen Rückenwind, der die Dollar-Stärke fast ausgleicht → nahe neutral.",
+   "treiber": "Schwache Aussie-Jobs (−39,3k) + leichter Risk-off kippen das Paar ins kleine Minus; der RBA-Hochzins (4,60%) + extreme Short-Positionierung (Squeeze) begrenzen es nach unten → nahe neutral.",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 9,
+   "baseScore": 5,
    "tiltCot": 5,
    "tiltZins": 0,
    "tiltGesamt": 5,
-   "score": 14,
+   "score": 10,
    "cotExtrem": null,
-   "treiber": "Klarste Wette der Woche: Kanadas Job-Schock (−68k) trifft auf starken Dollar. Teures Öl gleicht nur schwach aus. Paar-eigener CAD-Grund, nicht nur Dollar.",
+   "treiber": "Kanadas Job-Schock (−68k) trifft starken Dollar, ABER das teure Öl (WTI ~95$) stützt den Loonie spürbar → bewusst kleiner als die +9 der Vorwoche, paar-eigener Öl-Grund löst CAD vom Dollar-Block.",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 6,
+   "baseScore": 5,
    "tiltCot": 3,
    "tiltZins": -3,
    "tiltGesamt": 0,
-   "score": 6,
+   "score": 5,
    "cotExtrem": null,
-   "treiber": "Saubere Dollar-Stärke: Risk-on nimmt dem Franken den Hafen-Bonus, SNB bei 0%.",
+   "treiber": "Dollar-Stärke nach der heißen Inflation; dem Franken gibt der steigende VIX aber einen kleinen Hafen-Bid → etwas kleiner.",
    "istCross": false
   },
   {
@@ -3856,40 +3856,40 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": 2,
+   "baseScore": 1,
    "tiltCot": -2,
    "tiltZins": 0,
    "tiltGesamt": -2,
-   "score": 0,
+   "score": -1,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 4,
+   "baseScore": 1,
    "tiltCot": -1,
    "tiltZins": 4,
    "tiltGesamt": 3,
-   "score": 7,
+   "score": 4,
    "cotExtrem": null,
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 1,
+   "baseScore": 0,
    "tiltCot": 1,
    "tiltZins": -2,
    "tiltGesamt": -1,
-   "score": 0,
+   "score": -1,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-14T22:53:45.731Z",
+  "stand": "2026-10-15T05:21:19.017Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 66,
   "gewertet": 32,
@@ -4374,10 +4374,10 @@ window.MAKRO_DATA = {
    "score": 1
   },
   "AUD": {
-   "ueber": 9,
-   "unter": 6,
+   "ueber": 10,
+   "unter": 7,
    "gleich": 4,
-   "gesamt": 19,
+   "gesamt": 21,
    "score": 3
   },
   "JPY": {
@@ -4934,6 +4934,26 @@ window.MAKRO_DATA = {
   ]
  },
  "historie": [
+  {
+   "datum": "2026-10-14T20:30:00-04:00",
+   "land": "AUD",
+   "titel": "Employment Change",
+   "impact": "High",
+   "prognose": "19.6K",
+   "vorher": "39.5K",
+   "actual": "-39.3K",
+   "notiz": null
+  },
+  {
+   "datum": "2026-10-14T20:30:00-04:00",
+   "land": "AUD",
+   "titel": "Unemployment Rate",
+   "impact": "High",
+   "prognose": "4.6%",
+   "vorher": "4.6%",
+   "actual": "4.7%",
+   "notiz": null
+  },
   {
    "datum": "2026-10-14T08:30:00-04:00",
    "land": "USD",
@@ -5512,26 +5532,6 @@ window.MAKRO_DATA = {
    "prognose": "6.5%",
    "vorher": "6.5%",
    "actual": "6.4%",
-   "notiz": "auto:TV unemployment (2026-08-07)"
-  },
-  {
-   "datum": "2026-08-07T08:30:00-04:00",
-   "land": "USD",
-   "titel": "Non-Farm Employment Change",
-   "impact": "High",
-   "prognose": "85K",
-   "vorher": "57K",
-   "actual": "-23K",
-   "notiz": null
-  },
-  {
-   "datum": "2026-08-07T08:30:00-04:00",
-   "land": "USD",
-   "titel": "Unemployment Rate",
-   "impact": "High",
-   "prognose": "4.2%",
-   "vorher": "4.2%",
-   "actual": "4.1%",
    "notiz": "auto:TV unemployment (2026-08-07)"
   }
  ],

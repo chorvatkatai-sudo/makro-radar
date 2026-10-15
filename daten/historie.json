@@ -17588,7 +17588,7 @@
       "impact": "High",
       "prognose": "19.6K",
       "vorher": "39.5K",
-      "actual": null,
+      "actual": "-39.3K",
       "notiz": null
     },
     "2026-10-14T20:30:00-04:00|AUD|Unemployment Rate": {
@@ -17598,7 +17598,7 @@
       "impact": "High",
       "prognose": "4.6%",
       "vorher": "4.6%",
-      "actual": null,
+      "actual": "4.7%",
       "notiz": null
     },
     "2026-10-14T22:55:00-04:00|USD|FOMC Member Bowman Speaks": {

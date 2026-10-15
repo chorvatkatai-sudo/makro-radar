@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-15T05:29:53.168Z",
+  "stand": "2026-10-15T08:46:34.038Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "France inflation rises sharply in September as price pressures add to ECB rate hike dilemma",
+      "link": "https://investinglive.com/news/france-inflation-rises-sharply-in-september-as-price-pressures-add-to-ecb-rate-hike-dilemma/",
+      "datum": "2026-10-15T07:16:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-64/",
+      "datum": "2026-10-15T06:36:37.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
@@ -65,18 +77,6 @@
       "titel": "China's September lending surprise masks a much deeper slump in credit demand",
       "link": "https://investinglive.com/news/china-s-september-lending-surprise-masks-a-much-deeper-slump-in-credit-demand/",
       "datum": "2026-10-14T09:29:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate hike pressure",
-      "link": "https://investinglive.com/news/spain-september-cpi-confirmed-at-4-9-as-rising-core-inflation-adds-to-ecb-rate-hike-pressure/",
-      "datum": "2026-10-14T07:15:31.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What is the distribution of forecasts for the US CPI?",
-      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-2/",
-      "datum": "2026-10-14T07:06:02.000Z"
     },
     {
       "quelle": "Fed",

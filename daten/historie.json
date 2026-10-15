@@ -18270,6 +18270,16 @@
       "vorher": "3.80|1.6",
       "actual": null,
       "notiz": null
+    },
+    "2026-10-15T00:30:00-04:00|AUD|RBA Annual Report": {
+      "datum": "2026-10-15T00:30:00-04:00",
+      "land": "AUD",
+      "titel": "RBA Annual Report",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

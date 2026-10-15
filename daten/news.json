@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-14T22:53:45.724Z",
+  "stand": "2026-10-15T05:29:53.168Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
+      "datum": "2026-10-15T03:22:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
+      "link": "https://investinglive.com/news/talk-grows-that-china-is-routing-us-treasury-holdings-through-canada-bloomberg/",
+      "datum": "2026-10-15T01:19:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australian September 2026 unemployment rate 4.7% (expected 4.6%, prior 4.7%)",
+      "link": "https://investinglive.com/news/australian-september-2026-unemployment-rate-4-7-expected-4-6-prior-4-7/",
+      "datum": "2026-10-15T00:30:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australian jobs data due imminently - previews",
+      "link": "https://investinglive.com/news/australian-jobs-data-due-imminently-previews/",
+      "datum": "2026-10-15T00:24:01.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Australia jobs preview: NAB sees 20,000 gain, unemployment steady at 4.6%",
@@ -53,30 +77,6 @@
       "titel": "What is the distribution of forecasts for the US CPI?",
       "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-2/",
       "datum": "2026-10-14T07:06:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-63/",
-      "datum": "2026-10-14T06:34:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German wholesale prices continue to push higher in September, keeping inflation risks in focus",
-      "link": "https://investinglive.com/news/german-wholesale-prices-continue-to-push-higher-in-september-keeping-inflation-risks-in-focus/",
-      "datum": "2026-10-14T06:13:47.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans?",
-      "link": "https://investinglive.com/news/economic-data-spotlight-will-the-us-cpi-report-change-the-fed-s-rate-hike-plans/",
-      "datum": "2026-10-14T05:25:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-dollar-softer-ahead-of-us-cpi/",
-      "datum": "2026-10-14T03:44:48.000Z"
     },
     {
       "quelle": "Fed",

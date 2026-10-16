@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-15T22:48:07.342Z",
+  "stand": "2026-10-16T05:20:39.732Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-warsh-stays-silent-on-rates/",
+      "datum": "2026-10-16T03:59:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Market playbook: Is the bond market starting to worry more about US growth than inflation?",
+      "link": "https://investinglive.com/news/market-playbook-is-the-bond-market-starting-to-worry-more-about-us-growth-than-inflation/",
+      "datum": "2026-10-16T03:50:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand card spending falls for second month as food prices hold flat in September",
+      "link": "https://investinglive.com/news/new-zealand-card-spending-falls-for-second-month-as-food-prices-hold-flat-in-september/",
+      "datum": "2026-10-15T22:25:07.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
@@ -59,24 +77,6 @@
       "titel": "US September PPI 6.3% vs 5.3% expected",
       "link": "https://investinglive.com/news/us-september-ppi-6-3-vs-5-3-expected/",
       "datum": "2026-10-15T12:30:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Markets consolidate after the US CPI shock",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-after-the-us-cpi-shock/",
-      "datum": "2026-10-15T11:34:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US inflation worries aren't over yet as PPI and retail sales pose fresh risks for markets",
-      "link": "https://investinglive.com/news/us-inflation-worries-aren-t-over-yet-as-ppi-and-retail-sales-pose-fresh-risks-for-markets/",
-      "datum": "2026-10-15T08:44:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France inflation rises sharply in September as price pressures add to ECB rate hike dilemma",
-      "link": "https://investinglive.com/news/france-inflation-rises-sharply-in-september-as-price-pressures-add-to-ecb-rate-hike-dilemma/",
-      "datum": "2026-10-15T07:16:53.000Z"
     },
     {
       "quelle": "Fed",

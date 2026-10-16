@@ -1,32 +1,32 @@
 {
-  "stand": "2026-10-16T13:34:43.079Z",
+  "stand": "2026-10-16T19:09:22.857Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 36,
+    "faelle": 37,
     "treffer": 20,
-    "quote": 56,
-    "schnittGerichtet": 0.064,
-    "schnittBetrag": 0.305,
-    "pWert": 0.618,
+    "quote": 54,
+    "schnittGerichtet": 0.047,
+    "schnittBetrag": 0.312,
+    "pWert": 0.743,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 66,
+    "faelle": 69,
     "treffer": 37,
-    "quote": 56,
-    "schnittGerichtet": 0.069,
-    "schnittBetrag": 0.336,
-    "pWert": 0.389,
+    "quote": 54,
+    "schnittGerichtet": 0.042,
+    "schnittBetrag": 0.346,
+    "pWert": 0.63,
     "belastbar": false
   },
   "jeWaehrung": {
     "USD": {
-      "faelle": 12,
+      "faelle": 13,
       "treffer": 6,
-      "quote": 50,
-      "schnittGerichtet": 0.022,
-      "schnittBetrag": 0.266,
+      "quote": 46,
+      "schnittGerichtet": -0.023,
+      "schnittBetrag": 0.289,
       "pWert": 1,
       "belastbar": false
     },
@@ -60,12 +60,12 @@
   },
   "jeKategorie": {
     "Inflation": {
-      "faelle": 16,
+      "faelle": 17,
       "treffer": 11,
-      "quote": 69,
-      "schnittGerichtet": 0.121,
-      "schnittBetrag": 0.255,
-      "pWert": 0.21,
+      "quote": 65,
+      "schnittGerichtet": 0.081,
+      "schnittBetrag": 0.273,
+      "pWert": 0.332,
       "belastbar": false
     },
     "Arbeitsmarkt": {
@@ -89,12 +89,12 @@
   },
   "jeWaehrungRoh": {
     "USD": {
-      "faelle": 28,
+      "faelle": 31,
       "treffer": 16,
-      "quote": 57,
-      "schnittGerichtet": 0.05,
-      "schnittBetrag": 0.274,
-      "pWert": 0.572,
+      "quote": 52,
+      "schnittGerichtet": -0.01,
+      "schnittBetrag": 0.303,
+      "pWert": 1,
       "belastbar": false
     },
     "CAD": {
@@ -135,15 +135,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-09-11",
-      "land": "USD",
-      "titel": "Core CPI m/m",
-      "ueberraschung": "hoeher",
-      "erwartet": "stärker",
-      "bewegung": 0.37,
-      "wieErwartet": true
-    },
     {
       "datum": "2026-09-16",
       "land": "NZD",
@@ -223,6 +214,15 @@
       "ueberraschung": "hoeher",
       "erwartet": "stärker",
       "bewegung": -0.15,
+      "wieErwartet": false
+    },
+    {
+      "datum": "2026-10-15",
+      "land": "USD",
+      "titel": "Core PPI m/m (+2 weitere)",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": -0.564,
       "wieErwartet": false
     }
   ]

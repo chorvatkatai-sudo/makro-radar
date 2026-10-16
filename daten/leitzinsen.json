@@ -1,11 +1,11 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-10-09",
+  "stand": "2026-10-16",
   "zinsen": [
     {
       "code": "AUD",
       "bank": "RBA",
-      "satz": 4.60,
+      "satz": 4.6,
       "anzeige": "4,60%",
       "naechste": "Anfang Nov 2026",
       "erwartung": "Am Di 29.9. um 0,25 auf 4,60% ERHÖHT — ein 15-Jahres-Hoch und die 4. Erhöhung dieses Jahr, einstimmig. Die Gouverneurin sagte, ein Halten sei diskutiert worden, am Ende aber weitere Straffung für nötig befunden. Markt las die Pressekonferenz als etwas weniger falkenhaft; eine Bank sieht dennoch eine weitere Erhöhung im November (→ 4,85%). Höchster Zins + höchster 2-Jahres-Marktzins aller großen Währungen = der einzige echte Dollar-Gegenspieler. Das RBA-Protokoll kommt Di 13.10.",
@@ -25,8 +25,8 @@
       "bank": "Fed",
       "satz": 3.875,
       "anzeige": "3,75–4,00%",
-      "naechste": "28.10.2026 (Oktober ~82% HALTEN, Dezember-Erhöhung ~75% erwartet)",
-      "erwartung": "Erhöhte am 16.9. erstmals seit 2023 auf 3,75–4,00% (falkenhafter Chef Warsh). Stand 9.10.: Das FOMC-Protokoll vom Mi 7.10. wurde falkenhaft gelesen — die Mehrheit stand zur projizierten weiteren Erhöhung 2026, Inflationswachsamkeit vor Jobsorge. Am 28.10. erwartet der Markt aber eher eine PAUSE (~82% Halten, nachdem die Jobs am 2.10. mit nur +29k enttäuschten), die Erhöhung dann im DEZEMBER (~75% eingepreist, CME FedWatch; Kalshi ~65%). WICHTIG: Die 2-Jahres-Rendite FÄLLT diese Woche — der Dollar (18-Monats-Hoch) lebt gerade vom falkenhaften TON, nicht vom Zinsvorsprung.",
+      "naechste": "28.10.2026 (Oktober ~70–75% HALTEN, Dezember-Erhöhung ~90%+ erwartet)",
+      "erwartung": "Erhöhte am 16.9. erstmals seit 2023 auf 3,75–4,00% (falkenhafter Chef Warsh). Stand 9.10.: Das FOMC-Protokoll vom Mi 7.10. wurde falkenhaft gelesen — die Mehrheit stand zur projizierten weiteren Erhöhung 2026, Inflationswachsamkeit vor Jobsorge. Stand 16.10.: Die September-Inflation kam HEISS (CPI 3,7%, Kern +0,3% m/m; PPI +1,3% / 6,3% y/y) und trieb den DXY am 14.10. kurz auf ein 18-Monats-Hoch (~102,9). Dann aber signalisierten Fed-Chefinnen Bowman und Daly, man könne WARTEN → die Wette auf eine Oktober-Erhöhung halbierte sich von ~50% auf nur noch ~25–30% (also ~70–75% Pause am 28.10.). Die Dezember-Erhöhung bleibt fast sicher (~90%+ eingepreist). Lange Renditen fielen, der Dollar gab das Hoch wieder ab (101,6). Kernthese bestätigt: Der Dollar lebt vom TON, und der wurde diese Woche weicher.",
       "richtung": "rauf"
     },
     {
@@ -43,7 +43,7 @@
       "bank": "EZB",
       "satz": 2.5,
       "anzeige": "2,50%",
-      "naechste": "Ende Okt 2026",
+      "naechste": "29.10.2026",
       "erwartung": "Zuletzt auf 2,50% erhöht (Einlagensatz 2,25%). Stand 9.10.: Die September-Inflation kam HEISS (3,8% y/y, Energie +18,8%, Kern 2,5%) — das verbietet der EZB Zinssenkungen und ist der fundamentale Anker des Euro. Gegendruck kommt aber aus Frankreich: Premier Lecornus Sparbudget 2027 hat keine Mehrheit (Durchkommen evtl. nur über Verfassungsartikel 49.3), der Risikoaufschlag französischer Anleihen bleibt hoch (~130 Basispunkte). Der Euro klemmt deshalb bei ~1,12, am 5.10. 17-Monats-Tief 1,1162.",
       "richtung": "halten"
     },

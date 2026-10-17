@@ -1202,16 +1202,6 @@
   {
     "date": "2026-10-22T12:30:00.000Z",
     "country": "CAD",
-    "title": "PPI MoM",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1.3%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-22T12:30:00.000Z",
-    "country": "CAD",
     "title": "Raw Materials Prices YoY",
     "impact": "Low",
     "forecast": "",
@@ -1226,6 +1216,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "13.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-22T12:30:00.000Z",
+    "country": "CAD",
+    "title": "PPI MoM",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.3%",
     "actual": null,
     "quelle": "tradingview"
   },

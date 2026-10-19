@@ -372,20 +372,20 @@
   {
     "date": "2026-10-27T14:00:00.000Z",
     "country": "USD",
-    "title": "New Home Sales",
+    "title": "CB Consumer Confidence",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.684",
+    "previous": "81.9",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-27T14:00:00.000Z",
     "country": "USD",
-    "title": "CB Consumer Confidence",
+    "title": "New Home Sales MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "81.9",
+    "previous": "6.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -412,10 +412,10 @@
   {
     "date": "2026-10-27T14:00:00.000Z",
     "country": "USD",
-    "title": "New Home Sales MoM",
+    "title": "New Home Sales",
     "impact": "Medium",
     "forecast": "",
-    "previous": "6.4",
+    "previous": "0.684",
     "actual": null,
     "quelle": "tradingview"
   },

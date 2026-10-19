@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-19T09:31:23.110Z",
+  "stand": "2026-10-19T11:42:21.504Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic data spotlight: UK inflation set to climb as BOE rate hike and autumn budget collide",
+      "link": "https://investinglive.com/news/economic-data-spotlight-uk-inflation-set-to-climb-as-boe-rate-hike-and-autumn-budget-collide/",
+      "datum": "2026-10-19T09:48:35.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
@@ -71,12 +77,6 @@
       "titel": "Economic and event calendar in Asia - China data the focus",
       "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-china-data-the-focus/",
       "datum": "2026-10-18T21:46:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access",
-      "link": "https://investinglive.com/news/us-threatens-eu-with-devastating-retaliation-if-brussels-curbs-starlink-spectrum-access/",
-      "datum": "2026-10-18T20:36:59.000Z"
     },
     {
       "quelle": "Fed",

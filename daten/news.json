@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-18T05:11:28.106Z",
+  "stand": "2026-10-19T05:13:07.297Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,81 +8,81 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nasdaq-sinks-and-oil-jumps/",
-      "datum": "2026-10-16T20:08:17.000Z"
+      "titel": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-beats-the-euro-wobbles-and-oil-dips/",
+      "datum": "2026-10-19T03:57:13.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "US fiscal 2026 budget deficit was the largest in five years",
-      "link": "https://investinglive.com/news/us-fiscal-2026-budget-deficit-was-the-largest-in-five-years/",
-      "datum": "2026-10-16T18:06:27.000Z"
+      "titel": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
+      "link": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
+      "datum": "2026-10-19T02:33:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China moves to prop up stocks with selling curbs, buybacks after 10% slide this year",
+      "link": "https://investinglive.com/news/china-moves-to-prop-up-stocks-with-selling-curbs-buybacks-after-10-slide-this-year/",
+      "datum": "2026-10-19T02:07:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China Q3 GDP beats estimates, as does September retail sales",
+      "link": "https://investinglive.com/news/china-q3-gdp-beats-estimates-as-does-september-retail-sales/",
+      "datum": "2026-10-19T02:01:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China home price declines ease in September, ahead of Q3 GDP seen at 4.4%",
+      "link": "https://investinglive.com/news/china-home-price-declines-ease-in-september-ahead-of-q3-gdp-seen-at-4-4/",
+      "datum": "2026-10-19T01:38:34.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Only a third of the US data centre pipeline looks credible as AI financing strains build",
+      "link": "https://investinglive.com/news/only-a-third-of-the-us-data-centre-pipeline-looks-credible-as-ai-financing-strains-build/",
+      "datum": "2026-10-18T23:24:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China data preview: industry holds up, consumers and property lag ahead of Q3 GDP",
+      "link": "https://investinglive.com/news/china-data-preview-industry-holds-up-consumers-and-property-lag-ahead-of-q3-gdp/",
+      "datum": "2026-10-18T22:04:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand trade deficit widens to nearly NZ$2 billion, more than double forecasts",
+      "link": "https://investinglive.com/news/new-zealand-trade-deficit-widens-to-nearly-nz-2-billion-more-than-double-forecasts/",
+      "datum": "2026-10-18T22:00:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand services sector grows for four months straight as PSI holds at 50.9",
+      "link": "https://investinglive.com/news/new-zealand-services-sector-grows-for-four-months-straight-as-psi-holds-at-50-9/",
+      "datum": "2026-10-18T21:46:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia - China data the focus",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-china-data-the-focus/",
+      "datum": "2026-10-18T21:46:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access",
+      "link": "https://investinglive.com/news/us-threatens-eu-with-devastating-retaliation-if-brussels-curbs-starlink-spectrum-access/",
+      "datum": "2026-10-18T20:36:59.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
+      "link": "https://investinglive.com/news/romanian-f-16s-shoot-down-two-drones-over-black-sea-nato-council-to-meet-tuesday/",
+      "datum": "2026-10-18T20:22:33.000Z"
     },
     {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
       "datum": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US September industrial production +0.7% vs +0.4% expected",
-      "link": "https://investinglive.com/news/us-september-industrial-production-0-7-vs-0-4-expected/",
-      "datum": "2026-10-16T13:17:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US September import price index +1.1% vs +0.8% expected",
-      "link": "https://investinglive.com/news/us-september-import-price-index-1-1-vs-0-8-expected/",
-      "datum": "2026-10-16T12:30:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Dollar slips as stocks steady and yields edge a little higher",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher/",
-      "datum": "2026-10-16T11:51:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone September final CPI +3.8% vs +3.8% y/y prelim",
-      "link": "https://investinglive.com/news/eurozone-september-final-cpi-vs-3-8-y-y-prelim/",
-      "datum": "2026-10-16T09:00:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-65/",
-      "datum": "2026-10-16T06:34:57.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-warsh-stays-silent-on-rates/",
-      "datum": "2026-10-16T03:59:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Market playbook: Is the bond market starting to worry more about US growth than inflation?",
-      "link": "https://investinglive.com/news/market-playbook-is-the-bond-market-starting-to-worry-more-about-us-growth-than-inflation/",
-      "datum": "2026-10-16T03:50:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "New Zealand card spending falls for second month as food prices hold flat in September",
-      "link": "https://investinglive.com/news/new-zealand-card-spending-falls-for-second-month-as-food-prices-hold-flat-in-september/",
-      "datum": "2026-10-15T22:25:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
-      "link": "https://investinglive.com/news/new-zealand-manufacturing-pmi-jumps-to-56-5-15th-straight-month-of-expansion/",
-      "datum": "2026-10-15T21:39:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Yields continue to fall even after hot PPI data",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-yields-continue-to-fall-even-after-hot-ppi-data/",
-      "datum": "2026-10-15T19:50:41.000Z"
     },
     {
       "quelle": "Fed",

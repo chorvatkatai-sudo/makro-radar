@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-19T05:12:15.036Z",
+ "erstellt": "2026-10-19T05:13:07.749Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -3288,18 +3288,17 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-18T05:11:27.851Z",
+  "stand": "2026-10-19T05:13:06.930Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.78,
-    "tagProzent": -0.06,
-    "wocheProzent": -0.78,
+    "wert": 101.82,
+    "tagProzent": 0,
+    "wocheProzent": -0.35,
     "renditeDelta": false,
     "verlauf": [
-     100.22,
      100.43,
      100.6,
      101.1,
@@ -3320,7 +3319,8 @@ window.MAKRO_DATA = {
      102.55,
      102,
      101.84,
-     101.78
+     101.82,
+     101.82
     ]
    },
    "VIX": {
@@ -3360,12 +3360,11 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 99.02,
+    "wert": 97.51,
     "tagProzent": 0,
-    "wocheProzent": 5.63,
+    "wocheProzent": 3.58,
     "renditeDelta": false,
     "verlauf": [
-     100.3,
      95.78,
      94.59,
      92.16,
@@ -3385,20 +3384,20 @@ window.MAKRO_DATA = {
      94.14,
      95.09,
      97.97,
-     99.02,
-     99.02
+     101.41,
+     97.51,
+     97.51
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 109.86,
+    "wert": 108,
     "tagProzent": 0,
-    "wocheProzent": 3.01,
+    "wocheProzent": 2.19,
     "renditeDelta": false,
     "verlauf": [
-     103.87,
      100.34,
      99.25,
      103.08,
@@ -3419,19 +3418,19 @@ window.MAKRO_DATA = {
      106.06,
      105.92,
      109.86,
-     109.86
+     108,
+     108
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4181.1,
+    "wert": 4200.4,
     "tagProzent": 0,
-    "wocheProzent": -0.23,
+    "wocheProzent": 0.55,
     "renditeDelta": false,
     "verlauf": [
-     4424.9,
      4383.9,
      4376.4,
      4318.4,
@@ -3452,7 +3451,8 @@ window.MAKRO_DATA = {
      4107.9,
      4170.1,
      4181.1,
-     4181.1
+     4200.4,
+     4200.4
     ]
    },
    "US02Y": {
@@ -3461,9 +3461,27 @@ window.MAKRO_DATA = {
     "typ": "rendite",
     "wert": 4.75,
     "tagProzent": 0,
-    "wocheProzent": 0,
+    "wocheProzent": 0.1,
     "renditeDelta": true,
     "verlauf": [
+     4.422,
+     4.422,
+     4.448,
+     4.472,
+     4.5,
+     4.5,
+     4.885,
+     4.61,
+     4.635,
+     4.638,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.75,
+     4.75,
+     4.75,
      4.75,
      4.75
     ]
@@ -3538,12 +3556,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 81677.3,
+    "wert": 82559.6,
     "tagProzent": 0,
-    "wocheProzent": -1.71,
+    "wocheProzent": 1.22,
     "renditeDelta": false,
     "verlauf": [
-     84458.09,
      83502.61,
      83622.43,
      83553.85,
@@ -3563,8 +3580,9 @@ window.MAKRO_DATA = {
      81562.49,
      82141.46,
      81500.8,
-     81677.3,
-     81677.3
+     81382.15,
+     82559.6,
+     82559.6
     ]
    },
    "FEDFUT": {
@@ -3573,7 +3591,7 @@ window.MAKRO_DATA = {
     "typ": "rendite",
     "wert": 3.92,
     "tagProzent": 0,
-    "wocheProzent": 0.04,
+    "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
      3.75,
@@ -3584,7 +3602,6 @@ window.MAKRO_DATA = {
      3.75,
      3.75,
      3.75,
-     3.75,
      3.89,
      3.88,
      3.89,
@@ -3593,6 +3610,7 @@ window.MAKRO_DATA = {
      3.89,
      3.89,
      3.88,
+     3.89,
      3.89,
      3.89,
      3.89,
@@ -3693,39 +3711,39 @@ window.MAKRO_DATA = {
    }
   },
   "zinsen2j": {
-   "stand": "2026-10-18",
+   "stand": "2026-10-19",
    "werte": {
     "USD": {
-     "wert": 4.715,
-     "wocheDelta": -0.043
+     "wert": 4.723,
+     "wocheDelta": -0.077
     },
     "EUR": {
      "wert": 3.075,
-     "wocheDelta": 0.021
+     "wocheDelta": -0.013
     },
     "GBP": {
      "wert": 4.91,
-     "wocheDelta": 0.053
+     "wocheDelta": 0.028
     },
     "JPY": {
-     "wert": 1.901,
-     "wocheDelta": -0.041
+     "wert": 1.883,
+     "wocheDelta": -0.022
     },
     "AUD": {
-     "wert": 4.893,
-     "wocheDelta": -0.023
+     "wert": 4.88,
+     "wocheDelta": -0.07
     },
     "CAD": {
      "wert": 3.2,
-     "wocheDelta": -0.048
+     "wocheDelta": 0.014
     },
     "CHF": {
      "wert": 0.22,
-     "wocheDelta": -0.002
+     "wocheDelta": -0.015
     },
     "NZD": {
-     "wert": 3.92,
-     "wocheDelta": 0.04
+     "wert": 3.94,
+     "wocheDelta": 0.08
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3764,9 +3782,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 3,
    "tiltCot": -3,
-   "tiltZins": 0,
-   "tiltGesamt": -3,
-   "score": 0,
+   "tiltZins": -2,
+   "tiltGesamt": -5,
+   "score": -2,
    "cotExtrem": null,
    "treiber": "Bewusst GEGEN die milde Dollar-Schwäche gestellt: Der Yen ist crowded-long (COT z +1,12) = Rückschlag-Risiko + Carry-Nachteil. Yen-Reversal überwiegt hier den weichen Dollar.",
    "istCross": false
@@ -3786,9 +3804,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -3,
    "tiltCot": 5,
-   "tiltZins": 0,
-   "tiltGesamt": 5,
-   "score": 2,
+   "tiltZins": -4,
+   "tiltGesamt": 1,
+   "score": -2,
    "cotExtrem": null,
    "treiber": "Teures Öl (WTI 96$) stützt den Loonie + möglicher Benzin-Push bei der Kanada-CPI Mo → Dollar/Loonie eher runter. Öl-Story löst das Paar vom Dollar-Block.",
    "istCross": false
@@ -3808,9 +3826,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": 1,
    "tiltCot": -5,
-   "tiltZins": 3,
-   "tiltGesamt": -2,
-   "score": -1,
+   "tiltZins": 6,
+   "tiltGesamt": 1,
+   "score": 2,
    "cotExtrem": "erhoeht",
    "treiber": "Steigender Kiwi-Zins + weicher Dollar heben minimal, aber risk-off deckelt → fast neutral, leicht positiv.",
    "istCross": false
@@ -3819,9 +3837,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/GBP",
    "baseScore": -1,
    "tiltCot": 2,
-   "tiltZins": -1,
-   "tiltGesamt": 1,
-   "score": 0,
+   "tiltZins": -2,
+   "tiltGesamt": 0,
+   "score": -1,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3830,9 +3848,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/JPY",
    "baseScore": 4,
    "tiltCot": -2,
-   "tiltZins": 2,
-   "tiltGesamt": 0,
-   "score": 4,
+   "tiltZins": 0,
+   "tiltGesamt": -2,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3841,9 +3859,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": -1,
    "tiltCot": 1,
-   "tiltZins": -3,
-   "tiltGesamt": -2,
-   "score": -3,
+   "tiltZins": -6,
+   "tiltGesamt": -5,
+   "score": -6,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
@@ -3861,7 +3879,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-19T05:12:15.035Z",
+  "stand": "2026-10-19T05:13:07.305Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
   "gewertet": 34,
@@ -3969,7 +3987,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-18T05:11:28.879Z",
+  "stand": "2026-10-19T05:13:07.748Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4199,7 +4217,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-18T05:11:28.106Z",
+  "stand": "2026-10-19T05:13:07.297Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -4208,81 +4226,81 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "ForexLive",
-    "titel": "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
-    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nasdaq-sinks-and-oil-jumps/",
-    "datum": "2026-10-16T20:08:17.000Z"
+    "titel": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
+    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-beats-the-euro-wobbles-and-oil-dips/",
+    "datum": "2026-10-19T03:57:13.000Z"
    },
    {
     "quelle": "ForexLive",
-    "titel": "US fiscal 2026 budget deficit was the largest in five years",
-    "link": "https://investinglive.com/news/us-fiscal-2026-budget-deficit-was-the-largest-in-five-years/",
-    "datum": "2026-10-16T18:06:27.000Z"
+    "titel": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
+    "link": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
+    "datum": "2026-10-19T02:33:05.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China moves to prop up stocks with selling curbs, buybacks after 10% slide this year",
+    "link": "https://investinglive.com/news/china-moves-to-prop-up-stocks-with-selling-curbs-buybacks-after-10-slide-this-year/",
+    "datum": "2026-10-19T02:07:46.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China Q3 GDP beats estimates, as does September retail sales",
+    "link": "https://investinglive.com/news/china-q3-gdp-beats-estimates-as-does-september-retail-sales/",
+    "datum": "2026-10-19T02:01:01.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China home price declines ease in September, ahead of Q3 GDP seen at 4.4%",
+    "link": "https://investinglive.com/news/china-home-price-declines-ease-in-september-ahead-of-q3-gdp-seen-at-4-4/",
+    "datum": "2026-10-19T01:38:34.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Only a third of the US data centre pipeline looks credible as AI financing strains build",
+    "link": "https://investinglive.com/news/only-a-third-of-the-us-data-centre-pipeline-looks-credible-as-ai-financing-strains-build/",
+    "datum": "2026-10-18T23:24:42.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China data preview: industry holds up, consumers and property lag ahead of Q3 GDP",
+    "link": "https://investinglive.com/news/china-data-preview-industry-holds-up-consumers-and-property-lag-ahead-of-q3-gdp/",
+    "datum": "2026-10-18T22:04:05.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "New Zealand trade deficit widens to nearly NZ$2 billion, more than double forecasts",
+    "link": "https://investinglive.com/news/new-zealand-trade-deficit-widens-to-nearly-nz-2-billion-more-than-double-forecasts/",
+    "datum": "2026-10-18T22:00:42.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "New Zealand services sector grows for four months straight as PSI holds at 50.9",
+    "link": "https://investinglive.com/news/new-zealand-services-sector-grows-for-four-months-straight-as-psi-holds-at-50-9/",
+    "datum": "2026-10-18T21:46:46.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Economic and event calendar in Asia - China data the focus",
+    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-china-data-the-focus/",
+    "datum": "2026-10-18T21:46:33.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access",
+    "link": "https://investinglive.com/news/us-threatens-eu-with-devastating-retaliation-if-brussels-curbs-starlink-spectrum-access/",
+    "datum": "2026-10-18T20:36:59.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
+    "link": "https://investinglive.com/news/romanian-f-16s-shoot-down-two-drones-over-black-sea-nato-council-to-meet-tuesday/",
+    "datum": "2026-10-18T20:22:33.000Z"
    },
    {
     "quelle": "Fed",
     "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "datum": "2026-10-16T15:00:00.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US September industrial production +0.7% vs +0.4% expected",
-    "link": "https://investinglive.com/news/us-september-industrial-production-0-7-vs-0-4-expected/",
-    "datum": "2026-10-16T13:17:39.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US September import price index +1.1% vs +0.8% expected",
-    "link": "https://investinglive.com/news/us-september-import-price-index-1-1-vs-0-8-expected/",
-    "datum": "2026-10-16T12:30:07.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European session wrap: Dollar slips as stocks steady and yields edge a little higher",
-    "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher/",
-    "datum": "2026-10-16T11:51:59.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Eurozone September final CPI +3.8% vs +3.8% y/y prelim",
-    "link": "https://investinglive.com/news/eurozone-september-final-cpi-vs-3-8-y-y-prelim/",
-    "datum": "2026-10-16T09:00:49.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "What are the main events for today?",
-    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-65/",
-    "datum": "2026-10-16T06:34:57.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
-    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-warsh-stays-silent-on-rates/",
-    "datum": "2026-10-16T03:59:13.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Market playbook: Is the bond market starting to worry more about US growth than inflation?",
-    "link": "https://investinglive.com/news/market-playbook-is-the-bond-market-starting-to-worry-more-about-us-growth-than-inflation/",
-    "datum": "2026-10-16T03:50:43.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "New Zealand card spending falls for second month as food prices hold flat in September",
-    "link": "https://investinglive.com/news/new-zealand-card-spending-falls-for-second-month-as-food-prices-hold-flat-in-september/",
-    "datum": "2026-10-15T22:25:07.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
-    "link": "https://investinglive.com/news/new-zealand-manufacturing-pmi-jumps-to-56-5-15th-straight-month-of-expansion/",
-    "datum": "2026-10-15T21:39:55.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Americas market news wrap: Yields continue to fall even after hot PPI data",
-    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-yields-continue-to-fall-even-after-hot-ppi-data/",
-    "datum": "2026-10-15T19:50:41.000Z"
    },
    {
     "quelle": "Fed",

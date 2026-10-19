@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-18T05:11:28.108Z",
+  "stand": "2026-10-19T05:12:15.019Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -38,13 +38,13 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -3,
+      "baseScore": -2,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": -8,
+      "score": -7,
       "cotExtrem": "erhoeht",
-      "treiber": "Job-Schock (−39,3k) + risk-off (VIX hoch) belasten den Aussie stärker als der weiche Dollar hilft. Vom Dollar-Block über die eigene Arbeitsmarkt-Story gelöst.",
+      "treiber": "Job-Schock (−39,3k) + Risk-off (VIX ~20) belasten, aber China-BIP-Beat (+4,5%) gibt dem Aussie einen kleinen Boden → gegenüber Freitag etwas weniger negativ. Vom Dollar-Block über eigene Stories gelöst.",
       "istCross": false
     },
     {

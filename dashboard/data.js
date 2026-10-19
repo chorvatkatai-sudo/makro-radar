@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-18T05:11:28.880Z",
+ "erstellt": "2026-10-19T05:12:15.036Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -2651,12 +2651,12 @@ window.MAKRO_DATA = {
    "EUR": {
     "stimmung": "neutral",
     "score": 3,
-    "grund": "Die Spekulanten sind so extrem auf einen fallenden Euro gewettet wie selten (COT z −2,24 = EXTREM short) → größtes Eindeckungs-/Squeeze-Risiko aller Währungen, und der Dollar kommt vom Hoch zurück. ABER: Frankreichs Haushaltskrise (10-J-Zins auf höchstem Stand seit 2008, Abstimmung Mo 20.10.) und kein EZB-Impuls bis 29.10. deckeln das Plus."
+    "grund": "Die Spekulanten sind so extrem auf einen fallenden Euro gewettet wie fast nie (COT Stand 13.10. z −2,71 = EXTREM short) → größtes Eindeckungs-/Squeeze-Risiko aller Währungen, und der Dollar kommt vom Hoch zurück. ABER: Frankreichs Haushaltskrise (10-J-Zins höchster Stand seit 2008, Abstimmung heute Mo 19.10.) und kein EZB-Impuls bis 29.10. deckeln das Plus."
    },
    "GBP": {
     "stimmung": "bullisch",
     "score": 5,
-    "grund": "Das Pfund sprang schon diese Woche auf den heißen US-PPI, weil die Short-Positionierung extrem ist (COT z −1,93 „erhöht“ = Squeeze-Zünder). Der britische 2-Jahres-Zins steigt leicht (+0,026), und das UK-BIP kam Do mit +0,1% besser als befürchtet. UK-CPI am Mi ist der nächste Squeeze-Auslöser."
+    "grund": "Das Pfund sprang auf den heißen US-PPI, weil die Short-Positionierung extrem ist (COT Stand 13.10. z −2,09 = Squeeze-Zünder). Der britische 2-Jahres-Zins steigt am stärksten (+0,053). UK-CPI am Mi ist der nächste Squeeze-Auslöser."
    },
    "JPY": {
     "stimmung": "bärisch",
@@ -2665,8 +2665,8 @@ window.MAKRO_DATA = {
    },
    "CHF": {
     "stimmung": "neutral",
-    "score": 1,
-    "grund": "Der steigende VIX (+6,4% Wo) gibt dem sicheren Hafen Franken einen leichten Bid, und der Schweizer 2-Jahres-Zins war diese Woche der stärkste Steiger (+0,058). Ansonsten unauffällig (SNB bei 0%), daher nur minimal positiv."
+    "score": 2,
+    "grund": "Der VIX sprang auf ein 4-Monats-Hoch (~20, +31% Wo) = klarer Risk-off-Schub → der sichere Hafen Franken bekommt Bid. Der Schweizer 2-Jahres-Zins war zuletzt stark (Vorwoche stärkster Steiger). SNB bei 0%, sonst unauffällig — daher moderat positiv."
    },
    "CAD": {
     "stimmung": "neutral",
@@ -2675,8 +2675,8 @@ window.MAKRO_DATA = {
    },
    "AUD": {
     "stimmung": "bärisch",
-    "score": -4,
-    "grund": "Job-SCHOCK: −39.300 Stellen (erwartet +19.600), Arbeitslosigkeit 4,7% (5-J-Hoch) → der RBA fehlt der Druck zum Weiter-Erhöhen, die eigene Hochzins-Story ist angekratzt. Der steigende VIX trimmt zudem Rohstoff-Währungen. Höchster Zins (2J 4,89%) + RBA 4,60% federn den Rückgang ab."
+    "score": -3,
+    "grund": "Job-SCHOCK der Vorwoche (−39.300 Stellen, Quote 4,7% = 5-J-Hoch) kratzt die RBA-Hochzins-Story an. China-BIP Q3 +4,5% (Beat) gibt einen kleinen Boden, ist aber binnen-schwach. Der Risk-off-Schub (VIX ~20) trimmt Rohstoff-Währungen zusätzlich. Höchster Zins (2J 4,89%) + RBA 4,60% federn den Rückgang ab."
    },
    "NZD": {
     "stimmung": "neutral",
@@ -2702,8 +2702,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": -3,
-    "treiber": "Job-Schock (−39,3k) + risk-off (VIX hoch) belasten den Aussie stärker als der weiche Dollar hilft. Vom Dollar-Block über die eigene Arbeitsmarkt-Story gelöst."
+    "score": -2,
+    "treiber": "Job-Schock (−39,3k) + Risk-off (VIX ~20) belasten, aber China-BIP-Beat (+4,5%) gibt dem Aussie einen kleinen Boden → gegenüber Freitag etwas weniger negativ. Vom Dollar-Block über eigene Stories gelöst."
    },
    {
     "paar": "USD/CAD",
@@ -2806,20 +2806,20 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/15 = 47%, Konzentration 89%, Zufallsband [4,11] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 58% vs. nurBase 57%). Zahlen-Prognosen echte-Daten-Anteil nur 7/25 = 28% — die Zahlen-Calls sind in dieser Phase NICHT der verlässliche Teil. Deshalb Scores bewusst klein + diversifiziert: nicht alle 7 Paare dieselbe Dollar-Wette (JPY über Yen-Reversal, AUD über Job-Schock, CAD über Öl vom Dollar-Block gelöst; Konzentration bewusst nur ~71%)."
   ],
   "tagesnews": {
-   "stand": "2026-10-18",
-   "wochentag": "Sonntag",
-   "tenor": "Wochenende, Tag 2 — die Märkte ruhen, nichts Neues. Der Dollar geht angeknackst in die neue Woche: Trotz heißer US-Inflation (CPI 3,7%, PPI 6,3% — höchster seit Jahren) fiel der DXY auf 101,8 (−0,78% Wo), weil Fed-Rednerinnen (Bowman/Daly) Geduld signalisierten. Mitzunehmen in die neue Woche: Das Angst-Barometer VIX steht erhöht bei ~20 (+31% Wo) und Öl ist teuer (WTI 99$) = Risk-off-Beigeschmack. Die USA sind diese Woche ruhig (KEIN Fed, Schweigephase vor dem 28.10.), die Zünder liegen anderswo: Kanada-CPI (Mo), UK-CPI (Mi), Flash-PMIs (Fr).",
+   "stand": "2026-10-19",
+   "wochentag": "Montag",
+   "tenor": "Risk-off dominiert den Wochenstart: Das Angst-Barometer VIX steht auf einem 4-Monats-Hoch (~20, +31% Wo) nach Tech-/Chip-Ausverkauf, dazu teures Öl (WTI 99$). China-BIP schlug leicht (4,5%), ist aber binnen-schwach. Der Dollar (DXY 101,8) geht angeknackst in eine für die USA ruhige Woche (KEIN Fed) — die Zünder liegen heute bei Kanada-CPI + Frankreichs Haushalts-Abstimmung.",
    "heute": [
-    "🛌 Sonntag: Keine neuen Marktdaten — die FX-Kurse im Dashboard stehen auf dem Freitags-Schluss (DXY 101,8, Gold 4.181$, VIX ~20, WTI 99$, Brent 109,9$, US-10J 5,10%). Das volle Wochenbriefing mit Ausblick + Prognosen ist online; am Montag geht es mit echten Daten los.",
-    "🇨🇦 Montag 19.10.: Kanada-CPI (14:30 Wien) — unsere Prognose: höher (Benzin treibt). Zeitgleich Frankreichs Haushalts-Abstimmung (hält den Euro unten) + China-BIP Q3.",
-    "🇬🇧 Mittwoch 21.10.: UK-CPI (07:00 Wien) = der Pfund-Zünder. Das Pfund war Wochengewinner (extreme Short-Positionierung, COT z −1,93 → Eindeckungs-Gefahr), ein Überraschungs-CPI kann den Squeeze befeuern.",
-    "🌍 Freitag 23.10.: Flash-PMIs (DE/EU/UK/US ab 09:15) + UK-Einzelhandel. Die Fed bleibt bis zum 28.10. still."
+    "🇨🇳 China-BIP Q3 +4,5% y/y (leicht über 4,4% erwartet, beschleunigt von 4,3%), Quartal +1,2%. ABER: export- und staatsgetrieben, Binnennachfrage/Einzelhandel schwach → für den Aussie nur ein kleiner Boden, kein Freudensprung.",
+    "🇨🇦 Kanada-CPI (14:30 Wien) = heute das Event. Unsere Freitags-Prognose: höher (Benzin treibt; Juli lag bei 3,0% y/y). Zeitgleich Frankreichs Haushalts-Abstimmung — stolpert sie, hält das den Euro trotz Rekord-Shorts unten.",
+    "😰 Risk-off-Beigeschmack: VIX ~20 (4-Monats-Hoch) nach Tech-/Chip-Ausverkauf (Nasdaq-Werte ~−5% Wo, Chip-Aktien 8 Tage rot) + Öl-Sprung (WTI 99$, Brent an 110$ — Ukraine-Angriffe auf russische Energie). Das stützt den Hafen-Franken und bremst Rohstoff-Währungen (Aussie/Kiwi).",
+    "🇺🇸 USA ruhig: KEIN Fed (Schweigephase vor dem 28.10.). Heiße Inflation gibt dem Dollar Boden, der weiche Fed-Ton (Bowman/Daly) deckelt — per Saldo angeknackst."
    ],
    "gestern": [
-    "💵 Wochen-Fazit Dollar: Heiße Zahlen (CPI 3,7% / PPI 6,3%), aber der DXY fiel über die Woche auf 101,6 (−0,93%). Die Kehrtwende kam von Fed-Rednern (Bowman/Daly: können warten) → Okt-Erhöhungswette von ~50% auf ~25–30% halbiert, lange US-Zinsen −0,15 Pp. Lehre: Heiße Inflation reicht nicht, wenn der Ton weicher wird — der Dollar lebt vom Ton.",
-    "🇺🇸 Die Woche in Zahlen: PPI September SEHR HEISS (+1,3% m/m / 6,3% y/y, Konsens nur ~0,6%, fast nur Benzin), CPI +0,6% m/m / 3,7% y/y (Kern +0,3% / 2,6%, beide über Konsens), Einzelhandel +0,8% m/m (Beat, aber nur Sprit — Kontrollgruppe nur +0,1% = weicher Unterbau).",
-    "🇦🇺 Aussie der Wochenverlierer: Job-Schock −39.300 Stellen (erwartet +20k), Quote 4,7% (5-J-Hoch) → die RBA-Hochzins-Story ist angekratzt. 🇬🇧 UK-BIP August +0,1% (besser als befürchtet).",
-    "🇫🇷 Euro gedeckelt: Frankreichs Haushaltskrise (Abstimmung Mo 19.10., 10-J-Zins höchster Stand seit 2008) hält den Euro unten — trotz extremer Euro-Shorts (COT z −2,24), die Squeeze-Potenzial bergen."
+    "💵 Dollar-Woche: Trotz heißer US-Inflation (CPI 3,7%, PPI 6,3% — höchster seit Jahren) fiel der DXY auf 101,8 (−0,78% Wo). Grund: Fed-Redner (Bowman/Daly) signalisierten Geduld → Okt-Erhöhungswette von ~50% auf ~25–30% halbiert. Dez-Erhöhung bleibt ~90%+. Lehre: Der Dollar lebt vom TON.",
+    "🛢️ Öl-Sprung: WTI +5,6% auf 99$, Brent +3% auf ~110$ (erstmals seit Mai an 110$) — Ukraine-Angriffe auf russische Energie-Anlagen + drohender US-Block eines Russland-Diesel-Deals. Teures Öl = neue Inflationssorge + Rückenwind für den Loonie.",
+    "🇬🇧 Pfund Wochengewinner: sprang auf den heißen US-PPI, weil die Short-Positionierung extrem ist (COT z −2,09). UK-CPI am Mi ist der nächste Squeeze-Zünder.",
+    "🇦🇺 Aussie Wochenverlierer: Job-Schock −39.300 Stellen (erwartet +20k), Quote 4,7% (5-J-Hoch) — die RBA-Hochzins-Story ist angekratzt."
    ]
   }
  },
@@ -3773,13 +3773,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -3,
+   "baseScore": -2,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": -8,
+   "score": -7,
    "cotExtrem": "erhoeht",
-   "treiber": "Job-Schock (−39,3k) + risk-off (VIX hoch) belasten den Aussie stärker als der weiche Dollar hilft. Vom Dollar-Block über die eigene Arbeitsmarkt-Story gelöst.",
+   "treiber": "Job-Schock (−39,3k) + Risk-off (VIX ~20) belasten, aber China-BIP-Beat (+4,5%) gibt dem Aussie einen kleinen Boden → gegenüber Freitag etwas weniger negativ. Vom Dollar-Block über eigene Stories gelöst.",
    "istCross": false
   },
   {
@@ -3861,7 +3861,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-18T05:11:28.115Z",
+  "stand": "2026-10-19T05:12:15.035Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
   "gewertet": 34,

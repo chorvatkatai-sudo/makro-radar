@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-19T05:13:07.297Z",
+  "stand": "2026-10-19T09:31:23.110Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-66/",
+      "datum": "2026-10-19T06:35:39.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
@@ -71,12 +77,6 @@
       "titel": "US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access",
       "link": "https://investinglive.com/news/us-threatens-eu-with-devastating-retaliation-if-brussels-curbs-starlink-spectrum-access/",
       "datum": "2026-10-18T20:36:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
-      "link": "https://investinglive.com/news/romanian-f-16s-shoot-down-two-drones-over-black-sea-nato-council-to-meet-tuesday/",
-      "datum": "2026-10-18T20:22:33.000Z"
     },
     {
       "quelle": "Fed",

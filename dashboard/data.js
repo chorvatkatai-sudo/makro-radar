@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-19T05:13:07.749Z",
+ "erstellt": "2026-10-19T09:31:24.306Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -122,7 +122,7 @@ window.MAKRO_DATA = {
   {
    "title": "Foreign Direct Investment ytd/y",
    "country": "CNY",
-   "date": "2026-10-19T02:02:00-04:00",
+   "date": "2026-10-19T05:10:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-5.3%",
@@ -3288,15 +3288,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-19T05:13:06.930Z",
+  "stand": "2026-10-19T09:31:22.812Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.82,
+    "wert": 101.92,
     "tagProzent": 0,
-    "wocheProzent": -0.35,
+    "wocheProzent": -0.26,
     "renditeDelta": false,
     "verlauf": [
      100.43,
@@ -3319,20 +3319,19 @@ window.MAKRO_DATA = {
      102.55,
      102,
      101.84,
-     101.82,
-     101.82
+     101.92,
+     101.92
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 19.99,
+    "wert": 18.74,
     "tagProzent": 0,
-    "wocheProzent": 31.43,
+    "wocheProzent": 22.72,
     "renditeDelta": false,
     "verlauf": [
-     14.81,
      14.87,
      14.21,
      15.18,
@@ -3353,16 +3352,17 @@ window.MAKRO_DATA = {
      16.87,
      16.46,
      19.99,
-     19.99
+     18.74,
+     18.74
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 97.51,
+    "wert": 97.87,
     "tagProzent": 0,
-    "wocheProzent": 3.58,
+    "wocheProzent": 3.96,
     "renditeDelta": false,
     "verlauf": [
      95.78,
@@ -3385,17 +3385,17 @@ window.MAKRO_DATA = {
      95.09,
      97.97,
      101.41,
-     97.51,
-     97.51
+     97.87,
+     97.87
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 108,
+    "wert": 108.15,
     "tagProzent": 0,
-    "wocheProzent": 2.19,
+    "wocheProzent": 2.33,
     "renditeDelta": false,
     "verlauf": [
      100.34,
@@ -3418,17 +3418,17 @@ window.MAKRO_DATA = {
      106.06,
      105.92,
      109.86,
-     108,
-     108
+     108.15,
+     108.15
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4200.4,
+    "wert": 4192.3,
     "tagProzent": 0,
-    "wocheProzent": 0.55,
+    "wocheProzent": 0.36,
     "renditeDelta": false,
     "verlauf": [
      4383.9,
@@ -3451,8 +3451,8 @@ window.MAKRO_DATA = {
      4107.9,
      4170.1,
      4181.1,
-     4200.4,
-     4200.4
+     4192.3,
+     4192.3
     ]
    },
    "US02Y": {
@@ -3461,27 +3461,9 @@ window.MAKRO_DATA = {
     "typ": "rendite",
     "wert": 4.75,
     "tagProzent": 0,
-    "wocheProzent": 0.1,
+    "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
-     4.422,
-     4.422,
-     4.448,
-     4.472,
-     4.5,
-     4.5,
-     4.885,
-     4.61,
-     4.635,
-     4.638,
-     4.647,
-     4.647,
-     4.647,
-     4.647,
-     4.647,
-     4.75,
-     4.75,
-     4.75,
      4.75,
      4.75
     ]
@@ -3556,12 +3538,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 82559.6,
+    "wert": 82900.1,
     "tagProzent": 0,
-    "wocheProzent": 1.22,
+    "wocheProzent": 0.92,
     "renditeDelta": false,
     "verlauf": [
-     83502.61,
      83622.43,
      83553.85,
      84853.1,
@@ -3581,8 +3562,9 @@ window.MAKRO_DATA = {
      82141.46,
      81500.8,
      81382.15,
-     82559.6,
-     82559.6
+     82017.6,
+     82900.1,
+     82900.1
     ]
    },
    "FEDFUT": {
@@ -3714,32 +3696,32 @@ window.MAKRO_DATA = {
    "stand": "2026-10-19",
    "werte": {
     "USD": {
-     "wert": 4.723,
-     "wocheDelta": -0.077
+     "wert": 4.734,
+     "wocheDelta": -0.066
     },
     "EUR": {
-     "wert": 3.075,
-     "wocheDelta": -0.013
+     "wert": 3.082,
+     "wocheDelta": -0.006
     },
     "GBP": {
-     "wert": 4.91,
-     "wocheDelta": 0.028
+     "wert": 4.918,
+     "wocheDelta": 0.036
     },
     "JPY": {
-     "wert": 1.883,
-     "wocheDelta": -0.022
+     "wert": 1.887,
+     "wocheDelta": -0.018
     },
     "AUD": {
-     "wert": 4.88,
-     "wocheDelta": -0.07
+     "wert": 4.885,
+     "wocheDelta": -0.065
     },
     "CAD": {
      "wert": 3.2,
      "wocheDelta": 0.014
     },
     "CHF": {
-     "wert": 0.22,
-     "wocheDelta": -0.015
+     "wert": 0.231,
+     "wocheDelta": -0.004
     },
     "NZD": {
      "wert": 3.94,
@@ -3760,9 +3742,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 2,
    "tiltCot": -2,
-   "tiltZins": 3,
-   "tiltGesamt": 1,
-   "score": 3,
+   "tiltZins": 2,
+   "tiltGesamt": 0,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "Dollar vom Hoch zurück + extreme Euro-Shorts (Squeeze-Risiko) heben, aber Frankreichs Haushaltskrise deckelt — bewusst klein. Track-Record hier schwach (~40%).",
    "istCross": false
@@ -3804,9 +3786,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -3,
    "tiltCot": 5,
-   "tiltZins": -4,
-   "tiltGesamt": 1,
-   "score": -2,
+   "tiltZins": -3,
+   "tiltGesamt": 2,
+   "score": -1,
    "cotExtrem": null,
    "treiber": "Teures Öl (WTI 96$) stützt den Loonie + möglicher Benzin-Push bei der Kanada-CPI Mo → Dollar/Loonie eher runter. Öl-Story löst das Paar vom Dollar-Block.",
    "istCross": false
@@ -3879,7 +3861,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-19T05:13:07.305Z",
+  "stand": "2026-10-19T09:31:23.121Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
   "gewertet": 34,
@@ -3987,7 +3969,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-19T05:13:07.748Z",
+  "stand": "2026-10-19T09:31:24.305Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4217,13 +4199,19 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-19T05:13:07.297Z",
+  "stand": "2026-10-19T09:31:23.110Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "What are the main events for today?",
+    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-66/",
+    "datum": "2026-10-19T06:35:39.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
@@ -4289,12 +4277,6 @@ window.MAKRO_DATA = {
     "titel": "US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access",
     "link": "https://investinglive.com/news/us-threatens-eu-with-devastating-retaliation-if-brussels-curbs-starlink-spectrum-access/",
     "datum": "2026-10-18T20:36:59.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
-    "link": "https://investinglive.com/news/romanian-f-16s-shoot-down-two-drones-over-black-sea-nato-council-to-meet-tuesday/",
-    "datum": "2026-10-18T20:22:33.000Z"
    },
    {
     "quelle": "Fed",
@@ -5549,5 +5531,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 1915
+ "anzahlGespeichert": 1916
 };

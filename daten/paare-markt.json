@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-19T05:13:07.299Z",
+  "stand": "2026-10-19T09:31:23.113Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 2,
       "tiltCot": -2,
-      "tiltZins": 3,
-      "tiltGesamt": 1,
-      "score": 3,
+      "tiltZins": 2,
+      "tiltGesamt": 0,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "Dollar vom Hoch zurück + extreme Euro-Shorts (Squeeze-Risiko) heben, aber Frankreichs Haushaltskrise deckelt — bewusst klein. Track-Record hier schwach (~40%).",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -3,
       "tiltCot": 5,
-      "tiltZins": -4,
-      "tiltGesamt": 1,
-      "score": -2,
+      "tiltZins": -3,
+      "tiltGesamt": 2,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Teures Öl (WTI 96$) stützt den Loonie + möglicher Benzin-Push bei der Kanada-CPI Mo → Dollar/Loonie eher runter. Öl-Story löst das Paar vom Dollar-Block.",
       "istCross": false

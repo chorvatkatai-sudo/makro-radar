@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-20T10:43:56.483Z",
+  "stand": "2026-10-20T15:30:17.109Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -2,
-      "tiltZins": 4,
-      "tiltGesamt": 2,
-      "score": 7,
+      "tiltZins": 3,
+      "tiltGesamt": 1,
+      "score": 6,
       "cotExtrem": "extrem",
       "treiber": "Short-Squeeze (COT z −1,93) + steigender UK-Zins + schon positive Reaktion auf die US-Zahlen + UK-CPI Mi als Zünder. Bestes Paar-Track-Record (60%) → etwas mehr Überzeugung.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -4,
       "tiltCot": 5,
-      "tiltZins": -8,
-      "tiltGesamt": -3,
-      "score": -7,
+      "tiltZins": -6,
+      "tiltGesamt": -1,
+      "score": -5,
       "cotExtrem": null,
       "treiber": "Öl-Sprung auf ~100$ (Brent an 110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Öl-Story löst das Paar vom Dollar-Block.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": -1,
       "tiltCot": 1,
-      "tiltZins": -7,
-      "tiltGesamt": -6,
-      "score": -7,
+      "tiltZins": -8,
+      "tiltGesamt": -7,
+      "score": -8,
       "cotExtrem": "erhoeht",
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 0,
-      "tiltZins": 1,
-      "tiltGesamt": 1,
-      "score": 2,
+      "tiltZins": 0,
+      "tiltGesamt": 0,
+      "score": 1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

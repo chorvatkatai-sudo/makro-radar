@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-20T10:43:56.481Z",
+  "stand": "2026-10-20T15:30:17.107Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US September pending home sales -7.3% vs -0.5% expected",
+      "link": "https://investinglive.com/news/us-september-pending-home-sales-7-3-vs-0-5-expected/",
+      "datum": "2026-10-20T14:00:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran agreed to secret nuclear site visits in shift towards compromise, report says",
+      "link": "https://investinglive.com/news/iran-agreed-to-secret-nuclear-site-visits-in-shift-towards-compromise-report-says/",
+      "datum": "2026-10-20T13:09:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US September housing starts 1.221M vs 1.305M",
+      "link": "https://investinglive.com/news/us-september-housing-starts-vs-1-305m/",
+      "datum": "2026-10-20T12:30:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Rising oil prices keep weighing on risk sentiment",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-rising-oil-prices-keep-weighing-on-risk-sentiment/",
+      "datum": "2026-10-20T11:40:52.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
@@ -53,30 +77,6 @@
       "titel": "Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior",
       "link": "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/",
       "datum": "2026-10-19T15:37:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US NAHB housing market index 29 vs 31 prior",
-      "link": "https://investinglive.com/news/us-nahb-housing-market-index-29-vs-31-prior/",
-      "datum": "2026-10-19T14:14:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada September CPI 3.1% y/y vs 3.2% expected",
-      "link": "https://investinglive.com/news/canada-september-cpi-3-1-y-y-vs-3-2-expected/",
-      "datum": "2026-10-19T12:30:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: French unrest weighs on the euro as Wall Street looks to bounce back",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-french-unrest-weighs-on-the-euro-as-wall-street-looks-to-bounce-back/",
-      "datum": "2026-10-19T11:17:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "A breakthrough in US-Iran negotiations is expected to be announced this week, according to Al-Arabiya",
-      "link": "https://investinglive.com/news/a-breakthrough-in-us-iran-negotiations-is-expected-to-be-announced-this-week-according-to-al-arabiya/",
-      "datum": "2026-10-19T11:11:34.000Z"
     },
     {
       "quelle": "Fed",

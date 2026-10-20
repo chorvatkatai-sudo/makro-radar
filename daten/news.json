@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-19T18:03:32.244Z",
+  "stand": "2026-10-20T05:12:02.772Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: China holds rates",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-holds-rates/",
+      "datum": "2026-10-20T03:38:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: AI trades rebound but so does oil",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-ai-trades-rebound-but-so-does-oil/",
+      "datum": "2026-10-19T20:20:59.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump approval falls to record low. Poll shows Republicans losing badly in midterms",
+      "link": "https://investinglive.com/news/trump-approval-falls-to-record-low-poll-shows-republicans-losing-badly-in-midterms/",
+      "datum": "2026-10-19T19:58:19.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior",
@@ -59,24 +77,6 @@
       "titel": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
       "link": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
       "datum": "2026-10-19T02:33:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China moves to prop up stocks with selling curbs, buybacks after 10% slide this year",
-      "link": "https://investinglive.com/news/china-moves-to-prop-up-stocks-with-selling-curbs-buybacks-after-10-slide-this-year/",
-      "datum": "2026-10-19T02:07:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China Q3 GDP beats estimates, as does September retail sales",
-      "link": "https://investinglive.com/news/china-q3-gdp-beats-estimates-as-does-september-retail-sales/",
-      "datum": "2026-10-19T02:01:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China home price declines ease in September, ahead of Q3 GDP seen at 4.4%",
-      "link": "https://investinglive.com/news/china-home-price-declines-ease-in-september-ahead-of-q3-gdp-seen-at-4-4/",
-      "datum": "2026-10-19T01:38:34.000Z"
     },
     {
       "quelle": "Fed",

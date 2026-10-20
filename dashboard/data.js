@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-20T19:45:36.232Z",
+ "erstellt": "2026-10-20T22:51:08.654Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -1274,7 +1274,7 @@ window.MAKRO_DATA = {
    "title": "API Crude Oil Stock Change",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "-4.93",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3289,7 +3289,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-20T19:45:35.429Z",
+  "stand": "2026-10-20T22:51:07.613Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3297,7 +3297,7 @@ window.MAKRO_DATA = {
     "typ": "index",
     "wert": 101.73,
     "tagProzent": 0,
-    "wocheProzent": -0.79,
+    "wocheProzent": -0.8,
     "renditeDelta": false,
     "verlauf": [
      100.6,
@@ -3320,7 +3320,7 @@ window.MAKRO_DATA = {
      102,
      101.84,
      101.98,
-     101.74,
+     101.73,
      101.73
     ]
    },
@@ -3328,9 +3328,9 @@ window.MAKRO_DATA = {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 17.59,
+    "wert": 17.31,
     "tagProzent": 0,
-    "wocheProzent": 4.27,
+    "wocheProzent": 2.61,
     "renditeDelta": false,
     "verlauf": [
      14.21,
@@ -3353,17 +3353,17 @@ window.MAKRO_DATA = {
      16.46,
      19.99,
      18.44,
-     17.59,
-     17.59
+     17.31,
+     17.31
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 98.32,
+    "wert": 98.19,
     "tagProzent": 0,
-    "wocheProzent": 3.4,
+    "wocheProzent": 3.26,
     "renditeDelta": false,
     "verlauf": [
      94.59,
@@ -3386,17 +3386,17 @@ window.MAKRO_DATA = {
      97.97,
      101.41,
      103.66,
-     98.32,
-     98.32
+     98.19,
+     98.19
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 109.32,
+    "wert": 109.15,
     "tagProzent": 0,
-    "wocheProzent": 3.07,
+    "wocheProzent": 2.91,
     "renditeDelta": false,
     "verlauf": [
      99.25,
@@ -3419,17 +3419,17 @@ window.MAKRO_DATA = {
      105.92,
      109.86,
      109.55,
-     109.32,
-     109.32
+     109.15,
+     109.15
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4139.4,
+    "wert": 4143,
     "tagProzent": 0,
-    "wocheProzent": 0.77,
+    "wocheProzent": 0.85,
     "renditeDelta": false,
     "verlauf": [
      4376.4,
@@ -3452,8 +3452,8 @@ window.MAKRO_DATA = {
      4170.1,
      4181.1,
      4160.1,
-     4139.4,
-     4139.4
+     4143,
+     4143
     ]
    },
    "US02Y": {
@@ -3465,6 +3465,25 @@ window.MAKRO_DATA = {
     "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
+     4.422,
+     4.422,
+     4.448,
+     4.472,
+     4.5,
+     4.5,
+     4.885,
+     4.61,
+     4.635,
+     4.638,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
      4.75,
      4.75
     ]
@@ -3539,9 +3558,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 82529.59,
+    "wert": 82962.62,
     "tagProzent": 0,
-    "wocheProzent": 1.26,
+    "wocheProzent": 1.79,
     "renditeDelta": false,
     "verlauf": [
      83553.85,
@@ -3564,8 +3583,8 @@ window.MAKRO_DATA = {
      81382.15,
      82017.6,
      81853.54,
-     82529.59,
-     82529.59
+     82962.62,
+     82962.62
     ]
    },
    "FEDFUT": {
@@ -3573,7 +3592,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.92,
-    "tagProzent": -0.01,
+    "tagProzent": 0,
     "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
@@ -3597,7 +3616,7 @@ window.MAKRO_DATA = {
      3.89,
      3.89,
      3.88,
-     3.93,
+     3.92,
      3.92
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -3697,8 +3716,8 @@ window.MAKRO_DATA = {
    "stand": "2026-10-20",
    "werte": {
     "USD": {
-     "wert": 4.783,
-     "wocheDelta": -0.008
+     "wert": 4.78,
+     "wocheDelta": -0.011
     },
     "EUR": {
      "wert": 3.085,
@@ -3713,20 +3732,20 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.008
     },
     "AUD": {
-     "wert": 4.877,
-     "wocheDelta": -0.07
+     "wert": 4.914,
+     "wocheDelta": -0.033
     },
     "CAD": {
-     "wert": 3.325,
-     "wocheDelta": 0.139
+     "wert": 3.326,
+     "wocheDelta": 0.14
     },
     "CHF": {
      "wert": 0.203,
      "wocheDelta": -0.032
     },
     "NZD": {
-     "wert": 3.968,
-     "wocheDelta": 0.108
+     "wert": 3.96,
+     "wocheDelta": 0.1
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3776,9 +3795,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": -2,
    "tiltCot": -5,
-   "tiltZins": -2,
-   "tiltGesamt": -7,
-   "score": -9,
+   "tiltZins": 0,
+   "tiltGesamt": -5,
+   "score": -7,
    "cotExtrem": "erhoeht",
    "treiber": "Job-Schock (−39,3k) + Risk-off (VIX ~20) belasten, aber China-BIP-Beat (+4,5%) gibt dem Aussie einen kleinen Boden → gegenüber Freitag etwas weniger negativ. Vom Dollar-Block über eigene Stories gelöst.",
    "istCross": false
@@ -3809,9 +3828,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": 1,
    "tiltCot": -5,
-   "tiltZins": 5,
-   "tiltGesamt": 0,
-   "score": 1,
+   "tiltZins": 4,
+   "tiltGesamt": -1,
+   "score": 0,
    "cotExtrem": "erhoeht",
    "treiber": "Steigender Kiwi-Zins + weicher Dollar heben minimal, aber risk-off deckelt → fast neutral, leicht positiv.",
    "istCross": false
@@ -3842,9 +3861,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": -1,
    "tiltCot": 1,
-   "tiltZins": -7,
-   "tiltGesamt": -6,
-   "score": -7,
+   "tiltZins": -5,
+   "tiltGesamt": -4,
+   "score": -5,
    "cotExtrem": "erhoeht",
    "treiber": "",
    "istCross": true
@@ -3862,7 +3881,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-20T19:45:35.711Z",
+  "stand": "2026-10-20T22:51:08.168Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
   "gewertet": 34,
@@ -3970,7 +3989,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-20T19:45:36.231Z",
+  "stand": "2026-10-20T22:51:08.653Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4200,13 +4219,25 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-20T19:45:35.704Z",
+  "stand": "2026-10-20T22:51:08.161Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/",
+    "datum": "2026-10-20T20:19:50.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Trump: Ukraine has to want to settle this war, if not it's going to be a very bad thing",
+    "link": "https://investinglive.com/news/trump-ukraine-has-to-want-to-settle-this-war-if-not-it-s-going-to-be-a-very-bad-thing/",
+    "datum": "2026-10-20T19:24:27.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Finland President Stubb offers some optimism for Russia-Ukraine peace",
@@ -4266,18 +4297,6 @@ window.MAKRO_DATA = {
     "titel": "investingLive Asia-Pacific market news: China holds rates",
     "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-holds-rates/",
     "datum": "2026-10-20T03:38:00.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Americas market news wrap: AI trades rebound but so does oil",
-    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-ai-trades-rebound-but-so-does-oil/",
-    "datum": "2026-10-19T20:20:59.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Trump approval falls to record low. Poll shows Republicans losing badly in midterms",
-    "link": "https://investinglive.com/news/trump-approval-falls-to-record-low-poll-shows-republicans-losing-badly-in-midterms/",
-    "datum": "2026-10-19T19:58:19.000Z"
    },
    {
     "quelle": "Fed",

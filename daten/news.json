@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-20T19:45:35.704Z",
+  "stand": "2026-10-20T22:51:08.161Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/",
+      "datum": "2026-10-20T20:19:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Ukraine has to want to settle this war, if not it's going to be a very bad thing",
+      "link": "https://investinglive.com/news/trump-ukraine-has-to-want-to-settle-this-war-if-not-it-s-going-to-be-a-very-bad-thing/",
+      "datum": "2026-10-20T19:24:27.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Finland President Stubb offers some optimism for Russia-Ukraine peace",
@@ -65,18 +77,6 @@
       "titel": "investingLive Asia-Pacific market news: China holds rates",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-holds-rates/",
       "datum": "2026-10-20T03:38:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: AI trades rebound but so does oil",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-ai-trades-rebound-but-so-does-oil/",
-      "datum": "2026-10-19T20:20:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump approval falls to record low. Poll shows Republicans losing badly in midterms",
-      "link": "https://investinglive.com/news/trump-approval-falls-to-record-low-poll-shows-republicans-losing-badly-in-midterms/",
-      "datum": "2026-10-19T19:58:19.000Z"
     },
     {
       "quelle": "Fed",

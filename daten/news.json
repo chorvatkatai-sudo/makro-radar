@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-20T16:14:38.329Z",
+  "stand": "2026-10-20T19:45:35.704Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Finland President Stubb offers some optimism for Russia-Ukraine peace",
+      "link": "https://investinglive.com/news/finland-president-stubb-offers-some-optimism-for-russia-ukraine-peace/",
+      "datum": "2026-10-20T17:57:04.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US September pending home sales -7.3% vs -0.5% expected",
@@ -71,12 +77,6 @@
       "titel": "Trump approval falls to record low. Poll shows Republicans losing badly in midterms",
       "link": "https://investinglive.com/news/trump-approval-falls-to-record-low-poll-shows-republicans-losing-badly-in-midterms/",
       "datum": "2026-10-19T19:58:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior",
-      "link": "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/",
-      "datum": "2026-10-19T15:37:25.000Z"
     },
     {
       "quelle": "Fed",

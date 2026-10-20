@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-20T05:12:02.772Z",
+  "stand": "2026-10-20T09:04:24.393Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
+      "link": "https://investinglive.com/news/germany-october-zew-survey-current-conditions-vs-45-0-expected/",
+      "datum": "2026-10-20T09:00:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-67/",
+      "datum": "2026-10-20T06:39:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets intact",
+      "link": "https://investinglive.com/news/uk-unemployment-rate-falls-to-4-7-as-jobs-rebound-keeping-boe-rate-hike-bets-intact/",
+      "datum": "2026-10-20T06:00:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "German producer prices hit highest since March 2023 as energy costs soar, fueling inflation worries",
+      "link": "https://investinglive.com/news/german-producer-prices-hit-highest-since-march-2023-as-energy-costs-soar-fueling-inflation-worries/",
+      "datum": "2026-10-20T06:00:09.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: China holds rates",
@@ -53,30 +77,6 @@
       "titel": "A breakthrough in US-Iran negotiations is expected to be announced this week, according to Al-Arabiya",
       "link": "https://investinglive.com/news/a-breakthrough-in-us-iran-negotiations-is-expected-to-be-announced-this-week-according-to-al-arabiya/",
       "datum": "2026-10-19T11:11:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic data spotlight: UK inflation set to climb as BOE rate hike and autumn budget collide",
-      "link": "https://investinglive.com/news/economic-data-spotlight-uk-inflation-set-to-climb-as-boe-rate-hike-and-autumn-budget-collide/",
-      "datum": "2026-10-19T09:48:35.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-66/",
-      "datum": "2026-10-19T06:35:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-beats-the-euro-wobbles-and-oil-dips/",
-      "datum": "2026-10-19T03:57:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
-      "link": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
-      "datum": "2026-10-19T02:33:05.000Z"
     },
     {
       "quelle": "Fed",

@@ -19170,6 +19170,26 @@
       "vorher": "-5.3%",
       "actual": null,
       "notiz": null
+    },
+    "2026-10-20T05:03:00-04:00|GBP|10-y Bond Auction": {
+      "datum": "2026-10-20T05:03:00-04:00",
+      "land": "GBP",
+      "titel": "10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "5.38|3.3",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-21T05:10:00-04:00|CNY|Foreign Direct Investment ytd/y": {
+      "datum": "2026-10-21T05:10:00-04:00",
+      "land": "CNY",
+      "titel": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-5.3%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

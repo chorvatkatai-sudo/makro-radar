@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-20T09:04:25.026Z",
+ "erstellt": "2026-10-20T10:43:56.884Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -264,18 +264,9 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
-   "title": "Foreign Direct Investment ytd/y",
-   "country": "CNY",
-   "date": "2026-10-20T05:10:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-5.3%",
-   "actual": null
-  },
-  {
    "title": "10-y Bond Auction",
    "country": "GBP",
-   "date": "2026-10-20T05:33:00-04:00",
+   "date": "2026-10-20T05:03:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "5.38|3.3",
@@ -441,6 +432,15 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "1.2%",
    "previous": "1.4%",
+   "actual": null
+  },
+  {
+   "title": "Foreign Direct Investment ytd/y",
+   "country": "CNY",
+   "date": "2026-10-21T05:10:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-5.3%",
    "actual": null
   },
   {
@@ -1491,20 +1491,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-28T12:30:00.000Z",
    "country": "USD",
-   "title": "Wholesale Inventories MoM Adv",
+   "title": "Retail Inventories Ex Autos MoM Adv",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "0%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-10-28T12:30:00.000Z",
    "country": "USD",
-   "title": "Retail Inventories Ex Autos MoM Adv",
+   "title": "Wholesale Inventories MoM Adv",
    "impact": "Medium",
    "forecast": "",
-   "previous": "0%",
+   "previous": "0.5%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1673,7 +1673,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Fed Interest Rate Decision",
    "impact": "High",
-   "forecast": "",
+   "forecast": "4%",
    "previous": "4%",
    "actual": null,
    "quelle": "tradingview"
@@ -1984,7 +1984,7 @@ window.MAKRO_DATA = {
    "title": "Core PCE Price Index YoY",
    "impact": "Low",
    "forecast": "",
-   "previous": "3",
+   "previous": "3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2024,7 +2024,7 @@ window.MAKRO_DATA = {
    "title": "PCE Price Index MoM",
    "impact": "Medium",
    "forecast": "",
-   "previous": "0.3",
+   "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2034,7 +2034,7 @@ window.MAKRO_DATA = {
    "title": "PCE Price Index YoY",
    "impact": "Medium",
    "forecast": "",
-   "previous": "3.4",
+   "previous": "3.4%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2064,7 +2064,7 @@ window.MAKRO_DATA = {
    "title": "Personal Spending MoM",
    "impact": "High",
    "forecast": "",
-   "previous": "0.9",
+   "previous": "0.9%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2074,7 +2074,7 @@ window.MAKRO_DATA = {
    "title": "Core PCE Price Index MoM",
    "impact": "High",
    "forecast": "",
-   "previous": "0.2",
+   "previous": "0.2%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2534,7 +2534,7 @@ window.MAKRO_DATA = {
    "title": "Employment Cost - Benefits QoQ",
    "impact": "Medium",
    "forecast": "",
-   "previous": "1",
+   "previous": "1%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2554,7 +2554,7 @@ window.MAKRO_DATA = {
    "title": "Employment Cost - Wages QoQ",
    "impact": "Medium",
    "forecast": "",
-   "previous": "0.9",
+   "previous": "0.9%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3289,15 +3289,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-20T09:04:24.048Z",
+  "stand": "2026-10-20T10:43:56.069Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.79,
+    "wert": 101.89,
     "tagProzent": 0,
-    "wocheProzent": -0.74,
+    "wocheProzent": -0.64,
     "renditeDelta": false,
     "verlauf": [
      100.6,
@@ -3320,17 +3320,17 @@ window.MAKRO_DATA = {
      102,
      101.84,
      101.98,
-     101.79,
-     101.79
+     101.89,
+     101.89
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.57,
+    "wert": 18.63,
     "tagProzent": 0,
-    "wocheProzent": 10.08,
+    "wocheProzent": 10.43,
     "renditeDelta": false,
     "verlauf": [
      14.21,
@@ -3353,17 +3353,17 @@ window.MAKRO_DATA = {
      16.46,
      19.99,
      18.44,
-     18.57,
-     18.57
+     18.63,
+     18.63
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 100.16,
+    "wert": 100.85,
     "tagProzent": 0,
-    "wocheProzent": 5.33,
+    "wocheProzent": 6.06,
     "renditeDelta": false,
     "verlauf": [
      94.59,
@@ -3386,17 +3386,17 @@ window.MAKRO_DATA = {
      97.97,
      101.41,
      103.66,
-     100.16,
-     100.16
+     100.85,
+     100.85
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 111.05,
+    "wert": 111.52,
     "tagProzent": 0,
-    "wocheProzent": 4.7,
+    "wocheProzent": 5.15,
     "renditeDelta": false,
     "verlauf": [
      99.25,
@@ -3419,17 +3419,17 @@ window.MAKRO_DATA = {
      105.92,
      109.86,
      109.55,
-     111.05,
-     111.05
+     111.52,
+     111.52
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4139.4,
+    "wert": 4137.6,
     "tagProzent": 0,
-    "wocheProzent": 0.77,
+    "wocheProzent": 0.72,
     "renditeDelta": false,
     "verlauf": [
      4376.4,
@@ -3452,8 +3452,8 @@ window.MAKRO_DATA = {
      4170.1,
      4181.1,
      4160.1,
-     4139.4,
-     4139.4
+     4137.6,
+     4137.6
     ]
    },
    "US02Y": {
@@ -3558,9 +3558,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 81355.67,
+    "wert": 81390,
     "tagProzent": 0,
-    "wocheProzent": -0.18,
+    "wocheProzent": -0.14,
     "renditeDelta": false,
     "verlauf": [
      83553.85,
@@ -3583,8 +3583,8 @@ window.MAKRO_DATA = {
      81382.15,
      82017.6,
      81853.54,
-     81355.67,
-     81355.67
+     81390,
+     81390
     ]
    },
    "FEDFUT": {
@@ -3592,7 +3592,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 3.92,
-    "tagProzent": 0,
+    "tagProzent": -0.01,
     "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
@@ -3616,7 +3616,7 @@ window.MAKRO_DATA = {
      3.89,
      3.89,
      3.88,
-     3.92,
+     3.93,
      3.92
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -3716,28 +3716,28 @@ window.MAKRO_DATA = {
    "stand": "2026-10-20",
    "werte": {
     "USD": {
-     "wert": 4.759,
-     "wocheDelta": -0.032
+     "wert": 4.778,
+     "wocheDelta": -0.013
     },
     "EUR": {
-     "wert": 3.064,
-     "wocheDelta": -0.007
+     "wert": 3.082,
+     "wocheDelta": 0.011
     },
     "GBP": {
-     "wert": 4.932,
-     "wocheDelta": 0.05
+     "wert": 4.959,
+     "wocheDelta": 0.077
     },
     "JPY": {
-     "wert": 1.897,
-     "wocheDelta": -0.008
+     "wert": 1.901,
+     "wocheDelta": -0.004
     },
     "AUD": {
-     "wert": 4.882,
-     "wocheDelta": -0.065
+     "wert": 4.89,
+     "wocheDelta": -0.057
     },
     "CAD": {
-     "wert": 3.359,
-     "wocheDelta": 0.173
+     "wert": 3.37,
+     "wocheDelta": 0.184
     },
     "CHF": {
      "wert": 0.211,
@@ -3773,9 +3773,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 5,
    "tiltCot": -2,
-   "tiltZins": 3,
-   "tiltGesamt": 1,
-   "score": 6,
+   "tiltZins": 4,
+   "tiltGesamt": 2,
+   "score": 7,
    "cotExtrem": "extrem",
    "treiber": "Short-Squeeze (COT z −1,93) + steigender UK-Zins + schon positive Reaktion auf die US-Zahlen + UK-CPI Mi als Zünder. Bestes Paar-Track-Record (60%) → etwas mehr Überzeugung.",
    "istCross": false
@@ -3795,9 +3795,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": -2,
    "tiltCot": -5,
-   "tiltZins": -1,
-   "tiltGesamt": -6,
-   "score": -8,
+   "tiltZins": -2,
+   "tiltGesamt": -7,
+   "score": -9,
    "cotExtrem": "erhoeht",
    "treiber": "Job-Schock (−39,3k) + Risk-off (VIX ~20) belasten, aber China-BIP-Beat (+4,5%) gibt dem Aussie einen kleinen Boden → gegenüber Freitag etwas weniger negativ. Vom Dollar-Block über eigene Stories gelöst.",
    "istCross": false
@@ -3828,9 +3828,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": 1,
    "tiltCot": -5,
-   "tiltZins": 6,
-   "tiltGesamt": 1,
-   "score": 2,
+   "tiltZins": 5,
+   "tiltGesamt": 0,
+   "score": 1,
    "cotExtrem": "erhoeht",
    "treiber": "Steigender Kiwi-Zins + weicher Dollar heben minimal, aber risk-off deckelt → fast neutral, leicht positiv.",
    "istCross": false
@@ -3839,9 +3839,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/GBP",
    "baseScore": -1,
    "tiltCot": 2,
-   "tiltZins": -2,
-   "tiltGesamt": 0,
-   "score": -1,
+   "tiltZins": -3,
+   "tiltGesamt": -1,
+   "score": -2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3872,16 +3872,16 @@ window.MAKRO_DATA = {
    "paar": "EUR/CHF",
    "baseScore": 1,
    "tiltCot": 0,
-   "tiltZins": 0,
-   "tiltGesamt": 0,
-   "score": 1,
+   "tiltZins": 1,
+   "tiltGesamt": 1,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-20T09:04:24.401Z",
+  "stand": "2026-10-20T10:43:56.490Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
   "gewertet": 34,
@@ -3989,7 +3989,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-20T09:04:25.025Z",
+  "stand": "2026-10-20T10:43:56.882Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4219,7 +4219,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-20T09:04:24.393Z",
+  "stand": "2026-10-20T10:43:56.481Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -5551,5 +5551,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 1917
+ "anzahlGespeichert": 1919
 };

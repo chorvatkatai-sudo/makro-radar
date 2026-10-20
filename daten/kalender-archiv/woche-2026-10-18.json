@@ -232,17 +232,9 @@
     "previous": "25.8"
   },
   {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-10-20T05:10:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-5.3%"
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "GBP",
-    "date": "2026-10-20T05:33:00-04:00",
+    "date": "2026-10-20T05:03:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "5.38|3.3"
@@ -390,6 +382,14 @@
     "impact": "Low",
     "forecast": "1.2%",
     "previous": "1.4%"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-10-21T05:10:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-5.3%"
   },
   {
     "title": "German Buba Monthly Report",

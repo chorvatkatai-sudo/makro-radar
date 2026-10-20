@@ -215,7 +215,7 @@
     "title": "Treasury Gilt 2032 Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.843%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -224,8 +224,8 @@
     "country": "USD",
     "title": "Building Permits Final",
     "impact": "Low",
-    "forecast": "",
-    "previous": "",
+    "forecast": "1.4",
+    "previous": "1.403",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -234,7 +234,7 @@
     "country": "USD",
     "title": "Building Permits MoM Final",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-0.2%",
     "previous": "-2.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -445,7 +445,7 @@
     "title": "Atlanta Fed GDPNow",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
   },

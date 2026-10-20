@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-19T18:03:32.246Z",
+  "stand": "2026-10-20T05:11:30.182Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -27,13 +27,13 @@
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 3,
+      "baseScore": 2,
       "tiltCot": -3,
       "tiltZins": 0,
       "tiltGesamt": -3,
-      "score": 0,
+      "score": -1,
       "cotExtrem": null,
-      "treiber": "Bewusst GEGEN die milde Dollar-Schwäche gestellt: Der Yen ist crowded-long (COT z +1,12) = Rückschlag-Risiko + Carry-Nachteil. Yen-Reversal überwiegt hier den weichen Dollar.",
+      "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, base leicht pro-Dollar), aber der Risk-off-Schub (VIX ~18,6) gibt dem Hafen-Yen Gegen-Bid. Schwächstes Paar im Track-Record (33 %) → nahe neutral.",
       "istCross": false
     },
     {
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -3,
+      "baseScore": -4,
       "tiltCot": 5,
       "tiltZins": -7,
       "tiltGesamt": -2,
-      "score": -5,
+      "score": -6,
       "cotExtrem": null,
-      "treiber": "Teures Öl (WTI 96$) stützt den Loonie + möglicher Benzin-Push bei der Kanada-CPI Mo → Dollar/Loonie eher runter. Öl-Story löst das Paar vom Dollar-Block.",
+      "treiber": "Öl-Sprung auf ~100$ (Brent an 110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Öl-Story löst das Paar vom Dollar-Block.",
       "istCross": false
     },
     {

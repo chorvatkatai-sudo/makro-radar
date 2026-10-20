@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-19T18:03:32.920Z",
+ "erstellt": "2026-10-20T05:11:30.198Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -2660,18 +2660,18 @@ window.MAKRO_DATA = {
    },
    "JPY": {
     "stimmung": "bärisch",
-    "score": -5,
-    "grund": "Die Großspekulanten sind frisch KRÄFTIG net-long Yen (COT z +1,12) = überfüllte Wette → Rückschlag-Risiko (wenn sie platzt, wird der Yen schwächer). Dazu die niedrigste Rendite aller G10 (Carry-Nachteil) und fundamental schwach. Track-Record dieses Paares mies (USD/JPY 5/15) → Score moderat."
+    "score": -4,
+    "grund": "Die Großspekulanten sind weiter net-long Yen (COT z +0,97, von +1,12 etwas abgebaut) = überfüllte Wette → Rückschlag-Risiko. Dagegen gibt der Risk-off-Schub (VIX ~18,6) dem Yen als Hafen etwas Bid. Niedrigste G10-Rendite (Carry-Nachteil) + mieser Track-Record dieses Paares (USD/JPY 5/15) → Score moderat negativ."
    },
    "CHF": {
     "stimmung": "neutral",
     "score": 2,
-    "grund": "Der VIX sprang auf ein 4-Monats-Hoch (~20, +31% Wo) = klarer Risk-off-Schub → der sichere Hafen Franken bekommt Bid. Der Schweizer 2-Jahres-Zins war zuletzt stark (Vorwoche stärkster Steiger). SNB bei 0%, sonst unauffällig — daher moderat positiv."
+    "grund": "Der VIX hängt nahe seinem 4-Monats-Hoch (~18,6, +22 % Wo) = anhaltender Risk-off-Schub → der sichere Hafen Franken bekommt Bid. Der Schweizer 2-Jahres-Zins war zuletzt solide. SNB bei 0 %, sonst unauffällig — daher moderat positiv."
    },
    "CAD": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Öl fest (WTI 95,71$, +2,1% Wo) = Rückenwind für den Loonie, und die Kanada-Inflation am Mo könnte durch Benzin nach oben überraschen. Gegengewicht: die Nachwirkung des Job-Schocks (−68k) und die BoC-Halten/Senken-Debatte am 28.10. Per Saldo leicht positiv."
+    "score": 3,
+    "grund": "Öl sprang weiter (WTI ~100$, +5,7 % Wo, Brent an 110$) = klarer Rückenwind für den Loonie, und Kanadas 2-Jahres-Zins war der stärkste Steiger der Woche (+0,134). Gegengewicht: die Nachwirkung des Job-Schocks (−68k) und die BoC-Halten/Senken-Debatte am 28.10. Per Saldo leicht positiv."
    },
    "AUD": {
     "stimmung": "bärisch",
@@ -2697,8 +2697,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/JPY",
-    "score": 3,
-    "treiber": "Bewusst GEGEN die milde Dollar-Schwäche gestellt: Der Yen ist crowded-long (COT z +1,12) = Rückschlag-Risiko + Carry-Nachteil. Yen-Reversal überwiegt hier den weichen Dollar."
+    "score": 2,
+    "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, base leicht pro-Dollar), aber der Risk-off-Schub (VIX ~18,6) gibt dem Hafen-Yen Gegen-Bid. Schwächstes Paar im Track-Record (33 %) → nahe neutral."
    },
    {
     "paar": "AUD/USD",
@@ -2707,8 +2707,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": -3,
-    "treiber": "Teures Öl (WTI 96$) stützt den Loonie + möglicher Benzin-Push bei der Kanada-CPI Mo → Dollar/Loonie eher runter. Öl-Story löst das Paar vom Dollar-Block."
+    "score": -4,
+    "treiber": "Öl-Sprung auf ~100$ (Brent an 110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Öl-Story löst das Paar vom Dollar-Block."
    },
    {
     "paar": "USD/CHF",
@@ -2806,20 +2806,21 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/15 = 47%, Konzentration 89%, Zufallsband [4,11] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 58% vs. nurBase 57%). Zahlen-Prognosen echte-Daten-Anteil nur 7/25 = 28% — die Zahlen-Calls sind in dieser Phase NICHT der verlässliche Teil. Deshalb Scores bewusst klein + diversifiziert: nicht alle 7 Paare dieselbe Dollar-Wette (JPY über Yen-Reversal, AUD über Job-Schock, CAD über Öl vom Dollar-Block gelöst; Konzentration bewusst nur ~71%)."
   ],
   "tagesnews": {
-   "stand": "2026-10-19",
-   "wochentag": "Montag",
-   "tenor": "Risk-off dominiert den Wochenstart: Das Angst-Barometer VIX steht auf einem 4-Monats-Hoch (~20, +31% Wo) nach Tech-/Chip-Ausverkauf, dazu teures Öl (WTI 99$). China-BIP schlug leicht (4,5%), ist aber binnen-schwach. Der Dollar (DXY 101,8) geht angeknackst in eine für die USA ruhige Woche (KEIN Fed) — die Zünder liegen heute bei Kanada-CPI + Frankreichs Haushalts-Abstimmung.",
+   "stand": "2026-10-20",
+   "wochentag": "Dienstag",
+   "tenor": "Risk-off und teures Öl bleiben die Taktgeber: Das Angst-Barometer VIX hängt mit ~18–19 nahe dem 4-Monats-Hoch, WTI steht bei ~100$ und Brent an 110$. Der Dollar (DXY 101,9) ist dabei leicht fester, geht aber angeknackst in eine für die USA ruhige Woche (KEIN Fed). Heute die britischen Arbeitsmarktzahlen als Appetithappen vor dem eigentlichen Pfund-Event morgen (UK-CPI).",
    "heute": [
-    "🇨🇳 China-BIP Q3 +4,5% y/y (leicht über 4,4% erwartet, beschleunigt von 4,3%), Quartal +1,2%. ABER: export- und staatsgetrieben, Binnennachfrage/Einzelhandel schwach → für den Aussie nur ein kleiner Boden, kein Freudensprung.",
-    "🇨🇦 Kanada-CPI (14:30 Wien) = heute das Event. Unsere Freitags-Prognose: höher (Benzin treibt; Juli lag bei 3,0% y/y). Zeitgleich Frankreichs Haushalts-Abstimmung — stolpert sie, hält das den Euro trotz Rekord-Shorts unten.",
-    "😰 Risk-off-Beigeschmack: VIX ~20 (4-Monats-Hoch) nach Tech-/Chip-Ausverkauf (Nasdaq-Werte ~−5% Wo, Chip-Aktien 8 Tage rot) + Öl-Sprung (WTI 99$, Brent an 110$ — Ukraine-Angriffe auf russische Energie). Das stützt den Hafen-Franken und bremst Rohstoff-Währungen (Aussie/Kiwi).",
-    "🇺🇸 USA ruhig: KEIN Fed (Schweigephase vor dem 28.10.). Heiße Inflation gibt dem Dollar Boden, der weiche Fed-Ton (Bowman/Daly) deckelt — per Saldo angeknackst."
+    "🇬🇧 UK-Arbeitsmarkt (8:00 Wien) = heute der Zünder: Arbeitslosenquote erwartet 4,9 %, Durchschnittslöhne +3,8 % (3M/Jahr), Claimant Count +19,4K. Schwache Löhne stützen die Zins-Senkungs-Wette der BoE und bremsen das Pfund — starke Zahlen laden den morgigen UK-CPI-Squeeze (COT-Shorts EXTREM z −2,09) weiter auf.",
+    "🇺🇸 USA (14:30 Wien): Baubeginne (~1,30 Mio) + Baugenehmigungen (~1,39 Mio) + später Pending Home Sales. Zweitrangig — die Fed ist in Schweigephase vor dem 28.10., der Dollar läuft auf Öl + Stimmung, nicht auf US-Daten.",
+    "🛢️ Öl hält den Sprung: WTI ~100$ (+5,7 % Wo), Brent an 110$ — Ukraine-Angriffe auf russische Energie-Anlagen. Das ist frischer Rückenwind für den Loonie (Kanadas 2-Jahres-Zins war zuletzt der stärkste Steiger) und eine neue Inflationssorge.",
+    "😰 Risk-off-Beigeschmack: VIX ~18,6 (nahe 4-Monats-Hoch, +22 % Wo) nach Tech-/Chip-Ausverkauf → Hafen-Bid für Franken und (trotz unserer Rückschlag-These) etwas für den Yen; Gegenwind für Rohstoff-Währungen Aussie/Kiwi."
    ],
    "gestern": [
-    "💵 Dollar-Woche: Trotz heißer US-Inflation (CPI 3,7%, PPI 6,3% — höchster seit Jahren) fiel der DXY auf 101,8 (−0,78% Wo). Grund: Fed-Redner (Bowman/Daly) signalisierten Geduld → Okt-Erhöhungswette von ~50% auf ~25–30% halbiert. Dez-Erhöhung bleibt ~90%+. Lehre: Der Dollar lebt vom TON.",
-    "🛢️ Öl-Sprung: WTI +5,6% auf 99$, Brent +3% auf ~110$ (erstmals seit Mai an 110$) — Ukraine-Angriffe auf russische Energie-Anlagen + drohender US-Block eines Russland-Diesel-Deals. Teures Öl = neue Inflationssorge + Rückenwind für den Loonie.",
-    "🇬🇧 Pfund Wochengewinner: sprang auf den heißen US-PPI, weil die Short-Positionierung extrem ist (COT z −2,09). UK-CPI am Mi ist der nächste Squeeze-Zünder.",
-    "🇦🇺 Aussie Wochenverlierer: Job-Schock −39.300 Stellen (erwartet +20k), Quote 4,7% (5-J-Hoch) — die RBA-Hochzins-Story ist angekratzt."
+    "🇨🇦 Kanada-CPI wurde Mo 14:30 veröffentlicht — der Ist-Wert ist in unserem (cloud-blockierten) Feed noch nicht angekommen; der GitHub-Runner trägt ihn automatisch nach. Unsere Freitags-Prognose lautete: höher (Benzin treibt). Kern-Maße erwartet zahm (Median 2,0 % / Trimmed 1,9 %).",
+    "🇨🇳 China-BIP Q3 +4,5 % y/y (leicht über 4,4 % erwartet), aber export-/staatsgetrieben — Binnennachfrage und Einzelhandel bleiben schwach → für den Aussie nur ein kleiner Boden.",
+    "🇨🇳 PBoC hielt über Nacht die Referenzzinsen (LPR 1J 3,00 % / 5J 3,50 %) unverändert — wie erwartet, kein neuer Impuls.",
+    "💵 Dollar-Woche davor: Trotz heißer US-Inflation (CPI 3,7 %, PPI 6,3 %) fiel der DXY vom 18-Monats-Hoch zurück, weil Fed-Redner (Bowman/Daly) Geduld signalisierten (Okt-Erhöhungswette ~50 %→~25–30 %). Dez-Erhöhung bleibt ~90 %+. Lehre: Der Dollar lebt vom TON.",
+    "🇬🇧 Pfund ist Wochengewinner — die Short-Positionierung ist EXTREM (COT z −2,09), der morgige UK-CPI (erw. 3,4 %) ist der nächste Squeeze-Zünder."
    ]
   }
  },
@@ -3780,13 +3781,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 3,
+   "baseScore": 2,
    "tiltCot": -3,
    "tiltZins": 0,
    "tiltGesamt": -3,
-   "score": 0,
+   "score": -1,
    "cotExtrem": null,
-   "treiber": "Bewusst GEGEN die milde Dollar-Schwäche gestellt: Der Yen ist crowded-long (COT z +1,12) = Rückschlag-Risiko + Carry-Nachteil. Yen-Reversal überwiegt hier den weichen Dollar.",
+   "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, base leicht pro-Dollar), aber der Risk-off-Schub (VIX ~18,6) gibt dem Hafen-Yen Gegen-Bid. Schwächstes Paar im Track-Record (33 %) → nahe neutral.",
    "istCross": false
   },
   {
@@ -3802,13 +3803,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -3,
+   "baseScore": -4,
    "tiltCot": 5,
    "tiltZins": -7,
    "tiltGesamt": -2,
-   "score": -5,
+   "score": -6,
    "cotExtrem": null,
-   "treiber": "Teures Öl (WTI 96$) stützt den Loonie + möglicher Benzin-Push bei der Kanada-CPI Mo → Dollar/Loonie eher runter. Öl-Story löst das Paar vom Dollar-Block.",
+   "treiber": "Öl-Sprung auf ~100$ (Brent an 110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Öl-Story löst das Paar vom Dollar-Block.",
    "istCross": false
   },
   {
@@ -3879,7 +3880,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-19T18:03:32.253Z",
+  "stand": "2026-10-20T05:11:30.194Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
   "gewertet": 34,

@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-21T05:12:15.716Z",
+  "stand": "2026-10-21T09:03:54.965Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-68/",
+      "datum": "2026-10-21T06:41:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations",
+      "link": "https://investinglive.com/news/uk-september-cpi-inflation-rises-to-3-5-reinforces-boe-november-rate-hike-expectations/",
+      "datum": "2026-10-21T06:00:30.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
@@ -65,18 +77,6 @@
       "titel": "US September housing starts 1.221M vs 1.305M",
       "link": "https://investinglive.com/news/us-september-housing-starts-vs-1-305m/",
       "datum": "2026-10-20T12:30:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Rising oil prices keep weighing on risk sentiment",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-rising-oil-prices-keep-weighing-on-risk-sentiment/",
-      "datum": "2026-10-20T11:40:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
-      "link": "https://investinglive.com/news/germany-october-zew-survey-current-conditions-vs-45-0-expected/",
-      "datum": "2026-10-20T09:00:06.000Z"
     },
     {
       "quelle": "Fed",

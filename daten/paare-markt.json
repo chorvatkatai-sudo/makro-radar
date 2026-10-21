@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-21T05:12:15.718Z",
+  "stand": "2026-10-21T09:03:54.967Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": 6,
       "tiltCot": -2,
-      "tiltZins": 4,
-      "tiltGesamt": 2,
-      "score": 8,
+      "tiltZins": 3,
+      "tiltGesamt": 1,
+      "score": 7,
       "cotExtrem": "extrem",
       "treiber": "Festes UK-Jobs-Update (Di) + BoE-Hike am 5.11. ~96% eingepreist + extreme Shorts (COT z −2,09, Squeeze) + UK-CPI heute als Zünder. Pfund auf 5-Wochen-Hoch. Bestes Paar-Track-Record (60%) → etwas mehr Überzeugung.",
       "istCross": false
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 0,
-      "tiltZins": 2,
-      "tiltGesamt": 2,
-      "score": 3,
+      "tiltZins": 0,
+      "tiltGesamt": 0,
+      "score": 1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

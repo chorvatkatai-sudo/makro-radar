@@ -1,11 +1,11 @@
 {
-  "stand": "2026-10-21T09:03:54.973Z",
+  "stand": "2026-10-21T10:55:04.862Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
-  "gewertet": 35,
-  "nichtWertbar": 35,
+  "gewertet": 36,
+  "nichtWertbar": 34,
   "treffer": 16,
-  "quote": 46,
+  "quote": 44,
   "zinsentscheide": {
     "treffer": 9,
     "gesamt": 9,
@@ -13,18 +13,18 @@
   },
   "datenPrognosen": {
     "treffer": 7,
-    "gesamt": 26,
-    "quote": 27
+    "gesamt": 27,
+    "quote": 26
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
-    "gesamt": 18,
-    "quote": 33
+    "gesamt": 19,
+    "quote": 32
   },
   "exakt": {
     "treffer": 3,
-    "gesamt": 12,
-    "quote": 25
+    "gesamt": 13,
+    "quote": 23
   },
   "textdeutung": {
     "treffer": 13,
@@ -32,15 +32,6 @@
     "quote": 57
   },
   "letzte": [
-    {
-      "event": "US-Erzeugerpreise PPI (August, m/m)",
-      "datum": "2026-09-10",
-      "richtung": "hoeher",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "0.3%",
-      "ist": "0.3%",
-      "treffer": false
-    },
     {
       "event": "SNB-Zinsentscheid (Schweizer Notenbank)",
       "datum": "2026-09-24",
@@ -102,6 +93,15 @@
       "tatsaechlich": "niedriger",
       "konsens": "2.0%",
       "ist": "1.9",
+      "treffer": false
+    },
+    {
+      "event": "UK-Verbraucherinflation (CPI September) — y/y",
+      "datum": "2026-10-21",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "hoeher",
+      "konsens": "3.4%",
+      "ist": "3.5%",
       "treffer": false
     }
   ]

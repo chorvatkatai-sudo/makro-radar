@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-21T09:03:54.965Z",
+  "stand": "2026-10-21T10:55:04.855Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "European markets steady for now but widening bond yield spreads offer a warning",
+      "link": "https://investinglive.com/news/european-markets-steady-for-now-but-widening-bond-yield-spreads-offer-a-warning/",
+      "datum": "2026-10-21T09:11:28.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
@@ -71,12 +77,6 @@
       "titel": "Iran agreed to secret nuclear site visits in shift towards compromise, report says",
       "link": "https://investinglive.com/news/iran-agreed-to-secret-nuclear-site-visits-in-shift-towards-compromise-report-says/",
       "datum": "2026-10-20T13:09:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US September housing starts 1.221M vs 1.305M",
-      "link": "https://investinglive.com/news/us-september-housing-starts-vs-1-305m/",
-      "datum": "2026-10-20T12:30:05.000Z"
     },
     {
       "quelle": "Fed",

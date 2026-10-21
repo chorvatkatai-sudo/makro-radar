@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-21T09:03:54.967Z",
+  "stand": "2026-10-21T10:55:04.856Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 0,
-      "tiltZins": 0,
-      "tiltGesamt": 0,
-      "score": 1,
+      "tiltZins": 1,
+      "tiltGesamt": 1,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

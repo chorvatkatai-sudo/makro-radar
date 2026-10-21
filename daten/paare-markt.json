@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-20T22:51:08.162Z",
+  "stand": "2026-10-21T05:11:47.998Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -16,13 +16,13 @@
     },
     {
       "paar": "GBP/USD",
-      "baseScore": 5,
+      "baseScore": 6,
       "tiltCot": -2,
       "tiltZins": 4,
       "tiltGesamt": 2,
-      "score": 7,
+      "score": 8,
       "cotExtrem": "extrem",
-      "treiber": "Short-Squeeze (COT z −1,93) + steigender UK-Zins + schon positive Reaktion auf die US-Zahlen + UK-CPI Mi als Zünder. Bestes Paar-Track-Record (60%) → etwas mehr Überzeugung.",
+      "treiber": "Festes UK-Jobs-Update (Di) + BoE-Hike am 5.11. ~96% eingepreist + extreme Shorts (COT z −2,09, Squeeze) + UK-CPI heute als Zünder. Pfund auf 5-Wochen-Hoch. Bestes Paar-Track-Record (60%) → etwas mehr Überzeugung.",
       "istCross": false
     },
     {
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -4,
+      "baseScore": -3,
       "tiltCot": 5,
       "tiltZins": -6,
       "tiltGesamt": -1,
-      "score": -5,
+      "score": -4,
       "cotExtrem": null,
-      "treiber": "Öl-Sprung auf ~100$ (Brent an 110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Öl-Story löst das Paar vom Dollar-Block.",
+      "treiber": "Öl-Sprung (WTI ~98$, Brent ~109$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle CPI (3,1% vs 3,2%, Kern weich) öffnet die BoC-Senkungs-Tür am 28.10. → Signal etwas kleiner als Freitag.",
       "istCross": false
     },
     {

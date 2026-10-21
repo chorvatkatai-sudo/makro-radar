@@ -17,6 +17,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { findeBegriff, hoeherBullish } from "./klartext.mjs";
+import { binomP } from "./statistik.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -25,24 +27,10 @@ const WAEHRUNGEN = ["USD", "JPY", "GBP", "CHF", "CAD", "AUD", "NZD"];   // + EUR
 const leseJson = (f, fb) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch { return fb; } };
 const alsZahl = s => { const n = parseFloat(String(s).replace(",", ".").replace(/[^\d.\-]/g, "")); return isNaN(n) ? null : n; };
 
-// ─── Polarität: Was bedeutet ein HÖHERER Wert für die Währung? ──────────────
-// Gleiche Logik wie in benachrichtige.mjs (dort nicht importierbar, weil das
-// Skript beim Laden Nachrichten verschicken würde) — bei Änderungen beide pflegen.
-const lexikon = leseJson(path.join(ROOT, "scripts", "lexikon.json"), { begriffe: [], fallback: {} });
-function findeBegriff(titel) {
-  for (const b of lexikon.begriffe || []) {
-    try { if (new RegExp(b.muster, "i").test(titel)) return b; } catch { /* ignorieren */ }
-  }
-  return lexikon.fallback || { name: titel, hoeher: "" };
-}
-function hoeherBullish(begriff) {
-  const t = (begriff.hoeher || "").toUpperCase();
-  const iStark = t.indexOf("STÄRKER"), iSchwach = t.indexOf("SCHWÄCHER");
-  if (iStark === -1 && iSchwach === -1) return null;
-  if (iStark === -1) return false;
-  if (iSchwach === -1) return true;
-  return iStark < iSchwach;
-}
+// Polarität ("bedeutet ein HÖHERER Wert eine stärkere Währung?") kommt seit
+// Session 11 aus scripts/klartext.mjs — vorher lag dieselbe Funktion dreifach im
+// Projekt (hier, benachrichtige.mjs, tagesbriefing.mjs) und musste von Hand
+// synchron gehalten werden. Siehe Import oben.
 
 // ─── Kategorien (gröber als der Titel → tragfähigere Stichprobe) ────────────
 const KATEGORIE = [
@@ -133,16 +121,9 @@ export async function baueEventReaktion({ details = false } = {}) {
     });
   }
 
-  // Zweiseitiger exakter Binomial-p-Wert gegen den Münzwurf — ohne den liest sich
-  // ein "3/4 = 75%" wie eine Regel, obwohl es vier Münzwürfe sind.
-  const binomP = (k, n) => {
-    const C = (n, k) => { let r = 1; for (let i = 0; i < k; i++) r = r * (n - i) / (i + 1); return r; };
-    const pmf = i => C(n, i) * Math.pow(0.5, n);
-    const schwelle = pmf(k) + 1e-12;
-    let s = 0;
-    for (let i = 0; i <= n; i++) if (pmf(i) <= schwelle) s += pmf(i);
-    return Math.min(1, s);
-  };
+  // Der zweiseitige exakte Binomial-p-Wert gegen den Münzwurf kommt aus
+  // statistik.mjs (Import oben) — ohne ihn liest sich ein "3/4 = 75 %" wie eine
+  // Regel, obwohl es vier Münzwürfe sind.
   const bilanz = liste => {
     if (!liste.length) return null;
     const treffer = liste.filter(z => z.wieErwartet).length;

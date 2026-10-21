@@ -1,10 +1,10 @@
 {
-  "stand": "2026-10-21T10:55:04.862Z",
+  "stand": "2026-10-21T14:58:39.054Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
-  "gewertet": 36,
-  "nichtWertbar": 34,
-  "treffer": 16,
+  "gewertet": 34,
+  "nichtWertbar": 36,
+  "treffer": 15,
   "quote": 44,
   "zinsentscheide": {
     "treffer": 9,
@@ -12,24 +12,32 @@
     "quote": 100
   },
   "datenPrognosen": {
-    "treffer": 7,
-    "gesamt": 27,
-    "quote": 26
+    "treffer": 6,
+    "gesamt": 25,
+    "quote": 24,
+    "pWert": 0.015
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
-    "gesamt": 19,
-    "quote": 32
+    "gesamt": 20,
+    "quote": 30,
+    "pWert": 0.115
+  },
+  "richtungsCalls": {
+    "treffer": 6,
+    "gesamt": 15,
+    "quote": 40,
+    "pWert": 0.607
   },
   "exakt": {
-    "treffer": 3,
+    "treffer": 2,
     "gesamt": 13,
-    "quote": 23
+    "quote": 15
   },
   "textdeutung": {
     "treffer": 13,
-    "gesamt": 23,
-    "quote": 57
+    "gesamt": 21,
+    "quote": 62
   },
   "letzte": [
     {
@@ -55,8 +63,8 @@
       "datum": "2026-10-02",
       "richtung": "hoeher",
       "tatsaechlich": "niedriger",
-      "konsens": "0.3%",
-      "ist": "0.1%",
+      "konsens": "89K",
+      "ist": "29K",
       "treffer": false
     },
     {
@@ -74,7 +82,7 @@
       "richtung": "niedriger",
       "tatsaechlich": "hoeher",
       "konsens": "0.3%",
-      "ist": "0.5%",
+      "ist": "0.8%",
       "treffer": false
     },
     {

@@ -21,6 +21,7 @@ import { holeNews } from "./news.mjs";
 import { holeSentiment } from "./sentiment.mjs";
 import { werteZahlenPrognosenAus } from "./prognose-zahlen.mjs";
 import { baueEventReaktion } from "./event-reaktion.mjs";
+import { binomP, zufallsband, konfidenzStufe } from "./statistik.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -132,13 +133,29 @@ for (const e of feed) {
 }
 // 2b) Echte US-Ist-Werte automatisch von FRED nachtragen (nur online, nur leere
 //     actual-Felder, nie überschreiben). Ohne FRED-Schlüssel: sauber übersprungen.
+// TECHNIK-MELDER (Session 11): stille Dauerausfälle sichtbar machen. Der
+// FRED-Schlüssel war von Anfang Oktober bis zum 21.10.2026 ungültig, ohne dass
+// es jemandem aufgefallen wäre — der Build warnte nur ins Log, das niemand liest.
+// Alles, was hier landet, erscheint als EINE Zeile im Telegram-Tagesüberblick.
+const technik = [];
 if (!NUR_LOKAL) {
   try {
     const fr = await fuelleFredIstwerte(historie);
     if (!fr.skipped && fr.gefuellt.length) {
       console.log(`FRED: ${fr.gefuellt.length} US-Ist-Wert(e) nachgetragen (${fr.gefuellt.map(g => g.titel + " " + g.wert).join(", ")}).`);
     }
-    if (fr.fehler?.length) console.warn("FRED-Serien-Fehler:", fr.fehler.join(" | "));
+    if (fr.ausfall === "wartung") {
+      console.warn("FRED ist im Wartungsmodus — US-Auto-Fill pausiert, TradingView-Pfad greift weiter.");
+      technik.push({ code: "fred-wartung", text: "FRED gerade nicht erreichbar (Wartung) — US-Zahlen laufen über TradingView" });
+    } else if (fr.ausfall === "key") {
+      console.error("FRED lehnt den Schlüssel ab — neuen Gratis-Schlüssel holen: https://fredaccount.stlouisfed.org/apikeys");
+      technik.push({ code: "fred-key", text: "FRED lehnt unseren Schlüssel ab — neuer Schlüssel nötig" });
+    } else if (fr.ausfall) {
+      console.warn("FRED komplett ausgefallen:", fr.fehler.slice(0, 2).join(" | "));
+      technik.push({ code: "fred-aus", text: "FRED antwortet nicht wie erwartet — US-Zahlen laufen über TradingView" });
+    } else if (fr.fehler?.length) {
+      console.warn("FRED-Serien-Fehler (einzelne):", fr.fehler.join(" | "));
+    }
   } catch (e) { console.warn("FRED-Auto-Fill fehlgeschlagen:", e.message); }
 }
 
@@ -416,9 +433,11 @@ for (const paar in proPaar) {
   const s = proPaar[paar];
   s.quote = s.gesamt ? Math.round(s.treffer / s.gesamt * 100) : null;
   s.letzte = s.letzte.slice(-6);
-  // Konfidenz-Stufe: erst ab genug Stichprobe aussagekräftig (sonst "duenn"/"neu")
-  s.konfidenz = s.gesamt === 0 ? "neu" : s.gesamt < 3 ? "duenn"
-              : s.quote >= 60 ? "hoch" : s.quote <= 40 ? "niedrig" : "mittel";
+  // Konfidenz-Stufe aus dem exakten Binomialtest (statistik.mjs), NICHT mehr aus
+  // der nackten Quote. Vorher galt ab 3 Wochen schon >=60 % als "hoch" — EUR/CHF
+  // bekam damit bei 4/5 das Etikett "verlässlich", obwohl n=5 nichts beweist.
+  s.konfidenz = konfidenzStufe(s.treffer, s.gesamt);
+  s.pWert = s.gesamt ? +binomP(s.treffer, s.gesamt).toFixed(3) : null;
 }
 
 // Kalibrierung: Sind STARKE Überzeugungen (großer |score|) wirklich verlässlicher
@@ -491,14 +510,9 @@ if (wochenWette.gesamt) {
   wochenWette.quote = Math.round(wochenWette.treffer / wochenWette.gesamt * 100);
   wochenWette.konzentration = Math.round(konzSumme / wochenWette.gesamt * 100);
   // Münzwurf-Band: in welchem Trefferbereich landet eine faire Münze in 95% der Fälle?
-  // Exakt binomial, damit "besser/schlechter als Zufall" nicht überinterpretiert wird.
-  const binom = (n, k) => { let r = 1; for (let i = 0; i < k; i++) r = r * (n - i) / (i + 1); return r; };
-  const n = wochenWette.gesamt;
-  const pmf = i => binom(n, i) * Math.pow(0.5, n);
-  let lo = 0, hi = n, kum = 0;
-  for (let i = 0; i <= n; i++) { kum += pmf(i); if (kum > 0.025) { lo = i; break; } }
-  kum = 0;
-  for (let i = n; i >= 0; i--) { kum += pmf(i); if (kum > 0.025) { hi = i; break; } }
+  // Exakt binomial (statistik.mjs), damit "besser/schlechter als Zufall" nicht
+  // überinterpretiert wird.
+  const [lo, hi] = zufallsband(wochenWette.gesamt);
   wochenWette.zufallsband = [lo, hi];
   wochenWette.vomZufallUnterscheidbar = wochenWette.treffer < lo || wochenWette.treffer > hi;
 }
@@ -518,6 +532,31 @@ const prognoseQuote = {
 // Auch als eigene JSON ablegen (wie paare-markt.json): tagesbriefing.mjs braucht die
 // Verlässlichkeits-Zahlen für die Telegram-Kurzfassung, ohne data.js parsen zu müssen.
 fs.writeFileSync(path.join(DATEN, "prognose-quote.json"), JSON.stringify(prognoseQuote, null, 2));
+
+// Technik-Melder schreiben — NUR im Online-Lauf. Ein --lokal-Build weiß nichts über
+// die Erreichbarkeit der Quellen und würde eine echte Warnung sonst stillschweigend
+// auf "alles in Ordnung" zurücksetzen.
+//
+// Jedes Problem bekommt ein `seit`: besteht es schon im letzten Lauf, bleibt der
+// alte Zeitstempel stehen. Erst daraus kann der Telegram-Überblick unterscheiden,
+// ob etwas DAUERHAFT kaputt ist oder die Quelle nur gerade eine Wartungspause hat
+// — sonst meldet eine halbe Stunde FRED-Wartung sofort "alles kaputt" (genau das
+// ist beim Bau in Session 11 passiert).
+if (!NUR_LOKAL) {
+  const statusDatei = path.join(DATEN, "technik-status.json");
+  let vorher = [];
+  try { vorher = JSON.parse(fs.readFileSync(statusDatei, "utf8")).probleme || []; } catch { /* erster Lauf */ }
+  const jetzt = new Date().toISOString();
+  const probleme = technik.map(p => ({
+    ...p,
+    seit: vorher.find(v => v.code === p.code)?.seit || jetzt,
+  }));
+  fs.writeFileSync(statusDatei, JSON.stringify({
+    stand: jetzt,
+    hinweis: "Ausfälle von Datenquellen mit Beginn-Zeitstempel. Der Telegram-Überblick meldet nur, was länger als 24 h anhält.",
+    probleme,
+  }, null, 2));
+}
 
 // Track-Record der ZAHLEN-Prognosen (getrennt von der Kursrichtung). Braucht nur
 // lokale Dateien (Briefing-Archiv + Historie), läuft daher auch im --lokal-Build.

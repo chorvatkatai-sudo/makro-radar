@@ -1,6 +1,17 @@
 // benachrichtige.mjs — schickt eine Telegram-Nachricht, sobald ein High-Impact-Event
-// einen neuen Ist-Wert bekommen hat: Ist/Prognose/Vorher, höher/tiefer, was es bedeutet
-// (aus lexikon.json) und welche Major-Paare dadurch bullish/bärisch werden.
+// einen neuen Ist-Wert bekommen hat: Zahl, Richtung, was es bedeutet (aus lexikon.json)
+// und EIN konkretes Paar mit Ziel/Stop.
+//
+// Umbau Session 11 (2026-10-21, Wunsch des Users "zu viel INFO"):
+//   - Vorher listete die Nachricht ALLE betroffenen Paare mit Ziel/Stop — bei US-Zahlen
+//     7 Paare x 2 Zeilen = ~25 Zeilen. Jetzt: EIN "bestes Paar" mit Levels, die übrigen
+//     als eine Zeile mit Pfeilen.
+//   - Auswahl des besten Paars: erst Übereinstimmung mit der eigenen Makro-Einschätzung
+//     (paare-markt.json), dann bestes Chance/Risiko-Verhältnis aus den Kurslevels.
+//   - BUGFIX: Preis kam von frankfurter (EZB-Tagesfixing), Ziel/Stop aus Yahoo-Kerzen.
+//     Beide Quellen driften -> im Demo stand bei AUD/USD "FALLEND" ein Ziel ÜBER dem
+//     angezeigten Preis. Jetzt kommt BEIDES aus kurslevel.mjs (Yahoo), und Levels auf
+//     der falschen Seite des Preises werden weggelassen statt ausgegeben.
 //
 // Aufruf:
 //   node scripts/benachrichtige.mjs            -> sendet faellige Benachrichtigungen
@@ -17,6 +28,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { holeKurslevel } from "./kurslevel.mjs";
+import { flagge, waehrungName, findeBegriff, hoeherBullish, eventName, zahlDe, kuerze } from "./klartext.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -28,29 +40,14 @@ const TAGE = (() => { const i = args.indexOf("--tage"); return i >= 0 ? parseInt
 const TOKEN = process.env.TELEGRAM_TOKEN?.trim();
 const CHAT = process.env.TELEGRAM_CHAT?.trim();
 
-const FLAGGE = { USD: "🇺🇸", EUR: "🇪🇺", GBP: "🇬🇧", JPY: "🇯🇵", CHF: "🇨🇭", CAD: "🇨🇦", AUD: "🇦🇺", NZD: "🇳🇿", CNY: "🇨🇳" };
 const MAJORS = ["EUR/USD", "GBP/USD", "USD/JPY", "AUD/USD", "USD/CAD", "USD/CHF", "NZD/USD",
                 "EUR/GBP", "EUR/JPY", "AUD/NZD", "EUR/CHF"];   // Crosses seit Session 10
 
-// Live-Kurse (ECB-Tageskurse, frankfurter.dev — kostenlos, kein Key). Einmal pro Lauf.
-async function holeKurse() {
-  try {
-    const r = await fetch("https://api.frankfurter.dev/v1/latest?base=EUR&symbols=USD,JPY,GBP,CHF,CAD,AUD,NZD");
-    if (!r.ok) throw new Error("HTTP " + r.status);
-    return (await r.json()).rates;
-  } catch { return null; }
-}
 const nachkomma = paar => paar.endsWith("/JPY") ? 2 : 4;
 const fmtZahl = (paar, v) => v == null ? null : v.toLocaleString("de-DE", { minimumFractionDigits: nachkomma(paar), maximumFractionDigits: nachkomma(paar) });
-function paarKurs(paar, rates) {
-  if (!rates) return null;
-  const [b, q] = paar.split("/");
-  const eurZu = c => c === "EUR" ? 1 : rates[c];
-  const pb = eurZu(b), pq = eurZu(q);
-  if (!pb || !pq) return null;
-  return fmtZahl(paar, pq / pb);
-}
-// Kurslevel je Paar nur einmal pro Lauf holen (Cache).
+
+// Kurslevel je Paar nur einmal pro Lauf holen (Cache). Liefert auch den Preis —
+// Preis UND Levels kommen damit aus derselben Quelle (Yahoo-Tageskerzen).
 const levelCache = new Map();
 async function levelFuer(paar) {
   if (!levelCache.has(paar)) levelCache.set(paar, await holeKurslevel(paar).catch(() => null));
@@ -62,25 +59,14 @@ function leseJson(datei, fallback) {
 }
 const alsZahl = s => { const n = parseFloat(String(s).replace(",", ".").replace(/[^\d.\-]/g, "")); return isNaN(n) ? null : n; };
 
-// Lexikon-Eintrag zum Event-Titel finden (sonst Fallback).
-const lexikon = leseJson(path.join(ROOT, "scripts", "lexikon.json"), { begriffe: [], fallback: {} });
-function findeBegriff(titel) {
-  for (const b of lexikon.begriffe || []) {
-    try { if (new RegExp(b.muster, "i").test(titel)) return b; } catch { /* ignorieren */ }
-  }
-  return lexikon.fallback || { name: titel, einfach: "", hoeher: "", niedriger: "" };
-}
-// Polaritaet aus dem Lexikon-Text "hoeher" ableiten: was bedeutet ein HOEHERER Wert
-// fuer die Waehrung? -> true = staerker (bullish), false = schwaecher, null = unklar/neutral.
-function hoeherBullish(begriff) {
-  const t = (begriff.hoeher || "").toUpperCase();
-  const iStark = t.indexOf("STÄRKER");
-  const iSchwach = t.indexOf("SCHWÄCHER");
-  if (iStark === -1 && iSchwach === -1) return null;
-  if (iStark === -1) return false;
-  if (iSchwach === -1) return true;
-  return iStark < iSchwach;            // welche Richtung wird zuerst genannt
-}
+// Eigene Makro-Einschätzung je Paar (Endscores wie im Dashboard) — dient nur dazu,
+// unter den betroffenen Paaren jenes auszuwählen, das zur Hausmeinung passt.
+const eigeneScores = (() => {
+  const pm = leseJson(path.join(DATEN, "paare-markt.json"), null);
+  const br = leseJson(path.join(DATEN, "briefing-aktuell.json"), null);
+  const liste = (pm?.paare?.length ? pm.paare : br?.paare) || [];
+  return new Map(liste.map(p => [p.paar, p.score || 0]));
+})();
 
 function paarWirkung(land, waehrungBull) {
   // waehrungBull: true = Waehrung wird staerker. Gibt je betroffenem Major Richtung zurueck.
@@ -95,9 +81,46 @@ function paarWirkung(land, waehrungBull) {
   return out;
 }
 
-async function baueNachricht(e, rates) {
+/**
+ * Aus allen betroffenen Paaren EINES auswählen und mit Ziel/Stop versehen.
+ * Reihenfolge der Kriterien:
+ *   1. Levels müssen plausibel sein — Ziel und Stop auf der RICHTIGEN Seite des
+ *      Preises. (Früher wurde das nicht geprüft; bei driftenden Quellen stand dann
+ *      ein Short-Ziel über dem Einstieg.)
+ *   2. Übereinstimmung mit der eigenen Makro-Einschätzung (Bestätigung schlägt
+ *      Gegenwette).
+ *   3. Bestes Chance/Risiko-Verhältnis (Weg zum Ziel / Weg zum Stop).
+ * Gibt { beste, uebrige } zurück; beste kann null sein (dann nur die Pfeil-Liste).
+ */
+async function waehleBestesPaar(wirkungen) {
+  const bewertet = [];
+  for (const w of wirkungen) {
+    const lv = await levelFuer(w.paar);
+    let ziel = null, stop = null, crv = null;
+    if (lv && lv.preis) {
+      const z = w.hoch ? lv.widerstand : lv.support;      // Long -> Widerstand, Short -> Support
+      const s = w.hoch ? lv.support : lv.widerstand;
+      const zielOk = w.hoch ? z > lv.preis : z < lv.preis;
+      const stopOk = w.hoch ? s < lv.preis : s > lv.preis;
+      if (zielOk && stopOk) {
+        ziel = z; stop = s;
+        crv = Math.abs(z - lv.preis) / Math.abs(s - lv.preis);
+      }
+    }
+    const eigener = eigeneScores.get(w.paar) || 0;
+    // Stimmt unsere Hausmeinung (Score-Vorzeichen) mit der Event-Richtung überein?
+    const passt = eigener !== 0 && (eigener > 0) === w.hoch;
+    bewertet.push({ ...w, preis: lv?.preis ?? null, ziel, stop, crv, passt });
+  }
+  const handelbar = bewertet.filter(x => x.crv != null);
+  handelbar.sort((a, b) => (b.passt - a.passt) || (b.crv - a.crv));
+  const beste = handelbar[0] || null;
+  const uebrige = bewertet.filter(x => x !== beste);
+  return { beste, uebrige };
+}
+
+async function baueNachricht(e) {
   const b = findeBegriff(e.titel);
-  const flagge = FLAGGE[e.land] || "🏳️";
   const a = alsZahl(e.actual), f = alsZahl(e.prognose);
   let richtung = null;                 // true=hoeher, false=tiefer, "gleich", null=unbekannt
   if (a !== null && f !== null) richtung = a > f ? true : (a < f ? false : "gleich");
@@ -106,53 +129,49 @@ async function baueNachricht(e, rates) {
   const waehrungBull = hatSignal ? (richtung === true ? pol : !pol) : null;
 
   const z = [];
-  // Kopf
-  z.push(`${flagge} ${b.name || e.titel}`);
-  z.push(`📅 ${String(e.datum).slice(0, 10)} · ${e.land}`);
-  z.push("");
+  // 1) Kopf: Land, Klarname, die Zahl und die Abweichung — alles in zwei Zeilen.
+  z.push(`${flagge(e.land)} ${eventName(e.titel)}`);
+  if (e.prognose) {
+    // "deutlich", wenn die Abweichung über 20 % der Prognose liegt (bei Prognose 0
+    // nicht berechenbar -> dann ohne Verstärkung).
+    const stark = a !== null && f !== null && f !== 0 && Math.abs(a - f) / Math.abs(f) > 0.2;
+    const wort = richtung === true ? `${stark ? "deutlich " : ""}HÖHER`
+      : richtung === false ? `${stark ? "deutlich " : ""}TIEFER`
+      : richtung === "gleich" ? "GENAU WIE ERWARTET" : "";
+    z.push(`${zahlDe(e.actual)} — erwartet ${zahlDe(e.prognose)}${wort ? ` → ${wort}` : ""}`);
+  } else {
+    z.push(`${zahlDe(e.actual)}${e.vorher ? ` (vorher ${zahlDe(e.vorher)})` : ""}`);
+  }
 
-  // 1) SIGNAL ganz oben (schnelles Reagieren)
+  // 2) Bedeutung in einem Satz.
   if (hatSignal) {
-    const wirk = paarWirkung(e.land, waehrungBull);
-    z.push("➡️ SIGNAL — wahrscheinliche Richtung:");
-    for (const w of wirk) {
-      const kurs = paarKurs(w.paar, rates);
-      const ampel = w.hoch ? "🟢" : "🔴";
-      const pfeil = w.hoch ? "↑ STEIGEND" : "↓ FALLEND";
-      z.push(`${ampel} ${w.paar}${kurs ? "  " + kurs : ""}  →  ${pfeil}`);
-      // Ziel/Stop aus technischen Kurslevels (Swing-Hoch/-Tief)
-      const lv = await levelFuer(w.paar);
-      if (lv) {
-        const ziel = w.hoch ? lv.widerstand : lv.support;     // Long -> Widerstand, Short -> Support
-        const stop = w.hoch ? lv.support : lv.widerstand;
-        z.push(`   🎯 Ziel ~${fmtZahl(w.paar, ziel)}  ·  🛑 SL ~${fmtZahl(w.paar, stop)}`);
-      }
-    }
-    z.push("");
-    z.push("ℹ️ Ziel/SL = nächste technische Level (Swing-Hoch/-Tief), keine Garantie.");
-    z.push("");
+    z.push(`${waehrungBull ? "📈" : "📉"} Heißt: ${waehrungName(e.land)} sollte ${waehrungBull ? "STÄRKER" : "SCHWÄCHER"} werden.`);
   } else if (richtung === "gleich") {
-    z.push("➡️ SIGNAL: wie erwartet — kaum Bewegung zu erwarten.");
-    z.push("");
+    z.push("➖ Heißt: keine Überraschung — kaum Bewegung zu erwarten.");
+  } else {
+    z.push("📝 Faustregel: besser als die Prognose = gut für die Währung, schlechter = schlecht.");
   }
 
-  // 2) Die Zahlen (kurz untereinander, kein Umbruch-Chaos)
-  z.push("📊 Zahlen:");
-  z.push(`• Ist: ${e.actual}`);
-  if (e.prognose) z.push(`• Erwartet: ${e.prognose}`);
-  if (e.vorher) z.push(`• Vorher: ${e.vorher}`);
-  if (richtung === true) z.push("📈 HÖHER als erwartet");
-  else if (richtung === false) z.push("📉 TIEFER als erwartet");
-  z.push("");
-
-  // 3) Einschätzung + Erklärung
+  // 3) EIN konkretes Paar mit Ziel/Stop, Rest als Pfeil-Zeile.
   if (hatSignal) {
-    const wort = waehrungBull ? "stärker" : "schwächer";
-    z.push(`📝 Einschätzung: Die Zahlen sprechen dafür, dass ${e.land} ${wort} wird — die Paare oben zeigen die wahrscheinliche Richtung.`);
-  } else if (richtung !== "gleich") {
-    z.push("📝 Faustregel: besser als Prognose = gut für die Währung, schlechter = schlecht.");
+    const { beste, uebrige } = await waehleBestesPaar(paarWirkung(e.land, waehrungBull));
+    if (beste) {
+      z.push("");
+      const seite = beste.hoch ? "🟢 LONG" : "🔴 SHORT";
+      z.push(`${seite} ${beste.paar} (${fmtZahl(beste.paar, beste.preis)})${beste.passt ? " ✓ passt zu unserer Einschätzung" : ""}`);
+      z.push(`   🎯 Ziel ${fmtZahl(beste.paar, beste.ziel)} · 🛑 Stop ${fmtZahl(beste.paar, beste.stop)}`);
+    }
+    if (uebrige.length) {
+      z.push("");
+      z.push(`Auch betroffen: ${uebrige.map(w => `${w.paar} ${w.hoch ? "↑" : "↓"}`).join(" · ")}`);
+    }
   }
-  if (b.einfach) z.push(`💡 ${b.einfach}`);
+
+  // 4) Erklärung — gekürzt, der volle Text steht im Dashboard-Lexikon.
+  if (b.einfach) {
+    z.push("");
+    z.push(`💡 ${kuerze(b.einfach, 150)}`);
+  }
   return z.join("\n");
 }
 
@@ -172,10 +191,9 @@ if (args.includes("--demo")) {
     { datum: "2026-07-16T02:00:00-04:00", land: "GBP", titel: "CPI y/y", impact: "High", actual: "2.5%", prognose: "2.9%", vorher: "2.8%" },
     { datum: "2026-07-09T20:30:00-04:00", land: "AUD", titel: "Unemployment Rate", impact: "High", actual: "4.4%", prognose: "4.1%", vorher: "4.1%" },
   ];
-  const ratesDemo = await holeKurse();
   let n = 0;
   for (const e of beispiele) {
-    const text = "🧪 BEISPIEL (Test)\n\n" + await baueNachricht(e, ratesDemo);
+    const text = "🧪 BEISPIEL (Test)\n\n" + await baueNachricht(e);
     if (DRY || !TOKEN || !CHAT) { console.log("--- (DRY/kein Zugang) ---\n" + text + "\n"); }
     else { try { await sende(text); n++; } catch (err) { console.warn("Senden fehlgeschlagen:", err.message); } }
   }
@@ -215,10 +233,9 @@ if (!DRY && (!TOKEN || !CHAT)) {
   process.exit(0);
 }
 
-const rates = await holeKurse();
 let gesendet = 0;
 for (const [id, e] of faellig) {
-  const text = await baueNachricht(e, rates);
+  const text = await baueNachricht(e);
   if (DRY) {
     console.log("--- (DRY) ---\n" + text + "\n");
   } else {

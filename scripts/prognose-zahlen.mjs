@@ -20,6 +20,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { binomP } from "./statistik.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATEN = path.join(ROOT, "daten");
@@ -104,11 +105,34 @@ function findeIst(waehrung, datum, eventText) {
     e.impact === "High" && e.prognose != null && e.prognose !== "");
   if (!tag.length) return null;
   if (tag.length === 1) return tag[0];
-  // Mehrere Zahlen am selben Tag: die nehmen, deren Titel im Event-Text vorkommt.
-  const stich = ["Core", "Kern", "CPI", "Rate", "GDP", "BIP", "Employment", "Retail", "PCE", "PPI"];
-  const treffer = tag.find(e => stich.some(s =>
-    new RegExp(s, "i").test(e.titel || "") && new RegExp(s, "i").test(eventText || "")));
-  return treffer || tag[0];
+  // Mehrere Zahlen am selben Tag: die nehmen, deren Thema im Event-Text vorkommt.
+  // Jede Zeile ist ein Thema mit allen Schreibweisen (Feed-Titel UND deutscher
+  // Briefing-Text) — "Non-Farm Employment Change" und "Non-Farm Payrolls" müssen
+  // zusammenfinden, sonst greift keines der Stichwörter.
+  const THEMEN = [
+    /Non-?Farm|Payroll|NFP|Jobbericht/i,
+    /Hourly Earnings|Stundenl(o|ö)hn/i,
+    /Unemployment|Arbeitslos/i,
+    /Jobless|Claims|Erstantr/i,
+    /Core CPI|Kern-?CPI|Kerninflation|Kern-Inflation/i,
+    /CPI|Verbraucherpreis|Inflation/i,
+    /Core PPI|Kern-?PPI/i,
+    /PPI|Erzeugerpreis/i,
+    /PCE/i,
+    /GDP|BIP/i,
+    /Retail|Einzelhandel/i,
+    /ISM|PMI|Einkaufsmanager/i,
+    /Sentiment|Stimmung|Confidence/i,
+  ];
+  for (const t of THEMEN) {
+    if (!t.test(eventText || "")) continue;
+    const hit = tag.find(e => t.test(e.titel || ""));
+    if (hit) return hit;
+  }
+  // BEWUSST kein Rückfall auf tag[0] (Session 11): der riet bei mehreren Zahlen
+  // desselben Tages einfach die erste und wertete z. B. eine NFP-Prognose gegen
+  // "Average Hourly Earnings m/m". Lieber keinen Datenpunkt als einen falschen.
+  return null;
 }
 
 export function werteZahlenPrognosenAus() {
@@ -147,14 +171,43 @@ for (const p of gesehen.values()) {
   const a = zahl(ist.actual), k = zahl(ist.prognose);
   if (a == null || k == null) { eintrag.grund = "Zahl nicht lesbar"; ergebnisse.push(eintrag); continue; }
   const diff = +(a - k).toFixed(3);
-  // "wie erwartet" gilt als getroffen, wenn die Abweichung verschwindend ist.
-  const toleranz = Math.max(0.05, Math.abs(k) * 0.02);
-  const echt = Math.abs(diff) <= toleranz ? "wie_erwartet" : diff > 0 ? "hoeher" : "niedriger";
+  // Toleranz = HALBER Tick der Konsens-Angabe, also faktisch "exakt auf der Linie".
+  // Vorher: max(0,05; |Konsens|*2 %) — das war relativ und damit grob unfair je
+  // nach Größenordnung der Reihe: ISM-Konsens 55,2 bekam 1,1 Punkte Spielraum
+  // (54,6 galt als "wie erwartet", obwohl 6 Ticks daneben), ein Kern-CPI-Konsens
+  // von 0,2 % nur 0,05 (0,3 % = 1 Tick galt als Abweichung). Session 11.
+  const nachkomma = (String(ist.prognose).match(/[.,](\d+)/) || ["", ""])[1].length;
+  const toleranz = Math.pow(10, -nachkomma) / 2;
+  const echt = Math.abs(diff) < toleranz ? "wie_erwartet" : diff > 0 ? "hoeher" : "niedriger";
   Object.assign(eintrag, {
     status: "gewertet", titel: ist.titel, konsens: ist.prognose, ist: ist.actual,
     abweichung: diff, tatsaechlich: echt, treffer: richtung === echt,
   });
   ergebnisse.push(eintrag);
+}
+
+// ─── Entduplizieren je VERÖFFENTLICHUNG (Session 11) ───────────────────────
+// Der Sammel-Schlüssel oben ist `event|termin` — der Event-TEXT der Briefings
+// unterscheidet sich aber zwischen den Wochen ("US-Kern-Erzeugerpreise (Core PPI)"
+// vs. "Erzeugerpreise Kern"), wodurch dieselbe Veröffentlichung mehrfach gewertet
+// wurde. Am 15.10.2026 stand Core PPI zweimal drin, mit WIDERSPRÜCHLICHEN Calls
+// ("niedriger" und "wie_erwartet") — beide als Fehler gezählt. Das ist genau die
+// Mehrfachzählung, vor der die Lehre aus Session 10 warnt.
+// Regel wie im Reaktions-Playbook: je (Währung | Datum | Feed-Titel) nur EIN Fall;
+// widersprechen sich die Calls, fällt der Fall ganz raus statt zu bestrafen.
+const proRelease = new Map();
+for (const e of ergebnisse.filter(x => x.status === "gewertet")) {
+  const key = `${e.waehrung}|${e.datum}|${e.titel}`;
+  const vorhanden = proRelease.get(key);
+  if (!vorhanden) { proRelease.set(key, e); continue; }
+  if (vorhanden.richtung !== e.richtung) vorhanden.widersprochen = true;
+}
+for (const e of ergebnisse) {
+  const key = `${e.waehrung}|${e.datum}|${e.titel}`;
+  if (e.status !== "gewertet") continue;
+  const behalten = proRelease.get(key);
+  if (behalten !== e) { e.status = "nicht_wertbar"; e.grund = "Doppelzählung derselben Veröffentlichung"; }
+  else if (e.widersprochen) { e.status = "nicht_wertbar"; e.grund = "zwei widersprüchliche Calls zur selben Veröffentlichung"; }
 }
 
 const gewertet = ergebnisse.filter(e => e.status === "gewertet");
@@ -175,6 +228,19 @@ const istZins = e => ZINSENTSCHEID.test(e.event || "");
 const zinsentscheide = gewertet.filter(istZins);
 const datenPrognosen = gewertet.filter(e => !istZins(e));
 const mitAbweichung = datenPrognosen.filter(e => e.tatsaechlich !== "wie_erwartet");
+// DIE FAIRE KENNZAHL (Session 11): nur echte RICHTUNGS-Calls, und nur dort, wo der
+// Wert auch wirklich vom Konsens abwich. Alles andere misst die Zählkonvention,
+// nicht die Prognoseleistung:
+//   - "wie_erwartet"-Calls sind per Definition Fehltreffer, sobald sich irgendetwas
+//     bewegt — bei 0,1er-Schrittweiten also fast immer;
+//   - ein "niedriger"-Lean auf einen Wert, der EXAKT auf dem Konsens landet, zählt
+//     als Fehler, obwohl der Prognostiker nicht in die falsche Richtung lag.
+// Beides zusammen erzeugte die Schlagzeile "24 % — schlechter als Raten (p=0,015)".
+// Auf den echten Richtungs-Calls steht es dagegen 6/15 = 40 % (p=0,61) = Münzwurf.
+const richtungsCalls = datenPrognosen.filter(e =>
+  e.richtung !== "wie_erwartet" && e.tatsaechlich !== "wie_erwartet");
+
+const mitP = b => ({ ...b, pWert: b.gesamt ? +binomP(b.treffer, b.gesamt).toFixed(3) : null });
 
 const bericht = {
   stand: new Date().toISOString(),
@@ -185,8 +251,9 @@ const bericht = {
   treffer,
   quote: gewertet.length ? Math.round(treffer / gewertet.length * 100) : null,
   zinsentscheide: bilanz(zinsentscheide),
-  datenPrognosen: bilanz(datenPrognosen),
-  richtungBeiAbweichung: bilanz(mitAbweichung),
+  datenPrognosen: mitP(bilanz(datenPrognosen)),
+  richtungBeiAbweichung: mitP(bilanz(mitAbweichung)),
+  richtungsCalls: mitP(bilanz(richtungsCalls)),   // die faire Kennzahl, siehe oben
   exakt: nachMethode("exakt"),
   textdeutung: nachMethode("textdeutung"),
   letzte: gewertet.slice(-8).map(e => ({
@@ -207,6 +274,8 @@ if (process.argv[1] && process.argv[1].endsWith("prognose-zahlen.mjs")) {
   console.log(`  davon Zinsentscheide (Halten wie erwartet = geschenkt): ${q(bericht.zinsentscheide)}`);
   console.log(`  echte Datenprognosen:                                   ${q(bericht.datenPrognosen)}`);
   console.log(`  davon Richtung richtig, WENN der Wert wirklich abwich:  ${q(bericht.richtungBeiAbweichung)}`);
+  console.log(`  >> FAIRE KENNZAHL (nur echte Richtungs-Calls auf abweichende Werte):`);
+  console.log(`     ${q(bericht.richtungsCalls)} · p=${bericht.richtungsCalls.pWert}${bericht.richtungsCalls.pWert < 0.05 ? " BELASTBAR" : " (Münzwurf nicht ausgeschlossen)"}`);
   console.log(`  Methode — exakt: ${q(bericht.exakt)} · Textdeutung: ${q(bericht.textdeutung)}`);
   if (DETAILS) {
     for (const e of ergebnisse) {

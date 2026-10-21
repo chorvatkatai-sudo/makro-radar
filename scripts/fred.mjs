@@ -72,7 +72,27 @@ async function holeSerie(serie, key) {
   const url = `https://api.stlouisfed.org/fred/series/observations` +
     `?series_id=${serie}&api_key=${key}&file_type=json&observation_start=2022-01-01&sort_order=asc`;
   const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (Makro-Dashboard, privat)" } });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  // Fehler sprechend machen (Session 11). Zwei Fallen, beide real aufgetreten:
+  //  1. Ungültiger Schlüssel -> HTTP 400 + JSON mit error_message. Ein nacktes
+  //     "HTTP 400" sah vorher wie ein Serienproblem aus.
+  //  2. WARTUNG -> HTTP *200* mit einer HTML-Seite ("Site Maintenance | St. Louis
+  //     Fed"). Das lief vorher in JSON.parse und endete als kryptisches
+  //     "Unexpected token '<'". Deshalb wird der Content-Type geprüft, nicht nur
+  //     der Status. Achtung bei der Fehlersuche: FRED meldete in derselben
+  //     Wartungsphase zeitweise auch "api_key is not registered" für einen
+  //     GÜLTIGEN Schlüssel — diese Meldung allein ist KEIN Beweis für ein
+  //     Schlüsselproblem.
+  const typ = res.headers.get("content-type") || "";
+  if (!typ.includes("json")) {
+    const txt = (await res.text()).slice(0, 400);
+    if (/maintenance|wartung/i.test(txt)) throw new Error("WARTUNG: FRED ist gerade im Wartungsmodus");
+    throw new Error(`Antwort ist kein JSON (content-type ${typ || "unbekannt"})`);
+  }
+  if (!res.ok) {
+    let detail = "";
+    try { detail = (await res.json())?.error_message || ""; } catch { /* kein JSON */ }
+    throw new Error(`HTTP ${res.status}${detail ? ` — ${detail.replace(/\s+/g, " ").trim()}` : ""}`);
+  }
   const j = await res.json();
   const map = new Map();
   for (const o of (j.observations || [])) {
@@ -147,7 +167,15 @@ export async function fuelleFredIstwerte(historie, { dry = false, log = console.
       }
     }
   }
-  return { skipped: false, gefuellt, fehler, stand: new Date().toISOString() };
+  // Ausfall einordnen — nur wenn ALLE Serien scheitern, ist es ein Systemproblem.
+  // "wartung" ist vorübergehend und harmlos, "key" wäre ein echter Handlungsbedarf.
+  // Getrennt gehalten, weil FRED im Wartungsmodus BEIDE Symptome zeigen kann.
+  const allesHin = fehler.length > 0 && fehler.length === serienIds.length;
+  const ausfall = !allesHin ? null
+    : fehler.some(f => /WARTUNG/i.test(f)) ? "wartung"
+    : fehler.every(f => /api_key/i.test(f)) ? "key"
+    : "unbekannt";
+  return { skipped: false, gefuellt, fehler, ausfall, stand: new Date().toISOString() };
 }
 
 // ---- FRED-Tagesreihen für den Markt-Kompass (Inflationserwartung, Realzins) -

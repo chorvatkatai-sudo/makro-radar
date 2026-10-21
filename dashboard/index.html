@@ -280,7 +280,11 @@
   .ausblick-text p { margin-bottom: 9px; color: var(--text); }
   .ausblick-text p::before { content: "›"; color: var(--blue); margin-right: 9px; font-weight: 700; }
   .ausblick-termine { margin-top: 14px; display: grid; gap: 8px; }
-  .ausblick-termin { display: grid; grid-template-columns: 110px 52px 1fr; gap: 12px; background: var(--panel2); border-radius: 10px; padding: 10px 14px; font-size: 13.5px; align-items: baseline; }
+  .ausblick-termin { display: grid; grid-template-columns: 110px 52px minmax(0, 1fr); gap: 12px; background: var(--panel2); border-radius: 10px; padding: 10px 14px; font-size: 13.5px; align-items: baseline; }
+  /* Grid-Spalten sind per Default min-width:auto — ein langes Wort im Titel
+     ("Industrieproduktion") weitet die Spalte und schiebt die Seite nach rechts.
+     minmax(0,1fr) oben + harter Umbruch hier halten das im Rahmen (Session 11). */
+  .ausblick-termin > span:last-child { min-width: 0; overflow-wrap: anywhere; }
   .ausblick-termin .tag { color: var(--amber); font-weight: 700; font-size: 13px; }
   .ausblick-termin .warum { color: var(--dim); font-size: 13px; margin-top: 2px; }
 
@@ -310,6 +314,9 @@
     .event-zeile .impact { display: none; }
     .szenarien, .pfeile { grid-template-columns: 1fr; }
     .tn-spalten { grid-template-columns: 1fr; }
+    /* Am Handy blieben 110px+52px fixe Spalten stehen und liessen nur ~140px
+       fuer den Titel uebrig — schmalere Spalten geben dem Text Platz. */
+    .ausblick-termin { grid-template-columns: 76px 40px minmax(0, 1fr); gap: 8px; }
     .tn-titel { font-size: 15px; }
 
     /* Major-Paare: kompakte Zeilen — Begründung erst beim Antippen */
@@ -834,16 +841,24 @@ if (B) {
   // Treffer-Quote pro Paar (Rückkopplung): Track-Record je Paar aus den ausgewerteten Wochen.
   const PP = D.prognoseQuote?.proPaar || {};
   const konfKlasse = k => k === "hoch" ? "gut" : k === "niedrig" ? "schlecht" : "neutral";
+  // Chip NUR bei statistisch belegtem Befund (konfidenz "hoch"/"niedrig" = exakter
+  // Binomialtest p<0,05, siehe scripts/statistik.mjs). Session 11: vorher erschien
+  // bei "mittel" eine nackte Prozentzahl neben dem Paarnamen — die liest sich wie
+  // eine gemessene Wahrscheinlichkeit, ist aber nicht von Zufall zu unterscheiden.
   const konfChip = paar => {
     const s = PP[paar];
-    if (!s || !s.gesamt || s.konfidenz === "duenn") return "";   // Chip erst ab belastbarer Stichprobe
-    const txt = s.konfidenz === "hoch" ? `🎯 ${s.quote}% verlässlich` : s.konfidenz === "niedrig" ? `⚠ nur ${s.quote}%` : `${s.quote}%`;
-    return `<span class="paar-konf ${konfKlasse(s.konfidenz)}" title="Wie oft die Richtung dieses Paars in der Vergangenheit stimmte (${s.treffer}/${s.gesamt})">${txt}</span>`;
+    if (!s || !s.gesamt) return "";
+    if (s.konfidenz === "hoch") return `<span class="paar-konf gut" title="Signifikant besser als ein Münzwurf (${s.treffer}/${s.gesamt}, p=${s.pWert})">🎯 ${s.quote}% belegt</span>`;
+    if (s.konfidenz === "niedrig") return `<span class="paar-konf schlecht" title="Signifikant SCHLECHTER als ein Münzwurf (${s.treffer}/${s.gesamt}, p=${s.pWert})">⚠ nur ${s.quote}%</span>`;
+    return "";
   };
   const trackZeile = paar => {
     const s = PP[paar];
     if (!s || !s.gesamt) return `<div class="paar-track neu">📊 Noch keine Auswertung — der Track-Record dieses Paars entsteht ab der ersten abgeschlossenen Woche.</div>`;
-    const zusatz = s.konfidenz === "duenn" ? " · noch dünn, kaum aussagekräftig" : "";
+    const zusatz = s.konfidenz === "duenn" ? " · zu wenige Wochen, um irgendetwas zu belegen"
+      : s.konfidenz === "mittel" ? " · nicht von einem Münzwurf zu unterscheiden"
+      : s.konfidenz === "hoch" ? " · statistisch belegt besser als Zufall"
+      : " · statistisch belegt SCHLECHTER als Zufall";
     return `<div class="paar-track ${konfKlasse(s.konfidenz)}">📊 Treffer-Quote dieses Paars: <b>${s.quote}%</b> (${s.treffer}/${s.gesamt} Woche${s.gesamt > 1 ? "n" : ""}${zusatz})</div>`;
   };
 

@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-21T15:09:17.631Z",
+  "stand": "2026-10-21T19:59:26.712Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
+      "link": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+      "datum": "2026-10-21T17:03:19.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive European news wrap: Markets remain cautiously optimistic",
@@ -71,12 +77,6 @@
       "titel": "Finland President Stubb offers some optimism for Russia-Ukraine peace",
       "link": "https://investinglive.com/news/finland-president-stubb-offers-some-optimism-for-russia-ukraine-peace/",
       "datum": "2026-10-20T17:57:04.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US September pending home sales -7.3% vs -0.5% expected",
-      "link": "https://investinglive.com/news/us-september-pending-home-sales-7-3-vs-0-5-expected/",
-      "datum": "2026-10-20T14:00:05.000Z"
     },
     {
       "quelle": "Fed",

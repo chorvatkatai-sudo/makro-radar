@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-21T14:58:39.249Z",
+ "erstellt": "2026-10-21T15:09:18.120Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -3289,15 +3289,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-21T14:58:38.469Z",
+  "stand": "2026-10-21T15:09:17.148Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.77,
+    "wert": 101.76,
     "tagProzent": 0,
-    "wocheProzent": -0.23,
+    "wocheProzent": -0.24,
     "renditeDelta": false,
     "verlauf": [
      101.1,
@@ -3320,17 +3320,17 @@ window.MAKRO_DATA = {
      101.84,
      101.98,
      101.73,
-     101.77,
-     101.77
+     101.76,
+     101.76
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 17.06,
+    "wert": 16.81,
     "tagProzent": 0,
-    "wocheProzent": 3.65,
+    "wocheProzent": 2.13,
     "renditeDelta": false,
     "verlauf": [
      15.18,
@@ -3353,17 +3353,17 @@ window.MAKRO_DATA = {
      19.99,
      18.44,
      17.31,
-     17.06,
-     17.06
+     16.81,
+     16.81
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 97.76,
+    "wert": 97.89,
     "tagProzent": 0,
-    "wocheProzent": -0.21,
+    "wocheProzent": -0.08,
     "renditeDelta": false,
     "verlauf": [
      92.16,
@@ -3386,17 +3386,17 @@ window.MAKRO_DATA = {
      101.41,
      103.66,
      101.79,
-     97.76,
-     97.76
+     97.89,
+     97.89
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 109.13,
+    "wert": 109.29,
     "tagProzent": 0,
-    "wocheProzent": 3.03,
+    "wocheProzent": 3.18,
     "renditeDelta": false,
     "verlauf": [
      103.08,
@@ -3419,17 +3419,17 @@ window.MAKRO_DATA = {
      109.86,
      109.55,
      108.79,
-     109.13,
-     109.13
+     109.29,
+     109.29
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4150.7,
+    "wert": 4150.2,
     "tagProzent": 0,
-    "wocheProzent": -0.47,
+    "wocheProzent": -0.48,
     "renditeDelta": false,
     "verlauf": [
      4318.4,
@@ -3452,8 +3452,8 @@ window.MAKRO_DATA = {
      4181.1,
      4160.1,
      4142.6,
-     4150.7,
-     4150.7
+     4150.2,
+     4150.2
     ]
    },
    "US02Y": {
@@ -3465,6 +3465,26 @@ window.MAKRO_DATA = {
     "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
+     4.422,
+     4.422,
+     4.448,
+     4.472,
+     4.5,
+     4.5,
+     4.885,
+     4.61,
+     4.635,
+     4.638,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
      4.75,
      4.75
     ]
@@ -3473,9 +3493,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.102,
+    "wert": 5.111,
     "tagProzent": 0,
-    "wocheProzent": 0.01,
+    "wocheProzent": 0.02,
     "renditeDelta": true,
     "verlauf": [
      5.114,
@@ -3498,17 +3518,17 @@ window.MAKRO_DATA = {
      5.098,
      5.136,
      5.117,
-     5.102,
-     5.102
+     5.111,
+     5.111
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.41,
+    "wert": 5.418,
     "tagProzent": 0,
-    "wocheProzent": -0.02,
+    "wocheProzent": -0.01,
     "renditeDelta": true,
     "verlauf": [
      5.401,
@@ -3531,17 +3551,17 @@ window.MAKRO_DATA = {
      5.436,
      5.472,
      5.425,
-     5.41,
-     5.41
+     5.418,
+     5.418
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 84485.79,
+    "wert": 84610.1,
     "tagProzent": 0,
-    "wocheProzent": 3.81,
+    "wocheProzent": 3.97,
     "renditeDelta": false,
     "verlauf": [
      84853.1,
@@ -3564,8 +3584,8 @@ window.MAKRO_DATA = {
      82017.6,
      81853.54,
      82941,
-     84485.79,
-     84485.79
+     84610.1,
+     84610.1
     ]
    },
    "FEDFUT": {
@@ -3603,7 +3623,7 @@ window.MAKRO_DATA = {
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
   },
-  "kurve2s10s": 0.35,
+  "kurve2s10s": 0.36,
   "cot": {
    "stand": "2026-10-13",
    "waehrungen": {
@@ -3697,32 +3717,32 @@ window.MAKRO_DATA = {
    "stand": "2026-10-21",
    "werte": {
     "USD": {
-     "wert": 4.791,
-     "wocheDelta": 0
+     "wert": 4.793,
+     "wocheDelta": 0.002
     },
     "EUR": {
-     "wert": 3.089,
-     "wocheDelta": 0.018
+     "wert": 3.093,
+     "wocheDelta": 0.022
     },
     "GBP": {
-     "wert": 4.934,
-     "wocheDelta": 0.052
+     "wert": 4.938,
+     "wocheDelta": 0.056
     },
     "JPY": {
      "wert": 1.896,
      "wocheDelta": -0.009
     },
     "AUD": {
-     "wert": 4.941,
-     "wocheDelta": -0.006
+     "wert": 4.947,
+     "wocheDelta": 0
     },
     "CAD": {
-     "wert": 3.297,
-     "wocheDelta": 0.111
+     "wert": 3.302,
+     "wocheDelta": 0.116
     },
     "CHF": {
-     "wert": 0.211,
-     "wocheDelta": -0.024
+     "wert": 0.207,
+     "wocheDelta": -0.028
     },
     "NZD": {
      "wert": 3.953,
@@ -3787,9 +3807,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -3,
    "tiltCot": 5,
-   "tiltZins": -4,
-   "tiltGesamt": 1,
-   "score": -2,
+   "tiltZins": -5,
+   "tiltGesamt": 0,
+   "score": -3,
    "cotExtrem": null,
    "treiber": "Öl-Sprung (WTI ~98$, Brent ~109$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle CPI (3,1% vs 3,2%, Kern weich) öffnet die BoC-Senkungs-Tür am 28.10. → Signal etwas kleiner als Freitag.",
    "istCross": false
@@ -3798,9 +3818,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": -2,
    "tiltCot": 3,
-   "tiltZins": 0,
-   "tiltGesamt": 3,
-   "score": 1,
+   "tiltZins": 1,
+   "tiltGesamt": 4,
+   "score": 2,
    "cotExtrem": null,
    "treiber": "Weicher Dollar + leichter Hafen-Bid für den Franken (VIX steigt) → leicht runter. Kleines Signal, kein starker Short.",
    "istCross": false
@@ -3831,9 +3851,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/JPY",
    "baseScore": 4,
    "tiltCot": -2,
-   "tiltZins": 0,
-   "tiltGesamt": -2,
-   "score": 2,
+   "tiltZins": 1,
+   "tiltGesamt": -1,
+   "score": 3,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3862,7 +3882,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-21T14:58:39.054Z",
+  "stand": "2026-10-21T15:09:17.639Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
   "gewertet": 34,
@@ -3978,7 +3998,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-21T14:58:39.238Z",
+  "stand": "2026-10-21T15:09:18.119Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4208,85 +4228,13 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-21T14:58:38.989Z",
+  "stand": "2026-10-21T15:09:17.631Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
-   {
-    "quelle": "FXStreet",
-    "titel": "United Kingdom: Budget faces limited fiscal flexibility - Nomura",
-    "link": "https://www.fxstreet.com/news/united-kingdom-budget-faces-limited-fiscal-flexibility-nomura-202610211422",
-    "datum": "2026-10-21T14:22:05.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Silver price weakens on higher US yields as Iran tensions limit downside",
-    "link": "https://www.fxstreet.com/news/silver-price-weakens-on-higher-us-yields-with-iran-tensions-limiting-downside-202610211410",
-    "datum": "2026-10-21T14:10:20.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Hungary: Euro-entry driven fiscal tightening – BNY",
-    "link": "https://www.fxstreet.com/news/hungary-euro-entry-driven-fiscal-tightening-bny-202610211406",
-    "datum": "2026-10-21T14:06:36.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Bank of England: Rate path shaped by energy shock – ING",
-    "link": "https://www.fxstreet.com/news/bank-of-england-rate-path-shaped-by-energy-shock-ing-202610211341",
-    "datum": "2026-10-21T13:41:10.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "United Kingdom: Tax rises and temporary relief – Deutsche Bank",
-    "link": "https://www.fxstreet.com/news/united-kingdom-tax-rises-and-temporary-relief-deutsche-bank-202610211328",
-    "datum": "2026-10-21T13:28:03.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Brazilian Real: Election flows and fiscal reform prospects – Societe Generale",
-    "link": "https://www.fxstreet.com/news/brazilian-real-election-flows-and-fiscal-reform-prospects-societe-generale-202610211314",
-    "datum": "2026-10-21T13:14:59.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "British Pound: Overbought rally still has upside scope against US Dollar – UOB",
-    "link": "https://www.fxstreet.com/news/british-pound-overbought-rally-still-has-upside-scope-against-us-dollar-uob-202610211303",
-    "datum": "2026-10-21T13:03:59.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "US Dollar: Softer tone with shifting rate expectations – MUFG",
-    "link": "https://www.fxstreet.com/news/us-dollar-softer-tone-with-shifting-rate-expectations-mufg-202610211251",
-    "datum": "2026-10-21T12:51:04.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Hungarian Forint: Domestic improvement versus global headwinds – ING",
-    "link": "https://www.fxstreet.com/news/hungarian-forint-domestic-improvement-versus-global-headwinds-ing-202610211234",
-    "datum": "2026-10-21T12:34:53.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Romanian Leu: Budget credibility key to stability - Societe Generale",
-    "link": "https://www.fxstreet.com/news/romanian-leu-budget-credibility-key-to-stability-societe-generale-202610211218",
-    "datum": "2026-10-21T12:18:32.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Australian Dollar: RBA hawkish shift supports currency – MUFG",
-    "link": "https://www.fxstreet.com/news/australian-dollar-rba-hawkish-shift-supports-currency-mufg-202610211210",
-    "datum": "2026-10-21T12:10:23.000Z"
-   },
-   {
-    "quelle": "FXStreet",
-    "titel": "Japanese Yen: Trades in a narrow range against US Dollar – UOB",
-    "link": "https://www.fxstreet.com/news/japanese-yen-trades-in-a-narrow-range-against-us-dollar-uob-202610211154",
-    "datum": "2026-10-21T11:54:08.000Z"
-   },
    {
     "quelle": "ForexLive",
     "titel": "investingLive European news wrap: Markets remain cautiously optimistic",
@@ -4322,6 +4270,78 @@ window.MAKRO_DATA = {
     "titel": "investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play",
     "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-s-hauser-puts-november-hike-in-play/",
     "datum": "2026-10-21T03:36:54.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening shot",
+    "link": "https://investinglive.com/news/us-intel-says-putin-ordered-nato-sabotage-drive-leipzig-drone-attack-an-opening-shot/",
+    "datum": "2026-10-21T01:20:42.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Japan exports rise 16.7% for 13th straight month on AI chip demand, trade gap narrows",
+    "link": "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/",
+    "datum": "2026-10-21T00:31:17.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/",
+    "datum": "2026-10-20T20:19:50.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Trump: Ukraine has to want to settle this war, if not it's going to be a very bad thing",
+    "link": "https://investinglive.com/news/trump-ukraine-has-to-want-to-settle-this-war-if-not-it-s-going-to-be-a-very-bad-thing/",
+    "datum": "2026-10-20T19:24:27.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Finland President Stubb offers some optimism for Russia-Ukraine peace",
+    "link": "https://investinglive.com/news/finland-president-stubb-offers-some-optimism-for-russia-ukraine-peace/",
+    "datum": "2026-10-20T17:57:04.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US September pending home sales -7.3% vs -0.5% expected",
+    "link": "https://investinglive.com/news/us-september-pending-home-sales-7-3-vs-0-5-expected/",
+    "datum": "2026-10-20T14:00:05.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+    "datum": "2026-10-16T15:00:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+    "datum": "2026-10-13T18:00:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+    "datum": "2026-10-09T14:00:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+    "datum": "2026-10-08T20:30:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "datum": "2026-10-07T18:00:00.000Z"
+   },
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+    "datum": "2026-10-05T20:30:00.000Z"
    }
   ]
  },

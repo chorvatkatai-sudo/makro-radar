@@ -408,6 +408,16 @@ Zwei GitHub-Konten liegen im `gh`-Keyring, und **beide haben für sich genommen 
 **FEHLDIAGNOSE, DIE IN DIESER SESSION PASSIERT IST — zur Warnung**
 FRED antwortete erst mit `400 "The value for variable api_key is not registered"`. Daraus wurde (falsch) geschlossen: Schlüssel abgelaufen — und das wurde bereits in beide Routine-Prompts geschrieben. **Der Schlüssel war die ganze Zeit gültig.** Der wahre Zustand: FRED war im **Wartungsmodus** und lieferte HTTP **200** mit einer HTML-Seite („Site Maintenance | St. Louis Fed"); in derselben Phase kam zeitweise auch die irreführende api_key-Meldung. **Lehre: Eine API-Fehlermeldung ist eine Behauptung, kein Beweis** — gegenprüfen (Content-Type! Einzelanfrage statt 12 parallel!), bevor daraus eine Diagnose wird. `fred.mjs` prüft jetzt den Content-Type und meldet „WARTUNG" getrennt von „key". Beide Routine-Prompts sind korrigiert und warnen ausdrücklich davor, aus dieser Meldung auf einen kaputten Schlüssel zu schließen.
 
+### BETRIEBSZUSTAND (geprüft 21.10.2026, Ende Session 11)
+Alles deployt und laufend — belegt, nicht vermutet:
+- **Git:** `origin/main` = lokal, Arbeitsbaum sauber, 0 unpushed.
+- **Live-Seite:** `…/dashboard/` HTTP 200, `data.js` 143 KB mit den neuen Feldern (`pWert`, `richtungsCalls`, `wochenWette`, `eventReaktion`); neuer Dashboard-Code live (Münzwurf-Wortlaut + Handy-Fix). **Merke: die Seite liegt unter `/dashboard/`**, das Root-`index.html` ist nur ein Redirect — ein Test gegen die Wurzel liefert für `data.js` irreführend 404.
+- **Workflow** `daten.yml`: `active`, Winter-Cron `0 5,13` + `0 7-22` live, `case "$HOUR" in 05|13` passt dazu.
+- **Cloud-Routinen:** beide `enabled`; Tages-News `0 6 * * *` (nächster Lauf 22.10. 06:00 UTC), Freitag `0 14 * * 5` (nächster 23.10.). Letzte Läufe beide `SUCCEEDED`.
+- **Telegram-Kette lückenlos:** Ledger-Historie zeigt vom 09.10. bis 21.10. **jeden Tag genau einen Versand** (05:1x–05:2x UTC = 07:1x Wien).
+- **Die täglich ~05:1x abgebrochenen Läufe sind KEIN Fehler:** Landen zwei Commits Sekunden auseinander, verwirft die `concurrency`-Gruppe (`cancel-in-progress: false`) den wartenden Duplikat-Lauf. Der echte Push-Lauf läuft durch — am 20.10. z. B. `05:11 cancelled` neben `05:11 push success` + `05:12 success`. Nicht „reparieren".
+- **Offener Dauerzustand:** FRED war am 21.10. im Wartungsmodus. Hält das über 24 h an, erscheint im Telegram-Überblick die Zeile `🔧 Technik: FRED gerade nicht erreichbar (Wartung) …`. Das ist gewollt. Verschwindet von selbst, sobald FRED wieder JSON liefert.
+
 ### HIER WEITERMACHEN (nächste Session)
 - **Zuerst: die neue Telegram-Nachricht im Alltag prüfen.** Sie ging erstmals am 22.10. früh live. Taugt die Handlungsansage? Fehlt etwas, das du wirklich brauchst? Der Umbau ist bewusst radikal — nachschärfen ist einfacher als wieder aufblähen.
 - **Übergangszeit Cron:** Die Winterzeit-Crons gelten ab sofort, die Zeitumstellung ist aber erst So 25.10. Deshalb kommen **Do 22.10. bis Sa 24.10. die Nachrichten eine Stunde später als gewohnt** (Tages-News 08:00 statt 07:00 Wien, Freitags-Briefing Fr 23.10. um 16:00 statt 15:00). Ab Mo 26.10. stimmt es wieder. Nicht als Fehler interpretieren.
@@ -418,7 +428,12 @@ FRED antwortete erst mit `400 "The value for variable api_key is not registered"
 - **Konkret verbesserbar (aus dem Klumpen-Befund):** Wenn ein Briefing alle 7 Paare in dieselbe Dollar-Richtung scort, ist das eine einzige Wette — beim Briefing-Schreiben bewusst prüfen, ob es paar-spezifische Gründe gibt (Öl→CAD, Intervention→JPY, COT-Squeeze), die ein Paar vom Dollar-Block lösen. Die zwei am besten diversifizierten Wochen (67 % Konzentration) trafen 4/6 und 2/6 — die 100-%-Wochen 7/7 und 0/6. Diversifikation ist kein Selbstzweck, aber ein 7-fach identischer Call sollte bewusst sein, nicht Gewohnheit.
 - ~~Jackson Hole 28.8. bewerten~~ — zeitlich überholt (zwei Monate Automatikbetrieb dazwischen, die Routinen haben die Lage seither mehrfach neu eingeordnet).
 - ~~**Winter-Cron um den 25.10.**~~ — **ERLEDIGT in Session 11** (inkl. des `case "$HOUR"`-Fallstricks in `daten.yml`). **Sommerzeit-Rückstellung 29.03.2027: überall −1 h, BEIDE Stellen in `daten.yml` + beide Routinen.**
-- **Offen, braucht DICH:** Myfxbook-Gratis-Account → `gh secret set MYFXBOOK_EMAIL` + `MYFXBOOK_PASSWORD` (die Sentiment-Sektion geht dann von selbst live; beim ersten Runner-Lauf aufs Cloudflare-Risiko schauen).
+- **NÄCHSTE SESSION ZUERST: Myfxbook-Secrets** (vom User am 21.10. auf „nächstes Mal" verschoben). Vorarbeit ist erledigt: Die API wurde geprüft und **lebt** (`login.json` antwortet HTTP 200 mit sauberem JSON, kein Cloudflare-Block von dieser Maschine). Ablauf:
+  1. Gratis-Account auf myfxbook.com (kein Handelskonto, kein Abo nötig — der Login dient nur als Session-Token).
+  2. **`gh` MUSS für Secrets auf `chorvatkatai-sudo` stehen** — Secrets brauchen **Admin**, und `-arch` hat nur `write` (geprüft: `permissions.admin = false`). Also `gh auth switch -h github.com -u chorvatkatai-sudo`, danach:
+     `gh secret set MYFXBOOK_EMAIL -R chorvatkatai-sudo/makro-radar` und `gh secret set MYFXBOOK_PASSWORD -R chorvatkatai-sudo/makro-radar` (ohne `-b`, dann ist die Eingabe verdeckt und landet nicht in der History). **Danach zurück auf `-arch`**, sonst scheitern Workflow-Pushes.
+  3. Testlauf auf dem Runner anstoßen und prüfen, ob der Login dort klappt — Myfxbook vergibt **IP-gebundene Sessions**, und der GitHub-Runner hat eine andere IP als dein Rechner. Genau dort ist das Risiko, nicht lokal.
+  4. Erst wenn das steht, erscheint die Sentiment-Sektion im Dashboard; bis dahin loggt der Build sauber „Sentiment: kein MYFXBOOK_EMAIL/MYFXBOOK_PASSWORD — übersprungen."
 - **Offen, optional:** Telegram-Gruppe statt privat / strikt „nach 8".
 - **Nachschlagewerke:** `RECHERCHE-SIGNALE.md` (Signal-Evidenz + Nicht-bauen-Liste — VOR jeder Feature-Idee lesen), `scripts/backtest-zinstilt.mjs` (Dev-Tool, Faktor-Kalibrierung reproduzieren).
 

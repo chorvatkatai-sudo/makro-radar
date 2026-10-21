@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-20T22:51:08.161Z",
+  "stand": "2026-10-21T05:12:15.716Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
+      "link": "https://investinglive.com/news/heads-up-uk-september-cpi-inflation-report-due-today-boe-rate-hike-for-november-almost-fully-priced-in/",
+      "datum": "2026-10-21T04:21:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-s-hauser-puts-november-hike-in-play/",
+      "datum": "2026-10-21T03:36:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening shot",
+      "link": "https://investinglive.com/news/us-intel-says-putin-ordered-nato-sabotage-drive-leipzig-drone-attack-an-opening-shot/",
+      "datum": "2026-10-21T01:20:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan exports rise 16.7% for 13th straight month on AI chip demand, trade gap narrows",
+      "link": "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/",
+      "datum": "2026-10-21T00:31:17.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
@@ -53,30 +77,6 @@
       "titel": "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
       "link": "https://investinglive.com/news/germany-october-zew-survey-current-conditions-vs-45-0-expected/",
       "datum": "2026-10-20T09:00:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-67/",
-      "datum": "2026-10-20T06:39:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets intact",
-      "link": "https://investinglive.com/news/uk-unemployment-rate-falls-to-4-7-as-jobs-rebound-keeping-boe-rate-hike-bets-intact/",
-      "datum": "2026-10-20T06:00:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German producer prices hit highest since March 2023 as energy costs soar, fueling inflation worries",
-      "link": "https://investinglive.com/news/german-producer-prices-hit-highest-since-march-2023-as-energy-costs-soar-fueling-inflation-worries/",
-      "datum": "2026-10-20T06:00:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: China holds rates",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-holds-rates/",
-      "datum": "2026-10-20T03:38:00.000Z"
     },
     {
       "quelle": "Fed",

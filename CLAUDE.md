@@ -381,11 +381,29 @@ Zwei Monate reiner Automatik-Betrieb dazwischen (301 Commits lokal nachgeholt; R
 - **Damit sind alle drei Track-Records bei ~Münzwurf.** Es gibt derzeit KEINEN belegten Vorsprung. Beide Cloud-Routinen wurden entsprechend neu instruiert (Scores klein halten, |score|>25 nur mit benennbarem Grund).
 
 **AUFRÄUMEN / INFRASTRUKTUR**
-- **Winter-Cron (Umstellung So 25.10.):** Beide **Cloud-Routinen sind gestellt** (Tages-News `0 5`→`0 6`, Freitag `0 13`→`0 14`, via RemoteTrigger, sofort wirksam). Die **`daten.yml`-Änderung liegt NUR LOKAL** (`0 4,12`→`0 5,13`, `0 6-21`→`0 7-22`) — der Push scheiterte, weil dem GitHub-Token des Kontos `chorvatkatai-sudo` der **`workflow`-Scope** fehlt (`gh auth status`: nur `repo, gist, read:org, delete_repo`). Freischalten mit `gh auth refresh -h github.com -s workflow -u chorvatkatai-sudo` (interaktiv, Browser), danach `git push`. **ACHTUNG beim gh-Konto:** aktiv ist standardmäßig `chorvatkatai-arch`; für dieses Repo vorher `gh auth switch -u chorvatkatai-sudo`, sonst 403. **FALLSTRICK, der fast durchgerutscht wäre:** im Commit-Schritt von `daten.yml` steht `case "$HOUR" in 04|12` — diese Stunden MÜSSEN zu den Voll-Refresh-Slots passen, sonst committet der Voll-Refresh seine Daten nie. Mitgezogen auf `05|13`. **Rückstellung zur Sommerzeit am 29.03.2027: überall −1 h, beide Stellen.**
+- **Winter-Cron gestellt und live** (Umstellung So 25.10.): Cloud-Routinen `0 5`→`0 6` (Tages-News) und `0 13`→`0 14` (Freitag) via RemoteTrigger; `daten.yml` `0 4,12`→`0 5,13` und `0 6-21`→`0 7-22`. Auf GitHub verifiziert. **FALLSTRICK, der fast durchgerutscht wäre:** im Commit-Schritt von `daten.yml` steht `case "$HOUR" in 04|12` — diese Stunden MÜSSEN zu den Voll-Refresh-Slots passen, sonst committet der Voll-Refresh seine Daten nie. Mitgezogen auf `05|13`. **Rückstellung zur Sommerzeit am 29.03.2027: überall −1 h, beide Stellen.**
 - **Zwei neue Module gegen Code-Dopplung:** `scripts/klartext.mjs` (Währungs-/Länder-/Event-Klarnamen, Polarität aus `lexikon.json`, `kuerze()`) und `scripts/statistik.mjs` (exakter Binomialtest, Zufallsband, Konfidenz-Stufen). Damit ist die in CLAUDE.md dokumentierte Falle „Polarität in benachrichtige.mjs UND event-reaktion.mjs doppelt pflegen" **erledigt** — der Import war nur deshalb unmöglich, weil benachrichtige.mjs beim Laden sendet; die neuen Module sind nebenwirkungsfrei. (Verifiziert: event-reaktion liefert nach dem Umbau identische Zahlen.)
 - **Technik-Melder** `daten/technik-status.json`: Dauerausfälle von Datenquellen werden mit `seit`-Zeitstempel festgehalten; der Telegram-Überblick zeigt eine `🔧 Technik:`-Zeile **nur bei Ausfällen über 24 h** — eine Wartungspause soll keinen Alarm auslösen.
 - **Handy-Überlauf behoben** (390 px): `.ausblick-termin` hatte feste Spalten `110px 52px 1fr`; lange Event-Titel sprengten die Seite um ~10 px. Jetzt `minmax(0,1fr)` + `overflow-wrap` + schmalere Spalten am Handy. Verifiziert: `scrollWidth == clientWidth`, 0 überlaufende Elemente.
 - **`nfp-check.yml` gelöscht** (Einmal-Test vom 3.7., hätte am 3.7.2027 erneut gefeuert). `scripts/nfp-check.mjs` bleibt als manuelles Werkzeug.
+
+### GIT-PUSH IN DIESEM REPO — bitte zuerst lesen (Stand Session 11)
+Zwei GitHub-Konten liegen im `gh`-Keyring, und **beide haben für sich genommen ein Problem**:
+
+| Konto | Scopes | Repo-Zugriff |
+|---|---|---|
+| `chorvatkatai-sudo` (Owner) | `repo, gist, read:org, delete_repo` — **KEIN `workflow`** | Owner |
+| `chorvatkatai-arch` | `repo, gist, read:org, **workflow**` | seit 21.10.2026 **Collaborator (write)** |
+
+- **Normale Pushes** (Skripte, `daten/`, `dashboard/`): gehen mit beiden Konten.
+- **Pushes, die `.github/workflows/` anfassen:** NUR mit **`chorvatkatai-arch`** — `-sudo` fehlt der `workflow`-Scope, GitHub lehnt mit *„refusing to allow an OAuth App to create or update workflow … without `workflow` scope"* ab. Der Scope lässt sich nicht nachrüsten, weil `gh auth refresh` einen **Browser-Login als `-sudo`** verlangt und der User dafür **keine Zugangsdaten hat** (nur `-arch`). Deshalb wurde `-arch` als Collaborator aufgenommen — das ist die dauerhafte Lösung, nicht herausnehmen.
+- **Der Credential-Manager cacht das falsche Konto.** `gh auth switch` allein reicht NICHT; git zieht weiter den alten Token und liefert `403 … denied to chorvatkatai-arch`. Funktionierender Push:
+  ```
+  gh auth switch -h github.com -u chorvatkatai-arch
+  git -c credential.helper= -c 'credential.helper=!gh auth git-credential' push origin main
+  ```
+  Das erste `-c credential.helper=` LEERT die Helper-Liste (sonst antwortet der Windows-Manager zuerst) — ohne das schlägt es fehl.
+- `gh auth refresh` hat in gh 2.94 **kein** `-u`/`--user`; es wirkt immer aufs aktive Konto.
 
 **FEHLDIAGNOSE, DIE IN DIESER SESSION PASSIERT IST — zur Warnung**
 FRED antwortete erst mit `400 "The value for variable api_key is not registered"`. Daraus wurde (falsch) geschlossen: Schlüssel abgelaufen — und das wurde bereits in beide Routine-Prompts geschrieben. **Der Schlüssel war die ganze Zeit gültig.** Der wahre Zustand: FRED war im **Wartungsmodus** und lieferte HTTP **200** mit einer HTML-Seite („Site Maintenance | St. Louis Fed"); in derselben Phase kam zeitweise auch die irreführende api_key-Meldung. **Lehre: Eine API-Fehlermeldung ist eine Behauptung, kein Beweis** — gegenprüfen (Content-Type! Einzelanfrage statt 12 parallel!), bevor daraus eine Diagnose wird. `fred.mjs` prüft jetzt den Content-Type und meldet „WARTUNG" getrennt von „key". Beide Routine-Prompts sind korrigiert und warnen ausdrücklich davor, aus dieser Meldung auf einen kaputten Schlüssel zu schließen.

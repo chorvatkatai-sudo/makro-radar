@@ -1,11 +1,47 @@
 {
-  "stand": "2026-10-21T19:59:26.712Z",
+  "stand": "2026-10-22T06:08:19.333Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US-Iran tensions refuse to fade as fresh Strait of Hormuz attacks keep oil markets on edge",
+      "link": "https://investinglive.com/news/us-iran-tensions-refuse-to-fade-as-fresh-strait-of-hormuz-attacks-keep-oil-markets-on-edge/",
+      "datum": "2026-10-22T05:03:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Asian stocks slide, dollar slips",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-dollar-slips/",
+      "datum": "2026-10-22T03:35:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track",
+      "link": "https://investinglive.com/news/new-zealand-inflation-slows-to-3-7-in-q3-below-forecasts-keeping-rbnz-hike-on-track/",
+      "datum": "2026-10-21T23:23:17.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)",
+      "link": "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/",
+      "datum": "2026-10-21T21:45:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 21 Oct: Nasdaq leads as AI optimism offsets Gulf oil risks",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/",
+      "datum": "2026-10-21T20:37:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US State Department is to prepared to issue a order departure at US embassies in the Gulf",
+      "link": "https://investinglive.com/news/us-state-department-is-to-prepared-to-issue-a-order-departure-at-us-embassies-in-the-gulf/",
+      "datum": "2026-10-21T19:13:21.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
@@ -41,42 +77,6 @@
       "titel": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
       "link": "https://investinglive.com/news/heads-up-uk-september-cpi-inflation-report-due-today-boe-rate-hike-for-november-almost-fully-priced-in/",
       "datum": "2026-10-21T04:21:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-s-hauser-puts-november-hike-in-play/",
-      "datum": "2026-10-21T03:36:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening shot",
-      "link": "https://investinglive.com/news/us-intel-says-putin-ordered-nato-sabotage-drive-leipzig-drone-attack-an-opening-shot/",
-      "datum": "2026-10-21T01:20:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan exports rise 16.7% for 13th straight month on AI chip demand, trade gap narrows",
-      "link": "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/",
-      "datum": "2026-10-21T00:31:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/",
-      "datum": "2026-10-20T20:19:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: Ukraine has to want to settle this war, if not it's going to be a very bad thing",
-      "link": "https://investinglive.com/news/trump-ukraine-has-to-want-to-settle-this-war-if-not-it-s-going-to-be-a-very-bad-thing/",
-      "datum": "2026-10-20T19:24:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Finland President Stubb offers some optimism for Russia-Ukraine peace",
-      "link": "https://investinglive.com/news/finland-president-stubb-offers-some-optimism-for-russia-ukraine-peace/",
-      "datum": "2026-10-20T17:57:04.000Z"
     },
     {
       "quelle": "Fed",

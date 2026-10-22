@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-22T06:08:19.334Z",
+  "stand": "2026-10-22T09:47:02.199Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": 5,
       "tiltCot": -2,
-      "tiltZins": 0,
-      "tiltGesamt": -2,
-      "score": 3,
+      "tiltZins": 2,
+      "tiltGesamt": 0,
+      "score": 5,
       "cotExtrem": "extrem",
       "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record (56%). Leicht gedämpft, da der heiße Wert nun bekannt ist.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -2,
       "tiltCot": 5,
-      "tiltZins": -5,
-      "tiltGesamt": 0,
-      "score": -2,
+      "tiltZins": -6,
+      "tiltGesamt": -1,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Öl hoch (Brent ~110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle Inflation öffnet die Zinssenkungs-Tür am 28.10. → Signal bewusst klein.",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": 0,
       "tiltCot": -5,
-      "tiltZins": 3,
-      "tiltGesamt": -2,
-      "score": -2,
+      "tiltZins": 4,
+      "tiltGesamt": -1,
+      "score": -1,
       "cotExtrem": "erhoeht",
       "treiber": "Kühle NZ-Inflations-Schlagzeile drückte den Kiwi (~0,569), der weiche Dollar hebt dagegen, die Zinserhöhung am 28.10. bleibt eingepreist → per Saldo neutral.",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": -1,
       "tiltCot": 2,
-      "tiltZins": 0,
-      "tiltGesamt": 2,
-      "score": 1,
+      "tiltZins": -2,
+      "tiltGesamt": 0,
+      "score": -1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-22T06:08:19.333Z",
+  "stand": "2026-10-22T09:47:02.198Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "France business confidence improves in October but cracks remain beneath the surface",
+      "link": "https://investinglive.com/news/france-business-confidence-improves-in-october-but-cracks-remain-beneath-the-surface/",
+      "datum": "2026-10-22T06:59:22.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-69/",
+      "datum": "2026-10-22T06:30:53.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US-Iran tensions refuse to fade as fresh Strait of Hormuz attacks keep oil markets on edge",
@@ -61,24 +73,6 @@
       "datum": "2026-10-21T09:11:28.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-68/",
-      "datum": "2026-10-21T06:41:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations",
-      "link": "https://investinglive.com/news/uk-september-cpi-inflation-rises-to-3-5-reinforces-boe-november-rate-hike-expectations/",
-      "datum": "2026-10-21T06:00:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
-      "link": "https://investinglive.com/news/heads-up-uk-september-cpi-inflation-report-due-today-boe-rate-hike-for-november-almost-fully-priced-in/",
-      "datum": "2026-10-21T04:21:38.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
@@ -113,6 +107,12 @@
       "titel": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
       "datum": "2026-10-05T20:30:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "datum": "2026-10-02T20:45:00.000Z"
     }
   ]
 }

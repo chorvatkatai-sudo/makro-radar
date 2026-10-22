@@ -1,11 +1,11 @@
 {
-  "stand": "2026-10-21T19:59:26.714Z",
+  "stand": "2026-10-22T06:01:55.859Z",
   "hinweis": "Ausfälle von Datenquellen mit Beginn-Zeitstempel. Der Telegram-Überblick meldet nur, was länger als 24 h anhält.",
   "probleme": [
     {
-      "code": "fred-wartung",
-      "text": "FRED gerade nicht erreichbar (Wartung) — US-Zahlen laufen über TradingView",
-      "seit": "2026-10-21T14:58:39.027Z"
+      "code": "fred-aus",
+      "text": "FRED antwortet nicht wie erwartet — US-Zahlen laufen über TradingView",
+      "seit": "2026-10-22T06:01:55.859Z"
     }
   ]
 }

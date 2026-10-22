@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-21T19:59:27.885Z",
+ "erstellt": "2026-10-22T06:06:27.530Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -468,7 +468,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.8%",
    "previous": "1.5%",
-   "actual": null
+   "actual": "0.7"
   },
   {
    "title": "Summary of Monetary Policy Discussions",
@@ -2646,79 +2646,79 @@ window.MAKRO_DATA = {
    "USD": {
     "stimmung": "neutral",
     "score": -3,
-    "grund": "Der Dollar fiel vom 18-Monats-Hoch zurück (DXY 101,63, −0,93% Wo), OBWOHL CPI (3,7%) und PPI (6,3%) heiß kamen — weil Fed-Redner (Bowman/Daly) Geduld signalisierten, die Okt-Erhöhungswette sich halbierte (~25–30%) und die langen Renditen fielen. Dez-Erhöhung noch ~92%, das gibt einen Boden. Score klein negativ: Ton wurde weicher, aber die heiße Inflation verhindert einen echten Absturz."
+    "grund": "Der Dollar bleibt weich (Dollar-Index 101,7, −0,3% Woche), obwohl die US-Inflation zuletzt heiß kam — weil Fed-Redner Geduld signalisierten. Die Dezember-Erhöhung bleibt ~90%+ eingepreist und gibt einen Boden. Diese Woche keine US-Daten außer den Erstanträgen (Fed-Schweigephase). Klein negativ: Ton weich, aber kein Absturz."
    },
    "EUR": {
     "stimmung": "neutral",
     "score": 3,
-    "grund": "Die Spekulanten sind so extrem auf einen fallenden Euro gewettet wie fast nie (COT Stand 13.10. z −2,71 = EXTREM short) → größtes Eindeckungs-/Squeeze-Risiko aller Währungen, und der Dollar kommt vom Hoch zurück. ABER: Frankreichs Haushaltskrise (10-J-Zins höchster Stand seit 2008, Abstimmung heute Mo 19.10.) und kein EZB-Impuls bis 29.10. deckeln das Plus."
+    "grund": "Die Spekulanten sind so extrem auf einen fallenden Euro gewettet wie fast nie (Stand 13.10. noch extremer geworden) → größtes Eindeckungs-/Squeeze-Risiko aller Währungen. ABER: Der Euro kommt trotz schwachem Dollar nicht vom Fleck (~1,12), Frankreichs Haushaltskrise und kein Impuls der EZB bis 29.10. deckeln das Plus. Heute nur das Verbrauchervertrauen."
    },
    "GBP": {
     "stimmung": "bullisch",
-    "score": 6,
-    "grund": "Das Pfund stieg auf ein 5-Wochen-Hoch: Die UK-Arbeitsmarktzahlen (Di) kamen fest, und der Markt preist eine BoE-Zinserhöhung am 5.11. zu ~96% ein. Die Short-Positionierung ist EXTREM (COT Stand 13.10. z −2,09 = Squeeze-Zünder), der britische 2-Jahres-Zins war der stärkste Steiger der Woche (+0,094). Der UK-CPI heute (erw. 3,4%) ist der nächste Squeeze-Auslöser. Bestes Paar-Track-Record (GBP/USD ~60%) → etwas mehr Überzeugung."
+    "score": 5,
+    "grund": "Die UK-Inflation kam gestern HEISS (3,5% statt 3,4%, Kern 2,8%, Dienstleistungen 3,7%) → der Pfund-Squeeze zündete wie erwartet. Das Pfund hält sich auf dem 5-Wochen-Hoch ~1,34, eine Zinserhöhung der Bank von England am 5.11. gilt zu ~96–98% als sicher, die Short-Positionierung ist extrem (Squeeze-Zünder). Bestes Paar im Track-Record (~56%). Etwas gedämpft, weil der heiße Wert nun bekannt ist und ein Teil der Bewegung schon gelaufen ist."
    },
    "JPY": {
     "stimmung": "bärisch",
     "score": -4,
-    "grund": "Die Großspekulanten sind weiter net-long Yen (COT z +0,97, von +1,12 etwas abgebaut) = überfüllte Wette → Rückschlag-Risiko. Dagegen gibt der Risk-off-Schub (VIX ~18,6) dem Yen als Hafen etwas Bid. Niedrigste G10-Rendite (Carry-Nachteil) + mieser Track-Record dieses Paares (USD/JPY 5/15) → Score moderat negativ."
+    "grund": "Die Großspekulanten sind weiter deutlich net-long Yen = überfüllte Wette → Rückschlag-Risiko. Da sich das Angst-Barometer beruhigt hat (VIX 16,8 statt ~18,6), fällt der Sicherheits-Bid für den Hafen-Yen jetzt schwächer aus. Niedrigste Rendite der Industrieländer (Zins-Nachteil) + schwächster Track-Record dieses Paares (33%) → moderat negativ."
    },
    "CHF": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Der VIX hängt nahe seinem 4-Monats-Hoch (~18,6, +22 % Wo) = anhaltender Risk-off-Schub → der sichere Hafen Franken bekommt Bid. Der Schweizer 2-Jahres-Zins war zuletzt solide. SNB bei 0 %, sonst unauffällig — daher moderat positiv."
+    "score": 1,
+    "grund": "Das Angst-Barometer beruhigte sich auf 16,8 (von ~18,6) → der Sicherheits-Bid für den Franken lässt nach, das moderate Plus schrumpft Richtung neutral. SNB bei 0%, sonst unauffällig."
    },
    "CAD": {
     "stimmung": "neutral",
     "score": 2,
-    "grund": "Öl bleibt hoch (WTI ~98$, Brent ~109$) = Rückenwind für den Loonie, und Kanadas 2-Jahres-Zins war der stärkste Steiger der Woche (+0,14). ABER: Die CPI am Montag kam mit 3,1% KÜHLER als erwartet (3,2%), ohne Benzin nur 2,2%, Kern-Maße weich (Median 1,9% / Trimmed 1,8%) → das öffnet die Tür für eine mögliche BoC-Senkung am 28.10. und deckelt den Loonie. Per Saldo nur noch leicht positiv."
+    "grund": "Öl bleibt hoch (Brent ~110$, WTI ~98$) = Rückenwind für den Loonie, und Kanadas 2-Jahres-Zins war der stärkste Steiger der Woche (+0,12). ABER: Die Inflation am Montag kam kühler als erwartet (3,1% statt 3,2%, Kern-Maße unter dem Ziel) → das öffnet die Tür für eine mögliche Zinssenkung der kanadischen Notenbank am 28.10. und deckelt den Loonie. Per Saldo leicht positiv."
    },
    "AUD": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Job-SCHOCK der Vorwoche (−39.300 Stellen, Quote 4,7% = 5-J-Hoch) kratzt die RBA-Hochzins-Story an. China-BIP Q3 +4,5% (Beat) gibt einen kleinen Boden, ist aber binnen-schwach. Der Risk-off-Schub (VIX ~20) trimmt Rohstoff-Währungen zusätzlich. Höchster Zins (2J 4,89%) + RBA 4,60% federn den Rückgang ab."
+    "grund": "Der Job-Schock der Vorwoche (−39.300 Stellen, Quote 4,7%) kratzt weiter an der Hochzins-Story. China-BIP-Beat (+4,5%) gibt nur einen kleinen Boden (binnen-schwach). Höchster Zins der Industrieländer federt den Rückgang ab, aber keine eigene positive Story diese Woche."
    },
    "NZD": {
     "stimmung": "neutral",
     "score": -1,
-    "grund": "Keine eigene große Story diese Woche. Der Kiwi-2-Jahres-Zins stieg leicht (+0,032) und der weiche Dollar hilft etwas, aber das risk-off-Signal (VIX hoch) und die Nähe zur schwachen Aussie-Story deckeln. Fast neutral."
+    "grund": "Die Inflation gestern kam an der Schlagzeile kühler als erwartet (3,7% statt 3,8%) → der Kiwi gab kurz nach (~0,569). ABER der Kern stieg, die Zinserhöhung der neuseeländischen Notenbank am 28.10. bleibt zu ~98% eingepreist → kein echter Absturz, fast neutral."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
     "score": 2,
-    "treiber": "Dollar vom Hoch zurück + extreme Euro-Shorts (Squeeze-Risiko) heben, aber Frankreichs Haushaltskrise deckelt — bewusst klein. Track-Record hier schwach (~40%)."
+    "treiber": "Weicher Dollar + extreme Euro-Shorts (Squeeze-Risiko) heben, aber Frankreichs Haushaltskrise und ein lahmer Euro (~1,12) deckeln — bewusst klein. Track-Record hier schwach (~38%)."
    },
    {
     "paar": "GBP/USD",
-    "score": 6,
-    "treiber": "Festes UK-Jobs-Update (Di) + BoE-Hike am 5.11. ~96% eingepreist + extreme Shorts (COT z −2,09, Squeeze) + UK-CPI heute als Zünder. Pfund auf 5-Wochen-Hoch. Bestes Paar-Track-Record (60%) → etwas mehr Überzeugung."
+    "score": 5,
+    "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record (56%). Leicht gedämpft, da der heiße Wert nun bekannt ist."
    },
    {
     "paar": "USD/JPY",
     "score": 2,
-    "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, base leicht pro-Dollar), aber der Risk-off-Schub (VIX ~18,6) gibt dem Hafen-Yen Gegen-Bid. Schwächstes Paar im Track-Record (33 %) → nahe neutral."
+    "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, base leicht pro-Dollar); der Sicherheits-Bid für den Hafen-Yen ist durch das beruhigte Angst-Barometer (VIX 16,8) schwächer. Schwächstes Paar im Track-Record (33%) → nahe neutral."
    },
    {
     "paar": "AUD/USD",
     "score": -2,
-    "treiber": "Job-Schock (−39,3k) + Risk-off (VIX ~20) belasten, aber China-BIP-Beat (+4,5%) gibt dem Aussie einen kleinen Boden → gegenüber Freitag etwas weniger negativ. Vom Dollar-Block über eigene Stories gelöst."
+    "treiber": "Job-Schock (−39,3k) belastet weiter, China-BIP-Beat gibt einen kleinen Boden. Vom Dollar-Block über eigene Stories gelöst → gegenüber dem weichen Dollar nur leicht negativ."
    },
    {
     "paar": "USD/CAD",
-    "score": -3,
-    "treiber": "Öl-Sprung (WTI ~98$, Brent ~109$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle CPI (3,1% vs 3,2%, Kern weich) öffnet die BoC-Senkungs-Tür am 28.10. → Signal etwas kleiner als Freitag."
+    "score": -2,
+    "treiber": "Öl hoch (Brent ~110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle Inflation öffnet die Zinssenkungs-Tür am 28.10. → Signal bewusst klein."
    },
    {
     "paar": "USD/CHF",
-    "score": -2,
-    "treiber": "Weicher Dollar + leichter Hafen-Bid für den Franken (VIX steigt) → leicht runter. Kleines Signal, kein starker Short."
+    "score": -1,
+    "treiber": "Weicher Dollar drückt leicht, aber der Hafen-Bid für den Franken lässt mit dem beruhigten Angst-Barometer nach → nur noch ein kleines Minus."
    },
    {
     "paar": "NZD/USD",
-    "score": 1,
-    "treiber": "Steigender Kiwi-Zins + weicher Dollar heben minimal, aber risk-off deckelt → fast neutral, leicht positiv."
+    "score": 0,
+    "treiber": "Kühle NZ-Inflations-Schlagzeile drückte den Kiwi (~0,569), der weiche Dollar hebt dagegen, die Zinserhöhung am 28.10. bleibt eingepreist → per Saldo neutral."
    }
   ],
   "wochenausblick": {
@@ -2806,21 +2806,21 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/15 = 47%, Konzentration 89%, Zufallsband [4,11] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 58% vs. nurBase 57%). Zahlen-Prognosen echte-Daten-Anteil nur 7/25 = 28% — die Zahlen-Calls sind in dieser Phase NICHT der verlässliche Teil. Deshalb Scores bewusst klein + diversifiziert: nicht alle 7 Paare dieselbe Dollar-Wette (JPY über Yen-Reversal, AUD über Job-Schock, CAD über Öl vom Dollar-Block gelöst; Konzentration bewusst nur ~71%)."
   ],
   "tagesnews": {
-   "stand": "2026-10-21",
-   "wochentag": "Mittwoch",
-   "tenor": "Heute ist Pfund-Tag: Die britische Inflation (8:00 Wien) ist das Haupt-Event der ruhigen US-freien Woche. Das Pfund ist auf ein 5-Wochen-Hoch geklettert, weil gestern die UK-Arbeitsmarktzahlen fest ausfielen und der Markt eine BoE-Zinserhöhung am 5.11. zu ~96% einpreist. Der Dollar bleibt weich (DXY 101,7, −0,8% Wo), Öl teuer (WTI ~98$, Brent ~109$), das Angst-Barometer VIX etwas runter auf 17,3.",
+   "stand": "2026-10-22",
+   "wochentag": "Donnerstag",
+   "tenor": "Ruhiger Tag: Gestern sprang Großbritanniens Inflation überraschend auf 3,5 Prozent und hielt das Pfund oben; heute nur US-Erstanträge, der nächste große Taktgeber sind morgen die Stimmungsumfragen.",
    "heute": [
-    "🇬🇧 UK-CPI September (8:00 Wien) = DAS Event heute: Konsens 3,4% Gesamt (von 3,1% im Aug) / Kern ~2,7–2,8%. Weil die Pfund-Shorts der Spekulanten EXTREM sind (COT z −2,09) und eine BoE-Erhöhung am 5.11. fast sicher gilt, ist eine heiße Zahl der nächste Squeeze-Zünder nach oben. Der Ist-Wert ist in unserem (cloud-blockierten) Feed noch nicht drin — der GitHub-Runner trägt ihn automatisch nach.",
-    "🇳🇿 Neuseeland-CPI Q3 (später, ~17:45 Wien): Konsens +0,8% zum Vorquartal. Kiwi hat keine große eigene Story — hohe Zahl würde den Kiwi stützen.",
-    "🛢️ Öl bleibt der Taktgeber: WTI ~98$ (+3,3% Wo), Brent ~109$ — Rückenwind für den Loonie (Kanadas 2-Jahres-Zins war der stärkste Steiger der Woche), zugleich frische Inflationssorge.",
-    "🇺🇸 USA ruhig: Die Fed ist in Schweigephase vor dem 28.10., keine großen US-Zahlen. Der Dollar läuft auf Ton + Öl + Stimmung, nicht auf US-Daten."
+    "🇺🇸 US-Erstanträge auf Arbeitslosenhilfe (14:30 Wien, Konsens ~200.000 vs 199.000 zuvor) = das wichtigste US-Lebenszeichen der ruhigen, US-freien Woche. Die Fed ist in Schweigephase bis zum Zinsentscheid am 28.10., es gibt keine großen US-Zahlen.",
+    "🇪🇺 Euro-Verbrauchervertrauen (Vorab Oktober, 16:00 Wien): kleiner Stimmungstest für den Euro, der trotz schwachem Dollar nicht vom Fleck kommt (rund 1,12).",
+    "🛢️ Öl bleibt teuer und der eigentliche Taktgeber: Brent rund 110$ (+3,5% Woche), WTI rund 98$ — Rückenwind für den kanadischen Dollar, zugleich die Quelle der frischen Inflationssorge (die Benzinpreise trieben zuletzt die Teuerung in Großbritannien und Neuseeland).",
+    "🗓️ Morgen das Wochen-Highlight: die Vorab-Stimmungsumfragen der Einkaufsmanager (Deutschland/Euroraum/Großbritannien/USA ab 9:15 Wien) — sie zeigen, wie zuversichtlich die Unternehmen in die nächsten Monate blicken."
    ],
    "gestern": [
-    "🇬🇧 UK-Arbeitsmarkt (Di) FEST → Pfund auf 5-Wochen-Hoch über 1,34: Die Zahlen stützten die Wette auf eine erste BoE-Zinserhöhung seit über 3 Jahren am 5.11. (jetzt ~96% eingepreist). Das lädt den heutigen CPI-Squeeze weiter auf.",
-    "🇨🇦 Kanada-CPI September (Mo): 3,1% y/y — zwar HÖHER als die 3,0% im August, aber KÜHLER als die erwarteten 3,2%. Benzin +27,8% trieb die Schlagzeile, doch OHNE Benzin fiel die Teuerung auf 2,2%, und die BoC-Kern-Maße waren weich (Median 1,9% / Trimmed 1,8% — unter dem Ziel). → öffnet die Tür für eine mögliche BoC-Senkung am 28.10.",
-    "🇨🇳 China-BIP Q3 +4,5% y/y (knapp über 4,4% erwartet), aber export-/staatsgetrieben, Binnennachfrage schwach; PBoC hielt die Referenzzinsen (LPR 1J 3,00% / 5J 3,50%). → für den Aussie nur ein kleiner Boden.",
-    "💵 Dollar-Lage: Der DXY (101,7, −0,8% Wo) bleibt angeknackst, obwohl die US-Inflation zuletzt heiß kam (CPI 3,7%, PPI 6,3%) — weil Fed-Redner (Bowman/Daly) Geduld signalisierten. Dez-Erhöhung bleibt ~90%+. Lehre: Der Dollar lebt vom TON.",
-    "📊 Prognose-Bilanz: Unsere Freitags-Prognose Kanada-CPI `höher` ging DANEBEN ✗ — die Schlagzeile kam mit 3,1% unter dem 3,2%-Konsens, und der Kern war weich. 3. Mal in Folge Inflation an der Oberfläche über-, im Kern unterschätzt."
+    "🇬🇧 UK-Inflation September kam HEISS: 3,5% (von 3,1% im August, über dem 3,4%-Konsens), Kern 2,8% (über 2,7%), Dienstleistungen 3,7% — Treiber waren die Benzinpreise. → Der Pfund-Squeeze zündete: das Pfund hielt sich auf dem 5-Wochen-Hoch um 1,34, eine erste Zinserhöhung der Bank von England am 5.11. gilt zu ~96–98% als sicher.",
+    "🇳🇿 Neuseeland-Inflation Q3: Schlagzeile KÜHLER auf 3,7% (von 4,1%, unter dem 3,8%-Konsens), +0,7% zum Vorquartal — ABER der Kern (ohne Benzin/Nahrung/Energie) STIEG auf 2,9%. Der Kiwi fiel kurz auf ~0,569, die Zinserhöhung der neuseeländischen Notenbank am 28.10. bleibt aber zu ~98% eingepreist.",
+    "💵 Dollar bleibt weich (Dollar-Index 101,7, −0,3% Woche), die US-Renditen hingen leicht höher (10 Jahre 5,15%). Die Fed ist in Schweigephase — der Dollar läuft auf Ton und Öl, nicht auf US-Daten.",
+    "😌 Das Angst-Barometer VIX beruhigte sich auf 16,8 (von zuvor ~18,6) = etwas weniger Nervosität an den Börsen → der Sicherheits-Zufluss in Franken und Yen lässt nach.",
+    "📊 Prognose-Bilanz: Unsere Freitags-Prognose UK-Inflation „wie erwartet\" ging DANEBEN ✗ (kam mit 3,5% heißer) — immerhin passt das zur Pfund-stark-These. Auch Kanada-Inflation „höher\" (Mo) daneben (3,1% unter dem 3,2%-Konsens). Dritte Woche in Folge die Inflation an der Oberfläche falsch eingeschätzt."
    ]
   }
  },
@@ -3767,18 +3767,18 @@ window.MAKRO_DATA = {
    "tiltGesamt": -2,
    "score": 0,
    "cotExtrem": "extrem",
-   "treiber": "Dollar vom Hoch zurück + extreme Euro-Shorts (Squeeze-Risiko) heben, aber Frankreichs Haushaltskrise deckelt — bewusst klein. Track-Record hier schwach (~40%).",
+   "treiber": "Weicher Dollar + extreme Euro-Shorts (Squeeze-Risiko) heben, aber Frankreichs Haushaltskrise und ein lahmer Euro (~1,12) deckeln — bewusst klein. Track-Record hier schwach (~38%).",
    "istCross": false
   },
   {
    "paar": "GBP/USD",
-   "baseScore": 6,
+   "baseScore": 5,
    "tiltCot": -2,
    "tiltZins": 0,
    "tiltGesamt": -2,
-   "score": 4,
+   "score": 3,
    "cotExtrem": "extrem",
-   "treiber": "Festes UK-Jobs-Update (Di) + BoE-Hike am 5.11. ~96% eingepreist + extreme Shorts (COT z −2,09, Squeeze) + UK-CPI heute als Zünder. Pfund auf 5-Wochen-Hoch. Bestes Paar-Track-Record (60%) → etwas mehr Überzeugung.",
+   "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record (56%). Leicht gedämpft, da der heiße Wert nun bekannt ist.",
    "istCross": false
   },
   {
@@ -3789,7 +3789,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -3,
    "score": -1,
    "cotExtrem": null,
-   "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, base leicht pro-Dollar), aber der Risk-off-Schub (VIX ~18,6) gibt dem Hafen-Yen Gegen-Bid. Schwächstes Paar im Track-Record (33 %) → nahe neutral.",
+   "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, base leicht pro-Dollar); der Sicherheits-Bid für den Hafen-Yen ist durch das beruhigte Angst-Barometer (VIX 16,8) schwächer. Schwächstes Paar im Track-Record (33%) → nahe neutral.",
    "istCross": false
   },
   {
@@ -3800,40 +3800,40 @@ window.MAKRO_DATA = {
    "tiltGesamt": -5,
    "score": -7,
    "cotExtrem": "erhoeht",
-   "treiber": "Job-Schock (−39,3k) + Risk-off (VIX ~20) belasten, aber China-BIP-Beat (+4,5%) gibt dem Aussie einen kleinen Boden → gegenüber Freitag etwas weniger negativ. Vom Dollar-Block über eigene Stories gelöst.",
+   "treiber": "Job-Schock (−39,3k) belastet weiter, China-BIP-Beat gibt einen kleinen Boden. Vom Dollar-Block über eigene Stories gelöst → gegenüber dem weichen Dollar nur leicht negativ.",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -3,
+   "baseScore": -2,
    "tiltCot": 5,
    "tiltZins": -4,
    "tiltGesamt": 1,
-   "score": -2,
+   "score": -1,
    "cotExtrem": null,
-   "treiber": "Öl-Sprung (WTI ~98$, Brent ~109$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle CPI (3,1% vs 3,2%, Kern weich) öffnet die BoC-Senkungs-Tür am 28.10. → Signal etwas kleiner als Freitag.",
+   "treiber": "Öl hoch (Brent ~110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle Inflation öffnet die Zinssenkungs-Tür am 28.10. → Signal bewusst klein.",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
-   "baseScore": -2,
+   "baseScore": -1,
    "tiltCot": 3,
    "tiltZins": 2,
    "tiltGesamt": 5,
-   "score": 3,
+   "score": 4,
    "cotExtrem": null,
-   "treiber": "Weicher Dollar + leichter Hafen-Bid für den Franken (VIX steigt) → leicht runter. Kleines Signal, kein starker Short.",
+   "treiber": "Weicher Dollar drückt leicht, aber der Hafen-Bid für den Franken lässt mit dem beruhigten Angst-Barometer nach → nur noch ein kleines Minus.",
    "istCross": false
   },
   {
    "paar": "NZD/USD",
-   "baseScore": 1,
+   "baseScore": 0,
    "tiltCot": -5,
    "tiltZins": 3,
    "tiltGesamt": -2,
-   "score": -1,
+   "score": -2,
    "cotExtrem": "erhoeht",
-   "treiber": "Steigender Kiwi-Zins + weicher Dollar heben minimal, aber risk-off deckelt → fast neutral, leicht positiv.",
+   "treiber": "Kühle NZ-Inflations-Schlagzeile drückte den Kiwi (~0,569), der weiche Dollar hebt dagegen, die Zinserhöhung am 28.10. bleibt eingepreist → per Saldo neutral.",
    "istCross": false
   },
   {
@@ -3882,7 +3882,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-21T19:59:26.720Z",
+  "stand": "2026-10-22T06:06:27.529Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 70,
   "gewertet": 34,
@@ -4397,10 +4397,10 @@ window.MAKRO_DATA = {
   },
   "NZD": {
    "ueber": 3,
-   "unter": 2,
+   "unter": 3,
    "gleich": 1,
-   "gesamt": 6,
-   "score": 1
+   "gesamt": 7,
+   "score": 0
   }
  },
  "prognoseQuote": {
@@ -4970,6 +4970,16 @@ window.MAKRO_DATA = {
   ]
  },
  "historie": [
+  {
+   "datum": "2026-10-21T17:45:00-04:00",
+   "land": "NZD",
+   "titel": "CPI q/q",
+   "impact": "High",
+   "prognose": "0.8%",
+   "vorher": "1.5%",
+   "actual": "0.7",
+   "notiz": null
+  },
   {
    "datum": "2026-10-21T02:00:00-04:00",
    "land": "GBP",
@@ -5558,16 +5568,6 @@ window.MAKRO_DATA = {
    "prognose": "2.0%",
    "vorher": "1.9%",
    "actual": "2.0",
-   "notiz": null
-  },
-  {
-   "datum": "2026-08-17T08:30:00-04:00",
-   "land": "CAD",
-   "titel": "Trimmed CPI y/y",
-   "impact": "High",
-   "prognose": "1.8%",
-   "vorher": "1.8%",
-   "actual": "1.9",
    "notiz": null
   }
  ],

@@ -19250,6 +19250,16 @@
       "vorher": "-0.1%",
       "actual": null,
       "notiz": null
+    },
+    "2026-10-22T09:55:00-04:00|CAD|NHPI m/m": {
+      "datum": "2026-10-22T09:55:00-04:00",
+      "land": "CAD",
+      "titel": "NHPI m/m",
+      "impact": "Low",
+      "prognose": "-0.1%",
+      "vorher": "-0.1%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

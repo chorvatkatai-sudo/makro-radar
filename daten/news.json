@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-22T12:52:47.990Z",
+  "stand": "2026-10-22T17:48:33.911Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada September PPI +2.0% m/m vs +1.3% prior",
+      "link": "https://investinglive.com/news/canada-september-ppi-2-0-m-m-vs-1-3-prior/",
+      "datum": "2026-10-22T12:33:50.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
+      "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-200k-estimate-better-than-expected/",
+      "datum": "2026-10-22T12:30:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-yen-and-bonds-kick-it-old-school/",
+      "datum": "2026-10-22T12:12:25.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "France business confidence improves in October but cracks remain beneath the surface",
@@ -61,18 +79,6 @@
       "datum": "2026-10-21T17:03:19.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Markets remain cautiously optimistic",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautiously-optimistic/",
-      "datum": "2026-10-21T11:46:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "European markets steady for now but widening bond yield spreads offer a warning",
-      "link": "https://investinglive.com/news/european-markets-steady-for-now-but-widening-bond-yield-spreads-offer-a-warning/",
-      "datum": "2026-10-21T09:11:28.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
       "datum": "2026-10-05T20:30:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-      "datum": "2026-10-02T20:45:00.000Z"
     }
   ]
 }

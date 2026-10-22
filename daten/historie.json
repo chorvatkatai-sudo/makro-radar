@@ -19220,6 +19220,36 @@
       "vorher": "-5.3%",
       "actual": null,
       "notiz": null
+    },
+    "2026-10-22T08:38:00-04:00|CAD|IPPI m/m": {
+      "datum": "2026-10-22T08:38:00-04:00",
+      "land": "CAD",
+      "titel": "IPPI m/m",
+      "impact": "Low",
+      "prognose": "0.9%",
+      "vorher": "1.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-22T08:38:00-04:00|CAD|RMPI m/m": {
+      "datum": "2026-10-22T08:38:00-04:00",
+      "land": "CAD",
+      "titel": "RMPI m/m",
+      "impact": "Low",
+      "prognose": "3.1%",
+      "vorher": "3.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-22T08:59:00-04:00|CAD|NHPI m/m": {
+      "datum": "2026-10-22T08:59:00-04:00",
+      "land": "CAD",
+      "titel": "NHPI m/m",
+      "impact": "Low",
+      "prognose": "-0.1%",
+      "vorher": "-0.1%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

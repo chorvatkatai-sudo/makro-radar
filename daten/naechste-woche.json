@@ -1155,7 +1155,7 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "197.75",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1165,7 +1165,7 @@
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1728",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1222,20 +1222,20 @@
   {
     "date": "2026-10-29T12:30:00.000Z",
     "country": "USD",
-    "title": "Initial Jobless Claims",
+    "title": "GDP Price Index QoQ Adv",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.1%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-29T12:30:00.000Z",
     "country": "USD",
-    "title": "GDP Price Index QoQ Adv",
+    "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "6.1%",
+    "previous": "194",
     "actual": null,
     "quelle": "tradingview"
   },

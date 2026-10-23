@@ -154,7 +154,7 @@
     "country": "GBP",
     "title": "BRC Shop Price Inflation",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.6%",
     "previous": "1.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -204,8 +204,8 @@
     "country": "EUR",
     "title": "Loans to Households YoY",
     "impact": "Low",
-    "forecast": "",
-    "previous": "3.1",
+    "forecast": "3.1%",
+    "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -224,7 +224,7 @@
     "country": "EUR",
     "title": "M3 Money Supply YoY",
     "impact": "Low",
-    "forecast": "3.5%",
+    "forecast": "3.6%",
     "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -344,7 +344,7 @@
     "country": "USD",
     "title": "S&P/Case-Shiller Home Price YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.6%",
     "previous": "2.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -542,10 +542,10 @@
   {
     "date": "2026-10-28T00:30:00.000Z",
     "country": "AUD",
-    "title": "RBA Trimmed Mean CPI YoY",
+    "title": "RBA Trimmed Mean CPI MoM",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "3.6%",
+    "forecast": "0.3%",
+    "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -554,7 +554,7 @@
     "country": "AUD",
     "title": "Inflation Rate MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.7%",
     "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -572,10 +572,10 @@
   {
     "date": "2026-10-28T00:30:00.000Z",
     "country": "AUD",
-    "title": "RBA Trimmed Mean CPI MoM",
+    "title": "RBA Trimmed Mean CPI YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.2%",
+    "previous": "3.6%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -764,7 +764,7 @@
     "country": "USD",
     "title": "Goods Trade Balance Adv",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-128.7 $",
     "previous": "-132.1 $",
     "actual": null,
     "quelle": "tradingview"
@@ -1052,20 +1052,20 @@
   {
     "date": "2026-10-29T09:30:00.000Z",
     "country": "GBP",
-    "title": "Mortgage Lending",
+    "title": "Mortgage Approvals",
     "impact": "Medium",
-    "forecast": "",
-    "previous": "4.41 £",
+    "forecast": "56",
+    "previous": "54.92",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-29T09:30:00.000Z",
     "country": "GBP",
-    "title": "Mortgage Approvals",
+    "title": "Mortgage Lending",
     "impact": "Medium",
     "forecast": "",
-    "previous": "54.92",
+    "previous": "4.41 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1084,8 +1084,8 @@
     "country": "GBP",
     "title": "Net Lending to Individuals MoM",
     "impact": "Low",
-    "forecast": "",
-    "previous": "6.874",
+    "forecast": "6.2 £",
+    "previous": "6.874 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1612,20 +1612,20 @@
   {
     "date": "2026-10-30T00:30:00.000Z",
     "country": "AUD",
-    "title": "Housing Credit MoM",
+    "title": "Private Sector Credit MoM",
     "impact": "Low",
-    "forecast": "",
-    "previous": "0.4",
+    "forecast": "0.5%",
+    "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-10-30T00:30:00.000Z",
     "country": "AUD",
-    "title": "Private Sector Credit MoM",
+    "title": "Housing Credit MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.6",
+    "previous": "0.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1834,7 +1834,7 @@
     "country": "USD",
     "title": "Chicago PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "55.9",
     "previous": "58.8",
     "actual": null,
     "quelle": "tradingview"

@@ -1,11 +1,47 @@
 {
-  "stand": "2026-10-23T06:15:26.086Z",
+  "stand": "2026-10-23T09:42:20.255Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "UK October flash services PMI 53.1 vs 51.8 expected",
+      "link": "https://investinglive.com/news/uk-october-flash-services-pmi-53-1-vs-51-8-expected/",
+      "datum": "2026-10-23T08:30:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
+      "link": "https://investinglive.com/news/eurozone-october-pmi-misses-estimates-as-growth-slows-keeping-ecb-rate-hike-dilemma-alive/",
+      "datum": "2026-10-23T08:00:18.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany October flash manufacturing PMI 54.2 vs 53.5 expected",
+      "link": "https://investinglive.com/news/germany-october-flash-manufacturing-pmi-54-2-vs-53-5-expected/",
+      "datum": "2026-10-23T07:30:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France October PMI slumps back into contraction as political uncertainty weighs on demand",
+      "link": "https://investinglive.com/news/france-october-pmi-slumps-back-into-contraction-as-political-uncertainty-weighs-on-demand/",
+      "datum": "2026-10-23T07:15:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-70/",
+      "datum": "2026-10-23T06:38:49.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK retail sales fall more than expected in September, complicating BOE rate hike outlook",
+      "link": "https://investinglive.com/news/uk-retail-sales-fall-more-than-expected-in-september-complicating-boe-rate-hike-outlook/",
+      "datum": "2026-10-23T06:23:10.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Heads up: UK retail sales to test the case for further BOE rate hikes",
@@ -41,42 +77,6 @@
       "titel": "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Treasury yields tumble",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/",
       "datum": "2026-10-22T21:10:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since December",
-      "link": "https://investinglive.com/news/japan-cpi-preview-core-seen-at-2-1-topping-boj-target-for-first-time-since-december/",
-      "datum": "2026-10-22T20:22:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Friday, October 23, 2026 - Japan inflation data",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-october-23-2026-japan-inflation-data/",
-      "datum": "2026-10-22T20:12:04.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
-      "link": "https://investinglive.com/news/us-treasury-excels-26-billion-of-five-year-tips-at-a-high-yield-of-2-367/",
-      "datum": "2026-10-22T17:07:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada September PPI +2.0% m/m vs +1.3% prior",
-      "link": "https://investinglive.com/news/canada-september-ppi-2-0-m-m-vs-1-3-prior/",
-      "datum": "2026-10-22T12:33:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-200k-estimate-better-than-expected/",
-      "datum": "2026-10-22T12:30:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-yen-and-bonds-kick-it-old-school/",
-      "datum": "2026-10-22T12:12:25.000Z"
     },
     {
       "quelle": "Fed",

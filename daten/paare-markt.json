@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-23T17:38:50.809Z",
+  "stand": "2026-10-23T21:14:53.619Z",
   "ausBriefing": "2026-10-23",
   "overlayAktiv": true,
   "paare": [
@@ -17,21 +17,21 @@
     {
       "paar": "GBP/USD",
       "baseScore": 3,
-      "tiltCot": -2,
+      "tiltCot": -5,
       "tiltZins": 4,
-      "tiltGesamt": 2,
-      "score": 5,
-      "cotExtrem": "extrem",
+      "tiltGesamt": -1,
+      "score": 2,
+      "cotExtrem": "erhoeht",
       "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record. Gedämpft, da der heiße Wert bekannt ist und ein Teil schon gelaufen.",
       "istCross": false
     },
     {
       "paar": "USD/JPY",
       "baseScore": 2,
-      "tiltCot": -3,
+      "tiltCot": -4,
       "tiltZins": -2,
-      "tiltGesamt": -5,
-      "score": -3,
+      "tiltGesamt": -6,
+      "score": -4,
       "cotExtrem": null,
       "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hält wohl still. Der Hafen-Bid durch den steigenden VIX wird durch den Carry-Nachteil gedämpft. Schwächstes Paar im Track-Record (33%) → nahe neutral.",
       "istCross": false
@@ -39,21 +39,21 @@
     {
       "paar": "AUD/USD",
       "baseScore": -3,
-      "tiltCot": -5,
+      "tiltCot": -2,
       "tiltZins": 4,
-      "tiltGesamt": -1,
-      "score": -4,
-      "cotExtrem": "erhoeht",
+      "tiltGesamt": 2,
+      "score": -1,
+      "cotExtrem": "extrem",
       "treiber": "Job-Schock belastet weiter, der steigende VIX (Risk-off) nimmt Rückenwind, China-Beat gibt nur kleinen Boden. Über eigene Stories vom Dollar-Block gelöst → leicht negativ.",
       "istCross": false
     },
     {
       "paar": "USD/CAD",
       "baseScore": -3,
-      "tiltCot": 5,
+      "tiltCot": 4,
       "tiltZins": -8,
-      "tiltGesamt": -3,
-      "score": -6,
+      "tiltGesamt": -4,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
       "istCross": false
@@ -72,11 +72,11 @@
     {
       "paar": "NZD/USD",
       "baseScore": -1,
-      "tiltCot": -5,
-      "tiltZins": 7,
-      "tiltGesamt": 2,
-      "score": 1,
-      "cotExtrem": "erhoeht",
+      "tiltCot": -2,
+      "tiltZins": 8,
+      "tiltGesamt": 6,
+      "score": 5,
+      "cotExtrem": "extrem",
       "treiber": "Kühle NZ-Inflation + Risk-off drücken den Kiwi leicht, die Zinserhöhung Ende Okt ist eingepreist, extreme Shorts federn → per Saldo nahe neutral.",
       "istCross": false
     },
@@ -109,7 +109,7 @@
       "tiltZins": -3,
       "tiltGesamt": -2,
       "score": -3,
-      "cotExtrem": "erhoeht",
+      "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
     },

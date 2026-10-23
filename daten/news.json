@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-23T17:38:50.808Z",
+  "stand": "2026-10-23T21:14:53.617Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: War worries boost oil to the highest since May",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/",
+      "datum": "2026-10-23T20:05:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: We may do another operation against Iran",
+      "link": "https://investinglive.com/news/trump-we-may-do-another-operation-against-iran/",
+      "datum": "2026-10-23T19:50:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US expected to remove 50% tariffs on some Canadian products as soon as today - report",
+      "link": "https://investinglive.com/news/us-expected-to-remove-50-tariffs-on-some-canadian-products-as-soon-as-today-report/",
+      "datum": "2026-10-23T17:55:55.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
@@ -59,24 +77,6 @@
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-70/",
       "datum": "2026-10-23T06:38:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK retail sales fall more than expected in September, complicating BOE rate hike outlook",
-      "link": "https://investinglive.com/news/uk-retail-sales-fall-more-than-expected-in-september-complicating-boe-rate-hike-outlook/",
-      "datum": "2026-10-23T06:23:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Heads up: UK retail sales to test the case for further BOE rate hikes",
-      "link": "https://investinglive.com/news/heads-up-uk-retail-sales-to-test-the-case-for-further-boe-rate-hikes/",
-      "datum": "2026-10-23T04:35:36.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-as-chip-rout-spreads/",
-      "datum": "2026-10-23T03:37:36.000Z"
     },
     {
       "quelle": "Fed",

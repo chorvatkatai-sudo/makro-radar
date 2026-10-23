@@ -1062,20 +1062,10 @@
   {
     "date": "2026-10-29T09:30:00.000Z",
     "country": "GBP",
-    "title": "Mortgage Approvals",
+    "title": "Mortgage Lending",
     "impact": "Medium",
-    "forecast": "56",
-    "previous": "54.92",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-29T09:30:00.000Z",
-    "country": "GBP",
-    "title": "Net Lending to Individuals MoM",
-    "impact": "Low",
-    "forecast": "6.2 £",
-    "previous": "6.874 £",
+    "forecast": "",
+    "previous": "4.41 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1092,10 +1082,10 @@
   {
     "date": "2026-10-29T09:30:00.000Z",
     "country": "GBP",
-    "title": "Mortgage Lending",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "4.41 £",
+    "title": "Net Lending to Individuals MoM",
+    "impact": "Low",
+    "forecast": "6.2 £",
+    "previous": "6.874 £",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1106,6 +1096,16 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "2.464 £",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-29T09:30:00.000Z",
+    "country": "GBP",
+    "title": "Mortgage Approvals",
+    "impact": "Medium",
+    "forecast": "56",
+    "previous": "54.92",
     "actual": null,
     "quelle": "tradingview"
   },

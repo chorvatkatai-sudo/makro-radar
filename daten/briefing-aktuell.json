@@ -14,8 +14,8 @@
   "waehrungen": {
     "USD": {
       "stimmung": "neutral",
-      "score": -3,
-      "grund": "Der Dollar bleibt weich (Dollar-Index 101,7, −0,3% Woche), obwohl die US-Inflation zuletzt heiß kam — weil Fed-Redner Geduld signalisierten. Die Dezember-Erhöhung bleibt ~90%+ eingepreist und gibt einen Boden. Diese Woche keine US-Daten außer den Erstanträgen (Fed-Schweigephase). Klein negativ: Ton weich, aber kein Absturz."
+      "score": -1,
+      "grund": "Gold-/Papiergeld-Flucht löst sich (Gold −2% Richtung 4.000$) + hohe Nominalzinsen (10J ~4,95%) geben Boden; aber kurze 2J-Zinsen fallen → neutral, kein klarer Dollar-Trend."
     },
     "EUR": {
       "stimmung": "neutral",
@@ -39,8 +39,8 @@
     },
     "CAD": {
       "stimmung": "neutral",
-      "score": 2,
-      "grund": "Öl bleibt hoch (Brent ~110$, WTI ~98$) = Rückenwind für den Loonie, und Kanadas 2-Jahres-Zins war der stärkste Steiger der Woche (+0,12). ABER: Die Inflation am Montag kam kühler als erwartet (3,1% statt 3,2%, Kern-Maße unter dem Ziel) → das öffnet die Tür für eine mögliche Zinssenkung der kanadischen Notenbank am 28.10. und deckelt den Loonie. Per Saldo leicht positiv."
+      "score": 3,
+      "grund": "Öl-Gewinner (Brent über 113$ wegen Nahost-Angriffen), aber weiche Kern-Inflation (Trim 1,8%) hält die Bank of Canada am 28.10. gelassen = Spannung."
     },
     "AUD": {
       "stimmung": "bärisch",
@@ -76,8 +76,8 @@
     },
     {
       "paar": "USD/CAD",
-      "score": -2,
-      "treiber": "Öl hoch (Brent ~110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle Inflation öffnet die Zinssenkungs-Tür am 28.10. → Signal bewusst klein."
+      "score": -3,
+      "treiber": "Öl auf 113$ (Nahost) stützt den Loonie; kühle Kern-Inflation dämpft, Zinsvorsprung Kanadas der stärkste Steiger — leicht loonie-positiv."
     },
     {
       "paar": "USD/CHF",
@@ -175,21 +175,19 @@
     "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/15 = 47%, Konzentration 89%, Zufallsband [4,11] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 58% vs. nurBase 57%). Zahlen-Prognosen echte-Daten-Anteil nur 7/25 = 28% — die Zahlen-Calls sind in dieser Phase NICHT der verlässliche Teil. Deshalb Scores bewusst klein + diversifiziert: nicht alle 7 Paare dieselbe Dollar-Wette (JPY über Yen-Reversal, AUD über Job-Schock, CAD über Öl vom Dollar-Block gelöst; Konzentration bewusst nur ~71%)."
   ],
   "tagesnews": {
-    "stand": "2026-10-22",
-    "wochentag": "Donnerstag",
-    "tenor": "Ruhiger Tag: Gestern sprang Großbritanniens Inflation überraschend auf 3,5 Prozent und hielt das Pfund oben; heute nur US-Erstanträge, der nächste große Taktgeber sind morgen die Stimmungsumfragen.",
+    "stand": "2026-10-23",
+    "wochentag": "Freitag",
+    "tenor": "Gold stürzte über Nacht Richtung 4.000 Dollar — die Flucht ins Gold lässt nach; Öl bleibt wegen Angriffen im Nahen Osten teuer, und heute zeigen die Einkaufsmanager-Umfragen die Konjunkturlage.",
     "heute": [
-      "🇺🇸 US-Erstanträge auf Arbeitslosenhilfe (14:30 Wien, Konsens ~200.000 vs 199.000 zuvor) = das wichtigste US-Lebenszeichen der ruhigen, US-freien Woche. Die Fed ist in Schweigephase bis zum Zinsentscheid am 28.10., es gibt keine großen US-Zahlen.",
-      "🇪🇺 Euro-Verbrauchervertrauen (Vorab Oktober, 16:00 Wien): kleiner Stimmungstest für den Euro, der trotz schwachem Dollar nicht vom Fleck kommt (rund 1,12).",
-      "🛢️ Öl bleibt teuer und der eigentliche Taktgeber: Brent rund 110$ (+3,5% Woche), WTI rund 98$ — Rückenwind für den kanadischen Dollar, zugleich die Quelle der frischen Inflationssorge (die Benzinpreise trieben zuletzt die Teuerung in Großbritannien und Neuseeland).",
-      "🗓️ Morgen das Wochen-Highlight: die Vorab-Stimmungsumfragen der Einkaufsmanager (Deutschland/Euroraum/Großbritannien/USA ab 9:15 Wien) — sie zeigen, wie zuversichtlich die Unternehmen in die nächsten Monate blicken."
+      "🌍 Heute das Wochen-Highlight: die Vorab-Stimmungsumfragen der Einkaufsmanager aus Deutschland, dem Euroraum, Großbritannien und den USA (ab 9:15 Wien) + britische Einzelhandelszahlen (8:00). Sie zeigen, wie zuversichtlich die Unternehmen in die nächsten Monate blicken — erster Härtetest, ob die Konjunktur trägt.",
+      "🟡 Gold fiel über Nacht rund 2 Prozent Richtung 4.000 Dollar (von zuletzt ~4.200): hohe US-Zinsen (zehnjährige fast 5 Prozent) und ein fester Dollar machen das zinslose Gold unattraktiver, viele nehmen Gewinne mit. Die monatelange „Flucht aus dem Papiergeld\", die den Dollar monatelang deckelte, verliert an Kraft.",
+      "🛢️ Öl bleibt teuer (Brent über 113 Dollar, WTI rund 99): Angriffe der Huthi-Rebellen auf saudische Ölanlagen und eine Minen-Drohung an der Straße von Hormus halten die Sorge um den Nachschub hoch — Rückenwind für den Rohstoff-Dollar Kanadas, Gegenwind für Energie-Importeure wie den Euroraum und Japan."
     ],
     "gestern": [
-      "🇬🇧 UK-Inflation September kam HEISS: 3,5% (von 3,1% im August, über dem 3,4%-Konsens), Kern 2,8% (über 2,7%), Dienstleistungen 3,7% — Treiber waren die Benzinpreise. → Der Pfund-Squeeze zündete: das Pfund hielt sich auf dem 5-Wochen-Hoch um 1,34, eine erste Zinserhöhung der Bank von England am 5.11. gilt zu ~96–98% als sicher.",
-      "🇳🇿 Neuseeland-Inflation Q3: Schlagzeile KÜHLER auf 3,7% (von 4,1%, unter dem 3,8%-Konsens), +0,7% zum Vorquartal — ABER der Kern (ohne Benzin/Nahrung/Energie) STIEG auf 2,9%. Der Kiwi fiel kurz auf ~0,569, die Zinserhöhung der neuseeländischen Notenbank am 28.10. bleibt aber zu ~98% eingepreist.",
-      "💵 Dollar bleibt weich (Dollar-Index 101,7, −0,3% Woche), die US-Renditen hingen leicht höher (10 Jahre 5,15%). Die Fed ist in Schweigephase — der Dollar läuft auf Ton und Öl, nicht auf US-Daten.",
-      "😌 Das Angst-Barometer VIX beruhigte sich auf 16,8 (von zuvor ~18,6) = etwas weniger Nervosität an den Börsen → der Sicherheits-Zufluss in Franken und Yen lässt nach.",
-      "📊 Prognose-Bilanz: Unsere Freitags-Prognose UK-Inflation „wie erwartet\" ging DANEBEN ✗ (kam mit 3,5% heißer) — immerhin passt das zur Pfund-stark-These. Auch Kanada-Inflation „höher\" (Mo) daneben (3,1% unter dem 3,2%-Konsens). Dritte Woche in Folge die Inflation an der Oberfläche falsch eingeschätzt."
+      "🇬🇧 Großbritanniens Inflation sprang am Mittwoch auf 3,5 Prozent (von 3,1), Kern 2,8, Dienstleistungen 3,7 — vor allem die Benzinpreise. Der Pfund-Squeeze zündete, eine Zinserhöhung der Bank von England am 5.11. gilt als fast sicher; das Pfund hält sich auf dem 5-Wochen-Hoch.",
+      "🇨🇦 Kanadas Inflation (Mo) stieg auf 3,1 Prozent, aber nur wegen Benzin (+27,8%); die Kern-Maße der Notenbank fielen auf 1,8–1,9 Prozent, unter dem Ziel → die Bank of Canada kann am 28.10. gelassen bleiben.",
+      "📈 US-Renditen hoch (zehnjährige ~4,95%, dreißigjährige über 5,25%) drücken auf Gold und geben dem Dollar einen Boden; die kurzen Zweijahres-Zinsen fallen aber (Erwartung einer Zins-Pause) — das Bild ist gemischt.",
+      "😬 Das Angst-Barometer der Börsen (VIX) zog wieder auf 19 an (von zuletzt ~17) = etwas mehr Nervosität, aber die hohen Zinsen bremsen den üblichen Sicherheits-Zufluss in Franken und Yen."
     ]
   }
 }

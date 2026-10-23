@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-23T00:29:12.627Z",
+  "stand": "2026-10-23T06:14:38.360Z",
   "ausBriefing": "2026-10-16",
   "overlayAktiv": true,
   "paare": [
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -2,
+      "baseScore": -3,
       "tiltCot": 5,
       "tiltZins": -7,
       "tiltGesamt": -2,
-      "score": -4,
+      "score": -5,
       "cotExtrem": null,
-      "treiber": "Öl hoch (Brent ~110$) + Kanadas 2J-Zins als stärkster Steiger stützen den Loonie → Dollar/Loonie runter. Gegengewicht: die kühle Inflation öffnet die Zinssenkungs-Tür am 28.10. → Signal bewusst klein.",
+      "treiber": "Öl auf 113$ (Nahost) stützt den Loonie; kühle Kern-Inflation dämpft, Zinsvorsprung Kanadas der stärkste Steiger — leicht loonie-positiv.",
       "istCross": false
     },
     {

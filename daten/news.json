@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-23T14:25:22.695Z",
+  "stand": "2026-10-23T17:38:50.808Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
+      "link": "https://investinglive.com/news/umich-final-october-final-consumer-sentiment-48-0-vs-46-3-expected/",
+      "datum": "2026-10-23T14:03:25.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
@@ -71,12 +77,6 @@
       "titel": "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-as-chip-rout-spreads/",
       "datum": "2026-10-23T03:37:36.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before BoJ",
-      "link": "https://investinglive.com/news/japan-flash-pmi-holds-at-52-3-as-services-gain-offsets-factory-slowdown-before-boj/",
-      "datum": "2026-10-23T00:38:32.000Z"
     },
     {
       "quelle": "Fed",

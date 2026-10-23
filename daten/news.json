@@ -1,11 +1,17 @@
 {
-  "stand": "2026-10-23T09:42:20.255Z",
+  "stand": "2026-10-23T12:31:33.580Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Equities cautious as Treasury yields rebound, oil holds firm",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-cautious-as-treasury-yields-rebound-oil-holds-firm/",
+      "datum": "2026-10-23T11:34:13.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "UK October flash services PMI 53.1 vs 51.8 expected",
@@ -71,12 +77,6 @@
       "titel": "Australia flash PMI: private sector shrinks for first time in five months as prices rise",
       "link": "https://investinglive.com/news/australia-flash-pmi-private-sector-shrinks-for-first-time-in-five-months-as-prices-rise/",
       "datum": "2026-10-22T22:16:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Treasury yields tumble",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/",
-      "datum": "2026-10-22T21:10:28.000Z"
     },
     {
       "quelle": "Fed",

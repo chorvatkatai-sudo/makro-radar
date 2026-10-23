@@ -62,6 +62,16 @@
   {
     "date": "2026-10-26T11:10:00.000Z",
     "country": "EUR",
+    "title": "2051 EU-Bonds Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.173%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-10-26T11:10:00.000Z",
+    "country": "EUR",
     "title": "2029 EU-Bonds Auction",
     "impact": "Low",
     "forecast": "",
@@ -76,16 +86,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "3.689%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-10-26T11:10:00.000Z",
-    "country": "EUR",
-    "title": "2051 EU-Bonds Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.173%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1015,7 +1015,7 @@
     "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.268%",
     "actual": null,
     "quelle": "tradingview"
   },

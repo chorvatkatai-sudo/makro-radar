@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-24T06:09:59.652Z",
+ "erstellt": "2026-10-24T16:24:06.452Z",
  "wochenStart": "2026-10-18",
  "events": [
   {
@@ -843,7 +843,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "title": "CBI Distributive Trades",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "-47",
    "previous": "-55",
    "actual": null,
    "quelle": "tradingview"
@@ -1141,20 +1141,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-27T13:00:00.000Z",
    "country": "USD",
-   "title": "S&P/Case-Shiller Home Price MoM",
+   "title": "House Price Index MoM",
    "impact": "Low",
-   "forecast": "",
-   "previous": "0%",
+   "forecast": "0.1%",
+   "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-10-27T13:00:00.000Z",
    "country": "USD",
-   "title": "House Price Index MoM",
+   "title": "S&P/Case-Shiller Home Price MoM",
    "impact": "Low",
    "forecast": "",
-   "previous": "0.3%",
+   "previous": "0%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1183,7 +1183,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Richmond Fed Manufacturing Index",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1",
    "previous": "-2",
    "actual": null,
    "quelle": "tradingview"
@@ -1531,10 +1531,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-28T12:30:00.000Z",
    "country": "USD",
-   "title": "Retail Inventories Ex Autos MoM Adv",
+   "title": "Wholesale Inventories MoM Adv",
    "impact": "Medium",
-   "forecast": "",
-   "previous": "0%",
+   "forecast": "0.4%",
+   "previous": "0.5%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1561,10 +1561,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-10-28T12:30:00.000Z",
    "country": "USD",
-   "title": "Wholesale Inventories MoM Adv",
+   "title": "Retail Inventories Ex Autos MoM Adv",
    "impact": "Medium",
    "forecast": "",
-   "previous": "0.5%",
+   "previous": "0%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1593,7 +1593,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "EIA Crude Oil Stocks Change",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "-0.3",
    "previous": "-3.061",
    "actual": null,
    "quelle": "tradingview"
@@ -1803,8 +1803,8 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Import Prices QoQ",
    "impact": "Low",
-   "forecast": "",
-   "previous": "5.7",
+   "forecast": "1.8%",
+   "previous": "5.7%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1853,7 +1853,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "title": "M4 Money Supply MoM",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.3%",
    "previous": "0.4%",
    "actual": null,
    "quelle": "tradingview"
@@ -1963,7 +1963,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "GDP Growth Rate QoQ Adv",
    "impact": "High",
-   "forecast": "3%",
+   "forecast": "3.2%",
    "previous": "2.2%",
    "actual": null,
    "quelle": "tradingview"
@@ -2393,7 +2393,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "PPI QoQ",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "1%",
    "previous": "1.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -2493,7 +2493,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "title": "Nationwide Housing Prices MoM",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "-0.2%",
    "previous": "-0.2%",
    "actual": null,
    "quelle": "tradingview"
@@ -2523,7 +2523,7 @@ window.MAKRO_DATA = {
    "country": "CHF",
    "title": "KOF Leading Indicators",
    "impact": "Medium",
-   "forecast": "106.9",
+   "forecast": "108",
    "previous": "109.1",
    "actual": null,
    "quelle": "tradingview"
@@ -2713,7 +2713,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "title": "NBS Non Manufacturing PMI",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "50.5",
    "previous": "50.2",
    "actual": null,
    "quelle": "tradingview"
@@ -2723,7 +2723,7 @@ window.MAKRO_DATA = {
    "country": "CNY",
    "title": "NBS Manufacturing PMI",
    "impact": "High",
-   "forecast": "",
+   "forecast": "50.1",
    "previous": "50.1",
    "actual": null,
    "quelle": "tradingview"
@@ -3411,7 +3411,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-24T06:09:57.783Z",
+  "stand": "2026-10-24T16:24:05.216Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3661,12 +3661,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 80651.12,
+    "wert": 79516.7,
     "tagProzent": 0,
-    "wocheProzent": -1.47,
+    "wocheProzent": -4.13,
     "renditeDelta": false,
     "verlauf": [
-     84763.58,
      86480.3,
      85786.59,
      85557.56,
@@ -3686,8 +3685,9 @@ window.MAKRO_DATA = {
      82941,
      84011.97,
      81311.89,
-     80651.12,
-     80651.12
+     81074.19,
+     79516.7,
+     79516.7
     ]
    },
    "FEDFUT": {
@@ -3984,7 +3984,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-24T06:09:59.157Z",
+  "stand": "2026-10-24T16:24:05.647Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
   "gewertet": 34,
@@ -4100,7 +4100,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-24T06:09:59.651Z",
+  "stand": "2026-10-24T16:24:06.441Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4339,7 +4339,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-24T06:09:58.259Z",
+  "stand": "2026-10-24T16:24:05.600Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

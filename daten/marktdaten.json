@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-24T06:09:57.783Z",
+  "stand": "2026-10-24T16:24:05.216Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
@@ -249,12 +249,11 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 80651.12,
+      "wert": 79516.7,
       "tagProzent": 0,
-      "wocheProzent": -1.47,
+      "wocheProzent": -4.13,
       "renditeDelta": false,
       "verlauf": [
-        84763.58,
         86480.3,
         85786.59,
         85557.56,
@@ -274,8 +273,9 @@
         82941,
         84011.97,
         81311.89,
-        80651.12,
-        80651.12
+        81074.19,
+        79516.7,
+        79516.7
       ]
     },
     "FEDFUT": {

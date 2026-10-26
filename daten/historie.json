@@ -19336,7 +19336,7 @@
       "land": "EUR",
       "titel": "Spanish Unemployment Rate",
       "impact": "Low",
-      "prognose": "9.8%",
+      "prognose": "9.9%",
       "vorher": "9.9%",
       "actual": null,
       "notiz": null
@@ -19346,7 +19346,7 @@
       "land": "EUR",
       "titel": "M3 Money Supply y/y",
       "impact": "Low",
-      "prognose": "3.6%",
+      "prognose": "3.5%",
       "vorher": "3.5%",
       "actual": null,
       "notiz": null
@@ -19386,7 +19386,7 @@
       "land": "USD",
       "titel": "Durable Goods Orders m/m",
       "impact": "Low",
-      "prognose": "1.8%",
+      "prognose": "2.0%",
       "vorher": "0.0%",
       "actual": null,
       "notiz": null
@@ -19396,7 +19396,7 @@
       "land": "USD",
       "titel": "HPI m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.2%",
       "vorher": "0.3%",
       "actual": null,
       "notiz": null
@@ -19406,7 +19406,7 @@
       "land": "USD",
       "titel": "S&P/CS Composite-20 HPI y/y",
       "impact": "Low",
-      "prognose": "2.7%",
+      "prognose": "2.6%",
       "vorher": "2.5%",
       "actual": null,
       "notiz": null
@@ -19416,7 +19416,7 @@
       "land": "USD",
       "titel": "CB Consumer Confidence",
       "impact": "Medium",
-      "prognose": "80.7",
+      "prognose": "81.2",
       "vorher": "81.9",
       "actual": null,
       "notiz": null
@@ -19426,7 +19426,7 @@
       "land": "USD",
       "titel": "New Home Sales",
       "impact": "Low",
-      "prognose": "649K",
+      "prognose": "651K",
       "vorher": "684K",
       "actual": null,
       "notiz": null
@@ -19436,7 +19436,7 @@
       "land": "USD",
       "titel": "Richmond Manufacturing Index",
       "impact": "Low",
-      "prognose": "1",
+      "prognose": "0",
       "vorher": "-2",
       "actual": null,
       "notiz": null
@@ -19757,7 +19757,7 @@
       "titel": "Italian 10-y Bond Auction",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "4.58|1.6",
       "actual": null,
       "notiz": null
     },

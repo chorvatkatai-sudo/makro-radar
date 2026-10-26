@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-26T18:59:01.045Z",
+  "stand": "2026-10-26T20:23:07.064Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
+      "link": "https://investinglive.com/news/us-and-canada-working-on-deal-to-ease-tariffs-on-canadian-steel-and-auto-imports/",
+      "datum": "2026-10-26T19:35:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Saudi Arabia offers cash to Houthis to stop attacks - report",
+      "link": "https://investinglive.com/B/",
+      "datum": "2026-10-26T18:36:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The cost of intelligence is collapsing",
+      "link": "https://investinglive.com/news/the-cost-of-intelligence-is-collapsing/",
+      "datum": "2026-10-26T18:24:04.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US Treasury sells $69 billion of 2-year notes at a high yield of 4.708%",
@@ -59,24 +77,6 @@
       "titel": "Heads up: European daylight saving time has ended, here's what traders need to know",
       "link": "https://investinglive.com/news/heads-up-european-daylight-saving-time-has-ended-here-s-what-traders-need-to-know/",
       "datum": "2026-10-26T06:31:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Brazil ETF slumps on Lula win",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-brazil-etf-slumps-on-lula-win/",
-      "datum": "2026-10-26T03:43:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Brazil ETF tumbles nearly 15% in Tokyo after Lula’s comeback runoff win",
-      "link": "https://investinglive.com/news/brazil-etf-tumbles-nearly-15-in-tokyo-after-lula-s-comeback-runoff-win/",
-      "datum": "2026-10-26T03:14:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
-      "link": "https://investinglive.com/news/weekend-china-warns-of-countermeasures-as-us-treasury-widens-tech-investment-curbs-to-biotech/",
-      "datum": "2026-10-25T20:42:28.000Z"
     },
     {
       "quelle": "Fed",

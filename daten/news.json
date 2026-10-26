@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-25T06:10:59.079Z",
+  "stand": "2026-10-26T06:18:37.451Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Brazil ETF slumps on Lula win",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-brazil-etf-slumps-on-lula-win/",
+      "datum": "2026-10-26T03:43:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Brazil ETF tumbles nearly 15% in Tokyo after Lula’s comeback runoff win",
+      "link": "https://investinglive.com/news/brazil-etf-tumbles-nearly-15-in-tokyo-after-lula-s-comeback-runoff-win/",
+      "datum": "2026-10-26T03:14:45.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
+      "link": "https://investinglive.com/news/weekend-china-warns-of-countermeasures-as-us-treasury-widens-tech-investment-curbs-to-biotech/",
+      "datum": "2026-10-25T20:42:28.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas market news wrap: War worries boost oil to the highest since May",
@@ -50,33 +68,15 @@
     },
     {
       "quelle": "ForexLive",
-      "titel": "UK October flash services PMI 53.1 vs 51.8 expected",
-      "link": "https://investinglive.com/news/uk-october-flash-services-pmi-53-1-vs-51-8-expected/",
-      "datum": "2026-10-23T08:30:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
       "titel": "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
       "link": "https://investinglive.com/news/eurozone-october-pmi-misses-estimates-as-growth-slows-keeping-ecb-rate-hike-dilemma-alive/",
       "datum": "2026-10-23T08:00:18.000Z"
     },
     {
       "quelle": "ForexLive",
-      "titel": "Germany October flash manufacturing PMI 54.2 vs 53.5 expected",
-      "link": "https://investinglive.com/news/germany-october-flash-manufacturing-pmi-54-2-vs-53-5-expected/",
-      "datum": "2026-10-23T07:30:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
       "titel": "France October PMI slumps back into contraction as political uncertainty weighs on demand",
       "link": "https://investinglive.com/news/france-october-pmi-slumps-back-into-contraction-as-political-uncertainty-weighs-on-demand/",
       "datum": "2026-10-23T07:15:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-70/",
-      "datum": "2026-10-23T06:38:49.000Z"
     },
     {
       "quelle": "Fed",

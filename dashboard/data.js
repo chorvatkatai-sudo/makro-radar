@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-26T14:03:53.597Z",
+ "erstellt": "2026-10-26T18:59:01.555Z",
  "wochenStart": "2026-10-25",
  "events": [
   {
@@ -507,6 +507,15 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
+   "title": "Gov Council Member Gravelle Speaks",
+   "country": "CAD",
+   "date": "2026-10-29T08:50:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
    "title": "Main Refinancing Rate",
    "country": "EUR",
    "date": "2026-10-29T09:15:00-04:00",
@@ -545,7 +554,7 @@ window.MAKRO_DATA = {
   {
    "title": "Gov Council Member Vincent Speaks",
    "country": "CAD",
-   "date": "2026-10-29T11:59:00-04:00",
+   "date": "2026-10-29T11:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1084,7 +1093,7 @@ window.MAKRO_DATA = {
    "title": "6-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "4.21%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1094,7 +1103,7 @@ window.MAKRO_DATA = {
    "title": "3-Month Bill Auction",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "4.05%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3402,15 +3411,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-26T14:03:52.506Z",
+  "stand": "2026-10-26T18:59:00.664Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 102,
+    "wert": 101.94,
     "tagProzent": 0,
-    "wocheProzent": 0.26,
+    "wocheProzent": 0.21,
     "renditeDelta": false,
     "verlauf": [
      101.2,
@@ -3433,17 +3442,17 @@ window.MAKRO_DATA = {
      101.78,
      101.61,
      101.81,
-     102,
-     102
+     101.94,
+     101.94
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 18.59,
+    "wert": 18.42,
     "tagProzent": 0,
-    "wocheProzent": 7.39,
+    "wocheProzent": 6.41,
     "renditeDelta": false,
     "verlauf": [
      16.07,
@@ -3466,17 +3475,17 @@ window.MAKRO_DATA = {
      16.68,
      19.03,
      19.45,
-     18.59,
-     18.59
+     18.42,
+     18.42
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 101.55,
+    "wert": 101.93,
     "tagProzent": 0,
-    "wocheProzent": -0.24,
+    "wocheProzent": 0.14,
     "renditeDelta": false,
     "verlauf": [
      92.6,
@@ -3499,17 +3508,17 @@ window.MAKRO_DATA = {
      97.15,
      99.47,
      103.27,
-     101.55,
-     101.55
+     101.93,
+     101.93
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 110.7,
+    "wert": 110.77,
     "tagProzent": 0,
-    "wocheProzent": 1.76,
+    "wocheProzent": 1.82,
     "renditeDelta": false,
     "verlauf": [
      105.28,
@@ -3532,17 +3541,17 @@ window.MAKRO_DATA = {
      108.82,
      113.17,
      116.72,
-     110.7,
-     110.7
+     110.77,
+     110.77
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4006.6,
+    "wert": 4028.6,
     "tagProzent": 0,
-    "wocheProzent": -3.28,
+    "wocheProzent": -2.75,
     "renditeDelta": false,
     "verlauf": [
      4168.4,
@@ -3565,8 +3574,8 @@ window.MAKRO_DATA = {
      4150,
      4060.4,
      4007.9,
-     4006.6,
-     4006.6
+     4028.6,
+     4028.6
     ]
    },
    "US02Y": {
@@ -3605,9 +3614,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.976,
+    "wert": 4.986,
     "tagProzent": 0,
-    "wocheProzent": -0.14,
+    "wocheProzent": -0.13,
     "renditeDelta": true,
     "verlauf": [
      5.24,
@@ -3630,15 +3639,15 @@ window.MAKRO_DATA = {
      5.146,
      4.953,
      4.988,
-     4.976,
-     4.976
+     4.986,
+     4.986
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.296,
+    "wert": 5.3,
     "tagProzent": 0,
     "wocheProzent": -0.13,
     "renditeDelta": true,
@@ -3663,17 +3672,17 @@ window.MAKRO_DATA = {
      5.439,
      5.287,
      5.315,
-     5.296,
-     5.296
+     5.3,
+     5.3
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 79457.67,
+    "wert": 79925.85,
     "tagProzent": 0,
-    "wocheProzent": -2.28,
+    "wocheProzent": -1.7,
     "renditeDelta": false,
     "verlauf": [
      85557.56,
@@ -3696,8 +3705,8 @@ window.MAKRO_DATA = {
      81074.19,
      80790.84,
      80024.01,
-     79457.67,
-     79457.67
+     79925.85,
+     79925.85
     ]
    },
    "FEDFUT": {
@@ -3735,7 +3744,7 @@ window.MAKRO_DATA = {
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
   },
-  "kurve2s10s": 0.23,
+  "kurve2s10s": 0.24,
   "cot": {
    "stand": "2026-10-20",
    "waehrungen": {
@@ -3829,32 +3838,32 @@ window.MAKRO_DATA = {
    "stand": "2026-10-26",
    "werte": {
     "USD": {
-     "wert": 4.699,
-     "wocheDelta": -0.026
+     "wert": 4.712,
+     "wocheDelta": -0.013
     },
     "EUR": {
-     "wert": 3.066,
-     "wocheDelta": -0.015
+     "wert": 3.084,
+     "wocheDelta": 0.003
     },
     "GBP": {
-     "wert": 4.901,
-     "wocheDelta": -0.009
+     "wert": 4.921,
+     "wocheDelta": 0.011
     },
     "JPY": {
-     "wert": 1.881,
-     "wocheDelta": -0.02
+     "wert": 1.886,
+     "wocheDelta": -0.015
     },
     "AUD": {
-     "wert": 4.917,
-     "wocheDelta": 0.026
+     "wert": 4.933,
+     "wocheDelta": 0.042
     },
     "CAD": {
-     "wert": 3.354,
-     "wocheDelta": 0.149
+     "wert": 3.38,
+     "wocheDelta": 0.175
     },
     "CHF": {
-     "wert": 0.203,
-     "wocheDelta": -0.017
+     "wert": 0.188,
+     "wocheDelta": -0.032
     },
     "NZD": {
      "wert": 3.92,
@@ -3919,9 +3928,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -3,
    "tiltCot": 4,
-   "tiltZins": -7,
-   "tiltGesamt": -3,
-   "score": -6,
+   "tiltZins": -8,
+   "tiltGesamt": -4,
+   "score": -7,
    "cotExtrem": null,
    "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
    "istCross": false
@@ -3974,9 +3983,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": -1,
    "tiltCot": 1,
-   "tiltZins": 0,
-   "tiltGesamt": 1,
-   "score": 0,
+   "tiltZins": 2,
+   "tiltGesamt": 3,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3985,16 +3994,16 @@ window.MAKRO_DATA = {
    "paar": "EUR/CHF",
    "baseScore": 1,
    "tiltCot": 0,
-   "tiltZins": 0,
-   "tiltGesamt": 0,
-   "score": 1,
+   "tiltZins": 1,
+   "tiltGesamt": 1,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-26T14:03:53.117Z",
+  "stand": "2026-10-26T18:59:01.052Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
   "gewertet": 34,
@@ -4110,7 +4119,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-26T14:03:53.596Z",
+  "stand": "2026-10-26T18:59:01.555Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4349,13 +4358,31 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-26T14:03:53.108Z",
+  "stand": "2026-10-26T18:59:01.045Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "US Treasury sells $69 billion of 2-year notes at a high yield of 4.708%",
+    "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of-4-708/",
+    "datum": "2026-10-26T17:05:46.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Saudi, Pakistani, Iranian and Turkish security chiefs sit down in Tehran, agree to continue talks",
+    "link": "https://investinglive.com/news/saudi-pakistani-iranian-and-turkish-security-chiefs-sit-down-in-tehran-agree-to-continue-talks/",
+    "datum": "2026-10-26T16:07:03.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US October Dallas Fed manufacturing index 13.4 vs 9.8 prior",
+    "link": "https://investinglive.com/news/us-october-dallas-fed-manufacturing-index-13-4-vs-9-8-prior/",
+    "datum": "2026-10-26T14:32:51.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'",
@@ -4409,24 +4436,6 @@ window.MAKRO_DATA = {
     "titel": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
     "link": "https://investinglive.com/news/weekend-china-warns-of-countermeasures-as-us-treasury-widens-tech-investment-curbs-to-biotech/",
     "datum": "2026-10-25T20:42:28.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Americas market news wrap: War worries boost oil to the highest since May",
-    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/",
-    "datum": "2026-10-23T20:05:00.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Trump: We may do another operation against Iran",
-    "link": "https://investinglive.com/news/trump-we-may-do-another-operation-against-iran/",
-    "datum": "2026-10-23T19:50:42.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US expected to remove 50% tariffs on some Canadian products as soon as today - report",
-    "link": "https://investinglive.com/news/us-expected-to-remove-50-tariffs-on-some-canadian-products-as-soon-as-today-report/",
-    "datum": "2026-10-23T17:55:55.000Z"
    },
    {
     "quelle": "Fed",
@@ -5710,5 +5719,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 2023
+ "anzahlGespeichert": 2025
 };

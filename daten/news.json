@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-26T14:03:53.108Z",
+  "stand": "2026-10-26T18:59:01.045Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US Treasury sells $69 billion of 2-year notes at a high yield of 4.708%",
+      "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of-4-708/",
+      "datum": "2026-10-26T17:05:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Saudi, Pakistani, Iranian and Turkish security chiefs sit down in Tehran, agree to continue talks",
+      "link": "https://investinglive.com/news/saudi-pakistani-iranian-and-turkish-security-chiefs-sit-down-in-tehran-agree-to-continue-talks/",
+      "datum": "2026-10-26T16:07:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US October Dallas Fed manufacturing index 13.4 vs 9.8 prior",
+      "link": "https://investinglive.com/news/us-october-dallas-fed-manufacturing-index-13-4-vs-9-8-prior/",
+      "datum": "2026-10-26T14:32:51.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'",
@@ -59,24 +77,6 @@
       "titel": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
       "link": "https://investinglive.com/news/weekend-china-warns-of-countermeasures-as-us-treasury-widens-tech-investment-curbs-to-biotech/",
       "datum": "2026-10-25T20:42:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: War worries boost oil to the highest since May",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/",
-      "datum": "2026-10-23T20:05:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: We may do another operation against Iran",
-      "link": "https://investinglive.com/news/trump-we-may-do-another-operation-against-iran/",
-      "datum": "2026-10-23T19:50:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US expected to remove 50% tariffs on some Canadian products as soon as today - report",
-      "link": "https://investinglive.com/news/us-expected-to-remove-50-tariffs-on-some-canadian-products-as-soon-as-today-report/",
-      "datum": "2026-10-23T17:55:55.000Z"
     },
     {
       "quelle": "Fed",

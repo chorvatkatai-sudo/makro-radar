@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-26T14:03:53.110Z",
+  "stand": "2026-10-26T18:59:01.047Z",
   "ausBriefing": "2026-10-23",
   "overlayAktiv": true,
   "paare": [
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -3,
       "tiltCot": 4,
-      "tiltZins": -7,
-      "tiltGesamt": -3,
-      "score": -6,
+      "tiltZins": -8,
+      "tiltGesamt": -4,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": -1,
       "tiltCot": 1,
-      "tiltZins": 0,
-      "tiltGesamt": 1,
-      "score": 0,
+      "tiltZins": 2,
+      "tiltGesamt": 3,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 0,
-      "tiltZins": 0,
-      "tiltGesamt": 0,
-      "score": 1,
+      "tiltZins": 1,
+      "tiltGesamt": 1,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

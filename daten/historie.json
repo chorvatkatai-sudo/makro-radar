@@ -20230,6 +20230,26 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-10-29T08:50:00-04:00|CAD|Gov Council Member Gravelle Speaks": {
+      "datum": "2026-10-29T08:50:00-04:00",
+      "land": "CAD",
+      "titel": "Gov Council Member Gravelle Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-29T11:30:00-04:00|CAD|Gov Council Member Vincent Speaks": {
+      "datum": "2026-10-29T11:30:00-04:00",
+      "land": "CAD",
+      "titel": "Gov Council Member Vincent Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

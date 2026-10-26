@@ -1,11 +1,47 @@
 {
-  "stand": "2026-10-26T06:18:37.451Z",
+  "stand": "2026-10-26T14:03:53.108Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'",
+      "link": "https://investinglive.com/news/anthropic-files-for-ipo-on-nasdaq-will-use-the-symbol-ant/",
+      "datum": "2026-10-26T13:40:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Stocks rebound as oil eases, French bonds find relief",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-as-oil-eases-french-bonds-find-relief/",
+      "datum": "2026-10-26T12:07:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
+      "link": "https://investinglive.com/news/uk-autumn-budget-preview-can-healey-calm-markets-and-change-boe-rate-hike-bets/",
+      "datum": "2026-10-26T10:40:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany Ifo business confidence improves in October as expectations surprise higher",
+      "link": "https://investinglive.com/news/germany-ifo-business-confidence-improves-in-october-as-expectations-surprise-higher/",
+      "datum": "2026-10-26T09:06:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-71/",
+      "datum": "2026-10-26T07:23:44.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Heads up: European daylight saving time has ended, here's what traders need to know",
+      "link": "https://investinglive.com/news/heads-up-european-daylight-saving-time-has-ended-here-s-what-traders-need-to-know/",
+      "datum": "2026-10-26T06:31:15.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Brazil ETF slumps on Lula win",
@@ -41,42 +77,6 @@
       "titel": "US expected to remove 50% tariffs on some Canadian products as soon as today - report",
       "link": "https://investinglive.com/news/us-expected-to-remove-50-tariffs-on-some-canadian-products-as-soon-as-today-report/",
       "datum": "2026-10-23T17:55:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
-      "link": "https://investinglive.com/news/umich-final-october-final-consumer-sentiment-48-0-vs-46-3-expected/",
-      "datum": "2026-10-23T14:03:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
-      "link": "https://investinglive.com/news/us-s-p-global-flash-october-services-pmi-57-9-vs-58-0-expected/",
-      "datum": "2026-10-23T13:45:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada August retail sales +1.2% vs +1.3% expected",
-      "link": "https://investinglive.com/news/canada-august-retail-sales-vs-1-3-expected/",
-      "datum": "2026-10-23T12:30:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Equities cautious as Treasury yields rebound, oil holds firm",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-cautious-as-treasury-yields-rebound-oil-holds-firm/",
-      "datum": "2026-10-23T11:34:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
-      "link": "https://investinglive.com/news/eurozone-october-pmi-misses-estimates-as-growth-slows-keeping-ecb-rate-hike-dilemma-alive/",
-      "datum": "2026-10-23T08:00:18.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France October PMI slumps back into contraction as political uncertainty weighs on demand",
-      "link": "https://investinglive.com/news/france-october-pmi-slumps-back-into-contraction-as-political-uncertainty-weighs-on-demand/",
-      "datum": "2026-10-23T07:15:23.000Z"
     },
     {
       "quelle": "Fed",

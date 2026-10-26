@@ -19336,7 +19336,7 @@
       "land": "EUR",
       "titel": "Spanish Unemployment Rate",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "9.8%",
       "vorher": "9.9%",
       "actual": null,
       "notiz": null
@@ -19416,7 +19416,7 @@
       "land": "USD",
       "titel": "CB Consumer Confidence",
       "impact": "Medium",
-      "prognose": "80.5",
+      "prognose": "80.7",
       "vorher": "81.9",
       "actual": null,
       "notiz": null
@@ -20218,6 +20218,16 @@
       "impact": "Low",
       "prognose": "50.5",
       "vorher": "50.2",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-29T11:59:00-04:00|CAD|Gov Council Member Vincent Speaks": {
+      "datum": "2026-10-29T11:59:00-04:00",
+      "land": "CAD",
+      "titel": "Gov Council Member Vincent Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

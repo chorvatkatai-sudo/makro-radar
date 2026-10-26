@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-25T06:10:59.626Z",
+ "erstellt": "2026-10-26T06:17:42.227Z",
  "wochenStart": "2026-10-25",
  "events": [
   {
@@ -2919,20 +2919,21 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/16 = 44%, Konzentration 90%, Zufallsband [4,12] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 55% vs. nurBase 52%). KEIN belegter Vorsprung. Deshalb Scores bewusst klein (|score| ≤ 4) und diversifiziert: Diese Woche sind die Paare NICHT monolithisch (3 anti-Dollar via EUR/GBP/CAD-Eigenstories, 4 pro-Dollar) — der Dollar ist genuin neutral, also kein 7-fach-identischer Dollar-Call."
   ],
   "tagesnews": {
-   "stand": "2026-10-25",
-   "wochentag": "Sonntag",
-   "tenor": "Sonntag, die Börsen ruhen — ab Mittwoch entscheiden vier Notenbanken (USA, Kanada, Europa, Japan) über die Zinsen, dazu Donnerstag der wichtigste US-Inflationswert: die Woche, die alles bewegt.",
+   "stand": "2026-10-26",
+   "wochentag": "Montag",
+   "tenor": "Ruhiger Start in die wichtigste Woche des Monats — ab Mittwoch entscheiden vier Notenbanken über die Zinsen, Donnerstag kommt der wichtigste US-Inflationswert; heute hält sich der Markt noch zurück.",
    "heute": [
-    "📅 Sonntag: Die Devisenmärkte sind geschlossen, erst Montagfrüh öffnen sie wieder — es gibt bis dahin keine neuen Kurse. Der letzte ruhige Tag vor einer prallvollen Woche.",
-    "🕐 Heute Nacht wurde in Europa die Uhr auf Winterzeit zurückgestellt (eine Stunde zurück). Für den Markt ändert sich nichts; die automatischen Läufe sind bereits umgestellt, die gewohnten Wiener Uhrzeiten stimmen ab Montag wieder.",
-    "🏦 Was diese Woche kommt: Vier Zinsentscheide — Fed und Bank of Canada am Mittwoch, Europäische Zentralbank am Donnerstag, Bank von Japan am Freitag — plus am Donnerstag der Lieblings-Inflationswert der US-Notenbank (Kern-PCE) und das US-Wachstum. Alle dürften die Zinsen halten; spannend ist allein der Ton der Notenbank-Chefs."
+    "📅 Montag: Die Devisenmärkte sind nach dem Wochenende wieder offen, aber es stehen keine wichtigen Zahlen an — ein bewusst ruhiger Auftakt. Seit der Nacht läuft in Europa wieder die gewohnte Winterzeit, die automatischen Läufe sind umgestellt.",
+    "🏦 Diese Woche fällt die Entscheidung: Mittwoch US-Notenbank und Bank of Canada, Donnerstag Europäische Zentralbank sowie das US-Wachstum und der Lieblings-Inflationswert der Fed (Kern-PCE), Freitag die Bank von Japan. Alle dürften die Zinsen halten — entscheidend ist allein der Ton der Chefs.",
+    "🇦🇺🇳🇿 Schon morgen früh wird es spannend: Australiens Inflation und der Zinsentscheid der neuseeländischen Notenbank (eine kleine Zinserhöhung ist möglich) — der erste echte Test der Woche.",
+    "🛢️ Öl bleibt teuer (Brent über 110 Dollar wegen der Nahost-Spannungen) — Rückenwind für den kanadischen Dollar. Gold rutschte weiter Richtung 4.000 Dollar: Die monatelange Flucht ins Gold lässt immer mehr nach."
    ],
    "gestern": [
-    "🟡 Die Woche im Rückblick: Gold stürzte rund 3 Prozent Richtung 4.000 Dollar — die monatelange Flucht ins Gold lässt nach und nimmt dem Dollar einen Deckel. Zugleich fielen aber die US-Zinsen (zehnjährige ~4,95%), was dem Dollar Rückenwind nahm. Zwei gegenläufige Kräfte → der Dollar hängt flach bei ~101,8.",
-    "🇬🇧 Großbritanniens Inflation kam heiß (3,5%) → Pfund-Gewinner der Woche, Zinserhöhung der Bank von England am 5.11. gilt als fast sicher. Kanadas Inflation dagegen kühler als erwartet (Kern unter dem Ziel) → die Bank of Canada kann gelassen bleiben.",
-    "🇪🇺 Enttäuschung zum Wochenschluss: Die Einkaufsmanager-Umfragen im Euroraum fielen auf ein 4-Monats-Tief, Frankreich rutschte in die Schrumpfung — ein Dämpfer fünf Tage vor der Europäischen Zentralbank.",
-    "⚠️ Worauf diese Woche besonders zu achten ist: Die Großspekulanten sitzen auf extremen Wetten gegen Euro, Pfund, Kiwi — und gleichzeitig auf einer überfüllten Wette FÜR den Yen. Kippt eine dieser Positionen in der Notenbank-Woche, geht es sehr schnell in die Gegenrichtung (Eindeckungs-Welle).",
-    "🎲 Zur Einordnung: Unsere Wochen-Trefferquote liegt bei 44 Prozent und ist statistisch nicht von einem Münzwurf zu unterscheiden. Deshalb bleiben die Einschätzungen bewusst vorsichtig — in einer Notenbank-Woche zählt vor allem der Ton der Chefs, nicht die Zahl allein."
+    "🟡 Am Wochenende ruhten die Märkte. Zum Wochenschluss hing der Dollar flach (~101,8): Gold fiel rund 3 Prozent (nimmt dem Dollar einen Deckel), aber auch die US-Zinsen fielen (nimmt Rückenwind) — zwei gegenläufige Kräfte halten sich die Waage.",
+    "🇬🇧 Großbritanniens Inflation war zuletzt heiß (3,5%) → das Pfund war Wochengewinner, die Zinserhöhung der Bank von England am 5. November gilt als fast sicher. Kanadas Inflation dagegen kühler als erwartet → die Bank of Canada kann gelassen bleiben.",
+    "🇪🇺 Enttäuschung zum Wochenschluss: Die Einkaufsmanager-Umfragen im Euroraum fielen auf ein 4-Monats-Tief, Frankreich rutschte sogar in die Schrumpfung — ein Dämpfer kurz vor der Europäischen Zentralbank am Donnerstag.",
+    "⚠️ Weiter zu beachten: Die Großspekulanten sitzen auf extremen Wetten GEGEN Euro, australischen und neuseeländischen Dollar und gleichzeitig auf einer überfüllten Wette FÜR den Yen. Kippt eine davon in der Notenbank-Woche, geht es sehr schnell in die Gegenrichtung.",
+    "🎲 Zur Einordnung: Unsere Wochen-Trefferquote liegt bei 44 Prozent — statistisch ein Münzwurf. Darum bleiben die Einschätzungen bewusst klein; in einer Notenbank-Woche zählt der Ton der Chefs, nicht die Zahl allein."
    ]
   }
  },
@@ -3974,7 +3975,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-25T06:10:59.091Z",
+  "stand": "2026-10-26T06:17:42.226Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
   "gewertet": 34,

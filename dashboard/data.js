@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-27T18:30:37.845Z",
+ "erstellt": "2026-10-27T23:39:28.911Z",
  "wochenStart": "2026-10-25",
  "events": [
   {
@@ -1363,7 +1363,7 @@ window.MAKRO_DATA = {
    "title": "API Crude Oil Stock Change",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "-2.031",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1610,7 +1610,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-11-04T11:00:00.000Z",
    "country": "USD",
-   "title": "MBA Mortgage Refinance Index",
+   "title": "MBA Purchase Index",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1620,7 +1620,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-11-04T11:00:00.000Z",
    "country": "USD",
-   "title": "MBA Purchase Index",
+   "title": "MBA Mortgage Refinance Index",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1820,7 +1820,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-11-04T14:30:00.000Z",
    "country": "USD",
-   "title": "EIA Crude Oil Imports Change",
+   "title": "EIA Distillate Stocks Change",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1830,7 +1830,7 @@ window.MAKRO_DATA = {
   {
    "date": "2026-11-04T14:30:00.000Z",
    "country": "USD",
-   "title": "EIA Refinery Crude Runs Change",
+   "title": "EIA Gasoline Production Change",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -1890,27 +1890,27 @@ window.MAKRO_DATA = {
   {
    "date": "2026-11-04T14:30:00.000Z",
    "country": "USD",
+   "title": "EIA Crude Oil Imports Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-11-04T14:30:00.000Z",
+   "country": "USD",
+   "title": "EIA Refinery Crude Runs Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null,
+   "quelle": "tradingview"
+  },
+  {
+   "date": "2026-11-04T14:30:00.000Z",
+   "country": "USD",
    "title": "EIA Cushing Crude Oil Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-11-04T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Distillate Stocks Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": null,
-   "quelle": "tradingview"
-  },
-  {
-   "date": "2026-11-04T14:30:00.000Z",
-   "country": "USD",
-   "title": "EIA Gasoline Production Change",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -2440,10 +2440,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-11-06T13:30:00.000Z",
    "country": "CAD",
-   "title": "Participation Rate",
+   "title": "Part Time Employment Chg",
    "impact": "Medium",
    "forecast": "",
-   "previous": "64.8%",
+   "previous": "-32.9",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2460,20 +2460,20 @@ window.MAKRO_DATA = {
   {
    "date": "2026-11-06T13:30:00.000Z",
    "country": "CAD",
-   "title": "Employment Change",
+   "title": "Full Time Employment Chg",
    "impact": "Medium",
    "forecast": "",
-   "previous": "-68.3",
+   "previous": "-35.4",
    "actual": null,
    "quelle": "tradingview"
   },
   {
    "date": "2026-11-06T13:30:00.000Z",
    "country": "CAD",
-   "title": "Part Time Employment Chg",
+   "title": "Employment Change",
    "impact": "Medium",
    "forecast": "",
-   "previous": "-32.9",
+   "previous": "-68.3",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2590,10 +2590,10 @@ window.MAKRO_DATA = {
   {
    "date": "2026-11-06T13:30:00.000Z",
    "country": "CAD",
-   "title": "Full Time Employment Chg",
+   "title": "Participation Rate",
    "impact": "Medium",
    "forecast": "",
-   "previous": "-35.4",
+   "previous": "64.8%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3411,15 +3411,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-27T18:30:36.127Z",
+  "stand": "2026-10-27T23:39:27.689Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 102.32,
+    "wert": 102.36,
     "tagProzent": 0,
-    "wocheProzent": 0.53,
+    "wocheProzent": 0.57,
     "renditeDelta": false,
     "verlauf": [
      101.37,
@@ -3442,17 +3442,17 @@ window.MAKRO_DATA = {
      101.61,
      101.81,
      101.96,
-     102.32,
-     102.32
+     102.36,
+     102.36
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 17.78,
+    "wert": 17.52,
     "tagProzent": 0,
-    "wocheProzent": 6.59,
+    "wocheProzent": 5.04,
     "renditeDelta": false,
     "verlauf": [
      16.04,
@@ -3475,17 +3475,17 @@ window.MAKRO_DATA = {
      19.03,
      19.45,
      18.39,
-     17.78,
-     17.78
+     17.52,
+     17.52
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 100.03,
+    "wert": 99.99,
     "tagProzent": 0,
-    "wocheProzent": 2.96,
+    "wocheProzent": 2.92,
     "renditeDelta": false,
     "verlauf": [
      89.38,
@@ -3508,17 +3508,17 @@ window.MAKRO_DATA = {
      99.47,
      103.27,
      101.76,
-     100.03,
-     100.03
+     99.99,
+     99.99
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 109.51,
+    "wert": 109.49,
     "tagProzent": 0,
-    "wocheProzent": 0.63,
+    "wocheProzent": 0.62,
     "renditeDelta": false,
     "verlauf": [
      102.59,
@@ -3541,17 +3541,17 @@ window.MAKRO_DATA = {
      113.17,
      116.72,
      115.81,
-     109.51,
-     109.51
+     109.49,
+     109.49
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4070,
+    "wert": 4074.1,
     "tagProzent": 0,
-    "wocheProzent": -1.93,
+    "wocheProzent": -1.83,
     "renditeDelta": false,
     "verlauf": [
      4179.7,
@@ -3574,8 +3574,8 @@ window.MAKRO_DATA = {
      4060.4,
      4007.9,
      4038.4,
-     4070,
-     4070
+     4074.1,
+     4074.1
     ]
    },
    "US02Y": {
@@ -3587,6 +3587,26 @@ window.MAKRO_DATA = {
     "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
+     4.5,
+     4.548,
+     4.885,
+     4.61,
+     4.635,
+     4.638,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
      4.75,
      4.75
     ]
@@ -3595,9 +3615,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.986,
+    "wert": 4.993,
     "tagProzent": 0,
-    "wocheProzent": -0.16,
+    "wocheProzent": -0.15,
     "renditeDelta": true,
     "verlauf": [
      5.255,
@@ -3620,17 +3640,17 @@ window.MAKRO_DATA = {
      4.953,
      4.988,
      4.986,
-     4.986,
-     4.986
+     4.993,
+     4.993
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.303,
+    "wert": 5.305,
     "tagProzent": 0,
-    "wocheProzent": -0.14,
+    "wocheProzent": -0.13,
     "renditeDelta": true,
     "verlauf": [
      5.594,
@@ -3653,17 +3673,17 @@ window.MAKRO_DATA = {
      5.287,
      5.315,
      5.301,
-     5.303,
-     5.303
+     5.305,
+     5.305
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 80495.69,
+    "wert": 80785.09,
     "tagProzent": 0,
-    "wocheProzent": -0.71,
+    "wocheProzent": -0.36,
     "renditeDelta": false,
     "verlauf": [
      83275.93,
@@ -3686,8 +3706,8 @@ window.MAKRO_DATA = {
      80790.84,
      80024.01,
      80006.66,
-     80495.69,
-     80495.69
+     80785.09,
+     80785.09
     ]
    },
    "FEDFUT": {
@@ -3819,36 +3839,36 @@ window.MAKRO_DATA = {
    "stand": "2026-10-27",
    "werte": {
     "USD": {
-     "wert": 4.733,
-     "wocheDelta": 0.018
+     "wert": 4.739,
+     "wocheDelta": 0.024
     },
     "EUR": {
-     "wert": 3.051,
-     "wocheDelta": -0.024
+     "wert": 3.054,
+     "wocheDelta": -0.021
     },
     "GBP": {
      "wert": 4.94,
      "wocheDelta": 0.03
     },
     "JPY": {
-     "wert": 1.902,
-     "wocheDelta": 0.001
+     "wert": 1.869,
+     "wocheDelta": -0.032
     },
     "AUD": {
-     "wert": 4.939,
-     "wocheDelta": 0.046
+     "wert": 4.941,
+     "wocheDelta": 0.048
     },
     "CAD": {
-     "wert": 3.364,
-     "wocheDelta": 0.164
+     "wert": 3.369,
+     "wocheDelta": 0.169
     },
     "CHF": {
      "wert": 0.179,
      "wocheDelta": -0.041
     },
     "NZD": {
-     "wert": 3.97,
-     "wocheDelta": 0.05
+     "wert": 3.965,
+     "wocheDelta": 0.045
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3887,9 +3907,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 2,
    "tiltCot": -4,
-   "tiltZins": 0,
-   "tiltGesamt": -4,
-   "score": -2,
+   "tiltZins": 2,
+   "tiltGesamt": -2,
+   "score": 0,
    "cotExtrem": null,
    "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hält wohl still. Der Hafen-Bid durch den steigenden VIX wird durch den Carry-Nachteil gedämpft. Schwächstes Paar im Track-Record (33%) → nahe neutral.",
    "istCross": false
@@ -3920,9 +3940,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": 1,
    "tiltCot": 3,
-   "tiltZins": 2,
-   "tiltGesamt": 5,
-   "score": 6,
+   "tiltZins": 3,
+   "tiltGesamt": 6,
+   "score": 7,
    "cotExtrem": null,
    "treiber": "Steigender VIX gibt dem Franken etwas Hafen-Bid, aber die hohen US-Zinsen halten das Geld in den USA → nur ein kleines Dollar-Plus, fast neutral.",
    "istCross": false
@@ -3931,9 +3951,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -1,
    "tiltCot": -2,
-   "tiltZins": 1,
-   "tiltGesamt": -1,
-   "score": -2,
+   "tiltZins": 0,
+   "tiltGesamt": -2,
+   "score": -3,
    "cotExtrem": "extrem",
    "treiber": "Kühle NZ-Inflation + Risk-off drücken den Kiwi leicht, die Zinserhöhung Ende Okt ist eingepreist, extreme Shorts federn → per Saldo nahe neutral.",
    "istCross": false
@@ -3984,7 +4004,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-27T18:30:37.300Z",
+  "stand": "2026-10-27T23:39:28.264Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
   "gewertet": 34,
@@ -4100,7 +4120,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-27T18:30:37.844Z",
+  "stand": "2026-10-27T23:39:28.910Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4339,13 +4359,25 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-27T18:30:37.291Z",
+  "stand": "2026-10-27T23:39:28.256Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "ICYMI: S&P sees global bond issuance growth slowing to 2.7% in 2027, weakest in five years",
+    "link": "https://investinglive.com/news/icymi-s-p-sees-global-bond-issuance-growth-slowing-to-2-7-in-2027-weakest-in-five-years/",
+    "datum": "2026-10-27T20:55:48.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas market news wrap: Tech stocks rally",
+    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-tech-stocks-rally/",
+    "datum": "2026-10-27T20:10:35.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Flávio Bolsonaro reportedly flees Brazil for the US after election loss",
@@ -4405,18 +4437,6 @@ window.MAKRO_DATA = {
     "titel": "What are the main events for today?",
     "link": "https://investinglive.com/news/what-are-the-main-events-for-today-72/",
     "datum": "2026-10-27T07:41:14.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
-    "link": "https://investinglive.com/news/bond-market-tensions-ease-but-treasury-yields-near-5-and-france-s-debt-risks-keep-investors-on-edge/",
-    "datum": "2026-10-27T04:49:54.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "European markets face a quiet calendar today as central banks and big tech earnings loom",
-    "link": "https://investinglive.com/news/european-markets-face-a-quiet-calendar-today-as-central-banks-and-big-tech-earnings-loom/",
-    "datum": "2026-10-27T04:02:45.000Z"
    },
    {
     "quelle": "Fed",

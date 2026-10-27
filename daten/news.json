@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-27T18:30:37.291Z",
+  "stand": "2026-10-27T23:39:28.256Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "ICYMI: S&P sees global bond issuance growth slowing to 2.7% in 2027, weakest in five years",
+      "link": "https://investinglive.com/news/icymi-s-p-sees-global-bond-issuance-growth-slowing-to-2-7-in-2027-weakest-in-five-years/",
+      "datum": "2026-10-27T20:55:48.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Tech stocks rally",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-tech-stocks-rally/",
+      "datum": "2026-10-27T20:10:35.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Flávio Bolsonaro reportedly flees Brazil for the US after election loss",
@@ -65,18 +77,6 @@
       "titel": "What are the main events for today?",
       "link": "https://investinglive.com/news/what-are-the-main-events-for-today-72/",
       "datum": "2026-10-27T07:41:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
-      "link": "https://investinglive.com/news/bond-market-tensions-ease-but-treasury-yields-near-5-and-france-s-debt-risks-keep-investors-on-edge/",
-      "datum": "2026-10-27T04:49:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "European markets face a quiet calendar today as central banks and big tech earnings loom",
-      "link": "https://investinglive.com/news/european-markets-face-a-quiet-calendar-today-as-central-banks-and-big-tech-earnings-loom/",
-      "datum": "2026-10-27T04:02:45.000Z"
     },
     {
       "quelle": "Fed",

@@ -1,11 +1,47 @@
 {
-  "stand": "2026-10-27T13:05:22.988Z",
+  "stand": "2026-10-27T18:30:37.291Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Flávio Bolsonaro reportedly flees Brazil for the US after election loss",
+      "link": "https://investinglive.com/news/flavio-bolsonaro-reportedly-flees-brazil-for-the-us-after-election-loss/",
+      "datum": "2026-10-27T17:29:48.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US October Richmond Fed -2 vs -2 expected",
+      "link": "https://investinglive.com/news/us-october-richmond-fed-2-vs-2-expected/",
+      "datum": "2026-10-27T14:00:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "October US consumer confidence 91.7 vs 81.0 expected",
+      "link": "https://investinglive.com/news/october-us-consumer-confidence-vs-81-0-expected/",
+      "datum": "2026-10-27T14:00:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US New home sales for September 0.676M annualized vs 0.650M estimate",
+      "link": "https://investinglive.com/news/us-new-home-sales-for-september-0-676m-annualized-vs-0-650m-estimate/",
+      "datum": "2026-10-27T14:00:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US August Case-Shiller 20-city house price index +2.7% y/y vs +2.6% expected",
+      "link": "https://investinglive.com/news/us-august-case-shiller-20-city-house-price-index-2-7-y-y-vs-2-6-expected/",
+      "datum": "2026-10-27T13:00:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US FHFA Monthly home prices index 0.3% vs 0.2% estimate",
+      "link": "https://investinglive.com/news/us-fhfa-monthly-home-prices-index-0-3-vs-0-2-estimate/",
+      "datum": "2026-10-27T13:00:15.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US September durable goods orders +1.8% vs +1.7% expected",
@@ -41,42 +77,6 @@
       "titel": "European markets face a quiet calendar today as central banks and big tech earnings loom",
       "link": "https://investinglive.com/news/european-markets-face-a-quiet-calendar-today-as-central-banks-and-big-tech-earnings-loom/",
       "datum": "2026-10-27T04:02:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Regional stocks mostly rose",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-regional-stocks-mostly-rose/",
-      "datum": "2026-10-27T03:36:48.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in August",
-      "link": "https://investinglive.com/news/china-september-industrial-profits-jump-14-4-y-y-rebounding-from-4-2-in-august/",
-      "datum": "2026-10-27T01:49:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan September services PPI holds at 3.7% y/y, in line with forecast, before BoJ",
-      "link": "https://investinglive.com/news/japan-september-services-ppi-holds-at-3-7-y-y-in-line-with-forecast-before-boj/",
-      "datum": "2026-10-26T23:52:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Greer warns $3.4 billion EU loan to Airbus may breach US-EU aircraft trade truce Alt headlines:",
-      "link": "https://investinglive.com/news/greer-warns-3-4-billion-eu-loan-to-airbus-may-breach-us-eu-aircraft-trade-truce-alt-headlines/",
-      "datum": "2026-10-26T23:43:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia CPI preview: banks see 1.0% core rise, above the RBA’s 0.8% forecast",
-      "link": "https://investinglive.com/news/australia-cpi-preview-banks-see-1-0-core-rise-above-the-rba-s-0-8-forecast/",
-      "datum": "2026-10-26T23:31:36.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is temporary",
-      "link": "https://investinglive.com/news/goldman-sachs-ai-buildout-to-add-up-to-50bp-to-us-core-pce-but-the-boost-is-temporary/",
-      "datum": "2026-10-26T21:58:53.000Z"
     },
     {
       "quelle": "Fed",

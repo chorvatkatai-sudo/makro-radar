@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-27T10:09:39.542Z",
+  "stand": "2026-10-27T13:05:22.988Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US September durable goods orders +1.8% vs +1.7% expected",
+      "link": "https://investinglive.com/news/us-september-durable-goods-orders-1-8-vs-1-7-expected/",
+      "datum": "2026-10-27T12:30:19.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Markets remain rangebound ahead of the FOMC decision",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-rangebound-ahead-of-the-fomc-decision/",
+      "datum": "2026-10-27T12:21:59.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
@@ -65,18 +77,6 @@
       "titel": "Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is temporary",
       "link": "https://investinglive.com/news/goldman-sachs-ai-buildout-to-add-up-to-50bp-to-us-core-pce-but-the-boost-is-temporary/",
       "datum": "2026-10-26T21:58:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Carney says Canada has not budged as US trade deal looks less imminent than claimed",
-      "link": "https://investinglive.com/news/carney-says-canada-has-not-budged-as-us-trade-deal-looks-less-imminent-than-claimed/",
-      "datum": "2026-10-26T20:52:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus as stocks rebound",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-oct-anthropic-ipo-puts-ai-back-in-focus-as-stocks-rebound/",
-      "datum": "2026-10-26T20:30:04.000Z"
     },
     {
       "quelle": "Fed",

@@ -772,16 +772,6 @@
   {
     "date": "2026-11-04T11:10:00.000Z",
     "country": "EUR",
-    "title": "3-Month Bill Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2.682%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-04T11:10:00.000Z",
-    "country": "EUR",
     "title": "12-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
@@ -796,6 +786,16 @@
     "impact": "Low",
     "forecast": "",
     "previous": "2.929%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-04T11:10:00.000Z",
+    "country": "EUR",
+    "title": "3-Month Bill Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2.682%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1252,7 +1252,7 @@
   {
     "date": "2026-11-05T12:00:00.000Z",
     "country": "GBP",
-    "title": "BoE MPC Vote Hike",
+    "title": "BoE MPC Vote Cut",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -1282,7 +1282,7 @@
   {
     "date": "2026-11-05T12:00:00.000Z",
     "country": "GBP",
-    "title": "BoE MPC Vote Cut",
+    "title": "BoE MPC Vote Hike",
     "impact": "Medium",
     "forecast": "",
     "previous": "",

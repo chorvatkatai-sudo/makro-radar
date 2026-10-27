@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-27T06:14:03.066Z",
+  "stand": "2026-10-27T10:09:39.544Z",
   "ausBriefing": "2026-10-23",
   "overlayAktiv": true,
   "paare": [
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -3,
       "tiltCot": 4,
-      "tiltZins": -8,
-      "tiltGesamt": -4,
-      "score": -7,
+      "tiltZins": -7,
+      "tiltGesamt": -3,
+      "score": -6,
       "cotExtrem": null,
       "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -1,
       "tiltCot": -2,
-      "tiltZins": 3,
-      "tiltGesamt": 1,
-      "score": 0,
+      "tiltZins": 2,
+      "tiltGesamt": 0,
+      "score": -1,
       "cotExtrem": "extrem",
       "treiber": "Kühle NZ-Inflation + Risk-off drücken den Kiwi leicht, die Zinserhöhung Ende Okt ist eingepreist, extreme Shorts federn → per Saldo nahe neutral.",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": -1,
       "tiltCot": 2,
-      "tiltZins": 0,
-      "tiltGesamt": 2,
-      "score": 1,
+      "tiltZins": -2,
+      "tiltGesamt": 0,
+      "score": -1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 1,
       "tiltCot": 0,
-      "tiltZins": 1,
-      "tiltGesamt": 1,
-      "score": 2,
+      "tiltZins": 0,
+      "tiltGesamt": 0,
+      "score": 1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

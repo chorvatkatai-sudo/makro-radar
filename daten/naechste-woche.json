@@ -282,20 +282,20 @@
   {
     "date": "2026-11-03T01:35:00.000Z",
     "country": "NZD",
-    "title": "3-Month Bill Auction",
+    "title": "6-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.1919%",
+    "previous": "3.3615%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-11-03T01:35:00.000Z",
     "country": "NZD",
-    "title": "6-Month Bill Auction",
+    "title": "3-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
-    "previous": "3.3615%",
+    "previous": "3.1919%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -772,6 +772,16 @@
   {
     "date": "2026-11-04T11:10:00.000Z",
     "country": "EUR",
+    "title": "3-Month Bill Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2.682%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-04T11:10:00.000Z",
+    "country": "EUR",
     "title": "12-Month Bill Auction",
     "impact": "Low",
     "forecast": "",
@@ -790,22 +800,22 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-11-04T11:10:00.000Z",
-    "country": "EUR",
-    "title": "3-Month Bill Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2.682%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
     "date": "2026-11-04T13:15:00.000Z",
     "country": "USD",
     "title": "ADP Employment Change",
     "impact": "Medium",
     "forecast": "",
     "previous": "90",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-04T13:30:00.000Z",
+    "country": "USD",
+    "title": "Balance of Trade",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "-105.6 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -826,16 +836,6 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "420.8",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-04T13:30:00.000Z",
-    "country": "USD",
-    "title": "Balance of Trade",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "-105.6 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -942,17 +942,7 @@
   {
     "date": "2026-11-04T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Refinery Crude Runs Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-04T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Cushing Crude Oil Stocks Change",
+    "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -966,46 +956,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-04T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Distillate Stocks Change",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-04T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Crude Oil Stocks Change",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-04T14:30:00.000Z",
-    "country": "USD",
-    "title": "EIA Gasoline Stocks Change",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-04T14:30:00.000Z",
-    "country": "CAD",
-    "title": "S&P Global Services PMI",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "48.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1032,7 +982,37 @@
   {
     "date": "2026-11-04T14:30:00.000Z",
     "country": "USD",
-    "title": "EIA Heating Oil Stocks Change",
+    "title": "EIA Gasoline Stocks Change",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-04T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Crude Oil Stocks Change",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-04T14:30:00.000Z",
+    "country": "CAD",
+    "title": "S&P Global Services PMI",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "48.3",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-04T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1040,12 +1020,22 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-11-04T14:45:00.000Z",
+    "date": "2026-11-04T14:30:00.000Z",
     "country": "USD",
-    "title": "S&P Global Composite PMI Final",
+    "title": "EIA Refinery Crude Runs Change",
     "impact": "Low",
-    "forecast": "57.6",
-    "previous": "58.4",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-04T14:30:00.000Z",
+    "country": "USD",
+    "title": "EIA Cushing Crude Oil Stocks Change",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1056,6 +1046,16 @@
     "impact": "Low",
     "forecast": "57.9",
     "previous": "58.8",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-04T14:45:00.000Z",
+    "country": "USD",
+    "title": "S&P Global Composite PMI Final",
+    "impact": "Low",
+    "forecast": "57.6",
+    "previous": "58.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1092,7 +1092,7 @@
   {
     "date": "2026-11-04T23:50:00.000Z",
     "country": "JPY",
-    "title": "Foreign Bond Investment",
+    "title": "Stock Investment by Foreigners",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1102,7 +1102,7 @@
   {
     "date": "2026-11-04T23:50:00.000Z",
     "country": "JPY",
-    "title": "Stock Investment by Foreigners",
+    "title": "Foreign Bond Investment",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1222,20 +1222,20 @@
   {
     "date": "2026-11-05T10:00:00.000Z",
     "country": "EUR",
-    "title": "PPI YoY",
+    "title": "PPI MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "8.2%",
+    "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-11-05T10:00:00.000Z",
     "country": "EUR",
-    "title": "PPI MoM",
+    "title": "PPI YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.9%",
+    "previous": "8.2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1252,7 +1252,7 @@
   {
     "date": "2026-11-05T12:00:00.000Z",
     "country": "GBP",
-    "title": "BoE MPC Vote Cut",
+    "title": "BoE MPC Vote Hike",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -1282,7 +1282,7 @@
   {
     "date": "2026-11-05T12:00:00.000Z",
     "country": "GBP",
-    "title": "BoE Monetary Policy Report",
+    "title": "BoE MPC Vote Cut",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -1292,7 +1292,7 @@
   {
     "date": "2026-11-05T12:00:00.000Z",
     "country": "GBP",
-    "title": "BoE MPC Vote Hike",
+    "title": "BoE Monetary Policy Report",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -1312,28 +1312,18 @@
   {
     "date": "2026-11-05T13:30:00.000Z",
     "country": "USD",
+    "title": "Unit Labour Costs QoQ Prel",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1.2%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-05T13:30:00.000Z",
+    "country": "USD",
     "title": "Continuing Jobless Claims",
     "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-05T13:30:00.000Z",
-    "country": "USD",
-    "title": "Jobless Claims 4-week Average",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-05T13:30:00.000Z",
-    "country": "USD",
-    "title": "Initial Jobless Claims",
-    "impact": "Medium",
     "forecast": "",
     "previous": "",
     "actual": null,
@@ -1352,10 +1342,20 @@
   {
     "date": "2026-11-05T13:30:00.000Z",
     "country": "USD",
-    "title": "Unit Labour Costs QoQ Prel",
+    "title": "Initial Jobless Claims",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-05T13:30:00.000Z",
+    "country": "USD",
+    "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.2%",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1402,7 +1402,7 @@
   {
     "date": "2026-11-05T17:00:00.000Z",
     "country": "USD",
-    "title": "15-Year Mortgage Rate",
+    "title": "30-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1412,7 +1412,7 @@
   {
     "date": "2026-11-05T17:00:00.000Z",
     "country": "USD",
-    "title": "30-Year Mortgage Rate",
+    "title": "15-Year Mortgage Rate",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1492,7 +1492,7 @@
   {
     "date": "2026-11-06T07:00:00.000Z",
     "country": "GBP",
-    "title": "Lloyds House Price Index MoM",
+    "title": "Lloyds House Price Index YoY",
     "impact": "Medium",
     "forecast": "",
     "previous": "0%",
@@ -1502,7 +1502,7 @@
   {
     "date": "2026-11-06T07:00:00.000Z",
     "country": "GBP",
-    "title": "Lloyds House Price Index YoY",
+    "title": "Lloyds House Price Index MoM",
     "impact": "Medium",
     "forecast": "",
     "previous": "0%",
@@ -1582,6 +1582,16 @@
   {
     "date": "2026-11-06T13:30:00.000Z",
     "country": "CAD",
+    "title": "Employment Change",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "-68.3",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-06T13:30:00.000Z",
+    "country": "CAD",
     "title": "Part Time Employment Chg",
     "impact": "Medium",
     "forecast": "",
@@ -1592,30 +1602,10 @@
   {
     "date": "2026-11-06T13:30:00.000Z",
     "country": "CAD",
-    "title": "Full Time Employment Chg",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "-35.4",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-06T13:30:00.000Z",
-    "country": "CAD",
     "title": "Unemployment Rate",
     "impact": "High",
     "forecast": "",
     "previous": "6.5",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-06T13:30:00.000Z",
-    "country": "USD",
-    "title": "Manufacturing Payrolls",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1642,6 +1632,16 @@
   {
     "date": "2026-11-06T13:30:00.000Z",
     "country": "USD",
+    "title": "Manufacturing Payrolls",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "9",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-06T13:30:00.000Z",
+    "country": "USD",
     "title": "Government Payrolls",
     "impact": "Low",
     "forecast": "",
@@ -1662,20 +1662,20 @@
   {
     "date": "2026-11-06T13:30:00.000Z",
     "country": "USD",
-    "title": "Average Hourly Earnings YoY",
+    "title": "Average Hourly Earnings MoM",
     "impact": "Medium",
     "forecast": "",
-    "previous": "3",
+    "previous": "0.1",
     "actual": null,
     "quelle": "tradingview"
   },
   {
     "date": "2026-11-06T13:30:00.000Z",
     "country": "USD",
-    "title": "Average Hourly Earnings MoM",
+    "title": "Average Hourly Earnings YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "0.1",
+    "previous": "3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1712,10 +1712,10 @@
   {
     "date": "2026-11-06T13:30:00.000Z",
     "country": "CAD",
-    "title": "Employment Change",
+    "title": "Full Time Employment Chg",
     "impact": "Medium",
     "forecast": "",
-    "previous": "-68.3",
+    "previous": "-35.4",
     "actual": null,
     "quelle": "tradingview"
   },

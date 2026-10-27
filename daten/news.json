@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-27T06:14:03.064Z",
+  "stand": "2026-10-27T10:09:39.542Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
+      "link": "https://investinglive.com/news/france-consumer-confidence-plunges-to-lowest-since-2013-as-fiscal-worries-deepen/",
+      "datum": "2026-10-27T07:45:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-72/",
+      "datum": "2026-10-27T07:41:14.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
@@ -65,18 +77,6 @@
       "titel": "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus as stocks rebound",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-oct-anthropic-ipo-puts-ai-back-in-focus-as-stocks-rebound/",
       "datum": "2026-10-26T20:30:04.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan services PPI preview: 3.7% pace in focus ahead of Friday’s BoJ decision",
-      "link": "https://investinglive.com/news/japan-services-ppi-preview-3-7-pace-in-focus-ahead-of-friday-s-boj-decision/",
-      "datum": "2026-10-26T20:20:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "A light economic and event calendar in Asia Tuesday, October 27, 2026 - Japan services PPI",
-      "link": "https://investinglive.com/news/a-light-economic-and-event-calendar-in-asia-tuesday-october-27-2026-japan-services-ppi/",
-      "datum": "2026-10-26T20:09:59.000Z"
     },
     {
       "quelle": "Fed",

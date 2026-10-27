@@ -1,218 +1,218 @@
 {
- "datum": "2026-10-23",
- "typ": "freitag",
- "titel": "Freitags-Briefing 23.10.2026 — Gold stürzt Richtung 4.000$, die Papiergeld-Flucht lässt nach und nimmt dem Dollar einen Deckel; die Euro-Einkaufsmanager enttäuschen (Frankreich schrumpft wieder). Nächste Woche = Notenbank-MONSTER: Fed (Mi), Kanada (Mi), EZB (Do) + Kern-PCE, Japan (Fr)",
- "lage": [
-  "Die große Nachricht dieser Woche kam nicht aus einer Zahl, sondern aus dem Goldpreis: Gold stürzte rund 3% auf etwa 4.040$ (von ~4.200$) und steuert auf die 4.000er-Marke zu. Monatelang war die 'Flucht aus dem Papiergeld' (Gold + Bitcoin auf Rekord) der Grund, warum der Dollar trotz hoher Zinsen nicht stärker wurde. Dieser Deckel bröckelt jetzt — das gibt dem Dollar wieder etwas Boden.",
-  "Gleichzeitig zieht aber die andere Richtung: Die langen US-Zinsen fielen (10 Jahre auf ~4,95%, −0,15 Pp), und auch die kurzen 2-Jahres-Zinsen gaben am stärksten nach (−0,11 Pp). Fallende Zinsen nehmen dem Dollar Rückenwind. Unterm Strich hängt der Dollar-Index deshalb flach bei ~101,8 (−0,2% auf die Woche) — kein klarer Trend, zwei Kräfte heben sich auf.",
-  "Das Angst-Barometer VIX kletterte auf ~19,8 (+7% auf die Woche) = mehr Nervosität an den Börsen. Normalerweise fließt dann Geld in die sicheren Häfen Franken und Yen — doch die hohen US-Zinsen halten das Geld lieber in den USA, der Hafen-Zufluss ist gedämpft.",
-  "Öl bleibt teuer (WTI ~101$, Brent ~110$): Angriffe der Huthi-Rebellen auf saudische Ölanlagen und eine Minen-Drohung an der Straße von Hormus halten die Nachschub-Sorge hoch. Das ist Rückenwind für den Rohstoff-Dollar Kanadas und Gegenwind für Energie-Importeure wie den Euroraum und Japan.",
-  "Die Inflation außerhalb der USA fiel diese Woche zweigeteilt aus: Großbritanniens Preise sprangen heiß auf 3,5% (vor allem Benzin) → der Pfund-Squeeze zündete, eine Zinserhöhung der Bank von England am 5.11. gilt fast als sicher. Kanadas Inflation stieg zwar auf 3,1%, aber nur wegen Benzin (+27,8%) — die Kern-Maße der Notenbank fielen auf 1,8–1,9% UNTER das Ziel, die Bank of Canada kann gelassen bleiben.",
-  "Heute Vormittag enttäuschten die Euro-Einkaufsmanager-Umfragen: Der Gesamtindex fiel auf 51,9 (4-Monats-Tief, erwartet war ein kleiner Rückgang auf 52,7), und Frankreich rutschte mit 48,4 wieder in die Schrumpfung. Ein Dämpfer für die Euro-Erholungsstory — ausgerechnet fünf Tage vor der EZB-Sitzung.",
-  "Nächste Woche ist eine echte Notenbank-Monsterwoche: Mittwoch entscheiden Fed und Bank of Canada, Donnerstag die EZB (dazu der Lieblings-Inflationswert der Fed, der Kern-PCE, + US-Wachstum Q3), Freitag die Bank von Japan. Vier G10-Notenbanken in drei Tagen — alle werden voraussichtlich die Zinsen halten, der TON ist das Entscheidende."
- ],
- "waehrungen": {
-  "USD": {
-   "stimmung": "neutral",
-   "score": 2,
-   "grund": "Zwei Kräfte heben sich auf: Die nachlassende Gold-/Papiergeld-Flucht (Gold −3% Richtung 4.000$) nimmt dem Dollar einen monatelangen Deckel = Boden. ABER die US-Zinsen fallen (10J ~4,95%, 2J am stärksten runter) = Gegenwind. Die Fed hält am Mi mit ~93% die Füße still (schon eingepreist). Netto: kein Trend, bewusst nahe neutral."
-  },
-  "EUR": {
-   "stimmung": "neutral",
-   "score": 2,
-   "grund": "Die Großspekulanten sind extrem auf einen fallenden Euro gewettet und haben diese Woche NOCH kräftiger nachgelegt (größter Short-Aufbau aller Währungen) → großes Eindeckungs-/Squeeze-Risiko. DAGEGEN: Die Einkaufsmanager enttäuschten heute (51,9, Frankreich schrumpft wieder), und am Do hält die EZB wohl still (kein Impuls). Squeeze-Risiko und schwache Konjunktur heben sich fast auf → knapp positiv."
-  },
-  "GBP": {
-   "stimmung": "bullisch",
-   "score": 4,
-   "grund": "Die UK-Inflation kam am Mi heiß (3,5% statt 3,4%, Dienstleistungen 3,7%) → der Pfund-Squeeze zündete, das Pfund hält sich auf dem 5-Wochen-Hoch ~1,34. Eine Zinserhöhung der Bank von England am 5.11. gilt zu ~96–98% als sicher, die Short-Positionierung bleibt extrem (Squeeze-Zünder). Bestes Paar im Track-Record. Etwas gedämpft, weil die heiße Zahl bekannt ist und ein Teil der Bewegung schon gelaufen ist."
-  },
-  "JPY": {
-   "stimmung": "bärisch",
-   "score": -3,
-   "grund": "Die Großspekulanten sind weiter net-LONG Yen = überfüllte Wette → Rückschlag-Risiko (die Long-Positionen werden schon abgebaut). Die Bank von Japan hält am Fr wohl bei 1,25% (eine Erhöhung eher im Dezember). Der steigende VIX gibt dem Hafen-Yen einen leichten Bid, aber die hohen US-Zinsen (Carry-Nachteil) dämpfen das. Schwächster Track-Record dieses Paares → moderat negativ."
-  },
-  "CHF": {
-   "stimmung": "neutral",
-   "score": 1,
-   "grund": "Das Angst-Barometer stieg (VIX ~19,8) → eigentlich ein Sicherheits-Bid für den Franken. ABER die hohen US-Zinsen halten das Geld lieber in den USA, der Hafen-Zufluss ist gedämpft → nur ein kleines Plus. SNB bei 0%, sonst unauffällig."
-  },
-  "CAD": {
-   "stimmung": "bullisch",
-   "score": 4,
-   "grund": "Öl-Gewinner (WTI ~101$, Brent ~110$ wegen Nahost-Spannungen) UND der kanadische 2-Jahres-Zins stieg diese Woche am stärksten aller Währungen = Zins-Rückenwind. Dagegen: die Kern-Inflation fiel unter das Ziel (1,8–1,9%), die Bank of Canada kann am Mi gelassen halten. Per Saldo eigene, vom Dollar gelöste Loonie-Story → moderat positiv."
-  },
-  "AUD": {
-   "stimmung": "bärisch",
-   "score": -3,
-   "grund": "Der Job-Schock der Vorwoche (−39.300 Stellen, Quote 4,7% = 5-Jahres-Hoch) belastet weiter die Hochzins-Story. Der China-BIP-Beat (+4,5%) gibt nur einen kleinen Boden (Binnennachfrage schwach, Immobilien −20%). Der steigende VIX (Risk-off) nimmt dem Rohstoff-Aussie Rückenwind. Höchster Zins der Industrieländer federt ab, aber keine eigene positive Story."
-  },
-  "NZD": {
-   "stimmung": "neutral",
-   "score": -1,
-   "grund": "Die NZ-Inflation kam am Di etwas kühler (0,7% im Quartal statt 0,8%), die Zinserhöhung der neuseeländischen Notenbank Ende Oktober bleibt aber zu ~98% eingepreist. Der steigende VIX (Risk-off) drückt den Rohstoff-Kiwi leicht. Extreme Short-Positionierung (Squeeze-Risiko) federt den Rückgang ab → fast neutral."
-  }
- },
- "paare": [
-  {
-   "paar": "EUR/USD",
-   "score": 1,
-   "treiber": "Extreme Euro-Shorts (Squeeze-Risiko) heben, aber die schwachen Einkaufsmanager-Zahlen (Frankreich schrumpft) und die wohl stillhaltende EZB deckeln — bewusst winzig. Track-Record hier schwach (~38%)."
-  },
-  {
-   "paar": "GBP/USD",
-   "score": 3,
-   "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record. Gedämpft, da der heiße Wert bekannt ist und ein Teil schon gelaufen."
-  },
-  {
-   "paar": "USD/JPY",
-   "score": 2,
-   "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hält wohl still. Der Hafen-Bid durch den steigenden VIX wird durch den Carry-Nachteil gedämpft. Schwächstes Paar im Track-Record (33%) → nahe neutral."
-  },
-  {
-   "paar": "AUD/USD",
-   "score": -3,
-   "treiber": "Job-Schock belastet weiter, der steigende VIX (Risk-off) nimmt Rückenwind, China-Beat gibt nur kleinen Boden. Über eigene Stories vom Dollar-Block gelöst → leicht negativ."
-  },
-  {
-   "paar": "USD/CAD",
-   "score": -3,
-   "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter)."
-  },
-  {
-   "paar": "USD/CHF",
-   "score": 1,
-   "treiber": "Steigender VIX gibt dem Franken etwas Hafen-Bid, aber die hohen US-Zinsen halten das Geld in den USA → nur ein kleines Dollar-Plus, fast neutral."
-  },
-  {
-   "paar": "NZD/USD",
-   "score": -1,
-   "treiber": "Kühle NZ-Inflation + Risk-off drücken den Kiwi leicht, die Zinserhöhung Ende Okt ist eingepreist, extreme Shorts federn → per Saldo nahe neutral."
-  }
- ],
- "wochenausblick": {
-  "text": [
-   "Notenbank-Monsterwoche (27.–31.10.): Vier G10-Zentralbanken entscheiden in drei Tagen über die Zinsen. Alle werden voraussichtlich HALTEN — spannend ist nicht das Ob, sondern der TON (wie geht es weiter?).",
-   "Mittwoch 28.10. ist der Höhepunkt: Die Fed hält mit ~93% die Füße still (eine Erhöhung erst im Dezember zu ~72% eingepreist) — wichtig ist, ob Chef Warsh die Tür für Dezember offen hält. Zeitgleich die Bank of Canada (Halten erwartet, aber teures Öl könnte die Falken wecken) und davor der britische Herbst-Haushalt.",
-   "Donnerstag 29.10. die EZB (Halten des Einlagensatzes bei 2,25% erwartet) — nach den schwachen Einkaufsmanager-Zahlen und Frankreichs Dauerkrise achten alle auf einen taubenhaften Ton von Präsidentin Lagarde. Fast zeitgleich kommen die US-Daten: der Kern-PCE (Lieblings-Inflationswert der Fed) und das US-Wachstum Q3.",
-   "Freitag 30.10. schließt die Bank von Japan ab (Halten bei 1,25% erwartet, Erhöhung eher im Dezember) + das Euro-Wachstum Q3. Am Wochenende die China-Industrie-Umfrage.",
-   "Hintergrund: Ab Sonntag 25.10. gilt die Winterzeit — unsere Routine-Uhrzeiten verschieben sich (betrifft nur die Benachrichtigungen, nicht den Markt)."
+  "datum": "2026-10-23",
+  "typ": "freitag",
+  "titel": "Freitags-Briefing 23.10.2026 — Gold stürzt Richtung 4.000$, die Papiergeld-Flucht lässt nach und nimmt dem Dollar einen Deckel; die Euro-Einkaufsmanager enttäuschen (Frankreich schrumpft wieder). Nächste Woche = Notenbank-MONSTER: Fed (Mi), Kanada (Mi), EZB (Do) + Kern-PCE, Japan (Fr)",
+  "lage": [
+    "Die große Nachricht dieser Woche kam nicht aus einer Zahl, sondern aus dem Goldpreis: Gold stürzte rund 3% auf etwa 4.040$ (von ~4.200$) und steuert auf die 4.000er-Marke zu. Monatelang war die 'Flucht aus dem Papiergeld' (Gold + Bitcoin auf Rekord) der Grund, warum der Dollar trotz hoher Zinsen nicht stärker wurde. Dieser Deckel bröckelt jetzt — das gibt dem Dollar wieder etwas Boden.",
+    "Gleichzeitig zieht aber die andere Richtung: Die langen US-Zinsen fielen (10 Jahre auf ~4,95%, −0,15 Pp), und auch die kurzen 2-Jahres-Zinsen gaben am stärksten nach (−0,11 Pp). Fallende Zinsen nehmen dem Dollar Rückenwind. Unterm Strich hängt der Dollar-Index deshalb flach bei ~101,8 (−0,2% auf die Woche) — kein klarer Trend, zwei Kräfte heben sich auf.",
+    "Das Angst-Barometer VIX kletterte auf ~19,8 (+7% auf die Woche) = mehr Nervosität an den Börsen. Normalerweise fließt dann Geld in die sicheren Häfen Franken und Yen — doch die hohen US-Zinsen halten das Geld lieber in den USA, der Hafen-Zufluss ist gedämpft.",
+    "Öl bleibt teuer (WTI ~101$, Brent ~110$): Angriffe der Huthi-Rebellen auf saudische Ölanlagen und eine Minen-Drohung an der Straße von Hormus halten die Nachschub-Sorge hoch. Das ist Rückenwind für den Rohstoff-Dollar Kanadas und Gegenwind für Energie-Importeure wie den Euroraum und Japan.",
+    "Die Inflation außerhalb der USA fiel diese Woche zweigeteilt aus: Großbritanniens Preise sprangen heiß auf 3,5% (vor allem Benzin) → der Pfund-Squeeze zündete, eine Zinserhöhung der Bank von England am 5.11. gilt fast als sicher. Kanadas Inflation stieg zwar auf 3,1%, aber nur wegen Benzin (+27,8%) — die Kern-Maße der Notenbank fielen auf 1,8–1,9% UNTER das Ziel, die Bank of Canada kann gelassen bleiben.",
+    "Heute Vormittag enttäuschten die Euro-Einkaufsmanager-Umfragen: Der Gesamtindex fiel auf 51,9 (4-Monats-Tief, erwartet war ein kleiner Rückgang auf 52,7), und Frankreich rutschte mit 48,4 wieder in die Schrumpfung. Ein Dämpfer für die Euro-Erholungsstory — ausgerechnet fünf Tage vor der EZB-Sitzung.",
+    "Nächste Woche ist eine echte Notenbank-Monsterwoche: Mittwoch entscheiden Fed und Bank of Canada, Donnerstag die EZB (dazu der Lieblings-Inflationswert der Fed, der Kern-PCE, + US-Wachstum Q3), Freitag die Bank von Japan. Vier G10-Notenbanken in drei Tagen — alle werden voraussichtlich die Zinsen halten, der TON ist das Entscheidende."
   ],
-  "termine": [
-   {
-    "tag": "Dienstag 27.10.",
-    "land": "USD",
-    "titel": "US-Auftragseingänge langlebiger Güter (Durable Goods) — 13:30 Wien",
-    "warum": "Frühindikator für Industrie-Investitionen. Nach der heißen Inflation einer der wenigen US-Datenpunkte der Woche vor dem Fed-Entscheid."
-   },
-   {
-    "tag": "Mittwoch 28.10.",
-    "land": "USD",
-    "titel": "Fed-Zinsentscheid + Pressekonferenz Warsh — 19:00 / 19:30 Wien",
-    "warum": "DAS Event der Woche. Halten zu ~93% erwartet (Bowman/Daly mahnten zur Geduld). Entscheidend: Hält Warsh die Dezember-Erhöhung (~72% eingepreist) ausdrücklich offen? Falkig = Dollar fester, taubenhaft = Dollar schwächer."
-   },
-   {
-    "tag": "Mittwoch 28.10.",
-    "land": "CAD",
-    "titel": "Bank-of-Canada-Zinsentscheid + geldpolitischer Bericht — 14:45 Wien",
-    "warum": "Halten bei 2,25% erwartet. Die Kern-Inflation fiel unter das Ziel → Gelassenheit; aber teures Öl ist ein Aufwärtsrisiko. Der Markt preist eine Erhöhungs-Chance ein — eine Überraschung bewegt den Loonie stark."
-   },
-   {
-    "tag": "Donnerstag 29.10.",
-    "land": "USD",
-    "titel": "US-Kern-PCE (September) + US-Wachstum Q3 (erste Schätzung) — 13:30 Wien",
-    "warum": "Der Kern-PCE ist der Lieblings-Inflationswert der Fed (zuletzt 3,0% im Jahr, überraschend kühl). Heiß = Dezember-Erhöhung fester, kühl = Fed kann abwarten. Das BIP zeigt, ob die US-Wirtschaft trägt."
-   },
-   {
-    "tag": "Donnerstag 29.10.",
-    "land": "EUR",
-    "titel": "EZB-Zinsentscheid + Pressekonferenz Lagarde — 14:15 / 14:45 Wien",
-    "warum": "Halten des Einlagensatzes bei 2,25% erwartet (keine neuen Projektionen diese Sitzung). Nach dem schwachen Einkaufsmanager-Bericht und Frankreichs Krise ist ein taubenhafter Ton das Risiko für den Euro."
-   },
-   {
-    "tag": "Freitag 30.10.",
-    "land": "JPY",
-    "titel": "Bank-of-Japan-Zinsentscheid — 04:00 Wien",
-    "warum": "Halten bei 1,25% erwartet, die nächste Erhöhung eher im Dezember. Wichtig für den crowded-long Yen: Ein überraschend falkenhafter Ton könnte den Yen-Rückschlag (überfüllte Wette) auslösen oder verhindern."
-   },
-   {
-    "tag": "Freitag 30.10.",
-    "land": "EUR",
-    "titel": "Euroraum-Wachstum Q3 (erste Schätzung) — 11:00 Wien",
-    "warum": "Zeigt, ob die Euro-Konjunktur nach dem schwachen Einkaufsmanager-Bericht wirklich an Fahrt verliert — zusätzlicher Euro-Impuls direkt nach der EZB."
-   }
-  ]
- },
- "prognosen": [
-  {
-   "event": "Fed-Zinsentscheid (Oktober)",
-   "termin": "Mittwoch 28.10., 19:00 Wiener Zeit",
-   "prognoseMarkt": "Konsens: HALTEN bei 3,75–4,00% (CME FedWatch ~93% Pause). Eine Erhöhung erst im Dezember zu ~72% eingepreist.",
-   "meineEinschaetzung": "Ich erwarte wie der Markt ein Halten — nach den Geduld-Signalen von Bowman und Daly ist eine Oktober-Erhöhung fast vom Tisch. Die eigentliche Frage ist der TON: Hält Warsh die Dezember-Erhöhung ausdrücklich offen (falkig, Dollar-stützend) oder klingt er vorsichtiger? Ich tippe auf einen weiter falkenhaften Grundton (Inflation 3,7%), aber ohne starke Wette — der Dollar lebt diese Phase vom Ton, und der ist schwer vorherzusagen.",
-   "richtung": "wie_erwartet",
-   "wennHoeher": "Überraschende Erhöhung oder sehr falkenhafter Ton (Dezember klar signalisiert) → Dollar fester, Gold weiter runter, US-Zinsen rauf.",
-   "wennNiedriger": "Taubenhafter Ton (Dezember-Erhöhung wird infrage gestellt) → Dollar schwächer, Risiko-Währungen und Gold erholen sich."
+  "waehrungen": {
+    "USD": {
+      "stimmung": "neutral",
+      "score": 2,
+      "grund": "Zwei Kräfte heben sich auf: Die nachlassende Gold-/Papiergeld-Flucht (Gold −3% Richtung 4.000$) nimmt dem Dollar einen monatelangen Deckel = Boden. ABER die US-Zinsen fallen (10J ~4,95%, 2J am stärksten runter) = Gegenwind. Die Fed hält am Mi mit ~93% die Füße still (schon eingepreist). Netto: kein Trend, bewusst nahe neutral."
+    },
+    "EUR": {
+      "stimmung": "neutral",
+      "score": 2,
+      "grund": "Die Großspekulanten sind extrem auf einen fallenden Euro gewettet und haben diese Woche NOCH kräftiger nachgelegt (größter Short-Aufbau aller Währungen) → großes Eindeckungs-/Squeeze-Risiko. DAGEGEN: Die Einkaufsmanager enttäuschten heute (51,9, Frankreich schrumpft wieder), und am Do hält die EZB wohl still (kein Impuls). Squeeze-Risiko und schwache Konjunktur heben sich fast auf → knapp positiv."
+    },
+    "GBP": {
+      "stimmung": "bullisch",
+      "score": 4,
+      "grund": "Die UK-Inflation kam am Mi heiß (3,5% statt 3,4%, Dienstleistungen 3,7%) → der Pfund-Squeeze zündete, das Pfund hält sich auf dem 5-Wochen-Hoch ~1,34. Eine Zinserhöhung der Bank von England am 5.11. gilt zu ~96–98% als sicher, die Short-Positionierung bleibt extrem (Squeeze-Zünder). Bestes Paar im Track-Record. Etwas gedämpft, weil die heiße Zahl bekannt ist und ein Teil der Bewegung schon gelaufen ist."
+    },
+    "JPY": {
+      "stimmung": "bärisch",
+      "score": -3,
+      "grund": "Die Großspekulanten sind weiter net-LONG Yen = überfüllte Wette → Rückschlag-Risiko (die Long-Positionen werden schon abgebaut). Die Bank von Japan hält am Fr wohl bei 1,25% (eine Erhöhung eher im Dezember). Der steigende VIX gibt dem Hafen-Yen einen leichten Bid, aber die hohen US-Zinsen (Carry-Nachteil) dämpfen das. Schwächster Track-Record dieses Paares → moderat negativ."
+    },
+    "CHF": {
+      "stimmung": "neutral",
+      "score": 1,
+      "grund": "Das Angst-Barometer stieg (VIX ~19,8) → eigentlich ein Sicherheits-Bid für den Franken. ABER die hohen US-Zinsen halten das Geld lieber in den USA, der Hafen-Zufluss ist gedämpft → nur ein kleines Plus. SNB bei 0%, sonst unauffällig."
+    },
+    "CAD": {
+      "stimmung": "bullisch",
+      "score": 4,
+      "grund": "Öl-Gewinner (WTI ~101$, Brent ~110$ wegen Nahost-Spannungen) UND der kanadische 2-Jahres-Zins stieg diese Woche am stärksten aller Währungen = Zins-Rückenwind. Dagegen: die Kern-Inflation fiel unter das Ziel (1,8–1,9%), die Bank of Canada kann am Mi gelassen halten. Per Saldo eigene, vom Dollar gelöste Loonie-Story → moderat positiv."
+    },
+    "AUD": {
+      "stimmung": "bärisch",
+      "score": -3,
+      "grund": "Der Job-Schock der Vorwoche (−39.300 Stellen, Quote 4,7% = 5-Jahres-Hoch) belastet weiter die Hochzins-Story. Der China-BIP-Beat (+4,5%) gibt nur einen kleinen Boden (Binnennachfrage schwach, Immobilien −20%). Der steigende VIX (Risk-off) nimmt dem Rohstoff-Aussie Rückenwind. Höchster Zins der Industrieländer federt ab, aber keine eigene positive Story."
+    },
+    "NZD": {
+      "stimmung": "neutral",
+      "score": -1,
+      "grund": "Die NZ-Inflation kam am Di etwas kühler (0,7% im Quartal statt 0,8%), die Zinserhöhung der neuseeländischen Notenbank Ende Oktober bleibt aber zu ~98% eingepreist. Der steigende VIX (Risk-off) drückt den Rohstoff-Kiwi leicht. Extreme Short-Positionierung (Squeeze-Risiko) federt den Rückgang ab → fast neutral."
+    }
   },
-  {
-   "event": "US-Kern-PCE (September) — m/m",
-   "termin": "Donnerstag 29.10., 13:30 Wiener Zeit",
-   "prognoseMarkt": "Konsens grob +0,3% m/m (zuletzt im Jahresvergleich 3,0%, überraschend kühl durch Abwärts-Revisionen).",
-   "meineEinschaetzung": "Ich neige ganz knapp zu HÖHER als +0,3%. Benennbarer Grund: Die Kern-Verbraucherpreise kamen im September heiß (+0,3%) und die Erzeugerpreise sehr heiß (+1,3% / 6,3% im Jahr) — die Erzeuger- und Handelspreise sickern mit Verzögerung in den PCE. Gegengewicht ist der überraschend kühle August-PCE (3,0%). Nur eine winzige Wette (Track-Record der Zahlen-Calls ~Münzwurf), aber die Richtung, zu der ich tatsächlich leicht neige, ist leicht heiß.",
-   "richtung": "hoeher",
-   "wennHoeher": "Heißer Kern-PCE (>0,3%) → Dezember-Erhöhung der Fed fester eingepreist → Dollar fester, Gold runter.",
-   "wennNiedriger": "Kühler Kern-PCE (<0,3%) → die Fed kann abwarten, Dezember wackelt → Dollar schwächer, Gold/Risiko fester."
-  },
-  {
-   "event": "EZB-Zinsentscheid (Oktober)",
-   "termin": "Donnerstag 29.10., 14:15 Wiener Zeit",
-   "prognoseMarkt": "Konsens: HALTEN, Einlagensatz 2,25% (Hauptsatz 2,50%). Eine mögliche Erhöhung erst im Dezember.",
-   "meineEinschaetzung": "Ich erwarte wie der Markt ein Halten — diese Sitzung hat keine neuen Projektionen, die EZB wartet auf Dezember. Entscheidend ist der Ton von Präsidentin Lagarde: Nach dem heute schwachen Einkaufsmanager-Bericht (Frankreich schrumpft) und bei zäher Inflation ist sie wahrscheinlich bewusst unverbindlich. Ich erwarte keine klare Richtungsansage.",
-   "richtung": "wie_erwartet",
-   "wennHoeher": "Überraschend falkenhafter Ton (Dezember-Erhöhung angedeutet) → Euro fester, EUR/USD rauf.",
-   "wennNiedriger": "Taubenhafter Ton (Konjunktursorge betont) → Euro schwächer, EUR/USD runter — trifft die extremen Euro-Shorts."
-  },
-  {
-   "event": "Bank-of-Canada-Zinsentscheid (Oktober)",
-   "termin": "Mittwoch 28.10., 14:45 Wiener Zeit",
-   "prognoseMarkt": "Konsens der Ökonomen: HALTEN bei 2,25%. Der Markt preist aber eine spürbare Erhöhungs-Chance ein (uneinheitlich, ~25–40%).",
-   "meineEinschaetzung": "Ich tippe auf ein Halten (wie der Ökonomen-Konsens): Die Kern-Inflation fiel diese Woche auf 1,8–1,9% UNTER das Ziel, das nimmt den Erhöhungsdruck. Das teure Öl ist das Gegenargument (treibt die Schlagzeile), aber solange es nicht in die Kern-Preise durchsickert, kann die Bank abwarten. Kleine Wette, weil der Markt uneinheitlich eine Erhöhung einpreist — eine Überraschung bewegt den Loonie heftig.",
-   "richtung": "wie_erwartet",
-   "wennHoeher": "Überraschende Erhöhung → Loonie springt, USD/CAD deutlich runter.",
-   "wennNiedriger": "Halten mit taubenhaftem Ton (Konjunktursorge) → Loonie schwächer trotz Öl, USD/CAD rauf."
-  },
-  {
-   "event": "Bank-of-Japan-Zinsentscheid (Oktober)",
-   "termin": "Freitag 30.10., 04:00 Wiener Zeit",
-   "prognoseMarkt": "Konsens: HALTEN bei 1,25%. Eine Erhöhung wird mehrheitlich erst im Dezember erwartet.",
-   "meineEinschaetzung": "Ich erwarte ein Halten wie der Markt. Die Ökonomen-Umfragen sehen die nächste Erhöhung eher im vierten Quartal, aber nicht zwingend im Oktober. Wichtig für den Yen ist die überfüllte Long-Wette der Spekulanten: Ein überraschend falkenhafter Ton könnte die Yen-Rally stützen, ein stillhaltender den Rückschlag der crowded-long-Position einleiten.",
-   "richtung": "wie_erwartet",
-   "wennHoeher": "Überraschende Erhöhung oder klar falkenhafter Ton → Yen fester, USD/JPY runter.",
-   "wennNiedriger": "Stillhalten ohne Signal → Carry-Nachteil dominiert, der crowded-long Yen gibt nach, USD/JPY rauf."
-  }
- ],
- "lehren": [
-  "Prognose-Bilanz Vorwoche (19.–23.10.): Kanada-CPI `hoeher` DANEBEN ✗ — ich tippte auf höher als der ~3,0%-Trend, die Schlagzeile stieg zwar auf 3,1%, kam aber UNTER dem Konsens von 3,2% (m/m +0,1% statt +0,2%); der Kern fiel sogar unter das Ziel (1,8–1,9%). Lektion: 'Benzin treibt die Schlagzeile' stimmte, aber der Markt hatte das schon erwartet — gegen den KONSENS war es keine Überraschung nach oben.",
-  "UK-CPI `wie_erwartet` knapp DANEBEN ✗ (kam 3,5% statt Konsens 3,4% = eine Spur heiß) — ABER qualitativ richtig: Ich hatte das Squeeze-Risiko betont, und genau das trat ein (Pfund sprang auf 5-Wochen-Hoch). China-BIP `wie_erwartet` quasi getroffen (+4,5% vs. Konsens 4,4%). Euro-PMI `wie_erwartet` technisch daneben (51,9 vs. Konsens 52,7), aber mein Bauchgefühl 'nach dem 3-Jahres-Hoch eher Rückkehr Richtung Mitte' war näher an der Realität als der Konsens.",
-  "Muster dieser Woche: Meine `wie_erwartet`-Calls landeten strikt gemessen knapp daneben (je ein bis zwei Ticks), die QUALITATIVE Richtung war aber oft gut (UK-Squeeze, EU-PMI-Rückgang). Das deckt sich mit dem ehrlichen Track-Record: Auf den echten Richtungs-Calls bei echter Abweichung stehe ich 6/15 = 40% (p=0,61) = Münzwurf. Konsequenz: `wie_erwartet` nur bei echtem Punktwert-Gefühl, sonst die Richtung nennen, zu der ich neige.",
-  "KERN-LEHRE der Woche: Der Dollar hat zwei gegenläufige Treiber bekommen — die nachlassende Gold-/Papiergeld-Flucht (Deckel weg = Boden) UND fallende Zinsen (Rückenwind weg). Beide heben sich auf, der Dollar hängt flach. Lehre: Wenn sich zwei starke Kräfte neutralisieren, ist 'neutral' die ehrliche Antwort — kein erzwungener Trend.",
-  "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/16 = 44%, Konzentration 90%, Zufallsband [4,12] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 55% vs. nurBase 52%). KEIN belegter Vorsprung. Deshalb Scores bewusst klein (|score| ≤ 4) und diversifiziert: Diese Woche sind die Paare NICHT monolithisch (3 anti-Dollar via EUR/GBP/CAD-Eigenstories, 4 pro-Dollar) — der Dollar ist genuin neutral, also kein 7-fach-identischer Dollar-Call."
- ],
- "tagesnews": {
-  "stand": "2026-10-26",
-  "wochentag": "Montag",
-  "tenor": "Ruhiger Start in die wichtigste Woche des Monats — ab Mittwoch entscheiden vier Notenbanken über die Zinsen, Donnerstag kommt der wichtigste US-Inflationswert; heute hält sich der Markt noch zurück.",
-  "heute": [
-   "📅 Montag: Die Devisenmärkte sind nach dem Wochenende wieder offen, aber es stehen keine wichtigen Zahlen an — ein bewusst ruhiger Auftakt. Seit der Nacht läuft in Europa wieder die gewohnte Winterzeit, die automatischen Läufe sind umgestellt.",
-   "🏦 Diese Woche fällt die Entscheidung: Mittwoch US-Notenbank und Bank of Canada, Donnerstag Europäische Zentralbank sowie das US-Wachstum und der Lieblings-Inflationswert der Fed (Kern-PCE), Freitag die Bank von Japan. Alle dürften die Zinsen halten — entscheidend ist allein der Ton der Chefs.",
-   "🇦🇺🇳🇿 Schon morgen früh wird es spannend: Australiens Inflation und der Zinsentscheid der neuseeländischen Notenbank (eine kleine Zinserhöhung ist möglich) — der erste echte Test der Woche.",
-   "🛢️ Öl bleibt teuer (Brent über 110 Dollar wegen der Nahost-Spannungen) — Rückenwind für den kanadischen Dollar. Gold rutschte weiter Richtung 4.000 Dollar: Die monatelange Flucht ins Gold lässt immer mehr nach."
+  "paare": [
+    {
+      "paar": "EUR/USD",
+      "score": 1,
+      "treiber": "Extreme Euro-Shorts (Squeeze-Risiko) heben, aber die schwachen Einkaufsmanager-Zahlen (Frankreich schrumpft) und die wohl stillhaltende EZB deckeln — bewusst winzig. Track-Record hier schwach (~38%)."
+    },
+    {
+      "paar": "GBP/USD",
+      "score": 3,
+      "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record. Gedämpft, da der heiße Wert bekannt ist und ein Teil schon gelaufen."
+    },
+    {
+      "paar": "USD/JPY",
+      "score": 2,
+      "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hält wohl still. Der Hafen-Bid durch den steigenden VIX wird durch den Carry-Nachteil gedämpft. Schwächstes Paar im Track-Record (33%) → nahe neutral."
+    },
+    {
+      "paar": "AUD/USD",
+      "score": -3,
+      "treiber": "Job-Schock belastet weiter, der steigende VIX (Risk-off) nimmt Rückenwind, China-Beat gibt nur kleinen Boden. Über eigene Stories vom Dollar-Block gelöst → leicht negativ."
+    },
+    {
+      "paar": "USD/CAD",
+      "score": -3,
+      "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter)."
+    },
+    {
+      "paar": "USD/CHF",
+      "score": 1,
+      "treiber": "Steigender VIX gibt dem Franken etwas Hafen-Bid, aber die hohen US-Zinsen halten das Geld in den USA → nur ein kleines Dollar-Plus, fast neutral."
+    },
+    {
+      "paar": "NZD/USD",
+      "score": -1,
+      "treiber": "Kühle NZ-Inflation + Risk-off drücken den Kiwi leicht, die Zinserhöhung Ende Okt ist eingepreist, extreme Shorts federn → per Saldo nahe neutral."
+    }
   ],
-  "gestern": [
-   "🟡 Am Wochenende ruhten die Märkte. Zum Wochenschluss hing der Dollar flach (~101,8): Gold fiel rund 3 Prozent (nimmt dem Dollar einen Deckel), aber auch die US-Zinsen fielen (nimmt Rückenwind) — zwei gegenläufige Kräfte halten sich die Waage.",
-   "🇬🇧 Großbritanniens Inflation war zuletzt heiß (3,5%) → das Pfund war Wochengewinner, die Zinserhöhung der Bank von England am 5. November gilt als fast sicher. Kanadas Inflation dagegen kühler als erwartet → die Bank of Canada kann gelassen bleiben.",
-   "🇪🇺 Enttäuschung zum Wochenschluss: Die Einkaufsmanager-Umfragen im Euroraum fielen auf ein 4-Monats-Tief, Frankreich rutschte sogar in die Schrumpfung — ein Dämpfer kurz vor der Europäischen Zentralbank am Donnerstag.",
-   "⚠️ Weiter zu beachten: Die Großspekulanten sitzen auf extremen Wetten GEGEN Euro, australischen und neuseeländischen Dollar und gleichzeitig auf einer überfüllten Wette FÜR den Yen. Kippt eine davon in der Notenbank-Woche, geht es sehr schnell in die Gegenrichtung.",
-   "🎲 Zur Einordnung: Unsere Wochen-Trefferquote liegt bei 44 Prozent — statistisch ein Münzwurf. Darum bleiben die Einschätzungen bewusst klein; in einer Notenbank-Woche zählt der Ton der Chefs, nicht die Zahl allein."
-  ]
- }
+  "wochenausblick": {
+    "text": [
+      "Notenbank-Monsterwoche (27.–31.10.): Vier G10-Zentralbanken entscheiden in drei Tagen über die Zinsen. Alle werden voraussichtlich HALTEN — spannend ist nicht das Ob, sondern der TON (wie geht es weiter?).",
+      "Mittwoch 28.10. ist der Höhepunkt: Die Fed hält mit ~93% die Füße still (eine Erhöhung erst im Dezember zu ~72% eingepreist) — wichtig ist, ob Chef Warsh die Tür für Dezember offen hält. Zeitgleich die Bank of Canada (Halten erwartet, aber teures Öl könnte die Falken wecken) und davor der britische Herbst-Haushalt.",
+      "Donnerstag 29.10. die EZB (Halten des Einlagensatzes bei 2,25% erwartet) — nach den schwachen Einkaufsmanager-Zahlen und Frankreichs Dauerkrise achten alle auf einen taubenhaften Ton von Präsidentin Lagarde. Fast zeitgleich kommen die US-Daten: der Kern-PCE (Lieblings-Inflationswert der Fed) und das US-Wachstum Q3.",
+      "Freitag 30.10. schließt die Bank von Japan ab (Halten bei 1,25% erwartet, Erhöhung eher im Dezember) + das Euro-Wachstum Q3. Am Wochenende die China-Industrie-Umfrage.",
+      "Hintergrund: Ab Sonntag 25.10. gilt die Winterzeit — unsere Routine-Uhrzeiten verschieben sich (betrifft nur die Benachrichtigungen, nicht den Markt)."
+    ],
+    "termine": [
+      {
+        "tag": "Dienstag 27.10.",
+        "land": "USD",
+        "titel": "US-Auftragseingänge langlebiger Güter (Durable Goods) — 13:30 Wien",
+        "warum": "Frühindikator für Industrie-Investitionen. Nach der heißen Inflation einer der wenigen US-Datenpunkte der Woche vor dem Fed-Entscheid."
+      },
+      {
+        "tag": "Mittwoch 28.10.",
+        "land": "USD",
+        "titel": "Fed-Zinsentscheid + Pressekonferenz Warsh — 19:00 / 19:30 Wien",
+        "warum": "DAS Event der Woche. Halten zu ~93% erwartet (Bowman/Daly mahnten zur Geduld). Entscheidend: Hält Warsh die Dezember-Erhöhung (~72% eingepreist) ausdrücklich offen? Falkig = Dollar fester, taubenhaft = Dollar schwächer."
+      },
+      {
+        "tag": "Mittwoch 28.10.",
+        "land": "CAD",
+        "titel": "Bank-of-Canada-Zinsentscheid + geldpolitischer Bericht — 14:45 Wien",
+        "warum": "Halten bei 2,25% erwartet. Die Kern-Inflation fiel unter das Ziel → Gelassenheit; aber teures Öl ist ein Aufwärtsrisiko. Der Markt preist eine Erhöhungs-Chance ein — eine Überraschung bewegt den Loonie stark."
+      },
+      {
+        "tag": "Donnerstag 29.10.",
+        "land": "USD",
+        "titel": "US-Kern-PCE (September) + US-Wachstum Q3 (erste Schätzung) — 13:30 Wien",
+        "warum": "Der Kern-PCE ist der Lieblings-Inflationswert der Fed (zuletzt 3,0% im Jahr, überraschend kühl). Heiß = Dezember-Erhöhung fester, kühl = Fed kann abwarten. Das BIP zeigt, ob die US-Wirtschaft trägt."
+      },
+      {
+        "tag": "Donnerstag 29.10.",
+        "land": "EUR",
+        "titel": "EZB-Zinsentscheid + Pressekonferenz Lagarde — 14:15 / 14:45 Wien",
+        "warum": "Halten des Einlagensatzes bei 2,25% erwartet (keine neuen Projektionen diese Sitzung). Nach dem schwachen Einkaufsmanager-Bericht und Frankreichs Krise ist ein taubenhafter Ton das Risiko für den Euro."
+      },
+      {
+        "tag": "Freitag 30.10.",
+        "land": "JPY",
+        "titel": "Bank-of-Japan-Zinsentscheid — 04:00 Wien",
+        "warum": "Halten bei 1,25% erwartet, die nächste Erhöhung eher im Dezember. Wichtig für den crowded-long Yen: Ein überraschend falkenhafter Ton könnte den Yen-Rückschlag (überfüllte Wette) auslösen oder verhindern."
+      },
+      {
+        "tag": "Freitag 30.10.",
+        "land": "EUR",
+        "titel": "Euroraum-Wachstum Q3 (erste Schätzung) — 11:00 Wien",
+        "warum": "Zeigt, ob die Euro-Konjunktur nach dem schwachen Einkaufsmanager-Bericht wirklich an Fahrt verliert — zusätzlicher Euro-Impuls direkt nach der EZB."
+      }
+    ]
+  },
+  "prognosen": [
+    {
+      "event": "Fed-Zinsentscheid (Oktober)",
+      "termin": "Mittwoch 28.10., 19:00 Wiener Zeit",
+      "prognoseMarkt": "Konsens: HALTEN bei 3,75–4,00% (CME FedWatch ~93% Pause). Eine Erhöhung erst im Dezember zu ~72% eingepreist.",
+      "meineEinschaetzung": "Ich erwarte wie der Markt ein Halten — nach den Geduld-Signalen von Bowman und Daly ist eine Oktober-Erhöhung fast vom Tisch. Die eigentliche Frage ist der TON: Hält Warsh die Dezember-Erhöhung ausdrücklich offen (falkig, Dollar-stützend) oder klingt er vorsichtiger? Ich tippe auf einen weiter falkenhaften Grundton (Inflation 3,7%), aber ohne starke Wette — der Dollar lebt diese Phase vom Ton, und der ist schwer vorherzusagen.",
+      "richtung": "wie_erwartet",
+      "wennHoeher": "Überraschende Erhöhung oder sehr falkenhafter Ton (Dezember klar signalisiert) → Dollar fester, Gold weiter runter, US-Zinsen rauf.",
+      "wennNiedriger": "Taubenhafter Ton (Dezember-Erhöhung wird infrage gestellt) → Dollar schwächer, Risiko-Währungen und Gold erholen sich."
+    },
+    {
+      "event": "US-Kern-PCE (September) — m/m",
+      "termin": "Donnerstag 29.10., 13:30 Wiener Zeit",
+      "prognoseMarkt": "Konsens grob +0,3% m/m (zuletzt im Jahresvergleich 3,0%, überraschend kühl durch Abwärts-Revisionen).",
+      "meineEinschaetzung": "Ich neige ganz knapp zu HÖHER als +0,3%. Benennbarer Grund: Die Kern-Verbraucherpreise kamen im September heiß (+0,3%) und die Erzeugerpreise sehr heiß (+1,3% / 6,3% im Jahr) — die Erzeuger- und Handelspreise sickern mit Verzögerung in den PCE. Gegengewicht ist der überraschend kühle August-PCE (3,0%). Nur eine winzige Wette (Track-Record der Zahlen-Calls ~Münzwurf), aber die Richtung, zu der ich tatsächlich leicht neige, ist leicht heiß.",
+      "richtung": "hoeher",
+      "wennHoeher": "Heißer Kern-PCE (>0,3%) → Dezember-Erhöhung der Fed fester eingepreist → Dollar fester, Gold runter.",
+      "wennNiedriger": "Kühler Kern-PCE (<0,3%) → die Fed kann abwarten, Dezember wackelt → Dollar schwächer, Gold/Risiko fester."
+    },
+    {
+      "event": "EZB-Zinsentscheid (Oktober)",
+      "termin": "Donnerstag 29.10., 14:15 Wiener Zeit",
+      "prognoseMarkt": "Konsens: HALTEN, Einlagensatz 2,25% (Hauptsatz 2,50%). Eine mögliche Erhöhung erst im Dezember.",
+      "meineEinschaetzung": "Ich erwarte wie der Markt ein Halten — diese Sitzung hat keine neuen Projektionen, die EZB wartet auf Dezember. Entscheidend ist der Ton von Präsidentin Lagarde: Nach dem heute schwachen Einkaufsmanager-Bericht (Frankreich schrumpft) und bei zäher Inflation ist sie wahrscheinlich bewusst unverbindlich. Ich erwarte keine klare Richtungsansage.",
+      "richtung": "wie_erwartet",
+      "wennHoeher": "Überraschend falkenhafter Ton (Dezember-Erhöhung angedeutet) → Euro fester, EUR/USD rauf.",
+      "wennNiedriger": "Taubenhafter Ton (Konjunktursorge betont) → Euro schwächer, EUR/USD runter — trifft die extremen Euro-Shorts."
+    },
+    {
+      "event": "Bank-of-Canada-Zinsentscheid (Oktober)",
+      "termin": "Mittwoch 28.10., 14:45 Wiener Zeit",
+      "prognoseMarkt": "Konsens der Ökonomen: HALTEN bei 2,25%. Der Markt preist aber eine spürbare Erhöhungs-Chance ein (uneinheitlich, ~25–40%).",
+      "meineEinschaetzung": "Ich tippe auf ein Halten (wie der Ökonomen-Konsens): Die Kern-Inflation fiel diese Woche auf 1,8–1,9% UNTER das Ziel, das nimmt den Erhöhungsdruck. Das teure Öl ist das Gegenargument (treibt die Schlagzeile), aber solange es nicht in die Kern-Preise durchsickert, kann die Bank abwarten. Kleine Wette, weil der Markt uneinheitlich eine Erhöhung einpreist — eine Überraschung bewegt den Loonie heftig.",
+      "richtung": "wie_erwartet",
+      "wennHoeher": "Überraschende Erhöhung → Loonie springt, USD/CAD deutlich runter.",
+      "wennNiedriger": "Halten mit taubenhaftem Ton (Konjunktursorge) → Loonie schwächer trotz Öl, USD/CAD rauf."
+    },
+    {
+      "event": "Bank-of-Japan-Zinsentscheid (Oktober)",
+      "termin": "Freitag 30.10., 04:00 Wiener Zeit",
+      "prognoseMarkt": "Konsens: HALTEN bei 1,25%. Eine Erhöhung wird mehrheitlich erst im Dezember erwartet.",
+      "meineEinschaetzung": "Ich erwarte ein Halten wie der Markt. Die Ökonomen-Umfragen sehen die nächste Erhöhung eher im vierten Quartal, aber nicht zwingend im Oktober. Wichtig für den Yen ist die überfüllte Long-Wette der Spekulanten: Ein überraschend falkenhafter Ton könnte die Yen-Rally stützen, ein stillhaltender den Rückschlag der crowded-long-Position einleiten.",
+      "richtung": "wie_erwartet",
+      "wennHoeher": "Überraschende Erhöhung oder klar falkenhafter Ton → Yen fester, USD/JPY runter.",
+      "wennNiedriger": "Stillhalten ohne Signal → Carry-Nachteil dominiert, der crowded-long Yen gibt nach, USD/JPY rauf."
+    }
+  ],
+  "lehren": [
+    "Prognose-Bilanz Vorwoche (19.–23.10.): Kanada-CPI `hoeher` DANEBEN ✗ — ich tippte auf höher als der ~3,0%-Trend, die Schlagzeile stieg zwar auf 3,1%, kam aber UNTER dem Konsens von 3,2% (m/m +0,1% statt +0,2%); der Kern fiel sogar unter das Ziel (1,8–1,9%). Lektion: 'Benzin treibt die Schlagzeile' stimmte, aber der Markt hatte das schon erwartet — gegen den KONSENS war es keine Überraschung nach oben.",
+    "UK-CPI `wie_erwartet` knapp DANEBEN ✗ (kam 3,5% statt Konsens 3,4% = eine Spur heiß) — ABER qualitativ richtig: Ich hatte das Squeeze-Risiko betont, und genau das trat ein (Pfund sprang auf 5-Wochen-Hoch). China-BIP `wie_erwartet` quasi getroffen (+4,5% vs. Konsens 4,4%). Euro-PMI `wie_erwartet` technisch daneben (51,9 vs. Konsens 52,7), aber mein Bauchgefühl 'nach dem 3-Jahres-Hoch eher Rückkehr Richtung Mitte' war näher an der Realität als der Konsens.",
+    "Muster dieser Woche: Meine `wie_erwartet`-Calls landeten strikt gemessen knapp daneben (je ein bis zwei Ticks), die QUALITATIVE Richtung war aber oft gut (UK-Squeeze, EU-PMI-Rückgang). Das deckt sich mit dem ehrlichen Track-Record: Auf den echten Richtungs-Calls bei echter Abweichung stehe ich 6/15 = 40% (p=0,61) = Münzwurf. Konsequenz: `wie_erwartet` nur bei echtem Punktwert-Gefühl, sonst die Richtung nennen, zu der ich neige.",
+    "KERN-LEHRE der Woche: Der Dollar hat zwei gegenläufige Treiber bekommen — die nachlassende Gold-/Papiergeld-Flucht (Deckel weg = Boden) UND fallende Zinsen (Rückenwind weg). Beide heben sich auf, der Dollar hängt flach. Lehre: Wenn sich zwei starke Kräfte neutralisieren, ist 'neutral' die ehrliche Antwort — kein erzwungener Trend.",
+    "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/16 = 44%, Konzentration 90%, Zufallsband [4,12] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 55% vs. nurBase 52%). KEIN belegter Vorsprung. Deshalb Scores bewusst klein (|score| ≤ 4) und diversifiziert: Diese Woche sind die Paare NICHT monolithisch (3 anti-Dollar via EUR/GBP/CAD-Eigenstories, 4 pro-Dollar) — der Dollar ist genuin neutral, also kein 7-fach-identischer Dollar-Call."
+  ],
+  "tagesnews": {
+    "stand": "2026-10-27",
+    "wochentag": "Dienstag",
+    "tenor": "Ruhe vor dem Sturm: Vor den Notenbank-Entscheidungen ab morgen hat sich der Dollar auf ein Wochenhoch geschoben — heute nur kleinere US-Zahlen, entscheidend wird der Ton der Notenbank-Chefs.",
+    "heute": [
+      "📅 Dienstag: Heute stehen nur kleinere US-Zahlen an (Industrie-Aufträge am Nachmittag, Verbrauchervertrauen) — der große Fahrplan beginnt erst morgen. Die US-Notenbank tagt bereits (zweitägige Sitzung), die Entscheidung kommt aber erst morgen Abend.",
+      "💵 Der Dollar hat sich leicht gefestigt (Dollar-Index wieder bei rund 102, höchster Stand seit einer Woche): solide US-Daten und das Abwarten vor der Fed geben ihm Rückenwind. Das ist Positionierung vor der Sitzung, kein echter Trend — der Ton von Fed-Chef Warsh kann es morgen drehen.",
+      "🗓️ Korrektur zum Fahrplan: Australiens Inflation und der Zinsentscheid der neuseeländischen Notenbank kommen NICHT heute, sondern erst MORGEN früh (Mittwoch). Ein kleiner Zinsschritt der Neuseeländer auf 3,00% gilt als fast sicher.",
+      "🛢️ Öl bleibt teuer (Brent über 110 Dollar wegen der Nahost-Spannungen) — Rückenwind für den kanadischen Dollar. Gold rutschte weiter Richtung 4.000 Dollar: Die monatelange Flucht ins Gold lässt immer mehr nach."
+    ],
+    "gestern": [
+      "🟡 Der Montag verlief ruhig ohne wichtige Zahlen. Über die Woche hat der Dollar leicht zugelegt (von rund 101,8 auf rund 102), getragen von soliden US-Daten und dem Abwarten vor der Notenbank-Sitzung.",
+      "🏦 Diese Woche fällt die Entscheidung: MITTWOCH US-Notenbank (abends) und Bank of Canada, DONNERSTAG Europäische Zentralbank sowie das US-Wachstum und der Lieblings-Inflationswert der Fed (Kern-PCE), FREITAG die Bank von Japan. Alle dürften die Zinsen halten — entscheidend ist allein der Ton der Chefs.",
+      "📈 Zur Vorsicht: Das Angst-Barometer der Börse ist erhöht (nervös), und die langen US-Zinsen fielen zuletzt. Der Dollar steht damit auf wackligem Fundament — das heutige Wochenhoch ist eher Abwarten als Stärke.",
+      "⚠️ Die Großspekulanten sitzen auf extremen Wetten GEGEN Euro (die größte je gemessene), neuseeländischen und australischen Dollar und gleichzeitig auf einer überfüllten Wette FÜR den Yen. Kippt eine davon in der Notenbank-Woche, geht es sehr schnell in die Gegenrichtung.",
+      "🎲 Zur Einordnung: Unsere Wochen-Trefferquote liegt bei 47 Prozent — statistisch ein Münzwurf. Darum bleiben die Einschätzungen bewusst klein; in einer Notenbank-Woche zählt der Ton der Chefs, nicht die Zahl allein."
+    ]
+  }
 }

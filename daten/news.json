@@ -1,11 +1,59 @@
 {
-  "stand": "2026-10-26T20:23:07.064Z",
+  "stand": "2026-10-27T00:18:17.427Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan September services PPI holds at 3.7% y/y, in line with forecast, before BoJ",
+      "link": "https://investinglive.com/news/japan-september-services-ppi-holds-at-3-7-y-y-in-line-with-forecast-before-boj/",
+      "datum": "2026-10-26T23:52:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Greer warns $3.4 billion EU loan to Airbus may breach US-EU aircraft trade truce Alt headlines:",
+      "link": "https://investinglive.com/news/greer-warns-3-4-billion-eu-loan-to-airbus-may-breach-us-eu-aircraft-trade-truce-alt-headlines/",
+      "datum": "2026-10-26T23:43:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia CPI preview: banks see 1.0% core rise, above the RBA’s 0.8% forecast",
+      "link": "https://investinglive.com/news/australia-cpi-preview-banks-see-1-0-core-rise-above-the-rba-s-0-8-forecast/",
+      "datum": "2026-10-26T23:31:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is temporary",
+      "link": "https://investinglive.com/news/goldman-sachs-ai-buildout-to-add-up-to-50bp-to-us-core-pce-but-the-boost-is-temporary/",
+      "datum": "2026-10-26T21:58:53.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Carney says Canada has not budged as US trade deal looks less imminent than claimed",
+      "link": "https://investinglive.com/news/carney-says-canada-has-not-budged-as-us-trade-deal-looks-less-imminent-than-claimed/",
+      "datum": "2026-10-26T20:52:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 26 Oct: Anthropic IPO puts AI back in focus as stocks rebound",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-oct-anthropic-ipo-puts-ai-back-in-focus-as-stocks-rebound/",
+      "datum": "2026-10-26T20:30:04.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan services PPI preview: 3.7% pace in focus ahead of Friday’s BoJ decision",
+      "link": "https://investinglive.com/news/japan-services-ppi-preview-3-7-pace-in-focus-ahead-of-friday-s-boj-decision/",
+      "datum": "2026-10-26T20:20:17.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "A light economic and event calendar in Asia Tuesday, October 27, 2026 - Japan services PPI",
+      "link": "https://investinglive.com/news/a-light-economic-and-event-calendar-in-asia-tuesday-october-27-2026-japan-services-ppi/",
+      "datum": "2026-10-26T20:09:59.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
@@ -29,54 +77,6 @@
       "titel": "US Treasury sells $69 billion of 2-year notes at a high yield of 4.708%",
       "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of-4-708/",
       "datum": "2026-10-26T17:05:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Saudi, Pakistani, Iranian and Turkish security chiefs sit down in Tehran, agree to continue talks",
-      "link": "https://investinglive.com/news/saudi-pakistani-iranian-and-turkish-security-chiefs-sit-down-in-tehran-agree-to-continue-talks/",
-      "datum": "2026-10-26T16:07:03.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US October Dallas Fed manufacturing index 13.4 vs 9.8 prior",
-      "link": "https://investinglive.com/news/us-october-dallas-fed-manufacturing-index-13-4-vs-9-8-prior/",
-      "datum": "2026-10-26T14:32:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'",
-      "link": "https://investinglive.com/news/anthropic-files-for-ipo-on-nasdaq-will-use-the-symbol-ant/",
-      "datum": "2026-10-26T13:40:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Stocks rebound as oil eases, French bonds find relief",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-as-oil-eases-french-bonds-find-relief/",
-      "datum": "2026-10-26T12:07:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
-      "link": "https://investinglive.com/news/uk-autumn-budget-preview-can-healey-calm-markets-and-change-boe-rate-hike-bets/",
-      "datum": "2026-10-26T10:40:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany Ifo business confidence improves in October as expectations surprise higher",
-      "link": "https://investinglive.com/news/germany-ifo-business-confidence-improves-in-october-as-expectations-surprise-higher/",
-      "datum": "2026-10-26T09:06:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-71/",
-      "datum": "2026-10-26T07:23:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Heads up: European daylight saving time has ended, here's what traders need to know",
-      "link": "https://investinglive.com/news/heads-up-european-daylight-saving-time-has-ended-here-s-what-traders-need-to-know/",
-      "datum": "2026-10-26T06:31:15.000Z"
     },
     {
       "quelle": "Fed",

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-27T23:39:28.257Z",
+  "stand": "2026-10-28T06:18:41.364Z",
   "ausBriefing": "2026-10-23",
   "overlayAktiv": true,
   "paare": [
@@ -16,13 +16,13 @@
     },
     {
       "paar": "GBP/USD",
-      "baseScore": 3,
+      "baseScore": 2,
       "tiltCot": -5,
       "tiltZins": 0,
       "tiltGesamt": -5,
-      "score": -2,
+      "score": -3,
       "cotExtrem": "erhoeht",
-      "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record. Gedämpft, da der heiße Wert bekannt ist und ein Teil schon gelaufen.",
+      "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. ~96–98% eingepreist + extreme Shorts halten das Pfund auf dem 5-Wochen-Hoch ~1,34. ABER heute der britische Herbst-Haushalt = Zwei-Richtungs-Risiko → von +3 auf +2 getrimmt. Bestes Paar-Track-Record, aber ein Teil ist gelaufen.",
       "istCross": false
     },
     {
@@ -38,13 +38,13 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -3,
+      "baseScore": 4,
       "tiltCot": -2,
       "tiltZins": 0,
       "tiltGesamt": -2,
-      "score": -5,
+      "score": 2,
       "cotExtrem": "extrem",
-      "treiber": "Job-Schock belastet weiter, der steigende VIX (Risk-off) nimmt Rückenwind, China-Beat gibt nur kleinen Boden. Über eigene Stories vom Dollar-Block gelöst → leicht negativ.",
+      "treiber": "GEDREHT (Mi 28.10.): Heiße australische Inflation (4,3% statt 4,2%, Kern 3,6–3,7%) → Zinserhöhung am 3.11. ~80% eingepreist, Aussie auf Monatshoch ~0,705. Extreme Shorts = Squeeze-Zünder. Vom Dollar-Block über die eigene Inflations-Story gelöst → positiv. Der festere Dollar und Risk-off deckeln, daher bewusst klein.",
       "istCross": false
     },
     {
@@ -71,22 +71,22 @@
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -1,
+      "baseScore": -3,
       "tiltCot": -2,
       "tiltZins": 0,
       "tiltGesamt": -2,
-      "score": -3,
+      "score": -5,
       "cotExtrem": "extrem",
-      "treiber": "Kühle NZ-Inflation + Risk-off drücken den Kiwi leicht, die Zinserhöhung Ende Okt ist eingepreist, extreme Shorts federn → per Saldo nahe neutral.",
+      "treiber": "GEDREHT (Mi 28.10.): Die neuseeländische Notenbank hielt ÜBERRASCHEND bei 2,75% (4:3), der Markt hatte zu ~90% eine Erhöhung erwartet → Kiwi −1,7% (~0,559). Enttäuschung dominiert, obwohl weitere Straffung signalisiert. Extreme Shorts begrenzen den Rückgang → moderat negativ.",
       "istCross": false
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": -1,
+      "baseScore": 0,
       "tiltCot": 2,
       "tiltZins": -2,
       "tiltGesamt": 0,
-      "score": -1,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
@@ -104,11 +104,11 @@
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": -1,
+      "baseScore": 4,
       "tiltCot": 1,
       "tiltZins": 0,
       "tiltGesamt": 1,
-      "score": 0,
+      "score": 5,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

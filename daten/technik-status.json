@@ -1,11 +1,11 @@
 {
-  "stand": "2026-10-27T23:39:28.259Z",
+  "stand": "2026-10-28T06:11:39.406Z",
   "hinweis": "Ausfälle von Datenquellen mit Beginn-Zeitstempel. Der Telegram-Überblick meldet nur, was länger als 24 h anhält.",
   "probleme": [
     {
-      "code": "fred-key",
-      "text": "FRED lehnt unseren Schlüssel ab — neuer Schlüssel nötig",
-      "seit": "2026-10-27T06:14:03.068Z"
+      "code": "fred-aus",
+      "text": "FRED antwortet nicht wie erwartet — US-Zahlen laufen über TradingView",
+      "seit": "2026-10-28T06:11:39.406Z"
     }
   ]
 }

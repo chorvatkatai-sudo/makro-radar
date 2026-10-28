@@ -19468,7 +19468,7 @@
       "impact": "High",
       "prognose": "0.7%",
       "vorher": "0.4%",
-      "actual": null,
+      "actual": "0.8%",
       "notiz": null
     },
     "2026-10-27T20:30:00-04:00|AUD|CPI y/y": {
@@ -19478,7 +19478,7 @@
       "impact": "High",
       "prognose": "4.2%",
       "vorher": "4.0%",
-      "actual": null,
+      "actual": "4.3%",
       "notiz": null
     },
     "2026-10-27T20:30:00-04:00|AUD|Trimmed Mean CPI m/m": {
@@ -19498,7 +19498,7 @@
       "impact": "High",
       "prognose": "3.00%",
       "vorher": "2.75%",
-      "actual": null,
+      "actual": "2.75%",
       "notiz": null
     },
     "2026-10-27T21:00:00-04:00|NZD|RBNZ Rate Statement": {

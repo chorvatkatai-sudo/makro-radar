@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-27T23:39:28.911Z",
+ "erstellt": "2026-10-28T06:18:41.385Z",
  "wochenStart": "2026-10-25",
  "events": [
   {
@@ -189,7 +189,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.7%",
    "previous": "0.4%",
-   "actual": null
+   "actual": "0.8%"
   },
   {
    "title": "CPI y/y",
@@ -198,7 +198,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.2%",
    "previous": "4.0%",
-   "actual": null
+   "actual": "4.3%"
   },
   {
    "title": "Trimmed Mean CPI m/m",
@@ -216,7 +216,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "3.00%",
    "previous": "2.75%",
-   "actual": null
+   "actual": "2.75%"
   },
   {
    "title": "RBNZ Rate Statement",
@@ -2754,8 +2754,8 @@ window.MAKRO_DATA = {
    },
    "GBP": {
     "stimmung": "bullisch",
-    "score": 4,
-    "grund": "Die UK-Inflation kam am Mi heiß (3,5% statt 3,4%, Dienstleistungen 3,7%) → der Pfund-Squeeze zündete, das Pfund hält sich auf dem 5-Wochen-Hoch ~1,34. Eine Zinserhöhung der Bank von England am 5.11. gilt zu ~96–98% als sicher, die Short-Positionierung bleibt extrem (Squeeze-Zünder). Bestes Paar im Track-Record. Etwas gedämpft, weil die heiße Zahl bekannt ist und ein Teil der Bewegung schon gelaufen ist."
+    "score": 3,
+    "grund": "Die heiße UK-Inflation (3,5%, Dienstleistungen 3,7%) zündete den Pfund-Squeeze, das Pfund hält sich auf dem 5-Wochen-Hoch ~1,34; die Zinserhöhung der Bank von England am 5.11. gilt zu ~96–98% als sicher, die Shorts bleiben extrem. ABER heute Nachmittag kommt der britische Herbst-Haushalt — ein echtes Zwei-Richtungs-Risiko: enttäuscht er die Anleihemärkte, kann das Pfund trotz Zinserhöhung einknicken. Deshalb heute von +4 auf +3 getrimmt (bestes Paar im Track-Record, aber Teil der Bewegung ist gelaufen)."
    },
    "JPY": {
     "stimmung": "bärisch",
@@ -2773,14 +2773,14 @@ window.MAKRO_DATA = {
     "grund": "Öl-Gewinner (WTI ~101$, Brent ~110$ wegen Nahost-Spannungen) UND der kanadische 2-Jahres-Zins stieg diese Woche am stärksten aller Währungen = Zins-Rückenwind. Dagegen: die Kern-Inflation fiel unter das Ziel (1,8–1,9%), die Bank of Canada kann am Mi gelassen halten. Per Saldo eigene, vom Dollar gelöste Loonie-Story → moderat positiv."
    },
    "AUD": {
-    "stimmung": "bärisch",
-    "score": -3,
-    "grund": "Der Job-Schock der Vorwoche (−39.300 Stellen, Quote 4,7% = 5-Jahres-Hoch) belastet weiter die Hochzins-Story. Der China-BIP-Beat (+4,5%) gibt nur einen kleinen Boden (Binnennachfrage schwach, Immobilien −20%). Der steigende VIX (Risk-off) nimmt dem Rohstoff-Aussie Rückenwind. Höchster Zins der Industrieländer federt ab, aber keine eigene positive Story."
+    "stimmung": "bullisch",
+    "score": 4,
+    "grund": "NEU (Mi 28.10.): Die australische Inflation kam HEISS — 4,3% aufs Jahr (erwartet 4,2%, Vormonat 4,0%), Kern 3,6–3,7%, getrieben von Benzin und Wohnen (+5,2%). Eine Zinserhöhung am 3.11. ist jetzt zu ~80% eingepreist, der Aussie sprang auf ein Monatshoch (~0,705). Die extreme Short-Positionierung (zusammen mit Neuseeland größtes je gemessenes Short) wird so zum Squeeze-Zünder. Der steigende VIX (Risk-off) deckelt die Rally etwas — eigene starke Story, vom Dollar-Block gelöst, bewusst klein gehalten."
    },
    "NZD": {
-    "stimmung": "neutral",
-    "score": -1,
-    "grund": "Die NZ-Inflation kam am Di etwas kühler (0,7% im Quartal statt 0,8%), die Zinserhöhung der neuseeländischen Notenbank Ende Oktober bleibt aber zu ~98% eingepreist. Der steigende VIX (Risk-off) drückt den Rohstoff-Kiwi leicht. Extreme Short-Positionierung (Squeeze-Risiko) federt den Rückgang ab → fast neutral."
+    "stimmung": "bärisch",
+    "score": -3,
+    "grund": "NEU (Mi 28.10.): Die neuseeländische Notenbank ließ den Leitzins ÜBERRASCHEND bei 2,75% (knappe 4:3-Abstimmung) — der Markt hatte zu ~90% eine Erhöhung auf 3,00% erwartet. Der Kiwi stürzte rund 1,7% ab (~0,559). Die Notenbank signalisierte zwar weitere Straffung (evtl. Dezember), doch die Enttäuschung dominiert. Die extreme Short-Positionierung (Squeeze-Risiko) begrenzt den Rückgang → moderat negativ statt stark."
    }
   },
   "paare": [
@@ -2791,8 +2791,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "GBP/USD",
-    "score": 3,
-    "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record. Gedämpft, da der heiße Wert bekannt ist und ein Teil schon gelaufen."
+    "score": 2,
+    "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. ~96–98% eingepreist + extreme Shorts halten das Pfund auf dem 5-Wochen-Hoch ~1,34. ABER heute der britische Herbst-Haushalt = Zwei-Richtungs-Risiko → von +3 auf +2 getrimmt. Bestes Paar-Track-Record, aber ein Teil ist gelaufen."
    },
    {
     "paar": "USD/JPY",
@@ -2801,8 +2801,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": -3,
-    "treiber": "Job-Schock belastet weiter, der steigende VIX (Risk-off) nimmt Rückenwind, China-Beat gibt nur kleinen Boden. Über eigene Stories vom Dollar-Block gelöst → leicht negativ."
+    "score": 4,
+    "treiber": "GEDREHT (Mi 28.10.): Heiße australische Inflation (4,3% statt 4,2%, Kern 3,6–3,7%) → Zinserhöhung am 3.11. ~80% eingepreist, Aussie auf Monatshoch ~0,705. Extreme Shorts = Squeeze-Zünder. Vom Dollar-Block über die eigene Inflations-Story gelöst → positiv. Der festere Dollar und Risk-off deckeln, daher bewusst klein."
    },
    {
     "paar": "USD/CAD",
@@ -2816,8 +2816,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "NZD/USD",
-    "score": -1,
-    "treiber": "Kühle NZ-Inflation + Risk-off drücken den Kiwi leicht, die Zinserhöhung Ende Okt ist eingepreist, extreme Shorts federn → per Saldo nahe neutral."
+    "score": -3,
+    "treiber": "GEDREHT (Mi 28.10.): Die neuseeländische Notenbank hielt ÜBERRASCHEND bei 2,75% (4:3), der Markt hatte zu ~90% eine Erhöhung erwartet → Kiwi −1,7% (~0,559). Enttäuschung dominiert, obwohl weitere Straffung signalisiert. Extreme Shorts begrenzen den Rückgang → moderat negativ."
    }
   ],
   "wochenausblick": {
@@ -2928,20 +2928,20 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/16 = 44%, Konzentration 90%, Zufallsband [4,12] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 55% vs. nurBase 52%). KEIN belegter Vorsprung. Deshalb Scores bewusst klein (|score| ≤ 4) und diversifiziert: Diese Woche sind die Paare NICHT monolithisch (3 anti-Dollar via EUR/GBP/CAD-Eigenstories, 4 pro-Dollar) — der Dollar ist genuin neutral, also kein 7-fach-identischer Dollar-Call."
   ],
   "tagesnews": {
-   "stand": "2026-10-27",
-   "wochentag": "Dienstag",
-   "tenor": "Ruhe vor dem Sturm: Vor den Notenbank-Entscheidungen ab morgen hat sich der Dollar auf ein Wochenhoch geschoben — heute nur kleinere US-Zahlen, entscheidend wird der Ton der Notenbank-Chefs.",
+   "stand": "2026-10-28",
+   "wochentag": "Mittwoch",
+   "tenor": "Notenbank-Tag: heute Abend die US-Notenbank, dazu Kanada und der britische Haushalt — über Nacht kam Australiens Inflation heiß, Neuseeland hielt überraschend still und ließ seinen Dollar fallen.",
    "heute": [
-    "📅 Dienstag: Heute stehen nur kleinere US-Zahlen an (Industrie-Aufträge am Nachmittag, Verbrauchervertrauen) — der große Fahrplan beginnt erst morgen. Die US-Notenbank tagt bereits (zweitägige Sitzung), die Entscheidung kommt aber erst morgen Abend.",
-    "💵 Der Dollar hat sich leicht gefestigt (Dollar-Index wieder bei rund 102, höchster Stand seit einer Woche): solide US-Daten und das Abwarten vor der Fed geben ihm Rückenwind. Das ist Positionierung vor der Sitzung, kein echter Trend — der Ton von Fed-Chef Warsh kann es morgen drehen.",
-    "🗓️ Korrektur zum Fahrplan: Australiens Inflation und der Zinsentscheid der neuseeländischen Notenbank kommen NICHT heute, sondern erst MORGEN früh (Mittwoch). Ein kleiner Zinsschritt der Neuseeländer auf 3,00% gilt als fast sicher.",
-    "🛢️ Öl bleibt teuer (Brent über 110 Dollar wegen der Nahost-Spannungen) — Rückenwind für den kanadischen Dollar. Gold rutschte weiter Richtung 4.000 Dollar: Die monatelange Flucht ins Gold lässt immer mehr nach."
+    "🏦 Großer Entscheidungstag: HEUTE ABEND die US-Notenbank (Zinsen halten gilt zu ~93% als sicher — der Ton von Chef Warsh entscheidet, ob eine Erhöhung im Dezember kommt), am Nachmittag die Bank of Canada (hält wohl bei 2,25%) und der britische Herbst-Haushalt. Drei Ereignisse, die Dollar, Loonie und Pfund kräftig bewegen können.",
+    "🇦🇺 Australiens Inflation kam HEISS: 4,3% aufs Jahr (erwartet 4,2%, Vormonat 4,0%), der harte Kern 3,6–3,7% — Treiber waren Benzin und Wohnen. Eine Zinserhöhung am 3.11. ist jetzt zu rund 80% eingepreist → der Aussie sprang auf ein Monatshoch (~0,705).",
+    "🇳🇿 Neuseelands Notenbank ließ den Leitzins ÜBERRASCHEND bei 2,75% (knappe 4:3-Abstimmung) — der Markt hatte zu ~90% eine Erhöhung auf 3,00% erwartet. Der Kiwi stürzte rund 1,7% ab (~0,559). Die Notenbank signalisierte zwar weitere Straffung (evtl. Dezember), doch die Enttäuschung überwog.",
+    "🇬🇧 Der britische Herbst-Haushalt am Nachmittag ist ein echtes Pfund-Risiko in BEIDE Richtungen: enttäuscht er die Anleihemärkte, kann das Pfund trotz der fast sicheren Zinserhöhung am 5.11. einknicken. Deshalb heute die Pfund-Einschätzung bewusst zurückgenommen."
    ],
    "gestern": [
-    "🟡 Der Montag verlief ruhig ohne wichtige Zahlen. Über die Woche hat der Dollar leicht zugelegt (von rund 101,8 auf rund 102), getragen von soliden US-Daten und dem Abwarten vor der Notenbank-Sitzung.",
-    "🏦 Diese Woche fällt die Entscheidung: MITTWOCH US-Notenbank (abends) und Bank of Canada, DONNERSTAG Europäische Zentralbank sowie das US-Wachstum und der Lieblings-Inflationswert der Fed (Kern-PCE), FREITAG die Bank von Japan. Alle dürften die Zinsen halten — entscheidend ist allein der Ton der Chefs.",
-    "📈 Zur Vorsicht: Das Angst-Barometer der Börse ist erhöht (nervös), und die langen US-Zinsen fielen zuletzt. Der Dollar steht damit auf wackligem Fundament — das heutige Wochenhoch ist eher Abwarten als Stärke.",
-    "⚠️ Die Großspekulanten sitzen auf extremen Wetten GEGEN Euro (die größte je gemessene), neuseeländischen und australischen Dollar und gleichzeitig auf einer überfüllten Wette FÜR den Yen. Kippt eine davon in der Notenbank-Woche, geht es sehr schnell in die Gegenrichtung.",
+    "🟡 Der Dienstag brachte nur kleinere US-Zahlen. Über die Woche hat der Dollar leicht zugelegt (Dollar-Index wieder über 102) — getragen vom Abwarten vor der US-Notenbank und davon, dass die monatelange Flucht ins Gold nachlässt (Gold rund 4.070 Dollar, der Deckel für den Dollar fällt damit weg).",
+    "🛢️ Öl bleibt teuer (WTI nahe 100 Dollar, Brent über 109 Dollar wegen der Nahost-Spannungen) — Rückenwind für den kanadischen Dollar, der zusätzlich vom stärksten Zins-Anstieg aller großen Währungen gestützt wird. Das stützt die Loonie-Einschätzung vor der Bank of Canada heute.",
+    "📈 Zur Vorsicht: Das Angst-Barometer der Börse ist erhöht (nervös), und die langen US-Zinsen fielen zuletzt (10 Jahre knapp unter 5%). Der Dollar steht damit auf wackligem Fundament — das Wochenhoch ist eher Abwarten als echte Stärke.",
+    "⚠️ Die Großspekulanten sitzen auf extremen Wetten GEGEN Euro (die größte je gemessene), gegen Australien- und Neuseeland-Dollar und auf einer überfüllten Wette FÜR den Yen. Beim Aussie zündete die heiße Inflation heute genau so einen Rückschlag der Wetten — das kann schnell gehen.",
     "🎲 Zur Einordnung: Unsere Wochen-Trefferquote liegt bei 47 Prozent — statistisch ein Münzwurf. Darum bleiben die Einschätzungen bewusst klein; in einer Notenbank-Woche zählt der Ton der Chefs, nicht die Zahl allein."
    ]
   }
@@ -3368,9 +3368,9 @@ window.MAKRO_DATA = {
     "bank": "RBNZ",
     "satz": 2.75,
     "anzeige": "2,75%",
-    "naechste": "Ende Okt 2026",
-    "erwartung": "Am Mi 2.9. um 0,25 auf 2,75% ERHÖHT (zweite Erhöhung in Folge, Inflation 4,1%). ABER: Die Wirtschaft SCHRUMPFTE im 2. Quartal um −0,9% (erwartet +0,1%) — ein herber Fehlschlag (16.9.). Der Markt wettet jetzt auf eine taubenhaftere Notenbank; die falkenhafte Kiwi-Story bröckelt. Eine weitere Erhöhung ist damit fraglich geworden",
-    "richtung": "halten"
+    "naechste": "Dez 2026",
+    "erwartung": "Am Mi 28.10. ÜBERRASCHEND bei 2,75% GEHALTEN (knappe 4:3-Abstimmung) — der Markt hatte zu ~90% eine Erhöhung auf 3,00% erwartet, der Kiwi fiel rund 1,7%. Die Notenbank signalisierte aber, dass eine straffere Politik weiterhin wahrscheinlich sei (mögliche Erhöhung im Dezember). Timing hängt vom Konjunkturbild ab",
+    "richtung": "rauf"
    },
    {
     "code": "EUR",
@@ -3894,13 +3894,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "GBP/USD",
-   "baseScore": 3,
+   "baseScore": 2,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": -2,
+   "score": -3,
    "cotExtrem": "erhoeht",
-   "treiber": "Heiße UK-Inflation (3,5%) zündete den Squeeze + Zinserhöhung der Bank von England am 5.11. ~96–98% eingepreist + extreme Shorts. Pfund auf 5-Wochen-Hoch ~1,34. Bestes Paar-Track-Record. Gedämpft, da der heiße Wert bekannt ist und ein Teil schon gelaufen.",
+   "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. ~96–98% eingepreist + extreme Shorts halten das Pfund auf dem 5-Wochen-Hoch ~1,34. ABER heute der britische Herbst-Haushalt = Zwei-Richtungs-Risiko → von +3 auf +2 getrimmt. Bestes Paar-Track-Record, aber ein Teil ist gelaufen.",
    "istCross": false
   },
   {
@@ -3916,13 +3916,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -3,
+   "baseScore": 4,
    "tiltCot": -2,
    "tiltZins": 0,
    "tiltGesamt": -2,
-   "score": -5,
+   "score": 2,
    "cotExtrem": "extrem",
-   "treiber": "Job-Schock belastet weiter, der steigende VIX (Risk-off) nimmt Rückenwind, China-Beat gibt nur kleinen Boden. Über eigene Stories vom Dollar-Block gelöst → leicht negativ.",
+   "treiber": "GEDREHT (Mi 28.10.): Heiße australische Inflation (4,3% statt 4,2%, Kern 3,6–3,7%) → Zinserhöhung am 3.11. ~80% eingepreist, Aussie auf Monatshoch ~0,705. Extreme Shorts = Squeeze-Zünder. Vom Dollar-Block über die eigene Inflations-Story gelöst → positiv. Der festere Dollar und Risk-off deckeln, daher bewusst klein.",
    "istCross": false
   },
   {
@@ -3949,22 +3949,22 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -1,
+   "baseScore": -3,
    "tiltCot": -2,
    "tiltZins": 0,
    "tiltGesamt": -2,
-   "score": -3,
+   "score": -5,
    "cotExtrem": "extrem",
-   "treiber": "Kühle NZ-Inflation + Risk-off drücken den Kiwi leicht, die Zinserhöhung Ende Okt ist eingepreist, extreme Shorts federn → per Saldo nahe neutral.",
+   "treiber": "GEDREHT (Mi 28.10.): Die neuseeländische Notenbank hielt ÜBERRASCHEND bei 2,75% (4:3), der Markt hatte zu ~90% eine Erhöhung erwartet → Kiwi −1,7% (~0,559). Enttäuschung dominiert, obwohl weitere Straffung signalisiert. Extreme Shorts begrenzen den Rückgang → moderat negativ.",
    "istCross": false
   },
   {
    "paar": "EUR/GBP",
-   "baseScore": -1,
+   "baseScore": 0,
    "tiltCot": 2,
    "tiltZins": -2,
    "tiltGesamt": 0,
-   "score": -1,
+   "score": 0,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3982,11 +3982,11 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": -1,
+   "baseScore": 4,
    "tiltCot": 1,
    "tiltZins": 0,
    "tiltGesamt": 1,
-   "score": 0,
+   "score": 5,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4004,7 +4004,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-27T23:39:28.264Z",
+  "stand": "2026-10-28T06:18:41.383Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
   "gewertet": 34,
@@ -4506,11 +4506,11 @@ window.MAKRO_DATA = {
    "score": 3
   },
   "AUD": {
-   "ueber": 10,
+   "ueber": 12,
    "unter": 7,
    "gleich": 4,
-   "gesamt": 21,
-   "score": 3
+   "gesamt": 23,
+   "score": 5
   },
   "JPY": {
    "ueber": 0,
@@ -4528,10 +4528,10 @@ window.MAKRO_DATA = {
   },
   "NZD": {
    "ueber": 3,
-   "unter": 3,
+   "unter": 4,
    "gleich": 1,
-   "gesamt": 7,
-   "score": 0
+   "gesamt": 8,
+   "score": -1
   }
  },
  "prognoseQuote": {
@@ -5120,6 +5120,36 @@ window.MAKRO_DATA = {
  },
  "historie": [
   {
+   "datum": "2026-10-27T21:00:00-04:00",
+   "land": "NZD",
+   "titel": "Official Cash Rate",
+   "impact": "High",
+   "prognose": "3.00%",
+   "vorher": "2.75%",
+   "actual": "2.75%",
+   "notiz": null
+  },
+  {
+   "datum": "2026-10-27T20:30:00-04:00",
+   "land": "AUD",
+   "titel": "CPI m/m",
+   "impact": "High",
+   "prognose": "0.7%",
+   "vorher": "0.4%",
+   "actual": "0.8%",
+   "notiz": null
+  },
+  {
+   "datum": "2026-10-27T20:30:00-04:00",
+   "land": "AUD",
+   "titel": "CPI y/y",
+   "impact": "High",
+   "prognose": "4.2%",
+   "vorher": "4.0%",
+   "actual": "4.3%",
+   "notiz": null
+  },
+  {
    "datum": "2026-10-21T17:45:00-04:00",
    "land": "NZD",
    "titel": "CPI q/q",
@@ -5687,36 +5717,6 @@ window.MAKRO_DATA = {
    "prognose": "11.7K",
    "vorher": "76.3K",
    "actual": "-15.8K",
-   "notiz": null
-  },
-  {
-   "datum": "2026-08-19T21:30:00-04:00",
-   "land": "AUD",
-   "titel": "Unemployment Rate",
-   "impact": "High",
-   "prognose": "4.4%",
-   "vorher": "4.4%",
-   "actual": "4.5%",
-   "notiz": null
-  },
-  {
-   "datum": "2026-08-19T02:00:00-04:00",
-   "land": "GBP",
-   "titel": "CPI y/y",
-   "impact": "High",
-   "prognose": "2.9%",
-   "vorher": "2.6%",
-   "actual": "2.9%",
-   "notiz": "auto:TV cpiYoY (2026-08-19)"
-  },
-  {
-   "datum": "2026-08-17T08:30:00-04:00",
-   "land": "CAD",
-   "titel": "CPI m/m",
-   "impact": "High",
-   "prognose": "0.4%",
-   "vorher": "-0.4%",
-   "actual": "0.5",
    "notiz": null
   }
  ],

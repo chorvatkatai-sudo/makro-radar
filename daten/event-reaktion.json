@@ -1,23 +1,23 @@
 {
-  "stand": "2026-10-27T23:39:28.910Z",
+  "stand": "2026-10-28T06:19:33.605Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 40,
-    "treffer": 22,
+    "faelle": 42,
+    "treffer": 23,
     "quote": 55,
-    "schnittGerichtet": 0.055,
-    "schnittBetrag": 0.308,
-    "pWert": 0.636,
+    "schnittGerichtet": 0.045,
+    "schnittBetrag": 0.306,
+    "pWert": 0.644,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 74,
-    "treffer": 39,
+    "faelle": 77,
+    "treffer": 41,
     "quote": 53,
-    "schnittGerichtet": 0.041,
-    "schnittBetrag": 0.338,
-    "pWert": 0.728,
+    "schnittGerichtet": 0.037,
+    "schnittBetrag": 0.332,
+    "pWert": 0.649,
     "belastbar": false
   },
   "jeWaehrung": {
@@ -40,12 +40,12 @@
       "belastbar": false
     },
     "AUD": {
-      "faelle": 8,
-      "treffer": 3,
-      "quote": 38,
-      "schnittGerichtet": -0.06,
-      "schnittBetrag": 0.365,
-      "pWert": 0.727,
+      "faelle": 9,
+      "treffer": 4,
+      "quote": 44,
+      "schnittGerichtet": -0.041,
+      "schnittBetrag": 0.337,
+      "pWert": 1,
       "belastbar": false
     },
     "GBP": {
@@ -58,23 +58,23 @@
       "belastbar": false
     },
     "NZD": {
-      "faelle": 4,
+      "faelle": 5,
       "treffer": 3,
-      "quote": 75,
-      "schnittGerichtet": 0.325,
-      "schnittBetrag": 0.369,
-      "pWert": 0.625,
+      "quote": 60,
+      "schnittGerichtet": 0.182,
+      "schnittBetrag": 0.373,
+      "pWert": 1,
       "belastbar": false
     }
   },
   "jeKategorie": {
     "Inflation": {
-      "faelle": 20,
-      "treffer": 13,
-      "quote": 65,
-      "schnittGerichtet": 0.091,
-      "schnittBetrag": 0.271,
-      "pWert": 0.263,
+      "faelle": 21,
+      "treffer": 14,
+      "quote": 67,
+      "schnittGerichtet": 0.092,
+      "schnittBetrag": 0.263,
+      "pWert": 0.189,
       "belastbar": false
     },
     "Arbeitsmarkt": {
@@ -116,12 +116,12 @@
       "belastbar": false
     },
     "AUD": {
-      "faelle": 17,
-      "treffer": 7,
-      "quote": 41,
-      "schnittGerichtet": 0.01,
-      "schnittBetrag": 0.504,
-      "pWert": 0.629,
+      "faelle": 19,
+      "treffer": 9,
+      "quote": 47,
+      "schnittGerichtet": 0.02,
+      "schnittBetrag": 0.463,
+      "pWert": 1,
       "belastbar": false
     },
     "GBP": {
@@ -134,34 +134,16 @@
       "belastbar": false
     },
     "NZD": {
-      "faelle": 6,
+      "faelle": 7,
       "treffer": 4,
-      "quote": 67,
-      "schnittGerichtet": 0.217,
-      "schnittBetrag": 0.304,
-      "pWert": 0.688,
+      "quote": 57,
+      "schnittGerichtet": 0.13,
+      "schnittBetrag": 0.316,
+      "pWert": 1,
       "belastbar": false
     }
   },
   "letzte": [
-    {
-      "datum": "2026-09-30",
-      "land": "USD",
-      "titel": "Core PCE Price Index m/m",
-      "ueberraschung": "niedriger",
-      "erwartet": "schwächer",
-      "bewegung": 0.401,
-      "wieErwartet": false
-    },
-    {
-      "datum": "2026-10-02",
-      "land": "USD",
-      "titel": "Average Hourly Earnings m/m (+2 weitere)",
-      "ueberraschung": "niedriger",
-      "erwartet": "schwächer",
-      "bewegung": 0.149,
-      "wieErwartet": false
-    },
     {
       "datum": "2026-10-09",
       "land": "CAD",
@@ -233,6 +215,24 @@
       "erwartet": "schwächer",
       "bewegung": -0.203,
       "wieErwartet": true
+    },
+    {
+      "datum": "2026-10-27",
+      "land": "AUD",
+      "titel": "CPI m/m (+1 weitere)",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": 0.107,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-10-27",
+      "land": "NZD",
+      "titel": "Official Cash Rate",
+      "ueberraschung": "niedriger",
+      "erwartet": "schwächer",
+      "bewegung": 0.389,
+      "wieErwartet": false
     }
   ]
 }

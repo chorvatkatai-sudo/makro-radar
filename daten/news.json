@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-27T23:39:28.256Z",
+  "stand": "2026-10-28T06:19:33.159Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "European markets brace for Fed decision as hot Australia CPI, RBNZ surprise and oil rally stir nerves",
+      "link": "https://investinglive.com/news/european-markets-brace-for-fed-decision-as-hot-australia-cpi-rbnz-surprise-and-oil-rally-stir-nerves/",
+      "datum": "2026-10-28T04:15:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD/NZD",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-hawkish-rba-surprise-rbnz-hold-lift-aud-nzd/",
+      "datum": "2026-10-28T03:18:59.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia trimmed mean CPI rises to 3.7%, above forecasts, as RBA hike case firms",
+      "link": "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/",
+      "datum": "2026-10-28T00:52:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)",
+      "link": "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/",
+      "datum": "2026-10-28T00:31:39.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "ICYMI: S&P sees global bond issuance growth slowing to 2.7% in 2027, weakest in five years",
@@ -53,30 +77,6 @@
       "titel": "US FHFA Monthly home prices index 0.3% vs 0.2% estimate",
       "link": "https://investinglive.com/news/us-fhfa-monthly-home-prices-index-0-3-vs-0-2-estimate/",
       "datum": "2026-10-27T13:00:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US September durable goods orders +1.8% vs +1.7% expected",
-      "link": "https://investinglive.com/news/us-september-durable-goods-orders-1-8-vs-1-7-expected/",
-      "datum": "2026-10-27T12:30:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Markets remain rangebound ahead of the FOMC decision",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-rangebound-ahead-of-the-fomc-decision/",
-      "datum": "2026-10-27T12:21:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
-      "link": "https://investinglive.com/news/france-consumer-confidence-plunges-to-lowest-since-2013-as-fiscal-worries-deepen/",
-      "datum": "2026-10-27T07:45:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-72/",
-      "datum": "2026-10-27T07:41:14.000Z"
     },
     {
       "quelle": "Fed",

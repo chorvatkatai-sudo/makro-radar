@@ -19646,7 +19646,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "-0.1M",
+      "prognose": "0.1M",
       "vorher": "-3.1M",
       "actual": null,
       "notiz": null
@@ -19786,7 +19786,7 @@
       "land": "USD",
       "titel": "Advance GDP Price Index q/q",
       "impact": "Medium",
-      "prognose": "3.3%",
+      "prognose": "3.2%",
       "vorher": "6.2%",
       "actual": null,
       "notiz": null
@@ -19856,7 +19856,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "75B",
       "vorher": "77B",
       "actual": null,
       "notiz": null
@@ -20036,7 +20036,7 @@
       "land": "GBP",
       "titel": "Nationwide HPI m/m",
       "impact": "Low",
-      "prognose": "-0.1%",
+      "prognose": "-0.2%",
       "vorher": "-0.2%",
       "actual": null,
       "notiz": null

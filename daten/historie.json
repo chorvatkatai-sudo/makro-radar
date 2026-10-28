@@ -19658,8 +19658,8 @@
       "impact": "High",
       "prognose": "4.00%",
       "vorher": "4.00%",
-      "actual": null,
-      "notiz": null
+      "actual": "4%",
+      "notiz": "auto:TV rate (2026-10-28)"
     },
     "2026-10-28T14:00:00-04:00|USD|FOMC Statement": {
       "datum": "2026-10-28T14:00:00-04:00",

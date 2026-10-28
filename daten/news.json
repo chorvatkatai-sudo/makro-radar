@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-28T13:55:10.032Z",
+  "stand": "2026-10-28T18:36:34.737Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "datum": "2026-10-28T18:00:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran's Araghchi: Iran continues to give diplomacy a chance to succeed",
+      "link": "https://investinglive.com/news/iran-s-araghchi-iran-continues-to-give-diplomacy-a-chance-to-succeed/",
+      "datum": "2026-10-28T16:58:56.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "UK budget: Growth forecasts cut as Healey unveils £15 billion fiscal buffer",
@@ -73,12 +85,6 @@
       "datum": "2026-10-28T03:18:59.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "Australia trimmed mean CPI rises to 3.7%, above forecasts, as RBA hike case firms",
-      "link": "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/",
-      "datum": "2026-10-28T00:52:42.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
@@ -107,12 +113,6 @@
       "titel": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
       "datum": "2026-10-07T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-      "datum": "2026-10-05T20:30:00.000Z"
     }
   ]
 }

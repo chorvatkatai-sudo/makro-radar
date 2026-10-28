@@ -725,7 +725,7 @@
     "title": "MBA Mortgage Market Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "195",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -735,7 +735,7 @@
     "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "134.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -745,7 +745,7 @@
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "516.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -755,7 +755,7 @@
     "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -765,7 +765,7 @@
     "title": "MBA 30-Year Mortgage Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "7.37",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -825,7 +825,7 @@
     "title": "Exports",
     "impact": "Medium",
     "forecast": "",
-    "previous": "315.2",
+    "previous": "315.2 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -835,7 +835,7 @@
     "title": "Imports",
     "impact": "Medium",
     "forecast": "",
-    "previous": "420.8",
+    "previous": "420.8 $",
     "actual": null,
     "quelle": "tradingview"
   },

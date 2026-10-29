@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-28T18:36:34.737Z",
+  "stand": "2026-10-29T06:14:34.139Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil eases on Vance’s Iran outreach",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-vance-s-iran-outreach/",
+      "datum": "2026-10-29T03:33:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 28 Oct: Fed holds rates, yield curve steepens as Big Tech earnings diverge",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/",
+      "datum": "2026-10-28T20:56:52.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Thursday, October 29, 2026",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-october-29-2026/",
+      "datum": "2026-10-28T19:56:30.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Qatar trying to convince Iran to allow UN nuclear inspectors - report",
+      "link": "https://investinglive.com/news/qatar-trying-to-convince-iran-to-allow-un-nuclear-inspectors-report/",
+      "datum": "2026-10-28T18:13:35.000Z"
+    },
     {
       "quelle": "Fed",
       "titel": "Federal Reserve issues FOMC statement",
@@ -59,30 +83,6 @@
       "titel": "Germany's trade struggles with China set to put Asia-Pacific deficit on course for record high",
       "link": "https://investinglive.com/news/germany-s-trade-struggles-with-china-set-to-put-asia-pacific-deficit-on-course-for-record-high/",
       "datum": "2026-10-28T07:46:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-73/",
-      "datum": "2026-10-28T07:36:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany consumer sentiment remains weak ahead of November as inflation fears cloud recovery outlook",
-      "link": "https://investinglive.com/news/germany-consumer-sentiment-remains-weak-ahead-of-november-as-inflation-fears-cloud-recovery-outlook/",
-      "datum": "2026-10-28T07:00:09.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "European markets brace for Fed decision as hot Australia CPI, RBNZ surprise and oil rally stir nerves",
-      "link": "https://investinglive.com/news/european-markets-brace-for-fed-decision-as-hot-australia-cpi-rbnz-surprise-and-oil-rally-stir-nerves/",
-      "datum": "2026-10-28T04:15:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD/NZD",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-hawkish-rba-surprise-rbnz-hold-lift-aud-nzd/",
-      "datum": "2026-10-28T03:18:59.000Z"
     },
     {
       "quelle": "Fed",

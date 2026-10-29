@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-28T18:36:34.739Z",
+  "stand": "2026-10-29T06:13:53.172Z",
   "ausBriefing": "2026-10-23",
   "overlayAktiv": true,
   "paare": [
@@ -22,7 +22,7 @@
       "tiltGesamt": -5,
       "score": -3,
       "cotExtrem": "erhoeht",
-      "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. ~96–98% eingepreist + extreme Shorts halten das Pfund auf dem 5-Wochen-Hoch ~1,34. ABER heute der britische Herbst-Haushalt = Zwei-Richtungs-Risiko → von +3 auf +2 getrimmt. Bestes Paar-Track-Record, aber ein Teil ist gelaufen.",
+      "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. (~96–98%) + erhöhte Shorts stützen das Pfund (~1,33). Der gestrige Herbst-Haushalt löste das Zwei-Richtungs-Risiko ohne Knall — das Pfund blieb aber verhalten. Bewusst klein positiv; bestes Paar im Track-Record, aber ein Teil ist gelaufen.",
       "istCross": false
     },
     {
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -3,
+      "baseScore": -4,
       "tiltCot": 4,
       "tiltZins": -7,
       "tiltGesamt": -3,
-      "score": -6,
+      "score": -7,
       "cotExtrem": null,
-      "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
+      "treiber": "GEDREHT verstärkt (Mi 28.10.): Bank of Canada ERHÖHTE überraschend auf 2,50% (Markt erwartete Halten) → Loonie-Schub, dazu teures Öl (Nahost) und der stärkste 2-Jahres-Zins-Anstieg aller Währungen. Kühle Kern-Inflation dämpft leicht. Vom Dollar-Block über die eigene Zins-/Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
       "istCross": false
     },
     {
@@ -66,7 +66,7 @@
       "tiltGesamt": 4,
       "score": 5,
       "cotExtrem": null,
-      "treiber": "Steigender VIX gibt dem Franken etwas Hafen-Bid, aber die hohen US-Zinsen halten das Geld in den USA → nur ein kleines Dollar-Plus, fast neutral.",
+      "treiber": "Das Angst-Barometer beruhigte sich (VIX ~17) → dem Franken fehlt der Hafen-Zufluss, während die hohen US-Zinsen das Geld in den USA halten. Netto nur ein kleines Dollar-Plus, fast neutral.",
       "istCross": false
     },
     {

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-28T18:36:35.424Z",
+ "erstellt": "2026-10-29T06:13:53.207Z",
  "wochenStart": "2026-10-25",
  "events": [
   {
@@ -2754,8 +2754,8 @@ window.MAKRO_DATA = {
    },
    "GBP": {
     "stimmung": "bullisch",
-    "score": 3,
-    "grund": "Die heiße UK-Inflation (3,5%, Dienstleistungen 3,7%) zündete den Pfund-Squeeze, das Pfund hält sich auf dem 5-Wochen-Hoch ~1,34; die Zinserhöhung der Bank von England am 5.11. gilt zu ~96–98% als sicher, die Shorts bleiben extrem. ABER heute Nachmittag kommt der britische Herbst-Haushalt — ein echtes Zwei-Richtungs-Risiko: enttäuscht er die Anleihemärkte, kann das Pfund trotz Zinserhöhung einknicken. Deshalb heute von +4 auf +3 getrimmt (bestes Paar im Track-Record, aber Teil der Bewegung ist gelaufen)."
+    "score": 2,
+    "grund": "Die heiße UK-Inflation (3,5%) und die fast sichere Zinserhöhung am 5.11. (~96–98%) stützen das Pfund weiter, die Shorts bleiben erhöht. Der gestrige Herbst-Haushalt löste das befürchtete Zwei-Richtungs-Risiko ohne Knall — das Pfund reagierte aber nur verhalten und gab leicht nach (~1,33), kein Squeeze-Zünder. Deshalb bewusst klein positiv."
    },
    "JPY": {
     "stimmung": "bärisch",
@@ -2764,13 +2764,13 @@ window.MAKRO_DATA = {
    },
    "CHF": {
     "stimmung": "neutral",
-    "score": 1,
-    "grund": "Das Angst-Barometer stieg (VIX ~19,8) → eigentlich ein Sicherheits-Bid für den Franken. ABER die hohen US-Zinsen halten das Geld lieber in den USA, der Hafen-Zufluss ist gedämpft → nur ein kleines Plus. SNB bei 0%, sonst unauffällig."
+    "score": 0,
+    "grund": "Das Angst-Barometer hat sich diese Woche beruhigt (VIX von ~19 auf ~17) — der Sicherheits-Zufluss in den Franken lässt damit nach. Zusammen mit den hohen US-Zinsen (Geld bleibt lieber in den USA) ergibt das keinen klaren Treiber → neutral. SNB bei 0%."
    },
    "CAD": {
     "stimmung": "bullisch",
-    "score": 4,
-    "grund": "Öl-Gewinner (WTI ~101$, Brent ~110$ wegen Nahost-Spannungen) UND der kanadische 2-Jahres-Zins stieg diese Woche am stärksten aller Währungen = Zins-Rückenwind. Dagegen: die Kern-Inflation fiel unter das Ziel (1,8–1,9%), die Bank of Canada kann am Mi gelassen halten. Per Saldo eigene, vom Dollar gelöste Loonie-Story → moderat positiv."
+    "score": 5,
+    "grund": "Doppelter Rückenwind: Die Bank of Canada ERHÖHTE am Mi überraschend auf 2,50% (erste seit Juli 2023, Markt erwartete Halten) — Begründung Inflationsrisiken + teures Öl „länger höher\". Dazu stieg der kanadische 2-Jahres-Zins diese Woche am stärksten aller Währungen und das Öl bleibt teuer (Nahost). Dagegen nur die zuletzt kühle Kern-Inflation. Eigene, vom Dollar gelöste Loonie-Story → moderat positiv."
    },
    "AUD": {
     "stimmung": "bullisch",
@@ -2792,7 +2792,7 @@ window.MAKRO_DATA = {
    {
     "paar": "GBP/USD",
     "score": 2,
-    "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. ~96–98% eingepreist + extreme Shorts halten das Pfund auf dem 5-Wochen-Hoch ~1,34. ABER heute der britische Herbst-Haushalt = Zwei-Richtungs-Risiko → von +3 auf +2 getrimmt. Bestes Paar-Track-Record, aber ein Teil ist gelaufen."
+    "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. (~96–98%) + erhöhte Shorts stützen das Pfund (~1,33). Der gestrige Herbst-Haushalt löste das Zwei-Richtungs-Risiko ohne Knall — das Pfund blieb aber verhalten. Bewusst klein positiv; bestes Paar im Track-Record, aber ein Teil ist gelaufen."
    },
    {
     "paar": "USD/JPY",
@@ -2806,13 +2806,13 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": -3,
-    "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter)."
+    "score": -4,
+    "treiber": "GEDREHT verstärkt (Mi 28.10.): Bank of Canada ERHÖHTE überraschend auf 2,50% (Markt erwartete Halten) → Loonie-Schub, dazu teures Öl (Nahost) und der stärkste 2-Jahres-Zins-Anstieg aller Währungen. Kühle Kern-Inflation dämpft leicht. Vom Dollar-Block über die eigene Zins-/Öl-Story gelöst → loonie-positiv (USD/CAD runter)."
    },
    {
     "paar": "USD/CHF",
     "score": 1,
-    "treiber": "Steigender VIX gibt dem Franken etwas Hafen-Bid, aber die hohen US-Zinsen halten das Geld in den USA → nur ein kleines Dollar-Plus, fast neutral."
+    "treiber": "Das Angst-Barometer beruhigte sich (VIX ~17) → dem Franken fehlt der Hafen-Zufluss, während die hohen US-Zinsen das Geld in den USA halten. Netto nur ein kleines Dollar-Plus, fast neutral."
    },
    {
     "paar": "NZD/USD",
@@ -2928,21 +2928,21 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (unverändert — Cloud-403 verhindert neue frankfurter-Auswertung): wochenWette 7/16 = 44%, Konzentration 90%, Zufallsband [4,12] → NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 55% vs. nurBase 52%). KEIN belegter Vorsprung. Deshalb Scores bewusst klein (|score| ≤ 4) und diversifiziert: Diese Woche sind die Paare NICHT monolithisch (3 anti-Dollar via EUR/GBP/CAD-Eigenstories, 4 pro-Dollar) — der Dollar ist genuin neutral, also kein 7-fach-identischer Dollar-Call."
   ],
   "tagesnews": {
-   "stand": "2026-10-28",
-   "wochentag": "Mittwoch",
-   "tenor": "Notenbank-Tag: heute Abend die US-Notenbank, dazu Kanada und der britische Haushalt — über Nacht kam Australiens Inflation heiß, Neuseeland hielt überraschend still und ließ seinen Dollar fallen.",
+   "stand": "2026-10-29",
+   "wochentag": "Donnerstag",
+   "tenor": "US-Notenbank hielt gestern die Zinsen (Dezember-Erhöhung jetzt wahrscheinlicher), Kanada erhöhte überraschend; heute kommen US-Inflation und -Wachstum, danach die Europäische Zentralbank.",
    "heute": [
-    "🏦 Großer Entscheidungstag: HEUTE ABEND die US-Notenbank (Zinsen halten gilt zu ~93% als sicher — der Ton von Chef Warsh entscheidet, ob eine Erhöhung im Dezember kommt), am Nachmittag die Bank of Canada (hält wohl bei 2,25%) und der britische Herbst-Haushalt. Drei Ereignisse, die Dollar, Loonie und Pfund kräftig bewegen können.",
-    "🇦🇺 Australiens Inflation kam HEISS: 4,3% aufs Jahr (erwartet 4,2%, Vormonat 4,0%), der harte Kern 3,6–3,7% — Treiber waren Benzin und Wohnen. Eine Zinserhöhung am 3.11. ist jetzt zu rund 80% eingepreist → der Aussie sprang auf ein Monatshoch (~0,705).",
-    "🇳🇿 Neuseelands Notenbank ließ den Leitzins ÜBERRASCHEND bei 2,75% (knappe 4:3-Abstimmung) — der Markt hatte zu ~90% eine Erhöhung auf 3,00% erwartet. Der Kiwi stürzte rund 1,7% ab (~0,559). Die Notenbank signalisierte zwar weitere Straffung (evtl. Dezember), doch die Enttäuschung überwog.",
-    "🇬🇧 Der britische Herbst-Haushalt am Nachmittag ist ein echtes Pfund-Risiko in BEIDE Richtungen: enttäuscht er die Anleihemärkte, kann das Pfund trotz der fast sicheren Zinserhöhung am 5.11. einknicken. Deshalb heute die Pfund-Einschätzung bewusst zurückgenommen."
+    "🇺🇸 Heute Mittag (13:30 Wien) kommt die wichtigste US-Inflationszahl (Kern-PCE, der Lieblingswert der Notenbank) zusammen mit dem Wirtschaftswachstum im dritten Quartal. Erwartet: Inflation ~3,1% aufs Jahr (leicht steigend) und kräftiges Wachstum ~3,1%. Kommt es heiß, wird der Dollar fester und die Dezember-Erhöhung noch sicherer; kommt es kühl, bekommt der gestrige Zins-Stillstand Rückenwind.",
+    "🇪🇺 Nachmittags (14:15 Wien) entscheidet die Europäische Zentralbank — sie hält wohl still. Entscheidend ist der Ton von Chefin Lagarde: Deutet sie weitere Erhöhungen an (der Markt rechnet noch mit rund drei), stützt das den Euro trotz der Rekord-Wetten gegen ihn. Daneben Fragen zur Haushaltskrise in Frankreich und zu Lagardes eigener Zukunft.",
+    "📊 Der Euro sitzt auf der größten je gemessenen Wette GEGEN ihn. Dreht heute die Stimmung, kann es schnell und heftig nach oben gehen (eine sogenannte Eindeckung). Genau das ist das Pulverfass unter der EZB-Entscheidung.",
+    "🇯🇵 Zur Vorschau: Morgen früh (4:00 Wien) entscheidet Japans Notenbank — ein Halten gilt als wahrscheinlich, eine Erhöhung eher erst im Dezember."
    ],
    "gestern": [
-    "🟡 Der Dienstag brachte nur kleinere US-Zahlen. Über die Woche hat der Dollar leicht zugelegt (Dollar-Index wieder über 102) — getragen vom Abwarten vor der US-Notenbank und davon, dass die monatelange Flucht ins Gold nachlässt (Gold rund 4.070 Dollar, der Deckel für den Dollar fällt damit weg).",
-    "🛢️ Öl bleibt teuer (WTI nahe 100 Dollar, Brent über 109 Dollar wegen der Nahost-Spannungen) — Rückenwind für den kanadischen Dollar, der zusätzlich vom stärksten Zins-Anstieg aller großen Währungen gestützt wird. Das stützt die Loonie-Einschätzung vor der Bank of Canada heute.",
-    "📈 Zur Vorsicht: Das Angst-Barometer der Börse ist erhöht (nervös), und die langen US-Zinsen fielen zuletzt (10 Jahre knapp unter 5%). Der Dollar steht damit auf wackligem Fundament — das Wochenhoch ist eher Abwarten als echte Stärke.",
-    "⚠️ Die Großspekulanten sitzen auf extremen Wetten GEGEN Euro (die größte je gemessene), gegen Australien- und Neuseeland-Dollar und auf einer überfüllten Wette FÜR den Yen. Beim Aussie zündete die heiße Inflation heute genau so einen Rückschlag der Wetten — das kann schnell gehen.",
-    "🎲 Zur Einordnung: Unsere Wochen-Trefferquote liegt bei 47 Prozent — statistisch ein Münzwurf. Darum bleiben die Einschätzungen bewusst klein; in einer Notenbank-Woche zählt der Ton der Chefs, nicht die Zahl allein."
+    "🏦 Die US-Notenbank hielt die Zinsen bei 3,75–4,00% — aber ZWEI Mitglieder stimmten für eine ERHÖHUNG. Chef Warsh gab bewusst keinen Ausblick auf Dezember, nannte die Inflation aber „hartnäckig zu hoch\" und die Wirtschaft stark. Der Markt preist eine Dezember-Erhöhung jetzt zu rund 85%. Trotzdem gab der Dollar leicht nach (~101,8) — das Erwartete war längst eingepreist.",
+    "🇨🇦 ÜBERRASCHUNG aus Kanada: Die Bank of Canada ERHÖHTE auf 2,50% — die erste Erhöhung seit Juli 2023, obwohl der Markt ein Halten erwartet hatte. Begründung: steigende Inflationsrisiken und teures Öl „länger höher\". Der kanadische Dollar bekam damit doppelten Rückenwind (Öl + Zins). Unsere Prognose „Halten\" lag daneben.",
+    "🇬🇧 Der britische Herbst-Haushalt (Kanzler Healey) brachte kaum Überraschungen — das Pfund reagierte verhalten und gab leicht nach (~1,33). Das befürchtete Zwei-Richtungs-Risiko löste sich ohne Knall; die britische Zinserhöhung am 5.11. bleibt fast vollständig eingepreist.",
+    "🇦🇺🇳🇿 Nachwirkung aus Ozeanien: Australiens heiße Inflation hält den Aussie auf Monatshoch (~0,705, Erhöhung am 3.11. zu ~80% erwartet), während Neuseelands Kiwi nach dem überraschenden Zins-Stillstand am Boden bleibt (~0,559).",
+    "🌡️ Stimmung: Das Angst-Barometer der Börse hat sich diese Woche beruhigt (von ~19 auf ~17) — die Nervosität lässt nach. Das hilft eher den risikofreudigen Währungen (Australien) und nimmt den sicheren Häfen (Franken, Yen) etwas Zufluss."
    ]
   }
  },
@@ -3900,7 +3900,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -5,
    "score": -3,
    "cotExtrem": "erhoeht",
-   "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. ~96–98% eingepreist + extreme Shorts halten das Pfund auf dem 5-Wochen-Hoch ~1,34. ABER heute der britische Herbst-Haushalt = Zwei-Richtungs-Risiko → von +3 auf +2 getrimmt. Bestes Paar-Track-Record, aber ein Teil ist gelaufen.",
+   "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. (~96–98%) + erhöhte Shorts stützen das Pfund (~1,33). Der gestrige Herbst-Haushalt löste das Zwei-Richtungs-Risiko ohne Knall — das Pfund blieb aber verhalten. Bewusst klein positiv; bestes Paar im Track-Record, aber ein Teil ist gelaufen.",
    "istCross": false
   },
   {
@@ -3927,13 +3927,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -3,
+   "baseScore": -4,
    "tiltCot": 4,
    "tiltZins": -7,
    "tiltGesamt": -3,
-   "score": -6,
+   "score": -7,
    "cotExtrem": null,
-   "treiber": "Öl teuer (Nahost) UND kanadischer 2-Jahres-Zins stieg am stärksten = doppelter Loonie-Rückenwind; die kühle Kern-Inflation dämpft. Vom Dollar-Block über die Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
+   "treiber": "GEDREHT verstärkt (Mi 28.10.): Bank of Canada ERHÖHTE überraschend auf 2,50% (Markt erwartete Halten) → Loonie-Schub, dazu teures Öl (Nahost) und der stärkste 2-Jahres-Zins-Anstieg aller Währungen. Kühle Kern-Inflation dämpft leicht. Vom Dollar-Block über die eigene Zins-/Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
    "istCross": false
   },
   {
@@ -3944,7 +3944,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": 4,
    "score": 5,
    "cotExtrem": null,
-   "treiber": "Steigender VIX gibt dem Franken etwas Hafen-Bid, aber die hohen US-Zinsen halten das Geld in den USA → nur ein kleines Dollar-Plus, fast neutral.",
+   "treiber": "Das Angst-Barometer beruhigte sich (VIX ~17) → dem Franken fehlt der Hafen-Zufluss, während die hohen US-Zinsen das Geld in den USA halten. Netto nur ein kleines Dollar-Plus, fast neutral.",
    "istCross": false
   },
   {
@@ -4004,16 +4004,16 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-28T18:36:34.748Z",
+  "stand": "2026-10-29T06:13:53.206Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
-  "gewertet": 34,
-  "nichtWertbar": 41,
-  "treffer": 15,
-  "quote": 44,
+  "gewertet": 35,
+  "nichtWertbar": 40,
+  "treffer": 16,
+  "quote": 46,
   "zinsentscheide": {
-   "treffer": 9,
-   "gesamt": 9,
+   "treffer": 10,
+   "gesamt": 10,
    "quote": 100
   },
   "datenPrognosen": {
@@ -4035,9 +4035,9 @@ window.MAKRO_DATA = {
    "pWert": 0.607
   },
   "exakt": {
-   "treffer": 2,
-   "gesamt": 13,
-   "quote": 15
+   "treffer": 3,
+   "gesamt": 14,
+   "quote": 21
   },
   "textdeutung": {
    "treffer": 13,
@@ -4045,15 +4045,6 @@ window.MAKRO_DATA = {
    "quote": 62
   },
   "letzte": [
-   {
-    "event": "SNB-Zinsentscheid (Schweizer Notenbank)",
-    "datum": "2026-09-24",
-    "richtung": "wie_erwartet",
-    "tatsaechlich": "wie_erwartet",
-    "konsens": "0.00%",
-    "ist": "0.00%",
-    "treffer": true
-   },
    {
     "event": "US-Kern-PCE (Kern-Konsumausgaben-Preise, m/m)",
     "datum": "2026-09-30",
@@ -4116,6 +4107,15 @@ window.MAKRO_DATA = {
     "konsens": "3.4%",
     "ist": "3.5%",
     "treffer": false
+   },
+   {
+    "event": "Fed-Zinsentscheid (Oktober)",
+    "datum": "2026-10-28",
+    "richtung": "wie_erwartet",
+    "tatsaechlich": "wie_erwartet",
+    "konsens": "4.00%",
+    "ist": "4%",
+    "treffer": true
    }
   ]
  },

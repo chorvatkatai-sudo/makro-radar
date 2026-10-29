@@ -1,14 +1,14 @@
 {
-  "stand": "2026-10-28T18:36:34.748Z",
+  "stand": "2026-10-29T06:13:53.206Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
-  "gewertet": 34,
-  "nichtWertbar": 41,
-  "treffer": 15,
-  "quote": 44,
+  "gewertet": 35,
+  "nichtWertbar": 40,
+  "treffer": 16,
+  "quote": 46,
   "zinsentscheide": {
-    "treffer": 9,
-    "gesamt": 9,
+    "treffer": 10,
+    "gesamt": 10,
     "quote": 100
   },
   "datenPrognosen": {
@@ -30,9 +30,9 @@
     "pWert": 0.607
   },
   "exakt": {
-    "treffer": 2,
-    "gesamt": 13,
-    "quote": 15
+    "treffer": 3,
+    "gesamt": 14,
+    "quote": 21
   },
   "textdeutung": {
     "treffer": 13,
@@ -40,15 +40,6 @@
     "quote": 62
   },
   "letzte": [
-    {
-      "event": "SNB-Zinsentscheid (Schweizer Notenbank)",
-      "datum": "2026-09-24",
-      "richtung": "wie_erwartet",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "0.00%",
-      "ist": "0.00%",
-      "treffer": true
-    },
     {
       "event": "US-Kern-PCE (Kern-Konsumausgaben-Preise, m/m)",
       "datum": "2026-09-30",
@@ -111,6 +102,15 @@
       "konsens": "3.4%",
       "ist": "3.5%",
       "treffer": false
+    },
+    {
+      "event": "Fed-Zinsentscheid (Oktober)",
+      "datum": "2026-10-28",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "4.00%",
+      "ist": "4%",
+      "treffer": true
     }
   ]
 }

@@ -19828,8 +19828,8 @@
       "impact": "High",
       "prognose": "2.65%",
       "vorher": "2.65%",
-      "actual": null,
-      "notiz": null
+      "actual": "2.65%",
+      "notiz": "auto:TV rate (2026-10-29)"
     },
     "2026-10-29T09:15:00-04:00|EUR|Monetary Policy Statement": {
       "datum": "2026-10-29T09:15:00-04:00",
@@ -20273,6 +20273,16 @@
     },
     "2026-10-29T06:45:00-04:00|EUR|Italian 10-y Bond Auction": {
       "datum": "2026-10-29T06:45:00-04:00",
+      "land": "EUR",
+      "titel": "Italian 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "4.58|1.6",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-10-29T06:08:00-04:00|EUR|Italian 10-y Bond Auction": {
+      "datum": "2026-10-29T06:08:00-04:00",
       "land": "EUR",
       "titel": "Italian 10-y Bond Auction",
       "impact": "Low",

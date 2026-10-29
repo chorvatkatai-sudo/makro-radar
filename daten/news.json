@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-29T11:14:02.177Z",
+  "stand": "2026-10-29T14:02:08.120Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US September PCE core inflation +0.5% m/m vs +0.3% expected",
+      "link": "https://investinglive.com/news/us-september-pce-core-inflation-m-m-vs-0-3-expected/",
+      "datum": "2026-10-29T12:30:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US GDP Advance for the 3rd quarter 3.4% vs 3.2% estimate",
+      "link": "https://investinglive.com/news/us-gdp-advance-for-the-3rd-quarter-3-4-vs-3-2-estimate/",
+      "datum": "2026-10-29T12:30:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US initial jobless claims 194K vs 199K expected",
+      "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-199k-expected/",
+      "datum": "2026-10-29T12:30:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-diverge-as-markets-brace-for-us-inflation-ecb-and-amazon-earnings/",
+      "datum": "2026-10-29T12:11:06.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
@@ -59,30 +83,6 @@
       "titel": "Iran's Araghchi: Iran continues to give diplomacy a chance to succeed",
       "link": "https://investinglive.com/news/iran-s-araghchi-iran-continues-to-give-diplomacy-a-chance-to-succeed/",
       "datum": "2026-10-28T16:58:56.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK budget: Growth forecasts cut as Healey unveils £15 billion fiscal buffer",
-      "link": "https://investinglive.com/news/uk-budget-growth-forecasts-cut-as-healey-unveils-15-billion-fiscal-buffer/",
-      "datum": "2026-10-28T12:59:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US Wholesale inventories 0.6% vs 0.5% estimate",
-      "link": "https://investinglive.com/news/us-wholesale-inventories-0-6-vs-0-5-estimate/",
-      "datum": "2026-10-28T12:31:03.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US September advance goods trade balance -134.9 billion vs -130.2 billion expected",
-      "link": "https://investinglive.com/news/us-september-advance-goods-trade-balance-vs-130-2-billion-expected/",
-      "datum": "2026-10-28T12:30:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Stocks tread cautiously as Fed decision and big tech earnings loom",
-      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-28-oct/",
-      "datum": "2026-10-28T12:08:56.000Z"
     },
     {
       "quelle": "Fed",

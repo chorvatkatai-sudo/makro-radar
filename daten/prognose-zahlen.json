@@ -1,14 +1,14 @@
 {
-  "stand": "2026-10-29T14:02:08.129Z",
+  "stand": "2026-10-29T18:45:06.542Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
-  "gewertet": 35,
-  "nichtWertbar": 40,
-  "treffer": 16,
-  "quote": 46,
+  "gewertet": 36,
+  "nichtWertbar": 39,
+  "treffer": 17,
+  "quote": 47,
   "zinsentscheide": {
-    "treffer": 10,
-    "gesamt": 10,
+    "treffer": 11,
+    "gesamt": 11,
     "quote": 100
   },
   "datenPrognosen": {
@@ -30,9 +30,9 @@
     "pWert": 0.607
   },
   "exakt": {
-    "treffer": 3,
-    "gesamt": 14,
-    "quote": 21
+    "treffer": 4,
+    "gesamt": 15,
+    "quote": 27
   },
   "textdeutung": {
     "treffer": 13,
@@ -40,15 +40,6 @@
     "quote": 62
   },
   "letzte": [
-    {
-      "event": "US-Kern-PCE (Kern-Konsumausgaben-Preise, m/m)",
-      "datum": "2026-09-30",
-      "richtung": "hoeher",
-      "tatsaechlich": "niedriger",
-      "konsens": "0.3%",
-      "ist": "0.2",
-      "treffer": false
-    },
     {
       "event": "US-Arbeitsmarktbericht (Jobbericht / Non-Farm Payrolls)",
       "datum": "2026-10-02",
@@ -110,6 +101,15 @@
       "tatsaechlich": "wie_erwartet",
       "konsens": "4.00%",
       "ist": "4%",
+      "treffer": true
+    },
+    {
+      "event": "EZB-Zinsentscheid (Oktober)",
+      "datum": "2026-10-29",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "2.65%",
+      "ist": "2.65%",
       "treffer": true
     }
   ]

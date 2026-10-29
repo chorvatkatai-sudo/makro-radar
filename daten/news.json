@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-29T06:14:34.139Z",
+  "stand": "2026-10-29T11:14:02.177Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
+      "link": "https://investinglive.com/news/trump-administration-in-ongoing-talks-for-a-temporary-peace-deal-with-iran-semafor/",
+      "datum": "2026-10-29T09:03:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-74/",
+      "datum": "2026-10-29T07:34:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive US PCE inflation?",
+      "link": "https://investinglive.com/news/economic-data-spotlight-fed-rate-hike-bets-survived-warsh-but-can-they-survive-us-pce-inflation/",
+      "datum": "2026-10-29T06:13:39.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Oil eases on Vance’s Iran outreach",
@@ -65,24 +83,6 @@
       "titel": "investingLive European session wrap: Stocks tread cautiously as Fed decision and big tech earnings loom",
       "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-28-oct/",
       "datum": "2026-10-28T12:08:56.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Heads up: UK autumn budget puts Healey to the test as gilt markets await fiscal reassurance",
-      "link": "https://investinglive.com/news/heads-up-uk-autumn-budget-puts-healey-to-the-test-as-gilt-markets-await-fiscal-reassurance/",
-      "datum": "2026-10-28T10:09:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Qatari mediators presented Iran with new draft deal; Iran's response expected by the end of the week",
-      "link": "https://investinglive.com/news/qatari-mediators-presented-iran-with-new-draft-deal-iran-s-response-expected-by-the-end-of-the-week/",
-      "datum": "2026-10-28T08:46:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany's trade struggles with China set to put Asia-Pacific deficit on course for record high",
-      "link": "https://investinglive.com/news/germany-s-trade-struggles-with-china-set-to-put-asia-pacific-deficit-on-course-for-record-high/",
-      "datum": "2026-10-28T07:46:42.000Z"
     },
     {
       "quelle": "Fed",

@@ -1,6 +1,6 @@
 {
-  "stand": "2026-10-30T13:56:18.656Z",
-  "ausBriefing": "2026-10-23",
+  "stand": "2026-10-30T14:39:09.385Z",
+  "ausBriefing": "2026-10-30",
   "overlayAktiv": true,
   "paare": [
     {
@@ -11,7 +11,7 @@
       "tiltGesamt": 3,
       "score": 4,
       "cotExtrem": "extrem",
-      "treiber": "Extreme Euro-Shorts (größte je gemessen) + heiße Inflation (3,8%) + knapp verworfene Erhöhung heben, aber Lagardes angekündigter Rückzug (Februar 2027) und die Frankreich-Haushaltskrise deckeln, dazu die festen US-Daten. Bewusst winzig; Track-Record hier schwach (~38%).",
+      "treiber": "Die größte je gemessene Euro-Short-Wette (extremes Squeeze-Risiko) + heiße Inflation (3,8%) + knapp verworfene EZB-Erhöhung heben, aber Lagardes angekündigter Rückzug (Februar 2027), schwache Einkaufsmanager-Zahlen (Frankreich schrumpft) und die festen US-Daten deckeln. Bewusst winzig; Track-Record hier schwach (~35%).",
       "istCross": false
     },
     {
@@ -22,7 +22,7 @@
       "tiltGesamt": -2,
       "score": 0,
       "cotExtrem": "erhoeht",
-      "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. (~96–98%) + erhöhte Shorts stützen das Pfund (~1,33). Der Herbst-Haushalt löste das Zwei-Richtungs-Risiko ohne Knall — das Pfund blieb verhalten. Bewusst klein positiv; bestes Paar im Track-Record, aber ein Teil ist gelaufen.",
+      "treiber": "Heiße UK-Inflation (3,5%) + fast sichere Zinserhöhung der Bank von England am Do 5.11. (~94% auf 4,00%) + noch erhöhte Shorts stützen das Pfund. Bewusst moderat, weil ein Teil der Erhöhung schon eingepreist ist. Eines der besten Paare im Track-Record (59%).",
       "istCross": false
     },
     {
@@ -33,7 +33,7 @@
       "tiltGesamt": -10,
       "score": -8,
       "cotExtrem": null,
-      "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar) und die Bank von Japan hielt heute still (leicht straffer Ton, aber kein Impuls). Das beruhigte Angst-Barometer nimmt dem Hafen-Yen Zufluss, der Carry-Nachteil wiegt. Schwächstes Paar im Track-Record (33%) → nahe neutral.",
+      "treiber": "Bewusst klein: Yen ist weiter überfüllt net-LONG (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hielt still (leicht straffer Ton, aber kein Impuls), der Carry-Nachteil wiegt. Dämpfend: Das leicht gestiegene Angst-Barometer gibt dem Hafen-Yen etwas Zufluss zurück, und die US-Zinsen fielen. Schwächstes Paar im Track-Record (38%) → nahe neutral.",
       "istCross": false
     },
     {
@@ -44,18 +44,18 @@
       "tiltGesamt": 5,
       "score": 9,
       "cotExtrem": "extrem",
-      "treiber": "Heiße australische Inflation (4,3%, Kern 3,6–3,7%) → Zinserhöhung am 3.11. ~80% eingepreist, Aussie auf Monatshoch ~0,705. Extreme Shorts = Squeeze-Zünder; die zurückkehrende Risikofreude (ruhigeres Angst-Barometer) hilft jetzt. Vom Dollar-Block über die eigene Story gelöst. Die festen US-Daten deckeln, daher bewusst klein.",
+      "treiber": "Heiße australische Inflation (4,3%) → fünfte Zinserhöhung am Di 3.11. ~85–90% eingepreist (auf 4,85%). Höchster 2-Jahres-Zins aller großen Währungen und der einzige, der diese Woche STIEG = klarer Zins-Rückenwind. Extreme Shorts = Squeeze-Zünder. Sauber vom Dollar-Block über die eigene Story gelöst; die festen US-Daten deckeln, daher nicht aggressiv.",
       "istCross": false
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -4,
+      "baseScore": -3,
       "tiltCot": 4,
       "tiltZins": -7,
       "tiltGesamt": -3,
-      "score": -7,
+      "score": -6,
       "cotExtrem": null,
-      "treiber": "Bank of Canada erhöhte überraschend auf 2,50% (Markt erwartete Halten) → Loonie-Story, dazu teures Öl (~103$) und starker 2-Jahres-Zins-Anstieg. ABER die Marktreaktion war verhalten (Loonie kaum bewegt) und die Bank mahnte Vorsicht — kühle Kern-Inflation dämpft. Vom Dollar-Block gelöst, loonie-positiv (USD/CAD runter), aber nicht aggressiv.",
+      "treiber": "Bank of Canada erhöhte überraschend auf 2,50% (Markt erwartete Halten) → eigene Loonie-Story, dazu teures Öl (~104$). ABER die Marktreaktion war verhalten (Loonie kaum bewegt) und die Bank mahnte Vorsicht — die kühle Kern-Inflation dämpft. Vom Dollar-Block gelöst, loonie-positiv (USD/CAD runter), aber nicht aggressiv.",
       "istCross": false
     },
     {
@@ -66,18 +66,18 @@
       "tiltGesamt": -3,
       "score": -1,
       "cotExtrem": null,
-      "treiber": "Das Angst-Barometer beruhigte sich (VIX ~17) → dem Franken fehlt der Hafen-Zufluss, während die hohen US-Zinsen das Geld in den USA halten und die US-Daten fest kamen. Netto kleines Dollar-Plus, fast neutral.",
+      "treiber": "Das leicht gestiegene Angst-Barometer (VIX ~18,9) gibt dem Franken etwas Hafen-Zufluss zurück — das dämpft. Dagegen halten die hohen US-Zinsen Geld in den USA und die US-Daten kamen fest. Netto kleines Dollar-Plus, fast neutral.",
       "istCross": false
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -2,
+      "baseScore": -3,
       "tiltCot": -2,
       "tiltZins": -2,
       "tiltGesamt": -4,
-      "score": -6,
+      "score": -7,
       "cotExtrem": "extrem",
-      "treiber": "Die neuseeländische Notenbank hielt überraschend bei 2,75% (4:3), der Markt hatte ~90% eine Erhöhung erwartet → Kiwi −1,7% (~0,559). Die Enttäuschung altert; extreme Shorts + zurückkehrende Risikofreude begrenzen den Rückgang → nur moderat negativ.",
+      "treiber": "Die neuseeländische Notenbank hielt überraschend bei 2,75% (4:3), und der 2-Jahres-Zins fiel diese Woche am stärksten von allen = Zins-Momentum klar gegen den Kiwi. Gegengewicht: extreme Shorts (Squeeze-Risiko) begrenzen den Rückgang → moderat negativ. Gutes Paar im Track-Record (60%), aber die Richtung ist hier zins-getrieben negativ.",
       "istCross": false
     },
     {

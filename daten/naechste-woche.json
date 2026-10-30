@@ -1422,7 +1422,7 @@
   {
     "date": "2026-11-05T21:30:00.000Z",
     "country": "USD",
-    "title": "Reserve Balances with Fed Banks",
+    "title": "Fed Balance Sheet",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1432,10 +1432,10 @@
   {
     "date": "2026-11-05T21:30:00.000Z",
     "country": "USD",
-    "title": "Fed Balance Sheet",
+    "title": "Reserve Balances with Fed Banks",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "2.895",
     "actual": null,
     "quelle": "tradingview"
   },

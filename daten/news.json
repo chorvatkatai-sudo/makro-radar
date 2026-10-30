@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-29T18:45:06.535Z",
+  "stand": "2026-10-30T00:42:41.209Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Tokyo October CPI 2.8% (2.7% expected)",
+      "link": "https://investinglive.com/news/tokyo-october-cpi-2-8-2-7-expected/",
+      "datum": "2026-10-29T23:30:57.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "datum": "2026-10-29T20:30:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: ECB holds, sources report says December hike",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-ecb-holds-sources-report-says-december-hike/",
+      "datum": "2026-10-29T20:14:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
+      "link": "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/",
+      "datum": "2026-10-29T18:29:25.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Iran's Ghalibaf: Progress can only be achieved once the seven conditions have been agreed upon",
@@ -61,24 +85,6 @@
       "datum": "2026-10-29T06:13:39.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil eases on Vance’s Iran outreach",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-vance-s-iran-outreach/",
-      "datum": "2026-10-29T03:33:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 28 Oct: Fed holds rates, yield curve steepens as Big Tech earnings diverge",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/",
-      "datum": "2026-10-28T20:56:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Thursday, October 29, 2026",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-october-29-2026/",
-      "datum": "2026-10-28T19:56:30.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve issues FOMC statement",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
       "datum": "2026-10-08T20:30:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-      "datum": "2026-10-07T18:00:00.000Z"
     }
   ]
 }

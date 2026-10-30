@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-30T00:42:41.211Z",
+  "stand": "2026-10-30T06:16:59.840Z",
   "ausBriefing": "2026-10-23",
   "overlayAktiv": true,
   "paare": [
@@ -11,7 +11,7 @@
       "tiltGesamt": 5,
       "score": 6,
       "cotExtrem": "extrem",
-      "treiber": "Extreme Euro-Shorts (Squeeze-Risiko) heben, aber die schwachen Einkaufsmanager-Zahlen (Frankreich schrumpft) und die wohl stillhaltende EZB deckeln — bewusst winzig. Track-Record hier schwach (~38%).",
+      "treiber": "Extreme Euro-Shorts (größte je gemessen) + heiße Inflation (3,8%) + knapp verworfene Erhöhung heben, aber Lagardes angekündigter Rückzug (Februar 2027) und die Frankreich-Haushaltskrise deckeln, dazu die festen US-Daten. Bewusst winzig; Track-Record hier schwach (~38%).",
       "istCross": false
     },
     {
@@ -22,7 +22,7 @@
       "tiltGesamt": 0,
       "score": 2,
       "cotExtrem": "erhoeht",
-      "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. (~96–98%) + erhöhte Shorts stützen das Pfund (~1,33). Der gestrige Herbst-Haushalt löste das Zwei-Richtungs-Risiko ohne Knall — das Pfund blieb aber verhalten. Bewusst klein positiv; bestes Paar im Track-Record, aber ein Teil ist gelaufen.",
+      "treiber": "Heiße UK-Inflation (3,5%) + Zinserhöhung am 5.11. (~96–98%) + erhöhte Shorts stützen das Pfund (~1,33). Der Herbst-Haushalt löste das Zwei-Richtungs-Risiko ohne Knall — das Pfund blieb verhalten. Bewusst klein positiv; bestes Paar im Track-Record, aber ein Teil ist gelaufen.",
       "istCross": false
     },
     {
@@ -33,7 +33,7 @@
       "tiltGesamt": -11,
       "score": -9,
       "cotExtrem": null,
-      "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hält wohl still. Der Hafen-Bid durch den steigenden VIX wird durch den Carry-Nachteil gedämpft. Schwächstes Paar im Track-Record (33%) → nahe neutral.",
+      "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar) und die Bank von Japan hielt heute still (leicht straffer Ton, aber kein Impuls). Das beruhigte Angst-Barometer nimmt dem Hafen-Yen Zufluss, der Carry-Nachteil wiegt. Schwächstes Paar im Track-Record (33%) → nahe neutral.",
       "istCross": false
     },
     {
@@ -44,7 +44,7 @@
       "tiltGesamt": 6,
       "score": 10,
       "cotExtrem": "extrem",
-      "treiber": "GEDREHT (Mi 28.10.): Heiße australische Inflation (4,3% statt 4,2%, Kern 3,6–3,7%) → Zinserhöhung am 3.11. ~80% eingepreist, Aussie auf Monatshoch ~0,705. Extreme Shorts = Squeeze-Zünder. Vom Dollar-Block über die eigene Inflations-Story gelöst → positiv. Der festere Dollar und Risk-off deckeln, daher bewusst klein.",
+      "treiber": "Heiße australische Inflation (4,3%, Kern 3,6–3,7%) → Zinserhöhung am 3.11. ~80% eingepreist, Aussie auf Monatshoch ~0,705. Extreme Shorts = Squeeze-Zünder; die zurückkehrende Risikofreude (ruhigeres Angst-Barometer) hilft jetzt. Vom Dollar-Block über die eigene Story gelöst. Die festen US-Daten deckeln, daher bewusst klein.",
       "istCross": false
     },
     {
@@ -55,29 +55,29 @@
       "tiltGesamt": -4,
       "score": -8,
       "cotExtrem": null,
-      "treiber": "GEDREHT verstärkt (Mi 28.10.): Bank of Canada ERHÖHTE überraschend auf 2,50% (Markt erwartete Halten) → Loonie-Schub, dazu teures Öl (Nahost) und der stärkste 2-Jahres-Zins-Anstieg aller Währungen. Kühle Kern-Inflation dämpft leicht. Vom Dollar-Block über die eigene Zins-/Öl-Story gelöst → loonie-positiv (USD/CAD runter).",
+      "treiber": "Bank of Canada erhöhte überraschend auf 2,50% (Markt erwartete Halten) → Loonie-Story, dazu teures Öl (~103$) und starker 2-Jahres-Zins-Anstieg. ABER die Marktreaktion war verhalten (Loonie kaum bewegt) und die Bank mahnte Vorsicht — kühle Kern-Inflation dämpft. Vom Dollar-Block gelöst, loonie-positiv (USD/CAD runter), aber nicht aggressiv.",
       "istCross": false
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 1,
+      "baseScore": 2,
       "tiltCot": 3,
       "tiltZins": -8,
       "tiltGesamt": -5,
-      "score": -4,
+      "score": -3,
       "cotExtrem": null,
-      "treiber": "Das Angst-Barometer beruhigte sich (VIX ~17) → dem Franken fehlt der Hafen-Zufluss, während die hohen US-Zinsen das Geld in den USA halten. Netto nur ein kleines Dollar-Plus, fast neutral.",
+      "treiber": "Das Angst-Barometer beruhigte sich (VIX ~17) → dem Franken fehlt der Hafen-Zufluss, während die hohen US-Zinsen das Geld in den USA halten und die US-Daten fest kamen. Netto kleines Dollar-Plus, fast neutral.",
       "istCross": false
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -3,
+      "baseScore": -2,
       "tiltCot": -2,
       "tiltZins": 0,
       "tiltGesamt": -2,
-      "score": -5,
+      "score": -4,
       "cotExtrem": "extrem",
-      "treiber": "GEDREHT (Mi 28.10.): Die neuseeländische Notenbank hielt ÜBERRASCHEND bei 2,75% (4:3), der Markt hatte zu ~90% eine Erhöhung erwartet → Kiwi −1,7% (~0,559). Enttäuschung dominiert, obwohl weitere Straffung signalisiert. Extreme Shorts begrenzen den Rückgang → moderat negativ.",
+      "treiber": "Die neuseeländische Notenbank hielt überraschend bei 2,75% (4:3), der Markt hatte ~90% eine Erhöhung erwartet → Kiwi −1,7% (~0,559). Die Enttäuschung altert; extreme Shorts + zurückkehrende Risikofreude begrenzen den Rückgang → nur moderat negativ.",
       "istCross": false
     },
     {
@@ -93,11 +93,11 @@
     },
     {
       "paar": "EUR/JPY",
-      "baseScore": 3,
+      "baseScore": 2,
       "tiltCot": -2,
       "tiltZins": 0,
       "tiltGesamt": -2,
-      "score": 1,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

@@ -1,11 +1,11 @@
 {
-  "stand": "2026-10-30T00:42:41.220Z",
+  "stand": "2026-10-30T06:16:59.872Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
-  "gewertet": 36,
-  "nichtWertbar": 39,
+  "gewertet": 37,
+  "nichtWertbar": 38,
   "treffer": 17,
-  "quote": 47,
+  "quote": 46,
   "zinsentscheide": {
     "treffer": 11,
     "gesamt": 11,
@@ -13,9 +13,9 @@
   },
   "datenPrognosen": {
     "treffer": 6,
-    "gesamt": 25,
-    "quote": 24,
-    "pWert": 0.015
+    "gesamt": 26,
+    "quote": 23,
+    "pWert": 0.009
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
@@ -31,8 +31,8 @@
   },
   "exakt": {
     "treffer": 4,
-    "gesamt": 15,
-    "quote": 27
+    "gesamt": 16,
+    "quote": 25
   },
   "textdeutung": {
     "treffer": 13,
@@ -40,15 +40,6 @@
     "quote": 62
   },
   "letzte": [
-    {
-      "event": "US-Arbeitsmarktbericht (Jobbericht / Non-Farm Payrolls)",
-      "datum": "2026-10-02",
-      "richtung": "hoeher",
-      "tatsaechlich": "niedriger",
-      "konsens": "89K",
-      "ist": "29K",
-      "treffer": false
-    },
     {
       "event": "US-Verbraucherinflation (CPI September) — Kernrate m/m",
       "datum": "2026-10-14",
@@ -102,6 +93,15 @@
       "konsens": "4.00%",
       "ist": "4%",
       "treffer": true
+    },
+    {
+      "event": "US-Kern-PCE (September) — m/m",
+      "datum": "2026-10-29",
+      "richtung": "hoeher",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "0.3%",
+      "ist": "0.3%",
+      "treffer": false
     },
     {
       "event": "EZB-Zinsentscheid (Oktober)",

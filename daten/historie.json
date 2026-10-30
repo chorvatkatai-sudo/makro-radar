@@ -20330,6 +20330,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-10-30T13:30:00-04:00|USD|FOMC Member Logan Speaks": {
+      "datum": "2026-10-30T13:30:00-04:00",
+      "land": "USD",
+      "titel": "FOMC Member Logan Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

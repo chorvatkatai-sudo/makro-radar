@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-30T14:52:12.472Z",
+  "stand": "2026-10-30T18:21:36.360Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Carney: Canada, EU working toward deepest possible partnership, short of accession",
+      "link": "https://investinglive.com/news/carney-canada-eu-working-toward-deepest-possible-partnership-short-of-accession/",
+      "datum": "2026-10-30T17:08:44.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Fitch on UK Budget: Policy continuity leaves a tough delivery challenge",
+      "link": "https://investinglive.com/news/fitch-on-uk-budget-policy-continuity-leaves-a-tough-delivery-challenge/",
+      "datum": "2026-10-30T15:42:01.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US employment cost index for Q3 +0.8% vs +0.8% expected",
@@ -65,18 +77,6 @@
       "titel": "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
       "link": "https://investinglive.com/news/spain-inflation-remains-stubbornly-high-near-5-as-the-ecb-headache-gets-worse/",
       "datum": "2026-10-30T08:00:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-75/",
-      "datum": "2026-10-30T07:48:40.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France inflation heats up again in October, leaving the ECB caught between a rock and a hard place",
-      "link": "https://investinglive.com/news/france-inflation-heats-up-again-in-october-leaving-the-ecb-caught-between-a-rock-and-a-hard-place/",
-      "datum": "2026-10-30T07:45:37.000Z"
     },
     {
       "quelle": "Fed",

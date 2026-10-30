@@ -1,11 +1,29 @@
 {
-  "stand": "2026-10-30T11:07:59.218Z",
+  "stand": "2026-10-30T13:56:18.654Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US employment cost index for Q3 +0.8% vs +0.8% expected",
+      "link": "https://investinglive.com/news/us-employment-cost-index-for-q3-0-8-vs-0-8-expected/",
+      "datum": "2026-10-30T12:30:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada GDP for August 0.0% vs 0.2% estimate",
+      "link": "https://investinglive.com/news/canada-gdp-for-august-0-0-vs-0-2-estimate/",
+      "datum": "2026-10-30T12:30:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: AI spending fears spook tech stocks; dollar falls alongside yields, gold",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-ai-spending-fears-spook-tech-stocks-dollar-falls-alongside-yields-gold/",
+      "datum": "2026-10-30T11:46:54.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
@@ -59,24 +77,6 @@
       "titel": "France inflation heats up again in October, leaving the ECB caught between a rock and a hard place",
       "link": "https://investinglive.com/news/france-inflation-heats-up-again-in-october-leaving-the-ecb-caught-between-a-rock-and-a-hard-place/",
       "datum": "2026-10-30T07:45:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German import prices surge at fastest pace in nearly four years as energy costs bite",
-      "link": "https://investinglive.com/news/german-import-prices-surge-at-fastest-pace-in-nearly-four-years-as-energy-costs-bite/",
-      "datum": "2026-10-30T07:11:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France's economy contracts in Q3 as growth troubles pile up for the ECB",
-      "link": "https://investinglive.com/news/france-s-economy-contracts-in-q3-as-growth-troubles-pile-up-for-the-ecb/",
-      "datum": "2026-10-30T06:30:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What is spooking markets as stocks, Treasury yields and gold all fall ahead of European trading?",
-      "link": "https://investinglive.com/news/what-is-spooking-markets-as-stocks-treasury-yields-and-gold-all-fall-ahead-of-european-trading/",
-      "datum": "2026-10-30T05:25:58.000Z"
     },
     {
       "quelle": "Fed",

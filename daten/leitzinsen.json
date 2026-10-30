@@ -1,14 +1,14 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-10-16",
+  "stand": "2026-10-30",
   "zinsen": [
     {
       "code": "AUD",
       "bank": "RBA",
       "satz": 4.6,
       "anzeige": "4,60%",
-      "naechste": "Anfang Nov 2026",
-      "erwartung": "Am Di 29.9. um 0,25 auf 4,60% ERHÖHT — ein 15-Jahres-Hoch und die 4. Erhöhung dieses Jahr, einstimmig. Die Gouverneurin sagte, ein Halten sei diskutiert worden, am Ende aber weitere Straffung für nötig befunden. Markt las die Pressekonferenz als etwas weniger falkenhaft; eine Bank sieht dennoch eine weitere Erhöhung im November (→ 4,85%). Höchster Zins + höchster 2-Jahres-Marktzins aller großen Währungen = der einzige echte Dollar-Gegenspieler. Das RBA-Protokoll kommt Di 13.10.",
+      "naechste": "Di 3.11.2026 (Erhöhung auf 4,85% ~85–90% eingepreist)",
+      "erwartung": "Stand 30.10.: Nach der heißen Q3-Inflation (4,3% aufs Jahr) ist für den 3.11. eine FÜNFTE Zinserhöhung 2026 auf 4,85% zu ~85–90% eingepreist — alle vier großen australischen Banken erwarten sie. Die stellvertretende Gouverneurin nannte den Inflationsausblick 'deutlich schlechter'. Höchster Zins + höchster 2-Jahres-Marktzins aller großen Währungen UND der einzige 2-Jahres-Zins, der diese Woche STIEG = klarster Dollar-Gegenspieler. Danach erwarten die meisten Banken eine Pause, einige sehen im Februar noch einen Schritt. Konjunktur-Prognosen am selben Tag.",
       "richtung": "rauf"
     },
     {
@@ -16,8 +16,8 @@
       "bank": "BOE",
       "satz": 3.75,
       "anzeige": "3,75%",
-      "naechste": "Anfang Nov 2026",
-      "erwartung": "Am Do 17.9. bei 3,75% GEHALTEN — der sechste Halt in Folge, Abstimmung 6:3 (drei Mitglieder wollten schon auf 4,00% erhöhen). Der Ausblick ist FALKENHAFT: Wegen der Öl-/Iran-Kriegs-Inflation gilt eine Erhöhung im November oder Dezember als wahrscheinlich. Für das Pfund ein 'harter Halt' — kein Absturz, eher stützend",
+      "naechste": "Do 5.11.2026 (Erhöhung auf 4,00% ~94% eingepreist)",
+      "erwartung": "Stand 30.10.: Nach dem Sprung der UK-Inflation im September auf 3,5% (von 3,1%) ist für den 5.11. eine Zinserhöhung auf 4,00% zu ~94% eingepreist (Reuters-Umfrage 54 von 63 Ökonomen dafür) + neuer geldpolitischer Bericht. Die Shorts decken sich bereits ein, die Positionierung bleibt aber erhöht. Spannend ist der Ausblick: Der Markt preist für die Folgemonate rund vier Erhöhungen ein — das wirkt zu hawkish; ein 'vorsichtig weiter'-Ton von Bailey wäre pfund-dämpfend.",
       "richtung": "rauf"
     },
     {
@@ -25,8 +25,8 @@
       "bank": "Fed",
       "satz": 3.875,
       "anzeige": "3,75–4,00%",
-      "naechste": "28.10.2026 (Oktober ~70–75% HALTEN, Dezember-Erhöhung ~90%+ erwartet)",
-      "erwartung": "Erhöhte am 16.9. erstmals seit 2023 auf 3,75–4,00% (falkenhafter Chef Warsh). Stand 9.10.: Das FOMC-Protokoll vom Mi 7.10. wurde falkenhaft gelesen — die Mehrheit stand zur projizierten weiteren Erhöhung 2026, Inflationswachsamkeit vor Jobsorge. Stand 16.10.: Die September-Inflation kam HEISS (CPI 3,7%, Kern +0,3% m/m; PPI +1,3% / 6,3% y/y) und trieb den DXY am 14.10. kurz auf ein 18-Monats-Hoch (~102,9). Dann aber signalisierten Fed-Chefinnen Bowman und Daly, man könne WARTEN → die Wette auf eine Oktober-Erhöhung halbierte sich von ~50% auf nur noch ~25–30% (also ~70–75% Pause am 28.10.). Die Dezember-Erhöhung bleibt fast sicher (~90%+ eingepreist). Lange Renditen fielen, der Dollar gab das Hoch wieder ab (101,6). Kernthese bestätigt: Der Dollar lebt vom TON, und der wurde diese Woche weicher.",
+      "naechste": "9.12.2026 (Erhöhung ~85% eingepreist)",
+      "erwartung": "Stand 30.10.: Am Mi 28.10. bei 3,75–4,00% GEHALTEN — aber mit ZWEI Gegenstimmen, die erhöhen wollten (Cook und Hammack), Abstimmung 10:2. Chef Warsh nannte die Inflation 'hartnäckig zu hoch', gab bewusst KEINEN klaren Dezember-Ausblick und kündigte an, ab 2027 weniger Sitzungen abzuhalten. Am Do 29.10. kamen feste Daten (Wachstum Q3 +3,4%, Kern-PCE 3,1% / +0,3% m/m). Eine Dezember-Erhöhung bleibt mit ~85% eingepreist. Kernthese: Der Dollar lebt vom TON — der blieb falkenhaft, aber der Dollar rallyt trotzdem nicht, weil die Gold-Flucht nachlässt UND die kurzen US-Zinsen diese Woche am stärksten fielen.",
       "richtung": "rauf"
     },
     {
@@ -43,17 +43,17 @@
       "bank": "EZB",
       "satz": 2.5,
       "anzeige": "2,50%",
-      "naechste": "29.10.2026",
-      "erwartung": "Zuletzt auf 2,50% erhöht (Einlagensatz 2,25%). Stand 9.10.: Die September-Inflation kam HEISS (3,8% y/y, Energie +18,8%, Kern 2,5%) — das verbietet der EZB Zinssenkungen und ist der fundamentale Anker des Euro. Gegendruck kommt aber aus Frankreich: Premier Lecornus Sparbudget 2027 hat keine Mehrheit (Durchkommen evtl. nur über Verfassungsartikel 49.3), der Risikoaufschlag französischer Anleihen bleibt hoch (~130 Basispunkte). Der Euro klemmt deshalb bei ~1,12, am 5.10. 17-Monats-Tief 1,1162.",
+      "naechste": "17.12.2026",
+      "erwartung": "Stand 30.10.: Am Do 29.10. die Zinsen GEHALTEN (Einlagensatz 2,50%, Hauptrefinanzierungssatz 2,65%). Überraschung war eine Personalie: Chefin Lagarde kündigte ihren vorzeitigen Rückzug an (Februar 2027) = Führungs-Unsicherheit. Sie sagte, man habe eine Erhöhung diskutiert und verworfen — die Tür für Dezember bleibt offen. Fundamentaler Anker: heiße Inflation (3,8% y/y) verbietet Senkungen. Gegendruck: schwache Einkaufsmanager-Zahlen (Frankreich schrumpft, 48,4) und Frankreichs Haushaltskrise (Anleihe-Risikoaufschlag hoch). Dazu die größte je gemessene Spekulanten-Short-Wette gegen den Euro = Squeeze-Gefahr. Euro-Inflation Oktober am Mi 4.11.",
       "richtung": "halten"
     },
     {
       "code": "CAD",
       "bank": "BOC",
-      "satz": 2.25,
-      "anzeige": "2,25%",
-      "naechste": "28.10.2026",
-      "erwartung": "Zuletzt bei 2,25% gehalten mit falkenhaftem Ton (US-Zölle + teures Öl könnten die Inflation über 3% treiben). ABER: Der Arbeitsmarkt kollabiert — nach −41,7k im August heute (9.10.) ein Job-Schock von −68.300 Stellen (erwartet +9k), Quote hoch auf 6,5%, der Handelskrieg mit den USA drückt. Der Loonie hat gegensätzliche Treiber (Öl rauf stützt, Jobs runter belasten) — nach dem heutigen Schock überwiegt die Schwäche. Die Oktober-Entscheidung (28.10.) wird zwischen Halten und sogar Senken debattiert.",
+      "satz": 2.5,
+      "anzeige": "2,50%",
+      "naechste": "9.12.2026",
+      "erwartung": "Stand 30.10.: Am Mi 28.10. ÜBERRASCHEND um 0,25 auf 2,50% ERHÖHT — erste Erhöhung seit Juli 2023, obwohl der Markt mehrheitlich ein Halten erwartete. Begründung: teures Öl (WTI ~104$) treibt die Schlagzeilen-Inflation Richtung 3,5% zum Jahresende. ABER: Die Marktreaktion blieb verhalten (Loonie kaum bewegt), die Bank mahnte ausdrücklich Vorsicht bei weiteren Schritten, und die Kern-Inflations-Maße der Bank liegen zuletzt UNTER dem Ziel (1,8–1,9%). Arbeitsmarkt am Fr 6.11. (Quote zuletzt 6,5%) = Test, ob er die straffere Politik verträgt.",
       "richtung": "halten"
     },
     {
@@ -61,8 +61,8 @@
       "bank": "BOJ",
       "satz": 1.25,
       "anzeige": "1,25%",
-      "naechste": "Ende Okt 2026",
-      "erwartung": "Zuletzt auf 1,25% erhöht — der höchste Leitzins seit 1995. Stand 9.10.: Die neue Premierministerin Takaichi dämpfte Reflations-Hoffnungen, sagte aber, sie werde weiteren BoJ-Erhöhungen NICHT im Weg stehen (am Rand yen-stützend). Trotzdem bleibt der Yen schwach (USD/JPY ~158, Interventionszone), weil der Zinsnachteil (Carry) dominiert. HEIKEL: Die Großspekulanten sind extrem net-LONG Yen (z +1,04) = überfüllte Wette; platzt sie, fällt der Yen weiter.",
+      "naechste": "Dez 2026",
+      "erwartung": "Stand 30.10.: Am Fr 30.10. wie erwartet bei 1,25% GEHALTEN (höchster Leitzins seit 1995), mit leicht straffem Ton — die zugrunde liegende Inflation nähere sich dem Ziel, man wolle weiter anheben (nächster möglicher Schritt eher Dezember). Der Yen reagierte kaum. HEIKEL: Die Großspekulanten bauen ihre überfüllte net-LONG-Wette auf Yen weiter aus (z +1,2) = Rückschlag-Risiko, falls sie platzt. Der Carry-Nachteil (hohe US-Zinsen) hält den Yen schwach.",
       "richtung": "rauf"
     },
     {

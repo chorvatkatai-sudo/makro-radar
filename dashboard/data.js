@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-30T06:16:59.873Z",
+ "erstellt": "2026-10-30T06:18:22.387Z",
  "wochenStart": "2026-10-25",
  "events": [
   {
@@ -624,27 +624,27 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
-   "title": "BOJ Policy Rate",
+   "title": "BOJ Outlook Report",
    "country": "JPY",
-   "date": "2026-10-29T22:30:00-04:00",
-   "impact": "High",
-   "forecast": "<1.25%",
-   "previous": "<1.25%",
-   "actual": "1.25%"
-  },
-  {
-   "title": "Monetary Policy Statement",
-   "country": "JPY",
-   "date": "2026-10-29T22:30:00-04:00",
+   "date": "2026-10-29T23:02:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "",
    "actual": null
   },
   {
-   "title": "BOJ Outlook Report",
+   "title": "BOJ Policy Rate",
    "country": "JPY",
-   "date": "2026-10-29T22:31:00-04:00",
+   "date": "2026-10-29T23:02:00-04:00",
+   "impact": "High",
+   "forecast": "<1.25%",
+   "previous": "<1.25%",
+   "actual": null
+  },
+  {
+   "title": "Monetary Policy Statement",
+   "country": "JPY",
+   "date": "2026-10-29T23:02:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "",
@@ -3411,18 +3411,17 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-10-30T00:42:40.598Z",
+  "stand": "2026-10-30T06:18:20.930Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.83,
+    "wert": 101.82,
     "tagProzent": 0,
-    "wocheProzent": 0.01,
+    "wocheProzent": -0.14,
     "renditeDelta": false,
     "verlauf": [
-     102.1,
      101.93,
      102.17,
      101.83,
@@ -3442,8 +3441,9 @@ window.MAKRO_DATA = {
      101.96,
      102.32,
      102.19,
+     102.04,
      101.82,
-     101.83
+     101.82
     ]
    },
    "VIX": {
@@ -3483,12 +3483,11 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 102.71,
+    "wert": 103.39,
     "tagProzent": 0,
-    "wocheProzent": -0.54,
+    "wocheProzent": 1.6,
     "renditeDelta": false,
     "verlauf": [
-     92.87,
      91.11,
      89.43,
      89.44,
@@ -3508,20 +3507,20 @@ window.MAKRO_DATA = {
      101.76,
      99.9,
      102.78,
-     102.71,
-     102.71
+     102,
+     103.39,
+     103.39
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 111.41,
+    "wert": 112.37,
     "tagProzent": 0,
-    "wocheProzent": -4.55,
+    "wocheProzent": -2.97,
     "renditeDelta": false,
     "verlauf": [
-     102.31,
      102.25,
      100.32,
      100.58,
@@ -3541,20 +3540,20 @@ window.MAKRO_DATA = {
      115.81,
      113.88,
      115.32,
-     111.41,
-     111.41
+     114.88,
+     112.37,
+     112.37
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4022.9,
+    "wert": 4000.3,
     "tagProzent": 0,
-    "wocheProzent": 0.37,
+    "wocheProzent": -0.94,
     "renditeDelta": false,
     "verlauf": [
-     4202.3,
      4162.3,
      4156.8,
      4187.1,
@@ -3574,8 +3573,9 @@ window.MAKRO_DATA = {
      4038.4,
      4074.6,
      4051.6,
-     4022.9,
-     4022.9
+     4031.4,
+     4000.3,
+     4000.3
     ]
    },
    "US02Y": {
@@ -3661,9 +3661,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 76868.74,
+    "wert": 78448.62,
     "tagProzent": 0,
-    "wocheProzent": -3.94,
+    "wocheProzent": -1.97,
     "renditeDelta": false,
     "verlauf": [
      82546.32,
@@ -3686,8 +3686,8 @@ window.MAKRO_DATA = {
      80006.66,
      80805.08,
      81267.59,
-     76868.74,
-     76868.74
+     78448.62,
+     78448.62
     ]
    },
    "FEDFUT": {
@@ -3696,10 +3696,9 @@ window.MAKRO_DATA = {
     "typ": "rendite",
     "wert": 4.07,
     "tagProzent": 0,
-    "wocheProzent": 0.19,
+    "wocheProzent": 0.18,
     "renditeDelta": true,
     "verlauf": [
-     3.89,
      3.88,
      3.89,
      3.89,
@@ -3717,6 +3716,7 @@ window.MAKRO_DATA = {
      3.88,
      3.88,
      3.89,
+     3.88,
      3.88,
      3.88,
      4.07,
@@ -3819,8 +3819,8 @@ window.MAKRO_DATA = {
    "stand": "2026-10-30",
    "werte": {
     "USD": {
-     "wert": 4.579,
-     "wocheDelta": -0.201
+     "wert": 4.577,
+     "wocheDelta": -0.203
     },
     "EUR": {
      "wert": 3.05,
@@ -3831,12 +3831,12 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.074
     },
     "JPY": {
-     "wert": 1.882,
-     "wocheDelta": -0.015
+     "wert": 1.884,
+     "wocheDelta": -0.013
     },
     "AUD": {
-     "wert": 4.907,
-     "wocheDelta": -0.007
+     "wert": 4.909,
+     "wocheDelta": -0.005
     },
     "CAD": {
      "wert": 3.329,
@@ -3847,8 +3847,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.032
     },
     "NZD": {
-     "wert": 3.73,
-     "wocheDelta": -0.23
+     "wert": 3.748,
+     "wocheDelta": -0.212
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3887,9 +3887,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 2,
    "tiltCot": -4,
-   "tiltZins": -7,
-   "tiltGesamt": -11,
-   "score": -9,
+   "tiltZins": -8,
+   "tiltGesamt": -12,
+   "score": -10,
    "cotExtrem": null,
    "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar) und die Bank von Japan hielt heute still (leicht straffer Ton, aber kein Impuls). Das beruhigte Angst-Barometer nimmt dem Hafen-Yen Zufluss, der Carry-Nachteil wiegt. Schwächstes Paar im Track-Record (33%) → nahe neutral.",
    "istCross": false
@@ -3984,7 +3984,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-30T06:16:59.872Z",
+  "stand": "2026-10-30T06:18:21.319Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 75,
   "gewertet": 37,
@@ -4100,35 +4100,35 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-10-30T00:42:41.778Z",
+  "stand": "2026-10-30T06:18:22.387Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-   "faelle": 42,
+   "faelle": 43,
    "treffer": 23,
-   "quote": 55,
-   "schnittGerichtet": 0.045,
-   "schnittBetrag": 0.306,
-   "pWert": 0.644,
+   "quote": 53,
+   "schnittGerichtet": 0.042,
+   "schnittBetrag": 0.301,
+   "pWert": 0.761,
    "belastbar": false
   },
   "gesamtRoh": {
-   "faelle": 77,
+   "faelle": 78,
    "treffer": 41,
    "quote": 53,
-   "schnittGerichtet": 0.037,
-   "schnittBetrag": 0.332,
-   "pWert": 0.649,
+   "schnittGerichtet": 0.035,
+   "schnittBetrag": 0.329,
+   "pWert": 0.734,
    "belastbar": false
   },
   "jeWaehrung": {
    "USD": {
-    "faelle": 13,
+    "faelle": 14,
     "treffer": 6,
-    "quote": 46,
-    "schnittGerichtet": -0.023,
-    "schnittBetrag": 0.289,
-    "pWert": 1,
+    "quote": 43,
+    "schnittGerichtet": -0.028,
+    "schnittBetrag": 0.275,
+    "pWert": 0.791,
     "belastbar": false
    },
    "CAD": {
@@ -4188,22 +4188,22 @@ window.MAKRO_DATA = {
     "belastbar": false
    },
    "Wachstum & Konsum": {
-    "faelle": 7,
+    "faelle": 8,
     "treffer": 2,
-    "quote": 29,
-    "schnittGerichtet": 0.021,
-    "schnittBetrag": 0.342,
-    "pWert": 0.453,
+    "quote": 25,
+    "schnittGerichtet": 0.006,
+    "schnittBetrag": 0.311,
+    "pWert": 0.289,
     "belastbar": false
    }
   },
   "jeWaehrungRoh": {
    "USD": {
-    "faelle": 31,
+    "faelle": 32,
     "treffer": 16,
-    "quote": 52,
-    "schnittGerichtet": -0.01,
-    "schnittBetrag": 0.303,
+    "quote": 50,
+    "schnittGerichtet": -0.013,
+    "schnittBetrag": 0.296,
     "pWert": 1,
     "belastbar": false
    },
@@ -4245,15 +4245,6 @@ window.MAKRO_DATA = {
    }
   },
   "letzte": [
-   {
-    "datum": "2026-10-09",
-    "land": "CAD",
-    "titel": "Employment Change",
-    "ueberraschung": "niedriger",
-    "erwartet": "schwächer",
-    "bewegung": -0.248,
-    "wieErwartet": true
-   },
    {
     "datum": "2026-10-14",
     "land": "USD",
@@ -4334,18 +4325,51 @@ window.MAKRO_DATA = {
     "erwartet": "schwächer",
     "bewegung": 0.389,
     "wieErwartet": false
+   },
+   {
+    "datum": "2026-10-29",
+    "land": "USD",
+    "titel": "Advance GDP q/q",
+    "ueberraschung": "hoeher",
+    "erwartet": "stärker",
+    "bewegung": -0.099,
+    "wieErwartet": false
    }
   ]
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-10-30T00:42:41.209Z",
+  "stand": "2026-10-30T06:18:21.311Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "What is spooking markets as stocks, Treasury yields and gold all fall ahead of European trading?",
+    "link": "https://investinglive.com/news/what-is-spooking-markets-as-stocks-treasury-yields-and-gold-all-fall-ahead-of-european-trading/",
+    "datum": "2026-10-30T05:25:58.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Asia-Pacific market news: Binance hack shakes crypto",
+    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/",
+    "datum": "2026-10-30T03:32:54.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-year yield at one-month low",
+    "link": "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/",
+    "datum": "2026-10-30T01:58:28.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Japan September factory output beats forecasts, but retail sales disappoint ahead of BoJ",
+    "link": "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/",
+    "datum": "2026-10-30T00:05:53.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Tokyo October CPI 2.8% (2.7% expected)",
@@ -4399,30 +4423,6 @@ window.MAKRO_DATA = {
     "titel": "US initial jobless claims 194K vs 199K expected",
     "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-199k-expected/",
     "datum": "2026-10-29T12:30:06.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings",
-    "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-diverge-as-markets-brace-for-us-inflation-ecb-and-amazon-earnings/",
-    "datum": "2026-10-29T12:11:06.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
-    "link": "https://investinglive.com/news/trump-administration-in-ongoing-talks-for-a-temporary-peace-deal-with-iran-semafor/",
-    "datum": "2026-10-29T09:03:54.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "What are the main events for today?",
-    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-74/",
-    "datum": "2026-10-29T07:34:27.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive US PCE inflation?",
-    "link": "https://investinglive.com/news/economic-data-spotlight-fed-rate-hike-bets-survived-warsh-but-can-they-survive-us-pce-inflation/",
-    "datum": "2026-10-29T06:13:39.000Z"
    },
    {
     "quelle": "Fed",
@@ -5700,5 +5700,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 2029
+ "anzahlGespeichert": 2032
 };

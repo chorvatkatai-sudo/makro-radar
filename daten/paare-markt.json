@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-30T06:16:59.840Z",
+  "stand": "2026-10-30T06:18:21.313Z",
   "ausBriefing": "2026-10-23",
   "overlayAktiv": true,
   "paare": [
@@ -29,9 +29,9 @@
       "paar": "USD/JPY",
       "baseScore": 2,
       "tiltCot": -4,
-      "tiltZins": -7,
-      "tiltGesamt": -11,
-      "score": -9,
+      "tiltZins": -8,
+      "tiltGesamt": -12,
+      "score": -10,
       "cotExtrem": null,
       "treiber": "Bewusst klein: Yen ist crowded-long (Rückschlag-These, leicht pro-Dollar) und die Bank von Japan hielt heute still (leicht straffer Ton, aber kein Impuls). Das beruhigte Angst-Barometer nimmt dem Hafen-Yen Zufluss, der Carry-Nachteil wiegt. Schwächstes Paar im Track-Record (33%) → nahe neutral.",
       "istCross": false

@@ -1,11 +1,35 @@
 {
-  "stand": "2026-10-30T00:42:41.209Z",
+  "stand": "2026-10-30T06:18:21.311Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "What is spooking markets as stocks, Treasury yields and gold all fall ahead of European trading?",
+      "link": "https://investinglive.com/news/what-is-spooking-markets-as-stocks-treasury-yields-and-gold-all-fall-ahead-of-european-trading/",
+      "datum": "2026-10-30T05:25:58.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Binance hack shakes crypto",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/",
+      "datum": "2026-10-30T03:32:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-year yield at one-month low",
+      "link": "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/",
+      "datum": "2026-10-30T01:58:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan September factory output beats forecasts, but retail sales disappoint ahead of BoJ",
+      "link": "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/",
+      "datum": "2026-10-30T00:05:53.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Tokyo October CPI 2.8% (2.7% expected)",
@@ -59,30 +83,6 @@
       "titel": "US initial jobless claims 194K vs 199K expected",
       "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-199k-expected/",
       "datum": "2026-10-29T12:30:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-diverge-as-markets-brace-for-us-inflation-ecb-and-amazon-earnings/",
-      "datum": "2026-10-29T12:11:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
-      "link": "https://investinglive.com/news/trump-administration-in-ongoing-talks-for-a-temporary-peace-deal-with-iran-semafor/",
-      "datum": "2026-10-29T09:03:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-74/",
-      "datum": "2026-10-29T07:34:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive US PCE inflation?",
-      "link": "https://investinglive.com/news/economic-data-spotlight-fed-rate-hike-bets-survived-warsh-but-can-they-survive-us-pce-inflation/",
-      "datum": "2026-10-29T06:13:39.000Z"
     },
     {
       "quelle": "Fed",

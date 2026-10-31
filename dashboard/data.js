@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-10-30T18:21:36.939Z",
+ "erstellt": "2026-10-31T06:09:31.067Z",
  "wochenStart": "2026-10-25",
  "events": [
   {
@@ -3133,21 +3133,17 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (frisch ausgewertet, frankfurter lief auf dem Runner): wochenWette 8/17 = 47%, Konzentration 88%, Zufallsband [5,12] → weiter NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 54% vs. nurBase 51%). Beste Paare: NZD/USD 60%, GBP/USD 59%, AUD/USD 56%; schlechteste: EUR/JPY 17%, EUR/USD 35%, USD/JPY 38%. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5) und über die einzelnen Notenbank-Stories diversifiziert."
   ],
   "tagesnews": {
-   "stand": "2026-10-30",
-   "wochentag": "Freitag",
-   "tenor": "Die Notenbank-Woche ist durch: Kanada erhöhte überraschend, Japan hielt still — doch der Dollar tritt auf der Stelle, weil Gold unter 4.000 Dollar fiel und zugleich die US-Zinsen nachgaben.",
+   "stand": "2026-10-31",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende, Märkte ruhen. Frisch heute früh: Chinas Industrie rutschte wieder in die Schrumpfung — leichter Gegenwind für die Rohstoff-Währungen Australien und Neuseeland vor voller Woche.",
    "heute": [
-    "🇯🇵 Heute früh hielt Japans Notenbank den Leitzins wie erwartet bei 1,25%. Der Ton war leicht straff: Man wolle die Zinsen weiter anheben (nächster möglicher Schritt eher Dezember). Der Yen reagierte kaum — ein Nicht-Ereignis.",
-    "🇪🇺 Am Vormittag (11:00 Wien) kam die erste Schätzung zum Euro-Wirtschaftswachstum im dritten Quartal — und sie fiel überraschend etwas BESSER aus als die (sehr bescheidene) Erwartung. Ein kleiner Lichtblick, der die Sorge nach den schwachen Einkaufsmanager-Zahlen (Frankreich schrumpft) etwas abfedert.",
-    "🌡️ Großes Bild heute: Die Notenbank-Flut ist durch (Fed, Kanada, Europäische Zentralbank, Japan). Fazit der Woche — die US-Wirtschaft ist stark (Wachstum +3,4%) und die Inflation heiß (Kern-PCE 3,1%), aber der Dollar steht praktisch still (~102). Grund: Die monatelange Flucht ins Gold löst sich auf (Gold fiel unter 4.000$ auf ~3.935$, auch Bitcoin runter), gleichzeitig gaben aber die kurzen US-Zinsen am stärksten von allen nach. Zwei Kräfte, die sich aufheben.",
-    "🇨🇳 Vorschau: Morgen (Samstag) kommen die chinesischen Einkaufsmanager-Zahlen — der nächste Hinweis, ob die zweitgrößte Volkswirtschaft Fahrt aufnimmt (wichtig für die Rohstoff-Währungen Australien/Neuseeland). Nächste Woche: Australiens Notenbank + US-Wahlen (Di), Euro-Inflation (Mi), Bank von England (Do), US-Jobs (Fr)."
+    "🇨🇳 Heute früh kamen Chinas Einkaufsmanager-Zahlen für Oktober: Die Industrie fiel auf 49,3 (unter die Wachstumsschwelle von 50, von 50,1 im September) — also wieder leichte Schrumpfung und der schwächste Wert seit Juli; auch der Gesamt-Index gab nach (49,7). Hintergrund: viele Aufträge wurden vor dem Nationalfeiertag Anfang Oktober vorgezogen. Lichtblick: High-Tech-Fabriken (51,3) wachsen weiter, die kleinen Betriebe (47,5) lahmen. Für Australien und Neuseeland ein milder Dämpfer.",
+    "📅 Wochenende — die großen Märkte sind zu, deshalb heute nur der China-Blick und die Vorschau. Nächste Woche wird voll: Dienstag Australiens Notenbank (Erhöhung auf 4,85% erwartet) UND die US-Zwischenwahlen (Risiko-Termin), Mittwoch die Euro-Inflation, Donnerstag die Bank von England (Erhöhung erwartet), Freitag der große US-Jobbericht.",
+    "💵 Wochenfazit Dollar: Er hat seine kleinen Wochengewinne gehalten, nachdem sich der Staub der Notenbank-Woche gelegt hat — er steht weiter flach bei rund 102. Keine klare Richtung, bis die neuen Zahlen nächste Woche kommen."
    ],
    "gestern": [
-    "🇺🇸 Die wichtigsten US-Zahlen kamen gestern DOPPELT fest: Das Wirtschaftswachstum im dritten Quartal lag bei +3,4% aufs Jahr (über der Erwartung ~3,2%), und die Lieblings-Inflationszahl der Notenbank (Kern-PCE) stieg auf 3,1% aufs Jahr / +0,3% im Monat (genau wie erwartet, Gesamt-PCE 3,6%). Das stützt eine Dezember-Erhöhung (~85% eingepreist) — trotzdem blieb der Dollar flach.",
-    "🇪🇺 Die Europäische Zentralbank hielt die Zinsen (Einlagensatz 2,50%), überraschte aber mit einer Personalie: Chefin Lagarde kündigte ihren vorzeitigen Rückzug an (Februar 2027). Sie sagte, man habe eine Erhöhung diskutiert und verworfen — die Tür für Dezember bleibt offen. Im Hintergrund: heiße Euro-Inflation 3,8%, Frankreichs Haushaltskrise und die größte je gemessene Spekulanten-Wette GEGEN den Euro (Eindeckungs-Gefahr).",
-    "🇺🇸 Am Mittwoch hielt die US-Notenbank bei 3,75–4,00% — aber ZWEI Mitglieder stimmten für eine Erhöhung. Chef Warsh nannte die Inflation 'hartnäckig zu hoch', gab bewusst keinen klaren Dezember-Ausblick und kündigte an, ab 2027 weniger Zinssitzungen abzuhalten.",
-    "🇨🇦 Ebenfalls Mittwoch die Überraschung der Woche: Die Bank of Canada ERHÖHTE auf 2,50% (erste Erhöhung seit Juli 2023) — Begründung: teures Öl treibt die Inflation Richtung 3,5%. Die Marktreaktion blieb aber verhalten (der kanadische Dollar kaum bewegt, die Bank mahnte Vorsicht bei weiteren Schritten).",
-    "🌡️ Durch die Woche: Gold fiel unter die Marke von 4.000$ (−2,6%) und Bitcoin gab kräftig nach (−4,3%) — die Flucht aus dem Papiergeld lässt nach. Das Angst-Barometer der Börse stieg leicht auf ~18,9 (etwas mehr Nervosität), Öl blieb teuer (WTI ~104$). Rückenwind für Kanadas Rohstoff-Dollar, etwas Hafen-Zufluss zurück für Franken und Yen."
+    "🏦 Rückblick auf die Notenbank-Woche: Die US-Notenbank hielt die Zinsen (zwei Mitglieder wollten erhöhen, Ton hart), Kanada erhöhte überraschend auf 2,50% (teures Öl), die Europäische Zentralbank hielt (Chefin Lagarde kündigte ihren vorzeitigen Rückzug für Februar 2027 an) und Japan hielt still. Eine Woche der Gegensätze zwischen den Notenbanken, keine reine Dollar-Woche.",
+    "🥇 Zugleich fiel Gold unter die Marke von 4.000 Dollar (~3.935$) und Bitcoin gab nach — die monatelange Flucht ins Gold löst sich auf. Das nahm dem Dollar einen Deckel, doch gleichzeitig gaben die kurzen US-Zinsen am stärksten von allen nach. Zwei Kräfte, die sich aufheben → Dollar flach."
    ]
   }
  },
@@ -4189,7 +4185,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-10-30T18:21:36.371Z",
+  "stand": "2026-10-31T06:09:31.066Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 80,
   "gewertet": 37,

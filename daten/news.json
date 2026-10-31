@@ -1,11 +1,23 @@
 {
-  "stand": "2026-10-30T18:21:36.360Z",
+  "stand": "2026-10-31T06:10:03.921Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 30 Oct: It’s a wrap: Nasdaq tumbles as AI costs worry investors; Fed speakers keep hikes in play",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/",
+      "datum": "2026-10-30T21:38:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Week ahead: Elections, rate decisions and jobs take center stage",
+      "link": "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/",
+      "datum": "2026-10-30T19:13:02.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Carney: Canada, EU working toward deepest possible partnership, short of accession",
@@ -65,18 +77,6 @@
       "titel": "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
       "link": "https://investinglive.com/news/germany-q3-preliminary-gdp-0-2-vs-0-1-q-q-expected/",
       "datum": "2026-10-30T09:00:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Spain Q3 GDP growth slows slightly but it's the inflation problem that should worry the ECB",
-      "link": "https://investinglive.com/news/spain-q3-gdp-growth-slows-slightly-but-it-s-the-inflation-problem-that-should-worry-the-ecb/",
-      "datum": "2026-10-30T08:00:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
-      "link": "https://investinglive.com/news/spain-inflation-remains-stubbornly-high-near-5-as-the-ecb-headache-gets-worse/",
-      "datum": "2026-10-30T08:00:15.000Z"
     },
     {
       "quelle": "Fed",

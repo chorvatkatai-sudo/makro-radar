@@ -1810,7 +1810,79 @@
         }
       },
       "mitMarktOverlay": true,
-      "auswertung": null
+      "auswertung": {
+        "treffer": 5,
+        "gesamt": 11,
+        "quote": 45,
+        "details": {
+          "EUR/USD": {
+            "score": -2,
+            "moveProzent": -0.14,
+            "treffer": true,
+            "basisTreffer": false
+          },
+          "GBP/USD": {
+            "score": 2,
+            "moveProzent": 0.38,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "USD/JPY": {
+            "score": -3,
+            "moveProzent": -0.12,
+            "treffer": true,
+            "basisTreffer": false
+          },
+          "AUD/USD": {
+            "score": -4,
+            "moveProzent": 0,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "USD/CAD": {
+            "score": -6,
+            "moveProzent": -0.42,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "USD/CHF": {
+            "score": 3,
+            "moveProzent": -0.39,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "NZD/USD": {
+            "score": 2,
+            "moveProzent": -0.79,
+            "treffer": false,
+            "basisTreffer": true
+          },
+          "EUR/GBP": {
+            "score": 1,
+            "moveProzent": -0.52,
+            "treffer": false,
+            "basisTreffer": true
+          },
+          "EUR/JPY": {
+            "score": -2,
+            "moveProzent": -0.27,
+            "treffer": true,
+            "basisTreffer": false
+          },
+          "AUD/NZD": {
+            "score": -4,
+            "moveProzent": 0.8,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "EUR/CHF": {
+            "score": 1,
+            "moveProzent": -0.53,
+            "treffer": false,
+            "basisTreffer": false
+          }
+        }
+      }
     },
     {
       "woche": "2026-11-02",

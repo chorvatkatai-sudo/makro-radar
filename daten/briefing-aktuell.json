@@ -204,17 +204,18 @@
     "Ehrlicher Track-Record (frisch ausgewertet, frankfurter lief auf dem Runner): wochenWette 8/17 = 47%, Konzentration 88%, Zufallsband [5,12] → weiter NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 54% vs. nurBase 51%). Beste Paare: NZD/USD 60%, GBP/USD 59%, AUD/USD 56%; schlechteste: EUR/JPY 17%, EUR/USD 35%, USD/JPY 38%. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5) und über die einzelnen Notenbank-Stories diversifiziert."
   ],
   "tagesnews": {
-    "stand": "2026-10-31",
-    "wochentag": "Samstag",
-    "tenor": "Wochenende, Märkte ruhen. Frisch heute früh: Chinas Industrie rutschte wieder in die Schrumpfung — leichter Gegenwind für die Rohstoff-Währungen Australien und Neuseeland vor voller Woche.",
+    "stand": "2026-11-01",
+    "wochentag": "Sonntag",
+    "tenor": "Sonntag, die Märkte ruhen. Ab Dienstag drängen sich fünf schwere Termine in eine Woche: Australiens Notenbank, die US-Zwischenwahlen, die Euro-Inflation, die Bank von England und der US-Jobbericht.",
     "heute": [
-      "🇨🇳 Heute früh kamen Chinas Einkaufsmanager-Zahlen für Oktober: Die Industrie fiel auf 49,3 (unter die Wachstumsschwelle von 50, von 50,1 im September) — also wieder leichte Schrumpfung und der schwächste Wert seit Juli; auch der Gesamt-Index gab nach (49,7). Hintergrund: viele Aufträge wurden vor dem Nationalfeiertag Anfang Oktober vorgezogen. Lichtblick: High-Tech-Fabriken (51,3) wachsen weiter, die kleinen Betriebe (47,5) lahmen. Für Australien und Neuseeland ein milder Dämpfer.",
-      "📅 Wochenende — die großen Märkte sind zu, deshalb heute nur der China-Blick und die Vorschau. Nächste Woche wird voll: Dienstag Australiens Notenbank (Erhöhung auf 4,85% erwartet) UND die US-Zwischenwahlen (Risiko-Termin), Mittwoch die Euro-Inflation, Donnerstag die Bank von England (Erhöhung erwartet), Freitag der große US-Jobbericht.",
-      "💵 Wochenfazit Dollar: Er hat seine kleinen Wochengewinne gehalten, nachdem sich der Staub der Notenbank-Woche gelegt hat — er steht weiter flach bei rund 102. Keine klare Richtung, bis die neuen Zahlen nächste Woche kommen."
+      "📅 Sonntag — die großen Devisen- und Anleihemärkte sind geschlossen, es gibt keine frischen Zahlen. Darum heute nur der Blick auf die Woche vor uns (3.–6.11.) — und die hat es in sich.",
+      "🗓️ Die Woche im Überblick: Montag der US-Industrie-Stimmungsindex. Dienstag gleich doppelt heikel — Australiens Notenbank dürfte zum fünften Mal erhöhen (auf 4,85%), zeitgleich die US-Zwischenwahlen (ein politischer Risiko-Termin, der die Börsen nervös machen kann). Mittwoch die Euro-Inflation (erwartet 3,9%) plus der US-Dienstleistungs-Index. Donnerstag die Bank von England (Erhöhung auf 4,00% gilt als fast sicher). Freitag der große US-Jobbericht.",
+      "💵 Ausgangslage: Der Dollar steht weiter flach bei rund 102 — ohne klare Richtung, bis die neuen Zahlen kommen. Das Angst-Barometer ist zuletzt leicht gestiegen (etwas mehr Nervosität an den Börsen), Gold liegt unter 4.000 Dollar, und Öl ist mit über 100 Dollar teuer (Rückenwind für den kanadischen Dollar)."
     ],
     "gestern": [
-      "🏦 Rückblick auf die Notenbank-Woche: Die US-Notenbank hielt die Zinsen (zwei Mitglieder wollten erhöhen, Ton hart), Kanada erhöhte überraschend auf 2,50% (teures Öl), die Europäische Zentralbank hielt (Chefin Lagarde kündigte ihren vorzeitigen Rückzug für Februar 2027 an) und Japan hielt still. Eine Woche der Gegensätze zwischen den Notenbanken, keine reine Dollar-Woche.",
-      "🥇 Zugleich fiel Gold unter die Marke von 4.000 Dollar (~3.935$) und Bitcoin gab nach — die monatelange Flucht ins Gold löst sich auf. Das nahm dem Dollar einen Deckel, doch gleichzeitig gaben die kurzen US-Zinsen am stärksten von allen nach. Zwei Kräfte, die sich aufheben → Dollar flach."
+      "🇨🇳 Gestern früh (Samstag) kamen Chinas Industrie-Einkaufsmanager-Zahlen für Oktober: 49,3 — unter der Wachstumsschwelle von 50 und damit wieder leichte Schrumpfung, der schwächste Wert seit Juli. Ein milder Gegenwind für die Rohstoff-Währungen Australien und Neuseeland.",
+      "🏦 Davor die Notenbank-Woche: Die US-Notenbank hielt die Zinsen (harter Ton, zwei Mitglieder wollten erhöhen), Kanada erhöhte überraschend auf 2,50% (teures Öl), die Europäische Zentralbank hielt (Chefin Lagarde kündigte ihren vorzeitigen Rückzug für Februar 2027 an), Japan hielt still. Eine Woche der Gegensätze zwischen den Notenbanken, keine reine Dollar-Woche.",
+      "🥇 Zugleich fiel Gold unter 4.000 Dollar und Bitcoin gab nach — die monatelange Flucht ins Gold löst sich auf. Das nahm dem Dollar einen Deckel, doch zugleich gaben die kurzen US-Zinsen am stärksten nach. Zwei Kräfte, die sich aufheben → Dollar flach."
     ]
   }
 }

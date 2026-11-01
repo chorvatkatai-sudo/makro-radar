@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-31T17:28:59.527Z",
+  "stand": "2026-11-01T06:10:13.619Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
@@ -105,7 +105,7 @@
       "einheit": "$",
       "typ": "rohstoff",
       "wert": 113.43,
-      "tagProzent": -3.58,
+      "tagProzent": 0,
       "wocheProzent": -2.06,
       "renditeDelta": false,
       "verlauf": [
@@ -129,7 +129,7 @@
         113.88,
         115.32,
         114.88,
-        117.64,
+        113.43,
         113.43
       ]
     },
@@ -249,9 +249,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 77456.64,
+      "wert": 77846.08,
       "tagProzent": 0,
-      "wocheProzent": -4.14,
+      "wocheProzent": -3.66,
       "renditeDelta": false,
       "verlauf": [
         83679.47,
@@ -274,8 +274,8 @@
         81267.59,
         77775.11,
         77198.21,
-        77456.64,
-        77456.64
+        77846.08,
+        77846.08
       ]
     },
     "FEDFUT": {
@@ -404,39 +404,39 @@
     }
   },
   "zinsen2j": {
-    "stand": "2026-10-31",
+    "stand": "2026-11-01",
     "werte": {
       "USD": {
         "wert": 4.594,
-        "wocheDelta": -0.214
+        "wocheDelta": -0.05
       },
       "EUR": {
         "wert": 3.013,
-        "wocheDelta": -0.083
+        "wocheDelta": 0.013
       },
       "GBP": {
         "wert": 4.862,
-        "wocheDelta": -0.059
+        "wocheDelta": -0.011
       },
       "JPY": {
         "wert": 1.876,
-        "wocheDelta": -0.025
+        "wocheDelta": -0.023
       },
       "AUD": {
         "wert": 4.932,
-        "wocheDelta": -0.014
+        "wocheDelta": 0.036
       },
       "CAD": {
         "wert": 3.307,
-        "wocheDelta": -0.001
+        "wocheDelta": 0.072
       },
       "CHF": {
         "wert": 0.183,
-        "wocheDelta": -0.025
+        "wocheDelta": -0.015
       },
       "NZD": {
         "wert": 3.748,
-        "wocheDelta": -0.205
+        "wocheDelta": -0.19
       }
     },
     "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"

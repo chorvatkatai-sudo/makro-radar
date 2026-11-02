@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-01T06:10:14.750Z",
+ "erstellt": "2026-11-02T06:14:36.678Z",
  "wochenStart": "2026-11-01",
  "events": [
   {
@@ -2785,18 +2785,20 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (frisch ausgewertet, frankfurter lief auf dem Runner): wochenWette 8/17 = 47%, Konzentration 88%, Zufallsband [5,12] → weiter NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 54% vs. nurBase 51%). Beste Paare: NZD/USD 60%, GBP/USD 59%, AUD/USD 56%; schlechteste: EUR/JPY 17%, EUR/USD 35%, USD/JPY 38%. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5) und über die einzelnen Notenbank-Stories diversifiziert."
   ],
   "tagesnews": {
-   "stand": "2026-11-01",
-   "wochentag": "Sonntag",
-   "tenor": "Sonntag, die Märkte ruhen. Ab Dienstag drängen sich fünf schwere Termine in eine Woche: Australiens Notenbank, die US-Zwischenwahlen, die Euro-Inflation, die Bank von England und der US-Jobbericht.",
+   "stand": "2026-11-02",
+   "wochentag": "Montag",
+   "tenor": "Ruhiger Wochenstart vor einer vollgepackten Woche: heute nur der US-Industrie-Stimmungsindex, die Börsen sind nach Technologie-Verlusten nervös, die großen Termine beginnen erst morgen.",
    "heute": [
-    "📅 Sonntag — die großen Devisen- und Anleihemärkte sind geschlossen, es gibt keine frischen Zahlen. Darum heute nur der Blick auf die Woche vor uns (3.–6.11.) — und die hat es in sich.",
-    "🗓️ Die Woche im Überblick: Montag der US-Industrie-Stimmungsindex. Dienstag gleich doppelt heikel — Australiens Notenbank dürfte zum fünften Mal erhöhen (auf 4,85%), zeitgleich die US-Zwischenwahlen (ein politischer Risiko-Termin, der die Börsen nervös machen kann). Mittwoch die Euro-Inflation (erwartet 3,9%) plus der US-Dienstleistungs-Index. Donnerstag die Bank von England (Erhöhung auf 4,00% gilt als fast sicher). Freitag der große US-Jobbericht.",
-    "💵 Ausgangslage: Der Dollar steht weiter flach bei rund 102 — ohne klare Richtung, bis die neuen Zahlen kommen. Das Angst-Barometer ist zuletzt leicht gestiegen (etwas mehr Nervosität an den Börsen), Gold liegt unter 4.000 Dollar, und Öl ist mit über 100 Dollar teuer (Rückenwind für den kanadischen Dollar)."
+    "📊 Heute ab 16:00 Uhr Wiener Zeit der US-Industrie-Stimmungsindex (Einkaufsmanager der Fabriken) — der einzige wichtige Termin am Montag. Alles andere wartet auf das geballte Programm ab morgen.",
+    "😟 Die Börsen gehen nervös in die Woche: Die US-Technologie-Werte verloren in der Vorwoche deutlich (dritte Verlustwoche in Folge, Sorge um die hohen Ausgaben für künstliche Intelligenz). Das Angst-Barometer ist dadurch auf rund 19 gestiegen — etwas mehr Vorsicht, was traditionell die sicheren Häfen Franken und Yen leicht stützt.",
+    "💵 Der Dollar startet weiter richtungslos bei rund 102. Gold liegt mit knapp 3.900 Dollar unter der Marke von 4.000 (die monatelange Flucht ins Gold löst sich weiter auf), Öl ist mit über 100 Dollar teuer — Rückenwind für den kanadischen Dollar.",
+    "📅 Morgen wird es ernst: Australiens Notenbank dürfte zum fünften Mal erhöhen (auf 4,85%, zu rund 88% eingepreist), zeitgleich laufen die US-Zwischenwahlen (politischer Risiko-Termin)."
    ],
    "gestern": [
-    "🇨🇳 Gestern früh (Samstag) kamen Chinas Industrie-Einkaufsmanager-Zahlen für Oktober: 49,3 — unter der Wachstumsschwelle von 50 und damit wieder leichte Schrumpfung, der schwächste Wert seit Juli. Ein milder Gegenwind für die Rohstoff-Währungen Australien und Neuseeland.",
-    "🏦 Davor die Notenbank-Woche: Die US-Notenbank hielt die Zinsen (harter Ton, zwei Mitglieder wollten erhöhen), Kanada erhöhte überraschend auf 2,50% (teures Öl), die Europäische Zentralbank hielt (Chefin Lagarde kündigte ihren vorzeitigen Rückzug für Februar 2027 an), Japan hielt still. Eine Woche der Gegensätze zwischen den Notenbanken, keine reine Dollar-Woche.",
-    "🥇 Zugleich fiel Gold unter 4.000 Dollar und Bitcoin gab nach — die monatelange Flucht ins Gold löst sich auf. Das nahm dem Dollar einen Deckel, doch zugleich gaben die kurzen US-Zinsen am stärksten nach. Zwei Kräfte, die sich aufheben → Dollar flach."
+    "🇨🇳 Am Samstag kamen Chinas Industrie-Einkaufsmanager-Zahlen für Oktober: 49,3 — unter der Wachstumsschwelle von 50 und damit wieder leichte Schrumpfung, der schwächste Wert seit Juli. Ein milder Gegenwind für die Rohstoff-Währungen Australien und Neuseeland.",
+    "📉 In der Vorwoche verloren die großen US-Börsen den dritten Freitag in Folge (Technologie-Index rund 2% schwächer), getrieben von Zweifeln, ob sich die riesigen Ausgaben für künstliche Intelligenz auszahlen. Das erklärt das gestiegene Angst-Barometer.",
+    "🏦 Davor die Notenbank-Woche der Gegensätze: Die US-Notenbank hielt die Zinsen (harter Ton), Kanada erhöhte überraschend auf 2,50% (teures Öl), die Europäische Zentralbank hielt (Chefin Lagarde kündigte ihren vorzeitigen Rückzug für Februar 2027 an), Japan hielt still. Keine reine Dollar-Woche.",
+    "🥇 Zugleich fiel Gold unter 4.000 Dollar und Bitcoin gab nach (zuletzt unter 78.000). Das nahm dem Dollar einen Deckel, doch die kurzen US-Zinsen gaben am stärksten nach — zwei Kräfte, die sich aufheben → Dollar flach."
    ]
   }
  },
@@ -3838,7 +3840,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-01T06:10:14.166Z",
+  "stand": "2026-11-02T06:14:36.677Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 80,
   "gewertet": 37,

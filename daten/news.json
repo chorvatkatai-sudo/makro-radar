@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-01T06:10:14.030Z",
+  "stand": "2026-11-02T06:22:32.366Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,75 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
+      "titel": "US midterms 2026: Is Trump about to lose his grip on Congress?",
+      "link": "https://investinglive.com/news/us-midterms-2026-is-trump-about-to-lose-his-grip-on-congress/",
+      "datum": "2026-11-02T05:34:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil eases on Doha talks",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-doha-talks/",
+      "datum": "2026-11-02T04:32:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China private factory PMI at 52.0 beats forecasts, output growth fastest since April",
+      "link": "https://investinglive.com/news/china-private-factory-pmi-at-52-0-beats-forecasts-output-growth-fastest-since-april/",
+      "datum": "2026-11-02T01:51:51.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
+      "link": "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/",
+      "datum": "2026-11-02T00:49:58.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan weighs ¥5,000 annual payment for low-income workers under new benefit plan",
+      "link": "https://investinglive.com/news/japan-weighs-5-000-annual-payment-for-low-income-workers-under-new-benefit-plan/",
+      "datum": "2026-11-02T00:41:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US clocks fall back: Wall Street opens an hour later for traders in Asia and Europe",
+      "link": "https://investinglive.com/news/us-clocks-fall-back-wall-street-opens-an-hour-later-for-traders-in-asia-and-europe/",
+      "datum": "2026-11-01T23:06:59.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia’s AI investment ambitions hit by another data centre setback",
+      "link": "https://investinglive.com/news/australia-s-ai-investment-ambitions-hit-by-another-data-centre-setback/",
+      "datum": "2026-11-01T22:17:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia’s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2024",
+      "link": "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/",
+      "datum": "2026-11-01T22:08:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump says US and Canada have ‘concept’ of a deal, two days before midterms",
+      "link": "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/",
+      "datum": "2026-11-01T21:39:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Monday, November 2, 2026 - another China PMI",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi/",
+      "datum": "2026-11-01T21:35:47.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China’s factory and services PMI gauges both drop below 50 as fourth quarter starts on a weak note",
+      "link": "https://investinglive.com/news/china-s-factory-and-services-pmi-gauges-both-drop-below-50-as-fourth-quarter-starts-on-a-weak-note/",
+      "datum": "2026-11-01T21:00:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 30 Oct: It’s a wrap: Nasdaq tumbles as AI costs worry investors; Fed speakers keep hikes in play",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/",
       "datum": "2026-10-30T21:38:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Week ahead: Elections, rate decisions and jobs take center stage",
-      "link": "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/",
-      "datum": "2026-10-30T19:13:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Carney: Canada, EU working toward deepest possible partnership, short of accession",
-      "link": "https://investinglive.com/news/carney-canada-eu-working-toward-deepest-possible-partnership-short-of-accession/",
-      "datum": "2026-10-30T17:08:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Fitch on UK Budget: Policy continuity leaves a tough delivery challenge",
-      "link": "https://investinglive.com/news/fitch-on-uk-budget-policy-continuity-leaves-a-tough-delivery-challenge/",
-      "datum": "2026-10-30T15:42:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US employment cost index for Q3 +0.8% vs +0.8% expected",
-      "link": "https://investinglive.com/news/us-employment-cost-index-for-q3-0-8-vs-0-8-expected/",
-      "datum": "2026-10-30T12:30:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada GDP for August 0.0% vs 0.2% estimate",
-      "link": "https://investinglive.com/news/canada-gdp-for-august-0-0-vs-0-2-estimate/",
-      "datum": "2026-10-30T12:30:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: AI spending fears spook tech stocks; dollar falls alongside yields, gold",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-ai-spending-fears-spook-tech-stocks-dollar-falls-alongside-yields-gold/",
-      "datum": "2026-10-30T11:46:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
-      "link": "https://investinglive.com/news/italy-october-preliminary-cpi-5-4-vs-4-6-y-y-expected/",
-      "datum": "2026-10-30T10:01:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone Q3 GDP beats expectations but the growth surprise comes with a catch",
-      "link": "https://investinglive.com/news/eurozone-q3-gdp-beats-expectations-but-the-growth-surprise-comes-with-a-catch/",
-      "datum": "2026-10-30T10:00:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German state inflation cools in October, but will that ease the ECB's headache?",
-      "link": "https://investinglive.com/news/german-state-inflation-cools-in-october-but-will-that-ease-the-ecb-s-headache/",
-      "datum": "2026-10-30T09:11:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
-      "link": "https://investinglive.com/news/italy-q3-preliminary-gdp-0-0-vs-0-1-q-q-expected/",
-      "datum": "2026-10-30T09:02:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
-      "link": "https://investinglive.com/news/germany-q3-preliminary-gdp-0-2-vs-0-1-q-q-expected/",
-      "datum": "2026-10-30T09:00:11.000Z"
     },
     {
       "quelle": "Fed",

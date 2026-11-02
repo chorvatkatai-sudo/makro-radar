@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-02T06:14:36.678Z",
+ "erstellt": "2026-11-02T06:22:33.094Z",
  "wochenStart": "2026-11-01",
  "events": [
   {
@@ -45,15 +45,6 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "53.3",
    "previous": "53.3",
-   "actual": null
-  },
-  {
-   "title": "ANZ Job Advertisements m/m",
-   "country": "AUD",
-   "date": "2026-11-01T19:45:00-05:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "2.2%",
    "actual": null
   },
   {
@@ -187,7 +178,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-11-02T10:00:00-05:00",
    "impact": "Medium",
-   "forecast": "54.7",
+   "forecast": "54.5",
    "previous": "54.5",
    "actual": null
   },
@@ -196,7 +187,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-11-02T10:00:00-05:00",
    "impact": "Low",
-   "forecast": "0.3%",
+   "forecast": "0.4%",
    "previous": "0.9%",
    "actual": null
   },
@@ -1084,7 +1075,7 @@ window.MAKRO_DATA = {
    "title": "Private House Approvals MoM Final",
    "impact": "Low",
    "forecast": "",
-   "previous": "3.7",
+   "previous": "5.4%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1094,7 +1085,7 @@ window.MAKRO_DATA = {
    "title": "Building Permits YoY Final",
    "impact": "Low",
    "forecast": "",
-   "previous": "10.3",
+   "previous": "12.1%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -1104,7 +1095,7 @@ window.MAKRO_DATA = {
    "title": "Building Permits MoM Final",
    "impact": "Low",
    "forecast": "",
-   "previous": "-6.1",
+   "previous": "-5.2%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3267,18 +3258,17 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-01T06:10:13.619Z",
+  "stand": "2026-11-02T06:22:31.944Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.96,
-    "tagProzent": 0.08,
-    "wocheProzent": 0,
+    "wert": 101.83,
+    "tagProzent": 0,
+    "wocheProzent": -0.48,
     "renditeDelta": false,
     "verlauf": [
-     101.93,
      102.17,
      101.83,
      102.24,
@@ -3299,7 +3289,8 @@ window.MAKRO_DATA = {
      102.19,
      102.04,
      101.88,
-     101.96
+     101.83,
+     101.83
     ]
    },
    "VIX": {
@@ -3339,12 +3330,11 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 104.12,
+    "wert": 100.7,
     "tagProzent": 0,
-    "wocheProzent": 2.32,
+    "wocheProzent": 0.8,
     "renditeDelta": false,
     "verlauf": [
-     91.11,
      89.43,
      89.44,
      88.28,
@@ -3365,19 +3355,19 @@ window.MAKRO_DATA = {
      102.78,
      102,
      104.12,
-     104.12
+     100.7,
+     100.7
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 113.43,
+    "wert": 110.05,
     "tagProzent": 0,
-    "wocheProzent": -2.06,
+    "wocheProzent": -3.36,
     "renditeDelta": false,
     "verlauf": [
-     102.25,
      100.32,
      100.58,
      100.2,
@@ -3397,20 +3387,20 @@ window.MAKRO_DATA = {
      113.88,
      115.32,
      114.88,
-     113.43,
-     113.43
+     117.64,
+     110.05,
+     110.05
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3898.9,
+    "wert": 3922.4,
     "tagProzent": 0,
-    "wocheProzent": -3.45,
+    "wocheProzent": -3.74,
     "renditeDelta": false,
     "verlauf": [
-     4162.3,
      4156.8,
      4187.1,
      4140.7,
@@ -3431,7 +3421,8 @@ window.MAKRO_DATA = {
      4051.6,
      4031.4,
      3898.9,
-     3898.9
+     3922.4,
+     3922.4
     ]
    },
    "US02Y": {
@@ -3439,11 +3430,31 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 4.75,
-    "tagProzent": 0,
+    "tagProzent": 3.87,
     "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
+     4.635,
+     4.638,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
+     4.647,
      4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.75,
+     4.573,
      4.75
     ]
    },
@@ -3517,12 +3528,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 77846.08,
+    "wert": 78123.29,
     "tagProzent": 0,
-    "wocheProzent": -3.66,
+    "wocheProzent": -3.87,
     "renditeDelta": false,
     "verlauf": [
-     83679.47,
      81762.56,
      83095.13,
      81562.49,
@@ -3542,8 +3552,9 @@ window.MAKRO_DATA = {
      81267.59,
      77775.11,
      77198.21,
-     77846.08,
-     77846.08
+     77434.75,
+     78123.29,
+     78123.29
     ]
    },
    "FEDFUT": {
@@ -3672,39 +3683,39 @@ window.MAKRO_DATA = {
    }
   },
   "zinsen2j": {
-   "stand": "2026-11-01",
+   "stand": "2026-11-02",
    "werte": {
     "USD": {
-     "wert": 4.594,
-     "wocheDelta": -0.05
+     "wert": 4.602,
+     "wocheDelta": -0.084
     },
     "EUR": {
      "wert": 3.013,
-     "wocheDelta": 0.013
+     "wocheDelta": -0.018
     },
     "GBP": {
      "wert": 4.862,
-     "wocheDelta": -0.011
+     "wocheDelta": -0.058
     },
     "JPY": {
-     "wert": 1.876,
-     "wocheDelta": -0.023
+     "wert": 1.881,
+     "wocheDelta": 0.01
     },
     "AUD": {
-     "wert": 4.932,
-     "wocheDelta": 0.036
+     "wert": 4.956,
+     "wocheDelta": 0.012
     },
     "CAD": {
      "wert": 3.307,
-     "wocheDelta": 0.072
+     "wocheDelta": -0.054
     },
     "CHF": {
      "wert": 0.183,
-     "wocheDelta": -0.015
+     "wocheDelta": 0.013
     },
     "NZD": {
-     "wert": 3.748,
-     "wocheDelta": -0.19
+     "wert": 4,
+     "wocheDelta": 0.08
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -3732,9 +3743,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 2,
    "tiltCot": -5,
-   "tiltZins": 2,
-   "tiltGesamt": -3,
-   "score": -1,
+   "tiltZins": 0,
+   "tiltGesamt": -5,
+   "score": -3,
    "cotExtrem": "erhoeht",
    "treiber": "Heiße UK-Inflation (3,5%) + fast sichere Zinserhöhung der Bank von England am Do 5.11. (~94% auf 4,00%) + noch erhöhte Shorts stützen das Pfund. Bewusst moderat, weil ein Teil der Erhöhung schon eingepreist ist. Eines der besten Paare im Track-Record (59%).",
    "istCross": false
@@ -3743,9 +3754,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 2,
    "tiltCot": -5,
-   "tiltZins": 0,
-   "tiltGesamt": -5,
-   "score": -3,
+   "tiltZins": -4,
+   "tiltGesamt": -9,
+   "score": -7,
    "cotExtrem": "erhoeht",
    "treiber": "Bewusst klein: Yen ist weiter überfüllt net-LONG (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hielt still (leicht straffer Ton, aber kein Impuls), der Carry-Nachteil wiegt. Dämpfend: Das leicht gestiegene Angst-Barometer gibt dem Hafen-Yen etwas Zufluss zurück, und die US-Zinsen fielen. Schwächstes Paar im Track-Record (38%) → nahe neutral.",
    "istCross": false
@@ -3754,9 +3765,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": 4,
    "tiltCot": -2,
-   "tiltZins": 3,
-   "tiltGesamt": 1,
-   "score": 5,
+   "tiltZins": 4,
+   "tiltGesamt": 2,
+   "score": 6,
    "cotExtrem": "extrem",
    "treiber": "Heiße australische Inflation (4,3%) → fünfte Zinserhöhung am Di 3.11. ~85–90% eingepreist (auf 4,85%). Höchster 2-Jahres-Zins aller großen Währungen und der einzige, der diese Woche STIEG = klarer Zins-Rückenwind. Extreme Shorts = Squeeze-Zünder. Sauber vom Dollar-Block über die eigene Story gelöst; die festen US-Daten deckeln, daher nicht aggressiv.",
    "istCross": false
@@ -3765,9 +3776,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -3,
    "tiltCot": 4,
-   "tiltZins": -5,
-   "tiltGesamt": -1,
-   "score": -4,
+   "tiltZins": -1,
+   "tiltGesamt": 3,
+   "score": 0,
    "cotExtrem": null,
    "treiber": "Bank of Canada erhöhte überraschend auf 2,50% (Markt erwartete Halten) → eigene Loonie-Story, dazu teures Öl (~104$). ABER die Marktreaktion war verhalten (Loonie kaum bewegt) und die Bank mahnte Vorsicht — die kühle Kern-Inflation dämpft. Vom Dollar-Block gelöst, loonie-positiv (USD/CAD runter), aber nicht aggressiv.",
    "istCross": false
@@ -3776,9 +3787,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": 2,
    "tiltCot": 3,
-   "tiltZins": -1,
-   "tiltGesamt": 2,
-   "score": 4,
+   "tiltZins": -4,
+   "tiltGesamt": -1,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "Das leicht gestiegene Angst-Barometer (VIX ~18,9) gibt dem Franken etwas Hafen-Zufluss zurück — das dämpft. Dagegen halten die hohen US-Zinsen Geld in den USA und die US-Daten kamen fest. Netto kleines Dollar-Plus, fast neutral.",
    "istCross": false
@@ -3787,9 +3798,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -3,
    "tiltCot": -2,
-   "tiltZins": -6,
-   "tiltGesamt": -8,
-   "score": -11,
+   "tiltZins": 7,
+   "tiltGesamt": 5,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "Die neuseeländische Notenbank hielt überraschend bei 2,75% (4:3), und der 2-Jahres-Zins fiel diese Woche am stärksten von allen = Zins-Momentum klar gegen den Kiwi. Gegengewicht: extreme Shorts (Squeeze-Risiko) begrenzen den Rückgang → moderat negativ. Gutes Paar im Track-Record (60%), aber die Richtung ist hier zins-getrieben negativ.",
    "istCross": false
@@ -3798,9 +3809,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/GBP",
    "baseScore": 0,
    "tiltCot": 1,
-   "tiltZins": 0,
-   "tiltGesamt": 1,
-   "score": 1,
+   "tiltZins": 2,
+   "tiltGesamt": 3,
+   "score": 3,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3809,9 +3820,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/JPY",
    "baseScore": 2,
    "tiltCot": -2,
-   "tiltZins": 1,
-   "tiltGesamt": -1,
-   "score": 1,
+   "tiltZins": 0,
+   "tiltGesamt": -2,
+   "score": 0,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3820,9 +3831,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 4,
    "tiltCot": 1,
-   "tiltZins": 8,
-   "tiltGesamt": 9,
-   "score": 13,
+   "tiltZins": -3,
+   "tiltGesamt": -2,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -3831,16 +3842,16 @@ window.MAKRO_DATA = {
    "paar": "EUR/CHF",
    "baseScore": 1,
    "tiltCot": 0,
-   "tiltZins": 0,
-   "tiltGesamt": 0,
-   "score": 1,
+   "tiltZins": -1,
+   "tiltGesamt": -1,
+   "score": 0,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-02T06:14:36.677Z",
+  "stand": "2026-11-02T06:22:32.374Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 80,
   "gewertet": 37,
@@ -3956,7 +3967,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-01T06:10:14.747Z",
+  "stand": "2026-11-02T06:22:33.093Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4195,7 +4206,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-01T06:10:14.030Z",
+  "stand": "2026-11-02T06:22:32.366Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
@@ -4204,75 +4215,75 @@ window.MAKRO_DATA = {
   "eintraege": [
    {
     "quelle": "ForexLive",
+    "titel": "US midterms 2026: Is Trump about to lose his grip on Congress?",
+    "link": "https://investinglive.com/news/us-midterms-2026-is-trump-about-to-lose-his-grip-on-congress/",
+    "datum": "2026-11-02T05:34:36.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Asia-Pacific market news: Oil eases on Doha talks",
+    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-doha-talks/",
+    "datum": "2026-11-02T04:32:13.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China private factory PMI at 52.0 beats forecasts, output growth fastest since April",
+    "link": "https://investinglive.com/news/china-private-factory-pmi-at-52-0-beats-forecasts-output-growth-fastest-since-april/",
+    "datum": "2026-11-02T01:51:51.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
+    "link": "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/",
+    "datum": "2026-11-02T00:49:58.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Japan weighs ¥5,000 annual payment for low-income workers under new benefit plan",
+    "link": "https://investinglive.com/news/japan-weighs-5-000-annual-payment-for-low-income-workers-under-new-benefit-plan/",
+    "datum": "2026-11-02T00:41:27.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US clocks fall back: Wall Street opens an hour later for traders in Asia and Europe",
+    "link": "https://investinglive.com/news/us-clocks-fall-back-wall-street-opens-an-hour-later-for-traders-in-asia-and-europe/",
+    "datum": "2026-11-01T23:06:59.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Australia’s AI investment ambitions hit by another data centre setback",
+    "link": "https://investinglive.com/news/australia-s-ai-investment-ambitions-hit-by-another-data-centre-setback/",
+    "datum": "2026-11-01T22:17:21.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Australia’s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2024",
+    "link": "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/",
+    "datum": "2026-11-01T22:08:20.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Trump says US and Canada have ‘concept’ of a deal, two days before midterms",
+    "link": "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/",
+    "datum": "2026-11-01T21:39:24.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Economic and event calendar in Asia Monday, November 2, 2026 - another China PMI",
+    "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi/",
+    "datum": "2026-11-01T21:35:47.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China’s factory and services PMI gauges both drop below 50 as fourth quarter starts on a weak note",
+    "link": "https://investinglive.com/news/china-s-factory-and-services-pmi-gauges-both-drop-below-50-as-fourth-quarter-starts-on-a-weak-note/",
+    "datum": "2026-11-01T21:00:13.000Z"
+   },
+   {
+    "quelle": "ForexLive",
     "titel": "investingLive Americas FX news wrap 30 Oct: It’s a wrap: Nasdaq tumbles as AI costs worry investors; Fed speakers keep hikes in play",
     "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/",
     "datum": "2026-10-30T21:38:16.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Week ahead: Elections, rate decisions and jobs take center stage",
-    "link": "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/",
-    "datum": "2026-10-30T19:13:02.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Carney: Canada, EU working toward deepest possible partnership, short of accession",
-    "link": "https://investinglive.com/news/carney-canada-eu-working-toward-deepest-possible-partnership-short-of-accession/",
-    "datum": "2026-10-30T17:08:44.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Fitch on UK Budget: Policy continuity leaves a tough delivery challenge",
-    "link": "https://investinglive.com/news/fitch-on-uk-budget-policy-continuity-leaves-a-tough-delivery-challenge/",
-    "datum": "2026-10-30T15:42:01.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US employment cost index for Q3 +0.8% vs +0.8% expected",
-    "link": "https://investinglive.com/news/us-employment-cost-index-for-q3-0-8-vs-0-8-expected/",
-    "datum": "2026-10-30T12:30:08.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Canada GDP for August 0.0% vs 0.2% estimate",
-    "link": "https://investinglive.com/news/canada-gdp-for-august-0-0-vs-0-2-estimate/",
-    "datum": "2026-10-30T12:30:07.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European session wrap: AI spending fears spook tech stocks; dollar falls alongside yields, gold",
-    "link": "https://investinglive.com/news/investinglive-european-session-wrap-ai-spending-fears-spook-tech-stocks-dollar-falls-alongside-yields-gold/",
-    "datum": "2026-10-30T11:46:54.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
-    "link": "https://investinglive.com/news/italy-october-preliminary-cpi-5-4-vs-4-6-y-y-expected/",
-    "datum": "2026-10-30T10:01:45.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Eurozone Q3 GDP beats expectations but the growth surprise comes with a catch",
-    "link": "https://investinglive.com/news/eurozone-q3-gdp-beats-expectations-but-the-growth-surprise-comes-with-a-catch/",
-    "datum": "2026-10-30T10:00:17.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "German state inflation cools in October, but will that ease the ECB's headache?",
-    "link": "https://investinglive.com/news/german-state-inflation-cools-in-october-but-will-that-ease-the-ecb-s-headache/",
-    "datum": "2026-10-30T09:11:17.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
-    "link": "https://investinglive.com/news/italy-q3-preliminary-gdp-0-0-vs-0-1-q-q-expected/",
-    "datum": "2026-10-30T09:02:11.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
-    "link": "https://investinglive.com/news/germany-q3-preliminary-gdp-0-2-vs-0-1-q-q-expected/",
-    "datum": "2026-10-30T09:00:11.000Z"
    },
    {
     "quelle": "Fed",

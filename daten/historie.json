@@ -20676,7 +20676,7 @@
       "land": "USD",
       "titel": "JOLTS Job Openings",
       "impact": "Medium",
-      "prognose": "7.11M",
+      "prognose": "7.15M",
       "vorher": "7.08M",
       "actual": null,
       "notiz": null
@@ -20706,7 +20706,7 @@
       "land": "USD",
       "titel": "Omdia Total Vehicle Sales",
       "impact": "Low",
-      "prognose": "15.9M",
+      "prognose": "15.8M",
       "vorher": "16.0M",
       "actual": null,
       "notiz": null
@@ -20826,7 +20826,7 @@
       "land": "CNY",
       "titel": "RatingDog Services PMI",
       "impact": "Low",
-      "prognose": "51.5",
+      "prognose": "51.7",
       "vorher": "51.6",
       "actual": null,
       "notiz": null
@@ -20836,7 +20836,7 @@
       "land": "EUR",
       "titel": "Spanish Unemployment Change",
       "impact": "Low",
-      "prognose": "25.3K",
+      "prognose": "18.7K",
       "vorher": "23.6K",
       "actual": null,
       "notiz": null
@@ -20846,7 +20846,7 @@
       "land": "EUR",
       "titel": "Spanish Services PMI",
       "impact": "Low",
-      "prognose": "57.5",
+      "prognose": "57.6",
       "vorher": "58.3",
       "actual": null,
       "notiz": null
@@ -20856,7 +20856,7 @@
       "land": "EUR",
       "titel": "Italian Services PMI",
       "impact": "Low",
-      "prognose": "51.0",
+      "prognose": "51.4",
       "vorher": "51.7",
       "actual": null,
       "notiz": null
@@ -20926,7 +20926,7 @@
       "land": "USD",
       "titel": "ADP Non-Farm Employment Change",
       "impact": "Low",
-      "prognose": "68K",
+      "prognose": "67K",
       "vorher": "90K",
       "actual": null,
       "notiz": null
@@ -20936,7 +20936,7 @@
       "land": "CAD",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "3.8B",
+      "prognose": "4.8B",
       "vorher": "4.2B",
       "actual": null,
       "notiz": null
@@ -20966,7 +20966,7 @@
       "land": "USD",
       "titel": "ISM Services PMI",
       "impact": "Medium",
-      "prognose": "54.9",
+      "prognose": "54.8",
       "vorher": "54.9",
       "actual": null,
       "notiz": null
@@ -20996,7 +20996,7 @@
       "land": "AUD",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "0.96B",
+      "prognose": "0.94B",
       "vorher": "0.50B",
       "actual": null,
       "notiz": null
@@ -21026,7 +21026,7 @@
       "land": "EUR",
       "titel": "German Factory Orders m/m",
       "impact": "Low",
-      "prognose": "4.9%",
+      "prognose": "4.6%",
       "vorher": "-10.6%",
       "actual": null,
       "notiz": null
@@ -21036,7 +21036,7 @@
       "land": "EUR",
       "titel": "French Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.4%",
+      "prognose": "0.3%",
       "vorher": "-0.3%",
       "actual": null,
       "notiz": null
@@ -21056,7 +21056,7 @@
       "land": "EUR",
       "titel": "Italian Retail Sales m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.0%",
       "vorher": "0.3%",
       "actual": null,
       "notiz": null
@@ -21066,7 +21066,7 @@
       "land": "GBP",
       "titel": "Construction PMI",
       "impact": "Low",
-      "prognose": "46.5",
+      "prognose": "46.4",
       "vorher": "46.1",
       "actual": null,
       "notiz": null
@@ -21076,7 +21076,7 @@
       "land": "EUR",
       "titel": "PPI m/m",
       "impact": "Low",
-      "prognose": "2.6%",
+      "prognose": "2.5%",
       "vorher": "1.9%",
       "actual": null,
       "notiz": null
@@ -21286,7 +21286,7 @@
       "land": "EUR",
       "titel": "German Industrial Production m/m",
       "impact": "Low",
-      "prognose": "-0.2%",
+      "prognose": "0.0%",
       "vorher": "2.0%",
       "actual": null,
       "notiz": null
@@ -21376,7 +21376,7 @@
       "land": "CAD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "14.5K",
+      "prognose": "14.6K",
       "vorher": "-68.3K",
       "actual": null,
       "notiz": null
@@ -21406,7 +21406,7 @@
       "land": "USD",
       "titel": "Non-Farm Employment Change",
       "impact": "High",
-      "prognose": "63K",
+      "prognose": "65K",
       "vorher": "29K",
       "actual": null,
       "notiz": null
@@ -21446,7 +21446,7 @@
       "land": "USD",
       "titel": "Prelim UoM Consumer Sentiment",
       "impact": "Medium",
-      "prognose": "47.8",
+      "prognose": "48.1",
       "vorher": "46.3",
       "actual": null,
       "notiz": null
@@ -21486,7 +21486,7 @@
       "land": "USD",
       "titel": "Consumer Credit m/m",
       "impact": "Low",
-      "prognose": "12.0B",
+      "prognose": "13.4B",
       "vorher": "8.3B",
       "actual": null,
       "notiz": null
@@ -21508,6 +21508,16 @@
       "impact": "Low",
       "prognose": "3.0%",
       "vorher": "3.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-02T14:00:00-05:00|USD|Loan Officer Survey": {
+      "datum": "2026-11-02T14:00:00-05:00",
+      "land": "USD",
+      "titel": "Loan Officer Survey",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

@@ -1,11 +1,71 @@
 {
-  "stand": "2026-11-02T12:59:50.029Z",
+  "stand": "2026-11-02T22:15:42.244Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 2 Nov: It’s a wrap: AI selling overwhelms oil’s plunge",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/",
+      "datum": "2026-11-02T21:06:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran and US reportedly on verge of preliminary agreement",
+      "link": "https://investinglive.com/news/iran-and-us-reportedly-on-verge-of-preliminary-agreement/",
+      "datum": "2026-11-02T18:25:24.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US construction spending for the month of September -1.9% versus 0.3% estimate",
+      "link": "https://investinglive.com/news/us-instruction-spending-for-the-month-of-september-1-9-versus-0-3-estimate/",
+      "datum": "2026-11-02T15:03:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
+      "link": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-october-55-5-versus-54-5-estimate/",
+      "datum": "2026-11-02T15:00:17.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
+      "link": "https://investinglive.com/news/us-s-p-global-final-manufacturing-pmi-for-october-54-9-vs-56-0-preliminary/",
+      "datum": "2026-11-02T14:45:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada S&P global manufacturing PMI 49.6 versus 51.5 last month",
+      "link": "https://investinglive.com/news/canada-s-p-global-manufacturing-pmi-49-6-versus-51-5-last-month/",
+      "datum": "2026-11-02T14:34:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US election: The key races that could tip control of Congress",
+      "link": "https://investinglive.com/news/us-election-the-key-races-that-could-tip-control-of-congress/",
+      "datum": "2026-11-02T13:58:54.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran’s Pezeshkian says Supreme Leader has granted government some authority on dialogue",
+      "link": "https://investinglive.com/news/iran-s-pezeshkian-says-supreme-leader-has-granted-government-some-authority-on-dialogue/",
+      "datum": "2026-11-02T13:51:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Oil prices sink as Iran's President says Supreme Leader granted certain authorities regarding negotiations",
+      "link": "https://investinglive.com/news/oil-prices-sink-as-iran-s-president-says-supreme-leader-granted-certain-authorities-regarding-negotiations/",
+      "datum": "2026-11-02T13:51:22.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Oil sinks, stocks steady as US midterm elections loom",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-sinks-stocks-steady-as-us-midterm-elections-loom/",
+      "datum": "2026-11-02T13:03:24.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US midterms 2026: Where are Republicans most vulnerable in the battle for Congress?",
@@ -17,66 +77,6 @@
       "titel": "Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache",
       "link": "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/",
       "datum": "2026-11-02T09:00:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-76/",
-      "datum": "2026-11-02T07:32:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
-      "link": "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/",
-      "datum": "2026-11-02T07:00:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US midterms 2026: Is Trump about to lose his grip on Congress?",
-      "link": "https://investinglive.com/news/us-midterms-2026-is-trump-about-to-lose-his-grip-on-congress/",
-      "datum": "2026-11-02T05:34:36.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil eases on Doha talks",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-doha-talks/",
-      "datum": "2026-11-02T04:32:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China private factory PMI at 52.0 beats forecasts, output growth fastest since April",
-      "link": "https://investinglive.com/news/china-private-factory-pmi-at-52-0-beats-forecasts-output-growth-fastest-since-april/",
-      "datum": "2026-11-02T01:51:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
-      "link": "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/",
-      "datum": "2026-11-02T00:49:58.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan weighs ¥5,000 annual payment for low-income workers under new benefit plan",
-      "link": "https://investinglive.com/news/japan-weighs-5-000-annual-payment-for-low-income-workers-under-new-benefit-plan/",
-      "datum": "2026-11-02T00:41:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US clocks fall back: Wall Street opens an hour later for traders in Asia and Europe",
-      "link": "https://investinglive.com/news/us-clocks-fall-back-wall-street-opens-an-hour-later-for-traders-in-asia-and-europe/",
-      "datum": "2026-11-01T23:06:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia’s AI investment ambitions hit by another data centre setback",
-      "link": "https://investinglive.com/news/australia-s-ai-investment-ambitions-hit-by-another-data-centre-setback/",
-      "datum": "2026-11-01T22:17:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia’s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2024",
-      "link": "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/",
-      "datum": "2026-11-01T22:08:20.000Z"
     },
     {
       "quelle": "Fed",

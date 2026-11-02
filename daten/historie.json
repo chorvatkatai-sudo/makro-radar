@@ -21500,6 +21500,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-02T02:33:00-05:00|CHF|Retail Sales y/y": {
+      "datum": "2026-11-02T02:33:00-05:00",
+      "land": "CHF",
+      "titel": "Retail Sales y/y",
+      "impact": "Low",
+      "prognose": "3.0%",
+      "vorher": "3.2%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

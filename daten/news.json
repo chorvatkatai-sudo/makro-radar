@@ -1,11 +1,35 @@
 {
-  "stand": "2026-11-02T06:22:32.366Z",
+  "stand": "2026-11-02T12:59:50.029Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US midterms 2026: Where are Republicans most vulnerable in the battle for Congress?",
+      "link": "https://investinglive.com/news/us-midterms-2026-where-are-republicans-most-vulnerable-in-the-battle-for-congress/",
+      "datum": "2026-11-02T09:53:18.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache",
+      "link": "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/",
+      "datum": "2026-11-02T09:00:30.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-76/",
+      "datum": "2026-11-02T07:32:28.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany retail sales slump in September as consumer weakness adds to ECB's headache",
+      "link": "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/",
+      "datum": "2026-11-02T07:00:54.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US midterms 2026: Is Trump about to lose his grip on Congress?",
@@ -53,30 +77,6 @@
       "titel": "Australia’s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2024",
       "link": "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/",
       "datum": "2026-11-01T22:08:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump says US and Canada have ‘concept’ of a deal, two days before midterms",
-      "link": "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/",
-      "datum": "2026-11-01T21:39:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Monday, November 2, 2026 - another China PMI",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi/",
-      "datum": "2026-11-01T21:35:47.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China’s factory and services PMI gauges both drop below 50 as fourth quarter starts on a weak note",
-      "link": "https://investinglive.com/news/china-s-factory-and-services-pmi-gauges-both-drop-below-50-as-fourth-quarter-starts-on-a-weak-note/",
-      "datum": "2026-11-01T21:00:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 30 Oct: It’s a wrap: Nasdaq tumbles as AI costs worry investors; Fed speakers keep hikes in play",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/",
-      "datum": "2026-10-30T21:38:16.000Z"
     },
     {
       "quelle": "Fed",

@@ -21520,6 +21520,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-03T05:02:00-05:00|GBP|10-y Bond Auction": {
+      "datum": "2026-11-03T05:02:00-05:00",
+      "land": "GBP",
+      "titel": "10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "5.42|3.6",
+      "actual": null,
+      "notiz": null
     }
   }
 }

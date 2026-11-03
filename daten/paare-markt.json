@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-03T06:12:21.192Z",
+  "stand": "2026-11-03T06:13:16.114Z",
   "ausBriefing": "2026-10-30",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -2,
-      "tiltZins": 4,
-      "tiltGesamt": 2,
-      "score": 6,
+      "tiltZins": 0,
+      "tiltGesamt": -2,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "Zinserhöhung auf 4,85% wie erwartet bestätigt (18-Jahres-Hoch) → Aussie bleibt gestützt, aber vieles war eingepreist und die Entscheidung fiel knapp 6:3.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 4,
       "tiltCot": 1,
-      "tiltZins": -3,
-      "tiltGesamt": -2,
-      "score": 2,
+      "tiltZins": -5,
+      "tiltGesamt": -4,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

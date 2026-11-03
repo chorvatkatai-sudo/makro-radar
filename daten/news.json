@@ -1,11 +1,17 @@
 {
-  "stand": "2026-11-02T22:15:42.244Z",
+  "stand": "2026-11-03T06:13:16.112Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: RBA hikes to 18-year high",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/",
+      "datum": "2026-11-03T04:19:24.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 2 Nov: It’s a wrap: AI selling overwhelms oil’s plunge",
@@ -71,12 +77,6 @@
       "titel": "US midterms 2026: Where are Republicans most vulnerable in the battle for Congress?",
       "link": "https://investinglive.com/news/us-midterms-2026-where-are-republicans-most-vulnerable-in-the-battle-for-congress/",
       "datum": "2026-11-02T09:53:18.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache",
-      "link": "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/",
-      "datum": "2026-11-02T09:00:30.000Z"
     },
     {
       "quelle": "Fed",

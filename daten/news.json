@@ -1,11 +1,35 @@
 {
-  "stand": "2026-11-03T14:56:03.975Z",
+  "stand": "2026-11-03T19:55:20.096Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran tensions rise as report details U.S. strike contingency and intelligence divisions",
+      "link": "https://investinglive.com/news/iran-tensions-rise-as-report-details-u-s-strike-contingency-and-intelligence-divisions/",
+      "datum": "2026-11-03T18:09:40.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US September factory orders +1.8% vs +1.2% expected",
+      "link": "https://investinglive.com/news/us-september-factory-orders-1-8-vs-1-2-expected/",
+      "datum": "2026-11-03T15:00:40.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "JOLTs Job openings 7.523M vs 7.100M estimate",
+      "link": "https://investinglive.com/news/jolts-job-openings-7-523m-vs-7-100m-estimate/",
+      "datum": "2026-11-03T15:00:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Tough to buy into the Iran headlines in the context of the election",
+      "link": "https://investinglive.com/news/tough-to-buy-into-the-iran-headlines-in-the-context-of-the-election/",
+      "datum": "2026-11-03T14:36:49.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Trump on Israel: The aid gets cut off at year-end",
@@ -53,30 +77,6 @@
       "titel": "investingLive Americas FX news wrap 2 Nov: It’s a wrap: AI selling overwhelms oil’s plunge",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/",
       "datum": "2026-11-02T21:06:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran and US reportedly on verge of preliminary agreement",
-      "link": "https://investinglive.com/news/iran-and-us-reportedly-on-verge-of-preliminary-agreement/",
-      "datum": "2026-11-02T18:25:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US construction spending for the month of September -1.9% versus 0.3% estimate",
-      "link": "https://investinglive.com/news/us-instruction-spending-for-the-month-of-september-1-9-versus-0-3-estimate/",
-      "datum": "2026-11-02T15:03:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
-      "link": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-october-55-5-versus-54-5-estimate/",
-      "datum": "2026-11-02T15:00:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
-      "link": "https://investinglive.com/news/us-s-p-global-final-manufacturing-pmi-for-october-54-9-vs-56-0-preliminary/",
-      "datum": "2026-11-02T14:45:11.000Z"
     },
     {
       "quelle": "Fed",

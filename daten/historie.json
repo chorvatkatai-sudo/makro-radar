@@ -21550,6 +21550,26 @@
       "vorher": "2.5%",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-03T10:27:00-05:00|NZD|GDT Price Index": {
+      "datum": "2026-11-03T10:27:00-05:00",
+      "land": "NZD",
+      "titel": "GDT Price Index",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "2.5%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-03T13:00:00-05:00|EUR|German Buba President Nagel Speaks": {
+      "datum": "2026-11-03T13:00:00-05:00",
+      "land": "EUR",
+      "titel": "German Buba President Nagel Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

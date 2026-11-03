@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-02T22:15:42.821Z",
+ "erstellt": "2026-11-03T06:12:21.211Z",
  "wochenStart": "2026-11-01",
  "events": [
   {
@@ -234,7 +234,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.85%",
    "previous": "4.60%",
-   "actual": null
+   "actual": "4.85%"
   },
   {
    "title": "RBA Monetary Policy Statement",
@@ -2602,12 +2602,12 @@ window.MAKRO_DATA = {
    "JPY": {
     "stimmung": "bärisch",
     "score": -2,
-    "grund": "Die Bank von Japan hielt heute früh wie erwartet bei 1,25% mit leicht straffem Ton (will weiter anheben, nächster Schritt eher Dezember) — fundamental langsam stützend, aber kein kurzfristiger Impuls. Dagegen: Die Großspekulanten bauen ihre überfüllte net-LONG-Wette auf Yen weiter aus (Rückschlag-Risiko), und der Carry-Nachteil (hohe US-Zinsen) wiegt. Das leicht gestiegene Angst-Barometer gibt dem Hafen-Yen etwas Zufluss zurück — dämpft das Minus. Schwächstes Paar im Track-Record → moderat negativ, bewusst klein."
+    "grund": "Gegenläufig: Die höhere Nervosität (Angst-Barometer 21) gibt dem Yen etwas Hafen-Rückenwind, doch die Großspekulanten sitzen stark überfüllt auf steigenden Yen (Rückschlag-Risiko wächst) + schwacher Zins. Schlechtester Track-Record."
    },
    "CHF": {
     "stimmung": "neutral",
-    "score": 1,
-    "grund": "Das Angst-Barometer stieg diese Woche leicht (VIX ~18,9) → dem Franken kehrt etwas Hafen-Zufluss zurück. Gegengewicht: Die hohen US-Zinsen halten einen Teil des Geldes weiter in den USA. SNB bei 0%. Netto ein Hauch positiv, praktisch neutral."
+    "score": 2,
+    "grund": "Das Angst-Barometer sprang auf rund 21 (Technologie-Verluste + Wahl-Nervosität) — das gibt dem sicheren Hafen Franken etwas mehr Rückenwind."
    },
    "CAD": {
     "stimmung": "bullisch",
@@ -2617,12 +2617,12 @@ window.MAKRO_DATA = {
    "AUD": {
     "stimmung": "bullisch",
     "score": 5,
-    "grund": "Die klarste eigene Story der Woche: Die australische Inflation kam heiß (4,3% aufs Jahr), die Reserve Bank of Australia erhöht am Di 3.11. aller Voraussicht nach ein fünftes Mal auf 4,85% (~85–90% eingepreist). Der australische 2-Jahres-Zins ist der höchste aller großen Währungen UND der EINZIGE, der diese Woche STIEG. Dazu die extreme Short-Positionierung = Squeeze-Zünder. Sauber vom Dollar-Block gelöst — stärkster Score, aber immer noch moderat gehalten (Track-Record = Münzwurf)."
+    "grund": "Die klarste eigene Story: Die Notenbank hat heute wie erwartet auf 4,85% erhöht (18-Jahres-Hoch, höchster Zins der großen Währungen). Viel ist aber eingepreist, die Entscheidung fiel knapp 6:3."
    },
    "NZD": {
     "stimmung": "bärisch",
-    "score": -3,
-    "grund": "Die neuseeländische Notenbank hielt vorletzte Woche überraschend bei 2,75% (knappe 4:3-Abstimmung), während der Markt eine Erhöhung erwartet hatte. NEU belastend: Der neuseeländische 2-Jahres-Zins fiel diese Woche am STÄRKSTEN von allen (−0,21 Prozentpunkte) = klares Zins-Momentum gegen den Kiwi. Gegengewicht: Die extreme Short-Positionierung (Squeeze-Risiko) begrenzt den Rückgang → moderat negativ. Spiegelbild zum Aussie (RBA erhöht, Zins steigt — RBNZ hält, Zins fällt)."
+    "score": -2,
+    "grund": "Die neuseeländische Notenbank hält (2,75%), aber die kurzen Kiwi-Zinsen steigen diese Woche am stärksten und die Short-Wetten sind extrem hoch (Squeeze-Gefahr) → bärisch abgemildert. Heute Abend Arbeitsmarktzahlen."
    }
   },
   "paare": [
@@ -2638,13 +2638,13 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/JPY",
-    "score": 2,
-    "treiber": "Bewusst klein: Yen ist weiter überfüllt net-LONG (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hielt still (leicht straffer Ton, aber kein Impuls), der Carry-Nachteil wiegt. Dämpfend: Das leicht gestiegene Angst-Barometer gibt dem Hafen-Yen etwas Zufluss zurück, und die US-Zinsen fielen. Schwächstes Paar im Track-Record (38%) → nahe neutral."
+    "score": 1,
+    "treiber": "Bewusst klein: Hafen-Bid durch die Nervosität dämpft den Dollar-Vorteil gegen den überfüllt net-langen Yen (Reversal-Risiko bleibt)."
    },
    {
     "paar": "AUD/USD",
     "score": 4,
-    "treiber": "Heiße australische Inflation (4,3%) → fünfte Zinserhöhung am Di 3.11. ~85–90% eingepreist (auf 4,85%). Höchster 2-Jahres-Zins aller großen Währungen und der einzige, der diese Woche STIEG = klarer Zins-Rückenwind. Extreme Shorts = Squeeze-Zünder. Sauber vom Dollar-Block über die eigene Story gelöst; die festen US-Daten deckeln, daher nicht aggressiv."
+    "treiber": "Zinserhöhung auf 4,85% wie erwartet bestätigt (18-Jahres-Hoch) → Aussie bleibt gestützt, aber vieles war eingepreist und die Entscheidung fiel knapp 6:3."
    },
    {
     "paar": "USD/CAD",
@@ -2653,13 +2653,13 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CHF",
-    "score": 2,
-    "treiber": "Das leicht gestiegene Angst-Barometer (VIX ~18,9) gibt dem Franken etwas Hafen-Zufluss zurück — das dämpft. Dagegen halten die hohen US-Zinsen Geld in den USA und die US-Daten kamen fest. Netto kleines Dollar-Plus, fast neutral."
+    "score": 1,
+    "treiber": "Das gestiegene Angst-Barometer (21) gibt dem Franken mehr Hafen-Rückenwind → der Dollar-Vorteil schrumpft."
    },
    {
     "paar": "NZD/USD",
-    "score": -3,
-    "treiber": "Die neuseeländische Notenbank hielt überraschend bei 2,75% (4:3), und der 2-Jahres-Zins fiel diese Woche am stärksten von allen = Zins-Momentum klar gegen den Kiwi. Gegengewicht: extreme Shorts (Squeeze-Risiko) begrenzen den Rückgang → moderat negativ. Gutes Paar im Track-Record (60%), aber die Richtung ist hier zins-getrieben negativ."
+    "score": -2,
+    "treiber": "Kiwi bleibt leicht schwächer (Notenbank hält, 2,75%), aber steigende Kiwi-Zinsen + extreme Short-Wetten (Squeeze-Gefahr) mildern die Schwäche. Heute Abend Arbeitsmarktzahlen."
    }
   ],
   "wochenausblick": {
@@ -2776,20 +2776,20 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (frisch ausgewertet, frankfurter lief auf dem Runner): wochenWette 8/17 = 47%, Konzentration 88%, Zufallsband [5,12] → weiter NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 54% vs. nurBase 51%). Beste Paare: NZD/USD 60%, GBP/USD 59%, AUD/USD 56%; schlechteste: EUR/JPY 17%, EUR/USD 35%, USD/JPY 38%. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5) und über die einzelnen Notenbank-Stories diversifiziert."
   ],
   "tagesnews": {
-   "stand": "2026-11-02",
-   "wochentag": "Montag",
-   "tenor": "Ruhiger Wochenstart vor einer vollgepackten Woche: heute nur der US-Industrie-Stimmungsindex, die Börsen sind nach Technologie-Verlusten nervös, die großen Termine beginnen erst morgen.",
+   "stand": "2026-11-03",
+   "wochentag": "Dienstag",
+   "tenor": "Australiens Notenbank hob den Zins wie erwartet auf ein 18-Jahres-Hoch; heute wählen die USA ihr Parlament – das macht die Börsen nervös, der große Ruck kommt erst mit dem Ergebnis.",
    "heute": [
-    "📊 Heute ab 16:00 Uhr Wiener Zeit der US-Industrie-Stimmungsindex (Einkaufsmanager der Fabriken) — der einzige wichtige Termin am Montag. Alles andere wartet auf das geballte Programm ab morgen.",
-    "😟 Die Börsen gehen nervös in die Woche: Die US-Technologie-Werte verloren in der Vorwoche deutlich (dritte Verlustwoche in Folge, Sorge um die hohen Ausgaben für künstliche Intelligenz). Das Angst-Barometer ist dadurch auf rund 19 gestiegen — etwas mehr Vorsicht, was traditionell die sicheren Häfen Franken und Yen leicht stützt.",
-    "💵 Der Dollar startet weiter richtungslos bei rund 102. Gold liegt mit knapp 3.900 Dollar unter der Marke von 4.000 (die monatelange Flucht ins Gold löst sich weiter auf), Öl ist mit über 100 Dollar teuer — Rückenwind für den kanadischen Dollar.",
-    "📅 Morgen wird es ernst: Australiens Notenbank dürfte zum fünften Mal erhöhen (auf 4,85%, zu rund 88% eingepreist), zeitgleich laufen die US-Zwischenwahlen (politischer Risiko-Termin)."
+    "🇦🇺 Die australische Notenbank hat den Leitzins heute früh wie erwartet um 0,25 auf 4,85% angehoben — höchster Stand seit 18 Jahren, fünfte Erhöhung dieses Jahr. Die Entscheidung fiel knapp (sechs dafür, drei dagegen); Gründe sind die zähe Inflation und das teure Öl, und die Notenbank rechnet damit, dass die Inflation bis Ende 2027 über 3% bleibt. Weil die Erhöhung voll erwartet war, bewegt sie den Aussie-Dollar kaum.",
+    "🇺🇸 Heute sind die US-Zwischenwahlen (Midterms): Gewählt wird das Parlament, die Ergebnisse kommen über Nacht. Das ist ein politischer Risiko-Termin — der Markt hält sich bewusst zurück, bis das Bild klar ist.",
+    "🇺🇸 Am Nachmittag (16:00 Uhr Wiener Zeit) kommen die US-Stellenangebote (JOLTS) — ein Fingerzeig, wie fest der Arbeitsmarkt vor dem großen Jobbericht am Freitag noch ist.",
+    "🇳🇿 Am Abend folgen Neuseelands Arbeitsmarktzahlen (Beschäftigung + Arbeitslosenquote, erwartet 5,5%) — wichtig für den Kiwi-Dollar."
    ],
    "gestern": [
-    "🇨🇳 Am Samstag kamen Chinas Industrie-Einkaufsmanager-Zahlen für Oktober: 49,3 — unter der Wachstumsschwelle von 50 und damit wieder leichte Schrumpfung, der schwächste Wert seit Juli. Ein milder Gegenwind für die Rohstoff-Währungen Australien und Neuseeland.",
-    "📉 In der Vorwoche verloren die großen US-Börsen den dritten Freitag in Folge (Technologie-Index rund 2% schwächer), getrieben von Zweifeln, ob sich die riesigen Ausgaben für künstliche Intelligenz auszahlen. Das erklärt das gestiegene Angst-Barometer.",
-    "🏦 Davor die Notenbank-Woche der Gegensätze: Die US-Notenbank hielt die Zinsen (harter Ton), Kanada erhöhte überraschend auf 2,50% (teures Öl), die Europäische Zentralbank hielt (Chefin Lagarde kündigte ihren vorzeitigen Rückzug für Februar 2027 an), Japan hielt still. Keine reine Dollar-Woche.",
-    "🥇 Zugleich fiel Gold unter 4.000 Dollar und Bitcoin gab nach (zuletzt unter 78.000). Das nahm dem Dollar einen Deckel, doch die kurzen US-Zinsen gaben am stärksten nach — zwei Kräfte, die sich aufheben → Dollar flach."
+    "🇺🇸 Gestern kam die US-Industrie-Stimmung (Einkaufsmanager der Fabriken) für Oktober — sie fiel unerwartet etwas zurück, die Fabriken kühlen also leicht ab. Kein Drama, aber ein weiterer Hinweis, dass die US-Wirtschaft an Tempo verliert.",
+    "😟 Das Angst-Barometer ist weiter gestiegen (auf rund 21): Die US-Technologie-Aktien gaben erneut nach, und vor der Wahl sind die Börsen nervös. Höhere Nervosität stützt traditionell die sicheren Häfen Franken und Yen ein wenig.",
+    "🛢️ Öl bleibt teuer (Brent über 104 Dollar) — das befeuert die Inflation und zwingt Rohstoff-Notenbanken wie Australien zum Handeln. Rückenwind bleibt das auch für den kanadischen Dollar.",
+    "💵 Der Dollar hängt weiter flach (rund 102): Gold notiert unter 4.000 Dollar und die kurzen US-Zinsen gaben diese Woche am stärksten nach — zwei Kräfte, die sich grob aufheben. Die nächsten großen Termine sind der Euro-Verbraucherpreis am Mittwoch und die Bank-von-England-Entscheidung am Donnerstag."
    ]
   }
  },
@@ -3732,13 +3732,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 2,
+   "baseScore": 1,
    "tiltCot": -5,
    "tiltZins": -4,
    "tiltGesamt": -9,
-   "score": -7,
+   "score": -8,
    "cotExtrem": "erhoeht",
-   "treiber": "Bewusst klein: Yen ist weiter überfüllt net-LONG (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hielt still (leicht straffer Ton, aber kein Impuls), der Carry-Nachteil wiegt. Dämpfend: Das leicht gestiegene Angst-Barometer gibt dem Hafen-Yen etwas Zufluss zurück, und die US-Zinsen fielen. Schwächstes Paar im Track-Record (38%) → nahe neutral.",
+   "treiber": "Bewusst klein: Hafen-Bid durch die Nervosität dämpft den Dollar-Vorteil gegen den überfüllt net-langen Yen (Reversal-Risiko bleibt).",
    "istCross": false
   },
   {
@@ -3749,7 +3749,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": 2,
    "score": 6,
    "cotExtrem": "extrem",
-   "treiber": "Heiße australische Inflation (4,3%) → fünfte Zinserhöhung am Di 3.11. ~85–90% eingepreist (auf 4,85%). Höchster 2-Jahres-Zins aller großen Währungen und der einzige, der diese Woche STIEG = klarer Zins-Rückenwind. Extreme Shorts = Squeeze-Zünder. Sauber vom Dollar-Block über die eigene Story gelöst; die festen US-Daten deckeln, daher nicht aggressiv.",
+   "treiber": "Zinserhöhung auf 4,85% wie erwartet bestätigt (18-Jahres-Hoch) → Aussie bleibt gestützt, aber vieles war eingepreist und die Entscheidung fiel knapp 6:3.",
    "istCross": false
   },
   {
@@ -3765,24 +3765,24 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CHF",
-   "baseScore": 2,
+   "baseScore": 1,
    "tiltCot": 3,
    "tiltZins": -4,
    "tiltGesamt": -1,
-   "score": 1,
+   "score": 0,
    "cotExtrem": null,
-   "treiber": "Das leicht gestiegene Angst-Barometer (VIX ~18,9) gibt dem Franken etwas Hafen-Zufluss zurück — das dämpft. Dagegen halten die hohen US-Zinsen Geld in den USA und die US-Daten kamen fest. Netto kleines Dollar-Plus, fast neutral.",
+   "treiber": "Das gestiegene Angst-Barometer (21) gibt dem Franken mehr Hafen-Rückenwind → der Dollar-Vorteil schrumpft.",
    "istCross": false
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -3,
+   "baseScore": -2,
    "tiltCot": -2,
    "tiltZins": 6,
    "tiltGesamt": 4,
-   "score": 1,
+   "score": 2,
    "cotExtrem": "extrem",
-   "treiber": "Die neuseeländische Notenbank hielt überraschend bei 2,75% (4:3), und der 2-Jahres-Zins fiel diese Woche am stärksten von allen = Zins-Momentum klar gegen den Kiwi. Gegengewicht: extreme Shorts (Squeeze-Risiko) begrenzen den Rückgang → moderat negativ. Gutes Paar im Track-Record (60%), aber die Richtung ist hier zins-getrieben negativ.",
+   "treiber": "Kiwi bleibt leicht schwächer (Notenbank hält, 2,75%), aber steigende Kiwi-Zinsen + extreme Short-Wetten (Squeeze-Gefahr) mildern die Schwäche. Heute Abend Arbeitsmarktzahlen.",
    "istCross": false
   },
   {
@@ -3820,18 +3820,18 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 1,
+   "baseScore": 0,
    "tiltCot": 0,
    "tiltZins": 0,
    "tiltGesamt": 0,
-   "score": 1,
+   "score": 0,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-02T22:15:42.276Z",
+  "stand": "2026-11-03T06:12:21.210Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 80,
   "gewertet": 37,
@@ -4335,8 +4335,8 @@ window.MAKRO_DATA = {
   "AUD": {
    "ueber": 12,
    "unter": 7,
-   "gleich": 4,
-   "gesamt": 23,
+   "gleich": 5,
+   "gesamt": 24,
    "score": 5
   },
   "JPY": {
@@ -4953,6 +4953,16 @@ window.MAKRO_DATA = {
  },
  "historie": [
   {
+   "datum": "2026-11-02T22:30:00-05:00",
+   "land": "AUD",
+   "titel": "Cash Rate",
+   "impact": "High",
+   "prognose": "4.85%",
+   "vorher": "4.60%",
+   "actual": "4.85%",
+   "notiz": null
+  },
+  {
    "datum": "2026-10-29T22:30:00-04:00",
    "land": "JPY",
    "titel": "BOJ Policy Rate",
@@ -5540,16 +5550,6 @@ window.MAKRO_DATA = {
    "prognose": "2.75%",
    "vorher": "2.50%",
    "actual": "2.75%",
-   "notiz": null
-  },
-  {
-   "datum": "2026-09-01T21:30:00-04:00",
-   "land": "AUD",
-   "titel": "GDP q/q",
-   "impact": "High",
-   "prognose": "0.3%",
-   "vorher": "0.3%",
-   "actual": "0.4%",
    "notiz": null
   }
  ],

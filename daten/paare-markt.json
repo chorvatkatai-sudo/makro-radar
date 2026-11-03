@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-02T22:15:42.253Z",
+  "stand": "2026-11-03T06:12:21.192Z",
   "ausBriefing": "2026-10-30",
   "overlayAktiv": true,
   "paare": [
@@ -27,13 +27,13 @@
     },
     {
       "paar": "USD/JPY",
-      "baseScore": 2,
+      "baseScore": 1,
       "tiltCot": -5,
       "tiltZins": -4,
       "tiltGesamt": -9,
-      "score": -7,
+      "score": -8,
       "cotExtrem": "erhoeht",
-      "treiber": "Bewusst klein: Yen ist weiter überfüllt net-LONG (Rückschlag-These, leicht pro-Dollar), die Bank von Japan hielt still (leicht straffer Ton, aber kein Impuls), der Carry-Nachteil wiegt. Dämpfend: Das leicht gestiegene Angst-Barometer gibt dem Hafen-Yen etwas Zufluss zurück, und die US-Zinsen fielen. Schwächstes Paar im Track-Record (38%) → nahe neutral.",
+      "treiber": "Bewusst klein: Hafen-Bid durch die Nervosität dämpft den Dollar-Vorteil gegen den überfüllt net-langen Yen (Reversal-Risiko bleibt).",
       "istCross": false
     },
     {
@@ -44,7 +44,7 @@
       "tiltGesamt": 2,
       "score": 6,
       "cotExtrem": "extrem",
-      "treiber": "Heiße australische Inflation (4,3%) → fünfte Zinserhöhung am Di 3.11. ~85–90% eingepreist (auf 4,85%). Höchster 2-Jahres-Zins aller großen Währungen und der einzige, der diese Woche STIEG = klarer Zins-Rückenwind. Extreme Shorts = Squeeze-Zünder. Sauber vom Dollar-Block über die eigene Story gelöst; die festen US-Daten deckeln, daher nicht aggressiv.",
+      "treiber": "Zinserhöhung auf 4,85% wie erwartet bestätigt (18-Jahres-Hoch) → Aussie bleibt gestützt, aber vieles war eingepreist und die Entscheidung fiel knapp 6:3.",
       "istCross": false
     },
     {
@@ -60,24 +60,24 @@
     },
     {
       "paar": "USD/CHF",
-      "baseScore": 2,
+      "baseScore": 1,
       "tiltCot": 3,
       "tiltZins": -4,
       "tiltGesamt": -1,
-      "score": 1,
+      "score": 0,
       "cotExtrem": null,
-      "treiber": "Das leicht gestiegene Angst-Barometer (VIX ~18,9) gibt dem Franken etwas Hafen-Zufluss zurück — das dämpft. Dagegen halten die hohen US-Zinsen Geld in den USA und die US-Daten kamen fest. Netto kleines Dollar-Plus, fast neutral.",
+      "treiber": "Das gestiegene Angst-Barometer (21) gibt dem Franken mehr Hafen-Rückenwind → der Dollar-Vorteil schrumpft.",
       "istCross": false
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -3,
+      "baseScore": -2,
       "tiltCot": -2,
       "tiltZins": 6,
       "tiltGesamt": 4,
-      "score": 1,
+      "score": 2,
       "cotExtrem": "extrem",
-      "treiber": "Die neuseeländische Notenbank hielt überraschend bei 2,75% (4:3), und der 2-Jahres-Zins fiel diese Woche am stärksten von allen = Zins-Momentum klar gegen den Kiwi. Gegengewicht: extreme Shorts (Squeeze-Risiko) begrenzen den Rückgang → moderat negativ. Gutes Paar im Track-Record (60%), aber die Richtung ist hier zins-getrieben negativ.",
+      "treiber": "Kiwi bleibt leicht schwächer (Notenbank hält, 2,75%), aber steigende Kiwi-Zinsen + extreme Short-Wetten (Squeeze-Gefahr) mildern die Schwäche. Heute Abend Arbeitsmarktzahlen.",
       "istCross": false
     },
     {
@@ -115,11 +115,11 @@
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": 1,
+      "baseScore": 0,
       "tiltCot": 0,
       "tiltZins": 0,
       "tiltGesamt": 0,
-      "score": 1,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

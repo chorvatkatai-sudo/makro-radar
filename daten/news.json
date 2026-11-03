@@ -1,11 +1,29 @@
 {
-  "stand": "2026-11-03T12:33:51.174Z",
+  "stand": "2026-11-03T14:56:03.975Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump on Israel: The aid gets cut off at year-end",
+      "link": "https://investinglive.com/news/trump-on-israel-the-aid-gets-cut-off-at-year-end/",
+      "datum": "2026-11-03T13:46:40.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Never tell me the odds: Prediction markets see Democrats taking control of House and Senate",
+      "link": "https://investinglive.com/news/never-tell-me-the-odds-prediction-markets-see-democrats-taking-control-of-house-and-senate/",
+      "datum": "2026-11-03T13:38:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Markets remain cautious as focus shifts to US midterm elections",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/",
+      "datum": "2026-11-03T12:28:15.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Swiss inflation surprises higher in October but core prices offer some relief",
@@ -59,24 +77,6 @@
       "titel": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
       "link": "https://investinglive.com/news/us-s-p-global-final-manufacturing-pmi-for-october-54-9-vs-56-0-preliminary/",
       "datum": "2026-11-02T14:45:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada S&P global manufacturing PMI 49.6 versus 51.5 last month",
-      "link": "https://investinglive.com/news/canada-s-p-global-manufacturing-pmi-49-6-versus-51-5-last-month/",
-      "datum": "2026-11-02T14:34:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US election: The key races that could tip control of Congress",
-      "link": "https://investinglive.com/news/us-election-the-key-races-that-could-tip-control-of-congress/",
-      "datum": "2026-11-02T13:58:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran’s Pezeshkian says Supreme Leader has granted government some authority on dialogue",
-      "link": "https://investinglive.com/news/iran-s-pezeshkian-says-supreme-leader-has-granted-government-some-authority-on-dialogue/",
-      "datum": "2026-11-02T13:51:23.000Z"
     },
     {
       "quelle": "Fed",

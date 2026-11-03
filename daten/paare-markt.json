@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-03T12:33:51.177Z",
+  "stand": "2026-11-03T14:56:03.977Z",
   "ausBriefing": "2026-10-30",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 1,
       "tiltCot": -2,
-      "tiltZins": 4,
-      "tiltGesamt": 2,
-      "score": 3,
+      "tiltZins": 3,
+      "tiltGesamt": 1,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "Die größte je gemessene Euro-Short-Wette (extremes Squeeze-Risiko) + heiße Inflation (3,8%) + knapp verworfene EZB-Erhöhung heben, aber Lagardes angekündigter Rückzug (Februar 2027), schwache Einkaufsmanager-Zahlen (Frankreich schrumpft) und die festen US-Daten deckeln. Bewusst winzig; Track-Record hier schwach (~35%).",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 4,
       "tiltCot": -2,
-      "tiltZins": 2,
-      "tiltGesamt": 0,
-      "score": 4,
+      "tiltZins": 0,
+      "tiltGesamt": -2,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "Zinserhöhung auf 4,85% wie erwartet bestätigt (18-Jahres-Hoch) → Aussie bleibt gestützt, aber vieles war eingepreist und die Entscheidung fiel knapp 6:3.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 4,
       "tiltCot": 1,
-      "tiltZins": -4,
-      "tiltGesamt": -3,
-      "score": 1,
+      "tiltZins": -5,
+      "tiltGesamt": -4,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": 0,
       "tiltCot": 0,
-      "tiltZins": -1,
-      "tiltGesamt": -1,
-      "score": -1,
+      "tiltZins": -3,
+      "tiltGesamt": -3,
+      "score": -3,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

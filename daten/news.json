@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-04T12:43:59.212Z",
+  "stand": "2026-11-04T20:13:07.524Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,75 +8,75 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
+      "titel": "The market is telling the hyperscalers it's happy about a slower data center buildout",
+      "link": "https://investinglive.com/news/the-market-is-telling-the-hyperscalers-it-s-happy-about-a-slower-data-center-buildout/",
+      "datum": "2026-11-04T19:19:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump says election loss was largely a result of the Iran war",
+      "link": "https://investinglive.com/news/trump-says-election-loss-was-largely-a-result-of-the-iran-war/",
+      "datum": "2026-11-04T18:15:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "House Democratic leader Jeffries says will pass bill to stop tariffs and to end the Iran War",
+      "link": "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/",
+      "datum": "2026-11-04T17:49:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "EIA weekly US crude oil inventories -865K vs +877K expected",
+      "link": "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/",
+      "datum": "2026-11-04T15:30:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "October US ISM services 54.5 vs 54.8 expected",
+      "link": "https://investinglive.com/news/october-us-ism-services-vs-54-8-expected/",
+      "datum": "2026-11-04T15:00:06.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US final October S&P Global services PMI 56.1 vs 57.9 prelim",
+      "link": "https://investinglive.com/news/us-final-october-s-p-global-services-pmi-56-1-vs-57-9-prelim/",
+      "datum": "2026-11-04T14:50:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The biggest loser of the US elections was data centers",
+      "link": "https://investinglive.com/news/the-biggest-loser-of-the-us-elections-was-data-centers/",
+      "datum": "2026-11-04T14:05:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada Trade Balance ($C) for September +5.35B vs +4.1B estimate",
+      "link": "https://investinglive.com/news/canada-trade-balance-c-for-september-5-35b-vs-4-1b-estimate/",
+      "datum": "2026-11-04T13:30:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US September international trade balance -105.0B vs -108.0B expected",
+      "link": "https://investinglive.com/news/us-september-international-trade-balance-105-0b-vs-108-0b-expected/",
+      "datum": "2026-11-04T13:30:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US October ADP employment +86K vs +65K expected",
+      "link": "https://investinglive.com/news/us-october-adp-employment-86k-vs-65k-expected/",
+      "datum": "2026-11-04T13:15:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Stocks rebound, gold soars as dollar tumbles after blue sweep in US midterms",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-gold-soars-as-dollar-tumbles-after-blue-sweep-in-us-midterms/",
+      "datum": "2026-11-04T12:49:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
       "titel": "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escalation risk rises",
       "link": "https://investinglive.com/news/crude-oil-consolidates-amid-conflicting-reports-on-us-iran-negotiations-as-escalation-risk-rises/",
       "datum": "2026-11-04T10:49:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone inflation hits 4% for first time since 2023, piling pressure on ECB",
-      "link": "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/",
-      "datum": "2026-11-04T10:00:19.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Italy October services PMI 52.0 vs 51.5 expected",
-      "link": "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/",
-      "datum": "2026-11-04T08:45:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-78/",
-      "datum": "2026-11-04T07:35:47.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US midterms 2026: Who would've thought that a war would be a bad idea?",
-      "link": "https://investinglive.com/news/us-midterms-2026-who-would-ve-thought-that-a-war-would-be-a-bad-idea/",
-      "datum": "2026-11-04T05:44:22.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Stocks slide as Trump slammed in mid terms loss",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-stocks-slide-as-trump-slammed-in-mid-terms-loss/",
-      "datum": "2026-11-04T04:45:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump allies are pointing to the Iran war as the reason for the election disaster",
-      "link": "https://investinglive.com/news/trump-allies-are-pointing-to-the-iran-war-as-the-reason-for-the-election-disaster/",
-      "datum": "2026-11-04T03:40:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China services PMI slows to 50.8 in October as price cuts meet rising costs",
-      "link": "https://investinglive.com/news/china-services-pmi-slows-to-50-8-in-october-as-price-cuts-meet-rising-costs/",
-      "datum": "2026-11-04T01:59:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "It's no longer early, this election is looking like a disaster for Republicans",
-      "link": "https://investinglive.com/news/it-s-no-longer-early-this-election-is-looking-like-a-disaster-for-republicans/",
-      "datum": "2026-11-04T01:31:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Recap: New Zealand jobless rate hits 11-year high, kiwi slips as RBNZ hike bets fade",
-      "link": "https://investinglive.com/news/recap-new-zealand-jobless-rate-hits-11-year-high-kiwi-slips-as-rbnz-hike-bets-fade/",
-      "datum": "2026-11-04T01:11:18.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The very early results in Kentucky show a massive swing towards Democrats",
-      "link": "https://investinglive.com/news/the-very-early-results-in-kentucky-show-a-massive-swing-towards-democrats/",
-      "datum": "2026-11-04T00:06:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Carney says US trade talks to intensify as Washington asks less and offers mor",
-      "link": "https://investinglive.com/news/carney-says-us-trade-talks-to-intensify-as-washington-asks-less-and-offers-mor/",
-      "datum": "2026-11-03T22:16:39.000Z"
     },
     {
       "quelle": "Fed",

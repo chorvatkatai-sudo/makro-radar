@@ -1565,7 +1565,7 @@
     "title": "EIA Ethanol Production",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "1143",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1575,7 +1575,7 @@
     "title": "EIA Ethanol Stocks",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "24434",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1585,7 +1585,7 @@
     "title": "EIA Cushing Crude Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.28",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1595,7 +1595,7 @@
     "title": "EIA Crude Oil Imports Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.179",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1605,7 +1605,7 @@
     "title": "EIA Refinery Crude Runs Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.199",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1615,7 +1615,7 @@
     "title": "EIA Distillate Fuel Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.007",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1625,7 +1625,7 @@
     "title": "EIA Gasoline Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.463",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1635,7 +1635,7 @@
     "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.865",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1645,7 +1645,7 @@
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-3.565",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1655,7 +1655,7 @@
     "title": "EIA Gasoline Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.222",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1665,7 +1665,7 @@
     "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.203",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1675,7 +1675,7 @@
     "title": "United States-EIA OIL STOCKS-EIA Weekly Rfg Stocks*",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.002",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1685,7 +1685,7 @@
     "title": "EIA Product Imports Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.096",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1695,7 +1695,7 @@
     "title": "EIA Refinery Utilization Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1705,7 +1705,7 @@
     "title": "EIA Crude Oil Exports Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.179",
     "actual": null,
     "quelle": "tradingview"
   },

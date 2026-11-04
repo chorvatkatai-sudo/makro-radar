@@ -1,11 +1,47 @@
 {
-  "stand": "2026-11-04T01:08:32.463Z",
+  "stand": "2026-11-04T06:15:43.119Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US midterms 2026: Who would've thought that a war would be a bad idea?",
+      "link": "https://investinglive.com/news/us-midterms-2026-who-would-ve-thought-that-a-war-would-be-a-bad-idea/",
+      "datum": "2026-11-04T05:44:22.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Stocks slide as Trump slammed in mid terms loss",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-stocks-slide-as-trump-slammed-in-mid-terms-loss/",
+      "datum": "2026-11-04T04:45:26.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump allies are pointing to the Iran war as the reason for the election disaster",
+      "link": "https://investinglive.com/news/trump-allies-are-pointing-to-the-iran-war-as-the-reason-for-the-election-disaster/",
+      "datum": "2026-11-04T03:40:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "China services PMI slows to 50.8 in October as price cuts meet rising costs",
+      "link": "https://investinglive.com/news/china-services-pmi-slows-to-50-8-in-october-as-price-cuts-meet-rising-costs/",
+      "datum": "2026-11-04T01:59:46.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "It's no longer early, this election is looking like a disaster for Republicans",
+      "link": "https://investinglive.com/news/it-s-no-longer-early-this-election-is-looking-like-a-disaster-for-republicans/",
+      "datum": "2026-11-04T01:31:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Recap: New Zealand jobless rate hits 11-year high, kiwi slips as RBNZ hike bets fade",
+      "link": "https://investinglive.com/news/recap-new-zealand-jobless-rate-hits-11-year-high-kiwi-slips-as-rbnz-hike-bets-fade/",
+      "datum": "2026-11-04T01:11:18.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "The very early results in Kentucky show a massive swing towards Democrats",
@@ -41,42 +77,6 @@
       "titel": "US midterms: Poll closing times today",
       "link": "https://investinglive.com/news/us-midterms-poll-closing-times-today/",
       "datum": "2026-11-03T20:09:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "If you squint, the odds are improving slightly for Republican Senate control",
-      "link": "https://investinglive.com/news/if-you-squint-the-odds-are-improving-slightly-for-republican-senate-control/",
-      "datum": "2026-11-03T19:11:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Iran tensions rise as report details U.S. strike contingency and intelligence divisions",
-      "link": "https://investinglive.com/news/iran-tensions-rise-as-report-details-u-s-strike-contingency-and-intelligence-divisions/",
-      "datum": "2026-11-03T18:09:40.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US September factory orders +1.8% vs +1.2% expected",
-      "link": "https://investinglive.com/news/us-september-factory-orders-1-8-vs-1-2-expected/",
-      "datum": "2026-11-03T15:00:40.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "JOLTs Job openings 7.523M vs 7.100M estimate",
-      "link": "https://investinglive.com/news/jolts-job-openings-7-523m-vs-7-100m-estimate/",
-      "datum": "2026-11-03T15:00:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Tough to buy into the Iran headlines in the context of the election",
-      "link": "https://investinglive.com/news/tough-to-buy-into-the-iran-headlines-in-the-context-of-the-election/",
-      "datum": "2026-11-03T14:36:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump on Israel: The aid gets cut off at year-end",
-      "link": "https://investinglive.com/news/trump-on-israel-the-aid-gets-cut-off-at-year-end/",
-      "datum": "2026-11-03T13:46:40.000Z"
     },
     {
       "quelle": "Fed",

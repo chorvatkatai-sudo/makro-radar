@@ -895,7 +895,7 @@
     "title": "API Cushing Number",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.511",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -905,7 +905,7 @@
     "title": "API Crude Oil Stock Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "-5.267",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -915,7 +915,7 @@
     "title": "API Distillate Stocks",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.192",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -925,7 +925,7 @@
     "title": "API Gasoline Stocks",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.427",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -935,7 +935,7 @@
     "title": "API Heating Oil",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.27",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -945,7 +945,7 @@
     "title": "API Crude Imports",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.463",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -955,7 +955,7 @@
     "title": "API Product Imports",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.052",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -965,7 +965,7 @@
     "title": "API Crude Runs",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.195",
     "actual": null,
     "quelle": "tradingview"
   },

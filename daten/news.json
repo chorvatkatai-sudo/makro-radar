@@ -1,11 +1,53 @@
 {
-  "stand": "2026-11-03T19:55:20.096Z",
+  "stand": "2026-11-04T01:08:32.463Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "The very early results in Kentucky show a massive swing towards Democrats",
+      "link": "https://investinglive.com/news/the-very-early-results-in-kentucky-show-a-massive-swing-towards-democrats/",
+      "datum": "2026-11-04T00:06:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Carney says US trade talks to intensify as Washington asks less and offers mor",
+      "link": "https://investinglive.com/news/carney-says-us-trade-talks-to-intensify-as-washington-asks-less-and-offers-mor/",
+      "datum": "2026-11-03T22:16:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
+      "link": "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/",
+      "datum": "2026-11-03T21:45:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Job openings jump as the US votes",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-job-openings-jump-as-the-us-votes/",
+      "datum": "2026-11-03T21:42:05.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Two reasons why the US could attack Iran as soon as tomorrow",
+      "link": "https://investinglive.com/news/two-reasons-why-the-us-could-attack-iran-as-soon-as-tomorrow/",
+      "datum": "2026-11-03T21:20:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US midterms: Poll closing times today",
+      "link": "https://investinglive.com/news/us-midterms-poll-closing-times-today/",
+      "datum": "2026-11-03T20:09:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "If you squint, the odds are improving slightly for Republican Senate control",
+      "link": "https://investinglive.com/news/if-you-squint-the-odds-are-improving-slightly-for-republican-senate-control/",
+      "datum": "2026-11-03T19:11:23.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Iran tensions rise as report details U.S. strike contingency and intelligence divisions",
@@ -35,48 +77,6 @@
       "titel": "Trump on Israel: The aid gets cut off at year-end",
       "link": "https://investinglive.com/news/trump-on-israel-the-aid-gets-cut-off-at-year-end/",
       "datum": "2026-11-03T13:46:40.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Never tell me the odds: Prediction markets see Democrats taking control of House and Senate",
-      "link": "https://investinglive.com/news/never-tell-me-the-odds-prediction-markets-see-democrats-taking-control-of-house-and-senate/",
-      "datum": "2026-11-03T13:38:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Markets remain cautious as focus shifts to US midterm elections",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/",
-      "datum": "2026-11-03T12:28:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Swiss inflation surprises higher in October but core prices offer some relief",
-      "link": "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/",
-      "datum": "2026-11-03T07:30:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-77/",
-      "datum": "2026-11-03T07:27:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US-Iran deal still out of reach despite fresh diplomatic hopes ahead of US midterms",
-      "link": "https://investinglive.com/news/us-iran-deal-still-out-of-reach-despite-fresh-diplomatic-hopes-ahead-of-us-midterms/",
-      "datum": "2026-11-03T06:56:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: RBA hikes to 18-year high",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/",
-      "datum": "2026-11-03T04:19:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 2 Nov: It’s a wrap: AI selling overwhelms oil’s plunge",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/",
-      "datum": "2026-11-02T21:06:00.000Z"
     },
     {
       "quelle": "Fed",

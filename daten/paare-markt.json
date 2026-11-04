@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-04T06:15:43.122Z",
+  "stand": "2026-11-04T12:43:59.214Z",
   "ausBriefing": "2026-10-30",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 2,
       "tiltCot": -2,
-      "tiltZins": 3,
-      "tiltGesamt": 1,
-      "score": 3,
+      "tiltZins": 4,
+      "tiltGesamt": 2,
+      "score": 4,
       "cotExtrem": "extrem",
       "treiber": "Größte je gemessene Euro-Short-Wette (Squeeze-Risiko) + weicher Dollar nach den US-Wahlen; gedeckelt durch die heutige Euro-Inflation (Deutschland fiel auf 2,8 %) und den Lagarde-Rückzug.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": -5,
       "tiltCot": 3,
-      "tiltZins": -4,
-      "tiltGesamt": -1,
-      "score": -6,
+      "tiltZins": -5,
+      "tiltGesamt": -2,
+      "score": -7,
       "cotExtrem": null,
       "treiber": "Klarstes anti-Dollar-Signal heute: weicher Dollar nach den US-Wahlen trifft auf einen sauberen Hafen-Bid für den Franken (Angst-Barometer +23 %, Schweizer Zinsen gestiegen, nicht überfüllt).",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": 0,
       "tiltCot": 1,
-      "tiltZins": 2,
-      "tiltGesamt": 3,
-      "score": 3,
+      "tiltZins": 5,
+      "tiltGesamt": 6,
+      "score": 6,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
@@ -117,9 +117,9 @@
       "paar": "EUR/CHF",
       "baseScore": -1,
       "tiltCot": 0,
-      "tiltZins": -1,
-      "tiltGesamt": -1,
-      "score": -2,
+      "tiltZins": 0,
+      "tiltGesamt": 0,
+      "score": -1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

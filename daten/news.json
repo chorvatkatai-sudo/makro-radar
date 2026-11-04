@@ -1,11 +1,35 @@
 {
-  "stand": "2026-11-04T06:15:43.119Z",
+  "stand": "2026-11-04T12:43:59.212Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escalation risk rises",
+      "link": "https://investinglive.com/news/crude-oil-consolidates-amid-conflicting-reports-on-us-iran-negotiations-as-escalation-risk-rises/",
+      "datum": "2026-11-04T10:49:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone inflation hits 4% for first time since 2023, piling pressure on ECB",
+      "link": "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/",
+      "datum": "2026-11-04T10:00:19.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Italy October services PMI 52.0 vs 51.5 expected",
+      "link": "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/",
+      "datum": "2026-11-04T08:45:11.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-78/",
+      "datum": "2026-11-04T07:35:47.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US midterms 2026: Who would've thought that a war would be a bad idea?",
@@ -53,30 +77,6 @@
       "titel": "Carney says US trade talks to intensify as Washington asks less and offers mor",
       "link": "https://investinglive.com/news/carney-says-us-trade-talks-to-intensify-as-washington-asks-less-and-offers-mor/",
       "datum": "2026-11-03T22:16:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
-      "link": "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/",
-      "datum": "2026-11-03T21:45:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Job openings jump as the US votes",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-job-openings-jump-as-the-us-votes/",
-      "datum": "2026-11-03T21:42:05.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Two reasons why the US could attack Iran as soon as tomorrow",
-      "link": "https://investinglive.com/news/two-reasons-why-the-us-could-attack-iran-as-soon-as-tomorrow/",
-      "datum": "2026-11-03T21:20:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US midterms: Poll closing times today",
-      "link": "https://investinglive.com/news/us-midterms-poll-closing-times-today/",
-      "datum": "2026-11-03T20:09:25.000Z"
     },
     {
       "quelle": "Fed",

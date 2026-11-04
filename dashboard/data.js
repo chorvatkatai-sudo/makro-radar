@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-04T20:13:08.118Z",
+ "erstellt": "2026-11-04T21:46:45.853Z",
  "wochenStart": "2026-11-01",
  "events": [
   {
@@ -1694,7 +1694,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "WASDE Corn Ending Stocks (New Crop)",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1.849",
    "previous": "1.849",
    "actual": null,
    "quelle": "tradingview"
@@ -1754,7 +1754,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "WASDE Soybean Ending Stocks (New Crop)",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "330",
    "previous": "315",
    "actual": null,
    "quelle": "tradingview"
@@ -1774,7 +1774,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "WASDE Wheat Ending Stocks (New Crop)",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.74",
    "previous": "0.74",
    "actual": null,
    "quelle": "tradingview"
@@ -4009,15 +4009,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-04T20:13:07.090Z",
+  "stand": "2026-11-04T21:46:44.802Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 101.56,
+    "wert": 101.51,
     "tagProzent": 0,
-    "wocheProzent": -0.47,
+    "wocheProzent": -0.52,
     "renditeDelta": false,
     "verlauf": [
      102.24,
@@ -4040,17 +4040,17 @@ window.MAKRO_DATA = {
      101.88,
      101.75,
      101.87,
-     101.56,
-     101.56
+     101.51,
+     101.51
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.88,
+    "wert": 16.61,
     "tagProzent": 0,
-    "wocheProzent": -1.86,
+    "wocheProzent": -3.43,
     "renditeDelta": false,
     "verlauf": [
      15.08,
@@ -4073,17 +4073,17 @@ window.MAKRO_DATA = {
      19.42,
      21.15,
      20.83,
-     16.88,
-     16.88
+     16.61,
+     16.61
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 88.55,
+    "wert": 88.33,
     "tagProzent": 0,
-    "wocheProzent": -13.19,
+    "wocheProzent": -13.4,
     "renditeDelta": false,
     "verlauf": [
      88.28,
@@ -4106,17 +4106,17 @@ window.MAKRO_DATA = {
      104.12,
      96.46,
      96.09,
-     88.55,
-     88.55
+     88.33,
+     88.33
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 95.12,
+    "wert": 94.9,
     "tagProzent": 0,
-    "wocheProzent": -17.2,
+    "wocheProzent": -17.39,
     "renditeDelta": false,
     "verlauf": [
      100.2,
@@ -4139,17 +4139,17 @@ window.MAKRO_DATA = {
      117.64,
      104.77,
      103.6,
-     95.12,
-     95.12
+     94.9,
+     94.9
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4074.7,
+    "wert": 4071.8,
     "tagProzent": 0,
-    "wocheProzent": 1.07,
+    "wocheProzent": 1,
     "renditeDelta": false,
     "verlauf": [
      4140.7,
@@ -4172,8 +4172,8 @@ window.MAKRO_DATA = {
      3898.9,
      3969.6,
      3940.4,
-     4074.7,
-     4074.7
+     4071.8,
+     4071.8
     ]
    },
    "US02Y": {
@@ -4213,7 +4213,7 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.896,
+    "wert": 4.894,
     "tagProzent": 0,
     "wocheProzent": -0.09,
     "renditeDelta": true,
@@ -4238,8 +4238,8 @@ window.MAKRO_DATA = {
      4.929,
      4.894,
      4.952,
-     4.896,
-     4.896
+     4.894,
+     4.894
     ]
    },
    "US30Y": {
@@ -4279,9 +4279,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 79970.39,
+    "wert": 80119.87,
     "tagProzent": 0,
-    "wocheProzent": 3.27,
+    "wocheProzent": 3.47,
     "renditeDelta": false,
     "verlauf": [
      82141.46,
@@ -4304,8 +4304,8 @@ window.MAKRO_DATA = {
      78248.45,
      76677.3,
      77345.05,
-     79970.39,
-     79970.39
+     80119.87,
+     80119.87
     ]
    },
    "FEDFUT": {
@@ -4343,7 +4343,7 @@ window.MAKRO_DATA = {
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
   },
-  "kurve2s10s": 0.15,
+  "kurve2s10s": 0.14,
   "cot": {
    "stand": "2026-10-27",
    "waehrungen": {
@@ -4437,8 +4437,8 @@ window.MAKRO_DATA = {
    "stand": "2026-11-04",
    "werte": {
     "USD": {
-     "wert": 4.579,
-     "wocheDelta": -0.107
+     "wert": 4.583,
+     "wocheDelta": -0.103
     },
     "EUR": {
      "wert": 2.993,
@@ -4453,20 +4453,20 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.018
     },
     "AUD": {
-     "wert": 4.829,
-     "wocheDelta": -0.115
+     "wert": 4.819,
+     "wocheDelta": -0.125
     },
     "CAD": {
-     "wert": 3.226,
-     "wocheDelta": -0.135
+     "wert": 3.221,
+     "wocheDelta": -0.14
     },
     "CHF": {
      "wert": 0.2,
      "wocheDelta": 0.03
     },
     "NZD": {
-     "wert": 3.87,
-     "wocheDelta": -0.05
+     "wert": 3.825,
+     "wocheDelta": -0.095
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -4494,9 +4494,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 3,
    "tiltCot": -5,
-   "tiltZins": -2,
-   "tiltGesamt": -7,
-   "score": -4,
+   "tiltZins": -3,
+   "tiltGesamt": -8,
+   "score": -5,
    "cotExtrem": "erhoeht",
    "treiber": "Morgen fast sichere Zinserhöhung der Bank von England (4,00 %) + Short-Squeeze-Risiko + weicher Dollar — aber vieles eingepreist, daher moderat.",
    "istCross": false
@@ -4527,9 +4527,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -2,
    "tiltCot": 4,
-   "tiltZins": 0,
-   "tiltGesamt": 4,
-   "score": 2,
+   "tiltZins": 1,
+   "tiltGesamt": 5,
+   "score": 3,
    "cotExtrem": null,
    "treiber": "Weicher Dollar gegen einen Loonie, dem diese Woche der Öl-Rückenwind abhandenkam — unterm Strich leicht dollar-schwach, aber nahe neutral.",
    "istCross": false
@@ -4549,9 +4549,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": 1,
    "tiltCot": -2,
-   "tiltZins": 2,
-   "tiltGesamt": 0,
-   "score": 1,
+   "tiltZins": 0,
+   "tiltGesamt": -2,
+   "score": -1,
    "cotExtrem": "extrem",
    "treiber": "Schwacher Kiwi (fallende Zinsen, schwacher Arbeitsmarkt, Notenbank hält) gegen weichen Dollar — hebt sich fast auf, minimal kiwi-seitig schwächer.",
    "istCross": false
@@ -4582,9 +4582,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 2,
    "tiltCot": 1,
-   "tiltZins": -3,
-   "tiltGesamt": -2,
-   "score": 0,
+   "tiltZins": -1,
+   "tiltGesamt": 0,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4602,7 +4602,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-04T20:13:07.535Z",
+  "stand": "2026-11-04T21:46:45.290Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 80,
   "gewertet": 37,
@@ -4718,7 +4718,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-04T20:13:08.117Z",
+  "stand": "2026-11-04T21:46:45.851Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4957,13 +4957,19 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-04T20:13:07.524Z",
+  "stand": "2026-11-04T21:46:45.280Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Americas market news wrap: Oil crushed as Republicans blame war for loss",
+    "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-crushed-as-republicans-blame-war-for-loss/",
+    "datum": "2026-11-04T20:30:28.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "The market is telling the hyperscalers it's happy about a slower data center buildout",
@@ -5029,12 +5035,6 @@ window.MAKRO_DATA = {
     "titel": "investingLive European session wrap: Stocks rebound, gold soars as dollar tumbles after blue sweep in US midterms",
     "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-gold-soars-as-dollar-tumbles-after-blue-sweep-in-us-midterms/",
     "datum": "2026-11-04T12:49:16.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escalation risk rises",
-    "link": "https://investinglive.com/news/crude-oil-consolidates-amid-conflicting-reports-on-us-iran-negotiations-as-escalation-risk-rises/",
-    "datum": "2026-11-04T10:49:42.000Z"
    },
    {
     "quelle": "Fed",

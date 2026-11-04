@@ -654,7 +654,7 @@
     "country": "USD",
     "title": "WASDE Corn Ending Stocks (New Crop)",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.849",
     "previous": "1.849",
     "actual": null,
     "quelle": "tradingview"
@@ -714,7 +714,7 @@
     "country": "USD",
     "title": "WASDE Soybean Ending Stocks (New Crop)",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "330",
     "previous": "315",
     "actual": null,
     "quelle": "tradingview"
@@ -734,7 +734,7 @@
     "country": "USD",
     "title": "WASDE Wheat Ending Stocks (New Crop)",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.74",
     "previous": "0.74",
     "actual": null,
     "quelle": "tradingview"

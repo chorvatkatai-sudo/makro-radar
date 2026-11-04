@@ -1,11 +1,17 @@
 {
-  "stand": "2026-11-04T20:13:07.524Z",
+  "stand": "2026-11-04T21:46:45.280Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Oil crushed as Republicans blame war for loss",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-crushed-as-republicans-blame-war-for-loss/",
+      "datum": "2026-11-04T20:30:28.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "The market is telling the hyperscalers it's happy about a slower data center buildout",
@@ -71,12 +77,6 @@
       "titel": "investingLive European session wrap: Stocks rebound, gold soars as dollar tumbles after blue sweep in US midterms",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-gold-soars-as-dollar-tumbles-after-blue-sweep-in-us-midterms/",
       "datum": "2026-11-04T12:49:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escalation risk rises",
-      "link": "https://investinglive.com/news/crude-oil-consolidates-amid-conflicting-reports-on-us-iran-negotiations-as-escalation-risk-rises/",
-      "datum": "2026-11-04T10:49:42.000Z"
     },
     {
       "quelle": "Fed",

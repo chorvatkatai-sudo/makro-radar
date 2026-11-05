@@ -664,7 +664,7 @@
     "country": "USD",
     "title": "WASDE Corn Production",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "15.985",
     "previous": "16.034",
     "actual": null,
     "quelle": "tradingview"
@@ -724,7 +724,7 @@
     "country": "USD",
     "title": "WASDE Soybean Production",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "4.587",
     "previous": "4.562",
     "actual": null,
     "quelle": "tradingview"
@@ -784,7 +784,7 @@
     "country": "USD",
     "title": "WASDE Corn Yield",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "180.6",
     "previous": "181.2",
     "actual": null,
     "quelle": "tradingview"
@@ -814,7 +814,7 @@
     "country": "USD",
     "title": "WASDE Soybean Yield",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "53.4",
     "previous": "53.1",
     "actual": null,
     "quelle": "tradingview"
@@ -824,7 +824,7 @@
     "country": "USD",
     "title": "WASDE World Wheat Ending Stocks",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "276.1",
     "previous": "276.04",
     "actual": null,
     "quelle": "tradingview"
@@ -834,7 +834,7 @@
     "country": "USD",
     "title": "WASDE World Corn Ending Stocks",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "281.3",
     "previous": "280.44",
     "actual": null,
     "quelle": "tradingview"
@@ -844,7 +844,7 @@
     "country": "USD",
     "title": "WASDE World Soybean Ending Stocks",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "125",
     "previous": "124.28",
     "actual": null,
     "quelle": "tradingview"

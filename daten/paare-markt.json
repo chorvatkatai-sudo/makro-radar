@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-05T20:26:08.155Z",
+  "stand": "2026-11-05T21:51:44.399Z",
   "ausBriefing": "2026-10-30",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": 2,
       "tiltCot": -2,
-      "tiltZins": 5,
-      "tiltGesamt": 3,
-      "score": 5,
+      "tiltZins": 4,
+      "tiltGesamt": 2,
+      "score": 4,
       "cotExtrem": "extrem",
       "treiber": "Vor allem der weiche Dollar hebt das Paar leicht; die „zögerliche\" Zinserhöhung nahm dem Aussie den eigenen Rückenwind (er fiel nach der Entscheidung).",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": -1,
       "tiltCot": 4,
-      "tiltZins": -2,
-      "tiltGesamt": 2,
-      "score": 1,
+      "tiltZins": -1,
+      "tiltGesamt": 3,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "Weicher Dollar gegen einen Loonie, dem der Öl-Rückenwind abhandenkam (Öl fiel kräftig) — beide Kräfte heben sich fast auf, nahe neutral. Morgen Kanadas Arbeitsmarkt.",
       "istCross": false

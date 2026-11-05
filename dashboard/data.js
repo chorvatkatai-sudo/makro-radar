@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-05T12:52:53.359Z",
+ "erstellt": "2026-11-05T15:17:42.748Z",
  "wochenStart": "2026-11-01",
  "events": [
   {
@@ -2075,7 +2075,7 @@ window.MAKRO_DATA = {
    "title": "MBA 5/1 ARM Contract Rate",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "6.29%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2085,7 +2085,7 @@ window.MAKRO_DATA = {
    "title": "MBA 5/1 ARM Effective Rate",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "6.66%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2095,7 +2095,7 @@ window.MAKRO_DATA = {
    "title": "MBA 15-Year Mortgage Contract Rate",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "6.76%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2105,7 +2105,7 @@ window.MAKRO_DATA = {
    "title": "MBA 15-Year Mortgage Effective Rate",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "7%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2115,7 +2115,7 @@ window.MAKRO_DATA = {
    "title": "MBA 15-Year Mortgage Points",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "0.98%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2175,7 +2175,7 @@ window.MAKRO_DATA = {
    "title": "MBA 5/1 ARM Points",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "1%",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2515,7 +2515,7 @@ window.MAKRO_DATA = {
    "title": "Jobless Claims 4-week Average",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "194.75",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2525,7 +2525,7 @@ window.MAKRO_DATA = {
    "title": "Initial Jobless Claims",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "189",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2535,7 +2535,7 @@ window.MAKRO_DATA = {
    "title": "Continuing Jobless Claims",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1718",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -2914,7 +2914,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "GDP Growth Rate QoQ 2nd Est",
    "impact": "Low",
-   "forecast": "0.3%",
+   "forecast": "0.4%",
    "previous": "0.4%",
    "actual": null,
    "quelle": "tradingview"
@@ -2924,7 +2924,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "GDP Growth Rate YoY 2nd Est",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1.3%",
    "previous": "1%",
    "actual": null,
    "quelle": "tradingview"
@@ -3045,7 +3045,7 @@ window.MAKRO_DATA = {
    "title": "USDA Beef Net Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "11",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3055,7 +3055,7 @@ window.MAKRO_DATA = {
    "title": "USDA Beef Gross Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "13",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3065,7 +3065,7 @@ window.MAKRO_DATA = {
    "title": "USDA Corn Net Export Sales Next Year",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "0",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3075,7 +3075,7 @@ window.MAKRO_DATA = {
    "title": "USDA Corn Net Export Sales Total",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1294.6",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3085,7 +3085,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Meal Net Export Sales Next Year",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "0.3",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3095,7 +3095,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Meal Net Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "390.4",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3105,7 +3105,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Meal Net Export Sales Total",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "390.7",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3115,7 +3115,7 @@ window.MAKRO_DATA = {
    "title": "USDA Corn Net Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1294.6",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3125,7 +3125,7 @@ window.MAKRO_DATA = {
    "title": "USDA Corn Gross Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1374.2",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3135,7 +3135,7 @@ window.MAKRO_DATA = {
    "title": "United States-ExportSales-Soybn Oil Exp Sls Nxt Yr Net *",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "0",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3145,7 +3145,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Oil Net Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3155,7 +3155,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Oil Net Export Sales Total",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3165,7 +3165,7 @@ window.MAKRO_DATA = {
    "title": "USDA Pork Net Export Sales",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "37.3",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3175,7 +3175,7 @@ window.MAKRO_DATA = {
    "title": "USDA Pork Gross Export Sales",
    "impact": "Medium",
    "forecast": "",
-   "previous": "",
+   "previous": "39.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3185,7 +3185,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Net Export Sales Next Year",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "0",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3195,7 +3195,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Net Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1456.1",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3205,7 +3205,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Gross Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1551.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3215,7 +3215,7 @@ window.MAKRO_DATA = {
    "title": "USDA Soybean Net Export Sales Total",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "1456.1",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3225,7 +3225,7 @@ window.MAKRO_DATA = {
    "title": "USDA Upland Cotton Net Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "277.5",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3235,7 +3235,7 @@ window.MAKRO_DATA = {
    "title": "USDA Upland Cotton Gross Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "292.2",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3245,7 +3245,7 @@ window.MAKRO_DATA = {
    "title": "USDA Wheat Net Export Sales Next Year",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "19.2",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3255,7 +3255,7 @@ window.MAKRO_DATA = {
    "title": "USDA Wheat Net Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "538",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3265,7 +3265,7 @@ window.MAKRO_DATA = {
    "title": "USDA Wheat Gross Export Sales",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "580.9",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3275,7 +3275,7 @@ window.MAKRO_DATA = {
    "title": "USDA Wheat Net Export Sales Total",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "557.2",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -4008,7 +4008,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-05T12:52:52.315Z",
+  "stand": "2026-11-05T15:17:41.811Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -4047,9 +4047,9 @@ window.MAKRO_DATA = {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 16.99,
+    "wert": 20.62,
     "tagProzent": 0,
-    "wocheProzent": -12.51,
+    "wocheProzent": 6.18,
     "renditeDelta": false,
     "verlauf": [
      15.41,
@@ -4072,17 +4072,17 @@ window.MAKRO_DATA = {
      21.15,
      20.83,
      16.61,
-     16.99,
-     16.99
+     20.62,
+     20.62
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 89.56,
+    "wert": 90.07,
     "tagProzent": 0,
-    "wocheProzent": -13.98,
+    "wocheProzent": -13.49,
     "renditeDelta": false,
     "verlauf": [
      91.49,
@@ -4105,17 +4105,17 @@ window.MAKRO_DATA = {
      96.46,
      96.09,
      88.12,
-     89.56,
-     89.56
+     90.07,
+     90.07
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 97,
+    "wert": 97.09,
     "tagProzent": 0,
-    "wocheProzent": -17.55,
+    "wocheProzent": -17.47,
     "renditeDelta": false,
     "verlauf": [
      104.28,
@@ -4138,17 +4138,17 @@ window.MAKRO_DATA = {
      104.77,
      103.6,
      94.62,
-     97,
-     97
+     97.09,
+     97.09
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4129.5,
+    "wert": 4115.5,
     "tagProzent": 0,
-    "wocheProzent": 5.91,
+    "wocheProzent": 5.56,
     "renditeDelta": false,
     "verlauf": [
      4157,
@@ -4171,8 +4171,8 @@ window.MAKRO_DATA = {
      3969.6,
      3940.4,
      4073,
-     4129.5,
-     4129.5
+     4115.5,
+     4115.5
     ]
    },
    "US02Y": {
@@ -4212,12 +4212,11 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.894,
+    "wert": 4.868,
     "tagProzent": 0,
-    "wocheProzent": -0.09,
+    "wocheProzent": -0.06,
     "renditeDelta": true,
     "verlauf": [
-     5.277,
      5.231,
      5.244,
      5.24,
@@ -4238,19 +4237,19 @@ window.MAKRO_DATA = {
      4.894,
      4.952,
      4.894,
-     4.894
+     4.868,
+     4.868
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.282,
+    "wert": 5.268,
     "tagProzent": 0,
-    "wocheProzent": -0.05,
+    "wocheProzent": -0.04,
     "renditeDelta": true,
     "verlauf": [
-     5.661,
      5.606,
      5.6,
      5.598,
@@ -4271,16 +4270,17 @@ window.MAKRO_DATA = {
      5.269,
      5.324,
      5.282,
-     5.282
+     5.268,
+     5.268
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 79548.92,
+    "wert": 77453.58,
     "tagProzent": 0,
-    "wocheProzent": 1.66,
+    "wocheProzent": -1.02,
     "renditeDelta": false,
     "verlauf": [
      81500.8,
@@ -4303,17 +4303,17 @@ window.MAKRO_DATA = {
      76677.3,
      77345.05,
      80405.29,
-     79548.92,
-     79548.92
+     77453.58,
+     77453.58
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.1,
-    "tagProzent": 0,
-    "wocheProzent": 0.22,
+    "wert": 4.08,
+    "tagProzent": 0.01,
+    "wocheProzent": 0.2,
     "renditeDelta": true,
     "verlauf": [
      3.89,
@@ -4336,13 +4336,13 @@ window.MAKRO_DATA = {
      3.88,
      3.88,
      3.88,
-     4.1,
-     4.1
+     4.07,
+     4.08
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
   },
-  "kurve2s10s": 0.14,
+  "kurve2s10s": 0.12,
   "cot": {
    "stand": "2026-10-27",
    "waehrungen": {
@@ -4436,16 +4436,16 @@ window.MAKRO_DATA = {
    "stand": "2026-11-05",
    "werte": {
     "USD": {
-     "wert": 4.606,
-     "wocheDelta": -0.11
+     "wert": 4.564,
+     "wocheDelta": -0.152
     },
     "EUR": {
-     "wert": 3.025,
-     "wocheDelta": -0.055
+     "wert": 2.986,
+     "wocheDelta": -0.094
     },
     "GBP": {
-     "wert": 4.766,
-     "wocheDelta": -0.155
+     "wert": 4.782,
+     "wocheDelta": -0.139
     },
     "JPY": {
      "wert": 1.871,
@@ -4456,12 +4456,12 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.09
     },
     "CAD": {
-     "wert": 3.235,
-     "wocheDelta": -0.141
+     "wert": 3.216,
+     "wocheDelta": -0.16
     },
     "CHF": {
-     "wert": 0.187,
-     "wocheDelta": -0.003
+     "wert": 0.201,
+     "wocheDelta": 0.011
     },
     "NZD": {
      "wert": 3.81,
@@ -4493,9 +4493,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": 3,
    "tiltCot": -5,
-   "tiltZins": -2,
-   "tiltGesamt": -7,
-   "score": -4,
+   "tiltZins": 0,
+   "tiltGesamt": -5,
+   "score": -2,
    "cotExtrem": "erhoeht",
    "treiber": "Heute Zinsentscheid der Bank von England (Erhöhung auf 4,00 % ~94 % eingepreist). Zweiseitig: falkiger Ton + Short-Squeeze → fester; vorsichtiger Ton → Pfund kann trotz Erhöhung fallen (wie der Aussie am Dienstag).",
    "istCross": false
@@ -4504,9 +4504,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 0,
    "tiltCot": -5,
-   "tiltZins": -4,
-   "tiltGesamt": -9,
-   "score": -9,
+   "tiltZins": -5,
+   "tiltGesamt": -10,
+   "score": -10,
    "cotExtrem": "erhoeht",
    "treiber": "Weicher Dollar gegen einen Yen, dem der Hafen-Rückenwind ausgeht (Nervosität verflogen) — beides hebt sich auf. Die immer größere Yen-Long-Wette ist ein Rückschlag-Risiko für den Yen.",
    "istCross": false
@@ -4515,9 +4515,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": 2,
    "tiltCot": -2,
-   "tiltZins": 0,
-   "tiltGesamt": -2,
-   "score": 0,
+   "tiltZins": 2,
+   "tiltGesamt": 0,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "Vor allem der weiche Dollar hebt das Paar leicht; die „zögerliche\" Zinserhöhung nahm dem Aussie den eigenen Rückenwind (er fiel nach der Entscheidung).",
    "istCross": false
@@ -4526,9 +4526,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": -1,
    "tiltCot": 4,
-   "tiltZins": 1,
-   "tiltGesamt": 5,
-   "score": 4,
+   "tiltZins": 0,
+   "tiltGesamt": 4,
+   "score": 3,
    "cotExtrem": null,
    "treiber": "Weicher Dollar gegen einen Loonie, dem der Öl-Rückenwind abhandenkam (Öl fiel kräftig) — beide Kräfte heben sich fast auf, nahe neutral. Morgen Kanadas Arbeitsmarkt.",
    "istCross": false
@@ -4537,9 +4537,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": -3,
    "tiltCot": 3,
-   "tiltZins": -4,
-   "tiltGesamt": -1,
-   "score": -4,
+   "tiltZins": -7,
+   "tiltGesamt": -4,
+   "score": -7,
    "cotExtrem": null,
    "treiber": "Weicher Dollar gegen den Franken — aber der klare Hafen-Bid von gestern ist weg (Angst-Barometer zurück auf ~16,6), daher schwächer als zuletzt.",
    "istCross": false
@@ -4548,9 +4548,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -1,
    "tiltCot": -2,
-   "tiltZins": 0,
-   "tiltGesamt": -2,
-   "score": -3,
+   "tiltZins": 2,
+   "tiltGesamt": 0,
+   "score": -1,
    "cotExtrem": "extrem",
    "treiber": "Schwacher Kiwi (Arbeitslosigkeit auf 5,7 % gesprungen, Zinsen fallen) gegen weichen Dollar — leicht kiwi-seitig schwächer, gebremst von der extremen Short-Lage.",
    "istCross": false
@@ -4559,9 +4559,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/GBP",
    "baseScore": 1,
    "tiltCot": 1,
-   "tiltZins": 4,
-   "tiltGesamt": 5,
-   "score": 6,
+   "tiltZins": 2,
+   "tiltGesamt": 3,
+   "score": 4,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4570,9 +4570,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/JPY",
    "baseScore": 3,
    "tiltCot": -2,
-   "tiltZins": -2,
-   "tiltGesamt": -4,
-   "score": -1,
+   "tiltZins": -3,
+   "tiltGesamt": -5,
+   "score": -2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4592,16 +4592,16 @@ window.MAKRO_DATA = {
    "paar": "EUR/CHF",
    "baseScore": 1,
    "tiltCot": 0,
-   "tiltZins": -2,
-   "tiltGesamt": -2,
-   "score": -1,
+   "tiltZins": -4,
+   "tiltGesamt": -4,
+   "score": -3,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-05T12:52:52.641Z",
+  "stand": "2026-11-05T15:17:42.300Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 80,
   "gewertet": 37,
@@ -4717,7 +4717,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-05T12:52:53.359Z",
+  "stand": "2026-11-05T15:17:42.748Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4956,13 +4956,37 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-05T12:52:52.634Z",
+  "stand": "2026-11-05T15:17:42.292Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "Marco Rubio ‘on resignation watch’ - report",
+    "link": "https://investinglive.com/news/marco-rubio-on-resignation-watch-report/",
+    "datum": "2026-11-05T14:11:21.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US Q3 productivity +3.6% vs +2.8% expected",
+    "link": "https://investinglive.com/news/us-q3-productivity-3-6-vs-2-8-expected/",
+    "datum": "2026-11-05T13:30:08.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US initial jobless claims 189K vs 196K estimate",
+    "link": "https://investinglive.com/news/us-initial-jobless-claims-189k-vs-196k-estimate/",
+    "datum": "2026-11-05T13:30:07.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
+    "link": "https://investinglive.com/news/investinglive-european-news-wrap-boe-raises-bank-rate-to-4-00-as-expected/",
+    "datum": "2026-11-05T12:53:43.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "What are the main events for today?",
@@ -5010,30 +5034,6 @@ window.MAKRO_DATA = {
     "titel": "Trump says election loss was largely a result of the Iran war",
     "link": "https://investinglive.com/news/trump-says-election-loss-was-largely-a-result-of-the-iran-war/",
     "datum": "2026-11-04T18:15:38.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "House Democratic leader Jeffries says will pass bill to stop tariffs and to end the Iran War",
-    "link": "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/",
-    "datum": "2026-11-04T17:49:13.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "EIA weekly US crude oil inventories -865K vs +877K expected",
-    "link": "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/",
-    "datum": "2026-11-04T15:30:08.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "October US ISM services 54.5 vs 54.8 expected",
-    "link": "https://investinglive.com/news/october-us-ism-services-vs-54-8-expected/",
-    "datum": "2026-11-04T15:00:06.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US final October S&P Global services PMI 56.1 vs 57.9 prelim",
-    "link": "https://investinglive.com/news/us-final-october-s-p-global-services-pmi-56-1-vs-57-9-prelim/",
-    "datum": "2026-11-04T14:50:16.000Z"
    },
    {
     "quelle": "Fed",

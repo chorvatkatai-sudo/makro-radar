@@ -1035,7 +1035,7 @@
     "title": "MBA 5/1 ARM Contract Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.29%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1045,7 +1045,7 @@
     "title": "MBA 5/1 ARM Effective Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.66%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1055,7 +1055,7 @@
     "title": "MBA 15-Year Mortgage Contract Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.76%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1065,7 +1065,7 @@
     "title": "MBA 15-Year Mortgage Effective Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1075,7 +1075,7 @@
     "title": "MBA 15-Year Mortgage Points",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "0.98%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1135,7 +1135,7 @@
     "title": "MBA 5/1 ARM Points",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1475,7 +1475,7 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "194.75",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1485,7 +1485,7 @@
     "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "189",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1495,7 +1495,7 @@
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1718",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1874,7 +1874,7 @@
     "country": "EUR",
     "title": "GDP Growth Rate QoQ 2nd Est",
     "impact": "Low",
-    "forecast": "0.3%",
+    "forecast": "0.4%",
     "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -1884,7 +1884,7 @@
     "country": "EUR",
     "title": "GDP Growth Rate YoY 2nd Est",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.3%",
     "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
@@ -2005,7 +2005,7 @@
     "title": "USDA Beef Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "11",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2015,7 +2015,7 @@
     "title": "USDA Beef Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "13",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2025,7 +2025,7 @@
     "title": "USDA Corn Net Export Sales Next Year",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2035,7 +2035,7 @@
     "title": "USDA Corn Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1294.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2045,7 +2045,7 @@
     "title": "USDA Soybean Meal Net Export Sales Next Year",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2055,7 +2055,7 @@
     "title": "USDA Soybean Meal Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "390.4",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2065,7 +2065,7 @@
     "title": "USDA Soybean Meal Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "390.7",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2075,7 +2075,7 @@
     "title": "USDA Corn Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1294.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2085,7 +2085,7 @@
     "title": "USDA Corn Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1374.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2095,7 +2095,7 @@
     "title": "United States-ExportSales-Soybn Oil Exp Sls Nxt Yr Net *",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2105,7 +2105,7 @@
     "title": "USDA Soybean Oil Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2115,7 +2115,7 @@
     "title": "USDA Soybean Oil Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2125,7 +2125,7 @@
     "title": "USDA Pork Net Export Sales",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "37.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2135,7 +2135,7 @@
     "title": "USDA Pork Gross Export Sales",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "39.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2145,7 +2145,7 @@
     "title": "USDA Soybean Net Export Sales Next Year",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2155,7 +2155,7 @@
     "title": "USDA Soybean Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1456.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2165,7 +2165,7 @@
     "title": "USDA Soybean Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1551.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2175,7 +2175,7 @@
     "title": "USDA Soybean Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1456.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2185,7 +2185,7 @@
     "title": "USDA Upland Cotton Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "277.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2195,7 +2195,7 @@
     "title": "USDA Upland Cotton Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "292.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2205,7 +2205,7 @@
     "title": "USDA Wheat Net Export Sales Next Year",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "19.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2215,7 +2215,7 @@
     "title": "USDA Wheat Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "538",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2225,7 +2225,7 @@
     "title": "USDA Wheat Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "580.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2235,7 +2235,7 @@
     "title": "USDA Wheat Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "557.2",
     "actual": null,
     "quelle": "tradingview"
   },

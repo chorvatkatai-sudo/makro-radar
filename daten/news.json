@@ -1,11 +1,35 @@
 {
-  "stand": "2026-11-05T12:52:52.634Z",
+  "stand": "2026-11-05T15:17:42.292Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Marco Rubio ‘on resignation watch’ - report",
+      "link": "https://investinglive.com/news/marco-rubio-on-resignation-watch-report/",
+      "datum": "2026-11-05T14:11:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Q3 productivity +3.6% vs +2.8% expected",
+      "link": "https://investinglive.com/news/us-q3-productivity-3-6-vs-2-8-expected/",
+      "datum": "2026-11-05T13:30:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US initial jobless claims 189K vs 196K estimate",
+      "link": "https://investinglive.com/news/us-initial-jobless-claims-189k-vs-196k-estimate/",
+      "datum": "2026-11-05T13:30:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-boe-raises-bank-rate-to-4-00-as-expected/",
+      "datum": "2026-11-05T12:53:43.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
@@ -53,30 +77,6 @@
       "titel": "Trump says election loss was largely a result of the Iran war",
       "link": "https://investinglive.com/news/trump-says-election-loss-was-largely-a-result-of-the-iran-war/",
       "datum": "2026-11-04T18:15:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "House Democratic leader Jeffries says will pass bill to stop tariffs and to end the Iran War",
-      "link": "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/",
-      "datum": "2026-11-04T17:49:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "EIA weekly US crude oil inventories -865K vs +877K expected",
-      "link": "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/",
-      "datum": "2026-11-04T15:30:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "October US ISM services 54.5 vs 54.8 expected",
-      "link": "https://investinglive.com/news/october-us-ism-services-vs-54-8-expected/",
-      "datum": "2026-11-04T15:00:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US final October S&P Global services PMI 56.1 vs 57.9 prelim",
-      "link": "https://investinglive.com/news/us-final-october-s-p-global-services-pmi-56-1-vs-57-9-prelim/",
-      "datum": "2026-11-04T14:50:16.000Z"
     },
     {
       "quelle": "Fed",

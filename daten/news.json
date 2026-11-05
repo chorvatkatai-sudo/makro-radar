@@ -1,11 +1,29 @@
 {
-  "stand": "2026-11-05T15:17:42.292Z",
+  "stand": "2026-11-05T20:26:08.154Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "The market is waiting for signals from Donald Trump",
+      "link": "https://investinglive.com/news/the-market-is-waiting-for-signals-from-donald-trump/",
+      "datum": "2026-11-05T19:04:30.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "datum": "2026-11-05T16:00:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The market is telling the hyperscalers it's happy about a slower data center buildout",
+      "link": "https://investinglive.com/news/the-market-is-telling-the-hyperscalers-it-s-happy-about-a-slower-data-center-buildout-0/",
+      "datum": "2026-11-05T15:51:02.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Marco Rubio ‘on resignation watch’ - report",
@@ -67,18 +85,6 @@
       "datum": "2026-11-04T20:30:28.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "The market is telling the hyperscalers it's happy about a slower data center buildout",
-      "link": "https://investinglive.com/news/the-market-is-telling-the-hyperscalers-it-s-happy-about-a-slower-data-center-buildout/",
-      "datum": "2026-11-04T19:19:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump says election loss was largely a result of the Iran war",
-      "link": "https://investinglive.com/news/trump-says-election-loss-was-largely-a-result-of-the-iran-war/",
-      "datum": "2026-11-04T18:15:38.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
       "datum": "2026-10-09T14:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-      "datum": "2026-10-08T20:30:00.000Z"
     }
   ]
 }

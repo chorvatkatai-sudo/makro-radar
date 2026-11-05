@@ -1,17 +1,17 @@
 {
-  "stand": "2026-11-04T21:46:45.282Z",
+  "stand": "2026-11-05T06:15:31.480Z",
   "ausBriefing": "2026-10-30",
   "overlayAktiv": true,
   "paare": [
     {
       "paar": "EUR/USD",
-      "baseScore": 2,
+      "baseScore": 3,
       "tiltCot": -2,
       "tiltZins": 3,
       "tiltGesamt": 1,
-      "score": 3,
+      "score": 4,
       "cotExtrem": "extrem",
-      "treiber": "Größte je gemessene Euro-Short-Wette (Squeeze-Risiko) + weicher Dollar nach den US-Wahlen; gedeckelt durch die heutige Euro-Inflation (Deutschland fiel auf 2,8 %) und den Lagarde-Rückzug.",
+      "treiber": "Heiße Euro-Inflation (4,0 %, 3-Jahres-Hoch) + größte je gemessene Euro-Short-Wette (Squeeze-Risiko) treffen auf einen weichen Dollar; gedeckelt durch den Lagarde-Rückzug.",
       "istCross": false
     },
     {
@@ -22,18 +22,18 @@
       "tiltGesamt": -8,
       "score": -5,
       "cotExtrem": "erhoeht",
-      "treiber": "Morgen fast sichere Zinserhöhung der Bank von England (4,00 %) + Short-Squeeze-Risiko + weicher Dollar — aber vieles eingepreist, daher moderat.",
+      "treiber": "Heute Zinsentscheid der Bank von England (Erhöhung auf 4,00 % ~94 % eingepreist). Zweiseitig: falkiger Ton + Short-Squeeze → fester; vorsichtiger Ton → Pfund kann trotz Erhöhung fallen (wie der Aussie am Dienstag).",
       "istCross": false
     },
     {
       "paar": "USD/JPY",
-      "baseScore": -2,
+      "baseScore": 0,
       "tiltCot": -5,
       "tiltZins": -5,
       "tiltGesamt": -10,
-      "score": -12,
+      "score": -10,
       "cotExtrem": "erhoeht",
-      "treiber": "Weicher Dollar + Hafen-Bid für den Yen durch die Nervosität. Bewusst klein, weil die überfüllte Yen-Long-Positionierung die Yen-Stärke deckelt.",
+      "treiber": "Weicher Dollar gegen einen Yen, dem der Hafen-Rückenwind ausgeht (Nervosität verflogen) — beides hebt sich auf. Die immer größere Yen-Long-Wette ist ein Rückschlag-Risiko für den Yen.",
       "istCross": false
     },
     {
@@ -44,60 +44,60 @@
       "tiltGesamt": -2,
       "score": 0,
       "cotExtrem": "extrem",
-      "treiber": "Nur der weiche Dollar hebt das Paar leicht; die „zögerliche\" Zinserhöhung nahm dem Aussie den eigenen Rückenwind (er fiel nach der Entscheidung).",
+      "treiber": "Vor allem der weiche Dollar hebt das Paar leicht; die „zögerliche\" Zinserhöhung nahm dem Aussie den eigenen Rückenwind (er fiel nach der Entscheidung).",
       "istCross": false
     },
     {
       "paar": "USD/CAD",
-      "baseScore": -2,
+      "baseScore": -1,
       "tiltCot": 4,
       "tiltZins": 1,
       "tiltGesamt": 5,
-      "score": 3,
+      "score": 4,
       "cotExtrem": null,
-      "treiber": "Weicher Dollar gegen einen Loonie, dem diese Woche der Öl-Rückenwind abhandenkam — unterm Strich leicht dollar-schwach, aber nahe neutral.",
+      "treiber": "Weicher Dollar gegen einen Loonie, dem der Öl-Rückenwind abhandenkam (Öl fiel kräftig) — beide Kräfte heben sich fast auf, nahe neutral. Morgen Kanadas Arbeitsmarkt.",
       "istCross": false
     },
     {
       "paar": "USD/CHF",
-      "baseScore": -5,
+      "baseScore": -3,
       "tiltCot": 3,
       "tiltZins": -5,
       "tiltGesamt": -2,
-      "score": -7,
+      "score": -5,
       "cotExtrem": null,
-      "treiber": "Klarstes anti-Dollar-Signal heute: weicher Dollar nach den US-Wahlen trifft auf einen sauberen Hafen-Bid für den Franken (Angst-Barometer +23 %, Schweizer Zinsen gestiegen, nicht überfüllt).",
+      "treiber": "Weicher Dollar gegen den Franken — aber der klare Hafen-Bid von gestern ist weg (Angst-Barometer zurück auf ~16,6), daher schwächer als zuletzt.",
       "istCross": false
     },
     {
       "paar": "NZD/USD",
-      "baseScore": 1,
+      "baseScore": -1,
       "tiltCot": -2,
       "tiltZins": 0,
       "tiltGesamt": -2,
-      "score": -1,
+      "score": -3,
       "cotExtrem": "extrem",
-      "treiber": "Schwacher Kiwi (fallende Zinsen, schwacher Arbeitsmarkt, Notenbank hält) gegen weichen Dollar — hebt sich fast auf, minimal kiwi-seitig schwächer.",
+      "treiber": "Schwacher Kiwi (Arbeitslosigkeit auf 5,7 % gesprungen, Zinsen fallen) gegen weichen Dollar — leicht kiwi-seitig schwächer, gebremst von der extremen Short-Lage.",
       "istCross": false
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": 0,
+      "baseScore": 1,
       "tiltCot": 1,
       "tiltZins": 5,
       "tiltGesamt": 6,
-      "score": 6,
+      "score": 7,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
     },
     {
       "paar": "EUR/JPY",
-      "baseScore": 1,
+      "baseScore": 3,
       "tiltCot": -2,
       "tiltZins": -2,
       "tiltGesamt": -4,
-      "score": -3,
+      "score": -1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
@@ -115,11 +115,11 @@
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": -1,
+      "baseScore": 1,
       "tiltCot": 0,
       "tiltZins": -3,
       "tiltGesamt": -3,
-      "score": -4,
+      "score": -2,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

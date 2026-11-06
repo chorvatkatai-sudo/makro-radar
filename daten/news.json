@@ -1,11 +1,29 @@
 {
-  "stand": "2026-11-06T06:17:24.180Z",
+  "stand": "2026-11-06T12:39:03.511Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone retail sales fall 0.7% in September, signalling weakening consumer demand",
+      "link": "https://investinglive.com/news/eurozone-retail-sales-fall-0-7-in-september-signalling-weakening-consumer-demand/",
+      "datum": "2026-11-06T10:20:45.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-news-wrap-global-tech-stocks-rout-raises-growth-concerns/",
+      "datum": "2026-11-06T08:05:49.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-80/",
+      "datum": "2026-11-06T07:26:27.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI selloff spreads",
@@ -56,33 +74,9 @@
     },
     {
       "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-79/",
-      "datum": "2026-11-05T07:27:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
       "titel": "Germany industrial orders rebound in September but manufacturing recovery remains fragile",
       "link": "https://investinglive.com/news/germany-industrial-orders-rebound-in-september-but-manufacturing-recovery-remains-fragile/",
       "datum": "2026-11-05T07:01:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Gold rocketed higher still",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/",
-      "datum": "2026-11-05T04:39:20.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia’s trade surplus jumps to A$2.8 billion, a seven-month high, on LNG and metals",
-      "link": "https://investinglive.com/news/australia-s-trade-surplus-jumps-to-a-2-8-billion-a-seven-month-high-on-lng-and-metals/",
-      "datum": "2026-11-05T00:48:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan services PMI edges up to 51.7, but composite slips to five-month low as hiring slows",
-      "link": "https://investinglive.com/news/japan-services-pmi-edges-up-to-51-7-but-composite-slips-to-five-month-low-as-hiring-slows/",
-      "datum": "2026-11-05T00:38:26.000Z"
     },
     {
       "quelle": "Fed",
@@ -113,6 +107,12 @@
       "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
       "datum": "2026-10-09T14:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "datum": "2026-10-08T20:30:00.000Z"
     }
   ]
 }

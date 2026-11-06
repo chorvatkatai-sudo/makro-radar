@@ -1,11 +1,41 @@
 {
-  "stand": "2026-11-06T12:39:03.511Z",
+  "stand": "2026-11-06T14:15:46.676Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US October non-farm payrolls +165K vs +65K expected",
+      "link": "https://investinglive.com/news/us-october-non-farm-payrolls-165k-vs-65k-expected/",
+      "datum": "2026-11-06T13:32:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate 6.7%.",
+      "link": "https://investinglive.com/news/canada-employment-change-for-october-4-7k-vs-13-6k-estimate-unemployment-rate-6-7/",
+      "datum": "2026-11-06T13:30:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Non-farm payrolls preview: October numbers show a skew",
+      "link": "https://investinglive.com/news/non-farm-payrolls-preview-october-numbers-show-a-skew/",
+      "datum": "2026-11-06T12:53:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What is the distribution of forecasts for the US NFP?",
+      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-2/",
+      "datum": "2026-11-06T12:44:44.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Markets consolidate ahead of the US NFP report",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-the-us-nfp-report/",
+      "datum": "2026-11-06T12:34:28.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Eurozone retail sales fall 0.7% in September, signalling weakening consumer demand",
@@ -55,30 +85,6 @@
       "datum": "2026-11-05T14:11:21.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "US Q3 productivity +3.6% vs +2.8% expected",
-      "link": "https://investinglive.com/news/us-q3-productivity-3-6-vs-2-8-expected/",
-      "datum": "2026-11-05T13:30:08.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US initial jobless claims 189K vs 196K estimate",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-189k-vs-196k-estimate/",
-      "datum": "2026-11-05T13:30:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-boe-raises-bank-rate-to-4-00-as-expected/",
-      "datum": "2026-11-05T12:53:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany industrial orders rebound in September but manufacturing recovery remains fragile",
-      "link": "https://investinglive.com/news/germany-industrial-orders-rebound-in-september-but-manufacturing-recovery-remains-fragile/",
-      "datum": "2026-11-05T07:01:06.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
       "datum": "2026-10-09T14:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-      "datum": "2026-10-08T20:30:00.000Z"
     }
   ]
 }

@@ -21590,6 +21590,16 @@
       "vorher": "4.93|2.0",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-06T13:00:00-05:00|USD|FOMC Member Daly Speaks": {
+      "datum": "2026-11-06T13:00:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Member Daly Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

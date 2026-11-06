@@ -5,20 +5,20 @@
     {
       "code": "AUD",
       "bank": "RBA",
-      "satz": 4.6,
-      "anzeige": "4,60%",
-      "naechste": "Di 3.11.2026 (Erhöhung auf 4,85% ~85–90% eingepreist)",
-      "erwartung": "Stand 30.10.: Nach der heißen Q3-Inflation (4,3% aufs Jahr) ist für den 3.11. eine FÜNFTE Zinserhöhung 2026 auf 4,85% zu ~85–90% eingepreist — alle vier großen australischen Banken erwarten sie. Die stellvertretende Gouverneurin nannte den Inflationsausblick 'deutlich schlechter'. Höchster Zins + höchster 2-Jahres-Marktzins aller großen Währungen UND der einzige 2-Jahres-Zins, der diese Woche STIEG = klarster Dollar-Gegenspieler. Danach erwarten die meisten Banken eine Pause, einige sehen im Februar noch einen Schritt. Konjunktur-Prognosen am selben Tag.",
-      "richtung": "rauf"
+      "satz": 4.85,
+      "anzeige": "4,85%",
+      "naechste": "Feb 2027",
+      "erwartung": "Stand 6.11.: Die Notenbank erhöhte am 3.11. wie erwartet auf 4,85% (fünfte Erhöhung 2026, 18-Jahres-Hoch) — aber die knappe 6:3-Abstimmung und der vorsichtige Ton galten als 'zögerliche Erhöhung', der Aussie FIEL danach. Höchster Leitzins aller großen Währungen. Die meisten Banken erwarten jetzt eine Pause, einige sehen im Februar noch einen Schritt.",
+      "richtung": "halten"
     },
     {
       "code": "GBP",
       "bank": "BOE",
-      "satz": 3.75,
-      "anzeige": "3,75%",
-      "naechste": "Do 5.11.2026 (Erhöhung auf 4,00% ~94% eingepreist)",
-      "erwartung": "Stand 30.10.: Nach dem Sprung der UK-Inflation im September auf 3,5% (von 3,1%) ist für den 5.11. eine Zinserhöhung auf 4,00% zu ~94% eingepreist (Reuters-Umfrage 54 von 63 Ökonomen dafür) + neuer geldpolitischer Bericht. Die Shorts decken sich bereits ein, die Positionierung bleibt aber erhöht. Spannend ist der Ausblick: Der Markt preist für die Folgemonate rund vier Erhöhungen ein — das wirkt zu hawkish; ein 'vorsichtig weiter'-Ton von Bailey wäre pfund-dämpfend.",
-      "richtung": "rauf"
+      "satz": 4.00,
+      "anzeige": "4,00%",
+      "naechste": "Do 17.12.2026",
+      "erwartung": "Stand 6.11.: Die Bank von England erhöhte am 5.11. wie erwartet auf 4,00% (erste Erhöhung seit 2023; Auslöser war die auf 3,5% gesprungene Inflation). Entscheidend bleibt der Ausblick: Der Markt hatte für die Folgemonate rund vier weitere Erhöhungen eingepreist — das wirkt zu viel; ein vorsichtiger Ton würde das Pfund dämpfen.",
+      "richtung": "halten"
     },
     {
       "code": "USD",

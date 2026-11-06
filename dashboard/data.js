@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-06T02:07:52.016Z",
+ "erstellt": "2026-11-06T06:16:19.000Z",
  "wochenStart": "2026-11-01",
  "events": [
   {
@@ -720,7 +720,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.00%",
    "previous": "3.75%",
-   "actual": null
+   "actual": "4.00%"
   },
   {
    "title": "BOE Gov Bailey Speaks",
@@ -3335,81 +3335,81 @@ window.MAKRO_DATA = {
   ],
   "waehrungen": {
    "USD": {
-    "stimmung": "bärisch",
-    "score": -2,
-    "grund": "Der Dollar bleibt weich: Die kurzen US-Zinsen gaben diese Woche am stärksten nach (−0,10), der Dollar-Index verlor rund 0,5 %. ABER ein Boden ist da — die US-Stellenangebote kamen stark (7,52 Mio.), der Preis-Index der Dienstleister bleibt hoch (73) und Gold stieg wieder über 4.000 Dollar. Kein Einbruch, nur fehlender Rückenwind."
+    "stimmung": "neutral",
+    "score": 0,
+    "grund": "Der Dollar hängt flach (Index ~101,7), OBWOHL die Börsen über Nacht in Panik kippten — diesmal ist er NICHT der sichere Hafen (das Fluchtgeld ging in Gold und den Franken). Zugleich fielen die kurzen US-Zinsen am stärksten von allen. Fest nur gegenüber den Risiko-Währungen (Aussie, Kiwi, Loonie) — genuin neutral."
    },
    "EUR": {
     "stimmung": "neutral",
-    "score": 4,
-    "grund": "Die Euro-Inflation kam gestern überraschend HEISS: 4,0 % (3-Jahres-Hoch, über dem Konsens ~3,9 %, Energie-getrieben) — das belebt die Debatte um eine EZB-Erhöhung im Dezember und stützt den Euro. Dazu halten die Großspekulanten die GRÖSSTE je gemessene Wette GEGEN den Euro (Squeeze-Risiko nach oben). Gedeckelt nur durch den angekündigten Lagarde-Rückzug."
+    "score": 2,
+    "grund": "Die Euro-Inflation kam am Mittwoch heiß (4,0 %, 3-Jahres-Hoch) und die Großspekulanten halten die GRÖSSTE je gemessene Wette GEGEN den Euro (Squeeze-Risiko nach oben). Dagegen zieht die allgemeine Risiko-Flucht, die den Euro eher belastet. Unterm Strich nur leicht positiv."
    },
    "GBP": {
-    "stimmung": "bullisch",
-    "score": 3,
-    "grund": "Heute erhöht die Bank von England fast sicher auf 4,00 % (~94 % eingepreist, heiße Inflation 3,5 %). Entscheidend ist der Ausblick danach. ZWEISEITIG: Wie beim Aussie am Dienstag kann eine längst eingepreiste Erhöhung bei vorsichtigem Ton sogar FALLEN; bei falkigem Ton droht ein Short-Squeeze nach oben."
+    "stimmung": "neutral",
+    "score": 1,
+    "grund": "Die Bank von England erhöhte gestern wie erwartet auf 4,00 %. Der Rückenwind ist aber gedämpft: Die Börsen-Panik überlagert alles, und der Markt hatte für die Folgemonate fast vier weitere Erhöhungen eingepreist — das wirkt zu viel."
    },
    "JPY": {
     "stimmung": "neutral",
-    "score": -2,
-    "grund": "Der Hafen-Rückenwind lässt nach (Angst-Barometer zurück auf ~16,6, Nervosität verflogen). Zugleich bauen die Großspekulanten ihre Yen-Wette (LONG) immer weiter aus (+31.700 diese Woche) = wachsendes Rückschlag-Risiko, falls sie dreht. Die kurzen Japan-Zinsen stiegen nur minimal. Unterm Strich leicht schwächer."
+    "score": 1,
+    "grund": "Die Angst an den Börsen bringt dem Yen etwas Hafen-Zufluss zurück. ABER die Großspekulanten sind so stark LONG Yen gewettet wie selten (erhöht) = großes Rückschlag-Risiko, falls die Wette dreht. Das deckelt den Hafen-Effekt — unterm Strich nur knapp positiv."
    },
    "CHF": {
-    "stimmung": "neutral",
-    "score": 2,
-    "grund": "Der klare Hafen-Bid von gestern ist weg: Das Angst-Barometer fiel von ~21 auf ~16,6 zurück (Wahl-Nervosität verflogen). Die kurzen Schweizer Zinsen stiegen zwar noch leicht und der Franken ist nicht überfüllt gewettet — aber die eigene Story ist deutlich schwächer als gestern."
+    "stimmung": "bullisch",
+    "score": 4,
+    "grund": "Klarer Gewinner der Börsen-Panik: Das Angst-Barometer schoss von ~16,6 auf ~28 (fast verdoppelt) — in solchen Phasen fließt Fluchtgeld in den Franken. Zusätzlich ist der Franken die EINZIGE große Währung, deren kurzer Zins diese Woche STIEG, und er ist nicht überfüllt gewettet. Der benennbare Grund für den einzigen etwas größeren Score."
    },
    "CAD": {
-    "stimmung": "neutral",
-    "score": 0,
-    "grund": "Der Öl-Rückenwind ist diese Woche klar weg (US-Öl kräftig gefallen auf rund 88 Dollar). Die überraschende Zinserhöhung der Bank of Canada wirkt noch nach, die Short-Wetten werden zurückgekauft — unterm Strich ausgeglichen. Morgen der kanadische Arbeitsmarkt."
+    "stimmung": "bärisch",
+    "score": -3,
+    "grund": "Doppelter Gegenwind: Das Öl fiel diese Woche kräftig (US-Sorte ~91 $, −5,5 %) = der Rohstoff-Rückenwind ist weg, und die Risiko-Flucht an den Börsen belastet den Loonie zusätzlich. Heute Nachmittag der kanadische Arbeitsmarkt."
    },
    "AUD": {
-    "stimmung": "neutral",
-    "score": 1,
-    "grund": "Die Notenbank erhöhte auf 4,85 % (18-Jahres-Hoch), doch die knappe 6:3-Abstimmung + der vorsichtige Ton galten als „zögerliche Erhöhung\" → der Aussie FIEL statt zu steigen. Der erwartete Rückenwind ist verpufft; nur die extreme Short-Lage begrenzt den Rückschlag."
+    "stimmung": "bärisch",
+    "score": -4,
+    "grund": "Größter Verlierer der Risiko-Flucht: Der Aussie ist DIE Risiko-Währung und wird in Panik-Phasen zuerst verkauft. Die Zinserhöhung auf 4,85 % am Dienstag galt als „zögerlich\" und gab keinen Rückenwind. Nur die extreme Short-Lage bremst den Rückschlag."
    },
    "NZD": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Der Arbeitsmarkt enttäuschte gestern klar: Arbeitslosigkeit stieg auf 5,7 % (erwartet war ein Rückgang auf 5,5 %), höchster Stand seit 2015 — eine weitere Zinserhöhung der dortigen Notenbank wird dadurch fraglich. Die kurzen Kiwi-Zinsen gaben nach. Gegengewicht nur die extreme Short-Lage (Squeeze-Risiko)."
+    "grund": "Schwacher Arbeitsmarkt (Arbeitslosigkeit auf 5,7 % gesprungen, höchster Stand seit 2015) + Risiko-Flucht an den Börsen + fallende Kiwi-Zinsen. Gegengewicht nur die extreme Short-Lage (Squeeze-Risiko)."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": 3,
-    "treiber": "Heiße Euro-Inflation (4,0 %, 3-Jahres-Hoch) + größte je gemessene Euro-Short-Wette (Squeeze-Risiko) treffen auf einen weichen Dollar; gedeckelt durch den Lagarde-Rückzug."
+    "score": 2,
+    "treiber": "Heiße Euro-Inflation (4,0 %) + Rekord-Short-Wette (Squeeze) treffen auf einen Dollar, der in der Börsen-Panik NICHT als Hafen zieht. Gegengewicht: Die allgemeine Risiko-Flucht belastet den Euro — darum nur leicht positiv."
    },
    {
     "paar": "GBP/USD",
-    "score": 3,
-    "treiber": "Heute Zinsentscheid der Bank von England (Erhöhung auf 4,00 % ~94 % eingepreist). Zweiseitig: falkiger Ton + Short-Squeeze → fester; vorsichtiger Ton → Pfund kann trotz Erhöhung fallen (wie der Aussie am Dienstag)."
+    "score": 1,
+    "treiber": "Die Erhöhung der Bank von England auf 4,00 % stützt leicht, aber die Börsen-Panik überlagert alles und der Folge-Ausblick wirkt zu hawkish eingepreist."
    },
    {
     "paar": "USD/JPY",
-    "score": 0,
-    "treiber": "Weicher Dollar gegen einen Yen, dem der Hafen-Rückenwind ausgeht (Nervosität verflogen) — beides hebt sich auf. Die immer größere Yen-Long-Wette ist ein Rückschlag-Risiko für den Yen."
+    "score": -1,
+    "treiber": "In der Börsen-Panik bekommt der Yen etwas Hafen-Zufluss zurück → Paar leicht nach unten. Gedeckelt durch die extreme Yen-Long-Wette (Rückschlag-Risiko). Track-Record dieses Paars schwach → bewusst klein."
    },
    {
     "paar": "AUD/USD",
-    "score": 2,
-    "treiber": "Vor allem der weiche Dollar hebt das Paar leicht; die „zögerliche\" Zinserhöhung nahm dem Aussie den eigenen Rückenwind (er fiel nach der Entscheidung)."
+    "score": -4,
+    "treiber": "Die Risiko-Flucht hämmert den Aussie als DIE Risiko-Währung — klarster Verlierer der Woche. Die „zögerliche\" Zinserhöhung gab keinen Gegen-Rückenwind."
    },
    {
     "paar": "USD/CAD",
-    "score": -1,
-    "treiber": "Weicher Dollar gegen einen Loonie, dem der Öl-Rückenwind abhandenkam (Öl fiel kräftig) — beide Kräfte heben sich fast auf, nahe neutral. Morgen Kanadas Arbeitsmarkt."
+    "score": 3,
+    "treiber": "Fester Dollar gegen einen Loonie, dem der Öl-Rückenwind wegbrach (Öl −5,5 %) und den die Risiko-Flucht zusätzlich belastet. Heute der kanadische Arbeitsmarkt."
    },
    {
     "paar": "USD/CHF",
-    "score": -3,
-    "treiber": "Weicher Dollar gegen den Franken — aber der klare Hafen-Bid von gestern ist weg (Angst-Barometer zurück auf ~16,6), daher schwächer als zuletzt."
+    "score": -4,
+    "treiber": "Der Franken ist der klare Gewinner der Börsen-Panik (Hafen-Zufluss + einziger steigender Kurzzins) — stärker als der flache Dollar. Stärkstes Signal der Woche mit benennbarem Grund."
    },
    {
     "paar": "NZD/USD",
-    "score": -1,
-    "treiber": "Schwacher Kiwi (Arbeitslosigkeit auf 5,7 % gesprungen, Zinsen fallen) gegen weichen Dollar — leicht kiwi-seitig schwächer, gebremst von der extremen Short-Lage."
+    "score": -3,
+    "treiber": "Schwacher Kiwi (Arbeitslosigkeit 5,7 %, Zinsen fallen) plus Risiko-Flucht gegen einen festen Dollar; gebremst von der extremen Short-Lage."
    }
   ],
   "wochenausblick": {
@@ -3526,20 +3526,20 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (frisch ausgewertet, frankfurter lief auf dem Runner): wochenWette 8/17 = 47%, Konzentration 88%, Zufallsband [5,12] → weiter NICHT von einem Münzwurf unterscheidbar. overlayVergleich seit 22.7. neutral (mitOverlay 54% vs. nurBase 51%). Beste Paare: NZD/USD 60%, GBP/USD 59%, AUD/USD 56%; schlechteste: EUR/JPY 17%, EUR/USD 35%, USD/JPY 38%. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5) und über die einzelnen Notenbank-Stories diversifiziert."
   ],
   "tagesnews": {
-   "stand": "2026-11-05",
-   "wochentag": "Donnerstag",
-   "tenor": "Heute entscheidet die Bank von England: eine Zinserhöhung gilt als fast sicher, entscheidend ist nur der Ausblick danach — die Wahl-Nervosität ließ wieder nach, der Dollar bleibt weich.",
+   "stand": "2026-11-06",
+   "wochentag": "Freitag",
+   "tenor": "Über Nacht kippte die Stimmung an den Börsen in Angst — Geld floss in Gold und den Franken; heute kommt noch der US-Arbeitsmarktbericht, der über die Dezember-Zinserhöhung entscheidet.",
    "heute": [
-    "🇬🇧 Bank von England um 13:00 Wiener Zeit: Eine Zinserhöhung auf 4,00 % ist zu ~94 % eingepreist (erste seit 2023, heiße Inflation 3,5 %). Das OB ist klar — es zählt nur, wie weit die Bank danach noch gehen will. ACHTUNG, zweiseitig: Wie beim Aussie am Dienstag kann eine längst erwartete Erhöhung bei vorsichtigem Ton das Pfund sogar FALLEN lassen; bei falkigem Ton droht umgekehrt ein Short-Squeeze nach oben (viele wetten gegen das Pfund).",
-    "🌍 Der Markt hat sich beruhigt: Das Angst-Barometer fiel von rund 21 auf etwa 16,6 zurück — die Wahl-Nervosität ist verflogen. Damit ist der Hafen-Bid für den Franken, gestern noch die klarste Story, weitgehend weg. Gold steht wieder über 4.000 Dollar.",
-    "🇺🇸 Blick auf morgen (Freitag): der US-Arbeitsmarktbericht um 14:30 Wiener Zeit. Nach nur +29.000 Stellen im Vormonat der große Test, ob sich der US-Jobmarkt fängt. Schwach → die Dezember-Erhöhung der US-Notenbank wackelt, Dollar schwächer; stark → Dezember fester."
+    "🇺🇸 US-Arbeitsmarktbericht um 14:30 Wiener Zeit: Nach nur +29.000 Stellen im Vormonat erwartet der Markt eine leichte Erholung (~+65.000), Arbeitslosenquote ~4,2 %. Schwach → die Dezember-Zinserhöhung der US-Notenbank wackelt, Dollar schwächer; stark → Dezember fester. Zeitgleich der kanadische Arbeitsmarkt (erwartet +14.600 Stellen, Quote 6,5 %).",
+    "🌍 Die große Nachricht ist die Börsen-Panik: Das Angst-Barometer sprang über Nacht von rund 16,6 auf etwa 28 (fast eine Verdopplung) — Aktien fielen hart, Geld floss in Gold (zurück über 4.070 Dollar) und RAUS aus Bitcoin (~76.000 Dollar, −3 %) und Öl (−5,5 %). Auffällig: Der Dollar zog diesmal NICHT als sicherer Hafen an (flach bei ~101,7) — profitiert hat vor allem der Schweizer Franken.",
+    "🇯🇵 Japans Notenbank-Chef Ueda spricht heute — der Markt achtet nach dem Halten vorige Woche auf Hinweise für eine Dezember-Erhöhung. Für den Yen zählt diese Woche aber mehr die Hafen-Nachfrage aus der Börsen-Panik (gedeckelt durch die überfüllte Yen-Wette, die drehen kann)."
    ],
    "gestern": [
-    "🇪🇺 Euro-Inflation (Oktober, erste Schätzung) kam überraschend HEISS: 4,0 % (erwartet rund 3,9 %, höchster Stand seit 3 Jahren) — getrieben von den Energiepreisen (+20,8 %); Deutschlands niedriger Wert zog sie NICHT nach unten. Das belebt die Debatte um eine Zinserhöhung der Europäischen Zentralbank im Dezember und stützt den Euro trotz der Rekord-Wetten gegen ihn.",
-    "🇳🇿 Neuseelands Arbeitsmarkt enttäuschte klar: Die Arbeitslosigkeit stieg auf 5,7 % (erwartet war ein Rückgang auf 5,5 %) — höchster Stand seit 2015. Das drückt den Kiwi-Dollar und lässt eine weitere Zinserhöhung der dortigen Notenbank fraglich erscheinen.",
-    "🇺🇸 US-Dienstleistungs-Stimmung (ISM) bei 54,5 (knapp unter den erwarteten ~54,8, 28. Wachstumsmonat in Folge) — die Konjunktur trägt noch, ABER der Preis-Index blieb mit 73 sehr hoch = die Inflation bleibt zäh.",
-    "🇺🇸 Das Nachwahl-Beben ebbte ab: Nach dem starken Abschneiden der Demokraten am Dienstag beruhigten sich Aktien und Dollar bis zum Abend wieder; die Anleiherenditen gaben leicht nach. Zuvor waren die US-Stellenangebote (JOLTS) überraschend stark gekommen (7,52 Mio.).",
-    "🛢️ Öl fiel diese Woche kräftig (US-Sorte auf rund 88 Dollar) — das nimmt dem kanadischen Dollar den Rückenwind, dämpft aber zugleich die Inflationssorge."
+    "🇬🇧 Die Bank von England erhöhte gestern wie erwartet auf 4,00 % (erste Erhöhung seit 2023; Auslöser war die auf 3,5 % gesprungene Inflation). Das OB war klar — wichtiger ist der Ausblick: Der Markt hatte für die Folgemonate fast vier weitere Erhöhungen eingepreist, was zu viel wirkt. Die aufziehende Börsen-Panik überlagerte die Reaktion ohnehin.",
+    "🇪🇺 Die Euro-Inflation (Oktober) kam am Mittwoch überraschend HEISS: 4,0 % (erwartet rund 3,9 %, höchster Stand seit 3 Jahren, energiegetrieben). Das belebt die Debatte um eine Zinserhöhung der Europäischen Zentralbank im Dezember und stützt den Euro trotz der Rekord-Wetten gegen ihn.",
+    "🇦🇺 Die australische Notenbank erhöhte am Dienstag auf 4,85 % (18-Jahres-Hoch) — doch die knappe 6:3-Abstimmung und der vorsichtige Ton galten als „zögerliche Erhöhung\": Der Aussie FIEL danach statt zu steigen.",
+    "🇳🇿 Neuseelands Arbeitsmarkt enttäuschte: Die Arbeitslosigkeit stieg auf 5,7 % (erwartet war ein Rückgang auf 5,5 %), höchster Stand seit 2015 — eine weitere Zinserhöhung der dortigen Notenbank wird dadurch fraglich, der Kiwi steht unter Druck.",
+    "🛢️ Öl fiel diese Woche kräftig (US-Sorte auf rund 91 Dollar, −5,5 %) — das nimmt dem kanadischen Dollar den Rückenwind, passt aber ins Bild der allgemeinen Risiko-Flucht (Angst vor schwächerer Konjunktur)."
    ]
   }
  },
@@ -3936,20 +3936,20 @@ window.MAKRO_DATA = {
    {
     "code": "AUD",
     "bank": "RBA",
-    "satz": 4.6,
-    "anzeige": "4,60%",
-    "naechste": "Di 3.11.2026 (Erhöhung auf 4,85% ~85–90% eingepreist)",
-    "erwartung": "Stand 30.10.: Nach der heißen Q3-Inflation (4,3% aufs Jahr) ist für den 3.11. eine FÜNFTE Zinserhöhung 2026 auf 4,85% zu ~85–90% eingepreist — alle vier großen australischen Banken erwarten sie. Die stellvertretende Gouverneurin nannte den Inflationsausblick 'deutlich schlechter'. Höchster Zins + höchster 2-Jahres-Marktzins aller großen Währungen UND der einzige 2-Jahres-Zins, der diese Woche STIEG = klarster Dollar-Gegenspieler. Danach erwarten die meisten Banken eine Pause, einige sehen im Februar noch einen Schritt. Konjunktur-Prognosen am selben Tag.",
-    "richtung": "rauf"
+    "satz": 4.85,
+    "anzeige": "4,85%",
+    "naechste": "Feb 2027",
+    "erwartung": "Stand 6.11.: Die Notenbank erhöhte am 3.11. wie erwartet auf 4,85% (fünfte Erhöhung 2026, 18-Jahres-Hoch) — aber die knappe 6:3-Abstimmung und der vorsichtige Ton galten als 'zögerliche Erhöhung', der Aussie FIEL danach. Höchster Leitzins aller großen Währungen. Die meisten Banken erwarten jetzt eine Pause, einige sehen im Februar noch einen Schritt.",
+    "richtung": "halten"
    },
    {
     "code": "GBP",
     "bank": "BOE",
-    "satz": 3.75,
-    "anzeige": "3,75%",
-    "naechste": "Do 5.11.2026 (Erhöhung auf 4,00% ~94% eingepreist)",
-    "erwartung": "Stand 30.10.: Nach dem Sprung der UK-Inflation im September auf 3,5% (von 3,1%) ist für den 5.11. eine Zinserhöhung auf 4,00% zu ~94% eingepreist (Reuters-Umfrage 54 von 63 Ökonomen dafür) + neuer geldpolitischer Bericht. Die Shorts decken sich bereits ein, die Positionierung bleibt aber erhöht. Spannend ist der Ausblick: Der Markt preist für die Folgemonate rund vier Erhöhungen ein — das wirkt zu hawkish; ein 'vorsichtig weiter'-Ton von Bailey wäre pfund-dämpfend.",
-    "richtung": "rauf"
+    "satz": 4,
+    "anzeige": "4,00%",
+    "naechste": "Do 17.12.2026",
+    "erwartung": "Stand 6.11.: Die Bank von England erhöhte am 5.11. wie erwartet auf 4,00% (erste Erhöhung seit 2023; Auslöser war die auf 3,5% gesprungene Inflation). Entscheidend bleibt der Ausblick: Der Markt hatte für die Folgemonate rund vier weitere Erhöhungen eingepreist — das wirkt zu viel; ein vorsichtiger Ton würde das Pfund dämpfen.",
+    "richtung": "halten"
    },
    {
     "code": "USD",
@@ -4480,79 +4480,79 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": 3,
-   "tiltCot": -2,
-   "tiltZins": 6,
-   "tiltGesamt": 4,
-   "score": 7,
-   "cotExtrem": "extrem",
-   "treiber": "Heiße Euro-Inflation (4,0 %, 3-Jahres-Hoch) + größte je gemessene Euro-Short-Wette (Squeeze-Risiko) treffen auf einen weichen Dollar; gedeckelt durch den Lagarde-Rückzug.",
-   "istCross": false
-  },
-  {
-   "paar": "GBP/USD",
-   "baseScore": 3,
-   "tiltCot": -5,
-   "tiltZins": 2,
-   "tiltGesamt": -3,
-   "score": 0,
-   "cotExtrem": "erhoeht",
-   "treiber": "Heute Zinsentscheid der Bank von England (Erhöhung auf 4,00 % ~94 % eingepreist). Zweiseitig: falkiger Ton + Short-Squeeze → fester; vorsichtiger Ton → Pfund kann trotz Erhöhung fallen (wie der Aussie am Dienstag).",
-   "istCross": false
-  },
-  {
-   "paar": "USD/JPY",
-   "baseScore": 0,
-   "tiltCot": -5,
-   "tiltZins": -6,
-   "tiltGesamt": -11,
-   "score": -11,
-   "cotExtrem": "erhoeht",
-   "treiber": "Weicher Dollar gegen einen Yen, dem der Hafen-Rückenwind ausgeht (Nervosität verflogen) — beides hebt sich auf. Die immer größere Yen-Long-Wette ist ein Rückschlag-Risiko für den Yen.",
-   "istCross": false
-  },
-  {
-   "paar": "AUD/USD",
    "baseScore": 2,
    "tiltCot": -2,
    "tiltZins": 6,
    "tiltGesamt": 4,
    "score": 6,
    "cotExtrem": "extrem",
-   "treiber": "Vor allem der weiche Dollar hebt das Paar leicht; die „zögerliche\" Zinserhöhung nahm dem Aussie den eigenen Rückenwind (er fiel nach der Entscheidung).",
+   "treiber": "Heiße Euro-Inflation (4,0 %) + Rekord-Short-Wette (Squeeze) treffen auf einen Dollar, der in der Börsen-Panik NICHT als Hafen zieht. Gegengewicht: Die allgemeine Risiko-Flucht belastet den Euro — darum nur leicht positiv.",
+   "istCross": false
+  },
+  {
+   "paar": "GBP/USD",
+   "baseScore": 1,
+   "tiltCot": -5,
+   "tiltZins": 2,
+   "tiltGesamt": -3,
+   "score": -2,
+   "cotExtrem": "erhoeht",
+   "treiber": "Die Erhöhung der Bank von England auf 4,00 % stützt leicht, aber die Börsen-Panik überlagert alles und der Folge-Ausblick wirkt zu hawkish eingepreist.",
+   "istCross": false
+  },
+  {
+   "paar": "USD/JPY",
+   "baseScore": -1,
+   "tiltCot": -5,
+   "tiltZins": -6,
+   "tiltGesamt": -11,
+   "score": -12,
+   "cotExtrem": "erhoeht",
+   "treiber": "In der Börsen-Panik bekommt der Yen etwas Hafen-Zufluss zurück → Paar leicht nach unten. Gedeckelt durch die extreme Yen-Long-Wette (Rückschlag-Risiko). Track-Record dieses Paars schwach → bewusst klein.",
+   "istCross": false
+  },
+  {
+   "paar": "AUD/USD",
+   "baseScore": -4,
+   "tiltCot": -2,
+   "tiltZins": 6,
+   "tiltGesamt": 4,
+   "score": 0,
+   "cotExtrem": "extrem",
+   "treiber": "Die Risiko-Flucht hämmert den Aussie als DIE Risiko-Währung — klarster Verlierer der Woche. Die „zögerliche\" Zinserhöhung gab keinen Gegen-Rückenwind.",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": -1,
+   "baseScore": 3,
    "tiltCot": 4,
    "tiltZins": -1,
    "tiltGesamt": 3,
-   "score": 2,
+   "score": 6,
    "cotExtrem": null,
-   "treiber": "Weicher Dollar gegen einen Loonie, dem der Öl-Rückenwind abhandenkam (Öl fiel kräftig) — beide Kräfte heben sich fast auf, nahe neutral. Morgen Kanadas Arbeitsmarkt.",
+   "treiber": "Fester Dollar gegen einen Loonie, dem der Öl-Rückenwind wegbrach (Öl −5,5 %) und den die Risiko-Flucht zusätzlich belastet. Heute der kanadische Arbeitsmarkt.",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
-   "baseScore": -3,
+   "baseScore": -4,
    "tiltCot": 3,
    "tiltZins": -8,
    "tiltGesamt": -5,
-   "score": -8,
+   "score": -9,
    "cotExtrem": null,
-   "treiber": "Weicher Dollar gegen den Franken — aber der klare Hafen-Bid von gestern ist weg (Angst-Barometer zurück auf ~16,6), daher schwächer als zuletzt.",
+   "treiber": "Der Franken ist der klare Gewinner der Börsen-Panik (Hafen-Zufluss + einziger steigender Kurzzins) — stärker als der flache Dollar. Stärkstes Signal der Woche mit benennbarem Grund.",
    "istCross": false
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -1,
+   "baseScore": -3,
    "tiltCot": -2,
    "tiltZins": 4,
    "tiltGesamt": 2,
-   "score": 1,
+   "score": -1,
    "cotExtrem": "extrem",
-   "treiber": "Schwacher Kiwi (Arbeitslosigkeit auf 5,7 % gesprungen, Zinsen fallen) gegen weichen Dollar — leicht kiwi-seitig schwächer, gebremst von der extremen Short-Lage.",
+   "treiber": "Schwacher Kiwi (Arbeitslosigkeit 5,7 %, Zinsen fallen) plus Risiko-Flucht gegen einen festen Dollar; gebremst von der extremen Short-Lage.",
    "istCross": false
   },
   {
@@ -4568,40 +4568,40 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": 3,
+   "baseScore": 1,
    "tiltCot": -2,
    "tiltZins": 0,
    "tiltGesamt": -2,
-   "score": 1,
+   "score": -1,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 2,
+   "baseScore": 0,
    "tiltCot": 1,
    "tiltZins": 2,
    "tiltGesamt": 3,
-   "score": 5,
+   "score": 3,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 1,
+   "baseScore": -1,
    "tiltCot": 0,
    "tiltZins": -4,
    "tiltGesamt": -4,
-   "score": -3,
+   "score": -5,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-06T02:07:51.502Z",
+  "stand": "2026-11-06T06:16:18.999Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 80,
   "gewertet": 37,
@@ -5098,8 +5098,8 @@ window.MAKRO_DATA = {
   "GBP": {
    "ueber": 5,
    "unter": 2,
-   "gleich": 6,
-   "gesamt": 13,
+   "gleich": 7,
+   "gesamt": 14,
    "score": 3
   },
   "AUD": {
@@ -5723,6 +5723,16 @@ window.MAKRO_DATA = {
  },
  "historie": [
   {
+   "datum": "2026-11-05T07:00:00-05:00",
+   "land": "GBP",
+   "titel": "Official Bank Rate",
+   "impact": "High",
+   "prognose": "4.00%",
+   "vorher": "3.75%",
+   "actual": "4.00%",
+   "notiz": null
+  },
+  {
    "datum": "2026-11-03T16:45:00-05:00",
    "land": "NZD",
    "titel": "Unemployment Rate",
@@ -6311,16 +6321,6 @@ window.MAKRO_DATA = {
    "vorher": "4.1%",
    "actual": "4.1%",
    "notiz": null
-  },
-  {
-   "datum": "2026-09-02T09:45:00-04:00",
-   "land": "CAD",
-   "titel": "Overnight Rate",
-   "impact": "High",
-   "prognose": "2.25%",
-   "vorher": "2.25%",
-   "actual": "2.25%",
-   "notiz": "auto:TV rate (2026-09-02)"
   }
  ],
  "anzahlGespeichert": 2159

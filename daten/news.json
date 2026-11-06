@@ -1,11 +1,41 @@
 {
-  "stand": "2026-11-06T14:54:27.554Z",
+  "stand": "2026-11-06T19:47:46.448Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capacity",
+      "link": "https://investinglive.com/news/microsoft-is-reportedly-winding-down-it-s-oracle-deal-to-wind-down-ai-cloud-capacity/",
+      "datum": "2026-11-06T17:47:43.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US presses China to honor Busan trade truce as rare earth shipments fall short.",
+      "link": "https://investinglive.com/news/us-presses-china-to-honor-busan-trade-truce-as-rare-earth-shipments-fall-short/",
+      "datum": "2026-11-06T17:39:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran reviewing proposals to curb nuclear program - report",
+      "link": "https://investinglive.com/news/iran-reviewing-proposals-to-curb-nuclear-program-report/",
+      "datum": "2026-11-06T16:06:34.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
+      "link": "https://investinglive.com/news/november-us-umich-prelim-consumer-sentiment-vs-48-0-expected/",
+      "datum": "2026-11-06T15:00:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran responds positively to latest mediator proposal - report",
+      "link": "https://investinglive.com/news/iran-responds-positively-to-latest-mediator-proposal-report/",
+      "datum": "2026-11-06T14:44:04.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US October non-farm payrolls +165K vs +65K expected",
@@ -17,12 +47,6 @@
       "titel": "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate 6.7%.",
       "link": "https://investinglive.com/news/canada-employment-change-for-october-4-7k-vs-13-6k-estimate-unemployment-rate-6-7/",
       "datum": "2026-11-06T13:30:13.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Non-farm payrolls preview: October numbers show a skew",
-      "link": "https://investinglive.com/news/non-farm-payrolls-preview-october-numbers-show-a-skew/",
-      "datum": "2026-11-06T12:53:21.000Z"
     },
     {
       "quelle": "ForexLive",
@@ -55,34 +79,10 @@
       "datum": "2026-11-06T07:26:27.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI selloff spreads",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-nov-nasdaq-100-plunges-6-36-as-ai-selloff-spreads/",
-      "datum": "2026-11-05T22:00:36.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The market is waiting for signals from Donald Trump",
-      "link": "https://investinglive.com/news/the-market-is-waiting-for-signals-from-donald-trump/",
-      "datum": "2026-11-05T19:04:30.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
       "datum": "2026-11-05T16:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The market is telling the hyperscalers it's happy about a slower data center buildout",
-      "link": "https://investinglive.com/news/the-market-is-telling-the-hyperscalers-it-s-happy-about-a-slower-data-center-buildout-0/",
-      "datum": "2026-11-05T15:51:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Marco Rubio ‘on resignation watch’ - report",
-      "link": "https://investinglive.com/news/marco-rubio-on-resignation-watch-report/",
-      "datum": "2026-11-05T14:11:21.000Z"
     },
     {
       "quelle": "Fed",

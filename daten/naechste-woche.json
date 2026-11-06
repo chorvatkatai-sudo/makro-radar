@@ -14,7 +14,7 @@
     "country": "CNY",
     "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.8%",
     "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -24,7 +24,7 @@
     "country": "CNY",
     "title": "Inflation Rate MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -34,7 +34,7 @@
     "country": "CNY",
     "title": "PPI YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "5.3%",
     "previous": "5%",
     "actual": null,
     "quelle": "tradingview"
@@ -394,7 +394,7 @@
     "country": "CNY",
     "title": "Exports YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "33%",
     "previous": "36.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -404,7 +404,7 @@
     "country": "CNY",
     "title": "Imports YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "33%",
     "previous": "31%",
     "actual": null,
     "quelle": "tradingview"
@@ -414,7 +414,7 @@
     "country": "CNY",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "",
+    "forecast": "125 $",
     "previous": "133.53 $",
     "actual": null,
     "quelle": "tradingview"
@@ -464,7 +464,7 @@
     "country": "CNY",
     "title": "M2 Money Supply YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "7.2%",
     "previous": "7.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -474,7 +474,7 @@
     "country": "CNY",
     "title": "New Yuan Loans",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "20 CNY",
     "previous": "1080 CNY",
     "actual": null,
     "quelle": "tradingview"
@@ -484,7 +484,7 @@
     "country": "CNY",
     "title": "Loan Growth YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "4.8%",
     "previous": "4.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -494,7 +494,7 @@
     "country": "CNY",
     "title": "Total Social Financing",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1585 CNY",
     "previous": "3550 CNY",
     "actual": null,
     "quelle": "tradingview"

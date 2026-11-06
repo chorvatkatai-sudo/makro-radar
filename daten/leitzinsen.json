@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-10-30",
+  "stand": "2026-11-06",
   "zinsen": [
     {
       "code": "AUD",
@@ -25,8 +25,8 @@
       "bank": "Fed",
       "satz": 3.875,
       "anzeige": "3,75–4,00%",
-      "naechste": "9.12.2026 (Erhöhung ~85% eingepreist)",
-      "erwartung": "Stand 30.10.: Am Mi 28.10. bei 3,75–4,00% GEHALTEN — aber mit ZWEI Gegenstimmen, die erhöhen wollten (Cook und Hammack), Abstimmung 10:2. Chef Warsh nannte die Inflation 'hartnäckig zu hoch', gab bewusst KEINEN klaren Dezember-Ausblick und kündigte an, ab 2027 weniger Sitzungen abzuhalten. Am Do 29.10. kamen feste Daten (Wachstum Q3 +3,4%, Kern-PCE 3,1% / +0,3% m/m). Eine Dezember-Erhöhung bleibt mit ~85% eingepreist. Kernthese: Der Dollar lebt vom TON — der blieb falkenhaft, aber der Dollar rallyt trotzdem nicht, weil die Gold-Flucht nachlässt UND die kurzen US-Zinsen diese Woche am stärksten fielen.",
+      "naechste": "9.12.2026 (Erhöhung ~70–80% eingepreist)",
+      "erwartung": "Stand 6.11.: Gehalten bei 3,75–4,00% (28.10., falkenhafter Chef Warsh, kein klarer Dezember-Ausblick). Die Dezember-Erhöhungswette fuhr Achterbahn: Nach den US-Zwischenwahlen (Demokraten gewinnen beide Kammern) stieg sie auf ~80%, fiel dann in der Technologie-Aktien-Panik auf ~66% (Flucht in Anleihen drückte die Renditen), und zog nach dem heute überraschend starken Arbeitsmarktbericht (+165.000 Stellen statt ~60.000, Quote fiel auf 4,1%, Löhne +0,4%) wieder an. Fazit: Der Arbeitsmarkt bricht NICHT, das hält die Dezember-Erhöhung am Leben — aber die Börsen-Panik überlagert gerade alles.",
       "richtung": "rauf"
     },
     {

@@ -1,11 +1,35 @@
 {
-  "stand": "2026-11-06T19:47:46.448Z",
+  "stand": "2026-11-07T06:09:16.277Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/",
+      "datum": "2026-11-06T21:52:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Equity close: Decent rebound or a dead-cat bounce",
+      "link": "https://investinglive.com/news/equity-close-decent-rebound-or-a-dead-cat-bounce/",
+      "datum": "2026-11-06T21:08:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: We are talking to Iran, we are doing very well with Iran",
+      "link": "https://investinglive.com/news/trump-we-are-talking-to-iran-we-are-doing-very-well-with-iran/",
+      "datum": "2026-11-06T20:02:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump chief of staff Susie Wiles to be replaced by Stephen Miller",
+      "link": "https://investinglive.com/news/trump-chief-of-staff-susie-wiles-to-be-replaced-by-stephen-miller/",
+      "datum": "2026-11-06T19:00:41.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capacity",
@@ -53,66 +77,6 @@
       "titel": "What is the distribution of forecasts for the US NFP?",
       "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-2/",
       "datum": "2026-11-06T12:44:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Markets consolidate ahead of the US NFP report",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-the-us-nfp-report/",
-      "datum": "2026-11-06T12:34:28.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone retail sales fall 0.7% in September, signalling weakening consumer demand",
-      "link": "https://investinglive.com/news/eurozone-retail-sales-fall-0-7-in-september-signalling-weakening-consumer-demand/",
-      "datum": "2026-11-06T10:20:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-news-wrap-global-tech-stocks-rout-raises-growth-concerns/",
-      "datum": "2026-11-06T08:05:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-80/",
-      "datum": "2026-11-06T07:26:27.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-      "datum": "2026-11-05T16:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-      "datum": "2026-10-29T20:30:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "datum": "2026-10-28T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-      "datum": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-      "datum": "2026-10-13T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "datum": "2026-10-09T14:00:00.000Z"
     }
   ]
 }

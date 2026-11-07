@@ -177,21 +177,17 @@
     "Ehrlicher Track-Record (Stand im Dashboard): wochenWette 9/18 = 50%, Konzentration 87%, Zufallsband [5,13] → weiter NICHT von einem Münzwurf unterscheidbar; overlayVergleich seit 22.7. neutral. Beste Paare zuletzt NZD/USD, GBP/USD, AUD/USD; schlechteste EUR/JPY, EUR/USD, USD/JPY. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5), nur der Franken etwas größer mit dem konkreten Panik-/Hafen-Grund."
   ],
   "tagesnews": {
-    "stand": "2026-11-06",
-    "wochentag": "Freitag",
-    "tenor": "Ein Crash bei Technologie-Aktien versetzte die Börsen in Angst — Geld floss in Gold und den Franken. Der US-Arbeitsmarkt kam heute überraschend stark, das stützt eine Dezember-Zinserhöhung der Fed.",
+    "stand": "2026-11-07",
+    "wochentag": "Samstag",
+    "tenor": "Wochenende, die Börsen ruhen. Die Angst-Woche ist durch — jetzt ist die US-Inflation am Dienstag der Schiedsrichter: Sie entscheidet über eine Zins-Erhöhung im Dezember.",
     "heute": [
-      "🇺🇸 Der US-Arbeitsmarktbericht (Oktober) kam überraschend STARK: +165.000 Stellen statt erwarteter ~60.000, die Arbeitslosenquote FIEL auf 4,1% (erwartet 4,2%), die Löhne stiegen kräftig (+0,4% im Monat). Die Vormonate wurden um 84.000 Stellen nach oben korrigiert. Heißt: Der Jobmarkt bricht nicht ein → eine Dezember-Zinserhöhung der Fed bleibt am Leben, die US-Renditen stiegen. ABER die Börsen-Panik überlagert die gute Nachricht.",
-      "🇨🇦 Kanadas Arbeitsmarkt war dagegen schwach: −4.700 Stellen (erwartet +14.600), die Arbeitslosigkeit stieg auf 6,7% (6-Monats-Hoch). Besonders schwach der Privatsektor (−53.000 Stellen), nur der Staat (+50.000) rettete die Schlagzeile. Das plus das gefallene Öl (~90$) belastet den kanadischen Dollar doppelt.",
-      "🌍 Die große Nachricht bleibt die Börsen-Angst: Das Angst-Barometer sprang über Nacht um ~70% auf fast 28 (größter Tagessprung seit fast zwei Jahren), nachdem die Technologie-Aktien einbrachen (Nasdaq-100 ~−6,4%). Geld floss in Gold (zurück über 4.080$) und den Schweizer Franken — der Dollar war diesmal NICHT der sichere Hafen (flach bei ~102).",
-      "🇯🇵 Japans Notenbank-Chef Ueda spricht heute — der Markt achtet auf Hinweise zu einer Dezember-Erhöhung. Für den Yen zählt diese Woche aber mehr die Hafen-Nachfrage aus der Börsen-Panik (gedeckelt durch die überfüllte Yen-Wette, die drehen kann)."
+      "📅 Samstag, Markt geschlossen — keine neuen Zahlen. Blick nach vorn: Die kommende Woche ist bei Terminen ruhiger, EIN Termin ragt heraus — die US-Inflation (Oktober) am DIENSTAG 10.11. (14:30 Wien). Sie ist der Schiedsrichter für die Fed-Sitzung am 9.12.: Kern erwartet +0,2% im Monat, Schlagzeile +0,3%. Kommt sie heiß, festigt sich die Dezember-Zinserhöhung und der Dollar; kommt sie weich, lebt die Hoffnung auf eine Pause.",
+      "🗓️ Weiter in der Woche: Mittwoch 11.11. ruht der US-Anleihemarkt (Veteranen-Tag, dünner Handel). Donnerstag 12.11. kommt die britische Wirtschaftsleistung (3. Quartal, +0,7% erwartet). Freitag 13.11. folgen die US-Erzeugerpreise (+0,4% erwartet, nach einem heißen +1,3% im Vormonat). Dazu reden mehrere Notenbanker — der Markt sucht nach Beruhigung nach dem Technologie-Crash."
     ],
     "gestern": [
-      "🇬🇧 Die Bank von England erhöhte am Donnerstag wie erwartet auf 4,00% (erste Erhöhung seit 2023; Auslöser war die auf 3,5% gesprungene Inflation). Das OB war klar — wichtiger ist der Ausblick: Der Markt hatte für die Folgemonate fast vier weitere Erhöhungen eingepreist, was zu viel wirkt. Die Börsen-Panik überlagerte die Reaktion ohnehin.",
-      "🇪🇺 Die Euro-Inflation (Oktober) kam am Mittwoch heiß: 4,0% im Jahr (höchster Stand seit drei Jahren, getrieben vom teuren Öl, Energie +20,8%; Kern bei 2,5%). Das belebt die Debatte um eine Zinserhöhung der Europäischen Zentralbank im Dezember und stützt den Euro trotz der Rekord-Wetten gegen ihn.",
-      "🇺🇸 Am Dienstag waren US-Zwischenwahlen: Die Demokraten gewannen beide Kammern des Kongresses. Zuerst feierten die Börsen — dann kippte die Stimmung, als die Sorge aufkam, eine neue Mehrheit könnte den Rechenzentren-Ausbau (das Herz des KI-Booms) stärker regulieren. Das war der Funke für den Tech-Crash.",
-      "🇦🇺 Die australische Notenbank erhöhte am Dienstag auf 4,85% (18-Jahres-Hoch) — doch die knappe 6:3-Abstimmung und der vorsichtige Ton galten als 'zögerliche Erhöhung': Der Aussie FIEL danach statt zu steigen.",
-      "🇳🇿 Neuseelands Arbeitsmarkt enttäuschte: Die Arbeitslosigkeit stieg auf 5,7% (erwartet war ein Rückgang auf 5,5%), höchster Stand seit 2015 — weitere Zinserhöhungen der dortigen Notenbank werden dadurch fraglich. Heute dort zudem Parlamentswahlen."
+      "🌍 Rückblick auf die Angst-Woche (2.–6.11.): Ein Crash bei Technologie-Aktien (Nasdaq-100 rund −6,4%, Auslöser war die Sorge um schärfere Regeln für Rechenzentren nach dem Sieg der Demokraten bei den Zwischenwahlen) ließ das Angst-Barometer um rund 70% auf fast 28 springen — der größte Tagessprung seit fast zwei Jahren. Geld floss in Gold (zurück über 4.080$) und den Schweizer Franken. Wichtig: Der Dollar war diesmal NICHT der sichere Hafen (flach bei ~102).",
+      "🇺🇸 Zum Wochenschluss drehte die Stimmung ein Stück: Der US-Arbeitsmarkt kam am Freitag überraschend STARK (+165.000 Stellen statt ~60.000, Arbeitslosigkeit fiel auf 4,1%, Löhne +0,4%). Das hält eine Fed-Zinserhöhung im Dezember am Leben (Wette von ~66% wieder auf über 75% gestiegen) und trieb die US-Renditen hoch — der eigentliche Grund, warum die US-Inflation am Dienstag jetzt so wichtig ist.",
+      "🏦 Notenbank-Woche lief weiter auseinander: Australien erhöhte auf 4,85% (aber zögerlich, Aussie fiel), die Bank von England erstmals seit 2023 auf 4,00%. Die Euro-Inflation kam heiß (4,0% im Jahr, höchster Stand seit drei Jahren) und stützt den Euro trotz Rekord-Wetten gegen ihn. Kanadas Arbeitsmarkt dagegen schwach (−4.700 Stellen) — das plus billiges Öl belastet den kanadischen Dollar."
     ]
   }
 }

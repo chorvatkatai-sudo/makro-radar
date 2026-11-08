@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-07T06:09:17.269Z",
+ "erstellt": "2026-11-08T06:09:05.126Z",
  "wochenStart": "2026-11-01",
  "events": [
   {
@@ -3508,11 +3508,11 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (Stand im Dashboard): wochenWette 9/18 = 50%, Konzentration 87%, Zufallsband [5,13] → weiter NICHT von einem Münzwurf unterscheidbar; overlayVergleich seit 22.7. neutral. Beste Paare zuletzt NZD/USD, GBP/USD, AUD/USD; schlechteste EUR/JPY, EUR/USD, USD/JPY. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5), nur der Franken etwas größer mit dem konkreten Panik-/Hafen-Grund."
   ],
   "tagesnews": {
-   "stand": "2026-11-07",
-   "wochentag": "Samstag",
-   "tenor": "Wochenende, die Börsen ruhen. Die Angst-Woche ist durch — jetzt ist die US-Inflation am Dienstag der Schiedsrichter: Sie entscheidet über eine Zins-Erhöhung im Dezember.",
+   "stand": "2026-11-08",
+   "wochentag": "Sonntag",
+   "tenor": "Wochenende, die Börsen ruhen. Die neue Woche startet ruhig — aber am Dienstag ist die US-Inflation der Schiedsrichter: Sie entscheidet über eine Zins-Erhöhung im Dezember.",
    "heute": [
-    "📅 Samstag, Markt geschlossen — keine neuen Zahlen. Blick nach vorn: Die kommende Woche ist bei Terminen ruhiger, EIN Termin ragt heraus — die US-Inflation (Oktober) am DIENSTAG 10.11. (14:30 Wien). Sie ist der Schiedsrichter für die Fed-Sitzung am 9.12.: Kern erwartet +0,2% im Monat, Schlagzeile +0,3%. Kommt sie heiß, festigt sich die Dezember-Zinserhöhung und der Dollar; kommt sie weich, lebt die Hoffnung auf eine Pause.",
+    "📅 Sonntag, Markt geschlossen — keine neuen Zahlen. Der Wochenstart ist ruhig: In der Nacht zu Montag kommt die China-Inflation (rund +0,8% erwartet) — für unsere Währungspaare nur Nebengeräusch. Das große Ereignis kommt erst am DIENSTAG 10.11. (14:30 Wien): die US-Inflation für Oktober. Sie ist der Schiedsrichter für die Fed-Sitzung am 9.12. (Kern erwartet +0,2% im Monat, Schlagzeile +0,3%). Heiß = Dezember-Zinserhöhung und Dollar festigen sich; weich = Hoffnung auf eine Pause lebt wieder auf.",
     "🗓️ Weiter in der Woche: Mittwoch 11.11. ruht der US-Anleihemarkt (Veteranen-Tag, dünner Handel). Donnerstag 12.11. kommt die britische Wirtschaftsleistung (3. Quartal, +0,7% erwartet). Freitag 13.11. folgen die US-Erzeugerpreise (+0,4% erwartet, nach einem heißen +1,3% im Vormonat). Dazu reden mehrere Notenbanker — der Markt sucht nach Beruhigung nach dem Technologie-Crash."
    ],
    "gestern": [
@@ -4580,7 +4580,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-07T06:09:16.924Z",
+  "stand": "2026-11-08T06:09:05.124Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 84,
   "gewertet": 38,

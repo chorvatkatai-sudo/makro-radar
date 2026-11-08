@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-07T06:09:16.277Z",
+  "stand": "2026-11-08T06:09:36.114Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -77,6 +77,42 @@
       "titel": "What is the distribution of forecasts for the US NFP?",
       "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-2/",
       "datum": "2026-11-06T12:44:44.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "datum": "2026-11-05T16:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "datum": "2026-10-29T20:30:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "datum": "2026-10-28T18:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "datum": "2026-10-16T15:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "datum": "2026-10-13T18:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "datum": "2026-10-09T14:00:00.000Z"
     }
   ]
 }

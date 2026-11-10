@@ -21917,7 +21917,7 @@
       "titel": "ADP Weekly Employment Change",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "19.5K",
       "actual": null,
       "notiz": null
     },
@@ -22758,6 +22758,16 @@
       "impact": "Low",
       "prognose": "80B",
       "vorher": "1080B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-10T08:14:00-05:00|USD|ADP Weekly Employment Change": {
+      "datum": "2026-11-10T08:14:00-05:00",
+      "land": "USD",
+      "titel": "ADP Weekly Employment Change",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "16.8K",
       "actual": null,
       "notiz": null
     }

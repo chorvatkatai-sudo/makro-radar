@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-10T01:23:22.261Z",
+  "stand": "2026-11-10T06:15:12.453Z",
   "ausBriefing": "2026-11-06",
   "overlayAktiv": true,
   "paare": [
@@ -11,7 +11,7 @@
       "tiltGesamt": -2,
       "score": -1,
       "cotExtrem": "extrem",
-      "treiber": "Heiße Euro-Inflation (4,0%) + Rekord-Short-Wette (Squeeze-Gefahr nach oben) gegen einen Dollar, der in der Panik nicht als Hafen zog — aber heute von einem starken US-Jobmarkt gestützt wurde. Darum nur leicht positiv.",
+      "treiber": "Euro-Rekord-Shorts = Squeeze-Pulver gegen flachen Dollar; Inflation heute = Wildcard.",
       "istCross": false
     },
     {
@@ -22,29 +22,29 @@
       "tiltGesamt": -8,
       "score": -8,
       "cotExtrem": null,
-      "treiber": "Die Erhöhung der Bank von England auf 4,00% stützt leicht, aber der Folge-Ausblick wirkt zu hawkish eingepreist und der starke US-Jobbericht hält dagegen. Bewusst neutral.",
+      "treiber": "Beide neutral — BoE-Erhöhung durch, Dollar wartet auf die Inflation.",
       "istCross": false
     },
     {
       "paar": "USD/JPY",
-      "baseScore": -1,
+      "baseScore": 0,
       "tiltCot": -5,
       "tiltZins": 3,
       "tiltGesamt": -2,
-      "score": -3,
+      "score": -2,
       "cotExtrem": "erhoeht",
-      "treiber": "In der Börsen-Panik bekommt der Yen als Hafen etwas Zufluss → Paar leicht nach unten. Gedeckelt durch die überfüllte Yen-Long-Wette (Rückschlag-Risiko) und den starken US-Jobmarkt. Track-Record dieses Paars schwach → bewusst klein.",
+      "treiber": "Hafen-Bid des Yen bröckelt mit der Erholung, aber überfüllte Yen-Longs = Rückschlag-Risiko.",
       "istCross": false
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -2,
+      "baseScore": -1,
       "tiltCot": -2,
       "tiltZins": -4,
       "tiltGesamt": -6,
-      "score": -8,
+      "score": -7,
       "cotExtrem": "extrem",
-      "treiber": "Die Börsen-Panik hämmert den Aussie als Risiko-Währung, die 'zögerliche' Zinserhöhung gab keinen Gegen-Rückenwind. Die extreme Short-Lage bremst den Rückschlag etwas.",
+      "treiber": "Risiko-Stimmung hebt den Aussie, Chinas Flaute bremst — knapp unter null.",
       "istCross": false
     },
     {
@@ -55,29 +55,29 @@
       "tiltGesamt": 6,
       "score": 9,
       "cotExtrem": null,
-      "treiber": "Fester Dollar (starker Jobbericht) gegen einen Loonie mit doppeltem Gegenwind: schwacher kanadischer Arbeitsmarkt (−4.700, Quote 6,7%) UND gefallenes Öl (~90$). Klarste Pro-Dollar-Story der Woche.",
+      "treiber": "Öl-Absturz + schwache Jobs machen den Loonie zum klarsten Verlierer.",
       "istCross": false
     },
     {
       "paar": "USD/CHF",
-      "baseScore": -4,
+      "baseScore": -1,
       "tiltCot": 3,
       "tiltZins": -1,
       "tiltGesamt": 2,
-      "score": -2,
+      "score": 1,
       "cotExtrem": null,
-      "treiber": "Der Franken ist der klare Gewinner der Börsen-Panik (Hafen-Zufluss, nicht überfüllt gewettet) — stärker als der flache Dollar. Stärkstes Signal der Woche mit benennbarem Grund; Risiko ist eine schnelle Börsen-Beruhigung.",
+      "treiber": "Franken-Hafen-Prämie bröckelt mit der Börsen-Erholung — deutlich weniger negativ als letzte Woche.",
       "istCross": false
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -3,
+      "baseScore": -1,
       "tiltCot": -2,
       "tiltZins": 4,
       "tiltGesamt": 2,
-      "score": -1,
+      "score": 1,
       "cotExtrem": "extrem",
-      "treiber": "Schwacher Kiwi (Arbeitslosigkeit 5,7%, weitere Zinserhöhungen fraglich) plus Börsen-Panik gegen einen von starken Jobs gestützten Dollar; gebremst von der extremen Short-Lage.",
+      "treiber": "Risiko-Rückenwind + steigender Kiwi-Zins gegen schwache Jobs und Chinas Nachfrage.",
       "istCross": false
     },
     {
@@ -93,11 +93,11 @@
     },
     {
       "paar": "EUR/JPY",
-      "baseScore": 0,
+      "baseScore": 1,
       "tiltCot": -2,
       "tiltZins": 3,
       "tiltGesamt": 1,
-      "score": 1,
+      "score": 2,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
@@ -115,11 +115,11 @@
     },
     {
       "paar": "EUR/CHF",
-      "baseScore": -1,
+      "baseScore": 0,
       "tiltCot": -1,
       "tiltZins": 0,
       "tiltGesamt": -1,
-      "score": -2,
+      "score": -1,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

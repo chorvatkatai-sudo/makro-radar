@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-10T01:23:22.732Z",
+ "erstellt": "2026-11-10T06:15:12.468Z",
  "wochenStart": "2026-11-08",
  "events": [
   {
@@ -3837,79 +3837,79 @@ window.MAKRO_DATA = {
    "USD": {
     "stimmung": "neutral",
     "score": 1,
-    "grund": "Zwei Kräfte heben sich auf: Der heute überraschend starke Arbeitsmarkt (+165.000 Stellen, Quote 4,1%) stützt eine Dezember-Zinserhöhung = Rückenwind. Dagegen war der Dollar in der Börsen-Panik NICHT der sichere Hafen (das Geld ging in Gold und den Franken), die Wahlen brachten politische Unsicherheit, und über die Woche fielen die kurzen US-Zinsen am stärksten von allen. Genuin neutral."
+    "grund": "Weich/flach (~101,7), kein Hafen; starker Arbeitsmarkt + Dezember-Zinswette ~75% geben Boden — aber die Inflation heute Nachmittag ist der echte Schiedsrichter, daher bewusst neutral."
    },
    "EUR": {
     "stimmung": "neutral",
     "score": 2,
-    "grund": "Die Euro-Inflation kam am Mittwoch heiß (4,0%, 3-Jahres-Hoch), und die Großspekulanten halten die GRÖSSTE je gemessene Wette GEGEN den Euro (Rückschlag-Gefahr nach oben, wenn sie dreht). Dagegen zieht die Führungs-Unsicherheit (Lagarde-Rückzug) und die schwache Konjunktur. Unterm Strich nur leicht positiv."
+    "grund": "Heiße Euro-Inflation (4,0%) + Rekord-Wetten gegen den Euro = Zündstoff für einen Rückprall nach oben, falls es dreht; gegen schwache Konjunktur und Lagarde-Rückzug."
    },
    "GBP": {
     "stimmung": "neutral",
     "score": 1,
-    "grund": "Die Bank von England erhöhte wie erwartet auf 4,00%. Der Rückenwind ist aber gedämpft: Der Markt hatte für die Folgemonate rund vier weitere Erhöhungen eingepreist — das wirkt zu viel, und die Börsen-Panik überlagert ohnehin alles. Nächste Woche das Wachstum für das dritte Quartal."
+    "grund": "Bank-von-England-Erhöhung auf 4,00% ist durch, der hawkishe Folge-Ausblick weitgehend eingepreist."
    },
    "JPY": {
     "stimmung": "neutral",
-    "score": 2,
-    "grund": "Die Börsen-Panik bringt dem Yen als sicherem Hafen etwas Zufluss. ABER die Großspekulanten sind stark LONG Yen gewettet (erhöht, bauen weiter auf) = großes Rückschlag-Risiko, falls die Wette dreht, und der Carry-Nachteil (hohe US-Zinsen) hält ihn schwach. Deshalb nur knapp positiv."
+    "score": 1,
+    "grund": "Hafen-Bid lässt mit der Börsen-Erholung nach; zugleich sind die Großspekulanten stark long (überfüllt) = Rückschlag-Risiko. Carry bleibt Gegenwind."
    },
    "CHF": {
-    "stimmung": "bullisch",
-    "score": 5,
-    "grund": "Der klare Gewinner der Börsen-Panik: Das Angst-Barometer sprang um ~70% auf fast 28 — in solchen Phasen fließt Fluchtgeld in den Franken, und er ist (anders als der Yen) nicht überfüllt gewettet. Der einzige etwas größere Score der Woche, mit einem sehr konkreten, benennbaren Grund. Risiko: Beruhigt sich die Börse schnell, fällt der Hafen-Zufluss weg."
+    "stimmung": "neutral",
+    "score": 2,
+    "grund": "War letzte Woche der klare Panik-Gewinner (+5); mit der Börsen-Erholung bröckelt die Hafen-Prämie — bleibt solide (gold-nah), aber nicht mehr die klarste Story."
    },
    "CAD": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Doppelter Gegenwind: Der Arbeitsmarkt war heute schwach (−4.700 Stellen, Arbeitslosigkeit auf 6,7% gestiegen, Privatsektor verlor sogar ~53.000 Stellen), und das Öl fiel von ~104$ auf ~90$ = der Rohstoff-Rückenwind ist weg. Gegengewicht nur: Die Bank of Canada hat gerade erst überraschend erhöht (2,50%)."
+    "grund": "Öl stürzt weiter (−10% Woche) + schwache Jobzahlen (−4.700) = Doppel-Gegenwind, klarster Einzel-Verlierer."
    },
    "AUD": {
-    "stimmung": "bärisch",
-    "score": -2,
-    "grund": "Der Aussie ist DIE Risiko-Währung und wird in der Börsen-Panik verkauft. Die Zinserhöhung auf 4,85% am Dienstag galt als 'zögerlich' (knappe 6:3-Abstimmung) und gab keinen Rückenwind — der Aussie fiel danach. Nur die extreme Short-Lage bremst den Rückschlag (Squeeze-Risiko)."
+    "stimmung": "neutral",
+    "score": 0,
+    "grund": "Risiko-Stimmung zurück hilft der Rohstoff-Währung (war −2); extreme Short-Wetten = Squeeze-Risiko, aber Chinas schwache Nachfrage bremst."
    },
    "NZD": {
-    "stimmung": "bärisch",
-    "score": -3,
-    "grund": "Schwacher Arbeitsmarkt (Arbeitslosigkeit auf 5,7% gesprungen, höchster Stand seit 2015) macht weitere Kiwi-Zinserhöhungen fraglich, dazu die Börsen-Panik. Gegengewicht nur die extreme Short-Lage (Squeeze-Risiko). Heute dort zudem Parlamentswahlen."
+    "stimmung": "neutral",
+    "score": -1,
+    "grund": "Börsen-Erholung + einziger steigender 2-Jahres-Zins helfen (war −3); dagegen schwacher Arbeitsmarkt (5,7%) + Chinas Flaute + extreme Shorts."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
     "score": 1,
-    "treiber": "Heiße Euro-Inflation (4,0%) + Rekord-Short-Wette (Squeeze-Gefahr nach oben) gegen einen Dollar, der in der Panik nicht als Hafen zog — aber heute von einem starken US-Jobmarkt gestützt wurde. Darum nur leicht positiv."
+    "treiber": "Euro-Rekord-Shorts = Squeeze-Pulver gegen flachen Dollar; Inflation heute = Wildcard."
    },
    {
     "paar": "GBP/USD",
     "score": 0,
-    "treiber": "Die Erhöhung der Bank von England auf 4,00% stützt leicht, aber der Folge-Ausblick wirkt zu hawkish eingepreist und der starke US-Jobbericht hält dagegen. Bewusst neutral."
+    "treiber": "Beide neutral — BoE-Erhöhung durch, Dollar wartet auf die Inflation."
    },
    {
     "paar": "USD/JPY",
-    "score": -1,
-    "treiber": "In der Börsen-Panik bekommt der Yen als Hafen etwas Zufluss → Paar leicht nach unten. Gedeckelt durch die überfüllte Yen-Long-Wette (Rückschlag-Risiko) und den starken US-Jobmarkt. Track-Record dieses Paars schwach → bewusst klein."
+    "score": 0,
+    "treiber": "Hafen-Bid des Yen bröckelt mit der Erholung, aber überfüllte Yen-Longs = Rückschlag-Risiko."
    },
    {
     "paar": "AUD/USD",
-    "score": -2,
-    "treiber": "Die Börsen-Panik hämmert den Aussie als Risiko-Währung, die 'zögerliche' Zinserhöhung gab keinen Gegen-Rückenwind. Die extreme Short-Lage bremst den Rückschlag etwas."
+    "score": -1,
+    "treiber": "Risiko-Stimmung hebt den Aussie, Chinas Flaute bremst — knapp unter null."
    },
    {
     "paar": "USD/CAD",
     "score": 3,
-    "treiber": "Fester Dollar (starker Jobbericht) gegen einen Loonie mit doppeltem Gegenwind: schwacher kanadischer Arbeitsmarkt (−4.700, Quote 6,7%) UND gefallenes Öl (~90$). Klarste Pro-Dollar-Story der Woche."
+    "treiber": "Öl-Absturz + schwache Jobs machen den Loonie zum klarsten Verlierer."
    },
    {
     "paar": "USD/CHF",
-    "score": -4,
-    "treiber": "Der Franken ist der klare Gewinner der Börsen-Panik (Hafen-Zufluss, nicht überfüllt gewettet) — stärker als der flache Dollar. Stärkstes Signal der Woche mit benennbarem Grund; Risiko ist eine schnelle Börsen-Beruhigung."
+    "score": -1,
+    "treiber": "Franken-Hafen-Prämie bröckelt mit der Börsen-Erholung — deutlich weniger negativ als letzte Woche."
    },
    {
     "paar": "NZD/USD",
-    "score": -3,
-    "treiber": "Schwacher Kiwi (Arbeitslosigkeit 5,7%, weitere Zinserhöhungen fraglich) plus Börsen-Panik gegen einen von starken Jobs gestützten Dollar; gebremst von der extremen Short-Lage."
+    "score": -1,
+    "treiber": "Risiko-Rückenwind + steigender Kiwi-Zins gegen schwache Jobs und Chinas Nachfrage."
    }
   ],
   "wochenausblick": {
@@ -3999,19 +3999,19 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (Stand im Dashboard): wochenWette 9/18 = 50%, Konzentration 87%, Zufallsband [5,13] → weiter NICHT von einem Münzwurf unterscheidbar; overlayVergleich seit 22.7. neutral. Beste Paare zuletzt NZD/USD, GBP/USD, AUD/USD; schlechteste EUR/JPY, EUR/USD, USD/JPY. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5), nur der Franken etwas größer mit dem konkreten Panik-/Hafen-Grund."
   ],
   "tagesnews": {
-   "stand": "2026-11-09",
-   "wochentag": "Montag",
-   "tenor": "Ruhiger Wochenstart, aber die Nerven liegen nach dem Technologie-Crash blank. Morgen entscheidet die US-Inflation, ob die Zinserhöhung im Dezember kommt.",
+   "stand": "2026-11-10",
+   "wochentag": "Dienstag",
+   "tenor": "Heute Nachmittag kommt die US-Inflation — sie entscheidet über die Zinserhöhung im Dezember; davor hat sich die Börse vom Technologie-Crash erholt und die Nervosität lässt nach.",
    "heute": [
-    "📊 Montag, ruhiger Auftakt — das Pulver wird für morgen trocken gehalten. DAS Ereignis der Woche ist DIENSTAG 10.11. (14:30 Wien): die US-Inflation für Oktober. Kurios: Sie kommt diesmal OHNE Jahres-Vergleichszahl, weil während des Regierungs-Stillstands im Oktober 2025 gar keine Preise erhoben wurden — nur der Monatswert zählt. Faustregel: Kern bei +0,2% oder darunter → die Dezember-Zinserhöhung wird wieder unsicher (Wette fällt unter 70%); +0,3% oder mehr → die Erhöhung ist so gut wie sicher und der Dollar festigt sich.",
-    "🇨🇳 Heute früh kam die China-Inflation herein — mit rund +0,8 bis +0,9% im Jahr weiter sehr schwach (zarte Erholung, aber weit unter dem 3%-Ziel). Für unsere Währungspaare nur Nebengeräusch; sie zeigt vor allem, dass Chinas Nachfrage weiter lahmt — ein leiser Gegenwind für die Rohstoff-Währungen Aussie und Kiwi.",
-    "📉 Die Stimmung bleibt nervös: Das Angst-Barometer steht nach dem Technologie-Crash immer noch hoch (rund 25, normal wären ~15), der Bitcoin hängt schwach unter 76.000$. Der Schweizer Franken bleibt als sicherer Hafen gefragt, Gold hält sich über 4.070$. Der Dollar liegt fest bei gut 102 — aber eher wegen der hohen US-Renditen als aus Hafen-Gründen.",
-    "🗓️ Fahrplan der Woche: Mittwoch 11.11. ruht der US-Anleihemarkt (Veteranen-Tag, dünner Handel). Donnerstag 12.11. kommt die britische Wirtschaftsleistung (3. Quartal, +0,7% erwartet). Freitag 13.11. folgen die US-Erzeugerpreise (+0,4% erwartet, nach einem heißen +1,3% im Vormonat). Dazwischen reden mehrere Notenbanker — der Markt sucht Beruhigung nach dem Crash."
+    "🇺🇸 DAS Ereignis: Heute 14:30 Wien kommt die US-Inflation für Oktober. Erwartet: Jahresrate 3,9% (von 3,7%), Kern 2,8% (von 2,6%); auf den Monat Kern +0,2% / Schlagzeile +0,3%. Faustregel für den Dollar: Kern bei +0,2% oder darunter → die Dezember-Zinserhöhung wird wieder unsicher (Wette rutscht unter 70%); +0,3% oder mehr → die Erhöhung ist fast sicher und der Dollar festigt sich. Das ist der Schiedsrichter für die Notenbank-Sitzung am 9. Dezember.",
+    "📈 Die Börsen haben sich kräftig erholt: Das Angst-Barometer ist erstmals seit dem Crash wieder unter 20 gefallen (von fast 28), Technologie-Aktien legten gestern stark zu. Risiko-Stimmung zurück heißt: etwas weniger Flucht in die sicheren Häfen Franken und Yen, etwas Rückenwind für Aussie und Kiwi — aber Gold bleibt trotzdem hoch (über 4.140$), die Angst sitzt noch tief.",
+    "🛢️ Öl stürzt weiter ab (US-Sorte rund 86$, auf Wochensicht etwa −10%), seit US-Präsident Trump neue Angriffe auf den Iran für sehr unwahrscheinlich erklärt hat. Billiges Öl drückt zusätzlich auf den kanadischen Dollar — zusammen mit den schwachen Jobzahlen von Freitag der klarste Einzel-Verlierer.",
+    "🗓️ Rest der Woche: Morgen (Mittwoch 11.11.) ruht der US-Anleihemarkt (Veteranen-Tag, dünner Handel). Donnerstag 12.11. kommt die britische Wirtschaftsleistung (3. Quartal, +0,7% erwartet), Freitag 13.11. die US-Erzeugerpreise (+0,4% erwartet). Dazwischen reden mehrere Notenbanker."
    ],
    "gestern": [
-    "🇺🇸 Der Dreh zum Wochenschluss (Freitag): Der US-Arbeitsmarkt kam überraschend STARK (+165.000 Stellen statt ~60.000, Arbeitslosigkeit fiel auf 4,1%, Löhne +0,4%). Das hält die Dezember-Zinserhöhung am Leben (Wette von ~66% wieder auf über 75% gestiegen) und trieb die US-Renditen hoch — genau deshalb ist die Inflation am Dienstag jetzt so brisant.",
-    "🌍 Die Angst-Woche davor (2.–6.11.): Ein Crash bei Technologie-Aktien (Nasdaq-100 rund −6,4%, Auslöser war die Sorge um schärfere Regeln für Rechenzentren nach dem Sieg der Demokraten bei den Zwischenwahlen) ließ das Angst-Barometer um rund 70% auf fast 28 springen. Geld floss in Gold und den Schweizer Franken. Wichtig: Der Dollar war diesmal NICHT der sichere Hafen (flach bei ~102).",
-    "🏦 Die Notenbanken liefen weiter auseinander: Australien erhöhte auf 4,85% (aber zögerlich, Aussie fiel), die Bank von England erstmals seit 2023 auf 4,00%. Die Euro-Inflation kam heiß (4,0% im Jahr, 3-Jahres-Hoch) und stützt den Euro trotz Rekord-Wetten gegen ihn. Kanadas Arbeitsmarkt dagegen schwach (−4.700 Stellen) — das plus billiges Öl belastet den kanadischen Dollar."
+    "🇺🇸 Montag war ein Erholungstag: Der breite US-Aktienindex sprang +2,35%, die Technologie-Börse +2,74% — der stärkste Tag seit dem Frühjahr. Chip-Werte wie AMD legten rund +9% zu (nur Nvidia hinkte wegen einer internen Untersuchung hinterher). Der Dollar gab gegen Euro und Yen leicht nach (Euro ~1,122, Yen ~158), weil Geld zurück in riskantere Anlagen floss.",
+    "🇨🇳 Chinas Inflation kam gestern herein: nur +0,2% im Jahr (leicht über der Null-Erwartung, aber weiter extrem schwach, weit unter dem 3%-Ziel). Zeigt vor allem: Chinas Nachfrage lahmt weiter — ein leiser Gegenwind für die Rohstoff-Währungen Aussie und Kiwi.",
+    "🏦 Rückblick Vorwoche: Freitags kam der US-Arbeitsmarkt überraschend STARK (+165.000 Stellen statt ~60.000) und hielt die Dezember-Zinserhöhung am Leben (Wette wieder über 75%). Davor hatte ein Technologie-Crash (Sorge um schärfere Rechenzentren-Regeln nach dem Demokraten-Sieg) das Angst-Barometer um ~70% nach oben gejagt — Gold und Franken profitierten, der Dollar war diesmal NICHT der sichere Hafen."
    ]
   }
  },
@@ -4958,7 +4958,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -2,
    "score": -1,
    "cotExtrem": "extrem",
-   "treiber": "Heiße Euro-Inflation (4,0%) + Rekord-Short-Wette (Squeeze-Gefahr nach oben) gegen einen Dollar, der in der Panik nicht als Hafen zog — aber heute von einem starken US-Jobmarkt gestützt wurde. Darum nur leicht positiv.",
+   "treiber": "Euro-Rekord-Shorts = Squeeze-Pulver gegen flachen Dollar; Inflation heute = Wildcard.",
    "istCross": false
   },
   {
@@ -4969,29 +4969,29 @@ window.MAKRO_DATA = {
    "tiltGesamt": -8,
    "score": -8,
    "cotExtrem": null,
-   "treiber": "Die Erhöhung der Bank von England auf 4,00% stützt leicht, aber der Folge-Ausblick wirkt zu hawkish eingepreist und der starke US-Jobbericht hält dagegen. Bewusst neutral.",
+   "treiber": "Beide neutral — BoE-Erhöhung durch, Dollar wartet auf die Inflation.",
    "istCross": false
   },
   {
    "paar": "USD/JPY",
-   "baseScore": -1,
+   "baseScore": 0,
    "tiltCot": -5,
    "tiltZins": 3,
    "tiltGesamt": -2,
-   "score": -3,
+   "score": -2,
    "cotExtrem": "erhoeht",
-   "treiber": "In der Börsen-Panik bekommt der Yen als Hafen etwas Zufluss → Paar leicht nach unten. Gedeckelt durch die überfüllte Yen-Long-Wette (Rückschlag-Risiko) und den starken US-Jobmarkt. Track-Record dieses Paars schwach → bewusst klein.",
+   "treiber": "Hafen-Bid des Yen bröckelt mit der Erholung, aber überfüllte Yen-Longs = Rückschlag-Risiko.",
    "istCross": false
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -2,
+   "baseScore": -1,
    "tiltCot": -2,
    "tiltZins": -4,
    "tiltGesamt": -6,
-   "score": -8,
+   "score": -7,
    "cotExtrem": "extrem",
-   "treiber": "Die Börsen-Panik hämmert den Aussie als Risiko-Währung, die 'zögerliche' Zinserhöhung gab keinen Gegen-Rückenwind. Die extreme Short-Lage bremst den Rückschlag etwas.",
+   "treiber": "Risiko-Stimmung hebt den Aussie, Chinas Flaute bremst — knapp unter null.",
    "istCross": false
   },
   {
@@ -5002,29 +5002,29 @@ window.MAKRO_DATA = {
    "tiltGesamt": 6,
    "score": 9,
    "cotExtrem": null,
-   "treiber": "Fester Dollar (starker Jobbericht) gegen einen Loonie mit doppeltem Gegenwind: schwacher kanadischer Arbeitsmarkt (−4.700, Quote 6,7%) UND gefallenes Öl (~90$). Klarste Pro-Dollar-Story der Woche.",
+   "treiber": "Öl-Absturz + schwache Jobs machen den Loonie zum klarsten Verlierer.",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
-   "baseScore": -4,
+   "baseScore": -1,
    "tiltCot": 3,
    "tiltZins": -1,
    "tiltGesamt": 2,
-   "score": -2,
+   "score": 1,
    "cotExtrem": null,
-   "treiber": "Der Franken ist der klare Gewinner der Börsen-Panik (Hafen-Zufluss, nicht überfüllt gewettet) — stärker als der flache Dollar. Stärkstes Signal der Woche mit benennbarem Grund; Risiko ist eine schnelle Börsen-Beruhigung.",
+   "treiber": "Franken-Hafen-Prämie bröckelt mit der Börsen-Erholung — deutlich weniger negativ als letzte Woche.",
    "istCross": false
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -3,
+   "baseScore": -1,
    "tiltCot": -2,
    "tiltZins": 4,
    "tiltGesamt": 2,
-   "score": -1,
+   "score": 1,
    "cotExtrem": "extrem",
-   "treiber": "Schwacher Kiwi (Arbeitslosigkeit 5,7%, weitere Zinserhöhungen fraglich) plus Börsen-Panik gegen einen von starken Jobs gestützten Dollar; gebremst von der extremen Short-Lage.",
+   "treiber": "Risiko-Rückenwind + steigender Kiwi-Zins gegen schwache Jobs und Chinas Nachfrage.",
    "istCross": false
   },
   {
@@ -5040,11 +5040,11 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": 0,
+   "baseScore": 1,
    "tiltCot": -2,
    "tiltZins": 3,
    "tiltGesamt": 1,
-   "score": 1,
+   "score": 2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -5062,18 +5062,18 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": -1,
+   "baseScore": 0,
    "tiltCot": -1,
    "tiltZins": 0,
    "tiltGesamt": -1,
-   "score": -2,
+   "score": -1,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-10T01:23:22.268Z",
+  "stand": "2026-11-10T06:15:12.468Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 84,
   "gewertet": 38,

@@ -114,7 +114,7 @@
     "country": "CNY",
     "title": "Industrial Production YoY",
     "impact": "High",
-    "forecast": "5.2%",
+    "forecast": "5.3%",
     "previous": "5.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -415,7 +415,7 @@
     "title": "USDA Corn Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "905.267",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -425,7 +425,7 @@
     "title": "USDA Soybean Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1896.151",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -435,7 +435,7 @@
     "title": "USDA Wheat Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "248.536",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -760,22 +760,22 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-11-17T12:15:00.000Z",
-    "country": "USD",
-    "title": "ADP Employment Change Weekly",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
     "date": "2026-11-17T13:15:00.000Z",
     "country": "CAD",
     "title": "Housing Starts",
     "impact": "Medium",
     "forecast": "",
     "previous": "248.9",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-17T13:15:00.000Z",
+    "country": "USD",
+    "title": "ADP Employment Change Weekly",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -854,7 +854,7 @@
     "country": "USD",
     "title": "Retail Sales Ex Autos MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -864,7 +864,7 @@
     "country": "USD",
     "title": "Retail Sales MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0%",
     "previous": "0.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -914,7 +914,7 @@
     "country": "USD",
     "title": "Capacity Utilization",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "76.8%",
     "previous": "76.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -934,7 +934,7 @@
     "country": "USD",
     "title": "Industrial Production MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.1%",
     "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -1334,7 +1334,7 @@
     "country": "EUR",
     "title": "Inflation Rate MoM Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.6%",
     "previous": "0.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -1344,7 +1344,7 @@
     "country": "EUR",
     "title": "Inflation Rate YoY Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "4%",
     "previous": "3.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -1504,7 +1504,7 @@
     "country": "USD",
     "title": "Housing Starts",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.23",
     "previous": "1.221",
     "actual": null,
     "quelle": "tradingview"

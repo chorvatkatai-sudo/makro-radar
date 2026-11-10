@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-10T06:15:12.453Z",
+  "stand": "2026-11-10T06:17:54.714Z",
   "ausBriefing": "2026-11-06",
   "overlayAktiv": true,
   "paare": [
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": -1,
       "tiltCot": -2,
-      "tiltZins": -4,
-      "tiltGesamt": -6,
-      "score": -7,
+      "tiltZins": -3,
+      "tiltGesamt": -5,
+      "score": -6,
       "cotExtrem": "extrem",
       "treiber": "Risiko-Stimmung hebt den Aussie, Chinas Flaute bremst — knapp unter null.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 3,
       "tiltCot": 2,
-      "tiltZins": 4,
-      "tiltGesamt": 6,
-      "score": 9,
+      "tiltZins": 5,
+      "tiltGesamt": 7,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Öl-Absturz + schwache Jobs machen den Loonie zum klarsten Verlierer.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": -1,
       "tiltCot": 3,
-      "tiltZins": -1,
-      "tiltGesamt": 2,
-      "score": 1,
+      "tiltZins": 0,
+      "tiltGesamt": 3,
+      "score": 2,
       "cotExtrem": null,
       "treiber": "Franken-Hafen-Prämie bröckelt mit der Börsen-Erholung — deutlich weniger negativ als letzte Woche.",
       "istCross": false
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -1,
       "tiltCot": -2,
-      "tiltZins": 4,
-      "tiltGesamt": 2,
-      "score": 1,
+      "tiltZins": 3,
+      "tiltGesamt": 1,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "Risiko-Rückenwind + steigender Kiwi-Zins gegen schwache Jobs und Chinas Nachfrage.",
       "istCross": false

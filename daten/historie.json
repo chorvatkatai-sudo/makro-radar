@@ -22710,6 +22710,26 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-09T21:32:00-05:00|CNY|USD-Denominated Trade Balance": {
+      "datum": "2026-11-09T21:32:00-05:00",
+      "land": "CNY",
+      "titel": "USD-Denominated Trade Balance",
+      "impact": "Low",
+      "prognose": "126.5B",
+      "vorher": "133.5B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-09T21:33:00-05:00|CNY|Trade Balance": {
+      "datum": "2026-11-09T21:33:00-05:00",
+      "land": "CNY",
+      "titel": "Trade Balance",
+      "impact": "Low",
+      "prognose": "855B",
+      "vorher": "906B",
+      "actual": null,
+      "notiz": null
     }
   }
 }

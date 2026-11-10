@@ -2575,7 +2575,7 @@
     "title": "Inflation Rate MoM",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2595,7 +2595,7 @@
     "title": "CPI Index",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "102.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2615,7 +2615,7 @@
     "title": "Inflation Rate ex All Food and Energy YoY",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "2.1%",
     "actual": null,
     "quelle": "tradingview"
   },

@@ -21826,7 +21826,7 @@
       "land": "CNY",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "859B",
+      "prognose": "855B",
       "vorher": "906B",
       "actual": null,
       "notiz": null
@@ -21856,7 +21856,7 @@
       "land": "JPY",
       "titel": "Economy Watchers Sentiment",
       "impact": "Low",
-      "prognose": "46.9",
+      "prognose": "47.1",
       "vorher": "47.0",
       "actual": null,
       "notiz": null
@@ -21886,7 +21886,7 @@
       "land": "USD",
       "titel": "NFIB Small Business Index",
       "impact": "Low",
-      "prognose": "97.7",
+      "prognose": "98.0",
       "vorher": "97.9",
       "actual": null,
       "notiz": null
@@ -22166,7 +22166,7 @@
       "land": "GBP",
       "titel": "RICS House Price Balance",
       "impact": "Low",
-      "prognose": "-32%",
+      "prognose": "-33%",
       "vorher": "-32%",
       "actual": null,
       "notiz": null
@@ -22246,7 +22246,7 @@
       "land": "GBP",
       "titel": "Prelim Business Investment q/q",
       "impact": "Low",
-      "prognose": "-0.3%",
+      "prognose": "0.4%",
       "vorher": "1.7%",
       "actual": null,
       "notiz": null
@@ -22276,7 +22276,7 @@
       "land": "CAD",
       "titel": "Building Permits m/m",
       "impact": "Low",
-      "prognose": "-3.9%",
+      "prognose": "-4.0%",
       "vorher": "8.8%",
       "actual": null,
       "notiz": null
@@ -22306,7 +22306,7 @@
       "land": "USD",
       "titel": "Existing Home Sales",
       "impact": "Low",
-      "prognose": "3.86M",
+      "prognose": "3.89M",
       "vorher": "3.99M",
       "actual": null,
       "notiz": null
@@ -22396,7 +22396,7 @@
       "land": "USD",
       "titel": "Federal Budget Balance",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-286.3B",
       "vorher": "-26.9B",
       "actual": null,
       "notiz": null
@@ -22466,7 +22466,7 @@
       "land": "EUR",
       "titel": "Italian Trade Balance",
       "impact": "Low",
-      "prognose": "1.85B",
+      "prognose": "2.84B",
       "vorher": "1.77B",
       "actual": null,
       "notiz": null
@@ -22616,7 +22616,7 @@
       "land": "CNY",
       "titel": "M2 Money Supply y/y",
       "impact": "Low",
-      "prognose": "7.3%",
+      "prognose": "7.2%",
       "vorher": "7.2%",
       "actual": null,
       "notiz": null
@@ -22628,6 +22628,86 @@
       "impact": "Low",
       "prognose": "80B",
       "vorher": "1080B",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-09T04:45:00-05:00|All|G7 Meetings": {
+      "datum": "2026-11-09T04:45:00-05:00",
+      "land": "All",
+      "titel": "G7 Meetings",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-10T04:45:00-05:00|All|G7 Meetings": {
+      "datum": "2026-11-10T04:45:00-05:00",
+      "land": "All",
+      "titel": "G7 Meetings",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-11T03:15:00-05:00|EUR|German Buba President Nagel Speaks": {
+      "datum": "2026-11-11T03:15:00-05:00",
+      "land": "EUR",
+      "titel": "German Buba President Nagel Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-11T04:45:00-05:00|EUR|ECB President Lagarde Speaks": {
+      "datum": "2026-11-11T04:45:00-05:00",
+      "land": "EUR",
+      "titel": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-12T08:30:00-05:00|USD|FOMC Member Hammack Speaks": {
+      "datum": "2026-11-12T08:30:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Member Hammack Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-12T11:15:00-05:00|USD|FOMC Member Goolsbee Speaks": {
+      "datum": "2026-11-12T11:15:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-12T12:30:00-05:00|EUR|German Buba President Nagel Speaks": {
+      "datum": "2026-11-12T12:30:00-05:00",
+      "land": "EUR",
+      "titel": "German Buba President Nagel Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-13T11:00:00-05:00|EUR|German Buba President Nagel Speaks": {
+      "datum": "2026-11-13T11:00:00-05:00",
+      "land": "EUR",
+      "titel": "German Buba President Nagel Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

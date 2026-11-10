@@ -1,11 +1,71 @@
 {
-  "stand": "2026-11-09T13:31:54.729Z",
+  "stand": "2026-11-10T01:23:22.260Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "UK retail sales rise 1.5%, best since June, but fuel costs and Budget caution weigh",
+      "link": "https://investinglive.com/news/uk-retail-sales-rise-1-5-best-since-june-but-fuel-costs-and-budget-caution-weigh-0/",
+      "datum": "2026-11-10T00:40:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia business conditions hit six-year low as forward orders slide: NAB",
+      "link": "https://investinglive.com/news/australia-business-conditions-hit-six-year-low-as-forward-orders-slide-nab/",
+      "datum": "2026-11-10T00:35:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan household spending plunges 6.8%, 10th straight drop, as BoJ weighs December hike",
+      "link": "https://investinglive.com/news/japan-household-spending-plunges-6-8-10th-straight-drop-as-boj-weighs-december-hike/",
+      "datum": "2026-11-09T23:53:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US CPI preview: 43-day shutdown leaves no official annual rate as monthly pace seen easing",
+      "link": "https://investinglive.com/news/us-cpi-preview-43-day-shutdown-leaves-no-official-annual-rate-as-monthly-pace-seen-easing/",
+      "datum": "2026-11-09T23:39:18.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Iran optimism and tech rebound leads to risk surge",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-iran-optimism-and-tech-rebound-leads-to-risk-surge/",
+      "datum": "2026-11-09T21:03:57.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "datum": "2026-11-09T21:00:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Anthropic unveils Fable 5.2 and Mythos 5.2 models ahead of IPO",
+      "link": "https://investinglive.com/news/anthropic-unveils-fable-5-2-and-mythos-5-2-models-ahead-of-ipo/",
+      "datum": "2026-11-09T19:11:32.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "U.S. Treasury sells $58 billion of 3 year notes at a high yield of 4.627%",
+      "link": "https://investinglive.com/news/u-s-treasury-sells-58-billion-of-3-year-notes-at-a-high-yield-of-4-627/",
+      "datum": "2026-11-09T18:13:36.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "NY Fed October survey shows 1, 3 and 5 year inflation expectations unchanged",
+      "link": "https://investinglive.com/news/ny-fed-october-survey-shows-1-3-and-5-year-inflation-expectations-unchanged/",
+      "datum": "2026-11-09T16:12:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US September wholesale inventories +0.7% vs +0.6% expected",
+      "link": "https://investinglive.com/news/us-september-wholesale-inventories-0-7-vs-0-6-expected/",
+      "datum": "2026-11-09T15:05:01.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive European news wrap: Markets await fresh US-Iran developments, US CPI data",
@@ -23,60 +83,6 @@
       "titel": "Eurozone Sentix investor confidence weakens further in November as global growth momentum fades",
       "link": "https://investinglive.com/news/eurozone-sentix-investor-confidence-weakens-further-in-november-as-global-growth-momentum-fades/",
       "datum": "2026-11-09T09:54:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-81/",
-      "datum": "2026-11-09T07:16:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-shrugs-off-nvidia-scandal-oil-steadies/",
-      "datum": "2026-11-09T04:19:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
-      "link": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/",
-      "datum": "2026-11-09T01:32:17.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
-      "link": "https://investinglive.com/news/trump-eyes-xi-putin-meeting-at-apec-on-iran-war-says-he-d-certainly-take-huang/",
-      "datum": "2026-11-08T23:56:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
-      "link": "https://investinglive.com/news/china-october-inflation-preview-cpi-seen-near-0-8-ppi-above-5/",
-      "datum": "2026-11-08T23:07:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/",
-      "datum": "2026-11-06T21:52:39.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Equity close: Decent rebound or a dead-cat bounce",
-      "link": "https://investinglive.com/news/equity-close-decent-rebound-or-a-dead-cat-bounce/",
-      "datum": "2026-11-06T21:08:42.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: We are talking to Iran, we are doing very well with Iran",
-      "link": "https://investinglive.com/news/trump-we-are-talking-to-iran-we-are-doing-very-well-with-iran/",
-      "datum": "2026-11-06T20:02:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump chief of staff Susie Wiles to be replaced by Stephen Miller",
-      "link": "https://investinglive.com/news/trump-chief-of-staff-susie-wiles-to-be-replaced-by-stephen-miller/",
-      "datum": "2026-11-06T19:00:41.000Z"
     },
     {
       "quelle": "Fed",
@@ -107,12 +113,6 @@
       "titel": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
       "datum": "2026-10-13T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "datum": "2026-10-09T14:00:00.000Z"
     }
   ]
 }

@@ -21618,7 +21618,7 @@
       "impact": "Low",
       "prognose": "0.8%",
       "vorher": "0.9%",
-      "actual": null,
+      "actual": "0.7%",
       "notiz": null
     },
     "2026-11-08T20:30:00-05:00|CNY|PPI y/y": {
@@ -21628,7 +21628,7 @@
       "impact": "Low",
       "prognose": "5.3%",
       "vorher": "5.0%",
-      "actual": null,
+      "actual": "5.7%",
       "notiz": null
     },
     "2026-11-09T00:00:00-05:00|JPY|Leading Indicators": {
@@ -21938,7 +21938,7 @@
       "impact": "High",
       "prognose": "0.2%",
       "vorher": "0.3%",
-      "actual": null,
+      "actual": "0.3%",
       "notiz": null
     },
     "2026-11-10T08:30:00-05:00|USD|CPI m/m": {
@@ -21948,7 +21948,7 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "0.6%",
-      "actual": null,
+      "actual": "0.4%",
       "notiz": null
     },
     "2026-11-10T10:50:00-05:00|USD|FOMC Member Logan Speaks": {

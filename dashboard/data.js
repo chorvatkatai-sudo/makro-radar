@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-11T06:12:42.556Z",
+ "erstellt": "2026-11-11T06:18:32.378Z",
  "wochenStart": "2026-11-08",
  "events": [
   {
@@ -700,7 +700,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-11-12T12:00:00-05:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-0.6M",
    "previous": "-0.9M",
    "actual": null
   },
@@ -745,7 +745,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-11-12T14:00:00-05:00",
    "impact": "Low",
-   "forecast": "-286.3B",
+   "forecast": "-298.6B",
    "previous": "-26.9B",
    "actual": null
   },
@@ -894,11 +894,20 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
+   "title": "FOMC Member Logan Speaks",
+   "country": "USD",
+   "date": "2026-11-13T09:40:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
    "title": "Natural Gas Storage",
    "country": "USD",
    "date": "2026-11-13T10:30:00-05:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "65B",
    "previous": "77B",
    "actual": null
   },
@@ -4481,15 +4490,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-11T01:47:27.038Z",
+  "stand": "2026-11-11T06:18:31.273Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 102.25,
+    "wert": 102.31,
     "tagProzent": 0,
-    "wocheProzent": 0.69,
+    "wocheProzent": 0.75,
     "renditeDelta": false,
     "verlauf": [
      102.55,
@@ -4512,8 +4521,8 @@ window.MAKRO_DATA = {
      102.3,
      101.65,
      102.23,
-     102.25,
-     102.25
+     102.31,
+     102.31
     ]
    },
    "VIX": {
@@ -4553,12 +4562,11 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 86.27,
+    "wert": 86.68,
     "tagProzent": 0,
-    "wocheProzent": -2.1,
+    "wocheProzent": -4.24,
     "renditeDelta": false,
     "verlauf": [
-     94.14,
      95.09,
      97.97,
      101.41,
@@ -4578,20 +4586,20 @@ window.MAKRO_DATA = {
      90.52,
      90.83,
      86.85,
-     86.27,
-     86.27
+     86.04,
+     86.68,
+     86.68
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 91.89,
+    "wert": 92.51,
     "tagProzent": 0,
-    "wocheProzent": -2.89,
+    "wocheProzent": -5.88,
     "renditeDelta": false,
     "verlauf": [
-     105.69,
      106.06,
      105.92,
      109.86,
@@ -4611,20 +4619,20 @@ window.MAKRO_DATA = {
      98.29,
      98.32,
      92.57,
-     91.89,
-     91.89
+     91.49,
+     92.51,
+     92.51
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 4054.7,
+    "wert": 4064.9,
     "tagProzent": 0,
-    "wocheProzent": -0.45,
+    "wocheProzent": -1.18,
     "renditeDelta": false,
     "verlauf": [
-     4177.3,
      4107.9,
      4170.1,
      4181.1,
@@ -4644,8 +4652,9 @@ window.MAKRO_DATA = {
      4113.5,
      4074.9,
      4114.5,
-     4054.7,
-     4054.7
+     4030.2,
+     4064.9,
+     4064.9
     ]
    },
    "US02Y": {
@@ -4751,9 +4760,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 73681.25,
+    "wert": 73781.92,
     "tagProzent": 0,
-    "wocheProzent": -2.73,
+    "wocheProzent": -2.59,
     "renditeDelta": false,
     "verlauf": [
      84011.97,
@@ -4776,8 +4785,8 @@ window.MAKRO_DATA = {
      75747.58,
      74584.65,
      75223.15,
-     73681.25,
-     73681.25
+     73781.92,
+     73781.92
     ]
    },
    "FEDFUT": {
@@ -4792,13 +4801,13 @@ window.MAKRO_DATA = {
      3.89,
      3.89,
      3.89,
-     3.89,
      3.88,
      3.89,
      3.89,
      3.88,
      3.88,
      3.89,
+     3.88,
      3.88,
      3.88,
      3.88,
@@ -4921,12 +4930,12 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.008
     },
     "JPY": {
-     "wert": 1.853,
-     "wocheDelta": -0.023
+     "wert": 1.855,
+     "wocheDelta": -0.021
     },
     "AUD": {
-     "wert": 4.867,
-     "wocheDelta": -0.065
+     "wert": 4.868,
+     "wocheDelta": -0.064
     },
     "CAD": {
      "wert": 3.251,
@@ -4937,8 +4946,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.061
     },
     "NZD": {
-     "wert": 3.858,
-     "wocheDelta": 0.11
+     "wert": 3.875,
+     "wocheDelta": 0.127
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -5021,9 +5030,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -3,
    "tiltCot": -2,
-   "tiltZins": -2,
-   "tiltGesamt": -4,
-   "score": -7,
+   "tiltZins": 0,
+   "tiltGesamt": -2,
+   "score": -5,
    "cotExtrem": "extrem",
    "treiber": "Fester Dollar + Chinas Flaute; steigender Kiwi-Zins und extreme Shorts dämpfen.",
    "istCross": false
@@ -5054,9 +5063,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 0,
    "tiltCot": 1,
-   "tiltZins": -7,
-   "tiltGesamt": -6,
-   "score": -6,
+   "tiltZins": -8,
+   "tiltGesamt": -7,
+   "score": -7,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -5074,7 +5083,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-11T06:12:42.555Z",
+  "stand": "2026-11-11T06:18:31.603Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 84,
   "gewertet": 39,
@@ -5190,7 +5199,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-11T01:47:28.328Z",
+  "stand": "2026-11-11T06:18:32.377Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -5429,13 +5438,19 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-11T01:47:27.683Z",
+  "stand": "2026-11-11T06:18:31.590Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, oil firms",
+    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/",
+    "datum": "2026-11-11T04:31:11.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bite harder",
@@ -5501,12 +5516,6 @@ window.MAKRO_DATA = {
     "titel": "US CPI takes centre stage as markets look to steady the ship after the midterm selloff",
     "link": "https://investinglive.com/news/us-cpi-takes-centre-stage-as-markets-look-to-steady-the-ship-after-the-midterm-selloff/",
     "datum": "2026-11-10T04:29:41.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Asia-Pacific market news: AI rebound rolls on, oil slips",
-    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-ai-rebound-rolls-on-oil-slips/",
-    "datum": "2026-11-10T04:29:35.000Z"
    },
    {
     "quelle": "Fed",
@@ -6796,5 +6805,5 @@ window.MAKRO_DATA = {
    "notiz": "auto:FRED WPSFD49116 (Ref 2026-08-01)"
   }
  ],
- "anzahlGespeichert": 2277
+ "anzahlGespeichert": 2278
 };

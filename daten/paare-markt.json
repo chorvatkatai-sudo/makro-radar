@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-11T06:12:42.541Z",
+  "stand": "2026-11-11T06:18:31.593Z",
   "ausBriefing": "2026-11-06",
   "overlayAktiv": true,
   "paare": [
@@ -73,9 +73,9 @@
       "paar": "NZD/USD",
       "baseScore": -3,
       "tiltCot": -2,
-      "tiltZins": -2,
-      "tiltGesamt": -4,
-      "score": -7,
+      "tiltZins": 0,
+      "tiltGesamt": -2,
+      "score": -5,
       "cotExtrem": "extrem",
       "treiber": "Fester Dollar + Chinas Flaute; steigender Kiwi-Zins und extreme Shorts dämpfen.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 0,
       "tiltCot": 1,
-      "tiltZins": -7,
-      "tiltGesamt": -6,
-      "score": -6,
+      "tiltZins": -8,
+      "tiltGesamt": -7,
+      "score": -7,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

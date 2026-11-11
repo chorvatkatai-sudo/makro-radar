@@ -1,11 +1,17 @@
 {
-  "stand": "2026-11-11T01:47:27.683Z",
+  "stand": "2026-11-11T06:18:31.590Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, oil firms",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/",
+      "datum": "2026-11-11T04:31:11.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bite harder",
@@ -71,12 +77,6 @@
       "titel": "US CPI takes centre stage as markets look to steady the ship after the midterm selloff",
       "link": "https://investinglive.com/news/us-cpi-takes-centre-stage-as-markets-look-to-steady-the-ship-after-the-midterm-selloff/",
       "datum": "2026-11-10T04:29:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: AI rebound rolls on, oil slips",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-ai-rebound-rolls-on-oil-slips/",
-      "datum": "2026-11-10T04:29:35.000Z"
     },
     {
       "quelle": "Fed",

@@ -22780,6 +22780,36 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-11T05:35:00-05:00|EUR|German 30-y Bond Auction": {
+      "datum": "2026-11-11T05:35:00-05:00",
+      "land": "EUR",
+      "titel": "German 30-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.80|1.4",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-12T04:03:00-05:00|CNY|M2 Money Supply y/y": {
+      "datum": "2026-11-12T04:03:00-05:00",
+      "land": "CNY",
+      "titel": "M2 Money Supply y/y",
+      "impact": "Low",
+      "prognose": "7.2%",
+      "vorher": "7.2%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-12T04:03:00-05:00|CNY|New Loans": {
+      "datum": "2026-11-12T04:03:00-05:00",
+      "land": "CNY",
+      "titel": "New Loans",
+      "impact": "Low",
+      "prognose": "80B",
+      "vorher": "1080B",
+      "actual": null,
+      "notiz": null
     }
   }
 }

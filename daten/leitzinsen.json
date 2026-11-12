@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-11-06",
+  "stand": "2026-11-12",
   "zinsen": [
     {
       "code": "AUD",
@@ -14,7 +14,7 @@
     {
       "code": "GBP",
       "bank": "BOE",
-      "satz": 4.00,
+      "satz": 4,
       "anzeige": "4,00%",
       "naechste": "Do 17.12.2026",
       "erwartung": "Stand 6.11.: Die Bank von England erhöhte am 5.11. wie erwartet auf 4,00% (erste Erhöhung seit 2023; Auslöser war die auf 3,5% gesprungene Inflation). Entscheidend bleibt der Ausblick: Der Markt hatte für die Folgemonate rund vier weitere Erhöhungen eingepreist — das wirkt zu viel; ein vorsichtiger Ton würde das Pfund dämpfen.",
@@ -25,8 +25,8 @@
       "bank": "Fed",
       "satz": 3.875,
       "anzeige": "3,75–4,00%",
-      "naechste": "9.12.2026 (Erhöhung ~70–80% eingepreist)",
-      "erwartung": "Stand 6.11.: Gehalten bei 3,75–4,00% (28.10., falkenhafter Chef Warsh, kein klarer Dezember-Ausblick). Die Dezember-Erhöhungswette fuhr Achterbahn: Nach den US-Zwischenwahlen (Demokraten gewinnen beide Kammern) stieg sie auf ~80%, fiel dann in der Technologie-Aktien-Panik auf ~66% (Flucht in Anleihen drückte die Renditen), und zog nach dem heute überraschend starken Arbeitsmarktbericht (+165.000 Stellen statt ~60.000, Quote fiel auf 4,1%, Löhne +0,4%) wieder an. Fazit: Der Arbeitsmarkt bricht NICHT, das hält die Dezember-Erhöhung am Leben — aber die Börsen-Panik überlagert gerade alles.",
+      "naechste": "9.12.2026 (Erhöhung ~100% eingepreist: ~85% kleiner Schritt + ~15% doppelt)",
+      "erwartung": "Stand 12.11.: Gehalten bei 3,75–4,00% (28.10.). Die heiße US-Inflation vom 10.11. (Kernrate +0,3% zum Vormonat, dritten Monat in Folge; Gesamtrate +0,4%) hat die Dezember-Erhöhung praktisch zementiert — rund 85% für einen kleinen Schritt (0,25 Pp), rund 15% sogar für einen doppelten (0,50 Pp). Notenbanker Waller hatte genau eine Kernrate um 0,3% als Auslöser für den größeren Schritt genannt. Der Arbeitsmarkt bricht nicht (NFP +165k am 6.11.), die Inflation klebt oben — beides stützt die Erhöhung.",
       "richtung": "rauf"
     },
     {

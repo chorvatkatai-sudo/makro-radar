@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-11T12:20:26.207Z",
+ "erstellt": "2026-11-12T06:11:25.709Z",
  "wochenStart": "2026-11-08",
  "events": [
   {
@@ -3879,21 +3879,21 @@ window.MAKRO_DATA = {
     "grund": "Fester Dollar + Chinas milde Verbrauchernachfrage bremsen die Rohstoff-Währung; die extremen Short-Wetten (Squeeze-Risiko) dämpfen den Rückgang."
    },
    "NZD": {
-    "stimmung": "bärisch",
-    "score": -2,
-    "grund": "Fester Dollar + Chinas Flaute + schwacher Arbeitsmarkt; dagegen stützen ein steigender 2-Jahres-Zins und extreme Short-Wetten (Squeeze-Risiko)."
+    "stimmung": "neutral",
+    "score": -1,
+    "grund": "Fester Dollar + Chinas Flaute belasten, ABER der neuseeländische Zins stieg diese Woche am zweitstärksten und die Wetten gegen den Kiwi sind extrem (Squeeze-Gefahr) — beides bremst den Rückgang, daher nur knapp negativ."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
     "score": -2,
-    "treiber": "Fester Dollar nach heißer US-Inflation drückt — die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab, daher am wenigsten negativ."
+    "treiber": "Fester Dollar (heiße US-Inflation + US-Zins stieg am stärksten) drückt; die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab, daher nur leicht negativ."
    },
    {
     "paar": "GBP/USD",
     "score": -3,
-    "treiber": "Dollar fest, Pfund wartet auf das britische Wachstum morgen; Zinserhöhung bereits verdaut."
+    "treiber": "Fester Dollar drückt; das britische Wachstum HEUTE ist der Schwung-Geber — eine starke Zahl könnte das Pfund vom Dollar-Block lösen."
    },
    {
     "paar": "USD/JPY",
@@ -3917,8 +3917,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "NZD/USD",
-    "score": -3,
-    "treiber": "Fester Dollar + Chinas Flaute; steigender Kiwi-Zins und extreme Shorts dämpfen."
+    "score": -2,
+    "treiber": "Fester Dollar nach heißer US-Inflation drückt, aber steigender Kiwi-Zins (zweitstärkster Anstieg der Woche) und extreme Shorts (Squeeze-Pulver) bremsen — am wenigsten negativ der Dollar-Paare."
    }
   ],
   "wochenausblick": {
@@ -4008,20 +4008,21 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (Stand im Dashboard): wochenWette 9/18 = 50%, Konzentration 87%, Zufallsband [5,13] → weiter NICHT von einem Münzwurf unterscheidbar; overlayVergleich seit 22.7. neutral. Beste Paare zuletzt NZD/USD, GBP/USD, AUD/USD; schlechteste EUR/JPY, EUR/USD, USD/JPY. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5), nur der Franken etwas größer mit dem konkreten Panik-/Hafen-Grund."
   ],
   "tagesnews": {
-   "stand": "2026-11-11",
-   "wochentag": "Mittwoch",
-   "tenor": "Die US-Inflation kam gestern heißer als erwartet — eine Zinserhöhung im Dezember gilt jetzt als fast sicher und der Dollar zog gegen alle Währungen an; heute ruht der US-Markt (Feiertag).",
+   "stand": "2026-11-12",
+   "wochentag": "Donnerstag",
+   "tenor": "Die heiße US-Inflation hält den Dollar fest und macht eine US-Zinserhöhung im Dezember fast sicher; heute kommt das britische Wachstum — und die Börsen-Panik der Vorwoche hat sich gelegt.",
    "heute": [
-    "🇺🇸 Feiertag in den USA (Veterans Day): Der Anleihemarkt ist zu, der Handel dünn, keine großen US-Zahlen heute.",
-    "💵 Nachwirkung der heißen Inflation: Der Dollar bleibt fest (Dollar-Index ~102,3, +0,7% auf die Woche), die US-Zinsen sind höher (10 Jahre nahe 5%), Gold hält trotz Rückgang über 4.000 Dollar.",
-    "🛢️ Öl etwas billiger (rund 86 Dollar) — Hoffnung auf einen Iran-Friedensdeal deckelt den Dollar ein wenig und stützt zugleich Gold.",
-    "📅 Morgen das britische Wachstum (3. Quartal) als Pfund-Test, übermorgen die US-Erzeugerpreise."
+    "🇬🇧 Britisches Wirtschaftswachstum fürs Sommerquartal (8:00 Wien) — erwartet wird ein solides Plus; eine starke Zahl stützt das Pfund, eine schwache belastet es.",
+    "🇺🇸 Der US-Anleihemarkt öffnet nach dem Feiertag wieder; am Nachmittag Verkäufe bestehender Häuser.",
+    "💵 Der Dollar hält seine Gewinne nach der heißen Inflation (Dollar-Index ~102,5, +1% auf die Woche). Die Frage ist nur noch: erhöht die Notenbank im Dezember 0,25 oder sogar 0,50 Prozentpunkte?",
+    "📉 Die Angst der Vorwoche ist raus: Die Börsen haben sich beruhigt (die Schwankungs-Angst fiel um ein Drittel), Gold (~4.050 Dollar) und Franken verlieren ihren Hafen-Aufschlag wieder."
    ],
    "gestern": [
-    "🇺🇸 US-Verbraucherpreise Oktober HEISS: +0,4% zum Vormonat (erwartet ~0,3%), Kernrate +0,3% (erwartet 0,2%) — breiter Preisdruck, Benzin und Lebensmittel teurer.",
-    "🏦 Folge: Eine Zinserhöhung der US-Notenbank im Dezember ist jetzt mit rund 89% eingepreist; ein doppelter Schritt (0,50%) ist sogar wieder im Gespräch (Notenbanker Waller: ab einer Kernrate von 0,3% erwägen — und genau das kam).",
-    "💱 Der Dollar legte gegen ALLE großen Währungen zu, die Anleiherenditen stiegen, Gold fiel rund 2% (hält aber über 4.000 Dollar).",
-    "🇨🇳 China: Verbraucherpreise mild (+0,7%, leicht unter Erwartung), aber die Fabrik-Preise sprangen (+5,7%, stärkster Anstieg seit rund 4,5 Jahren, vom teuren Öl getrieben); der Handelsüberschuss schrumpfte."
+    "🇺🇸 Dienstag: US-Verbraucherpreise kamen HEISS — Kernrate +0,3% zum Vormonat (erwartet +0,2%), Gesamtrate +0,4%; die Kernrate klebt den dritten Monat in Folge bei 0,3%.",
+    "🏦 Damit gilt eine US-Zinserhöhung am 9. Dezember als praktisch sicher: rund 85% für einen kleinen Schritt, rund 15% sogar für einen doppelt so großen. Notenbanker Waller hatte genau diese Schwelle (Kernrate 0,3%) als Auslöser genannt.",
+    "💱 Die Zins-Erwartungen drehten klar PRO Dollar: Die US-Zweijahresrendite stieg diese Woche am stärksten von allen Währungen — das genaue Gegenteil der Vorwoche.",
+    "🇺🇸 Mittwoch: US-Markt wegen Feiertag (Veterans Day) geschlossen — dünner Handel, keine neuen Impulse.",
+    "⚠️ Rekord-Wetten gegen den Euro (die größte je gemessene) und extreme Wetten gegen Aussie und Kiwi liegen im Markt — dreht die Stimmung, kann es dort schnell nach oben schnappen."
    ]
   }
  },
@@ -4413,7 +4414,7 @@ window.MAKRO_DATA = {
  },
  "leitzinsen": {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-11-06",
+  "stand": "2026-11-12",
   "zinsen": [
    {
     "code": "AUD",
@@ -4438,8 +4439,8 @@ window.MAKRO_DATA = {
     "bank": "Fed",
     "satz": 3.875,
     "anzeige": "3,75–4,00%",
-    "naechste": "9.12.2026 (Erhöhung ~70–80% eingepreist)",
-    "erwartung": "Stand 6.11.: Gehalten bei 3,75–4,00% (28.10., falkenhafter Chef Warsh, kein klarer Dezember-Ausblick). Die Dezember-Erhöhungswette fuhr Achterbahn: Nach den US-Zwischenwahlen (Demokraten gewinnen beide Kammern) stieg sie auf ~80%, fiel dann in der Technologie-Aktien-Panik auf ~66% (Flucht in Anleihen drückte die Renditen), und zog nach dem heute überraschend starken Arbeitsmarktbericht (+165.000 Stellen statt ~60.000, Quote fiel auf 4,1%, Löhne +0,4%) wieder an. Fazit: Der Arbeitsmarkt bricht NICHT, das hält die Dezember-Erhöhung am Leben — aber die Börsen-Panik überlagert gerade alles.",
+    "naechste": "9.12.2026 (Erhöhung ~100% eingepreist: ~85% kleiner Schritt + ~15% doppelt)",
+    "erwartung": "Stand 12.11.: Gehalten bei 3,75–4,00% (28.10.). Die heiße US-Inflation vom 10.11. (Kernrate +0,3% zum Vormonat, dritten Monat in Folge; Gesamtrate +0,4%) hat die Dezember-Erhöhung praktisch zementiert — rund 85% für einen kleinen Schritt (0,25 Pp), rund 15% sogar für einen doppelten (0,50 Pp). Notenbanker Waller hatte genau eine Kernrate um 0,3% als Auslöser für den größeren Schritt genannt. Der Arbeitsmarkt bricht nicht (NFP +165k am 6.11.), die Inflation klebt oben — beides stützt die Erhöhung.",
     "richtung": "rauf"
    },
    {
@@ -4968,7 +4969,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -5,
    "score": -7,
    "cotExtrem": "extrem",
-   "treiber": "Fester Dollar nach heißer US-Inflation drückt — die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab, daher am wenigsten negativ.",
+   "treiber": "Fester Dollar (heiße US-Inflation + US-Zins stieg am stärksten) drückt; die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab, daher nur leicht negativ.",
    "istCross": false
   },
   {
@@ -4979,7 +4980,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -11,
    "score": -14,
    "cotExtrem": null,
-   "treiber": "Dollar fest, Pfund wartet auf das britische Wachstum morgen; Zinserhöhung bereits verdaut.",
+   "treiber": "Fester Dollar drückt; das britische Wachstum HEUTE ist der Schwung-Geber — eine starke Zahl könnte das Pfund vom Dollar-Block lösen.",
    "istCross": false
   },
   {
@@ -5028,13 +5029,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -3,
+   "baseScore": -2,
    "tiltCot": -2,
    "tiltZins": 0,
    "tiltGesamt": -2,
-   "score": -5,
+   "score": -4,
    "cotExtrem": "extrem",
-   "treiber": "Fester Dollar + Chinas Flaute; steigender Kiwi-Zins und extreme Shorts dämpfen.",
+   "treiber": "Fester Dollar nach heißer US-Inflation drückt, aber steigender Kiwi-Zins (zweitstärkster Anstieg der Woche) und extreme Shorts (Squeeze-Pulver) bremsen — am wenigsten negativ der Dollar-Paare.",
    "istCross": false
   },
   {
@@ -5083,7 +5084,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-11T12:20:25.713Z",
+  "stand": "2026-11-12T06:11:25.708Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 84,
   "gewertet": 39,

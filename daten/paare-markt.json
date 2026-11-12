@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-11T12:20:25.703Z",
+  "stand": "2026-11-12T06:11:25.688Z",
   "ausBriefing": "2026-11-06",
   "overlayAktiv": true,
   "paare": [
@@ -11,7 +11,7 @@
       "tiltGesamt": -5,
       "score": -7,
       "cotExtrem": "extrem",
-      "treiber": "Fester Dollar nach heißer US-Inflation drückt — die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab, daher am wenigsten negativ.",
+      "treiber": "Fester Dollar (heiße US-Inflation + US-Zins stieg am stärksten) drückt; die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab, daher nur leicht negativ.",
       "istCross": false
     },
     {
@@ -22,7 +22,7 @@
       "tiltGesamt": -11,
       "score": -14,
       "cotExtrem": null,
-      "treiber": "Dollar fest, Pfund wartet auf das britische Wachstum morgen; Zinserhöhung bereits verdaut.",
+      "treiber": "Fester Dollar drückt; das britische Wachstum HEUTE ist der Schwung-Geber — eine starke Zahl könnte das Pfund vom Dollar-Block lösen.",
       "istCross": false
     },
     {
@@ -71,13 +71,13 @@
     },
     {
       "paar": "NZD/USD",
-      "baseScore": -3,
+      "baseScore": -2,
       "tiltCot": -2,
       "tiltZins": 0,
       "tiltGesamt": -2,
-      "score": -5,
+      "score": -4,
       "cotExtrem": "extrem",
-      "treiber": "Fester Dollar + Chinas Flaute; steigender Kiwi-Zins und extreme Shorts dämpfen.",
+      "treiber": "Fester Dollar nach heißer US-Inflation drückt, aber steigender Kiwi-Zins (zweitstärkster Anstieg der Woche) und extreme Shorts (Squeeze-Pulver) bremsen — am wenigsten negativ der Dollar-Paare.",
       "istCross": false
     },
     {

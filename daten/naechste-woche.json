@@ -234,7 +234,7 @@
     "country": "EUR",
     "title": "Industrial Production MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.6%",
     "previous": "-0.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1314,7 +1314,7 @@
     "country": "EUR",
     "title": "Core Inflation Rate YoY Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.5%",
     "previous": "2.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -2365,7 +2365,7 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "195.25",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2375,7 +2375,7 @@
     "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "200",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2385,7 +2385,7 @@
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1697",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2814,7 +2814,7 @@
     "country": "EUR",
     "title": "Consumer Confidence Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-17.3",
     "previous": "-17.9",
     "actual": null,
     "quelle": "tradingview"

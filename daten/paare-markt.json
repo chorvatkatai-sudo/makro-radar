@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-12T13:28:57.865Z",
+  "stand": "2026-11-12T15:53:13.639Z",
   "ausBriefing": "2026-11-06",
   "overlayAktiv": true,
   "paare": [
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 5,
       "tiltCot": 2,
-      "tiltZins": 6,
-      "tiltGesamt": 8,
-      "score": 13,
+      "tiltZins": 5,
+      "tiltGesamt": 7,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "Loonie eigene Schwäche (billigeres Öl + schwache Jobs) plus fester Dollar = klarste pro-Dollar-Wette.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 4,
       "tiltCot": 3,
-      "tiltZins": 4,
-      "tiltGesamt": 7,
-      "score": 11,
+      "tiltZins": 3,
+      "tiltGesamt": 6,
+      "score": 10,
       "cotExtrem": null,
       "treiber": "Fester Dollar, Franken-Hafen-Prämie verflogen; Gold-Nähe gibt dem Franken nur einen leichten Boden.",
       "istCross": false

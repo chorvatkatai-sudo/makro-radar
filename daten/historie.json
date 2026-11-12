@@ -22840,6 +22840,16 @@
       "vorher": "4.37%",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-13T10:15:00-05:00|USD|Mortgage Delinquencies": {
+      "datum": "2026-11-13T10:15:00-05:00",
+      "land": "USD",
+      "titel": "Mortgage Delinquencies",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "4.37%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

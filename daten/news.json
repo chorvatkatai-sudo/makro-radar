@@ -1,11 +1,71 @@
 {
-  "stand": "2026-11-11T12:20:25.701Z",
+  "stand": "2026-11-12T06:12:37.678Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Chinese tech firms reportedly rushing to secure more Nvidia chip capacity amid fears that spy scandal would spur tighter restrictions",
+      "link": "https://investinglive.com/news/chinese-tech-firms-reportedly-rushing-to-secure-more-nvidia-chip-capacity-amid-fears-that-spy-scandal-would-spur-tighter-restrictions/",
+      "datum": "2026-11-12T05:44:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Heads up: UK September GDP in focus but will weak growth really stop the BOE from hiking again?",
+      "link": "https://investinglive.com/news/heads-up-uk-september-gdp-in-focus-but-will-weak-growth-really-stop-the-boe-from-hiking-again/",
+      "datum": "2026-11-12T05:14:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Nvidia slides on Huang ouster reports",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-nvidia-slides-on-huang-ouster-reports/",
+      "datum": "2026-11-12T04:30:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Nvidia stock plunges after hours as New York Times reports new Jensen Huang relationship allegation",
+      "link": "https://investinglive.com/news/nvidia-stock-plunges-after-hours-as-new-york-times-reports-new-jensen-huang-relationship-allegation/",
+      "datum": "2026-11-11T22:16:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Thursday, November 12, 2026 - low impact",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-november-12-2026-low-impact/",
+      "datum": "2026-11-11T21:17:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 11 Nov. It’s a Wrap: Dollar climbs as stocks rise and oil fades",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-nov-it-s-a-wrap-dollar-climbs-as-stocks-rise-and-oil-fades/",
+      "datum": "2026-11-11T20:59:52.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Vance considers face-to-face talks with top Iranian security official — WSJ",
+      "link": "https://investinglive.com/news/vance-considers-face-to-face-talks-with-top-iranian-security-official-wsj/",
+      "datum": "2026-11-11T19:44:57.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "U.S. asks Russia for new European security proposal as Ukraine talks regain momentum",
+      "link": "https://investinglive.com/news/u-s-asks-russia-for-new-european-security-proposal-as-ukraine-talks-regain-momentum/",
+      "datum": "2026-11-11T19:32:22.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Iran’s Ghalibaf: Peace is our priority if Washington accepts our conditions",
+      "link": "https://investinglive.com/news/iran-s-ghalibaf-peace-is-our-priority-if-washington-accepts-our-conditions/",
+      "datum": "2026-11-11T16:47:58.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Stocks rally, dollar climbs as bond market sits out post-CPI action",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rally-dollar-climbs-as-bond-market-sits-out-post-cpi-action/",
+      "datum": "2026-11-11T12:44:29.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "What are the main events for today?",
@@ -17,102 +77,6 @@
       "titel": "Germany October inflation slows, but winter energy risks keep ECB rate hike bets alive",
       "link": "https://investinglive.com/news/germany-october-inflation-slows-but-winter-energy-risks-keep-ecb-rate-hike-bets-alive/",
       "datum": "2026-11-11T07:00:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Heads up: US bond market closed for Veterans Day as stocks face a hot CPI hangover",
-      "link": "https://investinglive.com/news/heads-up-us-bond-market-closed-for-veterans-day-as-stocks-face-a-hot-cpi-hangover/",
-      "datum": "2026-11-11T06:07:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, oil firms",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/",
-      "datum": "2026-11-11T04:31:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bite harder",
-      "link": "https://investinglive.com/news/australian-investor-home-lending-plunges-32-in-q3-as-tax-curbs-and-rba-hikes-bite-harder/",
-      "datum": "2026-11-11T00:46:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Reuters Tankan: Japan manufacturer mood hits +27, highest in over five years on chips",
-      "link": "https://investinglive.com/news/reuters-tankan-japan-manufacturer-mood-hits-27-highest-in-over-five-years-on-chips/",
-      "datum": "2026-11-10T23:05:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 10 Nov: It’s a Wrap. Hot US CPI puts a bigger Fed hike in play",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-10-nov-it-s-a-wrap-hot-us-cpi-puts-a-bigger-fed-hike-in-play/",
-      "datum": "2026-11-10T21:33:59.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "U.S. Treasury sells $42 billion of 10 year notes at a high yield of 5.02%",
-      "link": "https://investinglive.com/news/u-s-treasury-sells-42-billion-of-10-year-notes-at-a-high-yield-of-5-02/",
-      "datum": "2026-11-10T18:07:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US October core CPI +0.3% vs +0.2% expected",
-      "link": "https://investinglive.com/news/us-october-core-cpi-vs-0-2-expected/",
-      "datum": "2026-11-10T13:30:06.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in December",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-fed-s-waller-floats-case-for-50-bps-hike-in-december/",
-      "datum": "2026-11-10T12:39:32.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What is the distribution of forecasts for the US CPI?",
-      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-3/",
-      "datum": "2026-11-10T09:24:20.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "datum": "2026-11-09T21:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-      "datum": "2026-11-05T16:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-      "datum": "2026-10-29T20:30:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "datum": "2026-10-28T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-      "datum": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-      "datum": "2026-10-13T18:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "datum": "2026-10-09T14:00:00.000Z"
     }
   ]
 }

@@ -1,11 +1,41 @@
 {
-  "stand": "2026-11-12T06:12:37.678Z",
+  "stand": "2026-11-12T13:28:57.863Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia drags US futures down",
+      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-12-nov/",
+      "datum": "2026-11-12T12:43:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
+      "link": "https://investinglive.com/news/india-october-cpi-inflation-rises-to-6-09-food-inflation-accelerates-to-8-94/",
+      "datum": "2026-11-12T10:45:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-84/",
+      "datum": "2026-11-12T07:28:20.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK September GDP beats expectations as resilient growth keeps BOE December rate hike on track",
+      "link": "https://investinglive.com/news/uk-september-gdp-beats-expectations-as-resilient-growth-keeps-boe-december-rate-hike-on-track/",
+      "datum": "2026-11-12T07:00:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle inflation",
+      "link": "https://investinglive.com/news/uk-q3-gdp-meets-estimates-as-resilient-growth-gives-boe-more-room-to-tackle-inflation/",
+      "datum": "2026-11-12T07:00:23.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Chinese tech firms reportedly rushing to secure more Nvidia chip capacity amid fears that spy scandal would spur tighter restrictions",
@@ -49,34 +79,40 @@
       "datum": "2026-11-11T19:44:57.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "U.S. asks Russia for new European security proposal as Ukraine talks regain momentum",
-      "link": "https://investinglive.com/news/u-s-asks-russia-for-new-european-security-proposal-as-ukraine-talks-regain-momentum/",
-      "datum": "2026-11-11T19:32:22.000Z"
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "datum": "2026-11-09T21:00:00.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "Iran’s Ghalibaf: Peace is our priority if Washington accepts our conditions",
-      "link": "https://investinglive.com/news/iran-s-ghalibaf-peace-is-our-priority-if-washington-accepts-our-conditions/",
-      "datum": "2026-11-11T16:47:58.000Z"
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "datum": "2026-11-05T16:00:00.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: Stocks rally, dollar climbs as bond market sits out post-CPI action",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rally-dollar-climbs-as-bond-market-sits-out-post-cpi-action/",
-      "datum": "2026-11-11T12:44:29.000Z"
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "datum": "2026-10-29T20:30:00.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-83/",
-      "datum": "2026-11-11T07:31:34.000Z"
+      "quelle": "Fed",
+      "titel": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "datum": "2026-10-28T18:00:00.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "Germany October inflation slows, but winter energy risks keep ECB rate hike bets alive",
-      "link": "https://investinglive.com/news/germany-october-inflation-slows-but-winter-energy-risks-keep-ecb-rate-hike-bets-alive/",
-      "datum": "2026-11-11T07:00:55.000Z"
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "datum": "2026-10-16T15:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "datum": "2026-10-13T18:00:00.000Z"
     }
   ]
 }

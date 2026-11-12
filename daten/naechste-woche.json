@@ -690,16 +690,6 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-11-17T07:30:00.000Z",
-    "country": "CHF",
-    "title": "Industrial Production YoY",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "5.5%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
     "date": "2026-11-17T09:30:00.000Z",
     "country": "GBP",
     "title": "Labour Productivity QoQ",
@@ -1986,6 +1976,16 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "1309 CHF",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-19T07:30:00.000Z",
+    "country": "CHF",
+    "title": "Industrial Production YoY",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "5.5%",
     "actual": null,
     "quelle": "tradingview"
   },

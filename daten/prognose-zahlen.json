@@ -1,11 +1,11 @@
 {
-  "stand": "2026-11-13T15:14:30.889Z",
+  "stand": "2026-11-13T15:40:12.848Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 84,
-  "gewertet": 39,
-  "nichtWertbar": 45,
+  "gefunden": 88,
+  "gewertet": 40,
+  "nichtWertbar": 48,
   "treffer": 17,
-  "quote": 44,
+  "quote": 43,
   "zinsentscheide": {
     "treffer": 11,
     "gesamt": 11,
@@ -13,15 +13,15 @@
   },
   "datenPrognosen": {
     "treffer": 6,
-    "gesamt": 28,
+    "gesamt": 29,
     "quote": 21,
-    "pWert": 0.004
+    "pWert": 0.002
   },
   "richtungBeiAbweichung": {
     "treffer": 6,
-    "gesamt": 22,
-    "quote": 27,
-    "pWert": 0.052
+    "gesamt": 23,
+    "quote": 26,
+    "pWert": 0.035
   },
   "richtungsCalls": {
     "treffer": 6,
@@ -31,8 +31,8 @@
   },
   "exakt": {
     "treffer": 4,
-    "gesamt": 18,
-    "quote": 22
+    "gesamt": 19,
+    "quote": 21
   },
   "textdeutung": {
     "treffer": 13,
@@ -40,15 +40,6 @@
     "quote": 62
   },
   "letzte": [
-    {
-      "event": "US-Erzeugerpreise (PPI September) — m/m",
-      "datum": "2026-10-15",
-      "richtung": "wie_erwartet",
-      "tatsaechlich": "hoeher",
-      "konsens": "0.3%",
-      "ist": "0.5%",
-      "treffer": false
-    },
     {
       "event": "Kanada-Verbraucherinflation (CPI September) — y/y",
       "datum": "2026-10-19",
@@ -110,6 +101,15 @@
       "tatsaechlich": "hoeher",
       "konsens": "0.2%",
       "ist": "0.3%",
+      "treffer": false
+    },
+    {
+      "event": "US-Erzeugerpreise PPI Oktober (im Monat)",
+      "datum": "2026-11-13",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "hoeher",
+      "konsens": "0.3%",
+      "ist": "0.5%",
       "treffer": false
     }
   ]

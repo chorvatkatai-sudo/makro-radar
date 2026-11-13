@@ -1,23 +1,23 @@
 {
-  "stand": "2026-11-13T15:14:31.699Z",
+  "stand": "2026-11-13T15:42:58.097Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 47,
+    "faelle": 48,
     "treffer": 25,
-    "quote": 53,
-    "schnittGerichtet": 0.05,
-    "schnittBetrag": 0.308,
-    "pWert": 0.771,
+    "quote": 52,
+    "schnittGerichtet": 0.041,
+    "schnittBetrag": 0.31,
+    "pWert": 0.885,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 86,
+    "faelle": 87,
     "treffer": 45,
     "quote": 52,
-    "schnittGerichtet": 0.043,
-    "schnittBetrag": 0.336,
-    "pWert": 0.747,
+    "schnittGerichtet": 0.038,
+    "schnittBetrag": 0.337,
+    "pWert": 0.83,
     "belastbar": false
   },
   "jeWaehrung": {
@@ -49,11 +49,11 @@
       "belastbar": false
     },
     "GBP": {
-      "faelle": 7,
+      "faelle": 8,
       "treffer": 4,
-      "quote": 57,
-      "schnittGerichtet": 0.062,
-      "schnittBetrag": 0.345,
+      "quote": 50,
+      "schnittGerichtet": 0.006,
+      "schnittBetrag": 0.35,
       "pWert": 1,
       "belastbar": false
     },
@@ -87,12 +87,12 @@
       "belastbar": false
     },
     "Wachstum & Konsum": {
-      "faelle": 8,
+      "faelle": 9,
       "treffer": 2,
-      "quote": 25,
-      "schnittGerichtet": 0.006,
-      "schnittBetrag": 0.311,
-      "pWert": 0.289,
+      "quote": 22,
+      "schnittGerichtet": -0.037,
+      "schnittBetrag": 0.32,
+      "pWert": 0.18,
       "belastbar": false
     }
   },
@@ -125,11 +125,11 @@
       "belastbar": false
     },
     "GBP": {
-      "faelle": 7,
+      "faelle": 8,
       "treffer": 4,
-      "quote": 57,
-      "schnittGerichtet": 0.062,
-      "schnittBetrag": 0.345,
+      "quote": 50,
+      "schnittGerichtet": 0.006,
+      "schnittBetrag": 0.35,
       "pWert": 1,
       "belastbar": false
     },
@@ -144,15 +144,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-10-19",
-      "land": "CAD",
-      "titel": "CPI m/m (+2 weitere)",
-      "ueberraschung": "niedriger",
-      "erwartet": "schwächer",
-      "bewegung": 0.165,
-      "wieErwartet": false
-    },
     {
       "datum": "2026-10-21",
       "land": "GBP",
@@ -233,6 +224,15 @@
       "erwartet": "stärker",
       "bewegung": 0.791,
       "wieErwartet": true
+    },
+    {
+      "datum": "2026-11-12",
+      "land": "GBP",
+      "titel": "GDP m/m",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": -0.386,
+      "wieErwartet": false
     }
   ]
 }

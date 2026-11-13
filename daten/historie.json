@@ -22870,6 +22870,16 @@
       "vorher": "1080B",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-13T16:00:00-05:00|USD|FOMC Financial Stability Report": {
+      "datum": "2026-11-13T16:00:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Financial Stability Report",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

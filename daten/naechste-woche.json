@@ -494,7 +494,7 @@
     "country": "USD",
     "title": "NOPA Soybean Oil Stocks",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.089",
     "previous": "1.053",
     "actual": null,
     "quelle": "tradingview"
@@ -504,7 +504,7 @@
     "country": "USD",
     "title": "NOPA Crush Report",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "228.75",
     "previous": "196.3",
     "actual": null,
     "quelle": "tradingview"

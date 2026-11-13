@@ -1,11 +1,17 @@
 {
-  "stand": "2026-11-13T20:13:22.773Z",
+  "stand": "2026-11-13T21:52:13.876Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "Fed",
+      "titel": "Agencies extend comment period for proposed third-party risk management guidance",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "datum": "2026-11-13T21:15:00.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "The US consumer may be hitting a wall. A look at eight indicators",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
       "datum": "2026-11-05T16:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-      "datum": "2026-10-29T20:30:00.000Z"
     }
   ]
 }

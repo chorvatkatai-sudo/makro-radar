@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-13T20:13:22.776Z",
+  "stand": "2026-11-13T21:52:13.878Z",
   "ausBriefing": "2026-11-13",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -3,
       "tiltCot": -2,
-      "tiltZins": -7,
-      "tiltGesamt": -9,
-      "score": -12,
+      "tiltZins": -6,
+      "tiltGesamt": -8,
+      "score": -11,
       "cotExtrem": "extrem",
       "treiber": "Fester Dollar (heiße US-Inflation, US-Zins stieg am stärksten) drückt; die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab.",
       "istCross": false
@@ -18,9 +18,9 @@
       "paar": "GBP/USD",
       "baseScore": -2,
       "tiltCot": -5,
-      "tiltZins": -6,
-      "tiltGesamt": -11,
-      "score": -13,
+      "tiltZins": -5,
+      "tiltGesamt": -10,
+      "score": -12,
       "cotExtrem": null,
       "treiber": "Pfund am widerstandsfähigsten (BIP +0,7%, heiße Inflation nächste Woche, BoE bei 4,00%) — daher am wenigsten dollar-negativ.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 4,
       "tiltCot": 3,
-      "tiltZins": 8,
-      "tiltGesamt": 11,
-      "score": 15,
+      "tiltZins": 5,
+      "tiltGesamt": 8,
+      "score": 12,
       "cotExtrem": null,
       "treiber": "Klarster Dollar-Long: der Franken verlor seinen Hafen-Bonus, Gold stürzte, die Börsen beruhigten sich.",
       "istCross": false

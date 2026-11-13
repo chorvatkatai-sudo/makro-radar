@@ -1,11 +1,23 @@
 {
-  "stand": "2026-11-13T15:42:57.557Z",
+  "stand": "2026-11-13T20:13:22.773Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "The US consumer may be hitting a wall. A look at eight indicators",
+      "link": "https://investinglive.com/news/the-us-consumer-may-be-hitting-a-wall-a-look-at-eight-indicators/",
+      "datum": "2026-11-13T18:11:57.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed",
+      "link": "https://investinglive.com/news/earnings-week-ahead-nvidia-without-jensen-anthropic-s-ipo-and-the-consumer-meets-a-hiking-fed/",
+      "datum": "2026-11-13T16:22:17.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US October PPI +6.5% vs +6.6% expected",
@@ -65,18 +77,6 @@
       "titel": "Japan’s Katayama warns of one-sided yen moves near 160, will coordinate with US Treasury",
       "link": "https://investinglive.com/news/japan-s-katayama-warns-of-one-sided-yen-moves-near-160-will-coordinate-with-us-treasury/",
       "datum": "2026-11-13T00:46:36.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 months",
-      "link": "https://investinglive.com/news/nz-manufacturing-pmi-eases-to-54-9-in-october-but-extends-expansion-run-to-16-months/",
-      "datum": "2026-11-12T21:43:34.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Jensen Huang ousted from Nvidia",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-jensen-huang-ousted-from-nvidia/",
-      "datum": "2026-11-12T21:03:31.000Z"
     },
     {
       "quelle": "Fed",

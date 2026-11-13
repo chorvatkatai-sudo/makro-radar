@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-12T22:09:51.153Z",
+ "erstellt": "2026-11-13T06:11:24.433Z",
  "wochenStart": "2026-11-08",
  "events": [
   {
@@ -4008,21 +4008,20 @@ window.MAKRO_DATA = {
    "Ehrlicher Track-Record (Stand im Dashboard): wochenWette 9/18 = 50%, Konzentration 87%, Zufallsband [5,13] → weiter NICHT von einem Münzwurf unterscheidbar; overlayVergleich seit 22.7. neutral. Beste Paare zuletzt NZD/USD, GBP/USD, AUD/USD; schlechteste EUR/JPY, EUR/USD, USD/JPY. KEIN belegter Vorsprung — deshalb Scores bewusst klein (|score| ≤ 5), nur der Franken etwas größer mit dem konkreten Panik-/Hafen-Grund."
   ],
   "tagesnews": {
-   "stand": "2026-11-12",
-   "wochentag": "Donnerstag",
-   "tenor": "Die heiße US-Inflation hält den Dollar fest und macht eine US-Zinserhöhung im Dezember fast sicher; heute kommt das britische Wachstum — und die Börsen-Panik der Vorwoche hat sich gelegt.",
+   "stand": "2026-11-13",
+   "wochentag": "Freitag",
+   "tenor": "Der Dollar bleibt fest nach der heißen Inflation; heute kommen die US-Erzeugerpreise als letzter Inflations-Test der Woche, nach dem Ausreißer des Vormonats.",
    "heute": [
-    "🇬🇧 Britisches Wirtschaftswachstum fürs Sommerquartal (8:00 Wien) — erwartet wird ein solides Plus; eine starke Zahl stützt das Pfund, eine schwache belastet es.",
-    "🇺🇸 Der US-Anleihemarkt öffnet nach dem Feiertag wieder; am Nachmittag Verkäufe bestehender Häuser.",
-    "💵 Der Dollar hält seine Gewinne nach der heißen Inflation (Dollar-Index ~102,5, +1% auf die Woche). Die Frage ist nur noch: erhöht die Notenbank im Dezember 0,25 oder sogar 0,50 Prozentpunkte?",
-    "📉 Die Angst der Vorwoche ist raus: Die Börsen haben sich beruhigt (die Schwankungs-Angst fiel um ein Drittel), Gold (~4.050 Dollar) und Franken verlieren ihren Hafen-Aufschlag wieder."
+    "🇺🇸 US-Erzeugerpreise für Oktober (14:30 Wien) — erwartet +0,4% zum Vormonat; der Vormonat war mit +1,3% ein Ausreißer nach oben, deshalb schaut der Markt, ob sich die Fabrik-Preise wieder normalisieren. Heiß = Dollar fester, kühl = etwas Entspannung.",
+    "🇺🇸 Am Nachmittag das Verbrauchervertrauen der Uni Michigan — Stimmungsbild der US-Haushalte.",
+    "💵 Der Dollar steht fest (Dollar-Index ~103, +0,9% auf die Woche); getragen von den Zins-Erwartungen, denn die US-Zweijahresrendite stieg diese Woche am stärksten von allen Währungen.",
+    "📉 Die Panik der Vorwoche ist komplett raus: Die Börsen-Angst fiel um ein Drittel, Gold rutschte unter 3.900 Dollar und der Franken verliert seinen Hafen-Aufschlag."
    ],
    "gestern": [
-    "🇺🇸 Dienstag: US-Verbraucherpreise kamen HEISS — Kernrate +0,3% zum Vormonat (erwartet +0,2%), Gesamtrate +0,4%; die Kernrate klebt den dritten Monat in Folge bei 0,3%.",
-    "🏦 Damit gilt eine US-Zinserhöhung am 9. Dezember als praktisch sicher: rund 85% für einen kleinen Schritt, rund 15% sogar für einen doppelt so großen. Notenbanker Waller hatte genau diese Schwelle (Kernrate 0,3%) als Auslöser genannt.",
-    "💱 Die Zins-Erwartungen drehten klar PRO Dollar: Die US-Zweijahresrendite stieg diese Woche am stärksten von allen Währungen — das genaue Gegenteil der Vorwoche.",
-    "🇺🇸 Mittwoch: US-Markt wegen Feiertag (Veterans Day) geschlossen — dünner Handel, keine neuen Impulse.",
-    "⚠️ Rekord-Wetten gegen den Euro (die größte je gemessene) und extreme Wetten gegen Aussie und Kiwi liegen im Markt — dreht die Stimmung, kann es dort schnell nach oben schnappen."
+    "🇬🇧 Donnerstag: Britisches Wachstum im Sommerquartal +0,7% — solide und genau wie erwartet (Technik und KI zogen die Dienstleister). Trotzdem blieb das Pfund schwach, weil der feste Dollar alles überdeckt.",
+    "🇺🇸 Dienstag: US-Verbraucherpreise kamen HEISS — Kernrate +0,3% zum Vormonat (erwartet +0,2%), den dritten Monat in Folge; eine Jahresrate gibt es wegen des Regierungs-Stillstands im Vorjahr nicht.",
+    "🏦 Eine US-Zinserhöhung am 9. Dezember gilt damit als fast sicher: rund 85% für einen kleinen Schritt, rund 15% sogar für einen doppelt so großen.",
+    "⚠️ Rekord-Wetten gegen den Euro (die größte je gemessene) sowie extreme Wetten gegen Aussie und Kiwi liegen im Markt — dreht die Stimmung, kann es dort schnell nach oben schnappen."
    ]
   }
  },
@@ -5084,7 +5083,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-12T22:09:50.557Z",
+  "stand": "2026-11-13T06:11:24.432Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 84,
   "gewertet": 39,

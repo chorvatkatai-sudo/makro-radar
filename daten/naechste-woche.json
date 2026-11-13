@@ -200,16 +200,6 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-11-16T05:00:00.000Z",
-    "country": "JPY",
-    "title": "Chain Store Sales YoY",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
     "date": "2026-11-16T07:00:00.000Z",
     "country": "CNY",
     "title": "Foreign Direct Investment (YTD) YoY",
@@ -244,7 +234,7 @@
     "country": "EUR",
     "title": "Industrial Production YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "-1.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -924,7 +914,7 @@
     "country": "USD",
     "title": "Industrial Production MoM",
     "impact": "Medium",
-    "forecast": "0.1%",
+    "forecast": "-0.1%",
     "previous": "0.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -1174,7 +1164,7 @@
     "country": "GBP",
     "title": "Inflation Rate YoY",
     "impact": "High",
-    "forecast": "",
+    "forecast": "3.7%",
     "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1294,7 +1284,7 @@
     "country": "EUR",
     "title": "Core Inflation Rate MoM Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1354,7 +1344,7 @@
     "country": "EUR",
     "title": "HICP ex Food & Energy YoY Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.2%",
     "previous": "2.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1385,7 +1375,7 @@
     "title": "MBA 5/1 ARM Contract Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.28%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1395,7 +1385,7 @@
     "title": "MBA 5/1 ARM Effective Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.7%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1405,7 +1395,7 @@
     "title": "MBA 15-Year Mortgage Contract Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.64%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1415,7 +1405,7 @@
     "title": "MBA 15-Year Mortgage Effective Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.88%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1425,7 +1415,7 @@
     "title": "MBA 15-Year Mortgage Points",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "0.97%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1485,7 +1475,7 @@
     "title": "MBA 5/1 ARM Points",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "1.14%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2814,7 +2804,7 @@
     "country": "EUR",
     "title": "Consumer Confidence Flash",
     "impact": "Medium",
-    "forecast": "-17.3",
+    "forecast": "-17.5",
     "previous": "-17.9",
     "actual": null,
     "quelle": "tradingview"

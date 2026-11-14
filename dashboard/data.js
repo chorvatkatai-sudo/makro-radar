@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-13T21:52:14.291Z",
+ "erstellt": "2026-11-14T06:08:59.483Z",
  "wochenStart": "2026-11-08",
  "events": [
   {
@@ -4011,18 +4011,19 @@ window.MAKRO_DATA = {
    "Klumpen-Hinweis: Diese Woche sind 6 von 7 Paaren dollar-stark ausgerichtet = im Kern EINE Wette. Das ist bewusst so (echte Dollar-Woche mit benennbarem Grund), aber transparent gelöst durch paar-eigene Nuancen: USD/JPY nur +3 wegen Interventionsrisiko, USD/CAD nur +2 wegen Öl, EUR/AUD/NZD durch Extrem-Shorts (Squeeze) gebremst. GBP neutral (eigene Stärke)."
   ],
   "tagesnews": {
-   "stand": "2026-11-13",
-   "wochentag": "Freitag",
-   "tenor": "Heiße US-Inflation hat den Dollar auf ein 19-Monats-Hoch getrieben und Gold unter 4.000 Dollar gedrückt; eine Fed-Zinserhöhung im Dezember ist so gut wie sicher.",
+   "stand": "2026-11-14",
+   "wochentag": "Samstag",
+   "tenor": "Wochenende — die Märkte ruhen. Die Woche gehörte dem Dollar: heiße US-Inflation trieb ihn aufs 19-Monats-Hoch und drückte Gold unter 4.000 Dollar. Nächste Woche wird es ruhiger.",
    "heute": [
-    "US-Erzeugerpreise kamen eine Spur kühler als erwartet (+0,3% statt +0,4% im Monat) — kleiner Gegenpunkt zur heißen Verbraucher-Inflation, ändert die Dezember-Erhöhungswette aber nicht.",
-    "Dollar-Index auf 19-Monats-Hoch (103,2). Gold unter 4.000$ (3.894$, −5,4% in der Woche). Bitcoin unter 70.000$ (−8,7%).",
-    "Der Yen ist mit ~160 zum Dollar am schwächsten seit Wochen — Japan droht mit Eingriffen am Devisenmarkt."
+    "📅 Wochenende: Börsen und Devisenmarkt geschlossen, keine neuen Zahlen. Die nächsten Impulse kommen ab Montag.",
+    "🇯🇵 Montag startet ruhig mit Japans Wachstum (Q3) und Chinas Industrie/Einzelhandel; 🇨🇦 zusätzlich die kanadische Inflation (erwartet 3,2%). 🇺🇸 Dienstag dann die US-Einzelhandelszahlen.",
+    "⚠️ Das große Ereignis der Woche: Mittwoch die britische Inflation (erwartet 3,7% = heiß) als Pfund-Treiber, dazu am Abend das Protokoll der US-Notenbank. Ein Zinsentscheid steht nicht an."
    ],
    "gestern": [
-    "Am Dienstag kam die US-Verbraucher-Inflation HEISS: Kernrate +0,3% im Monat (den dritten Monat in Folge), Schlagzeile +0,4% — über den Erwartungen. Das besiegelte die Dezember-Zinserhöhung (~88–91% eingepreist).",
-    "Britisches Wachstum Q3 genau wie erwartet (+0,7% zum Vorquartal, KI-/Dienstleistungs-getrieben). China-Inflation leicht kühler (+0,7%), chinesische Erzeugerpreise dagegen heiß (+5,7%).",
-    "Öl zog an (WTI 89$), auch weil eine Einigung USA–Iran unwahrscheinlicher wurde — stützt den kanadischen Dollar ein wenig."
+    "🇺🇸 Die Woche prägte die heiße US-Inflation vom Dienstag: Kernrate +0,3% im Monat (dritter Monat in Folge). Das besiegelte praktisch die Dezember-Zinserhöhung der US-Notenbank (~88–91% eingepreist).",
+    "💵 Folge: Der Dollar sprang aufs höchste Niveau seit 19 Monaten (Dollar-Index 103,4). Gold stürzte über 5% ab, unter 4.000 Dollar; Bitcoin fiel unter 70.000 Dollar — diesmal war wieder der Dollar der sichere Hafen, nicht Gold.",
+    "🇬🇧 Britisches Wachstum Q3 genau wie erwartet (+0,7%). 🇨🇦 Öl fest (WTI 89$) stützt den kanadischen Dollar etwas. Freitag kamen die US-Erzeugerpreise eine Spur kühler (+0,3%) — ein kleiner Gegenpunkt, ändert am großen Bild aber nichts.",
+    "🇯🇵 Der Yen blieb mit rund 160 zum Dollar sehr schwach — Japan droht weiter mit Eingriffen am Devisenmarkt."
    ]
   }
  },
@@ -5084,7 +5085,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-13T21:52:13.889Z",
+  "stand": "2026-11-14T06:08:59.482Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
   "gewertet": 40,

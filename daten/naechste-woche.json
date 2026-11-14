@@ -1960,6 +1960,26 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-11-19T09:00:00.000Z",
+    "country": "EUR",
+    "title": "Current Account",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "7.7 €",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-19T09:00:00.000Z",
+    "country": "EUR",
+    "title": "Current Account s.a",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "8.709 €",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-11-19T10:00:00.000Z",
     "country": "EUR",
     "title": "Construction Output MoM",

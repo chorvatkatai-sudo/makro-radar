@@ -1,13 +1,13 @@
 {
-  "stand": "2026-11-13T21:52:13.392Z",
+  "stand": "2026-11-14T06:09:45.492Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 103.42,
+      "wert": 103.41,
       "tagProzent": 0,
-      "wocheProzent": 1.74,
+      "wocheProzent": 1.73,
       "renditeDelta": false,
       "verlauf": [
         101.84,
@@ -30,8 +30,8 @@
         102.23,
         102.91,
         103.17,
-        103.42,
-        103.42
+        103.41,
+        103.41
       ]
     },
     "VIX": {
@@ -71,9 +71,9 @@
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 89.21,
+      "wert": 88.56,
       "tagProzent": 0,
-      "wocheProzent": 2.72,
+      "wocheProzent": 1.97,
       "renditeDelta": false,
       "verlauf": [
         101.41,
@@ -96,17 +96,17 @@
         86.04,
         86.53,
         88.74,
-        89.21,
-        89.21
+        88.56,
+        88.56
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 96.39,
+      "wert": 95.84,
       "tagProzent": 0,
-      "wocheProzent": 4.13,
+      "wocheProzent": 3.53,
       "renditeDelta": false,
       "verlauf": [
         109.86,
@@ -129,17 +129,17 @@
         91.49,
         92.76,
         95.82,
-        96.39,
-        96.39
+        95.84,
+        95.84
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 3878.3,
+      "wert": 3886.3,
       "tagProzent": 0,
-      "wocheProzent": -5.74,
+      "wocheProzent": -5.55,
       "renditeDelta": false,
       "verlauf": [
         4181.1,
@@ -162,8 +162,8 @@
         4030.2,
         4000.5,
         3885.3,
-        3878.3,
-        3878.3
+        3886.3,
+        3886.3
       ]
     },
     "US02Y": {
@@ -185,8 +185,8 @@
         4.75,
         4.75,
         4.75,
-        4.75,
         4.573,
+        4.775,
         4.775,
         4.775,
         4.775,
@@ -269,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 68251.7,
+      "wert": 67220.14,
       "tagProzent": 0,
-      "wocheProzent": -9.27,
+      "wocheProzent": -10.64,
       "renditeDelta": false,
       "verlauf": [
         80790.84,
@@ -294,17 +294,17 @@
         73720.12,
         73964.47,
         71342.97,
-        68251.7,
-        68251.7
+        67220.14,
+        67220.14
       ]
     },
     "FEDFUT": {
       "name": "Fed-Erwartung (FF-Futures)",
       "einheit": "%",
       "typ": "rendite",
-      "wert": 4.17,
-      "tagProzent": -0.01,
-      "wocheProzent": 0.29,
+      "wert": 4.18,
+      "tagProzent": 0.3,
+      "wocheProzent": 0.3,
       "renditeDelta": true,
       "verlauf": [
         3.89,
@@ -327,8 +327,8 @@
         3.88,
         3.88,
         3.88,
-        4.18,
-        4.17
+        3.88,
+        4.18
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
     }
@@ -424,39 +424,39 @@
     }
   },
   "zinsen2j": {
-    "stand": "2026-11-13",
+    "stand": "2026-11-14",
     "werte": {
       "USD": {
-        "wert": 4.859,
-        "wocheDelta": 0.247
+        "wert": 4.852,
+        "wocheDelta": 0.269
       },
       "EUR": {
         "wert": 3.115,
-        "wocheDelta": 0.09
+        "wocheDelta": 0.122
       },
       "GBP": {
         "wert": 4.967,
-        "wocheDelta": 0.115
+        "wocheDelta": 0.214
       },
       "JPY": {
         "wert": 1.878,
-        "wocheDelta": -0.003
+        "wocheDelta": -0.011
       },
       "AUD": {
         "wert": 4.92,
-        "wocheDelta": 0.033
+        "wocheDelta": 0.101
       },
       "CAD": {
         "wert": 3.36,
-        "wocheDelta": 0.095
+        "wocheDelta": 0.139
       },
       "CHF": {
         "wert": 0.313,
-        "wocheDelta": 0.112
+        "wocheDelta": 0.113
       },
       "NZD": {
         "wert": 3.935,
-        "wocheDelta": -0.018
+        "wocheDelta": 0.11
       }
     },
     "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"

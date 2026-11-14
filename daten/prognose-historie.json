@@ -2081,7 +2081,77 @@
         }
       },
       "mitMarktOverlay": true,
-      "auswertung": null
+      "auswertung": {
+        "treffer": 4,
+        "gesamt": 11,
+        "quote": 36,
+        "details": {
+          "EUR/USD": {
+            "score": 5,
+            "moveProzent": -1.26,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "GBP/USD": {
+            "score": -2,
+            "moveProzent": -1.41,
+            "treffer": true
+          },
+          "USD/JPY": {
+            "score": -10,
+            "moveProzent": 1.3,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "AUD/USD": {
+            "score": 2,
+            "moveProzent": -1.57,
+            "treffer": false,
+            "basisTreffer": true
+          },
+          "USD/CAD": {
+            "score": 5,
+            "moveProzent": 1.1,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "USD/CHF": {
+            "score": -9,
+            "moveProzent": 2.4,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "NZD/USD": {
+            "score": -1,
+            "moveProzent": -1.44,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "EUR/GBP": {
+            "score": 5,
+            "moveProzent": 0.15,
+            "treffer": true,
+            "basisTreffer": true
+          },
+          "EUR/JPY": {
+            "score": -1,
+            "moveProzent": 0.02,
+            "treffer": false
+          },
+          "AUD/NZD": {
+            "score": 3,
+            "moveProzent": -0.13,
+            "treffer": false,
+            "basisTreffer": false
+          },
+          "EUR/CHF": {
+            "score": -3,
+            "moveProzent": 1.11,
+            "treffer": false,
+            "basisTreffer": false
+          }
+        }
+      }
     },
     {
       "woche": "2026-11-16",

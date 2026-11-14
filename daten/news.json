@@ -1,11 +1,17 @@
 {
-  "stand": "2026-11-13T21:52:13.876Z",
+  "stand": "2026-11-14T06:09:46.081Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-hawkish-fed-worries-ebb-after-ppi/",
+      "datum": "2026-11-13T22:02:47.000Z"
+    },
     {
       "quelle": "Fed",
       "titel": "Agencies extend comment period for proposed third-party risk management guidance",
@@ -77,12 +83,6 @@
       "titel": "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia/",
       "datum": "2026-11-13T04:26:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan’s Katayama warns of one-sided yen moves near 160, will coordinate with US Treasury",
-      "link": "https://investinglive.com/news/japan-s-katayama-warns-of-one-sided-yen-moves-near-160-will-coordinate-with-us-treasury/",
-      "datum": "2026-11-13T00:46:36.000Z"
     },
     {
       "quelle": "Fed",

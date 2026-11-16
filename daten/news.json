@@ -1,11 +1,23 @@
 {
-  "stand": "2026-11-16T13:17:32.978Z",
+  "stand": "2026-11-16T16:53:24.280Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Canada October CPI 3.1% vs +3.2% expected",
+      "link": "https://investinglive.com/news/canada-october-cpi-3-1-vs-3-2-expected/",
+      "datum": "2026-11-16T13:30:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US November Empire Manufacturing index +7.80 vs +18.00 expected",
+      "link": "https://investinglive.com/news/us-november-empire-manufacturing-index-7-80-vs-18-00-expected/",
+      "datum": "2026-11-16T13:30:12.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive European news wrap: Risk sentiment remains negative",
@@ -67,22 +79,10 @@
       "datum": "2026-11-15T21:42:46.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-hawkish-fed-worries-ebb-after-ppi/",
-      "datum": "2026-11-13T22:02:47.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Agencies extend comment period for proposed third-party risk management guidance",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
       "datum": "2026-11-13T21:15:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "The US consumer may be hitting a wall. A look at eight indicators",
-      "link": "https://investinglive.com/news/the-us-consumer-may-be-hitting-a-wall-a-look-at-eight-indicators/",
-      "datum": "2026-11-13T18:11:57.000Z"
     },
     {
       "quelle": "Fed",

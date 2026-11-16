@@ -23857,7 +23857,7 @@
       "titel": "Natural Gas Storage",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "61B",
       "actual": null,
       "notiz": null
     },
@@ -24078,6 +24078,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-16T09:45:00-05:00|USD|Cleveland Fed Inflation Expectations": {
+      "datum": "2026-11-16T09:45:00-05:00",
+      "land": "USD",
+      "titel": "Cleveland Fed Inflation Expectations",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.3%",
       "actual": null,
       "notiz": null
     }

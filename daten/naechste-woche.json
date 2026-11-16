@@ -165,7 +165,7 @@
     "title": "USDA Corn Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "865.503",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -175,7 +175,7 @@
     "title": "USDA Soybean Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1708.296",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -185,7 +185,7 @@
     "title": "USDA Wheat Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "391.515",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -464,7 +464,7 @@
     "country": "USD",
     "title": "CB Consumer Confidence",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "92",
     "previous": "91.7",
     "actual": null,
     "quelle": "tradingview"
@@ -1014,7 +1014,7 @@
     "country": "USD",
     "title": "Core PCE Price Index YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "3.2%",
     "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -1024,7 +1024,7 @@
     "country": "USD",
     "title": "PCE Price Index MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1034,7 +1034,7 @@
     "country": "USD",
     "title": "Core PCE Price Index MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.3%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -1084,7 +1084,7 @@
     "country": "USD",
     "title": "GDP Growth Rate QoQ 2nd Est",
     "impact": "High",
-    "forecast": "",
+    "forecast": "3.4%",
     "previous": "1.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1154,7 +1154,7 @@
     "country": "USD",
     "title": "Durable Goods Orders MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0%",
     "previous": "1.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -1204,7 +1204,7 @@
     "country": "USD",
     "title": "New Home Sales",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.67",
     "previous": "0.676",
     "actual": null,
     "quelle": "tradingview"

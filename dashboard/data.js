@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-15T06:08:49.630Z",
+ "erstellt": "2026-11-16T06:10:51.271Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -3378,19 +3378,19 @@ window.MAKRO_DATA = {
    "Klumpen-Hinweis: Diese Woche sind 6 von 7 Paaren dollar-stark ausgerichtet = im Kern EINE Wette. Das ist bewusst so (echte Dollar-Woche mit benennbarem Grund), aber transparent gelöst durch paar-eigene Nuancen: USD/JPY nur +3 wegen Interventionsrisiko, USD/CAD nur +2 wegen Öl, EUR/AUD/NZD durch Extrem-Shorts (Squeeze) gebremst. GBP neutral (eigene Stärke)."
   ],
   "tagesnews": {
-   "stand": "2026-11-15",
-   "wochentag": "Sonntag",
-   "tenor": "Wochenende, zweiter Tag — die Märkte ruhen. Morgen beginnt eine ruhigere Woche ohne Zinsentscheid; das große Ereignis ist am Mittwoch die britische Inflation.",
+   "stand": "2026-11-16",
+   "wochentag": "Montag",
+   "tenor": "Der Dollar startet die Woche auf dem höchsten Stand seit 19 Monaten; heute Nachmittag ist Kanadas Inflation die wichtigste Zahl, der Wochen-Höhepunkt folgt Mittwoch mit Großbritanniens Inflation.",
    "heute": [
-    "📅 Sonntag: Börsen und Devisenmarkt geschlossen, keine neuen Zahlen. Der Handel startet Montag früh in Asien.",
-    "🇯🇵 Gleich zum Wochenstart (Montag, sehr früh) Japans Wachstum für das dritte Quartal (erwartet nur +0,1%) sowie Chinas Industrie und Einzelhandel; 🇨🇦 nachmittags die kanadische Inflation (erwartet 3,2%).",
-    "🇺🇸 Dienstag folgen die — wegen des Regierungsstillstands verspäteten — US-Einzelhandelszahlen (erwartet flach, 0%).",
-    "⚠️ Der Höhepunkt der Woche: Mittwoch die britische Inflation (erwartet 3,7% = heiß) als wichtigster Treiber fürs Pfund, am Abend dazu das Protokoll der US-Notenbank. Ein Zinsentscheid steht diese Woche nicht an (nächster erst am 9. Dezember)."
+    "🇺🇸 Der Dollar beginnt die Woche auf dem höchsten Stand seit 19 Monaten (Dollar-Index rund 103,4) — die heiße Inflation der Vorwoche hält die Dezember-Zinserhöhung praktisch fest eingepreist; die zehnjährige US-Anleiherendite liegt über 5%.",
+    "🇯🇵 Japans Wirtschaft schrumpfte im dritten Quartal (schwächer als die erhofften +0,1%, US-Zölle drückten die Exporte) — der Yen bleibt mit rund 160 zum Dollar sehr schwach, nahe der Marke, an der Japan zuletzt am Markt eingriff.",
+    "🇨🇳 Chinas Industrie und Einzelhandel wuchsen im Oktober langsamer — die gedämpfte Nachfrage belastet die Rohstoff-Währungen (Australischer und Neuseeland-Dollar) ein wenig.",
+    "🇨🇦 Heute um 14:30 (Wien) kommt Kanadas Inflation für Oktober (erwartet rund 3,2%) — die einzige große Zahl des Tages; ein Zinsentscheid steht diese Woche nicht an (nächster erst am 9. Dezember)."
    ],
    "gestern": [
-    "🇺🇸 Die vergangene Woche gehörte dem Dollar: Die heiße US-Inflation vom Dienstag (Kernrate +0,3% im Monat, dritter Monat in Folge) besiegelte praktisch die Dezember-Zinserhöhung der US-Notenbank (~88–91% eingepreist).",
-    "💵 Folge: Der Dollar sprang aufs höchste Niveau seit 19 Monaten (Dollar-Index rund 103). Gold stürzte über 5% ab, unter 4.000 Dollar; Bitcoin fiel unter 70.000 Dollar — diesmal war wieder der Dollar der sichere Hafen, nicht Gold.",
-    "🇯🇵 Der Yen blieb mit rund 160 zum Dollar sehr schwach — Japan droht weiter mit Eingriffen am Devisenmarkt."
+    "🇺🇸 Die vergangene Woche gehörte dem Dollar: Die heiße US-Inflation (Kernrate +0,3% im Monat, dritter Monat in Folge) besiegelte praktisch die Dezember-Zinserhöhung (~88–91% eingepreist) und hob den Dollar aufs 19-Monats-Hoch.",
+    "🥇 Gold stürzte über 5% ab, unter 4.000 Dollar; Bitcoin fiel übers Wochenende weiter, unter 65.000 Dollar — diesmal war wieder der Dollar der sichere Hafen, nicht das Gold.",
+    "📅 Wochenende: Börsen und Devisenmarkt ruhten, keine neuen Zahlen; der Handel ist Montag früh in Asien gestartet."
    ]
   }
  },
@@ -4452,7 +4452,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-15T06:08:49.078Z",
+  "stand": "2026-11-16T06:10:51.271Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
   "gewertet": 40,

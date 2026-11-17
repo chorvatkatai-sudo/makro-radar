@@ -23156,7 +23156,7 @@
       "land": "JPY",
       "titel": "Tertiary Industry Activity m/m",
       "impact": "Low",
-      "prognose": "0.0%",
+      "prognose": "0.1%",
       "vorher": "-0.1%",
       "actual": null,
       "notiz": null
@@ -23176,7 +23176,7 @@
       "land": "GBP",
       "titel": "Claimant Count Change",
       "impact": "Low",
-      "prognose": "28.1K",
+      "prognose": "25.4K",
       "vorher": "30.3K",
       "actual": null,
       "notiz": null
@@ -23206,7 +23206,7 @@
       "land": "EUR",
       "titel": "ZEW Economic Sentiment",
       "impact": "Low",
-      "prognose": "18.3",
+      "prognose": "19.1",
       "vorher": "18.5",
       "actual": null,
       "notiz": null
@@ -23216,7 +23216,7 @@
       "land": "EUR",
       "titel": "German ZEW Economic Sentiment",
       "impact": "Low",
-      "prognose": "28.3",
+      "prognose": "28.8",
       "vorher": "28.1",
       "actual": null,
       "notiz": null
@@ -23236,7 +23236,7 @@
       "land": "CAD",
       "titel": "Housing Starts",
       "impact": "Low",
-      "prognose": "243K",
+      "prognose": "241K",
       "vorher": "249K",
       "actual": null,
       "notiz": null
@@ -23276,7 +23276,7 @@
       "land": "USD",
       "titel": "Retail Sales m/m",
       "impact": "High",
-      "prognose": "0.2%",
+      "prognose": "0.1%",
       "vorher": "0.8%",
       "actual": null,
       "notiz": null
@@ -23316,7 +23316,7 @@
       "land": "USD",
       "titel": "Industrial Production m/m",
       "impact": "Low",
-      "prognose": "0.1%",
+      "prognose": "0.0%",
       "vorher": "0.7%",
       "actual": null,
       "notiz": null
@@ -23416,7 +23416,7 @@
       "land": "JPY",
       "titel": "Trade Balance",
       "impact": "Low",
-      "prognose": "-0.88T",
+      "prognose": "-0.90T",
       "vorher": "-0.70T",
       "actual": null,
       "notiz": null
@@ -23426,7 +23426,7 @@
       "land": "AUD",
       "titel": "Wage Price Index q/q",
       "impact": "Medium",
-      "prognose": "0.9%",
+      "prognose": "1.0%",
       "vorher": "0.8%",
       "actual": null,
       "notiz": null
@@ -23606,7 +23606,7 @@
       "land": "USD",
       "titel": "Pending Home Sales m/m",
       "impact": "Low",
-      "prognose": "-2.3%",
+      "prognose": "-2.1%",
       "vorher": "-7.3%",
       "actual": null,
       "notiz": null
@@ -23706,7 +23706,7 @@
       "land": "JPY",
       "titel": "Core Machinery Orders m/m",
       "impact": "Low",
-      "prognose": "1.4%",
+      "prognose": "1.3%",
       "vorher": "5.2%",
       "actual": null,
       "notiz": null
@@ -23716,7 +23716,7 @@
       "land": "AUD",
       "titel": "Employment Change",
       "impact": "High",
-      "prognose": "25.2K",
+      "prognose": "25.5K",
       "vorher": "-39.3K",
       "actual": null,
       "notiz": null
@@ -24088,6 +24088,46 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "3.3%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-16T18:10:00-05:00|USD|FOMC Member Barkin Speaks": {
+      "datum": "2026-11-16T18:10:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Member Barkin Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-16T18:30:00-05:00|USD|FOMC Member Goolsbee Speaks": {
+      "datum": "2026-11-16T18:30:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-18T12:15:00-05:00|USD|FOMC Member Daly Speaks": {
+      "datum": "2026-11-18T12:15:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Member Daly Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-19T09:25:00-05:00|USD|FOMC Member Jefferson Speaks": {
+      "datum": "2026-11-19T09:25:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Member Jefferson Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

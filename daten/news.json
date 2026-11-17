@@ -1,11 +1,23 @@
 {
-  "stand": "2026-11-16T16:53:24.280Z",
+  "stand": "2026-11-17T00:42:34.064Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Chip stocks dump again",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-chip-stocks-dump-again/",
+      "datum": "2026-11-16T21:19:27.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US banking websites are having problems",
+      "link": "https://investinglive.com/news/us-banking-websites-are-having-problems/",
+      "datum": "2026-11-16T18:42:55.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Canada October CPI 3.1% vs +3.2% expected",
@@ -65,18 +77,6 @@
       "titel": "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers weigh",
       "link": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/",
       "datum": "2026-11-15T23:57:57.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump out of public view since Wednesday, fuelling speculation on his wherabouts",
-      "link": "https://investinglive.com/news/trump-out-of-public-view-since-wednesday-fuelling-speculation-on-hiw-wherabouts/",
-      "datum": "2026-11-15T23:05:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of growth",
-      "link": "https://investinglive.com/news/new-zealand-services-psi-hits-3-5-year-high-at-51-7-fifth-straight-month-of-growth/",
-      "datum": "2026-11-15T21:42:46.000Z"
     },
     {
       "quelle": "Fed",

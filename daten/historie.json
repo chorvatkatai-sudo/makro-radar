@@ -23278,8 +23278,8 @@
       "impact": "High",
       "prognose": "0.1%",
       "vorher": "0.8%",
-      "actual": null,
-      "notiz": null
+      "actual": "0.2%",
+      "notiz": "auto:TV retailMoM (2026-11-17)"
     },
     "2026-11-17T08:30:00-05:00|USD|Import Prices m/m": {
       "datum": "2026-11-17T08:30:00-05:00",
@@ -23616,7 +23616,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-0.5M",
       "vorher": "4.7M",
       "actual": null,
       "notiz": null

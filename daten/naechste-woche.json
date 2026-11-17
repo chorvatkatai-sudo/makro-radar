@@ -385,7 +385,7 @@
     "title": "ADP Employment Change Weekly",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "23750",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -395,7 +395,7 @@
     "title": "Redbook YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "9.5%",
     "actual": null,
     "quelle": "tradingview"
   },

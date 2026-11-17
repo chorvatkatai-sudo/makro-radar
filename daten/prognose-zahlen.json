@@ -1,38 +1,38 @@
 {
-  "stand": "2026-11-17T14:02:18.603Z",
+  "stand": "2026-11-17T16:47:46.452Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
-  "gewertet": 40,
-  "nichtWertbar": 48,
-  "treffer": 17,
-  "quote": 43,
+  "gewertet": 41,
+  "nichtWertbar": 47,
+  "treffer": 18,
+  "quote": 44,
   "zinsentscheide": {
     "treffer": 11,
     "gesamt": 11,
     "quote": 100
   },
   "datenPrognosen": {
-    "treffer": 6,
-    "gesamt": 29,
-    "quote": 21,
-    "pWert": 0.002
+    "treffer": 7,
+    "gesamt": 30,
+    "quote": 23,
+    "pWert": 0.005
   },
   "richtungBeiAbweichung": {
-    "treffer": 6,
-    "gesamt": 23,
-    "quote": 26,
-    "pWert": 0.035
+    "treffer": 7,
+    "gesamt": 24,
+    "quote": 29,
+    "pWert": 0.064
   },
   "richtungsCalls": {
-    "treffer": 6,
-    "gesamt": 16,
-    "quote": 38,
-    "pWert": 0.454
+    "treffer": 7,
+    "gesamt": 17,
+    "quote": 41,
+    "pWert": 0.629
   },
   "exakt": {
-    "treffer": 4,
-    "gesamt": 19,
-    "quote": 21
+    "treffer": 5,
+    "gesamt": 20,
+    "quote": 25
   },
   "textdeutung": {
     "treffer": 13,
@@ -40,15 +40,6 @@
     "quote": 62
   },
   "letzte": [
-    {
-      "event": "Kanada-Verbraucherinflation (CPI September) — y/y",
-      "datum": "2026-10-19",
-      "richtung": "hoeher",
-      "tatsaechlich": "niedriger",
-      "konsens": "0.2%",
-      "ist": "0.1%",
-      "treffer": false
-    },
     {
       "event": "UK-Verbraucherinflation (CPI September) — y/y",
       "datum": "2026-10-21",
@@ -111,6 +102,15 @@
       "konsens": "0.3%",
       "ist": "0.5%",
       "treffer": false
+    },
+    {
+      "event": "US-Einzelhandel Oktober (im Monat)",
+      "datum": "2026-11-17",
+      "richtung": "hoeher",
+      "tatsaechlich": "hoeher",
+      "konsens": "0.1%",
+      "ist": "0.2%",
+      "treffer": true
     }
   ]
 }

@@ -1,11 +1,35 @@
 {
-  "stand": "2026-11-17T14:02:18.589Z",
+  "stand": "2026-11-17T16:47:46.443Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "It's getting tough to believe all these internet outages are a coincidence",
+      "link": "https://investinglive.com/news/it-s-getting-tough-to-believe-all-these-internet-outages-are-a-coincidence/",
+      "datum": "2026-11-17T15:49:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US Sept business inventories +0.5% vs +0.4% prior",
+      "link": "https://investinglive.com/news/us-sept-business-inventories-vs-0-4-prior/",
+      "datum": "2026-11-17T15:08:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "NAHB housing market index for November 25 vs 29 estimate",
+      "link": "https://investinglive.com/news/nahb-housing-market-index-for-november-25-vs-29-estimate/",
+      "datum": "2026-11-17T15:00:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US October industrial production -0.4% vs +0.1% expected",
+      "link": "https://investinglive.com/news/us-october-industrial-production-0-4-vs-0-1-expected/",
+      "datum": "2026-11-17T14:17:35.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US October advance retail sales +0.2% vs +0.2% expected",
@@ -53,30 +77,6 @@
       "titel": "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
       "datum": "2026-11-17T04:51:02.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "WSJ: US imposes chip export licenses on 5 countries to close China’s data center loophole",
-      "link": "https://investinglive.com/news/wsj-us-imposes-chip-export-licenses-on-5-countries-to-close-china-s-data-center-loophole/",
-      "datum": "2026-11-17T01:23:52.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US warns Americans in Europe of holiday terror risk as bomb hoaxes disrupt flights",
-      "link": "https://investinglive.com/news/us-warns-americans-in-europe-of-holiday-terror-risk-as-bomb-hoaxes-disrupt-flights/",
-      "datum": "2026-11-17T00:01:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Chip stocks dump again",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-chip-stocks-dump-again/",
-      "datum": "2026-11-16T21:19:27.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US banking websites are having problems",
-      "link": "https://investinglive.com/news/us-banking-websites-are-having-problems/",
-      "datum": "2026-11-16T18:42:55.000Z"
     },
     {
       "quelle": "Fed",

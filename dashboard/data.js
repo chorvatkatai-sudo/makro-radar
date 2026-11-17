@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-17T06:10:37.287Z",
+ "erstellt": "2026-11-17T06:11:16.825Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -250,6 +250,15 @@ window.MAKRO_DATA = {
    "country": "USD",
    "date": "2026-11-16T18:30:00-05:00",
    "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": null
+  },
+  {
+   "title": "RBNZ Gov Breman Speaks",
+   "country": "NZD",
+   "date": "2026-11-16T19:00:00-05:00",
+   "impact": "Medium",
    "forecast": "",
    "previous": "",
    "actual": null
@@ -3905,18 +3914,17 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-17T00:42:33.462Z",
+  "stand": "2026-11-17T06:11:15.936Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 103.59,
+    "wert": 103.44,
     "tagProzent": 0,
-    "wocheProzent": 1.33,
+    "wocheProzent": 0.52,
     "renditeDelta": false,
     "verlauf": [
-     101.98,
      101.73,
      101.78,
      101.61,
@@ -3936,8 +3944,9 @@ window.MAKRO_DATA = {
      102.91,
      103.17,
      103.41,
-     103.59,
-     103.59
+     103.55,
+     103.44,
+     103.44
     ]
    },
    "VIX": {
@@ -3977,12 +3986,11 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.29,
+    "wert": 85,
     "tagProzent": 0,
-    "wocheProzent": -0.87,
+    "wocheProzent": -1.77,
     "renditeDelta": false,
     "verlauf": [
-     103.66,
      101.79,
      97.15,
      99.47,
@@ -4002,20 +4010,20 @@ window.MAKRO_DATA = {
      86.53,
      88.74,
      88.56,
-     85.29,
-     85.29
+     85.72,
+     85,
+     85
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 92.01,
+    "wert": 91.79,
     "tagProzent": 0,
-    "wocheProzent": 0.57,
+    "wocheProzent": -1.05,
     "renditeDelta": false,
     "verlauf": [
-     109.55,
      108.79,
      108.82,
      113.17,
@@ -4035,20 +4043,20 @@ window.MAKRO_DATA = {
      92.76,
      95.82,
      95.84,
-     92.01,
-     92.01
+     92.44,
+     91.79,
+     91.79
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3860.3,
+    "wert": 3882.7,
     "tagProzent": 0,
-    "wocheProzent": -4.22,
+    "wocheProzent": -2.94,
     "renditeDelta": false,
     "verlauf": [
-     4160.1,
      4142.6,
      4150,
      4060.4,
@@ -4068,8 +4076,9 @@ window.MAKRO_DATA = {
      4000.5,
      3885.3,
      3886.3,
-     3860.3,
-     3860.3
+     3853,
+     3882.7,
+     3882.7
     ]
    },
    "US02Y": {
@@ -4090,8 +4099,8 @@ window.MAKRO_DATA = {
      4.75,
      4.75,
      4.75,
-     4.75,
      4.573,
+     4.775,
      4.775,
      4.775,
      4.775,
@@ -4175,9 +4184,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 64536.12,
+    "wert": 64697.55,
     "tagProzent": 0,
-    "wocheProzent": -9.54,
+    "wocheProzent": -9.31,
     "renditeDelta": false,
     "verlauf": [
      80805.08,
@@ -4200,8 +4209,8 @@ window.MAKRO_DATA = {
      68249.27,
      64128.05,
      65305.06,
-     64536.12,
-     64536.12
+     64697.55,
+     64697.55
     ]
    },
    "FEDFUT": {
@@ -4213,12 +4222,12 @@ window.MAKRO_DATA = {
     "wocheProzent": 0.28,
     "renditeDelta": true,
     "verlauf": [
-     3.88,
      3.89,
      3.89,
      3.88,
      3.88,
      3.89,
+     3.88,
      3.88,
      3.88,
      3.88,
@@ -4333,8 +4342,8 @@ window.MAKRO_DATA = {
    "stand": "2026-11-17",
    "werte": {
     "USD": {
-     "wert": 4.827,
-     "wocheDelta": 0.315
+     "wert": 4.815,
+     "wocheDelta": 0.303
     },
     "EUR": {
      "wert": 3.13,
@@ -4345,12 +4354,12 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.24
     },
     "JPY": {
-     "wert": 1.871,
-     "wocheDelta": 0.151
+     "wert": 1.878,
+     "wocheDelta": 0.158
     },
     "AUD": {
-     "wert": 4.909,
-     "wocheDelta": 0.065
+     "wert": 4.924,
+     "wocheDelta": 0.08
     },
     "CAD": {
      "wert": 3.32,
@@ -4361,8 +4370,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.143
     },
     "NZD": {
-     "wert": 3.968,
-     "wocheDelta": 0.148
+     "wert": 3.97,
+     "wocheDelta": 0.15
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -4401,9 +4410,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 3,
    "tiltCot": -5,
-   "tiltZins": 7,
-   "tiltGesamt": 2,
-   "score": 5,
+   "tiltZins": 6,
+   "tiltGesamt": 1,
+   "score": 4,
    "cotExtrem": "erhoeht",
    "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung), ABER Japans Interventionsgefahr nahe 160 + crowded-long-Spekulanten deckeln.",
    "istCross": false
@@ -4423,9 +4432,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": 2,
    "tiltCot": 2,
-   "tiltZins": 6,
-   "tiltGesamt": 8,
-   "score": 10,
+   "tiltZins": 5,
+   "tiltGesamt": 7,
+   "score": 9,
    "cotExtrem": null,
    "treiber": "Dollar stark; Öl etwas weicher (WTI ~85$) und kanadische Inflation kam kühler (3,1%, Kern unter Ziel) — die Loonie-Puffer bröckeln, extreme Shorts federn ab.",
    "istCross": false
@@ -4434,9 +4443,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": 4,
    "tiltCot": 1,
-   "tiltZins": 7,
-   "tiltGesamt": 8,
-   "score": 12,
+   "tiltZins": 6,
+   "tiltGesamt": 7,
+   "score": 11,
    "cotExtrem": null,
    "treiber": "Klarster Dollar-Long: der Franken verlor seinen Hafen-Bonus, Gold stürzte, die Börsen beruhigten sich.",
    "istCross": false
@@ -4445,9 +4454,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -3,
    "tiltCot": -5,
-   "tiltZins": -7,
-   "tiltGesamt": -12,
-   "score": -15,
+   "tiltZins": -6,
+   "tiltGesamt": -11,
+   "score": -14,
    "cotExtrem": "erhoeht",
    "treiber": "Schwache NZ-Jobs + einziger fallender 2-Jahres-Zins (Zins gegen den Kiwi) + Extrem-Shorts.",
    "istCross": false
@@ -4498,7 +4507,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-17T06:10:37.286Z",
+  "stand": "2026-11-17T06:11:16.393Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
   "gewertet": 40,
@@ -4614,7 +4623,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-17T00:42:34.510Z",
+  "stand": "2026-11-17T06:11:16.824Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4853,13 +4862,31 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-17T00:42:34.064Z",
+  "stand": "2026-11-17T06:11:16.385Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
+    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
+    "datum": "2026-11-17T04:51:02.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "WSJ: US imposes chip export licenses on 5 countries to close China’s data center loophole",
+    "link": "https://investinglive.com/news/wsj-us-imposes-chip-export-licenses-on-5-countries-to-close-china-s-data-center-loophole/",
+    "datum": "2026-11-17T01:23:52.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US warns Americans in Europe of holiday terror risk as bomb hoaxes disrupt flights",
+    "link": "https://investinglive.com/news/us-warns-americans-in-europe-of-holiday-terror-risk-as-bomb-hoaxes-disrupt-flights/",
+    "datum": "2026-11-17T00:01:41.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "investingLive Americas market news wrap: Chip stocks dump again",
@@ -4913,60 +4940,6 @@ window.MAKRO_DATA = {
     "titel": "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households",
     "link": "https://investinglive.com/news/japan-economy-shrinks-0-1-in-q3-first-fall-in-4-quarters-as-inflation-hits-households/",
     "datum": "2026-11-16T02:44:54.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "China’s October data shows the economy losing momentum on retail sales and industry output",
-    "link": "https://investinglive.com/news/china-s-october-data-shows-the-economy-losing-momentum-on-retail-sales-and-industry-output/",
-    "datum": "2026-11-16T02:09:25.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "China house prices continue their downward spiral",
-    "link": "https://investinglive.com/news/china-house-prices-continue-their-downward-spiral/",
-    "datum": "2026-11-16T01:35:46.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers weigh",
-    "link": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/",
-    "datum": "2026-11-15T23:57:57.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Agencies extend comment period for proposed third-party risk management guidance",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-    "datum": "2026-11-13T21:15:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-    "datum": "2026-11-12T18:30:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-    "datum": "2026-11-12T17:45:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-    "datum": "2026-11-12T16:00:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-    "datum": "2026-11-09T21:00:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-    "datum": "2026-11-05T16:00:00.000Z"
    }
   ]
  },
@@ -6220,5 +6193,5 @@ window.MAKRO_DATA = {
    "notiz": "auto:FRED CPILFENS (Ref 2026-08-01)"
   }
  ],
- "anzahlGespeichert": 2413
+ "anzahlGespeichert": 2414
 };

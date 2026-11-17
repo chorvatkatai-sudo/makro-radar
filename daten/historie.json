@@ -24130,6 +24130,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-16T19:00:00-05:00|NZD|RBNZ Gov Breman Speaks": {
+      "datum": "2026-11-16T19:00:00-05:00",
+      "land": "NZD",
+      "titel": "RBNZ Gov Breman Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

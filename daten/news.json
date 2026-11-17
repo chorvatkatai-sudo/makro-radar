@@ -1,11 +1,29 @@
 {
-  "stand": "2026-11-17T00:42:34.064Z",
+  "stand": "2026-11-17T06:11:16.385Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
+      "datum": "2026-11-17T04:51:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "WSJ: US imposes chip export licenses on 5 countries to close China’s data center loophole",
+      "link": "https://investinglive.com/news/wsj-us-imposes-chip-export-licenses-on-5-countries-to-close-china-s-data-center-loophole/",
+      "datum": "2026-11-17T01:23:52.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US warns Americans in Europe of holiday terror risk as bomb hoaxes disrupt flights",
+      "link": "https://investinglive.com/news/us-warns-americans-in-europe-of-holiday-terror-risk-as-bomb-hoaxes-disrupt-flights/",
+      "datum": "2026-11-17T00:01:41.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas market news wrap: Chip stocks dump again",
@@ -59,60 +77,6 @@
       "titel": "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households",
       "link": "https://investinglive.com/news/japan-economy-shrinks-0-1-in-q3-first-fall-in-4-quarters-as-inflation-hits-households/",
       "datum": "2026-11-16T02:44:54.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China’s October data shows the economy losing momentum on retail sales and industry output",
-      "link": "https://investinglive.com/news/china-s-october-data-shows-the-economy-losing-momentum-on-retail-sales-and-industry-output/",
-      "datum": "2026-11-16T02:09:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China house prices continue their downward spiral",
-      "link": "https://investinglive.com/news/china-house-prices-continue-their-downward-spiral/",
-      "datum": "2026-11-16T01:35:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers weigh",
-      "link": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/",
-      "datum": "2026-11-15T23:57:57.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Agencies extend comment period for proposed third-party risk management guidance",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-      "datum": "2026-11-13T21:15:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "datum": "2026-11-12T18:30:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "datum": "2026-11-12T17:45:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-      "datum": "2026-11-12T16:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "datum": "2026-11-09T21:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-      "datum": "2026-11-05T16:00:00.000Z"
     }
   ]
 }

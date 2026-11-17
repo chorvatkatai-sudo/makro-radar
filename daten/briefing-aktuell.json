@@ -25,27 +25,27 @@
     "GBP": {
       "stimmung": "neutral",
       "score": 0,
-      "grund": "Solides Wachstum (+0,7% im Quartal, KI-getrieben), heiße Inflation nächste Woche erwartet (3,7%) und die Bank von England bei 4,00% = die widerstandsfähigste Nicht-Dollar-Währung. Auf eigene Stärke neutral."
+      "grund": "Am widerstandsfähigsten unter den Nicht-Dollar-Währungen: solides Wachstum (+0,7% im Quartal), Arbeitsmarkt kühlt nur langsam, heiße Inflation MORGEN (~3,7%) + Notenbank bei 4,00% = kein Short-Übergewicht."
     },
     "JPY": {
       "stimmung": "bärisch",
       "score": -3,
-      "grund": "Fundamental schwach, nahe 160 zum Dollar, Zins-Nachteil (Carry). ABER Japans Interventionsdrohung + die überfüllte Wett-Position auf einen stärkeren Yen (Rückschlag-Risiko) deckeln — daher bewusst nur moderat."
+      "grund": "Fundamental schwach: Wirtschaft schrumpfte im Q3, Yen nahe 160, Zins-Nachteil (Carry). ABER die Spekulanten sind bereits extrem long (z+1,78) + hohe Interventionsgefahr deckeln die Dollar-Stärke hier."
     },
     "CHF": {
       "stimmung": "bärisch",
       "score": -3,
-      "grund": "Der Panik-/Hafen-Zufluss der Vorwoche hat sich aufgelöst (Gold stürzte unter 4.000$, die Börsen beruhigten sich) — der Franken ist diese Woche der klarste Verlierer auf der Dollar-Seite, mit benennbarem Grund."
+      "grund": "Der Panik-/Hafen-Zufluss der Vorwoche löst sich weiter auf (Gold auf Ein-Jahres-Tief) — diesmal ist der Dollar der Hafen, nicht der Franken. Klarster Dollar-Seiten-Verlierer."
     },
     "CAD": {
       "stimmung": "bärisch",
       "score": -1,
-      "grund": "Öl fest (+3–5%) und die Inflation tickt nächste Woche voraussichtlich hoch — das stützt den Loonie gegen die allgemeine Dollar-Stärke, daher nur leicht negativ."
+      "grund": "Öl etwas weicher (WTI ~85$) und die Inflation kam kühler als erwartet (3,1%, Kern unter Ziel) — die Puffer für den Loonie bröckeln leicht; die extrem gedrückten Short-Positionen federn noch ab."
     },
     "AUD": {
       "stimmung": "bärisch",
-      "score": -2,
-      "grund": "Risiko-Währung, das Zinsmomentum ist flach, und die extrem hohen Short-Wetten bremsen den Rückgang; die Beruhigung an den Börsen (Risk-on) hilft ein wenig."
+      "score": -3,
+      "grund": "Risiko-Währung — das Angst-Barometer sprang zurück auf ~23 (Technologie-Aktien fielen), dazu Chinas schwächere Nachfrage; die extrem hohen Short-Wetten (z−2,56) bremsen nur die Geschwindigkeit nach unten."
     },
     "NZD": {
       "stimmung": "bärisch",
@@ -67,17 +67,17 @@
     {
       "paar": "USD/JPY",
       "score": 3,
-      "treiber": "Dollar stark + Yen fundamental schwach, ABER Japans Interventionsdrohung deckelt nach oben — bewusst nicht maximal long."
+      "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung), ABER Japans Interventionsgefahr nahe 160 + crowded-long-Spekulanten deckeln."
     },
     {
       "paar": "AUD/USD",
       "score": -3,
-      "treiber": "Risiko-Währung gegen starken Dollar; Extrem-Shorts bremsen, Risk-on hilft ein wenig."
+      "treiber": "Risiko-Währung gegen starken Dollar + Angst-Barometer zurück auf ~23 (Technologie-Abverkauf); Extrem-Shorts bremsen das Tempo, Zinsmomentum flach."
     },
     {
       "paar": "USD/CAD",
       "score": 2,
-      "treiber": "Dollar stark, aber teures Öl (WTI 89$) + anziehende kanadische Inflation federn den Loonie — daher nur moderat."
+      "treiber": "Dollar stark; Öl etwas weicher (WTI ~85$) und kanadische Inflation kam kühler (3,1%, Kern unter Ziel) — die Loonie-Puffer bröckeln, extreme Shorts federn ab."
     },
     {
       "paar": "USD/CHF",
@@ -200,19 +200,20 @@
     "Klumpen-Hinweis: Diese Woche sind 6 von 7 Paaren dollar-stark ausgerichtet = im Kern EINE Wette. Das ist bewusst so (echte Dollar-Woche mit benennbarem Grund), aber transparent gelöst durch paar-eigene Nuancen: USD/JPY nur +3 wegen Interventionsrisiko, USD/CAD nur +2 wegen Öl, EUR/AUD/NZD durch Extrem-Shorts (Squeeze) gebremst. GBP neutral (eigene Stärke)."
   ],
   "tagesnews": {
-    "stand": "2026-11-16",
-    "wochentag": "Montag",
-    "tenor": "Der Dollar startet die Woche auf dem höchsten Stand seit 19 Monaten; heute Nachmittag ist Kanadas Inflation die wichtigste Zahl, der Wochen-Höhepunkt folgt Mittwoch mit Großbritanniens Inflation.",
+    "stand": "2026-11-17",
+    "wochentag": "Dienstag",
+    "tenor": "Die Nervosität ist zurück: Technologie-Aktien fielen, das Angst-Barometer sprang hoch — doch diesmal flüchten alle in den Dollar, nicht in Gold; heute britischer Arbeitsmarkt und US-Einzelhandel.",
     "heute": [
-      "🇺🇸 Der Dollar beginnt die Woche auf dem höchsten Stand seit 19 Monaten (Dollar-Index rund 103,4) — die heiße Inflation der Vorwoche hält die Dezember-Zinserhöhung praktisch fest eingepreist; die zehnjährige US-Anleiherendite liegt über 5%.",
-      "🇯🇵 Japans Wirtschaft schrumpfte im dritten Quartal (schwächer als die erhofften +0,1%, US-Zölle drückten die Exporte) — der Yen bleibt mit rund 160 zum Dollar sehr schwach, nahe der Marke, an der Japan zuletzt am Markt eingriff.",
-      "🇨🇳 Chinas Industrie und Einzelhandel wuchsen im Oktober langsamer — die gedämpfte Nachfrage belastet die Rohstoff-Währungen (Australischer und Neuseeland-Dollar) ein wenig.",
-      "🇨🇦 Heute um 14:30 (Wien) kommt Kanadas Inflation für Oktober (erwartet rund 3,2%) — die einzige große Zahl des Tages; ein Zinsentscheid steht diese Woche nicht an (nächster erst am 9. Dezember)."
+      "🇬🇧 Heute früh kamen die britischen Arbeitsmarktzahlen (Lohnwachstum rund 3,7%, Arbeitslosigkeit um 4,7–5%) — der Arbeitsmarkt kühlt langsam über weniger Neueinstellungen ab; morgen folgt mit der britischen Inflation (erwartet heiß, ~3,7%) das eigentliche Pfund-Ereignis.",
+      "🇺🇸 Heute um 14:30 (Wien) kommen die US-Einzelhandelsumsätze für September (durch den Verwaltungs-Stillstand verspätet, erwartet rund 0%) — ich tippe eher etwas höher, weil Jobs und Konsum zuletzt robust waren.",
+      "📉 Die Stimmung ist wieder nervös: Technologie-/KI-Aktien fielen gestern Richtung der Tiefs von Anfang November, das Angst-Barometer (VIX) sprang auf rund 23 — aber der Dollar steht trotzdem auf dem höchsten Stand seit April 2025, weil die Dezember-Zinserhöhung jetzt zu rund 92–96% eingepreist ist.",
+      "🥇 Gold fiel auf ein Ein-Jahres-Tief (rund 3.830–3.860 Dollar), Bitcoin stürzte weiter unter 65.000 Dollar — die Flucht ins Papiergeld läuft weiter aus, der Dollar ist derzeit der alleinige sichere Hafen."
     ],
     "gestern": [
-      "🇺🇸 Die vergangene Woche gehörte dem Dollar: Die heiße US-Inflation (Kernrate +0,3% im Monat, dritter Monat in Folge) besiegelte praktisch die Dezember-Zinserhöhung (~88–91% eingepreist) und hob den Dollar aufs 19-Monats-Hoch.",
-      "🥇 Gold stürzte über 5% ab, unter 4.000 Dollar; Bitcoin fiel übers Wochenende weiter, unter 65.000 Dollar — diesmal war wieder der Dollar der sichere Hafen, nicht das Gold.",
-      "📅 Wochenende: Börsen und Devisenmarkt ruhten, keine neuen Zahlen; der Handel ist Montag früh in Asien gestartet."
+      "🇨🇦 Kanadas Inflation hielt im Oktober bei 3,1% (knapp unter den erwarteten 3,2%); die Kernmaße kühlten weiter unter das Ziel (Trim 1,8%) — nur Benzin (+30,9%) treibt die Schlagzeile. Die kanadische Notenbank kann gelassen bleiben.",
+      "🇯🇵 Japans Wirtschaft schrumpfte im dritten Quartal (−0,1% aufs Jahr, erster Rückgang seit einem Jahr; der private Konsum fiel zum zweiten Mal in Folge) — schwächer als die erhofften +0,1%. Der Yen bleibt mit rund 160 sehr schwach, Interventionsgefahr.",
+      "🇺🇸 Die vergangene Woche gehörte dem Dollar: heiße US-Inflation (Kernrate +0,3% den dritten Monat) besiegelte praktisch die Dezember-Zinserhöhung und hob den Dollar aufs 19-Monats-Hoch; die zehnjährige US-Rendite liegt über 5%.",
+      "🇨🇳 Chinas Industrie und Einzelhandel wuchsen im Oktober langsamer — die gedämpfte Nachfrage belastet die Rohstoff-Währungen (Australischer und Neuseeland-Dollar) ein wenig."
     ]
   }
 }

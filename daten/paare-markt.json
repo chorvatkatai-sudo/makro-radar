@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-17T00:42:34.066Z",
+  "stand": "2026-11-17T06:10:37.276Z",
   "ausBriefing": "2026-11-13",
   "overlayAktiv": true,
   "paare": [
@@ -33,7 +33,7 @@
       "tiltGesamt": 2,
       "score": 5,
       "cotExtrem": "erhoeht",
-      "treiber": "Dollar stark + Yen fundamental schwach, ABER Japans Interventionsdrohung deckelt nach oben — bewusst nicht maximal long.",
+      "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung), ABER Japans Interventionsgefahr nahe 160 + crowded-long-Spekulanten deckeln.",
       "istCross": false
     },
     {
@@ -44,7 +44,7 @@
       "tiltGesamt": -10,
       "score": -13,
       "cotExtrem": "extrem",
-      "treiber": "Risiko-Währung gegen starken Dollar; Extrem-Shorts bremsen, Risk-on hilft ein wenig.",
+      "treiber": "Risiko-Währung gegen starken Dollar + Angst-Barometer zurück auf ~23 (Technologie-Abverkauf); Extrem-Shorts bremsen das Tempo, Zinsmomentum flach.",
       "istCross": false
     },
     {
@@ -55,7 +55,7 @@
       "tiltGesamt": 8,
       "score": 10,
       "cotExtrem": null,
-      "treiber": "Dollar stark, aber teures Öl (WTI 89$) + anziehende kanadische Inflation federn den Loonie — daher nur moderat.",
+      "treiber": "Dollar stark; Öl etwas weicher (WTI ~85$) und kanadische Inflation kam kühler (3,1%, Kern unter Ziel) — die Loonie-Puffer bröckeln, extreme Shorts federn ab.",
       "istCross": false
     },
     {
@@ -104,11 +104,11 @@
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": 1,
+      "baseScore": 0,
       "tiltCot": 0,
       "tiltZins": -3,
       "tiltGesamt": -3,
-      "score": -2,
+      "score": -3,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

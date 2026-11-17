@@ -23606,7 +23606,7 @@
       "land": "USD",
       "titel": "Pending Home Sales m/m",
       "impact": "Low",
-      "prognose": "-1.8%",
+      "prognose": "-2.0%",
       "vorher": "-7.3%",
       "actual": null,
       "notiz": null
@@ -23616,7 +23616,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "-0.3M",
+      "prognose": "0.4M",
       "vorher": "4.7M",
       "actual": null,
       "notiz": null
@@ -23776,7 +23776,7 @@
       "land": "CAD",
       "titel": "IPPI m/m",
       "impact": "Low",
-      "prognose": "1.2%",
+      "prognose": "0.4%",
       "vorher": "2.0%",
       "actual": null,
       "notiz": null
@@ -23786,7 +23786,7 @@
       "land": "CAD",
       "titel": "RMPI m/m",
       "impact": "Low",
-      "prognose": "2.0%",
+      "prognose": "0.9%",
       "vorher": "4.8%",
       "actual": null,
       "notiz": null
@@ -23806,7 +23806,7 @@
       "land": "USD",
       "titel": "Philly Fed Manufacturing Index",
       "impact": "Medium",
-      "prognose": "19.2",
+      "prognose": "20.6",
       "vorher": "20.9",
       "actual": null,
       "notiz": null
@@ -23816,7 +23816,7 @@
       "land": "USD",
       "titel": "Unemployment Claims",
       "impact": "Medium",
-      "prognose": "199K",
+      "prognose": "198K",
       "vorher": "200K",
       "actual": null,
       "notiz": null
@@ -23856,7 +23856,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "25B",
       "vorher": "61B",
       "actual": null,
       "notiz": null
@@ -24046,7 +24046,7 @@
       "land": "USD",
       "titel": "Revised UoM Consumer Sentiment",
       "impact": "Medium",
-      "prognose": "52.1",
+      "prognose": "51.7",
       "vorher": "51.0",
       "actual": null,
       "notiz": null
@@ -24148,6 +24148,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "3.0%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-17T18:39:00-05:00|AUD|MI Leading Index m/m": {
+      "datum": "2026-11-17T18:39:00-05:00",
+      "land": "AUD",
+      "titel": "MI Leading Index m/m",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-0.1%",
       "actual": null,
       "notiz": null
     }

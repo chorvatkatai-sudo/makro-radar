@@ -1,13 +1,13 @@
 {
-  "stand": "2026-11-17T16:47:45.933Z",
+  "stand": "2026-11-17T23:47:32.085Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
       "einheit": "",
       "typ": "index",
-      "wert": 103.43,
+      "wert": 103.6,
       "tagProzent": 0,
-      "wocheProzent": 0.51,
+      "wocheProzent": 0.67,
       "renditeDelta": false,
       "verlauf": [
         101.73,
@@ -30,17 +30,17 @@
         103.17,
         103.41,
         103.55,
-        103.43,
-        103.43
+        103.6,
+        103.6
       ]
     },
     "VIX": {
       "name": "VIX (Angst-Barometer)",
       "einheit": "",
       "typ": "index",
-      "wert": 26.26,
+      "wert": 25.46,
       "tagProzent": 0,
-      "wocheProzent": 50.14,
+      "wocheProzent": 45.57,
       "renditeDelta": false,
       "verlauf": [
         17.31,
@@ -63,17 +63,17 @@
         18.7,
         19.3,
         22.91,
-        26.26,
-        26.26
+        25.46,
+        25.46
       ]
     },
     "WTI": {
       "name": "Öl WTI",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 86.56,
+      "wert": 85.9,
       "tagProzent": 0,
-      "wocheProzent": 0.03,
+      "wocheProzent": -0.73,
       "renditeDelta": false,
       "verlauf": [
         101.79,
@@ -96,17 +96,17 @@
         88.74,
         88.56,
         85.72,
-        86.56,
-        86.56
+        85.9,
+        85.9
       ]
     },
     "Brent": {
       "name": "Öl Brent",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 93.23,
+      "wert": 93.39,
       "tagProzent": 0,
-      "wocheProzent": 0.51,
+      "wocheProzent": 0.68,
       "renditeDelta": false,
       "verlauf": [
         108.79,
@@ -129,17 +129,17 @@
         95.82,
         95.84,
         92.44,
-        93.23,
-        93.23
+        93.39,
+        93.39
       ]
     },
     "Gold": {
       "name": "Gold",
       "einheit": "$",
       "typ": "rohstoff",
-      "wert": 3872.7,
+      "wert": 3852.6,
       "tagProzent": 0,
-      "wocheProzent": -3.19,
+      "wocheProzent": -3.7,
       "renditeDelta": false,
       "verlauf": [
         4142.6,
@@ -162,8 +162,8 @@
         3885.3,
         3886.3,
         3853,
-        3872.7,
-        3872.7
+        3852.6,
+        3852.6
       ]
     },
     "US02Y": {
@@ -269,9 +269,9 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 63754.14,
+      "wert": 64851.31,
       "tagProzent": 0,
-      "wocheProzent": -6.59,
+      "wocheProzent": -4.98,
       "renditeDelta": false,
       "verlauf": [
         81267.59,
@@ -294,8 +294,8 @@
         64128.05,
         65305.06,
         64855.84,
-        63754.14,
-        63754.14
+        64851.31,
+        64851.31
       ]
     },
     "FEDFUT": {
@@ -427,36 +427,36 @@
     "stand": "2026-11-17",
     "werte": {
       "USD": {
-        "wert": 4.789,
-        "wocheDelta": 0.277
+        "wert": 4.806,
+        "wocheDelta": 0.294
       },
       "EUR": {
-        "wert": 3.118,
-        "wocheDelta": 0.119
+        "wert": 3.11,
+        "wocheDelta": 0.111
       },
       "GBP": {
-        "wert": 4.997,
-        "wocheDelta": 0.236
+        "wert": 4.989,
+        "wocheDelta": 0.228
       },
       "JPY": {
-        "wert": 1.875,
-        "wocheDelta": 0.155
+        "wert": 1.87,
+        "wocheDelta": 0.15
       },
       "AUD": {
-        "wert": 4.895,
-        "wocheDelta": 0.051
+        "wert": 4.915,
+        "wocheDelta": 0.071
       },
       "CAD": {
-        "wert": 3.298,
-        "wocheDelta": 0.152
+        "wert": 3.314,
+        "wocheDelta": 0.168
       },
       "CHF": {
-        "wert": 0.294,
-        "wocheDelta": 0.149
+        "wert": 0.289,
+        "wocheDelta": 0.144
       },
       "NZD": {
-        "wert": 3.97,
-        "wocheDelta": 0.15
+        "wert": 3.975,
+        "wocheDelta": 0.155
       }
     },
     "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"

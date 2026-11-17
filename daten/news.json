@@ -1,11 +1,29 @@
 {
-  "stand": "2026-11-17T16:47:46.443Z",
+  "stand": "2026-11-17T23:47:32.459Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand producer prices rise again in Q3, though at a slower pace",
+      "link": "https://investinglive.com/news/new-zealand-producer-prices-rise-again-in-q3-though-at-a-slower-pace/",
+      "datum": "2026-11-17T22:06:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia 18 November 2026.",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-18-november-2026/",
+      "datum": "2026-11-17T21:04:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: US retail sales continue to show resilience",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-retail-sales-continue-to-show-resilience/",
+      "datum": "2026-11-17T21:02:14.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "It's getting tough to believe all these internet outages are a coincidence",
@@ -59,24 +77,6 @@
       "titel": "Germany November ZEW economic sentiment 35.6 vs 28.8 expected",
       "link": "https://investinglive.com/news/germany-november-zew-economic-sentiment-35-6-vs-28-8-expected/",
       "datum": "2026-11-17T10:00:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-87/",
-      "datum": "2026-11-17T07:47:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK September ILO unemployment rate 4.6% vs 4.7% expected",
-      "link": "https://investinglive.com/news/uk-september-ilo-unemployment-rate-4-6-vs-4-7-expected/",
-      "datum": "2026-11-17T07:00:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
-      "datum": "2026-11-17T04:51:02.000Z"
     },
     {
       "quelle": "Fed",

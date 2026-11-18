@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-17T23:47:33.288Z",
+ "erstellt": "2026-11-18T06:11:44.908Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -3432,20 +3432,20 @@ window.MAKRO_DATA = {
    "Klumpen-Hinweis: Diese Woche sind 6 von 7 Paaren dollar-stark ausgerichtet = im Kern EINE Wette. Das ist bewusst so (echte Dollar-Woche mit benennbarem Grund), aber transparent gelöst durch paar-eigene Nuancen: USD/JPY nur +3 wegen Interventionsrisiko, USD/CAD nur +2 wegen Öl, EUR/AUD/NZD durch Extrem-Shorts (Squeeze) gebremst. GBP neutral (eigene Stärke)."
   ],
   "tagesnews": {
-   "stand": "2026-11-17",
-   "wochentag": "Dienstag",
-   "tenor": "Die Nervosität ist zurück: Technologie-Aktien fielen, das Angst-Barometer sprang hoch — doch diesmal flüchten alle in den Dollar, nicht in Gold; heute britischer Arbeitsmarkt und US-Einzelhandel.",
+   "stand": "2026-11-18",
+   "wochentag": "Mittwoch",
+   "tenor": "Nvidias starke Zahlen beruhigen die Börse nach dem Technologie-Absturz; heute ist die britische Inflation das große Pfund-Ereignis, am Abend kommt das Protokoll der US-Notenbank.",
    "heute": [
-    "🇬🇧 Heute früh kamen die britischen Arbeitsmarktzahlen (Lohnwachstum rund 3,7%, Arbeitslosigkeit um 4,7–5%) — der Arbeitsmarkt kühlt langsam über weniger Neueinstellungen ab; morgen folgt mit der britischen Inflation (erwartet heiß, ~3,7%) das eigentliche Pfund-Ereignis.",
-    "🇺🇸 Heute um 14:30 (Wien) kommen die US-Einzelhandelsumsätze für September (durch den Verwaltungs-Stillstand verspätet, erwartet rund 0%) — ich tippe eher etwas höher, weil Jobs und Konsum zuletzt robust waren.",
-    "📉 Die Stimmung ist wieder nervös: Technologie-/KI-Aktien fielen gestern Richtung der Tiefs von Anfang November, das Angst-Barometer (VIX) sprang auf rund 23 — aber der Dollar steht trotzdem auf dem höchsten Stand seit April 2025, weil die Dezember-Zinserhöhung jetzt zu rund 92–96% eingepreist ist.",
-    "🥇 Gold fiel auf ein Ein-Jahres-Tief (rund 3.830–3.860 Dollar), Bitcoin stürzte weiter unter 65.000 Dollar — die Flucht ins Papiergeld läuft weiter aus, der Dollar ist derzeit der alleinige sichere Hafen."
+    "🇬🇧 Um 8:00 (Wien) kommt die britische Inflation für Oktober — erwartet wird ein Sprung auf rund 3,7% (das höchste seit über einem Jahr, Energie treibt), die Kernrate bei rund 2,8%. Das ist das wichtigste Pfund-Ereignis der Woche: Kommt sie heiß, verfestigt sich die Erwartung einer britischen Zinserhöhung im Dezember und stützt das Pfund.",
+    "🇺🇸 Am Abend (rund 20:00 Wien) wird das Protokoll der letzten US-Notenbank-Sitzung veröffentlicht — es zeigt, wie fest die Dezember-Zinserhöhung im Kopf der Notenbanker sitzt (der Markt preist sie zu rund 88–91% ein).",
+    "📈 Entwarnung nach dem Absturz: Nvidia meldete gestern Abend Rekordzahlen (Quartalsumsatz rund 115 Milliarden Dollar, mehr als verdoppelt) und einen starken Ausblick — die Aktie stieg nachbörslich rund 5%, die US-Terminmärkte drehten ins Plus, die Angst um Künstliche Intelligenz ließ etwas nach.",
+    "💵 Der Dollar bleibt nahe seinem Hoch seit April 2025 (Dollar-Index rund 103,6); Gold hält sich knapp unter 3.860 Dollar, Bitcoin unter 65.000 — die Flucht ins Papiergeld läuft weiter aus, der Dollar ist derzeit der alleinige sichere Hafen."
    ],
    "gestern": [
-    "🇨🇦 Kanadas Inflation hielt im Oktober bei 3,1% (knapp unter den erwarteten 3,2%); die Kernmaße kühlten weiter unter das Ziel (Trim 1,8%) — nur Benzin (+30,9%) treibt die Schlagzeile. Die kanadische Notenbank kann gelassen bleiben.",
-    "🇯🇵 Japans Wirtschaft schrumpfte im dritten Quartal (−0,1% aufs Jahr, erster Rückgang seit einem Jahr; der private Konsum fiel zum zweiten Mal in Folge) — schwächer als die erhofften +0,1%. Der Yen bleibt mit rund 160 sehr schwach, Interventionsgefahr.",
-    "🇺🇸 Die vergangene Woche gehörte dem Dollar: heiße US-Inflation (Kernrate +0,3% den dritten Monat) besiegelte praktisch die Dezember-Zinserhöhung und hob den Dollar aufs 19-Monats-Hoch; die zehnjährige US-Rendite liegt über 5%.",
-    "🇨🇳 Chinas Industrie und Einzelhandel wuchsen im Oktober langsamer — die gedämpfte Nachfrage belastet die Rohstoff-Währungen (Australischer und Neuseeland-Dollar) ein wenig."
+    "📉 Der Dienstag war ein harter Börsentag: Der US-Leitindex Dow verlor rund 848 Punkte (tiefster Schluss seit Juni), der breite Markt fiel auf den tiefsten Stand seit Juli, das Angst-Barometer (VIX) sprang über 25 — Sorge um die hohen Ausgaben für Künstliche Intelligenz und der Chef-Wechsel bei Nvidia drückten die Stimmung.",
+    "🇬🇧 Der britische Arbeitsmarkt (Dienstag) war gemischt: Die Arbeitslosigkeit fiel auf rund 4,6%, aber das Lohnwachstum verlangsamte sich und die Zahl der Hilfe-Anträge stieg. Das Pfund beendete trotzdem eine fünftägige Verlust-Serie und kletterte zurück über 1,32 Dollar.",
+    "🥇 Gold rutschte auf ein Ein-Jahres-Tief (rund 3.850 Dollar), Bitcoin unter 65.000 Dollar — anders als sonst in nervösen Zeiten flüchtet das Geld diesmal in den Dollar, nicht in Gold.",
+    "🇯🇵 Japans Wirtschaft schrumpfte im dritten Quartal (−0,1% aufs Jahr) — der Yen bleibt mit rund 160 sehr schwach, Interventionsgefahr bleibt."
    ]
   }
  },
@@ -4507,7 +4507,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-17T23:47:32.468Z",
+  "stand": "2026-11-18T06:11:44.908Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
   "gewertet": 41,

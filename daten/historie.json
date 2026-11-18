@@ -23448,8 +23448,8 @@
       "impact": "High",
       "prognose": "3.6%",
       "vorher": "3.5%",
-      "actual": null,
-      "notiz": null
+      "actual": "3.6%",
+      "notiz": "auto:TV cpiYoY (2026-11-18)"
     },
     "2026-11-18T02:00:00-05:00|GBP|Core CPI y/y": {
       "datum": "2026-11-18T02:00:00-05:00",
@@ -24158,6 +24158,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "-0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-19T02:02:00-05:00|CNY|Foreign Direct Investment ytd/y": {
+      "datum": "2026-11-19T02:02:00-05:00",
+      "land": "CNY",
+      "titel": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-4.3%",
       "actual": null,
       "notiz": null
     }

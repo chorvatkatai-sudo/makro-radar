@@ -845,7 +845,7 @@
     "title": "MBA 5/1 ARM Contract Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.38%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -855,7 +855,7 @@
     "title": "MBA 5/1 ARM Effective Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.78%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -865,7 +865,7 @@
     "title": "MBA 15-Year Mortgage Contract Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.64%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -875,7 +875,7 @@
     "title": "MBA 15-Year Mortgage Effective Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.9%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -885,7 +885,7 @@
     "title": "MBA 15-Year Mortgage Points",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "1.03%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -895,7 +895,7 @@
     "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-2.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -905,7 +905,7 @@
     "title": "MBA 30-Year Mortgage Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "7.35%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -915,7 +915,7 @@
     "title": "MBA Mortgage Market Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "199.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -925,7 +925,7 @@
     "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "137.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -935,7 +935,7 @@
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "532.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -945,7 +945,7 @@
     "title": "MBA 5/1 ARM Points",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "1.07%",
     "actual": null,
     "quelle": "tradingview"
   },

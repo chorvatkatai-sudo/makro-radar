@@ -24170,6 +24170,16 @@
       "vorher": "-4.3%",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-20T02:02:00-05:00|CNY|Foreign Direct Investment ytd/y": {
+      "datum": "2026-11-20T02:02:00-05:00",
+      "land": "CNY",
+      "titel": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "-4.3%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

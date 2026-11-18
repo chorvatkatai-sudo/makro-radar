@@ -1,11 +1,41 @@
 {
-  "stand": "2026-11-18T16:19:09.824Z",
+  "stand": "2026-11-18T23:19:28.477Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 18 Nov: Waller/Fed minutes put a bigger December hike in play",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-18-nov-waller-fed-minutes-put-a-bigger-december-hike-in-play/",
+      "datum": "2026-11-18T21:33:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Thursday, November 19, 2026: Australian jobs report preview",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-november-19-2026-australian-jobs-report-preview/",
+      "datum": "2026-11-18T21:16:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia jobs preview. Employment expected to rebound after September’s drop. What technical levels are in play?",
+      "link": "https://investinglive.com/news/australia-jobs-preview-employment-expected-to-rebound-after-september-s-drop-what-technical-levels-are-in-play/",
+      "datum": "2026-11-18T20:58:10.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "datum": "2026-11-18T19:00:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
+      "link": "https://investinglive.com/news/the-us-treasury-auctions-16b-of-20-year-bonds-at-a-high-year-at-5-495/",
+      "datum": "2026-11-18T18:04:41.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US October pending home sales -4.7% vs -2.0% expected",
@@ -55,30 +85,6 @@
       "datum": "2026-11-18T02:55:56.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "Recap: Japan exports hit record ¥11.8 trillion as AI chip demand extends run to 14 months",
-      "link": "https://investinglive.com/news/recap-japan-exports-hit-record-11-8-trillion-as-ai-chip-demand-extends-run-to-14-months/",
-      "datum": "2026-11-18T02:09:49.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan’s trade deficit comes in at half the expected size as exports jump 20.5%",
-      "link": "https://investinglive.com/news/japan-s-trade-deficit-comes-in-at-half-the-expected-size-as-exports-jump-20-5/",
-      "datum": "2026-11-18T00:15:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "New Zealand producer prices rise again in Q3, though at a slower pace",
-      "link": "https://investinglive.com/news/new-zealand-producer-prices-rise-again-in-q3-though-at-a-slower-pace/",
-      "datum": "2026-11-17T22:06:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: US retail sales continue to show resilience",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-retail-sales-continue-to-show-resilience/",
-      "datum": "2026-11-17T21:02:14.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Agencies extend comment period for proposed third-party risk management guidance",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
       "datum": "2026-11-09T21:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-      "datum": "2026-11-05T16:00:00.000Z"
     }
   ]
 }

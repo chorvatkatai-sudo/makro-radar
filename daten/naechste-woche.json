@@ -1190,6 +1190,36 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-11-25T13:30:00.000Z",
+    "country": "USD",
+    "title": "Jobless Claims 4-week Average",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-25T13:30:00.000Z",
+    "country": "USD",
+    "title": "Initial Jobless Claims",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-25T13:30:00.000Z",
+    "country": "USD",
+    "title": "Continuing Jobless Claims",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-11-25T15:00:00.000Z",
     "country": "USD",
     "title": "Dallas Fed Trimmed Mean PCE",
@@ -1225,7 +1255,7 @@
     "title": "EIA Ethanol Production",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "1126",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1235,7 +1265,7 @@
     "title": "EIA Ethanol Stocks",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "24908",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1245,7 +1275,7 @@
     "title": "EIA Cushing Crude Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-1.209",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1255,7 +1285,7 @@
     "title": "EIA Crude Oil Imports Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-2.155",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1265,7 +1295,7 @@
     "title": "EIA Refinery Crude Runs Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.129",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1275,7 +1305,7 @@
     "title": "EIA Distillate Fuel Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.14",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1285,7 +1315,7 @@
     "title": "EIA Gasoline Production Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.202",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1295,7 +1325,7 @@
     "title": "EIA Crude Oil Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "3.38",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1305,7 +1335,7 @@
     "title": "EIA Distillate Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1.571",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1315,7 +1345,7 @@
     "title": "EIA Gasoline Stocks Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "5.192",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1325,7 +1355,7 @@
     "title": "EIA Heating Oil Stocks Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.775",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1335,7 +1365,7 @@
     "title": "United States-EIA OIL STOCKS-EIA Weekly Rfg Stocks*",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "-0.002",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1345,7 +1375,7 @@
     "title": "EIA Product Imports Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.568",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1355,7 +1385,7 @@
     "title": "EIA Refinery Utilization Change",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1365,7 +1395,7 @@
     "title": "EIA Crude Oil Exports Change",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "1.033",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2013,36 +2043,6 @@
     "date": "2026-11-27T13:30:00.000Z",
     "country": "USD",
     "title": "USDA Wheat Net Export Sales Total",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-27T13:30:00.000Z",
-    "country": "USD",
-    "title": "Jobless Claims 4-week Average",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-27T13:30:00.000Z",
-    "country": "USD",
-    "title": "Initial Jobless Claims",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-27T13:30:00.000Z",
-    "country": "USD",
-    "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
     "previous": "",

@@ -1,33 +1,33 @@
 {
-  "stand": "2026-11-18T13:36:46.736Z",
+  "stand": "2026-11-18T16:19:10.303Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 48,
-    "treffer": 25,
-    "quote": 52,
-    "schnittGerichtet": 0.041,
-    "schnittBetrag": 0.31,
-    "pWert": 0.885,
+    "faelle": 49,
+    "treffer": 26,
+    "quote": 53,
+    "schnittGerichtet": 0.043,
+    "schnittBetrag": 0.306,
+    "pWert": 0.775,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 89,
-    "treffer": 46,
+    "faelle": 90,
+    "treffer": 47,
     "quote": 52,
-    "schnittGerichtet": 0.037,
-    "schnittBetrag": 0.333,
-    "pWert": 0.832,
+    "schnittGerichtet": 0.038,
+    "schnittBetrag": 0.331,
+    "pWert": 0.752,
     "belastbar": false
   },
   "jeWaehrung": {
     "USD": {
-      "faelle": 16,
-      "treffer": 7,
-      "quote": 44,
-      "schnittGerichtet": 0.006,
-      "schnittBetrag": 0.309,
-      "pWert": 0.804,
+      "faelle": 17,
+      "treffer": 8,
+      "quote": 47,
+      "schnittGerichtet": 0.013,
+      "schnittBetrag": 0.298,
+      "pWert": 1,
       "belastbar": false
     },
     "CAD": {
@@ -87,22 +87,22 @@
       "belastbar": false
     },
     "Wachstum & Konsum": {
-      "faelle": 9,
-      "treffer": 2,
-      "quote": 22,
-      "schnittGerichtet": -0.037,
-      "schnittBetrag": 0.32,
-      "pWert": 0.18,
+      "faelle": 10,
+      "treffer": 3,
+      "quote": 30,
+      "schnittGerichtet": -0.02,
+      "schnittBetrag": 0.301,
+      "pWert": 0.344,
       "belastbar": false
     }
   },
   "jeWaehrungRoh": {
     "USD": {
-      "faelle": 39,
-      "treffer": 19,
-      "quote": 49,
-      "schnittGerichtet": 0.007,
-      "schnittBetrag": 0.316,
+      "faelle": 40,
+      "treffer": 20,
+      "quote": 50,
+      "schnittGerichtet": 0.01,
+      "schnittBetrag": 0.312,
       "pWert": 1,
       "belastbar": false
     },
@@ -144,15 +144,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-10-21",
-      "land": "GBP",
-      "titel": "CPI y/y",
-      "ueberraschung": "hoeher",
-      "erwartet": "stärker",
-      "bewegung": 0.412,
-      "wieErwartet": true
-    },
     {
       "datum": "2026-10-21",
       "land": "NZD",
@@ -233,6 +224,15 @@
       "erwartet": "stärker",
       "bewegung": -0.386,
       "wieErwartet": false
+    },
+    {
+      "datum": "2026-11-17",
+      "land": "USD",
+      "titel": "Retail Sales m/m",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": 0.131,
+      "wieErwartet": true
     }
   ]
 }

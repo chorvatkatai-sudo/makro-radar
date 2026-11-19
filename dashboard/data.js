@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-19T14:03:30.489Z",
+ "erstellt": "2026-11-19T16:28:13.833Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -912,21 +912,21 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
-   "title": "Mortgage Delinquencies",
-   "country": "USD",
-   "date": "2026-11-19T10:15:00-05:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.37%",
-   "actual": null
-  },
-  {
    "title": "Natural Gas Storage",
    "country": "USD",
    "date": "2026-11-19T10:30:00-05:00",
    "impact": "Low",
    "forecast": "25B",
    "previous": "61B",
+   "actual": null
+  },
+  {
+   "title": "Mortgage Delinquencies",
+   "country": "USD",
+   "date": "2026-11-19T11:30:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4.37%",
    "actual": null
   },
   {
@@ -2575,7 +2575,7 @@ window.MAKRO_DATA = {
    "title": "EIA Natural Gas Stocks Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "20 cf",
    "actual": null,
    "quelle": "tradingview"
   },
@@ -3914,15 +3914,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-19T14:03:29.608Z",
+  "stand": "2026-11-19T16:28:12.858Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 103.67,
+    "wert": 103.85,
     "tagProzent": 0,
-    "wocheProzent": 0.25,
+    "wocheProzent": 0.43,
     "renditeDelta": false,
     "verlauf": [
      101.61,
@@ -3945,17 +3945,17 @@ window.MAKRO_DATA = {
      103.55,
      103.49,
      103.86,
-     103.67,
-     103.67
+     103.85,
+     103.85
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 22.6,
+    "wert": 25.26,
     "tagProzent": 0,
-    "wocheProzent": 17.1,
+    "wocheProzent": 30.88,
     "renditeDelta": false,
     "verlauf": [
      19.03,
@@ -3978,17 +3978,17 @@ window.MAKRO_DATA = {
      22.91,
      25.46,
      24.56,
-     22.6,
-     22.6
+     25.26,
+     25.26
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 83.4,
+    "wert": 83.34,
     "tagProzent": 0,
-    "wocheProzent": -5.83,
+    "wocheProzent": -5.89,
     "renditeDelta": false,
     "verlauf": [
      99.47,
@@ -4011,8 +4011,8 @@ window.MAKRO_DATA = {
      85.72,
      86.01,
      83.26,
-     83.4,
-     83.4
+     83.34,
+     83.34
     ]
    },
    "Brent": {
@@ -4052,9 +4052,9 @@ window.MAKRO_DATA = {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3714.6,
+    "wert": 3682.1,
     "tagProzent": 0,
-    "wocheProzent": -4.42,
+    "wocheProzent": -5.25,
     "renditeDelta": false,
     "verlauf": [
      4060.4,
@@ -4077,8 +4077,8 @@ window.MAKRO_DATA = {
      3853,
      3864.2,
      3741.9,
-     3714.6,
-     3714.6
+     3682.1,
+     3682.1
     ]
    },
    "US02Y": {
@@ -4118,9 +4118,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.08,
+    "wert": 5.076,
     "tagProzent": 0,
-    "wocheProzent": -0.07,
+    "wocheProzent": -0.08,
     "renditeDelta": true,
     "verlauf": [
      4.953,
@@ -4143,15 +4143,15 @@ window.MAKRO_DATA = {
      5.121,
      5.103,
      5.066,
-     5.08,
-     5.08
+     5.076,
+     5.076
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.422,
+    "wert": 5.42,
     "tagProzent": 0,
     "wocheProzent": -0.06,
     "renditeDelta": true,
@@ -4176,17 +4176,17 @@ window.MAKRO_DATA = {
      5.467,
      5.458,
      5.412,
-     5.422,
-     5.422
+     5.42,
+     5.42
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 63947.66,
+    "wert": 62997.09,
     "tagProzent": 0,
-    "wocheProzent": -2.08,
+    "wocheProzent": -3.53,
     "renditeDelta": false,
     "verlauf": [
      77198.21,
@@ -4209,8 +4209,8 @@ window.MAKRO_DATA = {
      64855.84,
      64893.95,
      62987.27,
-     63947.66,
-     63947.66
+     62997.09,
+     62997.09
     ]
    },
    "FEDFUT": {
@@ -4342,32 +4342,32 @@ window.MAKRO_DATA = {
    "stand": "2026-11-19",
    "werte": {
     "USD": {
-     "wert": 4.828,
-     "wocheDelta": 0.3
+     "wert": 4.817,
+     "wocheDelta": 0.289
     },
     "EUR": {
-     "wert": 3.156,
-     "wocheDelta": 0.185
+     "wert": 3.16,
+     "wocheDelta": 0.189
     },
     "GBP": {
-     "wert": 4.962,
-     "wocheDelta": 0.24
+     "wert": 4.965,
+     "wocheDelta": 0.243
     },
     "JPY": {
      "wert": 1.85,
      "wocheDelta": 0.075
     },
     "AUD": {
-     "wert": 4.742,
-     "wocheDelta": -0.059
+     "wert": 4.75,
+     "wocheDelta": -0.051
     },
     "CAD": {
-     "wert": 3.326,
-     "wocheDelta": 0.207
+     "wert": 3.331,
+     "wocheDelta": 0.212
     },
     "CHF": {
-     "wert": 0.292,
-     "wocheDelta": 0.139
+     "wert": 0.299,
+     "wocheDelta": 0.146
     },
     "NZD": {
      "wert": 3.915,
@@ -4388,9 +4388,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": -3,
    "tiltCot": -2,
-   "tiltZins": -5,
-   "tiltGesamt": -7,
-   "score": -10,
+   "tiltZins": -4,
+   "tiltGesamt": -6,
+   "score": -9,
    "cotExtrem": "extrem",
    "treiber": "Fester Dollar (19-Monats-Hoch, Risk-off-Hafen, US-2J stärkster Steiger) gegen das Zinsmomentum pro Dollar; Rekord-Euro-Short federt ab.",
    "istCross": false
@@ -4432,9 +4432,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": 2,
    "tiltCot": 2,
-   "tiltZins": 4,
-   "tiltGesamt": 6,
-   "score": 8,
+   "tiltZins": 3,
+   "tiltGesamt": 5,
+   "score": 7,
    "cotExtrem": null,
    "treiber": "Dollar stark; Öl stürzte in der Woche ab (−8%) = Loonie-Gegenwind.",
    "istCross": false
@@ -4476,9 +4476,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/JPY",
    "baseScore": 1,
    "tiltCot": -2,
-   "tiltZins": 4,
-   "tiltGesamt": 2,
-   "score": 3,
+   "tiltZins": 5,
+   "tiltGesamt": 3,
+   "score": 4,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4507,7 +4507,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-19T14:03:30.112Z",
+  "stand": "2026-11-19T16:28:13.349Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
   "gewertet": 41,
@@ -4623,7 +4623,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-19T14:03:30.489Z",
+  "stand": "2026-11-19T16:28:13.832Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4862,13 +4862,19 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-19T14:03:30.101Z",
+  "stand": "2026-11-19T16:28:13.337Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "Fed",
+    "titel": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+    "datum": "2026-11-19T16:00:00.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Canada October producer price index +12.6% vs +14.5% y/y prior",
@@ -4970,12 +4976,6 @@ window.MAKRO_DATA = {
     "titel": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
     "datum": "2026-11-12T16:00:00.000Z"
-   },
-   {
-    "quelle": "Fed",
-    "titel": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-    "datum": "2026-11-09T21:00:00.000Z"
    }
   ]
  },
@@ -6229,5 +6229,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 2418
+ "anzahlGespeichert": 2419
 };

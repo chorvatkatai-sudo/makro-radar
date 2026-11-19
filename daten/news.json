@@ -1,11 +1,17 @@
 {
-  "stand": "2026-11-19T14:03:30.101Z",
+  "stand": "2026-11-19T16:28:13.337Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+      "datum": "2026-11-19T16:00:00.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Canada October producer price index +12.6% vs +14.5% y/y prior",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
       "datum": "2026-11-12T16:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "datum": "2026-11-09T21:00:00.000Z"
     }
   ]
 }

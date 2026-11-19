@@ -1,11 +1,29 @@
 {
-  "stand": "2026-11-18T23:19:28.477Z",
+  "stand": "2026-11-19T06:13:29.663Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-92-as-gulf-attacks-mount/",
+      "datum": "2026-11-19T04:55:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
+      "link": "https://investinglive.com/news/australian-unemployment-rate-jumps-to-4-9-in-october-against-4-7-expected/",
+      "datum": "2026-11-19T00:34:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Moody’s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growth this year",
+      "link": "https://investinglive.com/news/moody-s-keeps-us-rating-at-aa1-as-the-economy-beats-forecasts-seeing-2-3-growth-this-year/",
+      "datum": "2026-11-18T23:18:04.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 18 Nov: Waller/Fed minutes put a bigger December hike in play",
@@ -65,24 +83,6 @@
       "titel": "UK October CPI +3.6% vs +3.6% y/y expected",
       "link": "https://investinglive.com/news/uk-october-cpi-3-6-vs-3-6-y-y-expected/",
       "datum": "2026-11-18T07:00:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Gold breaks below $3,800",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-breaks-below-3-800/",
-      "datum": "2026-11-18T04:35:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Recap: Australian wages grow at fastest pace in nearly 3 years, yet swaps see a 75% RBA peak",
-      "link": "https://investinglive.com/news/recap-australian-wages-grow-at-fastest-pace-in-nearly-3-years-yet-swaps-see-a-75-rba-peak/",
-      "datum": "2026-11-18T03:51:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "TSMC reportedly demands cash up front from AI chip clients amid circular financing fears",
-      "link": "https://investinglive.com/news/tsmc-reportedly-demands-cash-up-front-from-ai-chip-clients-amid-circular-financing-fears/",
-      "datum": "2026-11-18T02:55:56.000Z"
     },
     {
       "quelle": "Fed",

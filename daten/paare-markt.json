@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-18T23:19:28.479Z",
+  "stand": "2026-11-19T06:11:33.936Z",
   "ausBriefing": "2026-11-13",
   "overlayAktiv": true,
   "paare": [
@@ -11,7 +11,7 @@
       "tiltGesamt": -8,
       "score": -11,
       "cotExtrem": "extrem",
-      "treiber": "Fester Dollar (heiße US-Inflation, US-Zins stieg am stärksten) drückt; die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab.",
+      "treiber": "Fester Dollar (19-Monats-Hoch, Risk-off-Hafen, US-2J stärkster Steiger) gegen das Zinsmomentum pro Dollar; Rekord-Euro-Short federt ab.",
       "istCross": false
     },
     {
@@ -22,7 +22,7 @@
       "tiltGesamt": -10,
       "score": -12,
       "cotExtrem": null,
-      "treiber": "Pfund am widerstandsfähigsten (BIP +0,7%, heiße Inflation nächste Woche, BoE bei 4,00%) — daher am wenigsten dollar-negativ.",
+      "treiber": "Pfund am widerstandsfähigsten, aber Inflation kühler als erwartet; starker Dollar dominiert.",
       "istCross": false
     },
     {
@@ -33,7 +33,7 @@
       "tiltGesamt": 1,
       "score": 4,
       "cotExtrem": "erhoeht",
-      "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung), ABER Japans Interventionsgefahr nahe 160 + crowded-long-Spekulanten deckeln.",
+      "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung, nahe 160) — nach oben durch Interventionsgefahr + crowded-long gedeckelt.",
       "istCross": false
     },
     {
@@ -44,7 +44,7 @@
       "tiltGesamt": -10,
       "score": -13,
       "cotExtrem": "extrem",
-      "treiber": "Risiko-Währung gegen starken Dollar + Angst-Barometer zurück auf ~23 (Technologie-Abverkauf); Extrem-Shorts bremsen das Tempo, Zinsmomentum flach.",
+      "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer zurück auf ~24,5.",
       "istCross": false
     },
     {
@@ -55,7 +55,7 @@
       "tiltGesamt": 7,
       "score": 9,
       "cotExtrem": null,
-      "treiber": "Dollar stark; Öl etwas weicher (WTI ~85$) und kanadische Inflation kam kühler (3,1%, Kern unter Ziel) — die Loonie-Puffer bröckeln, extreme Shorts federn ab.",
+      "treiber": "Dollar stark; Öl stürzte in der Woche ab (−8%) = Loonie-Gegenwind.",
       "istCross": false
     },
     {
@@ -66,7 +66,7 @@
       "tiltGesamt": 7,
       "score": 11,
       "cotExtrem": null,
-      "treiber": "Klarster Dollar-Long: der Franken verlor seinen Hafen-Bonus, Gold stürzte, die Börsen beruhigten sich.",
+      "treiber": "Klarster Dollar-Long: der Franken bekommt trotz Börsen-Angst keinen Hafen-Zufluss, Gold auf Jahrestief.",
       "istCross": false
     },
     {
@@ -77,16 +77,16 @@
       "tiltGesamt": -12,
       "score": -15,
       "cotExtrem": "erhoeht",
-      "treiber": "Schwache NZ-Jobs + einziger fallender 2-Jahres-Zins (Zins gegen den Kiwi) + Extrem-Shorts.",
+      "treiber": "Schwache NZ-Jobs + Risk-off; Extrem-Short bremst.",
       "istCross": false
     },
     {
       "paar": "EUR/GBP",
-      "baseScore": -1,
+      "baseScore": 0,
       "tiltCot": 0,
       "tiltZins": 0,
       "tiltGesamt": 0,
-      "score": -1,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

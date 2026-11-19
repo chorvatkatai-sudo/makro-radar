@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-18T23:19:28.909Z",
+ "erstellt": "2026-11-19T06:11:33.953Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -3247,79 +3247,79 @@ window.MAKRO_DATA = {
    "USD": {
     "stimmung": "bullisch",
     "score": 5,
-    "grund": "Heiße Kern-Inflation (+0,3% den dritten Monat) besiegelt die Dezember-Zinserhöhung; Dollar-Index auf 19-Monats-Hoch, US-Zins stieg am stärksten von allen. Der einzige größere Score mit klar benennbarem Grund."
+    "grund": "Dollar-Index auf 19-Monats-Hoch (~103,8) und alleiniger sicherer Hafen in der Angst-Welle (VIX zurück auf ~24,5); US-2-Jahres-Zins stieg mit +0,29 am stärksten. Einziger größerer Score mit klarem Grund."
    },
    "EUR": {
     "stimmung": "bärisch",
     "score": -2,
-    "grund": "Das US-Zinsmomentum läuft klar gegen den Euro; ABER die Rekord-Shorts (größte je gemessene Wette gegen den Euro) sind Squeeze-Pulver und federn den Rückgang am meisten ab — daher nur leicht negativ."
+    "grund": "Zinsmomentum läuft gegen den Euro; die rekordgroße Short-Wette (z −2,5 extrem) federt als Squeeze-Risiko ab."
    },
    "GBP": {
-    "stimmung": "neutral",
-    "score": 0,
-    "grund": "Am widerstandsfähigsten unter den Nicht-Dollar-Währungen: solides Wachstum (+0,7% im Quartal), Arbeitsmarkt kühlt nur langsam, heiße Inflation MORGEN (~3,7%) + Notenbank bei 4,00% = kein Short-Übergewicht."
+    "stimmung": "bärisch",
+    "score": -1,
+    "grund": "Inflation eine Spur kühler als erwartet (3,6% vs 3,7%) nimmt etwas Hike-Druck — bleibt aber die widerstandsfähigste Nicht-Dollar-Währung (BoE 4,00%)."
    },
    "JPY": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Fundamental schwach: Wirtschaft schrumpfte im Q3, Yen nahe 160, Zins-Nachteil (Carry). ABER die Spekulanten sind bereits extrem long (z+1,78) + hohe Interventionsgefahr deckeln die Dollar-Stärke hier."
+    "grund": "Fundamental schwach: Wirtschaft schrumpfte im Q3, Yen nahe 160 mit Interventionsgefahr; crowded-long (z +1,78) = Reversal-Risiko deckelt."
    },
    "CHF": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Der Panik-/Hafen-Zufluss der Vorwoche löst sich weiter auf (Gold auf Ein-Jahres-Tief) — diesmal ist der Dollar der Hafen, nicht der Franken. Klarster Dollar-Seiten-Verlierer."
+    "grund": "Trotz echter Börsen-Angst bekommt der Franken keinen Hafen-Zufluss — das Geld geht in den Dollar, Gold fiel auf ein Jahrestief. Klarster Dollar-Seiten-Verlierer."
    },
    "CAD": {
     "stimmung": "bärisch",
-    "score": -1,
-    "grund": "Öl etwas weicher (WTI ~85$) und die Inflation kam kühler als erwartet (3,1%, Kern unter Ziel) — die Puffer für den Loonie bröckeln leicht; die extrem gedrückten Short-Positionen federn noch ab."
+    "score": -2,
+    "grund": "Öl stürzte in der Woche ab (US-Öl −8% auf ~82 Dollar) = Gegenwind für den Loonie, trotz fester Inflation."
    },
    "AUD": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Risiko-Währung — das Angst-Barometer sprang zurück auf ~23 (Technologie-Aktien fielen), dazu Chinas schwächere Nachfrage; die extrem hohen Short-Wetten (z−2,56) bremsen nur die Geschwindigkeit nach unten."
+    "grund": "Risiko-Währung in der Angst-Welle (VIX zurück ~24,5); Zinsmomentum flach, Extrem-Shorts (z −2,56) bremsen den Fall."
    },
    "NZD": {
     "stimmung": "bärisch",
     "score": -3,
-    "grund": "Schwache Arbeitsmarktdaten, als einzige Währung fiel der 2-Jahres-Zins (Zins läuft gegen den Kiwi), und extreme Short-Positionierung."
+    "grund": "Risiko-Währung plus schwache Jobs; Extrem-Short (z −1,87) = Squeeze-Puffer."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
     "score": -3,
-    "treiber": "Fester Dollar (heiße US-Inflation, US-Zins stieg am stärksten) drückt; die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab."
+    "treiber": "Fester Dollar (19-Monats-Hoch, Risk-off-Hafen, US-2J stärkster Steiger) gegen das Zinsmomentum pro Dollar; Rekord-Euro-Short federt ab."
    },
    {
     "paar": "GBP/USD",
     "score": -2,
-    "treiber": "Pfund am widerstandsfähigsten (BIP +0,7%, heiße Inflation nächste Woche, BoE bei 4,00%) — daher am wenigsten dollar-negativ."
+    "treiber": "Pfund am widerstandsfähigsten, aber Inflation kühler als erwartet; starker Dollar dominiert."
    },
    {
     "paar": "USD/JPY",
     "score": 3,
-    "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung), ABER Japans Interventionsgefahr nahe 160 + crowded-long-Spekulanten deckeln."
+    "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung, nahe 160) — nach oben durch Interventionsgefahr + crowded-long gedeckelt."
    },
    {
     "paar": "AUD/USD",
     "score": -3,
-    "treiber": "Risiko-Währung gegen starken Dollar + Angst-Barometer zurück auf ~23 (Technologie-Abverkauf); Extrem-Shorts bremsen das Tempo, Zinsmomentum flach."
+    "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer zurück auf ~24,5."
    },
    {
     "paar": "USD/CAD",
     "score": 2,
-    "treiber": "Dollar stark; Öl etwas weicher (WTI ~85$) und kanadische Inflation kam kühler (3,1%, Kern unter Ziel) — die Loonie-Puffer bröckeln, extreme Shorts federn ab."
+    "treiber": "Dollar stark; Öl stürzte in der Woche ab (−8%) = Loonie-Gegenwind."
    },
    {
     "paar": "USD/CHF",
     "score": 4,
-    "treiber": "Klarster Dollar-Long: der Franken verlor seinen Hafen-Bonus, Gold stürzte, die Börsen beruhigten sich."
+    "treiber": "Klarster Dollar-Long: der Franken bekommt trotz Börsen-Angst keinen Hafen-Zufluss, Gold auf Jahrestief."
    },
    {
     "paar": "NZD/USD",
     "score": -3,
-    "treiber": "Schwache NZ-Jobs + einziger fallender 2-Jahres-Zins (Zins gegen den Kiwi) + Extrem-Shorts."
+    "treiber": "Schwache NZ-Jobs + Risk-off; Extrem-Short bremst."
    }
   ],
   "wochenausblick": {
@@ -3432,20 +3432,20 @@ window.MAKRO_DATA = {
    "Klumpen-Hinweis: Diese Woche sind 6 von 7 Paaren dollar-stark ausgerichtet = im Kern EINE Wette. Das ist bewusst so (echte Dollar-Woche mit benennbarem Grund), aber transparent gelöst durch paar-eigene Nuancen: USD/JPY nur +3 wegen Interventionsrisiko, USD/CAD nur +2 wegen Öl, EUR/AUD/NZD durch Extrem-Shorts (Squeeze) gebremst. GBP neutral (eigene Stärke)."
   ],
   "tagesnews": {
-   "stand": "2026-11-18",
-   "wochentag": "Mittwoch",
-   "tenor": "Nvidias starke Zahlen beruhigen die Börse nach dem Technologie-Absturz; heute ist die britische Inflation das große Pfund-Ereignis, am Abend kommt das Protokoll der US-Notenbank.",
+   "stand": "2026-11-19",
+   "wochentag": "Donnerstag",
+   "tenor": "Die Erholung hält nicht: Die Angst an den Börsen bleibt hoch, die Technologie-Werte fallen wieder — und der Dollar steigt als einziger sicherer Hafen weiter, Gold rutscht auf ein Jahrestief.",
    "heute": [
-    "🇬🇧 Um 8:00 (Wien) kommt die britische Inflation für Oktober — erwartet wird ein Sprung auf rund 3,7% (das höchste seit über einem Jahr, Energie treibt), die Kernrate bei rund 2,8%. Das ist das wichtigste Pfund-Ereignis der Woche: Kommt sie heiß, verfestigt sich die Erwartung einer britischen Zinserhöhung im Dezember und stützt das Pfund.",
-    "🇺🇸 Am Abend (rund 20:00 Wien) wird das Protokoll der letzten US-Notenbank-Sitzung veröffentlicht — es zeigt, wie fest die Dezember-Zinserhöhung im Kopf der Notenbanker sitzt (der Markt preist sie zu rund 88–91% ein).",
-    "📈 Entwarnung nach dem Absturz: Nvidia meldete gestern Abend Rekordzahlen (Quartalsumsatz rund 115 Milliarden Dollar, mehr als verdoppelt) und einen starken Ausblick — die Aktie stieg nachbörslich rund 5%, die US-Terminmärkte drehten ins Plus, die Angst um Künstliche Intelligenz ließ etwas nach.",
-    "💵 Der Dollar bleibt nahe seinem Hoch seit April 2025 (Dollar-Index rund 103,6); Gold hält sich knapp unter 3.860 Dollar, Bitcoin unter 65.000 — die Flucht ins Papiergeld läuft weiter aus, der Dollar ist derzeit der alleinige sichere Hafen."
+    "😟 Die Angst bleibt oben: Das Angst-Barometer (VIX) steht weiter bei rund 24,5 (über die Woche +31%). Nvidias Rekordzahlen gaben nur kurz Entwarnung — die Sorge um die hohen Ausgaben für Künstliche Intelligenz drückt die Technologie-Werte erneut.",
+    "💵 Der Dollar ist klar der Gewinner der Nervosität: Dollar-Index rund 103,8 (höchster Stand seit über eineinhalb Jahren). Gegenbewegung bei den Häfen von früher — Gold rutscht auf ein Jahrestief (~3.740 Dollar), US-Öl fällt deutlich (~82 Dollar, −8% in der Woche), Bitcoin unter 63.000. Das Geld flüchtet diesmal in den Dollar, nicht in Gold.",
+    "🇯🇵 Japans Inflation (über Nacht) bleibt mit einer Kernrate um 2,3–2,6% über dem 2%-Ziel der Notenbank — das hält eine mögliche japanische Zinserhöhung im Dezember im Spiel. Der Yen bleibt mit rund 160 trotzdem sehr schwach (Interventionsgefahr).",
+    "📅 Ruhiger Ausklang: Morgen (Freitag, 8:00 Wien) kommen die britischen Einzelhandelsumsätze, sonst wenig Großes. Der nächste Zinsentscheid der US-Notenbank ist erst am 9. Dezember."
    ],
    "gestern": [
-    "📉 Der Dienstag war ein harter Börsentag: Der US-Leitindex Dow verlor rund 848 Punkte (tiefster Schluss seit Juni), der breite Markt fiel auf den tiefsten Stand seit Juli, das Angst-Barometer (VIX) sprang über 25 — Sorge um die hohen Ausgaben für Künstliche Intelligenz und der Chef-Wechsel bei Nvidia drückten die Stimmung.",
-    "🇬🇧 Der britische Arbeitsmarkt (Dienstag) war gemischt: Die Arbeitslosigkeit fiel auf rund 4,6%, aber das Lohnwachstum verlangsamte sich und die Zahl der Hilfe-Anträge stieg. Das Pfund beendete trotzdem eine fünftägige Verlust-Serie und kletterte zurück über 1,32 Dollar.",
-    "🥇 Gold rutschte auf ein Ein-Jahres-Tief (rund 3.850 Dollar), Bitcoin unter 65.000 Dollar — anders als sonst in nervösen Zeiten flüchtet das Geld diesmal in den Dollar, nicht in Gold.",
-    "🇯🇵 Japans Wirtschaft schrumpfte im dritten Quartal (−0,1% aufs Jahr) — der Yen bleibt mit rund 160 sehr schwach, Interventionsgefahr bleibt."
+    "🇬🇧 Die britische Inflation kam bei 3,6% (von 3,8% im September) — eine Spur kühler als die erwarteten 3,7%, vor allem weil die Energiepreise weniger stark stiegen als vor einem Jahr. Lebensmittel wurden dagegen teurer (4,9%). Für das Pfund unterm Strich leicht entlastend, es bleibt aber die widerstandsfähigste Nicht-Dollar-Währung.",
+    "🇺🇸 Das Protokoll der US-Notenbank (gestern Abend) zeigte ein gespaltenes Gremium über den Dezember-Entscheid. Die am Markt eingepreisten Zinsen stiegen über die Woche aber weiter (impliziter Satz rund 4,17%, +0,29 Punkte) — die Erwartung einer Dezember-Erhöhung sitzt fest (~88–91%).",
+    "📉 Die Tech-Erholung hielt nicht: Trotz Nvidias starker Zahlen blieb das Angst-Barometer über 24; der US-Leitindex hatte am Dienstag rund 848 Punkte verloren (tiefster Schluss seit Juni).",
+    "🥇 Gold und Öl fielen weiter, der Dollar legte zu — anders als sonst in nervösen Zeiten ist der Dollar derzeit der alleinige sichere Hafen, die Flucht ins Gold löst sich auf."
    ]
   }
  },
@@ -4392,7 +4392,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -8,
    "score": -11,
    "cotExtrem": "extrem",
-   "treiber": "Fester Dollar (heiße US-Inflation, US-Zins stieg am stärksten) drückt; die Rekord-Shorts im Euro (Squeeze-Pulver) federn am meisten ab.",
+   "treiber": "Fester Dollar (19-Monats-Hoch, Risk-off-Hafen, US-2J stärkster Steiger) gegen das Zinsmomentum pro Dollar; Rekord-Euro-Short federt ab.",
    "istCross": false
   },
   {
@@ -4403,7 +4403,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -10,
    "score": -12,
    "cotExtrem": null,
-   "treiber": "Pfund am widerstandsfähigsten (BIP +0,7%, heiße Inflation nächste Woche, BoE bei 4,00%) — daher am wenigsten dollar-negativ.",
+   "treiber": "Pfund am widerstandsfähigsten, aber Inflation kühler als erwartet; starker Dollar dominiert.",
    "istCross": false
   },
   {
@@ -4414,7 +4414,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": 1,
    "score": 4,
    "cotExtrem": "erhoeht",
-   "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung), ABER Japans Interventionsgefahr nahe 160 + crowded-long-Spekulanten deckeln.",
+   "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung, nahe 160) — nach oben durch Interventionsgefahr + crowded-long gedeckelt.",
    "istCross": false
   },
   {
@@ -4425,7 +4425,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": -10,
    "score": -13,
    "cotExtrem": "extrem",
-   "treiber": "Risiko-Währung gegen starken Dollar + Angst-Barometer zurück auf ~23 (Technologie-Abverkauf); Extrem-Shorts bremsen das Tempo, Zinsmomentum flach.",
+   "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer zurück auf ~24,5.",
    "istCross": false
   },
   {
@@ -4436,7 +4436,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": 7,
    "score": 9,
    "cotExtrem": null,
-   "treiber": "Dollar stark; Öl etwas weicher (WTI ~85$) und kanadische Inflation kam kühler (3,1%, Kern unter Ziel) — die Loonie-Puffer bröckeln, extreme Shorts federn ab.",
+   "treiber": "Dollar stark; Öl stürzte in der Woche ab (−8%) = Loonie-Gegenwind.",
    "istCross": false
   },
   {
@@ -4447,7 +4447,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": 7,
    "score": 11,
    "cotExtrem": null,
-   "treiber": "Klarster Dollar-Long: der Franken verlor seinen Hafen-Bonus, Gold stürzte, die Börsen beruhigten sich.",
+   "treiber": "Klarster Dollar-Long: der Franken bekommt trotz Börsen-Angst keinen Hafen-Zufluss, Gold auf Jahrestief.",
    "istCross": false
   },
   {
@@ -4458,16 +4458,16 @@ window.MAKRO_DATA = {
    "tiltGesamt": -12,
    "score": -15,
    "cotExtrem": "erhoeht",
-   "treiber": "Schwache NZ-Jobs + einziger fallender 2-Jahres-Zins (Zins gegen den Kiwi) + Extrem-Shorts.",
+   "treiber": "Schwache NZ-Jobs + Risk-off; Extrem-Short bremst.",
    "istCross": false
   },
   {
    "paar": "EUR/GBP",
-   "baseScore": -1,
+   "baseScore": 0,
    "tiltCot": 0,
    "tiltZins": 0,
    "tiltGesamt": 0,
-   "score": -1,
+   "score": 0,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4507,7 +4507,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-18T23:19:28.490Z",
+  "stand": "2026-11-19T06:11:33.952Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
   "gewertet": 41,

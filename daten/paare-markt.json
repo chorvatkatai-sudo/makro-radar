@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-20T15:59:05.919Z",
+  "stand": "2026-11-20T22:36:54.841Z",
   "ausBriefing": "2026-11-20",
   "overlayAktiv": true,
   "paare": [
@@ -17,10 +17,10 @@
     {
       "paar": "GBP/USD",
       "baseScore": -1,
-      "tiltCot": -4,
+      "tiltCot": -3,
       "tiltZins": 4,
-      "tiltGesamt": 0,
-      "score": -1,
+      "tiltGesamt": 1,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Pfund kühler bei der Inflation (3,6%), aber durch die Bank of England bei 4,00% widerstandsfähig — nur leicht schwächer gegen den festen Dollar.",
       "istCross": false
@@ -50,10 +50,10 @@
     {
       "paar": "USD/CAD",
       "baseScore": 4,
-      "tiltCot": 2,
+      "tiltCot": 3,
       "tiltZins": -2,
-      "tiltGesamt": 0,
-      "score": 4,
+      "tiltGesamt": 1,
+      "score": 5,
       "cotExtrem": null,
       "treiber": "Klarster Dollar-Long: Öl −3,7%, kühle kanadische Inflation und Risiko-Flucht treffen den Loonie dreifach.",
       "istCross": false
@@ -72,11 +72,11 @@
     {
       "paar": "NZD/USD",
       "baseScore": -3,
-      "tiltCot": -5,
+      "tiltCot": -2,
       "tiltZins": 7,
-      "tiltGesamt": 2,
-      "score": -1,
-      "cotExtrem": "erhoeht",
+      "tiltGesamt": 5,
+      "score": 2,
+      "cotExtrem": "extrem",
       "treiber": "Risiko-Flucht belastet den Kiwi, aber der gestiegene neuseeländische Zins und die extreme Short-Positionierung (Squeeze-Gefahr) federn ab.",
       "istCross": false
     },

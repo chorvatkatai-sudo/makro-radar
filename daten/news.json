@@ -1,11 +1,47 @@
 {
-  "stand": "2026-11-20T15:59:05.917Z",
+  "stand": "2026-11-20T22:36:54.838Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "Fed",
+      "titel": "Federal Reserve announces College Fed Challenge winners",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "datum": "2026-11-20T21:15:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump weighs renewed strikes on Iran as military warns of strain. FT",
+      "link": "https://investinglive.com/news/trump-weighs-renewed-strikes-on-iran-as-military-warns-of-strain-ft/",
+      "datum": "2026-11-20T20:42:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "European stocks end a bruising week. German DAX falls 7.29%.",
+      "link": "https://investinglive.com/news/european-stocks-end-a-bruising-week-german-dax-falls-7-29/",
+      "datum": "2026-11-20T18:12:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump: Secured two new trade deals. 10 others coming very soon.",
+      "link": "https://investinglive.com/news/trump-secured-two-new-trade-deals-10-others-coming-very-soon/",
+      "datum": "2026-11-20T17:33:44.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Bessent says Trump and Xi saw robust discussion on trade policy, AI",
+      "link": "https://investinglive.com/news/bessent-says-trump-and-xi-saw-robust-discussion-on-trade-policy-ai/",
+      "datum": "2026-11-20T15:33:55.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "University of Michigan consumer sentiment 51.5 versus 51.5 estimate",
+      "link": "https://investinglive.com/news/university-of-michigan-consumer-sentiment-51-5-versus-51-5-estimate/",
+      "datum": "2026-11-20T15:04:05.000Z"
+    },
     {
       "quelle": "Fed",
       "titel": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
@@ -55,36 +91,6 @@
       "datum": "2026-11-20T02:14:13.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "US approved nearly 900,000 Nvidia and AMD AI chips for China. Raises more questions than answers.",
-      "link": "https://investinglive.com/news/us-approved-nearly-900-000-nvidia-and-amd-ai-chips-for-china-raises-more-questions-than-answers/",
-      "datum": "2026-11-20T01:16:31.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan inflation picks up less than forecast as core-core slows to 2.2%",
-      "link": "https://investinglive.com/news/japan-inflation-picks-up-but-misses-forecasts-as-core-core-slows-to-2-2/",
-      "datum": "2026-11-19T23:31:29.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-19-nov-inflation-worries-sink-stocks/",
-      "datum": "2026-11-19T21:50:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada seeks interim U.S. tariff deal by year-end, CBC reports",
-      "link": "https://investinglive.com/news/canada-seeks-interim-u-s-tariff-deal-by-year-end-cbc-reports/",
-      "datum": "2026-11-19T19:23:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump weighs another strike on Iran as Hormuz shipping risks mount. Returns to Washington after overseas trip.",
-      "link": "https://investinglive.com/news/trump-weighs-another-strike-on-iran-as-hormuz-shipping-risks-mount-returns-to-washington-after-overseas-trip/",
-      "datum": "2026-11-19T18:39:20.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
@@ -107,12 +113,6 @@
       "titel": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
       "datum": "2026-11-12T18:30:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "datum": "2026-11-12T17:45:00.000Z"
     }
   ]
 }

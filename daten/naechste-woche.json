@@ -134,7 +134,7 @@
     "country": "USD",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
-    "forecast": "56.4",
+    "forecast": "55.6",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -154,7 +154,7 @@
     "country": "USD",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "54.8",
+    "forecast": "54.5",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -454,7 +454,7 @@
     "country": "USD",
     "title": "S&P/Case-Shiller Home Price YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.7%",
     "previous": "2.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -1804,7 +1804,7 @@
     "country": "USD",
     "title": "Goods Trade Balance Adv",
     "impact": "Medium",
-    "forecast": "-130.15 $",
+    "forecast": "-131 $",
     "previous": "-134.9 $",
     "actual": null,
     "quelle": "tradingview"
@@ -2075,7 +2075,7 @@
     "title": "Baker Hughes Gas Rig Count",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "128",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2085,7 +2085,7 @@
     "title": "Baker Hughes Oil Rig Count",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "469",
     "actual": null,
     "quelle": "tradingview"
   },

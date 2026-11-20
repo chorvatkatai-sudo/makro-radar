@@ -1,11 +1,35 @@
 {
-  "stand": "2026-11-19T23:27:39.762Z",
+  "stand": "2026-11-20T06:14:32.422Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Red Friday as Asia’s AI trade unravels",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-red-friday-as-asia-s-ai-trade-unravels/",
+      "datum": "2026-11-20T04:39:38.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US envoys float NATO membership for Ukraine in exchange for Donbas, WSJ reports",
+      "link": "https://investinglive.com/news/us-envoys-float-nato-membership-for-ukraine-in-exchange-for-donbas-wsj-reports/",
+      "datum": "2026-11-20T02:14:13.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US approved nearly 900,000 Nvidia and AMD AI chips for China. Raises more questions than answers.",
+      "link": "https://investinglive.com/news/us-approved-nearly-900-000-nvidia-and-amd-ai-chips-for-china-raises-more-questions-than-answers/",
+      "datum": "2026-11-20T01:16:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan inflation picks up less than forecast as core-core slows to 2.2%",
+      "link": "https://investinglive.com/news/japan-inflation-picks-up-but-misses-forecasts-as-core-core-slows-to-2-2/",
+      "datum": "2026-11-19T23:31:29.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks",
@@ -59,30 +83,6 @@
       "titel": "investingLive European news wrap: US stocks recover amid Anthropic enthusiasm",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-us-stocks-recover-amid-anthropic-enthusiasm/",
       "datum": "2026-11-19T12:39:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-89/",
-      "datum": "2026-11-19T07:17:51.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-92-as-gulf-attacks-mount/",
-      "datum": "2026-11-19T04:55:23.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
-      "link": "https://investinglive.com/news/australian-unemployment-rate-jumps-to-4-9-in-october-against-4-7-expected/",
-      "datum": "2026-11-19T00:34:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Moody’s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growth this year",
-      "link": "https://investinglive.com/news/moody-s-keeps-us-rating-at-aa1-as-the-economy-beats-forecasts-seeing-2-3-growth-this-year/",
-      "datum": "2026-11-18T23:18:04.000Z"
     },
     {
       "quelle": "Fed",

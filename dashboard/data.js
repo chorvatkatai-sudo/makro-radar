@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-20T06:13:54.135Z",
+ "erstellt": "2026-11-20T06:14:32.866Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -2754,7 +2754,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Tokyo Core CPI YoY",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "3%",
    "previous": "2.6%",
    "actual": null,
    "quelle": "tradingview"
@@ -3915,18 +3915,17 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-19T23:27:39.540Z",
+  "stand": "2026-11-20T06:14:31.951Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 103.92,
+    "wert": 103.79,
     "tagProzent": 0,
-    "wocheProzent": 0.5,
+    "wocheProzent": 0.23,
     "renditeDelta": false,
     "verlauf": [
-     101.61,
      101.81,
      101.96,
      102.32,
@@ -3946,8 +3945,9 @@ window.MAKRO_DATA = {
      103.55,
      103.49,
      103.86,
-     103.92,
-     103.92
+     103.9,
+     103.79,
+     103.79
     ]
    },
    "VIX": {
@@ -3987,12 +3987,11 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 83.06,
+    "wert": 82.55,
     "tagProzent": 0,
-    "wocheProzent": -6.21,
+    "wocheProzent": -3.7,
     "renditeDelta": false,
     "verlauf": [
-     99.47,
      103.27,
      101.76,
      99.9,
@@ -4012,20 +4011,20 @@ window.MAKRO_DATA = {
      85.72,
      86.01,
      83.26,
-     83.06,
-     83.06
+     83.21,
+     82.55,
+     82.55
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 90.01,
+    "wert": 89.54,
     "tagProzent": 0,
-    "wocheProzent": -6.08,
+    "wocheProzent": -3.14,
     "renditeDelta": false,
     "verlauf": [
-     113.17,
      116.72,
      115.81,
      113.88,
@@ -4045,20 +4044,20 @@ window.MAKRO_DATA = {
      92.44,
      93.14,
      91.95,
-     90.01,
-     90.01
+     91.98,
+     89.54,
+     89.54
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3634.6,
+    "wert": 3552.6,
     "tagProzent": 0,
-    "wocheProzent": -6.48,
+    "wocheProzent": -7.8,
     "renditeDelta": false,
     "verlauf": [
-     4060.4,
      4007.9,
      4038.4,
      4074.6,
@@ -4078,8 +4077,9 @@ window.MAKRO_DATA = {
      3853,
      3864.2,
      3741.9,
-     3634.6,
-     3634.6
+     3685.5,
+     3552.6,
+     3552.6
     ]
    },
    "US02Y": {
@@ -4097,8 +4097,8 @@ window.MAKRO_DATA = {
      4.75,
      4.75,
      4.75,
-     4.75,
      4.573,
+     4.775,
      4.775,
      4.775,
      4.775,
@@ -4185,9 +4185,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 61839.95,
+    "wert": 61818.21,
     "tagProzent": 0,
-    "wocheProzent": -5.31,
+    "wocheProzent": -5.34,
     "renditeDelta": false,
     "verlauf": [
      77198.21,
@@ -4210,20 +4210,19 @@ window.MAKRO_DATA = {
      64855.84,
      64893.95,
      62987.27,
-     61839.95,
-     61839.95
+     61818.21,
+     61818.21
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.16,
+    "wert": 4.14,
     "tagProzent": 0,
-    "wocheProzent": 0.28,
+    "wocheProzent": 0.26,
     "renditeDelta": true,
     "verlauf": [
-     3.88,
      3.88,
      3.89,
      3.88,
@@ -4243,8 +4242,9 @@ window.MAKRO_DATA = {
      3.88,
      3.88,
      3.88,
-     4.16,
-     4.16
+     3.88,
+     4.14,
+     4.14
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
@@ -4340,39 +4340,39 @@ window.MAKRO_DATA = {
    }
   },
   "zinsen2j": {
-   "stand": "2026-11-19",
+   "stand": "2026-11-20",
    "werte": {
     "USD": {
-     "wert": 4.768,
-     "wocheDelta": 0.24
+     "wert": 4.73,
+     "wocheDelta": -0.003
     },
     "EUR": {
      "wert": 3.158,
-     "wocheDelta": 0.187
+     "wocheDelta": 0.095
     },
     "GBP": {
      "wert": 4.953,
-     "wocheDelta": 0.231
+     "wocheDelta": 0.099
     },
     "JPY": {
-     "wert": 1.849,
-     "wocheDelta": 0.074
+     "wert": 1.828,
+     "wocheDelta": 0.049
     },
     "AUD": {
-     "wert": 4.714,
-     "wocheDelta": -0.087
+     "wert": 4.717,
+     "wocheDelta": -0.077
     },
     "CAD": {
      "wert": 3.307,
-     "wocheDelta": 0.188
+     "wocheDelta": 0.063
     },
     "CHF": {
      "wert": 0.296,
-     "wocheDelta": 0.143
+     "wocheDelta": 0.08
     },
     "NZD": {
-     "wert": 3.91,
-     "wocheDelta": 0.082
+     "wert": 3.89,
+     "wocheDelta": 0.092
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -4389,9 +4389,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": -3,
    "tiltCot": -2,
-   "tiltZins": -2,
-   "tiltGesamt": -4,
-   "score": -7,
+   "tiltZins": 4,
+   "tiltGesamt": 2,
+   "score": -1,
    "cotExtrem": "extrem",
    "treiber": "Fester Dollar (19-Monats-Hoch, Risk-off-Hafen, US-2J stärkster Steiger) gegen das Zinsmomentum pro Dollar; Rekord-Euro-Short federt ab.",
    "istCross": false
@@ -4400,9 +4400,9 @@ window.MAKRO_DATA = {
    "paar": "GBP/USD",
    "baseScore": -2,
    "tiltCot": -4,
-   "tiltZins": 0,
-   "tiltGesamt": -4,
-   "score": -6,
+   "tiltZins": 4,
+   "tiltGesamt": 0,
+   "score": -2,
    "cotExtrem": null,
    "treiber": "Pfund am widerstandsfähigsten, aber Inflation kühler als erwartet; starker Dollar dominiert.",
    "istCross": false
@@ -4411,9 +4411,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 3,
    "tiltCot": -5,
-   "tiltZins": 7,
-   "tiltGesamt": 2,
-   "score": 5,
+   "tiltZins": -2,
+   "tiltGesamt": -7,
+   "score": -4,
    "cotExtrem": "erhoeht",
    "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung, nahe 160) — nach oben durch Interventionsgefahr + crowded-long gedeckelt.",
    "istCross": false
@@ -4422,9 +4422,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": -3,
    "tiltCot": -2,
-   "tiltZins": -8,
-   "tiltGesamt": -10,
-   "score": -13,
+   "tiltZins": -3,
+   "tiltGesamt": -5,
+   "score": -8,
    "cotExtrem": "extrem",
    "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer auf ~28,4 gesprungen.",
    "istCross": false
@@ -4433,9 +4433,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": 2,
    "tiltCot": 2,
-   "tiltZins": 2,
-   "tiltGesamt": 4,
-   "score": 6,
+   "tiltZins": -3,
+   "tiltGesamt": -1,
+   "score": 1,
    "cotExtrem": null,
    "treiber": "Dollar stark; Öl fiel in der Woche (−6%) = Loonie-Gegenwind.",
    "istCross": false
@@ -4444,9 +4444,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": 4,
    "tiltCot": 1,
-   "tiltZins": 4,
-   "tiltGesamt": 5,
-   "score": 9,
+   "tiltZins": -3,
+   "tiltGesamt": -2,
+   "score": 2,
    "cotExtrem": null,
    "treiber": "Klarster Dollar-Long: der Franken bekommt trotz Börsen-Angst keinen Hafen-Zufluss, Gold auf Jahrestief.",
    "istCross": false
@@ -4455,9 +4455,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -3,
    "tiltCot": -5,
-   "tiltZins": -6,
-   "tiltGesamt": -11,
-   "score": -14,
+   "tiltZins": 4,
+   "tiltGesamt": -1,
+   "score": -4,
    "cotExtrem": "erhoeht",
    "treiber": "Schwache NZ-Jobs + Risk-off; Extrem-Short bremst.",
    "istCross": false
@@ -4466,9 +4466,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/GBP",
    "baseScore": 0,
    "tiltCot": 0,
-   "tiltZins": -2,
-   "tiltGesamt": -2,
-   "score": -2,
+   "tiltZins": 0,
+   "tiltGesamt": 0,
+   "score": 0,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4477,9 +4477,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/JPY",
    "baseScore": 1,
    "tiltCot": -2,
-   "tiltZins": 5,
-   "tiltGesamt": 3,
-   "score": 4,
+   "tiltZins": 2,
+   "tiltGesamt": 0,
+   "score": 1,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4499,16 +4499,16 @@ window.MAKRO_DATA = {
    "paar": "EUR/CHF",
    "baseScore": 1,
    "tiltCot": -1,
-   "tiltZins": 2,
-   "tiltGesamt": 1,
-   "score": 2,
+   "tiltZins": 0,
+   "tiltGesamt": -1,
+   "score": 0,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-20T06:13:54.134Z",
+  "stand": "2026-11-20T06:14:32.431Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
   "gewertet": 41,
@@ -4624,7 +4624,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-19T23:27:40.621Z",
+  "stand": "2026-11-20T06:14:32.865Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4863,13 +4863,37 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-19T23:27:39.762Z",
+  "stand": "2026-11-20T06:14:32.422Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Asia-Pacific market news: Red Friday as Asia’s AI trade unravels",
+    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-red-friday-as-asia-s-ai-trade-unravels/",
+    "datum": "2026-11-20T04:39:38.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US envoys float NATO membership for Ukraine in exchange for Donbas, WSJ reports",
+    "link": "https://investinglive.com/news/us-envoys-float-nato-membership-for-ukraine-in-exchange-for-donbas-wsj-reports/",
+    "datum": "2026-11-20T02:14:13.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "US approved nearly 900,000 Nvidia and AMD AI chips for China. Raises more questions than answers.",
+    "link": "https://investinglive.com/news/us-approved-nearly-900-000-nvidia-and-amd-ai-chips-for-china-raises-more-questions-than-answers/",
+    "datum": "2026-11-20T01:16:31.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Japan inflation picks up less than forecast as core-core slows to 2.2%",
+    "link": "https://investinglive.com/news/japan-inflation-picks-up-but-misses-forecasts-as-core-core-slows-to-2-2/",
+    "datum": "2026-11-19T23:31:29.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks",
@@ -4923,30 +4947,6 @@ window.MAKRO_DATA = {
     "titel": "investingLive European news wrap: US stocks recover amid Anthropic enthusiasm",
     "link": "https://investinglive.com/news/investinglive-european-news-wrap-us-stocks-recover-amid-anthropic-enthusiasm/",
     "datum": "2026-11-19T12:39:38.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "What are the main events for today?",
-    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-89/",
-    "datum": "2026-11-19T07:17:51.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
-    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-92-as-gulf-attacks-mount/",
-    "datum": "2026-11-19T04:55:23.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
-    "link": "https://investinglive.com/news/australian-unemployment-rate-jumps-to-4-9-in-october-against-4-7-expected/",
-    "datum": "2026-11-19T00:34:15.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Moody’s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growth this year",
-    "link": "https://investinglive.com/news/moody-s-keeps-us-rating-at-aa1-as-the-economy-beats-forecasts-seeing-2-3-growth-this-year/",
-    "datum": "2026-11-18T23:18:04.000Z"
    },
    {
     "quelle": "Fed",

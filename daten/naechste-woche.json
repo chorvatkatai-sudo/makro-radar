@@ -64,7 +64,7 @@
     "country": "EUR",
     "title": "S&P Global Composite PMI Flash",
     "impact": "Medium",
-    "forecast": "51.6",
+    "forecast": "51.9",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -84,7 +84,7 @@
     "country": "EUR",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
-    "forecast": "51.5",
+    "forecast": "51.8",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -94,7 +94,7 @@
     "country": "GBP",
     "title": "S&P Global Composite PMI Flash",
     "impact": "Low",
-    "forecast": "53",
+    "forecast": "53.1",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -502,46 +502,6 @@
   {
     "date": "2026-11-24T16:30:00.000Z",
     "country": "USD",
-    "title": "2-Year FRN Auction Allotted at High",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-24T16:30:00.000Z",
-    "country": "USD",
-    "title": "2-Year FRN Auction Bid-to-Cover",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-24T16:30:00.000Z",
-    "country": "USD",
-    "title": "2-Year FRN Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-24T16:30:00.000Z",
-    "country": "USD",
-    "title": "2-Year FRN Auction Total Accepted",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-24T16:30:00.000Z",
-    "country": "USD",
     "title": "52-Week Bill Auction Allotted at High",
     "impact": "Medium",
     "forecast": "",
@@ -613,6 +573,46 @@
     "date": "2026-11-24T18:00:00.000Z",
     "country": "USD",
     "title": "5-Year Note Auction Total Accepted",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-24T18:00:00.000Z",
+    "country": "USD",
+    "title": "2-Year FRN Auction Allotted at High",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-24T18:00:00.000Z",
+    "country": "USD",
+    "title": "2-Year FRN Auction Bid-to-Cover",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-24T18:00:00.000Z",
+    "country": "USD",
+    "title": "2-Year FRN Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-24T18:00:00.000Z",
+    "country": "USD",
+    "title": "2-Year FRN Auction Total Accepted",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -1250,6 +1250,46 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-11-25T15:00:00.000Z",
+    "country": "USD",
+    "title": "4-Week Bill Auction Allotted at High",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-25T15:00:00.000Z",
+    "country": "USD",
+    "title": "4-Week Bill Auction Bid-to-Cover",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-25T15:00:00.000Z",
+    "country": "USD",
+    "title": "4-Week Bill Auction",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-11-25T15:00:00.000Z",
+    "country": "USD",
+    "title": "4-Week Bill Auction Total Accepted",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-11-25T15:30:00.000Z",
     "country": "USD",
     "title": "EIA Ethanol Production",
@@ -1402,7 +1442,7 @@
   {
     "date": "2026-11-25T16:30:00.000Z",
     "country": "USD",
-    "title": "4-Week Bill Auction Allotted at High",
+    "title": "7-Year Note Auction Allotted at High",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -1412,7 +1452,7 @@
   {
     "date": "2026-11-25T16:30:00.000Z",
     "country": "USD",
-    "title": "4-Week Bill Auction Bid-to-Cover",
+    "title": "7-Year Note Auction Bid-to-Cover",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -1422,7 +1462,7 @@
   {
     "date": "2026-11-25T16:30:00.000Z",
     "country": "USD",
-    "title": "4-Week Bill Auction",
+    "title": "7-Year Note Auction",
     "impact": "Low",
     "forecast": "",
     "previous": "",
@@ -1432,7 +1472,7 @@
   {
     "date": "2026-11-25T16:30:00.000Z",
     "country": "USD",
-    "title": "4-Week Bill Auction Total Accepted",
+    "title": "7-Year Note Auction Total Accepted",
     "impact": "Medium",
     "forecast": "",
     "previous": "",
@@ -1456,46 +1496,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "7.28%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-25T18:00:00.000Z",
-    "country": "USD",
-    "title": "7-Year Note Auction Allotted at High",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-25T18:00:00.000Z",
-    "country": "USD",
-    "title": "7-Year Note Auction Bid-to-Cover",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-25T18:00:00.000Z",
-    "country": "USD",
-    "title": "7-Year Note Auction",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-25T18:00:00.000Z",
-    "country": "USD",
-    "title": "7-Year Note Auction Total Accepted",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1714,7 +1714,7 @@
     "country": "EUR",
     "title": "Industrial Sentiment",
     "impact": "Low",
-    "forecast": "-3.3",
+    "forecast": "-3.2",
     "previous": "-3.4",
     "actual": null,
     "quelle": "tradingview"
@@ -1744,7 +1744,7 @@
     "country": "EUR",
     "title": "Economic Sentiment",
     "impact": "Medium",
-    "forecast": "96.9",
+    "forecast": "97.1",
     "previous": "96.9",
     "actual": null,
     "quelle": "tradingview"

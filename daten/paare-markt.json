@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-19T23:27:39.763Z",
+  "stand": "2026-11-20T06:13:54.118Z",
   "ausBriefing": "2026-11-13",
   "overlayAktiv": true,
   "paare": [
@@ -44,7 +44,7 @@
       "tiltGesamt": -10,
       "score": -13,
       "cotExtrem": "extrem",
-      "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer zurück auf ~24,5.",
+      "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer auf ~28,4 gesprungen.",
       "istCross": false
     },
     {
@@ -55,7 +55,7 @@
       "tiltGesamt": 4,
       "score": 6,
       "cotExtrem": null,
-      "treiber": "Dollar stark; Öl stürzte in der Woche ab (−8%) = Loonie-Gegenwind.",
+      "treiber": "Dollar stark; Öl fiel in der Woche (−6%) = Loonie-Gegenwind.",
       "istCross": false
     },
     {

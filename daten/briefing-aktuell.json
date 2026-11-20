@@ -15,7 +15,7 @@
     "USD": {
       "stimmung": "bullisch",
       "score": 5,
-      "grund": "Dollar-Index auf 19-Monats-Hoch (~103,8) und alleiniger sicherer Hafen in der Angst-Welle (VIX zurück auf ~24,5); US-2-Jahres-Zins stieg mit +0,29 am stärksten. Einziger größerer Score mit klarem Grund."
+      "grund": "Dollar-Index auf 19-Monats-Hoch (~103,9) und alleiniger sicherer Hafen in der Angst-Welle (VIX auf ~28,4 gesprungen); US-2-Jahres-Zins legte mit +0,24 am stärksten zu. Einziger größerer Score mit klarem Grund."
     },
     "EUR": {
       "stimmung": "bärisch",
@@ -40,12 +40,12 @@
     "CAD": {
       "stimmung": "bärisch",
       "score": -2,
-      "grund": "Öl stürzte in der Woche ab (US-Öl −8% auf ~82 Dollar) = Gegenwind für den Loonie, trotz fester Inflation."
+      "grund": "Öl stürzte in der Woche ab (US-Öl −6% auf ~83 Dollar) = Gegenwind für den Loonie, trotz fester Schlagzeilen-Inflation."
     },
     "AUD": {
       "stimmung": "bärisch",
       "score": -3,
-      "grund": "Risiko-Währung in der Angst-Welle (VIX zurück ~24,5); Zinsmomentum flach, Extrem-Shorts (z −2,56) bremsen den Fall."
+      "grund": "Risiko-Währung in der Angst-Welle (VIX auf ~28,4 gesprungen); Zinsmomentum flach/leicht negativ, Extrem-Shorts (z −2,56) bremsen den Fall."
     },
     "NZD": {
       "stimmung": "bärisch",
@@ -72,12 +72,12 @@
     {
       "paar": "AUD/USD",
       "score": -3,
-      "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer zurück auf ~24,5."
+      "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer auf ~28,4 gesprungen."
     },
     {
       "paar": "USD/CAD",
       "score": 2,
-      "treiber": "Dollar stark; Öl stürzte in der Woche ab (−8%) = Loonie-Gegenwind."
+      "treiber": "Dollar stark; Öl fiel in der Woche (−6%) = Loonie-Gegenwind."
     },
     {
       "paar": "USD/CHF",
@@ -200,20 +200,21 @@
     "Klumpen-Hinweis: Diese Woche sind 6 von 7 Paaren dollar-stark ausgerichtet = im Kern EINE Wette. Das ist bewusst so (echte Dollar-Woche mit benennbarem Grund), aber transparent gelöst durch paar-eigene Nuancen: USD/JPY nur +3 wegen Interventionsrisiko, USD/CAD nur +2 wegen Öl, EUR/AUD/NZD durch Extrem-Shorts (Squeeze) gebremst. GBP neutral (eigene Stärke)."
   ],
   "tagesnews": {
-    "stand": "2026-11-19",
-    "wochentag": "Donnerstag",
-    "tenor": "Die Erholung hält nicht: Die Angst an den Börsen bleibt hoch, die Technologie-Werte fallen wieder — und der Dollar steigt als einziger sicherer Hafen weiter, Gold rutscht auf ein Jahrestief.",
+    "stand": "2026-11-20",
+    "wochentag": "Freitag",
+    "tenor": "Die Angst wird stärker: Die Technologie-Werte fallen weiter, das Nervositäts-Barometer springt auf ein Mehrmonatshoch — das Geld flüchtet in den Dollar statt in Gold, das auf ein Jahrestief sackt.",
     "heute": [
-      "😟 Die Angst bleibt oben: Das Angst-Barometer (VIX) steht weiter bei rund 24,5 (über die Woche +31%). Nvidias Rekordzahlen gaben nur kurz Entwarnung — die Sorge um die hohen Ausgaben für Künstliche Intelligenz drückt die Technologie-Werte erneut.",
-      "💵 Der Dollar ist klar der Gewinner der Nervosität: Dollar-Index rund 103,8 (höchster Stand seit über eineinhalb Jahren). Gegenbewegung bei den Häfen von früher — Gold rutscht auf ein Jahrestief (~3.740 Dollar), US-Öl fällt deutlich (~82 Dollar, −8% in der Woche), Bitcoin unter 63.000. Das Geld flüchtet diesmal in den Dollar, nicht in Gold.",
-      "🇯🇵 Japans Inflation (über Nacht) bleibt mit einer Kernrate um 2,3–2,6% über dem 2%-Ziel der Notenbank — das hält eine mögliche japanische Zinserhöhung im Dezember im Spiel. Der Yen bleibt mit rund 160 trotzdem sehr schwach (Interventionsgefahr).",
-      "📅 Ruhiger Ausklang: Morgen (Freitag, 8:00 Wien) kommen die britischen Einzelhandelsumsätze, sonst wenig Großes. Der nächste Zinsentscheid der US-Notenbank ist erst am 9. Dezember."
+      "😟 Die Angst verschärft sich: Das Angst-Barometer (VIX) springt auf rund 28,4 (über die Woche +47%, höchster Stand seit dem Frühjahr). Der Ausverkauf bei den Technologie-Werten geht weiter — die Sorge, ob sich die riesigen Ausgaben für Künstliche Intelligenz je auszahlen, drückt weiter.",
+      "💵 Der Dollar bleibt der einzige Hafen: Dollar-Index rund 103,9 (höchster Stand seit über eineinhalb Jahren). Gold stürzt auf ein Jahrestief (~3.635 Dollar, −6,5% in der Woche), US-Öl fällt auf ~83 Dollar (−6%), Bitcoin unter 62.000. Das Geld flüchtet in den Dollar, nicht ins Gold.",
+      "🇬🇧 Heute 8:00 Wien: britische Einzelhandelsumsätze (letzter Termin der Woche). Über Nacht blieb Japans Kern-Inflation bei rund 2,3–2,6% über dem 2%-Ziel — das hält eine japanische Zinserhöhung im Dezember im Spiel; der Yen bleibt mit rund 160 sehr schwach (Interventionsgefahr).",
+      "📅 Nächster großer US-Termin: der Zinsentscheid am 9. Dezember — eine Erhöhung ist inzwischen so gut wie sicher (~90–96%), nach der heißen Kern-Inflation (+0,4%) wetten einige sogar auf einen doppelten Schritt."
     ],
     "gestern": [
-      "🇬🇧 Die britische Inflation kam bei 3,6% (von 3,8% im September) — eine Spur kühler als die erwarteten 3,7%, vor allem weil die Energiepreise weniger stark stiegen als vor einem Jahr. Lebensmittel wurden dagegen teurer (4,9%). Für das Pfund unterm Strich leicht entlastend, es bleibt aber die widerstandsfähigste Nicht-Dollar-Währung.",
-      "🇺🇸 Das Protokoll der US-Notenbank (gestern Abend) zeigte ein gespaltenes Gremium über den Dezember-Entscheid. Die am Markt eingepreisten Zinsen stiegen über die Woche aber weiter (impliziter Satz rund 4,17%, +0,29 Punkte) — die Erwartung einer Dezember-Erhöhung sitzt fest (~88–91%).",
-      "📉 Die Tech-Erholung hielt nicht: Trotz Nvidias starker Zahlen blieb das Angst-Barometer über 24; der US-Leitindex hatte am Dienstag rund 848 Punkte verloren (tiefster Schluss seit Juni).",
-      "🥇 Gold und Öl fielen weiter, der Dollar legte zu — anders als sonst in nervösen Zeiten ist der Dollar derzeit der alleinige sichere Hafen, die Flucht ins Gold löst sich auf."
+      "🇺🇸 Das Protokoll der US-Notenbank zeigte ein tief gespaltenes Gremium über den Dezember-Entscheid — am Markt ist eine Erhöhung am 9.12. trotzdem fast eingepreist (~90–96%; impliziter Satz ~4,16%, über die Woche +0,28 Punkte).",
+      "🛒 US-Einzelhandel im Oktober (wegen des Regierungsstillstands verspätet) +0,2% — schwächer als die +0,8% im Vormonat, ungefähr wie erwartet. Der Konsument gibt noch aus, aber langsamer.",
+      "🇬🇧 Britische Inflation kühlte auf 3,6% (von 3,8%, erwartet 3,7%) — nährt Hoffnung auf eine Zinssenkung der Bank von England im Dezember, das Pfund gibt leicht nach.",
+      "🇨🇦 Kanadas Inflation blieb stabil bei 3,1% (erwartet 3,2%), getrieben fast nur vom Benzin (+31%); die Kernraten sind weich — die kanadische Notenbank kann gelassen bleiben.",
+      "🥇 Die Flucht ins Gold hat sich vollständig aufgelöst: Gold −6,5% auf ein Jahrestief, Bitcoin und Öl mit nach unten — in dieser nervösen Woche ist der Dollar der Hafen, nicht das Gold."
     ]
   }
 }

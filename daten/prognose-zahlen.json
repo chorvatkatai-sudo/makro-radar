@@ -1,11 +1,11 @@
 {
-  "stand": "2026-11-20T13:46:32.312Z",
+  "stand": "2026-11-20T14:13:59.356Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 88,
-  "gewertet": 41,
-  "nichtWertbar": 47,
+  "gefunden": 91,
+  "gewertet": 42,
+  "nichtWertbar": 49,
   "treffer": 18,
-  "quote": 44,
+  "quote": 43,
   "zinsentscheide": {
     "treffer": 11,
     "gesamt": 11,
@@ -13,15 +13,15 @@
   },
   "datenPrognosen": {
     "treffer": 7,
-    "gesamt": 30,
+    "gesamt": 31,
     "quote": 23,
-    "pWert": 0.005
+    "pWert": 0.003
   },
   "richtungBeiAbweichung": {
     "treffer": 7,
-    "gesamt": 24,
-    "quote": 29,
-    "pWert": 0.064
+    "gesamt": 25,
+    "quote": 28,
+    "pWert": 0.043
   },
   "richtungsCalls": {
     "treffer": 7,
@@ -31,8 +31,8 @@
   },
   "exakt": {
     "treffer": 5,
-    "gesamt": 20,
-    "quote": 25
+    "gesamt": 21,
+    "quote": 24
   },
   "textdeutung": {
     "treffer": 13,
@@ -40,15 +40,6 @@
     "quote": 62
   },
   "letzte": [
-    {
-      "event": "UK-Verbraucherinflation (CPI September) — y/y",
-      "datum": "2026-10-21",
-      "richtung": "wie_erwartet",
-      "tatsaechlich": "hoeher",
-      "konsens": "3.4%",
-      "ist": "3.5%",
-      "treffer": false
-    },
     {
       "event": "Fed-Zinsentscheid (Oktober)",
       "datum": "2026-10-28",
@@ -111,6 +102,15 @@
       "konsens": "0.1%",
       "ist": "0.2%",
       "treffer": true
+    },
+    {
+      "event": "Kanadas Verbraucherpreise CPI Oktober (im Jahr)",
+      "datum": "2026-11-16",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "niedriger",
+      "konsens": "0.3%",
+      "ist": "0.2%",
+      "treffer": false
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "hinweis": "Leitzinsen der G10-Zentralbanken. Wird in Claude-Sessions/Briefings gepflegt. satz = Zahl in % (für Differenz-Berechnung), anzeige = Text, richtung = rauf|runter|halten (Erwartung nächste Sitzung).",
-  "stand": "2026-11-12",
+  "stand": "2026-11-20",
   "zinsen": [
     {
       "code": "AUD",
@@ -26,7 +26,7 @@
       "satz": 3.875,
       "anzeige": "3,75–4,00%",
       "naechste": "9.12.2026 (Erhöhung ~100% eingepreist: ~85% kleiner Schritt + ~15% doppelt)",
-      "erwartung": "Stand 13.11.: Gehalten bei 3,75–4,00% (28.10.). Die heiße US-Inflation vom 10.11. (Kernrate +0,3% zum Vormonat, dritten Monat in Folge; Gesamtrate +0,4%) hat die Dezember-Erhöhung praktisch zementiert — rund 88–91% für einen kleinen Schritt (0,25 Pp), rund 9–15% sogar für einen doppelten (0,50 Pp). Der Dollar-Index steht auf einem 19-Monats-Hoch (~103,2). Die heutigen US-Erzeugerpreise kamen eine Spur kühler (+0,3% statt +0,4%), ändern an der Erhöhungswette aber nichts. Notenbanker Waller hatte eine Kernrate um 0,3% als Auslöser für den größeren Schritt genannt.",
+      "erwartung": "Stand 20.11.: Gehalten bei 3,75–4,00% (28.10.). Das FOMC-Protokoll vom 18.11. zeigte ein gespaltenes Komitee, bestätigte aber die Dezember-Erhöhung als praktisch zementiert (~90% für 0,25 Pp); einige Mitglieder wollen sogar um mehr als 0,25 Pp erhöhen, falls die Inflation ungünstig kommt. Treiber bleibt die heiße US-Kern-Inflation (drei Monate +0,3%). Diese Woche kehrte die Angst-Welle zurück (VIX ~31) und der Dollar hält als 'Flucht-ins-Bargeld'-Hafen sein 19-Monats-Hoch (~103,6) — WICHTIG: Die US-Zinsen fielen diese Woche leicht, die Dollar-Stärke steht also auf der Angst-Flucht, nicht auf dem Zinsvorteil. Schiedsrichter vor dem 9.12.: Kern-PCE am Mi 25.11.",
       "richtung": "rauf"
     },
     {

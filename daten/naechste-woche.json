@@ -64,7 +64,7 @@
     "country": "EUR",
     "title": "S&P Global Composite PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "51.6",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -74,7 +74,7 @@
     "country": "EUR",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "52.8",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -84,7 +84,7 @@
     "country": "EUR",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "51.5",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -94,7 +94,7 @@
     "country": "GBP",
     "title": "S&P Global Composite PMI Flash",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "53",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -104,7 +104,7 @@
     "country": "GBP",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "High",
-    "forecast": "",
+    "forecast": "53",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -114,7 +114,7 @@
     "country": "GBP",
     "title": "S&P Global Services PMI Flash",
     "impact": "High",
-    "forecast": "",
+    "forecast": "53",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -134,7 +134,7 @@
     "country": "USD",
     "title": "S&P Global Services PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "56.4",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -154,7 +154,7 @@
     "country": "USD",
     "title": "S&P Global Manufacturing PMI Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "54.8",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -444,7 +444,7 @@
     "country": "USD",
     "title": "S&P/Case-Shiller 20-City Home Price MoM s.a",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.2%",
     "previous": "0.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -464,7 +464,7 @@
     "country": "USD",
     "title": "CB Consumer Confidence",
     "impact": "Medium",
-    "forecast": "92",
+    "forecast": "92.5",
     "previous": "91.7",
     "actual": null,
     "quelle": "tradingview"
@@ -984,7 +984,7 @@
     "country": "USD",
     "title": "Personal Spending MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1044,7 +1044,7 @@
     "country": "USD",
     "title": "PCE Price Index YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.8%",
     "previous": "3.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -1054,7 +1054,7 @@
     "country": "USD",
     "title": "Personal Income MoM",
     "impact": "High",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1064,7 +1064,7 @@
     "country": "USD",
     "title": "Core PCE Prices QoQ 2nd Est",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.5%",
     "previous": "3.6%",
     "actual": null,
     "quelle": "tradingview"
@@ -1074,7 +1074,7 @@
     "country": "USD",
     "title": "GDP Price Index QoQ 2nd Est",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.3%",
     "previous": "6.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -1154,7 +1154,7 @@
     "country": "USD",
     "title": "Durable Goods Orders MoM",
     "impact": "High",
-    "forecast": "0%",
+    "forecast": "0.4%",
     "previous": "1.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -1164,7 +1164,7 @@
     "country": "USD",
     "title": "Durable Goods Orders Ex Transp MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.5%",
     "previous": "0.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1204,7 +1204,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "200",
     "previous": "203",
     "actual": null,
     "quelle": "tradingview"
@@ -1234,7 +1234,7 @@
     "country": "USD",
     "title": "New Home Sales",
     "impact": "Medium",
-    "forecast": "0.67",
+    "forecast": "0.65",
     "previous": "0.676",
     "actual": null,
     "quelle": "tradingview"
@@ -1574,7 +1574,7 @@
     "country": "EUR",
     "title": "M3 Money Supply Annual Growth",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.5%",
     "previous": "3.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1714,7 +1714,7 @@
     "country": "EUR",
     "title": "Industrial Sentiment",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-3.3",
     "previous": "-3.4",
     "actual": null,
     "quelle": "tradingview"
@@ -1744,7 +1744,7 @@
     "country": "EUR",
     "title": "Economic Sentiment",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "96.9",
     "previous": "96.9",
     "actual": null,
     "quelle": "tradingview"
@@ -1764,7 +1764,7 @@
     "country": "EUR",
     "title": "Services Sentiment",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "5",
     "previous": "5.3",
     "actual": null,
     "quelle": "tradingview"
@@ -1804,7 +1804,7 @@
     "country": "USD",
     "title": "Goods Trade Balance Adv",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-130.15 $",
     "previous": "-134.9 $",
     "actual": null,
     "quelle": "tradingview"

@@ -24200,6 +24200,26 @@
       "vorher": "4.37%",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-17T02:00:00-05:00|GBP|HMRC Payrolls Change": {
+      "datum": "2026-11-17T02:00:00-05:00",
+      "land": "GBP",
+      "titel": "HMRC Payrolls Change",
+      "impact": "Low",
+      "prognose": "9K",
+      "vorher": "13K",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-20T12:00:00-05:00|USD|President Trump Speaks": {
+      "datum": "2026-11-20T12:00:00-05:00",
+      "land": "USD",
+      "titel": "President Trump Speaks",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

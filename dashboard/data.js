@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-20T06:14:32.866Z",
+ "erstellt": "2026-11-20T13:46:32.757Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -306,6 +306,15 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "25.4K",
    "previous": "30.3K",
+   "actual": null
+  },
+  {
+   "title": "HMRC Payrolls Change",
+   "country": "GBP",
+   "date": "2026-11-17T02:00:00-05:00",
+   "impact": "Low",
+   "forecast": "9K",
+   "previous": "13K",
    "actual": null
   },
   {
@@ -1038,15 +1047,6 @@ window.MAKRO_DATA = {
    "actual": null
   },
   {
-   "title": "Foreign Direct Investment ytd/y",
-   "country": "CNY",
-   "date": "2026-11-20T02:02:00-05:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-4.3%",
-   "actual": null
-  },
-  {
    "title": "ECB President Lagarde Speaks",
    "country": "EUR",
    "date": "2026-11-20T03:15:00-05:00",
@@ -1116,6 +1116,15 @@ window.MAKRO_DATA = {
    "impact": "Medium",
    "forecast": "",
    "previous": "4.3%",
+   "actual": null
+  },
+  {
+   "title": "President Trump Speaks",
+   "country": "USD",
+   "date": "2026-11-20T12:00:00-05:00",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
    "actual": null
   },
   {
@@ -1194,7 +1203,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "S&P Global Composite PMI Flash",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "51.6",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
@@ -1204,7 +1213,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "S&P Global Manufacturing PMI Flash",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "52.8",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
@@ -1214,7 +1223,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "S&P Global Services PMI Flash",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "51.5",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
@@ -1224,7 +1233,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "title": "S&P Global Composite PMI Flash",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "53",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
@@ -1234,7 +1243,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "title": "S&P Global Manufacturing PMI Flash",
    "impact": "High",
-   "forecast": "",
+   "forecast": "53",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
@@ -1244,7 +1253,7 @@ window.MAKRO_DATA = {
    "country": "GBP",
    "title": "S&P Global Services PMI Flash",
    "impact": "High",
-   "forecast": "",
+   "forecast": "53",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
@@ -1264,7 +1273,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "S&P Global Services PMI Flash",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "56.4",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
@@ -1284,7 +1293,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "S&P Global Manufacturing PMI Flash",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "54.8",
    "previous": "",
    "actual": null,
    "quelle": "tradingview"
@@ -1574,7 +1583,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "S&P/Case-Shiller 20-City Home Price MoM s.a",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "0.2%",
    "previous": "0.3%",
    "actual": null,
    "quelle": "tradingview"
@@ -1594,7 +1603,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "CB Consumer Confidence",
    "impact": "Medium",
-   "forecast": "92",
+   "forecast": "92.5",
    "previous": "91.7",
    "actual": null,
    "quelle": "tradingview"
@@ -2114,7 +2123,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Personal Spending MoM",
    "impact": "High",
-   "forecast": "",
+   "forecast": "0.4%",
    "previous": "0.5%",
    "actual": null,
    "quelle": "tradingview"
@@ -2174,7 +2183,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "PCE Price Index YoY",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "3.8%",
    "previous": "3.6%",
    "actual": null,
    "quelle": "tradingview"
@@ -2184,7 +2193,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Personal Income MoM",
    "impact": "High",
-   "forecast": "",
+   "forecast": "0.4%",
    "previous": "0.2%",
    "actual": null,
    "quelle": "tradingview"
@@ -2194,7 +2203,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Core PCE Prices QoQ 2nd Est",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "2.5%",
    "previous": "3.6%",
    "actual": null,
    "quelle": "tradingview"
@@ -2204,7 +2213,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "GDP Price Index QoQ 2nd Est",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "2.3%",
    "previous": "6.4%",
    "actual": null,
    "quelle": "tradingview"
@@ -2284,7 +2293,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Durable Goods Orders MoM",
    "impact": "High",
-   "forecast": "0%",
+   "forecast": "0.4%",
    "previous": "1.8%",
    "actual": null,
    "quelle": "tradingview"
@@ -2294,7 +2303,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Durable Goods Orders Ex Transp MoM",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "0.5%",
    "previous": "0.5%",
    "actual": null,
    "quelle": "tradingview"
@@ -2334,7 +2343,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Initial Jobless Claims",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "200",
    "previous": "203",
    "actual": null,
    "quelle": "tradingview"
@@ -2364,7 +2373,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "New Home Sales",
    "impact": "Medium",
-   "forecast": "0.67",
+   "forecast": "0.65",
    "previous": "0.676",
    "actual": null,
    "quelle": "tradingview"
@@ -2704,7 +2713,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "M3 Money Supply Annual Growth",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "3.5%",
    "previous": "3.5%",
    "actual": null,
    "quelle": "tradingview"
@@ -2844,7 +2853,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "Industrial Sentiment",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-3.3",
    "previous": "-3.4",
    "actual": null,
    "quelle": "tradingview"
@@ -2874,7 +2883,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "Economic Sentiment",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "96.9",
    "previous": "96.9",
    "actual": null,
    "quelle": "tradingview"
@@ -2894,7 +2903,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "Services Sentiment",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "5",
    "previous": "5.3",
    "actual": null,
    "quelle": "tradingview"
@@ -2934,7 +2943,7 @@ window.MAKRO_DATA = {
    "country": "USD",
    "title": "Goods Trade Balance Adv",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "-130.15 $",
    "previous": "-134.9 $",
    "actual": null,
    "quelle": "tradingview"
@@ -3915,15 +3924,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-20T06:14:31.951Z",
+  "stand": "2026-11-20T13:46:29.951Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 103.79,
+    "wert": 103.64,
     "tagProzent": 0,
-    "wocheProzent": 0.23,
+    "wocheProzent": 0.08,
     "renditeDelta": false,
     "verlauf": [
      101.81,
@@ -3946,20 +3955,19 @@ window.MAKRO_DATA = {
      103.49,
      103.86,
      103.9,
-     103.79,
-     103.79
+     103.64,
+     103.64
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 28.44,
+    "wert": 31.01,
     "tagProzent": 0,
-    "wocheProzent": 47.36,
+    "wocheProzent": 35.36,
     "renditeDelta": false,
     "verlauf": [
-     19.03,
      19.45,
      18.39,
      17.52,
@@ -3980,16 +3988,17 @@ window.MAKRO_DATA = {
      25.46,
      24.56,
      28.44,
-     28.44
+     31.01,
+     31.01
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 82.55,
+    "wert": 82.52,
     "tagProzent": 0,
-    "wocheProzent": -3.7,
+    "wocheProzent": -3.73,
     "renditeDelta": false,
     "verlauf": [
      103.27,
@@ -4012,17 +4021,17 @@ window.MAKRO_DATA = {
      86.01,
      83.26,
      83.21,
-     82.55,
-     82.55
+     82.52,
+     82.52
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 89.54,
+    "wert": 89.27,
     "tagProzent": 0,
-    "wocheProzent": -3.14,
+    "wocheProzent": -3.43,
     "renditeDelta": false,
     "verlauf": [
      116.72,
@@ -4045,17 +4054,17 @@ window.MAKRO_DATA = {
      93.14,
      91.95,
      91.98,
-     89.54,
-     89.54
+     89.27,
+     89.27
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3552.6,
+    "wert": 3556.7,
     "tagProzent": 0,
-    "wocheProzent": -7.8,
+    "wocheProzent": -7.69,
     "renditeDelta": false,
     "verlauf": [
      4007.9,
@@ -4078,8 +4087,8 @@ window.MAKRO_DATA = {
      3864.2,
      3741.9,
      3685.5,
-     3552.6,
-     3552.6
+     3556.7,
+     3556.7
     ]
    },
    "US02Y": {
@@ -4119,12 +4128,11 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.052,
+    "wert": 4.976,
     "tagProzent": 0,
-    "wocheProzent": -0.1,
+    "wocheProzent": -0.14,
     "renditeDelta": true,
     "verlauf": [
-     4.953,
      4.988,
      4.986,
      4.993,
@@ -4145,19 +4153,19 @@ window.MAKRO_DATA = {
      5.103,
      5.066,
      5.052,
-     5.052
+     4.976,
+     4.976
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.401,
+    "wert": 5.353,
     "tagProzent": 0,
-    "wocheProzent": -0.08,
+    "wocheProzent": -0.11,
     "renditeDelta": true,
     "verlauf": [
-     5.287,
      5.315,
      5.301,
      5.305,
@@ -4178,19 +4186,19 @@ window.MAKRO_DATA = {
      5.458,
      5.412,
      5.401,
-     5.401
+     5.353,
+     5.353
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 61818.21,
+    "wert": 61459.07,
     "tagProzent": 0,
-    "wocheProzent": -5.34,
+    "wocheProzent": -5.24,
     "renditeDelta": false,
     "verlauf": [
-     77198.21,
      77434.75,
      78248.45,
      76677.3,
@@ -4210,17 +4218,18 @@ window.MAKRO_DATA = {
      64855.84,
      64893.95,
      62987.27,
-     61818.21,
-     61818.21
+     61901.82,
+     61459.07,
+     61459.07
     ]
    },
    "FEDFUT": {
     "name": "Fed-Erwartung (FF-Futures)",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.14,
+    "wert": 3.88,
     "tagProzent": 0,
-    "wocheProzent": 0.26,
+    "wocheProzent": 0,
     "renditeDelta": true,
     "verlauf": [
      3.88,
@@ -4243,13 +4252,13 @@ window.MAKRO_DATA = {
      3.88,
      3.88,
      3.88,
-     4.14,
-     4.14
+     3.88,
+     3.88
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
   },
-  "kurve2s10s": 0.3,
+  "kurve2s10s": 0.23,
   "cot": {
    "stand": "2026-11-10",
    "waehrungen": {
@@ -4343,32 +4352,32 @@ window.MAKRO_DATA = {
    "stand": "2026-11-20",
    "werte": {
     "USD": {
-     "wert": 4.73,
-     "wocheDelta": -0.003
+     "wert": 4.675,
+     "wocheDelta": -0.058
     },
     "EUR": {
-     "wert": 3.158,
-     "wocheDelta": 0.095
+     "wert": 3.054,
+     "wocheDelta": -0.009
     },
     "GBP": {
-     "wert": 4.953,
-     "wocheDelta": 0.099
+     "wert": 4.889,
+     "wocheDelta": 0.035
     },
     "JPY": {
-     "wert": 1.828,
-     "wocheDelta": 0.049
+     "wert": 1.823,
+     "wocheDelta": 0.044
     },
     "AUD": {
-     "wert": 4.717,
-     "wocheDelta": -0.077
+     "wert": 4.69,
+     "wocheDelta": -0.104
     },
     "CAD": {
-     "wert": 3.307,
-     "wocheDelta": 0.063
+     "wert": 3.233,
+     "wocheDelta": -0.011
     },
     "CHF": {
-     "wert": 0.296,
-     "wocheDelta": 0.08
+     "wert": 0.245,
+     "wocheDelta": 0.029
     },
     "NZD": {
      "wert": 3.89,
@@ -4389,9 +4398,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": -3,
    "tiltCot": -2,
-   "tiltZins": 4,
-   "tiltGesamt": 2,
-   "score": -1,
+   "tiltZins": 2,
+   "tiltGesamt": 0,
+   "score": -3,
    "cotExtrem": "extrem",
    "treiber": "Fester Dollar (19-Monats-Hoch, Risk-off-Hafen, US-2J stärkster Steiger) gegen das Zinsmomentum pro Dollar; Rekord-Euro-Short federt ab.",
    "istCross": false
@@ -4411,9 +4420,9 @@ window.MAKRO_DATA = {
    "paar": "USD/JPY",
    "baseScore": 3,
    "tiltCot": -5,
-   "tiltZins": -2,
-   "tiltGesamt": -7,
-   "score": -4,
+   "tiltZins": -4,
+   "tiltGesamt": -9,
+   "score": -6,
    "cotExtrem": "erhoeht",
    "treiber": "Dollar stark + Yen fundamental schwach (Q3-Schrumpfung, nahe 160) — nach oben durch Interventionsgefahr + crowded-long gedeckelt.",
    "istCross": false
@@ -4422,9 +4431,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": -3,
    "tiltCot": -2,
-   "tiltZins": -3,
-   "tiltGesamt": -5,
-   "score": -8,
+   "tiltZins": -2,
+   "tiltGesamt": -4,
+   "score": -7,
    "cotExtrem": "extrem",
    "treiber": "Risiko-Währung gegen starken Dollar, Angst-Barometer auf ~28,4 gesprungen.",
    "istCross": false
@@ -4433,9 +4442,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": 2,
    "tiltCot": 2,
-   "tiltZins": -3,
-   "tiltGesamt": -1,
-   "score": 1,
+   "tiltZins": -2,
+   "tiltGesamt": 0,
+   "score": 2,
    "cotExtrem": null,
    "treiber": "Dollar stark; Öl fiel in der Woche (−6%) = Loonie-Gegenwind.",
    "istCross": false
@@ -4455,9 +4464,9 @@ window.MAKRO_DATA = {
    "paar": "NZD/USD",
    "baseScore": -3,
    "tiltCot": -5,
-   "tiltZins": 4,
-   "tiltGesamt": -1,
-   "score": -4,
+   "tiltZins": 6,
+   "tiltGesamt": 1,
+   "score": -2,
    "cotExtrem": "erhoeht",
    "treiber": "Schwache NZ-Jobs + Risk-off; Extrem-Short bremst.",
    "istCross": false
@@ -4466,9 +4475,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/GBP",
    "baseScore": 0,
    "tiltCot": 0,
-   "tiltZins": 0,
-   "tiltGesamt": 0,
-   "score": 0,
+   "tiltZins": -2,
+   "tiltGesamt": -2,
+   "score": -2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4477,9 +4486,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/JPY",
    "baseScore": 1,
    "tiltCot": -2,
-   "tiltZins": 2,
-   "tiltGesamt": 0,
-   "score": 1,
+   "tiltZins": -2,
+   "tiltGesamt": -4,
+   "score": -3,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4488,9 +4497,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 0,
    "tiltCot": 0,
-   "tiltZins": -7,
-   "tiltGesamt": -7,
-   "score": -7,
+   "tiltZins": -8,
+   "tiltGesamt": -8,
+   "score": -8,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4499,16 +4508,16 @@ window.MAKRO_DATA = {
    "paar": "EUR/CHF",
    "baseScore": 1,
    "tiltCot": -1,
-   "tiltZins": 0,
-   "tiltGesamt": -1,
-   "score": 0,
+   "tiltZins": -2,
+   "tiltGesamt": -3,
+   "score": -2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-20T06:14:32.431Z",
+  "stand": "2026-11-20T13:46:32.312Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 88,
   "gewertet": 41,
@@ -4624,7 +4633,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-20T06:14:32.865Z",
+  "stand": "2026-11-20T13:46:32.752Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4863,13 +4872,31 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-20T06:14:32.422Z",
+  "stand": "2026-11-20T13:46:32.194Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive European news wrap: Stock markets remain under pressure, bonds rally on slowdown expectations",
+    "link": "https://investinglive.com/news/investinglive-european-news-wrap-stock-markets-remain-under-pressure-bonds-rally-on-slowdown-expectations/",
+    "datum": "2026-11-20T12:31:26.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "What are the main events for today?",
+    "link": "https://investinglive.com/news/what-are-the-main-events-for-today-90/",
+    "datum": "2026-11-20T07:40:50.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "UK October retail sales +0.7% vs +0.0% m/m expected",
+    "link": "https://investinglive.com/news/uk-october-retail-sales-0-7-vs-0-0-m-m-expected/",
+    "datum": "2026-11-20T07:00:37.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "investingLive Asia-Pacific market news: Red Friday as Asia’s AI trade unravels",
@@ -4929,24 +4956,6 @@ window.MAKRO_DATA = {
     "titel": "Canada October producer price index +12.6% vs +14.5% y/y prior",
     "link": "https://investinglive.com/news/canada-october-producer-price-index-12-6-vs-14-5-y-y-prior/",
     "datum": "2026-11-19T13:33:03.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US November Philly Fed 6.3 vs 20.0 expected",
-    "link": "https://investinglive.com/news/us-november-philly-fed-vs-20-0-expected/",
-    "datum": "2026-11-19T13:30:21.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US initial jobless claims 203K vs 197K estimate",
-    "link": "https://investinglive.com/news/us-initial-jobless-claims-203k-vs-197k-estimate/",
-    "datum": "2026-11-19T13:30:09.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive European news wrap: US stocks recover amid Anthropic enthusiasm",
-    "link": "https://investinglive.com/news/investinglive-european-news-wrap-us-stocks-recover-amid-anthropic-enthusiasm/",
-    "datum": "2026-11-19T12:39:38.000Z"
    },
    {
     "quelle": "Fed",
@@ -6230,5 +6239,5 @@ window.MAKRO_DATA = {
    "notiz": null
   }
  ],
- "anzahlGespeichert": 2420
+ "anzahlGespeichert": 2422
 };

@@ -1,11 +1,17 @@
 {
-  "stand": "2026-11-20T22:36:54.838Z",
+  "stand": "2026-11-21T13:11:20.630Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-nov-stocks-get-hammered-as-nasdaq-plunges-5-28/",
+      "datum": "2026-11-20T22:21:47.000Z"
+    },
     {
       "quelle": "Fed",
       "titel": "Federal Reserve announces College Fed Challenge winners",
@@ -83,12 +89,6 @@
       "titel": "investingLive Asia-Pacific market news: Red Friday as Asia’s AI trade unravels",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-red-friday-as-asia-s-ai-trade-unravels/",
       "datum": "2026-11-20T04:39:38.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "US envoys float NATO membership for Ukraine in exchange for Donbas, WSJ reports",
-      "link": "https://investinglive.com/news/us-envoys-float-nato-membership-for-ukraine-in-exchange-for-donbas-wsj-reports/",
-      "datum": "2026-11-20T02:14:13.000Z"
     },
     {
       "quelle": "Fed",

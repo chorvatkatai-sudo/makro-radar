@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-20T22:36:55.324Z",
+ "erstellt": "2026-11-21T06:08:41.971Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -3396,19 +3396,18 @@ window.MAKRO_DATA = {
    "Klumpen-Bewusstsein: 6 von 7 Paaren zeigen diese Woche dollar-stark — das ist im Kern EINE Wette. Gerechtfertigt, weil es eine echte Angst-Dollar-Woche ist, aber bewusst aufgelockert: USD/JPY nur +1 (Interventions-Cap + Yen-Hafen-Bid), USD/CAD mit eigener Öl-Geschichte, EUR/AUD/NZD durch Rekord-Short-Squeeze gebremst."
   ],
   "tagesnews": {
-   "stand": "2026-11-20",
-   "wochentag": "Freitag",
-   "tenor": "Die Angst ist zurück — Aktien, Krypto und sogar Gold fielen zusammen, und das Geld flüchtete diesmal in den Dollar, der sein Hoch seit anderthalb Jahren hält.",
+   "stand": "2026-11-21",
+   "wochentag": "Samstag",
+   "tenor": "Die Angst vertiefte sich bis zum Freitagsschluss — der Dollar blieb der sichere Hafen, Gold und Bitcoin fielen weiter; jetzt ruht der Markt, nächste Woche ist ruhig (Feiertag in den USA).",
    "heute": [
-    "😟 Das Angst-Barometer VIX steht bei rund 31 — ein Sprung von +35% über die Woche und der höchste Stand seit dem Frühjahr. Der Ausverkauf bei den Technologie- und Künstliche-Intelligenz-Aktien geht weiter (Dow −1,3%, kleine US-Firmen −2%).",
-    "💵 Gewinner ist der US-Dollar: Der Dollar-Index hält sein 19-Monats-Hoch (103,6). Bei echter Panik lösen Anleger ihre Schulden-Wetten auf, verkaufen ALLES und parken das Geld im Dollar — eine klassische 'Flucht ins Bargeld'.",
-    "📉 Gold stürzte diese Woche um −7,7% auf etwa 3.557$ (tiefster Stand seit über einem Jahr) und Bitcoin unter 62.000$ (Vier-Monats-Tief). Gold war diesmal KEIN sicherer Hafen, sondern wurde mitverkauft.",
-    "🛢️ Öl gab nach (−3,7% auf 82,5$) — Gegenwind für den kanadischen Dollar, der heute der klarste Verlierer unter den Nicht-Dollar-Währungen ist."
+    "🛌 Wochenende — die Börsen ruhen, keine neuen Wirtschaftsdaten.",
+    "📊 Rückblick auf den Freitagsschluss (neueste harte Zahlen): Die Panik verschärfte sich zum Schluss noch — das Angst-Barometer VIX schoss auf rund 36 (von ~31 am Mittag), der höchste Stand seit Monaten. Gold rutschte weiter auf ~3.540$ (−8% Woche), Bitcoin unter 59.000$ (−9%).",
+    "💵 Der Dollar hielt sein Hoch seit anderthalb Jahren (Index 103,8). Die \"Flucht ins Bargeld\" lief bis zum Schluss: Alles wurde verkauft, das Geld landete im Dollar."
    ],
    "gestern": [
-    "📊 Die Inflation kam im Ausland fast überall einen Tick kühler: Großbritannien 3,6% (erwartet 3,7%), Kanada 3,1% (erwartet 3,2%, Kernmaße nahe 1,8–2,0%). Japans Wirtschaft stagnierte im dritten Quartal (0,0%).",
-    "🇺🇸 Der US-Einzelhandel überraschte leicht nach oben (+0,2% statt 0%). Das Protokoll der US-Notenbank (Mittwoch) zeigte ein gespaltenes Komitee — aber die Dezember-Erhöhung bleibt so gut wie besiegelt (~90%), einige wollen sogar um mehr als 0,25 Punkte erhöhen.",
-    "⚠️ Wichtig: Die US-Zinsen fielen diese Woche sogar leicht (Anleihen bekamen einen Sicherheits-Zufluss). Die Dollar-Stärke steht also auf der puren Angst-Flucht, nicht auf einem Zinsvorteil — das macht sie wackliger, als sie aussieht."
+    "🗓️ Die Woche in einem Satz: eine echte Angst-Dollar-Woche — Aktien, Krypto und sogar Gold fielen gleichzeitig, und der Dollar war der einzige Gewinner (klassische Entschuldungs-Panik, kein Zinsvorteil).",
+    "⚠️ Aber Vorsicht: Die US-Zinsen fielen diese Woche leicht (Anleihen bekamen einen Sicherheits-Zufluss). Die Dollar-Stärke steht auf der puren Angst, nicht auf einem Zinsvorteil — das macht sie wackliger, als sie aussieht.",
+    "📅 Nächste Woche ruhig und durch Thanksgiving verkürzt (Donnerstag US-Börsen zu, Freitag halber Tag). Höhepunkt: Mittwoch der US-Kern-Preisindex (Kern-PCE), der Lieblings-Inflationswert der Notenbank. KEIN Zinsentscheid."
    ]
   }
  },
@@ -4470,7 +4469,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-20T22:36:54.851Z",
+  "stand": "2026-11-21T06:08:41.970Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 91,
   "gewertet": 42,

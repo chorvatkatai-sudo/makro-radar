@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-21T13:11:21.576Z",
+ "erstellt": "2026-11-22T06:09:05.836Z",
  "wochenStart": "2026-11-15",
  "events": [
   {
@@ -3396,18 +3396,19 @@ window.MAKRO_DATA = {
    "Klumpen-Bewusstsein: 6 von 7 Paaren zeigen diese Woche dollar-stark — das ist im Kern EINE Wette. Gerechtfertigt, weil es eine echte Angst-Dollar-Woche ist, aber bewusst aufgelockert: USD/JPY nur +1 (Interventions-Cap + Yen-Hafen-Bid), USD/CAD mit eigener Öl-Geschichte, EUR/AUD/NZD durch Rekord-Short-Squeeze gebremst."
   ],
   "tagesnews": {
-   "stand": "2026-11-21",
-   "wochentag": "Samstag",
-   "tenor": "Die Angst vertiefte sich bis zum Freitagsschluss — der Dollar blieb der sichere Hafen, Gold und Bitcoin fielen weiter; jetzt ruht der Markt, nächste Woche ist ruhig (Feiertag in den USA).",
+   "stand": "2026-11-22",
+   "wochentag": "Sonntag",
+   "tenor": "Ruhiger Sonntag, Börsen zu. Die Angst-Woche wirkt nach: Bitcoin hält sich übers Wochenende unter 59.000$ — ein Warnsignal für den Montags-Start. Nächste Woche kurz wegen US-Feiertag.",
    "heute": [
-    "🛌 Wochenende — die Börsen ruhen, keine neuen Wirtschaftsdaten.",
-    "📊 Rückblick auf den Freitagsschluss (neueste harte Zahlen): Die Panik verschärfte sich zum Schluss noch — das Angst-Barometer VIX schoss auf rund 36 (von ~31 am Mittag), der höchste Stand seit Monaten. Gold rutschte weiter auf ~3.540$ (−8% Woche), Bitcoin unter 59.000$ (−9%).",
-    "💵 Der Dollar hielt sein Hoch seit anderthalb Jahren (Index 103,8). Die \"Flucht ins Bargeld\" lief bis zum Schluss: Alles wurde verkauft, das Geld landete im Dollar."
+    "🛌 Wochenende, zweiter Tag — Aktien-, Anleihe- und Rohstoffmärkte ruhen, keine neuen Wirtschaftsdaten.",
+    "₿ Krypto ist das einzige, was am Wochenende durchhandelt — und dient Händlern oft als Frühwarnung für den Montags-Start. Bitcoin blieb übers Wochenende unter 59.000$ (Freitagsschluss ~59.200$, −9% Woche). Solange sich das nicht erholt, deutet es auf einen weiter nervösen Start hin.",
+    "📅 Blick nach vorn: Nächste Woche ist ruhig und durch Thanksgiving verkürzt (Donnerstag 26.11. US-Börsen zu, Freitag halber Tag). Höhepunkt ist Mittwoch 25.11. der US-Kern-Preisindex (Kern-PCE), der Lieblings-Inflationswert der Notenbank — vorgezogen wegen des Feiertags. KEIN Zinsentscheid."
    ],
    "gestern": [
     "🗓️ Die Woche in einem Satz: eine echte Angst-Dollar-Woche — Aktien, Krypto und sogar Gold fielen gleichzeitig, und der Dollar war der einzige Gewinner (klassische Entschuldungs-Panik, kein Zinsvorteil).",
+    "📊 Zum Freitagsschluss verschärfte sich die Panik noch: Das Angst-Barometer VIX schoss auf rund 36 (von ~31 am Freitagmittag) = höchster Stand seit Monaten. Gold rutschte auf ~3.515$ (−8,8% Woche), Bitcoin unter 59.000$ (−8,8%). Der Dollar hielt sein 19-Monats-Hoch (Index 103,8).",
     "⚠️ Aber Vorsicht: Die US-Zinsen fielen diese Woche leicht (Anleihen bekamen einen Sicherheits-Zufluss). Die Dollar-Stärke steht auf der puren Angst, nicht auf einem Zinsvorteil — das macht sie wackliger, als sie aussieht.",
-    "📅 Nächste Woche ruhig und durch Thanksgiving verkürzt (Donnerstag US-Börsen zu, Freitag halber Tag). Höhepunkt: Mittwoch der US-Kern-Preisindex (Kern-PCE), der Lieblings-Inflationswert der Notenbank. KEIN Zinsentscheid."
+    "🎯 Nächste große Termine: Mittwoch Kern-PCE (Konsens +0,3%) + US-Wirtschaftswachstum Q3 (2. Schätzung) + langlebige Güter. Danach erst wieder am 9.12. die Notenbank-Sitzung (Dezember-Erhöhung ~90% eingepreist)."
    ]
   }
  },
@@ -4469,7 +4470,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-21T13:11:21.252Z",
+  "stand": "2026-11-22T06:09:05.835Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 91,
   "gewertet": 42,

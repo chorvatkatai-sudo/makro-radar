@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-22T06:10:19.962Z",
+ "erstellt": "2026-11-22T20:13:18.850Z",
  "wochenStart": "2026-11-22",
  "events": [
   {
@@ -134,7 +134,7 @@ window.MAKRO_DATA = {
    "date": "2026-11-23T08:30:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "8.7%",
    "actual": null
   },
   {
@@ -3768,7 +3768,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-22T06:10:18.832Z",
+  "stand": "2026-11-22T20:13:17.886Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -4038,12 +4038,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 59046.39,
+    "wert": 60633.94,
     "tagProzent": 0,
-    "wocheProzent": -9.01,
+    "wocheProzent": -3.74,
     "renditeDelta": false,
     "verlauf": [
-     78248.45,
      76677.3,
      77345.05,
      80405.29,
@@ -4063,8 +4062,9 @@ window.MAKRO_DATA = {
      62987.27,
      61901.82,
      58798.98,
-     59046.39,
-     59046.39
+     60094.09,
+     60633.94,
+     60633.94
     ]
    },
    "FEDFUT": {
@@ -4361,7 +4361,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-22T06:10:19.369Z",
+  "stand": "2026-11-22T20:13:18.398Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 91,
   "gewertet": 42,
@@ -4477,7 +4477,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-22T06:10:19.961Z",
+  "stand": "2026-11-22T20:13:18.849Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4716,7 +4716,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-22T06:10:19.360Z",
+  "stand": "2026-11-22T20:13:18.385Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

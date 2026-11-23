@@ -395,7 +395,7 @@
     "title": "USDA Corn Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1190.786",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -405,7 +405,7 @@
     "title": "USDA Soybean Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1555.054",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -415,7 +415,7 @@
     "title": "USDA Wheat Export Inspections",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "344.886",
     "actual": null,
     "quelle": "tradingview"
   },

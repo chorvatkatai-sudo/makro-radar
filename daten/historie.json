@@ -24970,6 +24970,16 @@
       "vorher": "0.6%",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-23T08:32:00-05:00|CAD|Corporate Profits q/q": {
+      "datum": "2026-11-23T08:32:00-05:00",
+      "land": "CAD",
+      "titel": "Corporate Profits q/q",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "8.7%",
+      "actual": null,
+      "notiz": null
     }
   }
 }

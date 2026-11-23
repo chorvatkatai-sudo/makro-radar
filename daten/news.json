@@ -1,11 +1,77 @@
 {
-  "stand": "2026-11-22T20:13:18.385Z",
+  "stand": "2026-11-23T15:36:08.068Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "S&P Global US services November flash PMI 54.7 vs 55.7 expected",
+      "link": "https://investinglive.com/news/s-p-global-us-services-november-flash-pmi-54-7-vs-55-7-expected/",
+      "datum": "2026-11-23T14:45:41.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: Markets rebound amid broad-based short covering",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-rebound-amid-broad-based-short-covering/",
+      "datum": "2026-11-23T12:49:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "UK November flash services PMI 52.0 vs 53.0 expected",
+      "link": "https://investinglive.com/news/uk-november-flash-services-pmi-52-0-vs-53-0-expected/",
+      "datum": "2026-11-23T09:30:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Eurozone November flash services PMI 51.2 vs 51.8 expected",
+      "link": "https://investinglive.com/news/eurozone-november-flash-services-pmi-51-2-vs-51-8-expected/",
+      "datum": "2026-11-23T09:00:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany November flash manufacturing PMI 55.0 vs 54.0 expected",
+      "link": "https://investinglive.com/news/germany-november-flash-manufacturing-pmi-55-0-vs-54-0-expected/",
+      "datum": "2026-11-23T08:30:21.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France November flash services PMI 46.6 vs 47.5 expected",
+      "link": "https://investinglive.com/news/france-november-flash-services-pmi-46-6-vs-47-5-expected/",
+      "datum": "2026-11-23T08:15:30.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-91/",
+      "datum": "2026-11-23T07:19:14.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: US futures hold 2% bounce",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-us-futures-hold-2-bounce/",
+      "datum": "2026-11-23T04:31:16.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia flash PMI sinks to 46.1 as private sector shrinks at fastest pace in 5 years",
+      "link": "https://investinglive.com/news/australia-flash-pmi-sinks-to-46-1-as-private-sector-shrinks-at-fastest-pace-in-5-years/",
+      "datum": "2026-11-22T22:09:56.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "New Zealand retail volumes jump 2.2% in Q3, more than four times the expected pace",
+      "link": "https://investinglive.com/news/new-zealand-retail-volumes-jump-2-2-in-q3-more-than-four-times-the-expected-pace/",
+      "datum": "2026-11-22T21:54:37.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia 23 November 2026. Japanese markets are closed today.",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-23-november-2026-japanese-markets-are-closed-today/",
+      "datum": "2026-11-22T21:03:37.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%",
@@ -19,76 +85,10 @@
       "datum": "2026-11-20T21:15:00.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "Trump weighs renewed strikes on Iran as military warns of strain. FT",
-      "link": "https://investinglive.com/news/trump-weighs-renewed-strikes-on-iran-as-military-warns-of-strain-ft/",
-      "datum": "2026-11-20T20:42:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "European stocks end a bruising week. German DAX falls 7.29%.",
-      "link": "https://investinglive.com/news/european-stocks-end-a-bruising-week-german-dax-falls-7-29/",
-      "datum": "2026-11-20T18:12:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Trump: Secured two new trade deals. 10 others coming very soon.",
-      "link": "https://investinglive.com/news/trump-secured-two-new-trade-deals-10-others-coming-very-soon/",
-      "datum": "2026-11-20T17:33:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Bessent says Trump and Xi saw robust discussion on trade policy, AI",
-      "link": "https://investinglive.com/news/bessent-says-trump-and-xi-saw-robust-discussion-on-trade-policy-ai/",
-      "datum": "2026-11-20T15:33:55.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "University of Michigan consumer sentiment 51.5 versus 51.5 estimate",
-      "link": "https://investinglive.com/news/university-of-michigan-consumer-sentiment-51-5-versus-51-5-estimate/",
-      "datum": "2026-11-20T15:04:05.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
       "datum": "2026-11-20T15:00:00.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Greer says US-China trade truce extension hinges on rare earths",
-      "link": "https://investinglive.com/news/greer-says-us-china-trade-truce-extension-hinges-on-rare-earths/",
-      "datum": "2026-11-20T14:06:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Canada retail sales comes in stronger at 0.8% vs 0.7% estimate. Core up 1.0% vs 0.7% estimate.",
-      "link": "https://investinglive.com/news/canada-retail-sales-comes-in-stronger-at-0-8-vs-0-7-estimate-core-up-1-0-vs-0-7-estimate/",
-      "datum": "2026-11-20T13:30:24.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Stock markets remain under pressure, bonds rally on slowdown expectations",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-stock-markets-remain-under-pressure-bonds-rally-on-slowdown-expectations/",
-      "datum": "2026-11-20T12:31:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-90/",
-      "datum": "2026-11-20T07:40:50.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK October retail sales +0.7% vs +0.0% m/m expected",
-      "link": "https://investinglive.com/news/uk-october-retail-sales-0-7-vs-0-0-m-m-expected/",
-      "datum": "2026-11-20T07:00:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Red Friday as Asia’s AI trade unravels",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-red-friday-as-asia-s-ai-trade-unravels/",
-      "datum": "2026-11-20T04:39:38.000Z"
     },
     {
       "quelle": "Fed",

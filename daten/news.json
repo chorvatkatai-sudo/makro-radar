@@ -1,11 +1,29 @@
 {
-  "stand": "2026-11-23T19:07:14.008Z",
+  "stand": "2026-11-24T04:40:31.598Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Singapore Q3 GDP jumps 6.1%, growth forecast lifted to around 6% as exports boom",
+      "link": "https://investinglive.com/news/singapore-q3-gdp-jumps-6-1-growth-forecast-lifted-to-around-6-as-exports-boom/",
+      "datum": "2026-11-24T00:05:25.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Economic and event calendar in Asia Tuesday, November 24, 2026: Singapore and Japan",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-november-24-2026-singapore-and-japan/",
+      "datum": "2026-11-23T21:16:15.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas market news wrap: Nvidia climbs 30% as Jensen Huang returns",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nvidia-climbs-30-as-jensen-huang-returns/",
+      "datum": "2026-11-23T21:09:01.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "U.S. Treasury sells $69 billion the two-year notes at a high yield of 4.700%",
@@ -59,24 +77,6 @@
       "titel": "investingLive Asia-Pacific market news: US futures hold 2% bounce",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-us-futures-hold-2-bounce/",
       "datum": "2026-11-23T04:31:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Australia flash PMI sinks to 46.1 as private sector shrinks at fastest pace in 5 years",
-      "link": "https://investinglive.com/news/australia-flash-pmi-sinks-to-46-1-as-private-sector-shrinks-at-fastest-pace-in-5-years/",
-      "datum": "2026-11-22T22:09:56.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "New Zealand retail volumes jump 2.2% in Q3, more than four times the expected pace",
-      "link": "https://investinglive.com/news/new-zealand-retail-volumes-jump-2-2-in-q3-more-than-four-times-the-expected-pace/",
-      "datum": "2026-11-22T21:54:37.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia 23 November 2026. Japanese markets are closed today.",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-23-november-2026-japanese-markets-are-closed-today/",
-      "datum": "2026-11-22T21:03:37.000Z"
     },
     {
       "quelle": "Fed",

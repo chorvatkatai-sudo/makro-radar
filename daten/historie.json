@@ -24426,7 +24426,7 @@
       "land": "EUR",
       "titel": "German ifo Business Climate",
       "impact": "Low",
-      "prognose": "90.6",
+      "prognose": "90.5",
       "vorher": "90.2",
       "actual": null,
       "notiz": null
@@ -24436,7 +24436,7 @@
       "land": "GBP",
       "titel": "CBI Realized Sales",
       "impact": "Low",
-      "prognose": "-24",
+      "prognose": "-27",
       "vorher": "-10",
       "actual": null,
       "notiz": null
@@ -24476,7 +24476,7 @@
       "land": "EUR",
       "titel": "Belgian NBB Business Climate",
       "impact": "Low",
-      "prognose": "-9.3",
+      "prognose": "-9.4",
       "vorher": "-9.8",
       "actual": null,
       "notiz": null
@@ -24506,7 +24506,7 @@
       "land": "USD",
       "titel": "CB Consumer Confidence",
       "impact": "Medium",
-      "prognose": "92.1",
+      "prognose": "92.4",
       "vorher": "91.7",
       "actual": null,
       "notiz": null
@@ -24516,7 +24516,7 @@
       "land": "USD",
       "titel": "Richmond Manufacturing Index",
       "impact": "Low",
-      "prognose": "-3",
+      "prognose": "-2",
       "vorher": "-2",
       "actual": null,
       "notiz": null
@@ -24566,7 +24566,7 @@
       "land": "AUD",
       "titel": "CPI y/y",
       "impact": "High",
-      "prognose": "4.8%",
+      "prognose": "4.7%",
       "vorher": "4.3%",
       "actual": null,
       "notiz": null
@@ -24686,7 +24686,7 @@
       "land": "USD",
       "titel": "Durable Goods Orders m/m",
       "impact": "Low",
-      "prognose": "0.5%",
+      "prognose": "0.7%",
       "vorher": "1.8%",
       "actual": null,
       "notiz": null
@@ -24716,7 +24716,7 @@
       "land": "USD",
       "titel": "New Home Sales",
       "impact": "Low",
-      "prognose": "649K",
+      "prognose": "650K",
       "vorher": "676K",
       "actual": null,
       "notiz": null
@@ -24736,7 +24736,7 @@
       "land": "USD",
       "titel": "Natural Gas Storage",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "-19B",
       "vorher": "20B",
       "actual": null,
       "notiz": null
@@ -24756,7 +24756,7 @@
       "land": "AUD",
       "titel": "Private Capital Expenditure q/q",
       "impact": "Low",
-      "prognose": "4.4%",
+      "prognose": "4.5%",
       "vorher": "-3.6%",
       "actual": null,
       "notiz": null
@@ -24856,7 +24856,7 @@
       "land": "JPY",
       "titel": "Tokyo Core CPI y/y",
       "impact": "Medium",
-      "prognose": "2.9%",
+      "prognose": "3.0%",
       "vorher": "2.6%",
       "actual": null,
       "notiz": null
@@ -24866,7 +24866,7 @@
       "land": "EUR",
       "titel": "French Consumer Spending m/m",
       "impact": "Low",
-      "prognose": "0.2%",
+      "prognose": "0.1%",
       "vorher": "-0.5%",
       "actual": null,
       "notiz": null
@@ -24886,7 +24886,7 @@
       "land": "EUR",
       "titel": "French Prelim CPI m/m",
       "impact": "Low",
-      "prognose": "-0.1%",
+      "prognose": "-0.2%",
       "vorher": "0.4%",
       "actual": null,
       "notiz": null
@@ -24906,7 +24906,7 @@
       "land": "EUR",
       "titel": "Spanish Flash CPI y/y",
       "impact": "Low",
-      "prognose": "4.8%",
+      "prognose": "4.7%",
       "vorher": "4.9%",
       "actual": null,
       "notiz": null
@@ -24946,7 +24946,7 @@
       "land": "CAD",
       "titel": "Current Account",
       "impact": "Low",
-      "prognose": "9.6B",
+      "prognose": "9.5B",
       "vorher": "8.8B",
       "actual": null,
       "notiz": null
@@ -24956,7 +24956,7 @@
       "land": "USD",
       "titel": "Goods Trade Balance",
       "impact": "Low",
-      "prognose": "-134.4B",
+      "prognose": "-135.9B",
       "vorher": "-134.9B",
       "actual": null,
       "notiz": null
@@ -24966,7 +24966,7 @@
       "land": "USD",
       "titel": "Prelim Wholesale Inventories m/m",
       "impact": "Low",
-      "prognose": "0.7%",
+      "prognose": "0.5%",
       "vorher": "0.6%",
       "actual": null,
       "notiz": null

@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-24T04:40:32.136Z",
+ "erstellt": "2026-11-24T06:11:24.807Z",
  "wochenStart": "2026-11-22",
  "events": [
   {
@@ -3137,8 +3137,8 @@ window.MAKRO_DATA = {
   "waehrungen": {
    "USD": {
     "stimmung": "bullisch",
-    "score": 5,
-    "grund": "Alleiniger Gewinner der Angst-Welle: Bei der 'Flucht ins Bargeld' floss alles in den Dollar, der sein 19-Monats-Hoch hält (103,6); dazu die so gut wie besiegelte Dezember-Erhöhung (~90%). Einziger größerer Score mit klarem Grund — bewusst gedeckelt, weil der US-2-Jahres-Zins diese Woche fiel (Stärke ist angst-, nicht zinsgetrieben)."
+    "score": 4,
+    "grund": "Weiter Gewinner der Hafen-Flucht: Der Dollar-Index markiert ein neues Mehrmonats-Hoch (~104). ABER die Panik, die ihn trug, lässt nach (Angstbarometer fällt vom Höchststand) und die US-Zinsen fielen — die Stärke läuft zunehmend auf Momentum statt auf frischem Zinsvorteil, deshalb leicht zurückgenommen."
    },
    "EUR": {
     "stimmung": "bärisch",
@@ -3167,8 +3167,8 @@ window.MAKRO_DATA = {
    },
    "AUD": {
     "stimmung": "bärisch",
-    "score": -4,
-    "grund": "Typische Risiko-Währung in einer Panik-Woche (VIX 31) — und der australische 2-Jahres-Zins fiel diese Woche am stärksten (Zins gegen den Aussie). Nur die extreme Short-Positionierung (z−2,6) bremst den Rückgang."
+    "score": -3,
+    "grund": "Risiko-Währung in noch nervösem Umfeld und der australische 2-Jahres-Zins fiel am stärksten; abgefedert durch die nachlassende Panik, die Rekord-Short-Positionierung (Squeeze-Gefahr) und die heute anstehende Inflation."
    },
    "NZD": {
     "stimmung": "bärisch",
@@ -3194,13 +3194,13 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": -4,
-    "treiber": "Risiko-Währung in der VIX-31-Panik, und der Aussie-Zins fiel am stärksten; Extrem-Shorts bremsen den Absturz."
+    "score": -3,
+    "treiber": "Risiko-Währung, aber die nachlassende Börsen-Panik (Angstbarometer fällt) und die extreme Short-Positionierung (Squeeze-Gefahr) federn ab; heute kann die australische Inflation den Aussie stützen. Der australische Zins fiel aber am stärksten."
    },
    {
     "paar": "USD/CAD",
     "score": 4,
-    "treiber": "Klarster Dollar-Long: Öl −3,7%, kühle kanadische Inflation und Risiko-Flucht treffen den Loonie dreifach."
+    "treiber": "Klarster Dollar-Long: Öl unter 80 Dollar, kühle kanadische Inflation und die anhaltende Risiko-Flucht in den Dollar treffen den Loonie."
    },
    {
     "paar": "USD/CHF",
@@ -3278,19 +3278,20 @@ window.MAKRO_DATA = {
    "Klumpen-Bewusstsein: 6 von 7 Paaren zeigen diese Woche dollar-stark — das ist im Kern EINE Wette. Gerechtfertigt, weil es eine echte Angst-Dollar-Woche ist, aber bewusst aufgelockert: USD/JPY nur +1 (Interventions-Cap + Yen-Hafen-Bid), USD/CAD mit eigener Öl-Geschichte, EUR/AUD/NZD durch Rekord-Short-Squeeze gebremst."
   ],
   "tagesnews": {
-   "stand": "2026-11-23",
-   "wochentag": "Montag",
-   "tenor": "Angst der Vorwoche hält an: Börsen-Nervosität auf Mehrmonats-Hoch, Gold und Bitcoin tief, der Dollar bleibt sicherer Hafen. Heute britische Konjunkturdaten, die US-Woche ist feiertagskurz.",
+   "stand": "2026-11-24",
+   "wochentag": "Dienstag",
+   "tenor": "Die Panik der Vorwoche lässt nach — das Börsen-Angstbarometer fällt deutlich vom Höchststand, doch der Dollar klettert weiter auf ein neues Hoch; morgen die große US-Inflationszahl.",
    "heute": [
-    "🇬🇧 Heute 10:30 Uhr (Wien): britische Konjunktur-Barometer (Flash-Einkaufsmanager Industrie + Dienstleistung). Markt erwartet rund 53 Punkte = weiter leichtes Wachstum. Für das Pfund der einzige echte Termin des Tages.",
-    "🇺🇸 Börsen starten nach dem Wochenende mit der Angst der Vorwoche im Rücken. Der Dollar hält sein 19-Monats-Hoch (Index ~103,8), weil Anleger weiter in Bargeld und Dollar flüchten — der Hafen ist diesmal der Dollar, nicht Gold.",
-    "📅 Kurze Woche: Donnerstag sind die US-Börsen wegen Thanksgiving zu, Freitag nur halber Tag. Das große Ereignis ist schon Mittwoch 25.11. — das Lieblings-Inflationsmaß der US-Notenbank (Kern-PCE, Konsens +0,3%). Kein Zinsentscheid."
+    "🇦🇺 Heute die australische Monats-Inflation (erwartet rund 4,7% im Jahr, Kernrate +0,3% im Monat). Ein heißer Wert würde die ohnehin hohen australischen Zinsen (4,85%) stützen — das Ergebnis war bei Redaktionsschluss noch nicht sauber bestätigt, deshalb hier noch kein fixer Wert.",
+    "💵 Der Dollar bleibt der Gewinner: Der Dollar-Index klettert auf rund 104 — ein neues Mehrmonats-Hoch —, obwohl die Börsen-Nervosität bereits nachlässt. Die Flucht ins Bargeld trägt also weiter, steht aber auf dünnerem Eis, weil die US-Zinsen diese Woche fielen.",
+    "🥇 Gold fängt sich nach dem Absturz der Vorwoche leicht (~3.630 Dollar). Öl bleibt mit unter 80 Dollar schwach — Gegenwind für den kanadischen Dollar.",
+    "📅 Ruhiger Dienstag vor der feiertagskurzen Woche: Die großen US-Zahlen (Kern-Inflation, Wachstum, langlebige Güter) sind alle auf morgen, Mittwoch, vorgezogen. Donnerstag sind die US-Börsen zu (Thanksgiving)."
    ],
    "gestern": [
-    "📉 Übers Wochenende blieb die Nervosität hoch: Das Angst-Barometer der Börse (VIX) kletterte auf rund 36 — so hoch wie seit dem Frühjahr nicht. Bitcoin hielt sich unter 59.000$ (4-Monats-Tief).",
-    "🪙 Gold blieb schwach bei ~3.515$ (rund 8,8% Minus auf Wochensicht, 13,5-Monats-Tief). Das Besondere der Angst-Woche: Aktien, Krypto UND Gold fielen gleichzeitig — eine klassische Flucht ins Bargeld, die im Dollar landete.",
-    "💵 Der Dollar-Index steht bei ~103,8 (19-Monats-Hoch); die US-Zinsen fielen diese Woche leicht (Anleihen als Sicherheit gefragt). WICHTIG: Die Dollar-Stärke kommt aus der puren Angst, nicht aus einem Zinsvorteil — das macht sie wackliger, als sie aussieht.",
-    "🎯 Nächste große Termine: Mittwoch Kern-PCE + US-Wirtschaftswachstum Q3 (2. Schätzung) + langlebige Güter. Danach erst am 9.12. die nächste Notenbank-Sitzung (Dezember-Erhöhung ~90% eingepreist)."
+    "📉 Das Angst-Barometer der Börse (VIX) fiel von seiner Spitze (rund 36 in der Vorwoche) zurück auf rund 27 — die Technologie-/KI-Panik beruhigt sich, bleibt aber über dem Normalniveau (sonst ~17–19).",
+    "🇬🇧 Gestern britische Konjunktur-Barometer (Einkaufsmanager): rund 53 erwartet = weiter leichtes Wachstum. Das Pfund blieb dank der Bank of England bei 4,00% widerstandsfähig.",
+    "💵 Trotz nachlassender Panik hielt der Dollar seine Stärke und zog sogar weiter an (Index über 104). Gleichzeitig fielen die US-Zinsen leicht — die Dollar-Stärke kommt also aus der Angst, nicht aus einem Zinsvorteil, und ist damit wackliger, als sie aussieht.",
+    "🛢️ Öl gab über die Woche nach (Brent unter 87 Dollar), Bitcoin blieb unter 62.000 Dollar schwach — die Risikostimmung ist noch nicht zurück."
    ]
   }
  },
@@ -4264,13 +4265,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -4,
+   "baseScore": -3,
    "tiltCot": -2,
    "tiltZins": -2,
    "tiltGesamt": -4,
-   "score": -8,
+   "score": -7,
    "cotExtrem": "extrem",
-   "treiber": "Risiko-Währung in der VIX-31-Panik, und der Aussie-Zins fiel am stärksten; Extrem-Shorts bremsen den Absturz.",
+   "treiber": "Risiko-Währung, aber die nachlassende Börsen-Panik (Angstbarometer fällt) und die extreme Short-Positionierung (Squeeze-Gefahr) federn ab; heute kann die australische Inflation den Aussie stützen. Der australische Zins fiel aber am stärksten.",
    "istCross": false
   },
   {
@@ -4281,7 +4282,7 @@ window.MAKRO_DATA = {
    "tiltGesamt": 2,
    "score": 6,
    "cotExtrem": null,
-   "treiber": "Klarster Dollar-Long: Öl −3,7%, kühle kanadische Inflation und Risiko-Flucht treffen den Loonie dreifach.",
+   "treiber": "Klarster Dollar-Long: Öl unter 80 Dollar, kühle kanadische Inflation und die anhaltende Risiko-Flucht in den Dollar treffen den Loonie.",
    "istCross": false
   },
   {
@@ -4352,7 +4353,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-24T04:40:31.607Z",
+  "stand": "2026-11-24T06:11:24.807Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 91,
   "gewertet": 42,

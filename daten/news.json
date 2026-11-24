@@ -1,11 +1,53 @@
 {
-  "stand": "2026-11-24T04:40:31.598Z",
+  "stand": "2026-11-24T15:27:54.922Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US November consumer confidence 103.3 vs 92.5 expected",
+      "link": "https://investinglive.com/news/us-november-consumer-confidence-103-3-vs-92-5-expected/",
+      "datum": "2026-11-24T15:00:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "November Belgian business confidence falls to the lowest of the year",
+      "link": "https://investinglive.com/news/november-belgian-business-confidence-falls-to-the-lowest-of-the-year/",
+      "datum": "2026-11-24T14:18:03.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US September CaseShiller 20-city house price index +2.6 vs +2.7% expected",
+      "link": "https://investinglive.com/news/us-september-caseshiller-20-city-house-price-index-2-6-vs-2-7-expected/",
+      "datum": "2026-11-24T14:00:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European news wrap: US futures give back Nvidia-led gains",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-us-futures-give-back-nvidia-led-gains/",
+      "datum": "2026-11-24T13:26:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "German Ifo survey hints at a recovery in November but the ECB still can't get too comfortable",
+      "link": "https://investinglive.com/news/german-ifo-survey-hints-at-a-recovery-in-november-but-the-ecb-still-can-t-get-too-comfortable/",
+      "datum": "2026-11-24T09:28:39.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-92/",
+      "datum": "2026-11-24T07:35:08.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Asia-Pacific market news: Huang's return powers Asia's AI rebound",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-huang-s-return-powers-asia-s-ai-rebound/",
+      "datum": "2026-11-24T04:13:33.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "Singapore Q3 GDP jumps 6.1%, growth forecast lifted to around 6% as exports boom",
@@ -35,48 +77,6 @@
       "titel": "S&P Global US services November flash PMI 54.7 vs 55.7 expected",
       "link": "https://investinglive.com/news/s-p-global-us-services-november-flash-pmi-54-7-vs-55-7-expected/",
       "datum": "2026-11-23T14:45:41.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European news wrap: Markets rebound amid broad-based short covering",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-rebound-amid-broad-based-short-covering/",
-      "datum": "2026-11-23T12:49:07.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "UK November flash services PMI 52.0 vs 53.0 expected",
-      "link": "https://investinglive.com/news/uk-november-flash-services-pmi-52-0-vs-53-0-expected/",
-      "datum": "2026-11-23T09:30:16.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Eurozone November flash services PMI 51.2 vs 51.8 expected",
-      "link": "https://investinglive.com/news/eurozone-november-flash-services-pmi-51-2-vs-51-8-expected/",
-      "datum": "2026-11-23T09:00:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Germany November flash manufacturing PMI 55.0 vs 54.0 expected",
-      "link": "https://investinglive.com/news/germany-november-flash-manufacturing-pmi-55-0-vs-54-0-expected/",
-      "datum": "2026-11-23T08:30:21.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "France November flash services PMI 46.6 vs 47.5 expected",
-      "link": "https://investinglive.com/news/france-november-flash-services-pmi-46-6-vs-47-5-expected/",
-      "datum": "2026-11-23T08:15:30.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-91/",
-      "datum": "2026-11-23T07:19:14.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: US futures hold 2% bounce",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-us-futures-hold-2-bounce/",
-      "datum": "2026-11-23T04:31:16.000Z"
     },
     {
       "quelle": "Fed",

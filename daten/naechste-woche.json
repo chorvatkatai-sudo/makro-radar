@@ -785,7 +785,7 @@
     "title": "Redbook YoY",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "11.3%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -854,7 +854,7 @@
     "country": "USD",
     "title": "ISM Manufacturing PMI",
     "impact": "High",
-    "forecast": "",
+    "forecast": "55.2",
     "previous": "55.5",
     "actual": null,
     "quelle": "tradingview"
@@ -1974,7 +1974,7 @@
     "country": "USD",
     "title": "ISM Services PMI",
     "impact": "High",
-    "forecast": "",
+    "forecast": "54.5",
     "previous": "54.5",
     "actual": null,
     "quelle": "tradingview"
@@ -2254,7 +2254,7 @@
     "country": "USD",
     "title": "Non Farm Payrolls",
     "impact": "High",
-    "forecast": "93",
+    "forecast": "90",
     "previous": "165",
     "actual": null,
     "quelle": "tradingview"
@@ -2264,7 +2264,7 @@
     "country": "USD",
     "title": "Nonfarm Payrolls Private",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "85",
     "previous": "159",
     "actual": null,
     "quelle": "tradingview"
@@ -2294,7 +2294,7 @@
     "country": "USD",
     "title": "Average Weekly Hours",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "34.4",
     "previous": "34.4",
     "actual": null,
     "quelle": "tradingview"
@@ -2404,7 +2404,7 @@
     "country": "USD",
     "title": "Michigan Consumer Sentiment Prel",
     "impact": "High",
-    "forecast": "",
+    "forecast": "51.8",
     "previous": "51",
     "actual": null,
     "quelle": "tradingview"

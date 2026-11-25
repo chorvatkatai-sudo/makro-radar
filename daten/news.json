@@ -1,11 +1,53 @@
 {
-  "stand": "2026-11-24T15:27:54.922Z",
+  "stand": "2026-11-25T02:58:23.089Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "Japan services producer prices jump 4.2% in October, firming the case for a BOJ hike",
+      "link": "https://investinglive.com/news/japan-services-producer-prices-jump-4-2-in-october-firming-the-case-for-a-boj-hike/",
+      "datum": "2026-11-25T00:35:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 24 Nov: It’s a Wrap. Chip stocks slide. Anthropic breaks IPO price. USD lower.",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-nov-it-s-a-wrap-chip-stocks-slide-anthropic-breaks-ipo-price-usd-lower/",
+      "datum": "2026-11-24T21:30:01.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Australia CPI preview: 4.8% looks like the peak, but the core print will move the RBA",
+      "link": "https://investinglive.com/news/australia-cpi-preview-4-8-looks-like-the-peak-but-the-core-print-will-move-the-rba/",
+      "datum": "2026-11-24T21:19:49.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "datum": "2026-11-24T19:00:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "The US treasury sells $70 billion of 5 year notes at a high yield of 4.719%",
+      "link": "https://investinglive.com/news/the-us-treasury-sells-70-billion-of-5-year-notes-at-a-high-yield-of-4-719/",
+      "datum": "2026-11-24T18:06:02.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "European stocks fall as Trump turns back to tariffs. Italy leads the declines.",
+      "link": "https://investinglive.com/news/european-stocks-fall-as-trump-turns-back-to-tariffs-italy-leads-the-declines/",
+      "datum": "2026-11-24T17:06:42.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Stock markets fall as Trump pivots from corporate meddling to fresh tariffs",
+      "link": "https://investinglive.com/news/stock-markets-fall-as-trump-pivots-from-corporate-meddling-to-fresh-tariffs/",
+      "datum": "2026-11-24T16:00:29.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US November consumer confidence 103.3 vs 92.5 expected",
@@ -43,42 +85,6 @@
       "datum": "2026-11-24T07:35:08.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Huang's return powers Asia's AI rebound",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-huang-s-return-powers-asia-s-ai-rebound/",
-      "datum": "2026-11-24T04:13:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Singapore Q3 GDP jumps 6.1%, growth forecast lifted to around 6% as exports boom",
-      "link": "https://investinglive.com/news/singapore-q3-gdp-jumps-6-1-growth-forecast-lifted-to-around-6-as-exports-boom/",
-      "datum": "2026-11-24T00:05:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Economic and event calendar in Asia Tuesday, November 24, 2026: Singapore and Japan",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-november-24-2026-singapore-and-japan/",
-      "datum": "2026-11-23T21:16:15.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Americas market news wrap: Nvidia climbs 30% as Jensen Huang returns",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nvidia-climbs-30-as-jensen-huang-returns/",
-      "datum": "2026-11-23T21:09:01.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "U.S. Treasury sells $69 billion the two-year notes at a high yield of 4.700%",
-      "link": "https://investinglive.com/news/u-s-treasury-sells-69-billion-the-two-year-notes-at-a-high-yield-of-4-700/",
-      "datum": "2026-11-23T18:03:10.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "S&P Global US services November flash PMI 54.7 vs 55.7 expected",
-      "link": "https://investinglive.com/news/s-p-global-us-services-november-flash-pmi-54-7-vs-55-7-expected/",
-      "datum": "2026-11-23T14:45:41.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Federal Reserve announces College Fed Challenge winners",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
@@ -107,12 +113,6 @@
       "titel": "Agencies extend comment period for proposed third-party risk management guidance",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
       "datum": "2026-11-13T21:15:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "datum": "2026-11-12T18:30:00.000Z"
     }
   ]
 }

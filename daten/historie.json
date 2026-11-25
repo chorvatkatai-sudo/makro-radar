@@ -24726,7 +24726,7 @@
       "land": "USD",
       "titel": "Crude Oil Inventories",
       "impact": "Low",
-      "prognose": "",
+      "prognose": "2.0M",
       "vorher": "3.4M",
       "actual": null,
       "notiz": null
@@ -24927,7 +24927,7 @@
       "titel": "Italian 10-y Bond Auction",
       "impact": "Low",
       "prognose": "",
-      "vorher": "",
+      "vorher": "4.49|1.6",
       "actual": null,
       "notiz": null
     },
@@ -24998,6 +24998,16 @@
       "impact": "Low",
       "prognose": "",
       "vorher": "-0.1%",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-25T07:25:00-05:00|USD|FOMC Member Bowman Speaks": {
+      "datum": "2026-11-25T07:25:00-05:00",
+      "land": "USD",
+      "titel": "FOMC Member Bowman Speaks",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "",
       "actual": null,
       "notiz": null
     }

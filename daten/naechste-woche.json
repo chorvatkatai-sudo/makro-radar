@@ -154,7 +154,7 @@
     "country": "CNY",
     "title": "NBS Manufacturing PMI",
     "impact": "High",
-    "forecast": "",
+    "forecast": "49.5",
     "previous": "49.3",
     "actual": null,
     "quelle": "tradingview"
@@ -875,7 +875,7 @@
     "title": "Truck Sales",
     "impact": "Medium",
     "forecast": "",
-    "previous": "13.09",
+    "previous": "13.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1185,7 +1185,7 @@
     "title": "MBA 5/1 ARM Contract Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.39%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1195,7 +1195,7 @@
     "title": "MBA 5/1 ARM Effective Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.72%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1205,7 +1205,7 @@
     "title": "MBA 15-Year Mortgage Contract Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "6.79%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1215,7 +1215,7 @@
     "title": "MBA 15-Year Mortgage Effective Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "7.05%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1225,7 +1225,7 @@
     "title": "MBA 15-Year Mortgage Points",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "1.05%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1235,7 +1235,7 @@
     "title": "MBA Mortgage Applications",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1245,7 +1245,7 @@
     "title": "MBA 30-Year Mortgage Rate",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "7.38%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1255,7 +1255,7 @@
     "title": "MBA Mortgage Market Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "212",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1265,7 +1265,7 @@
     "title": "MBA Purchase Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "151.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1275,7 +1275,7 @@
     "title": "MBA Mortgage Refinance Index",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "535.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1285,7 +1285,7 @@
     "title": "MBA 5/1 ARM Points",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "0.89%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1905,7 +1905,7 @@
     "title": "Jobless Claims 4-week Average",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "196",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1915,7 +1915,7 @@
     "title": "Initial Jobless Claims",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "189",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1925,7 +1925,17 @@
     "title": "Continuing Jobless Claims",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1697",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-12-03T13:30:00.000Z",
+    "country": "CAD",
+    "title": "Labor Productivity QoQ",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2005,7 +2015,7 @@
     "title": "Durable Goods Orders ex Defense MoM Final",
     "impact": "Low",
     "forecast": "",
-    "previous": "2.3%",
+    "previous": "2.4%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2025,7 +2035,7 @@
     "title": "Durable Goods Orders",
     "impact": "Low",
     "forecast": "",
-    "previous": "1.9%",
+    "previous": "2%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2055,7 +2065,7 @@
     "title": "Orders For Non-defense Capital Goods Excluding Aircraft",
     "impact": "Low",
     "forecast": "",
-    "previous": "0.6%",
+    "previous": "0.8%",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2186,16 +2196,6 @@
     "impact": "Low",
     "forecast": "",
     "previous": "0.4%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-12-04T13:30:00.000Z",
-    "country": "CAD",
-    "title": "Labor Productivity QoQ",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "1%",
     "actual": null,
     "quelle": "tradingview"
   },

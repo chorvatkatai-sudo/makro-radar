@@ -25010,6 +25010,26 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-25T05:32:00-05:00|EUR|German 10-y Bond Auction": {
+      "datum": "2026-11-25T05:32:00-05:00",
+      "land": "EUR",
+      "titel": "German 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "3.37|1.1",
+      "actual": null,
+      "notiz": null
+    },
+    "2026-11-25T09:15:00-05:00|GBP|Monetary Policy Report Hearings": {
+      "datum": "2026-11-25T09:15:00-05:00",
+      "land": "GBP",
+      "titel": "Monetary Policy Report Hearings",
+      "impact": "Medium",
+      "prognose": "",
+      "vorher": "",
+      "actual": null,
+      "notiz": null
     }
   }
 }

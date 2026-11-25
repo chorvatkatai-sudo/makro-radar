@@ -1,23 +1,23 @@
 {
-  "stand": "2026-11-25T02:58:24.002Z",
+  "stand": "2026-11-25T15:14:17.098Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 50,
-    "treffer": 27,
-    "quote": 54,
-    "schnittGerichtet": 0.042,
-    "schnittBetrag": 0.301,
-    "pWert": 0.672,
+    "faelle": 51,
+    "treffer": 28,
+    "quote": 55,
+    "schnittGerichtet": 0.049,
+    "schnittBetrag": 0.302,
+    "pWert": 0.576,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 92,
-    "treffer": 49,
-    "quote": 53,
-    "schnittGerichtet": 0.038,
-    "schnittBetrag": 0.325,
-    "pWert": 0.602,
+    "faelle": 95,
+    "treffer": 52,
+    "quote": 55,
+    "schnittGerichtet": 0.049,
+    "schnittBetrag": 0.326,
+    "pWert": 0.412,
     "belastbar": false
   },
   "jeWaehrung": {
@@ -40,11 +40,11 @@
       "belastbar": false
     },
     "AUD": {
-      "faelle": 9,
-      "treffer": 4,
-      "quote": 44,
-      "schnittGerichtet": -0.041,
-      "schnittBetrag": 0.337,
+      "faelle": 10,
+      "treffer": 5,
+      "quote": 50,
+      "schnittGerichtet": 0,
+      "schnittBetrag": 0.34,
       "pWert": 1,
       "belastbar": false
     },
@@ -69,12 +69,12 @@
   },
   "jeKategorie": {
     "Inflation": {
-      "faelle": 23,
-      "treffer": 16,
-      "quote": 70,
-      "schnittGerichtet": 0.12,
-      "schnittBetrag": 0.276,
-      "pWert": 0.093,
+      "faelle": 24,
+      "treffer": 17,
+      "quote": 71,
+      "schnittGerichtet": 0.13,
+      "schnittBetrag": 0.28,
+      "pWert": 0.064,
       "belastbar": false
     },
     "Arbeitsmarkt": {
@@ -116,12 +116,12 @@
       "belastbar": false
     },
     "AUD": {
-      "faelle": 19,
-      "treffer": 9,
-      "quote": 47,
-      "schnittGerichtet": 0.02,
-      "schnittBetrag": 0.463,
-      "pWert": 1,
+      "faelle": 22,
+      "treffer": 12,
+      "quote": 55,
+      "schnittGerichtet": 0.068,
+      "schnittBetrag": 0.45,
+      "pWert": 0.832,
       "belastbar": false
     },
     "GBP": {
@@ -144,15 +144,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-10-27",
-      "land": "AUD",
-      "titel": "CPI m/m (+1 weitere)",
-      "ueberraschung": "hoeher",
-      "erwartet": "stärker",
-      "bewegung": 0.107,
-      "wieErwartet": true
-    },
     {
       "datum": "2026-10-27",
       "land": "NZD",
@@ -232,6 +223,15 @@
       "ueberraschung": "hoeher",
       "erwartet": "stärker",
       "bewegung": 0.131,
+      "wieErwartet": true
+    },
+    {
+      "datum": "2026-11-24",
+      "land": "AUD",
+      "titel": "CPI m/m (+2 weitere)",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": 0.371,
       "wieErwartet": true
     }
   ]

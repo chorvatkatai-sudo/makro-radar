@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-25T02:58:24.003Z",
+ "erstellt": "2026-11-25T06:11:33.937Z",
  "wochenStart": "2026-11-22",
  "events": [
   {
@@ -297,7 +297,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.4%",
    "previous": "0.8%",
-   "actual": null
+   "actual": "0.5%"
   },
   {
    "title": "CPI y/y",
@@ -306,7 +306,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "4.7%",
    "previous": "4.3%",
-   "actual": null
+   "actual": "4.9%"
   },
   {
    "title": "Trimmed Mean CPI m/m",
@@ -315,7 +315,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.3%",
    "previous": "0.3%",
-   "actual": null
+   "actual": "0.5%"
   },
   {
    "title": "Construction Work Done q/q",
@@ -3175,9 +3175,9 @@ window.MAKRO_DATA = {
     "grund": "Klarster Nicht-Dollar-Verlierer: Öl fiel −3,7%, die Inflation kam kühler (3,1%, Kern nahe 1,8%) und die Risiko-Flucht belastet den rohstoffnahen Loonie zusätzlich."
    },
    "AUD": {
-    "stimmung": "bärisch",
-    "score": -3,
-    "grund": "Risiko-Währung in noch nervösem Umfeld und der australische 2-Jahres-Zins fiel am stärksten; abgefedert durch die nachlassende Panik, die Rekord-Short-Positionierung (Squeeze-Gefahr) und die heute anstehende Inflation."
+    "stimmung": "neutral",
+    "score": 0,
+    "grund": "Heiße Monats-Inflation (4,9% im Jahr, Kern +0,5% im Monat) killt die Zinssenkungs-Hoffnungen und löst den Aussie aus dem Risk-off-Block; der Rekord-Short der Großspekulanten ist Squeeze-Treibstoff. Aber noch nahe 11-Monats-Tief und die Risiko-Panik ist nicht ganz vorbei → bewusst neutral."
    },
    "NZD": {
     "stimmung": "bärisch",
@@ -3203,8 +3203,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "AUD/USD",
-    "score": -3,
-    "treiber": "Risiko-Währung, aber die nachlassende Börsen-Panik (Angstbarometer fällt) und die extreme Short-Positionierung (Squeeze-Gefahr) federn ab; heute kann die australische Inflation den Aussie stützen. Der australische Zins fiel aber am stärksten."
+    "score": 0,
+    "treiber": "Heiße australische Inflation gibt dem Aussie einen Boden (Zinssenkungen vom Tisch, Rekord-Short = Squeeze-Gefahr) und hebt ihn aus dem Dollar-stark-Block — gegen die weiter feste Dollar-Lage neutralisiert."
    },
    {
     "paar": "USD/CAD",
@@ -3287,20 +3287,20 @@ window.MAKRO_DATA = {
    "Klumpen-Bewusstsein: 6 von 7 Paaren zeigen diese Woche dollar-stark — das ist im Kern EINE Wette. Gerechtfertigt, weil es eine echte Angst-Dollar-Woche ist, aber bewusst aufgelockert: USD/JPY nur +1 (Interventions-Cap + Yen-Hafen-Bid), USD/CAD mit eigener Öl-Geschichte, EUR/AUD/NZD durch Rekord-Short-Squeeze gebremst."
   ],
   "tagesnews": {
-   "stand": "2026-11-24",
-   "wochentag": "Dienstag",
-   "tenor": "Die Panik der Vorwoche lässt nach — das Börsen-Angstbarometer fällt deutlich vom Höchststand, doch der Dollar klettert weiter auf ein neues Hoch; morgen die große US-Inflationszahl.",
+   "stand": "2026-11-25",
+   "wochentag": "Mittwoch",
+   "tenor": "Australiens Inflation kommt heißer als erwartet und stützt den Aussie-Dollar; ansonsten bleibt der US-Dollar vor der großen US-Inflationszahl heute Nachmittag der Gewinner.",
    "heute": [
-    "🇦🇺 Heute die australische Monats-Inflation (erwartet rund 4,7% im Jahr, Kernrate +0,3% im Monat). Ein heißer Wert würde die ohnehin hohen australischen Zinsen (4,85%) stützen — das Ergebnis war bei Redaktionsschluss noch nicht sauber bestätigt, deshalb hier noch kein fixer Wert.",
-    "💵 Der Dollar bleibt der Gewinner: Der Dollar-Index klettert auf rund 104 — ein neues Mehrmonats-Hoch —, obwohl die Börsen-Nervosität bereits nachlässt. Die Flucht ins Bargeld trägt also weiter, steht aber auf dünnerem Eis, weil die US-Zinsen diese Woche fielen.",
-    "🥇 Gold fängt sich nach dem Absturz der Vorwoche leicht (~3.630 Dollar). Öl bleibt mit unter 80 Dollar schwach — Gegenwind für den kanadischen Dollar.",
-    "📅 Ruhiger Dienstag vor der feiertagskurzen Woche: Die großen US-Zahlen (Kern-Inflation, Wachstum, langlebige Güter) sind alle auf morgen, Mittwoch, vorgezogen. Donnerstag sind die US-Börsen zu (Thanksgiving)."
+    "🇦🇺 Australiens Monats-Inflation kam HEISS: 4,9% im Jahr (erwartet 4,7%, höchster Stand seit drei Jahren), Kernrate +0,5% im Monat statt erwarteter +0,3%. Zinssenkungs-Hoffnungen für Australien praktisch vom Tisch — das stützt den Aussie-Dollar, der auf den höchsten Stand der Woche gegen den US-Dollar kletterte.",
+    "💵 Heute 14:30 Wien die große US-Inflationszahl (Kern-PCE, das Lieblings-Maß der US-Notenbank, erwartet +0,3% im Monat) — das Hauptereignis der Woche, bei Redaktionsschluss noch nicht erschienen. Dazu US-Wachstum (2. Schätzung) und langlebige Güter. Heißer Wert = Dollar-Schub, kühler Wert = Erleichterung für Risiko-Anlagen.",
+    "💵 Der Dollar-Index hält sich nahe seinem 19-Monats-Hoch (~104), eine Dezember-Zinserhöhung der US-Notenbank ist mit rund 95% fast sicher. ABER: Die US-Zinsen fielen über die Woche — die Dollar-Stärke kommt aus der Angst, nicht aus einem Zinsvorteil, und steht damit auf dünnerem Eis, als sie aussieht.",
+    "📅 Feiertagskurze Woche: Morgen (Donnerstag) sind die US-Börsen wegen Thanksgiving geschlossen, Freitag nur halber Handelstag — danach ist nichts Großes mehr los."
    ],
    "gestern": [
-    "📉 Das Angst-Barometer der Börse (VIX) fiel von seiner Spitze (rund 36 in der Vorwoche) zurück auf rund 27 — die Technologie-/KI-Panik beruhigt sich, bleibt aber über dem Normalniveau (sonst ~17–19).",
-    "🇬🇧 Gestern britische Konjunktur-Barometer (Einkaufsmanager): rund 53 erwartet = weiter leichtes Wachstum. Das Pfund blieb dank der Bank of England bei 4,00% widerstandsfähig.",
-    "💵 Trotz nachlassender Panik hielt der Dollar seine Stärke und zog sogar weiter an (Index über 104). Gleichzeitig fielen die US-Zinsen leicht — die Dollar-Stärke kommt also aus der Angst, nicht aus einem Zinsvorteil, und ist damit wackliger, als sie aussieht.",
-    "🛢️ Öl gab über die Woche nach (Brent unter 87 Dollar), Bitcoin blieb unter 62.000 Dollar schwach — die Risikostimmung ist noch nicht zurück."
+    "📉 Der KI-/Technologie-Rückschlag kehrte zurück: Der Chip-Riese Nvidia verlor am Dienstag rund 6%, die kurze Tech-Erholung verpuffte wieder. Das Börsen-Angstbarometer bleibt mit ~26 erhöht (normal wären ~17–19), ist aber vom Panik-Hoch der Vorwoche (~36) deutlich zurückgekommen.",
+    "🥇 Ungewöhnlich: Gold fiel MIT den Aktien (unter 3.560 Dollar) — Anleger verkaufen sogar Gold, um in der Börsen-Nervosität an Bargeld zu kommen. Dieses Bargeld floss weiter in den Dollar, deshalb ist Gold diesmal kein sicherer Hafen.",
+    "🛢️ Öl blieb schwach (Brent unter 88 Dollar), Bitcoin rutschte unter 60.000 Dollar — die Risikostimmung ist noch nicht zurück. Das schwache Öl bleibt Gegenwind für den kanadischen Dollar.",
+    "💵 Trotz der gegenüber der Vorwoche nachlassenden Panik hielt der Dollar seine Stärke nahe dem Mehrmonats-Hoch."
    ]
   }
  },
@@ -4274,13 +4274,13 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/USD",
-   "baseScore": -3,
+   "baseScore": 0,
    "tiltCot": -2,
    "tiltZins": -1,
    "tiltGesamt": -3,
-   "score": -6,
+   "score": -3,
    "cotExtrem": "extrem",
-   "treiber": "Risiko-Währung, aber die nachlassende Börsen-Panik (Angstbarometer fällt) und die extreme Short-Positionierung (Squeeze-Gefahr) federn ab; heute kann die australische Inflation den Aussie stützen. Der australische Zins fiel aber am stärksten.",
+   "treiber": "Heiße australische Inflation gibt dem Aussie einen Boden (Zinssenkungen vom Tisch, Rekord-Short = Squeeze-Gefahr) und hebt ihn aus dem Dollar-stark-Block — gegen die weiter feste Dollar-Lage neutralisiert.",
    "istCross": false
   },
   {
@@ -4340,11 +4340,11 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 0,
+   "baseScore": 2,
    "tiltCot": 0,
    "tiltZins": -5,
    "tiltGesamt": -5,
-   "score": -5,
+   "score": -3,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4362,7 +4362,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-25T02:58:23.098Z",
+  "stand": "2026-11-25T06:11:33.936Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 91,
   "gewertet": 42,
@@ -4864,11 +4864,11 @@ window.MAKRO_DATA = {
    "score": 4
   },
   "AUD": {
-   "ueber": 12,
+   "ueber": 15,
    "unter": 7,
    "gleich": 5,
-   "gesamt": 24,
-   "score": 5
+   "gesamt": 27,
+   "score": 8
   },
   "JPY": {
    "ueber": 0,
@@ -5484,6 +5484,36 @@ window.MAKRO_DATA = {
  },
  "historie": [
   {
+   "datum": "2026-11-24T19:30:00-05:00",
+   "land": "AUD",
+   "titel": "CPI m/m",
+   "impact": "High",
+   "prognose": "0.4%",
+   "vorher": "0.8%",
+   "actual": "0.5%",
+   "notiz": null
+  },
+  {
+   "datum": "2026-11-24T19:30:00-05:00",
+   "land": "AUD",
+   "titel": "CPI y/y",
+   "impact": "High",
+   "prognose": "4.7%",
+   "vorher": "4.3%",
+   "actual": "4.9%",
+   "notiz": null
+  },
+  {
+   "datum": "2026-11-24T19:30:00-05:00",
+   "land": "AUD",
+   "titel": "Trimmed Mean CPI m/m",
+   "impact": "High",
+   "prognose": "0.3%",
+   "vorher": "0.3%",
+   "actual": "0.5%",
+   "notiz": null
+  },
+  {
    "datum": "2026-11-18T02:00:00-05:00",
    "land": "GBP",
    "titel": "CPI y/y",
@@ -6052,36 +6082,6 @@ window.MAKRO_DATA = {
    "vorher": "3-0-6",
    "actual": "3.75%",
    "notiz": "auto:TV rate (2026-09-17)"
-  },
-  {
-   "datum": "2026-09-17T07:00:00-04:00",
-   "land": "GBP",
-   "titel": "Official Bank Rate",
-   "impact": "High",
-   "prognose": "3.75%",
-   "vorher": "3.75%",
-   "actual": "3.75%",
-   "notiz": "auto:TV rate (2026-09-17)"
-  },
-  {
-   "datum": "2026-09-16T18:45:00-04:00",
-   "land": "NZD",
-   "titel": "GDP q/q",
-   "impact": "High",
-   "prognose": "0.1%",
-   "vorher": "0.8%",
-   "actual": "-0.9",
-   "notiz": null
-  },
-  {
-   "datum": "2026-09-16T14:00:00-04:00",
-   "land": "USD",
-   "titel": "Federal Funds Rate",
-   "impact": "High",
-   "prognose": "4.00%",
-   "vorher": "3.75%",
-   "actual": "4%",
-   "notiz": "auto:TV rate (2026-09-16)"
   }
  ],
  "anzahlGespeichert": 2501

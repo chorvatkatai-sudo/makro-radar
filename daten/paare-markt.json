@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-25T02:58:23.091Z",
+  "stand": "2026-11-25T06:11:33.926Z",
   "ausBriefing": "2026-11-20",
   "overlayAktiv": true,
   "paare": [
@@ -38,13 +38,13 @@
     },
     {
       "paar": "AUD/USD",
-      "baseScore": -3,
+      "baseScore": 0,
       "tiltCot": -2,
       "tiltZins": -1,
       "tiltGesamt": -3,
-      "score": -6,
+      "score": -3,
       "cotExtrem": "extrem",
-      "treiber": "Risiko-Währung, aber die nachlassende Börsen-Panik (Angstbarometer fällt) und die extreme Short-Positionierung (Squeeze-Gefahr) federn ab; heute kann die australische Inflation den Aussie stützen. Der australische Zins fiel aber am stärksten.",
+      "treiber": "Heiße australische Inflation gibt dem Aussie einen Boden (Zinssenkungen vom Tisch, Rekord-Short = Squeeze-Gefahr) und hebt ihn aus dem Dollar-stark-Block — gegen die weiter feste Dollar-Lage neutralisiert.",
       "istCross": false
     },
     {
@@ -104,11 +104,11 @@
     },
     {
       "paar": "AUD/NZD",
-      "baseScore": 0,
+      "baseScore": 2,
       "tiltCot": 0,
       "tiltZins": -5,
       "tiltGesamt": -5,
-      "score": -5,
+      "score": -3,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

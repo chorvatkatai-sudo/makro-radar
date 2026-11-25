@@ -24558,7 +24558,7 @@
       "impact": "High",
       "prognose": "0.4%",
       "vorher": "0.8%",
-      "actual": null,
+      "actual": "0.5%",
       "notiz": null
     },
     "2026-11-24T19:30:00-05:00|AUD|CPI y/y": {
@@ -24568,7 +24568,7 @@
       "impact": "High",
       "prognose": "4.7%",
       "vorher": "4.3%",
-      "actual": null,
+      "actual": "4.9%",
       "notiz": null
     },
     "2026-11-24T19:30:00-05:00|AUD|Trimmed Mean CPI m/m": {
@@ -24578,7 +24578,7 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "0.3%",
-      "actual": null,
+      "actual": "0.5%",
       "notiz": null
     },
     "2026-11-24T19:30:00-05:00|AUD|Construction Work Done q/q": {

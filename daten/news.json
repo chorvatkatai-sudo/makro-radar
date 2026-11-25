@@ -1,11 +1,23 @@
 {
-  "stand": "2026-11-25T15:14:16.624Z",
+  "stand": "2026-11-25T17:53:14.663Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells 44 billion of 70 or notes at a high yield of 4.708%",
+      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-70-or-notes-at-a-high-yield-of-4-708/",
+      "datum": "2026-11-25T16:54:10.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "October new home sales 701k vs 650k",
+      "link": "https://investinglive.com/news/october-new-home-sales-701k-vs-650k/",
+      "datum": "2026-11-25T15:07:41.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "US GDP 2nd Estimate for the 3rd quarter 4.3% vs 3.5 estimate",
@@ -65,18 +77,6 @@
       "titel": "No Thanksgiving cheer for markets as Europe gets set for another nervy session",
       "link": "https://investinglive.com/news/no-thanksgiving-cheer-for-markets-as-europe-gets-set-for-another-nervy-session/",
       "datum": "2026-11-25T05:45:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Japan looks to ease fiscal fears as Takaichi seeks to avoid fresh deficit bonds",
-      "link": "https://investinglive.com/news/japan-looks-to-ease-fiscal-fears-as-takaichi-seeks-to-avoid-fresh-deficit-bonds/",
-      "datum": "2026-11-25T05:20:26.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: AI selloff returns",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-ai-selloff-returns/",
-      "datum": "2026-11-25T04:43:03.000Z"
     },
     {
       "quelle": "Fed",

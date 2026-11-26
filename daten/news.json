@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-25T17:53:14.663Z",
+  "stand": "2026-11-26T01:43:12.125Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
@@ -8,7 +8,37 @@
   "eintraege": [
     {
       "quelle": "ForexLive",
-      "titel": "US treasury sells 44 billion of 70 or notes at a high yield of 4.708%",
+      "titel": "Australia's data centre boom drives the biggest capex jump in years, near mining-boom highs",
+      "link": "https://investinglive.com/news/australia-s-data-centre-boom-drives-the-biggest-capex-jump-in-years-near-mining-boom-highs/",
+      "datum": "2026-11-26T00:41:31.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-25-nov-it-s-a-wrap-s-p-500-and-nasdaq-pare-steep-losses/",
+      "datum": "2026-11-25T21:47:09.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "datum": "2026-11-25T20:00:00.000Z"
+    },
+    {
+      "quelle": "Fed",
+      "titel": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "datum": "2026-11-25T20:00:00.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Trump blames the election for the selloff. Here’s what I’m watching.",
+      "link": "https://investinglive.com/news/trump-blames-the-election-for-the-selloff-here-s-what-i-m-watching/",
+      "datum": "2026-11-25T17:46:49.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US treasury sells $44 billion of 7-year notes at a high yield of 4.708%",
       "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-70-or-notes-at-a-high-yield-of-4-708/",
       "datum": "2026-11-25T16:54:10.000Z"
     },
@@ -61,24 +91,6 @@
       "datum": "2026-11-25T07:47:00.000Z"
     },
     {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-93/",
-      "datum": "2026-11-25T07:39:45.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German economy flirts with stagnation in Q3 as growth is revised lower",
-      "link": "https://investinglive.com/news/german-economy-flirts-with-stagnation-in-q3-as-growth-is-revised-lower/",
-      "datum": "2026-11-25T07:00:43.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "No Thanksgiving cheer for markets as Europe gets set for another nervy session",
-      "link": "https://investinglive.com/news/no-thanksgiving-cheer-for-markets-as-europe-gets-set-for-another-nervy-session/",
-      "datum": "2026-11-25T05:45:44.000Z"
-    },
-    {
       "quelle": "Fed",
       "titel": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
@@ -101,18 +113,6 @@
       "titel": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
       "datum": "2026-11-19T16:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "datum": "2026-11-18T19:00:00.000Z"
-    },
-    {
-      "quelle": "Fed",
-      "titel": "Agencies extend comment period for proposed third-party risk management guidance",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-      "datum": "2026-11-13T21:15:00.000Z"
     }
   ]
 }

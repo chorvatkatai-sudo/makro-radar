@@ -2435,7 +2435,7 @@
     "title": "Baker Hughes Gas Rig Count",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "127",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2445,7 +2445,7 @@
     "title": "Baker Hughes Oil Rig Count",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "470",
     "actual": null,
     "quelle": "tradingview"
   }

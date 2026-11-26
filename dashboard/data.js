@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-26T01:43:13.221Z",
+ "erstellt": "2026-11-26T06:10:15.839Z",
  "wochenStart": "2026-11-22",
  "events": [
   {
@@ -3305,20 +3305,19 @@ window.MAKRO_DATA = {
    "Klumpen-Bewusstsein: 6 von 7 Paaren zeigen diese Woche dollar-stark — das ist im Kern EINE Wette. Gerechtfertigt, weil es eine echte Angst-Dollar-Woche ist, aber bewusst aufgelockert: USD/JPY nur +1 (Interventions-Cap + Yen-Hafen-Bid), USD/CAD mit eigener Öl-Geschichte, EUR/AUD/NZD durch Rekord-Short-Squeeze gebremst."
   ],
   "tagesnews": {
-   "stand": "2026-11-25",
-   "wochentag": "Mittwoch",
-   "tenor": "Australiens Inflation kommt heißer als erwartet und stützt den Aussie-Dollar; ansonsten bleibt der US-Dollar vor der großen US-Inflationszahl heute Nachmittag der Gewinner.",
+   "stand": "2026-11-26",
+   "wochentag": "Donnerstag",
+   "tenor": "US-Inflation kam gestern heiß und das US-Wachstum wurde kräftig nach oben revidiert — die Dezember-Zinserhöhung ist so gut wie sicher, der Dollar bleibt stark; heute ruht der US-Handel (Feiertag).",
    "heute": [
-    "🇦🇺 Australiens Monats-Inflation kam HEISS: 4,9% im Jahr (erwartet 4,7%, höchster Stand seit drei Jahren), Kernrate +0,5% im Monat statt erwarteter +0,3%. Zinssenkungs-Hoffnungen für Australien praktisch vom Tisch — das stützt den Aussie-Dollar, der auf den höchsten Stand der Woche gegen den US-Dollar kletterte.",
-    "💵 Heute 14:30 Wien die große US-Inflationszahl (Kern-PCE, das Lieblings-Maß der US-Notenbank, erwartet +0,3% im Monat) — das Hauptereignis der Woche, bei Redaktionsschluss noch nicht erschienen. Dazu US-Wachstum (2. Schätzung) und langlebige Güter. Heißer Wert = Dollar-Schub, kühler Wert = Erleichterung für Risiko-Anlagen.",
-    "💵 Der Dollar-Index hält sich nahe seinem 19-Monats-Hoch (~104), eine Dezember-Zinserhöhung der US-Notenbank ist mit rund 95% fast sicher. ABER: Die US-Zinsen fielen über die Woche — die Dollar-Stärke kommt aus der Angst, nicht aus einem Zinsvorteil, und steht damit auf dünnerem Eis, als sie aussieht.",
-    "📅 Feiertagskurze Woche: Morgen (Donnerstag) sind die US-Börsen wegen Thanksgiving geschlossen, Freitag nur halber Handelstag — danach ist nichts Großes mehr los."
+    "🦃 US-Feiertag (Thanksgiving): Die US-Börsen und der Anleihemarkt sind heute geschlossen, morgen (Freitag) nur halber Handelstag. Es stehen keine großen Zahlen mehr an — die Woche ist faktisch gelaufen, der Handel bleibt dünn und ruhig.",
+    "💵 Nach den starken US-Daten von gestern hält sich der Dollar nahe seinem 19-Monats-Hoch (Dollar-Index ~103,7). Die Dezember-Zinserhöhung der US-Notenbank ist mit rund 95% so gut wie sicher; am dünnen Feiertagsmarkt ist kaum mit großen Bewegungen zu rechnen.",
+    "📉 Das Börsen-Angstbarometer bleibt mit ~28 erhöht (normal wären ~17) — die KI-/Technologie-Nervosität ist noch nicht ausgestanden. Gold (~3.590 Dollar) und Bitcoin (~60.000 Dollar) bleiben schwach, Gold ist diesmal kein sicherer Hafen."
    ],
    "gestern": [
-    "📉 Der KI-/Technologie-Rückschlag kehrte zurück: Der Chip-Riese Nvidia verlor am Dienstag rund 6%, die kurze Tech-Erholung verpuffte wieder. Das Börsen-Angstbarometer bleibt mit ~26 erhöht (normal wären ~17–19), ist aber vom Panik-Hoch der Vorwoche (~36) deutlich zurückgekommen.",
-    "🥇 Ungewöhnlich: Gold fiel MIT den Aktien (unter 3.560 Dollar) — Anleger verkaufen sogar Gold, um in der Börsen-Nervosität an Bargeld zu kommen. Dieses Bargeld floss weiter in den Dollar, deshalb ist Gold diesmal kein sicherer Hafen.",
-    "🛢️ Öl blieb schwach (Brent unter 88 Dollar), Bitcoin rutschte unter 60.000 Dollar — die Risikostimmung ist noch nicht zurück. Das schwache Öl bleibt Gegenwind für den kanadischen Dollar.",
-    "💵 Trotz der gegenüber der Vorwoche nachlassenden Panik hielt der Dollar seine Stärke nahe dem Mehrmonats-Hoch."
+    "💵 Die große US-Inflationszahl kam HEISS: Das Kern-PCE (das Lieblings-Maß der US-Notenbank) stieg im Oktober auf 3,3% im Jahr (erwartet 3,2%, höchster Stand seit fast drei Jahren), im Monat +0,3% wie erwartet. Das besiegelt die Dezember-Zinserhöhung praktisch.",
+    "📈 Überraschung beim Wachstum: Die US-Wirtschaft legte im dritten Quartal um 4,3% zu (hochgerechnet aufs Jahr) — kräftig nach oben revidiert von zunächst 3,4% und klar über den erwarteten ~3,5%. Die Konjunktur läuft deutlich besser als gedacht.",
+    "🏭 Langlebige Güter (ein Industrie-Frühindikator) stiegen im Oktober nur +0,2% im Monat und blieben damit unter der Erwartung (~0,6%) — der Kern (Investitionsgüter ohne Flugzeuge/Rüstung) war mit +1,2% aber stark.",
+    "💵 Trotz der starken Daten legte der Dollar nur moderat zu (Dollar-Index ~+0,1% auf ~103,8) — die Zinserhöhung war längst eingepreist, deshalb blieb das Feuerwerk aus. Euro/Dollar rutschte Richtung 1,096."
    ]
   }
  },
@@ -4380,7 +4379,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-26T01:43:12.284Z",
+  "stand": "2026-11-26T06:10:15.838Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 91,
   "gewertet": 42,

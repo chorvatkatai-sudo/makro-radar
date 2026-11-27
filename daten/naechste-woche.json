@@ -224,7 +224,7 @@
     "country": "CHF",
     "title": "GDP Growth Rate QoQ Final",
     "impact": "Low",
-    "forecast": "0%",
+    "forecast": "0.2%",
     "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -234,7 +234,7 @@
     "country": "CHF",
     "title": "GDP Growth Rate YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.2%",
     "previous": "2.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -674,7 +674,7 @@
     "country": "CHF",
     "title": "procure.ch Manufacturing PMI",
     "impact": "Medium",
-    "forecast": "56.5",
+    "forecast": "56.6",
     "previous": "56.7",
     "actual": null,
     "quelle": "tradingview"
@@ -754,7 +754,7 @@
     "country": "EUR",
     "title": "HICP ex Food & Energy YoY Flash",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.3%",
     "previous": "2.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1624,7 +1624,7 @@
     "country": "EUR",
     "title": "PPI MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.5%",
     "previous": "2.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1634,7 +1634,7 @@
     "country": "EUR",
     "title": "PPI YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "12.6%",
     "previous": "11.1%",
     "actual": null,
     "quelle": "tradingview"

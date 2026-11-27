@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-27T14:17:06.771Z",
+  "stand": "2026-11-27T17:21:26.082Z",
   "ausBriefing": "2026-11-27",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": 0,
       "tiltCot": -2,
-      "tiltZins": 4,
-      "tiltGesamt": 2,
-      "score": 2,
+      "tiltZins": 3,
+      "tiltGesamt": 1,
+      "score": 1,
       "cotExtrem": "extrem",
       "treiber": "Fester Dollar auf dem Hoch gegen die Rekord-Short-Wette auf den Euro und den kaum gefallenen Euro-Zins – beides hebt sich diese Woche fast auf, daher neutral.",
       "istCross": false
@@ -40,9 +40,9 @@
       "paar": "AUD/USD",
       "baseScore": -5,
       "tiltCot": -2,
-      "tiltZins": -3,
-      "tiltGesamt": -5,
-      "score": -10,
+      "tiltZins": -4,
+      "tiltGesamt": -6,
+      "score": -11,
       "cotExtrem": "extrem",
       "treiber": "Eigene Schwäche-Geschichte: Jobmarkt-Schock (Arbeitslosigkeit 4,9%) und am stärksten gefallener Aussie-Zins – das löst den Aussie klar vom Dollar-Block nach unten. Extrem-Short bremst den Fall aber.",
       "istCross": false
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 0,
       "tiltCot": 3,
-      "tiltZins": -4,
-      "tiltGesamt": -1,
-      "score": -1,
+      "tiltZins": -3,
+      "tiltGesamt": 0,
+      "score": 0,
       "cotExtrem": null,
       "treiber": "Festes Öl (+2,8%) und Risikofreude stützen den Loonie und gleichen die Dollar-Stärke aus – daher neutral, bewusst vom Dollar-Block gelöst.",
       "istCross": false
@@ -62,9 +62,9 @@
       "paar": "USD/CHF",
       "baseScore": 3,
       "tiltCot": 1,
-      "tiltZins": -7,
-      "tiltGesamt": -6,
-      "score": -3,
+      "tiltZins": -6,
+      "tiltGesamt": -5,
+      "score": -2,
       "cotExtrem": null,
       "treiber": "Dollar auf dem Hoch + nachlassender Hafen-Bedarf beim Franken sprechen fürs Paar; der steigende Schweizer Zins dämpft es aber (transparent im Overlay).",
       "istCross": false

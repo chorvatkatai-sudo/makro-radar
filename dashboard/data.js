@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-27T14:17:07.160Z",
+ "erstellt": "2026-11-27T17:21:26.585Z",
  "wochenStart": "2026-11-22",
  "events": [
   {
@@ -922,7 +922,7 @@ window.MAKRO_DATA = {
    "country": "CHF",
    "title": "GDP Growth Rate QoQ Final",
    "impact": "Low",
-   "forecast": "0%",
+   "forecast": "0.2%",
    "previous": "1.9%",
    "actual": null,
    "quelle": "tradingview"
@@ -932,7 +932,7 @@ window.MAKRO_DATA = {
    "country": "CHF",
    "title": "GDP Growth Rate YoY",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "3.2%",
    "previous": "2.8%",
    "actual": null,
    "quelle": "tradingview"
@@ -1372,7 +1372,7 @@ window.MAKRO_DATA = {
    "country": "CHF",
    "title": "procure.ch Manufacturing PMI",
    "impact": "Medium",
-   "forecast": "56.5",
+   "forecast": "56.6",
    "previous": "56.7",
    "actual": null,
    "quelle": "tradingview"
@@ -1452,7 +1452,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "HICP ex Food & Energy YoY Flash",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "2.3%",
    "previous": "2.2%",
    "actual": null,
    "quelle": "tradingview"
@@ -2322,7 +2322,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "PPI MoM",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1.5%",
    "previous": "2.5%",
    "actual": null,
    "quelle": "tradingview"
@@ -2332,7 +2332,7 @@ window.MAKRO_DATA = {
    "country": "EUR",
    "title": "PPI YoY",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "12.6%",
    "previous": "11.1%",
    "actual": null,
    "quelle": "tradingview"
@@ -3832,15 +3832,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-27T14:17:05.671Z",
+  "stand": "2026-11-27T17:21:25.679Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 103.92,
+    "wert": 103.98,
     "tagProzent": 0,
-    "wocheProzent": 0.11,
+    "wocheProzent": 0.17,
     "renditeDelta": false,
     "verlauf": [
      102.04,
@@ -3863,17 +3863,17 @@ window.MAKRO_DATA = {
      104.32,
      103.81,
      103.67,
-     103.92,
-     103.92
+     103.98,
+     103.98
     ]
    },
    "VIX": {
     "name": "VIX (Angst-Barometer)",
     "einheit": "",
     "typ": "index",
-    "wert": 25.48,
+    "wert": 24.91,
     "tagProzent": 0,
-    "wocheProzent": -4.28,
+    "wocheProzent": -6.42,
     "renditeDelta": false,
     "verlauf": [
      19.42,
@@ -3896,17 +3896,17 @@ window.MAKRO_DATA = {
      26.36,
      28.29,
      26.8,
-     25.48,
-     25.48
+     24.91,
+     24.91
     ]
    },
    "WTI": {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 84.45,
+    "wert": 83,
     "tagProzent": 0,
-    "wocheProzent": 0.56,
+    "wocheProzent": -1.17,
     "renditeDelta": false,
     "verlauf": [
      102,
@@ -3929,17 +3929,17 @@ window.MAKRO_DATA = {
      80.17,
      82.05,
      83.68,
-     84.45,
-     84.45
+     83,
+     83
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 91.54,
+    "wert": 90.22,
     "tagProzent": 0,
-    "wocheProzent": -1.11,
+    "wocheProzent": -2.54,
     "renditeDelta": false,
     "verlauf": [
      114.88,
@@ -3962,17 +3962,17 @@ window.MAKRO_DATA = {
      89.37,
      91.4,
      94.61,
-     91.54,
-     91.54
+     90.22,
+     90.22
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3666.2,
+    "wert": 3659.9,
     "tagProzent": 0,
-    "wocheProzent": 4.29,
+    "wocheProzent": 4.11,
     "renditeDelta": false,
     "verlauf": [
      4031.4,
@@ -3995,8 +3995,8 @@ window.MAKRO_DATA = {
      3651.4,
      3561.9,
      3535.8,
-     3666.2,
-     3666.2
+     3659.9,
+     3659.9
     ]
    },
    "US02Y": {
@@ -4036,9 +4036,9 @@ window.MAKRO_DATA = {
     "name": "US-Rendite 10 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 4.902,
+    "wert": 4.928,
     "tagProzent": 0,
-    "wocheProzent": -0.01,
+    "wocheProzent": 0.02,
     "renditeDelta": true,
     "verlauf": [
      4.989,
@@ -4061,17 +4061,17 @@ window.MAKRO_DATA = {
      4.918,
      4.904,
      4.848,
-     4.902,
-     4.902
+     4.928,
+     4.928
     ]
    },
    "US30Y": {
     "name": "US-Rendite 30 Jahre",
     "einheit": "%",
     "typ": "rendite",
-    "wert": 5.288,
+    "wert": 5.328,
     "tagProzent": 0,
-    "wocheProzent": -0.01,
+    "wocheProzent": 0.03,
     "renditeDelta": true,
     "verlauf": [
      5.329,
@@ -4094,17 +4094,17 @@ window.MAKRO_DATA = {
      5.294,
      5.292,
      5.235,
-     5.288,
-     5.288
+     5.328,
+     5.328
     ]
    },
    "BTC": {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 61409.31,
+    "wert": 59918.85,
     "tagProzent": 0,
-    "wocheProzent": 0.32,
+    "wocheProzent": -2.11,
     "renditeDelta": false,
     "verlauf": [
      75747.58,
@@ -4127,8 +4127,8 @@ window.MAKRO_DATA = {
      59747.77,
      60378.2,
      60494.71,
-     61409.31,
-     61409.31
+     59918.85,
+     59918.85
     ]
    },
    "FEDFUT": {
@@ -4166,7 +4166,7 @@ window.MAKRO_DATA = {
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
    }
   },
-  "kurve2s10s": 0.15,
+  "kurve2s10s": 0.18,
   "cot": {
    "stand": "2026-11-17",
    "waehrungen": {
@@ -4260,32 +4260,32 @@ window.MAKRO_DATA = {
    "stand": "2026-11-27",
    "werte": {
     "USD": {
-     "wert": 4.683,
-     "wocheDelta": -0.123
+     "wert": 4.697,
+     "wocheDelta": -0.109
     },
     "EUR": {
-     "wert": 3.078,
-     "wocheDelta": -0.032
+     "wert": 3.088,
+     "wocheDelta": -0.022
     },
     "GBP": {
-     "wert": 4.884,
-     "wocheDelta": -0.105
+     "wert": 4.88,
+     "wocheDelta": -0.109
     },
     "JPY": {
-     "wert": 1.763,
-     "wocheDelta": -0.107
+     "wert": 1.773,
+     "wocheDelta": -0.097
     },
     "AUD": {
      "wert": 4.712,
      "wocheDelta": -0.203
     },
     "CAD": {
-     "wert": 3.28,
-     "wocheDelta": -0.034
+     "wert": 3.285,
+     "wocheDelta": -0.029
     },
     "CHF": {
-     "wert": 0.341,
-     "wocheDelta": 0.052
+     "wert": 0.334,
+     "wocheDelta": 0.045
     },
     "NZD": {
      "wert": 3.875,
@@ -4306,9 +4306,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": 0,
    "tiltCot": -2,
-   "tiltZins": 4,
-   "tiltGesamt": 2,
-   "score": 2,
+   "tiltZins": 3,
+   "tiltGesamt": 1,
+   "score": 1,
    "cotExtrem": "extrem",
    "treiber": "Fester Dollar auf dem Hoch gegen die Rekord-Short-Wette auf den Euro und den kaum gefallenen Euro-Zins – beides hebt sich diese Woche fast auf, daher neutral.",
    "istCross": false
@@ -4339,9 +4339,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/USD",
    "baseScore": -5,
    "tiltCot": -2,
-   "tiltZins": -3,
-   "tiltGesamt": -5,
-   "score": -10,
+   "tiltZins": -4,
+   "tiltGesamt": -6,
+   "score": -11,
    "cotExtrem": "extrem",
    "treiber": "Eigene Schwäche-Geschichte: Jobmarkt-Schock (Arbeitslosigkeit 4,9%) und am stärksten gefallener Aussie-Zins – das löst den Aussie klar vom Dollar-Block nach unten. Extrem-Short bremst den Fall aber.",
    "istCross": false
@@ -4350,9 +4350,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CAD",
    "baseScore": 0,
    "tiltCot": 3,
-   "tiltZins": -4,
-   "tiltGesamt": -1,
-   "score": -1,
+   "tiltZins": -3,
+   "tiltGesamt": 0,
+   "score": 0,
    "cotExtrem": null,
    "treiber": "Festes Öl (+2,8%) und Risikofreude stützen den Loonie und gleichen die Dollar-Stärke aus – daher neutral, bewusst vom Dollar-Block gelöst.",
    "istCross": false
@@ -4361,9 +4361,9 @@ window.MAKRO_DATA = {
    "paar": "USD/CHF",
    "baseScore": 3,
    "tiltCot": 1,
-   "tiltZins": -7,
-   "tiltGesamt": -6,
-   "score": -3,
+   "tiltZins": -6,
+   "tiltGesamt": -5,
+   "score": -2,
    "cotExtrem": null,
    "treiber": "Dollar auf dem Hoch + nachlassender Hafen-Bedarf beim Franken sprechen fürs Paar; der steigende Schweizer Zins dämpft es aber (transparent im Overlay).",
    "istCross": false
@@ -4425,7 +4425,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-27T14:17:06.781Z",
+  "stand": "2026-11-27T17:21:26.093Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 95,
   "gewertet": 43,
@@ -4541,7 +4541,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-27T14:17:07.159Z",
+  "stand": "2026-11-27T17:21:26.584Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4780,7 +4780,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-27T14:17:06.769Z",
+  "stand": "2026-11-27T17:21:26.080Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

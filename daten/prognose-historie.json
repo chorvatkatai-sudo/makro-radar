@@ -2364,6 +2364,82 @@
       },
       "mitMarktOverlay": true,
       "auswertung": null
+    },
+    {
+      "woche": "2026-11-30",
+      "ausBriefing": "2026-11-27",
+      "paare": {
+        "EUR/USD": 2,
+        "GBP/USD": -5,
+        "USD/JPY": -3,
+        "AUD/USD": -10,
+        "USD/CAD": 1,
+        "USD/CHF": -3,
+        "NZD/USD": -4,
+        "EUR/GBP": 6,
+        "EUR/JPY": 4,
+        "AUD/NZD": -6,
+        "EUR/CHF": -2
+      },
+      "komponenten": {
+        "EUR/USD": {
+          "base": 0,
+          "cot": -2,
+          "zins": 4
+        },
+        "GBP/USD": {
+          "base": -2,
+          "cot": -3,
+          "zins": 0
+        },
+        "USD/JPY": {
+          "base": 2,
+          "cot": -5,
+          "zins": 0
+        },
+        "AUD/USD": {
+          "base": -5,
+          "cot": -2,
+          "zins": -3
+        },
+        "USD/CAD": {
+          "base": 0,
+          "cot": 3,
+          "zins": -2
+        },
+        "USD/CHF": {
+          "base": 3,
+          "cot": 1,
+          "zins": -7
+        },
+        "NZD/USD": {
+          "base": -2,
+          "cot": -2,
+          "zins": 0
+        },
+        "EUR/GBP": {
+          "base": 1,
+          "cot": 0,
+          "zins": 5
+        },
+        "EUR/JPY": {
+          "base": 2,
+          "cot": -2,
+          "zins": 4
+        },
+        "AUD/NZD": {
+          "base": -2,
+          "cot": 0,
+          "zins": -4
+        },
+        "EUR/CHF": {
+          "base": 2,
+          "cot": -1,
+          "zins": -3
+        }
+      },
+      "mitMarktOverlay": true,
+      "auswertung": null
     }
   ]
 }

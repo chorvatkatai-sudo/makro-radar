@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-27T06:21:30.917Z",
+ "erstellt": "2026-11-27T14:11:55.452Z",
  "wochenStart": "2026-11-22",
  "events": [
   {
@@ -378,7 +378,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "0.3%",
    "previous": "0.3%",
-   "actual": null
+   "actual": "0.3%"
   },
   {
    "title": "Prelim GDP q/q",
@@ -387,7 +387,7 @@ window.MAKRO_DATA = {
    "impact": "High",
    "forecast": "3.5%",
    "previous": "3.4%",
-   "actual": null
+   "actual": "4.3%"
   },
   {
    "title": "Prelim GDP Price Index q/q",
@@ -405,7 +405,7 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "0.5%",
    "previous": "0.5%",
-   "actual": null
+   "actual": "0.5%"
   },
   {
    "title": "Durable Goods Orders m/m",
@@ -414,7 +414,7 @@ window.MAKRO_DATA = {
    "impact": "Low",
    "forecast": "0.7%",
    "previous": "1.8%",
-   "actual": null
+   "actual": "0.2%"
   },
   {
    "title": "Personal Income m/m",
@@ -3149,176 +3149,221 @@ window.MAKRO_DATA = {
   }
  ],
  "briefing": {
-  "datum": "2026-11-20",
+  "datum": "2026-11-27",
   "typ": "freitag",
-  "titel": "Die Angst ist zurück — diesmal flüchtet das Geld in den Dollar (Gold stürzt mit)",
+  "titel": "Angst ebbt ab, Dollar hält sein Hoch – aber ohne Schwung; nächste Woche MONSTER (US-Jobs Fr, Euro-Inflation + ISM Di)",
   "lage": [
-   "Diese Woche kehrte die Angst mit voller Wucht zurück: Das Angst-Barometer VIX sprang um +35% auf rund 31 — der höchste Stand seit dem Frühjahr. Auslöser war erneut ein Ausverkauf bei den Technologie- und Künstliche-Intelligenz-Aktien (Dow −1,3%, Nasdaq-Futures −1,9%, kleine US-Firmen −2%).",
-   "Das Besondere diesmal: Es wurde ALLES gleichzeitig verkauft — Aktien, Krypto UND sogar Gold. Bitcoin stürzte unter 62.000$ (tiefster Stand seit vier Monaten, rund 3,5 Milliarden Dollar flossen im November aus den Bitcoin-Fonds). Gold fiel um −7,7% auf etwa 3.557$ (tiefster Stand seit über einem Jahr).",
-   "Der Gewinner war diesmal der US-Dollar: Der Dollar-Index hält sein 19-Monats-Hoch (103,6). Es war eine klassische 'Flucht ins Bargeld' — wenn Anleger Angst bekommen und ihre Schulden-Wetten auflösen, verkaufen sie alles und parken das Geld im Dollar. Gold war diesmal KEIN sicherer Hafen, sondern wurde mitgerissen.",
-   "Wichtige Feinheit: Die US-Zinsen fielen diese Woche sogar leicht (10-Jahres-Rendite −0,14 Prozentpunkte, Anleihen bekamen einen Sicherheits-Zufluss). Die Dollar-Stärke kommt also aus der reinen Angst-Flucht, nicht aus einem frischen Zinsvorteil — das macht sie etwas wackliger, als sie aussieht.",
-   "Die Dezember-Zinserhöhung der US-Notenbank bleibt so gut wie besiegelt (~90%): Das Protokoll der letzten Sitzung (Mittwoch) zeigte ein gespaltenes Komitee, aber die Mehrheit will im Dezember erhöhen, einige sogar um mehr als 0,25 Punkte, falls die Inflation ungünstig kommt.",
-   "Die Inflation im Ausland kam fast überall einen Tick KÜHLER: Großbritannien 3,6% (erwartet 3,7%), Kanada 3,1% (erwartet 3,2%, Kernmaße nahe 1,8–2,0% = die Bank of Canada kann gelassen bleiben). Japans Wirtschaft stagnierte im dritten Quartal (0,0%, leicht unter Erwartung).",
-   "Öl gab nach (WTI −3,7% auf 82,5$) — das nimmt dem kanadischen Dollar Rückenwind. Unterm Strich: eine echte Dollar-Woche, aber angetrieben von Angst, nicht von harten Daten."
+   "Die große Angst der Vorwoche hat nachgelassen: Das Angst-Barometer (VIX) fiel von 31 auf knapp 27. Am Mittwoch gab es nochmal einen kurzen Schreck hoch auf ~33, danach beruhigte es sich wieder.",
+   "Am Black Friday kam die Risikofreude zurück – Technologie-Aktien sprangen kräftig hoch (auch weil China seine Börse mit Staatskäufen stützte).",
+   "Gold erholte sich deutlich (+4,5%) und prallte von seinem 15-Monats-Tief (~3.427$ am Mittwoch) ab. Das ist das Gegenteil der Vorwoche, als Aktien, Krypto UND Gold gleichzeitig verkauft wurden.",
+   "Der US-Dollar blieb auf seinem 19-Monats-Hoch (~103,7), kam aber nicht weiter. Und das, obwohl die US-Wirtschaft im Sommer viel stärker wuchs als gedacht (+4,3% statt +3,4%) und die Inflation heiß blieb (Kern 3,3% – 3-Jahres-Hoch).",
+   "Der Grund: Die Zinserhöhung der US-Notenbank am 9. Dezember ist jetzt so gut wie sicher (~95%) und damit längst eingepreist – und die Hoffnung auf einen doppelt großen Schritt (0,50 statt 0,25) verschwand diese Woche.",
+   "Wichtig und wacklig: Die kurzfristigen US-Zinsen FIELEN diese Woche – der Dollar steht also nicht mehr auf einem frischen Zinsvorteil, sondern nur noch auf seinem hohen Niveau. Wenn eine Währung auf Top-Daten nicht mehr steigt, ist der Schwung raus.",
+   "Der australische Dollar ist der klarste Verlierer: Die Arbeitslosigkeit kletterte auf 4,9% (5-Jahres-Hoch, dritter Monat in Folge steigend), und die Aussie-Zinsen fielen diese Woche am stärksten."
   ],
   "waehrungen": {
    "USD": {
-    "stimmung": "bullisch",
-    "score": 4,
-    "grund": "Weiter Gewinner der Hafen-Flucht: Der Dollar-Index markiert ein neues Mehrmonats-Hoch (~104). ABER die Panik, die ihn trug, lässt nach (Angstbarometer fällt vom Höchststand) und die US-Zinsen fielen — die Stärke läuft zunehmend auf Momentum statt auf frischem Zinsvorteil, deshalb leicht zurückgenommen."
+    "stimmung": "neutral",
+    "score": 2,
+    "grund": "Hält sein 19-Monats-Hoch und die Dezember-Erhöhung ist so gut wie sicher (~95%) – das ist ein Boden. ABER: Der Dollar stieg trotz Top-Zahlen (Wachstum +4,3%, Kern-Inflation 3,3%) NICHT weiter; die 50er-Hoffnung verschwand, die Risikofreude kehrte zurück und die kurzen US-Zinsen fielen. Momentum erschöpft, deshalb nur klein positiv."
    },
    "EUR": {
-    "stimmung": "bärisch",
-    "score": -2,
-    "grund": "Verliert in der Angst-Woche leicht gegen den Dollar, und das Zinsmomentum ist flach. ABER: Die Spekulanten sitzen auf der größten je gemessenen Euro-Short-Wette (z−2,5) — wenn die dreht, geht es schnell nach oben (Squeeze-Gefahr federt den Rückgang ab)."
+    "stimmung": "neutral",
+    "score": 2,
+    "grund": "Die Spekulanten sind so stark gegen den Euro gewettet wie fast nie (Rekord-Short z−2,55) – dreht die Stimmung, geht es schnell nach oben (Squeeze). Zudem fiel der Euro-Zins am wenigsten und die Risikofreude hilft. Die schwache Euro-Konjunktur deckelt."
    },
    "GBP": {
-    "stimmung": "bärisch",
-    "score": -1,
-    "grund": "Inflation kam kühler als erwartet (3,6% statt 3,7%), aber die Bank of England bei 4,00% macht das Pfund zur widerstandsfähigsten Nicht-Dollar-Währung — nur milde negativ."
+    "stimmung": "neutral",
+    "score": 0,
+    "grund": "Zwiespältig: Die Dienstleistungs-Stimmung kühlte auf ein 5-Monats-Tief (52,0), aber die Industrie-Produktion erreichte ein 27-Monats-Hoch (KI/Verteidigung). Bank of England bleibt bei 4,00% widerstandsfähig, aber der britische Zins fiel – unterm Strich neutral."
    },
    "JPY": {
     "stimmung": "neutral",
-    "score": -1,
-    "grund": "Zwiespältig: In einer Angst-Flucht bekommt der Yen normalerweise einen Hafen-Zufluss (Auflösung von Zins-Wetten), ABER er steht nahe 160 mit akuter Interventionsdrohung, und die Spekulanten sitzen crowded auf der Long-Seite (z+1,8 = Rückschlag-Risiko). Beides deckelt — netto klein negativ."
+    "score": -2,
+    "grund": "Die zurückkehrende Risikofreude belebt Zins-Geschäfte (Carry) und drückt den Yen; zudem sind die Spekulanten überfüllt long (z+1,68 = Rückschlag-Risiko). Aber nahe 160 droht Japan mit Eingriffen am Devisenmarkt – das begrenzt den Absturz nach unten."
    },
    "CHF": {
-    "stimmung": "bärisch",
-    "score": -2,
-    "grund": "Der Dollar gewann diesmal das Hafen-Rennen — die Flucht, die sonst in Franken und Gold geht, landete im Dollar. Der Franken verlor den sicheren-Hafen-Wettbewerb."
+    "stimmung": "neutral",
+    "score": -1,
+    "grund": "Die zurückkehrende Risikofreude nimmt dem Franken den Hafen-Bedarf. Dagegen steht: Der Schweizer Zins war diese Woche der EINZIGE, der STIEG – das stützt. Beides hebt sich fast auf, deshalb nur minimal negativ."
    },
    "CAD": {
-    "stimmung": "bärisch",
-    "score": -3,
-    "grund": "Weiter Nicht-Dollar-Verlierer, aber abgefedert: Die Inflation kam kühler (3,1%, Kern nahe 1,8%) und die Risiko-Stimmung belastet den rohstoffnahen Loonie — doch das Öl erholte sich diese Woche (WTI ~85$, +rund 2% nach −3,7% in der Vorwoche), was den Gegenwind mildert."
+    "stimmung": "neutral",
+    "score": 2,
+    "grund": "Öl zog an (WTI +2,8%) und die zurückkehrende Risikofreude hilft Rohstoff-Währungen. Das gibt dem Loonie Rückenwind gegen den breit festen Dollar."
    },
    "AUD": {
-    "stimmung": "neutral",
-    "score": 0,
-    "grund": "Heiße Monats-Inflation (4,9% im Jahr, Kern +0,5% im Monat) killt die Zinssenkungs-Hoffnungen und löst den Aussie aus dem Risk-off-Block; der Rekord-Short der Großspekulanten ist Squeeze-Treibstoff. Aber noch nahe 11-Monats-Tief und die Risiko-Panik ist nicht ganz vorbei → bewusst neutral."
+    "stimmung": "bärisch",
+    "score": -4,
+    "grund": "Klarster Verlierer: Arbeitslosigkeit 4,9% (5-Jahres-Hoch, dritter Monat steigend, −43.500 Jobs), und der Aussie-Zins fiel am STÄRKSTEN. Gebremst wird der Fall nur durch die extreme Rekord-Short-Wette (z−3,19 = größte je gemessen = Squeeze-Gefahr, falls es dreht)."
    },
    "NZD": {
-    "stimmung": "bärisch",
-    "score": -3,
-    "grund": "Risiko-Währung in der Panik, aber abgefedert: Der neuseeländische 2-Jahres-Zins stieg diese Woche am stärksten, und die extreme Short-Wette (z−1,9) ist Squeeze-Pulver."
+    "stimmung": "neutral",
+    "score": 0,
+    "grund": "Spannung: extremer Short-Squeeze-Pulver (z−2,23) und der Kiwi-Zins fiel weniger als der US-Zins (leicht anti-Dollar). Dagegen: Risiko-Währung in noch nervösem Markt. Unterm Strich neutral."
    }
   },
   "paare": [
    {
     "paar": "EUR/USD",
-    "score": -2,
-    "treiber": "Fester Dollar in der Angst-Woche (19-Monats-Hoch, Flucht ins Bargeld) gegen den Euro; die Rekord-Euro-Short-Wette federt den Rückgang spürbar ab."
+    "score": 0,
+    "treiber": "Fester Dollar auf dem Hoch gegen die Rekord-Short-Wette auf den Euro und den kaum gefallenen Euro-Zins – beides hebt sich diese Woche fast auf, daher neutral."
    },
    {
     "paar": "GBP/USD",
-    "score": -1,
-    "treiber": "Pfund kühler bei der Inflation (3,6%), aber durch die Bank of England bei 4,00% widerstandsfähig — nur leicht schwächer gegen den festen Dollar."
+    "score": -2,
+    "treiber": "Britische Dienstleistungs-Stimmung kühlte und der britische Zins fiel – leichter Vorteil für den Dollar, der sein Hoch hält."
    },
    {
     "paar": "USD/JPY",
-    "score": 1,
-    "treiber": "Bewusst winzig: Der feste Dollar zieht nach oben, aber die Interventionsdrohung nahe 160 und ein möglicher Yen-Hafen-Bid in der Panik deckeln die Dollar-Stärke hier klar."
+    "score": 2,
+    "treiber": "Zurückkehrende Risikofreude plus überfüllte Yen-Long-Wetten sprechen für ein höheres Paar – bewusst klein gehalten, weil Japan nahe 160 mit Eingriffen droht."
    },
    {
     "paar": "AUD/USD",
-    "score": 0,
-    "treiber": "Heiße australische Inflation gibt dem Aussie einen Boden (Zinssenkungen vom Tisch, Rekord-Short = Squeeze-Gefahr) und hebt ihn aus dem Dollar-stark-Block — gegen die weiter feste Dollar-Lage neutralisiert."
+    "score": -5,
+    "treiber": "Eigene Schwäche-Geschichte: Jobmarkt-Schock (Arbeitslosigkeit 4,9%) und am stärksten gefallener Aussie-Zins – das löst den Aussie klar vom Dollar-Block nach unten. Extrem-Short bremst den Fall aber."
    },
    {
     "paar": "USD/CAD",
-    "score": 3,
-    "treiber": "Dollar-Long, aber kleiner als zuletzt: Kühle kanadische Inflation und Risiko-Stimmung treffen den Loonie, doch das wieder gestiegene Öl (~85$) stützt ihn etwas."
+    "score": 0,
+    "treiber": "Festes Öl (+2,8%) und Risikofreude stützen den Loonie und gleichen die Dollar-Stärke aus – daher neutral, bewusst vom Dollar-Block gelöst."
    },
    {
     "paar": "USD/CHF",
     "score": 3,
-    "treiber": "Der Dollar gewann das Hafen-Rennen — die Sicherheits-Flucht landete im Dollar statt im Franken."
+    "treiber": "Dollar auf dem Hoch + nachlassender Hafen-Bedarf beim Franken sprechen fürs Paar; der steigende Schweizer Zins dämpft es aber (transparent im Overlay)."
    },
    {
     "paar": "NZD/USD",
-    "score": -3,
-    "treiber": "Risiko-Flucht belastet den Kiwi, aber der gestiegene neuseeländische Zins und die extreme Short-Positionierung (Squeeze-Gefahr) federn ab."
+    "score": -2,
+    "treiber": "Fester Dollar gegen den Kiwi; der extreme Short-Squeeze und der anti-Dollar-Zins federn den Rückgang ab."
    }
   ],
   "wochenausblick": {
    "text": [
-    "Ruhige, durch das US-Thanksgiving-Fest verkürzte Woche: Donnerstag 26.11. sind die US-Börsen GESCHLOSSEN, Freitag 27.11. nur halber Handelstag. Deshalb werden die wichtigen US-Zahlen alle auf Dienstag/Mittwoch vorgezogen.",
-    "DAS Event ist die US-Kern-Inflation nach Fed-Lesart (Kern-PCE) am Mittwoch — der Lieblings-Inflationswert der Notenbank, drei Wochen vor der Dezember-Entscheidung (9.12.). Kommt sie heiß, ist die Erhöhung endgültig zementiert.",
-    "Kein Zinsentscheid diese Woche. Die nächste große Notenbank-Runde kommt erst im Dezember (Fed, EZB, Bank of England, BoC, SNB, BoJ, RBNZ — fast alle zwischen 9. und 17.12.).",
-    "Weiter im Blick: Hält die Angst-Welle an (VIX bei 31)? Solange die Aktien- und Krypto-Flucht läuft, bleibt der Dollar der Hafen — beruhigt sich die Lage, könnte die Dollar-Stärke schnell abbröckeln, weil der Zinsvorteil diese Woche bereits fiel."
+    "Nach der ruhigen Thanksgiving-Woche folgt eine MONSTER-Woche voller harter US-Zahlen – mit dem US-Jobbericht (NFP) am Freitag als Höhepunkt.",
+    "Die US-Notenbank entscheidet erst am 9. Dezember (nächste Woche KEIN Zinsentscheid). Die kommenden Zahlen entscheiden nur noch über die GRÖSSE des Schritts und den Ton danach.",
+    "Am Dienstag kommen gleich zwei Schwergewichte: die Euro-Inflation (Schnellschätzung) und der US-Industrie-Stimmungsindex ISM. Am Donnerstag folgt der ISM für Dienstleistungen.",
+    "Aufgepasst: Der Jobbericht am Freitag ist der große Test – ein starker Wert zementiert die Zinserhöhung, ein schwacher befeuert die Erzählung vom abkühlenden Arbeitsmarkt."
    ],
    "termine": [
     {
-     "tag": "Montag 23.11., 10:30 Wien",
-     "land": "GBP",
-     "titel": "Britische Einkaufsmanager-Indizes (Vorab-Schätzung Industrie + Dienstleistungen)",
-     "warum": "Erwartet rund 53 (Wachstumsschwelle ist 50). Stimmungs-Frühindikator für die britische Wirtschaft — relevant für die Pfund-Richtung."
+     "tag": "Montag 30.11., 14:30 Wien",
+     "land": "CAD",
+     "titel": "Kanada-Wirtschaftswachstum Q3 (aufs Jahr)",
+     "warum": "Vormonat +3,3%. Zeigt, ob Kanadas Wirtschaft mithält – wichtig für den Loonie vor der BoC-Sitzung am 9.12."
     },
     {
-     "tag": "Dienstag/Mittwoch 25.11., 14:30 Wien",
-     "land": "USD",
-     "titel": "US-Kern-Inflation nach Fed-Lesart (Kern-PCE, im Monat)",
-     "warum": "Erwartet +0,3% (wie Vormonat). Der Lieblings-Inflationswert der US-Notenbank, drei Wochen vor der Dezember-Sitzung. Heiß = Erhöhung zementiert und Dollar-Stütze; kühl = kleine Entspannung."
+     "tag": "Dienstag 1.12., 11:00 Wien",
+     "land": "EUR",
+     "titel": "Euro-Inflation November (Schnellschätzung, aufs Jahr)",
+     "warum": "Konsens 4,0% (wie Vormonat). Das Euro-Event der Woche – ein heißer Wert belebt die EZB-Debatte, ein kühler entspannt."
     },
     {
-     "tag": "Dienstag/Mittwoch 25.11., 14:30 Wien",
+     "tag": "Dienstag 1.12., 16:00 Wien",
      "land": "USD",
-     "titel": "US-Wirtschaftswachstum Q3 (zweite Schätzung) + Auftragseingänge langlebige Güter",
-     "warum": "Wachstum erwartet +3,4% aufs Jahr (= Erstschätzung). Zeigt, wie robust die US-Wirtschaft trotz der Angst-Welle läuft."
+     "titel": "US-Industrie-Stimmung ISM November",
+     "warum": "Konsens 55,2 (über 50 = Wachstum). Erster großer US-Konjunktur-Frühindikator der Woche."
+    },
+    {
+     "tag": "Dienstag 1.12., 16:00 Wien",
+     "land": "USD",
+     "titel": "US-Offene-Stellen (JOLTS)",
+     "warum": "Vorgeschmack auf den Arbeitsmarkt vor dem großen Jobbericht am Freitag."
+    },
+    {
+     "tag": "Mittwoch 2.12., 01:30 Wien",
+     "land": "AUD",
+     "titel": "Australien-Wirtschaftswachstum Q3",
+     "warum": "Konsens +0,5%. Relevant für den angeschlagenen Aussie nach dem Job-Schock."
+    },
+    {
+     "tag": "Donnerstag 3.12., 16:00 Wien",
+     "land": "USD",
+     "titel": "US-Dienstleistungs-Stimmung ISM November",
+     "warum": "Konsens 54,5. Der größte Teil der US-Wirtschaft – wichtiger Stimmungs-Check."
+    },
+    {
+     "tag": "Freitag 4.12., 14:30 Wien",
+     "land": "USD",
+     "titel": "US-Jobbericht (NFP) + Arbeitslosenquote November",
+     "warum": "DAS Event. Konsens +90.000 Stellen (nach +165.000), Quote 4,1%. Entscheidet über Größe und Ton der Dezember-Erhöhung."
+    },
+    {
+     "tag": "Freitag 4.12., 14:30 Wien",
+     "land": "CAD",
+     "titel": "Kanada-Arbeitsmarkt November",
+     "warum": "Zeitgleich mit den US-Jobs – doppelter Jobmarkt-Tag, bewegt USD/CAD."
+    },
+    {
+     "tag": "Freitag 4.12., 16:00 Wien",
+     "land": "USD",
+     "titel": "Uni-Michigan-Verbrauchervertrauen (Vorab)",
+     "warum": "Stimmungsbild der US-Verbraucher plus deren Inflationserwartung."
     }
    ]
   },
   "prognosen": [
    {
-    "event": "US-Kern-Inflation nach Fed-Lesart (Kern-PCE, im Monat)",
-    "termin": "Mittwoch 25.11., 14:30 Wiener Zeit (wegen Thanksgiving vorgezogen)",
-    "prognoseMarkt": "Konsens: +0,3% im Monat (wie im Vormonat).",
-    "meineEinschaetzung": "Ich erwarte den Wert ungefähr auf Konsens-Linie (+0,3%). Die zuletzt heiße Kern-Verbraucherpreis-Inflation (drei Monate in Folge +0,3%) sickert typischerweise in diesen Wert durch, und +0,3% ist genau die Trend-Linie. Das Aufwärtsrisiko (+0,4%) überwiegt leicht, falls die Dienstleistungspreise anziehen — aber ich habe keinen belastbaren Grund, mich klar vom Konsens wegzulehnen. Inflations-Richtung ist Woche für Woche kaum besser als ein Münzwurf.",
-    "richtung": "wie_erwartet",
-    "wennHoeher": "Käme sie bei +0,4% oder höher, wäre die Dezember-Erhöhung endgültig zementiert (und die Debatte über mehr als 0,25 Punkte neu entfacht) — Rückenwind für den Dollar.",
-    "wennNiedriger": "Käme sie bei +0,2% oder tiefer, bekäme der Markt einen kleinen Hoffnungsschimmer, dass die Erhöhung doch nicht kommt — leicht dollar-dämpfend, aber die Angst-Flucht würde den Dollar wohl trotzdem stützen."
-   },
-   {
-    "event": "US-Wirtschaftswachstum Q3 (zweite Schätzung, aufs Jahr)",
-    "termin": "Mittwoch 25.11., 14:30 Wiener Zeit",
-    "prognoseMarkt": "Konsens: +3,4% aufs Jahr (= unveränderte Erstschätzung).",
-    "meineEinschaetzung": "Ich erwarte den Wert auf Konsens-Linie (+3,4%). Zweite Schätzungen weichen erfahrungsgemäß nur selten und nur geringfügig von der Erstschätzung ab — das ist einer der wenigen Fälle, in denen ich wirklich den Punktwert erwarte.",
-    "richtung": "wie_erwartet",
-    "wennHoeher": "Eine Aufwärtsrevision würde das Bild der robusten US-Wirtschaft untermauern und die Falken in der Notenbank stärken — leicht dollar-positiv.",
-    "wennNiedriger": "Eine Abwärtsrevision würde erste Risse im US-Wachstum zeigen — leicht dollar-dämpfend, aber in einer Angst-Woche zweitrangig."
-   },
-   {
-    "event": "US-Auftragseingänge langlebige Güter (im Monat)",
-    "termin": "Mittwoch 25.11., 14:30 Wiener Zeit",
-    "prognoseMarkt": "Konsens: +0,4% im Monat (nach starken +1,8%).",
-    "meineEinschaetzung": "Ich lehne mich leicht nach UNTEN (niedriger) — mit zwei konkreten Gründen: eine Normalisierung vom starken Vormonat (+1,8%) ist wahrscheinlich, und die Angst-Woche dürfte Großaufträge dämpfen. ABER: nur eine kleine Wette, weil diese Zahl durch Einzelaufträge (vor allem Flugzeuge) extrem schwankungsanfällig ist.",
+    "event": "US-Jobbericht (NFP) November",
+    "termin": "Freitag 4.12., 14:30 Wiener Zeit",
+    "prognoseMarkt": "Konsens: +90.000 Stellen (nach starken +165.000 im Vormonat), Arbeitslosenquote 4,1%.",
+    "meineEinschaetzung": "Ich neige leicht zu NIEDRIGER als +90.000 – aber mit geringer Überzeugung. Konkreter Grund: Der Wachstums-Schub (+4,3%) kam aus Investitionen/KI, nicht aus dem Arbeitsmarkt; nach einem starken +165.000-Monat kehren die Jobzahlen erfahrungsgemäß zur Mitte zurück, und der Arbeitsmarkt ist global die weiche Stelle (siehe Australien). Kein belegter Vorsprung – Jobzahlen sind sprunghaft, das bleibt eine kleine Wette.",
     "richtung": "niedriger",
-    "wennHoeher": "Käme sie über +0,4%, wäre das ein weiteres Zeichen robuster US-Nachfrage — leicht dollar-positiv.",
-    "wennNiedriger": "Käme sie unter +0,4% oder negativ, bestätigte das eine Abkühlung der Investitionsnachfrage — für den Dollar in dieser Hafen-Woche aber kaum belastend."
+    "wennHoeher": "Ein Wert über +90.000 zementiert die Dezember-Erhöhung und stützt den Dollar – er könnte seinen Schwung zurückgewinnen.",
+    "wennNiedriger": "Ein schwacher Wert befeuert die Erzählung vom abkühlenden US-Arbeitsmarkt – der Dollar, dem ohnehin die Puste ausgeht, würde weiter nachgeben; Gold/Risiko-Währungen profitieren."
+   },
+   {
+    "event": "Euro-Inflation November (Schnellschätzung, aufs Jahr)",
+    "termin": "Dienstag 1.12., 11:00 Wiener Zeit",
+    "prognoseMarkt": "Konsens: 4,0% aufs Jahr (= unverändert zum Vormonat).",
+    "meineEinschaetzung": "Ich erwarte sie genau auf der Konsens-Linie (4,0%). Die Euro-Inflation hält sich seit Wochen stabil um 4,0%, ein klarer Treiber in die eine oder andere Richtung fehlt – deshalb ein echter Punktwert und nicht nur Richtungs-Unentschiedenheit. Energie-Basiseffekte sind das beidseitige Risiko.",
+    "richtung": "wie_erwartet",
+    "wennHoeher": "Über 4,0% belebt die Debatte über einen härteren EZB-Kurs – der Euro würde fester.",
+    "wennNiedriger": "Unter 4,0% signalisiert nachlassenden Druck – leicht belastend für den Euro."
+   },
+   {
+    "event": "US-Industrie-Stimmung ISM November",
+    "termin": "Dienstag 1.12., 16:00 Wiener Zeit",
+    "prognoseMarkt": "Konsens: 55,2 (Vormonat 55,5; über 50 = Wachstum).",
+    "meineEinschaetzung": "Ich neige leicht zu HÖHER als 55,2 – kleine Wette. Konkreter Grund: Die kräftige Aufwärtsrevision des US-Wachstums (+4,3%) wurde von einem Investitions-/KI-Boom getragen, und genau der stützt die Industrie. Die Überzeugung ist gering, weil der ISM Monat für Monat schwankt.",
+    "richtung": "hoeher",
+    "wennHoeher": "Über 55,2 bestätigt die robuste US-Industrie und stützt den Dollar.",
+    "wennNiedriger": "Unter 55,2 weckt leise Abkühlungssorgen trotz des starken Wachstums."
+   },
+   {
+    "event": "US-Dienstleistungs-Stimmung ISM November",
+    "termin": "Donnerstag 3.12., 16:00 Wiener Zeit",
+    "prognoseMarkt": "Konsens: 54,5 (wie Vormonat; über 50 = Wachstum).",
+    "meineEinschaetzung": "Ich erwarte sie genau auf der Konsens-Linie (54,5). Der Dienstleistungs-ISM hält sich seit Monaten stabil im mittleren 54er-Bereich ohne neuen Impuls – ein echter Punktwert. Aufwärts-Risiko wäre ein starker Preis-Unterindex (Inflations-Signal).",
+    "richtung": "wie_erwartet",
+    "wennHoeher": "Über 54,5 (vor allem ein heißer Preis-Teilindex) unterstützt den festen Dollar-Boden.",
+    "wennNiedriger": "Unter 54,5 passt zur These vom nachlassenden US-Schwung – leicht dollar-belastend."
    }
   ],
   "lehren": [
-   "Prognose-Bilanz Vorwoche (17.–21.11.): US-Einzelhandel `hoeher` getippt → kam +0,2% statt 0% = GETROFFEN ✓ (die einzige echte Richtungs-Wette traf). UK-Inflation `wie_erwartet` (3,7%) → kam 3,6% = DANEBEN ✗ (einen Tick kühler). Kanada-Inflation `wie_erwartet` (3,2%) → kam 3,1% = DANEBEN ✗ (einen Tick kühler). Japan-Wachstum `wie_erwartet` (+0,1%) → kam 0,0% = DANEBEN ✗ (einen Tick tiefer).",
-   "Auffällig: Alle drei `wie_erwartet`-Calls landeten diese Woche GENAU einen Tick zu TIEF — die Inflation und das Wachstum kamen durchweg kühler als der Konsens. Das ist zu verlockend, um es fortzuschreiben (die Lehre lautet seit Wochen: nicht das letzte Muster weiterschreiben), aber es bestätigt erneut, dass `wie_erwartet`-Calls fast immer um einen Tick danebenliegen. Nur dort `wie_erwartet` wählen, wo ich wirklich den exakten Punktwert erwarte.",
-   "Makro-Lehre der Woche: In einer echten 'Flucht ins Bargeld' (Entschuldung) ist der Dollar der Hafen — sogar Gold wird dann mitverkauft. Das ist das Gegenteil der Vorwochen, als Gold der Hafen war. Die Hafen-Rolle wechselt mit dem Charakter der Angst (Inflations-Angst → Gold; Entschuldungs-Panik → Dollar). Der Dollar-Hafen-Bid steht diese Woche auf Angst, nicht auf Zinsen (US-2-Jahres-Zins fiel) — also wacklig, falls sich die Börsen beruhigen.",
-   "Ehrlicher Track-Record: Die Wochen-Dollar-Wette trifft 9 von 20 Wochen = 45%, das Zufallsband liegt bei 6–14 Treffern → statistisch NICHT von einem Münzwurf zu unterscheiden. Es gibt weiter KEINEN belegten Vorsprung. Scores bewusst klein gehalten, nur der USD +5 mit klar benennbarem Grund (Dash-for-Cash-Hafen + 19-Monats-Hoch).",
-   "Klumpen-Bewusstsein: 6 von 7 Paaren zeigen diese Woche dollar-stark — das ist im Kern EINE Wette. Gerechtfertigt, weil es eine echte Angst-Dollar-Woche ist, aber bewusst aufgelockert: USD/JPY nur +1 (Interventions-Cap + Yen-Hafen-Bid), USD/CAD mit eigener Öl-Geschichte, EUR/AUD/NZD durch Rekord-Short-Squeeze gebremst."
+   "Prognose-Bilanz Vorwoche (23.–27.11.): 2 von 3 getroffen. US-Kern-PCE `wie_erwartet` (+0,3% im Monat) GETROFFEN ✓ (landete exakt auf +0,3%). US-Durable-Goods `niedriger` GETROFFEN ✓ (+0,2% vs. +0,4–0,7% erwartet). US-BIP Q3 `wie_erwartet` (+3,4%) DANEBEN ✗ – kam +4,3% (volle 0,9 Prozentpunkte Aufwärtsrevision, getragen von Investitionen/Konsum).",
+   "LEHRE: Die Annahme „Zweitschätzungen beim BIP bewegen sich selten stark“ war diesmal falsch – eine 2. Schätzung KANN deutlich springen, wenn Investitions-/Konsumdaten nachreifen. Nicht pauschal „unverändert“ für Revisionen ansetzen.",
+   "CHARAKTER-LEHRE der Woche: Der Dollar konnte trotz BIP-Blowout (+4,3%), heißer Kern-Inflation (3,3%) UND so gut wie besiegelter Dezember-Erhöhung NICHT steigen. Wenn eine Währung auf Top-Daten nicht mehr anspringt, ist ihr Momentum erschöpft – und die Zins-Dynamik (US-2-Jahres-Rendite fiel) dreht bereits gegen sie.",
+   "Weiterhin KEIN belegter Vorsprung: Wochen-Dollar-Wette 10/21 = 48%, Zufallsband [6,15] → nicht von einem Münzwurf zu unterscheiden. Scores klein halten, |Score| über 25 nur mit sehr konkretem Grund.",
+   "Klumpen bewusst aufgelockert: EUR/USD und USD/CAD bewusst neutral (Euro-Squeeze + Zins bzw. Öl lösen sie vom Dollar-Block), AUD/USD als eigene Jobs-Story tief negativ – keine 7-fach identische Dollar-Wette."
   ],
   "tagesnews": {
    "stand": "2026-11-27",
    "wochentag": "Freitag",
-   "tenor": "Ruhiger halber Handelstag nach dem US-Feiertag: Die Börsen-Angst der Vorwoche lässt nach, der Dollar hält aber sein Hoch — die Dezember-Zinserhöhung gilt als fast sicher.",
+   "tenor": "Die Angst der Vorwoche ließ nach, Aktien und Gold erholten sich. Der Dollar steht weiter hoch, kam aber trotz starker US-Zahlen nicht weiter – ihm geht die Puste aus.",
    "heute": [
-    "🦃 Nach dem Feiertag nur ein halber Handelstag (Black Friday): dünner, ruhiger Handel, keine großen Zahlen mehr — die Woche ist faktisch gelaufen.",
-    "💵 Der Dollar hält sich nahe seinem 19-Monats-Hoch (Dollar-Index ~103,8). Nach der heißen Inflation vom Mittwoch gilt die Dezember-Zinserhöhung der US-Notenbank als fast sicher (rund 97%). Euro/Dollar klebt nahe dem Ein-Jahres-Tief bei ~1,096.",
-    "😌 Die Börsen-Angst der Vorwoche lässt nach: Das Angstbarometer fiel von ~31 auf ~27, die Aktienmärkte haben sich erholt. Gold (~3.600 Dollar) kam etwas von seinem Tief zurück (+2% auf die Woche), bleibt aber schwach; Bitcoin hängt unter 62.000."
+    "🦃 Black Friday: nach dem Feiertag nur ein halber, dünner Handelstag – keine großen Zahlen mehr, die Woche ist faktisch gelaufen.",
+    "📈 Risikofreude zurück: Technologie-Aktien sprangen kräftig (Nasdaq-Futures ~+2,4%), auch weil China seine Börse mit Staatskäufen stützte.",
+    "🥇 Gold erholte sich weiter (+4,5% auf der Woche) und prallte von seinem 15-Monats-Tief ab – der sichere Hafen ist zurück im Spiel.",
+    "💵 Der Dollar hält sein 19-Monats-Hoch (~103,7), aber ohne neuen Schwung: Die Dezember-Erhöhung ist eingepreist, die kurzen US-Zinsen fielen."
    ],
    "gestern": [
-    "🦃 Donnerstag war US-Feiertag (Thanksgiving) — Börsen und Anleihemarkt geschlossen, kaum Bewegung.",
-    "💵 Wochen-Höhepunkt am Mittwoch: Die US-Kern-Inflation (das Lieblings-Maß der Notenbank) kam mit 3,3% im Jahr HEISS (erwartet 3,2%, höchster Stand seit fast drei Jahren), im Monat +0,3% wie erwartet — das besiegelte die Dezember-Zinserhöhung praktisch.",
-    "📈 Zugleich wurde das US-Wachstum kräftig nach oben revidiert: +4,3% im dritten Quartal (zunächst nur 3,4%, erwartet ~3,5%). Die Konjunktur läuft deutlich besser als gedacht.",
-    "🏭 Die langlebigen Güter (ein Industrie-Frühindikator) stiegen im Oktober nur +0,2% und blieben unter der Erwartung (~0,6%) — der Kern war mit +1,2% aber stark.",
-    "🛢️ Das Öl hat sich diese Woche erholt (WTI ~85 Dollar, rund +2%) — anders als in der Vorwoche (−3,7%). Das nimmt etwas Druck vom kanadischen Dollar."
+    "🦃 Donnerstag war Thanksgiving – die US-Börsen waren komplett geschlossen.",
+    "🔥 Mittwoch die Datenflut: US-Wachstum im Sommer viel stärker als gedacht (+4,3% statt +3,4%), Kern-Inflation heiß bei 3,3% (3-Jahres-Hoch) – die Dezember-Zinserhöhung ist damit so gut wie besiegelt (~95%).",
+    "📉 Nur die US-Industrie-Aufträge enttäuschten (+0,2% statt +0,7%) – ein kleiner Gegenpunkt zum starken Wachstum.",
+    "😟 Zwischendurch (Mittwoch) sprang das Angst-Barometer nochmal kurz auf ~33 hoch, beruhigte sich dann aber wieder Richtung 27."
    ]
   }
  },
@@ -3735,8 +3780,8 @@ window.MAKRO_DATA = {
     "bank": "Fed",
     "satz": 3.875,
     "anzeige": "3,75–4,00%",
-    "naechste": "9.12.2026 (Erhöhung ~100% eingepreist: ~85% kleiner Schritt + ~15% doppelt)",
-    "erwartung": "Stand 20.11.: Gehalten bei 3,75–4,00% (28.10.). Das FOMC-Protokoll vom 18.11. zeigte ein gespaltenes Komitee, bestätigte aber die Dezember-Erhöhung als praktisch zementiert (~90% für 0,25 Pp); einige Mitglieder wollen sogar um mehr als 0,25 Pp erhöhen, falls die Inflation ungünstig kommt. Treiber bleibt die heiße US-Kern-Inflation (drei Monate +0,3%). Diese Woche kehrte die Angst-Welle zurück (VIX ~31) und der Dollar hält als 'Flucht-ins-Bargeld'-Hafen sein 19-Monats-Hoch (~103,6) — WICHTIG: Die US-Zinsen fielen diese Woche leicht, die Dollar-Stärke steht also auf der Angst-Flucht, nicht auf dem Zinsvorteil. Schiedsrichter vor dem 9.12.: Kern-PCE am Mi 25.11.",
+    "naechste": "9.12.2026 (Erhöhung ~95% für 0,25 Pp eingepreist; die 50bp-Hoffnung verblasste diese Woche auf ~4%)",
+    "erwartung": "Erhöhung um 0,25 Pp fast sicher nach heißer Kern-PCE (3,3%) + BIP-Blowout (+4,3%)",
     "richtung": "rauf"
    },
    {
@@ -4259,57 +4304,57 @@ window.MAKRO_DATA = {
  "paareMarkt": [
   {
    "paar": "EUR/USD",
-   "baseScore": -2,
+   "baseScore": 0,
    "tiltCot": -2,
    "tiltZins": 4,
    "tiltGesamt": 2,
-   "score": 0,
+   "score": 2,
    "cotExtrem": "extrem",
-   "treiber": "Fester Dollar in der Angst-Woche (19-Monats-Hoch, Flucht ins Bargeld) gegen den Euro; die Rekord-Euro-Short-Wette federt den Rückgang spürbar ab.",
+   "treiber": "Fester Dollar auf dem Hoch gegen die Rekord-Short-Wette auf den Euro und den kaum gefallenen Euro-Zins – beides hebt sich diese Woche fast auf, daher neutral.",
    "istCross": false
   },
   {
    "paar": "GBP/USD",
-   "baseScore": -1,
+   "baseScore": -2,
    "tiltCot": -3,
    "tiltZins": 0,
    "tiltGesamt": -3,
-   "score": -4,
+   "score": -5,
    "cotExtrem": null,
-   "treiber": "Pfund kühler bei der Inflation (3,6%), aber durch die Bank of England bei 4,00% widerstandsfähig — nur leicht schwächer gegen den festen Dollar.",
+   "treiber": "Britische Dienstleistungs-Stimmung kühlte und der britische Zins fiel – leichter Vorteil für den Dollar, der sein Hoch hält.",
    "istCross": false
   },
   {
    "paar": "USD/JPY",
-   "baseScore": 1,
+   "baseScore": 2,
    "tiltCot": -5,
    "tiltZins": 0,
    "tiltGesamt": -5,
-   "score": -4,
+   "score": -3,
    "cotExtrem": "erhoeht",
-   "treiber": "Bewusst winzig: Der feste Dollar zieht nach oben, aber die Interventionsdrohung nahe 160 und ein möglicher Yen-Hafen-Bid in der Panik deckeln die Dollar-Stärke hier klar.",
+   "treiber": "Zurückkehrende Risikofreude plus überfüllte Yen-Long-Wetten sprechen für ein höheres Paar – bewusst klein gehalten, weil Japan nahe 160 mit Eingriffen droht.",
    "istCross": false
   },
   {
    "paar": "AUD/USD",
-   "baseScore": 0,
+   "baseScore": -5,
    "tiltCot": -2,
    "tiltZins": -3,
    "tiltGesamt": -5,
-   "score": -5,
+   "score": -10,
    "cotExtrem": "extrem",
-   "treiber": "Heiße australische Inflation gibt dem Aussie einen Boden (Zinssenkungen vom Tisch, Rekord-Short = Squeeze-Gefahr) und hebt ihn aus dem Dollar-stark-Block — gegen die weiter feste Dollar-Lage neutralisiert.",
+   "treiber": "Eigene Schwäche-Geschichte: Jobmarkt-Schock (Arbeitslosigkeit 4,9%) und am stärksten gefallener Aussie-Zins – das löst den Aussie klar vom Dollar-Block nach unten. Extrem-Short bremst den Fall aber.",
    "istCross": false
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 3,
+   "baseScore": 0,
    "tiltCot": 3,
    "tiltZins": -2,
    "tiltGesamt": 1,
-   "score": 4,
+   "score": 1,
    "cotExtrem": null,
-   "treiber": "Dollar-Long, aber kleiner als zuletzt: Kühle kanadische Inflation und Risiko-Stimmung treffen den Loonie, doch das wieder gestiegene Öl (~85$) stützt ihn etwas.",
+   "treiber": "Festes Öl (+2,8%) und Risikofreude stützen den Loonie und gleichen die Dollar-Stärke aus – daher neutral, bewusst vom Dollar-Block gelöst.",
    "istCross": false
   },
   {
@@ -4320,83 +4365,83 @@ window.MAKRO_DATA = {
    "tiltGesamt": -6,
    "score": -3,
    "cotExtrem": null,
-   "treiber": "Der Dollar gewann das Hafen-Rennen — die Sicherheits-Flucht landete im Dollar statt im Franken.",
+   "treiber": "Dollar auf dem Hoch + nachlassender Hafen-Bedarf beim Franken sprechen fürs Paar; der steigende Schweizer Zins dämpft es aber (transparent im Overlay).",
    "istCross": false
   },
   {
    "paar": "NZD/USD",
-   "baseScore": -3,
+   "baseScore": -2,
    "tiltCot": -2,
    "tiltZins": 0,
    "tiltGesamt": -2,
-   "score": -5,
+   "score": -4,
    "cotExtrem": "extrem",
-   "treiber": "Risiko-Flucht belastet den Kiwi, aber der gestiegene neuseeländische Zins und die extreme Short-Positionierung (Squeeze-Gefahr) federn ab.",
+   "treiber": "Fester Dollar gegen den Kiwi; der extreme Short-Squeeze und der anti-Dollar-Zins federn den Rückgang ab.",
    "istCross": false
   },
   {
    "paar": "EUR/GBP",
-   "baseScore": 0,
+   "baseScore": 1,
    "tiltCot": 0,
    "tiltZins": 5,
    "tiltGesamt": 5,
-   "score": 5,
+   "score": 6,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/JPY",
-   "baseScore": 0,
+   "baseScore": 2,
    "tiltCot": -2,
    "tiltZins": 4,
    "tiltGesamt": 2,
-   "score": 2,
+   "score": 4,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "AUD/NZD",
-   "baseScore": 2,
+   "baseScore": -2,
    "tiltCot": 0,
    "tiltZins": -4,
    "tiltGesamt": -4,
-   "score": -2,
+   "score": -6,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   },
   {
    "paar": "EUR/CHF",
-   "baseScore": 0,
+   "baseScore": 2,
    "tiltCot": -1,
    "tiltZins": -3,
    "tiltGesamt": -4,
-   "score": -4,
+   "score": -2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-27T06:21:30.594Z",
+  "stand": "2026-11-27T14:11:55.451Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 91,
-  "gewertet": 42,
-  "nichtWertbar": 49,
-  "treffer": 18,
-  "quote": 43,
+  "gefunden": 95,
+  "gewertet": 43,
+  "nichtWertbar": 52,
+  "treffer": 19,
+  "quote": 44,
   "zinsentscheide": {
    "treffer": 11,
    "gesamt": 11,
    "quote": 100
   },
   "datenPrognosen": {
-   "treffer": 7,
-   "gesamt": 31,
-   "quote": 23,
-   "pWert": 0.003
+   "treffer": 8,
+   "gesamt": 32,
+   "quote": 25,
+   "pWert": 0.007
   },
   "richtungBeiAbweichung": {
    "treffer": 7,
@@ -4411,9 +4456,9 @@ window.MAKRO_DATA = {
    "pWert": 0.629
   },
   "exakt": {
-   "treffer": 5,
-   "gesamt": 21,
-   "quote": 24
+   "treffer": 6,
+   "gesamt": 22,
+   "quote": 27
   },
   "textdeutung": {
    "treffer": 13,
@@ -4421,15 +4466,6 @@ window.MAKRO_DATA = {
    "quote": 62
   },
   "letzte": [
-   {
-    "event": "Fed-Zinsentscheid (Oktober)",
-    "datum": "2026-10-28",
-    "richtung": "wie_erwartet",
-    "tatsaechlich": "wie_erwartet",
-    "konsens": "4.00%",
-    "ist": "4%",
-    "treffer": true
-   },
    {
     "event": "US-Kern-PCE (September) — m/m",
     "datum": "2026-10-29",
@@ -4492,6 +4528,15 @@ window.MAKRO_DATA = {
     "konsens": "0.3%",
     "ist": "0.2%",
     "treffer": false
+   },
+   {
+    "event": "US-Kern-Inflation nach Fed-Lesart (Kern-PCE, im Monat)",
+    "datum": "2026-11-25",
+    "richtung": "wie_erwartet",
+    "tatsaechlich": "wie_erwartet",
+    "konsens": "0.3%",
+    "ist": "0.3%",
+    "treffer": true
    }
   ]
  },
@@ -4854,11 +4899,11 @@ window.MAKRO_DATA = {
  },
  "momentum": {
   "USD": {
-   "ueber": 21,
+   "ueber": 22,
    "unter": 22,
-   "gleich": 24,
-   "gesamt": 67,
-   "score": -1
+   "gleich": 25,
+   "gesamt": 69,
+   "score": 0
   },
   "CAD": {
    "ueber": 5,
@@ -4915,7 +4960,7 @@ window.MAKRO_DATA = {
   "treffer": 84,
   "gesamt": 178,
   "quote": 47,
-  "wochenErfasst": 22,
+  "wochenErfasst": 23,
   "proPaar": {
    "USD/JPY": {
     "treffer": 7,
@@ -5502,6 +5547,26 @@ window.MAKRO_DATA = {
  },
  "historie": [
   {
+   "datum": "2026-11-25T08:30:00-05:00",
+   "land": "USD",
+   "titel": "Core PCE Price Index m/m",
+   "impact": "High",
+   "prognose": "0.3%",
+   "vorher": "0.3%",
+   "actual": "0.3%",
+   "notiz": null
+  },
+  {
+   "datum": "2026-11-25T08:30:00-05:00",
+   "land": "USD",
+   "titel": "Prelim GDP q/q",
+   "impact": "High",
+   "prognose": "3.5%",
+   "vorher": "3.4%",
+   "actual": "4.3%",
+   "notiz": null
+  },
+  {
    "datum": "2026-11-24T19:30:00-05:00",
    "land": "AUD",
    "titel": "CPI m/m",
@@ -6080,26 +6145,6 @@ window.MAKRO_DATA = {
    "vorher": "<1.00%",
    "actual": "1.25%",
    "notiz": null
-  },
-  {
-   "datum": "2026-09-17T22:30:00-04:00",
-   "land": "JPY",
-   "titel": "BOJ Policy Rate",
-   "impact": "High",
-   "prognose": "<1.25%",
-   "vorher": "<1.00%",
-   "actual": "1.25%",
-   "notiz": null
-  },
-  {
-   "datum": "2026-09-17T07:00:00-04:00",
-   "land": "GBP",
-   "titel": "MPC Official Bank Rate Votes",
-   "impact": "High",
-   "prognose": "3-0-6",
-   "vorher": "3-0-6",
-   "actual": "3.75%",
-   "notiz": "auto:TV rate (2026-09-17)"
   }
  ],
  "anzahlGespeichert": 2504

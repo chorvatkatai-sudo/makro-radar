@@ -1,21 +1,21 @@
 {
-  "stand": "2026-11-27T06:21:30.594Z",
+  "stand": "2026-11-27T14:11:55.451Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
-  "gefunden": 91,
-  "gewertet": 42,
-  "nichtWertbar": 49,
-  "treffer": 18,
-  "quote": 43,
+  "gefunden": 95,
+  "gewertet": 43,
+  "nichtWertbar": 52,
+  "treffer": 19,
+  "quote": 44,
   "zinsentscheide": {
     "treffer": 11,
     "gesamt": 11,
     "quote": 100
   },
   "datenPrognosen": {
-    "treffer": 7,
-    "gesamt": 31,
-    "quote": 23,
-    "pWert": 0.003
+    "treffer": 8,
+    "gesamt": 32,
+    "quote": 25,
+    "pWert": 0.007
   },
   "richtungBeiAbweichung": {
     "treffer": 7,
@@ -30,9 +30,9 @@
     "pWert": 0.629
   },
   "exakt": {
-    "treffer": 5,
-    "gesamt": 21,
-    "quote": 24
+    "treffer": 6,
+    "gesamt": 22,
+    "quote": 27
   },
   "textdeutung": {
     "treffer": 13,
@@ -40,15 +40,6 @@
     "quote": 62
   },
   "letzte": [
-    {
-      "event": "Fed-Zinsentscheid (Oktober)",
-      "datum": "2026-10-28",
-      "richtung": "wie_erwartet",
-      "tatsaechlich": "wie_erwartet",
-      "konsens": "4.00%",
-      "ist": "4%",
-      "treffer": true
-    },
     {
       "event": "US-Kern-PCE (September) — m/m",
       "datum": "2026-10-29",
@@ -111,6 +102,15 @@
       "konsens": "0.3%",
       "ist": "0.2%",
       "treffer": false
+    },
+    {
+      "event": "US-Kern-Inflation nach Fed-Lesart (Kern-PCE, im Monat)",
+      "datum": "2026-11-25",
+      "richtung": "wie_erwartet",
+      "tatsaechlich": "wie_erwartet",
+      "konsens": "0.3%",
+      "ist": "0.3%",
+      "treffer": true
     }
   ]
 }

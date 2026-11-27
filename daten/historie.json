@@ -24638,7 +24638,7 @@
       "impact": "High",
       "prognose": "0.3%",
       "vorher": "0.3%",
-      "actual": null,
+      "actual": "0.3%",
       "notiz": null
     },
     "2026-11-25T08:30:00-05:00|USD|Prelim GDP q/q": {
@@ -24648,7 +24648,7 @@
       "impact": "High",
       "prognose": "3.5%",
       "vorher": "3.4%",
-      "actual": null,
+      "actual": "4.3%",
       "notiz": null
     },
     "2026-11-25T08:30:00-05:00|USD|Prelim GDP Price Index q/q": {
@@ -24678,7 +24678,7 @@
       "impact": "Low",
       "prognose": "0.5%",
       "vorher": "0.5%",
-      "actual": null,
+      "actual": "0.5%",
       "notiz": null
     },
     "2026-11-25T08:30:00-05:00|USD|Durable Goods Orders m/m": {
@@ -24688,7 +24688,7 @@
       "impact": "Low",
       "prognose": "0.7%",
       "vorher": "1.8%",
-      "actual": null,
+      "actual": "0.2%",
       "notiz": null
     },
     "2026-11-25T08:30:00-05:00|USD|Personal Income m/m": {

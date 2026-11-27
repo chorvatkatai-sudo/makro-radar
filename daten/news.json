@@ -1,11 +1,59 @@
 {
-  "stand": "2026-11-27T06:21:30.581Z",
+  "stand": "2026-11-27T14:17:06.769Z",
   "quellen": [
     "ForexLive",
     "FXStreet",
     "Fed"
   ],
   "eintraege": [
+    {
+      "quelle": "ForexLive",
+      "titel": "October US advance goods trade balance -149.5B vs -133.0B expected",
+      "link": "https://investinglive.com/news/october-us-advance-goods-trade-balance-149-5b-vs-133-0b-expected/",
+      "datum": "2026-11-27T13:31:07.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "investingLive European session wrap: Post-Thanksgiving optimism lifts stocks, gold",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-post-thanksgiving-optimism-lifts-stocks-gold/",
+      "datum": "2026-11-27T12:53:23.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Germany unemployment rises more than expected in November as labour market struggles persist",
+      "link": "https://investinglive.com/news/germany-unemployment-rises-more-than-expected-in-november-as-labour-market-struggles-persist/",
+      "datum": "2026-11-27T08:55:12.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "Spanish inflation comes off the boil in November, offering some respite for the ECB",
+      "link": "https://investinglive.com/news/spanish-inflation-comes-off-the-boil-in-november-offering-some-respite-for-the-ecb/",
+      "datum": "2026-11-27T08:00:19.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France inflation undershoots estimates in November as energy and services price pressures ease",
+      "link": "https://investinglive.com/news/france-inflation-undershoots-estimates-in-november-as-energy-and-services-price-pressures-ease/",
+      "datum": "2026-11-27T07:45:33.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "France Q3 GDP revised lower as economic woes deepen",
+      "link": "https://investinglive.com/news/france-q3-gdp-revised-lower-as-economic-woes-deepen/",
+      "datum": "2026-11-27T07:45:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-95/",
+      "datum": "2026-11-27T07:34:09.000Z"
+    },
+    {
+      "quelle": "ForexLive",
+      "titel": "US reportedly urged Venezuela, Iraq to consider quitting OPEC earlier this year",
+      "link": "https://investinglive.com/news/us-reportedly-urged-venezuela-iraq-to-consider-quitting-opec-earlier-this-year/",
+      "datum": "2026-11-27T07:18:53.000Z"
+    },
     {
       "quelle": "ForexLive",
       "titel": "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds",
@@ -29,54 +77,6 @@
       "titel": "Kiwi edges higher as official NZ election count confirms a hung parliament",
       "link": "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
       "datum": "2026-11-27T01:24:33.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Tokyo November core CPI rises to 2.9% y/y, just shy of 3.0% expected",
-      "link": "https://investinglive.com/news/tokyo-november-core-cpi-rises-to-2-9-y-y-just-shy-of-3-0-expected/",
-      "datum": "2026-11-26T23:30:53.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears",
-      "link": "https://investinglive.com/news/nz-consumer-confidence-breaks-100-as-falling-fuel-prices-cool-inflation-fears/",
-      "datum": "2026-11-26T21:32:46.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive European session wrap: European stocks ride Wall Street's comeback into Thanksgiving",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/",
-      "datum": "2026-11-26T12:51:11.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "China hits back at Trump’s latest tariff threat as trade war tensions resurface",
-      "link": "https://investinglive.com/news/china-hits-back-at-trump-s-latest-tariff-threat-as-trade-war-tensions-resurface/",
-      "datum": "2026-11-26T08:01:57.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-94/",
-      "datum": "2026-11-26T07:29:44.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "German consumer confidence remains in the doldrums heading into December",
-      "link": "https://investinglive.com/news/german-consumer-confidence-remains-in-the-doldrums-heading-into-december/",
-      "datum": "2026-11-26T07:01:25.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "investingLive Asia-Pacific market news: Asia stocks extend rebound",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-stocks-extend-rebound/",
-      "datum": "2026-11-26T05:11:12.000Z"
-    },
-    {
-      "quelle": "ForexLive",
-      "titel": "Heads up: Thanksgiving holiday leaves dip buyers in limbo",
-      "link": "https://investinglive.com/news/heads-up-thanksgiving-holiday-leaves-dip-buyers-in-limbo/",
-      "datum": "2026-11-26T05:01:31.000Z"
     },
     {
       "quelle": "Fed",

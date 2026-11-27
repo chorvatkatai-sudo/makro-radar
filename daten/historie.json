@@ -25040,6 +25040,16 @@
       "vorher": "",
       "actual": null,
       "notiz": null
+    },
+    "2026-11-27T05:05:00-05:00|EUR|Italian 10-y Bond Auction": {
+      "datum": "2026-11-27T05:05:00-05:00",
+      "land": "EUR",
+      "titel": "Italian 10-y Bond Auction",
+      "impact": "Low",
+      "prognose": "",
+      "vorher": "4.49|1.6",
+      "actual": null,
+      "notiz": null
     }
   }
 }

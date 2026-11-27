@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-27T14:11:55.431Z",
+  "stand": "2026-11-27T14:17:06.771Z",
   "ausBriefing": "2026-11-27",
   "overlayAktiv": true,
   "paare": [
@@ -51,9 +51,9 @@
       "paar": "USD/CAD",
       "baseScore": 0,
       "tiltCot": 3,
-      "tiltZins": -2,
-      "tiltGesamt": 1,
-      "score": 1,
+      "tiltZins": -4,
+      "tiltGesamt": -1,
+      "score": -1,
       "cotExtrem": null,
       "treiber": "Festes Öl (+2,8%) und Risikofreude stützen den Loonie und gleichen die Dollar-Stärke aus – daher neutral, bewusst vom Dollar-Block gelöst.",
       "istCross": false
@@ -84,9 +84,9 @@
       "paar": "EUR/GBP",
       "baseScore": 1,
       "tiltCot": 0,
-      "tiltZins": 5,
-      "tiltGesamt": 5,
-      "score": 6,
+      "tiltZins": 3,
+      "tiltGesamt": 3,
+      "score": 4,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true
@@ -95,9 +95,9 @@
       "paar": "EUR/JPY",
       "baseScore": 2,
       "tiltCot": -2,
-      "tiltZins": 4,
-      "tiltGesamt": 2,
-      "score": 4,
+      "tiltZins": 3,
+      "tiltGesamt": 1,
+      "score": 3,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

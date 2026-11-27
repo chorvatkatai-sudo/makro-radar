@@ -1,33 +1,33 @@
 {
-  "stand": "2026-11-27T06:21:30.915Z",
+  "stand": "2026-11-27T14:17:07.159Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
-    "faelle": 51,
+    "faelle": 52,
     "treffer": 28,
-    "quote": 55,
-    "schnittGerichtet": 0.049,
+    "quote": 54,
+    "schnittGerichtet": 0.042,
     "schnittBetrag": 0.302,
-    "pWert": 0.576,
+    "pWert": 0.678,
     "belastbar": false
   },
   "gesamtRoh": {
-    "faelle": 95,
+    "faelle": 96,
     "treffer": 52,
-    "quote": 55,
-    "schnittGerichtet": 0.049,
+    "quote": 54,
+    "schnittGerichtet": 0.045,
     "schnittBetrag": 0.326,
-    "pWert": 0.412,
+    "pWert": 0.475,
     "belastbar": false
   },
   "jeWaehrung": {
     "USD": {
-      "faelle": 17,
+      "faelle": 18,
       "treffer": 8,
-      "quote": 47,
-      "schnittGerichtet": 0.013,
-      "schnittBetrag": 0.298,
-      "pWert": 1,
+      "quote": 44,
+      "schnittGerichtet": -0.003,
+      "schnittBetrag": 0.297,
+      "pWert": 0.815,
       "belastbar": false
     },
     "CAD": {
@@ -87,22 +87,22 @@
       "belastbar": false
     },
     "Wachstum & Konsum": {
-      "faelle": 10,
+      "faelle": 11,
       "treffer": 3,
-      "quote": 30,
-      "schnittGerichtet": -0.02,
-      "schnittBetrag": 0.301,
-      "pWert": 0.344,
+      "quote": 27,
+      "schnittGerichtet": -0.044,
+      "schnittBetrag": 0.299,
+      "pWert": 0.227,
       "belastbar": false
     }
   },
   "jeWaehrungRoh": {
     "USD": {
-      "faelle": 40,
+      "faelle": 41,
       "treffer": 20,
-      "quote": 50,
-      "schnittGerichtet": 0.01,
-      "schnittBetrag": 0.312,
+      "quote": 49,
+      "schnittGerichtet": 0.003,
+      "schnittBetrag": 0.311,
       "pWert": 1,
       "belastbar": false
     },
@@ -144,15 +144,6 @@
     }
   },
   "letzte": [
-    {
-      "datum": "2026-10-27",
-      "land": "NZD",
-      "titel": "Official Cash Rate",
-      "ueberraschung": "niedriger",
-      "erwartet": "schwächer",
-      "bewegung": 0.389,
-      "wieErwartet": false
-    },
     {
       "datum": "2026-10-29",
       "land": "USD",
@@ -233,6 +224,15 @@
       "erwartet": "stärker",
       "bewegung": 0.371,
       "wieErwartet": true
+    },
+    {
+      "datum": "2026-11-25",
+      "land": "USD",
+      "titel": "Prelim GDP q/q",
+      "ueberraschung": "hoeher",
+      "erwartet": "stärker",
+      "bewegung": -0.284,
+      "wieErwartet": false
     }
   ]
 }

@@ -190,31 +190,11 @@
     "quelle": "tradingview"
   },
   {
-    "date": "2026-11-30T07:00:00.000Z",
-    "country": "GBP",
-    "title": "Nationwide Housing Prices YoY",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "0.5%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
-    "date": "2026-11-30T07:00:00.000Z",
-    "country": "GBP",
-    "title": "Nationwide Housing Prices MoM",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": "0%",
-    "actual": null,
-    "quelle": "tradingview"
-  },
-  {
     "date": "2026-11-30T08:00:00.000Z",
     "country": "CHF",
     "title": "KOF Leading Indicators",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "108",
     "previous": "107.6",
     "actual": null,
     "quelle": "tradingview"
@@ -244,7 +224,7 @@
     "country": "CHF",
     "title": "GDP Growth Rate QoQ Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0%",
     "previous": "1.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -264,7 +244,7 @@
     "country": "GBP",
     "title": "BoE Consumer Credit",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.9 £",
     "previous": "1.914 £",
     "actual": null,
     "quelle": "tradingview"
@@ -294,7 +274,7 @@
     "country": "GBP",
     "title": "Mortgage Approvals",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "53",
     "previous": "53.443",
     "actual": null,
     "quelle": "tradingview"
@@ -324,7 +304,7 @@
     "country": "CAD",
     "title": "Monthly GDP MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "-0.1%",
     "previous": "0%",
     "actual": null,
     "quelle": "tradingview"
@@ -334,7 +314,7 @@
     "country": "CAD",
     "title": "GDP Growth Rate Annualized",
     "impact": "High",
-    "forecast": "",
+    "forecast": "1.5%",
     "previous": "3.3%",
     "actual": null,
     "quelle": "tradingview"
@@ -594,7 +574,7 @@
     "country": "AUD",
     "title": "Current Account",
     "impact": "Low",
-    "forecast": "-26.2 A$",
+    "forecast": "-25.5 A$",
     "previous": "-27.2 A$",
     "actual": null,
     "quelle": "tradingview"
@@ -604,7 +584,7 @@
     "country": "AUD",
     "title": "Net Exports Contribution to GDP",
     "impact": "Low",
-    "forecast": "-0.2%",
+    "forecast": "-0.1%",
     "previous": "0.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -614,7 +594,7 @@
     "country": "AUD",
     "title": "Australia-Building permits-Building Approvals",
     "impact": "Low",
-    "forecast": "-5.3%",
+    "forecast": "-3.6%",
     "previous": "5.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -650,6 +630,26 @@
     "quelle": "tradingview"
   },
   {
+    "date": "2026-12-01T07:00:00.000Z",
+    "country": "GBP",
+    "title": "Nationwide Housing Prices YoY",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "0.5%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
+    "date": "2026-12-01T07:00:00.000Z",
+    "country": "GBP",
+    "title": "Nationwide Housing Prices MoM",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": "0%",
+    "actual": null,
+    "quelle": "tradingview"
+  },
+  {
     "date": "2026-12-01T07:30:00.000Z",
     "country": "CHF",
     "title": "Retail Sales YoY",
@@ -674,7 +674,7 @@
     "country": "CHF",
     "title": "procure.ch Manufacturing PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "56.5",
     "previous": "56.7",
     "actual": null,
     "quelle": "tradingview"
@@ -684,7 +684,7 @@
     "country": "EUR",
     "title": "S&P Global Manufacturing PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52.9",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -694,7 +694,7 @@
     "country": "GBP",
     "title": "S&P Global Manufacturing PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52.7",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -724,7 +724,7 @@
     "country": "EUR",
     "title": "Core Inflation Rate YoY Flash",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "2.6%",
     "previous": "2.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -744,7 +744,7 @@
     "country": "EUR",
     "title": "Inflation Rate YoY Flash",
     "impact": "High",
-    "forecast": "4%",
+    "forecast": "3.9%",
     "previous": "4%",
     "actual": null,
     "quelle": "tradingview"
@@ -814,7 +814,7 @@
     "country": "USD",
     "title": "Construction Spending MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "-1.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -854,7 +854,7 @@
     "country": "USD",
     "title": "ISM Manufacturing PMI",
     "impact": "High",
-    "forecast": "55.2",
+    "forecast": "55.1",
     "previous": "55.5",
     "actual": null,
     "quelle": "tradingview"
@@ -864,7 +864,7 @@
     "country": "USD",
     "title": "JOLTs Job Openings",
     "impact": "High",
-    "forecast": "",
+    "forecast": "7.475",
     "previous": "7.523",
     "actual": null,
     "quelle": "tradingview"
@@ -1144,7 +1144,7 @@
     "country": "CHF",
     "title": "Inflation Rate MoM",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-0.2%",
     "previous": "0.2%",
     "actual": null,
     "quelle": "tradingview"
@@ -1164,7 +1164,7 @@
     "country": "CHF",
     "title": "Inflation Rate YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "1.5%",
     "previous": "1.5%",
     "actual": null,
     "quelle": "tradingview"
@@ -1294,7 +1294,7 @@
     "country": "USD",
     "title": "ADP Employment Change",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "82",
     "previous": "86",
     "actual": null,
     "quelle": "tradingview"
@@ -1534,7 +1534,7 @@
     "country": "AUD",
     "title": "Balance of Trade",
     "impact": "High",
-    "forecast": "1.522 A$",
+    "forecast": "1.561 A$",
     "previous": "2.826 A$",
     "actual": null,
     "quelle": "tradingview"
@@ -1574,7 +1574,7 @@
     "country": "EUR",
     "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "51.7",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -1584,7 +1584,7 @@
     "country": "EUR",
     "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "51.2",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -1594,7 +1594,7 @@
     "country": "GBP",
     "title": "S&P Global Composite PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52.3",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -1604,7 +1604,7 @@
     "country": "GBP",
     "title": "S&P Global Services PMI Final",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "52",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -1665,7 +1665,7 @@
     "title": "USDA Beef Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "4.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1675,7 +1675,7 @@
     "title": "USDA Beef Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "6.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1685,7 +1685,7 @@
     "title": "USDA Corn Net Export Sales Next Year",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1695,7 +1695,7 @@
     "title": "USDA Corn Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1927.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1705,7 +1705,7 @@
     "title": "USDA Soybean Meal Net Export Sales Next Year",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "3.1",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1715,7 +1715,7 @@
     "title": "USDA Soybean Meal Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "543.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1725,7 +1725,7 @@
     "title": "USDA Soybean Meal Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "546.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1735,7 +1735,7 @@
     "title": "USDA Corn Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1927.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1745,7 +1745,7 @@
     "title": "USDA Corn Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "1964.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1755,7 +1755,7 @@
     "title": "United States-ExportSales-Soybn Oil Exp Sls Nxt Yr Net *",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1765,7 +1765,7 @@
     "title": "USDA Soybean Oil Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1775,7 +1775,7 @@
     "title": "USDA Soybean Oil Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1785,7 +1785,7 @@
     "title": "USDA Pork Net Export Sales",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "34.6",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1795,7 +1795,7 @@
     "title": "USDA Pork Gross Export Sales",
     "impact": "Medium",
     "forecast": "",
-    "previous": "",
+    "previous": "36.5",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1805,7 +1805,7 @@
     "title": "USDA Soybean Net Export Sales Next Year",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "2.2",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1815,7 +1815,7 @@
     "title": "USDA Soybean Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "755.8",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1825,7 +1825,7 @@
     "title": "USDA Soybean Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "844.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1835,7 +1835,7 @@
     "title": "USDA Soybean Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "758",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1845,7 +1845,7 @@
     "title": "USDA Upland Cotton Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "330.3",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1855,7 +1855,7 @@
     "title": "USDA Upland Cotton Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "342.9",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1865,7 +1865,7 @@
     "title": "USDA Wheat Net Export Sales Next Year",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "0",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1875,7 +1875,7 @@
     "title": "USDA Wheat Net Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "564.7",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1885,7 +1885,7 @@
     "title": "USDA Wheat Gross Export Sales",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "588",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1895,7 +1895,7 @@
     "title": "USDA Wheat Net Export Sales Total",
     "impact": "Low",
     "forecast": "",
-    "previous": "",
+    "previous": "564.7",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -1914,7 +1914,7 @@
     "country": "USD",
     "title": "Initial Jobless Claims",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "195",
     "previous": "189",
     "actual": null,
     "quelle": "tradingview"
@@ -2044,7 +2044,7 @@
     "country": "USD",
     "title": "Factory Orders MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.5%",
     "previous": "1.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -2174,7 +2174,7 @@
     "country": "GBP",
     "title": "S&P Global Construction PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "45",
     "previous": "",
     "actual": null,
     "quelle": "tradingview"
@@ -2184,7 +2184,7 @@
     "country": "EUR",
     "title": "Retail Sales MoM",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "0.5%",
     "previous": "-0.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -2194,7 +2194,7 @@
     "country": "EUR",
     "title": "Retail Sales YoY",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "0.4%",
     "previous": "0.4%",
     "actual": null,
     "quelle": "tradingview"
@@ -2214,7 +2214,7 @@
     "country": "USD",
     "title": "Average Hourly Earnings YoY",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3%",
     "previous": "3.1%",
     "actual": null,
     "quelle": "tradingview"
@@ -2304,7 +2304,7 @@
     "country": "CAD",
     "title": "Employment Change",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "20",
     "previous": "-4.7",
     "actual": null,
     "quelle": "tradingview"
@@ -2344,7 +2344,7 @@
     "country": "CAD",
     "title": "Unemployment Rate",
     "impact": "High",
-    "forecast": "",
+    "forecast": "6.6%",
     "previous": "6.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -2404,7 +2404,7 @@
     "country": "USD",
     "title": "Michigan Consumer Sentiment Prel",
     "impact": "High",
-    "forecast": "51.8",
+    "forecast": "52.9",
     "previous": "51",
     "actual": null,
     "quelle": "tradingview"

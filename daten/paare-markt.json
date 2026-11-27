@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-27T01:36:49.470Z",
+  "stand": "2026-11-27T06:11:14.697Z",
   "ausBriefing": "2026-11-20",
   "overlayAktiv": true,
   "paare": [
@@ -49,13 +49,13 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 4,
+      "baseScore": 3,
       "tiltCot": 3,
       "tiltZins": -3,
       "tiltGesamt": 0,
-      "score": 4,
+      "score": 3,
       "cotExtrem": null,
-      "treiber": "Klarster Dollar-Long: Öl unter 80 Dollar, kühle kanadische Inflation und die anhaltende Risiko-Flucht in den Dollar treffen den Loonie.",
+      "treiber": "Dollar-Long, aber kleiner als zuletzt: Kühle kanadische Inflation und Risiko-Stimmung treffen den Loonie, doch das wieder gestiegene Öl (~85$) stützt ihn etwas.",
       "istCross": false
     },
     {

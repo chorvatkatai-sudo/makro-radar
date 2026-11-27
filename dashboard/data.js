@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-27T01:36:49.914Z",
+ "erstellt": "2026-11-27T06:21:30.917Z",
  "wochenStart": "2026-11-22",
  "events": [
   {
@@ -732,7 +732,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Retail Sales YoY",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "2.7%",
    "previous": "2.4%",
    "actual": null,
    "quelle": "tradingview"
@@ -742,7 +742,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Industrial Production MoM Prel",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "2.2%",
    "previous": "2.2%",
    "actual": null,
    "quelle": "tradingview"
@@ -782,7 +782,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Business Inventories QoQ",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-0.4%",
    "previous": "-0.2%",
    "actual": null,
    "quelle": "tradingview"
@@ -802,7 +802,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Company Gross Profits QoQ",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "1.5%",
    "previous": "1.8%",
    "actual": null,
    "quelle": "tradingview"
@@ -882,7 +882,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Housing Starts YoY",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "-6.9%",
    "previous": "-2.7%",
    "actual": null,
    "quelle": "tradingview"
@@ -1212,7 +1212,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Jobs/applications ratio",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1.19",
    "previous": "1.19",
    "actual": null,
    "quelle": "tradingview"
@@ -1222,7 +1222,7 @@ window.MAKRO_DATA = {
    "country": "JPY",
    "title": "Unemployment Rate",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "2.4%",
    "previous": "2.4%",
    "actual": null,
    "quelle": "tradingview"
@@ -1292,7 +1292,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Current Account",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-26.2 A$",
    "previous": "-27.2 A$",
    "actual": null,
    "quelle": "tradingview"
@@ -1302,7 +1302,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Net Exports Contribution to GDP",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-0.2%",
    "previous": "0.1%",
    "actual": null,
    "quelle": "tradingview"
@@ -1312,7 +1312,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Australia-Building permits-Building Approvals",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-5.3%",
    "previous": "5.1%",
    "actual": null,
    "quelle": "tradingview"
@@ -1812,7 +1812,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "GDP Growth Rate QoQ",
    "impact": "High",
-   "forecast": "",
+   "forecast": "0.5%",
    "previous": "0.4%",
    "actual": null,
    "quelle": "tradingview"
@@ -1822,7 +1822,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "GDP Growth Rate YoY",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "2.1%",
    "previous": "2.1%",
    "actual": null,
    "quelle": "tradingview"
@@ -2232,7 +2232,7 @@ window.MAKRO_DATA = {
    "country": "AUD",
    "title": "Balance of Trade",
    "impact": "High",
-   "forecast": "",
+   "forecast": "1.522 A$",
    "previous": "2.826 A$",
    "actual": null,
    "quelle": "tradingview"
@@ -3189,8 +3189,8 @@ window.MAKRO_DATA = {
    },
    "CAD": {
     "stimmung": "bärisch",
-    "score": -4,
-    "grund": "Klarster Nicht-Dollar-Verlierer: Öl fiel −3,7%, die Inflation kam kühler (3,1%, Kern nahe 1,8%) und die Risiko-Flucht belastet den rohstoffnahen Loonie zusätzlich."
+    "score": -3,
+    "grund": "Weiter Nicht-Dollar-Verlierer, aber abgefedert: Die Inflation kam kühler (3,1%, Kern nahe 1,8%) und die Risiko-Stimmung belastet den rohstoffnahen Loonie — doch das Öl erholte sich diese Woche (WTI ~85$, +rund 2% nach −3,7% in der Vorwoche), was den Gegenwind mildert."
    },
    "AUD": {
     "stimmung": "neutral",
@@ -3226,8 +3226,8 @@ window.MAKRO_DATA = {
    },
    {
     "paar": "USD/CAD",
-    "score": 4,
-    "treiber": "Klarster Dollar-Long: Öl unter 80 Dollar, kühle kanadische Inflation und die anhaltende Risiko-Flucht in den Dollar treffen den Loonie."
+    "score": 3,
+    "treiber": "Dollar-Long, aber kleiner als zuletzt: Kühle kanadische Inflation und Risiko-Stimmung treffen den Loonie, doch das wieder gestiegene Öl (~85$) stützt ihn etwas."
    },
    {
     "paar": "USD/CHF",
@@ -3305,19 +3305,20 @@ window.MAKRO_DATA = {
    "Klumpen-Bewusstsein: 6 von 7 Paaren zeigen diese Woche dollar-stark — das ist im Kern EINE Wette. Gerechtfertigt, weil es eine echte Angst-Dollar-Woche ist, aber bewusst aufgelockert: USD/JPY nur +1 (Interventions-Cap + Yen-Hafen-Bid), USD/CAD mit eigener Öl-Geschichte, EUR/AUD/NZD durch Rekord-Short-Squeeze gebremst."
   ],
   "tagesnews": {
-   "stand": "2026-11-26",
-   "wochentag": "Donnerstag",
-   "tenor": "US-Inflation kam gestern heiß und das US-Wachstum wurde kräftig nach oben revidiert — die Dezember-Zinserhöhung ist so gut wie sicher, der Dollar bleibt stark; heute ruht der US-Handel (Feiertag).",
+   "stand": "2026-11-27",
+   "wochentag": "Freitag",
+   "tenor": "Ruhiger halber Handelstag nach dem US-Feiertag: Die Börsen-Angst der Vorwoche lässt nach, der Dollar hält aber sein Hoch — die Dezember-Zinserhöhung gilt als fast sicher.",
    "heute": [
-    "🦃 US-Feiertag (Thanksgiving): Die US-Börsen und der Anleihemarkt sind heute geschlossen, morgen (Freitag) nur halber Handelstag. Es stehen keine großen Zahlen mehr an — die Woche ist faktisch gelaufen, der Handel bleibt dünn und ruhig.",
-    "💵 Nach den starken US-Daten von gestern hält sich der Dollar nahe seinem 19-Monats-Hoch (Dollar-Index ~103,7). Die Dezember-Zinserhöhung der US-Notenbank ist mit rund 95% so gut wie sicher; am dünnen Feiertagsmarkt ist kaum mit großen Bewegungen zu rechnen.",
-    "📉 Das Börsen-Angstbarometer bleibt mit ~28 erhöht (normal wären ~17) — die KI-/Technologie-Nervosität ist noch nicht ausgestanden. Gold (~3.590 Dollar) und Bitcoin (~60.000 Dollar) bleiben schwach, Gold ist diesmal kein sicherer Hafen."
+    "🦃 Nach dem Feiertag nur ein halber Handelstag (Black Friday): dünner, ruhiger Handel, keine großen Zahlen mehr — die Woche ist faktisch gelaufen.",
+    "💵 Der Dollar hält sich nahe seinem 19-Monats-Hoch (Dollar-Index ~103,8). Nach der heißen Inflation vom Mittwoch gilt die Dezember-Zinserhöhung der US-Notenbank als fast sicher (rund 97%). Euro/Dollar klebt nahe dem Ein-Jahres-Tief bei ~1,096.",
+    "😌 Die Börsen-Angst der Vorwoche lässt nach: Das Angstbarometer fiel von ~31 auf ~27, die Aktienmärkte haben sich erholt. Gold (~3.600 Dollar) kam etwas von seinem Tief zurück (+2% auf die Woche), bleibt aber schwach; Bitcoin hängt unter 62.000."
    ],
    "gestern": [
-    "💵 Die große US-Inflationszahl kam HEISS: Das Kern-PCE (das Lieblings-Maß der US-Notenbank) stieg im Oktober auf 3,3% im Jahr (erwartet 3,2%, höchster Stand seit fast drei Jahren), im Monat +0,3% wie erwartet. Das besiegelt die Dezember-Zinserhöhung praktisch.",
-    "📈 Überraschung beim Wachstum: Die US-Wirtschaft legte im dritten Quartal um 4,3% zu (hochgerechnet aufs Jahr) — kräftig nach oben revidiert von zunächst 3,4% und klar über den erwarteten ~3,5%. Die Konjunktur läuft deutlich besser als gedacht.",
-    "🏭 Langlebige Güter (ein Industrie-Frühindikator) stiegen im Oktober nur +0,2% im Monat und blieben damit unter der Erwartung (~0,6%) — der Kern (Investitionsgüter ohne Flugzeuge/Rüstung) war mit +1,2% aber stark.",
-    "💵 Trotz der starken Daten legte der Dollar nur moderat zu (Dollar-Index ~+0,1% auf ~103,8) — die Zinserhöhung war längst eingepreist, deshalb blieb das Feuerwerk aus. Euro/Dollar rutschte Richtung 1,096."
+    "🦃 Donnerstag war US-Feiertag (Thanksgiving) — Börsen und Anleihemarkt geschlossen, kaum Bewegung.",
+    "💵 Wochen-Höhepunkt am Mittwoch: Die US-Kern-Inflation (das Lieblings-Maß der Notenbank) kam mit 3,3% im Jahr HEISS (erwartet 3,2%, höchster Stand seit fast drei Jahren), im Monat +0,3% wie erwartet — das besiegelte die Dezember-Zinserhöhung praktisch.",
+    "📈 Zugleich wurde das US-Wachstum kräftig nach oben revidiert: +4,3% im dritten Quartal (zunächst nur 3,4%, erwartet ~3,5%). Die Konjunktur läuft deutlich besser als gedacht.",
+    "🏭 Die langlebigen Güter (ein Industrie-Frühindikator) stiegen im Oktober nur +0,2% und blieben unter der Erwartung (~0,6%) — der Kern war mit +1,2% aber stark.",
+    "🛢️ Das Öl hat sich diese Woche erholt (WTI ~85 Dollar, rund +2%) — anders als in der Vorwoche (−3,7%). Das nimmt etwas Druck vom kanadischen Dollar."
    ]
   }
  },
@@ -3786,15 +3787,15 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-27T01:36:49.146Z",
+  "stand": "2026-11-27T06:21:30.013Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
     "einheit": "",
     "typ": "index",
-    "wert": 103.81,
+    "wert": 103.69,
     "tagProzent": 0,
-    "wocheProzent": 0,
+    "wocheProzent": -0.11,
     "renditeDelta": false,
     "verlauf": [
      102.04,
@@ -3817,8 +3818,8 @@ window.MAKRO_DATA = {
      104.32,
      103.81,
      103.67,
-     103.81,
-     103.81
+     103.69,
+     103.69
     ]
    },
    "VIX": {
@@ -3858,9 +3859,9 @@ window.MAKRO_DATA = {
     "name": "Öl WTI",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 85.44,
+    "wert": 86.32,
     "tagProzent": 0,
-    "wocheProzent": 1.74,
+    "wocheProzent": 2.79,
     "renditeDelta": false,
     "verlauf": [
      102,
@@ -3883,17 +3884,17 @@ window.MAKRO_DATA = {
      80.17,
      82.05,
      83.68,
-     85.44,
-     85.44
+     86.32,
+     86.32
     ]
    },
    "Brent": {
     "name": "Öl Brent",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 92.09,
+    "wert": 92.61,
     "tagProzent": 0,
-    "wocheProzent": -0.52,
+    "wocheProzent": 0.04,
     "renditeDelta": false,
     "verlauf": [
      114.88,
@@ -3916,17 +3917,17 @@ window.MAKRO_DATA = {
      89.37,
      91.4,
      94.61,
-     92.09,
-     92.09
+     92.61,
+     92.61
     ]
    },
    "Gold": {
     "name": "Gold",
     "einheit": "$",
     "typ": "rohstoff",
-    "wert": 3602.7,
+    "wert": 3674.2,
     "tagProzent": 0,
-    "wocheProzent": 2.48,
+    "wocheProzent": 4.52,
     "renditeDelta": false,
     "verlauf": [
      4031.4,
@@ -3949,8 +3950,8 @@ window.MAKRO_DATA = {
      3651.4,
      3561.9,
      3535.8,
-     3602.7,
-     3602.7
+     3674.2,
+     3674.2
     ]
    },
    "US02Y": {
@@ -4056,9 +4057,9 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 60656.74,
+    "wert": 61739.04,
     "tagProzent": 0,
-    "wocheProzent": -0.83,
+    "wocheProzent": 0.94,
     "renditeDelta": false,
     "verlauf": [
      75746.93,
@@ -4081,8 +4082,8 @@ window.MAKRO_DATA = {
      61210.98,
      59747.77,
      60378.2,
-     60656.74,
-     60656.74
+     61739.04,
+     61739.04
     ]
    },
    "FEDFUT": {
@@ -4214,8 +4215,8 @@ window.MAKRO_DATA = {
    "stand": "2026-11-27",
    "werte": {
     "USD": {
-     "wert": 4.668,
-     "wocheDelta": -0.138
+     "wert": 4.689,
+     "wocheDelta": -0.117
     },
     "EUR": {
      "wert": 3.096,
@@ -4226,12 +4227,12 @@ window.MAKRO_DATA = {
      "wocheDelta": -0.143
     },
     "JPY": {
-     "wert": 1.75,
-     "wocheDelta": -0.12
+     "wert": 1.761,
+     "wocheDelta": -0.109
     },
     "AUD": {
-     "wert": 4.703,
-     "wocheDelta": -0.212
+     "wert": 4.725,
+     "wocheDelta": -0.19
     },
     "CAD": {
      "wert": 3.241,
@@ -4242,8 +4243,8 @@ window.MAKRO_DATA = {
      "wocheDelta": 0.059
     },
     "NZD": {
-     "wert": 3.818,
-     "wocheDelta": -0.157
+     "wert": 3.875,
+     "wocheDelta": -0.1
     }
    },
    "quelle": "TradingView-Scanner (2J-Staatsanleihen, EUR=DE); Fallbacks: Yahoo/ECB/BoC"
@@ -4260,9 +4261,9 @@ window.MAKRO_DATA = {
    "paar": "EUR/USD",
    "baseScore": -2,
    "tiltCot": -2,
-   "tiltZins": 5,
-   "tiltGesamt": 3,
-   "score": 1,
+   "tiltZins": 4,
+   "tiltGesamt": 2,
+   "score": 0,
    "cotExtrem": "extrem",
    "treiber": "Fester Dollar in der Angst-Woche (19-Monats-Hoch, Flucht ins Bargeld) gegen den Euro; die Rekord-Euro-Short-Wette federt den Rückgang spürbar ab.",
    "istCross": false
@@ -4302,22 +4303,22 @@ window.MAKRO_DATA = {
   },
   {
    "paar": "USD/CAD",
-   "baseScore": 4,
+   "baseScore": 3,
    "tiltCot": 3,
-   "tiltZins": -3,
-   "tiltGesamt": 0,
+   "tiltZins": -2,
+   "tiltGesamt": 1,
    "score": 4,
    "cotExtrem": null,
-   "treiber": "Klarster Dollar-Long: Öl unter 80 Dollar, kühle kanadische Inflation und die anhaltende Risiko-Flucht in den Dollar treffen den Loonie.",
+   "treiber": "Dollar-Long, aber kleiner als zuletzt: Kühle kanadische Inflation und Risiko-Stimmung treffen den Loonie, doch das wieder gestiegene Öl (~85$) stützt ihn etwas.",
    "istCross": false
   },
   {
    "paar": "USD/CHF",
    "baseScore": 3,
    "tiltCot": 1,
-   "tiltZins": -8,
-   "tiltGesamt": -7,
-   "score": -4,
+   "tiltZins": -7,
+   "tiltGesamt": -6,
+   "score": -3,
    "cotExtrem": null,
    "treiber": "Der Dollar gewann das Hafen-Rennen — die Sicherheits-Flucht landete im Dollar statt im Franken.",
    "istCross": false
@@ -4359,9 +4360,9 @@ window.MAKRO_DATA = {
    "paar": "AUD/NZD",
    "baseScore": 2,
    "tiltCot": 0,
-   "tiltZins": -2,
-   "tiltGesamt": -2,
-   "score": 0,
+   "tiltZins": -4,
+   "tiltGesamt": -4,
+   "score": -2,
    "cotExtrem": "extrem",
    "treiber": "",
    "istCross": true
@@ -4379,7 +4380,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-27T01:36:49.478Z",
+  "stand": "2026-11-27T06:21:30.594Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 91,
   "gewertet": 42,
@@ -4495,7 +4496,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-27T01:36:49.913Z",
+  "stand": "2026-11-27T06:21:30.915Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4734,13 +4735,37 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-27T01:36:49.468Z",
+  "stand": "2026-11-27T06:21:30.581Z",
   "quellen": [
    "ForexLive",
    "FXStreet",
    "Fed"
   ],
   "eintraege": [
+   {
+    "quelle": "ForexLive",
+    "titel": "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds",
+    "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-6-7-as-risk-appetite-returns-gold-rebounds/",
+    "datum": "2026-11-27T04:45:15.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China's industrial profits jump 20.1% in October as electronics do the heavy lifting",
+    "link": "https://investinglive.com/news/china-s-industrial-profits-jump-20-1-in-october-as-electronics-do-the-heavy-lifting/",
+    "datum": "2026-11-27T02:51:29.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "China's industrial profits growth speeds up to 20.1% y/y in October",
+    "link": "https://investinglive.com/news/china-s-industrial-profits-growth-speeds-up-to-20-1-y-y-in-october/",
+    "datum": "2026-11-27T01:36:10.000Z"
+   },
+   {
+    "quelle": "ForexLive",
+    "titel": "Kiwi edges higher as official NZ election count confirms a hung parliament",
+    "link": "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
+    "datum": "2026-11-27T01:24:33.000Z"
+   },
    {
     "quelle": "ForexLive",
     "titel": "Tokyo November core CPI rises to 2.9% y/y, just shy of 3.0% expected",
@@ -4790,18 +4815,6 @@ window.MAKRO_DATA = {
     "datum": "2026-11-26T05:01:31.000Z"
    },
    {
-    "quelle": "ForexLive",
-    "titel": "Australia's data centre boom drives the biggest capex jump in years, near mining-boom highs",
-    "link": "https://investinglive.com/news/australia-s-data-centre-boom-drives-the-biggest-capex-jump-in-years-near-mining-boom-highs/",
-    "datum": "2026-11-26T00:41:31.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses",
-    "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-25-nov-it-s-a-wrap-s-p-500-and-nasdaq-pare-steep-losses/",
-    "datum": "2026-11-25T21:47:09.000Z"
-   },
-   {
     "quelle": "Fed",
     "titel": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
@@ -4812,18 +4825,6 @@ window.MAKRO_DATA = {
     "titel": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
     "datum": "2026-11-25T20:00:00.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "Trump blames the election for the selloff. Here’s what I’m watching.",
-    "link": "https://investinglive.com/news/trump-blames-the-election-for-the-selloff-here-s-what-i-m-watching/",
-    "datum": "2026-11-25T17:46:49.000Z"
-   },
-   {
-    "quelle": "ForexLive",
-    "titel": "US treasury sells $44 billion of 7-year notes at a high yield of 4.708%",
-    "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-70-or-notes-at-a-high-yield-of-4-708/",
-    "datum": "2026-11-25T16:54:10.000Z"
    },
    {
     "quelle": "Fed",

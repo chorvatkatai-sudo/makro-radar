@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-27T01:36:49.470Z",
+  "stand": "2026-11-27T06:21:30.584Z",
   "ausBriefing": "2026-11-20",
   "overlayAktiv": true,
   "paare": [
@@ -7,9 +7,9 @@
       "paar": "EUR/USD",
       "baseScore": -2,
       "tiltCot": -2,
-      "tiltZins": 5,
-      "tiltGesamt": 3,
-      "score": 1,
+      "tiltZins": 4,
+      "tiltGesamt": 2,
+      "score": 0,
       "cotExtrem": "extrem",
       "treiber": "Fester Dollar in der Angst-Woche (19-Monats-Hoch, Flucht ins Bargeld) gegen den Euro; die Rekord-Euro-Short-Wette federt den Rückgang spürbar ab.",
       "istCross": false
@@ -49,22 +49,22 @@
     },
     {
       "paar": "USD/CAD",
-      "baseScore": 4,
+      "baseScore": 3,
       "tiltCot": 3,
-      "tiltZins": -3,
-      "tiltGesamt": 0,
+      "tiltZins": -2,
+      "tiltGesamt": 1,
       "score": 4,
       "cotExtrem": null,
-      "treiber": "Klarster Dollar-Long: Öl unter 80 Dollar, kühle kanadische Inflation und die anhaltende Risiko-Flucht in den Dollar treffen den Loonie.",
+      "treiber": "Dollar-Long, aber kleiner als zuletzt: Kühle kanadische Inflation und Risiko-Stimmung treffen den Loonie, doch das wieder gestiegene Öl (~85$) stützt ihn etwas.",
       "istCross": false
     },
     {
       "paar": "USD/CHF",
       "baseScore": 3,
       "tiltCot": 1,
-      "tiltZins": -8,
-      "tiltGesamt": -7,
-      "score": -4,
+      "tiltZins": -7,
+      "tiltGesamt": -6,
+      "score": -3,
       "cotExtrem": null,
       "treiber": "Der Dollar gewann das Hafen-Rennen — die Sicherheits-Flucht landete im Dollar statt im Franken.",
       "istCross": false
@@ -106,9 +106,9 @@
       "paar": "AUD/NZD",
       "baseScore": 2,
       "tiltCot": 0,
-      "tiltZins": -2,
-      "tiltGesamt": -2,
-      "score": 0,
+      "tiltZins": -4,
+      "tiltGesamt": -4,
+      "score": -2,
       "cotExtrem": "extrem",
       "treiber": "",
       "istCross": true

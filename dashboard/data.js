@@ -1,5 +1,5 @@
 window.MAKRO_DATA = {
- "erstellt": "2026-11-28T06:09:14.999Z",
+ "erstellt": "2026-11-28T13:48:33.208Z",
  "wochenStart": "2026-11-22",
  "events": [
   {
@@ -3836,7 +3836,7 @@ window.MAKRO_DATA = {
   ]
  },
  "marktdaten": {
-  "stand": "2026-11-28T01:16:53.710Z",
+  "stand": "2026-11-28T13:48:32.166Z",
   "kurse": {
    "DXY": {
     "name": "US-Dollar-Index",
@@ -3942,7 +3942,7 @@ window.MAKRO_DATA = {
     "einheit": "$",
     "typ": "rohstoff",
     "wert": 90.84,
-    "tagProzent": 0,
+    "tagProzent": -4.82,
     "wocheProzent": -1.87,
     "renditeDelta": false,
     "verlauf": [
@@ -3966,7 +3966,7 @@ window.MAKRO_DATA = {
      89.37,
      91.4,
      94.61,
-     90.84,
+     95.44,
      90.84
     ]
    },
@@ -3975,7 +3975,7 @@ window.MAKRO_DATA = {
     "einheit": "$",
     "typ": "rohstoff",
     "wert": 3668.5,
-    "tagProzent": 0,
+    "tagProzent": 0.79,
     "wocheProzent": 4.36,
     "renditeDelta": false,
     "verlauf": [
@@ -3999,7 +3999,7 @@ window.MAKRO_DATA = {
      3651.4,
      3561.9,
      3535.8,
-     3668.5,
+     3639.6,
      3668.5
     ]
    },
@@ -4106,12 +4106,11 @@ window.MAKRO_DATA = {
     "name": "Bitcoin",
     "einheit": "$",
     "typ": "krypto",
-    "wert": 60035.56,
+    "wert": 58984.63,
     "tagProzent": 0,
-    "wocheProzent": -1.92,
+    "wocheProzent": -1.28,
     "renditeDelta": false,
     "verlauf": [
-     75747.58,
      74584.65,
      75223.15,
      73720.12,
@@ -4131,8 +4130,9 @@ window.MAKRO_DATA = {
      59747.77,
      60378.2,
      60494.71,
-     60035.56,
-     60035.56
+     59866.37,
+     58984.63,
+     58984.63
     ]
    },
    "FEDFUT": {
@@ -4140,7 +4140,7 @@ window.MAKRO_DATA = {
     "einheit": "%",
     "typ": "rendite",
     "wert": 4.14,
-    "tagProzent": 0,
+    "tagProzent": 0.26,
     "wocheProzent": 0.26,
     "renditeDelta": true,
     "verlauf": [
@@ -4164,7 +4164,7 @@ window.MAKRO_DATA = {
      3.88,
      3.88,
      3.88,
-     4.14,
+     3.88,
      4.14
     ],
     "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"
@@ -4429,7 +4429,7 @@ window.MAKRO_DATA = {
   }
  ],
  "zahlenBilanz": {
-  "stand": "2026-11-28T06:09:14.998Z",
+  "stand": "2026-11-28T13:48:32.460Z",
   "hinweis": "Track-Record der ZAHLEN-Prognosen (kam der Wert höher/niedriger als der Konsens?). 'exakt' = maschinenlesbares Feld im Briefing; 'textdeutung' = vorsichtige Klassifikation des ersten Satzes, nur bei eindeutigem Call.",
   "gefunden": 95,
   "gewertet": 43,
@@ -4545,7 +4545,7 @@ window.MAKRO_DATA = {
   ]
  },
  "eventReaktion": {
-  "stand": "2026-11-28T01:16:55.493Z",
+  "stand": "2026-11-28T13:48:33.207Z",
   "hinweis": "Reagiert die Währung nach einer Datenüberraschung so, wie das Lehrbuch sagt? Fenster = letztes ECB-Fixing vor dem Release bis zum ersten danach. BEWUSST nur aggregiert (je Event-Titel gibt es höchstens 3 Fälle — das wäre keine belastbare Aussage). MASSGEBLICH ist 'gesamt' (entdupliziert): mehrere Zahlen derselben Veröffentlichung teilen sich eine Kursbewegung und dürfen nicht mehrfach zählen.",
   "fenstererklaerung": "ECB-Fixing ~14:15 Wiener Zeit; Releases danach werden gegen das Fixing des Folgetags gemessen.",
   "gesamt": {
@@ -4784,7 +4784,7 @@ window.MAKRO_DATA = {
  },
  "sentiment": null,
  "news": {
-  "stand": "2026-11-28T01:16:54.141Z",
+  "stand": "2026-11-28T13:48:32.447Z",
   "quellen": [
    "ForexLive",
    "FXStreet",

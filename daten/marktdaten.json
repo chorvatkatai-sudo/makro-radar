@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-28T01:16:53.710Z",
+  "stand": "2026-11-28T13:48:32.166Z",
   "kurse": {
     "DXY": {
       "name": "US-Dollar-Index",
@@ -105,7 +105,7 @@
       "einheit": "$",
       "typ": "rohstoff",
       "wert": 90.84,
-      "tagProzent": 0,
+      "tagProzent": -4.82,
       "wocheProzent": -1.87,
       "renditeDelta": false,
       "verlauf": [
@@ -129,7 +129,7 @@
         89.37,
         91.4,
         94.61,
-        90.84,
+        95.44,
         90.84
       ]
     },
@@ -138,7 +138,7 @@
       "einheit": "$",
       "typ": "rohstoff",
       "wert": 3668.5,
-      "tagProzent": 0,
+      "tagProzent": 0.79,
       "wocheProzent": 4.36,
       "renditeDelta": false,
       "verlauf": [
@@ -162,7 +162,7 @@
         3651.4,
         3561.9,
         3535.8,
-        3668.5,
+        3639.6,
         3668.5
       ]
     },
@@ -269,12 +269,11 @@
       "name": "Bitcoin",
       "einheit": "$",
       "typ": "krypto",
-      "wert": 60035.56,
+      "wert": 58984.63,
       "tagProzent": 0,
-      "wocheProzent": -1.92,
+      "wocheProzent": -1.28,
       "renditeDelta": false,
       "verlauf": [
-        75747.58,
         74584.65,
         75223.15,
         73720.12,
@@ -294,8 +293,9 @@
         59747.77,
         60378.2,
         60494.71,
-        60035.56,
-        60035.56
+        59866.37,
+        58984.63,
+        58984.63
       ]
     },
     "FEDFUT": {
@@ -303,7 +303,7 @@
       "einheit": "%",
       "typ": "rendite",
       "wert": 4.14,
-      "tagProzent": 0,
+      "tagProzent": 0.26,
       "wocheProzent": 0.26,
       "renditeDelta": true,
       "verlauf": [
@@ -327,7 +327,7 @@
         3.88,
         3.88,
         3.88,
-        4.14,
+        3.88,
         4.14
       ],
       "quelle": "CME ZQ=F via Yahoo (impliziter Satz = 100 − Preis)"

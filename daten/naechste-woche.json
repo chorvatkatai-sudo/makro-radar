@@ -244,7 +244,7 @@
     "country": "GBP",
     "title": "BoE Consumer Credit",
     "impact": "Medium",
-    "forecast": "1.9 £",
+    "forecast": "2 £",
     "previous": "1.914 £",
     "actual": null,
     "quelle": "tradingview"
@@ -284,7 +284,7 @@
     "country": "GBP",
     "title": "Mortgage Lending",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "3.6 £",
     "previous": "3.866 £",
     "actual": null,
     "quelle": "tradingview"
@@ -354,7 +354,7 @@
     "country": "USD",
     "title": "Chicago PMI",
     "impact": "Medium",
-    "forecast": "",
+    "forecast": "55",
     "previous": "55.3",
     "actual": null,
     "quelle": "tradingview"
@@ -814,7 +814,7 @@
     "country": "USD",
     "title": "Construction Spending MoM",
     "impact": "Low",
-    "forecast": "0.4%",
+    "forecast": "0.7%",
     "previous": "-1.9%",
     "actual": null,
     "quelle": "tradingview"
@@ -854,7 +854,7 @@
     "country": "USD",
     "title": "ISM Manufacturing PMI",
     "impact": "High",
-    "forecast": "55.1",
+    "forecast": "55",
     "previous": "55.5",
     "actual": null,
     "quelle": "tradingview"
@@ -864,7 +864,7 @@
     "country": "USD",
     "title": "JOLTs Job Openings",
     "impact": "High",
-    "forecast": "7.475",
+    "forecast": "7.5",
     "previous": "7.523",
     "actual": null,
     "quelle": "tradingview"
@@ -1294,7 +1294,7 @@
     "country": "USD",
     "title": "ADP Employment Change",
     "impact": "Medium",
-    "forecast": "82",
+    "forecast": "80",
     "previous": "86",
     "actual": null,
     "quelle": "tradingview"
@@ -1984,7 +1984,7 @@
     "country": "USD",
     "title": "ISM Services PMI",
     "impact": "High",
-    "forecast": "54.5",
+    "forecast": "54.6",
     "previous": "54.5",
     "actual": null,
     "quelle": "tradingview"
@@ -2044,7 +2044,7 @@
     "country": "USD",
     "title": "Factory Orders MoM",
     "impact": "Medium",
-    "forecast": "0.5%",
+    "forecast": "0.4%",
     "previous": "1.8%",
     "actual": null,
     "quelle": "tradingview"
@@ -2135,7 +2135,7 @@
     "title": "Fed Balance Sheet",
     "impact": "Low",
     "forecast": "",
-    "previous": "6.74145 $",
+    "previous": "6.73204 $",
     "actual": null,
     "quelle": "tradingview"
   },
@@ -2184,7 +2184,7 @@
     "country": "EUR",
     "title": "Retail Sales MoM",
     "impact": "Medium",
-    "forecast": "0.5%",
+    "forecast": "0.4%",
     "previous": "-0.7%",
     "actual": null,
     "quelle": "tradingview"
@@ -2244,7 +2244,7 @@
     "country": "USD",
     "title": "Manufacturing Payrolls",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "15",
     "previous": "19",
     "actual": null,
     "quelle": "tradingview"
@@ -2264,7 +2264,7 @@
     "country": "USD",
     "title": "Nonfarm Payrolls Private",
     "impact": "Low",
-    "forecast": "85",
+    "forecast": "86",
     "previous": "159",
     "actual": null,
     "quelle": "tradingview"
@@ -2404,7 +2404,7 @@
     "country": "USD",
     "title": "Michigan Consumer Sentiment Prel",
     "impact": "High",
-    "forecast": "52.9",
+    "forecast": "52.5",
     "previous": "51",
     "actual": null,
     "quelle": "tradingview"

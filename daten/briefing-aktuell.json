@@ -200,20 +200,24 @@
     "Klumpen bewusst aufgelockert: EUR/USD und USD/CAD bewusst neutral (Euro-Squeeze + Zins bzw. Öl lösen sie vom Dollar-Block), AUD/USD als eigene Jobs-Story tief negativ – keine 7-fach identische Dollar-Wette."
   ],
   "tagesnews": {
-    "stand": "2026-11-27",
-    "wochentag": "Freitag",
-    "tenor": "Die Angst der Vorwoche ließ nach, Aktien und Gold erholten sich. Der Dollar steht weiter hoch, kam aber trotz starker US-Zahlen nicht weiter – ihm geht die Puste aus.",
+    "stand": "2026-11-28",
+    "wochentag": "Samstag",
+    "tenor": "Wochenende – die Märkte ruhen. Nächste Woche wird zur Schlüsselwoche: US-Arbeitsmarktbericht am Freitag plus Euro-Inflation und Stimmungsdaten entscheiden, ob dem Dollar die Puste ausgeht.",
     "heute": [
-      "🦃 Black Friday: nach dem Feiertag nur ein halber, dünner Handelstag – keine großen Zahlen mehr, die Woche ist faktisch gelaufen.",
-      "📈 Risikofreude zurück: Technologie-Aktien sprangen kräftig (Nasdaq-Futures ~+2,4%), auch weil China seine Börse mit Staatskäufen stützte.",
-      "🥇 Gold erholte sich weiter (+4,5% auf der Woche) und prallte von seinem 15-Monats-Tief ab – der sichere Hafen ist zurück im Spiel.",
-      "💵 Der Dollar hält sein 19-Monats-Hoch (~103,7), aber ohne neuen Schwung: Die Dezember-Erhöhung ist eingepreist, die kurzen US-Zinsen fielen."
+      "📅 Samstag: Devisen- und Aktienmärkte sind geschlossen – keine neuen Kurse, keine Zahlen.",
+      "🔭 Blick voraus: Nächste Woche ist eine Monster-Woche mit dem US-Arbeitsmarktbericht am Freitag als Höhepunkt – aber KEIN Zinsentscheid (die US-Notenbank tagt erst am 9.12.).",
+      "📊 Bis dahin bleibt das Bild von Freitag: Dollar hoch, aber ohne frischen Schwung; die Angst der Vorwoche ist weitgehend verflogen."
     ],
     "gestern": [
-      "🦃 Donnerstag war Thanksgiving – die US-Börsen waren komplett geschlossen.",
-      "🔥 Mittwoch die Datenflut: US-Wachstum im Sommer viel stärker als gedacht (+4,3% statt +3,4%), Kern-Inflation heiß bei 3,3% (3-Jahres-Hoch) – die Dezember-Zinserhöhung ist damit so gut wie besiegelt (~95%).",
-      "📉 Nur die US-Industrie-Aufträge enttäuschten (+0,2% statt +0,7%) – ein kleiner Gegenpunkt zum starken Wachstum.",
-      "😟 Zwischendurch (Mittwoch) sprang das Angst-Barometer nochmal kurz auf ~33 hoch, beruhigte sich dann aber wieder Richtung 27."
+      "💵 Wochenfazit: Der Dollar hielt sein 19-Monats-Hoch (~103,7), kam aber TROTZ starker US-Zahlen nicht weiter – das Momentum ist erschöpft, die kurzen US-Zinsen fielen sogar.",
+      "🔥 Die Woche brachte ein US-Wachstum von +4,3% (viel stärker als gedacht) und eine heiße Kern-Inflation von 3,3% – die Dezember-Zinserhöhung ist damit so gut wie sicher (~95%).",
+      "🥇 Gold erholte sich kräftig (+4,5%) und prallte vom 15-Monats-Tief ab, die Angst ließ nach (Angst-Barometer von 31 auf 27), und zum Black Friday kehrte die Risikofreude zurück (Technologie-Aktien sprangen).",
+      "🇦🇺 Klarster Verlierer der Woche war der australische Dollar: Jobmarkt-Schock (Arbeitslosigkeit auf 5-Jahres-Hoch 4,9%) und am stärksten gefallener Zins."
+    ],
+    "ausblick": [
+      "🇩🇪 Dienstag 1.12.: Euro-Inflation (erwartet 4,0%) + US-Industrie-Stimmung (Einkaufsmanager).",
+      "🇺🇸 Donnerstag 3.12.: US-Dienstleistungs-Stimmung (erwartet 54,5).",
+      "🎯 Freitag 4.12.: US-Arbeitsmarktbericht (erwartet +90.000 Stellen, Quote 4,1%) = DAS Ereignis der Woche + kanadischer Arbeitsmarkt."
     ]
   }
 }
